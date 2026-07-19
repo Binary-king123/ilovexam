@@ -130,9 +130,26 @@ function generateSampleQuestions() {
 }
 
 // ── Main ──────────────────────────────────────────────────
-let allQuestions = loadNEET_PG_clinicalQuestions();
-const usingRealData = allQuestions.length > 0;
+// Priority 1: Use pre-processed neet_pg_all_raw.json (contains hint_exp after running generate_hints.js)
+const preProcessedPath = path.join(secureDir, 'neet_pg_all_raw.json');
+let allQuestions = [];
+let usingRealData = false;
 
+if (fs.existsSync(preProcessedPath)) {
+    console.log('✅ Found existing neet_pg_all_raw.json (with hints). Loading...');
+    const raw = fs.readFileSync(preProcessedPath, 'utf8').replace(/^\uFEFF/, '');
+    allQuestions = JSON.parse(raw);
+    usingRealData = allQuestions.length > 0;
+    console.log(`📦 Loaded ${allQuestions.length.toLocaleString()} questions from existing raw file.`);
+}
+
+// Priority 2: Load from neet_pg_data directory
+if (!usingRealData) {
+    allQuestions = loadNEET_PG_clinicalQuestions();
+    usingRealData = allQuestions.length > 0;
+}
+
+// Priority 3: Fall back to sample questions
 if (!usingRealData) {
     allQuestions = generateSampleQuestions();
 }
@@ -144,9 +161,14 @@ console.log(`\n📊 Total questions: ${totalQuestions.toLocaleString()}`);
 console.log(`📁 Total episodes to generate: ${totalEpisodes.toLocaleString()} (50 questions each)\n`);
 
 // Save full raw JSON for reference (server-side only)
+// Skip if we already loaded from this file (to preserve hint_exp)
 const rawPath = path.join(secureDir, 'neet_pg_all_raw.json');
-fs.writeFileSync(rawPath, JSON.stringify(allQuestions, null, 2));
-console.log(`✅ Saved raw question bank (${totalQuestions.toLocaleString()} questions) → neetquestions_secure/neet_pg_all_raw.json`);
+if (!fs.existsSync(preProcessedPath) || !usingRealData) {
+    fs.writeFileSync(rawPath, JSON.stringify(allQuestions, null, 2));
+    console.log(`✅ Saved raw question bank (${totalQuestions.toLocaleString()} questions) → neetquestions_secure/neet_pg_all_raw.json`);
+} else {
+    console.log(`ℹ️  Skipped overwriting raw JSON (loaded from existing file with hints).`);
+}
 
 // Clean old episode files so stale episodes don't linger
 const existingEnc     = fs.readdirSync(outDir).filter(f => f.endsWith('.enc'));
@@ -180,8 +202,9 @@ for (let ep = 1; ep <= totalEpisodes; ep++) {
     const securePayload = {};
     epQ.forEach(q => {
         securePayload[q.id] = {
-            cop: q.cop,   // 1-indexed
-            exp: q.exp
+            cop:      q.cop,      // 1-indexed
+            exp:      q.exp,
+            hint_exp: q.hint_exp || null  // story-style mnemonic hint
         };
     });
     fs.writeFileSync(

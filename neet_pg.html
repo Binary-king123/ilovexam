@@ -28,6 +28,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" crossorigin="anonymous"/>
   <!-- Bootstrap Icons -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" crossorigin="anonymous"/>
+  <script src="favicon-spin.js" defer></script>
 </head>
 <body style="margin:0; padding:0; background:#f4f4ef; font-family:'Inter',sans-serif; overflow-x:hidden;">
 
@@ -247,42 +248,41 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       <span class="badge-pg">NEET PG</span>
     </div>
 
-    <!-- Navigation -->
     <nav class="sidebar-nav">
 
       <div class="sidebar-nav-section">Practice</div>
-      <button class="nav-link active" data-scroll="sec-home">
+      <button class="nav-link active" data-tab="sec-home">
         <i class="bi bi-house-fill"></i> Home
       </button>
-      <button class="nav-link" data-scroll="sec-episodes">
+      <button class="nav-link" data-tab="sec-episodes">
         <i class="bi bi-journal-medical"></i> Mock Tests
       </button>
-      <button class="nav-link" data-scroll="sec-quizzes">
+      <button class="nav-link" data-tab="sec-quizzes">
         <i class="bi bi-patch-question"></i> Micro-Quizzes
       </button>
-      <button class="nav-link" data-scroll="sec-builder">
+      <button class="nav-link" data-tab="sec-builder">
         <i class="bi bi-sliders"></i> Custom Builder
       </button>
 
       <div class="sidebar-nav-section">Discover</div>
-      <button class="nav-link" data-scroll="sec-search">
+      <button class="nav-link" data-tab="sec-search">
         <i class="bi bi-search"></i> Clinical Search
       </button>
-      <button class="nav-link" data-scroll="sec-podcasts">
+      <button class="nav-link" data-tab="sec-podcasts">
         <i class="bi bi-mic"></i> Podcasts
       </button>
-      <button class="nav-link" data-scroll="sec-videos">
+      <button class="nav-link" data-tab="sec-videos">
         <i class="bi bi-play-circle"></i> Video Lectures
       </button>
-      <button class="nav-link" data-scroll="sec-pdfs">
+      <button class="nav-link" data-tab="sec-pdfs">
         <i class="bi bi-file-earmark-pdf"></i> Study PDFs
       </button>
 
       <div class="sidebar-nav-section">Progress</div>
-      <button class="nav-link" data-scroll="sec-analytics">
+      <button class="nav-link" data-tab="sec-analytics">
         <i class="bi bi-graph-up-arrow"></i> Mastery Stats
       </button>
-      <button class="nav-link" data-scroll="sec-mistakes">
+      <button class="nav-link" data-tab="sec-mistakes">
         <i class="bi bi-bookmark-x"></i> Mistake Book
       </button>
     </nav>
@@ -330,6 +330,14 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
           <div class="stat-val" id="streakHeroVal">0</div>
           <div class="stat-lbl">Streak</div>
         </div>
+        <div class="stat-pill">
+          <div class="stat-val" id="statCompletedHero">—</div>
+          <div class="stat-lbl">Completed</div>
+        </div>
+        <div class="stat-pill">
+          <div class="stat-val" id="statTotalQsHero">—</div>
+          <div class="stat-lbl">Total Qs</div>
+        </div>
       </div>
     </div>
 
@@ -353,19 +361,19 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
 
     
     <div class="quick-actions">
-      <button class="qa-btn q-red" id="qaStartMockBtn" onclick="document.getElementById('sec-episodes').scrollIntoView({behavior:'smooth'});">
+      <button class="qa-btn q-red" id="qaStartMockBtn" onclick="showTab('sec-episodes')">
         <div class="qa-icon"><i class="bi bi-journal-medical"></i></div>
         <div class="qa-label">Start Mock Test</div>
       </button>
-      <button class="qa-btn q-amber" onclick="document.getElementById('sec-quizzes').scrollIntoView({behavior:'smooth'});">
+      <button class="qa-btn q-amber" onclick="showTab('sec-quizzes')">
         <div class="qa-icon"><i class="bi bi-lightning-charge-fill"></i></div>
         <div class="qa-label">Quick Quiz</div>
       </button>
-      <button class="qa-btn q-blue" onclick="document.getElementById('sec-search').scrollIntoView({behavior:'smooth'});">
+      <button class="qa-btn q-blue" onclick="showTab('sec-search')">
         <div class="qa-icon"><i class="bi bi-search"></i></div>
         <div class="qa-label">Clinical Search</div>
       </button>
-      <button class="qa-btn q-green" onclick="document.getElementById('sec-analytics').scrollIntoView({behavior:'smooth'});">
+      <button class="qa-btn q-green" onclick="showTab('sec-analytics')">
         <div class="qa-icon"><i class="bi bi-bar-chart-fill"></i></div>
         <div class="qa-label">My Progress</div>
       </button>
@@ -745,19 +753,19 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
 
 
 <nav class="mobile-bottom-nav">
-  <button class="mb-nav-btn active" id="mb-nav-home" onclick="window.scrollTo({top:0,behavior:'smooth'})">
+  <button class="mb-nav-btn active" id="mb-nav-home" onclick="showTab('sec-home')">
     <i class="bi bi-house-door-fill"></i>Home
   </button>
-  <button class="mb-nav-btn" id="mb-nav-episodes" onclick="document.getElementById('sec-episodes').scrollIntoView({behavior:'smooth'})">
+  <button class="mb-nav-btn" id="mb-nav-episodes" onclick="showTab('sec-episodes')">
     <i class="bi bi-journal-medical"></i>Practice
   </button>
-  <button class="mb-nav-btn" id="mb-nav-search" onclick="document.getElementById('sec-search').scrollIntoView({behavior:'smooth'})">
+  <button class="mb-nav-btn" id="mb-nav-search" onclick="showTab('sec-search')">
     <i class="bi bi-search"></i>Search
   </button>
-  <button class="mb-nav-btn" id="mb-nav-analytics" onclick="document.getElementById('sec-analytics').scrollIntoView({behavior:'smooth'})">
+  <button class="mb-nav-btn" id="mb-nav-analytics" onclick="showTab('sec-analytics')">
     <i class="bi bi-bar-chart-line-fill"></i>Stats
   </button>
-  <button class="mb-nav-btn" id="mb-nav-podcasts" onclick="document.getElementById('sec-podcasts').scrollIntoView({behavior:'smooth'})">
+  <button class="mb-nav-btn" id="mb-nav-podcasts" onclick="showTab('sec-podcasts')">
     <i class="bi bi-mic-fill"></i>Listen
   </button>
 </nav>
@@ -1629,6 +1637,21 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       }
     }
 
+    async function loadQBankProgress() {
+      try {
+        const res = await fetch('/api/qbank/progress');
+        if (!res.ok) return;
+        const data = await res.json();
+        const completed = data.completedQuestions || 0;
+        const total     = data.totalQuestions     || 0;
+        const correct   = data.correctAnswers     || 0;
+        const el1 = document.getElementById('statCompletedHero');
+        const el2 = document.getElementById('statTotalQsHero');
+        if (el1) el1.textContent = completed.toLocaleString();
+        if (el2) el2.textContent = total.toLocaleString();
+      } catch (e) { console.error('Progress load error:', e); }
+    }
+
     function applyTier(pro) {
       // Nav badges
       const badge = document.getElementById('navTierBadge');
@@ -1638,7 +1661,7 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       const pulse  = document.getElementById('userBarPulse');
       const status = document.getElementById('userBarStatus');
       pulse.className  = 'pulse-pro';
-      status.textContent = 'Free Practice Mode  All features unlocked';
+      status.textContent = 'Free Practice Mode — All features unlocked';
 
       // Banners (Always hidden in free focus)
       document.getElementById('proBanner').style.display   = 'none';
@@ -1654,51 +1677,66 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       loadPDFs();
       loadMistakeBook();
       loadStudyStreak();
+      loadQBankProgress();
     }
 
-    //  Sidebar Scroll-Nav 
-    document.querySelectorAll('.nav-link[data-scroll]').forEach(btn => {
-      btn.addEventListener('click', () => {
-        document.querySelectorAll('.nav-link').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        const target = document.getElementById(btn.dataset.scroll);
-        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      });
-    });
+    // ── INSTAGRAM-STYLE TAB ROUTER ─────────────────────────────
+    const ALL_TABS = ['sec-episodes','sec-quizzes','sec-builder','sec-search',
+                      'sec-podcasts','sec-videos','sec-pdfs','sec-analytics','sec-mistakes'];
 
-    //  Highlight sidebar link on scroll 
-    const scrollSections = ['sec-home','sec-episodes','sec-quizzes','sec-builder','sec-search','sec-podcasts','sec-videos','sec-pdfs','sec-analytics','sec-mistakes'];
-    const sidebarMap = {};
-    scrollSections.forEach(id => {
-      sidebarMap[id] = document.querySelector(`.nav-link[data-scroll="${id}"]`);
-    });
-    const ioOptions = { threshold: 0.25 };
-    const ioObserver = new IntersectionObserver(entries => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          // Desktop sidebar update
-          document.querySelectorAll('.nav-link').forEach(b => b.classList.remove('active'));
-          const link = sidebarMap[entry.target.id];
-          if (link) link.classList.add('active');
-
-          // Mobile bottom nav update
-          document.querySelectorAll('.mb-nav-btn').forEach(b => b.classList.remove('active'));
-          let activeMobileId = 'mb-nav-home';
-          if (['sec-home'].includes(entry.target.id)) activeMobileId = 'mb-nav-home';
-          else if (['sec-episodes', 'sec-quizzes', 'sec-builder'].includes(entry.target.id)) activeMobileId = 'mb-nav-episodes';
-          else if (['sec-search'].includes(entry.target.id)) activeMobileId = 'mb-nav-search';
-          else if (['sec-analytics', 'sec-mistakes'].includes(entry.target.id)) activeMobileId = 'mb-nav-analytics';
-          else if (['sec-podcasts', 'sec-videos', 'sec-pdfs'].includes(entry.target.id)) activeMobileId = 'mb-nav-podcasts';
-
-          const mBtn = document.getElementById(activeMobileId);
-          if (mBtn) mBtn.classList.add('active');
-        }
-      });
-    }, ioOptions);
-    scrollSections.forEach(id => {
+    // Hide all sections except home on initial load (home is in hero-bar, always visible)
+    ALL_TABS.forEach(id => {
       const el = document.getElementById(id);
-      if (el) ioObserver.observe(el);
+      if (el) el.style.display = 'none';
     });
+
+    function showTab(tabId) {
+      // Hide all tab sections
+      ALL_TABS.forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.style.display = 'none';
+      });
+
+      // Show the requested tab
+      if (tabId !== 'sec-home') {
+        const target = document.getElementById(tabId);
+        if (target) {
+          target.style.display = 'block';
+          // Scroll to top so content appears fresh
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+      } else {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      // Update sidebar active state
+      document.querySelectorAll('.nav-link[data-tab]').forEach(b => {
+        b.classList.toggle('active', b.dataset.tab === tabId);
+      });
+
+      // Update mobile bottom nav active state
+      const mobileMap = {
+        'sec-home':      'mb-nav-home',
+        'sec-episodes':  'mb-nav-episodes',
+        'sec-quizzes':   'mb-nav-episodes',
+        'sec-builder':   'mb-nav-episodes',
+        'sec-search':    'mb-nav-search',
+        'sec-analytics': 'mb-nav-analytics',
+        'sec-mistakes':  'mb-nav-analytics',
+        'sec-podcasts':  'mb-nav-podcasts',
+        'sec-videos':    'mb-nav-podcasts',
+        'sec-pdfs':      'mb-nav-podcasts',
+      };
+      document.querySelectorAll('.mb-nav-btn').forEach(b => b.classList.remove('active'));
+      const mBtn = document.getElementById(mobileMap[tabId] || 'mb-nav-home');
+      if (mBtn) mBtn.classList.add('active');
+    }
+
+    // Wire up sidebar tab buttons
+    document.querySelectorAll('.nav-link[data-tab]').forEach(btn => {
+      btn.addEventListener('click', () => showTab(btn.dataset.tab));
+    });
+
 
     //  Sync hero stat pills from analytics JS 
     function syncHeroStats() {

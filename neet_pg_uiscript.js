@@ -115,6 +115,7 @@ async function loadQuestions() {
             isCorrect: null,
             cop: null,
             exp: null,
+            hint_exp: null,
             locked: false,
             revealed: false,
             bookmarked: !!q.bookmarked
@@ -204,13 +205,14 @@ async function loadQuestions() {
             const bkData = await bkRes.json();
             const bkSet = new Set(bkData.bookmarks || []);
 
-            userAnswers     = questionBank.map(q => ({
+            userAnswers = questionBank.map(q => ({
                 selected: null,
                 marked: false,
                 visited: false,
                 isCorrect: null,
                 cop: null,
                 exp: null,
+                hint_exp: null,
                 locked: false,
                 revealed: false,
                 bookmarked: bkSet.has(q.id)
@@ -322,6 +324,7 @@ async function revealAnswer(optIdx, items, epNum, q, idx) {
     ua.isCorrect  = result.isCorrect;
     ua.cop        = result.cop;
     ua.exp        = result.exp;
+    ua.hint_exp   = result.hint_exp || null;
     ua.locked     = result.locked;
     ua.revealed   = true;
 
@@ -355,6 +358,18 @@ async function revealAnswer(optIdx, items, epNum, q, idx) {
            </div>`
         : `<div class="border border-dark p-3 bg-light font-monospace" style="box-shadow:4px 4px 0 #000; font-size:0.9rem; line-height:1.6;">${result.exp || 'No explanation available.'}</div>`;
 
+    const hintHtml = result.hint_exp
+        ? `<div style="margin-top:12px;">
+              <button onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'; this.innerHTML=this.innerHTML.includes('Show')?'&#x1F4A1; Hide Story Hint':'&#x1F4A1; Show Story Hint';"
+                style="font-family:monospace;font-size:0.75rem;font-weight:800;text-transform:uppercase;letter-spacing:1px;padding:8px 16px;background:#fffbeb;color:#000;border:2px solid #f59e0b;box-shadow:3px 3px 0 #f59e0b;cursor:pointer;transition:all 0.1s;">
+                &#x1F4A1; Show Story Hint
+              </button>
+              <div style="display:none;margin-top:10px;padding:16px;background:linear-gradient(135deg,#fffbeb,#fff9c4);border:2px solid #f59e0b;box-shadow:4px 4px 0 #f59e0b;font-family:monospace;font-size:0.85rem;line-height:1.7;color:#333;">
+                ${result.hint_exp}
+              </div>
+           </div>`
+        : '';
+
     feedbackEl.innerHTML = `
         <div class="border border-3 border-dark p-3 bg-white font-monospace mb-3"
              style="box-shadow:6px 6px 0 #000;">
@@ -369,6 +384,7 @@ async function revealAnswer(optIdx, items, epNum, q, idx) {
                 Explanation:
             </div>
             ${expHtml}
+            ${hintHtml}
         </div>
     `;
     feedbackEl.style.display = 'block';
@@ -470,6 +486,18 @@ function renderQuestion(index) {
                </div>`
             : `<div class="border border-dark p-3 bg-light font-monospace" style="box-shadow:4px 4px 0 #000; font-size:0.9rem; line-height:1.6;">${ua.exp || 'No explanation available.'}</div>`;
 
+        const hintHtml = ua.hint_exp
+            ? `<div style="margin-top:12px;">
+                  <button onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'; this.innerHTML=this.innerHTML.includes('Show')?'&#x1F4A1; Hide Story Hint':'&#x1F4A1; Show Story Hint';"
+                    style="font-family:monospace;font-size:0.75rem;font-weight:800;text-transform:uppercase;letter-spacing:1px;padding:8px 16px;background:#fffbeb;color:#000;border:2px solid #f59e0b;box-shadow:3px 3px 0 #f59e0b;cursor:pointer;transition:all 0.1s;">
+                    &#x1F4A1; Show Story Hint
+                  </button>
+                  <div style="display:none;margin-top:10px;padding:16px;background:linear-gradient(135deg,#fffbeb,#fff9c4);border:2px solid #f59e0b;box-shadow:4px 4px 0 #f59e0b;font-family:monospace;font-size:0.85rem;line-height:1.7;color:#333;">
+                    ${ua.hint_exp}
+                  </div>
+               </div>`
+            : '';
+
         feedbackEl.innerHTML = `
             <div class="border border-3 border-dark p-3 bg-white font-monospace mb-3" style="box-shadow:6px 6px 0 #000;">
                 <div class="d-flex justify-content-between align-items-center mb-2">
@@ -479,6 +507,7 @@ function renderQuestion(index) {
                 <div class="mb-2" style="font-size:0.9rem;">Correct Answer: <strong class="text-success">${alphabet[correctIdx]}. ${correctText}</strong></div>
                 <div class="mb-3 text-uppercase fw-bold" style="font-size:0.78rem; letter-spacing:1px; color:#555;">Explanation:</div>
                 ${expHtml}
+                ${hintHtml}
             </div>
         `;
         feedbackEl.style.display = 'block';

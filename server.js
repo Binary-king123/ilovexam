@@ -1,4 +1,4 @@
-﻿const express = require('express');
+const express = require('express');
 const cookieParser = require('cookie-parser');
 const dotenv = require('dotenv');
 const crypto = require('crypto');
@@ -1002,10 +1002,36 @@ app.post('/api/content/verify', (req, res) => {
 
     return res.json({
         isCorrect,
-        cop:    qAnswer.cop,
-        exp:    qAnswer.exp,
-        locked: false
+        cop:      qAnswer.cop,
+        exp:      qAnswer.exp,
+        hint_exp: qAnswer.hint_exp || null,
+        locked:   false
     });
+});
+
+// ─── QBANK PROGRESS — total questions & how many user has completed ─────────
+app.get('/api/qbank/progress', (req, res) => {
+    const user = getSessionUser(req);
+    if (!user) return res.status(401).json({ error: 'Not logged in.' });
+
+    try {
+        const totalRow     = db.prepare('SELECT COUNT(*) as cnt FROM questions').get();
+        const completedRow = db.prepare(
+            'SELECT COUNT(DISTINCT question_id) as cnt FROM user_answers WHERE user_id = ? AND selected IS NOT NULL'
+        ).get(user.id);
+        const correctRow   = db.prepare(
+            'SELECT COUNT(*) as cnt FROM user_answers WHERE user_id = ? AND is_correct = 1'
+        ).get(user.id);
+
+        return res.json({
+            totalQuestions:     totalRow.cnt     || 0,
+            completedQuestions: completedRow.cnt || 0,
+            correctAnswers:     correctRow.cnt   || 0,
+        });
+    } catch (e) {
+        console.error('Progress error:', e);
+        return res.status(500).json({ error: 'Could not load progress.' });
+    }
 });
 
 // ─── DEV RESET ────────────────────────────────────────────────────────────────

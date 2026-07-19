@@ -4,8 +4,10 @@
   "description": "Secure NEET PG Exam Mock Platform with login, session management, Razorpay & AES decryption.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "encrypt": "node scripts/encrypt_questions.js"
+    "start":         "node server.js",
+    "encrypt":       "node scripts/encrypt_questions.js",
+    "hints":         "node scripts/generate_hints.js",
+    "hints-encrypt": "node scripts/generate_hints.js && node scripts/encrypt_questions.js"
   },
   "dependencies": {
     "better-sqlite3": "^9.6.0",
