@@ -1,4 +1,4 @@
-﻿/**
+/**
  * iLoveExams — NEET PG Question Encryptor
  * ==========================================
  * Supports the full NEET PG clinical dataset (180,000+ questions).
@@ -44,7 +44,7 @@ const dataDir    = path.join(__dirname, '../neet_pg_data');
 [rawDir, outDir, secureDir, dataDir].forEach(d => { if (!fs.existsSync(d)) fs.mkdirSync(d, { recursive: true }); });
 
 // ── Load NEET PG clinical dataset if available ─────────────────────
-function loadNEET PG clinicalQuestions() {
+function loadNEET_PG_clinicalQuestions() {
     const candidates = ['train.json', 'dev.json', 'validation.json', 'test.json', 'train.jsonl', 'dev.jsonl', 'data.json', 'neet_pg.json'];
     let allQuestions = [];
 
@@ -130,7 +130,7 @@ function generateSampleQuestions() {
 }
 
 // ── Main ──────────────────────────────────────────────────
-let allQuestions = loadNEET PG clinicalQuestions();
+let allQuestions = loadNEET_PG_clinicalQuestions();
 const usingRealData = allQuestions.length > 0;
 
 if (!usingRealData) {
