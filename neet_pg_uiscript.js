@@ -229,6 +229,7 @@ function requestFullscreen() {
     const el = document.documentElement;
     if (el.requestFullscreen)            el.requestFullscreen();
     else if (el.webkitRequestFullscreen) el.webkitRequestFullscreen();
+    else if (el.msRequestFullscreen)     el.msRequestFullscreen();
 }
 
 // ──────────────────────────────────────────────────────
@@ -239,8 +240,14 @@ async function initExam() {
     document.getElementById('cname').innerText               = candidateName.toUpperCase();
     document.getElementById('headerCandidateName').textContent = candidateName;
 
+    // Call requestFullscreen synchronously within user gesture stack to prevent browser block
+    requestFullscreen();
+
     const success = await loadQuestions();
-    if (!success) return;
+    if (!success) {
+        if (document.exitFullscreen) document.exitFullscreen().catch(() => {});
+        return;
+    }
 
     document.getElementById('startBtnContainer').style.display = 'none';
     document.getElementById('testContainer').style.display     = 'block';
@@ -249,7 +256,6 @@ async function initExam() {
         document.getElementById('mobileNav').style.display = 'flex';
     }
 
-    requestFullscreen();
     examActive = true;
 
     // Check if resuming from where user left off
