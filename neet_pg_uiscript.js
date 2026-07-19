@@ -200,23 +200,26 @@ async function loadQuestions() {
             const payload   = JSON.parse(decryptedText);
             questionBank    = payload.questions.map(q => ({ id: q.id, questionText: q.question, options: [q.opa, q.opb, q.opc, q.opd] }));
 
-            // Fetch bookmarks to set initial state
-            const bkRes = await fetch('/api/qbank/bookmarks');
-            const bkData = await bkRes.json();
-            const bkSet = new Set(bkData.bookmarks || []);
+            // Fetch all previous attempts and bookmarks for resuming
+            const attRes = await fetch('/api/qbank/attempts');
+            const attData = await attRes.json();
+            const attempts = attData.attempts || {};
 
-            userAnswers = questionBank.map(q => ({
-                selected: null,
-                marked: false,
-                visited: false,
-                isCorrect: null,
-                cop: null,
-                exp: null,
-                hint_exp: null,
-                locked: false,
-                revealed: false,
-                bookmarked: bkSet.has(q.id)
-            }));
+            userAnswers = questionBank.map(q => {
+                const att = attempts[q.id];
+                return {
+                    selected: att ? att.selected : null,
+                    marked: false,
+                    visited: att ? true : false,
+                    isCorrect: att ? att.isCorrect : null,
+                    cop: null,
+                    exp: null,
+                    hint_exp: null,
+                    locked: false,
+                    revealed: att && att.selected !== null,
+                    bookmarked: att ? att.bookmarked : false
+                };
+            });
             return true;
         } catch (e) {
             console.error(e); alert('⚠️ Connection error.'); window.location.href = 'neet_pg.html'; return false;
@@ -471,6 +474,33 @@ function renderQuestion(index) {
     // Restore or hide feedback panel
     const feedbackEl = document.getElementById('instantFeedback');
     if (ua.revealed) {
+        if (ua.cop === null) {
+            // Fetch explanation in the background
+            feedbackEl.innerHTML = '<div class="font-monospace text-secondary p-3">Retrieving explanation...</div>';
+            feedbackEl.style.display = 'block';
+            fetch('/api/content/verify', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ episodeId: epNum, questionId: q.id, selectedOption: ua.selected })
+            })
+            .then(res => res.json())
+            .then(result => {
+                ua.cop = result.cop;
+                ua.exp = result.exp;
+                ua.hint_exp = result.hint_exp;
+                ua.locked = result.locked;
+                // Re-render if the user is still on this question
+                if (currentIndex === index) {
+                    renderQuestion(currentIndex);
+                }
+            })
+            .catch(err => {
+                console.error(err);
+                feedbackEl.innerHTML = '<div class="text-danger p-3">Connection error. Could not load explanation.</div>';
+            });
+            return;
+        }
+
         // Rebuild feedback without async
         const correctIdx = parseInt(ua.cop) - 1;
         const correctText = q.options[correctIdx] || '';

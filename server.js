@@ -44,7 +44,8 @@ db.exec(`
     cop         INTEGER NOT NULL,
     exp         TEXT,
     subject     TEXT,
-    topic       TEXT
+    topic       TEXT,
+    hint_exp    TEXT
   );
 
   CREATE TABLE IF NOT EXISTS user_answers (
@@ -87,22 +88,30 @@ db.exec(`
   );
 `);
 
+// Migration: Ensure hint_exp column exists in SQLite schema
+try {
+    db.prepare('ALTER TABLE questions ADD COLUMN hint_exp TEXT').run();
+    console.log('✔ Added hint_exp column to questions table.');
+} catch (e) {
+    // Ignore: column already exists
+}
+
 console.log('✔ SQLite database ready.');
 
 // Startup Seeder for High-Yield NEET PG Questions
 (() => {
     try {
         const qCountRow = db.prepare('SELECT COUNT(*) as count FROM questions').get();
+        const rawPath = path.join(__dirname, 'neetquestions_secure', 'neet_pg_all_raw.json');
         if (qCountRow && qCountRow.count === 0) {
-            const rawPath = path.join(__dirname, 'neetquestions_secure', 'neet_pg_all_raw.json');
             if (fs.existsSync(rawPath)) {
                 console.log('⏳ Importing 190,000+ clinical PG questions into SQLite...');
                 const start = Date.now();
                 const rawData = JSON.parse(fs.readFileSync(rawPath, 'utf8'));
                 
                 const insert = db.prepare(`
-                    INSERT INTO questions (id, question, opa, opb, opc, opd, cop, exp, subject, topic)
-                    VALUES (@id, @question, @opa, @opb, @opc, @opd, @cop, @exp, @subject, @topic)
+                    INSERT INTO questions (id, question, opa, opb, opc, opd, cop, exp, subject, topic, hint_exp)
+                    VALUES (@id, @question, @opa, @opb, @opc, @opd, @cop, @exp, @subject, @topic, @hint_exp)
                 `);
 
                 const insertMany = db.transaction((qs) => {
@@ -117,7 +126,8 @@ console.log('✔ SQLite database ready.');
                             cop: parseInt(q.cop) || 0,
                             exp: q.exp || '',
                             subject: q.subject || 'General Medicine',
-                            topic: q.topic || 'General'
+                            topic: q.topic || 'General',
+                            hint_exp: q.hint_exp || null
                         });
                     }
                 });
@@ -129,6 +139,23 @@ console.log('✔ SQLite database ready.');
             }
         } else {
             console.log(`✔ Questions database already populated (${qCountRow.count.toLocaleString()} questions).`);
+            // Check if we need to sync hint_exp to existing rows
+            const nullHintsRow = db.prepare("SELECT COUNT(*) as count FROM questions WHERE hint_exp IS NULL OR hint_exp = ''").get();
+            if (nullHintsRow && nullHintsRow.count > 0 && fs.existsSync(rawPath)) {
+                console.log(`⏳ Syncing ${nullHintsRow.count.toLocaleString()} mnemonic hints into SQLite database...`);
+                const start = Date.now();
+                const rawData = JSON.parse(fs.readFileSync(rawPath, 'utf8'));
+                const update = db.prepare(`UPDATE questions SET hint_exp = ? WHERE id = ?`);
+                const updateMany = db.transaction((qs) => {
+                    for (const q of qs) {
+                        if (q.hint_exp) {
+                            update.run(q.hint_exp, q.id);
+                        }
+                    }
+                });
+                updateMany(rawData);
+                console.log(`✅ Synced hints in ${((Date.now() - start) / 1000).toFixed(1)}s.`);
+            }
         }
     } catch (e) {
         console.error('❌ Error seeding questions database:', e);
@@ -606,6 +633,28 @@ app.get('/api/qbank/bookmarks', (req, res) => {
     } catch (e) {
         console.error(e);
         return res.status(500).json({ error: 'Failed to retrieve bookmarks.' });
+    }
+});
+
+// ─── QBANK: Get All User Attempts (For Resuming Progress) ────────────────────
+app.get('/api/qbank/attempts', (req, res) => {
+    const user = getSessionUser(req);
+    if (!user) return res.status(401).json({ error: 'Please log in first.' });
+
+    try {
+        const rows = db.prepare('SELECT question_id, selected, is_correct, bookmarked FROM user_answers WHERE user_id = ?').all(user.id);
+        const attempts = {};
+        rows.forEach(r => {
+            attempts[r.question_id] = {
+                selected: r.selected,
+                isCorrect: !!r.is_correct,
+                bookmarked: !!r.bookmarked
+            };
+        });
+        return res.json({ attempts });
+    } catch (e) {
+        console.error(e);
+        return res.status(500).json({ error: 'Failed to retrieve attempts.' });
     }
 });
 
