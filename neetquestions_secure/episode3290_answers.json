@@ -1,202 +1,252 @@
 {
   "efba9a63-82de-4740-82bd-39bf147b6182": {
-    "cop": 4,
-    "exp": "Influenza is an acute respiratory tract infection characterised by sudden onset of chills,malaise,fever,muscular pain anx cough. Influenza A strains are pandemic.Incubation period 18 to 72 hours Major reservoirs exists in animals and birds Reference; Park&;s Textbook of preventive and social medicine, 24th edition.Pg no. 163,164"
+    "cop": 3,
+    "exp": "Influenza is an acute respiratory tract infection characterised by sudden onset of chills,malaise,fever,muscular pain anx cough. Influenza A strains are pandemic.Incubation period 18 to 72 hours Major reservoirs exists in animals and birds Reference; Park&;s Textbook of preventive and social medicine, 24th edition.Pg no. 163,164",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"True about epidemology influenza\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "75533db5-cfb0-439c-92cb-52e6bbe7cda4": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"most common type Tracheo\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2f320c43-b645-48f9-97bc-e4d962d12842": {
-    "cop": 3,
-    "exp": "Kayser- Fleischer ring. It is a golden brown ring which occurs due to deposition of copper under peripheral pas of the descemet's membrane of the cornea. Ref: Parson's 22 nd edition , page no.396"
+    "cop": 2,
+    "exp": "Kayser- Fleischer ring. It is a golden brown ring which occurs due to deposition of copper under peripheral pas of the descemet's membrane of the cornea. Ref: Parson's 22 nd edition , page no.396",
+    "hint_exp": "🎯 Think of \"cornea\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b5874bf1-e692-47d3-bd0e-e65a57e0c9e5": {
-    "cop": 4,
-    "exp": "Epithelial Herpes simplex Virus keratitis - Symptoms Redness Pain Photophobia Tearing Decreased vision Signs Three distinct patterns of epithelial keratitis seen are : punctate Epithelial keratitis dendritic ulcer geographical ulcer Ref;A.K.Khurana; 6th edition; Page no:108 REF IMG"
+    "cop": 3,
+    "exp": "Epithelial Herpes simplex Virus keratitis - Symptoms Redness Pain Photophobia Tearing Decreased vision Signs Three distinct patterns of epithelial keratitis seen are : punctate Epithelial keratitis dendritic ulcer geographical ulcer Ref;A.K.Khurana; 6th edition; Page no:108 REF IMG",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"produced by\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bcc3fa85-6a37-4d71-87d5-7b09f10540b5": {
-    "cop": 4,
-    "exp": "A i.e. Lung cancer; B i.e. AML; C i.e. Cervical cancer Intensity modulated (IM) is most suitable for prostate cancersQ (b/o reduced rectal toxicity) gynaecological cancer eg endometrial cancer (d/t reduced gastrointestinal > genitourinary and bone marrow toxicity) large lung tumors close to esophagus (but issues regarding lung motion, dose calculation accuracy need to be addressed and clinical data is sparse). - Reducing rectal toxicity is major dose limiting factor in therapy of prostate cancer, may allow dose escalation and a potential for improved cure rates. Paial sparing of rectal wall seems to be a the major advantage of IM, which allow higher than standard doses to be delivered to the prostate. So IM with daily image guidance has become routine to treat definitive prostate cancer. Radiation induced cancers include thyroid carcinoma, breast carcinoma and sarcomasQ (osteogenic sarcoma> fibrosarcoma> chondrosarcoma> malignant fibrous histiocytoma)- Wolfgang Secondary malignant tumors after total body irradiation (TBI) include acute myelogenous leukemia (AML)Q, myelodysplastic disease (MDS), post hematopoietic stem cell transplant lymplwproliferative disorder (PTLD), and solid tumors such as oral cavity, pharyngeal, liver, central nervous system, thyroid, bone and soft tissue cancers and melanomas. - Risk of radiation induced second malignancy is higher in ceain patients including children and young adults, those with known genetic predisposition to cancer (eg Li-Fraumeni, Lynch, Cowden and Gardner's syndrome), immuno compromized individuals and those with known exposure to other carcinogen (eg chemotherapy tobacco, alcohol etc). Use of highly conformal, intensity modulated radiation therapy designed specifically to deliver lower doses to normal tissues immediately surrounding the tumor, but at the expense of direct, leaked or scattered dose to larger volumes of body (ie large volumes and low doses) tend to be those most associated with radiation carcinogenesis. - Hodgkin's lymphoma surviors have risk of breast and lung cancercervical carcinoma surviors have risk of leukemia and sarcomaQ, and long term surviors of childhood retinoblastoma have risk of sarcomas as second malignancy. Exposure to ionizing radiation () may cause meningiomas, gliomasQand schwannomasQ and immunosuppression is a risk factor for primary CNS lymphoma (Harrison 3383). There is increased risk of secondary neoplasia in any organQ (eg bone, soft tissues, brain thyroid, salivary glands, eyes, hea, lung, kidney, liver, intestine, gonads etc), depending on the irradiation field after radiation therapy (Harrison 839 table)."
+    "cop": 3,
+    "exp": "A i.e. Lung cancer; B i.e. AML; C i.e. Cervical cancer Intensity modulated (IM) is most suitable for prostate cancersQ (b/o reduced rectal toxicity) gynaecological cancer eg endometrial cancer (d/t reduced gastrointestinal > genitourinary and bone marrow toxicity) large lung tumors close to esophagus (but issues regarding lung motion, dose calculation accuracy need to be addressed and clinical data is sparse). - Reducing rectal toxicity is major dose limiting factor in therapy of prostate cancer, may allow dose escalation and a potential for improved cure rates. Paial sparing of rectal wall seems to be a the major advantage of IM, which allow higher than standard doses to be delivered to the prostate. So IM with daily image guidance has become routine to treat definitive prostate cancer. Radiation induced cancers include thyroid carcinoma, breast carcinoma and sarcomasQ (osteogenic sarcoma> fibrosarcoma> chondrosarcoma> malignant fibrous histiocytoma)- Wolfgang Secondary malignant tumors after total body irradiation (TBI) include acute myelogenous leukemia (AML)Q, myelodysplastic disease (MDS), post hematopoietic stem cell transplant lymplwproliferative disorder (PTLD), and solid tumors such as oral cavity, pharyngeal, liver, central nervous system, thyroid, bone and soft tissue cancers and melanomas. - Risk of radiation induced second malignancy is higher in ceain patients including children and young adults, those with known genetic predisposition to cancer (eg Li-Fraumeni, Lynch, Cowden and Gardner's syndrome), immuno compromized individuals and those with known exposure to other carcinogen (eg chemotherapy tobacco, alcohol etc). Use of highly conformal, intensity modulated radiation therapy designed specifically to deliver lower doses to normal tissues immediately surrounding the tumor, but at the expense of direct, leaked or scattered dose to larger volumes of body (ie large volumes and low doses) tend to be those most associated with radiation carcinogenesis. - Hodgkin's lymphoma surviors have risk of breast and lung cancercervical carcinoma surviors have risk of leukemia and sarcomaQ, and long term surviors of childhood retinoblastoma have risk of sarcomas as second malignancy. Exposure to ionizing radiation () may cause meningiomas, gliomasQand schwannomasQ and immunosuppression is a risk factor for primary CNS lymphoma (Harrison 3383). There is increased risk of secondary neoplasia in any organQ (eg bone, soft tissues, brain thyroid, salivary glands, eyes, hea, lung, kidney, liver, intestine, gonads etc), depending on the irradiation field after radiation therapy (Harrison 839 table).",
+    "hint_exp": "🧩 Your crush solved \"dose radiation cause\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e0431f1e-d1df-41d1-bbec-499620c71492": {
-    "cop": 4,
-    "exp": "A pedunculated tumor attached to the inside of the hea. If situated close to a valve, it may cause blockage of the valve intermittently. Robbins 8 th edition page no. 384"
+    "cop": 3,
+    "exp": "A pedunculated tumor attached to the inside of the hea. If situated close to a valve, it may cause blockage of the valve intermittently. Robbins 8 th edition page no. 384",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"What does cardiac polyp\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a590a955-f0b4-451b-96a9-1224fb888e97": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"cementum\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e884da62-e483-4fe0-b462-3af8c6ca4cbf": {
-    "cop": 1,
-    "exp": "10% malignant ( Harrison 17 pg 2269)"
+    "cop": 0,
+    "exp": "10% malignant ( Harrison 17 pg 2269)",
+    "hint_exp": "🎯 Think of \"true about pheochromocy except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a6465b7f-1270-4769-bafb-afdf56fdc28f": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Dilatation of posterior urethra Micturating cystourethrogram findings i) Dilation of prostatic urethra ii) Transverse linear filling defect corresponding to the valves."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Dilatation of posterior urethra Micturating cystourethrogram findings i) Dilation of prostatic urethra ii) Transverse linear filling defect corresponding to the valves.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Posterior urethral valve diagnosed\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3d9a8761-0f96-44ed-9726-65a375f9f514": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Hashimoto's Thyroiditis"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Hashimoto's Thyroiditis",
+    "hint_exp": "🧩 Your crush solved \"Huhle cells seen\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ee96ef60-ddfe-4199-82c4-8ca3cd052845": {
-    "cop": 4,
-    "exp": "In acute bacterial meningitis, age is an impoant factor relating the etiologic agent and the prognosis. Among adults (greater than 15 years), Streptococcus pneumoniae is responsible for 30-50% of meningitis infections, rather than Neisseria meningitidis, which is responsible for 10-35% of them. Among children (one month to five years), Haemophilus influenzae is the most common cause of bacterial meningitis (40-60%), followed by Neisseria meningitidis (25-40%) and Streptococcus pneumoniae (10-20%). Among neonates (less than one month), meningitis caused by gram-negative bacilli (50-60%) is the most common bacterial cause, followed by Streptococcus group A and group B (20-40%), and Listeria monocytogenes (2-10%). The fatality rate is high among the elderly due to S. pneumoniae; therefore, they should be given pneumococcal vaccine as a preventative. Ref: Ray C.G., Ryan K.J. (2010). Chapter 30. Neisseria. In C.G. Ray, K.J. Ryan (Eds),Sherris Medical Microbiology, 5e."
+    "cop": 3,
+    "exp": "In acute bacterial meningitis, age is an impoant factor relating the etiologic agent and the prognosis. Among adults (greater than 15 years), Streptococcus pneumoniae is responsible for 30-50% of meningitis infections, rather than Neisseria meningitidis, which is responsible for 10-35% of them. Among children (one month to five years), Haemophilus influenzae is the most common cause of bacterial meningitis (40-60%), followed by Neisseria meningitidis (25-40%) and Streptococcus pneumoniae (10-20%). Among neonates (less than one month), meningitis caused by gram-negative bacilli (50-60%) is the most common bacterial cause, followed by Streptococcus group A and group B (20-40%), and Listeria monocytogenes (2-10%). The fatality rate is high among the elderly due to S. pneumoniae; therefore, they should be given pneumococcal vaccine as a preventative. Ref: Ray C.G., Ryan K.J. (2010). Chapter 30. Neisseria. In C.G. Ray, K.J. Ryan (Eds),Sherris Medical Microbiology, 5e.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"major microbes that may\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4f8d00d4-b74c-46e2-8b2a-052fe33e5d93": {
-    "cop": 1,
-    "exp": "Ans. A: Acute retrobulbar neuritis Conditions which produce visual loss with a normal fundus: Amblyopia Coical blindness Retrobulbar neuritis Cone-rod dystrophy Chiasmal tumour"
+    "cop": 0,
+    "exp": "Ans. A: Acute retrobulbar neuritis Conditions which produce visual loss with a normal fundus: Amblyopia Coical blindness Retrobulbar neuritis Cone-rod dystrophy Chiasmal tumour",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3717b438-d5aa-4373-a525-cc527c9b353b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"hygroscopic technique associated with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d943a48c-bd4a-4909-a775-e499b890c21d": {
-    "cop": 1,
-    "exp": "Most cases of endometrial hyperplasia result from high levels of estrogens, combined with insufficient levels of the progesterone-like hormones. This may occur in conditions including obesity, polycystic ovary syndrome, estrogen producing tumours (e.g. granulosa cell tumour) and ceain formulations of estrogen replacement therapy. Endometrial hyperplasia is a significant risk factor for the development or even co-existence of endometrial cancer. Hyper estrogenic state is associated with marked endothelial hyperplasia which regress with progestins."
+    "cop": 0,
+    "exp": "Most cases of endometrial hyperplasia result from high levels of estrogens, combined with insufficient levels of the progesterone-like hormones. This may occur in conditions including obesity, polycystic ovary syndrome, estrogen producing tumours (e.g. granulosa cell tumour) and ceain formulations of estrogen replacement therapy. Endometrial hyperplasia is a significant risk factor for the development or even co-existence of endometrial cancer. Hyper estrogenic state is associated with marked endothelial hyperplasia which regress with progestins.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following factors\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0ad9b396-1dc1-4764-9ea0-6de93cbe59ba": {
-    "cop": 1,
-    "exp": "Ans. 7 amino acids"
+    "cop": 0,
+    "exp": "Ans. 7 amino acids",
+    "hint_exp": "🧩 Your crush solved \"With respect dating bone\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3620a849-5dbc-4c66-94f9-d39eb3071687": {
-    "cop": 4,
-    "exp": "Vitamin B12 absorption is best in the distal ileum. Receptors for the intrinsic factor are present in the distal ileum, but mass action absorption also occurs with large doses. However, the oral route is still felt to be unreliable if hematologic or neurologic effects are present. The Schilling test, with and without intrinsic factor, can help diagnose the exact cause of B12 deficiency."
+    "cop": 3,
+    "exp": "Vitamin B12 absorption is best in the distal ileum. Receptors for the intrinsic factor are present in the distal ileum, but mass action absorption also occurs with large doses. However, the oral route is still felt to be unreliable if hematologic or neurologic effects are present. The Schilling test, with and without intrinsic factor, can help diagnose the exact cause of B12 deficiency.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"physical examination\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3e104e5b-662b-46ed-834d-3aa74f68204e": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f70384a7-510c-4589-a9d2-2eb5eeff2637": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., All of the above Antiretroviral agents in pregnancy Recommended Alternative NIs o Zidovudin o Diadanosine o Lamivudine o Emtricitabine o Stavudine o Abacavir NNIs o Nepirapine Pis o Nelfinavir o Indinavir o Squinavir o Lopinavir/ritonavir"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., All of the above Antiretroviral agents in pregnancy Recommended Alternative NIs o Zidovudin o Diadanosine o Lamivudine o Emtricitabine o Stavudine o Abacavir NNIs o Nepirapine Pis o Nelfinavir o Indinavir o Squinavir o Lopinavir/ritonavir",
+    "hint_exp": "🎯 Think of \"pregnancy with HIV infection\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c7cd459b-f1ec-41e9-984a-1c311e5dc2c3": {
-    "cop": 4,
-    "exp": "Ans. d. It causes water pollution (Ref: Park 23/e p792, 22/e p737)The process of 'inertization' involves mixing waste with cement and other substances before disposal, in order to minimize the risk of toxic substances contained in the wastes migrating into the surface water or ground water. It doesn't cause water pollution.InertizationThe process of 'inertization' involves mixing waste with cement and other substances before disposal, in order to minimize the risk of toxic substances contained in the wastes migrating into the surface water or ground water.A typical proportion of the mixture is: 65 per cent pharmaceutical waste, 15 per cent lime, 15 per cent cement and 5 per cent water.A homogeneous mass is formed and cubes or pellets are produced on site and then transported to suitable storage sites.AdvantageDisadvantage* Relatively inexpensive* Not applicable to infectious waste"
+    "cop": 3,
+    "exp": "Ans. d. It causes water pollution (Ref: Park 23/e p792, 22/e p737)The process of 'inertization' involves mixing waste with cement and other substances before disposal, in order to minimize the risk of toxic substances contained in the wastes migrating into the surface water or ground water. It doesn't cause water pollution.InertizationThe process of 'inertization' involves mixing waste with cement and other substances before disposal, in order to minimize the risk of toxic substances contained in the wastes migrating into the surface water or ground water.A typical proportion of the mixture is: 65 per cent pharmaceutical waste, 15 per cent lime, 15 per cent cement and 5 per cent water.A homogeneous mass is formed and cubes or pellets are produced on site and then transported to suitable storage sites.AdvantageDisadvantage* Relatively inexpensive* Not applicable to infectious waste",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "78e3fc58-de0a-4e58-8697-09a9b4f5fab4": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"management open wound seen\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f7ca93a0-631f-4d40-b554-c67ea28b1699": {
-    "cop": 1,
-    "exp": "Triglycerides REF: Robbin's 7th ed p.907 Fatty liver, also known as fatty liver disease (FLD), is a reversible condition where large vacuoles of triglyceride fat accumulate in liver cells the process of steatosis (i.e. abnormal retention of lipids within a cell). Despite having multiple causes, fatty liver can be considered a single disease that occurs worldwide in those with excessive alcohol intake and those who are obese (with or without effects of insulin resistance). The condition is also associated with other diseases that influence fat metabolism. Morphologically it is difficult to distinguish alcoholic FLD from non alcoholic FLD and both show micro-vesicular and macrovesicular fatty changes at different stages."
+    "cop": 0,
+    "exp": "Triglycerides REF: Robbin's 7th ed p.907 Fatty liver, also known as fatty liver disease (FLD), is a reversible condition where large vacuoles of triglyceride fat accumulate in liver cells the process of steatosis (i.e. abnormal retention of lipids within a cell). Despite having multiple causes, fatty liver can be considered a single disease that occurs worldwide in those with excessive alcohol intake and those who are obese (with or without effects of insulin resistance). The condition is also associated with other diseases that influence fat metabolism. Morphologically it is difficult to distinguish alcoholic FLD from non alcoholic FLD and both show micro-vesicular and macrovesicular fatty changes at different stages.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"due to accumulation of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "dbafd460-f77f-4ffd-82a9-e64e1eee567d": {
-    "cop": 1,
-    "exp": "Ans. Neurosis"
+    "cop": 0,
+    "exp": "Ans. Neurosis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Anxiety NEET\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ebc6f4e3-68b3-4fd3-b4f2-52ffeb6dd5ab": {
-    "cop": 3,
-    "exp": "The difference in structure of cysteine and cystine. Two molecules of cysteine are joined together by S--S bond to form one molecule of cystine.Ref: M.N. Chatterjea - Textbook of Biochemistry, 8th edition, page no: 504"
+    "cop": 2,
+    "exp": "The difference in structure of cysteine and cystine. Two molecules of cysteine are joined together by S--S bond to form one molecule of cystine.Ref: M.N. Chatterjea - Textbook of Biochemistry, 8th edition, page no: 504",
+    "hint_exp": "🎯 Think of \"formed from\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fcd4f1be-538b-4572-bbf2-d987a52c86c2": {
-    "cop": 1,
-    "exp": "Bronchography has been superseded by a CT scan in defining the extent of bronchiectasis. Occasionally, advanced cases of saccular bronchiectasis can be diagnosed by routine CXR. The use of high-resolution CT scanning, in which the images are 1.5 mm thick, has resulted in excellent diagnostic accuracy."
+    "cop": 0,
+    "exp": "Bronchography has been superseded by a CT scan in defining the extent of bronchiectasis. Occasionally, advanced cases of saccular bronchiectasis can be diagnosed by routine CXR. The use of high-resolution CT scanning, in which the images are 1.5 mm thick, has resulted in excellent diagnostic accuracy.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "473d0c16-d700-46a1-908d-d898ecde75d7": {
-    "cop": 2,
-    "exp": "B Height for age a. Stunting (deficit in height for age) generally points towards a chronic course of malnutrition. b. Height is a stable measurement of growth as opposed to body weight. Whereas weight reflects only the present health status o-f the child, height indicates the events in the past also\"."
+    "cop": 1,
+    "exp": "B Height for age a. Stunting (deficit in height for age) generally points towards a chronic course of malnutrition. b. Height is a stable measurement of growth as opposed to body weight. Whereas weight reflects only the present health status o-f the child, height indicates the events in the past also\".",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "32861b5f-e494-47c8-97d7-ccc0090175e9": {
-    "cop": 4,
-    "exp": "Sickle cell anemia and polycythemia can cause AVN."
+    "cop": 3,
+    "exp": "Sickle cell anemia and polycythemia can cause AVN.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Osteonecrosis femoral head seen\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d0045a4f-4bd7-4ade-8cfc-cb2c89fb72f3": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Doxacuriimi o Among the given options, only doxacurium is long acting.SKELETAL MUSCLE RELAXANTSo Skeletal muscle relaxants are drugs that act peripherally at neuromuscular junction/muscle fiber itself or centrally in the cerebrospinal axis to reduce muscle tone.o The neuromuscular blocking agents are used primarily in conjunction with general anesthetics to provide muscle relaxation for surgery, while centrally acting muscle relaxants are used mainly for painful muscle spasms and spastic neurological conditions.Muscle relaxantsPeripherally acting Centrally' acting o Mephenesin congenersy Mephensiney Carisoprodoly Chlorzoxazoney Chlormezanoney Methocarbamolo Benzodiazepinesy Diazepamo GABA derivativesy Baclofeno Central a2 - agonisty TizanidineNeuromuscular blocking agentsDirectly acting agents o Dantrolene sodiumo QuinineNondepolarizing (competitive) blockersDepolarizing blockersa) Long-acting -d. tubocurarine. Pancuronium, Doxacurium, Pipecuroniumo Succinylcholineo Decamethoniumb) Intermediate-acting-- Vecuronium, Atracurium,cisatracurium, Rocuronium, Rapacuroniumc)Short-acting-Mivacuriumo Competitive (nondepolarizing) blockers are of two typesBenzylisoquinoline derivativesThis includes - d-TC, doxacurium, atracurium, cisatracurium, mivacurium, metocurine.These drugs have tendency to release histamine and to block autonomic ganglion.Amminio steroid derivativesThis include pancuronium, rocuronium, vecuronium, pipecuronium, rapacuronium.These drugs do not block autonomic ganglia and have minimal histamine releasing property."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Doxacuriimi o Among the given options, only doxacurium is long acting.SKELETAL MUSCLE RELAXANTSo Skeletal muscle relaxants are drugs that act peripherally at neuromuscular junction/muscle fiber itself or centrally in the cerebrospinal axis to reduce muscle tone.o The neuromuscular blocking agents are used primarily in conjunction with general anesthetics to provide muscle relaxation for surgery, while centrally acting muscle relaxants are used mainly for painful muscle spasms and spastic neurological conditions.Muscle relaxantsPeripherally acting Centrally' acting o Mephenesin congenersy Mephensiney Carisoprodoly Chlorzoxazoney Chlormezanoney Methocarbamolo Benzodiazepinesy Diazepamo GABA derivativesy Baclofeno Central a2 - agonisty TizanidineNeuromuscular blocking agentsDirectly acting agents o Dantrolene sodiumo QuinineNondepolarizing (competitive) blockersDepolarizing blockersa) Long-acting -d. tubocurarine. Pancuronium, Doxacurium, Pipecuroniumo Succinylcholineo Decamethoniumb) Intermediate-acting-- Vecuronium, Atracurium,cisatracurium, Rocuronium, Rapacuroniumc)Short-acting-Mivacuriumo Competitive (nondepolarizing) blockers are of two typesBenzylisoquinoline derivativesThis includes - d-TC, doxacurium, atracurium, cisatracurium, mivacurium, metocurine.These drugs have tendency to release histamine and to block autonomic ganglion.Amminio steroid derivativesThis include pancuronium, rocuronium, vecuronium, pipecuronium, rapacuronium.These drugs do not block autonomic ganglia and have minimal histamine releasing property.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Longest acting among muscle\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4d36ea63-9a33-4177-a2e1-a39a6b907e60": {
-    "cop": 3,
-    "exp": "CO2 is the gas which is ideally used for laparoscopy due to its ability to suppress combustion and due to its high solubility in water. The ideal laparoscopic insufflation gas should be readily available, relatively inexpensive, colorless, highly soluble in plasma, and soluble to use in most patients and procedures. Earlier air was used due to its colorless and odorless nature, but it was found to suppo combustion and had a potential for venous embolism because of its poor solubility in blood. N20 when used was found to have a risk of explosion hazard."
+    "cop": 2,
+    "exp": "CO2 is the gas which is ideally used for laparoscopy due to its ability to suppress combustion and due to its high solubility in water. The ideal laparoscopic insufflation gas should be readily available, relatively inexpensive, colorless, highly soluble in plasma, and soluble to use in most patients and procedures. Earlier air was used due to its colorless and odorless nature, but it was found to suppo combustion and had a potential for venous embolism because of its poor solubility in blood. N20 when used was found to have a risk of explosion hazard.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "99116506-d4ad-49e9-9e09-514516186275": {
-    "cop": 4,
-    "exp": "TUBERCULAR OTITIS MEDIA In most of the cases, infection is secondary to pulmonary tuberculosis; infection reaches the middle ear through eustachian tube. Disease is mostly seen in children and young adults. PATHOLOGY The process is slow and insidious. Tubercles appear in the submucosal layers of middle ear cleft and caseate. There is painless necrosis of tympanic membrane. Multiple perforations may form which coalesce to form a single large perforation. Middle ear and mastoid get filled with pale granulations. Caries of bone and ossicles may occur leading to complications. Mastoiditis, facial paralysis, postauricular fistula, osteomyelitis with the formation of bony sequestra and profound hearing loss are often seen in these cases. Ref : Diseases of ENT by Dhingra 6th edition Pgno : 74"
+    "cop": 3,
+    "exp": "TUBERCULAR OTITIS MEDIA In most of the cases, infection is secondary to pulmonary tuberculosis; infection reaches the middle ear through eustachian tube. Disease is mostly seen in children and young adults. PATHOLOGY The process is slow and insidious. Tubercles appear in the submucosal layers of middle ear cleft and caseate. There is painless necrosis of tympanic membrane. Multiple perforations may form which coalesce to form a single large perforation. Middle ear and mastoid get filled with pale granulations. Caries of bone and ossicles may occur leading to complications. Mastoiditis, facial paralysis, postauricular fistula, osteomyelitis with the formation of bony sequestra and profound hearing loss are often seen in these cases. Ref : Diseases of ENT by Dhingra 6th edition Pgno : 74",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"pars tensa\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f5cc58bc-dd47-4445-9b8d-1dea7143b6d0": {
-    "cop": 4,
-    "exp": "Ans. is'd'i.e.,Inhibiting mitochondrial LC3-KAT(Ref: KDTh/e p. 554)Trimetazidine:This antianginal drug acts by non hemodynamic mechanisms.The mechanism of action of trimetazidine is unceain, but it may improve cellular tolerance to ischaemia by inhibiting mitochondrial long chain 3-ketoacyl-CoAthiolase (LC3-KAT) a key enzyme in fatty acid oxidation- thereby reducing fatty acid metabolism and increasing glucose metabolism in myocardium."
+    "cop": 3,
+    "exp": "Ans. is'd'i.e.,Inhibiting mitochondrial LC3-KAT(Ref: KDTh/e p. 554)Trimetazidine:This antianginal drug acts by non hemodynamic mechanisms.The mechanism of action of trimetazidine is unceain, but it may improve cellular tolerance to ischaemia by inhibiting mitochondrial long chain 3-ketoacyl-CoAthiolase (LC3-KAT) a key enzyme in fatty acid oxidation- thereby reducing fatty acid metabolism and increasing glucose metabolism in myocardium.",
+    "hint_exp": "🧩 Your crush solved \"action trimetazidine\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ca3f5d4b-d527-404f-bfbe-666764487e60": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"most commonly seen in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ef862c1b-7e2b-4762-8107-389d6c16436e": {
-    "cop": 4,
-    "exp": "Inferior phrenic aery is a lateral branch of abdominal aoa."
+    "cop": 3,
+    "exp": "Inferior phrenic aery is a lateral branch of abdominal aoa.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"abdominal aoa except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0e6c043e-abfa-4a90-91a7-d19285296281": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Cald well Various skull viewsViewStructures seenWater (occipitomental view)OrbitMaxillary sinus (best view for maxillary sinus)Sphenoid sinus (if X-ray is taken with open mouth)Frontal sinusEthmoid sinusesInfratemporal fossaUpper & lower jawZygomatic archNasal cavityCald well (occipito-frontal view)Superior orbital fissureFrontal sinus (best view for frontal sinus)Maxillary sinusEthmoid sinusForamen rotundumOrbitNasal cavityPetrous boneLateral viewSella turcica (best view for sella turcica)Coronal and lambdoid sutureFrontal; maxillary; middle & posterior ethmoid sinusesTuberculum sellaeSulcus chiasmaticusBasal (submentovertical) viewSphenoid sinus (best to visualize sphenoid sinus)Posterior ethmoid sinusMaxillary sinusGreater wing of sphenoidForamen ovale, spinosum, and lacerumForamen magnumMastoid boneTowne's viewForamen magnumDorsum sellaeOccipital boneInternal acoustic canalMastoidsCondyles or mandibleso Superior orbital fissure can also be seen on water's view, but best is caldwell view.\"The superior orbital fissure can easily indentified and normally has a slightly concave lateral appearacne\"- Text book of oral radiology"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Cald well Various skull viewsViewStructures seenWater (occipitomental view)OrbitMaxillary sinus (best view for maxillary sinus)Sphenoid sinus (if X-ray is taken with open mouth)Frontal sinusEthmoid sinusesInfratemporal fossaUpper & lower jawZygomatic archNasal cavityCald well (occipito-frontal view)Superior orbital fissureFrontal sinus (best view for frontal sinus)Maxillary sinusEthmoid sinusForamen rotundumOrbitNasal cavityPetrous boneLateral viewSella turcica (best view for sella turcica)Coronal and lambdoid sutureFrontal; maxillary; middle & posterior ethmoid sinusesTuberculum sellaeSulcus chiasmaticusBasal (submentovertical) viewSphenoid sinus (best to visualize sphenoid sinus)Posterior ethmoid sinusMaxillary sinusGreater wing of sphenoidForamen ovale, spinosum, and lacerumForamen magnumMastoid boneTowne's viewForamen magnumDorsum sellaeOccipital boneInternal acoustic canalMastoidsCondyles or mandibleso Superior orbital fissure can also be seen on water's view, but best is caldwell view.\"The superior orbital fissure can easily indentified and normally has a slightly concave lateral appearacne\"- Text book of oral radiology",
+    "hint_exp": "🎯 Think of \"view supra orbital fissure\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c3978f0d-3955-4a1a-8ee3-1bf5a7023fb0": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Streptococcus \"The most common organisms associated with cellulitis are group A streptococci and S. aureus.\"- Schwaz"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Streptococcus \"The most common organisms associated with cellulitis are group A streptococci and S. aureus.\"- Schwaz",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of cellulitis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "20c90c5b-6e13-4500-9983-0179610c9cab": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Polio virus infection result\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "26bc0c46-4691-4bfb-b7a7-b7ff1e2fd8f8": {
-    "cop": 2,
-    "exp": "Important hand deformities of hand in RA\n\nBoutonniere deformity: Flexion contracture of PIP joint and extension of the DIP joint.\nSwan neck deformity: Hyperextension of PIP joint and flexion at DIP joint.\nZ-deformity: Radial deviation of the wrist with ulnar deviation of fingers.\nHyperextension of 1st interphalangeal joint and flexion of MP joint."
+    "cop": 1,
+    "exp": "Important hand deformities of hand in RA\n\nBoutonniere deformity: Flexion contracture of PIP joint and extension of the DIP joint.\nSwan neck deformity: Hyperextension of PIP joint and flexion at DIP joint.\nZ-deformity: Radial deviation of the wrist with ulnar deviation of fingers.\nHyperextension of 1st interphalangeal joint and flexion of MP joint.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Swan neck deformity\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0f60a89c-0ce8-48b2-b12d-08f7de23dbc5": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Scala media * The scala vestibuli and scala tympani are filled with perilymph and the scala media is filled with endolymph."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Scala media * The scala vestibuli and scala tympani are filled with perilymph and the scala media is filled with endolymph.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e25c3b2f-5f4e-4cb4-bbf5-c5e1c12cd027": {
-    "cop": 3,
-    "exp": "Gold standard investigation for Wilson's disease is liver biopsy with quantitative copper assay."
+    "cop": 2,
+    "exp": "Gold standard investigation for Wilson's disease is liver biopsy with quantitative copper assay.",
+    "hint_exp": "🎯 Think of \"What gold standard investigation\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7d66be40-fd10-4938-9159-d5ccde443cff": {
-    "cop": 4,
-    "exp": "SYSTEMIC DISEASES IN WHICH APHTHOUS ULCERS ARE SEEN"
+    "cop": 3,
+    "exp": "SYSTEMIC DISEASES IN WHICH APHTHOUS ULCERS ARE SEEN",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "140c7702-4e62-4c54-9dab-ed0a003e0f9c": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e.. Candidiasis Monoliasis (Candidiasis)o It is the fungal infection of the oral cavity. It is caused by Candida albicans and occurs in two forms:Thrusho It manifests as greyish white patches on the oral mucosa and tongue,o When wiped off it leaves an erythematous mucosa.o This is more common in infants and children. Adults suffering fro diabetes, malignancy, taking broad spectrum oral antibiotics, radiation, cytotoxic drugs or steroids can also be affected,o It is treated by topical application of nystatin or clotrimazole.Chronic Hypertrophic Candidiasis (Candidial Leukoplakia)o Appears as a white patch in the oral cavity which cannot be wiped off.o It mostly affects the anterior buccal mucosa just behind the angle of mouth,o It is treated by excision of the lesion."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e.. Candidiasis Monoliasis (Candidiasis)o It is the fungal infection of the oral cavity. It is caused by Candida albicans and occurs in two forms:Thrusho It manifests as greyish white patches on the oral mucosa and tongue,o When wiped off it leaves an erythematous mucosa.o This is more common in infants and children. Adults suffering fro diabetes, malignancy, taking broad spectrum oral antibiotics, radiation, cytotoxic drugs or steroids can also be affected,o It is treated by topical application of nystatin or clotrimazole.Chronic Hypertrophic Candidiasis (Candidial Leukoplakia)o Appears as a white patch in the oral cavity which cannot be wiped off.o It mostly affects the anterior buccal mucosa just behind the angle of mouth,o It is treated by excision of the lesion.",
+    "hint_exp": "🧩 Your crush solved \"oral thrush\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e21c46be-bd47-4817-8166-dc9cd88c2ce5": {
-    "cop": 3,
-    "exp": "Plastic cover of syringe being general non infectious waste is disposed in black bag. Black bag is used for collecting dry waste material which is not infectious. Materials like paper, plastics, cardboard boxes, and other dry waste generated in hospital office or in the wards are disposed in this bag. This is not biomedical waste. Red bag is used for the disposal of plastics collected from operation theaters, ICUs and wards. Yellow bag is used for highly infectious items like pathological waste, human anatomical waste such as body pas, amputated pas/organs, tumors, placentas, aboed or dead fetuses, blood soaked cotton bandages, animal tissues, organs, carcasses etc. Blue or White opaque bag is used for collecting the segregated metal sharps such as needles, blades, saws, scalpels and glass pieces."
+    "cop": 2,
+    "exp": "Plastic cover of syringe being general non infectious waste is disposed in black bag. Black bag is used for collecting dry waste material which is not infectious. Materials like paper, plastics, cardboard boxes, and other dry waste generated in hospital office or in the wards are disposed in this bag. This is not biomedical waste. Red bag is used for the disposal of plastics collected from operation theaters, ICUs and wards. Yellow bag is used for highly infectious items like pathological waste, human anatomical waste such as body pas, amputated pas/organs, tumors, placentas, aboed or dead fetuses, blood soaked cotton bandages, animal tissues, organs, carcasses etc. Blue or White opaque bag is used for collecting the segregated metal sharps such as needles, blades, saws, scalpels and glass pieces.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"which of the following bags\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c02406ca-b50b-4693-8f0a-8563cc9dc5a9": {
-    "cop": 2,
-    "exp": "PGF2α is a vasoconstrictor whereas PGD2 and PGE2 are vasodilators. \nPGE2 is the most important chemical for development of fever."
+    "cop": 1,
+    "exp": "PGF2α is a vasoconstrictor whereas PGD2 and PGE2 are vasodilators. \nPGE2 is the most important chemical for development of fever.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fff6d804-c8d9-4f5e-91c7-c879336fa49c": {
-    "cop": 2,
-    "exp": "Because fasting hypoglycemia results from an inability to break down glycogen past the limit dextrin of phosphorylase, a patient with type III glycogen storage disease should be given frequent meals high in carbohydrates. Uncooked cornstarch is an effective supplement because it is slowly digested, and therefore the glucose is released slowly into the bloodstream, helping to maintain blood glucose concentrations. Ref: Powers A.C., D'Alessio D. (2011). Chapter 43. Endocrine Pancreas and Pharmacotherapy of Diabetes Mellitus and Hypoglycemia. In L.L. Brunton, B.A. Chabner, B.C. Knollmann (Eds), Goodman & Gilman's The Pharmacological Basis of Therapeutics, 12e."
+    "cop": 1,
+    "exp": "Because fasting hypoglycemia results from an inability to break down glycogen past the limit dextrin of phosphorylase, a patient with type III glycogen storage disease should be given frequent meals high in carbohydrates. Uncooked cornstarch is an effective supplement because it is slowly digested, and therefore the glucose is released slowly into the bloodstream, helping to maintain blood glucose concentrations. Ref: Powers A.C., D'Alessio D. (2011). Chapter 43. Endocrine Pancreas and Pharmacotherapy of Diabetes Mellitus and Hypoglycemia. In L.L. Brunton, B.A. Chabner, B.C. Knollmann (Eds), Goodman & Gilman's The Pharmacological Basis of Therapeutics, 12e.",
+    "hint_exp": "🎯 Think of \"this patient\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "28081337-5a29-4ddb-8fad-525d1d2ff9b6": {
-    "cop": 1,
-    "exp": "Ans. (a) Wilms tumor(Ref: Nelson 20th ed/ pg 2466-68)Wilms tumor (WT), also known as nephroblastoma, is the most common primary malignant renal tumor of childhood; It is the second most common malignant abdominal tumor in childhood. The most common sites of metastases are the lungs, regional lymph nodes, and liver."
+    "cop": 0,
+    "exp": "Ans. (a) Wilms tumor(Ref: Nelson 20th ed/ pg 2466-68)Wilms tumor (WT), also known as nephroblastoma, is the most common primary malignant renal tumor of childhood; It is the second most common malignant abdominal tumor in childhood. The most common sites of metastases are the lungs, regional lymph nodes, and liver.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"kidney in children\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3f49e4ae-4da1-46e1-975c-886a030b6d18": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Supplied by phrenic nervesPleuraPleura is a serous membrane covering the lung. There are two layers of pleura :- (i) Visceral (pulmonary) pleura intimately invests the lungs and is developed from splanchnopleural mesoderm, and (ii) Parietal pleura is developed from smatopleural mesoderm. Parietal pleura is divided into 4 pas (i) cervical (dome), (ii) costal, (iii) diaphragmatic, and (iv) mediastinal.Lines of pleural reflection are ?1. Lower border (costodiaphragmatic line of pleural reflection) :- Stas at xiphistemal joint, crosses midclavicular line at 8th rib and midaxillary line at 10th rib and ends posteriory 2 cm lateral to spinous process of T1, veebra.2. Anterior border (costomediastinal line of pleural reflection) :- It differs on right and left side.Right side :- Begining from sternoclavicular joint, it descends downwards and medially to reach sternal angle close to midling and fuher extends upto xiphisternal joint (upto 6th sternochondral joint) in midline.Left side :- Begining from stenoclavicular joint, it descends downward and medially to sternal angle and then descands veically close to midline upto 4th rib. Below this level it detes away from midline lying lateral (2-15 mm) to sternal margin to reach the 6th sternochondral junction. This detion is known as cardiac notch of pleura. Due to this, the left half of lower pa of body of sternum is directly related to peircardium without intervening pleural sac. This area is known as superficial area of cardiac dullness.3. Posterior border :- Extends from a point 2 cm lateral to 7th cervical veebra to a point 2 cm lateral to the 12th thoracic beebra.Pleural innervationParietal pleura is pain sensitive and is supplied by intercostal and phrenic nerves. The costal and peripheal pa of diaphragmatic pleura is supplied by intercostal nerves and the mediastinal and central pa of diaphragmatic pleura is supplied by phrenic nerve.Pulmonary (visceral) pleura is pain insensitive and is innervated by autonomic nerves (sympathetic from T2-T5 spinal nerves and parasympathetic from vagus)."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Supplied by phrenic nervesPleuraPleura is a serous membrane covering the lung. There are two layers of pleura :- (i) Visceral (pulmonary) pleura intimately invests the lungs and is developed from splanchnopleural mesoderm, and (ii) Parietal pleura is developed from smatopleural mesoderm. Parietal pleura is divided into 4 pas (i) cervical (dome), (ii) costal, (iii) diaphragmatic, and (iv) mediastinal.Lines of pleural reflection are ?1. Lower border (costodiaphragmatic line of pleural reflection) :- Stas at xiphistemal joint, crosses midclavicular line at 8th rib and midaxillary line at 10th rib and ends posteriory 2 cm lateral to spinous process of T1, veebra.2. Anterior border (costomediastinal line of pleural reflection) :- It differs on right and left side.Right side :- Begining from sternoclavicular joint, it descends downwards and medially to reach sternal angle close to midling and fuher extends upto xiphisternal joint (upto 6th sternochondral joint) in midline.Left side :- Begining from stenoclavicular joint, it descends downward and medially to sternal angle and then descands veically close to midline upto 4th rib. Below this level it detes away from midline lying lateral (2-15 mm) to sternal margin to reach the 6th sternochondral junction. This detion is known as cardiac notch of pleura. Due to this, the left half of lower pa of body of sternum is directly related to peircardium without intervening pleural sac. This area is known as superficial area of cardiac dullness.3. Posterior border :- Extends from a point 2 cm lateral to 7th cervical veebra to a point 2 cm lateral to the 12th thoracic beebra.Pleural innervationParietal pleura is pain sensitive and is supplied by intercostal and phrenic nerves. The costal and peripheal pa of diaphragmatic pleura is supplied by intercostal nerves and the mediastinal and central pa of diaphragmatic pleura is supplied by phrenic nerve.Pulmonary (visceral) pleura is pain insensitive and is innervated by autonomic nerves (sympathetic from T2-T5 spinal nerves and parasympathetic from vagus).",
+    "hint_exp": "🧩 Your crush solved \"visceral pleura\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "940715ea-2d8e-4872-949f-2154e5d86bb7": {
-    "cop": 1,
-    "exp": "Aspergillus clavatus"
+    "cop": 0,
+    "exp": "Aspergillus clavatus",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Maltworker lung caused\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ce99720a-e31b-4410-ba84-f135fde2c875": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., ThrombocytopeniaKawasaki diseaseo Kawasaki disease, also known as lymph node syndrome, mucocutaneous lymph node syndrome and infant polyaeritis, is a poorly understood self - limited vasculitis that affects many organs, including the skin, mucus membrane, lymph nodes, hea and blood vessel walls.It is usually seen in children younger than 5 years.o Kawasaki disease predominantly affect medium sized vessels, but may also affect small or large vessels. PresentationPresenting features may be divided into ?I. Mucocutaneous, Lymphnode involvemento Often begins with high grade fevero Erythma of mouth, red cracked lips, a strawberry tongue.o Bilateral conjuctival injection with iritis and keratic precipitate.o Red palms and soleso Rash, which may take many forms (but not vesicular), on trunko Rash with peeling of skin in genital area ---> perinea] desquamation.o Cervical lymphadenopathyo Beau's lines (transverse grooves on nails)o Ahralgia2. Heao The cardiac complications are the most impoant aspect of the disease.o These are due to coronary vasculitis.o Vasculitis causes coronary ectasia and coronary aery aneurysm.o Aneurism may lead to MI and sudden death.o Myocarditis, pericarditis with small pericardial effusion.o Valvular regurgitation.Laborator findingso Elevated ESR o Normocytic anemiao Elevated CRP o WBC count is normal or elevated with a predominant of neutrophils. o Thrombocytosis"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., ThrombocytopeniaKawasaki diseaseo Kawasaki disease, also known as lymph node syndrome, mucocutaneous lymph node syndrome and infant polyaeritis, is a poorly understood self - limited vasculitis that affects many organs, including the skin, mucus membrane, lymph nodes, hea and blood vessel walls.It is usually seen in children younger than 5 years.o Kawasaki disease predominantly affect medium sized vessels, but may also affect small or large vessels. PresentationPresenting features may be divided into ?I. Mucocutaneous, Lymphnode involvemento Often begins with high grade fevero Erythma of mouth, red cracked lips, a strawberry tongue.o Bilateral conjuctival injection with iritis and keratic precipitate.o Red palms and soleso Rash, which may take many forms (but not vesicular), on trunko Rash with peeling of skin in genital area ---> perinea] desquamation.o Cervical lymphadenopathyo Beau's lines (transverse grooves on nails)o Ahralgia2. Heao The cardiac complications are the most impoant aspect of the disease.o These are due to coronary vasculitis.o Vasculitis causes coronary ectasia and coronary aery aneurysm.o Aneurism may lead to MI and sudden death.o Myocarditis, pericarditis with small pericardial effusion.o Valvular regurgitation.Laborator findingso Elevated ESR o Normocytic anemiao Elevated CRP o WBC count is normal or elevated with a predominant of neutrophils. o Thrombocytosis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"associated with all except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "42e394a6-61fa-4523-8cf3-84cb46b0b4e4": {
-    "cop": 4,
-    "exp": "Cutis Marmorata When a newborn infant is exposed to low temperature - an evanescent, lacy, reticulated blue cutaneous vascular pattern appears over the body surface. This vascular change represents an accentuated physiologic vasomotor response that disappears with increasing age. Persistent and pronounced cutis marmorata seen in - Menkes disease Familial dysautonomia Cornelia de Lange Down syndrome Trisomy 18 syndrome"
+    "cop": 3,
+    "exp": "Cutis Marmorata When a newborn infant is exposed to low temperature - an evanescent, lacy, reticulated blue cutaneous vascular pattern appears over the body surface. This vascular change represents an accentuated physiologic vasomotor response that disappears with increasing age. Persistent and pronounced cutis marmorata seen in - Menkes disease Familial dysautonomia Cornelia de Lange Down syndrome Trisomy 18 syndrome",
+    "hint_exp": "🎯 Think of \"marmorata\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a00d85ae-08af-4a58-8ec2-611ee651c35a": {
-    "cop": 4,
-    "exp": "Davidson states \"In very small proportion of cases of secondary hyperparathyroidism continuous stimulation of the parathyroid may result in adenoma formation and autonomous PTH secretion. This is known as tertiary ​hyperparathyroidism\"."
+    "cop": 3,
+    "exp": "Davidson states \"In very small proportion of cases of secondary hyperparathyroidism continuous stimulation of the parathyroid may result in adenoma formation and autonomous PTH secretion. This is known as tertiary ​hyperparathyroidism\".",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Tertiary hyperparathyroidism\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7cf949de-c8a9-4534-8e1b-87223dd547f8": {
-    "cop": 4,
-    "exp": "HISTORY * Medunna ====IM injection of camphor to induce seizures * Ugo cerletti and lucio bini==== ECT in a catatonic patient INDICATIONS * DEPRESSION SUICIDAL IDEAS-------------- first choice * CATATONIC SCHIZOPHRENIA * SCHIZOPHRENIA * MANIA * ELECTRODE PLACEMENT * Most commonly used=== bi fronto temporal * More cognitive side effects==bi fronto temporal * Less cognitive side effect======bi frontal * SIDE EFFECTS * RETROGRADE AMNESIA * BODY ACHE * MEDICATIONS USED IN THE PROCEDURE * ANAESTHETIC======Thiopentone / ethosuximide * MUSCLE RELAXANT====Succynyl choline CURARE IN PSEUDOCHOLINEESTERASE DEFICIENCY * ANTICHOLINERGIC=====Atropine CONTRA INDICATIONS * NO ABSOLUTE Contra indication * RELATIVE -----------------Brain tumour / arrythmia Ref. kaplon and sadock, synopsis of psychiatry, 11 th edition, 1065"
+    "cop": 3,
+    "exp": "HISTORY * Medunna ====IM injection of camphor to induce seizures * Ugo cerletti and lucio bini==== ECT in a catatonic patient INDICATIONS * DEPRESSION SUICIDAL IDEAS-------------- first choice * CATATONIC SCHIZOPHRENIA * SCHIZOPHRENIA * MANIA * ELECTRODE PLACEMENT * Most commonly used=== bi fronto temporal * More cognitive side effects==bi fronto temporal * Less cognitive side effect======bi frontal * SIDE EFFECTS * RETROGRADE AMNESIA * BODY ACHE * MEDICATIONS USED IN THE PROCEDURE * ANAESTHETIC======Thiopentone / ethosuximide * MUSCLE RELAXANT====Succynyl choline CURARE IN PSEUDOCHOLINEESTERASE DEFICIENCY * ANTICHOLINERGIC=====Atropine CONTRA INDICATIONS * NO ABSOLUTE Contra indication * RELATIVE -----------------Brain tumour / arrythmia Ref. kaplon and sadock, synopsis of psychiatry, 11 th edition, 1065",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

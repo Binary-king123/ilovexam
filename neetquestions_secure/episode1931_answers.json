@@ -1,202 +1,252 @@
 {
   "16d3feca-9381-46f3-aab6-3b6226381058": {
-    "cop": 1,
-    "exp": "The three major species of brucella are B.melitensis, B.abous, and B.suis B.melitensis tends to produce a more acute and aggressive presentation of all other Brucella species Ref: Textbook of microbiology; Ananthanarayan and paniker's; 10th edition; Pg: 346"
+    "cop": 0,
+    "exp": "The three major species of brucella are B.melitensis, B.abous, and B.suis B.melitensis tends to produce a more acute and aggressive presentation of all other Brucella species Ref: Textbook of microbiology; Ananthanarayan and paniker's; 10th edition; Pg: 346",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which following species Brucllea\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "48ddcc6b-e7f1-40cb-bb41-cc3be798761d": {
-    "cop": 1,
-    "exp": "Atrial depolarization (Wave shown: p-wave in ECG)"
+    "cop": 0,
+    "exp": "Atrial depolarization (Wave shown: p-wave in ECG)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the Phtograph\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "636f038f-f0b3-42c1-9f86-8ad15846023d": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"larval control measures except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8990325b-0ca0-48a0-af3f-5288df3773b1": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"person working environment consumes\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c5c004b9-a769-4389-b928-3aeed5ff37fe": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Simple mastectomy Breast conserving surgery and Simple mastectomy, both can be done in this patient. Though Simple mastectomy offers lesser risk of recurrence, it induces the psychological trauma of loss of breast. Hence breast consenting surgery would be the best management in this young patient.Treatment of Ductal Ca in situ (DC1S)o DCIS carries a high risk for progression to an invasive cancer. Schwartz writes - \"The risk of invasive breast cancer is increased nearly five fold in women with DCIS. The invasive cancers are observed in the ipsilateral breast, usually in the same quadrant as the DCIS that was originally detected, suggesting that DCIS is an anatomic precursor of invasive ductal carcinoma \".o The treatment of intraductal lesion is controversial. It can be t/t by eitherSimple mastectomy orBreast conservation with wide excision (lumpectomy) with radiation therapyo Choice of operation depends on both surgeon and patient preference', however following points must be kept in mind.o Simple mastectomy is the gold standard procedure with no need of radiation and less recurrence rate (-2%), but there is loss of breast, a big psychological trauma to the patient,o Breast conserving procedures are better cosmetically but recurrence rate is more.The patient also has to be monitored regularly both clinically and by mammography for any recurrent disease.Those in favour of conservative procedure, however say that local recurrences if occur, can be successfully managed with salvage mastectomy.o Simple mastectomy is recommended for the following DCISDCIS with evidence of widespread disease (involving two or more quadrants)Mammographically identified mu Dicentric disease or diffuse suspicious calcification.Persistent positive margins after reexcision.Unacceptable cosmesis to obtain negative margins.A patient not motivated to preserve her breast.For patients who are high risk for recurrenceSize greater than 4 cmComedo appearance on histologyNegative estrogen receptor statusHigh grade tumorFor patients with contraindications to radiation therapyPrior radiation to the breast regionPresence of collagen vascular disease {SLE, Scleroderma)First or second trimester pregnancyo Adjuvant Tamoxifen therapy is may be give to ER positive DCIS patients. (The use of hormonal therapy in ER- positive DCIS decreases the risk for local recurrence and also reduces the risk for development of new contralateral and ipsilateral breast cancers).o ''Sentinel node biopsy is currently recommended when mastectomy is performed for DCIS because up to 10% of patients with DCIS on a diagnostic biopsy will be found to have invasive cancer in their mastectomy specimen\".-- Sabiston 18/e po Because the risk for metastatic disease in patients with DCIS is 1%, systemic chemotherapy is not required.o Breast conservative surgery (lumpectomy) without radiation can be an option for -Low-grade DCIS of the solid, cribriform, or papillary subtype that is <0.5 cm in diameter if the margins of resection are widely free of disease.Treatment of lobular carcinoma in situ (LOS)o LCIS is not an anatomical precursor of invasive disease like DCIS, rather it is considered as a risk factor for invasive breast carcinoma (which can be either invasive ductal or lobular type),o The risk for invasive cancer is equal for both breast, so there is no benefit to excise LCIS.o Treatment of LCIS isObservation with or without tamoxifenThe goal of treatment is to detect the invasive cancer at an early stage which will develop in about 25 to 35% of these womenFor patients who are unwilling to accept the increased risk of breast cancer may be offered bilateral simple mastectomy.o Also RememberThe majority of invasive cancer which subsequently develop in LCIS are of ductal nature (~65%) not lobular.One more difference between LCIS & DCISLCIS is seen in female breasts only whereas DCIS can be seen in both male and female breasts."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Simple mastectomy Breast conserving surgery and Simple mastectomy, both can be done in this patient. Though Simple mastectomy offers lesser risk of recurrence, it induces the psychological trauma of loss of breast. Hence breast consenting surgery would be the best management in this young patient.Treatment of Ductal Ca in situ (DC1S)o DCIS carries a high risk for progression to an invasive cancer. Schwartz writes - \"The risk of invasive breast cancer is increased nearly five fold in women with DCIS. The invasive cancers are observed in the ipsilateral breast, usually in the same quadrant as the DCIS that was originally detected, suggesting that DCIS is an anatomic precursor of invasive ductal carcinoma \".o The treatment of intraductal lesion is controversial. It can be t/t by eitherSimple mastectomy orBreast conservation with wide excision (lumpectomy) with radiation therapyo Choice of operation depends on both surgeon and patient preference', however following points must be kept in mind.o Simple mastectomy is the gold standard procedure with no need of radiation and less recurrence rate (-2%), but there is loss of breast, a big psychological trauma to the patient,o Breast conserving procedures are better cosmetically but recurrence rate is more.The patient also has to be monitored regularly both clinically and by mammography for any recurrent disease.Those in favour of conservative procedure, however say that local recurrences if occur, can be successfully managed with salvage mastectomy.o Simple mastectomy is recommended for the following DCISDCIS with evidence of widespread disease (involving two or more quadrants)Mammographically identified mu Dicentric disease or diffuse suspicious calcification.Persistent positive margins after reexcision.Unacceptable cosmesis to obtain negative margins.A patient not motivated to preserve her breast.For patients who are high risk for recurrenceSize greater than 4 cmComedo appearance on histologyNegative estrogen receptor statusHigh grade tumorFor patients with contraindications to radiation therapyPrior radiation to the breast regionPresence of collagen vascular disease {SLE, Scleroderma)First or second trimester pregnancyo Adjuvant Tamoxifen therapy is may be give to ER positive DCIS patients. (The use of hormonal therapy in ER- positive DCIS decreases the risk for local recurrence and also reduces the risk for development of new contralateral and ipsilateral breast cancers).o ''Sentinel node biopsy is currently recommended when mastectomy is performed for DCIS because up to 10% of patients with DCIS on a diagnostic biopsy will be found to have invasive cancer in their mastectomy specimen\".-- Sabiston 18/e po Because the risk for metastatic disease in patients with DCIS is 1%, systemic chemotherapy is not required.o Breast conservative surgery (lumpectomy) without radiation can be an option for -Low-grade DCIS of the solid, cribriform, or papillary subtype that is <0.5 cm in diameter if the margins of resection are widely free of disease.Treatment of lobular carcinoma in situ (LOS)o LCIS is not an anatomical precursor of invasive disease like DCIS, rather it is considered as a risk factor for invasive breast carcinoma (which can be either invasive ductal or lobular type),o The risk for invasive cancer is equal for both breast, so there is no benefit to excise LCIS.o Treatment of LCIS isObservation with or without tamoxifenThe goal of treatment is to detect the invasive cancer at an early stage which will develop in about 25 to 35% of these womenFor patients who are unwilling to accept the increased risk of breast cancer may be offered bilateral simple mastectomy.o Also RememberThe majority of invasive cancer which subsequently develop in LCIS are of ductal nature (~65%) not lobular.One more difference between LCIS & DCISLCIS is seen in female breasts only whereas DCIS can be seen in both male and female breasts.",
+    "hint_exp": "🧩 Your crush solved \"female with ductal situ\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1071b9df-12b0-4531-9539-a618ce9a7b2e": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., APC * Li-Fraumeni syndrome is due to germ line mutation in p-53 gene.SyndromeGeneChromosome* Familial adenomatous polyposis* APC* 5q21* Familial Wilms tumor* WTl* 11p13* Hereditary breasti ovarian cancer* BRCA1* BRCA2* 17q21* 13q12.3* Hereditary retinoblastoma* RBI* 13q14.2* Multiple endocrine neoplasia type 1* MENl* 1lq13* Multiple endocrine neoplasia type 2a* RET* 10q11.2* Neurofibromatosis type 1* NFl* 17q11.2* Neurofibromatosis type 2* NF2* 22q12.2* Li-fraumeni syndrome* p53* 17* Melanoma* p16INK4A"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., APC * Li-Fraumeni syndrome is due to germ line mutation in p-53 gene.SyndromeGeneChromosome* Familial adenomatous polyposis* APC* 5q21* Familial Wilms tumor* WTl* 11p13* Hereditary breasti ovarian cancer* BRCA1* BRCA2* 17q21* 13q12.3* Hereditary retinoblastoma* RBI* 13q14.2* Multiple endocrine neoplasia type 1* MENl* 1lq13* Multiple endocrine neoplasia type 2a* RET* 10q11.2* Neurofibromatosis type 1* NFl* 17q11.2* Neurofibromatosis type 2* NF2* 22q12.2* Li-fraumeni syndrome* p53* 17* Melanoma* p16INK4A",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Gene associated with familial\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c4e3b339-e642-431c-b9b8-6bcf7905a9ad": {
-    "cop": 1,
-    "exp": "Ghrelin: A naturally occurring 28-amino acid; gut-brain growth hormone releasing peptide (GHRP) that is expressed mainly in the stomach and possibly in the hypothalamus. Fasting and hypoglycemia increase ghrelin levels and circulating ghrelin levels are decreased in chronic obesity, following acute caloric intake and in states of positive energy balance. Acute administration of ghrelin to humans induces a feeling of hunger. Ghrelin binds to ghrelin-receptors in the anterior pituitary and possibly in the mediobasal and mediolateral hypothalamus to stimulate growth hormone release and to regulate energy homeostasis. Serum levels of ghrelin are measurably higher in patients who have lost weight through dietary measures.Ref: Ganong&;s review of medical physiology 23rd edition Page no: 384"
+    "cop": 0,
+    "exp": "Ghrelin: A naturally occurring 28-amino acid; gut-brain growth hormone releasing peptide (GHRP) that is expressed mainly in the stomach and possibly in the hypothalamus. Fasting and hypoglycemia increase ghrelin levels and circulating ghrelin levels are decreased in chronic obesity, following acute caloric intake and in states of positive energy balance. Acute administration of ghrelin to humans induces a feeling of hunger. Ghrelin binds to ghrelin-receptors in the anterior pituitary and possibly in the mediobasal and mediolateral hypothalamus to stimulate growth hormone release and to regulate energy homeostasis. Serum levels of ghrelin are measurably higher in patients who have lost weight through dietary measures.Ref: Ganong&;s review of medical physiology 23rd edition Page no: 384",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"is responsible for\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5a736b35-cdaf-4041-ab75-4478b9f005c4": {
-    "cop": 3,
-    "exp": "GRAM STAINING 1)Primary staining with a pararosaniline dye such as crystal violet, methyl violet, or gentian violet 2)Application of a dilute solution of iodine 3)Decolourisation with an inorganic solvent such as ethanol, acetone, or aniline 4)Counterstaining with a dye of contrasting color such as carbon fuchsin, safranine or neutral red Congo Red: It is an organic dye, an azo dye mainly used in the diagnosis of amyloidosis REF:Ananthanarayan & Panicker's Textbook of Microbiology 9th Edition pg no: 13"
+    "cop": 2,
+    "exp": "GRAM STAINING 1)Primary staining with a pararosaniline dye such as crystal violet, methyl violet, or gentian violet 2)Application of a dilute solution of iodine 3)Decolourisation with an inorganic solvent such as ethanol, acetone, or aniline 4)Counterstaining with a dye of contrasting color such as carbon fuchsin, safranine or neutral red Congo Red: It is an organic dye, an azo dye mainly used in the diagnosis of amyloidosis REF:Ananthanarayan & Panicker's Textbook of Microbiology 9th Edition pg no: 13",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ec204bb2-b3db-46a5-9d77-b63d1c3279fa": {
-    "cop": 3,
-    "exp": "Candle wax drippings occurs when heat generated in electrocution melts the calcium phosphate in bone. It is a radiographic appearance."
+    "cop": 2,
+    "exp": "Candle wax drippings occurs when heat generated in electrocution melts the calcium phosphate in bone. It is a radiographic appearance.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"characteristic of\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1ef6dfbe-6186-43d5-b3da-eb97ac8a5775": {
-    "cop": 1,
-    "exp": "Mitral cells are neurons that are pa of the olfactory system. They are located in the olfactory bulb in the mammalian central nervous system. They receive information from the axons of olfactory receptor neurons, forming synapses in glomeruli. Axons of the mitral cells transfer information to a number of areas in the brain, including the piriform coex, entorhinal coex, and amygdala. Mitral cells receive excitatory input from olfactory sensory neurons and external tufted cells on their primary dendrites, whereas inhibitory input arises either from granule cells onto their lateral dendrites and soma or from periglomerular cells onto their dendritic tuft. Mitral cells together with tufted cells from an obligatory relay for all olfactory information entering from the olfactory nerve."
+    "cop": 0,
+    "exp": "Mitral cells are neurons that are pa of the olfactory system. They are located in the olfactory bulb in the mammalian central nervous system. They receive information from the axons of olfactory receptor neurons, forming synapses in glomeruli. Axons of the mitral cells transfer information to a number of areas in the brain, including the piriform coex, entorhinal coex, and amygdala. Mitral cells receive excitatory input from olfactory sensory neurons and external tufted cells on their primary dendrites, whereas inhibitory input arises either from granule cells onto their lateral dendrites and soma or from periglomerular cells onto their dendritic tuft. Mitral cells together with tufted cells from an obligatory relay for all olfactory information entering from the olfactory nerve.",
+    "hint_exp": "🧩 Your crush solved \"seen in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d54bf9d6-8a4b-4fe1-9302-40d696f92b4f": {
-    "cop": 1,
-    "exp": "."
+    "cop": 0,
+    "exp": ".",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "06b2b1e9-0e2d-456a-af64-ac7bf063002f": {
-    "cop": 1,
-    "exp": "Ans. (a) SuicideRef: The essentials of FSM by K.S. Narayan Reddy 31st ed. /180* Tentative cuts/Hesitation marks are multiple small superficial cuts seen in cases where there is a trial of suicide.* MC site for tentative cuts are: Forearm"
+    "cop": 0,
+    "exp": "Ans. (a) SuicideRef: The essentials of FSM by K.S. Narayan Reddy 31st ed. /180* Tentative cuts/Hesitation marks are multiple small superficial cuts seen in cases where there is a trial of suicide.* MC site for tentative cuts are: Forearm",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2483417f-8be5-4946-91cf-f09be830ef13": {
-    "cop": 2,
-    "exp": "Side effects of BCG vaccine Local ulceration Discharging sinus Axillary lymphadenitis In immunocompromised pt - Disseminated infection, osteomyelitis, scrofuloderma are seen OTHER OPTIONS & ASSOCIATED SIDE EFFECTS:"
+    "cop": 1,
+    "exp": "Side effects of BCG vaccine Local ulceration Discharging sinus Axillary lymphadenitis In immunocompromised pt - Disseminated infection, osteomyelitis, scrofuloderma are seen OTHER OPTIONS & ASSOCIATED SIDE EFFECTS:",
+    "hint_exp": "🎯 Think of \"Osteitis seen side effect\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "db53cd29-592c-4fc3-8434-13813f9691de": {
-    "cop": 4,
-    "exp": "Ans. (D) Piroxicam(Ref: KDT 8th/e p218)NSAIDs and colchicine are highly effective in acute attack of gout whereas allopurinol and sulfinpyrazone are used for chronic gout. Furosemide causes hyperuricemia and should be avoided in patients with gout."
+    "cop": 3,
+    "exp": "Ans. (D) Piroxicam(Ref: KDT 8th/e p218)NSAIDs and colchicine are highly effective in acute attack of gout whereas allopurinol and sulfinpyrazone are used for chronic gout. Furosemide causes hyperuricemia and should be avoided in patients with gout.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following drugs\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "aff176a8-3bed-4d09-b266-e3c017859c6a": {
-    "cop": 2,
-    "exp": "B. i.e. Fiber optic bronchoscopy"
+    "cop": 1,
+    "exp": "B. i.e. Fiber optic bronchoscopy",
+    "hint_exp": "🧩 Your crush solved \"Placement double lumen tube\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "edf02a69-25a0-4c8a-a4ba-d4a53a443532": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Disadvantages high speed instrumentation\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e0aa1def-b75b-4277-84c3-c4d140b0e598": {
-    "cop": 3,
-    "exp": "Whipple's disease is a rare condition characterised by infiltration of small imtestinal mucosa by foamy macrophages, which stain positive with periodic acid-schiff reagent. It is caused by infection with Gram positive bacillusTropheryma whipplei, which becomes resident in the bowel mucosa. Clinical features include diarrhea ,steatorrhea,weight loss,ascites, sacroiliitis,protein losing enteropathy, apathy,fits,pleurisy. Reference Harrison20th edition pg 1103"
+    "cop": 2,
+    "exp": "Whipple's disease is a rare condition characterised by infiltration of small imtestinal mucosa by foamy macrophages, which stain positive with periodic acid-schiff reagent. It is caused by infection with Gram positive bacillusTropheryma whipplei, which becomes resident in the bowel mucosa. Clinical features include diarrhea ,steatorrhea,weight loss,ascites, sacroiliitis,protein losing enteropathy, apathy,fits,pleurisy. Reference Harrison20th edition pg 1103",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"patient being investigated chronic\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "33502cf1-199b-4d66-be3b-53a29f74d3c4": {
-    "cop": 3,
-    "exp": "Stroke vol is the volume of blood pumped from left ventricle per beat SV can be calculated by 1) CO =SV*HR 2)Ejection fraction= SV/ End diastolic. volume 3) SV= EDV-ESV of each ventricle"
+    "cop": 2,
+    "exp": "Stroke vol is the volume of blood pumped from left ventricle per beat SV can be calculated by 1) CO =SV*HR 2)Ejection fraction= SV/ End diastolic. volume 3) SV= EDV-ESV of each ventricle",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "79924ff5-e04c-496a-a01d-268db1b7deed": {
-    "cop": 1,
-    "exp": "Patient-controlled analgesia (PCA) is now in widespread use for the management of breakthrough pain. With PCA, the patient controls a parenteral usually intravenous infusion device by pressing a button to deliver a preprogrammed dose of the desired opioid analgesic. Has better pain control using less opioid. REF: Katzung 13 TH ED. pg: 554"
+    "cop": 0,
+    "exp": "Patient-controlled analgesia (PCA) is now in widespread use for the management of breakthrough pain. With PCA, the patient controls a parenteral usually intravenous infusion device by pressing a button to deliver a preprogrammed dose of the desired opioid analgesic. Has better pain control using less opioid. REF: Katzung 13 TH ED. pg: 554",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"given commonly by\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d956860e-3ebe-4be9-9e5a-5eda9745970b": {
-    "cop": 4,
-    "exp": "A, B, C i.e. Sarcoidosis, Silicosis, Pneumoconiosis, Lymphoma following radiation treatment"
+    "cop": 3,
+    "exp": "A, B, C i.e. Sarcoidosis, Silicosis, Pneumoconiosis, Lymphoma following radiation treatment",
+    "hint_exp": "🧩 Your crush solved \"characteristically seen in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "87eb5372-f219-43de-80ba-98c2f083b2b2": {
-    "cop": 3,
-    "exp": "Goals of Minimal Intervention include:\n\nPrevention of caries.\nReduction in cariogenic bacteria.\nRemineralization of early lesions.\nMinimum surgical intervention of cavitated lesion.\nRepair rather than replacement of defective restorations.\n\nReference: International Journal of Clinical Preventive Dentistry Volume 9, Number 2, June 2013;"
+    "cop": 2,
+    "exp": "Goals of Minimal Intervention include:\n\nPrevention of caries.\nReduction in cariogenic bacteria.\nRemineralization of early lesions.\nMinimum surgical intervention of cavitated lesion.\nRepair rather than replacement of defective restorations.\n\nReference: International Journal of Clinical Preventive Dentistry Volume 9, Number 2, June 2013;",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"goals Minimal Intervention Dentistry\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b91aca44-de3b-480b-85f4-fdef10cc52f5": {
-    "cop": 1,
-    "exp": "Ref. DC Dutta's Textbook of Obstetrics. Pg 890\n \nINDICATIONS OF HORMONAL THERAPY\n\nRelief of menopausal symptoms like hot flushes, senile vaginitis, mood swings, decreased libido, memory loss, irritability, increased risk of CAD\nPrevention of osteoporosis\nTo maintain the quality of life in menopausal years"
+    "cop": 0,
+    "exp": "Ref. DC Dutta's Textbook of Obstetrics. Pg 890\n \nINDICATIONS OF HORMONAL THERAPY\n\nRelief of menopausal symptoms like hot flushes, senile vaginitis, mood swings, decreased libido, memory loss, irritability, increased risk of CAD\nPrevention of osteoporosis\nTo maintain the quality of life in menopausal years",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"menopausal women\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "85e2fe72-b5dd-4413-b918-ceb607bc4e48": {
-    "cop": 3,
-    "exp": "Ans: C (Elongated epiglottis with thin aryepiglottic folds on laryngoscopy) Ref: Diseases of the Ear Nose and Throat by PL Dhingra.5th edn .20I0.pg314Explanation:LaryngomalaciaDue to excessive flaccidity of the supraglottis which gets sucked in during inspirationMost common congenital cause for stridorPresents soon after birth and disappears by 2 years of ageThere is inspiratory stridor which worsens on crying and decreases on lying supineO/E long elongated omega shaped epiglottis with elongated and floppy aryepiglottic folds and prominent arytenoidsTreatment is mostly conservative and reassuranceSevere cases may require surgery like epiglo- ttoplasty. supraglottoplasty"
+    "cop": 2,
+    "exp": "Ans: C (Elongated epiglottis with thin aryepiglottic folds on laryngoscopy) Ref: Diseases of the Ear Nose and Throat by PL Dhingra.5th edn .20I0.pg314Explanation:LaryngomalaciaDue to excessive flaccidity of the supraglottis which gets sucked in during inspirationMost common congenital cause for stridorPresents soon after birth and disappears by 2 years of ageThere is inspiratory stridor which worsens on crying and decreases on lying supineO/E long elongated omega shaped epiglottis with elongated and floppy aryepiglottic folds and prominent arytenoidsTreatment is mostly conservative and reassuranceSevere cases may require surgery like epiglo- ttoplasty. supraglottoplasty",
+    "hint_exp": "🎯 Think of \"Laryngomalacia characterized\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3a998d43-6d2e-4c34-98fd-459b2277e4eb": {
-    "cop": 3,
-    "exp": "Ans. c.'Obstructive TAPVC { Rc/: Ll lllohttn Retlth,. Cunliut. Srr ('unliut surgen''4,,uar oJ rht' se,tinurs in Trnrucic and Cardiovascular Surgery 2003;4:271-276)Obstructive TAPVC is worsened by prostaglandin E infusionln infants with or who have a clinical suspicion for a ductal dependent congenital hea defect, prostaglandin E, should be administered until a definitive diagnosis or treatment is established.TAPVC Total anomalous pulmonary venous connection (TAPVC) is characterized by abnormal drainage of pulmonary veins into the right hea either by direct connection into the right atrium or into its tributaries.According to the site or level of connection of the pulmonary veins to the systemic venous system TAPVC has been classified into four types :-Type I (most common: 45%) : Anomalous connection at supracardiac level (PV drains into left innominate vein or SVC)Type II (25%) : Anomalous connection at cardiac level (PV joins the coronary sinus or enter right atrium directly).Type III (25%) : Anomalous connection at infracardiac level (PV drain into poal vein).Type IV (5%) : Anomalous connection at multiple levels.Infracardiac type of TAPVC is always obstructive whereas cardiac and supracardiac type may be obstructive or nonobstructive.X-ray findings of TAPVCCardiomegalyPlethoric lung fieldsSnowman or figure of '8' configuration - In supracardiac TAPVC.Ground glass appearance of lung - In obstructive TAPVC.Clinical manifestations of TAPVCNonobstructive TAPVC - Patients presents with mild cyanosis and CHF at 6-8 weeks.Obstructive TAPVC - Paients presents with severe cyanosis and CHF within first week.In supracardiac TAPVC the pulmonary veins join to form a single trunk (common pulmonary vein) which than drain through anomalous connection"
+    "cop": 2,
+    "exp": "Ans. c.'Obstructive TAPVC { Rc/: Ll lllohttn Retlth,. Cunliut. Srr ('unliut surgen''4,,uar oJ rht' se,tinurs in Trnrucic and Cardiovascular Surgery 2003;4:271-276)Obstructive TAPVC is worsened by prostaglandin E infusionln infants with or who have a clinical suspicion for a ductal dependent congenital hea defect, prostaglandin E, should be administered until a definitive diagnosis or treatment is established.TAPVC Total anomalous pulmonary venous connection (TAPVC) is characterized by abnormal drainage of pulmonary veins into the right hea either by direct connection into the right atrium or into its tributaries.According to the site or level of connection of the pulmonary veins to the systemic venous system TAPVC has been classified into four types :-Type I (most common: 45%) : Anomalous connection at supracardiac level (PV drains into left innominate vein or SVC)Type II (25%) : Anomalous connection at cardiac level (PV joins the coronary sinus or enter right atrium directly).Type III (25%) : Anomalous connection at infracardiac level (PV drain into poal vein).Type IV (5%) : Anomalous connection at multiple levels.Infracardiac type of TAPVC is always obstructive whereas cardiac and supracardiac type may be obstructive or nonobstructive.X-ray findings of TAPVCCardiomegalyPlethoric lung fieldsSnowman or figure of '8' configuration - In supracardiac TAPVC.Ground glass appearance of lung - In obstructive TAPVC.Clinical manifestations of TAPVCNonobstructive TAPVC - Patients presents with mild cyanosis and CHF at 6-8 weeks.Obstructive TAPVC - Paients presents with severe cyanosis and CHF within first week.In supracardiac TAPVC the pulmonary veins join to form a single trunk (common pulmonary vein) which than drain through anomalous connection",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following conditions\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f392600c-e0ac-4c2f-9535-ac31cd78726a": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., It can be safely administered with any nephrotoxic drug"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., It can be safely administered with any nephrotoxic drug",
+    "hint_exp": "🧩 Your crush solved \"the following statements\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "de161693-4ef3-4d15-8431-ac37c03d8297": {
-    "cop": 3,
-    "exp": "UNESCO: ParisUNICEF: NewyorkWHO: Geneva"
+    "cop": 2,
+    "exp": "UNESCO: ParisUNICEF: NewyorkWHO: Geneva",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"UNESCO\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bf5d93c0-3011-4145-b908-d3e53cc12d7e": {
-    "cop": 1,
-    "exp": "Donovanosis (granuloma inguinale or granuloma venerum) is caused by calymmatobacterium granulomatis."
+    "cop": 0,
+    "exp": "Donovanosis (granuloma inguinale or granuloma venerum) is caused by calymmatobacterium granulomatis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Granuloma venereum caused\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b88c6552-0349-4ecc-9bf6-882ffa730d55": {
-    "cop": 3,
-    "exp": "Ans. c. Lower GI study"
+    "cop": 2,
+    "exp": "Ans. c. Lower GI study",
+    "hint_exp": "🎯 Think of \"neonate hours with history\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "57f00f3b-29db-427a-8bd6-646c149d9d7f": {
-    "cop": 3,
-    "exp": "Supercoiling occurs in both Prokaryotes & Eukaryotes. Supercoiling is because of dsDNA & dsDNA is present in Both Prokaryotes & Eukaryotes. Supercoiling means a segment of dsDNA is wound nearly twice, causing supercoiling. Eukaryotes have closed, circular, dsDNA molecules in their mitochondria, as do plant chloroplasts. A prokaryotic organism typically contains a single, circular, dsDNA molecule. [Note: Circular DNA is \"supercoiled\", that is, the double helix crosses over on itself one or more times. Supercoiling can result in over winding (positive supercoiling) or under winding (negative supercoiling) of DNA."
+    "cop": 2,
+    "exp": "Supercoiling occurs in both Prokaryotes & Eukaryotes. Supercoiling is because of dsDNA & dsDNA is present in Both Prokaryotes & Eukaryotes. Supercoiling means a segment of dsDNA is wound nearly twice, causing supercoiling. Eukaryotes have closed, circular, dsDNA molecules in their mitochondria, as do plant chloroplasts. A prokaryotic organism typically contains a single, circular, dsDNA molecule. [Note: Circular DNA is \"supercoiled\", that is, the double helix crosses over on itself one or more times. Supercoiling can result in over winding (positive supercoiling) or under winding (negative supercoiling) of DNA.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Supercoiling occurs\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d72ec441-1a8f-42c9-9927-f0f3ebc49b84": {
-    "cop": 4,
-    "exp": "Ans: D (Mitochondrial....) Outer mitochondrial membrane permeabilization during apoptosis toxsci.oxfordjournals.org/content/53/2/340-abstract\"One critical step of apoptosis is the release of mitochondrial proteins through the outer mitochondrial membrane. Recent work shows that two pro-apoptotic Bcl-2 family proteins, Bax and Bid, as well as the mitochondrion-specific lipid cardiolipin may cooperate in chemically defined liposomes to generate a protein-permeable conduit, relaunching the debate on the identity of the pore responsible for mitochondrial membrane permeabilization during apoptosis\"Outer mitochondrial membrane permeabilization during apoptosis triggers caspase-independent mitochondrial and caspase-dependent plasma membrane potential depolarization\" jcs.biologists.org/cgi/content/ full/116 /3/525# Little is known about the temporal relationship between mitochondrial and plasma membrane potential changes and outer mitochondrial membrane permeabilization during apoptosis'. Of note, mitochondria did not completely depolarize but established a new steady-state level that could be further dissipated by treatment with the protonophore carbonyl cyanide p-trifluoromethoxy- phenylhydrazone. Treatment with the FOFl-ATP-synthase inhibitor oligomycin likewise induced a collapse of this steady-state level, suggesting that FOFl-ATP-synthase reversal maintained mitochondrial potential after outer mitochondrial membrane permeabilization.# Our results demonstrate that outer mitochondrial membrane permeabilization coordinates the depolarization of both membrane potentials during apoptosisMITOCHONDRIAL REGULATION en.wikipedia.org/wiki/ Apoptosis# Mitochondrial proteins known as SMACs (second mitochondria-derived activator of caspases) are released into the cytosol following an increase in permeability. SMAC binds to inhibitor of apoptosis proteins (IAPs) and deactivates them, preventing the lAPs from arresting the apoptotic process and therefore allowing apoptosis to proceed. IAP also normally suppresses the activity of a group of cysteine proteases called caspases, which carry out the degradation of the cell, therefore the actual degradation enzymes can be seen to be indirectly regulated by mitochondrial permeability.# MAC, also called \"Mitochondrial Outer Membrane Permeabilization Pore\" is regulated by various proteins, such as those encoded by the mammalian Bcl-2 family of anti-apoptopic genes, the homologs of the ced-9 gene found in C. elegans."
+    "cop": 3,
+    "exp": "Ans: D (Mitochondrial....) Outer mitochondrial membrane permeabilization during apoptosis toxsci.oxfordjournals.org/content/53/2/340-abstract\"One critical step of apoptosis is the release of mitochondrial proteins through the outer mitochondrial membrane. Recent work shows that two pro-apoptotic Bcl-2 family proteins, Bax and Bid, as well as the mitochondrion-specific lipid cardiolipin may cooperate in chemically defined liposomes to generate a protein-permeable conduit, relaunching the debate on the identity of the pore responsible for mitochondrial membrane permeabilization during apoptosis\"Outer mitochondrial membrane permeabilization during apoptosis triggers caspase-independent mitochondrial and caspase-dependent plasma membrane potential depolarization\" jcs.biologists.org/cgi/content/ full/116 /3/525# Little is known about the temporal relationship between mitochondrial and plasma membrane potential changes and outer mitochondrial membrane permeabilization during apoptosis'. Of note, mitochondria did not completely depolarize but established a new steady-state level that could be further dissipated by treatment with the protonophore carbonyl cyanide p-trifluoromethoxy- phenylhydrazone. Treatment with the FOFl-ATP-synthase inhibitor oligomycin likewise induced a collapse of this steady-state level, suggesting that FOFl-ATP-synthase reversal maintained mitochondrial potential after outer mitochondrial membrane permeabilization.# Our results demonstrate that outer mitochondrial membrane permeabilization coordinates the depolarization of both membrane potentials during apoptosisMITOCHONDRIAL REGULATION en.wikipedia.org/wiki/ Apoptosis# Mitochondrial proteins known as SMACs (second mitochondria-derived activator of caspases) are released into the cytosol following an increase in permeability. SMAC binds to inhibitor of apoptosis proteins (IAPs) and deactivates them, preventing the lAPs from arresting the apoptotic process and therefore allowing apoptosis to proceed. IAP also normally suppresses the activity of a group of cysteine proteases called caspases, which carry out the degradation of the cell, therefore the actual degradation enzymes can be seen to be indirectly regulated by mitochondrial permeability.# MAC, also called \"Mitochondrial Outer Membrane Permeabilization Pore\" is regulated by various proteins, such as those encoded by the mammalian Bcl-2 family of anti-apoptopic genes, the homologs of the ced-9 gene found in C. elegans.",
+    "hint_exp": "🧩 Your crush solved \"permeabiiization of membrane\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3845d507-e50e-41c5-9eed-8147473dc7fe": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "72cecfef-6f34-46b9-be09-4cb34ca38ca1": {
-    "cop": 2,
-    "exp": "Answer is B (HLA-B27 determine genetic susceptibility): HLA-B27 antigen is associated with seronegative spondyloahropathies and not Rheumatoid Ahritis. RA is associated with HLA DR alleles and may present with anemia, subcutaneous nodules and joint deformities. HLA B 27 associated seronegative spondyloahropathies Ankylosing spondylitis Psoriatic ahritis Reactive ahritis (Reiter's syndrome) Enteropathic ahritis (Associated with Inflammatory Bowel disease) Undifferentiated spondyloahropathy"
+    "cop": 1,
+    "exp": "Answer is B (HLA-B27 determine genetic susceptibility): HLA-B27 antigen is associated with seronegative spondyloahropathies and not Rheumatoid Ahritis. RA is associated with HLA DR alleles and may present with anemia, subcutaneous nodules and joint deformities. HLA B 27 associated seronegative spondyloahropathies Ankylosing spondylitis Psoriatic ahritis Reactive ahritis (Reiter's syndrome) Enteropathic ahritis (Associated with Inflammatory Bowel disease) Undifferentiated spondyloahropathy",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "58682770-cbab-4938-a0c5-c991807386b7": {
-    "cop": 1,
-    "exp": "Ans. is a, i.e. Immediate C.S.Ref. Dutta Obs 7/e, p 249, 250; Fernando Arias 3/e, p 337, 339As Explained in the previous question- Patient presenting with bleeding, at 37 weeks of gestation with central placenta previa, management should be immediate emergency cesarean section."
+    "cop": 0,
+    "exp": "Ans. is a, i.e. Immediate C.S.Ref. Dutta Obs 7/e, p 249, 250; Fernando Arias 3/e, p 337, 339As Explained in the previous question- Patient presenting with bleeding, at 37 weeks of gestation with central placenta previa, management should be immediate emergency cesarean section.",
+    "hint_exp": "🎯 Think of \"lady with weeks pregnancy\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "115ca61a-aa6a-4a4a-b62e-3c443941f120": {
-    "cop": 3,
-    "exp": "Ligature is cut away from the knot. Depth, width, direction, raised edges of skin, zones of hyperaemia, presence of duplicate strangulation marks, dried excoriations due to slippage of the implement, textile weave pattern, distribution of petechia in skin, scratch marks All these things are to be noted at the ligature site, after the ligature is cut away. Ref: K.S.Narayan Reddy's Synopsis of Forensic Medicine and Toxicology, 29th edition, Chapter 13, page-177."
+    "cop": 2,
+    "exp": "Ligature is cut away from the knot. Depth, width, direction, raised edges of skin, zones of hyperaemia, presence of duplicate strangulation marks, dried excoriations due to slippage of the implement, textile weave pattern, distribution of petechia in skin, scratch marks All these things are to be noted at the ligature site, after the ligature is cut away. Ref: K.S.Narayan Reddy's Synopsis of Forensic Medicine and Toxicology, 29th edition, Chapter 13, page-177.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"case of hanging\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "97b48159-51ff-4a01-a891-83572634e2f4": {
-    "cop": 3,
-    "exp": "Ans. (C) Bone Marrow suppression(Ref: CMDT 2010/1499, KDT 8th/e p917)Depression of bone marrow is usually the most significant dose limiting toxicity with cancer chemotherapy."
+    "cop": 2,
+    "exp": "Ans. (C) Bone Marrow suppression(Ref: CMDT 2010/1499, KDT 8th/e p917)Depression of bone marrow is usually the most significant dose limiting toxicity with cancer chemotherapy.",
+    "hint_exp": "🧩 Your crush solved \"cancer chemotherapy\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "355c2612-cd99-4061-9994-edc6a74e4a70": {
-    "cop": 1,
-    "exp": "RADIOISOTOPE HALF UFE IODINE 131 8 DAYS IODINE 125 60 DAYS IODINE 124 4 DAYS IODINE 123 13 HOURS PHOSPHORUS-32 14 DAYS RADIUM(RA-226) 1622 Years Cobalt-60 5.2 Years Cesium -137 30 years TC-99m 6 hours Indium(lr-192) 74.5 Days 18F(18FDG) 110 Aim Strontium 89"
+    "cop": 0,
+    "exp": "RADIOISOTOPE HALF UFE IODINE 131 8 DAYS IODINE 125 60 DAYS IODINE 124 4 DAYS IODINE 123 13 HOURS PHOSPHORUS-32 14 DAYS RADIUM(RA-226) 1622 Years Cobalt-60 5.2 Years Cesium -137 30 years TC-99m 6 hours Indium(lr-192) 74.5 Days 18F(18FDG) 110 Aim Strontium 89",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Half life radioactive fluorine\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2cdb8c54-5573-4870-8c7c-54a00c65fea5": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"propagated\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "73b19cf3-269f-4f41-8830-0dc9eb24c775": {
-    "cop": 4,
-    "exp": "The rod receptor potential differs from the outer surface receptors in that it shows Hyperpolarization. In most sensory receptors: Arrival of stimulus - Ion channels are opened up allowing current to flow - depolarisation of the receptor. In photoreceptors: When the light strikes the outer segment, a cascade of reactions are initiated, that close some of the Na+ channels in the outer segment and results in hyperpolarisation. Ref: Guyton and Hall 13th edition Pgno: 650-651"
+    "cop": 3,
+    "exp": "The rod receptor potential differs from the outer surface receptors in that it shows Hyperpolarization. In most sensory receptors: Arrival of stimulus - Ion channels are opened up allowing current to flow - depolarisation of the receptor. In photoreceptors: When the light strikes the outer segment, a cascade of reactions are initiated, that close some of the Na+ channels in the outer segment and results in hyperpolarisation. Ref: Guyton and Hall 13th edition Pgno: 650-651",
+    "hint_exp": "🎯 Think of \"receptor potential differs from\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ef63a5bf-f2b2-4e33-bb34-48158240f7fb": {
-    "cop": 2,
-    "exp": "Ans. Nitric acid"
+    "cop": 1,
+    "exp": "Ans. Nitric acid",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"skin and mucosa\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5486ce18-d392-4cf8-bf26-61c45afb474d": {
-    "cop": 1,
-    "exp": "Long-Chain Fatty Acids Penetrate the Inner Mitochondrial Membrane as Carnitine Derivatives Carnitine (-hydroxy--trimethylammonium butyrate), (CH3)3N+--CH2--CH(OH)--CH2--COO-, is widely distributed and is paicularly abundant in muscle. Long-chain acyl-CoA (or FFA) cannot penetrate the inner membrane of mitochondria. In the presence of carnitine, however, carnitine palmitoyltransferase-I, located in the outer mitochondrial membrane, conves long-chain acyl-CoA to acylcarnitine, which is able to penetrate the inner membrane and gain access to the -oxidation system of enzymes. Carnitine-acylcarnitine translocase acts as an inner membrane exchange transpoer. Acylcarnitine is transpoed in, coupled with the transpo out of one molecule of carnitine. The acylcarnitine then reacts with CoA, catalyzed by carnitine palmitoyltransferase-II, located on the inside of the inner membrane, reforming acyl-CoA in the mitochondrial matrix, and carnitine is liberated. Ref: Biochemistry by U. Satyanarayana 3rd edition Pgno : 288"
+    "cop": 0,
+    "exp": "Long-Chain Fatty Acids Penetrate the Inner Mitochondrial Membrane as Carnitine Derivatives Carnitine (-hydroxy--trimethylammonium butyrate), (CH3)3N+--CH2--CH(OH)--CH2--COO-, is widely distributed and is paicularly abundant in muscle. Long-chain acyl-CoA (or FFA) cannot penetrate the inner membrane of mitochondria. In the presence of carnitine, however, carnitine palmitoyltransferase-I, located in the outer mitochondrial membrane, conves long-chain acyl-CoA to acylcarnitine, which is able to penetrate the inner membrane and gain access to the -oxidation system of enzymes. Carnitine-acylcarnitine translocase acts as an inner membrane exchange transpoer. Acylcarnitine is transpoed in, coupled with the transpo out of one molecule of carnitine. The acylcarnitine then reacts with CoA, catalyzed by carnitine palmitoyltransferase-II, located on the inside of the inner membrane, reforming acyl-CoA in the mitochondrial matrix, and carnitine is liberated. Ref: Biochemistry by U. Satyanarayana 3rd edition Pgno : 288",
+    "hint_exp": "🧩 Your crush solved \"Long chain fatty acids\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "58b364d7-6b7b-4c64-be57-7478b2ac902e": {
-    "cop": 1,
-    "exp": "Answer is A (Prolonged bleeding time (BT) Bleeding time is indicative of function of platelets. Aspirin ingestion results in defective platelet function and hence the deranged parameter will be Bleeding time. PT, APTT and Clotting time (CT) are parameters of coagulation defects, and will be normal in isolated disorders of platelet function. 'Ingestion of Aspirin and other Nonsteroidal Antiinflammatory drugs, significantly prolongs the bleeding time'. `Aspirin even in small doses irreversibly inhibits T xA2 synthesis by platelets. Thus it interferes with platelet aggregation and bleeding time is prolonged to nearly twice the normal value'- Note: Aspirin irreversibly inhibits COX -1 and COX - 2. (Harrison) COX inhibition leads to prevention of TXA2 synthesis and impairment of platelet secretion and aggregation The effect of aspirin on platelet function occur within 1 hour and lasts for the duration of the affected platelet's life span ie. 1 week.Q"
+    "cop": 0,
+    "exp": "Answer is A (Prolonged bleeding time (BT) Bleeding time is indicative of function of platelets. Aspirin ingestion results in defective platelet function and hence the deranged parameter will be Bleeding time. PT, APTT and Clotting time (CT) are parameters of coagulation defects, and will be normal in isolated disorders of platelet function. 'Ingestion of Aspirin and other Nonsteroidal Antiinflammatory drugs, significantly prolongs the bleeding time'. `Aspirin even in small doses irreversibly inhibits T xA2 synthesis by platelets. Thus it interferes with platelet aggregation and bleeding time is prolonged to nearly twice the normal value'- Note: Aspirin irreversibly inhibits COX -1 and COX - 2. (Harrison) COX inhibition leads to prevention of TXA2 synthesis and impairment of platelet secretion and aggregation The effect of aspirin on platelet function occur within 1 hour and lasts for the duration of the affected platelet's life span ie. 1 week.Q",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"patient aspirin what will\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5854e9c7-0a90-44fc-812b-6a3f11bfee08": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "51b67144-c11a-46e1-8c98-df28453bd298": {
-    "cop": 3,
-    "exp": "Decompression of endolymphatic sac is done as a conservative procedure as a pa of the surgical treatment of Meniere's disease. Ref: Diseases of EAR, NOSE and THROAT by PL Dhingra 7th Edition page no.115"
+    "cop": 2,
+    "exp": "Decompression of endolymphatic sac is done as a conservative procedure as a pa of the surgical treatment of Meniere's disease. Ref: Diseases of EAR, NOSE and THROAT by PL Dhingra 7th Edition page no.115",
+    "hint_exp": "🎯 Think of \"done in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9e1ac2ed-b9d0-42d1-99dc-1fa01f6fcecf": {
-    "cop": 2,
-    "exp": "The pisiform is a sesamoid bone, with no covering membrane of periosteum. It is the last carpal bone to ossify. \nThe pisiform bone is a small bone found in the proximal row of the wrist (carpus). \nIt is situated where the ulna joins the wrist, within the tendon of the flexor carpi ulnaris muscle."
+    "cop": 1,
+    "exp": "The pisiform is a sesamoid bone, with no covering membrane of periosteum. It is the last carpal bone to ossify. \nThe pisiform bone is a small bone found in the proximal row of the wrist (carpus). \nIt is situated where the ulna joins the wrist, within the tendon of the flexor carpi ulnaris muscle.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Pisiform which type bone\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "71fd77d6-da6d-458e-85c9-03ae6e9f7981": {
-    "cop": 1,
-    "exp": "A i.e. Transketolase level in blood"
+    "cop": 0,
+    "exp": "A i.e. Transketolase level in blood",
+    "hint_exp": "🧩 Your crush solved \"Thiamine level best monitored\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7805ff09-7b22-4f60-9404-a9e5100bccdf": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Carcinomas following sites metastasize\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "49058065-d23e-462b-bd76-74a9b3fd2fbd": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Decreased aqueous production"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Decreased aqueous production",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"beta blokers in glaucoma\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fd575e69-9635-49e4-b492-ea1421c69b27": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Rural health mission"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Rural health mission",
+    "hint_exp": "🎯 Think of \"Asha scheme associated with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4c5fe644-b7da-40e9-90ad-d8c12f0f4d97": {
-    "cop": 1,
-    "exp": "Answer is A (Ventricular Tachycardia) Defibrillation is indicated when cardiac arrest occurs secondary to ventricular fibrillation or pulseless ventricular tachycardia (shockable rhythms)"
+    "cop": 0,
+    "exp": "Answer is A (Ventricular Tachycardia) Defibrillation is indicated when cardiac arrest occurs secondary to ventricular fibrillation or pulseless ventricular tachycardia (shockable rhythms)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"young patient sustains cardiac\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "84ea1e2a-e109-4329-b195-d22c174bdb28": {
-    "cop": 1,
-    "exp": "Fetomaternal hemorrhage occur only at the time of delivery. Only in 5% cases transplacental transfer of RBC occur in the first trimester. The leak is very small and insufficient to produce primary immune response. Moreover as a primary response IgM antibodies are produced, which due to its large size do not cross the placenta. Therfore primary sensitization occur in less than 1% of first Rh incompatible pregnancy. Ref: Pregnancy at Risk: Current Concepts By Krishna, 4th Edition, Page 387 ; Textbook of Obstetrics By D.C.Dutta, 6th Edition, Pages 333-4"
+    "cop": 0,
+    "exp": "Fetomaternal hemorrhage occur only at the time of delivery. Only in 5% cases transplacental transfer of RBC occur in the first trimester. The leak is very small and insufficient to produce primary immune response. Moreover as a primary response IgM antibodies are produced, which due to its large size do not cross the placenta. Therfore primary sensitization occur in less than 1% of first Rh incompatible pregnancy. Ref: Pregnancy at Risk: Current Concepts By Krishna, 4th Edition, Page 387 ; Textbook of Obstetrics By D.C.Dutta, 6th Edition, Pages 333-4",
+    "hint_exp": "🧩 Your crush solved \"phenomenon\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

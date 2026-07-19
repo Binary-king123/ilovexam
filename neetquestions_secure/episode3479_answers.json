@@ -1,202 +1,252 @@
 {
   "2b12b6ca-98ff-42a1-b87b-9858a7a1a034": {
-    "cop": 3,
-    "exp": "Answer is C (Median Survival in locally advanced (stage III) disease is 3- 6 months) Median survival of locally advanced (Stage III) disease is 6-10 months and not 3-6 months. Median survival of 3-6 months is a feature of Metastatic Stage IV disease. Median survival in locally advanced disease (stage III) is 6 - 10 months Metastatic disease (stage IV) is associated with a median survival of 3 - 6 months. Stage III locally advanced disease is associated with a median survival of 6 - 10 months Clinical / Radiological Criteria Median Survival Resectable Disease (Stage I and Stage II) 15 - 20 months Locally Advanced Disease (Stage III) 6 - 10 months Metastatic Disease (Stage IV) 3 - 6 months p53 mutation is seen in 75% of cases of Pancreatic cancer Gene Pancreatic Cancer% Colorectal Cancer (%) * P16 95 0 * K - ras 90 50 * P53 75 60 * DPC4 55 15 * BRCA 2 7 ? Taken from Gastrointestinal and Liver disease' by Feldman 81 /1312 Hereditary Pancreatitis significantly increases the risk of Pancreatic Cancer 'One of the most impoant genetic factors in pancreatic carcinoma is hereditary pancreatitis. Affected patients have an abnormal trypsin gene that is transmitted as an autosomal dominant trait. Their risk of development of pancreatic cancer by age 70 years is estimated at 40%' - 'Gastrointestinal and Liver Diseases' by Feldman 8th / 1309 Five Year Survival after curative Pancreaticoduodenectomy approaches 15 -20%. Overall 5-year survival rate with pancreatic cancer is 5% 5 - year survival rate for patients undergoing curative tumor resection (pancreaticoduodenectomy) is 15% - 20% Note Only 10% of pancreatic cancers are diagnosed at on early stage when radical resection with curative intent can be performed. - 'Pathophysiology of Disease (Lange) 5th /454'"
+    "cop": 2,
+    "exp": "Answer is C (Median Survival in locally advanced (stage III) disease is 3- 6 months) Median survival of locally advanced (Stage III) disease is 6-10 months and not 3-6 months. Median survival of 3-6 months is a feature of Metastatic Stage IV disease. Median survival in locally advanced disease (stage III) is 6 - 10 months Metastatic disease (stage IV) is associated with a median survival of 3 - 6 months. Stage III locally advanced disease is associated with a median survival of 6 - 10 months Clinical / Radiological Criteria Median Survival Resectable Disease (Stage I and Stage II) 15 - 20 months Locally Advanced Disease (Stage III) 6 - 10 months Metastatic Disease (Stage IV) 3 - 6 months p53 mutation is seen in 75% of cases of Pancreatic cancer Gene Pancreatic Cancer% Colorectal Cancer (%) * P16 95 0 * K - ras 90 50 * P53 75 60 * DPC4 55 15 * BRCA 2 7 ? Taken from Gastrointestinal and Liver disease' by Feldman 81 /1312 Hereditary Pancreatitis significantly increases the risk of Pancreatic Cancer 'One of the most impoant genetic factors in pancreatic carcinoma is hereditary pancreatitis. Affected patients have an abnormal trypsin gene that is transmitted as an autosomal dominant trait. Their risk of development of pancreatic cancer by age 70 years is estimated at 40%' - 'Gastrointestinal and Liver Diseases' by Feldman 8th / 1309 Five Year Survival after curative Pancreaticoduodenectomy approaches 15 -20%. Overall 5-year survival rate with pancreatic cancer is 5% 5 - year survival rate for patients undergoing curative tumor resection (pancreaticoduodenectomy) is 15% - 20% Note Only 10% of pancreatic cancers are diagnosed at on early stage when radical resection with curative intent can be performed. - 'Pathophysiology of Disease (Lange) 5th /454'",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Pancreatic Carcinoma\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fe89aa29-6bc3-49d8-86d1-db46064275fe": {
-    "cop": 1,
-    "exp": "The prognosis for rhabdomyosarcoma is related to the site of origin, resectability, presence of metastases, number of metastatic sites, and histopathologic features. Primary sites associated with more orable prognoses include the orbit and nonparameningeal head and neck, paratestis and vagina (nonbladder, nonprostate genitourinary), and the biliary tract. Patients with tumors Tumor histologic type influences prognosis; the embryonal variant is a orable type, whereas the alveolar type has an unorable prognosis. Ref: Schwaz's principle of surgery 9th edition, chapter 39."
+    "cop": 0,
+    "exp": "The prognosis for rhabdomyosarcoma is related to the site of origin, resectability, presence of metastases, number of metastatic sites, and histopathologic features. Primary sites associated with more orable prognoses include the orbit and nonparameningeal head and neck, paratestis and vagina (nonbladder, nonprostate genitourinary), and the biliary tract. Patients with tumors Tumor histologic type influences prognosis; the embryonal variant is a orable type, whereas the alveolar type has an unorable prognosis. Ref: Schwaz's principle of surgery 9th edition, chapter 39.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Rhabdomyosarcoma histologic variant with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ae94c6db-a7b3-4f01-bd5e-08e5bc0cfdbb": {
-    "cop": 4,
-    "exp": "Munchausen syndrome by proxy is a condition in which a person, usually a parent, presents factitious  symptoms and illnesses in a child, which may result in extensive testing and/or hospitalizations.\nExamples of emotional abuse include denial of aﬀection, isolation, extreme threats, and corruption.\nA  parent who knowingly and willingly does not seek care for a child who has pain, infection or  inadequate function is guilty of neglect."
+    "cop": 3,
+    "exp": "Munchausen syndrome by proxy is a condition in which a person, usually a parent, presents factitious  symptoms and illnesses in a child, which may result in extensive testing and/or hospitalizations.\nExamples of emotional abuse include denial of aﬀection, isolation, extreme threats, and corruption.\nA  parent who knowingly and willingly does not seek care for a child who has pain, infection or  inadequate function is guilty of neglect.",
+    "hint_exp": "🎯 Think of \"and infection\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "54da3c6d-a661-484d-9279-022019438fdd": {
-    "cop": 3,
-    "exp": "There are many types of glycogen storage diseases, each caused by a different enzymatic abnormality. The best-known types of glycogen storage disease are those that have hepatic-hypoglycemic pathophysiology (e.g., von Gierke's disease) or those that have muscle energy pathophysiology (McArdle's disease). In McArdle's symptoms usually develop in adulthood, and it is marked by cramps and muscle injury with strenuous exercise, but not with usual activities. Gaucher's and Tay-Sachs disease are lysosomal storage diseases."
+    "cop": 2,
+    "exp": "There are many types of glycogen storage diseases, each caused by a different enzymatic abnormality. The best-known types of glycogen storage disease are those that have hepatic-hypoglycemic pathophysiology (e.g., von Gierke's disease) or those that have muscle energy pathophysiology (McArdle's disease). In McArdle's symptoms usually develop in adulthood, and it is marked by cramps and muscle injury with strenuous exercise, but not with usual activities. Gaucher's and Tay-Sachs disease are lysosomal storage diseases.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the proximal muscles\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e8af01ad-e3e3-4544-a313-f88928f08c6d": {
-    "cop": 1,
-    "exp": "Maxillary sinus Maxillary sinus is not supplied by ant. ethmoidal nerve.Anterior ethmoidal nerve is the branch of the nasociliary nerve; a branch of ophthalmic division of trigeminal nerve.Ant. ethmoidal nerve supplies- Dura mater of ant. cranial fossa- Ethmoidal sinuses- Roof of the nasal cavity- Anterior pa of the lateral wall of nasal cavity- Anterior and upper pas of the nasal septum- Skin of the external nose to the nasal tip."
+    "cop": 0,
+    "exp": "Maxillary sinus Maxillary sinus is not supplied by ant. ethmoidal nerve.Anterior ethmoidal nerve is the branch of the nasociliary nerve; a branch of ophthalmic division of trigeminal nerve.Ant. ethmoidal nerve supplies- Dura mater of ant. cranial fossa- Ethmoidal sinuses- Roof of the nasal cavity- Anterior pa of the lateral wall of nasal cavity- Anterior and upper pas of the nasal septum- Skin of the external nose to the nasal tip.",
+    "hint_exp": "🧩 Your crush solved \"Anterior ethmoidal nerve suplies\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "423e6a9e-f87c-4e18-aeea-495921755f0a": {
-    "cop": 1,
-    "exp": "Ans. a. ConfabulationRef: Kaplan Step 2 CK Lecture Notes 2018 of Psychiatry;WERNICKE VERSUS KORSAKOFF SYNDROMES Wernicke syndromesKorsakoff syndromesCourseAcuteChronicReversibilityYesNoPresentationAtaxia, nystagmus, and ophthalmoplegiaConfusion, psychosis, anterograde and retrograde amnesiaTreatmentThiamineThiamine"
+    "cop": 0,
+    "exp": "Ans. a. ConfabulationRef: Kaplan Step 2 CK Lecture Notes 2018 of Psychiatry;WERNICKE VERSUS KORSAKOFF SYNDROMES Wernicke syndromesKorsakoff syndromesCourseAcuteChronicReversibilityYesNoPresentationAtaxia, nystagmus, and ophthalmoplegiaConfusion, psychosis, anterograde and retrograde amnesiaTreatmentThiamineThiamine",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"following feature Korsakoff psychosis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fbdfe4a7-e0a4-4921-8839-4f32762a2187": {
-    "cop": 1,
-    "exp": "a. 4mL/kg/%TBSA(Ref: Nelson's 20/e p 572, Ghai 8/e p 294-295)For most children with burns, the Parkland formula is an appropriate starting guideline for fluid resuscitation.According to it, 4mL lactated Ringer solution/kg/% BSA burned is usedHalf of the fluid is given over 1st 8 hr, calculated from the time of onset of injury; remaining over next 16 hours."
+    "cop": 0,
+    "exp": "a. 4mL/kg/%TBSA(Ref: Nelson's 20/e p 572, Ghai 8/e p 294-295)For most children with burns, the Parkland formula is an appropriate starting guideline for fluid resuscitation.According to it, 4mL lactated Ringer solution/kg/% BSA burned is usedHalf of the fluid is given over 1st 8 hr, calculated from the time of onset of injury; remaining over next 16 hours.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Parklands formula used Burn\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3cb4fd57-44c2-40be-b099-40f87ad9cecb": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Proximal convoluted tubule o Most of the solutes and water are maximally absorbed in proximal tubule :-i) 60-70% of Na+ is reabsorbed along with 60-70% of Cl-ii) 60-70% of K+ is reabsorbediii) 60-70% of water is reabsorbediv) All the (100%) glucose and amino-acids are absorbedv) About 80-90% of bicarbonate is reabsorbedvi) 40-50% of urea is reabsorbed"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Proximal convoluted tubule o Most of the solutes and water are maximally absorbed in proximal tubule :-i) 60-70% of Na+ is reabsorbed along with 60-70% of Cl-ii) 60-70% of K+ is reabsorbediii) 60-70% of water is reabsorbediv) All the (100%) glucose and amino-acids are absorbedv) About 80-90% of bicarbonate is reabsorbedvi) 40-50% of urea is reabsorbed",
+    "hint_exp": "🎯 Think of \"water\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "27c2f88e-3f2a-4d64-b5b3-430f34a8d72f": {
-    "cop": 4,
-    "exp": "Ans. D. 80mlMenorrhagia is a term widely used for the loss of more than 80ml of blood per cycle and frequently producing anemia. Predictors of menorrhagia includes bleeding that leads to anemia with deficiency of iron or a need of transfusion, passage of clots more than 1-inch diameter and changing pad or tampon more than hourly.Normal menstrual bleeding last for an average of 5 days' span with a mean blood loss of about 40ml.Menorrhagia: Bleeding between periods.Polymenorrhea: Bleeding occurs more often than every 21 days.Oligomenorrhea: Bleeding occurs less frequently than every 35 days."
+    "cop": 3,
+    "exp": "Ans. D. 80mlMenorrhagia is a term widely used for the loss of more than 80ml of blood per cycle and frequently producing anemia. Predictors of menorrhagia includes bleeding that leads to anemia with deficiency of iron or a need of transfusion, passage of clots more than 1-inch diameter and changing pad or tampon more than hourly.Normal menstrual bleeding last for an average of 5 days' span with a mean blood loss of about 40ml.Menorrhagia: Bleeding between periods.Polymenorrhea: Bleeding occurs more often than every 21 days.Oligomenorrhea: Bleeding occurs less frequently than every 35 days.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"case the menstrual blood loss\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "73682c6e-7d69-48ba-8c4d-2bb4743db8d1": {
-    "cop": 3,
-    "exp": "Answer is C (Monoclonal gammopathy of unknown significance) 'Patients with monoclonal gammopathy of unceain significance have < 10% bone marrow plasma cells, and < 3g / dl of M component', Presence of 8% bone marrow plasma cells and 1.5 gm/dl of M component in the form of IgG in this patient thus lead us to the above diagnosis. Plasma cell dyscrasia : Monoclonal gammopathies : Paraproteinemias : dysproteinemias These are monoclonal neoplasms characterized by expansion of a single clone of immunoglobulin secreting cells (plasma cells) and result in increase in serum levels of a single homogenous 'immunoglobulin' or - its fragments (light chains or heavy chains). The most impoant differential diagnosis in patients with multiple myeloma involves their distinction from individuals with MGUS or Benign monoclonal gammopathy: Parameters Multiple myeloma Monoclonal gammopathy of undetermined significance I. Age Q > 50 years > 50 years 2. Incidence Q Less common More common 3. Plasma cells Q (%age) > 10% < 10% 4. M component Q (concentration : g/dl) > 3g/dl < 3g/di 5. Benze Jones Q proteins Present No urinary Bence Jones proteins 6. Clinical features Q Lytic bones lesions Hypercalcemia Renal failure Anemia No Lytic bony lesionsQ No hypercalcemiaQ No renal failuree No anemiae 7. Labelling index Q (Thymidine) > 1% < 1% 8. Plasma cell - acid phosphatase - glucoronidase High High Low Low 9. Treatment Required No therapy required Woldenstorm's macroglobulinemia: is also a monoclonal gammopathy and is characterized by neoplasm of lymphoplasma cytoid cells that secrete IgM M component is only IgM and not IgG."
+    "cop": 2,
+    "exp": "Answer is C (Monoclonal gammopathy of unknown significance) 'Patients with monoclonal gammopathy of unceain significance have < 10% bone marrow plasma cells, and < 3g / dl of M component', Presence of 8% bone marrow plasma cells and 1.5 gm/dl of M component in the form of IgG in this patient thus lead us to the above diagnosis. Plasma cell dyscrasia : Monoclonal gammopathies : Paraproteinemias : dysproteinemias These are monoclonal neoplasms characterized by expansion of a single clone of immunoglobulin secreting cells (plasma cells) and result in increase in serum levels of a single homogenous 'immunoglobulin' or - its fragments (light chains or heavy chains). The most impoant differential diagnosis in patients with multiple myeloma involves their distinction from individuals with MGUS or Benign monoclonal gammopathy: Parameters Multiple myeloma Monoclonal gammopathy of undetermined significance I. Age Q > 50 years > 50 years 2. Incidence Q Less common More common 3. Plasma cells Q (%age) > 10% < 10% 4. M component Q (concentration : g/dl) > 3g/dl < 3g/di 5. Benze Jones Q proteins Present No urinary Bence Jones proteins 6. Clinical features Q Lytic bones lesions Hypercalcemia Renal failure Anemia No Lytic bony lesionsQ No hypercalcemiaQ No renal failuree No anemiae 7. Labelling index Q (Thymidine) > 1% < 1% 8. Plasma cell - acid phosphatase - glucoronidase High High Low Low 9. Treatment Required No therapy required Woldenstorm's macroglobulinemia: is also a monoclonal gammopathy and is characterized by neoplasm of lymphoplasma cytoid cells that secrete IgM M component is only IgM and not IgG.",
+    "hint_exp": "🧩 Your crush solved \"year asymptomatic woman detected\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c63c1764-d2d5-42d6-a23c-c730d0a1a53a": {
-    "cop": 1,
-    "exp": "Thymoma with hypogammaglobulinemia : Good's syndrome. The Capgras syndrome is a disorder in which a person thinks that a friend, spouse, parent, or other close family member has been replaced by an identical impostor. Fregoli syndrome is the delusional belief that one or more familiar persons, usually persecutors following the patient, repeatedly change their appearance. Alice-in-Wonderland syndrome also known as Todd's syndrome or lilliputian hallucinations, is a disorienting neurological condition that affects human perception. Sufferers may experience micropsia, macropsia, or size distoion of other sensory modalities. Ref: Harrison, E-18, Chapter e-20."
+    "cop": 0,
+    "exp": "Thymoma with hypogammaglobulinemia : Good's syndrome. The Capgras syndrome is a disorder in which a person thinks that a friend, spouse, parent, or other close family member has been replaced by an identical impostor. Fregoli syndrome is the delusional belief that one or more familiar persons, usually persecutors following the patient, repeatedly change their appearance. Alice-in-Wonderland syndrome also known as Todd's syndrome or lilliputian hallucinations, is a disorienting neurological condition that affects human perception. Sufferers may experience micropsia, macropsia, or size distoion of other sensory modalities. Ref: Harrison, E-18, Chapter e-20.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Thymoma with hypogammaglobulinemia also\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "639ff782-44b1-48ea-bd83-63e0c1d2c1ac": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Arsenic poisoning Chronic arsenic poisoning First stage of gastrointestinal & nutritional disturbance: Gradual emaciation is earliest sign Anorexia, nausea, vomiting, diarrhoea & abdominal cramps Second catarrhal stage Features of common cold, bronchial catarrhal, coughing & hoarseness Third stage of skin rash Skin irritation, vesicular eruption resembling nettle rash Patchy brown raindrop type pigmentation Hyperkeratosis of palms & soles Falling of hair & brittleness of nail White transverse band or Mee's line on nail Fouh stage of nervous disturbance Sensory motor neuropathy causing tingling, numbness & paresis Encephalopathy Bone marrow suppression, anemia, weight loss, hepatomegaly, cirrhosis, nephritis, thrombocytopenia, leukemia, skin, lung, liver, bladder & kidney cancer and exfoliative dermatitis & diabetes."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Arsenic poisoning Chronic arsenic poisoning First stage of gastrointestinal & nutritional disturbance: Gradual emaciation is earliest sign Anorexia, nausea, vomiting, diarrhoea & abdominal cramps Second catarrhal stage Features of common cold, bronchial catarrhal, coughing & hoarseness Third stage of skin rash Skin irritation, vesicular eruption resembling nettle rash Patchy brown raindrop type pigmentation Hyperkeratosis of palms & soles Falling of hair & brittleness of nail White transverse band or Mee's line on nail Fouh stage of nervous disturbance Sensory motor neuropathy causing tingling, numbness & paresis Encephalopathy Bone marrow suppression, anemia, weight loss, hepatomegaly, cirrhosis, nephritis, thrombocytopenia, leukemia, skin, lung, liver, bladder & kidney cancer and exfoliative dermatitis & diabetes.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"diagnostic of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9953dd26-635c-4ccb-acc5-986d3f25bde9": {
-    "cop": 1,
-    "exp": "The common organisms causing acute bacterial meningitis in the neonatal period are E.coli, Streptococcus pneumonia, Salmonella species, Pseudomonas aeruoginosa, Streptococcus fecalis and Staphylococcus aureus. Ref: Ghai Essential Pediatris - 6th Edition, Page 517; Nelson 17th Edition, Page 2308."
+    "cop": 0,
+    "exp": "The common organisms causing acute bacterial meningitis in the neonatal period are E.coli, Streptococcus pneumonia, Salmonella species, Pseudomonas aeruoginosa, Streptococcus fecalis and Staphylococcus aureus. Ref: Ghai Essential Pediatris - 6th Edition, Page 517; Nelson 17th Edition, Page 2308.",
+    "hint_exp": "🎯 Think of \"Most common organism causing\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dedf5d3f-537b-4ee0-8588-98e17aed9a64": {
-    "cop": 4,
-    "exp": "Alpo syndrome in its classic form is a hereditary nephropathy associated with 1. Sensorineural hearing loss and 2. Ocular manifestations. The characteristic renal features is persistent microscopic hematuria appearing in early childhood. Proteinuria is often absent in the early stages of the disease, but increases progressively with age and a nephrotic syndrome may develop. Renal failure occurs in all affected males, and in most cases during the third or fouh decade. Juvenile AS is defined as mean age at onset of ESRD <=30 years, and adult AS as mean age at onset of ESRD >30 years. Ref: Dan Med Bull 2009; 56:105-52."
+    "cop": 3,
+    "exp": "Alpo syndrome in its classic form is a hereditary nephropathy associated with 1. Sensorineural hearing loss and 2. Ocular manifestations. The characteristic renal features is persistent microscopic hematuria appearing in early childhood. Proteinuria is often absent in the early stages of the disease, but increases progressively with age and a nephrotic syndrome may develop. Renal failure occurs in all affected males, and in most cases during the third or fouh decade. Juvenile AS is defined as mean age at onset of ESRD <=30 years, and adult AS as mean age at onset of ESRD >30 years. Ref: Dan Med Bull 2009; 56:105-52.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"TRUE about alpo syndrome\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5001b8c0-07ab-4be3-8d23-4ab264bd013d": {
-    "cop": 3,
-    "exp": "A positive reaction to tuberculin test is generally accepted as evidence of past or present infection by M.tuberculosis. Reference; Park&;s Textbook of preventive and social medicine, 24th edition.Pg no. 195"
+    "cop": 2,
+    "exp": "A positive reaction to tuberculin test is generally accepted as evidence of past or present infection by M.tuberculosis. Reference; Park&;s Textbook of preventive and social medicine, 24th edition.Pg no. 195",
+    "hint_exp": "🧩 Your crush solved \"positive means\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "98c94db9-53ab-4cad-92ad-b244c6956d89": {
-    "cop": 1,
-    "exp": "Stomatocytosis: This rare condition with autosomal dominant inheritance draws its name (mouth-like cells) from the fact that the normally round-shaped central pallor of red cells is replaced by a linear-shaped central pallor. Hemolysis is usually relatively mild. Splenectomy is contraindicated as it has been followed in a majority of cases by severe thromboembolic complications. Ref: Harrison's principle of internal medicine 17th Edition, Chapter 101."
+    "cop": 0,
+    "exp": "Stomatocytosis: This rare condition with autosomal dominant inheritance draws its name (mouth-like cells) from the fact that the normally round-shaped central pallor of red cells is replaced by a linear-shaped central pallor. Hemolysis is usually relatively mild. Splenectomy is contraindicated as it has been followed in a majority of cases by severe thromboembolic complications. Ref: Harrison's principle of internal medicine 17th Edition, Chapter 101.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Splenectomy contraindicated which following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "29e8812d-cd4f-4143-be5b-5da4037dfa01": {
-    "cop": 1,
-    "exp": "This is a case of torsion of the testis.\nTorsion of the testis is a surgical emergency and needs immediate exploration if it cannot be relieved by manipulation."
+    "cop": 0,
+    "exp": "This is a case of torsion of the testis.\nTorsion of the testis is a surgical emergency and needs immediate exploration if it cannot be relieved by manipulation.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"routine urinary examination\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8ed8ad41-652c-4688-99cb-534741d18a0a": {
-    "cop": 4,
-    "exp": "Wernicke’s area is sensory speech centre of brain. It is constituted by area no 22-auditory association area.\nArea no 39-angular gyrus and Area no 40-supramarginal gyrus."
+    "cop": 3,
+    "exp": "Wernicke’s area is sensory speech centre of brain. It is constituted by area no 22-auditory association area.\nArea no 39-angular gyrus and Area no 40-supramarginal gyrus.",
+    "hint_exp": "🎯 Think of \"speech\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d42b97a9-3a2d-4cfb-9c6c-48df3db4f5e6": {
-    "cop": 2,
-    "exp": "Venacaval opening\n-        Level- T8\n-        At the central tendon of diaphragm\n-        Structures transmitted-\no   Inferior vena cava\no   Right phrenic nerve"
+    "cop": 1,
+    "exp": "Venacaval opening\n-        Level- T8\n-        At the central tendon of diaphragm\n-        Structures transmitted-\no   Inferior vena cava\no   Right phrenic nerve",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"pierces diaphgram what vertebral\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "400e3f59-bb9b-4b87-ae1f-9b63d7690b13": {
-    "cop": 3,
-    "exp": "Furosemide is a high ceiling diuretic. Its major mode of benefit in acute pulmonary edema is vasodilation. Due to its vasodilatory action, it shifts the fluid from pulmonary to systemic circulation. This results in the rapid relief of symptoms Diuretic action develops later."
+    "cop": 2,
+    "exp": "Furosemide is a high ceiling diuretic. Its major mode of benefit in acute pulmonary edema is vasodilation. Due to its vasodilatory action, it shifts the fluid from pulmonary to systemic circulation. This results in the rapid relief of symptoms Diuretic action develops later.",
+    "hint_exp": "🧩 Your crush solved \"Intravenous furosemide used rapid\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "df2f7581-0f94-4589-bba0-a77321e5921b": {
-    "cop": 4,
-    "exp": "Granuloma is seen in tuberculoid leprosy.\n\nSkin and nerve biopsies in leprosy show\n\ni) Tuberculoid granuloma → In tuberculoid leprosy.\nii) Diffuse macrophage infiltration loaded with bacilli in the faun of cigar bundles called globi → In lepronzatous leprosy.\n\nSubepidermal zone of grenz is free of infiltrate (free subepidermal grenz zone) in Lepromatous leprosy. In tuberculoid leprosy subepidermal grenz zone is infiltrated No free subepidermal grenz zone.\nLepromatous leprosy has maximally depressed cell mediated immunity."
+    "cop": 3,
+    "exp": "Granuloma is seen in tuberculoid leprosy.\n\nSkin and nerve biopsies in leprosy show\n\ni) Tuberculoid granuloma → In tuberculoid leprosy.\nii) Diffuse macrophage infiltration loaded with bacilli in the faun of cigar bundles called globi → In lepronzatous leprosy.\n\nSubepidermal zone of grenz is free of infiltrate (free subepidermal grenz zone) in Lepromatous leprosy. In tuberculoid leprosy subepidermal grenz zone is infiltrated No free subepidermal grenz zone.\nLepromatous leprosy has maximally depressed cell mediated immunity.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"true lepromatous leprosy except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "edf47d9f-0990-4dc2-9da0-8c3b549b6ca7": {
-    "cop": 1,
-    "exp": "Techniques for repairing VVF:\n\nLayer Technique\nLatzko procedure (for fistulas following hysterectomy)\nChassar moir technique"
+    "cop": 0,
+    "exp": "Techniques for repairing VVF:\n\nLayer Technique\nLatzko procedure (for fistulas following hysterectomy)\nChassar moir technique",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Chassar Moir technique used\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1520894b-84fa-47a3-9de3-af8b495127ca": {
-    "cop": 4,
-    "exp": "Pedunculated submucosal fibroids are not suitable for UAE because they can infarct and slough."
+    "cop": 3,
+    "exp": "Pedunculated submucosal fibroids are not suitable for UAE because they can infarct and slough.",
+    "hint_exp": "🎯 Think of \"the following fibroids\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c16d2152-a98b-43e7-82c5-7fd5311416dc": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Campylobacter jejuni This is a case of dysentery (RBC in stools along with WBC). Among the given options, 'b', 'c' and 'd' can cause dysentery. But, coma shaped organism is campylobactor jejuni. Based on the depth of intestinal invasion, there are different clinical manifestations of infection with organisms causing diarrhea:- No cell invesion (noninflammatory) The bacteria bind to intestinal epithelial cells but do not enter the cell. Diarrhea is caused by the release of enterotoxins. Watery diarrhea with no fecal leukocytes and no systemic symptoms (e.g. fever) occurs. Organisms are : V cholerae Clostridium perfringens Cryptosporidia Adenovirus ETEC B. cereus Microsporidia Staph. aureus Giardia Rotavirus Invasion of the intestinal epithelial cells (Inflammatory) The organisms have virulence factors that allow binding and invasion into cells. Toxins may be then released that destroy the cell. The cell penetration results in a systemic immune response with fecal leukocytes as well as fever. The cell death results in RBC leakage into the stool (dysentery)."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Campylobacter jejuni This is a case of dysentery (RBC in stools along with WBC). Among the given options, 'b', 'c' and 'd' can cause dysentery. But, coma shaped organism is campylobactor jejuni. Based on the depth of intestinal invasion, there are different clinical manifestations of infection with organisms causing diarrhea:- No cell invesion (noninflammatory) The bacteria bind to intestinal epithelial cells but do not enter the cell. Diarrhea is caused by the release of enterotoxins. Watery diarrhea with no fecal leukocytes and no systemic symptoms (e.g. fever) occurs. Organisms are : V cholerae Clostridium perfringens Cryptosporidia Adenovirus ETEC B. cereus Microsporidia Staph. aureus Giardia Rotavirus Invasion of the intestinal epithelial cells (Inflammatory) The organisms have virulence factors that allow binding and invasion into cells. Toxins may be then released that destroy the cell. The cell penetration results in a systemic immune response with fecal leukocytes as well as fever. The cell death results in RBC leakage into the stool (dysentery).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"uncooked meat dinner days\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "956b64e3-7088-4a77-a3ee-30e825141571": {
-    "cop": 2,
-    "exp": "Isolated, closed femoral shaft fractures in children under 10 years of age are best managed by immediate closed reduction and application of a spica cast."
+    "cop": 1,
+    "exp": "Isolated, closed femoral shaft fractures in children under 10 years of age are best managed by immediate closed reduction and application of a spica cast.",
+    "hint_exp": "🧩 Your crush solved \"this fracture\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c694592f-ece8-47e0-8a36-7417fa67035c": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"bonding agents usually contain\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "07b4e829-fd83-4559-87ff-9e27d0c52dff": {
-    "cop": 4,
-    "exp": "Antibiotic of choice: Tetracycline 500mg QID x 3 weeks."
+    "cop": 3,
+    "exp": "Antibiotic of choice: Tetracycline 500mg QID x 3 weeks.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Brucellosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7e27dbab-f134-4b73-a57a-b73ab3963802": {
-    "cop": 1,
-    "exp": "Ans. A. Nerve stimulation therapyIf symptoms are not severe and there is not significant and progressive neuropathy, then non-operative management must be considered. This includes splint age, hand therapy, steroid injection and even yoga has been proven to be beneficial. Alternatively, a patient could be referred for either open or endoscopic release"
+    "cop": 0,
+    "exp": "Ans. A. Nerve stimulation therapyIf symptoms are not severe and there is not significant and progressive neuropathy, then non-operative management must be considered. This includes splint age, hand therapy, steroid injection and even yoga has been proven to be beneficial. Alternatively, a patient could be referred for either open or endoscopic release",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e89eddf9-12a1-4419-bb11-5db3b2b44a8b": {
-    "cop": 2,
-    "exp": "This x-ray shows a bilateral diffuse miliary nodular pattern involving both lung fields with no loss of volume. Characteristically, miliary nodules are less than 4 mm in size. They are generally noncalcified and diffuse and are seen in many conditions, such as TB/fungal infections/pneumoconiosis and ceain malignancies such as melanomas/thyroid cancer. Larger, more confluent lesions can be seen in alveolar sarcoid, Wegener's granulomatosis, and metastatic disease. The clinical hints that aid diagnosis include: An occupational history without constitutional symptoms. X-ray that looks worse than the patient's complaints, as in sarcoidosis. History of thromboembolic disease or sepsis, as in septic emboli or pulmonary infarcts. These are generally seen in the lower lung zones. * History of ahritis; may suggest rheumatoid nodules. Presence of eosinophilia in the peripheral smear with fleeting infiltrates; provides clue for pulmonary infiltrates with eosinophilia (PIE) syndrome, in which case history of travel or use of medications/drugs may be helpful and a stool exam may aid in the diagnosis. Immune-compromised patients may have oppounistic infections such as herpes or CMV This elderly patient has all the stigmata of chronic illness. Although the PPD skin test and sputum studies are negative (seen in about 30% of cases), the history and CXR are consistent with miliary TB. Hyponatremia and hypercalcemia are common findings in TB. In this age group sarcoidosis is unlikely. In the absence of occupational exposure, silicosis is also unlikely. Bone marrow aspirate may be positive for TB culture in 60% of patients with miliary TB, and aspiration is a logical step in the diagnostic evaluation. CT scan will not aid fuher in the diagnosis, and thyroid function tests will be normal unless there is clinical evidence of hypo- or hypehyroidism. Open lung or thoracoscopic biopsy is always diagnostic."
+    "cop": 1,
+    "exp": "This x-ray shows a bilateral diffuse miliary nodular pattern involving both lung fields with no loss of volume. Characteristically, miliary nodules are less than 4 mm in size. They are generally noncalcified and diffuse and are seen in many conditions, such as TB/fungal infections/pneumoconiosis and ceain malignancies such as melanomas/thyroid cancer. Larger, more confluent lesions can be seen in alveolar sarcoid, Wegener's granulomatosis, and metastatic disease. The clinical hints that aid diagnosis include: An occupational history without constitutional symptoms. X-ray that looks worse than the patient's complaints, as in sarcoidosis. History of thromboembolic disease or sepsis, as in septic emboli or pulmonary infarcts. These are generally seen in the lower lung zones. * History of ahritis; may suggest rheumatoid nodules. Presence of eosinophilia in the peripheral smear with fleeting infiltrates; provides clue for pulmonary infiltrates with eosinophilia (PIE) syndrome, in which case history of travel or use of medications/drugs may be helpful and a stool exam may aid in the diagnosis. Immune-compromised patients may have oppounistic infections such as herpes or CMV This elderly patient has all the stigmata of chronic illness. Although the PPD skin test and sputum studies are negative (seen in about 30% of cases), the history and CXR are consistent with miliary TB. Hyponatremia and hypercalcemia are common findings in TB. In this age group sarcoidosis is unlikely. In the absence of occupational exposure, silicosis is also unlikely. Bone marrow aspirate may be positive for TB culture in 60% of patients with miliary TB, and aspiration is a logical step in the diagnostic evaluation. CT scan will not aid fuher in the diagnosis, and thyroid function tests will be normal unless there is clinical evidence of hypo- or hypehyroidism. Open lung or thoracoscopic biopsy is always diagnostic.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"his physical exam\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9d972f2c-dc08-4894-920b-bbd4ac89701c": {
-    "cop": 3,
-    "exp": "Incubation period For falciparum malaria : 9-14 days Vivax malaria : 8-17 days Quaan malaria : 18-40 days Ovalr malaria : 16-18 days Ref: PARK&;S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE 23rd edition , page 260"
+    "cop": 2,
+    "exp": "Incubation period For falciparum malaria : 9-14 days Vivax malaria : 8-17 days Quaan malaria : 18-40 days Ovalr malaria : 16-18 days Ref: PARK&;S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE 23rd edition , page 260",
+    "hint_exp": "🧩 Your crush solved \"plasmodium vivax\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b6471a2e-37d5-48c8-b393-462b3cb96e48": {
-    "cop": 1,
-    "exp": "Wermer syndrome is otherwise known as Multiple Endocrine neoplasia type 1 (MEN 1). It is characterised by primary hyperparathyroidism,endocrine tumours of pancreas, and abnormalities of pituitary (primarily prolactinoma). It is due to germline mutation of MEN1 tumour suppressor gene,which encodes a protein called menin. (Ref :ROBBINS text book of pathology)"
+    "cop": 0,
+    "exp": "Wermer syndrome is otherwise known as Multiple Endocrine neoplasia type 1 (MEN 1). It is characterised by primary hyperparathyroidism,endocrine tumours of pancreas, and abnormalities of pituitary (primarily prolactinoma). It is due to germline mutation of MEN1 tumour suppressor gene,which encodes a protein called menin. (Ref :ROBBINS text book of pathology)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Wermer syndrome\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5e5dc382-71e8-4e7c-a7d2-a8af7536f7f2": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Removes cholesterol from extrahepatic tissueso The HDL particles are referred to as scavengers because their primary role is to remove free (unesterified) cholesterol from extrahepatic tissues, which is then excreted through bile. This is crucial mechanism that prevents the inappropriate accumulation of cholesterol in peripheral tissues. Because accumulation of cholesterol in tissues is strongly associated with the development of atherosclerosis, the level of HDL in serum is inversely related to the incidence of MI (myocardialinfarction). Thus, HDL is cardioprotective and anti-atherogenic in nature, and is referred to as \"good cholesterol\".o Therefore, HDL-Cholesterol appears to be the best independent predictor of coronary artery disease (inverse relationship) than any other known risk factor. That means low HDL is a much stronger predictor of coronary artery disease than increased LDL cholesterol or increased total cholesterol."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Removes cholesterol from extrahepatic tissueso The HDL particles are referred to as scavengers because their primary role is to remove free (unesterified) cholesterol from extrahepatic tissues, which is then excreted through bile. This is crucial mechanism that prevents the inappropriate accumulation of cholesterol in peripheral tissues. Because accumulation of cholesterol in tissues is strongly associated with the development of atherosclerosis, the level of HDL in serum is inversely related to the incidence of MI (myocardialinfarction). Thus, HDL is cardioprotective and anti-atherogenic in nature, and is referred to as \"good cholesterol\".o Therefore, HDL-Cholesterol appears to be the best independent predictor of coronary artery disease (inverse relationship) than any other known risk factor. That means low HDL is a much stronger predictor of coronary artery disease than increased LDL cholesterol or increased total cholesterol.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"called good cholesterol because\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e38e63c0-c512-4ac9-bbcc-82655d38957d": {
-    "cop": 2,
-    "exp": "Glass-ionomer cement is often known as a biomimetic material, because of its similar mechanical properties to dentine.\nSynonyms\n\nPoly (alkenoate) cement\nGIC (glass ionomer cement)\nASPA (alumino silicate polyacrylic acid)\n\nRef: Mannapalli ed 3 pg 67"
+    "cop": 1,
+    "exp": "Glass-ionomer cement is often known as a biomimetic material, because of its similar mechanical properties to dentine.\nSynonyms\n\nPoly (alkenoate) cement\nGIC (glass ionomer cement)\nASPA (alumino silicate polyacrylic acid)\n\nRef: Mannapalli ed 3 pg 67",
+    "hint_exp": "🎯 Think of \"composed of\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7a13691d-a36b-472f-a046-725e0c020208": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"mandible in closed mouth\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "85299746-699b-4081-a8e4-8d1729c6653b": {
-    "cop": 4,
-    "exp": "Interconnection between greater sac and lesser sac of peritoneum is known as Foramen of Winslow. It has the following boundaries: Superior boundary: Caudate lobe of liver Anterior boundary: Free edge of lesser omentum containing common bile duct, hepatic aery andpoal vein. Inferior boundary: First pa of duodenum Posterior boundary: Inferior vena cava and abdominal aoa"
+    "cop": 3,
+    "exp": "Interconnection between greater sac and lesser sac of peritoneum is known as Foramen of Winslow. It has the following boundaries: Superior boundary: Caudate lobe of liver Anterior boundary: Free edge of lesser omentum containing common bile duct, hepatic aery andpoal vein. Inferior boundary: First pa of duodenum Posterior boundary: Inferior vena cava and abdominal aoa",
+    "hint_exp": "🧩 Your crush solved \"boundaries interconnection between greater\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "55bf946c-9269-4a3d-b641-d51616364177": {
-    "cop": 4,
-    "exp": "Mondor's disease Thrombophlebitis of the superficial veins of the anterior chest wall and breast although it has also been seen in the arm. Frequently involved veins are a lateral thoracic vein, thoracoepigastric vein and superficial epigastric veins, Aeology is unknown o Also known as 'string phlebis\\ it presents as a tender cord-like structure. The women may present with acute pain in the lateral aspect of breast or the anterior chest wall. A tender cordlike superficial thrombosed vein is formed and when the skin over the breast is stretched by raising the arm, a narrow r shallow subcutaneous groove alongside the cord becomes apparent, Rarely it may be bilateral. Management It's a benign self-limited disorder. The differential diagnosis is lymphatic permeation from an occult carcinoma of the breast. When the diagnosis is unceain or a mass is present near the cord, a biopsy may be done. Treatment An inflammatory drugs and warm compresses Restricted arm movements as well as brassiere suppo of breast o It usually resolves within 4 to 6 weeks. When symptoms persist or are refractory to treatment, the involved vein the segment may be excised ref - srb's manual of surgery 5e p525"
+    "cop": 3,
+    "exp": "Mondor's disease Thrombophlebitis of the superficial veins of the anterior chest wall and breast although it has also been seen in the arm. Frequently involved veins are a lateral thoracic vein, thoracoepigastric vein and superficial epigastric veins, Aeology is unknown o Also known as 'string phlebis\\ it presents as a tender cord-like structure. The women may present with acute pain in the lateral aspect of breast or the anterior chest wall. A tender cordlike superficial thrombosed vein is formed and when the skin over the breast is stretched by raising the arm, a narrow r shallow subcutaneous groove alongside the cord becomes apparent, Rarely it may be bilateral. Management It's a benign self-limited disorder. The differential diagnosis is lymphatic permeation from an occult carcinoma of the breast. When the diagnosis is unceain or a mass is present near the cord, a biopsy may be done. Treatment An inflammatory drugs and warm compresses Restricted arm movements as well as brassiere suppo of breast o It usually resolves within 4 to 6 weeks. When symptoms persist or are refractory to treatment, the involved vein the segment may be excised ref - srb's manual of surgery 5e p525",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "94789f5f-9484-4c74-837e-f24464876d18": {
-    "cop": 2,
-    "exp": "2 aeries + 1 vein"
+    "cop": 1,
+    "exp": "2 aeries + 1 vein",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Placenta\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7ec8d240-1534-4ae0-9c0e-2808f81f41b2": {
-    "cop": 1,
-    "exp": "Ans. 1.5 mm"
+    "cop": 0,
+    "exp": "Ans. 1.5 mm",
+    "hint_exp": "🎯 Think of \"the optic disc\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b004ef65-f7ff-4578-bd30-127ad66680c3": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"antiulcer agent detaches kills\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f71f1cd0-085b-4f39-925c-50921dce982c": {
-    "cop": 1,
-    "exp": ". Angiogenesis"
+    "cop": 0,
+    "exp": ". Angiogenesis",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2682372e-d2f8-4ea5-bf47-eee386b043fe": {
-    "cop": 4,
-    "exp": "ACE inhibitors have been shown to reduce moality in chronic hea failure, hypeension, and diabetic renal disease * ACE inhibitors and ARBs increase the risk of hyperkalemia in CKD and with supplemental K+ or K+-sparing drugs. ACE inhibitors and ARBs should be discontinued during pregnancy as they cause fetal kidney damage.ACE inhibitors may cause acute renal failure paicularly in patients with bilateral renal aery stenosis or stenosis of the renal aery of a solitary kidneyKatzung Pharmacology 12th edition Pg: 185"
+    "cop": 3,
+    "exp": "ACE inhibitors have been shown to reduce moality in chronic hea failure, hypeension, and diabetic renal disease * ACE inhibitors and ARBs increase the risk of hyperkalemia in CKD and with supplemental K+ or K+-sparing drugs. ACE inhibitors and ARBs should be discontinued during pregnancy as they cause fetal kidney damage.ACE inhibitors may cause acute renal failure paicularly in patients with bilateral renal aery stenosis or stenosis of the renal aery of a solitary kidneyKatzung Pharmacology 12th edition Pg: 185",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"high blood pressure control\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cb83201a-5bf4-4647-8cb1-7f9a1410cd0f": {
-    "cop": 2,
-    "exp": "- Mutation in CDH1, the gene encoding the cellular adhesion protein E-cadherin. - E-cadherin mutations account for a significant propoion of familial gastric cancers and Lobular carcinoma of the breast. OTHER OPTIONS: - APC is mutated in the majority of colorectal adenocarcinomas & intestinal type of gastric cancer. - MSH2 and PMS2 are both mismatch repair genes are mutated in Lynch syndrome - p53 is mutated in Li Fraumeni syndrome."
+    "cop": 1,
+    "exp": "- Mutation in CDH1, the gene encoding the cellular adhesion protein E-cadherin. - E-cadherin mutations account for a significant propoion of familial gastric cancers and Lobular carcinoma of the breast. OTHER OPTIONS: - APC is mutated in the majority of colorectal adenocarcinomas & intestinal type of gastric cancer. - MSH2 and PMS2 are both mismatch repair genes are mutated in Lynch syndrome - p53 is mutated in Li Fraumeni syndrome.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"this patient and his father\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1fbfcc88-c9fc-4551-9480-11774546e6b0": {
-    "cop": 1,
-    "exp": "constant PR interval is a feature of first degree hea block second and third degree hea block doesnt have constant intervals Ref Harrison 20th edition pg 1534"
+    "cop": 0,
+    "exp": "constant PR interval is a feature of first degree hea block second and third degree hea block doesnt have constant intervals Ref Harrison 20th edition pg 1534",
+    "hint_exp": "🎯 Think of \"Constant inverval seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e90c4404-19c0-4836-8d4c-7e5e9bdb3093": {
-    "cop": 1,
-    "exp": "Anuria is nonpassage of urine, in practice is defined as passage of less than 100milliliters of urine in a day. Anuria is often caused by failure in the function of kidneys. It may also occur because of some severe obstruction like kidney stones or tumours. It may occur with end stage renal disease. It is a more extreme reduction than oliguria (hypouresis), with 100 mL/day being the conventional (albeit slightly arbitrary) cutoff point between the two Ref Harrison20th edition pg 277"
+    "cop": 0,
+    "exp": "Anuria is nonpassage of urine, in practice is defined as passage of less than 100milliliters of urine in a day. Anuria is often caused by failure in the function of kidneys. It may also occur because of some severe obstruction like kidney stones or tumours. It may occur with end stage renal disease. It is a more extreme reduction than oliguria (hypouresis), with 100 mL/day being the conventional (albeit slightly arbitrary) cutoff point between the two Ref Harrison20th edition pg 277",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Anuria defined urine output\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "aecab212-bbec-4898-8437-23e9bde6e87e": {
-    "cop": 2,
-    "exp": "Sch can cause prolonged apnea in patients with low plasma cholinesterase (pseudocholinesterase) or atypical (non­functional) pseudocholinesterase. The best management is to provide mechanical ventilation, maintain anaesthesia, continue monitoring and wait for spontaneous recovery. \nIf spontaneous recovery does not occur fresh frozen plasma or blood can be given which provide pseudocholinesterase. Purified preparation of pseudocholinesterase is also available. However because of the risk of associated with there infusion, blood, FFP or purified pseudocholinesterase is not recommended by some authorities."
+    "cop": 1,
+    "exp": "Sch can cause prolonged apnea in patients with low plasma cholinesterase (pseudocholinesterase) or atypical (non­functional) pseudocholinesterase. The best management is to provide mechanical ventilation, maintain anaesthesia, continue monitoring and wait for spontaneous recovery. \nIf spontaneous recovery does not occur fresh frozen plasma or blood can be given which provide pseudocholinesterase. Purified preparation of pseudocholinesterase is also available. However because of the risk of associated with there infusion, blood, FFP or purified pseudocholinesterase is not recommended by some authorities.",
+    "hint_exp": "🧩 Your crush solved \"After suxamethonium apnea persists\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e147e2ac-09a8-48da-9d81-b433656a39b1": {
-    "cop": 3,
-    "exp": "Ans. is. 'c' i. e., Haemophillus ducreyi"
+    "cop": 2,
+    "exp": "Ans. is. 'c' i. e., Haemophillus ducreyi",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"fish appearance\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b47f57e9-8fac-4fdc-a22e-21df75ff8060": {
-    "cop": 2,
-    "exp": "Moon like facies, central obesity & abdominal striae are signs of glucocoicoid excess - endogenous (Cushing syndrome)/ exogenous. A physiologic stressor (trauma) may trigger adrenal crisis. Acute adrenal insufficiency requires immediate initiation of rehydration (saline infusion at initial rates of 1 L/hr) with continuous cardiac monitoring. Glucocoicoid replacement- initiated by bolus injection of 100 mg of hydrocoisone, followed by the administration of 100-200 mg of hydrocoisone over 24 hours. Mineralocoicoid replacement can be initiated once the daily hydrocoisone dose is <50 mg as at higher doses, hydrocoisone provides sufficient stimulation of mineralocoicoid receptors."
+    "cop": 1,
+    "exp": "Moon like facies, central obesity & abdominal striae are signs of glucocoicoid excess - endogenous (Cushing syndrome)/ exogenous. A physiologic stressor (trauma) may trigger adrenal crisis. Acute adrenal insufficiency requires immediate initiation of rehydration (saline infusion at initial rates of 1 L/hr) with continuous cardiac monitoring. Glucocoicoid replacement- initiated by bolus injection of 100 mg of hydrocoisone, followed by the administration of 100-200 mg of hydrocoisone over 24 hours. Mineralocoicoid replacement can be initiated once the daily hydrocoisone dose is <50 mg as at higher doses, hydrocoisone provides sufficient stimulation of mineralocoicoid receptors.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"management of this patient\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3b8cc6ec-bbd1-49c1-804e-eb23222f4c33": {
-    "cop": 3,
-    "exp": "Ans. is 'c' Theophylline Theophylline causes hypoglycemia List of drugs causing hyperglycemia. Diazoxide* Ethacrynic acid* Furosemide* Glucocorticoids* Pentamidine* Thiazides* Oral contraceptives* Niacin Growth hormone Asparaginase Note : Pentamidine causes both hypo and hyperglycemia (Mechanism: Pentamidine causes lysis of pancreatic beta cells: Insulin is released initially causing hypoglycemia. Later on permanent IDDM can result)"
+    "cop": 2,
+    "exp": "Ans. is 'c' Theophylline Theophylline causes hypoglycemia List of drugs causing hyperglycemia. Diazoxide* Ethacrynic acid* Furosemide* Glucocorticoids* Pentamidine* Thiazides* Oral contraceptives* Niacin Growth hormone Asparaginase Note : Pentamidine causes both hypo and hyperglycemia (Mechanism: Pentamidine causes lysis of pancreatic beta cells: Insulin is released initially causing hypoglycemia. Later on permanent IDDM can result)",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b8c4c221-882b-45b7-8a28-f0ac4d1b136b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Dentigerous cyst arises from\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4ad35a9e-140a-47a4-aacc-96184529b3b8": {
-    "cop": 3,
-    "exp": "Thiazide diuretics open K+ channels and lead to direct vasodilation along with diuretic action. It also increases calcium absorption and hence used in hypertension with osteoporosis."
+    "cop": 2,
+    "exp": "Thiazide diuretics open K+ channels and lead to direct vasodilation along with diuretic action. It also increases calcium absorption and hence used in hypertension with osteoporosis.",
+    "hint_exp": "🧩 Your crush solved \"Drug choice hypertension with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

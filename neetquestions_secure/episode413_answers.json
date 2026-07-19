@@ -1,202 +1,252 @@
 {
   "294e756a-7e11-4aa9-be5e-f63a3b3b7d3d": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"When modified ridge pontic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1fcfafc5-d7c1-41fa-bd76-03c209e8ad6e": {
-    "cop": 1,
-    "exp": "This is a case of diabetic ketoacidosis (DKA)- Patient's serum K+ level is< 3.3 meq/L,In such cases K+ Level need to be corrected first, even before administering insulin. So next best steps in the management of this patient include: Correct hypokalemia-Repeat K+levels in serum-Give IV regular insulin after K+ level is> 3.3 meq/L Even during the treatment with insulin and fluids, Hypokalemia worsens because of: Insulin mediated potassium entry into cells Settlement of acidosis K+ loss in urine Therefore if we won't correct hypokalemia (<3.3 meq/L) in case of DKA, it will aggravate with the insulin and fluids if given initially. Note-Nausea and severe vomiting are due to the ketonemia which trigger vomiting center- CTZ"
+    "cop": 0,
+    "exp": "This is a case of diabetic ketoacidosis (DKA)- Patient's serum K+ level is< 3.3 meq/L,In such cases K+ Level need to be corrected first, even before administering insulin. So next best steps in the management of this patient include: Correct hypokalemia-Repeat K+levels in serum-Give IV regular insulin after K+ level is> 3.3 meq/L Even during the treatment with insulin and fluids, Hypokalemia worsens because of: Insulin mediated potassium entry into cells Settlement of acidosis K+ loss in urine Therefore if we won't correct hypokalemia (<3.3 meq/L) in case of DKA, it will aggravate with the insulin and fluids if given initially. Note-Nausea and severe vomiting are due to the ketonemia which trigger vomiting center- CTZ",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"potassium levels\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8ffa5607-ce85-44dd-92b8-02547af332a5": {
-    "cop": 3,
-    "exp": "The patient is suffering from Alzheimer's disease. HPE shows: A. Neurofibrillary tangles and neuropil threads (Gallya's silver staining) B. Fibrillar nature of tangles (arrows) neuritic plaques (arrowheads), whose major component - Ab (inset - immunohistochemistry for Ab). Treasure 8 (pathology) Drugs used in the management of Alzheimer's disease: Central acting choline esterase inhibitors: Tacrine: hepatotoxic Rivastigmine Gallantamine Donepezil NMDA antagonist: Memantine Impoant points about Alzheimer's disease: Predominant clinical symptoms: Slow, progressive memory loss with loss of executive function Macroscopic brain appearance: Generalized brain atrophy Microscopic brain appearance: Neurofibrillary tangles, senile plaques and cerebral amyloid angiopathy Biochemical abnormalities: Decreased acetylcholine levels in the hippocampus and nucleus basalis of meyne."
+    "cop": 2,
+    "exp": "The patient is suffering from Alzheimer's disease. HPE shows: A. Neurofibrillary tangles and neuropil threads (Gallya's silver staining) B. Fibrillar nature of tangles (arrows) neuritic plaques (arrowheads), whose major component - Ab (inset - immunohistochemistry for Ab). Treasure 8 (pathology) Drugs used in the management of Alzheimer's disease: Central acting choline esterase inhibitors: Tacrine: hepatotoxic Rivastigmine Gallantamine Donepezil NMDA antagonist: Memantine Impoant points about Alzheimer's disease: Predominant clinical symptoms: Slow, progressive memory loss with loss of executive function Macroscopic brain appearance: Generalized brain atrophy Microscopic brain appearance: Neurofibrillary tangles, senile plaques and cerebral amyloid angiopathy Biochemical abnormalities: Decreased acetylcholine levels in the hippocampus and nucleus basalis of meyne.",
+    "hint_exp": "🎯 Think of \"nucleus basalis of meyne\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8496e918-d8e9-42b5-baa4-332836e2548a": {
-    "cop": 1,
-    "exp": "Emergence delirium, characterized by hallucinations, vivid dreams, and delusions, is a frequent complication of ketamine that can result in serious patient dissatisfaction and can complicate postoperative management. Delirium symptoms are most frequent in the first hour after emergence and appear to occur less frequently in children. Benzodiazepines reduce the incidence of emergence delirium. Ref: Patel P.M., Patel H.H., Roth D.M. (2011). Chapter 19. General Anesthetics and Therapeutic Gases. In L.L. Brunton, B.A. Chabner, B.C. Knollmann (Eds), Goodman & Gilman's The Pharmacological Basis of Therapeutics, 12e."
+    "cop": 0,
+    "exp": "Emergence delirium, characterized by hallucinations, vivid dreams, and delusions, is a frequent complication of ketamine that can result in serious patient dissatisfaction and can complicate postoperative management. Delirium symptoms are most frequent in the first hour after emergence and appear to occur less frequently in children. Benzodiazepines reduce the incidence of emergence delirium. Ref: Patel P.M., Patel H.H., Roth D.M. (2011). Chapter 19. General Anesthetics and Therapeutic Gases. In L.L. Brunton, B.A. Chabner, B.C. Knollmann (Eds), Goodman & Gilman's The Pharmacological Basis of Therapeutics, 12e.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"associated with hallucination\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9cf75d0b-e590-42d1-bb98-38332f852b8f": {
-    "cop": 3,
-    "exp": "A laryngocele is defined as an abnormal dilation or herniation of the saccule of the larynx. Secondary infection of a laryngocele is termed a laryngopyocele. Laryngoceles can be classified into three types: internal, external, and combined. A laryngocele is defined as internal if the dilation lies within the limits of the thyroid cailage. If the laryngocele extends beyond the thyroid cailage and protrudes through the thyrohyoid membrane producing a lateral neck mass, it is considered external."
+    "cop": 2,
+    "exp": "A laryngocele is defined as an abnormal dilation or herniation of the saccule of the larynx. Secondary infection of a laryngocele is termed a laryngopyocele. Laryngoceles can be classified into three types: internal, external, and combined. A laryngocele is defined as internal if the dilation lies within the limits of the thyroid cailage. If the laryngocele extends beyond the thyroid cailage and protrudes through the thyrohyoid membrane producing a lateral neck mass, it is considered external.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "da3487db-65d8-4c44-b992-9d0d18da260f": {
-    "cop": 4,
-    "exp": "HGV is bllod botne vitus&its ptrvelance is higher in patolients infected withHIV&HCV .it is also called GB V REF:MICROBIOLOGY ANANTHA NARAYANAN NINTH EDITION PAGE.550"
+    "cop": 3,
+    "exp": "HGV is bllod botne vitus&its ptrvelance is higher in patolients infected withHIV&HCV .it is also called GB V REF:MICROBIOLOGY ANANTHA NARAYANAN NINTH EDITION PAGE.550",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Choose false statement regarding\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a6f02aff-06ae-427a-b7d2-75341d2124c3": {
-    "cop": 1,
-    "exp": "Ans. A. HIV ELISAHIV ELISA cannot be used in diagnosis of HIV in a child up to 18 months of age.* This is because all neonates born to HIV infected mothers will have IgG antibody in their blood regardless of their infection status.* So up until 18 months of age they will continue to test positive. Hence HIV ELISA should not be used."
+    "cop": 0,
+    "exp": "Ans. A. HIV ELISAHIV ELISA cannot be used in diagnosis of HIV in a child up to 18 months of age.* This is because all neonates born to HIV infected mothers will have IgG antibody in their blood regardless of their infection status.* So up until 18 months of age they will continue to test positive. Hence HIV ELISA should not be used.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0e63e51e-bc04-4e45-bd88-25ded5d59910": {
-    "cop": 1,
-    "exp": "a. Echocardiography > c. X-ray cervical spine(Ref: Nelson's 20/e p 610-615, Ghai 8/e p 637-639)Congenital heart diseases are more common in Down syndrome (in 50%), than atlantoaxial instability (20%); so a preoperative echocardiogram is warranted, so that management of child can be planned accordingly."
+    "cop": 0,
+    "exp": "a. Echocardiography > c. X-ray cervical spine(Ref: Nelson's 20/e p 610-615, Ghai 8/e p 637-639)Congenital heart diseases are more common in Down syndrome (in 50%), than atlantoaxial instability (20%); so a preoperative echocardiogram is warranted, so that management of child can be planned accordingly.",
+    "hint_exp": "🎯 Think of \"Down syndrome patient posted\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6037664e-806c-4099-825b-114efe3af62a": {
-    "cop": 2,
-    "exp": "Oxytocin is a nanopeptide synthesised by supraoptic and paraventricular nuclei of hypothalamus. It is rapidly metabolised and degraded by oxytocinase and hence has a half life of 3 - 4 minutes and a duration of action of approximately 20 minutes. (DC Sutta TB of obstetrics 8th edtn pg 573)"
+    "cop": 1,
+    "exp": "Oxytocin is a nanopeptide synthesised by supraoptic and paraventricular nuclei of hypothalamus. It is rapidly metabolised and degraded by oxytocinase and hence has a half life of 3 - 4 minutes and a duration of action of approximately 20 minutes. (DC Sutta TB of obstetrics 8th edtn pg 573)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Half life biological oxytocin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6cddce1f-6f56-49eb-a43a-600678fae7b6": {
-    "cop": 2,
-    "exp": "The use of aspirin and other salicylates to control fever during viral infections (influenza and chickenpox) in children and adolescents is associated with an increased incidence of Reye's syndrome, an illness characterized by vomiting, hepatic disturbances, and encephalopathy that has a 35% moality rate. Acetaminophen is recommended as a substitute for children with fever of unknown etiology. Ref: ESSENTIALS OF MEDICAL PHARMACOLOGY;7TH EDITION;KD TRIPATHI;PAGE NO 197"
+    "cop": 1,
+    "exp": "The use of aspirin and other salicylates to control fever during viral infections (influenza and chickenpox) in children and adolescents is associated with an increased incidence of Reye's syndrome, an illness characterized by vomiting, hepatic disturbances, and encephalopathy that has a 35% moality rate. Acetaminophen is recommended as a substitute for children with fever of unknown etiology. Ref: ESSENTIALS OF MEDICAL PHARMACOLOGY;7TH EDITION;KD TRIPATHI;PAGE NO 197",
+    "hint_exp": "🧩 Your crush solved \"true about Reye Syndrome\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bca2dad7-33f2-4d9d-9f82-21e07c121bc2": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Nolla stage means\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e8475697-940f-47ef-91ed-fc8905922603": {
-    "cop": 3,
-    "exp": "The femur ossifies from five centres: in the shaft, head, greater and lesser trochanters and the distal end. Other than the clavicle, it is the first long bone to ossify."
+    "cop": 2,
+    "exp": "The femur ossifies from five centres: in the shaft, head, greater and lesser trochanters and the distal end. Other than the clavicle, it is the first long bone to ossify.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"ossification centres in femur\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3ac64cd3-3d21-4078-995a-f52056daf11c": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e. posterior dislocation of hip Be sure of the answer, we have been taught this in the clinics.Shortening of the limb is seen in: (in decreasing order)Post dislocation of hip (maximum) shaft femur Intertrochanteric neck femur"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e. posterior dislocation of hip Be sure of the answer, we have been taught this in the clinics.Shortening of the limb is seen in: (in decreasing order)Post dislocation of hip (maximum) shaft femur Intertrochanteric neck femur",
+    "hint_exp": "🎯 Think of \"limbs\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2b937e1d-c1a1-4364-9313-63a2ff374ac4": {
-    "cop": 1,
-    "exp": "Stereotactic radiosurgery means delivery of precise high dose radiation in a single fraction to intracranial targetsReference: Eric J Hall Textbook of Radiobiology for Radiologist; 5th edition"
+    "cop": 0,
+    "exp": "Stereotactic radiosurgery means delivery of precise high dose radiation in a single fraction to intracranial targetsReference: Eric J Hall Textbook of Radiobiology for Radiologist; 5th edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"a form of\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b734ab5b-8b31-478c-9a83-c4b3f9c8e513": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e. All of the above * Non-supporative complications are due to antigenic cross-reactivity of streptococcal antigenic component with human tissues. This antigen cross reactivity is resoponsible for the production of cross reacting antibodies, i.e. antibodies are formed against streptococcal antigens but they damage host tissue antigens because of similarity between streptococcal antigens and human tissue antigens - antigenic cross reactivity.Streptococcal componentHuman tissueCapsular hyaluronic acidSynovial fluidCell wall proteinMyocardiumGroup A carbohydrateCardiac valvesCytoplasmic membrane antigenVascular intimaPeptidoglycansSkin antigens"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e. All of the above * Non-supporative complications are due to antigenic cross-reactivity of streptococcal antigenic component with human tissues. This antigen cross reactivity is resoponsible for the production of cross reacting antibodies, i.e. antibodies are formed against streptococcal antigens but they damage host tissue antigens because of similarity between streptococcal antigens and human tissue antigens - antigenic cross reactivity.Streptococcal componentHuman tissueCapsular hyaluronic acidSynovial fluidCell wall proteinMyocardiumGroup A carbohydrateCardiac valvesCytoplasmic membrane antigenVascular intimaPeptidoglycansSkin antigens",
+    "hint_exp": "🧩 Your crush solved \"Streptococcal cross reactivity affects\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6d8023fe-7a66-445c-9c74-8f012d3a027e": {
-    "cop": 1,
-    "exp": "Ans. is 'b' i.e., Grievous This patient had permanent vision loss as it was corrected by surgery (corneal transplant). Permanent loss of sight of either eye is grievous hu. Injuries can be classified as 1. A simple injury is one which is neither extensive nor serious, and which would heal rapidly without leaving any permanent deformity or disfiguration. 2. A grievous injury is one (i) Which is extensive or serious (ii) Which does not heal rapidly, and (iii) Which leaves a permanent deformity or disfiguration. Section 320 IPC defines following injuries as grievous. Emasculation (cutting of the penis, castration; or causing loss of power of erection due to spinal injury). Permanent privation of the sight of either eye. Permanent privation of the hearing of either ear. Privation of any member (pa, organ, limb) or joint. Destruction or permanent impairing of powers of any member or joint. Permanent disfiguration of head or face. Fracture or dislocation of a bone or a tooth. Any hu which endangerous life or which causes the sufferer to be, during the space of twenty days in severe bodily pain, or unable to follow his daily routine. Section 319 IPC defines hu as bodily pain, disease, or infirmity, caused to any person. Grievous hu is a cognisable offence for which a police officer can arrest a person without a warrant from magistrate. 3. Dangerous injury is a variety of grievous injury. It is an injury whichposes an immediate danger to life and is fatal in absence of surgical aid, e.g. gun shot wounds, compound skull fracture, trauma to large blood vessel or rupture of internal organ like spleen."
+    "cop": 0,
+    "exp": "Ans. is 'b' i.e., Grievous This patient had permanent vision loss as it was corrected by surgery (corneal transplant). Permanent loss of sight of either eye is grievous hu. Injuries can be classified as 1. A simple injury is one which is neither extensive nor serious, and which would heal rapidly without leaving any permanent deformity or disfiguration. 2. A grievous injury is one (i) Which is extensive or serious (ii) Which does not heal rapidly, and (iii) Which leaves a permanent deformity or disfiguration. Section 320 IPC defines following injuries as grievous. Emasculation (cutting of the penis, castration; or causing loss of power of erection due to spinal injury). Permanent privation of the sight of either eye. Permanent privation of the hearing of either ear. Privation of any member (pa, organ, limb) or joint. Destruction or permanent impairing of powers of any member or joint. Permanent disfiguration of head or face. Fracture or dislocation of a bone or a tooth. Any hu which endangerous life or which causes the sufferer to be, during the space of twenty days in severe bodily pain, or unable to follow his daily routine. Section 319 IPC defines hu as bodily pain, disease, or infirmity, caused to any person. Grievous hu is a cognisable offence for which a police officer can arrest a person without a warrant from magistrate. 3. Dangerous injury is a variety of grievous injury. It is an injury whichposes an immediate danger to life and is fatal in absence of surgical aid, e.g. gun shot wounds, compound skull fracture, trauma to large blood vessel or rupture of internal organ like spleen.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"said to be\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "892ae521-49b7-4de9-93fa-b98ccf97d274": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"patient with history ankle\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3dd94a16-45d4-44cb-9b04-f826177ea01a": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Gall bladder o The extrahepatic biliary tree and gallbladder share a similar microscopic anatomy, consisting of a fibro muscular wall lived by mucin producing columnar epithelium similar to that seen in intrahepatic bile ducts.Gall bladder (review)o Gall bladder is a pear-shaped small sac attached to the visceral surface of liver,o It is 7-10 cm long, 3cm broad at widest part and about 30-50 ml in capacity.o The lowest part of gall bladder which is called fundus, projects beyond the inferior border of liver,o The central part is called body.o The narrow part succeeding the body is called neck. The neck is connected to cystic duct through which gall bladder drains into the bile duct.o The wall of the gall bladder is made up of mucous membrane, a flbromuscular coat and a serous layer that coverts part of the organ.o The mucosa of gallbladder is noted for outpouchings of surface mucosa, which extend into and through muscular fibers. These out pouchings are called Rokitansky-Aschoff sinuses,o Gall bladder is supplied by cystic artery.o Lymphatic drainage of gall bladder is to cystic node and to the node of anterior border of epiploic foramen,o Gall bladder stores and concentrates bile. This bile is discharged into duodenum when required."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Gall bladder o The extrahepatic biliary tree and gallbladder share a similar microscopic anatomy, consisting of a fibro muscular wall lived by mucin producing columnar epithelium similar to that seen in intrahepatic bile ducts.Gall bladder (review)o Gall bladder is a pear-shaped small sac attached to the visceral surface of liver,o It is 7-10 cm long, 3cm broad at widest part and about 30-50 ml in capacity.o The lowest part of gall bladder which is called fundus, projects beyond the inferior border of liver,o The central part is called body.o The narrow part succeeding the body is called neck. The neck is connected to cystic duct through which gall bladder drains into the bile duct.o The wall of the gall bladder is made up of mucous membrane, a flbromuscular coat and a serous layer that coverts part of the organ.o The mucosa of gallbladder is noted for outpouchings of surface mucosa, which extend into and through muscular fibers. These out pouchings are called Rokitansky-Aschoff sinuses,o Gall bladder is supplied by cystic artery.o Lymphatic drainage of gall bladder is to cystic node and to the node of anterior border of epiploic foramen,o Gall bladder stores and concentrates bile. This bile is discharged into duodenum when required.",
+    "hint_exp": "🎯 Think of \"Fibromuscular wall seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8324181b-2cf3-4cef-ac98-a66bd9b7437d": {
-    "cop": 2,
-    "exp": "When a person moves to a standing position, blood pools in the leg veins, causing decreased venous return to the hea, decreased cardiac output, and decreased aerial pressure. The baroreceptors detect the decrease in aerial pressure, and the vasomotor center is activated to increase sympathetic outflow and decrease parasympathetic outflow. There is an increase in hea rate (resulting in a decreased PR interval), contractility, and total peripheral resistance (TPR). Because both hea rate and contractility are increased, cardiac output will increase toward normal"
+    "cop": 1,
+    "exp": "When a person moves to a standing position, blood pools in the leg veins, causing decreased venous return to the hea, decreased cardiac output, and decreased aerial pressure. The baroreceptors detect the decrease in aerial pressure, and the vasomotor center is activated to increase sympathetic outflow and decrease parasympathetic outflow. There is an increase in hea rate (resulting in a decreased PR interval), contractility, and total peripheral resistance (TPR). Because both hea rate and contractility are increased, cardiac output will increase toward normal",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"When person moves from\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ff3bb058-39a0-45ab-9c9e-51714a8c9aee": {
-    "cop": 1,
-    "exp": "Kernohan notch phenomenon is usually caused by subdural hematomas. It is characterized by motor palsy on ipsilateral side of primary lesion.\ni.e lesion on right side of brain results in right sided motor palsy due to indentation over left cerebral peduncle becuase of uncal or lateral transtentorial herniation."
+    "cop": 0,
+    "exp": "Kernohan notch phenomenon is usually caused by subdural hematomas. It is characterized by motor palsy on ipsilateral side of primary lesion.\ni.e lesion on right side of brain results in right sided motor palsy due to indentation over left cerebral peduncle becuase of uncal or lateral transtentorial herniation.",
+    "hint_exp": "🧩 Your crush solved \"Kernohan notch phenomenon seen\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3e87d19f-24dc-4f58-9f84-02efe30b6543": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. Delirium TremensRef Neeraj Ahuja 4th/e p36, 37It is a case of Delirium tremensIt is the most severe alcohol withdrawal syndromeIt usually occurs within 2-4 days of complete or significant abstinence.Symptoms areClouding of consciousnessPoor attention spanVisual hallucinations which are often vivid and frighteningTactile hallucinations and auditory hallucinationsMarked autonomic disturbancesTachycardia Fever Sweating Hypertension Pupillary dilatationPsychomotor agitation and ataxiaInsomniaDehydrationThe course is short with recovery occurring within 3-7 daysAlcoholic hallucinosisThis can be ruled out easily because it is characterized by the presence of auditory hallucinations and the other usual features of delirium tremens are absent."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. Delirium TremensRef Neeraj Ahuja 4th/e p36, 37It is a case of Delirium tremensIt is the most severe alcohol withdrawal syndromeIt usually occurs within 2-4 days of complete or significant abstinence.Symptoms areClouding of consciousnessPoor attention spanVisual hallucinations which are often vivid and frighteningTactile hallucinations and auditory hallucinationsMarked autonomic disturbancesTachycardia Fever Sweating Hypertension Pupillary dilatationPsychomotor agitation and ataxiaInsomniaDehydrationThe course is short with recovery occurring within 3-7 daysAlcoholic hallucinosisThis can be ruled out easily because it is characterized by the presence of auditory hallucinations and the other usual features of delirium tremens are absent.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year male with history\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "05bef95b-9727-4485-9cc2-3b0173d78cab": {
-    "cop": 1,
-    "exp": "Ans. (a) Proline to hydroxyprolineRef: Harpers Biochemistry, 30th ed. pg. 47, 562* Ascorbic acid is needed for a variety of biosynthetic pathways, by accelerating hydroxylation and amidation reactions.* In the synthesis of collagen, ascorbic acid is required as a cofactor for following enzymes:# Prolyl hydroxylase# Lysyl hydroxylase* These two enzymes are responsible for the hydroxylation of the proline and lysine amino acids in collagen.* Remember, Hydroxyproline and hydroxylysine are important for stabilizing collagen by cross-linking the propeptides in collagen.* Clinical effects if there is defective collagen fibrillogenesis:# Impaired wound healing.# Impaired bone bormation# Abnormal bleeding due to fragile capillaries."
+    "cop": 0,
+    "exp": "Ans. (a) Proline to hydroxyprolineRef: Harpers Biochemistry, 30th ed. pg. 47, 562* Ascorbic acid is needed for a variety of biosynthetic pathways, by accelerating hydroxylation and amidation reactions.* In the synthesis of collagen, ascorbic acid is required as a cofactor for following enzymes:# Prolyl hydroxylase# Lysyl hydroxylase* These two enzymes are responsible for the hydroxylation of the proline and lysine amino acids in collagen.* Remember, Hydroxyproline and hydroxylysine are important for stabilizing collagen by cross-linking the propeptides in collagen.* Clinical effects if there is defective collagen fibrillogenesis:# Impaired wound healing.# Impaired bone bormation# Abnormal bleeding due to fragile capillaries.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Vitamin necessary formation collagen\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c74bd460-c477-4a92-b522-56e5e830a489": {
-    "cop": 1,
-    "exp": ". Oil Red O"
+    "cop": 0,
+    "exp": ". Oil Red O",
+    "hint_exp": "🎯 Think of \"Lipid tissue detected\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e1814ee2-ce52-4416-9871-7ae719683367": {
-    "cop": 1,
-    "exp": "Upper 2/3rd endocervix Colposcopy is a method to evaluate the changes in the terminal vascular network of the cervix, the transformation zone, Vagina and Fornix. In the cervix, upper 2/3\"i of endocervix is not visualized by colposcopy (the maximum limit being 5 mm above the canal). A colposcope is a binocular microscope producing magnification of 5 - 15 times.deg Colposcopy is done after application of 3 - 5% acetic acid, to the abnormal area.deg It can detect cervical dysplasias, metaplasia and carcinoma in situ.deg Indications (very impoant) : In case of abnormal pap smear cytologydeg. To locate abnormal areas.deg To obtain directed biopsies.deg Conservative therapy under colposcopic guidance.deg For follow up of patients treated conservatively.deg Some other Indications : In case of unexplained intermenstrual or post coital bleeding. History of Inutero Diethylstilbestrol exposure. Vulva' or vaginal neoplasia. For more details on Colposcopy, see Chapter 12 B - CIN and Ca Cervix."
+    "cop": 0,
+    "exp": "Upper 2/3rd endocervix Colposcopy is a method to evaluate the changes in the terminal vascular network of the cervix, the transformation zone, Vagina and Fornix. In the cervix, upper 2/3\"i of endocervix is not visualized by colposcopy (the maximum limit being 5 mm above the canal). A colposcope is a binocular microscope producing magnification of 5 - 15 times.deg Colposcopy is done after application of 3 - 5% acetic acid, to the abnormal area.deg It can detect cervical dysplasias, metaplasia and carcinoma in situ.deg Indications (very impoant) : In case of abnormal pap smear cytologydeg. To locate abnormal areas.deg To obtain directed biopsies.deg Conservative therapy under colposcopic guidance.deg For follow up of patients treated conservatively.deg Some other Indications : In case of unexplained intermenstrual or post coital bleeding. History of Inutero Diethylstilbestrol exposure. Vulva' or vaginal neoplasia. For more details on Colposcopy, see Chapter 12 B - CIN and Ca Cervix.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"colposcopy following visualized except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1d2dce7c-2dfb-49df-abf0-7f2de7327354": {
-    "cop": 2,
-    "exp": "Pigmented villonodular synovitis (PVNS) is a benign proliferative condition affecting synol membranes of joints, bursae or tendons resulting from synol proliferation with villous and nodular projections and haemosiderin deposition. PVNS is most commonly mono aicular mainly involving Knee joint"
+    "cop": 1,
+    "exp": "Pigmented villonodular synovitis (PVNS) is a benign proliferative condition affecting synol membranes of joints, bursae or tendons resulting from synol proliferation with villous and nodular projections and haemosiderin deposition. PVNS is most commonly mono aicular mainly involving Knee joint",
+    "hint_exp": "🧩 Your crush solved \"most commonly involves\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "62529b16-462b-4f1b-8316-a5f42788abb7": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Trigeminal neuralgia\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0b041bb4-b9df-450f-88a2-a310516d16b7": {
-    "cop": 2,
-    "exp": "Glioblastoma Multiforme most common form of primary intracranial neuroepithelial tumor. It represents 25% of all intracranial tumors and 50% of tumors originating in the central nervous system. It is a heterogeneous glial cell tumor derived from the malignant degeneration of an astrocytoma or anaplastic astrocytoma. These tumors are most commonly found in the cerebral hemispheres during the fifth decade of life. CT and MRI scans typically reveal an irregular lesion with hypodense central necrosis, peripheral ring enhancement of the highly cellular tumor tissue, and surrounding edema and mass effect. Curative resections are rare. Therapy consists of diagnostic biopsy followed by radiotherapy to slow the tumor growth. The course of the disease progresses rapidly after presentation, with few patients living more than 2 years."
+    "cop": 1,
+    "exp": "Glioblastoma Multiforme most common form of primary intracranial neuroepithelial tumor. It represents 25% of all intracranial tumors and 50% of tumors originating in the central nervous system. It is a heterogeneous glial cell tumor derived from the malignant degeneration of an astrocytoma or anaplastic astrocytoma. These tumors are most commonly found in the cerebral hemispheres during the fifth decade of life. CT and MRI scans typically reveal an irregular lesion with hypodense central necrosis, peripheral ring enhancement of the highly cellular tumor tissue, and surrounding edema and mass effect. Curative resections are rare. Therapy consists of diagnostic biopsy followed by radiotherapy to slow the tumor growth. The course of the disease progresses rapidly after presentation, with few patients living more than 2 years.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"true\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8f905234-66fd-494d-93fd-75a8758c06ff": {
-    "cop": 2,
-    "exp": "Due to narrowing of the airway it resembles the steeple of the church. It is a characteric x ray finding for croup/ acute laryngo tracheo bronchitis. Croup is a viral infection, most common causative agent is parainfluenza virus C/F fever, malaise, respiratory distress, barking cough, stridor Rx: Mild case Dexamethasone i/m single dose Mild- moderate Dexamethasone single dose + nebulized epinephrine, suppoive care No role of antibiotics Acute epiglottitis shows thumb sign On direct inspection we see cherry red epiglottis (red swollen epiglottis). Most common causative agent is streptococcus (previously it was H. influenzas but with availability of H. influenzae vaccine, it is streptococcus) It is bacterial infection for the child is much more sick C/F High grade fever, drooling of saliva, respiratory distress Rx along with respiratory suppo we give antibiotics Treatment of choice-> IV 3 generation Cephalosporins Ceftriaxone"
+    "cop": 1,
+    "exp": "Due to narrowing of the airway it resembles the steeple of the church. It is a characteric x ray finding for croup/ acute laryngo tracheo bronchitis. Croup is a viral infection, most common causative agent is parainfluenza virus C/F fever, malaise, respiratory distress, barking cough, stridor Rx: Mild case Dexamethasone i/m single dose Mild- moderate Dexamethasone single dose + nebulized epinephrine, suppoive care No role of antibiotics Acute epiglottitis shows thumb sign On direct inspection we see cherry red epiglottis (red swollen epiglottis). Most common causative agent is streptococcus (previously it was H. influenzas but with availability of H. influenzae vaccine, it is streptococcus) It is bacterial infection for the child is much more sick C/F High grade fever, drooling of saliva, respiratory distress Rx along with respiratory suppo we give antibiotics Treatment of choice-> IV 3 generation Cephalosporins Ceftriaxone",
+    "hint_exp": "🎯 Think of \"seen in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0845ede5-148a-4682-9147-e2aa842d679a": {
-    "cop": 1,
-    "exp": "Liver transplant is becoming popular for cirrhosis with varices. It is ideal, final and best. But donor availability and cost is the problem. If patient is for ohotopic liver transplantation (OLT), open shunt surgeries should not be done as liver hilum should be kept virgin for effective transplantation. TIPSS can be done as a bridge in such patients. Ref: SRB&;s manual of surgery,3 rd ed, pg no 555"
+    "cop": 0,
+    "exp": "Liver transplant is becoming popular for cirrhosis with varices. It is ideal, final and best. But donor availability and cost is the problem. If patient is for ohotopic liver transplantation (OLT), open shunt surgeries should not be done as liver hilum should be kept virgin for effective transplantation. TIPSS can be done as a bridge in such patients. Ref: SRB&;s manual of surgery,3 rd ed, pg no 555",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"ohotropic liver transplantation which\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3f981fca-7572-415f-ada4-f1439d5e2e8f": {
-    "cop": 4,
-    "exp": "Ans. is'd'i.e., b-enkephalinCoicotrophs produce pOMC gene products.Derivatives of pOMC are:-Pituitary hormones:ACTH, MSHbeta-lipotropic hormone (beta-LpH)gamma-lipotropic hormone (y-LpH)beta-endorphinCLIP (coicotropin-like intermediate lobe peptide)."
+    "cop": 3,
+    "exp": "Ans. is'd'i.e., b-enkephalinCoicotrophs produce pOMC gene products.Derivatives of pOMC are:-Pituitary hormones:ACTH, MSHbeta-lipotropic hormone (beta-LpH)gamma-lipotropic hormone (y-LpH)beta-endorphinCLIP (coicotropin-like intermediate lobe peptide).",
+    "hint_exp": "🧩 Your crush solved \"Coicotrophs produce except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d4a379f1-5daf-43f5-a1dc-8c52465505f4": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"polymethyl methacrylate resin\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e73848fa-8f45-4725-be6c-60b1d28f059d": {
-    "cop": 4,
-    "exp": "Vitamin C. Vitamin C (ascorbic acid) is a powerful, biologic reducing agent that is necessary for the hydroxylation of proline residues in collagen. Most of the clinical features associated with vitamin C deficiency (scurvy) are caused by the formation of an abnormal collagen that lacks tensile strength. Patients with vitamin C deficiency exhibit poor wound healing. Dehiscence (bursting open) of previously healed wounds may also occur. None of the other choices are required for collagen assembly.Diagnosis: Wound healing"
+    "cop": 3,
+    "exp": "Vitamin C. Vitamin C (ascorbic acid) is a powerful, biologic reducing agent that is necessary for the hydroxylation of proline residues in collagen. Most of the clinical features associated with vitamin C deficiency (scurvy) are caused by the formation of an abnormal collagen that lacks tensile strength. Patients with vitamin C deficiency exhibit poor wound healing. Dehiscence (bursting open) of previously healed wounds may also occur. None of the other choices are required for collagen assembly.Diagnosis: Wound healing",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the scar tissue of the patient\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "91dcf133-f444-4577-a41f-6bb66ea7e39a": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Indicated treatment thyrotoxicosis case\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "80a09353-3b8b-4e4b-84c1-5c426d9881ee": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., DuodenumAlmost all iron absorption occurs in the duodenum."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., DuodenumAlmost all iron absorption occurs in the duodenum.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which pa of intestine\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "02d40455-76a1-4dcc-a8c6-5786553e967d": {
-    "cop": 2,
-    "exp": "Ans. b (Dilatation of pupil). (Ref. Parson, Diseases of Eye, 18th/pg.49, Basak, 2nd /68)ACCOMMODATION is ability to see near objects clearly, by increasing converging power of eye.Its components include:1. Constriction of ciliary muscles and sphincter pupillae2. Constriction of pupil3. Change in lens curvature (anterior surface)"
+    "cop": 1,
+    "exp": "Ans. b (Dilatation of pupil). (Ref. Parson, Diseases of Eye, 18th/pg.49, Basak, 2nd /68)ACCOMMODATION is ability to see near objects clearly, by increasing converging power of eye.Its components include:1. Constriction of ciliary muscles and sphincter pupillae2. Constriction of pupil3. Change in lens curvature (anterior surface)",
+    "hint_exp": "🧩 Your crush solved \"accommodation of eye except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "aa3fe59b-2df3-4951-8c6d-42146eb63239": {
-    "cop": 3,
-    "exp": "Answer- C. MouthScarless surgery, also known as Natural Orifice Translumetal Endoxopic Surgery (NOTES), involves passing surgical instruments through a natural orifice, such as mouth and vagina"
+    "cop": 2,
+    "exp": "Answer- C. MouthScarless surgery, also known as Natural Orifice Translumetal Endoxopic Surgery (NOTES), involves passing surgical instruments through a natural orifice, such as mouth and vagina",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"through\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "aec5ce14-f781-4cb7-89ad-f1a4e3c1965b": {
-    "cop": 4,
-    "exp": "It is woh learning the presentations of the common poisons listed in the answer choices, because a timely diagnosis can sometimes save a patient's life. The presentation of the teenager in the question is typical for salicylate poisoning, including poisoning with aspirin. Fatalities are typically due to dehydration and hypokalemia. In contrast to the acute toxicity of salicylates, acetaminophen poisoning produces nausea, vomiting, abdominal pain, and shock in some cases; it can cause irreversible hepatic failure (which can be prevented or ameliorated by administration of N-acetylcysteine) 2-6 days after ingestion. Carbon monoxide causes hypoxia, and a cherry red coloration of the lips and mucous membranes may be evident. Lead and mercury poisoning are both usually seen in their chronic forms, although mercury ingestion can produce an acute toxicity with renal tubular necrosis and necrosis of gastrointestinal epithelium. Chronic lead poisoning can cause anemia (with basophilic stippling of RBCs), neuropathy, and abdominal pain. Ref: Corbridge T., Murray P., Mokhlesi B. (2005). Chapter 102. Toxicology in Adults. In J.B. Hall, G.A. Schmidt, L.D. Wood (Eds), Principles of Critical Care, 3e."
+    "cop": 3,
+    "exp": "It is woh learning the presentations of the common poisons listed in the answer choices, because a timely diagnosis can sometimes save a patient's life. The presentation of the teenager in the question is typical for salicylate poisoning, including poisoning with aspirin. Fatalities are typically due to dehydration and hypokalemia. In contrast to the acute toxicity of salicylates, acetaminophen poisoning produces nausea, vomiting, abdominal pain, and shock in some cases; it can cause irreversible hepatic failure (which can be prevented or ameliorated by administration of N-acetylcysteine) 2-6 days after ingestion. Carbon monoxide causes hypoxia, and a cherry red coloration of the lips and mucous membranes may be evident. Lead and mercury poisoning are both usually seen in their chronic forms, although mercury ingestion can produce an acute toxicity with renal tubular necrosis and necrosis of gastrointestinal epithelium. Chronic lead poisoning can cause anemia (with basophilic stippling of RBCs), neuropathy, and abdominal pain. Ref: Corbridge T., Murray P., Mokhlesi B. (2005). Chapter 102. Toxicology in Adults. In J.B. Hall, G.A. Schmidt, L.D. Wood (Eds), Principles of Critical Care, 3e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"presentation\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "60d464f6-ed63-46ff-be03-54a620d61088": {
-    "cop": 3,
-    "exp": "C i.e. Fracture dislocation of upper cervical"
+    "cop": 2,
+    "exp": "C i.e. Fracture dislocation of upper cervical",
+    "hint_exp": "🎯 Think of \"judicial hanging\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b8886701-f82e-426c-b6b4-caa292f19338": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Shade determination composite resin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b0a7408e-7d90-4663-a44c-c6eb704134ea": {
-    "cop": 1,
-    "exp": "The patient in the question following A has blood in the urethral meatus and a palpable abdominal mass both of which indicate the presence of injury to membranous urethra. Injury to membranous urethra occur following fracture of pelvis or avulsion of symphysis pubis. Rupture usually occur at the junction of membranous and prostatic urethra. Ref: Current Surgical Diagnosis & Treatment, Gerard M. Dohey, Page 1030-32; Undergraduate Surgery By A.K. Nan page 671."
+    "cop": 0,
+    "exp": "The patient in the question following A has blood in the urethral meatus and a palpable abdominal mass both of which indicate the presence of injury to membranous urethra. Injury to membranous urethra occur following fracture of pelvis or avulsion of symphysis pubis. Rupture usually occur at the junction of membranous and prostatic urethra. Ref: Current Surgical Diagnosis & Treatment, Gerard M. Dohey, Page 1030-32; Undergraduate Surgery By A.K. Nan page 671.",
+    "hint_exp": "🧩 Your crush solved \"bladder\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "14727bc0-5153-46f0-97b9-c913311c2f68": {
-    "cop": 1,
-    "exp": "Ans: A (Hepatocellular Ca) Ref: Bailey and Love's Short Practice of Surgery 25lh Edition & Schwartz, 's Principles of Surgery, 9th EditionExplanation:Complications of Gall StonesAcute and chronic cholecystitisJaundiceMucocele of GBEmpyema of GBGangrene of GBSepsisCa gallbladderCholangitisPancreatitisMirrizi syndrome: Biliary duct obstruction secondary to stone impaction in hartman's pouch of GBGallstone ileus"
+    "cop": 0,
+    "exp": "Ans: A (Hepatocellular Ca) Ref: Bailey and Love's Short Practice of Surgery 25lh Edition & Schwartz, 's Principles of Surgery, 9th EditionExplanation:Complications of Gall StonesAcute and chronic cholecystitisJaundiceMucocele of GBEmpyema of GBGangrene of GBSepsisCa gallbladderCholangitisPancreatitisMirrizi syndrome: Biliary duct obstruction secondary to stone impaction in hartman's pouch of GBGallstone ileus",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"complications gall stones except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6cd5d573-840f-4b41-b162-47d46eaa915b": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"true about cohort studies\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "73932e61-37db-4a4a-bd3a-5148d1e7f783": {
-    "cop": 1,
-    "exp": "[A) (IgE) (161-AN 7th) (202-206-CP)Type of reactionClinical syndromeMediatorsType I - IgE1. Anaphylaxis2. Atopy P.K. reactionIgE, histamine and other pharmacological agents"
+    "cop": 0,
+    "exp": "[A) (IgE) (161-AN 7th) (202-206-CP)Type of reactionClinical syndromeMediatorsType I - IgE1. Anaphylaxis2. Atopy P.K. reactionIgE, histamine and other pharmacological agents",
+    "hint_exp": "🎯 Think of \"Type hypersensitivity mediator\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "233eae22-7079-4e71-a825-98b9b177d44b": {
-    "cop": 2,
-    "exp": "Gustatory sweating (auriculotemporal syndrome) commonly occurs following parotid surgery or other surgery or trauma that results in opening of the parotid capsule. It is thought to arise as a result of damage to the autonomic nerve fibres supplying the parotid gland and the overlying sweat glands. During the healing process parasympathetic secretomotor fibres to the parotid gland regenerate into the nerve sheaths of the sympathetic secretomotor nerves to the sweat glands. Frey's syndrome is characterized by sweating, warmth and redness of the face as a result of salivary stimulation by the smell or taste of food. It is usually a result of injury to auriculotemporal nerve after a parotid surgery."
+    "cop": 1,
+    "exp": "Gustatory sweating (auriculotemporal syndrome) commonly occurs following parotid surgery or other surgery or trauma that results in opening of the parotid capsule. It is thought to arise as a result of damage to the autonomic nerve fibres supplying the parotid gland and the overlying sweat glands. During the healing process parasympathetic secretomotor fibres to the parotid gland regenerate into the nerve sheaths of the sympathetic secretomotor nerves to the sweat glands. Frey's syndrome is characterized by sweating, warmth and redness of the face as a result of salivary stimulation by the smell or taste of food. It is usually a result of injury to auriculotemporal nerve after a parotid surgery.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"caused due to damage to\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2fe954c6-2b59-4c56-8b05-bf28760b450f": {
-    "cop": 3,
-    "exp": "BMI stands for the Body Mass Index which is used to predict weight for the respective height. It is defined as the weight in kilograms divided by the square of height in metres and is expressed as kg/m2. A value of BMI > 30 is classified as obesity and a BMI of > 40 is classified under class III obesity. A BMI > 20 up to 30 will include those who are pre-obese and the overweight. Ref: Park's Textbook of Preventive and Social Medicine 19th Edition; Pages 332 - 335; 515."
+    "cop": 2,
+    "exp": "BMI stands for the Body Mass Index which is used to predict weight for the respective height. It is defined as the weight in kilograms divided by the square of height in metres and is expressed as kg/m2. A value of BMI > 30 is classified as obesity and a BMI of > 40 is classified under class III obesity. A BMI > 20 up to 30 will include those who are pre-obese and the overweight. Ref: Park's Textbook of Preventive and Social Medicine 19th Edition; Pages 332 - 335; 515.",
+    "hint_exp": "🧩 Your crush solved \"it to be classified as obesity\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2b54e226-b165-45a3-8dea-f611a3d6d8f1": {
-    "cop": 1,
-    "exp": "measurement of CH 50 is the best screening test for defiency of classical and terminal pathways.hemolytic activity of compliment system is measured as the hemolysis of sheep erythrocytes sensitised by specific antibodies.the degree of hemolysis is measured by CH 50 REF:HARRISONS PRINCIPLE&;S OF INTERNAL MEDICINE 18TH EDITION"
+    "cop": 0,
+    "exp": "measurement of CH 50 is the best screening test for defiency of classical and terminal pathways.hemolytic activity of compliment system is measured as the hemolysis of sheep erythrocytes sensitised by specific antibodies.the degree of hemolysis is measured by CH 50 REF:HARRISONS PRINCIPLE&;S OF INTERNAL MEDICINE 18TH EDITION",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "503a073d-2e67-42ac-8b0d-c1df37328865": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Splenic Branches of coeliac trunkThe coeliac trunk is only about 1.25 cm long and it ends by divided into its three terminal branches :?1) Left gastric aery :- It is the smallest branch of coeliac trunk. It ends by anastomosing with right gastric aery. It gives off :a) Two or three esophageal branches.b) Number of gastric branches.2) Common hepatic aery :- It runs to the right behind lesser sac and enters the free right border of lesser omentum and then run upwards as proper hepatic aery, in front of poal vein and to the left of bile duct. After reaching the poa hepatis it terminates by dividing into right and left hepatic branches. It gives of following branches :a) Gastroduodenal aery :- It terminates by dividing into right gastroepiploic aery and superior pancreaticoduodenal aery.b) Right gastric aery.c) Cystic aery :- It is a branch of right hepatic aery.3) Splenic aery :- It is the largest branch of coeliac trunk. It runs horizontally to the left along upper border of pancreas and has touous course. It crosses left suprarenal gland and left kidney to enter the linorenal ligament through which it reaches the hilum of spleen where it divides into 5-7 splenic (hilar) branches. It gives off :a) Numerous pancreatic brnaches :- These supply body and tail of pancreas. One of the pancreatic branches is large and is called aeria pancreatic magna. Another large branch is called aeria caudae pancreatis.b) Sho gastric anteries :- Run in gastrosplenic ligament and supply the fundus of stomach.c) Left gastroepiploic aery :- It anastomoses with right gastroepiploic aery and supplies stomach and greater omentum.d) Posterior gastric aery :- It is an inconsistent branch and supplies posterior body and fundus of stomach."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Splenic Branches of coeliac trunkThe coeliac trunk is only about 1.25 cm long and it ends by divided into its three terminal branches :?1) Left gastric aery :- It is the smallest branch of coeliac trunk. It ends by anastomosing with right gastric aery. It gives off :a) Two or three esophageal branches.b) Number of gastric branches.2) Common hepatic aery :- It runs to the right behind lesser sac and enters the free right border of lesser omentum and then run upwards as proper hepatic aery, in front of poal vein and to the left of bile duct. After reaching the poa hepatis it terminates by dividing into right and left hepatic branches. It gives of following branches :a) Gastroduodenal aery :- It terminates by dividing into right gastroepiploic aery and superior pancreaticoduodenal aery.b) Right gastric aery.c) Cystic aery :- It is a branch of right hepatic aery.3) Splenic aery :- It is the largest branch of coeliac trunk. It runs horizontally to the left along upper border of pancreas and has touous course. It crosses left suprarenal gland and left kidney to enter the linorenal ligament through which it reaches the hilum of spleen where it divides into 5-7 splenic (hilar) branches. It gives off :a) Numerous pancreatic brnaches :- These supply body and tail of pancreas. One of the pancreatic branches is large and is called aeria pancreatic magna. Another large branch is called aeria caudae pancreatis.b) Sho gastric anteries :- Run in gastrosplenic ligament and supply the fundus of stomach.c) Left gastroepiploic aery :- It anastomoses with right gastroepiploic aery and supplies stomach and greater omentum.d) Posterior gastric aery :- It is an inconsistent branch and supplies posterior body and fundus of stomach.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"a branch of which aery\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "538474f1-2c06-4d59-a2e2-47da139e899c": {
-    "cop": 1,
-    "exp": "Ans. A i.e. Amenorrhoea"
+    "cop": 0,
+    "exp": "Ans. A i.e. Amenorrhoea",
+    "hint_exp": "🎯 Think of \"Asherman syndrome characterized March\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9d4bc6ea-ddb5-45e1-960a-fefc8ce1fc41": {
-    "cop": 3,
-    "exp": "Hypervolemia leads to low plasma renin. Low renin measurements differentiate primary from secondary, hyperreninemic forms of hyperaldosteronism seen in renovascular hypeension, coarctation of the aoa, renin-secreting neoplasms, or diuretic therapy Ref Davidson 23rd edition pg 486"
+    "cop": 2,
+    "exp": "Hypervolemia leads to low plasma renin. Low renin measurements differentiate primary from secondary, hyperreninemic forms of hyperaldosteronism seen in renovascular hypeension, coarctation of the aoa, renin-secreting neoplasms, or diuretic therapy Ref Davidson 23rd edition pg 486",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"renin seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "64945c85-2750-4ff7-8e6a-8174bb7c7738": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., SCC * Squamous cell carcinoma is by far the most malignant tumor of the larynx and hypopharynx."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., SCC * Squamous cell carcinoma is by far the most malignant tumor of the larynx and hypopharynx.",
+    "hint_exp": "🧩 Your crush solved \"hypopharyngeal carcinoma\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

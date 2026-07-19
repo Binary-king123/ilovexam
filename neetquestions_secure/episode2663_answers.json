@@ -1,202 +1,252 @@
 {
   "1cfe3e78-d477-4049-82b0-09a2d9abde20": {
-    "cop": 3,
-    "exp": "In general, failure (or inability) to continue anticoagulants is an indication to insert an IVC filter to minimize the possibility of serious and possibly fatal pulmonary embolus."
+    "cop": 2,
+    "exp": "In general, failure (or inability) to continue anticoagulants is an indication to insert an IVC filter to minimize the possibility of serious and possibly fatal pulmonary embolus.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"management involve\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "133df63f-de7d-4ba4-baf3-68ea23eb90a8": {
-    "cop": 2,
-    "exp": "Ref: HL Sharma 3rd ed pg no:173 Adrenaline is the DOC for anaphylactic shock, which occurs due to release of histamine causing bronchoconstriction, laryngeal edema- resp failure and death adrenaline is the physiological antagonist for histamine"
+    "cop": 1,
+    "exp": "Ref: HL Sharma 3rd ed pg no:173 Adrenaline is the DOC for anaphylactic shock, which occurs due to release of histamine causing bronchoconstriction, laryngeal edema- resp failure and death adrenaline is the physiological antagonist for histamine",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "cdc59ec1-2397-40b0-b2db-4e1d03512fca": {
-    "cop": 2,
-    "exp": "Domperidone Neurolept malignant syndrome is a potentially life threatening idiosyncratic reaction to neuroleptic drugs. It causes :? Fever Muscular rigidity Altered mental status Autonomic dysfunction The underlying pathological abnormality is thought to be central D2 receptor blockade or dopamine depletion in the hypothalamus and nigrostriatal / spinal pathways. This leads to an elevated temperature set point, impairment of normal thermal homeostasis and extrapyramidally induced muscle regidity. Thus it is usually associated with potent neuroleptics such as haloperidol and fluphenazine, which block central D2 receptors but it has now been repoed to occur with all drugs that affect the central dopaminergic system (including dopamine agonists and levodopa). In these cases neurolept malignant syndrome is precipitated by rapid withdrawl of the dopaminergic agonists. Amantadine Amantadine is a dopamine agonist and its withdrawl precipitates neurolept malignant syndrome. N.M.S. is also associated with other drugs that have central D2 receptor antagonist activity e.g. Metoclopromide. Metoclopromide is a D2 blocker. Can cross the C.N.S. and cause neurolept malignant syndrome. Domperidone Like metoclopromide is a D2 blocker and is similar to metoclopromide in all respects, except that, Domeperidone does not cross C.N.S. and so it does not generally cause neurolept malignant syndrome. But rare cases of N.M.S. of have been repoed with Domeperidone, too. So all the drugs mentioned in the question can cause neurolept malignant syndrome. Some believe that answer should be Amantadine as it causes N.M.S due to drug withdrawl, we are not convinced. But, we are not sure of the answer."
+    "cop": 1,
+    "exp": "Domperidone Neurolept malignant syndrome is a potentially life threatening idiosyncratic reaction to neuroleptic drugs. It causes :? Fever Muscular rigidity Altered mental status Autonomic dysfunction The underlying pathological abnormality is thought to be central D2 receptor blockade or dopamine depletion in the hypothalamus and nigrostriatal / spinal pathways. This leads to an elevated temperature set point, impairment of normal thermal homeostasis and extrapyramidally induced muscle regidity. Thus it is usually associated with potent neuroleptics such as haloperidol and fluphenazine, which block central D2 receptors but it has now been repoed to occur with all drugs that affect the central dopaminergic system (including dopamine agonists and levodopa). In these cases neurolept malignant syndrome is precipitated by rapid withdrawl of the dopaminergic agonists. Amantadine Amantadine is a dopamine agonist and its withdrawl precipitates neurolept malignant syndrome. N.M.S. is also associated with other drugs that have central D2 receptor antagonist activity e.g. Metoclopromide. Metoclopromide is a D2 blocker. Can cross the C.N.S. and cause neurolept malignant syndrome. Domperidone Like metoclopromide is a D2 blocker and is similar to metoclopromide in all respects, except that, Domeperidone does not cross C.N.S. and so it does not generally cause neurolept malignant syndrome. But rare cases of N.M.S. of have been repoed with Domeperidone, too. So all the drugs mentioned in the question can cause neurolept malignant syndrome. Some believe that answer should be Amantadine as it causes N.M.S due to drug withdrawl, we are not convinced. But, we are not sure of the answer.",
+    "hint_exp": "🎯 Think of \"the following drugs can\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "10e7574b-9177-491e-bbe2-0a90ae4ffe75": {
-    "cop": 4,
-    "exp": "Answer is D (Subcutaneous nodules) Subcutaneous nodules are generally not seen as a stigmata of chronic liver disease. Chronic Liver Disease manifests with loss of subcutaneous fatty tissue resulting in paper thin skin with markedfiilds (paper-money skin)."
+    "cop": 3,
+    "exp": "Answer is D (Subcutaneous nodules) Subcutaneous nodules are generally not seen as a stigmata of chronic liver disease. Chronic Liver Disease manifests with loss of subcutaneous fatty tissue resulting in paper thin skin with markedfiilds (paper-money skin).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"chronic Liver disease\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "45af1c1f-91ce-462e-9746-f2d405433c86": {
-    "cop": 1,
-    "exp": "Periventricular leukomalacia are zones of necrosis of white matter in the deep territories of coical and central aeries. They lie lateral and posterolateral to the lateral ventricles, in a position to involve the occipital radiations and the sensorimotor fibers in the corona radiata. Survivors often manifest cerebral hemiplegia or diplegia and variable degrees of mental impairment. The motor disorder is usually more severe than the cognitive and language impairment. Ref: Ropper A.H., Samuels M.A. (2009). Chapter 38. Developmental Diseases of the Nervous System. In A.H. Ropper, M.A. Samuels (Eds), Adams and Victor's Principles of Neurology, 9e."
+    "cop": 0,
+    "exp": "Periventricular leukomalacia are zones of necrosis of white matter in the deep territories of coical and central aeries. They lie lateral and posterolateral to the lateral ventricles, in a position to involve the occipital radiations and the sensorimotor fibers in the corona radiata. Survivors often manifest cerebral hemiplegia or diplegia and variable degrees of mental impairment. The motor disorder is usually more severe than the cognitive and language impairment. Ref: Ropper A.H., Samuels M.A. (2009). Chapter 38. Developmental Diseases of the Nervous System. In A.H. Ropper, M.A. Samuels (Eds), Adams and Victor's Principles of Neurology, 9e.",
+    "hint_exp": "🧩 Your crush solved \"this child\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c9f178de-ddec-4c0f-b504-a04d3dd6acde": {
-    "cop": 4,
-    "exp": "Ans. is 'd i.e., Ang I"
+    "cop": 3,
+    "exp": "Ans. is 'd i.e., Ang I",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"angiogenesis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ea0578eb-0c2b-4337-8073-e39250cfab35": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Scleroderma The skin involvement in Crohn's disease causes erythema nodosum, scleroderma does not occur in Crohn's disease. Other extra intestinal manifestations of Crohn's disease: I. Migratory polyahritis 2. Sacroiliaitis 5. Hepatic pericholangitis 7. Clubbing 3. Ankylosing spondylitis 4. Uveitis 6. Primary sclerosing cholangitis"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Scleroderma The skin involvement in Crohn's disease causes erythema nodosum, scleroderma does not occur in Crohn's disease. Other extra intestinal manifestations of Crohn's disease: I. Migratory polyahritis 2. Sacroiliaitis 5. Hepatic pericholangitis 7. Clubbing 3. Ankylosing spondylitis 4. Uveitis 6. Primary sclerosing cholangitis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"True regarding crohn disease\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7defb151-560d-454f-b7b9-2492379880b3": {
-    "cop": 2,
-    "exp": "Ciliary ganglion is a parasympathetic ganglion located near the apex of the orbit between the optic nerve and lateral rectus. It has three roots parasympathetic or motor, sympathetic and sensory roots. The motor root arises from the nerve to inferior oblique, sympathetic root arises from the nasociliary nerve and sympathetic root is a branch from the internal carotid plexus. Ref: Human Anatomy by B.D Chaurasia, 4th Edition, Vol 3, Page 114."
+    "cop": 1,
+    "exp": "Ciliary ganglion is a parasympathetic ganglion located near the apex of the orbit between the optic nerve and lateral rectus. It has three roots parasympathetic or motor, sympathetic and sensory roots. The motor root arises from the nerve to inferior oblique, sympathetic root arises from the nasociliary nerve and sympathetic root is a branch from the internal carotid plexus. Ref: Human Anatomy by B.D Chaurasia, 4th Edition, Vol 3, Page 114.",
+    "hint_exp": "🎯 Think of \"Nerve which following extraocular\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "71511b2e-4fd2-49d7-a046-b8792852798a": {
-    "cop": 4,
-    "exp": "Ref-KDT 6/e 824,825 Vincristine is a chemotherapy drug that belongs to a group of drugs called vinca alkaloids. Vincristine works by stopping the cancer cells from separating into 2 new cells. So, it stops the growth of the cancer by polymerization"
+    "cop": 3,
+    "exp": "Ref-KDT 6/e 824,825 Vincristine is a chemotherapy drug that belongs to a group of drugs called vinca alkaloids. Vincristine works by stopping the cancer cells from separating into 2 new cells. So, it stops the growth of the cancer by polymerization",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the treatment of all\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c35dc369-174b-456c-954e-a01937baf779": {
-    "cop": 2,
-    "exp": "Zonules of zinn suspend the lens and enable the ciliary muscles to act upon them. Suspensory ligaments of lens : Also called zonules of zinn & ciliary zonules. Consist of fibres passing from ciliary body to lens. Extend from ora serrata to edge of the lens. Hold the lens in position. Enable the ciliary muscles to act upon them in accommodation."
+    "cop": 1,
+    "exp": "Zonules of zinn suspend the lens and enable the ciliary muscles to act upon them. Suspensory ligaments of lens : Also called zonules of zinn & ciliary zonules. Consist of fibres passing from ciliary body to lens. Extend from ora serrata to edge of the lens. Hold the lens in position. Enable the ciliary muscles to act upon them in accommodation.",
+    "hint_exp": "🧩 Your crush solved \"Zonules zinn\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "35abbd03-8e1b-4ce1-a7c2-4725f7d7f2ec": {
-    "cop": 4,
-    "exp": "Prions or proteinaceous infectious paicles that lack nucleic acids. There are composed of largely 16 not entirely of PrPSE molecules. Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno : 442"
+    "cop": 3,
+    "exp": "Prions or proteinaceous infectious paicles that lack nucleic acids. There are composed of largely 16 not entirely of PrPSE molecules. Ref: Ananthanarayana textbook of Microbiology 9th edition Pgno : 442",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"these\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2943bf2d-8b6c-4faf-8771-17c82ce84c5f": {
-    "cop": 1,
-    "exp": "A gene is a locus (or region) of DNA which is made up of nucleotides and is the molecular unit of heredity.:Glossary The transmission of genes to an organism&;s offspring is the basis of the inheritance of phenotypic traits. Most biological traits are under the influence of polygenes (many different genes) as well as gene-environment interactions. Some genetic traits are instantly visible, such as eye colour or number of limbs, and some are not, such as blood type, risk for specific diseases, or the thousands of basic biochemical processes that comprise life. Genes can acquire mutations in their sequence, leading to different variants, known as alleles, in the population. These alleles encode slightly different versions of a protein, which cause different phenotype traits. Colloquial usage of the term \"having a gene\" (e.g., \"good genes,\" \"hair color gene\") typically refers to having a different allele of the gene. Genes evolve due to natural selection or survival of the fittest of the alleles. The concept of a gene continues to be refined as new phenomena are discovered. For example, regulatory regions of a gene can be far removed from its coding regions, and coding regions can be split into several exons. Some viruses store their genome in RNA instead of DNA and some gene products are functional non-coding RNAs. Therefore, a broad, modern working definition of a gene is any discrete locus of heritable, genomic sequence which affects an organism&;s traits by being expressed as a functional product or by regulation of gene expression."
+    "cop": 0,
+    "exp": "A gene is a locus (or region) of DNA which is made up of nucleotides and is the molecular unit of heredity.:Glossary The transmission of genes to an organism&;s offspring is the basis of the inheritance of phenotypic traits. Most biological traits are under the influence of polygenes (many different genes) as well as gene-environment interactions. Some genetic traits are instantly visible, such as eye colour or number of limbs, and some are not, such as blood type, risk for specific diseases, or the thousands of basic biochemical processes that comprise life. Genes can acquire mutations in their sequence, leading to different variants, known as alleles, in the population. These alleles encode slightly different versions of a protein, which cause different phenotype traits. Colloquial usage of the term \"having a gene\" (e.g., \"good genes,\" \"hair color gene\") typically refers to having a different allele of the gene. Genes evolve due to natural selection or survival of the fittest of the alleles. The concept of a gene continues to be refined as new phenomena are discovered. For example, regulatory regions of a gene can be far removed from its coding regions, and coding regions can be split into several exons. Some viruses store their genome in RNA instead of DNA and some gene products are functional non-coding RNAs. Therefore, a broad, modern working definition of a gene is any discrete locus of heritable, genomic sequence which affects an organism&;s traits by being expressed as a functional product or by regulation of gene expression.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"genes\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ee017cfc-81ab-40cd-a90c-6e83078cb9e5": {
-    "cop": 3,
-    "exp": "ARDS, the presence of alveolar and interstitial fluid and the loss of surfactant can lead to a marked reduction of lung compliance. Without an increase in end-expiratory pressure, significant alveolar collapse can occur at end-expiration, with consequent impairment of oxygenation. In most clinical settings, positive end-expiratory pressure (PEEP) is empirically set to minimise Fio2(inspired O2 percentage) and maximize Pao2(aerial paial pressure of O2). On most modern mechanical ventilators, it is possible to construct a static pressure-volume curve for the respiratory system.The impact of hypercapnia in ARDS. The impact of hypercapnia has not been clearly elucidated and is still controversial given its disparate effects . Neveheless, it has come to be seen as a major factor in ARDS Ref Davidson edition23rd pg 199"
+    "cop": 2,
+    "exp": "ARDS, the presence of alveolar and interstitial fluid and the loss of surfactant can lead to a marked reduction of lung compliance. Without an increase in end-expiratory pressure, significant alveolar collapse can occur at end-expiration, with consequent impairment of oxygenation. In most clinical settings, positive end-expiratory pressure (PEEP) is empirically set to minimise Fio2(inspired O2 percentage) and maximize Pao2(aerial paial pressure of O2). On most modern mechanical ventilators, it is possible to construct a static pressure-volume curve for the respiratory system.The impact of hypercapnia in ARDS. The impact of hypercapnia has not been clearly elucidated and is still controversial given its disparate effects . Neveheless, it has come to be seen as a major factor in ARDS Ref Davidson edition23rd pg 199",
+    "hint_exp": "🎯 Think of \"are seen in ARDS except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "abc3f2f6-80a5-44ef-86e3-c0697dc899fd": {
-    "cop": 1,
-    "exp": "Clostridium botulinum growing in food produces a potent neurotoxin that causes diplopia, dysphagia, respiratory paralysis, and speech difficulties when ingested by humans. The toxin is thought to act by blocking the action of acetylcholine at neuromuscular junctions. Botulism is associated with high mortality; fortunately, C. botulinum infection in humans is rare."
+    "cop": 0,
+    "exp": "Clostridium botulinum growing in food produces a potent neurotoxin that causes diplopia, dysphagia, respiratory paralysis, and speech difficulties when ingested by humans. The toxin is thought to act by blocking the action of acetylcholine at neuromuscular junctions. Botulism is associated with high mortality; fortunately, C. botulinum infection in humans is rare.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"consistent with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a3b2da3c-d280-473c-9406-57c731c6ed22": {
-    "cop": 4,
-    "exp": "(Tropicamide) (98 - KDT) (111-KDT6th)Tropicamide - It has the quickest (20 - 40 min) and briefest (2-6 hours) action, but it is a relatively unreliable cyclopegic* However it is satisfactory for refraction testing in adults and as short acting mydriatic for fundoscopy"
+    "cop": 3,
+    "exp": "(Tropicamide) (98 - KDT) (111-KDT6th)Tropicamide - It has the quickest (20 - 40 min) and briefest (2-6 hours) action, but it is a relatively unreliable cyclopegic* However it is satisfactory for refraction testing in adults and as short acting mydriatic for fundoscopy",
+    "hint_exp": "🧩 Your crush solved \"fundoscopy\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "08c46752-f2be-402c-8466-a5cf7a52bb57": {
-    "cop": 1,
-    "exp": "The high pitched opening snap (OS) of MS occurs after a very sho interval after the second hea sound. The opening snap (OS) of the mitral valve is most readily audible in expiration at, or just medial to, the cardiac apex. This sound generally follows the sound of aoic valve closure (A 2 ) by 0.05-0.12 s. The time interval between A 2 and OS varies inversely with the severity of the MS. The OS is followed by a low-pitched, rumbling, diastolic murmur, heard best at the apex with the patient in the left lateral recumbent position. In general, the duration of this murmur correlates with the severity of the stenosis in patients with preserved CO. ( Harrison&;s principle of internal medicine,18th edition,pg no. 1931 )"
+    "cop": 0,
+    "exp": "The high pitched opening snap (OS) of MS occurs after a very sho interval after the second hea sound. The opening snap (OS) of the mitral valve is most readily audible in expiration at, or just medial to, the cardiac apex. This sound generally follows the sound of aoic valve closure (A 2 ) by 0.05-0.12 s. The time interval between A 2 and OS varies inversely with the severity of the MS. The OS is followed by a low-pitched, rumbling, diastolic murmur, heard best at the apex with the patient in the left lateral recumbent position. In general, the duration of this murmur correlates with the severity of the stenosis in patients with preserved CO. ( Harrison&;s principle of internal medicine,18th edition,pg no. 1931 )",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Following true regarding opening\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7e0b0bf9-2587-4c62-a1bb-9a222ac52c0b": {
-    "cop": 1,
-    "exp": "MC site of subclavian artery stenosis is the first part of the subclavian artery.\n• MC cause of subclavian artery stenosis: Atherosclerotic disease\n• Left subclavian artery stenosis is significantly more common than right\n• MC site of stenosis: First part of the subclavian artery\n• Stenosis typically occurs just distal to the origin of the subclavian artery and lies proximal to the origin of the vertebral artery.\n• Stenosis of the first part of the subclavian artery may give rise to the subclavian steal syndrome\n• Subclavian steal syndrome is characterized by reversed flow in the vertebral artery to compensate for a proximal stenosis in the ipsilateral subclavian artery there by stealing blood from the ‘brain’ to feed the ‘arm’."
+    "cop": 0,
+    "exp": "MC site of subclavian artery stenosis is the first part of the subclavian artery.\n• MC cause of subclavian artery stenosis: Atherosclerotic disease\n• Left subclavian artery stenosis is significantly more common than right\n• MC site of stenosis: First part of the subclavian artery\n• Stenosis typically occurs just distal to the origin of the subclavian artery and lies proximal to the origin of the vertebral artery.\n• Stenosis of the first part of the subclavian artery may give rise to the subclavian steal syndrome\n• Subclavian steal syndrome is characterized by reversed flow in the vertebral artery to compensate for a proximal stenosis in the ipsilateral subclavian artery there by stealing blood from the ‘brain’ to feed the ‘arm’.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Commonest part subclavian artery\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "472d54f9-0977-438e-a389-926c3d94bf68": {
-    "cop": 2,
-    "exp": "Ans. B. CHFa. Destination therapy is a therapy that is final rather than being a transitional stage until another therapy--thus, in transportation metaphor, a destination in itself rather than merely a bridge or road to the destination.b. The term usually refers to ventricular assist devices or mechanical circulatory support to keep the existing heart going, not just until a heart transplant can occur, but for the rest of the patient's life expectancy. It is thus a course of treatment for severe (e.g., NYHA class IV/ACC stage D) heart failure patients who are not likely candidates for transplant.c. In contrast, bridge-to-transplant therapy is a way to stay alive long enough, and stay healthy enough, to await transplant while maintaining eligibility for transplant.d. Heart failure is a leading cause of death in industrialized economies. Among those suffering from serious heart illness some are, for a variety of possible medical circumstances, ineligible for a heart transplant. Destination therapy provides a possibility to extend their lives and improve their quality of life.e. In addition, destination therapy may in some cases turn out to remedy the condition that excluded transplantation"
+    "cop": 1,
+    "exp": "Ans. B. CHFa. Destination therapy is a therapy that is final rather than being a transitional stage until another therapy--thus, in transportation metaphor, a destination in itself rather than merely a bridge or road to the destination.b. The term usually refers to ventricular assist devices or mechanical circulatory support to keep the existing heart going, not just until a heart transplant can occur, but for the rest of the patient's life expectancy. It is thus a course of treatment for severe (e.g., NYHA class IV/ACC stage D) heart failure patients who are not likely candidates for transplant.c. In contrast, bridge-to-transplant therapy is a way to stay alive long enough, and stay healthy enough, to await transplant while maintaining eligibility for transplant.d. Heart failure is a leading cause of death in industrialized economies. Among those suffering from serious heart illness some are, for a variety of possible medical circumstances, ineligible for a heart transplant. Destination therapy provides a possibility to extend their lives and improve their quality of life.e. In addition, destination therapy may in some cases turn out to remedy the condition that excluded transplantation",
+    "hint_exp": "🎯 Think of \"given in which condition\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4bbb34d3-078c-4897-b8e3-ebcbd12fbc94": {
-    "cop": 2,
-    "exp": "Synthesis of heme:* In first step of heme synthesis, Glycine amino acid is required* Glycine condenses with succinyl CoA to form 6-amino levulinate which serves as a precursor for heme synthesis. Heme oxygenase uses oxygen & it produces CO, Fe3+ & water. But it does not produce CO2. Copper is necessary for the synthesis of haemoglobin because Cu is a constituent of ALA synthase, needed for heme synthesis. Pyridoxal phosphate is required for the synthesis of d-amino levulinic acid, the precursor for heme. Extra Information Senescent RBCs are destroyed in reticuloendothelial System (RES) releasing hemoglobin Globin pa enters the amino acid pool Heme iron is usually oxidised to ferric iron forming hemin Hemin is the substrate of microsomal Heme Oxygenase system."
+    "cop": 1,
+    "exp": "Synthesis of heme:* In first step of heme synthesis, Glycine amino acid is required* Glycine condenses with succinyl CoA to form 6-amino levulinate which serves as a precursor for heme synthesis. Heme oxygenase uses oxygen & it produces CO, Fe3+ & water. But it does not produce CO2. Copper is necessary for the synthesis of haemoglobin because Cu is a constituent of ALA synthase, needed for heme synthesis. Pyridoxal phosphate is required for the synthesis of d-amino levulinic acid, the precursor for heme. Extra Information Senescent RBCs are destroyed in reticuloendothelial System (RES) releasing hemoglobin Globin pa enters the amino acid pool Heme iron is usually oxidised to ferric iron forming hemin Hemin is the substrate of microsomal Heme Oxygenase system.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Mark false statement among\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b331675e-3bff-47d1-8148-4d12f2c4c52c": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Maxillary primary cuspid enamel\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3dc44456-1b3f-4f54-b396-6f9de2c1c6fd": {
-    "cop": 1,
-    "exp": "Ref: Robbins 8th ed. P 136-137PhenotypePhysical appearance ascribed to a particular genetic make-upProteomicsMeasurement of all proteins expressed in a cell or tissueGenotypeGenetic composition describing number of chromosomesAnticipationIncrease in severity of disease with successive generations"
+    "cop": 0,
+    "exp": "Ref: Robbins 8th ed. P 136-137PhenotypePhysical appearance ascribed to a particular genetic make-upProteomicsMeasurement of all proteins expressed in a cell or tissueGenotypeGenetic composition describing number of chromosomesAnticipationIncrease in severity of disease with successive generations",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3d987466-74b1-4141-a83e-7ba9958d1dca": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. Lipofuscin * \"Molecular evidence of increased oxidative stress is Lipofuscin\".Endogenous pigments LipofuscinIt is an insoluble pigment, also known as lipochrome and wear or tear or aging pigment.Lipofuscin is not injurious to the cell or its functions.Its importance lies in being the tell-tale sign of free radical injury and lipid peroxidation.It is seen in cells undergoing slow, regressive changes and is particularly prominent in the liver and heart of aging patients or patients with severe malnutrition and cancer cachexia.Lipofuscin is composed of polymers of lipids and phospholipids complexed with proteins, suggesting that it is derived through lipid peroxidation of polyunsaturated lipids of subcellular membranes.On electron microscopy, the granules are highly electron dense, often have membranous structure in their midst and are usually in perinuclear location.In tissue section it appears as yellow brown pigment.MelaninIt is an endogenous, non hemoglobin derived brown-black pigment.Melanin is the only endogenous brown black pigment.HemosiderinIt is hemoglobin derived, golden yellow to brown, granular or crystalline pigment in which form iron is stored in cells.When there is local or systemic excess of iron, ferritin forms hemosiderin granules.Thus hemosiderin pigment represents aggregrates of ferritin micelles.Under normal conditions small amounts of hemosiderin can be seen in the mononuclear phagocytes of the bone marrow, spleen and liver, all actively engaged in red cell breakdown.BilirubinIt is the normal major pigment found in bile.It is derived from hemoglobin but contains no iron.Its normal formation and excretion are vital to health and jaundice is a common clinical disorder caused by excesses of this pigment within cells and tissues."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. Lipofuscin * \"Molecular evidence of increased oxidative stress is Lipofuscin\".Endogenous pigments LipofuscinIt is an insoluble pigment, also known as lipochrome and wear or tear or aging pigment.Lipofuscin is not injurious to the cell or its functions.Its importance lies in being the tell-tale sign of free radical injury and lipid peroxidation.It is seen in cells undergoing slow, regressive changes and is particularly prominent in the liver and heart of aging patients or patients with severe malnutrition and cancer cachexia.Lipofuscin is composed of polymers of lipids and phospholipids complexed with proteins, suggesting that it is derived through lipid peroxidation of polyunsaturated lipids of subcellular membranes.On electron microscopy, the granules are highly electron dense, often have membranous structure in their midst and are usually in perinuclear location.In tissue section it appears as yellow brown pigment.MelaninIt is an endogenous, non hemoglobin derived brown-black pigment.Melanin is the only endogenous brown black pigment.HemosiderinIt is hemoglobin derived, golden yellow to brown, granular or crystalline pigment in which form iron is stored in cells.When there is local or systemic excess of iron, ferritin forms hemosiderin granules.Thus hemosiderin pigment represents aggregrates of ferritin micelles.Under normal conditions small amounts of hemosiderin can be seen in the mononuclear phagocytes of the bone marrow, spleen and liver, all actively engaged in red cell breakdown.BilirubinIt is the normal major pigment found in bile.It is derived from hemoglobin but contains no iron.Its normal formation and excretion are vital to health and jaundice is a common clinical disorder caused by excesses of this pigment within cells and tissues.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following pigments\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ff9fc15f-eeda-4ddb-8c31-1730582252e2": {
-    "cop": 4,
-    "exp": "High resolution CT: It is a scanning protocol in which thin sections (usually 0.625 to 1.25 mm) are acquired and reconstructed using Bone Algorithm, which is a high spatial resolution reconstruction and improves image sharpness and clarity of pulmonary parenchyma."
+    "cop": 3,
+    "exp": "High resolution CT: It is a scanning protocol in which thin sections (usually 0.625 to 1.25 mm) are acquired and reconstructed using Bone Algorithm, which is a high spatial resolution reconstruction and improves image sharpness and clarity of pulmonary parenchyma.",
+    "hint_exp": "🎯 Think of \"the following modality\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "971cba03-d556-4abc-9715-d727625b977a": {
-    "cop": 3,
-    "exp": "Hypovolemic shock may be caused by hemorrhage, fluid loss from severe burns, diarrhea, excessive urine formation, perspiration, or trauma. In the case of burns or trauma, direct damage to the micro-circulation increases vascular permeability. Persons with third-degree burns weep large amounts of plasma. The other choices are unlikely causes of death in an acute burn victim.Diagnosis: Hyperthermia, hypovolemic shock"
+    "cop": 2,
+    "exp": "Hypovolemic shock may be caused by hemorrhage, fluid loss from severe burns, diarrhea, excessive urine formation, perspiration, or trauma. In the case of burns or trauma, direct damage to the micro-circulation increases vascular permeability. Persons with third-degree burns weep large amounts of plasma. The other choices are unlikely causes of death in an acute burn victim.Diagnosis: Hyperthermia, hypovolemic shock",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of death\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b2b3ca75-0cbf-4e77-bd54-087ab83593da": {
-    "cop": 2,
-    "exp": "Ans: B (Glutamate) Ref: Harper's Illustrated Biochemistry, 26th edition. Pg 244.Explanation:\"Since alanine is also a substrate for glutamate aminotransferase, all the amino nitrogen from amino acids that undergo transamination can be concentrated in glutamate. This is important because L- glutamate is the only amino acid that undergoes oxidative deamination at an appreciable rate in liver & kidney. \" (Ref: Harper)BIOSYNTHESIS OF UREAUrea biosynthesis occurs in four stages:TransaminationOxidative deamination of glutamateAmmonia transportReactions of the urea cycle"
+    "cop": 1,
+    "exp": "Ans: B (Glutamate) Ref: Harper's Illustrated Biochemistry, 26th edition. Pg 244.Explanation:\"Since alanine is also a substrate for glutamate aminotransferase, all the amino nitrogen from amino acids that undergo transamination can be concentrated in glutamate. This is important because L- glutamate is the only amino acid that undergoes oxidative deamination at an appreciable rate in liver & kidney. \" (Ref: Harper)BIOSYNTHESIS OF UREAUrea biosynthesis occurs in four stages:TransaminationOxidative deamination of glutamateAmmonia transportReactions of the urea cycle",
+    "hint_exp": "🧩 Your crush solved \"Which amino acid undergoes\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4ddff7fb-395c-4029-9091-32f42868c158": {
-    "cop": 4,
-    "exp": "This patient has trigeminal neuralgia. Carbamazepine (an anticonvulsant drug) is given in doses varying from 600 to 1200 mg/day. Phenytoin has also been used. The two drugs can also be used in combination. Operative procedures include alcohol injection of the nerve or ganglion, partial section of the nerve in the middle or posterior fossa, decompression of the root, and medullary tractotomy. Radiofrequency surgery can destroy pain fibers but spare motor fibers."
+    "cop": 3,
+    "exp": "This patient has trigeminal neuralgia. Carbamazepine (an anticonvulsant drug) is given in doses varying from 600 to 1200 mg/day. Phenytoin has also been used. The two drugs can also be used in combination. Operative procedures include alcohol injection of the nerve or ganglion, partial section of the nerve in the middle or posterior fossa, decompression of the root, and medullary tractotomy. Radiofrequency surgery can destroy pain fibers but spare motor fibers.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"that\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "aa30cc33-7f61-4361-aa9e-fa1a9cfa23d7": {
-    "cop": 4,
-    "exp": "Dialysis is useful in poisoning with ethanol, methanol, salicylates, theophylline, ethylene glycol, phenobarbitone and lithium. Peritoneal and hemodialysis are useful in: Poisoning with water soluble compounds of low molecular weight Toxin with low volume of distribution Toxin with low serum protein binding Toxin not irreversibly bound to the tissues Propeies of drugs or toxins eliminated by dialysis are: Water soluble Low degree of protein binding Low molecular weight (less than 500 Da) Small volume distribution (less than 1 litre/kg) Enhanced clearance by dialysis over native clearence Ref: Medicine By Mathew K.G., 3rd edn page 562."
+    "cop": 3,
+    "exp": "Dialysis is useful in poisoning with ethanol, methanol, salicylates, theophylline, ethylene glycol, phenobarbitone and lithium. Peritoneal and hemodialysis are useful in: Poisoning with water soluble compounds of low molecular weight Toxin with low volume of distribution Toxin with low serum protein binding Toxin not irreversibly bound to the tissues Propeies of drugs or toxins eliminated by dialysis are: Water soluble Low degree of protein binding Low molecular weight (less than 500 Da) Small volume distribution (less than 1 litre/kg) Enhanced clearance by dialysis over native clearence Ref: Medicine By Mathew K.G., 3rd edn page 562.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Dialysis useful poisoning with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "70e28653-2624-4e09-9efc-8dba98ecba09": {
-    "cop": 3,
-    "exp": "Desflurane > Isoflurane is preferred agent for induction in liver disease patients."
+    "cop": 2,
+    "exp": "Desflurane > Isoflurane is preferred agent for induction in liver disease patients.",
+    "hint_exp": "🎯 Think of \"chronic liver disease\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "cdc358f9-9e73-4763-a1b1-fb29817292a2": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Ophthalmoscopy The procedure of determining and correcting refractive errors is termed as refraction. The refraction comprises two complementary methods : ? A) Objective methods : Objective methods of refraction include :- (i) Retinoscopy, (ii) Refractometry, (iii) Keratometry. B) Subjective methods : These are :- (i) Subjective verification of refraction, (ii) Subjective refining of refraction, (iii) Subjective binocular balancing."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Ophthalmoscopy The procedure of determining and correcting refractive errors is termed as refraction. The refraction comprises two complementary methods : ? A) Objective methods : Objective methods of refraction include :- (i) Retinoscopy, (ii) Refractometry, (iii) Keratometry. B) Subjective methods : These are :- (i) Subjective verification of refraction, (ii) Subjective refining of refraction, (iii) Subjective binocular balancing.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"checking the refractive error\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5dc9bf28-1274-4aea-bf30-f9330f6d7ca4": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"choice for invasive amoebiasis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "09c694e1-1838-4f1c-bd27-1b126c075d23": {
-    "cop": 3,
-    "exp": "Ans. C. CollagenTriple Helix in CollagenQuarter Staggered arrangement in CollagenCovalent cross links in collagenDesmosine cross links in elastin"
+    "cop": 2,
+    "exp": "Ans. C. CollagenTriple Helix in CollagenQuarter Staggered arrangement in CollagenCovalent cross links in collagenDesmosine cross links in elastin",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Quarter staggered arrangement seen\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1d184e64-8fd5-450c-b69d-62797dab31c9": {
-    "cop": 2,
-    "exp": "Ink- blot sign or enlarging dot sign is seen in central serous retinopathy"
+    "cop": 1,
+    "exp": "Ink- blot sign or enlarging dot sign is seen in central serous retinopathy",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"fundus fluorescein scanning\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f7c61d8c-3eb2-4139-9f6e-c403378bffbb": {
-    "cop": 2,
-    "exp": "Ans. b (Fetal age). (Ref. Textbook of FMT by Parikh 6th ed. 5.67)Hess's rule# CRL of embryo or fetus is based on Hess's rule, which states that square root of length of fetus in cm gives approximate age of fetus in months in first 5 months of pregnancy.# After 5 months it is length in cm/5= age (months)."
+    "cop": 1,
+    "exp": "Ans. b (Fetal age). (Ref. Textbook of FMT by Parikh 6th ed. 5.67)Hess's rule# CRL of embryo or fetus is based on Hess's rule, which states that square root of length of fetus in cm gives approximate age of fetus in months in first 5 months of pregnancy.# After 5 months it is length in cm/5= age (months).",
+    "hint_exp": "🎯 Think of \"Hess rule useful detection\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2e4d23d1-d51d-4157-af64-a76541f19997": {
-    "cop": 1,
-    "exp": "Ans. 1994"
+    "cop": 0,
+    "exp": "Ans. 1994",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Transplantation Human Organs passed\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9536ab68-1b57-4884-9630-82370ee78da6": {
-    "cop": 4,
-    "exp": "d. Cystic fibrosis(Ref: Nelson 20/e p 2098)In cystic fibrosis, neonates may present with meconium ileus, meconium plug & meconium peritonitis, while infants may present with distal intestinal obstruction syndrome."
+    "cop": 3,
+    "exp": "d. Cystic fibrosis(Ref: Nelson 20/e p 2098)In cystic fibrosis, neonates may present with meconium ileus, meconium plug & meconium peritonitis, while infants may present with distal intestinal obstruction syndrome.",
+    "hint_exp": "🧩 Your crush solved \"which intestinal obstruction\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7ddf1c41-3f4d-4eeb-bca7-3060278aab50": {
-    "cop": 3,
-    "exp": "Erythema infectiosum (fifth disease) A benign, self-limited exanthematous illness of childhood, caused by Parvovirus B19 Hallmark is the characteristic rash (\"slapped-cheek\" appearance)."
+    "cop": 2,
+    "exp": "Erythema infectiosum (fifth disease) A benign, self-limited exanthematous illness of childhood, caused by Parvovirus B19 Hallmark is the characteristic rash (\"slapped-cheek\" appearance).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "741120c2-37d3-47dc-8dad-c1cc924be780": {
-    "cop": 1,
-    "exp": "Ans. (a) Age between 1-10 yearsRef: Harrison 19th ed. 1699-700Prognostic factor in acute lymphoblastic leukemiaExcellent prognosis* t(12;21) and TEL-AML1 fusion* Hyperdiploidy and trisomy of specific chromosomes (4,10 and 17) is associated with an excellent prognosis.* Age > 1 years and < 10 yearsDismal prognosis* t(9;22) or Philadelphia chromosome and BCR- ABL fusion* Hypodiploidy with chromosome number <45 is associated with a poor prognosis* Age > 10 years* WBC> 50,000/cu.mm3* CNS leukemia at presentation"
+    "cop": 0,
+    "exp": "Ans. (a) Age between 1-10 yearsRef: Harrison 19th ed. 1699-700Prognostic factor in acute lymphoblastic leukemiaExcellent prognosis* t(12;21) and TEL-AML1 fusion* Hyperdiploidy and trisomy of specific chromosomes (4,10 and 17) is associated with an excellent prognosis.* Age > 1 years and < 10 yearsDismal prognosis* t(9;22) or Philadelphia chromosome and BCR- ABL fusion* Hypodiploidy with chromosome number <45 is associated with a poor prognosis* Age > 10 years* WBC> 50,000/cu.mm3* CNS leukemia at presentation",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"year child with which\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7f76c79c-4d29-4c4f-84bb-b99d25901979": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Glycoproteins The proteins and glycoprotiens that constitute the complement system are synthesized by hepatocytes\" -- Internet \"Most of the complement glycoproteins are synthesized predominantly by the liver, but macrophages and many other cell types are also sources of various complement components\" - Medical immunology \"Complement components are glycoproteins\" -- Textbook of Human Blood Plasma Protiens"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Glycoproteins The proteins and glycoprotiens that constitute the complement system are synthesized by hepatocytes\" -- Internet \"Most of the complement glycoproteins are synthesized predominantly by the liver, but macrophages and many other cell types are also sources of various complement components\" - Medical immunology \"Complement components are glycoproteins\" -- Textbook of Human Blood Plasma Protiens",
+    "hint_exp": "🎯 Think of \"Complement components\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2b9cb717-15c9-418e-a76c-5ab9db7579d1": {
-    "cop": 4,
-    "exp": "More than one-quaer of the CNS tumors are secondary metastases arising in patients undergoing treatment for systemic cancer. Both benign and malignant CNS tumors are capable of producing neurologic impairment depending upon their site. Primary CNS tumors or intracranial tumors include :- tumors arising from constituent cells of the brain (with the sole exception of microglial cells) and from the suppoing tissues. The anatomic distribution of common intracranial tumors is illustrated Among the primary brain tumors, gliomas constitute 50-60%, meningiomas 25%, schwannomas 10% and other primary tumors comprise the remainder. Some of the impoant morphologic types are described below. Classification of Intracranial Tumours. I. Tumors OF NEUROGLIA (GLIOMAS) 1. Astrocytoma 2. Oligodendroglioma 3. Ependymoma 4. Choroid plexus papilloma II. Tumors OF NEURONS 1. Neuroblastoma (page 800) 2. Ganglioneuroblastoma 3. Ganglioneuroma III. Tumors OF NEURONS AND NEUROGLIA Ganglioglioma IV. POORLY-DIFFERENTIATED AND EMBRYONAL TUMOURS 1. Medulloblastoma 2. Neuroblastoma 3. PNET V. Tumors OF MENINGES 1. Meningioma 2. Meningeal sarcoma VI. NERVE SHEATH TUMOURS 1. Schwannoma (neurilemmoma) 2. Neurofibroma 3. Malignant nerve sheath tumor VII. OTHER PRIMARY INTRAPARENCHYMAL TUMOURS 1. Haemangioblastoma 2. Primary CNS lymphoma 3. Germ cell tumors VIII. MISCELLANEOUS TUMOURS 1. Malignant melanoma 2. Craniopharyngioma 3. Pineal cell tumors 4. Pituitary tumors IX. Tumor-LIKE LESIONS (epidermal cyst, dermoid cyst, colloid cyst) X. METASTATIC TUMOURS Ref: TEXTBOOK OF PATHOLOGY 6th EDITION - HARSH MOHAN PAGE NO:886"
+    "cop": 3,
+    "exp": "More than one-quaer of the CNS tumors are secondary metastases arising in patients undergoing treatment for systemic cancer. Both benign and malignant CNS tumors are capable of producing neurologic impairment depending upon their site. Primary CNS tumors or intracranial tumors include :- tumors arising from constituent cells of the brain (with the sole exception of microglial cells) and from the suppoing tissues. The anatomic distribution of common intracranial tumors is illustrated Among the primary brain tumors, gliomas constitute 50-60%, meningiomas 25%, schwannomas 10% and other primary tumors comprise the remainder. Some of the impoant morphologic types are described below. Classification of Intracranial Tumours. I. Tumors OF NEUROGLIA (GLIOMAS) 1. Astrocytoma 2. Oligodendroglioma 3. Ependymoma 4. Choroid plexus papilloma II. Tumors OF NEURONS 1. Neuroblastoma (page 800) 2. Ganglioneuroblastoma 3. Ganglioneuroma III. Tumors OF NEURONS AND NEUROGLIA Ganglioglioma IV. POORLY-DIFFERENTIATED AND EMBRYONAL TUMOURS 1. Medulloblastoma 2. Neuroblastoma 3. PNET V. Tumors OF MENINGES 1. Meningioma 2. Meningeal sarcoma VI. NERVE SHEATH TUMOURS 1. Schwannoma (neurilemmoma) 2. Neurofibroma 3. Malignant nerve sheath tumor VII. OTHER PRIMARY INTRAPARENCHYMAL TUMOURS 1. Haemangioblastoma 2. Primary CNS lymphoma 3. Germ cell tumors VIII. MISCELLANEOUS TUMOURS 1. Malignant melanoma 2. Craniopharyngioma 3. Pineal cell tumors 4. Pituitary tumors IX. Tumor-LIKE LESIONS (epidermal cyst, dermoid cyst, colloid cyst) X. METASTATIC TUMOURS Ref: TEXTBOOK OF PATHOLOGY 6th EDITION - HARSH MOHAN PAGE NO:886",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Commonest intracranial tumour\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "895b3555-fed1-4521-a99d-e61cf54286d9": {
-    "cop": 2,
-    "exp": "Breast cancer risk is reduced by 20% for each year that menarche is delayed. Early menopause, natural or surgical, also decreases risk. Early (age 18 or 19) full-term pregnancy and multiparity decrease the risk. Radiation exposure is a risk factor primarily in adolescence and is marginal after the age of 40. In summary, there are three important dates in the assessing the risk of breast cancer: age of menarche, age of first full-term pregnancy, and age of menopause."
+    "cop": 1,
+    "exp": "Breast cancer risk is reduced by 20% for each year that menarche is delayed. Early menopause, natural or surgical, also decreases risk. Early (age 18 or 19) full-term pregnancy and multiparity decrease the risk. Radiation exposure is a risk factor primarily in adolescence and is marginal after the age of 40. In summary, there are three important dates in the assessing the risk of breast cancer: age of menarche, age of first full-term pregnancy, and age of menopause.",
+    "hint_exp": "🧩 Your crush solved \"the following features\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7c172ba5-6409-4f5c-be90-f81143fe8cdd": {
-    "cop": 2,
-    "exp": "Ans. B. Excessive growth occurs before fusion of the epiphyses of the long bonesIn acromegaly, IGF-I levels are invariably high and reflect a Log-Linear relationship with clrculatlng GH concentrations.For acromegaly, somatostatin analogues and GH receptor antagonists are indicatedAge-matched serum IGF-I levels are elevated in acromegaly.Somatostatin analogues are used as adjuvant treatment for preoperative shrinkage of large invasive macroadenomas.Transsphenoidal surgical resection by an experienced. surgeon is the preferred primary treatment.Tumors of the somatotrophs of the anterior pituitary (pituitary adenomas) secrete large amounts of growth hormone, leading to glgantbm ln chlUren and acromegaly in adults.Hypersecretion of growth hormone is accompanied by hypersecretion of prolactin in 20-40% of patients with acromegaly."
+    "cop": 1,
+    "exp": "Ans. B. Excessive growth occurs before fusion of the epiphyses of the long bonesIn acromegaly, IGF-I levels are invariably high and reflect a Log-Linear relationship with clrculatlng GH concentrations.For acromegaly, somatostatin analogues and GH receptor antagonists are indicatedAge-matched serum IGF-I levels are elevated in acromegaly.Somatostatin analogues are used as adjuvant treatment for preoperative shrinkage of large invasive macroadenomas.Transsphenoidal surgical resection by an experienced. surgeon is the preferred primary treatment.Tumors of the somatotrophs of the anterior pituitary (pituitary adenomas) secrete large amounts of growth hormone, leading to glgantbm ln chlUren and acromegaly in adults.Hypersecretion of growth hormone is accompanied by hypersecretion of prolactin in 20-40% of patients with acromegaly.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"true about acromegaly except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "99d8f805-39b6-4326-9b13-60c5b1f1361a": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Commonest site metastasis Wilm\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "612a783d-f0d5-40ea-9f05-c58d9aaaa5fd": {
-    "cop": 3,
-    "exp": "NADPH oxidase (nicotinamide adenine dinucleotide phosphate oxidase) is a membrane-bound enzyme complex that faces the extracellular space Chediak-Higashi syndrome (CHS) is a rare, inherited, complex, immunedisorder that usually occurs in childhood characterized by reduced pigment in the skin and eyes (oculocutaneous albinism), immune deficiency with an increased susceptibility to infections, and a tendency to bruise and bleed easily. Myeloperoxidase (MPO) is a peroxidase enzyme that in humans is encoded by the MPO gene on chromosome 17. MPO is most abundantly expressed in neutrophil granulocytes (a subtype of white blood cells), and produces hypohalous acids to carry out their antimicrobial activity."
+    "cop": 2,
+    "exp": "NADPH oxidase (nicotinamide adenine dinucleotide phosphate oxidase) is a membrane-bound enzyme complex that faces the extracellular space Chediak-Higashi syndrome (CHS) is a rare, inherited, complex, immunedisorder that usually occurs in childhood characterized by reduced pigment in the skin and eyes (oculocutaneous albinism), immune deficiency with an increased susceptibility to infections, and a tendency to bruise and bleed easily. Myeloperoxidase (MPO) is a peroxidase enzyme that in humans is encoded by the MPO gene on chromosome 17. MPO is most abundantly expressed in neutrophil granulocytes (a subtype of white blood cells), and produces hypohalous acids to carry out their antimicrobial activity.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "81f06e0e-8a0e-4fe3-acd5-6410126c41ae": {
-    "cop": 4,
-    "exp": "When hea pumping is stopped by shocking the hea with electricity to cause ventricular fibrillation or is stopped in any other way, flow of blood anywhere in circulation ceases a few seconds later. Without blood flow the pressure everywhere in circulation become equal. This equilibrated pressure level is called mean circulatory filling pressureRef: Guyton and Hall, Textbook of medical physiology, 2ndSouth Asia Edition"
+    "cop": 3,
+    "exp": "When hea pumping is stopped by shocking the hea with electricity to cause ventricular fibrillation or is stopped in any other way, flow of blood anywhere in circulation ceases a few seconds later. Without blood flow the pressure everywhere in circulation become equal. This equilibrated pressure level is called mean circulatory filling pressureRef: Guyton and Hall, Textbook of medical physiology, 2ndSouth Asia Edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Mean circulatory filling pressure\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "384300ca-dcf2-4fa4-a9e1-a76e01b6ee38": {
-    "cop": 1,
-    "exp": "The given scenario suggests diagnosis of Menke's disease X- linked recessive disorder caused by mutations in genes coding for the copper transpo protein ATP7A. C/F- Growth retardation Delayed milestones Kinky hair Hypotonia, hypothermia Seizures Lesch nyhan syndrome- self injury Wilson disease- KF ring, neurological & hepatic manisfestation."
+    "cop": 0,
+    "exp": "The given scenario suggests diagnosis of Menke's disease X- linked recessive disorder caused by mutations in genes coding for the copper transpo protein ATP7A. C/F- Growth retardation Delayed milestones Kinky hair Hypotonia, hypothermia Seizures Lesch nyhan syndrome- self injury Wilson disease- KF ring, neurological & hepatic manisfestation.",
+    "hint_exp": "🧩 Your crush solved \"the diagnosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3864d3f3-c8c9-499b-b701-cb78e70623e8": {
-    "cop": 4,
-    "exp": "(D) Cerebral Angiography # An AVM diagnosis is established by neuroimaging studies after a complete neurological and physical examination. Three main techniques are used to visualize the brain and search for AVM: Computed tomography (CT) Magnetic resonance imaging (MRI) Cerebral angiography> A CT scan of the head is usually performed first when the subject is symptomatic. It can suggest the approximate site of the bleed.> MRI is more sensitive than CT in the diagnosis of AVMs and provides better information about the exact location of the malformation> More detailed pictures of the tangle of blood vessels that compose an AVM can be obtained by using radioactive agents injected into the blood stream.> If a CT is used in conjunctiangiogram, this is called a computerized tomography angiogram; while, if MRI is used it is called magnetic resonance angiogram.> Best images of an AVM are obtained through cerebral angiography.> This procedure involves using a catheter, threaded through an artery up to the head, to deliver a contrast agent into the AVM.> As the contrast agent flows through the AVM structure, a sequence of X-ray images are obtained.> Radiographic features of A-V Malformation# CT: Diagnosis can be difficult on non-contrast CT. The nidus is blood density and therefore usually somewhat hyperdense compared to adjacent brain. Enlarged draining veins may be seen. Although they might be very large in size, they do not cause any mass effect unless they bleed. Following contrast administration, and especially with CTA the diagnosis is usually self evident with feeding arteries, nidus and draining veins visible in the so-called \"bag of worm\" appearance. The exact anatomy of feeding vessels and draining veins can be difficult to delineate, and thus, angiography remains necessary.# MRI: Fast flow generates flow voids easily seen on T2 weighted images. Complications including previous haemorrhage and adjacent oedema may be evident.# MRA: phase contrast MR angiography is often useful to subtract the haematoma components when an AVM complicated by an acute haemorrhage needs to be imaged# Angiography (DSA) Remains the gold standard, able to exquisitely delineate the location and number of feeding vessels and the pattern of drainage. Ideally, angiography is performed in a bi-plane system with a high rate of acquisition, as the shunts can be very rapid. On angiogram, AVM appears as a tightly packed mass of enlarged feeding arteries that supply central nidus. One or more dilated veins drain the nidus and there is abnormal opacification of veins occurs in arterial phase (early venous drainage), represents shunting."
+    "cop": 3,
+    "exp": "(D) Cerebral Angiography # An AVM diagnosis is established by neuroimaging studies after a complete neurological and physical examination. Three main techniques are used to visualize the brain and search for AVM: Computed tomography (CT) Magnetic resonance imaging (MRI) Cerebral angiography> A CT scan of the head is usually performed first when the subject is symptomatic. It can suggest the approximate site of the bleed.> MRI is more sensitive than CT in the diagnosis of AVMs and provides better information about the exact location of the malformation> More detailed pictures of the tangle of blood vessels that compose an AVM can be obtained by using radioactive agents injected into the blood stream.> If a CT is used in conjunctiangiogram, this is called a computerized tomography angiogram; while, if MRI is used it is called magnetic resonance angiogram.> Best images of an AVM are obtained through cerebral angiography.> This procedure involves using a catheter, threaded through an artery up to the head, to deliver a contrast agent into the AVM.> As the contrast agent flows through the AVM structure, a sequence of X-ray images are obtained.> Radiographic features of A-V Malformation# CT: Diagnosis can be difficult on non-contrast CT. The nidus is blood density and therefore usually somewhat hyperdense compared to adjacent brain. Enlarged draining veins may be seen. Although they might be very large in size, they do not cause any mass effect unless they bleed. Following contrast administration, and especially with CTA the diagnosis is usually self evident with feeding arteries, nidus and draining veins visible in the so-called \"bag of worm\" appearance. The exact anatomy of feeding vessels and draining veins can be difficult to delineate, and thus, angiography remains necessary.# MRI: Fast flow generates flow voids easily seen on T2 weighted images. Complications including previous haemorrhage and adjacent oedema may be evident.# MRA: phase contrast MR angiography is often useful to subtract the haematoma components when an AVM complicated by an acute haemorrhage needs to be imaged# Angiography (DSA) Remains the gold standard, able to exquisitely delineate the location and number of feeding vessels and the pattern of drainage. Ideally, angiography is performed in a bi-plane system with a high rate of acquisition, as the shunts can be very rapid. On angiogram, AVM appears as a tightly packed mass of enlarged feeding arteries that supply central nidus. One or more dilated veins drain the nidus and there is abnormal opacification of veins occurs in arterial phase (early venous drainage), represents shunting.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Gold standard Investigation choice\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8c403e35-f1f2-4fea-851c-b9eecb692e62": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the ulceration seen on\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "140f11bc-b297-4887-94e7-0061aaa8805b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"facilitated by\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7e91b578-246c-47c0-9ac7-c4372ddbbe23": {
-    "cop": 4,
-    "exp": "(D) Conduction COMPREHENSIONREPETITION OF SPOKEN LANGUAGENAMINGFLUENCY* Wernicke'sImpairedImpairedImpairedPreserved or Increased* Broca'sPreserved (except grammar)ImpairedImpairedDecreased* GlobalImpairedImpairedImpairedDecreased* ConductionPreservedImpairedImpairedPreserved* Non fluent (motor) transcorticalPreservedPreservedImpairedImpaired* Fluent (sensory) transcorticalImpairedPreservedImpairedPreserved* IsolationImpairedEcholaliaImpairedNo purposeful speech* AnomicPreservedPreservedImpairedPreserved except for word-finding pauses* Pure word deafnessImpaired only for spoken languageImpairedPreservedPreserved* Pure AlexiaImpaired only for readingPreservedPreservedPreserved# CONDUCTION APHASIA (Associative aphasia), is a relatively rare form of aphasia.> An acquired language disorder, it is characterized by intact auditory comprehension, fluent speech production, but poor speech repetition.> They are fully capable of understanding what they are hearing, but show significant difficulty repeating phrases, particularly as the phrases increase in length and complexity and as they stumble over words they are attempting to pronounce.> Typical lesion location for conduction aphasia is on the supramarginal gyrus of the parietal lobe, posterior to the primary seriscry cortex and just above Wernicke's area.> Classical explanation for conduction aphasia is that of a disconnection between the brain areas responsible for speech comprehension (Wernicke's area) and speech production (Broca's area), due specifically to damage to the arcuate fasciculus, a deep white matter tract."
+    "cop": 3,
+    "exp": "(D) Conduction COMPREHENSIONREPETITION OF SPOKEN LANGUAGENAMINGFLUENCY* Wernicke'sImpairedImpairedImpairedPreserved or Increased* Broca'sPreserved (except grammar)ImpairedImpairedDecreased* GlobalImpairedImpairedImpairedDecreased* ConductionPreservedImpairedImpairedPreserved* Non fluent (motor) transcorticalPreservedPreservedImpairedImpaired* Fluent (sensory) transcorticalImpairedPreservedImpairedPreserved* IsolationImpairedEcholaliaImpairedNo purposeful speech* AnomicPreservedPreservedImpairedPreserved except for word-finding pauses* Pure word deafnessImpaired only for spoken languageImpairedPreservedPreserved* Pure AlexiaImpaired only for readingPreservedPreservedPreserved# CONDUCTION APHASIA (Associative aphasia), is a relatively rare form of aphasia.> An acquired language disorder, it is characterized by intact auditory comprehension, fluent speech production, but poor speech repetition.> They are fully capable of understanding what they are hearing, but show significant difficulty repeating phrases, particularly as the phrases increase in length and complexity and as they stumble over words they are attempting to pronounce.> Typical lesion location for conduction aphasia is on the supramarginal gyrus of the parietal lobe, posterior to the primary seriscry cortex and just above Wernicke's area.> Classical explanation for conduction aphasia is that of a disconnection between the brain areas responsible for speech comprehension (Wernicke's area) and speech production (Broca's area), due specifically to damage to the arcuate fasciculus, a deep white matter tract.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Fluent Aphasia with preserved\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "73811769-00cb-4aec-990a-45d0949f1411": {
-    "cop": 1,
-    "exp": "Electrical alternans is an electrocardiac phenomenon of alternation of QRS complex amplitude or axis between beats and a possible wandering base-line. It is seen in cardiac tamponade and severe pericardial effusion and is thought to be related to changes in the ventricular electrical axis due to fluid in the pericardium , as the hea essentially wobbles in the fluid filled pericardial sac . Ref Harrison 20,th edition pg 1543"
+    "cop": 0,
+    "exp": "Electrical alternans is an electrocardiac phenomenon of alternation of QRS complex amplitude or axis between beats and a possible wandering base-line. It is seen in cardiac tamponade and severe pericardial effusion and is thought to be related to changes in the ventricular electrical axis due to fluid in the pericardium , as the hea essentially wobbles in the fluid filled pericardial sac . Ref Harrison 20,th edition pg 1543",
+    "hint_exp": "🧩 Your crush solved \"Electrical alternans seen\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

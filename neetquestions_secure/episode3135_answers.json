@@ -1,202 +1,252 @@
 {
   "21d21a96-f4f6-493f-91fa-ef5f25f272bb": {
-    "cop": 4,
-    "exp": "T lymphocytes Antigen interaction with T lymphocytes precipitates the release of lymphokines, substances that modulate other aspects of the immune response. Examples of lymphokines include the interleukins, granulocyte-monocyte colony-stimulating factor (GM-CSF), and y-interferon. B lymphocytes secrete immunoglobulins, the humoral component of adaptive immunity. Eosinophils, neutrophils, and macrophages are phagocytic cells comprising the cellular component of the natural immune response."
+    "cop": 3,
+    "exp": "T lymphocytes Antigen interaction with T lymphocytes precipitates the release of lymphokines, substances that modulate other aspects of the immune response. Examples of lymphokines include the interleukins, granulocyte-monocyte colony-stimulating factor (GM-CSF), and y-interferon. B lymphocytes secrete immunoglobulins, the humoral component of adaptive immunity. Eosinophils, neutrophils, and macrophages are phagocytic cells comprising the cellular component of the natural immune response.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the immune system\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "229e559d-6f77-4345-b660-1b10b3fa24b8": {
-    "cop": 2,
-    "exp": "Basic needs programme includes Rural health Rural water supply Rural electrification Elementary education Adult education Nutrition Environmental improvement of urban slums Houses for landless labourers. Ref: PARK&;S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE 23rd edition pg 477"
+    "cop": 1,
+    "exp": "Basic needs programme includes Rural health Rural water supply Rural electrification Elementary education Adult education Nutrition Environmental improvement of urban slums Houses for landless labourers. Ref: PARK&;S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE 23rd edition pg 477",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Basic needs programme includes\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1bdff8b2-a3bb-48e0-ba4a-6fe595ddf412": {
-    "cop": 2,
-    "exp": "Some individuals with intestinal amoebiasis develop hepatic amoebiasis.Amoebic liver abscess is formed .It may occur in any pa of the liver but it is generally confined to posteriosuperior surface of right lobe of liver (refer pgno:18 baveja 3 rd edition)"
+    "cop": 1,
+    "exp": "Some individuals with intestinal amoebiasis develop hepatic amoebiasis.Amoebic liver abscess is formed .It may occur in any pa of the liver but it is generally confined to posteriosuperior surface of right lobe of liver (refer pgno:18 baveja 3 rd edition)",
+    "hint_exp": "🎯 Think of \"Amebic abscess caused\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2734b66c-c0f2-412b-ad71-3a782d9b36e6": {
-    "cop": 2,
-    "exp": "Stauffers syndrome, non metastatic liver dysfunction (paraneoplastic) seen in patients with Renal cell cancer. Ref: Harrisons Principles of Internal Medicine, 18th Edition, Page : 329, 793"
+    "cop": 1,
+    "exp": "Stauffers syndrome, non metastatic liver dysfunction (paraneoplastic) seen in patients with Renal cell cancer. Ref: Harrisons Principles of Internal Medicine, 18th Edition, Page : 329, 793",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the likely diagnosis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b0005bcb-1d00-4669-9791-02556c4c5535": {
-    "cop": 3,
-    "exp": "Name Defect Remarks Familial hyperalphalipoproteinemia Increased concentrations of HDL A rare condition apparently beneficial to health and longevity Hepatic lipase deficiency Deficiency of the enzyme leads to accumulation of large triacylglycerol-rich HDL and VLDL remnants Patients have xanthomas and coronary hea disease Familial hypercholesterolemia (type IIa) Defective LDL receptors or mutation in the ligand region of apo B-100 Elevated LDL levels and hypercholesterolemia, resulting in atherosclerosis and coronary disease Familial hyperiacylglycerolemia (type IV) Overproduction of VLDL often associated with glucose intolerance and hyperinsulinemia Cholesterol levels rise with the VLDL concentration. LDL and HDL tend to be subnormal. this type of pattern is commonly associated with coronary hea disease, type II diabetes mellitus, obesity, alcoholism, and administration of progestational hormones Reference: Harper; 30th edition; Page no: 275"
+    "cop": 2,
+    "exp": "Name Defect Remarks Familial hyperalphalipoproteinemia Increased concentrations of HDL A rare condition apparently beneficial to health and longevity Hepatic lipase deficiency Deficiency of the enzyme leads to accumulation of large triacylglycerol-rich HDL and VLDL remnants Patients have xanthomas and coronary hea disease Familial hypercholesterolemia (type IIa) Defective LDL receptors or mutation in the ligand region of apo B-100 Elevated LDL levels and hypercholesterolemia, resulting in atherosclerosis and coronary disease Familial hyperiacylglycerolemia (type IV) Overproduction of VLDL often associated with glucose intolerance and hyperinsulinemia Cholesterol levels rise with the VLDL concentration. LDL and HDL tend to be subnormal. this type of pattern is commonly associated with coronary hea disease, type II diabetes mellitus, obesity, alcoholism, and administration of progestational hormones Reference: Harper; 30th edition; Page no: 275",
+    "hint_exp": "🧩 Your crush solved \"coronary hea disease except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fb7ce1b7-6c79-40b7-9819-311787282cce": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Used when there are more than 2 group Chi-square test* It is a non-parametric test to measure the association between two or more qualitative variables, i.e. when observations are in proportions, percentage or fractions. It tests the significance of difference between two proportions. As with all non-parametric tests, it is used for non-Normal (non-Gaussian) distribution.* The chi square test has an added advantage. It can be applied to find association or relationship between two discrete attributes when there are more than two class orgroupsas happens in multinomial samples.* Studies often collect data on categorial (qualitative) variables that can be summarized as a series of counts. These counts are commonly arranged in a tubular format known as a contingency table. For example, a study designed to determine whether or not there is association between cigarette smoking and asthma attack might collect data that could be assembled into a 2-2 table - table containing two columns and two rows.* The chi - square test can be used to evaluate whether there is an association between the rows and columns in a contingeny table i.e. between two variables (smoking and asthma attack).* The chi square test assumes that no association occurs between two events in question unless proved otherwise - Null hypothesis. The chi-sequare test is designed to test the null hypothesis which says that there is no association betweens two variables (the rows and columns of a contigency table).* Chi-square test only tells about the presence or absence of association, but it dose not measure the strength of association.Degree of freedom* Degree of freedom is the number of observations in the final calculation that are free to vary. The number of degree of freedom of contigency table is the product of one less the number ofrows(r) and one less the number of column(c).DOF = (C-l) (r-1)* For example in a contigency table with 4 rows and 4 columns, DOF is 9 (4-1 x 4-1 )Contingency tableDegree of freedom (dof)2 x 2 table(2 - 1) (2 - 1) = 13 x 3 table(3 - 1) (3 - 1) = 44 x 4 table(4 - 1) (4 - 1) = 95 x 5 table(5 - 1) (5 - 1) = 163 x 4 table(3 - 1) (4 - 1) = 610 x 20 table(10 - 1) (20 - 1) = 171* The categories defining rows and columns of contigency table must be mutually exclusive.* Yates correction : If there is difference between calculated and theoretical values of chi-square test, this can be compensated by Yates's correction."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Used when there are more than 2 group Chi-square test* It is a non-parametric test to measure the association between two or more qualitative variables, i.e. when observations are in proportions, percentage or fractions. It tests the significance of difference between two proportions. As with all non-parametric tests, it is used for non-Normal (non-Gaussian) distribution.* The chi square test has an added advantage. It can be applied to find association or relationship between two discrete attributes when there are more than two class orgroupsas happens in multinomial samples.* Studies often collect data on categorial (qualitative) variables that can be summarized as a series of counts. These counts are commonly arranged in a tubular format known as a contingency table. For example, a study designed to determine whether or not there is association between cigarette smoking and asthma attack might collect data that could be assembled into a 2-2 table - table containing two columns and two rows.* The chi - square test can be used to evaluate whether there is an association between the rows and columns in a contingeny table i.e. between two variables (smoking and asthma attack).* The chi square test assumes that no association occurs between two events in question unless proved otherwise - Null hypothesis. The chi-sequare test is designed to test the null hypothesis which says that there is no association betweens two variables (the rows and columns of a contigency table).* Chi-square test only tells about the presence or absence of association, but it dose not measure the strength of association.Degree of freedom* Degree of freedom is the number of observations in the final calculation that are free to vary. The number of degree of freedom of contigency table is the product of one less the number ofrows(r) and one less the number of column(c).DOF = (C-l) (r-1)* For example in a contigency table with 4 rows and 4 columns, DOF is 9 (4-1 x 4-1 )Contingency tableDegree of freedom (dof)2 x 2 table(2 - 1) (2 - 1) = 13 x 3 table(3 - 1) (3 - 1) = 44 x 4 table(4 - 1) (4 - 1) = 95 x 5 table(5 - 1) (5 - 1) = 163 x 4 table(3 - 1) (4 - 1) = 610 x 20 table(10 - 1) (20 - 1) = 171* The categories defining rows and columns of contigency table must be mutually exclusive.* Yates correction : If there is difference between calculated and theoretical values of chi-square test, this can be compensated by Yates's correction.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"True about square test\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d52f9a8c-3b4f-4028-945c-fcd5a7e68d53": {
-    "cop": 1,
-    "exp": "Ans: A (Prolactin) Ref: Essentials of Medical Pharmacology by K.D.Tripathi, 6th ed p.235Explanation:Prolactin is under predominant inhibitory control of hypothalamus through PRIH which is dopamine that acts on pituitary lactotrope D2 receptor.Dopamine agonists - |Plasma Prolactin levelsDopamine antagonists - |Plasma Prolactin levelsDopaminergic agonistsDopamineBromocriptineCabergolineDopaminergic antagonistsChlorpromazineHaloperidolMetoclopramideDopamine depleters (Reserpine. Methyldopa)"
+    "cop": 0,
+    "exp": "Ans: A (Prolactin) Ref: Essentials of Medical Pharmacology by K.D.Tripathi, 6th ed p.235Explanation:Prolactin is under predominant inhibitory control of hypothalamus through PRIH which is dopamine that acts on pituitary lactotrope D2 receptor.Dopamine agonists - |Plasma Prolactin levelsDopamine antagonists - |Plasma Prolactin levelsDopaminergic agonistsDopamineBromocriptineCabergolineDopaminergic antagonistsChlorpromazineHaloperidolMetoclopramideDopamine depleters (Reserpine. Methyldopa)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Bromocriptine inhibits Repeat\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1149f1c7-d175-487f-aaca-b9117acafb06": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Bimalieolar ankle fracture EpommFractures of lower limbBumper fractureComminuted, depressed fracture of the lateral tibia! condylePott's fractureBimalieolar ankle fractureCotton's fractureTrimalleolar ankle fracturePilon fractureComminuted intra-articular fracture of distal tibial endMarch fractureFatigue fracture of the shaft of 2nd and 3rd metatarsalRonaldo fractureFracture of the base of first metacarpal (extra-capsular)Maisonneuve's fractureAn ankle fracture associated with spiral fracture of neck of the fibulaPilon fracture (Explosion fracture)A comminuted intra-articular fracture of the distal end of the tibia and fibulaAviator's fractureFracture of neck of the talusLisfranc's fracture-dislocationA fracture dislocation through tarso-metatarsal joints.Chopart fracture-dislocationA fractue dislocation through inter-tarsal jointsMalagaigne's fractureA fracture of pelvis having a combination of ipsilateral fracture of pubic rami anteriorly and sacro-iliac joint disruption posteriorly.Mallet fingerAvulsion of extensor tendon from the base of distal phalanx.Dashboard fractureFracture of posterior lip of acetabulum with posterior dislocation of hip.Straddle fractureBilateral superior and inferior pubic rami fractures of the pelvis."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Bimalieolar ankle fracture EpommFractures of lower limbBumper fractureComminuted, depressed fracture of the lateral tibia! condylePott's fractureBimalieolar ankle fractureCotton's fractureTrimalleolar ankle fracturePilon fractureComminuted intra-articular fracture of distal tibial endMarch fractureFatigue fracture of the shaft of 2nd and 3rd metatarsalRonaldo fractureFracture of the base of first metacarpal (extra-capsular)Maisonneuve's fractureAn ankle fracture associated with spiral fracture of neck of the fibulaPilon fracture (Explosion fracture)A comminuted intra-articular fracture of the distal end of the tibia and fibulaAviator's fractureFracture of neck of the talusLisfranc's fracture-dislocationA fracture dislocation through tarso-metatarsal joints.Chopart fracture-dislocationA fractue dislocation through inter-tarsal jointsMalagaigne's fractureA fracture of pelvis having a combination of ipsilateral fracture of pubic rami anteriorly and sacro-iliac joint disruption posteriorly.Mallet fingerAvulsion of extensor tendon from the base of distal phalanx.Dashboard fractureFracture of posterior lip of acetabulum with posterior dislocation of hip.Straddle fractureBilateral superior and inferior pubic rami fractures of the pelvis.",
+    "hint_exp": "🎯 Think of \"Pott fracture\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c940d93d-c285-4ff9-b074-12c8debd283c": {
-    "cop": 4,
-    "exp": "Answer: d) Central retinal artery occlusion (KANSKI 8th ED, P-552)RETINAL ARTERY QCCLUSioNEtiology* Atherosclerosis - related thrombosis at the level of lamina cribrosa - most common cause* Emboli from carotid artery and cardiac origin> Cholesterol emboli (Hollenhorst plaque)> Calcium emboli> Platelet fibrin emboli - cause retinal ischemic attacks* Retinal arteritis - Polyarteritis nodosa, SLE, Wegener's granulomatosis, Scleroderma* Angiospasm, Raised IOP, Thrombophilia* Rare causes - Sickle cell anemia, retinal migraine, Oral contraceptives, polycythemia, Antiphospholipid syndromeClinical features* More common in males; Mean age at onset - 60 years* Usually unilateral* Central retinal artery occlusion (CRAO)> Obstruction at the level of lamina cribrosa> Sudden painless loss of vision> Markedly reduced visual acuity> Absent direct pupillary reflex - Total and profound afferent pupillary defect (APD) (amaurotic pupil)> Marked narrowing of retinal arteries and mild narrowing of retinal veins> The orange reflex from the intact choroid stands out at the thin foveola, in contrast to the surrounding pale retina, giving rise to a 'cherry-red spot' appearance> Milky white retina> Cherry red spot in the center of macula> Cattle truck appearance - segmentation of blood column in retinal vein> Atrophic changes - grossly attenuated thread like arteries and consecutive optic atrophy> FFA - delay in arterial filling and masking of choroidal vasculature due to retinal edema* Branch retinal artery occlusion (BRAO) - Obstruction at a bifurcationTreatment* No effective treatment available currently* Immediate lowering of IOP by> Intermittent ocular massage> IV mannitol or acetazolamide> Paracentesis of anterior chamber* Inhalation of carbogen or Meduna's Mixture (95 % O2 and 5 % CO2) - to relieve angiospasm* Steroids in cases of giant cell arteritisComplication - Neovascular glaucoma"
+    "cop": 3,
+    "exp": "Answer: d) Central retinal artery occlusion (KANSKI 8th ED, P-552)RETINAL ARTERY QCCLUSioNEtiology* Atherosclerosis - related thrombosis at the level of lamina cribrosa - most common cause* Emboli from carotid artery and cardiac origin> Cholesterol emboli (Hollenhorst plaque)> Calcium emboli> Platelet fibrin emboli - cause retinal ischemic attacks* Retinal arteritis - Polyarteritis nodosa, SLE, Wegener's granulomatosis, Scleroderma* Angiospasm, Raised IOP, Thrombophilia* Rare causes - Sickle cell anemia, retinal migraine, Oral contraceptives, polycythemia, Antiphospholipid syndromeClinical features* More common in males; Mean age at onset - 60 years* Usually unilateral* Central retinal artery occlusion (CRAO)> Obstruction at the level of lamina cribrosa> Sudden painless loss of vision> Markedly reduced visual acuity> Absent direct pupillary reflex - Total and profound afferent pupillary defect (APD) (amaurotic pupil)> Marked narrowing of retinal arteries and mild narrowing of retinal veins> The orange reflex from the intact choroid stands out at the thin foveola, in contrast to the surrounding pale retina, giving rise to a 'cherry-red spot' appearance> Milky white retina> Cherry red spot in the center of macula> Cattle truck appearance - segmentation of blood column in retinal vein> Atrophic changes - grossly attenuated thread like arteries and consecutive optic atrophy> FFA - delay in arterial filling and masking of choroidal vasculature due to retinal edema* Branch retinal artery occlusion (BRAO) - Obstruction at a bifurcationTreatment* No effective treatment available currently* Immediate lowering of IOP by> Intermittent ocular massage> IV mannitol or acetazolamide> Paracentesis of anterior chamber* Inhalation of carbogen or Meduna's Mixture (95 % O2 and 5 % CO2) - to relieve angiospasm* Steroids in cases of giant cell arteritisComplication - Neovascular glaucoma",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"both eye\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c267f978-3323-41b5-a841-88cd0740e942": {
-    "cop": 4,
-    "exp": "Platypelloid type"
+    "cop": 3,
+    "exp": "Platypelloid type",
+    "hint_exp": "🧩 Your crush solved \"broad flat pelvis characteristic\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a55372d4-5ae4-487b-80c1-cc3d25078603": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Ankyrin"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Ankyrin",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"hereditary spherocytos\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1eb3389c-b5cc-431a-b05b-33a7faed79b5": {
-    "cop": 2,
-    "exp": "B i.e. Zinc"
+    "cop": 1,
+    "exp": "B i.e. Zinc",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"proteins to DNA\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "11204a4a-0789-40f9-b1ea-45536ed66748": {
-    "cop": 1,
-    "exp": "Bonding strength of dentin bonding agents generations:\n\nFirst -  2-3 MPa\nSecond – 1-5 MPa\nThird – 3-13 MPa\nFourth – 13-80 MPa\nFifth – 3-75 Mpa \nSixth – 10-75 Mpa \nSeventh – 0-60 Mpa"
+    "cop": 0,
+    "exp": "Bonding strength of dentin bonding agents generations:\n\nFirst -  2-3 MPa\nSecond – 1-5 MPa\nThird – 3-13 MPa\nFourth – 13-80 MPa\nFifth – 3-75 Mpa \nSixth – 10-75 Mpa \nSeventh – 0-60 Mpa",
+    "hint_exp": "🎯 Think of \"dentin bonding agent\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "314423c1-684e-428a-871e-175d60beb799": {
-    "cop": 3,
-    "exp": "In the medulla, the ventral respiratory group (VRG) consists of four groups of neurons that make up the exhalation (expiratory) area of respiratory control. ... The VRG contains both inspiratory and expiratory neurons. In quiet, restful breathing, the ventral respiratory group of neurons are inactive Ref: guyton and hall textbook of medical physiology 12 edition page number: 370,371,372"
+    "cop": 2,
+    "exp": "In the medulla, the ventral respiratory group (VRG) consists of four groups of neurons that make up the exhalation (expiratory) area of respiratory control. ... The VRG contains both inspiratory and expiratory neurons. In quiet, restful breathing, the ventral respiratory group of neurons are inactive Ref: guyton and hall textbook of medical physiology 12 edition page number: 370,371,372",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"increases ventilation acting mainly\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6d217260-2da1-4db2-9078-5ecad573c06f": {
-    "cop": 1,
-    "exp": "Ans. (a) Thumb sign.Epiglottitis is an infection of the epiglottis which can lead to upper airway obstruction. It is most commonly seen in ages 3 to 6 years, and is most commonly caused by Haemophilus influenza B (HIB). The incidence has decreased 90% since the introduction of the HIB vaccine. Children present with fever, sore throat, and severe odynophagia. They appear sitting up and leaning forward, drooling. They may have biphasic stridor, especially when presenting later. Epiglottitis can be detected radiographically with a lateral cervical plain film, which shows the characteristic \"thumbprint sign.' This sign is caused by the thickened epiglottis.Image source- style=\"font-family: Times New Roman, Times, serif\">"
+    "cop": 0,
+    "exp": "Ans. (a) Thumb sign.Epiglottitis is an infection of the epiglottis which can lead to upper airway obstruction. It is most commonly seen in ages 3 to 6 years, and is most commonly caused by Haemophilus influenza B (HIB). The incidence has decreased 90% since the introduction of the HIB vaccine. Children present with fever, sore throat, and severe odynophagia. They appear sitting up and leaning forward, drooling. They may have biphasic stridor, especially when presenting later. Epiglottitis can be detected radiographically with a lateral cervical plain film, which shows the characteristic \"thumbprint sign.' This sign is caused by the thickened epiglottis.Image source- style=\"font-family: Times New Roman, Times, serif\">",
+    "hint_exp": "🧩 Your crush solved \"this finding\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a8d4d232-df85-4916-a274-48baad79c0e0": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"is not raised in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "70cdb234-7d88-4abe-ad6c-0ee35eb34489": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., MyelofibrosisRepeated unsuccessful bone marrow aspiration clinches the diagnosis in our of myelofibrosis.o Aspiration of bone marrow is often unsuccessful in myelofibrosis because of extensive fibrosis of bone marrow (characteristic dry tap)."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., MyelofibrosisRepeated unsuccessful bone marrow aspiration clinches the diagnosis in our of myelofibrosis.o Aspiration of bone marrow is often unsuccessful in myelofibrosis because of extensive fibrosis of bone marrow (characteristic dry tap).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"patient following findings splenomegaly\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6ae0530a-b715-4d20-96e2-c35433d79e58": {
-    "cop": 1,
-    "exp": "DRUG MECHANISM Rifampicin Inhibit transcription of RNA Isoniazid Act on mycobacterial membrane Streptomycin Inhibit protein synthesis Chloramphenicol Inhibit protein synthesis"
+    "cop": 0,
+    "exp": "DRUG MECHANISM Rifampicin Inhibit transcription of RNA Isoniazid Act on mycobacterial membrane Streptomycin Inhibit protein synthesis Chloramphenicol Inhibit protein synthesis",
+    "hint_exp": "🎯 Think of \"Which following drugs acts\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "774f6aa1-c515-470c-a317-c54f45cabe29": {
-    "cop": 4,
-    "exp": "Ans. D. Pulmonary embolismLactate dehydrogenase converts Pyruvic Acid to Lactic Acid. It has 5 Isoenzymes. Isoenzymes are the physically distinct forms of the same enzyme but catalyze the same reaction and differ from each other structurally, electrophoretically and immunologically. LDH-1 and LDH-2 rises in myocardial infarction and LDH-5 increases in liver diseases, breast carcinoma, prostate carcinoma and malignancies of CNS.TypePolypeptide ChainsElectrophoretic mobilityTissue rich in Isoenzyme typeLDH-1(H4 )Fastest movingFound in myocardium.LDH-2(H3 M) LDH-3(H2 M2 ) LDH-4(HM3 ) LDH-5(M4 )Slowest movingFound in Liver"
+    "cop": 3,
+    "exp": "Ans. D. Pulmonary embolismLactate dehydrogenase converts Pyruvic Acid to Lactic Acid. It has 5 Isoenzymes. Isoenzymes are the physically distinct forms of the same enzyme but catalyze the same reaction and differ from each other structurally, electrophoretically and immunologically. LDH-1 and LDH-2 rises in myocardial infarction and LDH-5 increases in liver diseases, breast carcinoma, prostate carcinoma and malignancies of CNS.TypePolypeptide ChainsElectrophoretic mobilityTissue rich in Isoenzyme typeLDH-1(H4 )Fastest movingFound in myocardium.LDH-2(H3 M) LDH-3(H2 M2 ) LDH-4(HM3 ) LDH-5(M4 )Slowest movingFound in Liver",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"increase enzyme seen following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b83de563-6f98-4b64-9100-250032bbcdfc": {
-    "cop": 2,
-    "exp": "Ans. B. PolyneuropathyPolyneuropathy is the most common neurological disorder seen in about 60% of patients with CKD.It is characterized by* Length-dependent numbness* Tingling* Allodynia* Mild distal weaknessThe sensorimotor polyneuropathy can be stabilized by hemodialysis and improved with successful renal transplantation."
+    "cop": 1,
+    "exp": "Ans. B. PolyneuropathyPolyneuropathy is the most common neurological disorder seen in about 60% of patients with CKD.It is characterized by* Length-dependent numbness* Tingling* Allodynia* Mild distal weaknessThe sensorimotor polyneuropathy can be stabilized by hemodialysis and improved with successful renal transplantation.",
+    "hint_exp": "🧩 Your crush solved \"chronic renal failure patients\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "060979e4-c84d-4efd-8ec4-5094898c8761": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Klebsiella pneumoniae \"Klebsiella pneumoniae is also known as Friedlander's bacillus or Bacillus mucosus capsulatus\".KLEBSIELLAo There are four important species of klebsiella1. K. pneumoniae (most important)2. K. ozaenae3. K. rhinoscleromatis4. K. oxytoca (rare)o Infectious syndromeso DiagnosisDiagnosis is made by culturing appropriate specimens.TreatmentCarbapenems (imipenem) - DOC."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Klebsiella pneumoniae \"Klebsiella pneumoniae is also known as Friedlander's bacillus or Bacillus mucosus capsulatus\".KLEBSIELLAo There are four important species of klebsiella1. K. pneumoniae (most important)2. K. ozaenae3. K. rhinoscleromatis4. K. oxytoca (rare)o Infectious syndromeso DiagnosisDiagnosis is made by culturing appropriate specimens.TreatmentCarbapenems (imipenem) - DOC.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Friedlander bacillus\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "acfbb13e-b857-4349-816d-794b54a4e5f0": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Nasal decongestantsRhinitis medicamentosao Caused by excessive use of topical decongestant nasal drops.o It is treated by withdrawal of nasal drops, short course of systemic steroid therapy and in some cases surgical reduction of turbinates, if they have become hypertrophied"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Nasal decongestantsRhinitis medicamentosao Caused by excessive use of topical decongestant nasal drops.o It is treated by withdrawal of nasal drops, short course of systemic steroid therapy and in some cases surgical reduction of turbinates, if they have become hypertrophied",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"medicamentosa\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ce018686-5e5a-4f8d-a803-5ea98c5fce9e": {
-    "cop": 2,
-    "exp": "b. Measles, DPT, OPV, Hib, Hep B(Ref: Nelson's 20/e p 1546-1548, Ghai 8/e p 195, IAP 115)All the above vaccines should be given for catch up immunization now."
+    "cop": 1,
+    "exp": "b. Measles, DPT, OPV, Hib, Hep B(Ref: Nelson's 20/e p 1546-1548, Ghai 8/e p 195, IAP 115)All the above vaccines should be given for catch up immunization now.",
+    "hint_exp": "🎯 Think of \"month child came vaccination\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "73799231-763d-4d9d-b153-5af8836e347b": {
-    "cop": 2,
-    "exp": "Hints in the question-- Diabetic- Middle aged Female- Flank pain- Fever- Fat density lesion- Associated with calculi. Xanthogranulomatous (due to presence of fat) pyelonephritis (infection with kidney etiology)- It is more common in females as they are more prone to Struvite stone formation- Causative Organism - Proteus Emphysematous pyelonephritis- Most common causative organism- E. coli - Presence of ring of air around kidney or within kidney."
+    "cop": 1,
+    "exp": "Hints in the question-- Diabetic- Middle aged Female- Flank pain- Fever- Fat density lesion- Associated with calculi. Xanthogranulomatous (due to presence of fat) pyelonephritis (infection with kidney etiology)- It is more common in females as they are more prone to Struvite stone formation- Causative Organism - Proteus Emphysematous pyelonephritis- Most common causative organism- E. coli - Presence of ring of air around kidney or within kidney.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Sheela middle aged diabetic\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "35fa3c2a-01b2-4313-b6da-35d34e8b83f3": {
-    "cop": 2,
-    "exp": "The risk of recurrence of anencephaly:\nIf one child is affected 5%\nIf two children are affected 13%"
+    "cop": 1,
+    "exp": "The risk of recurrence of anencephaly:\nIf one child is affected 5%\nIf two children are affected 13%",
+    "hint_exp": "🧩 Your crush solved \"having a third one\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "11253727-a504-47d3-9a81-f471c658c915": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., True negative plus false positive"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., True negative plus false positive",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"specificity\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "88be93f0-83e1-4aeb-8737-921035a61159": {
-    "cop": 4,
-    "exp": "A herd immunity of over 70% is considered necessary to prevent epidemic spread, but some believe that the critical level may be as high as 90%."
+    "cop": 3,
+    "exp": "A herd immunity of over 70% is considered necessary to prevent epidemic spread, but some believe that the critical level may be as high as 90%.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"herd immunity over considered\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9d91b75a-8a89-4a8e-aa1a-86888b846db9": {
-    "cop": 4,
-    "exp": "Fascicular ulcer is seen with phlyctenular keratoconjunctivitis. Phlyctenular keratoconjunctivitis Cause: Staphylococcus/ M. Tuberculosis Lesions are seen near limbus Type 4 hypersensitivity reaction Predominantly affect children Fascicular ulcer has Prominent leash of blood vessels Can also cause Sacrofulous ulcer that has shallow margin due to breakdown of small limbal phlycten."
+    "cop": 3,
+    "exp": "Fascicular ulcer is seen with phlyctenular keratoconjunctivitis. Phlyctenular keratoconjunctivitis Cause: Staphylococcus/ M. Tuberculosis Lesions are seen near limbus Type 4 hypersensitivity reaction Predominantly affect children Fascicular ulcer has Prominent leash of blood vessels Can also cause Sacrofulous ulcer that has shallow margin due to breakdown of small limbal phlycten.",
+    "hint_exp": "🎯 Think of \"which following condition fascicular\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "40eb384b-001e-4049-8a7a-d9eb2956718e": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., All nucleated cells o The histocompatibility antigens (human leukocyte antigens - HLA) are cell surface antigens that induce an immune response leading to rejection of allografts. The principal physiologic function of the cell surface histocompatibility molecules is to bind peptide fragments offoreign proteins for presentation to antigen specific T cells.o The histocompatibility antigens are encoded by a closely linked multiallelic cluster of genes - Major histocompatibility complex (MHC) or Human leukocyte antigens complex (HLA complex). HLA complex of genes is located on the short arm of chromosome 6.o HLA complex consists of three separate clusters of genes :-1) Class I (MHC-I)# It comprising of A,B and C loci (i.e. HLA-A, HLA-B, HLA-C). It is found on the surface of all nucleated cells and platelets.# Important cells with MHC-I (HLA-I) on surface are B-cells, T-cells, macrophages/monocytes, neutrophils, langerhans cells, dendritic cells, platelets (thrombocytes), epithelial cells of thymus and hepatocytes. MHC class I present antigen to cytotoxic CD-8 T cells (MHC-I restricted).# MHC class I is responsible for graft rejection and cell mediated cytolysis of viral infected or tumor cells.2) Class II (MHC-II)# It comprises *D ' region (HLA-DR, HLA-DQ, HLADP). It is found only on the cells of immune system, i.e. T- cells, B-cells , langerhans cells, dendritic cells, and macrophages.# MHC-II recognizes exogenous antigen (extracellular microbes, soluble proteins) and present it to CD4 helper T cells (MHC-II restricted). MHC-II is responsible for graft versus host response and mixed leukocyte reaction.3) Class III(MHC-III)# It encodes for complement components C2 & C4, properdin factor B, Heat shock protein and Tumor necrosis factor-a and b (TNF-a and b). MHC-III is involved in susceptibility to autoimmune diseases like SLE.RBCs do no have MHC molecule"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., All nucleated cells o The histocompatibility antigens (human leukocyte antigens - HLA) are cell surface antigens that induce an immune response leading to rejection of allografts. The principal physiologic function of the cell surface histocompatibility molecules is to bind peptide fragments offoreign proteins for presentation to antigen specific T cells.o The histocompatibility antigens are encoded by a closely linked multiallelic cluster of genes - Major histocompatibility complex (MHC) or Human leukocyte antigens complex (HLA complex). HLA complex of genes is located on the short arm of chromosome 6.o HLA complex consists of three separate clusters of genes :-1) Class I (MHC-I)# It comprising of A,B and C loci (i.e. HLA-A, HLA-B, HLA-C). It is found on the surface of all nucleated cells and platelets.# Important cells with MHC-I (HLA-I) on surface are B-cells, T-cells, macrophages/monocytes, neutrophils, langerhans cells, dendritic cells, platelets (thrombocytes), epithelial cells of thymus and hepatocytes. MHC class I present antigen to cytotoxic CD-8 T cells (MHC-I restricted).# MHC class I is responsible for graft rejection and cell mediated cytolysis of viral infected or tumor cells.2) Class II (MHC-II)# It comprises *D ' region (HLA-DR, HLA-DQ, HLADP). It is found only on the cells of immune system, i.e. T- cells, B-cells , langerhans cells, dendritic cells, and macrophages.# MHC-II recognizes exogenous antigen (extracellular microbes, soluble proteins) and present it to CD4 helper T cells (MHC-II restricted). MHC-II is responsible for graft versus host response and mixed leukocyte reaction.3) Class III(MHC-III)# It encodes for complement components C2 & C4, properdin factor B, Heat shock protein and Tumor necrosis factor-a and b (TNF-a and b). MHC-III is involved in susceptibility to autoimmune diseases like SLE.RBCs do no have MHC molecule",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"class present\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "36fea632-3cb4-49aa-aea8-fdca39e5dbc7": {
-    "cop": 1,
-    "exp": "Ans: A (Naloxone) Ref: Goodman &Gillman's The Pharmacological Basis of Therapeutics, 2011, 12'h Edition, McGrow Hill, Burton LL P519- 520Explanation:Naloxone is the treatment of choice in the reversal of respiratory depression due to opioids.Naloxone has to be diluted and slowly administered intravenously to avoid withdrawal in opioid dependent patientsMonitoring of arousal and respiratory function are essential during this treatmentRestoration of respiration without naloxone therapy may still results in death of the patient due to complication that develop during comaNoncardiogenic pulmonary edema that develops during opioid poisoning can be reversed by positive pressure ventilation"
+    "cop": 0,
+    "exp": "Ans: A (Naloxone) Ref: Goodman &Gillman's The Pharmacological Basis of Therapeutics, 2011, 12'h Edition, McGrow Hill, Burton LL P519- 520Explanation:Naloxone is the treatment of choice in the reversal of respiratory depression due to opioids.Naloxone has to be diluted and slowly administered intravenously to avoid withdrawal in opioid dependent patientsMonitoring of arousal and respiratory function are essential during this treatmentRestoration of respiration without naloxone therapy may still results in death of the patient due to complication that develop during comaNoncardiogenic pulmonary edema that develops during opioid poisoning can be reversed by positive pressure ventilation",
+    "hint_exp": "🧩 Your crush solved \"Opiod induced respiratory depression\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "895a237b-4fbe-48b7-bfe6-06e861edb0c6": {
-    "cop": 2,
-    "exp": "Ans. (b) Vasodilatation due to local metabolites(Ref: Guyton, 13th ed/p.1093)In exercising muscle, there is accumulation of local metabolites leading to vasodilation - This increases blood flow."
+    "cop": 1,
+    "exp": "Ans. (b) Vasodilatation due to local metabolites(Ref: Guyton, 13th ed/p.1093)In exercising muscle, there is accumulation of local metabolites leading to vasodilation - This increases blood flow.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"main cause increased blood\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ec66307f-a353-4d88-b722-c7c3cd56cad5": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following increase speed\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ea32f806-5dd2-4a3e-91da-8c1e792fcca0": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Nerve which hooks around\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1b857426-81e5-4830-863b-526fb90c8ae0": {
-    "cop": 1,
-    "exp": "Ans. A. Severity'CURB - 65' score: To asses severity of pneumonia, CURB-65 score is useda. Confusion:b. Urea >7mmol/L(7x2.8=19.6mg%)c. Respiratory rate >30/mind. BP <90 systolic and/or <60mmHg diastolic).e. Age >65.Score:0-1 = home treatment possible0-2 = Hospital Therapy0-3 = Indicates severe pneumonia."
+    "cop": 0,
+    "exp": "Ans. A. Severity'CURB - 65' score: To asses severity of pneumonia, CURB-65 score is useda. Confusion:b. Urea >7mmol/L(7x2.8=19.6mg%)c. Respiratory rate >30/mind. BP <90 systolic and/or <60mmHg diastolic).e. Age >65.Score:0-1 = home treatment possible0-2 = Hospital Therapy0-3 = Indicates severe pneumonia.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"used in pneumonia to assess\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "11f5c74a-0396-440f-afa4-f96c476c9b0a": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., 100 rad o 100 Rad is equal to 1 gray or 1 rad is equal to 0[?]01 gray.Quantity measuredOld unitNew (SI) unit RadioactivityCurieBecquerel1 curie = 3[?]7 x 1010 Becquerel1 Becquerel = 2[?]7 x 10-11 curieRadiation exposureRoentgenColumb/cm Absorbed doseRadGray (Gy)100 rad = 1 Gray1 rad = 0[?]01 GrayDose equivalentRemSievert (Sv)100 Rem = 1 Sievert1 Rem = 0[?]01 Sievert"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., 100 rad o 100 Rad is equal to 1 gray or 1 rad is equal to 0[?]01 gray.Quantity measuredOld unitNew (SI) unit RadioactivityCurieBecquerel1 curie = 3[?]7 x 1010 Becquerel1 Becquerel = 2[?]7 x 10-11 curieRadiation exposureRoentgenColumb/cm Absorbed doseRadGray (Gy)100 rad = 1 Gray1 rad = 0[?]01 GrayDose equivalentRemSievert (Sv)100 Rem = 1 Sievert1 Rem = 0[?]01 Sievert",
+    "hint_exp": "🧩 Your crush solved \"grayis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a7a2564e-199b-4808-8390-fadbbb59aab4": {
-    "cop": 2,
-    "exp": "Hemopexin Binds to porphyrins, paicularly heme for heme recycling which prevent heme loss from plasmaFerritin is an intracellular protein that stores and releases iron Ferritin molecules in lysosomal membranes may aggregate in deposits that contain as much as 50% iron. These deposits are called hemosiderin. Ceruloplasmin- Transpo of copper"
+    "cop": 1,
+    "exp": "Hemopexin Binds to porphyrins, paicularly heme for heme recycling which prevent heme loss from plasmaFerritin is an intracellular protein that stores and releases iron Ferritin molecules in lysosomal membranes may aggregate in deposits that contain as much as 50% iron. These deposits are called hemosiderin. Ceruloplasmin- Transpo of copper",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"inhibits heme loss from plasma\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "56a29168-1da7-4666-8a31-1e417a34f3ed": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"mixed by\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "466b7cca-e692-49a8-b2b8-41e404569f47": {
-    "cop": 2,
-    "exp": "Niemann-Pick DiseaseThis is also an autosomal recessive disorder characterized by the accumulation of sphingomyelin and cholesterol due to a defect in acid sphingomyelinase.Two types have been described: type A and B.Type A is more common and typically presents in infancy and is characterized by hepatosplenomegaly, lymphadenopathy, rapidly progressive deterioration of CNS and physical underdevelopment. About a quaer of patients present with familial amaurotic idiocy with characteristiccherry-red spots in the macula of the retina (amaurosis = loss of vision without apparent lesion of the eye).Type B develops later and has progressive hepatosplenomegaly with development of cirrhosis due toreplacement of the liver by foam cells, and impaired lung function due to infiltration in lung alveoli.Microscopy shows storage of sphingomyelin and cholesterol within the lysosomes, paicularly in the cells of the mononuclear phagocyte system. The cells of Niemann-Pick disease are somewhat smaller than Gaucher cellsand their cytoplasm is not wrinkled but is instead foamy. These cells are widely distributed in thespleen, liver, lymph nodes, bone marrow, lungs, bowel, and brain. Ref: Harsh Mohan - Textbook of Pathology, 6th Edition.page no.263"
+    "cop": 1,
+    "exp": "Niemann-Pick DiseaseThis is also an autosomal recessive disorder characterized by the accumulation of sphingomyelin and cholesterol due to a defect in acid sphingomyelinase.Two types have been described: type A and B.Type A is more common and typically presents in infancy and is characterized by hepatosplenomegaly, lymphadenopathy, rapidly progressive deterioration of CNS and physical underdevelopment. About a quaer of patients present with familial amaurotic idiocy with characteristiccherry-red spots in the macula of the retina (amaurosis = loss of vision without apparent lesion of the eye).Type B develops later and has progressive hepatosplenomegaly with development of cirrhosis due toreplacement of the liver by foam cells, and impaired lung function due to infiltration in lung alveoli.Microscopy shows storage of sphingomyelin and cholesterol within the lysosomes, paicularly in the cells of the mononuclear phagocyte system. The cells of Niemann-Pick disease are somewhat smaller than Gaucher cellsand their cytoplasm is not wrinkled but is instead foamy. These cells are widely distributed in thespleen, liver, lymph nodes, bone marrow, lungs, bowel, and brain. Ref: Harsh Mohan - Textbook of Pathology, 6th Edition.page no.263",
+    "hint_exp": "🎯 Think of \"Foam cells seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "de0095f5-3062-4184-9e27-2e2d10499f34": {
-    "cop": 3,
-    "exp": "Certainly lethal dose (CLD) - 32-64 mg F /Kg body weight\nSafely tolerated dose (STD) - 8-16 mg F / kg body weight (1/4th of CLD)\n\nAlso note these two important values \n\nProbable toxic dose (PTD)- 2mg F/ Kg body weight\nMinimum toxic dose (MTD)- 5-6 mg F/ Kg body weight."
+    "cop": 2,
+    "exp": "Certainly lethal dose (CLD) - 32-64 mg F /Kg body weight\nSafely tolerated dose (STD) - 8-16 mg F / kg body weight (1/4th of CLD)\n\nAlso note these two important values \n\nProbable toxic dose (PTD)- 2mg F/ Kg body weight\nMinimum toxic dose (MTD)- 5-6 mg F/ Kg body weight.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"much safely tolerated value\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ca7ef533-742f-4101-afaa-8f20c8ef6611": {
-    "cop": 1,
-    "exp": "FRACTURE OF THE MANDIBLE - Condylar neck is the weakest pa of the mandible and MC site of fracture. Mandible may fracture directly at the point of the blow. Indirectly where the force from the blow is transmitted and the mandible fractures at a point of weakness distant from the original blow, known as 'Guardsman' fracture. - 'Butterfly' fracture of the mandible: A segment of mandible is deteched from the rest of the mandible in the canne regions Diagnosis - Recommended readiographic evaluation of a mandible fracture : Panoramic radiograph (panorex) And Towne's view X-ray Treatment - As in midface fractures, restoration of dental occlusion forms the foundation for fracture management. Intermaxillary fixation before fractures exposure and plating is necessary - Condylar and subcondylar mandible fractures are most often treated by IMF alone."
+    "cop": 0,
+    "exp": "FRACTURE OF THE MANDIBLE - Condylar neck is the weakest pa of the mandible and MC site of fracture. Mandible may fracture directly at the point of the blow. Indirectly where the force from the blow is transmitted and the mandible fractures at a point of weakness distant from the original blow, known as 'Guardsman' fracture. - 'Butterfly' fracture of the mandible: A segment of mandible is deteched from the rest of the mandible in the canne regions Diagnosis - Recommended readiographic evaluation of a mandible fracture : Panoramic radiograph (panorex) And Towne's view X-ray Treatment - As in midface fractures, restoration of dental occlusion forms the foundation for fracture management. Intermaxillary fixation before fractures exposure and plating is necessary - Condylar and subcondylar mandible fractures are most often treated by IMF alone.",
+    "hint_exp": "🧩 Your crush solved \"Mandible commonly fractured\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9a0b4f40-9b4e-4942-8678-047615e2c290": {
-    "cop": 1,
-    "exp": "Obesity is probably the most common cause for insulin resistance. The risk for diabetes increases with BMI . It is not only the absolute amount but also the distribution of body fat that has an effect on insulin sensitivity. Central obesity(Abdoominal fat) is more likely to be linked than peripheral( gluteal fat). Obesity impacts in different ways through Free Fatty Acids , Adipokines etc."
+    "cop": 0,
+    "exp": "Obesity is probably the most common cause for insulin resistance. The risk for diabetes increases with BMI . It is not only the absolute amount but also the distribution of body fat that has an effect on insulin sensitivity. Central obesity(Abdoominal fat) is more likely to be linked than peripheral( gluteal fat). Obesity impacts in different ways through Free Fatty Acids , Adipokines etc.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a9504a72-6216-449c-8330-b2626bc5a6ae": {
-    "cop": 1,
-    "exp": "Primary hyperparathyroidism is caused by autonomous secretion of PTH, usually by a single parathyroid adenoma, which can vary in diameter from a few millimetres to several centimetres. It should be distinguished from secondary hyperparathyroidism, in which there is a physiological increase in PTH secretion to compensate for prolonged hypocalcaemia (such as in vitamin D deficiency, p. 1126), and from teiary hyperparathyroidism, in which continuous stimulation of the parathyroids over a prolonged period of time results in adenoma formation and autonomous PTH secretion (Box 20.39). This is most commonly seen in individuals with advanced chronic kidney disease . DAVIDSON'S PRINCIPLES AND PRACTICE OF MEDICINE 22ND EDITION PAGE NO-769"
+    "cop": 0,
+    "exp": "Primary hyperparathyroidism is caused by autonomous secretion of PTH, usually by a single parathyroid adenoma, which can vary in diameter from a few millimetres to several centimetres. It should be distinguished from secondary hyperparathyroidism, in which there is a physiological increase in PTH secretion to compensate for prolonged hypocalcaemia (such as in vitamin D deficiency, p. 1126), and from teiary hyperparathyroidism, in which continuous stimulation of the parathyroids over a prolonged period of time results in adenoma formation and autonomous PTH secretion (Box 20.39). This is most commonly seen in individuals with advanced chronic kidney disease . DAVIDSON'S PRINCIPLES AND PRACTICE OF MEDICINE 22ND EDITION PAGE NO-769",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of Hyperparathyroidism\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6dfb8aaa-9980-4145-b136-3a79c5c76b91": {
-    "cop": 1,
-    "exp": "Ref: Harrison's 19th E pg 1568 In supine position, there is increased venous return. Here blood acts as a physical barrier between hyperophied septum and anterior mitral leaflet. So increased blood in LV, decreases the murmur. Note: Vasodilation, increases the pressure gradient between LV and Aoa and hence increase the murmur. Note :All murmurs decreases with valsalva maneuver except that of HOCM and MVP. In hocm, blood acts as a physical barrier between hyperophied septum and anterior mitral leaflet. During valsalva, there is decreased venous return and subsequently decreased blood reaching LV. As blood flow reduces, there is more chances of obstruction, it increases the murmur (ejection systolic murmur)"
+    "cop": 0,
+    "exp": "Ref: Harrison's 19th E pg 1568 In supine position, there is increased venous return. Here blood acts as a physical barrier between hyperophied septum and anterior mitral leaflet. So increased blood in LV, decreases the murmur. Note: Vasodilation, increases the pressure gradient between LV and Aoa and hence increase the murmur. Note :All murmurs decreases with valsalva maneuver except that of HOCM and MVP. In hocm, blood acts as a physical barrier between hyperophied septum and anterior mitral leaflet. During valsalva, there is decreased venous return and subsequently decreased blood reaching LV. As blood flow reduces, there is more chances of obstruction, it increases the murmur (ejection systolic murmur)",
+    "hint_exp": "🎯 Think of \"which of the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8a12f951-5c50-4c2f-aff5-e1cd9a55ae64": {
-    "cop": 4,
-    "exp": "Kawasaki disease shows Unilateral, Non-suppurative cervical lymphadenopathy."
+    "cop": 3,
+    "exp": "Kawasaki disease shows Unilateral, Non-suppurative cervical lymphadenopathy.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Kawasaki disease\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4a383d1b-d047-4241-838c-05c94b904653": {
-    "cop": 2,
-    "exp": "."
+    "cop": 1,
+    "exp": ".",
+    "hint_exp": "🧩 Your crush solved \"Both antibody dependent independent\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ba1b5eeb-47cd-4562-9e1d-a72367ad974e": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Anterior wall o The middle ear is shaped like a cube.o When seen in the coronal section, the cavity of the middle ear is biconcave, o The boundaries of the middle ear are as follows:-I-Roof or tegmental wallo Separates the middle ear from the middle cranial cavity.o It is formed by a thin plate of bone called tegmen tympani.II-Floor or jugular wallo Formed by a thin plate of bone which separates the middle ear from the superior bulb of the internal jugular vein.o The floor also presents the tympanic canaliculus which transmits the tympanic branch of the glossopharyngeal nerve.III-Anterior or carotid wallo The uppermost part bears the opening of the canal of the tensor tympani.o The middle part has the opening of the auditory tube.o The inferior part of the wall is formed by a thin plate of bone which forms the posterior wall of the carotid canal. This plate separates the middle ear from the internal carotid artery.IV Posterior or mastoid wallo Superiorly, is the aditus through which the epitympanic recess communicates with the mastoid antrum.o Below it is the fossa incudis which lodges the short process of the incus.o Below it is the pyramid giving attachment to the tendon of stapedius.o The vertical part of the facial canal for facial nerve.V Lateral or membranous wallo Tympanic membrane along with the tympanic ring and sulcus.VI Medial or labyrinthine wallo Promontory - rounded bulge produced by the first turn of the cochlea.o Oval window - it is posterosuperior to the promontory. It is closed by the footplate of the stapes.o The horizontal part of the facial canal - runs just above the oval window.o Round window - posteroinferior to the promontory. It is closed by the secondary tympanic membrane.o Processus cochleariformis - forms a pulley for the tendon of the tensor tympani.o The prominence of the lateral semicircular canal - above the facial canal."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Anterior wall o The middle ear is shaped like a cube.o When seen in the coronal section, the cavity of the middle ear is biconcave, o The boundaries of the middle ear are as follows:-I-Roof or tegmental wallo Separates the middle ear from the middle cranial cavity.o It is formed by a thin plate of bone called tegmen tympani.II-Floor or jugular wallo Formed by a thin plate of bone which separates the middle ear from the superior bulb of the internal jugular vein.o The floor also presents the tympanic canaliculus which transmits the tympanic branch of the glossopharyngeal nerve.III-Anterior or carotid wallo The uppermost part bears the opening of the canal of the tensor tympani.o The middle part has the opening of the auditory tube.o The inferior part of the wall is formed by a thin plate of bone which forms the posterior wall of the carotid canal. This plate separates the middle ear from the internal carotid artery.IV Posterior or mastoid wallo Superiorly, is the aditus through which the epitympanic recess communicates with the mastoid antrum.o Below it is the fossa incudis which lodges the short process of the incus.o Below it is the pyramid giving attachment to the tendon of stapedius.o The vertical part of the facial canal for facial nerve.V Lateral or membranous wallo Tympanic membrane along with the tympanic ring and sulcus.VI Medial or labyrinthine wallo Promontory - rounded bulge produced by the first turn of the cochlea.o Oval window - it is posterosuperior to the promontory. It is closed by the footplate of the stapes.o The horizontal part of the facial canal - runs just above the oval window.o Round window - posteroinferior to the promontory. It is closed by the secondary tympanic membrane.o Processus cochleariformis - forms a pulley for the tendon of the tensor tympani.o The prominence of the lateral semicircular canal - above the facial canal.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Eustachian tube opens middle\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0e448412-3878-42b6-b1fb-88685f15d5ea": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., None of the above o Ewig's sarcoma arises from primitive neuroectoderm."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., None of the above o Ewig's sarcoma arises from primitive neuroectoderm.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Ewing tumour arises from\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d7465e3a-7e2f-4b5d-938c-2e92b6a22704": {
-    "cop": 2,
-    "exp": "Exogenous adrenaline is metabolised by Catechol-O-methyltransferase (COMT) in liver and other tissues. Metabolism does not play an impoant role in terminating the action of endogenous catecholamines. Ref: Biochemistry by U. Satyanarayana 3rd edition Pgno : 441"
+    "cop": 1,
+    "exp": "Exogenous adrenaline is metabolised by Catechol-O-methyltransferase (COMT) in liver and other tissues. Metabolism does not play an impoant role in terminating the action of endogenous catecholamines. Ref: Biochemistry by U. Satyanarayana 3rd edition Pgno : 441",
+    "hint_exp": "🎯 Think of \"metabolished by\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7c690040-9e3f-46c2-8d28-7acbd6681a10": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Food poisoning seen with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ae5c56f1-6b11-4525-a0fc-f69581186b1d": {
-    "cop": 3,
-    "exp": "For PO2 to be 100mmHg, the dissolved O2 level has to be around 0.30ml/dL of blood.\nSo when the O2 level is 0.25ml/dL, the PO2 is around 80mmHg."
+    "cop": 2,
+    "exp": "For PO2 to be 100mmHg, the dissolved O2 level has to be around 0.30ml/dL of blood.\nSo when the O2 level is 0.25ml/dL, the PO2 is around 80mmHg.",
+    "hint_exp": "🧩 Your crush solved \"the blood\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

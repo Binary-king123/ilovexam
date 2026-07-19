@@ -1,202 +1,252 @@
 {
   "680402a4-6782-4995-9de4-599ab579e8f0": {
-    "cop": 3,
-    "exp": "Earpiece type (ear bow): In this type, the external auditory meatus is considered as reference point to determine the centre of condylar rotation.\nThe condyles are located at an approximate distance in front of the meatus and this is compensated in the articulator, by mounting the facebow behind the condylar centre.\nThis type of facebow is easier to manipulate clinically."
+    "cop": 2,
+    "exp": "Earpiece type (ear bow): In this type, the external auditory meatus is considered as reference point to determine the centre of condylar rotation.\nThe condyles are located at an approximate distance in front of the meatus and this is compensated in the articulator, by mounting the facebow behind the condylar centre.\nThis type of facebow is easier to manipulate clinically.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Earpiece type face true\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1641670a-ae22-480a-94c4-e312b189e7fd": {
-    "cop": 3,
-    "exp": "Ans: C (Sub mucosal lipoma) Ref: Bailey and Love's Short Practice of Surgery. 25th edition Chapter 66, Intestinal Obstruction pg:1191-1212 and Donald A, Antonioli, \"Gastro-intestinal Autonomic Nerve Tumors, expanding the spectrum of gastrointestinal stromal tumors\", Arch Pathol Lab Med 1989; 113; 831-833Explanation:Intussusception consists of telescoping of a bop of bowel inside itself. It may or may not originate from a lead point, which is usually a swelling of the mucosa or submucosa (eg: Inf lammed Peyer's patch, mucosal adenoma, submucosal lipoma).\" Ref: Clinical Surgery, Alfred Cuschieri, 2nd editionIntussusceptionPortion of the gut becomes invaginated within an immediately adjacent segment.Usually the proximal segment gets invaginated into the distal.Most commonly in children.Peak incidence - 5 to 10 months of age.Primary or secondary to intestinal pathology, e.g., polyp.Ileocolic is the most common variety.Aetiology and Risk Factors:90% of cases are idiopathic.Upper respiratory tract infection or gastroenteritis may precede the condition.Hyperplasia of Payer's patches in the terminal ileum may be the initiating event.Risk Factors in Infants:Weaning.Loss of passively acquire maternal immunity.Common viral pathogens.Risk Factors in Older Children:Pathological lead points are common in children more than 2 years of age.o Meckel's diverticulum.o Polyp,o Duplication.o Henoch -Schonlein purpura.o Appendix.o Submucosal Gl lipoma {Most Common in ileum, are single submucosal, intramural lesion), o Leiomyoma.Risk Factors in Adults:Invariably associated with a lead point.Polyp (e.g. Peutz-Jeghers syndrome).Submucosal lipoma.Other tumours.PathologyAn intussusception is composed of three parts:The entering or inner tube.The returning or middle tube.The sheath or outer tube (intussuscipiens).* The part that advances is the apex, the mass is the intussusceptions and the neck is the junction of the entering layer with the mass.An intussusception is a strangulating obstruction as the blood supply of the inner layer is usually impaired.The degree of ischaemia is dependent on the tightness of the invagination, which is usually greatest as it passes through the ileocaecal valve.Most common intussusception in children is ileocolic.Most common intussusception in adults is colocolic.Clinical Features:Episodes of screaming and drawing up of the legs in a previously well male infant.The attacks last for a few minutes and recur repeatedly.During attacks the child appears pale, whereas between episodes he may be listless.Initially vomiting which becomes bile-stained later.In early stage the passage of stool may be normal, later, blood and mucus are evacuated - the 'red currant jelly' stool.Physical Examination:Child should be examined between episodes of colic.Classically, the abdomen is not initially distended.Lump that hardens on palpation is present in 60% of cases.Emptiness in the right iliac fossa--the sign of Dance.Rectal examination--blood stained mucus may be found on the finger.Occasionally, in extensive intussusception, the apex may be palpable or even protrude from the anus.Progressive dehydration and abdominal distension from small bowel obstruction ensues without treatment, followed by peritonitis secondary to gangrene.Rarely, natural cure may occur as a result of sloughing of the intussusceptions.Imaging:Plain Abdominal X-rayEvidence of small or large bowel obstruction with an absent caecal gas shadow in ileocolic cases.A soft tissue opacity is often present.Barium EnemaClaw sign in ileocolic intussusception.Does not demonstrate small bowel intussusception.UltrasoundDoughnut appearance of concentric rings in transverse section.Computerised Tomography (CT)Used in equivocal cases.TreatmentIn infants with ileocolic intussusception non-operative reduction is tried first.More than 70% of intussusceptions can be reduced non- operatively.Resuscitation with intravenous fluids.Broad-spectrum antibiotics.Naso-gastric drainage.Non-Operative ReductionNon-operative reduction is attempted using an air or barium enema.Successful reduction can only be accepted if there is free reflux of air or barium into the small bowel, together with resolution of symptoms and signs.Contraindications for Non-Operative ReductionSigns of peritonitis or perforation.Known pathological lead point.Shock.Problems with Non-Operative Reduction:Strangulated bowel and pathological lead points are unlikely to reduce.Perforation of the colon -- rare.Recurrent intussusception occurs in up to 10%.Surgical ManagementIndicated when radiological reduction has failed or is contraindicated."
+    "cop": 2,
+    "exp": "Ans: C (Sub mucosal lipoma) Ref: Bailey and Love's Short Practice of Surgery. 25th edition Chapter 66, Intestinal Obstruction pg:1191-1212 and Donald A, Antonioli, \"Gastro-intestinal Autonomic Nerve Tumors, expanding the spectrum of gastrointestinal stromal tumors\", Arch Pathol Lab Med 1989; 113; 831-833Explanation:Intussusception consists of telescoping of a bop of bowel inside itself. It may or may not originate from a lead point, which is usually a swelling of the mucosa or submucosa (eg: Inf lammed Peyer's patch, mucosal adenoma, submucosal lipoma).\" Ref: Clinical Surgery, Alfred Cuschieri, 2nd editionIntussusceptionPortion of the gut becomes invaginated within an immediately adjacent segment.Usually the proximal segment gets invaginated into the distal.Most commonly in children.Peak incidence - 5 to 10 months of age.Primary or secondary to intestinal pathology, e.g., polyp.Ileocolic is the most common variety.Aetiology and Risk Factors:90% of cases are idiopathic.Upper respiratory tract infection or gastroenteritis may precede the condition.Hyperplasia of Payer's patches in the terminal ileum may be the initiating event.Risk Factors in Infants:Weaning.Loss of passively acquire maternal immunity.Common viral pathogens.Risk Factors in Older Children:Pathological lead points are common in children more than 2 years of age.o Meckel's diverticulum.o Polyp,o Duplication.o Henoch -Schonlein purpura.o Appendix.o Submucosal Gl lipoma {Most Common in ileum, are single submucosal, intramural lesion), o Leiomyoma.Risk Factors in Adults:Invariably associated with a lead point.Polyp (e.g. Peutz-Jeghers syndrome).Submucosal lipoma.Other tumours.PathologyAn intussusception is composed of three parts:The entering or inner tube.The returning or middle tube.The sheath or outer tube (intussuscipiens).* The part that advances is the apex, the mass is the intussusceptions and the neck is the junction of the entering layer with the mass.An intussusception is a strangulating obstruction as the blood supply of the inner layer is usually impaired.The degree of ischaemia is dependent on the tightness of the invagination, which is usually greatest as it passes through the ileocaecal valve.Most common intussusception in children is ileocolic.Most common intussusception in adults is colocolic.Clinical Features:Episodes of screaming and drawing up of the legs in a previously well male infant.The attacks last for a few minutes and recur repeatedly.During attacks the child appears pale, whereas between episodes he may be listless.Initially vomiting which becomes bile-stained later.In early stage the passage of stool may be normal, later, blood and mucus are evacuated - the 'red currant jelly' stool.Physical Examination:Child should be examined between episodes of colic.Classically, the abdomen is not initially distended.Lump that hardens on palpation is present in 60% of cases.Emptiness in the right iliac fossa--the sign of Dance.Rectal examination--blood stained mucus may be found on the finger.Occasionally, in extensive intussusception, the apex may be palpable or even protrude from the anus.Progressive dehydration and abdominal distension from small bowel obstruction ensues without treatment, followed by peritonitis secondary to gangrene.Rarely, natural cure may occur as a result of sloughing of the intussusceptions.Imaging:Plain Abdominal X-rayEvidence of small or large bowel obstruction with an absent caecal gas shadow in ileocolic cases.A soft tissue opacity is often present.Barium EnemaClaw sign in ileocolic intussusception.Does not demonstrate small bowel intussusception.UltrasoundDoughnut appearance of concentric rings in transverse section.Computerised Tomography (CT)Used in equivocal cases.TreatmentIn infants with ileocolic intussusception non-operative reduction is tried first.More than 70% of intussusceptions can be reduced non- operatively.Resuscitation with intravenous fluids.Broad-spectrum antibiotics.Naso-gastric drainage.Non-Operative ReductionNon-operative reduction is attempted using an air or barium enema.Successful reduction can only be accepted if there is free reflux of air or barium into the small bowel, together with resolution of symptoms and signs.Contraindications for Non-Operative ReductionSigns of peritonitis or perforation.Known pathological lead point.Shock.Problems with Non-Operative Reduction:Strangulated bowel and pathological lead points are unlikely to reduce.Perforation of the colon -- rare.Recurrent intussusception occurs in up to 10%.Surgical ManagementIndicated when radiological reduction has failed or is contraindicated.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Intussuception frequently associated with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7ba82620-8ac3-4ab3-8f91-69a31dc30979": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. Angiogenesis Chronic inflammation is characterized byo Infiltration with mononuclear cells, which include - macrophages, lymphocytes, and plasma cellso Tissue destruction, induced - the persistent offending agent or by the inflammatory cellso Attempts at healing - connective tissue replacement of damaged tissue, accomplished by angiogenesis (proliferation of small blood vessels) and, in particular, fibrosis."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. Angiogenesis Chronic inflammation is characterized byo Infiltration with mononuclear cells, which include - macrophages, lymphocytes, and plasma cellso Tissue destruction, induced - the persistent offending agent or by the inflammatory cellso Attempts at healing - connective tissue replacement of damaged tissue, accomplished by angiogenesis (proliferation of small blood vessels) and, in particular, fibrosis.",
+    "hint_exp": "🎯 Think of \"Sign chronic inflammation\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3b73c00f-55a5-4c62-beb3-bbc129df9e55": {
-    "cop": 1,
-    "exp": "The infant measures approximately 50 cm at bih, 60 cm at 3 months, 65 cm at 6 months 70 cm at 9 months, 75 cm at 1 year and 90 cm at 2 years. A normal Indian child is 100 cm tall at the age of 4 years. Thereafter, the child gains about 6 cm in height every year, until the age of 12 years. After this, increments in height vary according to the age at the onset of pubey. There is a marked acceleration of the growth during pubey. Ref : Nelson paediatrics Table : 11-1"
+    "cop": 0,
+    "exp": "The infant measures approximately 50 cm at bih, 60 cm at 3 months, 65 cm at 6 months 70 cm at 9 months, 75 cm at 1 year and 90 cm at 2 years. A normal Indian child is 100 cm tall at the age of 4 years. Thereafter, the child gains about 6 cm in height every year, until the age of 12 years. After this, increments in height vary according to the age at the onset of pubey. There is a marked acceleration of the growth during pubey. Ref : Nelson paediatrics Table : 11-1",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"During year life average\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "41044a81-5793-476e-8b81-118c28291d31": {
-    "cop": 4,
-    "exp": "Option analysis: * Sodium dodecyl sulfate is a protein denaturing agent - option a is excluded Heat coagulation result in loss of higher level of structures other than primary structure - option b is excluded 2-D electrophoresis is SDS-PAGE in one dimension and isoelectric focusing in other dimension - option c is excluded Hence the answer is UV light. In this, protein solution is exposed to UV light and amino acids in protein absorb UV light which can be measured using a spectrophotometer. This technique does not affect the structure of proteins hence does not affect its function."
+    "cop": 3,
+    "exp": "Option analysis: * Sodium dodecyl sulfate is a protein denaturing agent - option a is excluded Heat coagulation result in loss of higher level of structures other than primary structure - option b is excluded 2-D electrophoresis is SDS-PAGE in one dimension and isoelectric focusing in other dimension - option c is excluded Hence the answer is UV light. In this, protein solution is exposed to UV light and amino acids in protein absorb UV light which can be measured using a spectrophotometer. This technique does not affect the structure of proteins hence does not affect its function.",
+    "hint_exp": "🧩 Your crush solved \"Detection proteins following methods\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c1273a52-47de-4d7b-9ec3-5bb10b93970a": {
-    "cop": 4,
-    "exp": "Dx: Blistering Disorder- Linear IgA Disease MC protein involvement BPAg2 > BPAg1 Characteristic C/F: String of pearl appearance/cluster of jewel appearance Linear IgA diseaseIt is chronic, acquired sub-epidermal disease of children & adults with cutaneous & mucosal involvement. Two clinical syndromes seen1. Chronic bullous disease of childhood2. Adult linear IgA disease Auto antibodies are IgA (usually IgA1) Chronic Bullous disease of childhood. Linear IgA disease of Adults"
+    "cop": 3,
+    "exp": "Dx: Blistering Disorder- Linear IgA Disease MC protein involvement BPAg2 > BPAg1 Characteristic C/F: String of pearl appearance/cluster of jewel appearance Linear IgA diseaseIt is chronic, acquired sub-epidermal disease of children & adults with cutaneous & mucosal involvement. Two clinical syndromes seen1. Chronic bullous disease of childhood2. Adult linear IgA disease Auto antibodies are IgA (usually IgA1) Chronic Bullous disease of childhood. Linear IgA disease of Adults",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"affected\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cf4bb20b-2693-4cb9-812b-3d04c17c5873": {
-    "cop": 4,
-    "exp": "Treatment of adenomyosis is surgical; there is no role of hormone therapy. As patients are usually parous and aged, total hysterectomy with or without salphingo- opherectomy is treatment of choice."
+    "cop": 3,
+    "exp": "Treatment of adenomyosis is surgical; there is no role of hormone therapy. As patients are usually parous and aged, total hysterectomy with or without salphingo- opherectomy is treatment of choice.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"choice of adenomyosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "cb38700c-ad02-4dda-9eb0-db29a7499c3c": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 10% Annual blood examination rate 'ABER' was a parameter used for the measurement of malaria in the eradication era."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 10% Annual blood examination rate 'ABER' was a parameter used for the measurement of malaria in the eradication era.",
+    "hint_exp": "🎯 Think of \"Under NMEP minimum annual\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "567f8d48-1b67-4a9f-bd48-a6b87508a1ab": {
-    "cop": 1,
-    "exp": "ref Robbins 9/e p1281 Prion diseases are caused by misfolded forms of the prion protein, also known as PrP. ... The human forms of prion disease are most often the names Creutzfeldt-Jakob disease (CJD), fatal familial insomnia (FFI), Gesmann-Straussler-Scheinker syndrome (GSS), kuru and variably protease-sensitive prionopathy (VPSPr"
+    "cop": 0,
+    "exp": "ref Robbins 9/e p1281 Prion diseases are caused by misfolded forms of the prion protein, also known as PrP. ... The human forms of prion disease are most often the names Creutzfeldt-Jakob disease (CJD), fatal familial insomnia (FFI), Gesmann-Straussler-Scheinker syndrome (GSS), kuru and variably protease-sensitive prionopathy (VPSPr",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"caused by\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1c258d24-c092-4615-9266-7a52f2c521e9": {
-    "cop": 4,
-    "exp": "Thalidomide is the drug used in steroid-resistant type 2 lepra reactions.Ref: KD Tripathi 3rd ed; P: 756"
+    "cop": 3,
+    "exp": "Thalidomide is the drug used in steroid-resistant type 2 lepra reactions.Ref: KD Tripathi 3rd ed; P: 756",
+    "hint_exp": "🧩 Your crush solved \"drug used steroid resistant\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f5714e4a-6b6f-49cf-9902-cd1260097ad6": {
-    "cop": 2,
-    "exp": "Drugs causing disulfiram like reaction Sorry-Sulfonylureas(1st generation- like chlorpropamide) Pluto-Procarbazine Can't-Cephalosporins(Cefotetan,Cefoperazone) Go-Griseofulvin to Mars-Metronidazole"
+    "cop": 1,
+    "exp": "Drugs causing disulfiram like reaction Sorry-Sulfonylureas(1st generation- like chlorpropamide) Pluto-Procarbazine Can't-Cephalosporins(Cefotetan,Cefoperazone) Go-Griseofulvin to Mars-Metronidazole",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which following drug shows\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f8f82da2-8eb7-423a-89a0-ccf3c84b47e7": {
-    "cop": 2,
-    "exp": "Dermatophytes Trichophyton - skin ,hair, ,nail (Tri-all Three) Microsporum- skin, hair (My head -on head we have skin and hair) Epidermophyton- skin, nails"
+    "cop": 1,
+    "exp": "Dermatophytes Trichophyton - skin ,hair, ,nail (Tri-all Three) Microsporum- skin, hair (My head -on head we have skin and hair) Epidermophyton- skin, nails",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Microsporum involves\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e5bba918-c2e0-4bdb-a002-f27c97ebbc02": {
-    "cop": 1,
-    "exp": "Answer is A (Metabolic acidosis with compensatory respiratory alkalosis): With pH < 7.35 (7.12) acidosis is confirmed. Abbnormal CO2 with change in opposite to expected. (acidosis should have increased CO2) indicates that the change in compensatory (compensatory respiratory alkalosis), Decreased bicarbonates with change in keeping with change in pH suggests that the problem is metabolic. Thus the whole picture represents metabolic acidosis with compensatory respiratory alkalosis. Explanation : Acid base disorders needlessly, confuse many people, but if a few simple rules are applied then interpretation and diagnosis are easy. pH < 7.35 is acidosis ; pH > 7.45 is alkalosis 1deg change in HCO3 is termed as metabolic (Normal HCO3- = 22 - 30 meq/l) if change in HCO3- is in keeping with the pH (i.e. if there is acidosis and HCO3- decreased) the problem is a Metabolic one. If change in HCO3 is opposite with the pH (if there is acidosis and HCO3\" is increased or normal) the problem is compensatory metabolic. 1deg change is CO2 is termed as respiratory (Normal pCO2 = 35 - 45 mmHg) If change in CO2 is in keeping with the pH (if in acidosis CO2 is raised) the problem is termed respiratory If change in CO2 is opposite with the pH (if there is acidosis and CO2 is decreased or normal) problem is termed as compensatory respiratory. the pH (if there is acidosis and CO2 is decreased or normal) problem is termed as compensatory respiratory. STEP 1 : What is the pH. Normal pH pH of patient Inference Acidosis 7.35 - 7.45 7.12 pH is decreased Acidosis STEP II : Is it a metabolic or respiratory change Parameter Inference Is change towards acidosis or alkalosis Parameter Inference Is change towards Is change in Final Inference acidosis or alkalosis keeping with Is change in keeping with change in pH change in pH Final Inference pCO2 = 18mm Hg (Respiratory component) (Respiratory decreased component) pCO2 is decreased Alkalosis pCO2 = 18mm Hg pCO2 is Alkalosis No Respiratory component is compensatory No Respiratory component is compensatory pCO3- = 12 mmol/e (Metabolic component) (Metabolic decreased component) FICO3\" is decreased Acidosis pCO3- = 12 mmol/e FICO3\" is Acidosis Yes Metabolic component is primary Yes Metabolic component is primary STEP III : Final deduction Because metabolic component is primary and respiratory component is compensatory the acid base disorder is Metabolic acidosis with compensatory Respiratory alkalosis."
+    "cop": 0,
+    "exp": "Answer is A (Metabolic acidosis with compensatory respiratory alkalosis): With pH < 7.35 (7.12) acidosis is confirmed. Abbnormal CO2 with change in opposite to expected. (acidosis should have increased CO2) indicates that the change in compensatory (compensatory respiratory alkalosis), Decreased bicarbonates with change in keeping with change in pH suggests that the problem is metabolic. Thus the whole picture represents metabolic acidosis with compensatory respiratory alkalosis. Explanation : Acid base disorders needlessly, confuse many people, but if a few simple rules are applied then interpretation and diagnosis are easy. pH < 7.35 is acidosis ; pH > 7.45 is alkalosis 1deg change in HCO3 is termed as metabolic (Normal HCO3- = 22 - 30 meq/l) if change in HCO3- is in keeping with the pH (i.e. if there is acidosis and HCO3- decreased) the problem is a Metabolic one. If change in HCO3 is opposite with the pH (if there is acidosis and HCO3\" is increased or normal) the problem is compensatory metabolic. 1deg change is CO2 is termed as respiratory (Normal pCO2 = 35 - 45 mmHg) If change in CO2 is in keeping with the pH (if in acidosis CO2 is raised) the problem is termed respiratory If change in CO2 is opposite with the pH (if there is acidosis and CO2 is decreased or normal) problem is termed as compensatory respiratory. the pH (if there is acidosis and CO2 is decreased or normal) problem is termed as compensatory respiratory. STEP 1 : What is the pH. Normal pH pH of patient Inference Acidosis 7.35 - 7.45 7.12 pH is decreased Acidosis STEP II : Is it a metabolic or respiratory change Parameter Inference Is change towards acidosis or alkalosis Parameter Inference Is change towards Is change in Final Inference acidosis or alkalosis keeping with Is change in keeping with change in pH change in pH Final Inference pCO2 = 18mm Hg (Respiratory component) (Respiratory decreased component) pCO2 is decreased Alkalosis pCO2 = 18mm Hg pCO2 is Alkalosis No Respiratory component is compensatory No Respiratory component is compensatory pCO3- = 12 mmol/e (Metabolic component) (Metabolic decreased component) FICO3\" is decreased Acidosis pCO3- = 12 mmol/e FICO3\" is Acidosis Yes Metabolic component is primary Yes Metabolic component is primary STEP III : Final deduction Because metabolic component is primary and respiratory component is compensatory the acid base disorder is Metabolic acidosis with compensatory Respiratory alkalosis.",
+    "hint_exp": "🎯 Think of \"patient with salicylic acid\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d1955e90-b791-40fe-b218-414dc00ee6c9": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"activation\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2cc5aad2-fdc9-4b15-a05b-b79ded1a5685": {
-    "cop": 1,
-    "exp": "(Ref: Katzung, 14th ed. pg. 404; KDT, 6th ed. pg. 387)* Ethanol acts by competitive inhibition of alcohol dehydrogenase which block further metabolism of methanol into formaldehyde and formic acid. These products also cause retinal damage leading to subsequent blindness.ADH: alcohol dehydrogenase: FDH : formaldehyde dehydrogenase F-THF-S: 10-formyl tetrahydrofolate synthetase* Catalase is a common enzyme found in nearly all living organisms exposed to oxygen. It catalyzes the decomposition of hydrogen peroxide to water and oxygen* Lactate dehydrogenase: Dummy choice and is present in heart, RBC and is used as marker for malignancy.* Acetaldehyde dehydrogenase: Converts acetaldehyde into acetic acid and is the target for disulfiram which is used to help patients quit alcohol.Remember* Ethanol is also metabolized by alcohol dehydrogenase and acts as its competitive inhibition. The enzyme's affinity for ethanol is 10-20 times higher than it is for methanol. Given via IV infusion in methanol or ethylene glycol poisoning.* Fomepizole inhibits alcohol dehydrogenase. It is a stronger competitive inhibitor of ADH and, in addition, does not cause hypoglycemia or sedation.* Fomepizole is relatively easier to administer than ethanol. It does not require monitoring of serum concentrations. Hence considered as drug of choice."
+    "cop": 0,
+    "exp": "(Ref: Katzung, 14th ed. pg. 404; KDT, 6th ed. pg. 387)* Ethanol acts by competitive inhibition of alcohol dehydrogenase which block further metabolism of methanol into formaldehyde and formic acid. These products also cause retinal damage leading to subsequent blindness.ADH: alcohol dehydrogenase: FDH : formaldehyde dehydrogenase F-THF-S: 10-formyl tetrahydrofolate synthetase* Catalase is a common enzyme found in nearly all living organisms exposed to oxygen. It catalyzes the decomposition of hydrogen peroxide to water and oxygen* Lactate dehydrogenase: Dummy choice and is present in heart, RBC and is used as marker for malignancy.* Acetaldehyde dehydrogenase: Converts acetaldehyde into acetic acid and is the target for disulfiram which is used to help patients quit alcohol.Remember* Ethanol is also metabolized by alcohol dehydrogenase and acts as its competitive inhibition. The enzyme's affinity for ethanol is 10-20 times higher than it is for methanol. Given via IV infusion in methanol or ethylene glycol poisoning.* Fomepizole inhibits alcohol dehydrogenase. It is a stronger competitive inhibitor of ADH and, in addition, does not cause hypoglycemia or sedation.* Fomepizole is relatively easier to administer than ethanol. It does not require monitoring of serum concentrations. Hence considered as drug of choice.",
+    "hint_exp": "🧩 Your crush solved \"Mechanism action ethanol methyl\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1c294611-374a-431f-89fa-120f49ee5c28": {
-    "cop": 1,
-    "exp": "Carcinosarcoma of uterus\n\nCarcinosarcomas consist of endometrial adenocarcinoma in which malignant sarcomatous (stromal) differentiation takes place.\nCarcinosarcoma has two components : -\n\n\nAdenocarcinoma → Therefore called carcinosarcoma\nSarcomatous component → Therefore called carcinosarcoma\n\n\nSarcomatous component may be striated muscle cells, cartilage, adipose tissue and bone."
+    "cop": 0,
+    "exp": "Carcinosarcoma of uterus\n\nCarcinosarcomas consist of endometrial adenocarcinoma in which malignant sarcomatous (stromal) differentiation takes place.\nCarcinosarcoma has two components : -\n\n\nAdenocarcinoma → Therefore called carcinosarcoma\nSarcomatous component → Therefore called carcinosarcoma\n\n\nSarcomatous component may be striated muscle cells, cartilage, adipose tissue and bone.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Carcinosarcoma arise\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7ae653ac-4f39-441d-932a-feaedf3fecd9": {
-    "cop": 4,
-    "exp": "Among the options given bronchogenic carcinoma is associated with exudative effusion. Exudative pleural effusions are distinguished from transudative by measuring the lactate dehydrogenase (LDH) and protein levels in the pleural fluid. Exudative pleural effusion is diagnosed by the presence of one or more of the following criteria: 1. Pleural fluid protein/serum protein >0.5 2. Pleural fluid LDH/serum LDH >0.6 3. Pleural fluid LDH more than two-thirds normal upper limit for serum Ref: Harrison's Internal Medicine, 18th Edition, Chapter 263"
+    "cop": 3,
+    "exp": "Among the options given bronchogenic carcinoma is associated with exudative effusion. Exudative pleural effusions are distinguished from transudative by measuring the lactate dehydrogenase (LDH) and protein levels in the pleural fluid. Exudative pleural effusion is diagnosed by the presence of one or more of the following criteria: 1. Pleural fluid protein/serum protein >0.5 2. Pleural fluid LDH/serum LDH >0.6 3. Pleural fluid LDH more than two-thirds normal upper limit for serum Ref: Harrison's Internal Medicine, 18th Edition, Chapter 263",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following conditions\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9241d976-9df8-4d7f-a469-923f1f2842c9": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Which anterior triangle neck\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1f787a99-a6f3-4b57-91a8-6dba466ef27b": {
-    "cop": 1,
-    "exp": "key words for Esinophilic granuloma : Punched out lytic lesions of skull Bevelled edges Laminated periosteal reaction Key words for multiple myeloma Punched out lytic lesions of skull endosteal scalloping no periosteal reaction"
+    "cop": 0,
+    "exp": "key words for Esinophilic granuloma : Punched out lytic lesions of skull Bevelled edges Laminated periosteal reaction Key words for multiple myeloma Punched out lytic lesions of skull endosteal scalloping no periosteal reaction",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"skull with beveled edges\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d0ba1a3c-f42b-4ac4-89ad-ca0e964ede24": {
-    "cop": 4,
-    "exp": "Ref Robbins 7/e p195, 9/e p286 Ras proteins function as binary molecular switches that control intracellular signaling networks. Ras-regulated signal pathways control such processes as actin cytoskeletal integrity, cell proliferation, cell differentiation, cell adhesion, apoptosis, and cell migration. Ras and Ras-related proteins are often deregulated in cancers, leading to increased invasion and metastasis, and decreased apoptosis. Ras activates several pathways, of which the mitogen-activated protein (MAP) kinase cascade has been well-studied. This cascade transmits signals downstream and results in the transcription of genes involved in cell growth and division. Another Ras-activated signaling pathway is the PI3K/AKT/mTOR pathway, which stimulates protein synthesis and cellular growth, and inhibits When Ras is 'switched on' by incoming signals, it subsequently switches on other proteins, which ultimately turn on genes involved in cell growth, differentiation and survival. Mutations in ras genes can lead to the production of permanently activated Ras proteins. As a result, this can cause unintended and overactive signaling inside the cell, even in the absence of incoming signals. Because these signals result in cell growth and division, overactive Ras signaling can ultimately lead to cancer. The 3 Ras genes in humans (HRas, KRas, and NRas) are the most common oncogenes in human cancer; mutations that permanently activate Ras are found in 20% to 25% of all human tumors and up to 90% in ceain types of cancer (e.g., pancreatic cancer). For this reason, Ras inhibitors are being studied as a treatment for cancer and other diseases with Ras overexpression."
+    "cop": 3,
+    "exp": "Ref Robbins 7/e p195, 9/e p286 Ras proteins function as binary molecular switches that control intracellular signaling networks. Ras-regulated signal pathways control such processes as actin cytoskeletal integrity, cell proliferation, cell differentiation, cell adhesion, apoptosis, and cell migration. Ras and Ras-related proteins are often deregulated in cancers, leading to increased invasion and metastasis, and decreased apoptosis. Ras activates several pathways, of which the mitogen-activated protein (MAP) kinase cascade has been well-studied. This cascade transmits signals downstream and results in the transcription of genes involved in cell growth and division. Another Ras-activated signaling pathway is the PI3K/AKT/mTOR pathway, which stimulates protein synthesis and cellular growth, and inhibits When Ras is 'switched on' by incoming signals, it subsequently switches on other proteins, which ultimately turn on genes involved in cell growth, differentiation and survival. Mutations in ras genes can lead to the production of permanently activated Ras proteins. As a result, this can cause unintended and overactive signaling inside the cell, even in the absence of incoming signals. Because these signals result in cell growth and division, overactive Ras signaling can ultimately lead to cancer. The 3 Ras genes in humans (HRas, KRas, and NRas) are the most common oncogenes in human cancer; mutations that permanently activate Ras are found in 20% to 25% of all human tumors and up to 90% in ceain types of cancer (e.g., pancreatic cancer). For this reason, Ras inhibitors are being studied as a treatment for cancer and other diseases with Ras overexpression.",
+    "hint_exp": "🧩 Your crush solved \"not a tumor suppressor gene\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "272ca69e-7979-4b10-aff3-9390f6932594": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"avoided with warfarin\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5812a5ac-cd1c-4340-b8ae-a39248306d20": {
-    "cop": 1,
-    "exp": "."
+    "cop": 0,
+    "exp": ".",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following best describes\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "112e8b6c-9547-4d74-85d8-30fc4134947e": {
-    "cop": 4,
-    "exp": "Suspended animation is a state of apparent death in which signs of life are not found as functions of life are interrupted or reduced to minimum for some time.\nResuscitation is possible. It can be voluntarily produced in yogis. \nInvoluntarily it is seen in newborns, electrocution, cholera, shock, etc. It lasts for few seconds to half an hour or more. \nIt can be revived by cardiac massage or electric stimulator and artificial respiration"
+    "cop": 3,
+    "exp": "Suspended animation is a state of apparent death in which signs of life are not found as functions of life are interrupted or reduced to minimum for some time.\nResuscitation is possible. It can be voluntarily produced in yogis. \nInvoluntarily it is seen in newborns, electrocution, cholera, shock, etc. It lasts for few seconds to half an hour or more. \nIt can be revived by cardiac massage or electric stimulator and artificial respiration",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "14bb894b-a64a-4d92-98b7-f92e6e1d6dce": {
-    "cop": 1,
-    "exp": "A-alfa fibers are associated with proprioception and lower motor neurons They are myelinated fibers Ref:Guyton and Hall textbook of medical physiology 12th edition,page number: 73"
+    "cop": 0,
+    "exp": "A-alfa fibers are associated with proprioception and lower motor neurons They are myelinated fibers Ref:Guyton and Hall textbook of medical physiology 12th edition,page number: 73",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Joint position viberation carried\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f97976fd-933c-48bb-814d-2b5164bd7e81": {
-    "cop": 3,
-    "exp": "*Greater vestibular gland is in the superficial perineal space between inferior fascia of urogenital diaphragm and membranous layer of superficial perineal fascia (Colles' fascia). All the other structures are found in the deep perineal pouch."
+    "cop": 2,
+    "exp": "*Greater vestibular gland is in the superficial perineal space between inferior fascia of urogenital diaphragm and membranous layer of superficial perineal fascia (Colles' fascia). All the other structures are found in the deep perineal pouch.",
+    "hint_exp": "🧩 Your crush solved \"year gonorrheal infection that\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b08027e8-3986-4bd8-a4bb-7e00288bdc78": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"chlorpromazine\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c31791ac-d004-4dac-a2d0-4e1119435533": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"diffusion capacity lung DLCO\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6cb6d818-99fb-48b2-84a8-0f6b8efc6d87": {
-    "cop": 2,
-    "exp": "<p> Use of seperate vessels are not needed. Domiciliary treatment :self administration of (oral) drugs by patients themselves without recourse to hospitalisation. Reference:Park&;s textbook of preventive and social medicine,K.Park,21st edition,of no:119,172-75, park 23rd edition,page no:187. <\\p>"
+    "cop": 1,
+    "exp": "<p> Use of seperate vessels are not needed. Domiciliary treatment :self administration of (oral) drugs by patients themselves without recourse to hospitalisation. Reference:Park&;s textbook of preventive and social medicine,K.Park,21st edition,of no:119,172-75, park 23rd edition,page no:187. <\\p>",
+    "hint_exp": "🎯 Think of \"on domiciliary treatment\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9f1666aa-c359-4cec-a503-ce5e89f42081": {
-    "cop": 3,
-    "exp": "Bacteria EponymsCorynebacterium pseudotuberculosis Nocard bacillus Hemophilus aegypticus Koch weeks bacillus Hemophilus influenzaPfeiffer's bacillus Klebsiella pneumoniaFreidlanders bacillus Mycobacterium chelonei Tule tubercle bacillus Mycobacterium fouitum Frog tubercle bacillus Mycobacterium intracellulare Battey bacillus Mycobacterium paratuberculosis Johnes bacillus Mycoplasma pneumoniaEaton agent Burkholderia pseudomallei Whitmore's bacillus (Ref: Ananthanarayan 9th edition, )"
+    "cop": 2,
+    "exp": "Bacteria EponymsCorynebacterium pseudotuberculosis Nocard bacillus Hemophilus aegypticus Koch weeks bacillus Hemophilus influenzaPfeiffer's bacillus Klebsiella pneumoniaFreidlanders bacillus Mycobacterium chelonei Tule tubercle bacillus Mycobacterium fouitum Frog tubercle bacillus Mycobacterium intracellulare Battey bacillus Mycobacterium paratuberculosis Johnes bacillus Mycoplasma pneumoniaEaton agent Burkholderia pseudomallei Whitmore's bacillus (Ref: Ananthanarayan 9th edition, )",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Whitmore bacillus\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4f139e3e-da32-46bd-94da-a928e71b9885": {
-    "cop": 3,
-    "exp": "Loss of contractility Features Time Onset of A TP depletion Seconds Loss of contractility <2 min A TP reduced to 50% of normal to 10% of normal 10 min 40 min Irreversible cell injury 20-40 min Microvascular injury > 1 hour"
+    "cop": 2,
+    "exp": "Loss of contractility Features Time Onset of A TP depletion Seconds Loss of contractility <2 min A TP reduced to 50% of normal to 10% of normal 10 min 40 min Irreversible cell injury 20-40 min Microvascular injury > 1 hour",
+    "hint_exp": "🧩 Your crush solved \"ischemic cardiac myocytes\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d80696a2-509c-4b43-93de-bcd2a50a3ad3": {
-    "cop": 2,
-    "exp": "Ans. is 4b' i.e., Depression with suicidal tendency o Most important and most common indication for ECT is severe depression with suicidal risk.Indications of ECTSevere depression with suicial risk or with psychotic features or w ith stupor.Some types of schizophrenia (catatonic or paranoid)Schizophrenic or depressive stuporSevere catatonia with stuporSevere psychoses (schizophrenia or mania) with risk of suicide or homicide or physical assault."
+    "cop": 1,
+    "exp": "Ans. is 4b' i.e., Depression with suicidal tendency o Most important and most common indication for ECT is severe depression with suicidal risk.Indications of ECTSevere depression with suicial risk or with psychotic features or w ith stupor.Some types of schizophrenia (catatonic or paranoid)Schizophrenic or depressive stuporSevere catatonia with stuporSevere psychoses (schizophrenia or mania) with risk of suicide or homicide or physical assault.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"electroconvulsive therapy\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0d32c5eb-7a96-4220-a3a5-c0f64095fd5d": {
-    "cop": 3,
-    "exp": "Because of swelling, premature removal of immediate denture post insertion can make its reinsertion impossible for 34 days. For the same reason, patients are directed not to remove immediate dentures for 24 hours after insertion."
+    "cop": 2,
+    "exp": "Because of swelling, premature removal of immediate denture post insertion can make its reinsertion impossible for 34 days. For the same reason, patients are directed not to remove immediate dentures for 24 hours after insertion.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"how many hours post insertion\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "15467a2e-f9f4-44b2-9307-6989c764e6c8": {
-    "cop": 2,
-    "exp": "Bleaching techniques \n\nFor vital teeth \n\n– Home bleaching technique/night guard vital bleaching.\n– In-office bleaching:\ni. Thermocatalytic \nii. Nonthermocatalytic \niii. Microabrasion. \n\nFor nonvital teeth \n\n– Thermocatalytic in-office bleaching \n– Walking bleach/intracoronal bleaching \n– Inside/outside bleaching \n– Closed chamber bleaching/extracoronal bleaching \n\nLaser-assisted bleaching."
+    "cop": 1,
+    "exp": "Bleaching techniques \n\nFor vital teeth \n\n– Home bleaching technique/night guard vital bleaching.\n– In-office bleaching:\ni. Thermocatalytic \nii. Nonthermocatalytic \niii. Microabrasion. \n\nFor nonvital teeth \n\n– Thermocatalytic in-office bleaching \n– Walking bleach/intracoronal bleaching \n– Inside/outside bleaching \n– Closed chamber bleaching/extracoronal bleaching \n\nLaser-assisted bleaching.",
+    "hint_exp": "🎯 Think of \"Night guard bleaching refers\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bbe3c8be-1ae0-48bc-a71d-35fdc5f5c337": {
-    "cop": 1,
-    "exp": "A i.e. ECT"
+    "cop": 0,
+    "exp": "A i.e. ECT",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"patient comes stupor condition\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3c0536e5-70ad-4dd8-80e6-5255b6ab5027": {
-    "cop": 1,
-    "exp": "Oestrogen"
+    "cop": 0,
+    "exp": "Oestrogen",
+    "hint_exp": "🧩 Your crush solved \"Endometrial hyperplasia caused\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c86e83fa-dd55-4bad-9690-bab01c7ab771": {
-    "cop": 2,
-    "exp": "Ans. B Rheumatoid arthritisClassic Swan neck deformityQ (DIP joint flexion and PIP joint extension) with marked changes at the radiocarpal joint."
+    "cop": 1,
+    "exp": "Ans. B Rheumatoid arthritisClassic Swan neck deformityQ (DIP joint flexion and PIP joint extension) with marked changes at the radiocarpal joint.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"patient suffering from morning\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "29bfab27-fcab-49af-929e-8344d8a13db3": {
-    "cop": 3,
-    "exp": "C i.e. Slow and deep"
+    "cop": 2,
+    "exp": "C i.e. Slow and deep",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"person having normal lung\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "de721fc9-b452-410c-8a9c-4c78831edb9e": {
-    "cop": 4,
-    "exp": "The history & image given in question suggests the diagnosis of MC CUNE ALBRIGHT SYNDROME: MC CUNE ALBRIGHT SYNDROME: - Characterized by Triad of Precocious pubey Cafe au lait spots Polyostotic fibrous dysplasia - Occurs due to somatic activating mutation of stimulatory G- protein - Associated endocrine abnormalities are * Hypehyroidism Rickets GH excess Precocious pubey"
+    "cop": 3,
+    "exp": "The history & image given in question suggests the diagnosis of MC CUNE ALBRIGHT SYNDROME: MC CUNE ALBRIGHT SYNDROME: - Characterized by Triad of Precocious pubey Cafe au lait spots Polyostotic fibrous dysplasia - Occurs due to somatic activating mutation of stimulatory G- protein - Associated endocrine abnormalities are * Hypehyroidism Rickets GH excess Precocious pubey",
+    "hint_exp": "🎯 Think of \"the most probable diagnosis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "381b5e3d-f6d6-49be-9a8a-8cbf03eb8ff9": {
-    "cop": 4,
-    "exp": "Pigmentary Glaucoma: - Secondary open-angle glaucoma d/t pigment release in young male myopes, presenting with intermittent halos . - Classic triad of krukenberg spindle, Radial trans-illumination of iris defect, increased pigmentation of trabecular meshwork is seen - Anterior surface of lens shows deposition of Pigment granules. - Scheie line/ Zentmayer ring of pigment on peripheral surface around zonular inseions can be seen. - Treatment : Pilocarpine / similar miotics Krukenberg spindle Iris trans-illumination defect Sampaloesi line is a pigmented Schwalbe's line which is seen in any case that releases pigments from the iris - the most common causes being Pigmentary Glaucoma and Pseudoexfoliation syndrome"
+    "cop": 3,
+    "exp": "Pigmentary Glaucoma: - Secondary open-angle glaucoma d/t pigment release in young male myopes, presenting with intermittent halos . - Classic triad of krukenberg spindle, Radial trans-illumination of iris defect, increased pigmentation of trabecular meshwork is seen - Anterior surface of lens shows deposition of Pigment granules. - Scheie line/ Zentmayer ring of pigment on peripheral surface around zonular inseions can be seen. - Treatment : Pilocarpine / similar miotics Krukenberg spindle Iris trans-illumination defect Sampaloesi line is a pigmented Schwalbe's line which is seen in any case that releases pigments from the iris - the most common causes being Pigmentary Glaucoma and Pseudoexfoliation syndrome",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"false\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "36fc48a0-3ff1-429d-a2a6-8e10946ec696": {
-    "cop": 4,
-    "exp": "Ovarian tumors Epithelial cell tumor Germ cell tumor Sex cord tumor M/C tumor (90%) 5-8% 3% Types: Serous (75-80%) (M/C) Endometrial (8-10%) Mucinous (5%) Clear cell Brenner tumors Teratoma Yolk sac tumor Endodermal Sinus tumor Choriocarcinoma Dysgerminoma Dermoid cyst A. Estrogen Secreting tumors Granulosa cell Fibroma Thecoma B. Androgen secreting Tumor Seoli cell tumor Leydig cell Hilus cell tumor"
+    "cop": 3,
+    "exp": "Ovarian tumors Epithelial cell tumor Germ cell tumor Sex cord tumor M/C tumor (90%) 5-8% 3% Types: Serous (75-80%) (M/C) Endometrial (8-10%) Mucinous (5%) Clear cell Brenner tumors Teratoma Yolk sac tumor Endodermal Sinus tumor Choriocarcinoma Dysgerminoma Dermoid cyst A. Estrogen Secreting tumors Granulosa cell Fibroma Thecoma B. Androgen secreting Tumor Seoli cell tumor Leydig cell Hilus cell tumor",
+    "hint_exp": "🧩 Your crush solved \"Ovary\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "77d029cb-d458-4392-958d-274ca5eb1c3e": {
-    "cop": 2,
-    "exp": "The presence of recurrent episodes of chest pain and breathing difficulty in an otherwise healthy young adult with negative cardiac enzymes is suggestive of panic disorder. Currently the patient is experiencing a panic attack. The drug of choice for a panic attack is a benzodiazepine, which provides immediate relief from the symptoms, but due to possibility of dependence , benzodiazepines are avoided in long term treatment. SSRIs like escitalopram and cognitive behavioural therapy are preferred treatment modalities in the long term treatment of panic disorder. Reassurance must be given to patient that its not a hea attack, however reassurance by itselfewill not terminate the attack. Hence benzodiazepines must be used."
+    "cop": 1,
+    "exp": "The presence of recurrent episodes of chest pain and breathing difficulty in an otherwise healthy young adult with negative cardiac enzymes is suggestive of panic disorder. Currently the patient is experiencing a panic attack. The drug of choice for a panic attack is a benzodiazepine, which provides immediate relief from the symptoms, but due to possibility of dependence , benzodiazepines are avoided in long term treatment. SSRIs like escitalopram and cognitive behavioural therapy are preferred treatment modalities in the long term treatment of panic disorder. Reassurance must be given to patient that its not a hea attack, however reassurance by itselfewill not terminate the attack. Hence benzodiazepines must be used.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the management of this patient\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d84ba701-cb79-413b-9378-ca75b2b90949": {
-    "cop": 1,
-    "exp": ".Whipple's triad: * An attack of hypoglycaemia in fasting state * Blood sugar below 45 mg% during the attack * Symptoms relieved by glucose ref:SRB&;s manual of surgery,ed 3,pg no 638"
+    "cop": 0,
+    "exp": ".Whipple's triad: * An attack of hypoglycaemia in fasting state * Blood sugar below 45 mg% during the attack * Symptoms relieved by glucose ref:SRB&;s manual of surgery,ed 3,pg no 638",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"diagnostic in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "62ba64dd-7675-48c7-a630-6a4bd9b3412d": {
-    "cop": 1,
-    "exp": "Positively charged paicles passes easily through glomeruli because glomeruli basement membrane has many anionic sites. Ref: guyton and hall textbook of medical physiology 12 edition page number:470,471,472"
+    "cop": 0,
+    "exp": "Positively charged paicles passes easily through glomeruli because glomeruli basement membrane has many anionic sites. Ref: guyton and hall textbook of medical physiology 12 edition page number:470,471,472",
+    "hint_exp": "🎯 Think of \"paicle with same size\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1ae7dd07-cb46-490f-bf2d-4a741a7920ff": {
-    "cop": 1,
-    "exp": "*Condition typically has an onset in childhood or young adulthood., facial weakness is initial manifestation,weakness of shoulder girdle,loss of scapular stabilizing muscles makes arm elevation difficult,scapular winging becomes apparent with attempts at abduction and forward movement Ref Harrison20th edition pg 2567"
+    "cop": 0,
+    "exp": "*Condition typically has an onset in childhood or young adulthood., facial weakness is initial manifestation,weakness of shoulder girdle,loss of scapular stabilizing muscles makes arm elevation difficult,scapular winging becomes apparent with attempts at abduction and forward movement Ref Harrison20th edition pg 2567",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"young adult presents with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "187ce8c0-a157-4b23-8642-4d26b59a316d": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Methicillin o Gastric acid destroyes the penicillins and decreases their bioavailibility. o All penicillins are acid labile accept phenoxymethyl penicillin (penicillin V), Cloxacillin, Flucloxacillin, Oxacillin, Dicloxacillin, ampicillin. Note - Cloxacillin, flucloxacillin, oxacillin, and dicloxacillin are resistant to both acid as well as penicillinase."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Methicillin o Gastric acid destroyes the penicillins and decreases their bioavailibility. o All penicillins are acid labile accept phenoxymethyl penicillin (penicillin V), Cloxacillin, Flucloxacillin, Oxacillin, Dicloxacillin, ampicillin. Note - Cloxacillin, flucloxacillin, oxacillin, and dicloxacillin are resistant to both acid as well as penicillinase.",
+    "hint_exp": "🧩 Your crush solved \"Acid Labile penicillin\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8ed38fa5-ffee-4041-b47f-33f7cddc49af": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Glomerulonephritis associated with sensory\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1ad9f11b-d119-4c35-9ec5-61ecedf44f57": {
-    "cop": 3,
-    "exp": "C i.e., Simple columnar with brush border"
+    "cop": 2,
+    "exp": "C i.e., Simple columnar with brush border",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"patient presented with acute\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f7c32eb4-6c69-48fe-b38d-64fd3ef43560": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Renal hypertension ArteryPotential clinical manifestationSubclavianArm claudication, Raynaud's phenomenonCommon carotidVisual changes, syncope transient, ischaemic attacks strokeAbdominal AortaAbdominal pain, nausea vomitingRenalHypertension, renal failure, aortic insufficiency, congestive heart failureVertebralVisual changes, dizzinessCoeliac axisAbdominal pain, nausea vomitingIliacLeg claudicationPulmonaryAtypical chest pain dyspneaCoronaryChest pain myocardial infarction"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Renal hypertension ArteryPotential clinical manifestationSubclavianArm claudication, Raynaud's phenomenonCommon carotidVisual changes, syncope transient, ischaemic attacks strokeAbdominal AortaAbdominal pain, nausea vomitingRenalHypertension, renal failure, aortic insufficiency, congestive heart failureVertebralVisual changes, dizzinessCoeliac axisAbdominal pain, nausea vomitingIliacLeg claudicationPulmonaryAtypical chest pain dyspneaCoronaryChest pain myocardial infarction",
+    "hint_exp": "🎯 Think of \"there\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "cdbf1ff5-40cd-4af6-ba64-4c8112a35b04": {
-    "cop": 4,
-    "exp": "Ans. is `d' i.e., More sensitive, less specific . ELISA is an extremely good screening test with a sensitivity of > 99.5 % . While ELISA is an extremely sensitive test, it is not optimal with regard to specificity."
+    "cop": 3,
+    "exp": "Ans. is `d' i.e., More sensitive, less specific . ELISA is an extremely good screening test with a sensitivity of > 99.5 % . While ELISA is an extremely sensitive test, it is not optimal with regard to specificity.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"ELISA test when compared\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d0300294-73b0-41f6-a572-f6b92b7c7f4e": {
-    "cop": 2,
-    "exp": "Ans. is 'b' Carbamazepine -breech presentation, * Teratogenic effects of Antiepileptic drugsDrugsTrimesterEffect1. Barbiturates (Phenobarbitone)AllCongenital heart diseasesCleft lip, palate*Neonatal dependenceRespiratory depression2. ValproateAll* Neural lube defects*3. CarbamazepineAll* Neural tube defects4. PhenytoinAll* Fetal hydantoin syndrome*Adverse effects of phenytoin||At therapeutic levelAt high plasma level1. Hypertrophy Gum (M.C.)*1. Cerebellar ataxia *2. Hirsutism*2. Epigastric pain3. Hypersensitivity reaction* (Rash, DLE)3. Fall in B.P. * and cardiac arrhythmia4. Hyperglycemia*4. Drowsiness*5. Hydantoin syndrome (Fetal)* 6. Osteomalacia* 7. Megaloblastic anaemia*"
+    "cop": 1,
+    "exp": "Ans. is 'b' Carbamazepine -breech presentation, * Teratogenic effects of Antiepileptic drugsDrugsTrimesterEffect1. Barbiturates (Phenobarbitone)AllCongenital heart diseasesCleft lip, palate*Neonatal dependenceRespiratory depression2. ValproateAll* Neural lube defects*3. CarbamazepineAll* Neural tube defects4. PhenytoinAll* Fetal hydantoin syndrome*Adverse effects of phenytoin||At therapeutic levelAt high plasma level1. Hypertrophy Gum (M.C.)*1. Cerebellar ataxia *2. Hirsutism*2. Epigastric pain3. Hypersensitivity reaction* (Rash, DLE)3. Fall in B.P. * and cardiac arrhythmia4. Hyperglycemia*4. Drowsiness*5. Hydantoin syndrome (Fetal)* 6. Osteomalacia* 7. Megaloblastic anaemia*",
+    "hint_exp": "🧩 Your crush solved \"Regarding adverse reaction anti\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

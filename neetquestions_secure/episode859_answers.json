@@ -1,202 +1,252 @@
 {
   "41e3232e-4cc3-4600-b2ce-62b9f0b2532b": {
-    "cop": 2,
-    "exp": "LFT repo shows elevated bilirubin with conjugated bilirubin >15% of total serum bilirubin. SGOT and SGPT elevation indicates cytopathic effect of probably a virus. For diagnosis of acute viral hepatitis four serological tests should be performed. These are: 1. HbsAg 2. IgM Anti- HBc 3. IgM Anti- HAV 4. Anti- HCV Absence of all of these serological markers is consistent with diagnosis of non-A, non-B and non-C hepatitis. Presence of positive test for only Anti- HCV confirms the diagnosis of acute hepatitis C."
+    "cop": 1,
+    "exp": "LFT repo shows elevated bilirubin with conjugated bilirubin >15% of total serum bilirubin. SGOT and SGPT elevation indicates cytopathic effect of probably a virus. For diagnosis of acute viral hepatitis four serological tests should be performed. These are: 1. HbsAg 2. IgM Anti- HBc 3. IgM Anti- HAV 4. Anti- HCV Absence of all of these serological markers is consistent with diagnosis of non-A, non-B and non-C hepatitis. Presence of positive test for only Anti- HCV confirms the diagnosis of acute hepatitis C.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year male patient known\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "257ef340-aa4c-4e41-9d2a-c5e485d061da": {
-    "cop": 1,
-    "exp": "Answer is A (Monosomy) Monosomy is consistently associated with an unorable or poor prognosis. Monosomy is associated with a poor prognosis Monosomy especially those involving chromosome 7 (monosomy 7) and chromosome 5 (monosomy 5) are consistently associated with poor prognosis in both adults and children with AML Deletion of X or Y chromosome is associated with a orable / intermediate prognosis 'Monosomy of the X chromosome in a female patient (loss of the Y chromosome) is the most common whole chromosome loss identified in pediatric patients with AML. This numeric abnormality is usually associated with t(8; 21) translocation and AML M2 which carry a good prognosis' - 'Childhood Leukemias' by Puri 2\"d/253 `Loss of Y and X chromosomes are most frequently observed in patients with t(8; 21) which carries a ourable prognosis' - 'Blood: Principles and Practice of Hematology' 2\"d/108 Nucleophosphin mutation is associated with a orable prognosis Factor Favourable Unourable Nucleophosphin mutation Present Absent t (8; 21) translocation is associated with a orable prognosis Factor Favourable Unourable Cytogenetics t(15;17), 1(8;21), inv(16) -7, del(7q), -5, del(5q), 3q21 and 3q26 abnormalities, complex karyotypes Prognostic Feature in Acute Myeloid Leukemia: Factor Favourable Unourable Clinical Age <45 yr <2yr, >60yr ECOG performance status 0-1 > I Leukemia De novo Antecedent hematologic disorder, myelodysplasia, myeloproliferative disorder Infection Absent Present Prior chemotherapy No Yes Leukocytosis <25,000/mm3 > 100,000/mm2 Serum LDH Normal Elevated Extramedullary disease Absent Present CNS disease Absent Present Cytoreduction Rapid Delayed Morphology Auer rods Present Absent Eosinophils Present Absent Megaloblastic erythroids Absent Present Dysplastic megakaryocytes Absent Present FAB type M2, M3, M4 MO, M6, M7 Surface/enzyme markers Myeloid CD34-, CDI4-, CD13- CD34+ HLA-DR Negative Positive TdT Absent Present Lymphoid Cd2+ CD7+, CD56+ Biphenotypic (2 or more lymphoid markers) Present MDR-1 Absent Cytogenetics Cytogenetics 1(15;17), 1(8;21), inv(16) -7, del(7q), -5, del(5q), 3q21 and 3q26 abnormalities, complex karyotypes Molecular markers Fms-related tyrosine kinase-3 mutation Absent Present Ecotropic viral integration site 1 expression Absent Present Mixed-lineage leukemia paial tandem duplication Absent Present Nucleophosphin mutation Present Absent CCAAT/enhancer-binding protein- a mutation Present Absent Brain and acute leukemia cytoplasmic gene expression Absent Present Vascular endothelial growth factor expression Absent Present"
+    "cop": 0,
+    "exp": "Answer is A (Monosomy) Monosomy is consistently associated with an unorable or poor prognosis. Monosomy is associated with a poor prognosis Monosomy especially those involving chromosome 7 (monosomy 7) and chromosome 5 (monosomy 5) are consistently associated with poor prognosis in both adults and children with AML Deletion of X or Y chromosome is associated with a orable / intermediate prognosis 'Monosomy of the X chromosome in a female patient (loss of the Y chromosome) is the most common whole chromosome loss identified in pediatric patients with AML. This numeric abnormality is usually associated with t(8; 21) translocation and AML M2 which carry a good prognosis' - 'Childhood Leukemias' by Puri 2\"d/253 `Loss of Y and X chromosomes are most frequently observed in patients with t(8; 21) which carries a ourable prognosis' - 'Blood: Principles and Practice of Hematology' 2\"d/108 Nucleophosphin mutation is associated with a orable prognosis Factor Favourable Unourable Nucleophosphin mutation Present Absent t (8; 21) translocation is associated with a orable prognosis Factor Favourable Unourable Cytogenetics t(15;17), 1(8;21), inv(16) -7, del(7q), -5, del(5q), 3q21 and 3q26 abnormalities, complex karyotypes Prognostic Feature in Acute Myeloid Leukemia: Factor Favourable Unourable Clinical Age <45 yr <2yr, >60yr ECOG performance status 0-1 > I Leukemia De novo Antecedent hematologic disorder, myelodysplasia, myeloproliferative disorder Infection Absent Present Prior chemotherapy No Yes Leukocytosis <25,000/mm3 > 100,000/mm2 Serum LDH Normal Elevated Extramedullary disease Absent Present CNS disease Absent Present Cytoreduction Rapid Delayed Morphology Auer rods Present Absent Eosinophils Present Absent Megaloblastic erythroids Absent Present Dysplastic megakaryocytes Absent Present FAB type M2, M3, M4 MO, M6, M7 Surface/enzyme markers Myeloid CD34-, CDI4-, CD13- CD34+ HLA-DR Negative Positive TdT Absent Present Lymphoid Cd2+ CD7+, CD56+ Biphenotypic (2 or more lymphoid markers) Present MDR-1 Absent Cytogenetics Cytogenetics 1(15;17), 1(8;21), inv(16) -7, del(7q), -5, del(5q), 3q21 and 3q26 abnormalities, complex karyotypes Molecular markers Fms-related tyrosine kinase-3 mutation Absent Present Ecotropic viral integration site 1 expression Absent Present Mixed-lineage leukemia paial tandem duplication Absent Present Nucleophosphin mutation Present Absent CCAAT/enhancer-binding protein- a mutation Present Absent Brain and acute leukemia cytoplasmic gene expression Absent Present Vascular endothelial growth factor expression Absent Present",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "10dc6e5d-51c7-45e1-9fbd-2e853595c7ce": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"true in a normal person except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f3f42ca2-631f-4e24-a9c0-ce484ad344a4": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Chemoprohylaxis of Malaria\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c9ce6139-9249-490d-92b9-b6c5816304a3": {
-    "cop": 3,
-    "exp": "Ans. (c) Infection seen when vaginal pH is < 4.5Ref Shaws 15th ed, pg: 308-310* After reading this question, usually we get this tendency to mark option D, which says bacterial vaginosis is NOT a STD, but this statement is true.* Bacterial vaginosis is a vaginal infection casued by Gardenella vaginalis.* Bacterial vaginosis is diagnosed on the basis of the following findings:# Vaginal secretions are gray and thinly coat the vaginal walls.# The pH of these secretions is higher than 4.5 (usually 4.7 to 5.7).# Microscopy of the vaginal secretions reveals an increased number of clue cells, and leukocytes are conspicuously absent.# The addition of KOH to the vaginal secretions (the \"whiff\" test) releases a fishy, amine-like odor.Also Know* Most common vaginal infectionscluringj pregnancy is candidiasis* Bacterial vaginosis (BV) is the most common vaginal infection in women of childbearing age I* Genital human papillomavirus the most common sexually transmitted infection."
+    "cop": 2,
+    "exp": "Ans. (c) Infection seen when vaginal pH is < 4.5Ref Shaws 15th ed, pg: 308-310* After reading this question, usually we get this tendency to mark option D, which says bacterial vaginosis is NOT a STD, but this statement is true.* Bacterial vaginosis is a vaginal infection casued by Gardenella vaginalis.* Bacterial vaginosis is diagnosed on the basis of the following findings:# Vaginal secretions are gray and thinly coat the vaginal walls.# The pH of these secretions is higher than 4.5 (usually 4.7 to 5.7).# Microscopy of the vaginal secretions reveals an increased number of clue cells, and leukocytes are conspicuously absent.# The addition of KOH to the vaginal secretions (the \"whiff\" test) releases a fishy, amine-like odor.Also Know* Most common vaginal infectionscluringj pregnancy is candidiasis* Bacterial vaginosis (BV) is the most common vaginal infection in women of childbearing age I* Genital human papillomavirus the most common sexually transmitted infection.",
+    "hint_exp": "🧩 Your crush solved \"the following statement\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8febda39-7135-4ffb-a19b-5dc4abbc5434": {
-    "cop": 3,
-    "exp": "Ans. is `c' i.e., P gene DNA polymerase of HBV is encoded by P gene"
+    "cop": 2,
+    "exp": "Ans. is `c' i.e., P gene DNA polymerase of HBV is encoded by P gene",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"HBV\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "aace049c-5425-43ec-8e29-d8142b9a8cbf": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e.. Folate \"Folic acid supplementation can reduce the risk of NTDs, presumably by preventing nutritional deficiency and by overcoming disruptions in folate metabolism related to underlying genetic variation in folate-related genes. Folic acid may enhance cell proliferation for neural closure directly or it may be involved in the epigenetic regulation of expression of genes that control neural closure.\""
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e.. Folate \"Folic acid supplementation can reduce the risk of NTDs, presumably by preventing nutritional deficiency and by overcoming disruptions in folate metabolism related to underlying genetic variation in folate-related genes. Folic acid may enhance cell proliferation for neural closure directly or it may be involved in the epigenetic regulation of expression of genes that control neural closure.\"",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Neural tube defect deficiency\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4c42841f-00f3-44bc-a4e7-1a62e556344e": {
-    "cop": 1,
-    "exp": "Minimal Change Disease (Synonyms: MCD, Lipoid Nephrosis, Foot Process Disease, Nil Deposit Disease) In lipoid nephrosis the light microscopy shows no apparent abnormality, there will be a slight increase in the mesangial matrix at the most. Tubules show fine lipid vacuolation and hyaline droplets in cells of PCT, interstitium may be oedematous, no blood vessel changes. By electron microscopy, diffuse flattening of foot processes of the visceral epithelial cells(podocytes) hence also called foot processes disease or podocytopathy. By immunofluorescence microscopy- no deposits of compliments or immunoglobulins are recognized. From Textbook of pathology HARSH MOHAN 7th edition pg no:656"
+    "cop": 0,
+    "exp": "Minimal Change Disease (Synonyms: MCD, Lipoid Nephrosis, Foot Process Disease, Nil Deposit Disease) In lipoid nephrosis the light microscopy shows no apparent abnormality, there will be a slight increase in the mesangial matrix at the most. Tubules show fine lipid vacuolation and hyaline droplets in cells of PCT, interstitium may be oedematous, no blood vessel changes. By electron microscopy, diffuse flattening of foot processes of the visceral epithelial cells(podocytes) hence also called foot processes disease or podocytopathy. By immunofluorescence microscopy- no deposits of compliments or immunoglobulins are recognized. From Textbook of pathology HARSH MOHAN 7th edition pg no:656",
+    "hint_exp": "🎯 Think of \"Lipoid nephrosis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a556a588-161d-4081-bee1-64d506299a3d": {
-    "cop": 3,
-    "exp": "Mature cyst of Entamoeba histolytica has 4 vesicular nuclei. Such cyst represents the infective form and pass out of the host in feces, after which the glycogen and chromatoidal substance are slowly metabolized and disappear. Initial cyst of E histolytica contains a single nucleus, a glycogen vacuole, and one or more large cigar shaped ribosomal cluster known as chromatoid bodies. Cysts of E.histolytica are highly resistant to desiccation and even to ceain chemicals. Cysts in water can survive for a month while those in feces on dry land can survive for more than 12 days. They tolerate temperatures up to a thermal death point of 50 C, chlorine concentrations normally found in municipal water supplies, and normal levels of gastric acid. Humans are the principal hosts and reservoirs of E histolytica. Transmission from person to person occurs when a parasite passed in the stool of one host is ingested by another. Ref: Ray C.G., Ryan K.J. (2010). Chapter 51. Rhizopods. In C.G. Ray, K.J. Ryan (Eds), Sherris Medical Microbiology, 5e"
+    "cop": 2,
+    "exp": "Mature cyst of Entamoeba histolytica has 4 vesicular nuclei. Such cyst represents the infective form and pass out of the host in feces, after which the glycogen and chromatoidal substance are slowly metabolized and disappear. Initial cyst of E histolytica contains a single nucleus, a glycogen vacuole, and one or more large cigar shaped ribosomal cluster known as chromatoid bodies. Cysts of E.histolytica are highly resistant to desiccation and even to ceain chemicals. Cysts in water can survive for a month while those in feces on dry land can survive for more than 12 days. They tolerate temperatures up to a thermal death point of 50 C, chlorine concentrations normally found in municipal water supplies, and normal levels of gastric acid. Humans are the principal hosts and reservoirs of E histolytica. Transmission from person to person occurs when a parasite passed in the stool of one host is ingested by another. Ref: Ray C.G., Ryan K.J. (2010). Chapter 51. Rhizopods. In C.G. Ray, K.J. Ryan (Eds), Sherris Medical Microbiology, 5e",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"many nuclei present mature\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "78474af0-0080-4842-a3f7-ea37f4a7abe3": {
-    "cop": 3,
-    "exp": "The Eighth Joint National Committee (JNC 8) recently released evidence-based recommendations on treatment thresholds, goals, and medications in the management of hypeension in adults.In the general population of adults 60 years and older, pharmacologic treatment should be initiated when the systolic pressure is 150 mm Hg or higher, or when the diastolic pressure is 90 mm Hg or higher. Patients should be treated to a target systolic pressure of less than 150 mm Hg and a target diastolic pressure of less than 90 mm Hg.In the general population younger than 60 years, pharmacologic treatment should be initiated when the systolic pressure is 140 mm Hg or higher, or when the diastolic pressure is 90 mm Hg or higher. The target systolic pressure in this population is less than 140 mm Hg, and the target diastolic pressure is less than 90 mm Hg."
+    "cop": 2,
+    "exp": "The Eighth Joint National Committee (JNC 8) recently released evidence-based recommendations on treatment thresholds, goals, and medications in the management of hypeension in adults.In the general population of adults 60 years and older, pharmacologic treatment should be initiated when the systolic pressure is 150 mm Hg or higher, or when the diastolic pressure is 90 mm Hg or higher. Patients should be treated to a target systolic pressure of less than 150 mm Hg and a target diastolic pressure of less than 90 mm Hg.In the general population younger than 60 years, pharmacologic treatment should be initiated when the systolic pressure is 140 mm Hg or higher, or when the diastolic pressure is 90 mm Hg or higher. The target systolic pressure in this population is less than 140 mm Hg, and the target diastolic pressure is less than 90 mm Hg.",
+    "hint_exp": "🧩 Your crush solved \"guidelines related\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "755430e6-9e06-4e23-a135-748c4f1195bd": {
-    "cop": 1,
-    "exp": "The best indicators of air pollution are sulphur dioxide (SO2), smoke and suspended paicles. These are monitored on a daily basis over several sites. The results are then collected by a central agency. Methods for monitoring air pollution: Sulphur dioxide Smoke or Soiling index Grit and dust measurement Coefficient of haze Air pollution index Ref: Park's Textbook of Social and Preventive Medicine, 19th edition, Page 593."
+    "cop": 0,
+    "exp": "The best indicators of air pollution are sulphur dioxide (SO2), smoke and suspended paicles. These are monitored on a daily basis over several sites. The results are then collected by a central agency. Methods for monitoring air pollution: Sulphur dioxide Smoke or Soiling index Grit and dust measurement Coefficient of haze Air pollution index Ref: Park's Textbook of Social and Preventive Medicine, 19th edition, Page 593.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bd5f7931-6b0a-4da2-ac07-d37afb7548ff": {
-    "cop": 3,
-    "exp": "Design for canine rest:\nMD width : 2.5-3 mm\nFL width : 2 mm\nDepth : 1.5 mm\nApex of 'V' shape is directed incisally."
+    "cop": 2,
+    "exp": "Design for canine rest:\nMD width : 2.5-3 mm\nFL width : 2 mm\nDepth : 1.5 mm\nApex of 'V' shape is directed incisally.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"canine should be\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "dfbb9848-1f0d-4ee8-a032-6b47acf18249": {
-    "cop": 2,
-    "exp": "Ans. Clostridium botulinum"
+    "cop": 1,
+    "exp": "Ans. Clostridium botulinum",
+    "hint_exp": "🎯 Think of \"Dysphagia diplopia dysahria characteristic\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "875d6da2-207d-4f5f-8e0e-5600992bfcb3": {
-    "cop": 1,
-    "exp": "Sporothrix schenckii: 1. Microscopy: a direct microscopic examination of KOH mounts of specimen stained by methenamine silver stain shows asteroid body: a rounded or oval, basophilic, yeast like body with rays of an eosinophilic substance radiating from a yeast cell. 2. In culture S. schenckii - yeast phase appears as cigar-shaped cells and mould form contains hyphae carrying flower-like clusters of small conidia borne on delicate sterigmata. Ref: Textbook of Microbiology, Ananthanarayan and Paniker; 9th edition"
+    "cop": 0,
+    "exp": "Sporothrix schenckii: 1. Microscopy: a direct microscopic examination of KOH mounts of specimen stained by methenamine silver stain shows asteroid body: a rounded or oval, basophilic, yeast like body with rays of an eosinophilic substance radiating from a yeast cell. 2. In culture S. schenckii - yeast phase appears as cigar-shaped cells and mould form contains hyphae carrying flower-like clusters of small conidia borne on delicate sterigmata. Ref: Textbook of Microbiology, Ananthanarayan and Paniker; 9th edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Asteroid bodies cigar shaped\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2d61d07e-f34a-4357-888d-704ecc89f575": {
-    "cop": 2,
-    "exp": "Substrates for gluconeognesis Lactate All amino acids except leucine and lysine Pyruvate Propionate Glycerol Intermediates of citric acid cycle Alanine is the most impoant gluconeogenic amino acid. REF: Lippincott book of biochemistry 6th ed."
+    "cop": 1,
+    "exp": "Substrates for gluconeognesis Lactate All amino acids except leucine and lysine Pyruvate Propionate Glycerol Intermediates of citric acid cycle Alanine is the most impoant gluconeogenic amino acid. REF: Lippincott book of biochemistry 6th ed.",
+    "hint_exp": "🧩 Your crush solved \"gluconeogenesis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "da1fd99d-d5b5-4238-82f9-cd953ec48ff4": {
-    "cop": 4,
-    "exp": "HLA class III contains genes for early complement components C2 and C4 of classical pathway. Deficiency of these early components of the classical pathway is associated with autoimmune disease like SLE and other collagen vascular diseases. These genes are thus impoant in regulating susceptibility to autoimmune disease. Class III genes do not paicipate in MHC restriction or graft rejection components. Many proteins coded by MHC class III genes may be involved in the development of autoimmunity.Ref: Textbook Of Immunology By Basir, Page 93-4; Essential Immunology By Roilt, Page 262; Textbook of Microbiology By Ananthanarayan and Panicker, 6th Edition, Page 108."
+    "cop": 3,
+    "exp": "HLA class III contains genes for early complement components C2 and C4 of classical pathway. Deficiency of these early components of the classical pathway is associated with autoimmune disease like SLE and other collagen vascular diseases. These genes are thus impoant in regulating susceptibility to autoimmune disease. Class III genes do not paicipate in MHC restriction or graft rejection components. Many proteins coded by MHC class III genes may be involved in the development of autoimmunity.Ref: Textbook Of Immunology By Basir, Page 93-4; Essential Immunology By Roilt, Page 262; Textbook of Microbiology By Ananthanarayan and Panicker, 6th Edition, Page 108.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"HLA class III region genes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2d007643-4f63-4fb0-b5b9-baca6096f9fb": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"vision\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "614d3704-ce50-44e0-b13c-54748771503c": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "757f9a42-881f-4f35-bb98-6f3c44be8832": {
-    "cop": 2,
-    "exp": "causes of Marcus Gunn pupil. (In swinging flashlight test, the pupil on the diseasedside dilates on transferring light to it) \u0001 Optic neuritis \u0001 Optic atrophy \u0001 Retinal detachment \u0001 Central retinal aery occlusion \u0001 Central retinal vein occlusion Ref Comprehensive ophthalmology AK Khurana 4th edition page no 494"
+    "cop": 1,
+    "exp": "causes of Marcus Gunn pupil. (In swinging flashlight test, the pupil on the diseasedside dilates on transferring light to it) \u0001 Optic neuritis \u0001 Optic atrophy \u0001 Retinal detachment \u0001 Central retinal aery occlusion \u0001 Central retinal vein occlusion Ref Comprehensive ophthalmology AK Khurana 4th edition page no 494",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Marcus Gunn sign seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bc13ac9d-d837-4033-a0b5-fd77d0d85fe1": {
-    "cop": 1,
-    "exp": "This patient has multiple sclerosis (MS). Weakness or numbness in one or more limbs is the initial manifestation of disease in about half the patients. Other common initial presentations include optic neuritis (25%) and acute myelitis. Hemiplegia, seizures, and cervical myelopathy (in older patients) occur occasionally as the initial manifestation. Sphincter impairment usually occurs later in the disease."
+    "cop": 0,
+    "exp": "This patient has multiple sclerosis (MS). Weakness or numbness in one or more limbs is the initial manifestation of disease in about half the patients. Other common initial presentations include optic neuritis (25%) and acute myelitis. Hemiplegia, seizures, and cervical myelopathy (in older patients) occur occasionally as the initial manifestation. Sphincter impairment usually occurs later in the disease.",
+    "hint_exp": "🧩 Your crush solved \"the following symptoms\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "92129bed-ae00-47b4-b57e-1da68dffa056": {
-    "cop": 3,
-    "exp": "Aromatase"
+    "cop": 2,
+    "exp": "Aromatase",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the growing ovarian follicle\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ce659969-09f8-4c43-9bcc-d0acc8088bcf": {
-    "cop": 2,
-    "exp": "(Ref: KDT 6/e p823, 824) All anticancer drugs can result in hyperuricemia by causing the destruction of excess cells. Azathioprine is an immunosuppressant drug that acts by generating 6-MP"
+    "cop": 1,
+    "exp": "(Ref: KDT 6/e p823, 824) All anticancer drugs can result in hyperuricemia by causing the destruction of excess cells. Azathioprine is an immunosuppressant drug that acts by generating 6-MP",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following statements about\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bc85899d-0dfe-4291-8ffe-a21016b7e653": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e. Proteins Prions are infectious proteins that cause degeneration of the central nervous system.They are infectious particles that lack nucleic acid.Prions are composed largely, if not entirely of PrP molecules.Four important points about prions are: -Prions are the only known infectious pathogens that are devoid of nucleic acid, all other infectious assents possess genomes composed of either RNA or DNA that direct the synthesis of their progeny.Prions disease may manifest as infectious, genetic and sporadic disorders; no other group of illness with a single etiology presents with such a wide spectrum of clinical manifestations. Prions disease results from the accumulation of PrPSc the conformation of which differs substantially from that of its precursor PrPc.PrPSc can exist in a variety of different conformations each of which seems to specify a particular disease phenotype.Prions reproduce by binding to the normal cellular isoform of prion protein and stimulating conversion of PrP into the disease causing isoform."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e. Proteins Prions are infectious proteins that cause degeneration of the central nervous system.They are infectious particles that lack nucleic acid.Prions are composed largely, if not entirely of PrP molecules.Four important points about prions are: -Prions are the only known infectious pathogens that are devoid of nucleic acid, all other infectious assents possess genomes composed of either RNA or DNA that direct the synthesis of their progeny.Prions disease may manifest as infectious, genetic and sporadic disorders; no other group of illness with a single etiology presents with such a wide spectrum of clinical manifestations. Prions disease results from the accumulation of PrPSc the conformation of which differs substantially from that of its precursor PrPc.PrPSc can exist in a variety of different conformations each of which seems to specify a particular disease phenotype.Prions reproduce by binding to the normal cellular isoform of prion protein and stimulating conversion of PrP into the disease causing isoform.",
+    "hint_exp": "🎯 Think of \"Prion includes\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b4cb817b-cebf-417c-b6ae-1278519c4493": {
-    "cop": 1,
-    "exp": "Answer is A (CD4/CD8 counts in the blood) : The patient in question is suffering from sarcoidosis. `While there is marked enhancement of no. of TH cells at the sites of disease the number of TH cells in the blood are normal' - Harrison `Where as TH cells in the involved organs are proliferating at an enhanced rate the T cells in other sites such as blood are quiescent' - Harrison It is the CD4 / CD8 counts in the affected organs which is an impoant ancillary aid in established the diagnosis of sarcoidosis and not the CD4 / CD8 count in the blood as specifically asked in the question. Active sarcoidosis results from an exaggerated cellular immune response resulting in accumulation of large no. of T4 cells in the affected organs, where the ratio of CD4 to CD8 cells may be as high as 10:1. Although CT of chest is also only rarely helpful, it may identify early fibrosis and active alveolitis and thus contribute to a diagnosis of sarcoidosis."
+    "cop": 0,
+    "exp": "Answer is A (CD4/CD8 counts in the blood) : The patient in question is suffering from sarcoidosis. `While there is marked enhancement of no. of TH cells at the sites of disease the number of TH cells in the blood are normal' - Harrison `Where as TH cells in the involved organs are proliferating at an enhanced rate the T cells in other sites such as blood are quiescent' - Harrison It is the CD4 / CD8 counts in the affected organs which is an impoant ancillary aid in established the diagnosis of sarcoidosis and not the CD4 / CD8 count in the blood as specifically asked in the question. Active sarcoidosis results from an exaggerated cellular immune response resulting in accumulation of large no. of T4 cells in the affected organs, where the ratio of CD4 to CD8 cells may be as high as 10:1. Although CT of chest is also only rarely helpful, it may identify early fibrosis and active alveolitis and thus contribute to a diagnosis of sarcoidosis.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"woman admitted with complains\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e5b87f09-3fa3-4486-a4a0-3d05290037f5": {
-    "cop": 4,
-    "exp": "."
+    "cop": 3,
+    "exp": ".",
+    "hint_exp": "🧩 Your crush solved \"complicated cataract\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7f868372-786b-4b32-ab84-8fdbafe0c6c5": {
-    "cop": 1,
-    "exp": "FSH Initiated by the release of FSH (From Anterior pituitary) FSH stimulates the Growth of Multiple Follicles (Folliculogenesis) Selection of a dominant Follicle (Graffian Follicle), by day 5-7. Graffian Follicle acquires FSH receptors on Granulosa cells and LH receptors on Theca cell. Under the influence of FSH, Graffian follicle secretes 178 estradiol (Day 7) 178 estradiol causes 4, i 4, Proliferative changes Negative feedback on FSH Positive feedback on LH therefore in the endometrium LH increases in amount. Decreased Amount of FSH Increased LH leads to : Production of androgen from Theca cells which is conveed peripherally to estrogen therefore Estrogen peak occurs (48 hours before ovulation) LH surge (32-36 hours before ovulation) & LH peak (10-16 hours before ovulation) 1 Ovulation Occurs (14 days prior to next cycle) Formation of corpus luteum & 2nd phase of ovulatory cycle i.e. Luteal Phase begins. Secretes Progesterone Stimulates Endometrium to undergo secretory changes 1. In absence of Feilisation corpus luteum degenerates Oestradiol Progesterone Inhibin (inhibin FSH production) (Leads to menstruation in menstrual cycle) & will release the negative Increased FSH as feedback on GnRH, therefore compared to LH increases GnRH pulses L Another follicular phase begins"
+    "cop": 0,
+    "exp": "FSH Initiated by the release of FSH (From Anterior pituitary) FSH stimulates the Growth of Multiple Follicles (Folliculogenesis) Selection of a dominant Follicle (Graffian Follicle), by day 5-7. Graffian Follicle acquires FSH receptors on Granulosa cells and LH receptors on Theca cell. Under the influence of FSH, Graffian follicle secretes 178 estradiol (Day 7) 178 estradiol causes 4, i 4, Proliferative changes Negative feedback on FSH Positive feedback on LH therefore in the endometrium LH increases in amount. Decreased Amount of FSH Increased LH leads to : Production of androgen from Theca cells which is conveed peripherally to estrogen therefore Estrogen peak occurs (48 hours before ovulation) LH surge (32-36 hours before ovulation) & LH peak (10-16 hours before ovulation) 1 Ovulation Occurs (14 days prior to next cycle) Formation of corpus luteum & 2nd phase of ovulatory cycle i.e. Luteal Phase begins. Secretes Progesterone Stimulates Endometrium to undergo secretory changes 1. In absence of Feilisation corpus luteum degenerates Oestradiol Progesterone Inhibin (inhibin FSH production) (Leads to menstruation in menstrual cycle) & will release the negative Increased FSH as feedback on GnRH, therefore compared to LH increases GnRH pulses L Another follicular phase begins",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"ovarian cycle initiated\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f83bf1b3-87b6-4d64-9de4-7cc8b49b1bf6": {
-    "cop": 4,
-    "exp": "Transversus thoracis is not pierced duirng pleural tapping. Transversus thoracis originates from the lower third of the posterior surface of the sternum, Xiphoid process and costal cailages of lower 3-4 true ribs. It inses into the cailage of the 2nd to 6th rib. It lies anteriorly, not in the mid-axillary line and hencce doesnot get piierced during pleural tapping. It is also called triangularis sternae or sternocostalis. The innermost muscular plane has three named muscles: Innermost intercostals are at the sides of the rib cage. Subcostalis are at the back. Transversus thoracis at the anterior pa of the thoracic rib cage. Ref: Gray&;s Anatomy 41st edition Pgno: 941"
+    "cop": 3,
+    "exp": "Transversus thoracis is not pierced duirng pleural tapping. Transversus thoracis originates from the lower third of the posterior surface of the sternum, Xiphoid process and costal cailages of lower 3-4 true ribs. It inses into the cailage of the 2nd to 6th rib. It lies anteriorly, not in the mid-axillary line and hencce doesnot get piierced during pleural tapping. It is also called triangularis sternae or sternocostalis. The innermost muscular plane has three named muscles: Innermost intercostals are at the sides of the rib cage. Subcostalis are at the back. Transversus thoracis at the anterior pa of the thoracic rib cage. Ref: Gray&;s Anatomy 41st edition Pgno: 941",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following muscles\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c34a09f3-df73-43b1-8289-65795c8ee7f3": {
-    "cop": 3,
-    "exp": "Risk factors are:Long-term ingestion of high concentration of nitratesH.pyloriIntestinal metaplasia in patients with atrophic gastritisGastric ulcers and adenomatous polypsMenetrier's diseasePatients with blood group A have a higher incidence of Ca stomach than blood group ONote: duodenal ulcers are not associated with gastric cancer.Ref: Harrison's 18/e p766"
+    "cop": 2,
+    "exp": "Risk factors are:Long-term ingestion of high concentration of nitratesH.pyloriIntestinal metaplasia in patients with atrophic gastritisGastric ulcers and adenomatous polypsMenetrier's diseasePatients with blood group A have a higher incidence of Ca stomach than blood group ONote: duodenal ulcers are not associated with gastric cancer.Ref: Harrison's 18/e p766",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b8818d4c-ba57-409c-9d73-1b65ee5a22b1": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"concept occlusion that maintains\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e102e7d6-23d8-4341-8a31-9174a94c5719": {
-    "cop": 3,
-    "exp": "Ans. (c) Extensor pollicus longusGray's 41st ed./790* The anatomical snuffbox is formed by the tendons of extensor polloicis longus and brevis, and abductor pollicis longus.* The radial artery running in the floor of the snuffbox, and the radial nerve passing to the dorsum of the hand.* Boundaries of snuffbox:# Postero-medial border is the tendon of the extensor pollicis longus.# Antero-lateral border is a pair of parallel and intimate tendons of the extensor pollicis brevis and the abductor pollicis longus.# The proximal border is formed by the styloid process of the radius.# The distal border is formed by the approximate apex of the schematic snuffbox isosceles."
+    "cop": 2,
+    "exp": "Ans. (c) Extensor pollicus longusGray's 41st ed./790* The anatomical snuffbox is formed by the tendons of extensor polloicis longus and brevis, and abductor pollicis longus.* The radial artery running in the floor of the snuffbox, and the radial nerve passing to the dorsum of the hand.* Boundaries of snuffbox:# Postero-medial border is the tendon of the extensor pollicis longus.# Antero-lateral border is a pair of parallel and intimate tendons of the extensor pollicis brevis and the abductor pollicis longus.# The proximal border is formed by the styloid process of the radius.# The distal border is formed by the approximate apex of the schematic snuffbox isosceles.",
+    "hint_exp": "🧩 Your crush solved \"the anatomical snuffbox\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a65a46f0-e4dd-4c6c-bd32-7d17cd6a7065": {
-    "cop": 1,
-    "exp": "Purification of water on a large scale Storage Filtration by slow sand or biological filters rapid sand or mechanical filters 3. Disinfection Purification of water on a small scale Household purification of water Disinfection of wells (refer pg:771 park 25th edition)"
+    "cop": 0,
+    "exp": "Purification of water on a large scale Storage Filtration by slow sand or biological filters rapid sand or mechanical filters 3. Disinfection Purification of water on a small scale Household purification of water Disinfection of wells (refer pg:771 park 25th edition)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"water at large scale\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "33b140e6-33da-457c-883c-da939146f819": {
-    "cop": 4,
-    "exp": "Delirium tremens (DTs) is a rapid onset of confusion usually caused by withdrawal from alcohol. When it occurs, it is often three days into the withdrawal symptoms and lasts for two to three days.Physical effects may include shaking, shivering, irregular hea rate, and sweating. People may also see or hear things other people do not.Occasionally, a very high body temperature or seizures may result in death.Alcohol is one of the most dangerous drugs from which to withdraw The main symptoms of delirium tremens are nightmares, agitation, global confusion, disorientation, visual and auditory hallucinations, tactile hallucinations, fever, high blood pressure, heavy sweating, and other signs of autonomic hyperactivity (fast hea rate and high blood pressure). These symptoms may appear suddenly, but typically develop two to three days after the stopping of heavy drinking, being worst on the fouh or fifth day.Also, these \"symptoms are characteristically worse at night\".In general, DT is considered the most severe manifestation of alcohol withdrawal and occurs 3-10 days following the last drink.Other common symptoms include intense perceptual disturbance such as visions of insects, snakes, or rats. These may be hallucinations or illusions related to the environment, e.g., patterns on the wallpaper or in the peripheral vision that the patient falsely perceives as a resemblance to the morphology of an insect, and are also associated with tactile hallucinations such as sensations of something crawling on the subject--a phenomenon known as formication. Delirium tremens usually includes extremely intense feelings of \"impending doom\". Severe anxiety and feelings of imminent death are common DT symptoms. DT can sometimes be associated with severe, uncontrollable tremors of the extremities and secondary symptoms such as anxiety, panic attacks and paranoia. Confusion is often noticeable to onlookers as those with DT will have trouble forming simple sentences or making basic logical calculations. DT should be distinguished from alcoholic hallucinosis, the latter of which occurs in approximately 20% of hospitalized alcoholics and does not carry a significant moality. In contrast, DT occurs in 5-10% of alcoholics and carries up to 15% moality with treatment and up to 35% moality without treatment. DT is characterized by the presence of altered sensorium; that is, a complete hallucination without any recognition of the real world. DT has extreme autonomic hyperactivity (high pulse, blood pressure, and rate of breathing), and 35-60% of patients have a fever. Some patients experience seizures Ref Harrison20th edition pg 2345"
+    "cop": 3,
+    "exp": "Delirium tremens (DTs) is a rapid onset of confusion usually caused by withdrawal from alcohol. When it occurs, it is often three days into the withdrawal symptoms and lasts for two to three days.Physical effects may include shaking, shivering, irregular hea rate, and sweating. People may also see or hear things other people do not.Occasionally, a very high body temperature or seizures may result in death.Alcohol is one of the most dangerous drugs from which to withdraw The main symptoms of delirium tremens are nightmares, agitation, global confusion, disorientation, visual and auditory hallucinations, tactile hallucinations, fever, high blood pressure, heavy sweating, and other signs of autonomic hyperactivity (fast hea rate and high blood pressure). These symptoms may appear suddenly, but typically develop two to three days after the stopping of heavy drinking, being worst on the fouh or fifth day.Also, these \"symptoms are characteristically worse at night\".In general, DT is considered the most severe manifestation of alcohol withdrawal and occurs 3-10 days following the last drink.Other common symptoms include intense perceptual disturbance such as visions of insects, snakes, or rats. These may be hallucinations or illusions related to the environment, e.g., patterns on the wallpaper or in the peripheral vision that the patient falsely perceives as a resemblance to the morphology of an insect, and are also associated with tactile hallucinations such as sensations of something crawling on the subject--a phenomenon known as formication. Delirium tremens usually includes extremely intense feelings of \"impending doom\". Severe anxiety and feelings of imminent death are common DT symptoms. DT can sometimes be associated with severe, uncontrollable tremors of the extremities and secondary symptoms such as anxiety, panic attacks and paranoia. Confusion is often noticeable to onlookers as those with DT will have trouble forming simple sentences or making basic logical calculations. DT should be distinguished from alcoholic hallucinosis, the latter of which occurs in approximately 20% of hospitalized alcoholics and does not carry a significant moality. In contrast, DT occurs in 5-10% of alcoholics and carries up to 15% moality with treatment and up to 35% moality without treatment. DT is characterized by the presence of altered sensorium; that is, a complete hallucination without any recognition of the real world. DT has extreme autonomic hyperactivity (high pulse, blood pressure, and rate of breathing), and 35-60% of patients have a fever. Some patients experience seizures Ref Harrison20th edition pg 2345",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a7d4c899-c392-45ae-9a09-082c4e5d934e": {
-    "cop": 4,
-    "exp": "ref Robbins 7/e p127 , Harrison 17/e p346,9/e p120-121. Prothrombin time (PT) screens for the activity of the pro- teins in the extrinsic pathway (factors VII, X, II, V, and fibrinogen). The PT is performed by adding phospholip- ids and tissue factor to a patient's citrated plasma (sodium citrate chelates calcium and prevents spontane- ous clotting), followed by calcium, and the time to fibrin clot formation (usually 11 to 13 seconds) is recorded. Because factor VII is the vitamin K-dependent coagulation factor with the shoest half-life (roughly 7 hours), the PT is used to guide treatment of patients with vitamin K antagonists (e.g., coumadin). * Paial thromboplastin time (PTT) screens for the activity of the proteins in the intrinsic pathway (factors XII, XI, IX, VIII, X, V, II, and fibrinogen). The PTT is performed by adding a negatively charged activator of factor XII (e.g., ground glass) and phospholipids to a patient's citrated plasma, followed by calcium, and recording the time required for clot formation (usually 28 to 35 seconds). The PTT is sensitive to the anticoagulant effects of heparin and is therefore used to monitor its efficacy. Once thrombin is formed, it not only catalyzes the final steps in the coagulation cascade, but also exes a wide variety of effects on the local vasculature and inflammatory milieu; it even actively paicipates in limiting the extent of the hemostatic process"
+    "cop": 3,
+    "exp": "ref Robbins 7/e p127 , Harrison 17/e p346,9/e p120-121. Prothrombin time (PT) screens for the activity of the pro- teins in the extrinsic pathway (factors VII, X, II, V, and fibrinogen). The PT is performed by adding phospholip- ids and tissue factor to a patient's citrated plasma (sodium citrate chelates calcium and prevents spontane- ous clotting), followed by calcium, and the time to fibrin clot formation (usually 11 to 13 seconds) is recorded. Because factor VII is the vitamin K-dependent coagulation factor with the shoest half-life (roughly 7 hours), the PT is used to guide treatment of patients with vitamin K antagonists (e.g., coumadin). * Paial thromboplastin time (PTT) screens for the activity of the proteins in the intrinsic pathway (factors XII, XI, IX, VIII, X, V, II, and fibrinogen). The PTT is performed by adding a negatively charged activator of factor XII (e.g., ground glass) and phospholipids to a patient's citrated plasma, followed by calcium, and recording the time required for clot formation (usually 28 to 35 seconds). The PTT is sensitive to the anticoagulant effects of heparin and is therefore used to monitor its efficacy. Once thrombin is formed, it not only catalyzes the final steps in the coagulation cascade, but also exes a wide variety of effects on the local vasculature and inflammatory milieu; it even actively paicipates in limiting the extent of the hemostatic process",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a13fb49b-20ee-4cc2-8f9c-66d1ff880b40": {
-    "cop": 2,
-    "exp": "Refuse disposal: Sanitary landfill (Controlled tipping) laying of dry & condensed refuse in layers with inveing eah paitions & covering, followed by mechanical compression (most satisfactory method when suitable land is available). Trench method Ramp method Area method"
+    "cop": 1,
+    "exp": "Refuse disposal: Sanitary landfill (Controlled tipping) laying of dry & condensed refuse in layers with inveing eah paitions & covering, followed by mechanical compression (most satisfactory method when suitable land is available). Trench method Ramp method Area method",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"refuse disposal\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "45612c34-63d3-455e-9d8a-b5415984b154": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Ethambutol"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Ethambutol",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "950e8cf9-a5a6-41a2-b54e-604f1e2ef0b4": {
-    "cop": 1,
-    "exp": "In case of endometrial hyperplasia, histopathology is done to rule out malignancy Two percent women with simple hyperplasia are at a risk of endometrial cancer Ref: Shaw Gynecology 17 e pg 139."
+    "cop": 0,
+    "exp": "In case of endometrial hyperplasia, histopathology is done to rule out malignancy Two percent women with simple hyperplasia are at a risk of endometrial cancer Ref: Shaw Gynecology 17 e pg 139.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the management of this patient\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "65a88466-b709-43fe-bd1c-c65d5bf682ab": {
-    "cop": 1,
-    "exp": "Ans is 'a' i.e; Wegner's granulomatosis (WG) Antineutrophilic cytoplasmic antibody (ANCA)o ANCA are heterogenous group of autoantibodies directed against antigens which are found within the primary granules of neutrophil and in the lysosomes of monocytes and in EC's. The description of these autoantibodies is based on the immunofluorescence pattern of staining of ethanol fixed neutrophils.With immunofluorescence two principal patterns are recognized1) Cytoplasmic ANCA (c-ANCA)o It is targeted against proteinase-3. It is found in Wegner's granulomatosis.2) Perinuclar ANCA (p-ANCA)o It is targeted against myeloperoxidase. It is found in microscopic polyangitis, chrug-strauss syndrome, idiopathic crescentic glomerulonephritis, Good-pasture syndrome, and renal limited vasculitis"
+    "cop": 0,
+    "exp": "Ans is 'a' i.e; Wegner's granulomatosis (WG) Antineutrophilic cytoplasmic antibody (ANCA)o ANCA are heterogenous group of autoantibodies directed against antigens which are found within the primary granules of neutrophil and in the lysosomes of monocytes and in EC's. The description of these autoantibodies is based on the immunofluorescence pattern of staining of ethanol fixed neutrophils.With immunofluorescence two principal patterns are recognized1) Cytoplasmic ANCA (c-ANCA)o It is targeted against proteinase-3. It is found in Wegner's granulomatosis.2) Perinuclar ANCA (p-ANCA)o It is targeted against myeloperoxidase. It is found in microscopic polyangitis, chrug-strauss syndrome, idiopathic crescentic glomerulonephritis, Good-pasture syndrome, and renal limited vasculitis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"positive in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f062f924-75ef-471c-9ece-b30a9a021e11": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"patient been diagnosed with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "45598d96-9309-46cb-81a6-1700b740cc33": {
-    "cop": 1,
-    "exp": "Ans. is'a'i.e., Glomus tumour(Ref: Dhingra 6h/e p. 109)"
+    "cop": 0,
+    "exp": "Ans. is'a'i.e., Glomus tumour(Ref: Dhingra 6h/e p. 109)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"mostly due\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ec68a711-d1b8-45fb-b2bb-872d6e50993c": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Lisfranc's Amputation AmputationLevelSyme's Amputationthrough ankle joint (0.6 cm proximal)Sarmiento's Amputation1.3 cm proximal to ankle jointWagner Amputationtwo stage syme's amputationChopart's Amputationthrough midtarsal jointsLisfranc's Amputationthrough tarso-metatarsal jointsPirogoff's Amputationanterior part of calcaneum is removed"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Lisfranc's Amputation AmputationLevelSyme's Amputationthrough ankle joint (0.6 cm proximal)Sarmiento's Amputation1.3 cm proximal to ankle jointWagner Amputationtwo stage syme's amputationChopart's Amputationthrough midtarsal jointsLisfranc's Amputationthrough tarso-metatarsal jointsPirogoff's Amputationanterior part of calcaneum is removed",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1af59540-dbfe-4ca0-a455-f796358dff7b": {
-    "cop": 3,
-    "exp": "Ans. (c) Life expectancy BirthRef: K. Park 23rd ed. /17PQLI (Physical Quality of Life IndexHDI (Human Development Index)Literacy rateLiteracy rateInfant mortality rateIncomeLife expectancy (at 1 year)Life expectancy () birth)Range: 0 and 100Range: 0 and +1Value in India: 650.547Also Know* Range of correlation coefficient; 1 to +1"
+    "cop": 2,
+    "exp": "Ans. (c) Life expectancy BirthRef: K. Park 23rd ed. /17PQLI (Physical Quality of Life IndexHDI (Human Development Index)Literacy rateLiteracy rateInfant mortality rateIncomeLife expectancy (at 1 year)Life expectancy () birth)Range: 0 and 100Range: 0 and +1Value in India: 650.547Also Know* Range of correlation coefficient; 1 to +1",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7ff02660-449c-4521-bc31-613db28c29a8": {
-    "cop": 1,
-    "exp": "A i.e. Symptoms do not normally reflect understandable physiological or pathological mechanism"
+    "cop": 0,
+    "exp": "A i.e. Symptoms do not normally reflect understandable physiological or pathological mechanism",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following usually differentiates hysterical\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e3078617-4094-43a0-bee4-d80b1d5077bf": {
-    "cop": 4,
-    "exp": "Most of the cases of post-cibal or dumping syndrome can also be managed by dietary management or medications which includes anticholinergics agents, antidiarrheal and octreotide. Only a small percentage of patients need surgery. Surgical procedures used to treat dumping syndrome are pyloric reconstruction, take down of gastrojejunostomy, interposition of a 10 cm reversed intestinal segment between the stomach and duodenum, conversion of Billroth II to Billroth I anastomosis and conversion of Roux-en-Y anastomosis. Ref: Schwaz 9/e, Page 942"
+    "cop": 3,
+    "exp": "Most of the cases of post-cibal or dumping syndrome can also be managed by dietary management or medications which includes anticholinergics agents, antidiarrheal and octreotide. Only a small percentage of patients need surgery. Surgical procedures used to treat dumping syndrome are pyloric reconstruction, take down of gastrojejunostomy, interposition of a 10 cm reversed intestinal segment between the stomach and duodenum, conversion of Billroth II to Billroth I anastomosis and conversion of Roux-en-Y anastomosis. Ref: Schwaz 9/e, Page 942",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b18014d3-15e9-49d4-8f56-cc3747886505": {
-    "cop": 1,
-    "exp": "Ans. A i.e. 36 weeks"
+    "cop": 0,
+    "exp": "Ans. A i.e. 36 weeks",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"primigravida head engages March\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8dac6223-807a-43bb-8eaf-f2f714ab2cee": {
-    "cop": 2,
-    "exp": "Ans-BRetropubic urethropexyStress Urinary Incontinenceo Involuntary escape of urine when intraabdominal pressure is increased as in sneezing, coughing or laughing.o It is the most common type of urinary incontinence in women accounting for 50 - 70% of the cases.Managemento 1st line management is pelvic floor exercises i. e. Kegel exerciseso Definitive management is the surgical management. Retropubic urethropexy and sling operations are currently employed first line operations for stress incontinence.Retropubic urethropexy fcolposuspension):o Involves attaching the fascia around the urethra and bladder neck to a supporting structure in the anterior pelvis. The main problem is postoperative voiding dysfunction, detrusor overactivity, and enterocele formation.o Two types of surgeries are done:The Burch colposuspension:Fascia at the level of the bladder neck is attached to the iliopectineal ligament or the Cooper's ligament. The Marshall:Marchetti - Krantz or MMK: involves attachment of the periurethral fascia to the hack of the pubic symphysis.Complication specific to this procedure is osteitis pubis.Sling operationo The sling is passed around the bladder neck and urethra and attached above to the anterior rectus fascia so that a supporting hammock is created for the urethra.o The two procedures :Tension-Free Vaginal Tape andTrans-Obturator Tape is currently used as the primary operations for stress urinary incontinence."
+    "cop": 1,
+    "exp": "Ans-BRetropubic urethropexyStress Urinary Incontinenceo Involuntary escape of urine when intraabdominal pressure is increased as in sneezing, coughing or laughing.o It is the most common type of urinary incontinence in women accounting for 50 - 70% of the cases.Managemento 1st line management is pelvic floor exercises i. e. Kegel exerciseso Definitive management is the surgical management. Retropubic urethropexy and sling operations are currently employed first line operations for stress incontinence.Retropubic urethropexy fcolposuspension):o Involves attaching the fascia around the urethra and bladder neck to a supporting structure in the anterior pelvis. The main problem is postoperative voiding dysfunction, detrusor overactivity, and enterocele formation.o Two types of surgeries are done:The Burch colposuspension:Fascia at the level of the bladder neck is attached to the iliopectineal ligament or the Cooper's ligament. The Marshall:Marchetti - Krantz or MMK: involves attachment of the periurethral fascia to the hack of the pubic symphysis.Complication specific to this procedure is osteitis pubis.Sling operationo The sling is passed around the bladder neck and urethra and attached above to the anterior rectus fascia so that a supporting hammock is created for the urethra.o The two procedures :Tension-Free Vaginal Tape andTrans-Obturator Tape is currently used as the primary operations for stress urinary incontinence.",
+    "hint_exp": "🧩 Your crush solved \"Surgery genuine stress urinary\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b4c95adb-a608-4c41-9377-efe7d9e8f7a5": {
-    "cop": 3,
-    "exp": "DDT is a synthetic contact poison. It acts on the nervous system of insects. It does not cause immediate death, take several hours to kill. The residual action of DDT may last for 18 months depending on the treated surface. Has no repellent action. As residual spray, the dose is 100 -200 mg per sq.ft area. Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg 833"
+    "cop": 2,
+    "exp": "DDT is a synthetic contact poison. It acts on the nervous system of insects. It does not cause immediate death, take several hours to kill. The residual action of DDT may last for 18 months depending on the treated surface. Has no repellent action. As residual spray, the dose is 100 -200 mg per sq.ft area. Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg 833",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"DDT\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9e323db8-c45f-4bcc-862b-1086ef20fc6f": {
-    "cop": 3,
-    "exp": "Ans. C. HypervolemiaHypervolemia -renin secretion is inhibited, in all other cases like cirrhosis, exercise and cardiac failure renin secretion is rather increased."
+    "cop": 2,
+    "exp": "Ans. C. HypervolemiaHypervolemia -renin secretion is inhibited, in all other cases like cirrhosis, exercise and cardiac failure renin secretion is rather increased.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"secretion\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "959589b2-71aa-47b5-b6ee-8b28052e82e6": {
-    "cop": 2,
-    "exp": "Characteristics of Lysosomes\n\nDiscovered by Christian de Duve\nContains acid hydrolases,acid lipases,collagenase\nATP-dependent proton pumps in the membrane maintain an acidic environment (pH 4.0–5.0)\n\nLysosomal Diseases\nTay-Sachs disease\nHexosamidase A\nGaucher’s disease\nBeta galactocerebrosidase\nI-cell disease\nAbsent mannose-6-phosphate tag"
+    "cop": 1,
+    "exp": "Characteristics of Lysosomes\n\nDiscovered by Christian de Duve\nContains acid hydrolases,acid lipases,collagenase\nATP-dependent proton pumps in the membrane maintain an acidic environment (pH 4.0–5.0)\n\nLysosomal Diseases\nTay-Sachs disease\nHexosamidase A\nGaucher’s disease\nBeta galactocerebrosidase\nI-cell disease\nAbsent mannose-6-phosphate tag",
+    "hint_exp": "🎯 Think of \"Cell organelle affected Wolman\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "126f606d-be1d-4aa5-811f-1aecd9ac1304": {
-    "cop": 2,
-    "exp": "Based on the clinical scenario, the patient is diagnosed to have insulinoma. Surgically solitary insulinomas is best managed by simple Enucleation. Enucleation means removing the tumor along with the pseudocapsule not just the resection. Whipples's procedure (pancreaticoduodenectomy) is a major surgical operation involving the pancreas, duodenum, and other organs. This procedure is usually done for the pancreatic head tumor. Ref: Pediatric Gastrointestinal Diseases By W. Allan Walker, Volume 2, Page 1207"
+    "cop": 1,
+    "exp": "Based on the clinical scenario, the patient is diagnosed to have insulinoma. Surgically solitary insulinomas is best managed by simple Enucleation. Enucleation means removing the tumor along with the pseudocapsule not just the resection. Whipples's procedure (pancreaticoduodenectomy) is a major surgical operation involving the pancreas, duodenum, and other organs. This procedure is usually done for the pancreatic head tumor. Ref: Pediatric Gastrointestinal Diseases By W. Allan Walker, Volume 2, Page 1207",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"this patient\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ba611951-d430-4b5b-94b9-763d7138750a": {
-    "cop": 2,
-    "exp": "<p>Intermediate grade NHL consists of follicular, predominantly large cell;diffuse ,small cleaved cell;diffuse, mixed small & large cell;diffuse ,large cell</p><p>Reference :Harsh Mohan textbook of pathology sixth edition pg no 366.</p>"
+    "cop": 1,
+    "exp": "<p>Intermediate grade NHL consists of follicular, predominantly large cell;diffuse ,small cleaved cell;diffuse, mixed small & large cell;diffuse ,large cell</p><p>Reference :Harsh Mohan textbook of pathology sixth edition pg no 366.</p>",
+    "hint_exp": "🧩 Your crush solved \"Intermediate form hodgkin lymphoma\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

@@ -1,202 +1,252 @@
 {
   "a2abd5f3-bcee-47c0-83d2-6efd21d82cdd": {
-    "cop": 4,
-    "exp": "Natural killer cells (NK cells) are a component of the innate immune system that does not directly attack invading microbes. Other components are mast cells, eosinophils, basophils; and the phagocytic cells including macrophages, neutrophils, and dendritic cells. Ref: Ananthanarayan & Panikers textbook of microbiology 9th edition pg.no. : 78-81"
+    "cop": 3,
+    "exp": "Natural killer cells (NK cells) are a component of the innate immune system that does not directly attack invading microbes. Other components are mast cells, eosinophils, basophils; and the phagocytic cells including macrophages, neutrophils, and dendritic cells. Ref: Ananthanarayan & Panikers textbook of microbiology 9th edition pg.no. : 78-81",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"innate immunity\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7f3154f1-56d2-4707-9f28-f49427254c06": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"sudden infant death syndrome\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fc406416-9059-4fb9-8c3e-30c5f64115c2": {
-    "cop": 2,
-    "exp": "B i.e. Electrostatic"
+    "cop": 1,
+    "exp": "B i.e. Electrostatic",
+    "hint_exp": "🎯 Think of \"Strongest bond amongst following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dfce05b5-c3cd-4a73-b7f9-1db7f60f2e98": {
-    "cop": 4,
-    "exp": "Mucoromycosis"
+    "cop": 3,
+    "exp": "Mucoromycosis",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Voriconazole used diseases mentioned\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4c3a98e7-48fa-4563-aca7-68149d7d9a38": {
-    "cop": 1,
-    "exp": "Felty's syndrome is an extra aicular manifestation of rheumatoid ahritis.It is the association of splenomegaly & neutropenia with RA. Common features include spmenomegaly, lymphadenopathy,weight loss,skin pigmentation ,recurrent infections ,nodules,vasculitis,leg ulcers."
+    "cop": 0,
+    "exp": "Felty's syndrome is an extra aicular manifestation of rheumatoid ahritis.It is the association of splenomegaly & neutropenia with RA. Common features include spmenomegaly, lymphadenopathy,weight loss,skin pigmentation ,recurrent infections ,nodules,vasculitis,leg ulcers.",
+    "hint_exp": "🧩 Your crush solved \"Felty syndrome\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0bcee139-b024-4708-a69e-221fc4d938fd": {
-    "cop": 2,
-    "exp": "Thallium scan Thallium scanning Principle Thallium is a monovalent cation which acts as potassium analogue. It is taken up by ble cells - not dead ones. It is distributed to all pas of the body, largely in propoion to the regional blood flow. The concentration of thallium in the myocardium is propoional to the coronary blood flow over a wide range of flows. Once inside the myocardial cell, the thallium does not stay there. There is constant and continuous thallium exchange. Over a period of time thallium washes out of the normal cells and some thallium is extracted by the hypoperfusedareas. This unique propey is taken advantage of clinically during thallium stress testing and is the basis for the redistribution or late 4 hour image. Clinical application : Exercise is the most. frequently used form of stress in the testing of cardiac .function. During exercise myocardial blood flow normally increases by upto 3-4 folds to supply the increase in 0, demand. If coronary flow is limited by a stenosis there will be less thallium extracted .from the blood by the myocardium in the territoy of that aery compared with the normal, surrounding myocardium. This will cause a perfusion defect. Over 2-4 hours, this perfusion defect will redistribute or fill in as thallium washes out of the normally perfused cells and some more thallium is extracted by the hypoperfused myocardial cells Hence in ischemia the thallium perfusion defect disappears with time and is called a reversible defect. By contrast, areas of scar tissue or infarction do not change with time and appear as fixed defects. Clinical utility - interpretation No ischemia : In a patient without significant CAD, there will be uniform distribution of thallium in all myocardial segment's in the immediate post stress and 4 hour redistribution image. if the thallium scan is normal there is usually a very low probability, of angiographically significant CAD. Ischemia present : In a patient with significant CAD, (a stenosis of at least 70%), myocardial thallium uptake will be reduced causing a perfusion defect in the distribution of the stenosed vessel in the immediate poststress image. After 4 hours, the perfusion defect will 'fill in' or redistribute giving a unifonn thallium distribution, throughout the myocardium,, on reimagingo. Some perfusion defects only paially redistribute or do not \"fill in' at all by 4 hours. These patient are now re-injected with a smaller dose of thallium and reimaged after 30 minutes or alternatively reimaged at 24 hours without reinjection. Following reinjection and /or delayed imaging patients with severe ischemia usually demonstrate ,full or paial redistribution. Fixed defects which do not show redistribution are interpreted as scar tissue from myocardial infarction or nonble myocardium, which would at not benefit from revascularisatioe Viability The question of whether myocardium is ble can also be addressed, using rest and redistribution imaging. Following thallium injection, coronary blood flow at rest is assessed immediately and again at 4 hour. In a patient with a critical stenosis there will be very low flow at rest, producing a perfusion defect of varying severity. If there is ble myocardium present, the defect will resdistribute over time."
+    "cop": 1,
+    "exp": "Thallium scan Thallium scanning Principle Thallium is a monovalent cation which acts as potassium analogue. It is taken up by ble cells - not dead ones. It is distributed to all pas of the body, largely in propoion to the regional blood flow. The concentration of thallium in the myocardium is propoional to the coronary blood flow over a wide range of flows. Once inside the myocardial cell, the thallium does not stay there. There is constant and continuous thallium exchange. Over a period of time thallium washes out of the normal cells and some thallium is extracted by the hypoperfusedareas. This unique propey is taken advantage of clinically during thallium stress testing and is the basis for the redistribution or late 4 hour image. Clinical application : Exercise is the most. frequently used form of stress in the testing of cardiac .function. During exercise myocardial blood flow normally increases by upto 3-4 folds to supply the increase in 0, demand. If coronary flow is limited by a stenosis there will be less thallium extracted .from the blood by the myocardium in the territoy of that aery compared with the normal, surrounding myocardium. This will cause a perfusion defect. Over 2-4 hours, this perfusion defect will redistribute or fill in as thallium washes out of the normally perfused cells and some more thallium is extracted by the hypoperfused myocardial cells Hence in ischemia the thallium perfusion defect disappears with time and is called a reversible defect. By contrast, areas of scar tissue or infarction do not change with time and appear as fixed defects. Clinical utility - interpretation No ischemia : In a patient without significant CAD, there will be uniform distribution of thallium in all myocardial segment's in the immediate post stress and 4 hour redistribution image. if the thallium scan is normal there is usually a very low probability, of angiographically significant CAD. Ischemia present : In a patient with significant CAD, (a stenosis of at least 70%), myocardial thallium uptake will be reduced causing a perfusion defect in the distribution of the stenosed vessel in the immediate poststress image. After 4 hours, the perfusion defect will 'fill in' or redistribute giving a unifonn thallium distribution, throughout the myocardium,, on reimagingo. Some perfusion defects only paially redistribute or do not \"fill in' at all by 4 hours. These patient are now re-injected with a smaller dose of thallium and reimaged after 30 minutes or alternatively reimaged at 24 hours without reinjection. Following reinjection and /or delayed imaging patients with severe ischemia usually demonstrate ,full or paial redistribution. Fixed defects which do not show redistribution are interpreted as scar tissue from myocardial infarction or nonble myocardium, which would at not benefit from revascularisatioe Viability The question of whether myocardium is ble can also be addressed, using rest and redistribution imaging. Following thallium injection, coronary blood flow at rest is assessed immediately and again at 4 hour. In a patient with a critical stenosis there will be very low flow at rest, producing a perfusion defect of varying severity. If there is ble myocardium present, the defect will resdistribute over time.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"reversible cardiac\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5243d4ab-615c-43bf-aa1a-a8ab0a758ff1": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Alpha toxin o Naegler's reaction detects alpha toxin (phospholipase or lecithinase C). When Cl. perfringens is grown on a medium with the antitoxin spread on one half of the plate, colonies on the other half without the antitoxin will be surrounded by a zone of opacity. There will be no opacity around the colonies on the half of the plate with the antitoxin, due to the specific neutralisation of the alpha-toxin."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Alpha toxin o Naegler's reaction detects alpha toxin (phospholipase or lecithinase C). When Cl. perfringens is grown on a medium with the antitoxin spread on one half of the plate, colonies on the other half without the antitoxin will be surrounded by a zone of opacity. There will be no opacity around the colonies on the half of the plate with the antitoxin, due to the specific neutralisation of the alpha-toxin.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Naegler reaction which toxin\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b775f538-33e5-470e-bead-e275e01cd31c": {
-    "cop": 1,
-    "exp": "Ans. a (Loss of temperature & pain on opposite side). (Ref. Harrison 18th/Ch. 377)BROWN-SEQUARD HEMICORD SYNDROME consists of -# Ipsilateral weakness (corticospinal tract) and# Loss of joint position and vibratory sense (posterior column), with# Contralateral loss of pain and temperature sense (spinothalamic tract) one or two levels below the lesion. Brown-Sequard Hemlcord SyndromeThis consists of ipsilateral weakness (corticospinal tract) and loss of joint position and vibratory sense (posterior column), with contralateral loss of pain and temperature sense (spinothalamic tract) one or two levels below the lesion. Segmental signs, such as radicular pain, muscle atrophy, or loss of a deep tendon reflex, are unilateral. Partial forms are more common than the fully developed syndrome.Central Cord SyndromeThis syndrome results from selective damage to the grey matter nerve cells and crossing spinothalamic tracts surrounding the central canal. In the cervical cord, the central cord syndrome produces arm weakness out of proportion to leg weakness and a \"dissociated\" sensory loss, meaning loss of pain and temperature sensations over the shoulders, lower neck, and upper trunk (cape distribution), in contrast to preservation of light touch, joint position, and vibration sense in these regions. Spinal trauma, syringomyelia, and intrinsic cord tumors are the main causes.Anterior Spinal Artery SyndromeInfarction of the cord is generally the result of occlusion or diminished flow in this artery. The result is extensive bilateral tissue destruction that spares the posterior columns. All spinal cord functions motor, sensory, and autonomic are lost below the level of the lesion, with the striking exception of retained vibration and position sensation.Foramen Magnum SyndromeLesions in this area interrupt decussating pyramidal tract fibers destined for the legs, which cross caudal to those of the arms, resulting in weakness of the legs (crural paresis). Compressive lesions near the foramen magnum may produce weakness of the ipsilateral shoulder and arm followed by weakness of the ipsilateral leg, then the contralateral leg, and finally the contralateral arm, an \"around-the-clock\" pattern that may begin in any of the four limbs. There is typically suboccipital pain spreading to the neck and shoulders.Intramedullary and Extramedullary SyndromesIt is useful to differentiate intramedullary processes, arising within the substance of the cord, from extramedullary ones that compress the spinal cord or its vascular supply. The differentiating features are only relative and serve as clinical guides. With extramedullary lesions, radicular pain is often prominent, and there is early sacral sensory loss (lateral spinothalamic tract) and spastic weakness in the legs (corticospinal tract) due to the superficial location of leg fibers in the corticospinal tract. Intramedullary lesions tend to produce poorly localized burning pain rather than radicular pain and to spare sensation in the perineal and sacral areas (\"sacral sparing\"), reflecting the laminated configuration of the spinothalamic tract with sacral fibers outermost; corticospinal tract signs appear later. Regarding extramedullary lesions, a further distinction is made between extradural and intradural masses, as the former are generally malignant and the latter benign (neurofibroma being a common cause). Consequently, a long duration of symptoms favors an intradural origin."
+    "cop": 0,
+    "exp": "Ans. a (Loss of temperature & pain on opposite side). (Ref. Harrison 18th/Ch. 377)BROWN-SEQUARD HEMICORD SYNDROME consists of -# Ipsilateral weakness (corticospinal tract) and# Loss of joint position and vibratory sense (posterior column), with# Contralateral loss of pain and temperature sense (spinothalamic tract) one or two levels below the lesion. Brown-Sequard Hemlcord SyndromeThis consists of ipsilateral weakness (corticospinal tract) and loss of joint position and vibratory sense (posterior column), with contralateral loss of pain and temperature sense (spinothalamic tract) one or two levels below the lesion. Segmental signs, such as radicular pain, muscle atrophy, or loss of a deep tendon reflex, are unilateral. Partial forms are more common than the fully developed syndrome.Central Cord SyndromeThis syndrome results from selective damage to the grey matter nerve cells and crossing spinothalamic tracts surrounding the central canal. In the cervical cord, the central cord syndrome produces arm weakness out of proportion to leg weakness and a \"dissociated\" sensory loss, meaning loss of pain and temperature sensations over the shoulders, lower neck, and upper trunk (cape distribution), in contrast to preservation of light touch, joint position, and vibration sense in these regions. Spinal trauma, syringomyelia, and intrinsic cord tumors are the main causes.Anterior Spinal Artery SyndromeInfarction of the cord is generally the result of occlusion or diminished flow in this artery. The result is extensive bilateral tissue destruction that spares the posterior columns. All spinal cord functions motor, sensory, and autonomic are lost below the level of the lesion, with the striking exception of retained vibration and position sensation.Foramen Magnum SyndromeLesions in this area interrupt decussating pyramidal tract fibers destined for the legs, which cross caudal to those of the arms, resulting in weakness of the legs (crural paresis). Compressive lesions near the foramen magnum may produce weakness of the ipsilateral shoulder and arm followed by weakness of the ipsilateral leg, then the contralateral leg, and finally the contralateral arm, an \"around-the-clock\" pattern that may begin in any of the four limbs. There is typically suboccipital pain spreading to the neck and shoulders.Intramedullary and Extramedullary SyndromesIt is useful to differentiate intramedullary processes, arising within the substance of the cord, from extramedullary ones that compress the spinal cord or its vascular supply. The differentiating features are only relative and serve as clinical guides. With extramedullary lesions, radicular pain is often prominent, and there is early sacral sensory loss (lateral spinothalamic tract) and spastic weakness in the legs (corticospinal tract) due to the superficial location of leg fibers in the corticospinal tract. Intramedullary lesions tend to produce poorly localized burning pain rather than radicular pain and to spare sensation in the perineal and sacral areas (\"sacral sparing\"), reflecting the laminated configuration of the spinothalamic tract with sacral fibers outermost; corticospinal tract signs appear later. Regarding extramedullary lesions, a further distinction is made between extradural and intradural masses, as the former are generally malignant and the latter benign (neurofibroma being a common cause). Consequently, a long duration of symptoms favors an intradural origin.",
+    "hint_exp": "🎯 Think of \"characterized by\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5e8ecc57-3a0d-46e8-ad03-1861b2a279e3": {
-    "cop": 3,
-    "exp": "Ans. is c, i.e. Congenital malformation in fetusRef. Textbook of Obs. Shiela Balakrishnan 1/e, p 288; Fernando Arias 3/e, p 445, 441In the question, patient is presenting to the antenatal clinic at 20 weeks and is diagnosed as a case of gestational diabetes.Note: Patients blood sugar levels after 50 gms of glucose i.e. after glucose challenge test are 206 mg/dl. Recall that if, after GCT blood sugar values are >=200mg/dl, there is no need for further testing by GTT and patient is diagnosed as a case of gestational diabetes.As discussed in the text - in gestational diabetes, blood sugar levels are raised beyond 20-24 weeks of pregnancy, due to insulin resistance and hence free radicals (responsible for causing congenital malformations) are formed after 20-24 weeks and therefore it does not lead to congenital malformation as organogenesis is already complete by this age. Rest all options are complications of diabetes."
+    "cop": 2,
+    "exp": "Ans. is c, i.e. Congenital malformation in fetusRef. Textbook of Obs. Shiela Balakrishnan 1/e, p 288; Fernando Arias 3/e, p 445, 441In the question, patient is presenting to the antenatal clinic at 20 weeks and is diagnosed as a case of gestational diabetes.Note: Patients blood sugar levels after 50 gms of glucose i.e. after glucose challenge test are 206 mg/dl. Recall that if, after GCT blood sugar values are >=200mg/dl, there is no need for further testing by GTT and patient is diagnosed as a case of gestational diabetes.As discussed in the text - in gestational diabetes, blood sugar levels are raised beyond 20-24 weeks of pregnancy, due to insulin resistance and hence free radicals (responsible for causing congenital malformations) are formed after 20-24 weeks and therefore it does not lead to congenital malformation as organogenesis is already complete by this age. Rest all options are complications of diabetes.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"oral glucose\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bcf87b6a-6b00-471a-a7ce-1ac458c8a5b2": {
-    "cop": 2,
-    "exp": "(Refer: Gray’s Anatomy for Students, 1st edition, pg no: 418)\nMesorectal Fascia\n It contains:\n\nSuperior rectal artery and its branches.\nSuperior rectal vein and tributaries.\nLymphatic vessels and nodes along the superior rectal artery.\nBranches from the inferior mesenteric plexus which descend to innervate the rectum.\nLoose adipose connective tissue."
+    "cop": 1,
+    "exp": "(Refer: Gray’s Anatomy for Students, 1st edition, pg no: 418)\nMesorectal Fascia\n It contains:\n\nSuperior rectal artery and its branches.\nSuperior rectal vein and tributaries.\nLymphatic vessels and nodes along the superior rectal artery.\nBranches from the inferior mesenteric plexus which descend to innervate the rectum.\nLoose adipose connective tissue.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "74de072f-c241-437a-8502-eccb9124b502": {
-    "cop": 4,
-    "exp": "Steroids should not be used in persistent epithelial defects Treatment Bacterial corneal ulcer Foified Antibiotic eye drops Cycloplegic & Mydriatic to relieve pain and give rest to ciliary body. Cyanoacrylate glue is also indicated in treatment of small perforation. In case of rise of intra-ocular pressure aqueous suppressant are used to reduce IOP. In case of Leucomatous corneal opacity, penetrating keratoplasty may be needed."
+    "cop": 3,
+    "exp": "Steroids should not be used in persistent epithelial defects Treatment Bacterial corneal ulcer Foified Antibiotic eye drops Cycloplegic & Mydriatic to relieve pain and give rest to ciliary body. Cyanoacrylate glue is also indicated in treatment of small perforation. In case of rise of intra-ocular pressure aqueous suppressant are used to reduce IOP. In case of Leucomatous corneal opacity, penetrating keratoplasty may be needed.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"true regarding treatment bacterial\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "911c09f5-68d5-41d0-a0dc-967ed299c43c": {
-    "cop": 3,
-    "exp": "Nasopharyngeal fibroma (Juvenile nasopharyngeal angiofibroma) is a benign tumor but locally invasive and destroys the adjoining structures. It may extend into, Nasal cavity Paranasal sinuses Pterygomaxillary fossa, infratemporal fossa and cheek Orbits Cranial cavity"
+    "cop": 2,
+    "exp": "Nasopharyngeal fibroma (Juvenile nasopharyngeal angiofibroma) is a benign tumor but locally invasive and destroys the adjoining structures. It may extend into, Nasal cavity Paranasal sinuses Pterygomaxillary fossa, infratemporal fossa and cheek Orbits Cranial cavity",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Nasopharyngeal fibroma made vascular\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b3622b72-f0b5-45aa-91f7-0e37dc997302": {
-    "cop": 4,
-    "exp": "Ans. (d) Hemangiopericytoma(Ref: Sternberg's Diagnostic Surgical Pathology, 5th Edition, table 511)HemangiopericytomaTumor derived from pericytes Q - perivascular cells that wrap around blood capillariesThese tumors most commonly arise from pelvic retroperitoneum Q or the limbs Q (particularly thighs).Capillaries are arranged in 'fish-hook pattern;' Q seen best with silver stains Q"
+    "cop": 3,
+    "exp": "Ans. (d) Hemangiopericytoma(Ref: Sternberg's Diagnostic Surgical Pathology, 5th Edition, table 511)HemangiopericytomaTumor derived from pericytes Q - perivascular cells that wrap around blood capillariesThese tumors most commonly arise from pelvic retroperitoneum Q or the limbs Q (particularly thighs).Capillaries are arranged in 'fish-hook pattern;' Q seen best with silver stains Q",
+    "hint_exp": "🎯 Think of \"capillaries\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ca5d0fab-ed4a-42d6-a113-6e4ca70fd1fb": {
-    "cop": 4,
-    "exp": "Hematopoietic progenitor cell antigen CD34 also known as CD34 antigen is a protein that in humans is encoded by the CD34 gene. CD34 is a cluster of differentiation first described independently by Civin et al. and Tindle et al. in a cell surface glycoprotein and functions as a cell-cell adhesion factor. It may also mediate the attachment of stem cells to bone marrow extracellular matrix or directly to stromal cells.The CD34 protein is a member of a family of single-pass transmembrane sialomucin proteins that show expression on early hematopoietic and vascular-associated tissue. However, little is known about its exact function. CD34 is also an impoant adhesion molecule and is required for T cells to enter lymph nodes. It is expressed on lymph node endothelia, whereas the L-selectin to which it binds is on the T cell. Conversely, under other circumstances CD34 has been shown to act as molecular \"Teflon\" and block mast cell, eosinophil and dendritic cell precursor adhesion, and to facilitate opening of vascular lumens. Finally, recent data suggest CD34 may also play a more selective role in chemokine-dependent migration of eosinophils and dendritic cell precursors. Regardless of its mode of action, under all circumstances CD34, and its relatives podocalyxin and endoglycan, facilitates cell migration."
+    "cop": 3,
+    "exp": "Hematopoietic progenitor cell antigen CD34 also known as CD34 antigen is a protein that in humans is encoded by the CD34 gene. CD34 is a cluster of differentiation first described independently by Civin et al. and Tindle et al. in a cell surface glycoprotein and functions as a cell-cell adhesion factor. It may also mediate the attachment of stem cells to bone marrow extracellular matrix or directly to stromal cells.The CD34 protein is a member of a family of single-pass transmembrane sialomucin proteins that show expression on early hematopoietic and vascular-associated tissue. However, little is known about its exact function. CD34 is also an impoant adhesion molecule and is required for T cells to enter lymph nodes. It is expressed on lymph node endothelia, whereas the L-selectin to which it binds is on the T cell. Conversely, under other circumstances CD34 has been shown to act as molecular \"Teflon\" and block mast cell, eosinophil and dendritic cell precursor adhesion, and to facilitate opening of vascular lumens. Finally, recent data suggest CD34 may also play a more selective role in chemokine-dependent migration of eosinophils and dendritic cell precursors. Regardless of its mode of action, under all circumstances CD34, and its relatives podocalyxin and endoglycan, facilitates cell migration.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following surface glycoproteins\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "84045b88-778c-4313-9c06-1ecdd7bea4a2": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Enbloc resection segment bone\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c2dae18b-f29b-4a59-8faa-b668d58daba8": {
-    "cop": 2,
-    "exp": "Ans. B i.e. HBVHBV spread by parenteral, sexual contact or by pefinatal route"
+    "cop": 1,
+    "exp": "Ans. B i.e. HBVHBV spread by parenteral, sexual contact or by pefinatal route",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"spread feco oral route\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "28bb7021-c04b-46d1-9f71-c636e333bf6b": {
-    "cop": 2,
-    "exp": "Ans. B: Silvery ScalingPsoriasis is a chronic dermatosis characterized by an unpredictable course of remissions and relapses and presence at typical sites of papules and plaques which are:Well definedErythematousSurmounted with large, silvery, loose scales."
+    "cop": 1,
+    "exp": "Ans. B: Silvery ScalingPsoriasis is a chronic dermatosis characterized by an unpredictable course of remissions and relapses and presence at typical sites of papules and plaques which are:Well definedErythematousSurmounted with large, silvery, loose scales.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following impoant feature psoriasis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8bd67c1e-b1a0-4d37-9835-f346fda7c984": {
-    "cop": 4,
-    "exp": "Ans. (d) Sentinel Lymphnode Biopsy(Ref, Surgery Sixer 3rd Edition Page 275)* Day before surgery or on the same day of surgery inject Technetium 99m Sulfur colloid in the breast parenchyma or around the tumor, this activity can be measured using Gamma probe during surgery.* The node with high activity is Sentinel node."
+    "cop": 3,
+    "exp": "Ans. (d) Sentinel Lymphnode Biopsy(Ref, Surgery Sixer 3rd Edition Page 275)* Day before surgery or on the same day of surgery inject Technetium 99m Sulfur colloid in the breast parenchyma or around the tumor, this activity can be measured using Gamma probe during surgery.* The node with high activity is Sentinel node.",
+    "hint_exp": "🎯 Think of \"going on here\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8885a03d-19c1-4aa5-b718-aa3b66890144": {
-    "cop": 4,
-    "exp": "Craniosynostosis is the premature fusion of one or more cranial sutures, either major (e.g. metopic, coronal, sagittal and lambdoid) or minor (frontonasal, temporosquamosal, and frontosphenoidal). Cranial sutures normally fuse during early childhood, staing with the metopic suture (beginning at 2 months), followed by sagittal, coronal and lambdoid sutures (22-26 months), such that the frontonasal and frontozygomatic sutures close last (68-72 months). Premature fusion restricts the growth of the skull perpendicular to the affected suture. Compensatory skull growth occurs parallel to the affected suture in order to accommodate the growing brain. The resulting skull deformity is termed as scaphocephaly, plagiocephaly or trigonocephaly based on the suture involved. Cloverleaf skull deformity is caused by the fusion of multiple sutures and is associated with hydrocephalus. Patients with tower skull or acrocephaly have combined sagittal, coronal and lambdoid synostosis, often as pa of Ape or Crouzon syndrome. Oxycephaly or turricephaly refers to a tall cranium resulting from delayed repair of brachycephaly and is often syndromic."
+    "cop": 3,
+    "exp": "Craniosynostosis is the premature fusion of one or more cranial sutures, either major (e.g. metopic, coronal, sagittal and lambdoid) or minor (frontonasal, temporosquamosal, and frontosphenoidal). Cranial sutures normally fuse during early childhood, staing with the metopic suture (beginning at 2 months), followed by sagittal, coronal and lambdoid sutures (22-26 months), such that the frontonasal and frontozygomatic sutures close last (68-72 months). Premature fusion restricts the growth of the skull perpendicular to the affected suture. Compensatory skull growth occurs parallel to the affected suture in order to accommodate the growing brain. The resulting skull deformity is termed as scaphocephaly, plagiocephaly or trigonocephaly based on the suture involved. Cloverleaf skull deformity is caused by the fusion of multiple sutures and is associated with hydrocephalus. Patients with tower skull or acrocephaly have combined sagittal, coronal and lambdoid synostosis, often as pa of Ape or Crouzon syndrome. Oxycephaly or turricephaly refers to a tall cranium resulting from delayed repair of brachycephaly and is often syndromic.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Craniosynostosis occurs premature fusion\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d5833546-b3fa-4940-9755-dc88c8fe52a3": {
-    "cop": 4,
-    "exp": "Lofgren's syndrome consists of erythema nodosum and hilar adenopathy on chest roentgenogram. In some cases, periaicular ahritis may be identified without erythema nodosum. Lofgren's syndrome is associated with a good prognosis, with >90% of patients experiencing disease resolution within 2years.Heerfordt - Uveoparotid fever with facial palsyReference: Harrison&;s Principles of Internal Medicine; 19th edition; Chapter 390; Sarcoidosis"
+    "cop": 3,
+    "exp": "Lofgren's syndrome consists of erythema nodosum and hilar adenopathy on chest roentgenogram. In some cases, periaicular ahritis may be identified without erythema nodosum. Lofgren's syndrome is associated with a good prognosis, with >90% of patients experiencing disease resolution within 2years.Heerfordt - Uveoparotid fever with facial palsyReference: Harrison&;s Principles of Internal Medicine; 19th edition; Chapter 390; Sarcoidosis",
+    "hint_exp": "🧩 Your crush solved \"Lofgren syndrome\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9e525cb5-c135-4e2f-9bc2-ef5a3a19f597": {
-    "cop": 2,
-    "exp": "Question repeatedMyxedema coma is a state of decompensated hypothyroidism. A person may have lab values identical to a \"normal\" hypothyroid state, but a stressful event (such as an infection, myocardial infarction or stroke) precipitates the myxedema coma state, usually in the elderly. Primary symptoms of myxedema coma are altered mental status and low body temperature. Low blood sugar, low blood pressure, hyponatremia, hypercapnia, hypoxia, slowed hea rate, and hypoventilation may also occur. Myxedema, although included in the name, is not necessarily seen in myxedema coma."
+    "cop": 1,
+    "exp": "Question repeatedMyxedema coma is a state of decompensated hypothyroidism. A person may have lab values identical to a \"normal\" hypothyroid state, but a stressful event (such as an infection, myocardial infarction or stroke) precipitates the myxedema coma state, usually in the elderly. Primary symptoms of myxedema coma are altered mental status and low body temperature. Low blood sugar, low blood pressure, hyponatremia, hypercapnia, hypoxia, slowed hea rate, and hypoventilation may also occur. Myxedema, although included in the name, is not necessarily seen in myxedema coma.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"seen myxoedema coma except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e3a40eb4-8ce5-4e8b-a428-c8a8a175b157": {
-    "cop": 2,
-    "exp": "The C7 vertebra is also known as the vertebra prominens because of its long spinous process."
+    "cop": 1,
+    "exp": "The C7 vertebra is also known as the vertebra prominens because of its long spinous process.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which most prominent spinous\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4f79134c-c671-4778-9d15-23904694b013": {
-    "cop": 2,
-    "exp": "i.e. (Elschnig's pearls): (201-Khurana 4th) (278-79- Parson 21st)* Elschnig s pearls - in which the vacuolated sub capsular epithelial cells are clustered like soap bubbles along the posterior capsuleSoemmering's ring - in which refer to a thick ring of after cataract formed behind the iris, enclosed between the two layers of capsuleAFTER CATARACT OR SECONDARY CATARACT - It is the opacity which persists or develops after extracapsular lens extraction (ECLE)* YAG - laser capsulotomy is the treatment of choice**"
+    "cop": 1,
+    "exp": "i.e. (Elschnig's pearls): (201-Khurana 4th) (278-79- Parson 21st)* Elschnig s pearls - in which the vacuolated sub capsular epithelial cells are clustered like soap bubbles along the posterior capsuleSoemmering's ring - in which refer to a thick ring of after cataract formed behind the iris, enclosed between the two layers of capsuleAFTER CATARACT OR SECONDARY CATARACT - It is the opacity which persists or develops after extracapsular lens extraction (ECLE)* YAG - laser capsulotomy is the treatment of choice**",
+    "hint_exp": "🎯 Think of \"After cataract\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "abaf958a-b608-47e2-8935-ee56ab75fe67": {
-    "cop": 1,
-    "exp": "Labial fusion in adult women is most commonly due to classical congenital adrenal hyperplasia. Other causes include, Fetal exogenous androgen exposure Abdominal wall defects Ref: (2010). Chapter 40. Reproductive Tract Abnormalities. In Cunningham F, Leveno K.J., Bloom S.L., Hauth J.C., Rouse D.J., Spong C.Y. (Eds), Williams Obstetrics, 23e."
+    "cop": 0,
+    "exp": "Labial fusion in adult women is most commonly due to classical congenital adrenal hyperplasia. Other causes include, Fetal exogenous androgen exposure Abdominal wall defects Ref: (2010). Chapter 40. Reproductive Tract Abnormalities. In Cunningham F, Leveno K.J., Bloom S.L., Hauth J.C., Rouse D.J., Spong C.Y. (Eds), Williams Obstetrics, 23e.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the common\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "10e79d01-13fe-4b37-9290-f9fa50a1f079": {
-    "cop": 2,
-    "exp": "(B) Battledore placenta# Battledore placenta: The umbilical cord is attached to margin of placenta, if associated with low implantation of placenta, there is a chance of cord compression in vaginal delivery leading to fetal anoxia or even death."
+    "cop": 1,
+    "exp": "(B) Battledore placenta# Battledore placenta: The umbilical cord is attached to margin of placenta, if associated with low implantation of placenta, there is a chance of cord compression in vaginal delivery leading to fetal anoxia or even death.",
+    "hint_exp": "🧩 Your crush solved \"seen in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e0813115-4677-4372-ac2c-013bd6745df4": {
-    "cop": 4,
-    "exp": "Baclofen is a GABA - B agonist that acts centrally to produce muscle relaxation."
+    "cop": 3,
+    "exp": "Baclofen is a GABA - B agonist that acts centrally to produce muscle relaxation.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c0e6de42-fbb6-4062-8cd7-44af76ac9ec5": {
-    "cop": 4,
-    "exp": "Digastric muscles refers to muscles with two bellies. Sternocleidomastoid has two heads but it does not have two bellies and hence this muscle cannot be termed as a digastric muscle."
+    "cop": 3,
+    "exp": "Digastric muscles refers to muscles with two bellies. Sternocleidomastoid has two heads but it does not have two bellies and hence this muscle cannot be termed as a digastric muscle.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3b8fb6cd-ade9-499d-a267-2e4ae1697a4b": {
-    "cop": 1,
-    "exp": "Dengue hemorrhagic fever, a rare complication of dengue fever, characterized by high fever, damage to lymph and blood vessels, bleeding from the nose and gums, enlargement of the liver, and failure of the circulatory system. The symptoms may progress to massive bleeding, shock, and death. This is called dengue shock syndrome (DSS). Here plasma volume replacement is most urgent, IV crystalloids are used for that purpose."
+    "cop": 0,
+    "exp": "Dengue hemorrhagic fever, a rare complication of dengue fever, characterized by high fever, damage to lymph and blood vessels, bleeding from the nose and gums, enlargement of the liver, and failure of the circulatory system. The symptoms may progress to massive bleeding, shock, and death. This is called dengue shock syndrome (DSS). Here plasma volume replacement is most urgent, IV crystalloids are used for that purpose.",
+    "hint_exp": "🎯 Think of \"Dengue shock syndrome\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c1f8ed82-37c9-427d-85ba-7099858d3aad": {
-    "cop": 2,
-    "exp": "Cyst and trophozite in stool"
+    "cop": 1,
+    "exp": "Cyst and trophozite in stool",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Giardiasis best diagnosed\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "11e615a4-d3f0-4dc0-ba61-5f507319da3f": {
-    "cop": 1,
-    "exp": "The common peroneal nerve is a component of the sciatic nerve. In the posterior thigh, it supplies the sho head of biceps femoris. It curves around neck of fibula deep to peroneus longus and divides into superficial and deep peroneal nerves. The superficial peroneal nerve innervates peroneus longus and peroneus brevis which are the eveors of foot and to the skin over the dorsal area of foot except the first webspace and lateral side of little toe. The deep peroneal nerve innervates all muscles of anterior compa which are the dorsiflexors of foot, extensor digitorum brevis, first two dorsal interossei muscles and skin between great and second toes. Hence, injury to common peroneal nerve will lead to weakness of dorsiflexion of foot or foot drop, loss of eversion, loss of extension of toes and sensory loss along anterior and lateral side of leg, dorsum of foot including medial side of great toe. Ref: Gray&;s Anatomy 41st edition PGno: 632"
+    "cop": 0,
+    "exp": "The common peroneal nerve is a component of the sciatic nerve. In the posterior thigh, it supplies the sho head of biceps femoris. It curves around neck of fibula deep to peroneus longus and divides into superficial and deep peroneal nerves. The superficial peroneal nerve innervates peroneus longus and peroneus brevis which are the eveors of foot and to the skin over the dorsal area of foot except the first webspace and lateral side of little toe. The deep peroneal nerve innervates all muscles of anterior compa which are the dorsiflexors of foot, extensor digitorum brevis, first two dorsal interossei muscles and skin between great and second toes. Hence, injury to common peroneal nerve will lead to weakness of dorsiflexion of foot or foot drop, loss of eversion, loss of extension of toes and sensory loss along anterior and lateral side of leg, dorsum of foot including medial side of great toe. Ref: Gray&;s Anatomy 41st edition PGno: 632",
+    "hint_exp": "🧩 Your crush solved \"caused by damage to\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "af6e38ca-bbd7-438c-9714-6acb1862f38d": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Ototoxic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "75fc7ca6-2c3c-4a2b-ac51-5e9eceddb85a": {
-    "cop": 3,
-    "exp": "(C) Hypertonia FEATUREUMN LesionLMN LesionFunctionInhibitory effect on muscle stretch reflexMotor component of muscle reflexType of paralysisSpasticFlaccidDTRHyperreflexiaHyperreflexiaMuscle ToneHypertonicDecorticate rigidity: lesion above midbrainDecerebrate rigidity: Below midbrainHypertonicMuscle MassDisuse atrophyWasting atrophyFasciculationsNoPresentBabinski signPositiveNoOther reflexesAbdominal & Cremasteric LOST-Voluntary movementDecreased speedLostArea of body involvedLarge areaSmall area"
+    "cop": 2,
+    "exp": "(C) Hypertonia FEATUREUMN LesionLMN LesionFunctionInhibitory effect on muscle stretch reflexMotor component of muscle reflexType of paralysisSpasticFlaccidDTRHyperreflexiaHyperreflexiaMuscle ToneHypertonicDecorticate rigidity: lesion above midbrainDecerebrate rigidity: Below midbrainHypertonicMuscle MassDisuse atrophyWasting atrophyFasciculationsNoPresentBabinski signPositiveNoOther reflexesAbdominal & Cremasteric LOST-Voluntary movementDecreased speedLostArea of body involvedLarge areaSmall area",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Features of LMN lesion EXCEPT\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0e437f95-b763-4bdc-999c-9578d1027207": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Which disclosing solution differentiates\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4eb028b4-fdc9-4939-bd5d-629992e161aa": {
-    "cop": 3,
-    "exp": "Ans. (c) 13%Ref: K. Park 23rd ed. / 61* Prevalence is calculated asNo. of new cases + no of old casesTotal Populationx 100* Therefore prevalence =500 + 1505000x 100* Prevalence =13%Also Know* Prevalence is a Proportion* Incidence is a Rate"
+    "cop": 2,
+    "exp": "Ans. (c) 13%Ref: K. Park 23rd ed. / 61* Prevalence is calculated asNo. of new cases + no of old casesTotal Populationx 100* Therefore prevalence =500 + 1505000x 100* Prevalence =13%Also Know* Prevalence is a Proportion* Incidence is a Rate",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"new cases of TB\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f564251c-3373-470b-beb2-0eaaab38f7fb": {
-    "cop": 1,
-    "exp": "Immunohistochemistry: these tumors have spindle cells which are positive for vimentin and epithelial components positive for cytokeratin. More recently, molecular diagnostic studies have identitied a unique translocation, t (X;18), producing SYT/SSX1 or - SSX2 fusion genes. S-100 staining may give positive results."
+    "cop": 0,
+    "exp": "Immunohistochemistry: these tumors have spindle cells which are positive for vimentin and epithelial components positive for cytokeratin. More recently, molecular diagnostic studies have identitied a unique translocation, t (X;18), producing SYT/SSX1 or - SSX2 fusion genes. S-100 staining may give positive results.",
+    "hint_exp": "🧩 Your crush solved \"Synovial sarcoma cellular markers\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3325f8b2-4a2d-425e-899b-ae7b26fd9010": {
-    "cop": 1,
-    "exp": "Phenolphtalein and castor oil are stimulant purgatives whereas docussates and liquud paraffin are stool softners.liquid paraffin may cause deficiency of fat soluble vitamins. (ref KDT 7/e p673-674)"
+    "cop": 0,
+    "exp": "Phenolphtalein and castor oil are stimulant purgatives whereas docussates and liquud paraffin are stool softners.liquid paraffin may cause deficiency of fat soluble vitamins. (ref KDT 7/e p673-674)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which stool softners doesnot\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6d06c255-3b9c-4eaa-afe9-6fed59ecb582": {
-    "cop": 2,
-    "exp": "Thick ascending LOH is k/a the diluting segments of the nephron. It is impermeable to water. It has NKCC cotranspoer proteins that reabsorb Na+, K+, 2Cl- ions. Thus,There is a net reabsorption of solutes with no movement of water, making the tubular fluid that reaches the DCT hypotonic."
+    "cop": 1,
+    "exp": "Thick ascending LOH is k/a the diluting segments of the nephron. It is impermeable to water. It has NKCC cotranspoer proteins that reabsorb Na+, K+, 2Cl- ions. Thus,There is a net reabsorption of solutes with no movement of water, making the tubular fluid that reaches the DCT hypotonic.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"a nephron\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "07daa8be-34e1-490f-a74a-4afbf44494a4": {
-    "cop": 1,
-    "exp": "Ans. Arsenic poisoning"
+    "cop": 0,
+    "exp": "Ans. Arsenic poisoning",
+    "hint_exp": "🎯 Think of \"Raindrop pigmentation seen Kerala\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "064cfff9-f49e-4251-8d78-98553449dce4": {
-    "cop": 3,
-    "exp": "Ans. is 'c' ie Torsion of testis Torsion of testis can be differentiated from acute epididymitis by Prehn's sign. ie. On elevation of testis the pain increases in - Torsion On elevation of testis the pain decreases in -- epididymo-orchitis. Don't be confused with fever, it can also occur in torsion, especially in older patients."
+    "cop": 2,
+    "exp": "Ans. is 'c' ie Torsion of testis Torsion of testis can be differentiated from acute epididymitis by Prehn's sign. ie. On elevation of testis the pain increases in - Torsion On elevation of testis the pain decreases in -- epididymo-orchitis. Don't be confused with fever, it can also occur in torsion, especially in older patients.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"in the scrotum which\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "74f55c89-839f-4486-b484-c3ee2cbc1e59": {
-    "cop": 3,
-    "exp": "Harrison's principles of internal medicine 17th edition *Glasgow coma score eye opening 4-spontaneous,3- verbal stimuli, 2- painful stimuli,1-no response ( nonintubated). 5- oriented and talks, 4- disoriented and talks,3-inappropriate words,2- incomprehensible sounds,1-no response verbal(intubated). 5- seems able to talk,3- questionable ability to talk,1-generally unresponsive activity. 6- verbal command,5- localises to pain,4-withdraws to pain,3- decoicate,2- decerebrate,1-no response"
+    "cop": 2,
+    "exp": "Harrison's principles of internal medicine 17th edition *Glasgow coma score eye opening 4-spontaneous,3- verbal stimuli, 2- painful stimuli,1-no response ( nonintubated). 5- oriented and talks, 4- disoriented and talks,3-inappropriate words,2- incomprehensible sounds,1-no response verbal(intubated). 5- seems able to talk,3- questionable ability to talk,1-generally unresponsive activity. 6- verbal command,5- localises to pain,4-withdraws to pain,3- decoicate,2- decerebrate,1-no response",
+    "hint_exp": "🧩 Your crush solved \"his Glassgow coma Score\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ee819522-6607-422f-9775-760e4d8a60f9": {
-    "cop": 1,
-    "exp": "Ans. (a) Ivor Lewis approachRef: Bailey and Love 25th Edition, Page 1033The methods of treating lower end esophageal cancer by surgery can be by* Ivor lewis transthoracic radical two stage lymphadenectomy* Video Assisted Thoracoscopic Surgery (VATS) esophagectomy* Transhiatal esophagectomy of Orringer."
+    "cop": 0,
+    "exp": "Ans. (a) Ivor Lewis approachRef: Bailey and Love 25th Edition, Page 1033The methods of treating lower end esophageal cancer by surgery can be by* Ivor lewis transthoracic radical two stage lymphadenectomy* Video Assisted Thoracoscopic Surgery (VATS) esophagectomy* Transhiatal esophagectomy of Orringer.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Lower Esophageal cancer treated\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bddca572-35d2-4fe0-ae1f-83664a95b223": {
-    "cop": 2,
-    "exp": "Maternal plasma levels of prolactin increase markedly during normal pregnancy and concentrations are usually 10-fold greater at term--about 150 ng/mL--compared with nonpregnant women. Paradoxically, plasma concentrations decrease after delivery even in women who are breast feeding. During early lactation, there are pulsatile bursts of prolactin secretion in response to suckling. Ref: Cunningham F.G., Leveno K.J., Bloom S.L., Hauth J.C., Rouse D.J., Spong C.Y. (2010). Chapter 5. Maternal Physiology. In F.G. Cunningham, K.J. Leveno, S.L. Bloom, J.C. Hauth, D.J. Rouse, C.Y. Spong (Eds), Williams Obstetrics, 23e."
+    "cop": 1,
+    "exp": "Maternal plasma levels of prolactin increase markedly during normal pregnancy and concentrations are usually 10-fold greater at term--about 150 ng/mL--compared with nonpregnant women. Paradoxically, plasma concentrations decrease after delivery even in women who are breast feeding. During early lactation, there are pulsatile bursts of prolactin secretion in response to suckling. Ref: Cunningham F.G., Leveno K.J., Bloom S.L., Hauth J.C., Rouse D.J., Spong C.Y. (2010). Chapter 5. Maternal Physiology. In F.G. Cunningham, K.J. Leveno, S.L. Bloom, J.C. Hauth, D.J. Rouse, C.Y. Spong (Eds), Williams Obstetrics, 23e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"levels\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "449bce5b-81af-4611-9c21-21d66c4fd8c3": {
-    "cop": 3,
-    "exp": "COMMON PERONEAL NERVE:- Smaller terminal branch of sciatic nerve.Root value: dorsal division of ventral rami of L4,L5,S1,S2.Beginning: begins in back of thigh as a smaller subdivision of the sciatic nerve. Course:lies in upper lateral pa of popliteal fossa. It turns around the lateral surface of the fibula. Then it lies in the substance of peroneus longus muscle.Terminates by dividing into two terminal branches- superficial and deep peroneal. Commonest nerve to be paralysed.Causes of injury:1. Fracture neck of fibula.2. Lathi injury on lateral side of knee joint.3. Due to plaster on leg.- nerve get compressed between hard plaster and neck of fibula.To prevent this cotton must be placed on the upper lateral side of the leg. {Reference: BDC 6E}"
+    "cop": 2,
+    "exp": "COMMON PERONEAL NERVE:- Smaller terminal branch of sciatic nerve.Root value: dorsal division of ventral rami of L4,L5,S1,S2.Beginning: begins in back of thigh as a smaller subdivision of the sciatic nerve. Course:lies in upper lateral pa of popliteal fossa. It turns around the lateral surface of the fibula. Then it lies in the substance of peroneus longus muscle.Terminates by dividing into two terminal branches- superficial and deep peroneal. Commonest nerve to be paralysed.Causes of injury:1. Fracture neck of fibula.2. Lathi injury on lateral side of knee joint.3. Due to plaster on leg.- nerve get compressed between hard plaster and neck of fibula.To prevent this cotton must be placed on the upper lateral side of the leg. {Reference: BDC 6E}",
+    "hint_exp": "🎯 Think of \"the fibula\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "10b15914-d6cb-4ff9-8ee3-a1607bb0b676": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Carcinoma pancreas associated with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "efb73764-7f58-4966-96fc-db87bedcbc58": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., FTA-ABS becomes negative after treatment(Ref: Ananthanarayan, 9th/e, p. 370,375 and 8th/e, p. 376-377; Harrison, 18th/e, p. 1385, 17th/e, p. 1043, 19th/e, p. 1132)Specific treponemal tests (FTA-ABS, TPHA, TPI) are of little value as indicators of clinical cure, as they tend to remain positive in spite of treatment because of it. Specific tests are not used in monitoring of the treatment. VDRL or RPR can be used for treatment monitoring as specific tests remain positive (reactive) after the treatment."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., FTA-ABS becomes negative after treatment(Ref: Ananthanarayan, 9th/e, p. 370,375 and 8th/e, p. 376-377; Harrison, 18th/e, p. 1385, 17th/e, p. 1043, 19th/e, p. 1132)Specific treponemal tests (FTA-ABS, TPHA, TPI) are of little value as indicators of clinical cure, as they tend to remain positive in spite of treatment because of it. Specific tests are not used in monitoring of the treatment. VDRL or RPR can be used for treatment monitoring as specific tests remain positive (reactive) after the treatment.",
+    "hint_exp": "🧩 Your crush solved \"true about Syphilis except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "89478ed7-39f4-40f4-8a53-2d33b1aa8e8d": {
-    "cop": 1,
-    "exp": "(Measles) (137-Park 20th)* Subacute sclerosing pan-encephalitis (SSPE) is a rare complication which develops many years after the initial measles infections. It is characterized by progessive mental deterioration leading to paralysis, probably due to persistence of the virus in the brain.* Measles vaccination definitely constitutes a protection against the neurological and other complications by preventing natural measles from occurring* **A11 cases of severe measles and all cases of measles in areas with high case fatality rates should be treated with vitamin A"
+    "cop": 0,
+    "exp": "(Measles) (137-Park 20th)* Subacute sclerosing pan-encephalitis (SSPE) is a rare complication which develops many years after the initial measles infections. It is characterized by progessive mental deterioration leading to paralysis, probably due to persistence of the virus in the brain.* Measles vaccination definitely constitutes a protection against the neurological and other complications by preventing natural measles from occurring* **A11 cases of severe measles and all cases of measles in areas with high case fatality rates should be treated with vitamin A",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"caused by\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "effa38fd-3049-4d1f-80af-6826afb6030d": {
-    "cop": 3,
-    "exp": "Types of nerve fibers\nA fibers are fast fibers.\n-        Aα- Somatic motor to extrafusal fibers of muscle spindle, proprioception\n-        Aβ- Kinesthetic, pressure and touch\n-        Aγ- Motor to intrafusal fibers of muscle spindle\n-        Aδ-  Pain, temperature, touch and pressure\n-        B fibers- Autonomic preganglionic (Myelinated)\n-        C fibers- Pain, temperature, autonomic postganglionic (mainly sympathetic)"
+    "cop": 2,
+    "exp": "Types of nerve fibers\nA fibers are fast fibers.\n-        Aα- Somatic motor to extrafusal fibers of muscle spindle, proprioception\n-        Aβ- Kinesthetic, pressure and touch\n-        Aγ- Motor to intrafusal fibers of muscle spindle\n-        Aδ-  Pain, temperature, touch and pressure\n-        B fibers- Autonomic preganglionic (Myelinated)\n-        C fibers- Pain, temperature, autonomic postganglionic (mainly sympathetic)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Group nerve fibres area\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bb077b7c-929e-46ef-8e4c-87d1285198c2": {
-    "cop": 1,
-    "exp": "Answer- A. Dyspnea resolves after cessation of exposureSymptoms of Byssinosis may improve on cessation of fuher exposure. Therefore symPtoms are worse at workPlace and improve away from workplace.Symptoms are similar to asthma (not emphysema or chronic bronchitis) --> Typical 'monday chest tightness'.Byssinosis does not usually cause mediastinal fibrosis'"
+    "cop": 0,
+    "exp": "Answer- A. Dyspnea resolves after cessation of exposureSymptoms of Byssinosis may improve on cessation of fuher exposure. Therefore symPtoms are worse at workPlace and improve away from workplace.Symptoms are similar to asthma (not emphysema or chronic bronchitis) --> Typical 'monday chest tightness'.Byssinosis does not usually cause mediastinal fibrosis'",
+    "hint_exp": "🎯 Think of \"true regarding byssinosis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2e396ecb-8da3-436d-8b1f-eef9662f6553": {
-    "cop": 3,
-    "exp": "In both rats & humans, paial hepatectomy results in a substantial increase in serum estradiol concentrations. Because mammalian liver of both sexes contains estrogen receptor, it has been suggested that this surge in serum estrogen concentration may initiate or facilitate liver regeneration. Ref: guyton and hall textbook of medical physiology 12 edition page number: 420,421,422"
+    "cop": 2,
+    "exp": "In both rats & humans, paial hepatectomy results in a substantial increase in serum estradiol concentrations. Because mammalian liver of both sexes contains estrogen receptor, it has been suggested that this surge in serum estrogen concentration may initiate or facilitate liver regeneration. Ref: guyton and hall textbook of medical physiology 12 edition page number: 420,421,422",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following parameter will\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "dba79e5c-9f07-49ed-83f7-a4ec8c210cdc": {
-    "cop": 1,
-    "exp": "The best test to evaluate the destruction and dilatation of large airways which are filled with pus in bronchiectasis is HRCT. Spiral CT is preferred for pulmonary embolism. Pulmonary angiography is done for lung sequestration and is the gold standard for pulmonary embolism."
+    "cop": 0,
+    "exp": "The best test to evaluate the destruction and dilatation of large airways which are filled with pus in bronchiectasis is HRCT. Spiral CT is preferred for pulmonary embolism. Pulmonary angiography is done for lung sequestration and is the gold standard for pulmonary embolism.",
+    "hint_exp": "🧩 Your crush solved \"the IOC for bronchiectasis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

@@ -1,202 +1,252 @@
 {
   "6e35597e-c15a-4f75-8bc9-a546d10ef1e0": {
-    "cop": 1,
-    "exp": "Sensitivity is the ability of a test to identify correctly all those who have the disease, that is &;true positive&;Specificity is the ability of a test to identify correctly all those who do not have the disease, that is &;true negative&;"
+    "cop": 0,
+    "exp": "Sensitivity is the ability of a test to identify correctly all those who have the disease, that is &;true positive&;Specificity is the ability of a test to identify correctly all those who do not have the disease, that is &;true negative&;",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"ability screening test detect\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9226b2f7-4614-463e-a4a1-fdfc173a9406": {
-    "cop": 2,
-    "exp": "Ans. B CricopharyngeusRef: BDC, 6th ed. vol. I pg. 282* The first constriction present at the root of the neck is bounded by Cricopharyngeus muscle. Foreign body most commonly lodges here because of its strong constriction.The Esophagus Shows 4 Constrictions at the Following Levels1. At its beginning, 15 cm from the incisor teeth2. Where it is crossed by the aortic arch, 22.5 cm from the incisor teeth3. Where it is crossed by the left bronchus, 27.5 cm from the incisor teeth4. Where it pierces the diaphragm 37.5 cm from the incisor teeth.Extra Mile* Most common foreign body which lodges in esophagus is food particle."
+    "cop": 1,
+    "exp": "Ans. B CricopharyngeusRef: BDC, 6th ed. vol. I pg. 282* The first constriction present at the root of the neck is bounded by Cricopharyngeus muscle. Foreign body most commonly lodges here because of its strong constriction.The Esophagus Shows 4 Constrictions at the Following Levels1. At its beginning, 15 cm from the incisor teeth2. Where it is crossed by the aortic arch, 22.5 cm from the incisor teeth3. Where it is crossed by the left bronchus, 27.5 cm from the incisor teeth4. Where it pierces the diaphragm 37.5 cm from the incisor teeth.Extra Mile* Most common foreign body which lodges in esophagus is food particle.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"which part of esophagus\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "39f0a289-72e1-46b4-959c-aab52c969bcc": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Dental fluorosis associated with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c6fa37ae-887f-4972-826d-c5e361a7b2fc": {
-    "cop": 4,
-    "exp": "Sociology Sociology can be viewed from two angles: (a) First, it can be seen as the study of relationships between human beings, and how these relationships change or vary in different pas of the world and at different times. The unit of study can be a small group (e.g., family) consisting of parents and children, or the study can extend beyond the family or small groups into the complex society where a greater number of people interact and interdependent in terms of economics, political power, general organization and ways of living. (b) The other pa of sociology is concerned with the study of human behaviour. Human behaviour is determined not merely by biological and physical environmental factors but also by social factors. Every form of human behaviour has a social component. Sociologists are interested in the study of the social determinants of human behaviour. In the final analysis it may be stated that the aim of sociology is to search for the pattern of relationships between people in order to pave the way for the betterment of individuals in relation to society."
+    "cop": 3,
+    "exp": "Sociology Sociology can be viewed from two angles: (a) First, it can be seen as the study of relationships between human beings, and how these relationships change or vary in different pas of the world and at different times. The unit of study can be a small group (e.g., family) consisting of parents and children, or the study can extend beyond the family or small groups into the complex society where a greater number of people interact and interdependent in terms of economics, political power, general organization and ways of living. (b) The other pa of sociology is concerned with the study of human behaviour. Human behaviour is determined not merely by biological and physical environmental factors but also by social factors. Every form of human behaviour has a social component. Sociologists are interested in the study of the social determinants of human behaviour. In the final analysis it may be stated that the aim of sociology is to search for the pattern of relationships between people in order to pave the way for the betterment of individuals in relation to society.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"study human relationships human\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "94300eb1-0931-4517-ab30-1dc1ff3df200": {
-    "cop": 1,
-    "exp": "(A) 30 points > MINI-MENTAL STATE EXAMINATION (MMSE) OR FOLSTEIN TEST is a brief 30-point questionnaire test that is used to screen for cognitive impairment. It is commonly used in medicine to screen for dementia. It is also used to estimate the severity of cognitive impairment at a given point in time and to follow the course of cognitive changes in an individual over time, thus making it an effective way to document an individual's response to treatment.CATEGORYPOSSIBLE POINTSDESCRIPTIONOrientation to time5From broadest to most narrow. Orientation to time has been correlated with future declineOrientation to place5From broadest to most narrow. This is sometimes narrowed down to streets, and sometimes to floor.Registration3Repeating named promptsAttention and calculation5Serial sevens, or spelling \"world\" backwardsIt has been suggested that serial sevens may be more appropriate in a population where English is not the first language.Recall3Registration recallLanguage2Name a pencil and a watchRepetition1Speaking back a phraseComplex commands6Varies> Interpretation: Any score greater than or equal to 25 points (out of 30) is effectively normal (intact). Below this, scores can indicate severe (=9 points), moderate (10-20 points) or mild (21-24 points). The raw score may also need to be corrected for educational attainment and age. Low to very low scores correlate closely with the presence of dementia, although other mental disorders can also lead to abnormal findings on MMSE testing. The presence of purely physical problems can also interfere with interpretation if not properly noted; for example, a patient may be physically unable to hear or read instructions properly, or nay have a motor deficit that affects writing and drawing skills"
+    "cop": 0,
+    "exp": "(A) 30 points > MINI-MENTAL STATE EXAMINATION (MMSE) OR FOLSTEIN TEST is a brief 30-point questionnaire test that is used to screen for cognitive impairment. It is commonly used in medicine to screen for dementia. It is also used to estimate the severity of cognitive impairment at a given point in time and to follow the course of cognitive changes in an individual over time, thus making it an effective way to document an individual's response to treatment.CATEGORYPOSSIBLE POINTSDESCRIPTIONOrientation to time5From broadest to most narrow. Orientation to time has been correlated with future declineOrientation to place5From broadest to most narrow. This is sometimes narrowed down to streets, and sometimes to floor.Registration3Repeating named promptsAttention and calculation5Serial sevens, or spelling \"world\" backwardsIt has been suggested that serial sevens may be more appropriate in a population where English is not the first language.Recall3Registration recallLanguage2Name a pencil and a watchRepetition1Speaking back a phraseComplex commands6Varies> Interpretation: Any score greater than or equal to 25 points (out of 30) is effectively normal (intact). Below this, scores can indicate severe (=9 points), moderate (10-20 points) or mild (21-24 points). The raw score may also need to be corrected for educational attainment and age. Low to very low scores correlate closely with the presence of dementia, although other mental disorders can also lead to abnormal findings on MMSE testing. The presence of purely physical problems can also interfere with interpretation if not properly noted; for example, a patient may be physically unable to hear or read instructions properly, or nay have a motor deficit that affects writing and drawing skills",
+    "hint_exp": "🧩 Your crush solved \"Folstein\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d3818ce7-c12f-4e08-9e1e-dca6b49ed1f4": {
-    "cop": 4,
-    "exp": "Definitions # Cor pulmonale is a latin word means \"pulmonary hea\" . # The world Health Organizaton in 1963 adopted this definition of cor pulmonale :\" hyperophy of the right ventricle resulting from diseases affecting the function and/or structure of the lungs, except when these pulmonary alterations are the result of diseases that primarily affect the left side of the hea , as congenital hea diseases\" # Cor pulmonale is a disease of the right ventricle characterized by hyperophy and dilation that results from diseases directly affecting the lung parenchyma or lung vasculature. Of note ,right hea failure need not be present in cor pulmonale . Pathophysiology * Under normal phsyologic conditions. the right ventricle pumps against a low-resistance circuit. * Normal pulmonary vascular resistance is approximately one-tenth the resistance of the systemic aeries. * The right ventricle is thin walled and able to accommodate considerable changes in volume without large changes in pressure. * Increased cardiac output leads to recruitment of underperfused pulmonary vessels and distention of other pulmonary vessels. * The initial pathophysiologic event in the production of co r pulmonale is elevation of the pulmonary vascular resistance. * As the resistance increases. the pulmonary aerial pressure rises. right ventricular work increases. right ventricular hyperophy (i.e.,thickening. dilation. or both ). * Right ventricular failure occurs when compensation through dilation and hyperophy are exhausted. Management * Treat underlying cause -- e.g. COPD and pulmonary infections * Treat respiratory failure -- in the acute situation give 24% oxygen if pa02 <8k Pa . Monitor ABG and gradually increase oxygen concentration if P,C0_ is stable. In COPD patients, long-term oxygen therapy (LTOT) for 15h/d increases survival. Patients with chronic hypoxia when clinically stable should be assessed for LTOT. ref : harrisons 21st ed"
+    "cop": 3,
+    "exp": "Definitions # Cor pulmonale is a latin word means \"pulmonary hea\" . # The world Health Organizaton in 1963 adopted this definition of cor pulmonale :\" hyperophy of the right ventricle resulting from diseases affecting the function and/or structure of the lungs, except when these pulmonary alterations are the result of diseases that primarily affect the left side of the hea , as congenital hea diseases\" # Cor pulmonale is a disease of the right ventricle characterized by hyperophy and dilation that results from diseases directly affecting the lung parenchyma or lung vasculature. Of note ,right hea failure need not be present in cor pulmonale . Pathophysiology * Under normal phsyologic conditions. the right ventricle pumps against a low-resistance circuit. * Normal pulmonary vascular resistance is approximately one-tenth the resistance of the systemic aeries. * The right ventricle is thin walled and able to accommodate considerable changes in volume without large changes in pressure. * Increased cardiac output leads to recruitment of underperfused pulmonary vessels and distention of other pulmonary vessels. * The initial pathophysiologic event in the production of co r pulmonale is elevation of the pulmonary vascular resistance. * As the resistance increases. the pulmonary aerial pressure rises. right ventricular work increases. right ventricular hyperophy (i.e.,thickening. dilation. or both ). * Right ventricular failure occurs when compensation through dilation and hyperophy are exhausted. Management * Treat underlying cause -- e.g. COPD and pulmonary infections * Treat respiratory failure -- in the acute situation give 24% oxygen if pa02 <8k Pa . Monitor ABG and gradually increase oxygen concentration if P,C0_ is stable. In COPD patients, long-term oxygen therapy (LTOT) for 15h/d increases survival. Patients with chronic hypoxia when clinically stable should be assessed for LTOT. ref : harrisons 21st ed",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "eb526edb-77ba-4c06-abcc-6ca1c0befe66": {
-    "cop": 3,
-    "exp": "Wilson disease (hepatolenticular degeneration) with Kayser-Fleischer corneal rings results from a mutation in the gene encoding for a copper-transporting ATPase (ATP7B). Excessive copper deposition occurs, particularly in the liver, putamen, and cornea. Psychiatric and neurologic disturbances are common in Wilson disease, and patients often develop chronic liver disease ranging from acute hepatitis to chronic hepatitis to cirrhosis. In di-antitrypsin deficiency, there can be chronic hepatitis and pulmonary emphysema, but there are no neurologic changes. Cystic fibrosis can lead to pulmonary disease and pancreatic insufficiency. Galactosemia can lead to liver disease and cirrhosis in early childhood. In its most severe form, Gaucher disease from glucocerebrosidase deficiency can lead to neurologic deterioration, but it does not lead to chronic liver disease. Von Gierke disease is a form of glycogen storage disease that does not commonly progress to cirrhosis."
+    "cop": 2,
+    "exp": "Wilson disease (hepatolenticular degeneration) with Kayser-Fleischer corneal rings results from a mutation in the gene encoding for a copper-transporting ATPase (ATP7B). Excessive copper deposition occurs, particularly in the liver, putamen, and cornea. Psychiatric and neurologic disturbances are common in Wilson disease, and patients often develop chronic liver disease ranging from acute hepatitis to chronic hepatitis to cirrhosis. In di-antitrypsin deficiency, there can be chronic hepatitis and pulmonary emphysema, but there are no neurologic changes. Cystic fibrosis can lead to pulmonary disease and pancreatic insufficiency. Galactosemia can lead to liver disease and cirrhosis in early childhood. In its most severe form, Gaucher disease from glucocerebrosidase deficiency can lead to neurologic deterioration, but it does not lead to chronic liver disease. Von Gierke disease is a form of glycogen storage disease that does not commonly progress to cirrhosis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"what substance\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "dd9b3d61-38c7-4586-b454-7e8f10e2e305": {
-    "cop": 2,
-    "exp": "schwartz formula for creatinine clearance :\n= k  X length / serum creatinine\n( k = 0.42)\nGFR = 0.42 X 85/2 = 17.8 ≈ 18."
+    "cop": 1,
+    "exp": "schwartz formula for creatinine clearance :\n= k  X length / serum creatinine\n( k = 0.42)\nGFR = 0.42 X 85/2 = 17.8 ≈ 18.",
+    "hint_exp": "🎯 Think of \"year child with length\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2170c349-c75b-4d29-a996-a6c2f59fffd1": {
-    "cop": 2,
-    "exp": "ASHA must be the resident of the village-a woman (married/widow/divorced) preferably in the age group of 25 to 45 years with formal education up to eighth class ,having communication skills and leadership qualities.Adequate representation from the disadvantaged population groups will ensure to serve such groups better (refer pgno: 449 park 23rd edition)"
+    "cop": 1,
+    "exp": "ASHA must be the resident of the village-a woman (married/widow/divorced) preferably in the age group of 25 to 45 years with formal education up to eighth class ,having communication skills and leadership qualities.Adequate representation from the disadvantaged population groups will ensure to serve such groups better (refer pgno: 449 park 23rd edition)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"training of ASHA worker\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "308be82e-64bb-4886-91dc-edf2b661c0c2": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Network analysis Network analysis o A network analysis is a graphic of all events and activities to be completed in order to reach an end objective. o It brings greater discipline in planning. o The two common types of network technique are : a) Programme Evaluation and Review technique (PE) b) Critical Path method (CPM)"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Network analysis Network analysis o A network analysis is a graphic of all events and activities to be completed in order to reach an end objective. o It brings greater discipline in planning. o The two common types of network technique are : a) Programme Evaluation and Review technique (PE) b) Critical Path method (CPM)",
+    "hint_exp": "🧩 Your crush solved \"system\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ca4ebbc0-79a7-47d7-84ff-572b4c041259": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Pseudomonas Aeroginosa o Malignant otitis externa is often caused by difficult to treat bacteria such as pseudomonas aeruginosa. Only rare cases of malignant otitis externa due to S.aureus, Proteus mirabilis and Aspergillus fumigatus have been reported.Malignant Otitis externao Malignant otitis externa, also called necrotizing external otitis, is a misnomer as it is not a neoplastic condition, rather it is an infectious condition. Malignant otitis externa is a disorder involving inflammation and damage of the bones and cartilage at the base of skull in temporal bone as a result of spread of infection from outer ear. Malignant otitis externa is often caused by difficult to treat bacteria such as pseudomonas aeruginosa. Only rare cases of malignant otitis externa due to S.aureus, Proteus mirabilis and Aspergillus fumigatus have been reported. The infection spreads from the floor of the ear canal to the nearby tissues and into the bones at the base of the skull. The infection and inflammation may damage or destroy the bones. The infection may spread more and affect the cranial nerves, brain, or other parts of the body.Predisposing factors for malignant otitis externao Elderly diabetics (most common predisposing factor)o Individuals with altered immune function (immunodeficiency)o ChemotherapyClinical features of malignant otitis externao Severe pain inside the ear and may get worse when moving head.o Granulation tissue in the external auditory canal, at the junction of bony and cartilagenous parto Drainage from the ear - yellow, yellow - green, foul smelling, persistento Fevero Itching of ear or ear canalo Troubled swallowing & weakness of face.Complicationso Cranial nerve palsies most commonly facial nerve is involved. Other cranial nerves can also be involved (glossopharyngeal, vagus, spinal accessory, hypoglossal, abducens, trigeminal),o Jugular venous thrombosiso Cavernous sinus thrombosiso MeningitisTreatment of malignant otitis externao In all cases, the external ear canal is cleansed and a biopsy specimen of the granulation tissue sent for culture. IV antibiotics is directed against the offending organism. For Pseudomonas aeruginosa, the most common pathogen, the regimen involves an antipseudomonal penicillin or cephalosporin (3rd generation piperacillin or ceftazidime) with an aminoglycoside. A fluoroquinolone antibiotic can be used in place of the aminoglycoside. Ear drops containing antipseudomonal antibiotic e.g. ciproflaxacin plus a glucocorticoid is also used. Early cases can be managed with oral and otic fluoroquinolones only. Extensive surgical debridement once an important part of the treatment is now rarely needed."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Pseudomonas Aeroginosa o Malignant otitis externa is often caused by difficult to treat bacteria such as pseudomonas aeruginosa. Only rare cases of malignant otitis externa due to S.aureus, Proteus mirabilis and Aspergillus fumigatus have been reported.Malignant Otitis externao Malignant otitis externa, also called necrotizing external otitis, is a misnomer as it is not a neoplastic condition, rather it is an infectious condition. Malignant otitis externa is a disorder involving inflammation and damage of the bones and cartilage at the base of skull in temporal bone as a result of spread of infection from outer ear. Malignant otitis externa is often caused by difficult to treat bacteria such as pseudomonas aeruginosa. Only rare cases of malignant otitis externa due to S.aureus, Proteus mirabilis and Aspergillus fumigatus have been reported. The infection spreads from the floor of the ear canal to the nearby tissues and into the bones at the base of the skull. The infection and inflammation may damage or destroy the bones. The infection may spread more and affect the cranial nerves, brain, or other parts of the body.Predisposing factors for malignant otitis externao Elderly diabetics (most common predisposing factor)o Individuals with altered immune function (immunodeficiency)o ChemotherapyClinical features of malignant otitis externao Severe pain inside the ear and may get worse when moving head.o Granulation tissue in the external auditory canal, at the junction of bony and cartilagenous parto Drainage from the ear - yellow, yellow - green, foul smelling, persistento Fevero Itching of ear or ear canalo Troubled swallowing & weakness of face.Complicationso Cranial nerve palsies most commonly facial nerve is involved. Other cranial nerves can also be involved (glossopharyngeal, vagus, spinal accessory, hypoglossal, abducens, trigeminal),o Jugular venous thrombosiso Cavernous sinus thrombosiso MeningitisTreatment of malignant otitis externao In all cases, the external ear canal is cleansed and a biopsy specimen of the granulation tissue sent for culture. IV antibiotics is directed against the offending organism. For Pseudomonas aeruginosa, the most common pathogen, the regimen involves an antipseudomonal penicillin or cephalosporin (3rd generation piperacillin or ceftazidime) with an aminoglycoside. A fluoroquinolone antibiotic can be used in place of the aminoglycoside. Ear drops containing antipseudomonal antibiotic e.g. ciproflaxacin plus a glucocorticoid is also used. Early cases can be managed with oral and otic fluoroquinolones only. Extensive surgical debridement once an important part of the treatment is now rarely needed.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"externa\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a7f1ecdc-e54e-433a-aa1d-6fae5ed859c1": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a941bc34-9c25-47ab-9676-93b1c4e6293e": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Conservative management o The presence of pain and fever in a female in her mid pregnancy with ultrasound examination showing presence of fibroid supports the diagnosis of red degeneration.Red Degeneration (Also known as Carneous Degeneration)o Occurs in pregnant females with presence of fibroid because fibroid overgrown its blood supply (micronecro thrombosis).o Most commonly occurs in second trimester of pregnancy followed by in the puerperium.o Cut section : raw beefy appearance, fishy odor.o Patient presents with acute abdomen, vomiting, fever, and leukocytosis.Management :A Iways conservative m anagement (never surgery)HospitalizationBedrestAnalgesicsIVfluidsIV antibiotics (SOS)"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Conservative management o The presence of pain and fever in a female in her mid pregnancy with ultrasound examination showing presence of fibroid supports the diagnosis of red degeneration.Red Degeneration (Also known as Carneous Degeneration)o Occurs in pregnant females with presence of fibroid because fibroid overgrown its blood supply (micronecro thrombosis).o Most commonly occurs in second trimester of pregnancy followed by in the puerperium.o Cut section : raw beefy appearance, fishy odor.o Patient presents with acute abdomen, vomiting, fever, and leukocytosis.Management :A Iways conservative m anagement (never surgery)HospitalizationBedrestAnalgesicsIVfluidsIV antibiotics (SOS)",
+    "hint_exp": "🎯 Think of \"weeks pregnancy with pain\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1497a800-5a23-4b54-a6ff-973d13bd24e8": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Tyrosinase"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Tyrosinase",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following enzymes\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "22a475c6-03ed-495d-84bd-ee5e369c81bd": {
-    "cop": 1,
-    "exp": "Ans-ARef: Miller Textbook of Anaesthesia. 6th edition.Explanation:IsofluraneRaise in intracranial pressure is minimal with isoflurane when compared with other inhalational agents and this rise can be reversed with hyperventilationIt also decreases brain oxygen consumption.These properties make isoflurane the agent of choice for neurosurgical proceduresOther characteristics of IsofluranePungent ethereal odor, so induction is not smoothNot a good analgesicModerate muscle relaxationCardiovascular EffectsHypotension is maximum with isoflurane ( Agent of choice for controlled hypotension)It does not depress myocardiumDoes not cause bradycardia and baroreceptor reflex is preservedIt increases coronary blood flow to nonischemic area which in patients with myocardial ischemia can cause CORONARY STEALRespiratory system effectsRespiratory depression is relatively lessIt blunts ventilatory response to hypercarbia and hypoxiaIsoflurane is an agent of choice for Cardiac patients and Neurosurgery."
+    "cop": 0,
+    "exp": "Ans-ARef: Miller Textbook of Anaesthesia. 6th edition.Explanation:IsofluraneRaise in intracranial pressure is minimal with isoflurane when compared with other inhalational agents and this rise can be reversed with hyperventilationIt also decreases brain oxygen consumption.These properties make isoflurane the agent of choice for neurosurgical proceduresOther characteristics of IsofluranePungent ethereal odor, so induction is not smoothNot a good analgesicModerate muscle relaxationCardiovascular EffectsHypotension is maximum with isoflurane ( Agent of choice for controlled hypotension)It does not depress myocardiumDoes not cause bradycardia and baroreceptor reflex is preservedIt increases coronary blood flow to nonischemic area which in patients with myocardial ischemia can cause CORONARY STEALRespiratory system effectsRespiratory depression is relatively lessIt blunts ventilatory response to hypercarbia and hypoxiaIsoflurane is an agent of choice for Cardiac patients and Neurosurgery.",
+    "hint_exp": "🧩 Your crush solved \"Anesthetic impairing activity\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "86996c0a-c1a8-4841-9120-c0566e4b9ca3": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"anaerobe to aerobes in stool\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2952d934-db58-42ec-a8ae-1bd006fcf107": {
-    "cop": 1,
-    "exp": "Point mutation is of 2 types:-\n\n\nTransition Purine base is replaced by another purine base or pyrimidine base is replaced by another pyrimidine base.\nTransversion Purine base is replaced by pyrimidine base or vice vessa.\n\nIn given question,\n   GATCCT and GGTCCT  → only option A shows transition mutation"
+    "cop": 0,
+    "exp": "Point mutation is of 2 types:-\n\n\nTransition Purine base is replaced by another purine base or pyrimidine base is replaced by another pyrimidine base.\nTransversion Purine base is replaced by pyrimidine base or vice vessa.\n\nIn given question,\n   GATCCT and GGTCCT  → only option A shows transition mutation",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"GATCCT\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7909d47f-cdb6-4b58-8511-8da623bcf376": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., alpha-thalassemia o Out of the given 4 types of hemolytic anemias only alpha thalassemia is able to give rise to such severe presentation at bih. In all other conditions the newborn is either normal or has mild jaundice."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., alpha-thalassemia o Out of the given 4 types of hemolytic anemias only alpha thalassemia is able to give rise to such severe presentation at bih. In all other conditions the newborn is either normal or has mild jaundice.",
+    "hint_exp": "🎯 Think of \"child died soon after\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c2daef8c-3566-42ef-a581-5f3dd15c91a8": {
-    "cop": 4,
-    "exp": "Techniques used for in situ ablation of liver secondaries includes cryosurgical ablation, radio frequency ablation, microwave ablation, laser ablation and alcohol injection. These techniques are mainly used in patients having unresectable tumors. Ref: Oncology: An Evidence-Based Approach By Alfred E. Chang, Page 1645; The Washington Manual of Oncology By Ramaswamy Govindan, Page 8."
+    "cop": 3,
+    "exp": "Techniques used for in situ ablation of liver secondaries includes cryosurgical ablation, radio frequency ablation, microwave ablation, laser ablation and alcohol injection. These techniques are mainly used in patients having unresectable tumors. Ref: Oncology: An Evidence-Based Approach By Alfred E. Chang, Page 1645; The Washington Manual of Oncology By Ramaswamy Govindan, Page 8.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"following modalities used situ\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "be42ce2d-2fa5-4b27-a4f4-94d860f0544f": {
-    "cop": 1,
-    "exp": "Prausnitz-Kustner test was formerly used to determine if a patient has an allergic reaction to a specific antigen. A patients serum is injected in healthy person skin and antigen was injected at same site 24 hours later.If the patient was sensitive it would trigger a type I reaction. <img class=\"fr-dib\" style=\"width: 300px;\" src=\" /> Ref : Ananthanarayana textbook of Microbiology 9th edition Pgno : 165"
+    "cop": 0,
+    "exp": "Prausnitz-Kustner test was formerly used to determine if a patient has an allergic reaction to a specific antigen. A patients serum is injected in healthy person skin and antigen was injected at same site 24 hours later.If the patient was sensitive it would trigger a type I reaction. <img class=\"fr-dib\" style=\"width: 300px;\" src=\" /> Ref : Ananthanarayana textbook of Microbiology 9th edition Pgno : 165",
+    "hint_exp": "🧩 Your crush solved \"Prausnitz kustner reaction\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "86102dd7-911e-40c3-8ee6-650c5910719a": {
-    "cop": 3,
-    "exp": "The pudendal nerve is a branch of the sacral plexus that exits from the greater sciatic foramen, and then enters the lesser sciatic foramen, to lie in the pudendal canal on the lateral wall of the ischioanal fossa. The inferior rectal nerve is a branch of the pudendal nerve, which crosses the ischioanal fossa to reach the anal canal, where it innervates the external anal sphincter and provides sensory innervation to the area.The inferior gluteal nerve, a branch of the sacral plexus, exits through the greater sciatic foramen and innervates the gluteus maximus muscle.The pelvic splanchnic nerves are branches of the second, third, and fouh sacral nerves that carry preganglionic parasympathetic nerves to several pelvic organs.The sciatic nerve is a branch of the lumbosacral plexus that exits through the greater sciatic foramen, then enters the lower limb to innervate muscles of the posterior thigh, the leg, and the foot, and provides sensory innervation to the area as well."
+    "cop": 2,
+    "exp": "The pudendal nerve is a branch of the sacral plexus that exits from the greater sciatic foramen, and then enters the lesser sciatic foramen, to lie in the pudendal canal on the lateral wall of the ischioanal fossa. The inferior rectal nerve is a branch of the pudendal nerve, which crosses the ischioanal fossa to reach the anal canal, where it innervates the external anal sphincter and provides sensory innervation to the area.The inferior gluteal nerve, a branch of the sacral plexus, exits through the greater sciatic foramen and innervates the gluteus maximus muscle.The pelvic splanchnic nerves are branches of the second, third, and fouh sacral nerves that carry preganglionic parasympathetic nerves to several pelvic organs.The sciatic nerve is a branch of the lumbosacral plexus that exits through the greater sciatic foramen, then enters the lower limb to innervate muscles of the posterior thigh, the leg, and the foot, and provides sensory innervation to the area as well.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"and the diagnosis of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ec5b01f8-4a3a-476b-8b14-2a6315496b3d": {
-    "cop": 3,
-    "exp": "A novel approach to minimizing the risk of toxicity from systemic absorption of an inhaled coicosteroid underlay the development of ciclesonide. This recently approved coicosteroid is inhaled as a prodrug activated by cleavage by esterases in bronchial epithelial cells. When absorbed into the circulation, the active product is tightly bound to serum proteins, and so has little access to glucocoicoid receptors in skin, eye, and bone, minimizing its risk of causing cutaneous thinning, cataracts, osteoporosis, or temporary slowing of growth.Katzung 12e pg: 348"
+    "cop": 2,
+    "exp": "A novel approach to minimizing the risk of toxicity from systemic absorption of an inhaled coicosteroid underlay the development of ciclesonide. This recently approved coicosteroid is inhaled as a prodrug activated by cleavage by esterases in bronchial epithelial cells. When absorbed into the circulation, the active product is tightly bound to serum proteins, and so has little access to glucocoicoid receptors in skin, eye, and bone, minimizing its risk of causing cutaneous thinning, cataracts, osteoporosis, or temporary slowing of growth.Katzung 12e pg: 348",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"bronchial asthma\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1f153b7c-f945-4db2-bef5-e387b75429be": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"supra orbital fissure\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f39f5eda-a0de-49d5-b085-f06ea379fd14": {
-    "cop": 4,
-    "exp": "Friends, it is very unfortunate that AIIMS people are asking such type of questions. How can a medical student be expected to know about the trials about a drug which we are sure even many ophthalmology residents are not aware of. So we will suggest just to remember the answer and do not go for details.\nThe LUMINATE (Lux Uveitis Multicenter Investigation of a New Approach to Treatment) clinical development program was initiated in 2007 to assess the safety and efficacy of voclosporin for the treatment, maintenance, and control of all forms of noninfectious uveitis."
+    "cop": 3,
+    "exp": "Friends, it is very unfortunate that AIIMS people are asking such type of questions. How can a medical student be expected to know about the trials about a drug which we are sure even many ophthalmology residents are not aware of. So we will suggest just to remember the answer and do not go for details.\nThe LUMINATE (Lux Uveitis Multicenter Investigation of a New Approach to Treatment) clinical development program was initiated in 2007 to assess the safety and efficacy of voclosporin for the treatment, maintenance, and control of all forms of noninfectious uveitis.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"drug used noninfectious uveitis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "58a8ed41-eff1-4ed8-945f-6344ea0b755d": {
-    "cop": 2,
-    "exp": ".Ans is 'b' Adenoid cystic Ca"
+    "cop": 1,
+    "exp": ".Ans is 'b' Adenoid cystic Ca",
+    "hint_exp": "🧩 Your crush solved \"which following perineural invasion\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "599ca575-af70-4d66-8fc6-4df239926820": {
-    "cop": 1,
-    "exp": "Montenegro or Leishmanin test is a skin test used for diagnosis of kala azar. Intradermal injection of 0.1 ml leishmanin antigen is given on flexor surface of forearm. The skin is examined for for induration after 48 to 72 hours. A reading of >5 mm is considered positive for kala azar. Ref: Park 21st edition, page 281."
+    "cop": 0,
+    "exp": "Montenegro or Leishmanin test is a skin test used for diagnosis of kala azar. Intradermal injection of 0.1 ml leishmanin antigen is given on flexor surface of forearm. The skin is examined for for induration after 48 to 72 hours. A reading of >5 mm is considered positive for kala azar. Ref: Park 21st edition, page 281.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Montenegro test used diagnosis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "48e7a634-d7b8-4824-b708-320ed7b57030": {
-    "cop": 2,
-    "exp": "(Crohn's disease) (1170-LB) (1171-B & L 25th)* Crohn's disease - The principal findings include thickened bowel wall with stricture (\"String sign of kantor\")* Rovsing's sign - A sharp pressure over the left iliac fossa produces pain in the right iliac fossa in Acute Appendicitis* Murphy's sign - The patient experiences pain and \"Catches the breath\" just before the zenith of respiration when the gall bladder area is gently pressed in acute cholecystitis* Boas sign - There may be an area of hyperaesthesia between the ninth and eleventh ribs posteriorly on the right side in Acute cholecystitis."
+    "cop": 1,
+    "exp": "(Crohn's disease) (1170-LB) (1171-B & L 25th)* Crohn's disease - The principal findings include thickened bowel wall with stricture (\"String sign of kantor\")* Rovsing's sign - A sharp pressure over the left iliac fossa produces pain in the right iliac fossa in Acute Appendicitis* Murphy's sign - The patient experiences pain and \"Catches the breath\" just before the zenith of respiration when the gall bladder area is gently pressed in acute cholecystitis* Boas sign - There may be an area of hyperaesthesia between the ninth and eleventh ribs posteriorly on the right side in Acute cholecystitis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "76b3c499-005d-4290-ba42-1781d09e1b2a": {
-    "cop": 3,
-    "exp": "Ankyrin mutation is most common in HS. Spectrin mutation correlates with severity of anemia in HS."
+    "cop": 2,
+    "exp": "Ankyrin mutation is most common in HS. Spectrin mutation correlates with severity of anemia in HS.",
+    "hint_exp": "🎯 Think of \"Hereditary spherocytosis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "33e60d11-ed97-498e-b46e-403f3a5b19e3": {
-    "cop": 2,
-    "exp": "Polylysine Messanger RNAs, paicularly in eukaryotes, have some unique chemical characteristics: - The 5' terminal of mRNA is capped by a 7-methylguanosine triphosphate. The cap is involved in the recognition of inRNA by the translating machinery, and it probably helps stabilize the mRNA by preventing the attack of 5'- exonucleases. - At their 3' end, most eukaryotic mRNAs have a string of 80 to 250 adenylate residues, making up the poly(A) tail. The poly(A) tail and its associated proteins help protect mRNA from enzymatic destruction. The following aicle\"Translation of the poly(A) tail plays crucial roles in nonstop niRNA surveillance translation repression and protein destabilization by proteasome in yeast\" published in \"GENES & DEVELOPMENT 21:519-524, 2007\" states that the poly(A) tail translates into polylysine."
+    "cop": 1,
+    "exp": "Polylysine Messanger RNAs, paicularly in eukaryotes, have some unique chemical characteristics: - The 5' terminal of mRNA is capped by a 7-methylguanosine triphosphate. The cap is involved in the recognition of inRNA by the translating machinery, and it probably helps stabilize the mRNA by preventing the attack of 5'- exonucleases. - At their 3' end, most eukaryotic mRNAs have a string of 80 to 250 adenylate residues, making up the poly(A) tail. The poly(A) tail and its associated proteins help protect mRNA from enzymatic destruction. The following aicle\"Translation of the poly(A) tail plays crucial roles in nonstop niRNA surveillance translation repression and protein destabilization by proteasome in yeast\" published in \"GENES & DEVELOPMENT 21:519-524, 2007\" states that the poly(A) tail translates into polylysine.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Poly tail translates into\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c924dafd-2309-44d3-8f48-12c9996efa84": {
-    "cop": 2,
-    "exp": "Ureteric catheterisation is the best method of collecting urine for culture in a case of vesico-vaginal fistula. Second best method of collection of urine is supra pubic aspiration, which needs a full bladder and is not possible in this case. Collection of urine sterile speculum and midstream clean catch leads to contamination of urine. So by exclusion, the best answer is collection of urine using a foley's catheter. Ref: Textbook of Gynecology By DC Dutta, 4th Edition, Pages 386-8"
+    "cop": 1,
+    "exp": "Ureteric catheterisation is the best method of collecting urine for culture in a case of vesico-vaginal fistula. Second best method of collection of urine is supra pubic aspiration, which needs a full bladder and is not possible in this case. Collection of urine sterile speculum and midstream clean catch leads to contamination of urine. So by exclusion, the best answer is collection of urine using a foley's catheter. Ref: Textbook of Gynecology By DC Dutta, 4th Edition, Pages 386-8",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3483ae41-ab74-4bd0-a803-03ba61f6888c": {
-    "cop": 2,
-    "exp": "TSST-1 antibody is seen in convalescents. This is protective and its absence is a factor in the pathogenesis of the condition. Though tampon-related TSS is now rare, the syndrome occurs in other infections of the skin, mucosa, and other sites and also in some surgical wounds. Ref: Textbook of microbiology Anantha Narayan and panickers; tenth edition; pg no:204"
+    "cop": 1,
+    "exp": "TSST-1 antibody is seen in convalescents. This is protective and its absence is a factor in the pathogenesis of the condition. Though tampon-related TSS is now rare, the syndrome occurs in other infections of the skin, mucosa, and other sites and also in some surgical wounds. Ref: Textbook of microbiology Anantha Narayan and panickers; tenth edition; pg no:204",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"due to\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ea938bae-da3a-4b42-8d51-02ec40bcbeac": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"heart\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bf0b01d1-0394-4b4c-a074-3bc3a4ddc93c": {
-    "cop": 4,
-    "exp": "This is a relatively simple question that requires you to visualize the relationship among the key pas of the kidney and to identify the one that lies most medially. If you think about it for a second, since the kidneys ultimately drain into the ureter at their medial poles, you are looking for the structure that is closest to the ureter. The correct answer is the renal pelvis. The renal pelvis is the dilated upper poion of the ureter that receives the major calyces. In terms of the other answer choices, the order from most lateral to most medial is: renal coex, renal pyramid, minor calyx, major calyx, and then the renal pelvis. Ref: Tanagho E.A. (2008). Chapter 1. Anatomy of the Genitourinary Tract. In E.A. Tanagho, J.W. McAninch (Eds), Smith's General Urology, 17e."
+    "cop": 3,
+    "exp": "This is a relatively simple question that requires you to visualize the relationship among the key pas of the kidney and to identify the one that lies most medially. If you think about it for a second, since the kidneys ultimately drain into the ureter at their medial poles, you are looking for the structure that is closest to the ureter. The correct answer is the renal pelvis. The renal pelvis is the dilated upper poion of the ureter that receives the major calyces. In terms of the other answer choices, the order from most lateral to most medial is: renal coex, renal pyramid, minor calyx, major calyx, and then the renal pelvis. Ref: Tanagho E.A. (2008). Chapter 1. Anatomy of the Genitourinary Tract. In E.A. Tanagho, J.W. McAninch (Eds), Smith's General Urology, 17e.",
+    "hint_exp": "🎯 Think of \"the following renal structures\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "55d42cd1-10f1-4ad8-9a07-a745b3646d27": {
-    "cop": 3,
-    "exp": "Ans. is sc' i.e., B6VitaminActive form (coenzymes)Reaction typeB1 (Thiamin)Thiamine pyrophosphate (TPP)Oxidative decarboxylation, TransketolationB2 (Riboflavin)FMN, FADOxidation / Reduction (Redox reaction)B3 (Niacin)NAD+, NADP+Oxidation / Reduction (Redox reaction)B6 (Pyridoxin)Pyridoxal phosphate (PLP)Transamination, deamination, decarboxylation, condensation, trans-sulfurationB12 (cobolamin)Methylcobalamin. deoxyadenosy Icoba lam inIsomerization of meihylmelonyl-CoA to succinyl-CoA, synthesis of methionine from homocysteineFolic acidTetrahydrofolate (THF)One carbon group transferBiotinBiocytinCarboxylationPantothenic acidPentothenate in Co A and ACPAcyl group transferVitamin KVitamin KCarboxylation of glutamic acid residue"
+    "cop": 2,
+    "exp": "Ans. is sc' i.e., B6VitaminActive form (coenzymes)Reaction typeB1 (Thiamin)Thiamine pyrophosphate (TPP)Oxidative decarboxylation, TransketolationB2 (Riboflavin)FMN, FADOxidation / Reduction (Redox reaction)B3 (Niacin)NAD+, NADP+Oxidation / Reduction (Redox reaction)B6 (Pyridoxin)Pyridoxal phosphate (PLP)Transamination, deamination, decarboxylation, condensation, trans-sulfurationB12 (cobolamin)Methylcobalamin. deoxyadenosy Icoba lam inIsomerization of meihylmelonyl-CoA to succinyl-CoA, synthesis of methionine from homocysteineFolic acidTetrahydrofolate (THF)One carbon group transferBiotinBiocytinCarboxylationPantothenic acidPentothenate in Co A and ACPAcyl group transferVitamin KVitamin KCarboxylation of glutamic acid residue",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"coenzyme form which vitamin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "487e7824-b08e-4e69-a351-d4e96afab993": {
-    "cop": 2,
-    "exp": "Hollow ground (concave) bevel:\n\nUsed when  cusp required to cover with cast metal\nPrepared with 12 fluted round ended bur\nProvide sufficient bulk of restoration at cavosurface margin\nIt is an exaggerated chamfer basically\nAlso known as concave bevel\nIn posterior ceramic restorations at cavosurface angle hollow-ground chamfer confined to the marginal enamel will aid in developing a more effective seal"
+    "cop": 1,
+    "exp": "Hollow ground (concave) bevel:\n\nUsed when  cusp required to cover with cast metal\nPrepared with 12 fluted round ended bur\nProvide sufficient bulk of restoration at cavosurface margin\nIt is an exaggerated chamfer basically\nAlso known as concave bevel\nIn posterior ceramic restorations at cavosurface angle hollow-ground chamfer confined to the marginal enamel will aid in developing a more effective seal",
+    "hint_exp": "🧩 Your crush solved \"Hollow ground bevel\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d75c6da8-7e06-4f1c-9b8c-517159375cfb": {
-    "cop": 3,
-    "exp": "Somatic stem cells are easily available, have good expansion in vitro, low risk of malignancyNo ethical concerns (not taken from foetus, embryo and mostly used for autologus tissues)Main disadvantage is limited pluripotencyRef: Bailey and Love 27e pg: 34"
+    "cop": 2,
+    "exp": "Somatic stem cells are easily available, have good expansion in vitro, low risk of malignancyNo ethical concerns (not taken from foetus, embryo and mostly used for autologus tissues)Main disadvantage is limited pluripotencyRef: Bailey and Love 27e pg: 34",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Somatic stem cells\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "292f8229-a8e3-4548-ba79-21896e9aac3a": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e. Metronidazole o Metronidazole is the DOC for clostrdium difficle associated diarrhoea. o Alternative drugs are vancomycin, fusidic acid, teicoplanin, and bacitracin."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e. Metronidazole o Metronidazole is the DOC for clostrdium difficle associated diarrhoea. o Alternative drugs are vancomycin, fusidic acid, teicoplanin, and bacitracin.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following antibiotic\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "10286827-04c6-4f6c-83d1-089bceb78f1a": {
-    "cop": 3,
-    "exp": "Emerging patterns of Adaptive milestones from 1-5years of age 15months Makes a tower of 3 cubes Makes a line with a crayon Inses raisin in a bottle 18months Makes a tower of 4 cubes Imitates scribbling Imitates veical stroke Dumps raisin from a bottle 24months Makes a tower of 7 cubes (6 at 21 mo) Scribbles in a circular pattern Imitates horizontal stroke Folds paper once imitatively 30months Makes a tower of 9 cubes Makes veical and horizontal strokes, but generally will not join them to make cross Imitates circular stroke, forming a closed figure 36months Makes a tower of 10 cubes Imitates construction of \"bridge\" of 3 cubes Copies circle Imitates cross 48months Copies bridge from model Imitates construction of \"gate\" of 5 cubes Copies cross and square Draws man with 2-4 pas besides the head Identifies longer of 2 lines 60months Draws a triangle from copy Names heavier of 2 weights Ref: Nelson paediatrics; Table 11-1"
+    "cop": 2,
+    "exp": "Emerging patterns of Adaptive milestones from 1-5years of age 15months Makes a tower of 3 cubes Makes a line with a crayon Inses raisin in a bottle 18months Makes a tower of 4 cubes Imitates scribbling Imitates veical stroke Dumps raisin from a bottle 24months Makes a tower of 7 cubes (6 at 21 mo) Scribbles in a circular pattern Imitates horizontal stroke Folds paper once imitatively 30months Makes a tower of 9 cubes Makes veical and horizontal strokes, but generally will not join them to make cross Imitates circular stroke, forming a closed figure 36months Makes a tower of 10 cubes Imitates construction of \"bridge\" of 3 cubes Copies circle Imitates cross 48months Copies bridge from model Imitates construction of \"gate\" of 5 cubes Copies cross and square Draws man with 2-4 pas besides the head Identifies longer of 2 lines 60months Draws a triangle from copy Names heavier of 2 weights Ref: Nelson paediatrics; Table 11-1",
+    "hint_exp": "🎯 Think of \"child Makes tower cubes\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4b5c2468-6f07-49ea-a741-fbe75659c3b6": {
-    "cop": 1,
-    "exp": "clinical criteria to diagnose neurofibromatosis include 6 or more cafeaelait macules, 2 or more neurofibromas, Freckling in axillary and inguinal regions, Optic gliomas , 2 or more Lisch nodules, A distinctive osseous lesion, A first degree relative with NF1. Page no 322 Reference IADVL's concise textbook of dermatology"
+    "cop": 0,
+    "exp": "clinical criteria to diagnose neurofibromatosis include 6 or more cafeaelait macules, 2 or more neurofibromas, Freckling in axillary and inguinal regions, Optic gliomas , 2 or more Lisch nodules, A distinctive osseous lesion, A first degree relative with NF1. Page no 322 Reference IADVL's concise textbook of dermatology",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Cafe lait spots seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6c3d75a0-5e89-443c-a8be-47f988e0e561": {
-    "cop": 4,
-    "exp": "(D) Culex Mosquito-borne diseases in India* Anopheles* Malaria* Filaria (not in India)* Culex* Bancroftian filariasis* Japanese encephalitis* West Nile fever* Viral arthritis (epidemic/polyarthritis)* Aedes* Yellow fever (not in India)* Dengue; Dengue haemorrhagic fever* Chikungunya fever* Chikungunya haemorrhagic fever* Rift valley fever* Filaria (not in India)* Mansonoides* Malayan (Brugian) filariasis* Chikungunya fever"
+    "cop": 3,
+    "exp": "(D) Culex Mosquito-borne diseases in India* Anopheles* Malaria* Filaria (not in India)* Culex* Bancroftian filariasis* Japanese encephalitis* West Nile fever* Viral arthritis (epidemic/polyarthritis)* Aedes* Yellow fever (not in India)* Dengue; Dengue haemorrhagic fever* Chikungunya fever* Chikungunya haemorrhagic fever* Rift valley fever* Filaria (not in India)* Mansonoides* Malayan (Brugian) filariasis* Chikungunya fever",
+    "hint_exp": "🧩 Your crush solved \"Which following mosquito transmits\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7c57fafc-3bff-4af1-8adb-9c360ccea435": {
-    "cop": 2,
-    "exp": "HD patients eventually develop behavioral and cognitive disturbances and the majority progress to dementia. So early onset of memory loss is not a feature of Huntington's disease. HD is characterized by rapid, nonpatterned, semipurposeful, involuntary choreiform movements. Dysahria, gait disturbance, and oculomotor abnormalities are common features. With advancing disease, there may be a reduction in chorea and emergence of dystonia, rigidity, bradykinesia, myoclonus, and spasticity. Depression with suicidal tendencies, aggressive behavior, and psychosis can be prominent features. Ref: Harrison's Internal Medicine, 18th Edition, Page 3330"
+    "cop": 1,
+    "exp": "HD patients eventually develop behavioral and cognitive disturbances and the majority progress to dementia. So early onset of memory loss is not a feature of Huntington's disease. HD is characterized by rapid, nonpatterned, semipurposeful, involuntary choreiform movements. Dysahria, gait disturbance, and oculomotor abnormalities are common features. With advancing disease, there may be a reduction in chorea and emergence of dystonia, rigidity, bradykinesia, myoclonus, and spasticity. Depression with suicidal tendencies, aggressive behavior, and psychosis can be prominent features. Ref: Harrison's Internal Medicine, 18th Edition, Page 3330",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which among following false\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "dc81c91a-bac8-4c35-bb2d-7ad18f5bb207": {
-    "cop": 4,
-    "exp": "Ans. d (Carbolic acid). (Ref. Parikh, FMT, 5th ed., 130 and Reddy, FMT, 13th ed., 367)CONTRAINDICATIONS TO GASTRIC LAVAGE# Corrosive poisoning (danger of perforation).# Convulsant poisons# Comatose patients# Volatile poisons# Upper alimentary disease e.g. varices# Marked hypothermia"
+    "cop": 3,
+    "exp": "Ans. d (Carbolic acid). (Ref. Parikh, FMT, 5th ed., 130 and Reddy, FMT, 13th ed., 367)CONTRAINDICATIONS TO GASTRIC LAVAGE# Corrosive poisoning (danger of perforation).# Convulsant poisons# Comatose patients# Volatile poisons# Upper alimentary disease e.g. varices# Marked hypothermia",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Gastric lavage contraindicated poisoning\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "99e76a0c-41f3-4586-b089-968f72a05ba6": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"mycoplasma pneumonia following seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "17400ba7-b598-46aa-a150-a10f783df557": {
-    "cop": 1,
-    "exp": "Ans.(a) Curvature of the medial border of the foot PIRANI SCORINGThe Pirani score is a simple, easy to use tool for assessing the severity of each of the components of a clubfoot.Pirani Scoring:The components are scored as follows:Each component may score 0, 0.5 or 1Hind foot contracture score (HCFS):Mid foot contracture score (MFCS):Posterior creaseEmpty heelRigid equinusMid foot contracture score (MFCS):Medial creaseCurvature of lateral borderPosition of head of talus"
+    "cop": 0,
+    "exp": "Ans.(a) Curvature of the medial border of the foot PIRANI SCORINGThe Pirani score is a simple, easy to use tool for assessing the severity of each of the components of a clubfoot.Pirani Scoring:The components are scored as follows:Each component may score 0, 0.5 or 1Hind foot contracture score (HCFS):Mid foot contracture score (MFCS):Posterior creaseEmpty heelRigid equinusMid foot contracture score (MFCS):Medial creaseCurvature of lateral borderPosition of head of talus",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"CTEV\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "87c50951-797b-42d2-b6c8-e29e4bc798b5": {
-    "cop": 1,
-    "exp": "Ankylosing spondylitis is an inflammatory disorder of unknown cause Primarily affects the axial skeleton; peripheral joints and extraaicular structuresOlder names: Marie-Strumpell disease or Bechterew's diseaseTypically associated with HLA-B27(ref:Harrison's 18/e p2774, 2775)"
+    "cop": 0,
+    "exp": "Ankylosing spondylitis is an inflammatory disorder of unknown cause Primarily affects the axial skeleton; peripheral joints and extraaicular structuresOlder names: Marie-Strumpell disease or Bechterew's diseaseTypically associated with HLA-B27(ref:Harrison's 18/e p2774, 2775)",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2ac7c8aa-9e58-4a88-8eeb-eebe1bc41385": {
-    "cop": 4,
-    "exp": "the levator ani muscle is divisible into a pubococcygeus pa , an iliococcygeus pa and an ischiococcygeus pa. the pubococcygeus pa consists of 3 types of fibres they are anterior fibres, middle fibres (constitute the puborectalis), posterior fibres. Ref : B D Chaurasia's Human Anatomy , seventh edition, volume 2 , pg. no. 460"
+    "cop": 3,
+    "exp": "the levator ani muscle is divisible into a pubococcygeus pa , an iliococcygeus pa and an ischiococcygeus pa. the pubococcygeus pa consists of 3 types of fibres they are anterior fibres, middle fibres (constitute the puborectalis), posterior fibres. Ref : B D Chaurasia's Human Anatomy , seventh edition, volume 2 , pg. no. 460",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Levator muscle includes except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fd030b4d-7e30-4d0e-a0e4-7bc9446abfcd": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"vitamin A\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c714572e-c8d0-4f82-96b5-301aeb9c603f": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., CorticosteroidsTreatment of Bell's palsyo Treatment of Bell's palsy is divided into three : -1) Medical treatment, 2) Physical treatment, 3) Surgical treatmentMedical treatmento Prednisolone (steroid) is the drug of choice and is started at initial visit. Initiation of therapy during first 24 hours of symptom confers a higher likelihood of recovery. Antiviral therapy (Acyclovir) is a newer adjunct in treating acute facial palsy of viral origin (both Bell's palsy and Ramsay hunt syndrome). Most surgeons these days advocate combination of steroids and antiviral drugs.Physical treatmento Physical treatment includes : -Eye care: - Artificial tear drops, ocular ointment and use of sunglasses to prevent eye complication due to dry eye.Electric stimulation : - To maintain membrane conductivity and reduce muscle atrophy.o If the patient of Bell's palsy is not responding to conservative treatment, electrodiagnostic study (electrophysiological study) should be done. Electrodiagnostic study includes, electromyography (EMG), Electroneurography (ENG), minimal excitibility test and maximal excitibility test. Surgery is reserved for those who meet electrodiagnostic (electrophysiological) study criteria or are worsening on medial treatment.Surgical treatmento Nerve decompression relieves pressure on the nerve fibers and thus improves the microcirculation of the nerve. Usually vertical and tympanic segments of nerve are decompressed. However, some worker's suggest total decompression including labyrinthine segment. Decompression is done in cases who have a poor prognosis for complete recovery with medical therapy alone or in cases who do not respond to medical therapy after 8-12 weeks."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., CorticosteroidsTreatment of Bell's palsyo Treatment of Bell's palsy is divided into three : -1) Medical treatment, 2) Physical treatment, 3) Surgical treatmentMedical treatmento Prednisolone (steroid) is the drug of choice and is started at initial visit. Initiation of therapy during first 24 hours of symptom confers a higher likelihood of recovery. Antiviral therapy (Acyclovir) is a newer adjunct in treating acute facial palsy of viral origin (both Bell's palsy and Ramsay hunt syndrome). Most surgeons these days advocate combination of steroids and antiviral drugs.Physical treatmento Physical treatment includes : -Eye care: - Artificial tear drops, ocular ointment and use of sunglasses to prevent eye complication due to dry eye.Electric stimulation : - To maintain membrane conductivity and reduce muscle atrophy.o If the patient of Bell's palsy is not responding to conservative treatment, electrodiagnostic study (electrophysiological study) should be done. Electrodiagnostic study includes, electromyography (EMG), Electroneurography (ENG), minimal excitibility test and maximal excitibility test. Surgery is reserved for those who meet electrodiagnostic (electrophysiological) study criteria or are worsening on medial treatment.Surgical treatmento Nerve decompression relieves pressure on the nerve fibers and thus improves the microcirculation of the nerve. Usually vertical and tympanic segments of nerve are decompressed. However, some worker's suggest total decompression including labyrinthine segment. Decompression is done in cases who have a poor prognosis for complete recovery with medical therapy alone or in cases who do not respond to medical therapy after 8-12 weeks.",
+    "hint_exp": "🎯 Think of \"Treatment choice Bell palsy\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d325682b-e85d-4223-9997-fd0eb47313f8": {
-    "cop": 4,
-    "exp": "Answer is option4, methoxyflurane Boiling Point 105 deg C Methoxyflurane, marketed as Penthroxamong others, is an inhaled medication primarily used to reduce pain following trauma. It may also be used for sho episodes of pain as a result of medical procedures.Onset of pain relief is rapid and of a sho duration. Use is only recommended with direct medical supervision. O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse Station, NJ: Merck and Co., Inc., 2001., p. 1073"
+    "cop": 3,
+    "exp": "Answer is option4, methoxyflurane Boiling Point 105 deg C Methoxyflurane, marketed as Penthroxamong others, is an inhaled medication primarily used to reduce pain following trauma. It may also be used for sho episodes of pain as a result of medical procedures.Onset of pain relief is rapid and of a sho duration. Use is only recommended with direct medical supervision. O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse Station, NJ: Merck and Co., Inc., 2001., p. 1073",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"anaesthetic agent with boiling\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "452aad50-eeff-4e70-a140-e4a992c53be4": {
-    "cop": 1,
-    "exp": "Women who acquire VZV infection before 20 weeks of gestation have 2% risk of delivering an infant with fetal varicella syndrome. It is unlikely in women who have chickenpox during the last half of pregnancy. Clinical manifestations of congenital varicella syndrome includes: IUGR Growth retardation Limb hypoplasia Chorioretinitis Cataract Microphthalmia Cutaneous scarring Neurological abnormalities (microcephaly, hydrocephalus, horners syndrome, cranial neuropathies)"
+    "cop": 0,
+    "exp": "Women who acquire VZV infection before 20 weeks of gestation have 2% risk of delivering an infant with fetal varicella syndrome. It is unlikely in women who have chickenpox during the last half of pregnancy. Clinical manifestations of congenital varicella syndrome includes: IUGR Growth retardation Limb hypoplasia Chorioretinitis Cataract Microphthalmia Cutaneous scarring Neurological abnormalities (microcephaly, hydrocephalus, horners syndrome, cranial neuropathies)",
+    "hint_exp": "🧩 Your crush solved \"the fetus\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

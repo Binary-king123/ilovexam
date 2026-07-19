@@ -1,202 +1,252 @@
 {
   "0960aa1f-42fc-48db-bf36-94d098a4807e": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Keep the IUCD, give antibiotic, follow up for antibiotic response & then take decision regarding IUCDremoval If an IUD user receives a diagnosis of PID, the IUD does not need to be removed. However, the woman should receive treatment according to these recommendations and should have close clinical follow-up no clinical improvement occurs within 48-72 hours of initiating treatment, providers should consider removing the IUD.PID treatment regimens must provide empiric, broad spectrum antibiotic coverage of likely pathogens"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Keep the IUCD, give antibiotic, follow up for antibiotic response & then take decision regarding IUCDremoval If an IUD user receives a diagnosis of PID, the IUD does not need to be removed. However, the woman should receive treatment according to these recommendations and should have close clinical follow-up no clinical improvement occurs within 48-72 hours of initiating treatment, providers should consider removing the IUD.PID treatment regimens must provide empiric, broad spectrum antibiotic coverage of likely pathogens",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"female with IUCD develops\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ed9da13f-c9c0-401d-87db-696fc9e09ff7": {
-    "cop": 1,
-    "exp": "Ans. (a) Solid mediumRef: Microbiology by Ananthanarayan and Paniker 8th ed. / 39-40GROWING BACTERIAL CULTURES IN LIQUIDNUTRIENT BROTH* Nutrient broth is a liquid bacterial growth medium made of powdered beef extract and short chains of amino acids that have been dissolved in water.* Liquid medium is convenient to use for growing bacteria in test tubes, and can reveal information about the oxygen requirements of bacteria growing within.* Bacteria that require oxygen will grow close to the water s surface, and bacteria that cannot tolerate the presence of oxygen will grow at the bottom of the test tube.B GROWING BACTERIAL CULTURES ON SOUP MEDIA* Broth media can be made solid by adding agar, a gel like polysaccharide extracted from red algae.* Broth with about 1.5% agar added will be liquid when heated, but solid at room temperature, making it easy to pour into a vessel, such as a Petri dish or test tube when hot.* The solution then becomes solid once cooled."
+    "cop": 0,
+    "exp": "Ans. (a) Solid mediumRef: Microbiology by Ananthanarayan and Paniker 8th ed. / 39-40GROWING BACTERIAL CULTURES IN LIQUIDNUTRIENT BROTH* Nutrient broth is a liquid bacterial growth medium made of powdered beef extract and short chains of amino acids that have been dissolved in water.* Liquid medium is convenient to use for growing bacteria in test tubes, and can reveal information about the oxygen requirements of bacteria growing within.* Bacteria that require oxygen will grow close to the water s surface, and bacteria that cannot tolerate the presence of oxygen will grow at the bottom of the test tube.B GROWING BACTERIAL CULTURES ON SOUP MEDIA* Broth media can be made solid by adding agar, a gel like polysaccharide extracted from red algae.* Broth with about 1.5% agar added will be liquid when heated, but solid at room temperature, making it easy to pour into a vessel, such as a Petri dish or test tube when hot.* The solution then becomes solid once cooled.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following culture medium\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1d17bad7-792e-4122-a4f1-ff9f32fa1307": {
-    "cop": 1,
-    "exp": "Many α helices have predominantly hydrophobic R-groups projecting from one side of the axis of the helix and predominantly hydrophilic R-groups projecting from the other side. These amphipathic helices are well adapted to the formation of interfaces between polar and nonpolar regions such as the hydrophobic interior of a protein and its aqueous environment. Clusters of amphipathic helices can create channels, or pores, through hydrophobic cell membranes that permit specific polar molecules to pass.\nNote: Clusters of twisted strands of β sheet are called β barrels.\nRef: Harper’s illustrated biochemistry. 30th edition page no: 37"
+    "cop": 0,
+    "exp": "Many α helices have predominantly hydrophobic R-groups projecting from one side of the axis of the helix and predominantly hydrophilic R-groups projecting from the other side. These amphipathic helices are well adapted to the formation of interfaces between polar and nonpolar regions such as the hydrophobic interior of a protein and its aqueous environment. Clusters of amphipathic helices can create channels, or pores, through hydrophobic cell membranes that permit specific polar molecules to pass.\nNote: Clusters of twisted strands of β sheet are called β barrels.\nRef: Harper’s illustrated biochemistry. 30th edition page no: 37",
+    "hint_exp": "🎯 Think of \"Amphiphatic helices\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3ded4e6d-f5b6-4ff1-a91d-7d00e8c6bb7f": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Duke classification cancer rectum\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6576cf14-bd25-4d13-bf8c-cf1e634d918d": {
-    "cop": 4,
-    "exp": "Goblet cells form the mucus layer of the tear film They are maximum nasally and least superiorly REF:Refer Khurana 6th edition page number 59"
+    "cop": 3,
+    "exp": "Goblet cells form the mucus layer of the tear film They are maximum nasally and least superiorly REF:Refer Khurana 6th edition page number 59",
+    "hint_exp": "🧩 Your crush solved \"goblet cells\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f4cca320-2458-488e-b44c-868116f03d10": {
-    "cop": 4,
-    "exp": "Monosomy 7 is most common cytogenetic abnormality in children whereas 5q - is seen frequently in adults and is very rare in children. Although 5q may be commoner than monosomy 7 in some settings, overall monosomy 7 appears more common. Myelodysplastic syndromes are a group of stem cell disorders with altered hematopoesis causing anemia. It is the most common hematologic cancer in the older adult. Course may be indolent or rapidly progress to an AML. They are characterized by the constellation of cytopenias, usually hypercellular marrow, and a number of morphologic and cytogenetic abnormalities. Ref: The Myelodysplastic Syndromes: Pathobiology and Clinical Management By John M. Bennett, Page 264 ; Wintrobe's Clinical Hematology, 10th Edition ; Neoplastic Diseases of the Blood, Issue 439, Edited By Peter H. Wiernik, 4th Edition, Page 114 ; Neoplastic Hematopathology By Daniel M. Knowles, 2nd Edition, Page 397"
+    "cop": 3,
+    "exp": "Monosomy 7 is most common cytogenetic abnormality in children whereas 5q - is seen frequently in adults and is very rare in children. Although 5q may be commoner than monosomy 7 in some settings, overall monosomy 7 appears more common. Myelodysplastic syndromes are a group of stem cell disorders with altered hematopoesis causing anemia. It is the most common hematologic cancer in the older adult. Course may be indolent or rapidly progress to an AML. They are characterized by the constellation of cytopenias, usually hypercellular marrow, and a number of morphologic and cytogenetic abnormalities. Ref: The Myelodysplastic Syndromes: Pathobiology and Clinical Management By John M. Bennett, Page 264 ; Wintrobe's Clinical Hematology, 10th Edition ; Neoplastic Diseases of the Blood, Issue 439, Edited By Peter H. Wiernik, 4th Edition, Page 114 ; Neoplastic Hematopathology By Daniel M. Knowles, 2nd Edition, Page 397",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which most common cytogenetic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d7eae1cb-dfc2-4e82-b300-166ee4e8709e": {
-    "cop": 2,
-    "exp": "Yersinia enterocolitica: Type 1- Enterocolitis and gastroenteritis; Type 2- mesenteric adenitis and inflammatory terminal ileitis that may mimic appendicitisYersinia pseudotuberculosis: also mimics appendicitisRef: Ananthanarayan 9th edition, p324"
+    "cop": 1,
+    "exp": "Yersinia enterocolitica: Type 1- Enterocolitis and gastroenteritis; Type 2- mesenteric adenitis and inflammatory terminal ileitis that may mimic appendicitisYersinia pseudotuberculosis: also mimics appendicitisRef: Ananthanarayan 9th edition, p324",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"caused by\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "62d24ba7-2223-4392-a811-8065c7838246": {
-    "cop": 2,
-    "exp": "Recent studies have demonstrated that markers of inflammation correlate with coronary risk and that inflammation plays a role in atheromatous plaque instability. Elevations of C-reactive protein, (CRP) identify patients at increased risk of myocardial infarction (MI) and poor outcome of acute coronary syndromes. Measurement of CRP adds information regarding risk stratification to standard risk factor such as hypeension, diabetes, smoking, and lipids. Elevations in homocysteine, lipoprotein A, and plasminogen activator factor I have all been associated with an increased risk at cardiovascular events; however, at the time none have been shown to be useful in populations to improve risk stratification."
+    "cop": 1,
+    "exp": "Recent studies have demonstrated that markers of inflammation correlate with coronary risk and that inflammation plays a role in atheromatous plaque instability. Elevations of C-reactive protein, (CRP) identify patients at increased risk of myocardial infarction (MI) and poor outcome of acute coronary syndromes. Measurement of CRP adds information regarding risk stratification to standard risk factor such as hypeension, diabetes, smoking, and lipids. Elevations in homocysteine, lipoprotein A, and plasminogen activator factor I have all been associated with an increased risk at cardiovascular events; however, at the time none have been shown to be useful in populations to improve risk stratification.",
+    "hint_exp": "🎯 Think of \"serum cholesterol\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "eddb09b4-7e94-4b0a-b8ea-efadc38f2140": {
-    "cop": 2,
-    "exp": "B i.e., Increased pulmonary compliance Hyperoxia (oxygen toxicity) may lead to hypoventilation, hypercapnia (but not necessarily hypoxia), absorption atelectasis, decreaed vital capacity, deterioration of pulmonary compliance & blood gasesQ, interstitial edema, pulmonary fibrosis, tonic clonic seizure & retinopathy of prematurity d/t free radicle induced damage of sulfhydryl group enzymes, endotheliumQ, epithelium and surfactant systems"
+    "cop": 1,
+    "exp": "B i.e., Increased pulmonary compliance Hyperoxia (oxygen toxicity) may lead to hypoventilation, hypercapnia (but not necessarily hypoxia), absorption atelectasis, decreaed vital capacity, deterioration of pulmonary compliance & blood gasesQ, interstitial edema, pulmonary fibrosis, tonic clonic seizure & retinopathy of prematurity d/t free radicle induced damage of sulfhydryl group enzymes, endotheliumQ, epithelium and surfactant systems",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"oxygen therapy\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5e4d2fdd-8412-49dc-804a-7207fded32c8": {
-    "cop": 1,
-    "exp": "An obsession is defined as an idea, impulse or image which intrudes into the conscious awareness repeatedly, patient tries to resist against it but is unable to . an obsession is usually associated with compulsion and a compulsion is defined as a form of behaviour which usually follows obsessions,the behaviour is not realistic and is either irrational or excessive compulsion may diminish the anxiety associated with obsession (Ref: a sho textbook of psychiatry, Niraj Ahuja, 7th edition, pg no 95)"
+    "cop": 0,
+    "exp": "An obsession is defined as an idea, impulse or image which intrudes into the conscious awareness repeatedly, patient tries to resist against it but is unable to . an obsession is usually associated with compulsion and a compulsion is defined as a form of behaviour which usually follows obsessions,the behaviour is not realistic and is either irrational or excessive compulsion may diminish the anxiety associated with obsession (Ref: a sho textbook of psychiatry, Niraj Ahuja, 7th edition, pg no 95)",
+    "hint_exp": "🧩 Your crush solved \"seen in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "472c9c79-3263-4324-bbb8-8254948cfd0c": {
-    "cop": 4,
-    "exp": "D i.e. Brain Whiplash injury results from acute hyperextension of cervical spineQ in the region of C4 - C6 veebrae. Coup & Count-re coup lesions are most commonly seen in brainQ. Lucid interval is seen in insanity & epidural haemorrhageQ Fracture - ala - signature / signature fracture is also known as depressed fracture of skull vaultQ. Depressed/ Signature fracture are caused by heavy weapon with small striking surface eg. hammerQ. Pond or Indented fracture occur in childrenQ due to elasticity of their skull bones. -Duret haemorrhages are small areas of bleeding in anterior & paramedian upper brain stem (midbrain & pons)Q produced due to progressive rise of intracranial pressure 1/t coning or downward herniation of brainstem into foramen magnum. This results in stretching & shearing of perforators of basilar aery causing duret hemorrhage , tractional damage of pituitary stalk causing diabetes insipidus; Cushing triad (bradycardia, hypeension & respiratory irregularities), mid size non reacting pupil and brainstem death."
+    "cop": 3,
+    "exp": "D i.e. Brain Whiplash injury results from acute hyperextension of cervical spineQ in the region of C4 - C6 veebrae. Coup & Count-re coup lesions are most commonly seen in brainQ. Lucid interval is seen in insanity & epidural haemorrhageQ Fracture - ala - signature / signature fracture is also known as depressed fracture of skull vaultQ. Depressed/ Signature fracture are caused by heavy weapon with small striking surface eg. hammerQ. Pond or Indented fracture occur in childrenQ due to elasticity of their skull bones. -Duret haemorrhages are small areas of bleeding in anterior & paramedian upper brain stem (midbrain & pons)Q produced due to progressive rise of intracranial pressure 1/t coning or downward herniation of brainstem into foramen magnum. This results in stretching & shearing of perforators of basilar aery causing duret hemorrhage , tractional damage of pituitary stalk causing diabetes insipidus; Cushing triad (bradycardia, hypeension & respiratory irregularities), mid size non reacting pupil and brainstem death.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Duret haemorrhage seen\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "39130a40-67a1-4dd9-a494-cc1dbfb14eef": {
-    "cop": 4,
-    "exp": "Answer is D (Hairy cell leukemia) Presence of massive splenomegaly, and granulocytopenia, alongwith characteristic immunophenotypic features (specially CD103) suggests the diagnosis of Hairy cell leukemia. CD103 is exclusively positive in Hairy cell leukemia and thus leaves no doubt as regards the correct diagnosis."
+    "cop": 3,
+    "exp": "Answer is D (Hairy cell leukemia) Presence of massive splenomegaly, and granulocytopenia, alongwith characteristic immunophenotypic features (specially CD103) suggests the diagnosis of Hairy cell leukemia. CD103 is exclusively positive in Hairy cell leukemia and thus leaves no doubt as regards the correct diagnosis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "83965e8c-d334-49ad-a40a-ff226ba11e09": {
-    "cop": 4,
-    "exp": "The markers for myeloid series are CD13, CD33, CD 11b, CD15, CD117 and cMPO. c MPO is the most lineage specific marker amongst these. Regarding other options, CD 34 - Myeloid and lymphoid blasts, stem cells, CD 45 - Leukocyte common antigen (nonerythroid hematopoietic cells), CD 99 - Ewing's sarcoma/primitive neuroectodermal cells."
+    "cop": 3,
+    "exp": "The markers for myeloid series are CD13, CD33, CD 11b, CD15, CD117 and cMPO. c MPO is the most lineage specific marker amongst these. Regarding other options, CD 34 - Myeloid and lymphoid blasts, stem cells, CD 45 - Leukocyte common antigen (nonerythroid hematopoietic cells), CD 99 - Ewing's sarcoma/primitive neuroectodermal cells.",
+    "hint_exp": "🎯 Think of \"myeloid series\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "07822661-2aca-4f91-a6b9-3406e2d6b956": {
-    "cop": 3,
-    "exp": "The Weheim type of radical hysterectomy for cancer of the cervix is notorious for ureteric injury for which over-dissection of the ureter or accidental injury is most often responsible. Ref: Shaw's Gynaecology, 13th Edition, Pages 180-81; Dutta Gynecology, 4th Edition, Pages 391-92; Management of Common Problems in Obstetrics and Gynecology By T. Murphy Goodwin, Main N. Montoro, Laila Muderspach, Subir Roy, 2010, Page 325; Clinical Gynecology By Bhasker Rao, 4th Edition, 1998, Page 239."
+    "cop": 2,
+    "exp": "The Weheim type of radical hysterectomy for cancer of the cervix is notorious for ureteric injury for which over-dissection of the ureter or accidental injury is most often responsible. Ref: Shaw's Gynaecology, 13th Edition, Pages 180-81; Dutta Gynecology, 4th Edition, Pages 391-92; Management of Common Problems in Obstetrics and Gynecology By T. Murphy Goodwin, Main N. Montoro, Laila Muderspach, Subir Roy, 2010, Page 325; Clinical Gynecology By Bhasker Rao, 4th Edition, 1998, Page 239.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"ureteric injury\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "328dc4a1-e76f-4e5a-b0a2-22cd463dcb00": {
-    "cop": 2,
-    "exp": "B i.e. Rule out depressionLet us consider the options one by one. This can be a normal behaviour but use definitely need to rule out of few disorders before reaching this conclusion. Recent studies have suggested a possible correlation b/w migraine and behavioural problems. There is nothing in the question to point out towards migraine as a cause of the headache, not there are any specific behavioural problems that can be linked to migraine.Diagnostic criteria for appositional defiantdisorder (ADD) A. A pattern of negativistic, hostile, and defiant behaviour lasting for atleast 6 months, during which four (or more) of the following are present?Often loses temperOften argues with adultsOften actively defies or refuses to comply with adults' requests or rules.Often deliberately annoys peopleOften blames others for his or her mistakes or misbehaviourIs often touchy or easily annoyed by othersIs often spiteful and resentfulIs often spiteful or vindictiveNote: Consider a criterion met only if the behaviour occurs more frequently than is typically observed in individuals of comparable age and developmental level.B. The disturbance in behaviour causes clinically significant impairment in social, academic, or occupational functioning.C. The behaviours do not occur exclusively during the course of a psychotic or mood disorder.D. Criteria are not met for conduct disorder, and if the individual is 18 years or older, criteria are not met for antisocial personality disorder.Clinical manifestations of depression in children and adolescents AnhedoniaLoss of interest andenthusiasm in play,socializing, school, andusual activities; boredom;loss of pleasureDysphoric moodTearfulness; sad, downturned expression; slumpedposture; quick temper;irritability; angerFatigabilityLethargy and tiredness; noplay after schoolMorbid ideationSelf-deprecating thoughts,statements; thoughts ofdisaster, abandonment,death, suicide, orhopelessness.Somatic symptomsChanges in sleep or appetitepatterns; difficulty inconcentrating; bodilycomplaints, paicularlyheadache and stomachache.QFrequent quarrels with parents and lack of interest in studies for last 6 months are both consistent with a diagnosis of oppositional defiant disorder. However, children with oppositional disorder typically present to the clinic by the age of 8 years. Also headache has not been mentioned as a manifestation in this disorder. The presence of frequent headaches and age of presentation (18 years) make the diagnosis of appositional delusional disorders unlikely. So symptoms of the patient here are not enough to be diagnosed as ADD.Depression can occur at any age including adolescents and young adults. Lack of interest in school is a known feature (anhedonia). Restlessness & irritability are pa of dysphoric mood & explain frequent quarrels with parents. Also somatic symptoms like headache/ heaviness of head are known associations"
+    "cop": 1,
+    "exp": "B i.e. Rule out depressionLet us consider the options one by one. This can be a normal behaviour but use definitely need to rule out of few disorders before reaching this conclusion. Recent studies have suggested a possible correlation b/w migraine and behavioural problems. There is nothing in the question to point out towards migraine as a cause of the headache, not there are any specific behavioural problems that can be linked to migraine.Diagnostic criteria for appositional defiantdisorder (ADD) A. A pattern of negativistic, hostile, and defiant behaviour lasting for atleast 6 months, during which four (or more) of the following are present?Often loses temperOften argues with adultsOften actively defies or refuses to comply with adults' requests or rules.Often deliberately annoys peopleOften blames others for his or her mistakes or misbehaviourIs often touchy or easily annoyed by othersIs often spiteful and resentfulIs often spiteful or vindictiveNote: Consider a criterion met only if the behaviour occurs more frequently than is typically observed in individuals of comparable age and developmental level.B. The disturbance in behaviour causes clinically significant impairment in social, academic, or occupational functioning.C. The behaviours do not occur exclusively during the course of a psychotic or mood disorder.D. Criteria are not met for conduct disorder, and if the individual is 18 years or older, criteria are not met for antisocial personality disorder.Clinical manifestations of depression in children and adolescents AnhedoniaLoss of interest andenthusiasm in play,socializing, school, andusual activities; boredom;loss of pleasureDysphoric moodTearfulness; sad, downturned expression; slumpedposture; quick temper;irritability; angerFatigabilityLethargy and tiredness; noplay after schoolMorbid ideationSelf-deprecating thoughts,statements; thoughts ofdisaster, abandonment,death, suicide, orhopelessness.Somatic symptomsChanges in sleep or appetitepatterns; difficulty inconcentrating; bodilycomplaints, paicularlyheadache and stomachache.QFrequent quarrels with parents and lack of interest in studies for last 6 months are both consistent with a diagnosis of oppositional defiant disorder. However, children with oppositional disorder typically present to the clinic by the age of 8 years. Also headache has not been mentioned as a manifestation in this disorder. The presence of frequent headaches and age of presentation (18 years) make the diagnosis of appositional delusional disorders unlikely. So symptoms of the patient here are not enough to be diagnosed as ADD.Depression can occur at any age including adolescents and young adults. Lack of interest in school is a known feature (anhedonia). Restlessness & irritability are pa of dysphoric mood & explain frequent quarrels with parents. Also somatic symptoms like headache/ heaviness of head are known associations",
+    "hint_exp": "🧩 Your crush solved \"year student complains lack\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "403f2990-e071-45f6-a054-0695a148a5e5": {
-    "cop": 1,
-    "exp": "It is a scheme for adolescent girls and is being implemented using the ICDS infrastructure. It targets girls between 11 - 18 years of age. It addresses their needs of self development, nutrition and health state's, literacy and numerical skills, vocational skills etc. Ref: Park, Edition 21, Page - 545."
+    "cop": 0,
+    "exp": "It is a scheme for adolescent girls and is being implemented using the ICDS infrastructure. It targets girls between 11 - 18 years of age. It addresses their needs of self development, nutrition and health state's, literacy and numerical skills, vocational skills etc. Ref: Park, Edition 21, Page - 545.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0c16496f-2d57-4e32-9e17-db977170d626": {
-    "cop": 2,
-    "exp": "synovial fluid is plasma transudate from synovial capillaries, modified by secretory activities of type-B synovial lining cells."
+    "cop": 1,
+    "exp": "synovial fluid is plasma transudate from synovial capillaries, modified by secretory activities of type-B synovial lining cells.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"synovial fluid\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "79f45476-3669-45d1-8f9f-226e20d829e4": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"year male hospitalized with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "efd08e7f-c8a3-4ec4-92e1-8fa9b0479bf6": {
-    "cop": 1,
-    "exp": "Primary to secondary spermatocyte"
+    "cop": 0,
+    "exp": "Primary to secondary spermatocyte",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which following transmission meiosis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8e4f61b0-cd26-4647-913d-136f0d3e6e16": {
-    "cop": 4,
-    "exp": "Timings of IUD inseion During menstruation or within 10 days of begining of menstrual period: Best time for IUD inseion Cervical canal diameter greatest, lesser expulsive, least risk of pregnancy. Immediate post-paum inseion: During 1st week after delivery before woman leaves hospital. High chance of perforation High chance of expulsion Post-puerperal inseion: 6-8 weeks after delivery Can be combined with follow up visit of mother and child. Not recommended after 2nd trimester aboion. Ref: Park 25th edition Pgno: 531"
+    "cop": 3,
+    "exp": "Timings of IUD inseion During menstruation or within 10 days of begining of menstrual period: Best time for IUD inseion Cervical canal diameter greatest, lesser expulsive, least risk of pregnancy. Immediate post-paum inseion: During 1st week after delivery before woman leaves hospital. High chance of perforation High chance of expulsion Post-puerperal inseion: 6-8 weeks after delivery Can be combined with follow up visit of mother and child. Not recommended after 2nd trimester aboion. Ref: Park 25th edition Pgno: 531",
+    "hint_exp": "🧩 Your crush solved \"Copper preferably inseed postnatal\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "938eb978-7b45-469e-a265-ac3e364aaa4e": {
-    "cop": 1,
-    "exp": "Thyroid Hormones physiology The thyroid secretes predominantly thyroxine (T4) and only a small amount of triiodothyronine (T3); approximately 85% of T3 in blood is produced from T4 by a family of monodeiodinase enzymes that are active in many tissues, including liver, muscle, hea and kidney. Selenium is an integral component of these monodeiodinases. T4 can be regarded as a prohormone, since it has a longer half-life in blood than T3 (approximately 1 week compared with approximately 18 hours), and binds and activates thyroid hormone receptors less effectively than T3. T4 can also be conveed to the inactive metabolite, reverse T3. T3 and T4 circulate in plasma almost entirely (> 99%) bound to transpo proteins, mainly thyroxine-binding globulin (TBG). It is the unbound or free hormones that diffuse into tissues and exe diverse metabolic actions. Some laboratories use assays that measure total T4 and T3 in plasma but it is increasingly common to measure free T4 and free T3free hormone measurements is that they are not influenced by changes in the concentration of binding proteins. For example, TBG levels are increased by oestrogen (such as in the combined oral contraceptive pill) and this will result in raised total T3 and T4, although free thyroid hormone levels are normal. Ref - davidson 20e p656"
+    "cop": 0,
+    "exp": "Thyroid Hormones physiology The thyroid secretes predominantly thyroxine (T4) and only a small amount of triiodothyronine (T3); approximately 85% of T3 in blood is produced from T4 by a family of monodeiodinase enzymes that are active in many tissues, including liver, muscle, hea and kidney. Selenium is an integral component of these monodeiodinases. T4 can be regarded as a prohormone, since it has a longer half-life in blood than T3 (approximately 1 week compared with approximately 18 hours), and binds and activates thyroid hormone receptors less effectively than T3. T4 can also be conveed to the inactive metabolite, reverse T3. T3 and T4 circulate in plasma almost entirely (> 99%) bound to transpo proteins, mainly thyroxine-binding globulin (TBG). It is the unbound or free hormones that diffuse into tissues and exe diverse metabolic actions. Some laboratories use assays that measure total T4 and T3 in plasma but it is increasingly common to measure free T4 and free T3free hormone measurements is that they are not influenced by changes in the concentration of binding proteins. For example, TBG levels are increased by oestrogen (such as in the combined oral contraceptive pill) and this will result in raised total T3 and T4, although free thyroid hormone levels are normal. Ref - davidson 20e p656",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Consider following statements regarding\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2cd4fb6d-17b8-40be-bd3f-2ea92b341648": {
-    "cop": 3,
-    "exp": "CONTRIBUTIONS OF FREUD o Father of psychoanalysis He founded a type of psychotherapy called psychoanalysis. It is nothing but analyzing the psych(MIND) o Interpretation of dreams According to Freud dreams are royal road to unconscious In dreams several conflicts that are present in the unconscious comes to the consciousness in the form of dreams Thus by analyzing ones dreams we could understand the unconscious conflicts o Psychosexual stages of life o Freud divided development into 5 stages namely psycho sexual development o It is divivded namely oral , anal , phallic, latent, genital phase. o Conversion disorders conversion disorder is conveing a psychological pain to physical symptoms present physical symptoms which has some connection with unconscious conflict is called SYMBOLIZATION present physical symptoms which has some resemblance with illness in family members, which is called MODELLING patient has illness like neurological deficit but they have apparent in concern towards their own illness which is known as LA BELLE INDIFFERENCE main defense mechanism in conversion disorder is REPRESSION o Repression defence mechanism * REPRESSION is called QUEEN of defense mechanisms o COUCH and FREE ASSOSIATION * He introduced a technique called as a couch technique where he makes the patient lie on the couch, he asks the patient to speak from 'cabbages to kings. This method is called FREE ASSOSIATION. By allowing the patient to speak whatever that comes to their mind randomly so that by analyzing their thoughts we could understand the conflict in the unconscious. o Topographical theory of mind Freud gave topographical theory mind It is divided into pre conscious, unconscious, conscious Later he disregarded topographical theory of mind and gave structural theory of mind o Structural theory of mind It is divided into id, ego, super ego Id= instinctual desires like anger, hunger, sexual instinct Ego= function of mind to work based on ego to avoid guilt from super ego Super ego= based on moral principle, obtained from family members and relatives, teachers Ref. kaplon and sadock, synopsis of psychiatry, 11 th edition pg no. 845"
+    "cop": 2,
+    "exp": "CONTRIBUTIONS OF FREUD o Father of psychoanalysis He founded a type of psychotherapy called psychoanalysis. It is nothing but analyzing the psych(MIND) o Interpretation of dreams According to Freud dreams are royal road to unconscious In dreams several conflicts that are present in the unconscious comes to the consciousness in the form of dreams Thus by analyzing ones dreams we could understand the unconscious conflicts o Psychosexual stages of life o Freud divided development into 5 stages namely psycho sexual development o It is divivded namely oral , anal , phallic, latent, genital phase. o Conversion disorders conversion disorder is conveing a psychological pain to physical symptoms present physical symptoms which has some connection with unconscious conflict is called SYMBOLIZATION present physical symptoms which has some resemblance with illness in family members, which is called MODELLING patient has illness like neurological deficit but they have apparent in concern towards their own illness which is known as LA BELLE INDIFFERENCE main defense mechanism in conversion disorder is REPRESSION o Repression defence mechanism * REPRESSION is called QUEEN of defense mechanisms o COUCH and FREE ASSOSIATION * He introduced a technique called as a couch technique where he makes the patient lie on the couch, he asks the patient to speak from 'cabbages to kings. This method is called FREE ASSOSIATION. By allowing the patient to speak whatever that comes to their mind randomly so that by analyzing their thoughts we could understand the conflict in the unconscious. o Topographical theory of mind Freud gave topographical theory mind It is divided into pre conscious, unconscious, conscious Later he disregarded topographical theory of mind and gave structural theory of mind o Structural theory of mind It is divided into id, ego, super ego Id= instinctual desires like anger, hunger, sexual instinct Ego= function of mind to work based on ego to avoid guilt from super ego Super ego= based on moral principle, obtained from family members and relatives, teachers Ref. kaplon and sadock, synopsis of psychiatry, 11 th edition pg no. 845",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"la belle indiffernce\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b5988495-d56c-42ab-a01d-3a769711b7cf": {
-    "cop": 3,
-    "exp": "HSCs (Hepatic Stellate Cells) are: Pericytes which exist in the space between parenchymal cells and liver sinusoidal endothelial cells of the hepatic lobule. Also called Vitamin A-storing cells, Lipocytes, Interstitial cells, Fat-storing cells or Ito cells, Perisinusoidal cells Store 50-80% of vitamin A in the whole body as Retinyl Palmitate. Extra information: Vitamin A - The fat-soluble vitamin A, as such is present only in foods of animal origin. However, its provitamins carotenes are found in plants Retinol, retinal and retinoic acid are regarded as vitamers of vitamin A. Function of vit A - Vitamin A is necessary for a variety of functions such as vision, proper growth and differentiation, reproduction and maintenance of epithelial cells. Deficiency manifestations of the eyes - nyctalopia is one of the earliest symptoms of vitamin A deficiency."
+    "cop": 2,
+    "exp": "HSCs (Hepatic Stellate Cells) are: Pericytes which exist in the space between parenchymal cells and liver sinusoidal endothelial cells of the hepatic lobule. Also called Vitamin A-storing cells, Lipocytes, Interstitial cells, Fat-storing cells or Ito cells, Perisinusoidal cells Store 50-80% of vitamin A in the whole body as Retinyl Palmitate. Extra information: Vitamin A - The fat-soluble vitamin A, as such is present only in foods of animal origin. However, its provitamins carotenes are found in plants Retinol, retinal and retinoic acid are regarded as vitamers of vitamin A. Function of vit A - Vitamin A is necessary for a variety of functions such as vision, proper growth and differentiation, reproduction and maintenance of epithelial cells. Deficiency manifestations of the eyes - nyctalopia is one of the earliest symptoms of vitamin A deficiency.",
+    "hint_exp": "🎯 Think of \"Vitamin stored\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "80004ad9-1a07-4bf4-ab19-852425e0b1f6": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"reconstruction\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "54648451-e155-4f8f-87ba-1584183aeb4e": {
-    "cop": 3,
-    "exp": "parks textbook of preventive and social medicine 23rd edition * height is a stable measurement of growth as opposed to body weight .whereas the weight reflects only the present health status of the child,height indicate the events in the past also. *low height for age also knownn as nutritional stunting or drawfting.it reflects past or chronic mal nutrition."
+    "cop": 2,
+    "exp": "parks textbook of preventive and social medicine 23rd edition * height is a stable measurement of growth as opposed to body weight .whereas the weight reflects only the present health status of the child,height indicate the events in the past also. *low height for age also knownn as nutritional stunting or drawfting.it reflects past or chronic mal nutrition.",
+    "hint_exp": "🧩 Your crush solved \"chronic malnutrition\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1d772eff-6181-49b2-baee-8ed7c6574d1e": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Convex pa formed by fibrous cap"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Convex pa formed by fibrous cap",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"atherosclerosis plaque\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "31af59cc-67d0-4056-8338-8f028f26eb5d": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Right ventricle o Dont get confused with above question. Most probably this question has been framed by a radiologist. Read following factsi) Right border of heart is formed by (anatomically) - Right atrium.ii) Right border of heart is formed by (on X-ray PA view) - Right atrium (majority), SVC, I VC. o Similiarly-i) Left border of heart is formed by (anatomically) - Left atrium (mainly), left auricle.ii) Left border of heart is formed by (on X-ray PA view) - Aortic knucle, Pulmonary trunk, left auricle, left atrium, left ventricle."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Right ventricle o Dont get confused with above question. Most probably this question has been framed by a radiologist. Read following factsi) Right border of heart is formed by (anatomically) - Right atrium.ii) Right border of heart is formed by (on X-ray PA view) - Right atrium (majority), SVC, I VC. o Similiarly-i) Left border of heart is formed by (anatomically) - Left atrium (mainly), left auricle.ii) Left border of heart is formed by (on X-ray PA view) - Aortic knucle, Pulmonary trunk, left auricle, left atrium, left ventricle.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"heart\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3abf388a-5cc3-4b14-a00b-d2ddc8fc2740": {
-    "cop": 2,
-    "exp": "RAO & SINGH'S INDEX: - It is calculated as Weight (in kg) x 100/height2 (in cm) - Normal value: 0.14 - In children with malnutrition: 0.12 - 0.14"
+    "cop": 1,
+    "exp": "RAO & SINGH'S INDEX: - It is calculated as Weight (in kg) x 100/height2 (in cm) - Normal value: 0.14 - In children with malnutrition: 0.12 - 0.14",
+    "hint_exp": "🎯 Think of \"Singh index\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f0ba3c8f-0f3b-47d4-a3c4-15f6a495f26f": {
-    "cop": 1,
-    "exp": "A i.e. Involve palm & soles"
+    "cop": 0,
+    "exp": "A i.e. Involve palm & soles",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"characterized by\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e69da445-8863-4ac0-9d9e-a27d5b9fd260": {
-    "cop": 4,
-    "exp": "Elevators : Primary elevators act directly as they are attached to the thyroid cartilage and include stylopharyngeus, salpingopharyngeus, palatopharyngeus and thyrohyoid. Secondary elevators act indirectly as they are attached to the hyoid bone and include mylohyoid (main), digastric, stylohyoid, geniohyoid.\nDepressors : They include sternohyoid, sternothyroid and omohyoid."
+    "cop": 3,
+    "exp": "Elevators : Primary elevators act directly as they are attached to the thyroid cartilage and include stylopharyngeus, salpingopharyngeus, palatopharyngeus and thyrohyoid. Secondary elevators act indirectly as they are attached to the hyoid bone and include mylohyoid (main), digastric, stylohyoid, geniohyoid.\nDepressors : They include sternohyoid, sternothyroid and omohyoid.",
+    "hint_exp": "🧩 Your crush solved \"elevators larynx except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "538ef57b-9b58-4be3-b70e-49f492885264": {
-    "cop": 2,
-    "exp": "Major Disorders Associated With Disseminated Intravascular Coagulation (DIC)\nObstetric Complications \n\nAbruptio placentae\nRetained dead fetus\nSeptic Abortion\nAmniotic fluid embolism\nToxemia\n\nInfections \n\nSepsis (gram-negative and gram-positive)\nMeningococcemia\nRocky Mountain spotted fever\nHistoplasmosis\nAspergillosis \nMalaria\n\nNeoplasms\n\nCarcinomas of pancreas, prostate, lung and stomach\nAcute promyelocytic leukemia\n\nMassive Tissue Injury\n\nTrauma\nBurns\nExtensive surgery\n\nMiscellaneous\n\nAcute intravascular hemolysis, snakebite, giant hemangioma, shock, heatstroke, vasculitis, aortic aneurysm, liver disease.\n\nRobbins BASIC  PATHOLOGY T E N T H   E D I T I O N page no.487"
+    "cop": 1,
+    "exp": "Major Disorders Associated With Disseminated Intravascular Coagulation (DIC)\nObstetric Complications \n\nAbruptio placentae\nRetained dead fetus\nSeptic Abortion\nAmniotic fluid embolism\nToxemia\n\nInfections \n\nSepsis (gram-negative and gram-positive)\nMeningococcemia\nRocky Mountain spotted fever\nHistoplasmosis\nAspergillosis \nMalaria\n\nNeoplasms\n\nCarcinomas of pancreas, prostate, lung and stomach\nAcute promyelocytic leukemia\n\nMassive Tissue Injury\n\nTrauma\nBurns\nExtensive surgery\n\nMiscellaneous\n\nAcute intravascular hemolysis, snakebite, giant hemangioma, shock, heatstroke, vasculitis, aortic aneurysm, liver disease.\n\nRobbins BASIC  PATHOLOGY T E N T H   E D I T I O N page no.487",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Leukemia associated with Disseminated\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2643d26f-638f-4d2c-ad5b-387ff1481556": {
-    "cop": 3,
-    "exp": "ANSWER: (C) ConstipationREF: KDT 6th edition page 457Tolerance is exhibited to all actions except meiosis and constipation"
+    "cop": 2,
+    "exp": "ANSWER: (C) ConstipationREF: KDT 6th edition page 457Tolerance is exhibited to all actions except meiosis and constipation",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"effect morphine which least\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7f3d49bb-f723-436b-9c34-de28dfb5e911": {
-    "cop": 3,
-    "exp": "V-Y plasty procedure or Z plasty procedure is used for frenectomy procedure to increase the stability of denture."
+    "cop": 2,
+    "exp": "V-Y plasty procedure or Z plasty procedure is used for frenectomy procedure to increase the stability of denture.",
+    "hint_exp": "🎯 Think of \"denture can be increased by\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ae711017-66be-45f1-87f0-293e670c88b1": {
-    "cop": 2,
-    "exp": "Meralgia Paraesthetica results from compression neuropathy of the lateral cutaneous nerve of thigh. It is also called Bernhardt-Roth syndrome. This nerve can be compressed as it runs through the inguinal ligament, just medial to the Anterior superior Iliac spine. Pain, numbness, tingling and paresthesia localised to anterolateral aspect of thigh. Metabolic disorder most notably diabetes is identified as the potential cause of this condition. Ref: Apley's System of Ohopedics and Fractures 8th Edition, Page 252; Lippincott's Primary Care Ohopedics, 2008, Page 87."
+    "cop": 1,
+    "exp": "Meralgia Paraesthetica results from compression neuropathy of the lateral cutaneous nerve of thigh. It is also called Bernhardt-Roth syndrome. This nerve can be compressed as it runs through the inguinal ligament, just medial to the Anterior superior Iliac spine. Pain, numbness, tingling and paresthesia localised to anterolateral aspect of thigh. Metabolic disorder most notably diabetes is identified as the potential cause of this condition. Ref: Apley's System of Ohopedics and Fractures 8th Edition, Page 252; Lippincott's Primary Care Ohopedics, 2008, Page 87.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which off the follwoing nerves\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "af336b40-2603-4fb5-b889-3d26e32ad926": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Na+-amino acid transport Transport mechanismExamplesSimple diffusionMovement of fats, oxygen, CO2 through lipid portion of membraneFacilitated diffusionMovement of glucose and some amino-acidsOsmosisMovement of water into and out of the cellPrimary active transportIons K+, Na+, Ca++, H+Secondary active transportGlucose or amino-acid into the cell along Na+ (Symport or cotransport) Ca+2, H+ out of the cell against Na+ (Antiport or countertransport)"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Na+-amino acid transport Transport mechanismExamplesSimple diffusionMovement of fats, oxygen, CO2 through lipid portion of membraneFacilitated diffusionMovement of glucose and some amino-acidsOsmosisMovement of water into and out of the cellPrimary active transportIons K+, Na+, Ca++, H+Secondary active transportGlucose or amino-acid into the cell along Na+ (Symport or cotransport) Ca+2, H+ out of the cell against Na+ (Antiport or countertransport)",
+    "hint_exp": "🧩 Your crush solved \"Example secondary active transport\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4a7e2645-fa04-4e3a-9527-db58296dee3d": {
-    "cop": 3,
-    "exp": "Yolk sac tumor only occurs as a pure tumor in young males (at about 3 years of age). In adults, yolk sac tumors are pa of mixed germ cell tumors. One characteristic feature of yolk sac tumor is Schiller-Duval bodies, which resemble endodermal sinuses. Schiller-Duval bodies have a capillary at the core and are surrounded by a visceral and a parietal layer (i.e., resemble primitive glomerulus). Ref: Wyatt C., Butterwoh IV J.F., Moos P.J., Mackey D.C., Brown T.G. (2008). Chapter 17. Pathology of the Male and Female Reproductive Tract and Breast. In C. Wyatt, J.F. Butterwoh IV, P.J. Moos, D.C. Mackey, T.G. Brown (Eds), Pathology: The Big Picture."
+    "cop": 2,
+    "exp": "Yolk sac tumor only occurs as a pure tumor in young males (at about 3 years of age). In adults, yolk sac tumors are pa of mixed germ cell tumors. One characteristic feature of yolk sac tumor is Schiller-Duval bodies, which resemble endodermal sinuses. Schiller-Duval bodies have a capillary at the core and are surrounded by a visceral and a parietal layer (i.e., resemble primitive glomerulus). Ref: Wyatt C., Butterwoh IV J.F., Moos P.J., Mackey D.C., Brown T.G. (2008). Chapter 17. Pathology of the Male and Female Reproductive Tract and Breast. In C. Wyatt, J.F. Butterwoh IV, P.J. Moos, D.C. Mackey, T.G. Brown (Eds), Pathology: The Big Picture.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Microscopic examination specimen shows\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a84f80bb-febe-49d3-8290-4ecda820da87": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., All of the above Preanaesthetic medication Premedication (Preanaesthetic medication) refers to the use of drugs before anaesthesia to make it more pleasant and safe. The aims are : Relief of anxiety and apprehension preoperatively and to facilitate smooth induction. Amnesia for preoperative and postoperative events. Supplement analgesic action of anaesthetics and potentiate them. Decrease secretions and vagal stimulation (undesirable reflex). Antiemetic effect extending into postoperative period. Decrease acidity and volume of gastric juice so that it is less damaging if aspirated. Drugs used in premedication 1. Sedative - antianxiety - Diazepam / Lorazepam / Midazolam. Lorazepam is used most commonly. Midazolam is used for day care surgery. 2. Opioids - Morphine / pethidine 3. Anticholinergics -. Atropine / Hyoscine / Glycopyrrolate. 4. Neuroleptics Haloperidol / chlorpromazine / triflupromazine. 5. H2 blocker or proton pump inhibitor Ranitidine / Famotidine, omeprazole / Pantoprazole. 6. Antiemitics - Metoclopramide / Domperidone / Ondansetron."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., All of the above Preanaesthetic medication Premedication (Preanaesthetic medication) refers to the use of drugs before anaesthesia to make it more pleasant and safe. The aims are : Relief of anxiety and apprehension preoperatively and to facilitate smooth induction. Amnesia for preoperative and postoperative events. Supplement analgesic action of anaesthetics and potentiate them. Decrease secretions and vagal stimulation (undesirable reflex). Antiemetic effect extending into postoperative period. Decrease acidity and volume of gastric juice so that it is less damaging if aspirated. Drugs used in premedication 1. Sedative - antianxiety - Diazepam / Lorazepam / Midazolam. Lorazepam is used most commonly. Midazolam is used for day care surgery. 2. Opioids - Morphine / pethidine 3. Anticholinergics -. Atropine / Hyoscine / Glycopyrrolate. 4. Neuroleptics Haloperidol / chlorpromazine / triflupromazine. 5. H2 blocker or proton pump inhibitor Ranitidine / Famotidine, omeprazole / Pantoprazole. 6. Antiemitics - Metoclopramide / Domperidone / Ondansetron.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"given to\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "65c4d2d3-b886-48c3-b65f-bd9098894659": {
-    "cop": 2,
-    "exp": "Ans. is'b'i.e., Conformational change in transpoer(Ref: Essentials of membrane Biophysics p. 25I).The relative slowness of the rate constant for conformational change reorienting the Solute-unoccupied transpoer (Step-4) makes it the rate-limiting step in the process of facilitated diffusion."
+    "cop": 1,
+    "exp": "Ans. is'b'i.e., Conformational change in transpoer(Ref: Essentials of membrane Biophysics p. 25I).The relative slowness of the rate constant for conformational change reorienting the Solute-unoccupied transpoer (Step-4) makes it the rate-limiting step in the process of facilitated diffusion.",
+    "hint_exp": "🎯 Think of \"facilitated diffusion\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e11e0a84-54e0-4678-9060-26a198f5bce8": {
-    "cop": 1,
-    "exp": "Ventimask (venturi mask) is a fixed performance (high flow) oxygen delivery device.\nNasal cannula, non-rebreathing mask (Hudson mask) and simple mask are variable performance (low flow) devices."
+    "cop": 0,
+    "exp": "Ventimask (venturi mask) is a fixed performance (high flow) oxygen delivery device.\nNasal cannula, non-rebreathing mask (Hudson mask) and simple mask are variable performance (low flow) devices.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Fixed performance device\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8a0b0d9a-79c0-4f79-9880-e590026bad08": {
-    "cop": 1,
-    "exp": "Ans. A. Bodya. Vertebral bodies mainly develop from ventral sclerotome (VS) and thus hemivertebra is a defect of VS.b. Hemivertebra can lead to defects in the vertebral column - scoliosis.c. Posterior vertebral arches (PVA) contribute mainly to the lamina & spines. PVA are contributed by the dorsal sclerotome."
+    "cop": 0,
+    "exp": "Ans. A. Bodya. Vertebral bodies mainly develop from ventral sclerotome (VS) and thus hemivertebra is a defect of VS.b. Hemivertebra can lead to defects in the vertebral column - scoliosis.c. Posterior vertebral arches (PVA) contribute mainly to the lamina & spines. PVA are contributed by the dorsal sclerotome.",
+    "hint_exp": "🧩 Your crush solved \"Hemivertebra defect\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d518d93d-6d27-499d-bdd9-68814eeef581": {
-    "cop": 3,
-    "exp": "Biosynthesis of urea occurs in five steps.\n\n1) Carbamoyl phosphate synthase-I (CPS-I), a mitochondrial enzyme, catalyzes the formation of carbamoyl phosphate by condensation of CO2 and ammonia.\nTwo molecules of ATP are required for the reaction. CPS-I is the rate-limiting enzyme of the urea cycle. It is an allosteric enzyme and allosterically activated by N-acetyl glutamate.\n2) Ornithine transcarbamylase catalyzes the formation of citrulline from carbamoyl phosphate and ornithine.\n3) Argininosuccinate synthase catalyzes the formation of argininosuccinate from citrulline and aspartate.\nThis reaction requires 1ATP, but 2 high energy phosphate bonds are consumed as ATP is converted to AMP + PPi.\nThe amino group of aspartate provides one of the two nitrogen atoms that appear in urea (The other one is provided by ammonia NH4).\n4) Argininosuccinate lyase (argininosuccinase) catalyzes the cleavage of argininosuccinate into arginine and fumarate.\nFumarate enters in TCA cycle. \n5) Arginase catalyzes the formation of urea from arginine by hydrolytic cleavage of arginine to yield urea and ornithine.\nOrnithine is thus regenerated and can enter mitochondria to initiate another round of the urea cycle."
+    "cop": 2,
+    "exp": "Biosynthesis of urea occurs in five steps.\n\n1) Carbamoyl phosphate synthase-I (CPS-I), a mitochondrial enzyme, catalyzes the formation of carbamoyl phosphate by condensation of CO2 and ammonia.\nTwo molecules of ATP are required for the reaction. CPS-I is the rate-limiting enzyme of the urea cycle. It is an allosteric enzyme and allosterically activated by N-acetyl glutamate.\n2) Ornithine transcarbamylase catalyzes the formation of citrulline from carbamoyl phosphate and ornithine.\n3) Argininosuccinate synthase catalyzes the formation of argininosuccinate from citrulline and aspartate.\nThis reaction requires 1ATP, but 2 high energy phosphate bonds are consumed as ATP is converted to AMP + PPi.\nThe amino group of aspartate provides one of the two nitrogen atoms that appear in urea (The other one is provided by ammonia NH4).\n4) Argininosuccinate lyase (argininosuccinase) catalyzes the cleavage of argininosuccinate into arginine and fumarate.\nFumarate enters in TCA cycle. \n5) Arginase catalyzes the formation of urea from arginine by hydrolytic cleavage of arginine to yield urea and ornithine.\nOrnithine is thus regenerated and can enter mitochondria to initiate another round of the urea cycle.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"metabolic product urea cycle\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2b7b3a5f-af45-4cb8-a84f-72959bb9bdf1": {
-    "cop": 1,
-    "exp": "Ans. A. NeuropraxiaTourniquet paralysis is usually Neuropraxia. Application of tourniquet may press on all the nerves passing beneath it, resulting in mostly neuropraxia."
+    "cop": 0,
+    "exp": "Ans. A. NeuropraxiaTourniquet paralysis is usually Neuropraxia. Application of tourniquet may press on all the nerves passing beneath it, resulting in mostly neuropraxia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"injury\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "feccd93c-1c40-4e26-84af-a0e4849eb878": {
-    "cop": 1,
-    "exp": "Although this can be caused by a variation in the morphology of the tooth, the most common source of error is the misinterpretation of cervical burnout as dental caries. Cervical burnout produces an artifact that mimics a carious lesion near the cementoenamel junction (CEJ) area of the tooth.\nAs the X-ray beam meets the convex proximal surface of the tooth, those X-ray photons that pass almost tangentially through the tooth surface “see” less tooth structure than those photons that pass deeper through the tooth. This area of convexity is commonly located apical to the CEJ, near the normal height of the alveolar crest.\nThe thinner tooth structure here absorbs fewer X-rays; consequently the area appears relatively more radiolucent on an image. Cervical burnout can also be seen in multirooted teeth, when roots that are more buccally positioned do not overlap perfectly with a lingual or palatal root in a mesiodistal direction.\nThe presence of a shallow furcation on either the mesial or distal surface of the tooth can make the area appear more radiolucent. However, the presence of two overlapping roots can be confirmed by identifying the periodontal ligament spaces of each root."
+    "cop": 0,
+    "exp": "Although this can be caused by a variation in the morphology of the tooth, the most common source of error is the misinterpretation of cervical burnout as dental caries. Cervical burnout produces an artifact that mimics a carious lesion near the cementoenamel junction (CEJ) area of the tooth.\nAs the X-ray beam meets the convex proximal surface of the tooth, those X-ray photons that pass almost tangentially through the tooth surface “see” less tooth structure than those photons that pass deeper through the tooth. This area of convexity is commonly located apical to the CEJ, near the normal height of the alveolar crest.\nThe thinner tooth structure here absorbs fewer X-rays; consequently the area appears relatively more radiolucent on an image. Cervical burnout can also be seen in multirooted teeth, when roots that are more buccally positioned do not overlap perfectly with a lingual or palatal root in a mesiodistal direction.\nThe presence of a shallow furcation on either the mesial or distal surface of the tooth can make the area appear more radiolucent. However, the presence of two overlapping roots can be confirmed by identifying the periodontal ligament spaces of each root.",
+    "hint_exp": "🎯 Think of \"dental caries\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2efc4520-cef6-49ab-8eac-ff9557b543b8": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Muscle Location of Tophi They are classically located along the helix of the ear. Can also be seen in :- Fingers Toes Prepattelar bursa Olecranon Although gout typically cuases joint inflammation, it can also cause inflammation in other synol-based structures, such as bursae and tendons. Tophi are collections of urate crystals in the soft tissues. They tend to develop after about a decade in untreated patients who develop chronic gouty ahritis. Tophi may develop earlier in older women, paicularly those receiving diuretics."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Muscle Location of Tophi They are classically located along the helix of the ear. Can also be seen in :- Fingers Toes Prepattelar bursa Olecranon Although gout typically cuases joint inflammation, it can also cause inflammation in other synol-based structures, such as bursae and tendons. Tophi are collections of urate crystals in the soft tissues. They tend to develop after about a decade in untreated patients who develop chronic gouty ahritis. Tophi may develop earlier in older women, paicularly those receiving diuretics.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"all regions except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "74cebd18-4025-4732-b117-fde9b4d81453": {
-    "cop": 3,
-    "exp": "\"Allowable normal range of variation in observation, is conventionally taken between 3'd and 97th percentile curves\"  -Ghai\n\nThis female child has weight (50 th percentile) and height (75th percentile) in normal range of variation (3rd-97th percentile).\nSo, nothing should be done actively and the parent should be assured that weight and height of the child are within normal range."
+    "cop": 2,
+    "exp": "\"Allowable normal range of variation in observation, is conventionally taken between 3'd and 97th percentile curves\"  -Ghai\n\nThis female child has weight (50 th percentile) and height (75th percentile) in normal range of variation (3rd-97th percentile).\nSo, nothing should be done actively and the parent should be assured that weight and height of the child are within normal range.",
+    "hint_exp": "🧩 Your crush solved \"of that child\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3f70d001-441a-4b6e-8499-b4120fb5f56d": {
-    "cop": 3,
-    "exp": "This question is tricky one as tactile hallucination (fornication) and delusion of persecution are seen both in cocaine as well as amphetamine abuse.\nRead the question carefully, examiner has asked about the presence of fornication and delusion of persecution together.\nIn amphetamine abuse these two do not occur together → fornication (tactile hallucination) is seen in chronic abuse, where as paranoid ideation (delusion of persecution) occurs in acute intoxication.\nOn the other hand both delusion of persecution and fornication are seen together in chronic cocaine abuse. \"Cocaine abuse can present with auditory hallucinations, tactile hallucination including fornication and paranoid delusion (delusion of persecution)\" ."
+    "cop": 2,
+    "exp": "This question is tricky one as tactile hallucination (fornication) and delusion of persecution are seen both in cocaine as well as amphetamine abuse.\nRead the question carefully, examiner has asked about the presence of fornication and delusion of persecution together.\nIn amphetamine abuse these two do not occur together → fornication (tactile hallucination) is seen in chronic abuse, where as paranoid ideation (delusion of persecution) occurs in acute intoxication.\nOn the other hand both delusion of persecution and fornication are seen together in chronic cocaine abuse. \"Cocaine abuse can present with auditory hallucinations, tactile hallucination including fornication and paranoid delusion (delusion of persecution)\" .",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Fornication delusion persecution both\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "52cb9242-2bc1-4e8f-9a9f-6651a0674322": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Lingual tonsils arise\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ddcf5f2f-c9a2-4c2e-ba72-904e1c5e2b78": {
-    "cop": 2,
-    "exp": "Pelvic tuberculosis is an absolute contraindication for IUD inseion. Absolute contraindications for IUD Relative contraindications for IUD Suspected Pregnancy PID Vaginal Bleeding of undiagnosed etiology Ca Cervix,Uterus or Adnexa and other pelvic tumours Previous Ectopic Pregnancy Anaemia Menorrhagia History of PID since last pregnancy purulent cervical discharge Congenital uterine malformations Unmotivated person"
+    "cop": 1,
+    "exp": "Pelvic tuberculosis is an absolute contraindication for IUD inseion. Absolute contraindications for IUD Relative contraindications for IUD Suspected Pregnancy PID Vaginal Bleeding of undiagnosed etiology Ca Cervix,Uterus or Adnexa and other pelvic tumours Previous Ectopic Pregnancy Anaemia Menorrhagia History of PID since last pregnancy purulent cervical discharge Congenital uterine malformations Unmotivated person",
+    "hint_exp": "🎯 Think of \"IUCD must used woman\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2af68c98-1f39-4900-b275-515bebed135f": {
-    "cop": 4,
-    "exp": "Ans. d. Herpes"
+    "cop": 3,
+    "exp": "Ans. d. Herpes",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"enveloped helical viruses belong\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "92e6d38b-7f7b-480d-b81e-07533d8f24d8": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., II o Ten different mammalian Toll like receptors (TRRs) have been identified --> TLR 1 to 10. o TLRs are involved in responses to widely divergent types of molecules that are commonly expressed by microbial but not mammalian cells. TLR Microbial ligand molecules Peptidoglycan of Gram (+)ve bacteria zymosan of fungi GPI anchor of Trypanosomes Lipoarabinomannan of mycobacteria LPS (endotoxin) of Leptospira Lipoproteins of bacteria Double - stranded DNA of viruses LPS (endotoxin) of all other gram (-)ve bacteria HSF 00 of chlamydia Flagellin of bacteria CpG DNA of bacteria and protozoa Note ? o Bacterial endotoxin of all gram (-)ve organisms, bind to TLR-4, except Leptospira. o Endotoxin of leptospira binds to TLR-2."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., II o Ten different mammalian Toll like receptors (TRRs) have been identified --> TLR 1 to 10. o TLRs are involved in responses to widely divergent types of molecules that are commonly expressed by microbial but not mammalian cells. TLR Microbial ligand molecules Peptidoglycan of Gram (+)ve bacteria zymosan of fungi GPI anchor of Trypanosomes Lipoarabinomannan of mycobacteria LPS (endotoxin) of Leptospira Lipoproteins of bacteria Double - stranded DNA of viruses LPS (endotoxin) of all other gram (-)ve bacteria HSF 00 of chlamydia Flagellin of bacteria CpG DNA of bacteria and protozoa Note ? o Bacterial endotoxin of all gram (-)ve organisms, bind to TLR-4, except Leptospira. o Endotoxin of leptospira binds to TLR-2.",
+    "hint_exp": "🧩 Your crush solved \"Which toll like receptors\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

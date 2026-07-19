@@ -1,202 +1,252 @@
 {
   "7771eec4-bd3c-4425-ad79-f0d7b2e415bd": {
-    "cop": 3,
-    "exp": ".*clostridial organisms can cause Extensive necrosis of muscle with production of gas (hydrogen sulphide; nitrogen; carbon dioxide) which stains the muscle brown or black. * Usually muscle is involved from origin to inseion. * Often may extend into thoracic and abdominal muscles. * When it affects the liver it causes necrosis with frothy blood--foaming liver, is characteristic..Non clostridial gas producing organisms like coliforms can also cause gas .gangrene. ref:SRB&;S manual of surgery,ed 3,pg no 45"
+    "cop": 2,
+    "exp": ".*clostridial organisms can cause Extensive necrosis of muscle with production of gas (hydrogen sulphide; nitrogen; carbon dioxide) which stains the muscle brown or black. * Usually muscle is involved from origin to inseion. * Often may extend into thoracic and abdominal muscles. * When it affects the liver it causes necrosis with frothy blood--foaming liver, is characteristic..Non clostridial gas producing organisms like coliforms can also cause gas .gangrene. ref:SRB&;S manual of surgery,ed 3,pg no 45",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"tissue should differenciates with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "92cd00f9-a083-4d4c-8dd8-d51bd270ccde": {
-    "cop": 1,
-    "exp": "A i.e. ELISA"
+    "cop": 0,
+    "exp": "A i.e. ELISA",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Antigen antiboey reaction detected\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f2b5345b-32d8-4265-ac12-03c591f3eb24": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Griseofulvin Treatment of P. versicolor Systemic --> Ketoconazole, Fluconazole, Itraconazole. Topical --> Azoles (clotrimazole, econazole, micronazole, ketoconazole), selenium sulfide, sodium thiosulphate, whitfield's ointment (3% salicylic acid + 6% benzoic acid)."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Griseofulvin Treatment of P. versicolor Systemic --> Ketoconazole, Fluconazole, Itraconazole. Topical --> Azoles (clotrimazole, econazole, micronazole, ketoconazole), selenium sulfide, sodium thiosulphate, whitfield's ointment (3% salicylic acid + 6% benzoic acid).",
+    "hint_exp": "🎯 Think of \"tenia versicoloris\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "27ff1e39-b059-41f7-b645-a7f9cf54c463": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the lip\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "cbb5952f-281c-4f17-846f-81f13b047857": {
-    "cop": 3,
-    "exp": "• GISTs: MC mesenchymal tumor of the GI tract\n• MC primary site for GIST: Stomach (60–70%) > small bowel (20–25%) > colorectum and esophagus (5% each).\n• Most GISTs are positive for CD-117 (95%), BCL-2 (80%), CD-34 (70%)\n• Types: Spindle cell (70%) and Epitheloid (30%)\nPathology:\n• Arise from the muscularis propria and most likely originate from the cells of Cajal\n• Expression of the receptor tyrosine kinase KIT (CD 117), 5% express platelet derived growth factor receptor alpha (PDGFRA).\n• PDGFRA mutations in GIST appear to confer a very favorable prognosis with low risk of recurrence.\n• Spindle cell pattern (70%) of GIST is more common than epitheloid or round cell pattern (30%).\n• New tumor markers of GIST: DOG-1 (discovered on GIST-1) and protein kinase C-theta\nClinical features:\n• Patients usually present after the fourth decade, with the mean age of 60 years at diagnosis.\n• MC presentations of gastric GISTs: GI bleeding and pain or dyspepsia.\nCarney triad\n• Association of extra-adrenal paragangliomas, pulmonary chondromas and multifocal GIST\nDiagnosis:\n• CT: IOC for evaluation of primary tumor and accurate staging\n• PET-CT: Gold standard for recurrent GIST\n• Percutaneous or endoscopic biopsy should only be performed if the results would obviate the need for surgeryQ.\nTreatment:\n• Bleeding manifestation is the MC indication for surgery.\n• GIST should be treated with segmental resectionQ (margins of 1cm)\n• LN metastasis are uncommon, regional lymphadenectomy is not recommended\n• Intraoperative incisional biopsy prior to resection should be avoided, because it risks tumor spillage\n• Imatinib (selective inhibitor of type 3 tyrosine kinase KIT), is approved for use in CD117-positive unresectable and metastatic GISTs.\n• Functional imaging of GIST with 18FDG-PET scanning represents a useful diagnostic modality for early-response assessment with imatinib therapy.\n• Sunitinib is used in imatinib-refractory disease.\nPrognosis:\n• Tumor size is a predominant factor for survival in surgical series for primary GIST.\n• MC sites of disease failure after complete resection: Liver, omentum or peritoneal cavity.\n• Half to two third primaries will have disease failure within the liver and nearly 40% will have liver as the only site of failure. Generally hepatic involvement is multifocal.\n• Median time to recurrence after resection of primary GIST is 2 years."
+    "cop": 2,
+    "exp": "• GISTs: MC mesenchymal tumor of the GI tract\n• MC primary site for GIST: Stomach (60–70%) > small bowel (20–25%) > colorectum and esophagus (5% each).\n• Most GISTs are positive for CD-117 (95%), BCL-2 (80%), CD-34 (70%)\n• Types: Spindle cell (70%) and Epitheloid (30%)\nPathology:\n• Arise from the muscularis propria and most likely originate from the cells of Cajal\n• Expression of the receptor tyrosine kinase KIT (CD 117), 5% express platelet derived growth factor receptor alpha (PDGFRA).\n• PDGFRA mutations in GIST appear to confer a very favorable prognosis with low risk of recurrence.\n• Spindle cell pattern (70%) of GIST is more common than epitheloid or round cell pattern (30%).\n• New tumor markers of GIST: DOG-1 (discovered on GIST-1) and protein kinase C-theta\nClinical features:\n• Patients usually present after the fourth decade, with the mean age of 60 years at diagnosis.\n• MC presentations of gastric GISTs: GI bleeding and pain or dyspepsia.\nCarney triad\n• Association of extra-adrenal paragangliomas, pulmonary chondromas and multifocal GIST\nDiagnosis:\n• CT: IOC for evaluation of primary tumor and accurate staging\n• PET-CT: Gold standard for recurrent GIST\n• Percutaneous or endoscopic biopsy should only be performed if the results would obviate the need for surgeryQ.\nTreatment:\n• Bleeding manifestation is the MC indication for surgery.\n• GIST should be treated with segmental resectionQ (margins of 1cm)\n• LN metastasis are uncommon, regional lymphadenectomy is not recommended\n• Intraoperative incisional biopsy prior to resection should be avoided, because it risks tumor spillage\n• Imatinib (selective inhibitor of type 3 tyrosine kinase KIT), is approved for use in CD117-positive unresectable and metastatic GISTs.\n• Functional imaging of GIST with 18FDG-PET scanning represents a useful diagnostic modality for early-response assessment with imatinib therapy.\n• Sunitinib is used in imatinib-refractory disease.\nPrognosis:\n• Tumor size is a predominant factor for survival in surgical series for primary GIST.\n• MC sites of disease failure after complete resection: Liver, omentum or peritoneal cavity.\n• Half to two third primaries will have disease failure within the liver and nearly 40% will have liver as the only site of failure. Generally hepatic involvement is multifocal.\n• Median time to recurrence after resection of primary GIST is 2 years.",
+    "hint_exp": "🧩 Your crush solved \"Treatment Zollinger Ellison syndrome\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9c10a028-2ac8-4c64-bae3-9f75abcbffc1": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., All o Toxic amblyopia is chronic retrobulbar neuritis which results from the damage to optic nerve by the exogenous poisons.o It is frequently bilateral and has a chronic course with permanent visual deterioration.o The toxic agents involve may be : Tobacco, ethyl alcohol, methyl alcohol, ethylene glycol, lead, arsenic, cannabis indica, carbon di-sulphide, various drugs like quinine, chloroquine, ethambutol, isoniazid, streptomycin, digitalis (digoxin), amiodaron, NSAIDs, vigabatrin and disulfiram."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., All o Toxic amblyopia is chronic retrobulbar neuritis which results from the damage to optic nerve by the exogenous poisons.o It is frequently bilateral and has a chronic course with permanent visual deterioration.o The toxic agents involve may be : Tobacco, ethyl alcohol, methyl alcohol, ethylene glycol, lead, arsenic, cannabis indica, carbon di-sulphide, various drugs like quinine, chloroquine, ethambutol, isoniazid, streptomycin, digitalis (digoxin), amiodaron, NSAIDs, vigabatrin and disulfiram.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Toxic amblyopia caused\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ca76df4b-d378-4dd0-8255-0b1a540496a4": {
-    "cop": 4,
-    "exp": "Answer is D (Thrombotic spells can be followed by severe life threatening haemmorrhage): Bleeding episodes after Thrombotic spells may occur as a result of consumptive Thrombocytopenia. However such bleeding episodes are rare even with severe thrombocytopenia and do not lead to life threatening haemorrhage. Catastrophic Life threatening Antiphospholipid Syndrome results from rapid onset thrombosis and ischemia in multiple organ systems and not from severe bleeding. Bleeding is rarely associated with Lupus Anticoagulant Lupus Anticoagulant may cause thrombocytopenia, but bleeding complications secondary to thrombocytopenia are rare & severe life threatening bleeding due to Lupus anticoagulant has not been repoed in any standard text book. `Although Thrombocytopenia is a common finding in patients with APS, bleeding complications are rare, even with severe thrombocytopenia Bleeding in an APS patient should trigger evaluation for the presence of antiprothrombin antibodies and other disorders that may affect hemostasis, such as DIC & Uremia' - William's Hematology `Bleeding is unsual in APS despite the prolongation of in vitro clotting time. When bleeding is present it suggests the presence of antiprothrombin antibody with hypoprothrombinemia but it may rarely be caused by thrombocytopenia'. - Samter's Immunologic diseases"
+    "cop": 3,
+    "exp": "Answer is D (Thrombotic spells can be followed by severe life threatening haemmorrhage): Bleeding episodes after Thrombotic spells may occur as a result of consumptive Thrombocytopenia. However such bleeding episodes are rare even with severe thrombocytopenia and do not lead to life threatening haemorrhage. Catastrophic Life threatening Antiphospholipid Syndrome results from rapid onset thrombosis and ischemia in multiple organ systems and not from severe bleeding. Bleeding is rarely associated with Lupus Anticoagulant Lupus Anticoagulant may cause thrombocytopenia, but bleeding complications secondary to thrombocytopenia are rare & severe life threatening bleeding due to Lupus anticoagulant has not been repoed in any standard text book. `Although Thrombocytopenia is a common finding in patients with APS, bleeding complications are rare, even with severe thrombocytopenia Bleeding in an APS patient should trigger evaluation for the presence of antiprothrombin antibodies and other disorders that may affect hemostasis, such as DIC & Uremia' - William's Hematology `Bleeding is unsual in APS despite the prolongation of in vitro clotting time. When bleeding is present it suggests the presence of antiprothrombin antibody with hypoprothrombinemia but it may rarely be caused by thrombocytopenia'. - Samter's Immunologic diseases",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Lupus Anticoagulant\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "62444b89-4921-4086-983c-626df178ac93": {
-    "cop": 1,
-    "exp": "Ans: a (Amenorrhoea) Ref: Ahuja, 6th ed, p. Kaplan & Sadock, 8th ed, p. 2012,Amenorrhoea is not a feature of bulimia nervosa; it is seen in anorexia nervosaFluoxetine is an anti-depressant that has been approved for use in bulimia nervosa.Common characteristics of anorexia nervosa and bulimia nervosaClinical characteristicaAnorexia nervosabulimina nervosaOnsetMid-adolescenceLate adolescence/eariy adulthoodFemale: male10:110:1Lifetime prevalence in women1%1-3%WeightMarkedly descreasedUsually normalMenstruationAbsentUsually normalBinge eating25-50%Required for diagnosisMorality5% per decadeLowPhysical and laboratory findingsSkin/extremitiesLanugo Acrocyanosis Oedema CardiovascularBradycardia Hypotension GastrointestinalSalivaly gland enlargementSalivary gland enlargement Show gastric emptyingDental erosion Constipation Elevated liver enzymes HaematopoieticNormochromic, normocycytic anaemia Leukopenia Fluid/ElectrolyteIncreased BUN. creatinineHypokalaemia HypokalaemiaHypochloraemia AlkalosisEndocrineHypoglycaemia Low esterogen or testosterone Low LH and FSH Low-normal thyroxine Normal TSH Increased cortisol BoneOsteopenia"
+    "cop": 0,
+    "exp": "Ans: a (Amenorrhoea) Ref: Ahuja, 6th ed, p. Kaplan & Sadock, 8th ed, p. 2012,Amenorrhoea is not a feature of bulimia nervosa; it is seen in anorexia nervosaFluoxetine is an anti-depressant that has been approved for use in bulimia nervosa.Common characteristics of anorexia nervosa and bulimia nervosaClinical characteristicaAnorexia nervosabulimina nervosaOnsetMid-adolescenceLate adolescence/eariy adulthoodFemale: male10:110:1Lifetime prevalence in women1%1-3%WeightMarkedly descreasedUsually normalMenstruationAbsentUsually normalBinge eating25-50%Required for diagnosisMorality5% per decadeLowPhysical and laboratory findingsSkin/extremitiesLanugo Acrocyanosis Oedema CardiovascularBradycardia Hypotension GastrointestinalSalivaly gland enlargementSalivary gland enlargement Show gastric emptyingDental erosion Constipation Elevated liver enzymes HaematopoieticNormochromic, normocycytic anaemia Leukopenia Fluid/ElectrolyteIncreased BUN. creatinineHypokalaemia HypokalaemiaHypochloraemia AlkalosisEndocrineHypoglycaemia Low esterogen or testosterone Low LH and FSH Low-normal thyroxine Normal TSH Increased cortisol BoneOsteopenia",
+    "hint_exp": "🎯 Think of \"true about bulimia nervosa\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f80c9a77-2503-4680-bad3-fcfae34b6d7d": {
-    "cop": 4,
-    "exp": "if direct right-sided inguinal hernia if present, during appendicectomy injury there will be ilioinguinal nerve injury. Reference SRB edition:5 page:994"
+    "cop": 3,
+    "exp": "if direct right-sided inguinal hernia if present, during appendicectomy injury there will be ilioinguinal nerve injury. Reference SRB edition:5 page:994",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Mc Burney incision\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "aac88bd5-8532-4afe-b5d7-80eecb7fdd61": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Functional disorders differentiated from\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "966e8296-56a5-453b-834e-595ae27fe65b": {
-    "cop": 4,
-    "exp": "The auditory pathway - (mnemonic - SLIM 41, 42) S - superior olivary nucleus L - lateral lemniscus I - inferior colliculus M - medial geniculate body 41, 42 - area 41, 42 in superior temporal gyrus."
+    "cop": 3,
+    "exp": "The auditory pathway - (mnemonic - SLIM 41, 42) S - superior olivary nucleus L - lateral lemniscus I - inferior colliculus M - medial geniculate body 41, 42 - area 41, 42 in superior temporal gyrus.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c2120448-bd3b-4d8f-8963-e92e68ac69e1": {
-    "cop": 1,
-    "exp": "Drug toxicity should be suspected in all cases of acute hepatitis. In this case, centrilobular necrosis suggests acetaminophen toxicity. The toxic dose of acetaminophen after a single acute ingestion is in the range of 150mg/kg in children and 7 g in adults. Acetaminophen is rapidly absorbed from the stomach and small intestine and conjugated in the liver to nontoxic agents, which then are eliminated in the urine. In cases of acute overdose, normal pathways of acetaminophen metabolism become saturated. Excess acetaminophen is then metabolized in the liver via the mixed function oxidase P450 system, yielding oxidative metabolites that cause predictable, hepatocellular necrosis. The centrilobular zones are particularly affected (centrilobular necrosis). Centrilobular necrosis is not seen in the other choices. Reye syndrome (choice D) occurs in children. Fatty liver of pregnancy (choice B) features micro vesicular steatosis.Diagnosis: Acetaminophen toxicity, hepatorenal syndrome"
+    "cop": 0,
+    "exp": "Drug toxicity should be suspected in all cases of acute hepatitis. In this case, centrilobular necrosis suggests acetaminophen toxicity. The toxic dose of acetaminophen after a single acute ingestion is in the range of 150mg/kg in children and 7 g in adults. Acetaminophen is rapidly absorbed from the stomach and small intestine and conjugated in the liver to nontoxic agents, which then are eliminated in the urine. In cases of acute overdose, normal pathways of acetaminophen metabolism become saturated. Excess acetaminophen is then metabolized in the liver via the mixed function oxidase P450 system, yielding oxidative metabolites that cause predictable, hepatocellular necrosis. The centrilobular zones are particularly affected (centrilobular necrosis). Centrilobular necrosis is not seen in the other choices. Reye syndrome (choice D) occurs in children. Fatty liver of pregnancy (choice B) features micro vesicular steatosis.Diagnosis: Acetaminophen toxicity, hepatorenal syndrome",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4bc74613-580e-48fa-b555-56d9abd95ad8": {
-    "cop": 1,
-    "exp": "- Most common complication of central venous catheterization (CVC): catheter related sepsis - Most dangerous complication following CVC: pneumothorax"
+    "cop": 0,
+    "exp": "- Most common complication of central venous catheterization (CVC): catheter related sepsis - Most dangerous complication following CVC: pneumothorax",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "507977ba-4564-4ef5-8aa3-749a75c80f30": {
-    "cop": 1,
-    "exp": "Ans: A i.e. Menorrhagia Anorexia nervosa Signs and symptoms of anorexia include amenorrhoea, bradycardia, hypothermia, constipation etc. Laboratory markers of anorexia includes decreased FSH, LH and T, and increased Coisol Bulimia (binging and purging with vomiting, laxatives, or diuretics) may be seen in 50% of patients"
+    "cop": 0,
+    "exp": "Ans: A i.e. Menorrhagia Anorexia nervosa Signs and symptoms of anorexia include amenorrhoea, bradycardia, hypothermia, constipation etc. Laboratory markers of anorexia includes decreased FSH, LH and T, and increased Coisol Bulimia (binging and purging with vomiting, laxatives, or diuretics) may be seen in 50% of patients",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4e2f8569-0d3a-45e9-b82b-6bef42f46f86": {
-    "cop": 2,
-    "exp": "Answer is B (ASD) ASD is associated with an enlarged right atrium & right ventricle to accommodate large volume of bloilL The left atrium is not enlarged because it decompresses itself by shunting blood to the right atrium at a minor difference in pressure. The left atrium may enlarge once Eisen menger's syndrome develops and a reversal of shunt is seen across the defect."
+    "cop": 1,
+    "exp": "Answer is B (ASD) ASD is associated with an enlarged right atrium & right ventricle to accommodate large volume of bloilL The left atrium is not enlarged because it decompresses itself by shunting blood to the right atrium at a minor difference in pressure. The left atrium may enlarge once Eisen menger's syndrome develops and a reversal of shunt is seen across the defect.",
+    "hint_exp": "🧩 Your crush solved \"which following conditions left\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d91f8e17-dd22-471c-abcc-b44f155a8710": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"latest guidelines which following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a7e8b6ae-dff9-4b0a-ab1e-9873e148dc51": {
-    "cop": 2,
-    "exp": "The neuroretinal rim is significantly (P < 0.008) broadest in the inferior disc region followed by the superior disc region, the nasal region, and the temporal region"
+    "cop": 1,
+    "exp": "The neuroretinal rim is significantly (P < 0.008) broadest in the inferior disc region followed by the superior disc region, the nasal region, and the temporal region",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Broadest neuroretlnal seen\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c75355d6-8de3-4c18-bb93-ca7f8e89a6f0": {
-    "cop": 4,
-    "exp": "CT pulmonary angiography is the first line diagnostic test for pulmonary embolism.It has the advantages of visualising the distribution and extent of the embolism,or highlighting an alternative diagnosis,such as consolidation,pneumothorax or aoic dissection. Reference:Davidson's medicine-22nd edition,page no:722."
+    "cop": 3,
+    "exp": "CT pulmonary angiography is the first line diagnostic test for pulmonary embolism.It has the advantages of visualising the distribution and extent of the embolism,or highlighting an alternative diagnosis,such as consolidation,pneumothorax or aoic dissection. Reference:Davidson's medicine-22nd edition,page no:722.",
+    "hint_exp": "🎯 Think of \"diagnosing pulmonary embolism\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "75292784-aad5-47ad-8c06-e8b91174f420": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Lupus vulgaris Lupus vulgaris Lupus vulgaris is a chronic and progressive form of cutaneous tuberculosis that occurs in tuberculin sensitive patients. It is the most common type of cutaneous tuberculosis and has most variable presentation. Seen in children and young adults, though no age is exempted. Occurs on exposed area like face (nose, eyelid, pinna); and sometimes on buttock, trunk. Lesions are usually solitary and characterized by : - Reddish brown (erythematous). Annular in shape. Indurated. Slowly increases in size (gradually progressive). Healing with tissue paper like scarring at centre (most common) or edge. Peripheral crusting. Blanching with glass slide (diascopy) will reveal grey green foci --> Apple jelly nodules. Match-stick test positive --> Apple jelly nodule has no resistance to pressure by a sharp match-stick. Reappearance of new nodules within previously atrophic or scarred lesions is characteristic. Cailage (Ear, nose) in the affected area is progressively destroyed (Lupus vorax); bone is usually spared. Buccal, nasal and conjuctival mucosa may be involved primarily or by extension. Treatment is antitubercular drugs (ATT)."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Lupus vulgaris Lupus vulgaris Lupus vulgaris is a chronic and progressive form of cutaneous tuberculosis that occurs in tuberculin sensitive patients. It is the most common type of cutaneous tuberculosis and has most variable presentation. Seen in children and young adults, though no age is exempted. Occurs on exposed area like face (nose, eyelid, pinna); and sometimes on buttock, trunk. Lesions are usually solitary and characterized by : - Reddish brown (erythematous). Annular in shape. Indurated. Slowly increases in size (gradually progressive). Healing with tissue paper like scarring at centre (most common) or edge. Peripheral crusting. Blanching with glass slide (diascopy) will reveal grey green foci --> Apple jelly nodules. Match-stick test positive --> Apple jelly nodule has no resistance to pressure by a sharp match-stick. Reappearance of new nodules within previously atrophic or scarred lesions is characteristic. Cailage (Ear, nose) in the affected area is progressively destroyed (Lupus vorax); bone is usually spared. Buccal, nasal and conjuctival mucosa may be involved primarily or by extension. Treatment is antitubercular drugs (ATT).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "87c80595-3ca9-48d1-83e1-ac36b00614f5": {
-    "cop": 1,
-    "exp": "Ans: A (Alkaptonuria) Ref: Harrison's Principles of Internal Medicine 18th edition & Harper's illustrated Biochemistry, 28th edition. Chapter 29, pp 254)Explanation:AlkaptonuriaDue to deficiency in homagentisic acid oxidaseResults in the accumulation of homogentisic acidThe illness has three characteristic symptoms;Homogentisicaciduria (the patient's urine contains elevated levels of homogentisic acid, which is oxidized to a dark pigment on standing,Large joint arthritisBlack ochronotic pigmentation of cartilage and collagenous tissue tOochronsis)Diets low in protein--especially in phenylalanine and tyrosine--help reduce the levels of homogentisic acid, and decrease the amount of pigment deposited in body tissues.Although alkaptonuria is not life-threatening, the associated arthritis may be severely crippling."
+    "cop": 0,
+    "exp": "Ans: A (Alkaptonuria) Ref: Harrison's Principles of Internal Medicine 18th edition & Harper's illustrated Biochemistry, 28th edition. Chapter 29, pp 254)Explanation:AlkaptonuriaDue to deficiency in homagentisic acid oxidaseResults in the accumulation of homogentisic acidThe illness has three characteristic symptoms;Homogentisicaciduria (the patient's urine contains elevated levels of homogentisic acid, which is oxidized to a dark pigment on standing,Large joint arthritisBlack ochronotic pigmentation of cartilage and collagenous tissue tOochronsis)Diets low in protein--especially in phenylalanine and tyrosine--help reduce the levels of homogentisic acid, and decrease the amount of pigment deposited in body tissues.Although alkaptonuria is not life-threatening, the associated arthritis may be severely crippling.",
+    "hint_exp": "🧩 Your crush solved \"Urine turns dark standing\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7464f82c-9bbd-45c9-ae72-b6d504ce7d8b": {
-    "cop": 3,
-    "exp": "Answer- C. Batsons venous plexusMetastasis of breast cancer to bone, and especially to thoracic veebrae, is common due to the direct connection between the intercostal veins draining the breast and the internal veebral plexus ako known as Batson's plexus."
+    "cop": 2,
+    "exp": "Answer- C. Batsons venous plexusMetastasis of breast cancer to bone, and especially to thoracic veebrae, is common due to the direct connection between the intercostal veins draining the breast and the internal veebral plexus ako known as Batson's plexus.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Breast cancer mainly spreads\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7b9481ad-2525-4607-80ca-73dfd4d610f5": {
-    "cop": 2,
-    "exp": "Psychosis is defined as gross impairment in reality testing Marked disturbance in personality, with impairment in social, interpersonal and occupational functioning Marked impairment in judgement and absent understanding of the current symptoms and behaviour(loss of insight) Presence of the characteristic symptoms like delusions and hallucinations. (Ref: a sho textbook of psychiatry, Niraj Ahuja,7th edition, page no.83)"
+    "cop": 1,
+    "exp": "Psychosis is defined as gross impairment in reality testing Marked disturbance in personality, with impairment in social, interpersonal and occupational functioning Marked impairment in judgement and absent understanding of the current symptoms and behaviour(loss of insight) Presence of the characteristic symptoms like delusions and hallucinations. (Ref: a sho textbook of psychiatry, Niraj Ahuja,7th edition, page no.83)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"psychosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "df223097-6528-40a2-97a3-c5d4e6f16642": {
-    "cop": 1,
-    "exp": "Ear papilloma is a type of wa.Squamous papillomas (SPs) are benign neoplastic lesions usually affecting the skin, oral mucosa, upper aerodigestive tract and genital organs. It is believed that the human papilloma virus (HPV) is an etiological factor of papillomas; thus, they are also called viral was Ref Harrison 20th edition pg 1267"
+    "cop": 0,
+    "exp": "Ear papilloma is a type of wa.Squamous papillomas (SPs) are benign neoplastic lesions usually affecting the skin, oral mucosa, upper aerodigestive tract and genital organs. It is believed that the human papilloma virus (HPV) is an etiological factor of papillomas; thus, they are also called viral was Ref Harrison 20th edition pg 1267",
+    "hint_exp": "🎯 Think of \"a type of\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "429a1946-f7e4-401b-bea6-8f4981e7d016": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Tibia Sternum : --> Hematopoitically active Site in cooperative patient like adult Ilium : Apprehesive patient Useful in older children & adult Tibia : Useful in newborn & infant and children below 2 year of age."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Tibia Sternum : --> Hematopoitically active Site in cooperative patient like adult Ilium : Apprehesive patient Useful in older children & adult Tibia : Useful in newborn & infant and children below 2 year of age.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"done from\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a5526967-130a-4bd4-a6cc-3663aa0b37c3": {
-    "cop": 3,
-    "exp": "Third nerve palsy can result in ptosis of the eyelid. There is also loss of the ability to open the eye, and the eyeball is deviated outward and slightly downward. With complete lesions, the pupil is dilated, does not react to light, and loses the power of accommodation. In diabetes, the pupil is often spared. The sixth cranial nerve can also be affected by diabetes, but this is much less common."
+    "cop": 2,
+    "exp": "Third nerve palsy can result in ptosis of the eyelid. There is also loss of the ability to open the eye, and the eyeball is deviated outward and slightly downward. With complete lesions, the pupil is dilated, does not react to light, and loses the power of accommodation. In diabetes, the pupil is often spared. The sixth cranial nerve can also be affected by diabetes, but this is much less common.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d4f06476-b47f-4bf7-9d32-531db1974a8e": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Mechanism action beta Lactam\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a623eab1-06a3-4a98-81bc-2069db6b588b": {
-    "cop": 2,
-    "exp": "-The anterior interosseous nerve and vessels lie in close relation to the anterior surface of the interosseous membrane of forearm stretching between the interosseous borders of radius and ulna.At the upper margin of the pronator quaadratus, the anterior interosseous vessels pass through the interosseous membrane to enter the posterior compament of forearm. -The lower pa of the posterior surface of interosseous membrane is closely related to the anterior interosseous aery and posterior interosseous nerve.The posterior interosseous vessels enter the posterio compament through the gap between oblique cord and upper margin of the interosseous membrane. -reference; clinical anatomy for students ,problem solving appproach,neeat v kulkarni, page no.79"
+    "cop": 1,
+    "exp": "-The anterior interosseous nerve and vessels lie in close relation to the anterior surface of the interosseous membrane of forearm stretching between the interosseous borders of radius and ulna.At the upper margin of the pronator quaadratus, the anterior interosseous vessels pass through the interosseous membrane to enter the posterior compament of forearm. -The lower pa of the posterior surface of interosseous membrane is closely related to the anterior interosseous aery and posterior interosseous nerve.The posterior interosseous vessels enter the posterio compament through the gap between oblique cord and upper margin of the interosseous membrane. -reference; clinical anatomy for students ,problem solving appproach,neeat v kulkarni, page no.79",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"forearm\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f40f86c2-439d-4abf-acfc-ce2f1ee4a413": {
-    "cop": 1,
-    "exp": "Preanaesthec medication\n\nPremedication (Preanaesthec medication) refers to the use of drugs before anaesthesia to make it more pleasant and safe.\n\nThe aims are :\n1. Relief of anxiety and apprehension preoperatively and to facilitate smooth induction.\n2. Amnesia for preoperative and postoperative events.\n3. Supplement analgesic action of anaesthetics and potenate them.\n4. Decrease secretions and vagal simulation (undesirable reflex).\n5. Anaemic effect extending into the postoperative period.\n6. Decrease acidity and volume of gastric juice so that it is less damaging if aspirated.\n\nDrugs used in premedication\n\n1 Sedative - antianxiety → Diazepam / Lorazepam / Midazolam → Lorazepam is used most commonly. → Midazolam is used for day care surgery.\n2. Opioids → Morphine/pethidine\n3. Anticholinergics → Atropine / Hyoscine / Glycopyrrolate.\n4. Neuroleptics → Haloperidol/chlorpromazine/triflupromazine.\n5. H2 blocker or proton pump inhibitor → Ranitidine / Famotidine, omeprazole / Pantoprazole.\n6. Antiemetics → Metoclopramide / Domperidone / Ondansetron."
+    "cop": 0,
+    "exp": "Preanaesthec medication\n\nPremedication (Preanaesthec medication) refers to the use of drugs before anaesthesia to make it more pleasant and safe.\n\nThe aims are :\n1. Relief of anxiety and apprehension preoperatively and to facilitate smooth induction.\n2. Amnesia for preoperative and postoperative events.\n3. Supplement analgesic action of anaesthetics and potenate them.\n4. Decrease secretions and vagal simulation (undesirable reflex).\n5. Anaemic effect extending into the postoperative period.\n6. Decrease acidity and volume of gastric juice so that it is less damaging if aspirated.\n\nDrugs used in premedication\n\n1 Sedative - antianxiety → Diazepam / Lorazepam / Midazolam → Lorazepam is used most commonly. → Midazolam is used for day care surgery.\n2. Opioids → Morphine/pethidine\n3. Anticholinergics → Atropine / Hyoscine / Glycopyrrolate.\n4. Neuroleptics → Haloperidol/chlorpromazine/triflupromazine.\n5. H2 blocker or proton pump inhibitor → Ranitidine / Famotidine, omeprazole / Pantoprazole.\n6. Antiemetics → Metoclopramide / Domperidone / Ondansetron.",
+    "hint_exp": "🎯 Think of \"given to\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d23cf2d0-37de-4f51-81aa-af22275c7568": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., C7 o The part of thoracic inlet, on either side, is enclosed by a dense fascial sheeth called suprapleural membrane (or Sibson's fascia or diaphragm of superior thoracic aperture),]o ft is tent shaped (triangular in shape).o Its attachments areApex is attached to transverse process of seventh cervical vertebra.Base is attached to inner border of Is'- rib and its costal cartilage.o It superior surface is related to subclavian vessels and its inferior surface is related to cervical pleura, covering the apex of lung.o Morphologically, Sibson's fascia represents the spread out degenerated tendon of scalenus minimus (pleuralis) muscle."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., C7 o The part of thoracic inlet, on either side, is enclosed by a dense fascial sheeth called suprapleural membrane (or Sibson's fascia or diaphragm of superior thoracic aperture),]o ft is tent shaped (triangular in shape).o Its attachments areApex is attached to transverse process of seventh cervical vertebra.Base is attached to inner border of Is'- rib and its costal cartilage.o It superior surface is related to subclavian vessels and its inferior surface is related to cervical pleura, covering the apex of lung.o Morphologically, Sibson's fascia represents the spread out degenerated tendon of scalenus minimus (pleuralis) muscle.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Attachment Sibson fascia\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ee2ed026-7b9c-46d6-a801-5cf4b72075b4": {
-    "cop": 2,
-    "exp": "Ans: B (Supracondylar fracture) Ref: Practical Fracture Treatment by Ronald McRae 4th edition, p 147-148, 159Explanation:Median nerve injury is common with supracondylar fractures in children with an incidence of 6 to 16%.The Anterior Interosseos distribution of the nerve is more commonly affected.This nerve is injured in elbow dislocations less often, though it can occur."
+    "cop": 1,
+    "exp": "Ans: B (Supracondylar fracture) Ref: Practical Fracture Treatment by Ronald McRae 4th edition, p 147-148, 159Explanation:Median nerve injury is common with supracondylar fractures in children with an incidence of 6 to 16%.The Anterior Interosseos distribution of the nerve is more commonly affected.This nerve is injured in elbow dislocations less often, though it can occur.",
+    "hint_exp": "🧩 Your crush solved \"Median nerve involvement most\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8c70b474-32cd-418d-a31c-542ebeeba7d8": {
-    "cop": 1,
-    "exp": "Ans. a (Lead time) (Ref. Park's textbook of PSM 22nd/p 95)Lead Time# It is advantge gained by screening, i.e., period between diagnosis by early detection and diagnosis by other means.# It is period between the possible time of detection and possible time of diagnosis.Latent Period# Time between exposure to a risk factor and subsequent development of clinical manifestations of a particular disease.Sreening Time# Interval between first clinical detection and final critical point.Seriai Interval# Time gap between onset of primary and secondary case. It is the measure of incubation period."
+    "cop": 0,
+    "exp": "Ans. a (Lead time) (Ref. Park's textbook of PSM 22nd/p 95)Lead Time# It is advantge gained by screening, i.e., period between diagnosis by early detection and diagnosis by other means.# It is period between the possible time of detection and possible time of diagnosis.Latent Period# Time between exposure to a risk factor and subsequent development of clinical manifestations of a particular disease.Sreening Time# Interval between first clinical detection and final critical point.Seriai Interval# Time gap between onset of primary and secondary case. It is the measure of incubation period.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"diagnosis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fae6aca6-fe60-4be5-8c03-4564fa53016a": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following laser works\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "38c759dd-adf5-40de-ac37-ac0cb59ae6ea": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Lidocaine Intravenous regional Anaesthesia (Bier's block) Intravenous regional anaesthesia (IVRA) is used most often for surgery of the forearm and hand, but can also be used for distal leg and foot. First IV canula is inseed usually in the dorsum of hand. Then tourniquet cuff is applied to proximal arm. Limb is elevated and exsanguinated with the help of an elastic bandage (Esmarch). Now tourniquet cuff is inflated above systolic pressure (so that no blood can enter in that limb and the limb remains exsanguinated). Now the local anaesthetic solution is slowly injected into cannula. The veins are filled with only local anaesthetic as there is no blood -ocal anaesthetic can not be drained out from upper limb and can not enter in systemic circulation because of inflated cuff in proximal arm. The arm is anaesthetized in 6-8 minutes. Lidocaine without adrenaline is the DOC for this technique. --Goodman & Gilman llthie 381 o A few clinician prefers prilocaine over lidocaine because of its higher therapeutic index - least toxic LA. Torniquet cuff deflation, premature release or failure of torniquet can cause release of LA into circulation and toxicity may occur- So, cardiotoxic LAs like bupivacaine and etidocaine are contraindicated for Bier's block."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Lidocaine Intravenous regional Anaesthesia (Bier's block) Intravenous regional anaesthesia (IVRA) is used most often for surgery of the forearm and hand, but can also be used for distal leg and foot. First IV canula is inseed usually in the dorsum of hand. Then tourniquet cuff is applied to proximal arm. Limb is elevated and exsanguinated with the help of an elastic bandage (Esmarch). Now tourniquet cuff is inflated above systolic pressure (so that no blood can enter in that limb and the limb remains exsanguinated). Now the local anaesthetic solution is slowly injected into cannula. The veins are filled with only local anaesthetic as there is no blood -ocal anaesthetic can not be drained out from upper limb and can not enter in systemic circulation because of inflated cuff in proximal arm. The arm is anaesthetized in 6-8 minutes. Lidocaine without adrenaline is the DOC for this technique. --Goodman & Gilman llthie 381 o A few clinician prefers prilocaine over lidocaine because of its higher therapeutic index - least toxic LA. Torniquet cuff deflation, premature release or failure of torniquet can cause release of LA into circulation and toxicity may occur- So, cardiotoxic LAs like bupivacaine and etidocaine are contraindicated for Bier's block.",
+    "hint_exp": "🎯 Think of \"Drug choice Bier block\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c794bbf8-8a3c-442e-afbd-073d5c9efbb8": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"an orthodontic case\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "41f65611-de17-4bd9-a239-22c81642fc83": {
-    "cop": 1,
-    "exp": "Opiod withdrawal symptoms are lacrimation,sweating, yawning, anxiety, apprehension, restlessness, rhinorrhoea and tremors seen 8-12 hours after the last dose. Ref KD Tripathi 8th ed."
+    "cop": 0,
+    "exp": "Opiod withdrawal symptoms are lacrimation,sweating, yawning, anxiety, apprehension, restlessness, rhinorrhoea and tremors seen 8-12 hours after the last dose. Ref KD Tripathi 8th ed.",
+    "hint_exp": "🧩 Your crush solved \"of opioid withdrawal\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b9c99f87-3b83-496c-922a-141ff8441aa8": {
-    "cop": 3,
-    "exp": "Scratchy croaky is a high pitched sound arising due to rubbing of vocal cords in adductor dysphonias. The best treatment here will be percutaneous botulinum injection in the thyroarytenoid muscle."
+    "cop": 2,
+    "exp": "Scratchy croaky is a high pitched sound arising due to rubbing of vocal cords in adductor dysphonias. The best treatment here will be percutaneous botulinum injection in the thyroarytenoid muscle.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b4139362-4f53-4721-b1f0-8fa87e9e2fc8": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Sulcus bleeding index measures\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c55dcbef-1875-4359-921b-35b1dd0e38da": {
-    "cop": 2,
-    "exp": "Ans: b (40 mmHg.) Ref:Ganong, 22nd ed, p. 607Partial pressure (mmHg) Arterial bloodVenous bloodPO29540PCO24046Carrying capacityoxygen19.6ml/dl15.6ml/dl Carbon dioxide49ml/dl53ml/dl1 gm Hb can carry 1.39 ml of oxygen, when fully saturated.1.34 ml oxygen in vivo.1 gm Hb carries 3.34 mg Iron in it.Oxygen entering the body per minute= 250 ml.Oxygen leaving the body per minute= 200 ml (288L/day).PH of arterial blood - 7.4 and pH of venous blood - 7.36Haematocrit of venous blood increase by 3%Chloride shift takes about 1 second to occur."
+    "cop": 1,
+    "exp": "Ans: b (40 mmHg.) Ref:Ganong, 22nd ed, p. 607Partial pressure (mmHg) Arterial bloodVenous bloodPO29540PCO24046Carrying capacityoxygen19.6ml/dl15.6ml/dl Carbon dioxide49ml/dl53ml/dl1 gm Hb can carry 1.39 ml of oxygen, when fully saturated.1.34 ml oxygen in vivo.1 gm Hb carries 3.34 mg Iron in it.Oxygen entering the body per minute= 250 ml.Oxygen leaving the body per minute= 200 ml (288L/day).PH of arterial blood - 7.4 and pH of venous blood - 7.36Haematocrit of venous blood increase by 3%Chloride shift takes about 1 second to occur.",
+    "hint_exp": "🎯 Think of \"arterial blood\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3a7c16f7-5714-4223-b2ca-ace4672ce887": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Secondary prevention"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Secondary prevention",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"genetic disorders\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "dc5f0b46-d773-44b1-a3d3-984b60fddf9e": {
-    "cop": 3,
-    "exp": "Ventral group of respiratory neurones are inactive during normal respiration Ref: guyton and hall textbook of medical physiology 12 edition page number: 370,371,372"
+    "cop": 2,
+    "exp": "Ventral group of respiratory neurones are inactive during normal respiration Ref: guyton and hall textbook of medical physiology 12 edition page number: 370,371,372",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d3bb8bc9-d483-4fef-b7f1-94d91db85cbf": {
-    "cop": 1,
-    "exp": "Bailey writes - \"The condition is encountered most commonly in children, in whom it occurs in an idiopathic form, with a peak incidence at 3-9 months. Between 70% and 90% of cases are classed as idiopathic, and an associated illness such as gastroenteritis or urinary tract infection is found in 30%. It is believed that hyperplasia of Peyer's patches in the terminal ileum may be the initiating event. This may occur secondary to weaning. In light of the seasonal variation, with a peak incidence in spring and summer, it may be related to upper respiratory tract infection pathogens such as adenovirus or rotavirus.\"\nIntussusception associated with a known pathologic lead point is seen in older children. The most common lead point is Meckel's diverticulum.\nThis patient is 10 months old, so most likely the cause should be hypertrophy of Peyer's patches."
+    "cop": 0,
+    "exp": "Bailey writes - \"The condition is encountered most commonly in children, in whom it occurs in an idiopathic form, with a peak incidence at 3-9 months. Between 70% and 90% of cases are classed as idiopathic, and an associated illness such as gastroenteritis or urinary tract infection is found in 30%. It is believed that hyperplasia of Peyer's patches in the terminal ileum may be the initiating event. This may occur secondary to weaning. In light of the seasonal variation, with a peak incidence in spring and summer, it may be related to upper respiratory tract infection pathogens such as adenovirus or rotavirus.\"\nIntussusception associated with a known pathologic lead point is seen in older children. The most common lead point is Meckel's diverticulum.\nThis patient is 10 months old, so most likely the cause should be hypertrophy of Peyer's patches.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"month infant presents with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ee1e2996-5911-4a78-9132-b814e75489bb": {
-    "cop": 1,
-    "exp": "Ref. DC Dutta's Textbook of Obstetrics. Pg 511\nThe commonest form of obstetric palsy encountered in puerperal period is foot drop. It is usually unilateral and appears shortly after delivery or during first day postpartum or so. It is thought to be  due to stretching of the lumbosacral trunk by the prolapsed intervertebral disc between L5 and S1."
+    "cop": 0,
+    "exp": "Ref. DC Dutta's Textbook of Obstetrics. Pg 511\nThe commonest form of obstetric palsy encountered in puerperal period is foot drop. It is usually unilateral and appears shortly after delivery or during first day postpartum or so. It is thought to be  due to stretching of the lumbosacral trunk by the prolapsed intervertebral disc between L5 and S1.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Most common obstetrics nerve\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f9d7859a-8215-44c5-9e30-6760c1458bb2": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f185d72f-91c3-4f43-a589-0cdf36464405": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Whenever there stone bile\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "27a39aca-a36a-4f5b-8b7c-e35be4a85ff1": {
-    "cop": 2,
-    "exp": "Ans is 'b' Dermatophytosis Dermatophytosis is superficial fungal infection of the skin.These infections are restricted to the invasion of homys structures, Stratum corneum, Nail & Hair.Tinea is group name for highly contagious mycelial fungus. There are 3 distinct genera in this group.1. Epidermophyton (No hair involvement)2. Microsporum (No Nail involvements)3. Trichophyton Tinea Capitis - is caused mainly by Trichophyton and microspora. The lesion produced are of 4 types.1. Scaly Type2. Kerion - usually caused by Trichophyton. Initially boil like lesions later painless boggy swellings are produced.3. Black dot4. Favus"
+    "cop": 1,
+    "exp": "Ans is 'b' Dermatophytosis Dermatophytosis is superficial fungal infection of the skin.These infections are restricted to the invasion of homys structures, Stratum corneum, Nail & Hair.Tinea is group name for highly contagious mycelial fungus. There are 3 distinct genera in this group.1. Epidermophyton (No hair involvement)2. Microsporum (No Nail involvements)3. Trichophyton Tinea Capitis - is caused mainly by Trichophyton and microspora. The lesion produced are of 4 types.1. Scaly Type2. Kerion - usually caused by Trichophyton. Initially boil like lesions later painless boggy swellings are produced.3. Black dot4. Favus",
+    "hint_exp": "🧩 Your crush solved \"Kerion seen\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4d75b82f-85f2-4226-8d04-4f9cd3582a50": {
-    "cop": 1,
-    "exp": "Ans is 'a' ie. Kaposi Sarcoma Neoplastic ds seen in AIDS a) Kaposi Sarcoma (MC)* d) Multiple Myeloma b) Non-Hodgkins lymphoma (2nd MC)* e) Melanoma c) Hodgkins lymphoma f) Cervical, brain, testicular, oral cancers"
+    "cop": 0,
+    "exp": "Ans is 'a' ie. Kaposi Sarcoma Neoplastic ds seen in AIDS a) Kaposi Sarcoma (MC)* d) Multiple Myeloma b) Non-Hodgkins lymphoma (2nd MC)* e) Melanoma c) Hodgkins lymphoma f) Cervical, brain, testicular, oral cancers",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"HIV patient\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a3850efc-7707-4466-90ff-214813f67c76": {
-    "cop": 2,
-    "exp": "A paial mole may not present with the classical features of a complete mole .Vaginal bleeding is a usual symptom.Many a time it may present as an incomplete or missed aboion and be diagnosed only after histopathological examination.If a fetus is present it may have the stigmata of triploidy like early onset intrauterine growth restriction and hydrocephalus (refer pgno:170 obstetrics sheila 2 nd edition)"
+    "cop": 1,
+    "exp": "A paial mole may not present with the classical features of a complete mole .Vaginal bleeding is a usual symptom.Many a time it may present as an incomplete or missed aboion and be diagnosed only after histopathological examination.If a fetus is present it may have the stigmata of triploidy like early onset intrauterine growth restriction and hydrocephalus (refer pgno:170 obstetrics sheila 2 nd edition)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"False about paial mole\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "571bd48e-fcb7-4ed9-833f-b3d680f803a6": {
-    "cop": 4,
-    "exp": "At scalp sutures can be removed at 6-8 days"
+    "cop": 3,
+    "exp": "At scalp sutures can be removed at 6-8 days",
+    "hint_exp": "🎯 Think of \"removal of sutures at scalp\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2e0e49c0-f177-41e6-bc88-237b476edaa7": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"from\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b7d40a43-371c-4f6e-9802-4c84c4171a01": {
-    "cop": 2,
-    "exp": "Chdecystocaval line\nLine drawn from IVC and gall bladder divides liver into 2 halves - right and left lobes."
+    "cop": 1,
+    "exp": "Chdecystocaval line\nLine drawn from IVC and gall bladder divides liver into 2 halves - right and left lobes.",
+    "hint_exp": "🧩 Your crush solved \"Cholecystocaval line separates\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

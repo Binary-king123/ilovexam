@@ -1,202 +1,252 @@
 {
   "438dc578-5038-45bb-9218-0b6844d5f045": {
-    "cop": 4,
-    "exp": "ANSWER: (D) Pulmonary artery aneurysmREF: Harrison's 18th ed chapter 253-5This question is based upon your basic knowledge of radiology Remember vascular structures are either best evaluated by angiography or magnetic resonance imaging.In high-resolution CT (HRCT), the thickness of individual cross-sectional images is 1-2 mm, rather than the usual 7-10 mm in conventional CT. The visible detail on HRCT scans allows better recognition of subtle parenchymal and airway disease, thickened interlobular septa, ground-glass opacification, small nodules, and the abnormally thickened or dilated airways seen in bronchiectasis. Using HRCT, characteristic patterns are recognized for many interstitial lung diseases such as lymphangitic carcinoma, idiopathic pulmonary fibrosis, sarcoidosis, and eosinophilic granulomaAdditionally, MR is well suited to distinguish vascular from nonvascular structures without the need for contrast. Blood vessels appear as hollow tubular structures because flowing blood does not produce a signal on MR imaging. Therefore, MR can be useful in demonstrating pulmonary emboli, defining aortic lesions such as aneurysms or dissection, or other vascular abnormalities"
+    "cop": 3,
+    "exp": "ANSWER: (D) Pulmonary artery aneurysmREF: Harrison's 18th ed chapter 253-5This question is based upon your basic knowledge of radiology Remember vascular structures are either best evaluated by angiography or magnetic resonance imaging.In high-resolution CT (HRCT), the thickness of individual cross-sectional images is 1-2 mm, rather than the usual 7-10 mm in conventional CT. The visible detail on HRCT scans allows better recognition of subtle parenchymal and airway disease, thickened interlobular septa, ground-glass opacification, small nodules, and the abnormally thickened or dilated airways seen in bronchiectasis. Using HRCT, characteristic patterns are recognized for many interstitial lung diseases such as lymphangitic carcinoma, idiopathic pulmonary fibrosis, sarcoidosis, and eosinophilic granulomaAdditionally, MR is well suited to distinguish vascular from nonvascular structures without the need for contrast. Blood vessels appear as hollow tubular structures because flowing blood does not produce a signal on MR imaging. Therefore, MR can be useful in demonstrating pulmonary emboli, defining aortic lesions such as aneurysms or dissection, or other vascular abnormalities",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"HRCT investigation choice EXCEPT\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ad2df071-a64a-4cea-aaa4-d5044cd0a217": {
-    "cop": 2,
-    "exp": "Ectopic pregnancy results from various factors that interrupt the successful migration of the conceptus to the endometrium. The most impoant risk factors for ectopic pregnancy are history of tubal surgery, including tubal ligation, for prior ectopic pregnancy, infeility history of prior ectopic: increases risk 5 folds in utero diethylstilbestrol (DES) exposure: causes congenital fallopian tube anomalies history of pelvic inflammatory disease, sexually transmitted disease peritubal adhesions: secondary to salpingitis, endometriosis, appendicitis SIN: salpingitis isthmica nodosa infeility: use of A: increases risk of atypical/ non tubal ectopic failed contraception: IUCD, sterilisation, progesterone only contraceptives. PLEASE NOTE IT IS FAILURE OF THESE CONTRACEPTIVE PRACTICES, AND NOT THE CONTRACEPTIVE PRACTICE IN ITSELF Intrauterine device (IUD) use are associated with reduce pregnancies and reduced ectopic rates, however, if there is a failure of the IUD and a pregnancy results, ectopic gestation is more likely as compared to normal population conceiving These are not very clear relations. Many other risk factors, including smoking and multiple lifetime sexual paners, are weakly associated with ectopic pregnancy ."
+    "cop": 1,
+    "exp": "Ectopic pregnancy results from various factors that interrupt the successful migration of the conceptus to the endometrium. The most impoant risk factors for ectopic pregnancy are history of tubal surgery, including tubal ligation, for prior ectopic pregnancy, infeility history of prior ectopic: increases risk 5 folds in utero diethylstilbestrol (DES) exposure: causes congenital fallopian tube anomalies history of pelvic inflammatory disease, sexually transmitted disease peritubal adhesions: secondary to salpingitis, endometriosis, appendicitis SIN: salpingitis isthmica nodosa infeility: use of A: increases risk of atypical/ non tubal ectopic failed contraception: IUCD, sterilisation, progesterone only contraceptives. PLEASE NOTE IT IS FAILURE OF THESE CONTRACEPTIVE PRACTICES, AND NOT THE CONTRACEPTIVE PRACTICE IN ITSELF Intrauterine device (IUD) use are associated with reduce pregnancies and reduced ectopic rates, however, if there is a failure of the IUD and a pregnancy results, ectopic gestation is more likely as compared to normal population conceiving These are not very clear relations. Many other risk factors, including smoking and multiple lifetime sexual paners, are weakly associated with ectopic pregnancy .",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following factors\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "37ce45d2-0624-4117-a85a-2d588bc98e9b": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Within transplantation skin graft\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "59d75bff-a5f2-4059-92c0-81a5d880283f": {
-    "cop": 1,
-    "exp": "Rotenone inhibits complex I (NADH-CoQ reductase).Inhibitors of electron transpo chain?Inhibitors of respiratory chain may be divided into three groups : ?1) Inhibitors of electron transpo chain properThese inhibitors inhibit the flow of electrons through the respiratory chain. This occurs at following sites.i) Complex I (NADH to CoQ) is inhibited by : - Barbiturates (amobarbital), Piericidin A (an antibiotic), rotenone (an insectiside), chlorpromazine (a tranquilizer), and guanethidine (an antihypeensive). These inhibitors block the transfer of reducing equivalents from FeS protein to Coe.ii) Complex II is inhibited by : - Carboxin and TTFA inhibit transfer of electon from FADH2 to CoQ, whereas malanate competitively inhibit from succinate to complex II.iii) Complex III (Cytochrome b to cytochrome C1) is inhibited by : - Dimercaprol, antimycin A, BAL (British antilewisite), Naphthyloquinone. These inhibitors block the transfer of electrons from cytochrome b to cytochrome CI.iv) Complex IV (cytochrome C oxidase) is inhibited by : - Carbon monoxide, CN-, H2S and azide (N3). These inhibitors block the transfer of electrons from cytochrome aa3 to molecular oxygen and therefore can totally arrest cellular respiration.2) Inhibitors of oxidative phosphorylationThese compounds directly inhibit phosphorylation of ADP to ATP. Oligomycin inhibits Fo component of Fo F1 ATPase. Atractiloside inhibits translocase, a transpo protein that transpos ADP into mitochondria for phosphorylation into ATP.3) UncouplesAs the name suggests, these componds block the coupeling of oxidation with phosphorylation. These compounds allow the transfer of reducing equivalents in respiratory chain but prevent the phosphorylation of ADP to ATP by uncoupling the linkage between ETC and phosphorylation. Thus the energy instead of being trapped by phosphorylation is dissipated as heat. Uncouplers may be :-i) Natural :- Thermogenin, thyroxineii) Synthetic :- 2, 4-dinitrophenol (2, 4-DNP), 2, 4-dinitrocresol (2, 4-DNC), and CCCP (chlorocarbonylcyanidephenyl hydrazone)."
+    "cop": 0,
+    "exp": "Rotenone inhibits complex I (NADH-CoQ reductase).Inhibitors of electron transpo chain?Inhibitors of respiratory chain may be divided into three groups : ?1) Inhibitors of electron transpo chain properThese inhibitors inhibit the flow of electrons through the respiratory chain. This occurs at following sites.i) Complex I (NADH to CoQ) is inhibited by : - Barbiturates (amobarbital), Piericidin A (an antibiotic), rotenone (an insectiside), chlorpromazine (a tranquilizer), and guanethidine (an antihypeensive). These inhibitors block the transfer of reducing equivalents from FeS protein to Coe.ii) Complex II is inhibited by : - Carboxin and TTFA inhibit transfer of electon from FADH2 to CoQ, whereas malanate competitively inhibit from succinate to complex II.iii) Complex III (Cytochrome b to cytochrome C1) is inhibited by : - Dimercaprol, antimycin A, BAL (British antilewisite), Naphthyloquinone. These inhibitors block the transfer of electrons from cytochrome b to cytochrome CI.iv) Complex IV (cytochrome C oxidase) is inhibited by : - Carbon monoxide, CN-, H2S and azide (N3). These inhibitors block the transfer of electrons from cytochrome aa3 to molecular oxygen and therefore can totally arrest cellular respiration.2) Inhibitors of oxidative phosphorylationThese compounds directly inhibit phosphorylation of ADP to ATP. Oligomycin inhibits Fo component of Fo F1 ATPase. Atractiloside inhibits translocase, a transpo protein that transpos ADP into mitochondria for phosphorylation into ATP.3) UncouplesAs the name suggests, these componds block the coupeling of oxidation with phosphorylation. These compounds allow the transfer of reducing equivalents in respiratory chain but prevent the phosphorylation of ADP to ATP by uncoupling the linkage between ETC and phosphorylation. Thus the energy instead of being trapped by phosphorylation is dissipated as heat. Uncouplers may be :-i) Natural :- Thermogenin, thyroxineii) Synthetic :- 2, 4-dinitrophenol (2, 4-DNP), 2, 4-dinitrocresol (2, 4-DNC), and CCCP (chlorocarbonylcyanidephenyl hydrazone).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"inhibited by\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "075bb453-8367-4a93-b46c-309459350392": {
-    "cop": 3,
-    "exp": "Allopurinol: used for chronic gout Reduces uric acid synthesis by competitively inhibiting xanthine oxidase Allopurinola Alloxanthine a noncompetitive inhibitor of xanthine oxidase ESSENTIALS OF MEDICAL PHARMACOLOGY;7TH EDITION;KD TRIPATHI;PAGE NO 216"
+    "cop": 2,
+    "exp": "Allopurinol: used for chronic gout Reduces uric acid synthesis by competitively inhibiting xanthine oxidase Allopurinola Alloxanthine a noncompetitive inhibitor of xanthine oxidase ESSENTIALS OF MEDICAL PHARMACOLOGY;7TH EDITION;KD TRIPATHI;PAGE NO 216",
+    "hint_exp": "🧩 Your crush solved \"Allopurinol potentiates action\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b458b291-19f8-4e4c-8654-692bf80116cd": {
-    "cop": 1,
-    "exp": "The ascending aorta is a common site for calcification in aortitis, especially in syphilitic aortitis."
+    "cop": 0,
+    "exp": "The ascending aorta is a common site for calcification in aortitis, especially in syphilitic aortitis.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "faf96baa-6719-4a77-bd66-54f4adc0c8a5": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Phenothiazines used\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "823568fa-a4dc-45b5-acfc-9b40505fdb6f": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Hea o The major organs that are directly involved due to parasitic infestations are --> Spleen, Liver, Brain. o The organs which are involved secondarily --> Hea (Hypoxic lesions) Lung (Pulmonary edema)"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Hea o The major organs that are directly involved due to parasitic infestations are --> Spleen, Liver, Brain. o The organs which are involved secondarily --> Hea (Hypoxic lesions) Lung (Pulmonary edema)",
+    "hint_exp": "🎯 Think of \"Malaria affects following organs\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fe098f80-39e1-4148-87d3-df09dacb10e8": {
-    "cop": 1,
-    "exp": "The tolerable dose of elemental iron is 200 mg per day in three divided doses i.e. app. 60 mg per dose. Mass of elemental iron is more important in determining daily dose rather than a mass of total salt because different salts provide a different amount of elemental iron.\nTreatment with oral iron should be continued even after reaching the desired hemoglobin level to replenish the stores.\nThe desired rate of hemoglobin improvement is 0.5 to 1 mg per week (not day)."
+    "cop": 0,
+    "exp": "The tolerable dose of elemental iron is 200 mg per day in three divided doses i.e. app. 60 mg per dose. Mass of elemental iron is more important in determining daily dose rather than a mass of total salt because different salts provide a different amount of elemental iron.\nTreatment with oral iron should be continued even after reaching the desired hemoglobin level to replenish the stores.\nThe desired rate of hemoglobin improvement is 0.5 to 1 mg per week (not day).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"oral iron supplements used\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bc2037e3-f72c-4c62-b22f-47277d131aa1": {
-    "cop": 1,
-    "exp": "Mutation in FMR-1 gene (Familial mental retardation-1 gene)."
+    "cop": 0,
+    "exp": "Mutation in FMR-1 gene (Familial mental retardation-1 gene).",
+    "hint_exp": "🧩 Your crush solved \"False about Fragile syndrome\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6fec3e45-46c4-4b8b-986d-76379eb3cdc2": {
-    "cop": 4,
-    "exp": "The liver is removed from the body in the usual manner. About 500 grams poion is cut and preserved in another container of 1 litre capacity. In infants, whole liver is preserved. It is desirable to include the gallbladder, since some drugs are concentrated in the bile, such as paracetamol, barbiturates and opiates. The liver should always be sliced into pieces before placing it in the container, so that the preservative can exe its action more thoroughly."
+    "cop": 3,
+    "exp": "The liver is removed from the body in the usual manner. About 500 grams poion is cut and preserved in another container of 1 litre capacity. In infants, whole liver is preserved. It is desirable to include the gallbladder, since some drugs are concentrated in the bile, such as paracetamol, barbiturates and opiates. The liver should always be sliced into pieces before placing it in the container, so that the preservative can exe its action more thoroughly.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"following true preservation liver\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a2c16027-5794-4c54-beec-ee4073d19b92": {
-    "cop": 2,
-    "exp": "Surgical correction of undescended testis should be done at 6 months and maximum by 1 year. Ref: Nursing care of the pediatric surgical patient By Nancy Tkacz Browne, Page 147-8; CPDT 20th Edition, Page 974."
+    "cop": 1,
+    "exp": "Surgical correction of undescended testis should be done at 6 months and maximum by 1 year. Ref: Nursing care of the pediatric surgical patient By Nancy Tkacz Browne, Page 147-8; CPDT 20th Edition, Page 974.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"undescended testes\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d158e0ea-4c5a-43b4-9cb1-1748b60ae88a": {
-    "cop": 2,
-    "exp": "It is a low grade locally aggressive malignancy. Well differentiated squaumous cell carcinoma with very low metastasis rate.\nRadiotherapy is contraindicated as it can produce anaplastic change."
+    "cop": 1,
+    "exp": "It is a low grade locally aggressive malignancy. Well differentiated squaumous cell carcinoma with very low metastasis rate.\nRadiotherapy is contraindicated as it can produce anaplastic change.",
+    "hint_exp": "🎯 Think of \"Ackermans tumor\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8d886df0-aef9-4323-a175-088843041fc4": {
-    "cop": 1,
-    "exp": "Traction diveicula (parabronchial or midesophageal diveicula) are true diveicula, which occur secondary to scarring, fibrosis, and inflammatory process in the mediastinum pulling on the esophageal wall. Traction or true diveicula result from external inflammatory mediastinal lymph nodes adhering to the esophagus as they heal and contract, creates traction by which the mucosa, submucosa and muscularis altogether are pulled creating a diveicula and hence it is referred to as True Diveicula. More common in the mid-esophageal region around the carinal lymph nodes. Other mentioned diveicula are false as they don't contain all layers of gut ."
+    "cop": 0,
+    "exp": "Traction diveicula (parabronchial or midesophageal diveicula) are true diveicula, which occur secondary to scarring, fibrosis, and inflammatory process in the mediastinum pulling on the esophageal wall. Traction or true diveicula result from external inflammatory mediastinal lymph nodes adhering to the esophagus as they heal and contract, creates traction by which the mucosa, submucosa and muscularis altogether are pulled creating a diveicula and hence it is referred to as True Diveicula. More common in the mid-esophageal region around the carinal lymph nodes. Other mentioned diveicula are false as they don't contain all layers of gut .",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1b9162e1-7704-48ea-82e7-ca24db240be5": {
-    "cop": 4,
-    "exp": "Secondary brain injury refers to the changes that evolve over a period of time (from hours to days) after the primary brain injury. Primary and secondary brain injury are ways to classify the injury processes that occur in brain injury. Examples in traumatic brain injury Primary Secondary Intracerebral hemorrhage Subdural hemorrhage Subarachnoid hemorrhage Epidural hemorrhage Cerebral contusion Cerebral laceration Axonal stretch injury. Cerebral edema Impaired metabolism Altered cerebral blood flow Free radicalformation Excitotoxicity"
+    "cop": 3,
+    "exp": "Secondary brain injury refers to the changes that evolve over a period of time (from hours to days) after the primary brain injury. Primary and secondary brain injury are ways to classify the injury processes that occur in brain injury. Examples in traumatic brain injury Primary Secondary Intracerebral hemorrhage Subdural hemorrhage Subarachnoid hemorrhage Epidural hemorrhage Cerebral contusion Cerebral laceration Axonal stretch injury. Cerebral edema Impaired metabolism Altered cerebral blood flow Free radicalformation Excitotoxicity",
+    "hint_exp": "🧩 Your crush solved \"secondary brain injury\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2d39f983-1c71-4582-9852-18a51aaff1e3": {
-    "cop": 2,
-    "exp": "Cyproheptadine is an antihistamine used to relieve allergy symptoms such as watery eyes, runny nose, itching eyes/nose, sneezing, hives, and itching. It works by blocking a ceain natural substance (histamine) that your body makes during an allergic reaction. Refer kDT 7/e p170"
+    "cop": 1,
+    "exp": "Cyproheptadine is an antihistamine used to relieve allergy symptoms such as watery eyes, runny nose, itching eyes/nose, sneezing, hives, and itching. It works by blocking a ceain natural substance (histamine) that your body makes during an allergic reaction. Refer kDT 7/e p170",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"drug which blocks both\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "11d69b2e-e245-4d04-95a9-f078952c31fc": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. Respiratory failure Causes of death in NMSo Respiratory failureo Pneumoniao Cardiac failureo Renal failureo Thromboembolism"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. Respiratory failure Causes of death in NMSo Respiratory failureo Pneumoniao Cardiac failureo Renal failureo Thromboembolism",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of death\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e674d19a-85ba-4eae-8ba5-6e83eb1d0086": {
-    "cop": 1,
-    "exp": "The destructive and constructive changes which occur in a nerve fibre after injury are called degeneration and regeneration respectively. The degenerative changes in distal pa of cut nerve fibre are Wallerian degeneration. Ref: guyton and hall textbook of medical physiology 12 edition page number: 74,75,76"
+    "cop": 0,
+    "exp": "The destructive and constructive changes which occur in a nerve fibre after injury are called degeneration and regeneration respectively. The degenerative changes in distal pa of cut nerve fibre are Wallerian degeneration. Ref: guyton and hall textbook of medical physiology 12 edition page number: 74,75,76",
+    "hint_exp": "🎯 Think of \"seen in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f010acc8-f13c-468e-b9b3-f6ca65c880e3": {
-    "cop": 1,
-    "exp": "Necrotizing papillitis (or papillary necrosis): It is one special pattern of acute pyelonephritis and is much more frequent in diabetics Hyaline aeriolosclerosis narrows blood vessels -> reduces the blood supply to the renal medulla -> ischemia ->causes necrosis of the tips of papillae (papillary necrosis). Causes of necrotizing papillitis: Diabetes mellitus Sickle cell anemia Analgesic nephropathy Obstructive uropathy. Ref: RAM DAS NAYAK EXAM PREPARATORY MANUAL FOR UNDERGRADUATES 2nd ed. pg no: 615"
+    "cop": 0,
+    "exp": "Necrotizing papillitis (or papillary necrosis): It is one special pattern of acute pyelonephritis and is much more frequent in diabetics Hyaline aeriolosclerosis narrows blood vessels -> reduces the blood supply to the renal medulla -> ischemia ->causes necrosis of the tips of papillae (papillary necrosis). Causes of necrotizing papillitis: Diabetes mellitus Sickle cell anemia Analgesic nephropathy Obstructive uropathy. Ref: RAM DAS NAYAK EXAM PREPARATORY MANUAL FOR UNDERGRADUATES 2nd ed. pg no: 615",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"is seen in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ee59d6ea-12fb-45b6-b195-8f4851d1446c": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"true about branchial cyst\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3074349b-e892-4a86-895a-9142c1b08753": {
-    "cop": 4,
-    "exp": "Singly borne spore - microconidia Spores in chain - ahrospores In sporangium - sporangiospores Reference: Textbook of Microbiology; Baveja; 4th edition"
+    "cop": 3,
+    "exp": "Singly borne spore - microconidia Spores in chain - ahrospores In sporangium - sporangiospores Reference: Textbook of Microbiology; Baveja; 4th edition",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"produced\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "70884e61-a0c7-4f42-8ca4-d09f95fcd84e": {
-    "cop": 3,
-    "exp": "Enophthalmos (sinking of the eye) is the inward displacement of the eyeball. It results from paralysis of the orbitalis muscle (a smooth muscle that spans the inferior orbital fissure and may contribute to maintaining the normal position of the eyeball). Ref: Gray's Basic Anatomy By Richard Drake, A. Wayne Vogl, Adam W. M. Mitchell, 2012, Page 467."
+    "cop": 2,
+    "exp": "Enophthalmos (sinking of the eye) is the inward displacement of the eyeball. It results from paralysis of the orbitalis muscle (a smooth muscle that spans the inferior orbital fissure and may contribute to maintaining the normal position of the eyeball). Ref: Gray's Basic Anatomy By Richard Drake, A. Wayne Vogl, Adam W. M. Mitchell, 2012, Page 467.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Enophthalmos uncommon feature Horner\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "74bf6d2f-9d50-4d22-aef8-981a70fae2d0": {
-    "cop": 4,
-    "exp": "The cholesterol content of the membrane alters the fluidity of the membrane. When cholesterol concentration increases, the membrane becomes less fluid on the outer surface, but more fluid in the hydrophobic core. The effect of cholesterol on membrane fluidity is different at different temperatures. At temperature below the Tm cholesterol, in-7 creases fluidity and thereby permeability of the membrane. At temperatures above the Tm, cholesterol decreases fluidity. Linoleic acid increases the membrane fluidity.Ref: DM Vasudevan, page no: 11"
+    "cop": 3,
+    "exp": "The cholesterol content of the membrane alters the fluidity of the membrane. When cholesterol concentration increases, the membrane becomes less fluid on the outer surface, but more fluid in the hydrophobic core. The effect of cholesterol on membrane fluidity is different at different temperatures. At temperature below the Tm cholesterol, in-7 creases fluidity and thereby permeability of the membrane. At temperatures above the Tm, cholesterol decreases fluidity. Linoleic acid increases the membrane fluidity.Ref: DM Vasudevan, page no: 11",
+    "hint_exp": "🎯 Think of \"increased by\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "429f19c0-927b-4ff7-ba68-c466c73b80a9": {
-    "cop": 2,
-    "exp": "B i.e. Ketamine"
+    "cop": 1,
+    "exp": "B i.e. Ketamine",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Cerebral metabolism consumption increased\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bad9adb0-4080-4a07-bbf6-f53a716b2194": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Facial"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Facial",
+    "hint_exp": "🧩 Your crush solved \"Which following cranial nerve\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "092e8341-36fc-405c-bb77-53838b138373": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Occipital lobe(Ref: BDC 6h/e Vol. III p. 421-425)Occipital lobe has the following areas related to visionPrimary visual coex (strike area, area 17):It is present in medial surface of occipital lobe on upper lip and lower lip of calcarine sulcus."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Occipital lobe(Ref: BDC 6h/e Vol. III p. 421-425)Occipital lobe has the following areas related to visionPrimary visual coex (strike area, area 17):It is present in medial surface of occipital lobe on upper lip and lower lip of calcarine sulcus.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"present in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ce95e6f0-c82b-4dfa-a3d6-a4c55e2a7309": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"is seen in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6a8949c9-6d9e-43da-8655-91e5c9d1e418": {
-    "cop": 3,
-    "exp": "The combination of absent pulsus and absent Kussmaul sign with prominent x descent favors a restrictive cardiomyopathy.Unlike constrictive pericarditis, restrictive cardiomyopathies frequently present with an enlarged heart, orthopnea, LVH, and bundle branch"
+    "cop": 2,
+    "exp": "The combination of absent pulsus and absent Kussmaul sign with prominent x descent favors a restrictive cardiomyopathy.Unlike constrictive pericarditis, restrictive cardiomyopathies frequently present with an enlarged heart, orthopnea, LVH, and bundle branch",
+    "hint_exp": "🎯 Think of \"year woman recently diagnosed\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1bbc5847-9656-45f6-b0ea-e51602f116a5": {
-    "cop": 2,
-    "exp": "Extensor carpi ulnaris tendon traverses between the head of ulna and styloid process. Brachioradialis is inseed into the lowest pa of lateral surface just above the styloid process. Supinator is inseed into the upper pa of lateral surface . Anconeus is inseed into the lateral surface of olecranon process of ulna. B D Chaurasia 7th edition Page no: 18,138 Fig:2.14 page no 25 vishram Singh 2nd edition upper limb & thorax"
+    "cop": 1,
+    "exp": "Extensor carpi ulnaris tendon traverses between the head of ulna and styloid process. Brachioradialis is inseed into the lowest pa of lateral surface just above the styloid process. Supinator is inseed into the upper pa of lateral surface . Anconeus is inseed into the lateral surface of olecranon process of ulna. B D Chaurasia 7th edition Page no: 18,138 Fig:2.14 page no 25 vishram Singh 2nd edition upper limb & thorax",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Radial styloid process gives\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "cd617e12-b583-4d7e-94f9-c807ee1dd75d": {
-    "cop": 2,
-    "exp": "Remember: Most Common Spinal tumor - Metastasis Primary spinal tumor - Nerve sheath tumor (Neurofibromas, Schwannoma Extradural tumor - Metastasis Intradural extramedullary - Nerve sheath tumor Intramedullary - Ependymoina Ref : Schwaz surgery 7/e p1891"
+    "cop": 1,
+    "exp": "Remember: Most Common Spinal tumor - Metastasis Primary spinal tumor - Nerve sheath tumor (Neurofibromas, Schwannoma Extradural tumor - Metastasis Intradural extramedullary - Nerve sheath tumor Intramedullary - Ependymoina Ref : Schwaz surgery 7/e p1891",
+    "hint_exp": "🧩 Your crush solved \"Commonest spinal tumour\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3871da42-a609-4402-b47e-003ff2d4736d": {
-    "cop": 3,
-    "exp": "Phase 4 is post-marketing surveillance where drug ethical clearance is not required. Ref: Guosheng Yin (2012) Chapter 2, Fundamentals of Clinical Trails, Clinical Trial Design: Bayesian and Frequentist Adaptive Methods, Wiley Publications, USA, Page 25 ; Goodman and Gillman, 10th Edition, Page 60"
+    "cop": 2,
+    "exp": "Phase 4 is post-marketing surveillance where drug ethical clearance is not required. Ref: Guosheng Yin (2012) Chapter 2, Fundamentals of Clinical Trails, Clinical Trial Design: Bayesian and Frequentist Adaptive Methods, Wiley Publications, USA, Page 25 ; Goodman and Gillman, 10th Edition, Page 60",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"not necessary in which phase\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4a157e9e-63bf-4a22-909c-8091d4d8f063": {
-    "cop": 1,
-    "exp": "Nocardia Obligate aerobe. Acid fast organism (1%). Cultured by Paraffin bait technique. Causative agent of Actinomycetoma. Pneumoniae in immunodeficient individuals,Eg : AIDS/Lymphomas/Post Transplantation C/F -- Fever, cough (with thick sputum) Can spread to pericardium and mediastinum Rx - Trimethoprim-sulphmethoxazoleis used as effective therapy Severe cases - Combination - TMP-SMX, Amikacin, ceftriaxone/imipenem."
+    "cop": 0,
+    "exp": "Nocardia Obligate aerobe. Acid fast organism (1%). Cultured by Paraffin bait technique. Causative agent of Actinomycetoma. Pneumoniae in immunodeficient individuals,Eg : AIDS/Lymphomas/Post Transplantation C/F -- Fever, cough (with thick sputum) Can spread to pericardium and mediastinum Rx - Trimethoprim-sulphmethoxazoleis used as effective therapy Severe cases - Combination - TMP-SMX, Amikacin, ceftriaxone/imipenem.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Nocardia shows features except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b1f6de7d-7cc4-4a90-82e1-21a21ba1be04": {
-    "cop": 3,
-    "exp": "Ans: C (Ethambutol) Ref: KD Tripathi, Essentials in Pharmacology, 6th edition, pg 742 Explanation: Causes of Drug-Induced Hepatitis NSAIDs Amiodarone Anabolic steroids OCPs Chlorpromazine Erythromycin Halothane Methyldopa isoniazid Rifampicin Methotrexate Statins Sulfa drugs Tetracyclines Adverse Effects of Ethambutol Low visual acuity, defects in color vision and field defects due to optic neuritis Nausea Rashes Fever Neurological manifestations Hyperuricemia"
+    "cop": 2,
+    "exp": "Ans: C (Ethambutol) Ref: KD Tripathi, Essentials in Pharmacology, 6th edition, pg 742 Explanation: Causes of Drug-Induced Hepatitis NSAIDs Amiodarone Anabolic steroids OCPs Chlorpromazine Erythromycin Halothane Methyldopa isoniazid Rifampicin Methotrexate Statins Sulfa drugs Tetracyclines Adverse Effects of Ethambutol Low visual acuity, defects in color vision and field defects due to optic neuritis Nausea Rashes Fever Neurological manifestations Hyperuricemia",
+    "hint_exp": "🎯 Think of \"the following drugs does not\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a9749688-4b15-4181-bf56-153f9c1fb92c": {
-    "cop": 1,
-    "exp": "A i.e. Ra226"
+    "cop": 0,
+    "exp": "A i.e. Ra226",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "17985806-9149-4029-a86a-2c1c4f3f64bf": {
-    "cop": 4,
-    "exp": "Wads are present only in the cartridge of a shot gun."
+    "cop": 3,
+    "exp": "Wads are present only in the cartridge of a shot gun.",
+    "hint_exp": "🧩 Your crush solved \"Which associated with shotgun\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "466e49df-d834-4fe3-9626-74c693482af9": {
-    "cop": 4,
-    "exp": "Ans. is 'a' i.e., Age > 16 yrs; 'b' i.e., Ahritis > 3 wks; c' i.e., Ahritis > 6 months"
+    "cop": 3,
+    "exp": "Ans. is 'a' i.e., Age > 16 yrs; 'b' i.e., Ahritis > 3 wks; c' i.e., Ahritis > 6 months",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"criteria Juvenile Rheumatoid Ahritis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "49bb2955-30ed-4e1f-b9ec-83d70021bb6e": {
-    "cop": 3,
-    "exp": "Although 150 mL is said to the volume of dead space in adults, it can not be exactly the same in every individual. Anatomic dead space volume would depend on the size of the respiratory system, which in turn would depend upon the body size. Hence, a rough estimate of the dead space volume can be determined as: anatomic dead space = 1 mL per pound of the body weight. This is known as Radford's formula"
+    "cop": 2,
+    "exp": "Although 150 mL is said to the volume of dead space in adults, it can not be exactly the same in every individual. Anatomic dead space volume would depend on the size of the respiratory system, which in turn would depend upon the body size. Hence, a rough estimate of the dead space volume can be determined as: anatomic dead space = 1 mL per pound of the body weight. This is known as Radford's formula",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"weighing pounds volume anatomic\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "19ef18e2-9633-41e7-af09-fe03591804dd": {
-    "cop": 2,
-    "exp": "Diseases with strong association with peptic ulcer disease (1) systemic mastocytosis, (2) chronic pulmonary disease, (3) chronic renal failure, (4) cirrhosis, (5) nephrolithiasis, and (6) alpha 1-antitrypsin deficiency. Diseases with a possible association are (1) hyperparathyroidism, (2) coronary aery disease, (3) polycythemia vera, and (4) chronic pancreatitis. Ref: Harrisons principles of internal medicine, 18th edition, Page: 2444"
+    "cop": 1,
+    "exp": "Diseases with strong association with peptic ulcer disease (1) systemic mastocytosis, (2) chronic pulmonary disease, (3) chronic renal failure, (4) cirrhosis, (5) nephrolithiasis, and (6) alpha 1-antitrypsin deficiency. Diseases with a possible association are (1) hyperparathyroidism, (2) coronary aery disease, (3) polycythemia vera, and (4) chronic pancreatitis. Ref: Harrisons principles of internal medicine, 18th edition, Page: 2444",
+    "hint_exp": "🎯 Think of \"the following diseases\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "aec5e49e-385f-4631-a4a5-b5f4b9b162d2": {
-    "cop": 1,
-    "exp": "Venous thrombi (phlebothrombosis) frequently propagate some distance toward the hea, forming a long cast within the vessel lumen that is prone to give rise to emboli. An increase in the activity of coagulation factors is involved in the genesis of most venous thrombi, with platelet activation playing a secondary role. Contain more enmeshed red cells, leading to the moniker red, or stasis, thrombi. The veins of the lower extremities are most commonly affected (90% of venous thromboses); however, venous thrombi also can occur in the upper extremities, periprostatic plexus, or ovarian and periuterine veins, and under special circumstances may be found in the dural sinuses, poal vein, or hepatic vein. ( Robbins Basic Pathology, 9 th edition, page 88 )"
+    "cop": 0,
+    "exp": "Venous thrombi (phlebothrombosis) frequently propagate some distance toward the hea, forming a long cast within the vessel lumen that is prone to give rise to emboli. An increase in the activity of coagulation factors is involved in the genesis of most venous thrombi, with platelet activation playing a secondary role. Contain more enmeshed red cells, leading to the moniker red, or stasis, thrombi. The veins of the lower extremities are most commonly affected (90% of venous thromboses); however, venous thrombi also can occur in the upper extremities, periprostatic plexus, or ovarian and periuterine veins, and under special circumstances may be found in the dural sinuses, poal vein, or hepatic vein. ( Robbins Basic Pathology, 9 th edition, page 88 )",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"thrombosis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "da419afe-a45c-461c-8e48-242e7850d888": {
-    "cop": 3,
-    "exp": "Pemphigus vulgaris (most common) Pemphigus foliaceous Clinical feature:- Early disease - Dsg3 (Mucosa) Late disease - Dsg3 > Dsg1(Skin) Dsg-1 Only Skin involvement Investigations - Histological: Row of tombstone appearance + + DIF + + Fish net like Pattern + + IgG Ab Dsg 3 > 1 Dsg 1"
+    "cop": 2,
+    "exp": "Pemphigus vulgaris (most common) Pemphigus foliaceous Clinical feature:- Early disease - Dsg3 (Mucosa) Late disease - Dsg3 > Dsg1(Skin) Dsg-1 Only Skin involvement Investigations - Histological: Row of tombstone appearance + + DIF + + Fish net like Pattern + + IgG Ab Dsg 3 > 1 Dsg 1",
+    "hint_exp": "🧩 Your crush solved \"seen in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "23161ced-5ba1-41a9-a97e-67545d353a04": {
-    "cop": 1,
-    "exp": "Investigation of an epidemic: Verification of diagnosis Confirmation of the existence of an epidemic Defining the population at risk Rapid search for all cases and their characteristics Data analysis Formulation of hypothesis Testing of hypothesis Evaluation of ecological factor Fuher investigation of population at risk Writing the repo Ref: 25th edition, Park's Textbook of Preventive and Social Medicine, Page no. 143"
+    "cop": 0,
+    "exp": "Investigation of an epidemic: Verification of diagnosis Confirmation of the existence of an epidemic Defining the population at risk Rapid search for all cases and their characteristics Data analysis Formulation of hypothesis Testing of hypothesis Evaluation of ecological factor Fuher investigation of population at risk Writing the repo Ref: 25th edition, Park's Textbook of Preventive and Social Medicine, Page no. 143",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"epidemic step\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1466bb53-6223-4365-a0d7-c705f8088600": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., TEE"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., TEE",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"perioperative period\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "31dfbc5d-3b87-4ff8-83cb-abe4d4ebdf34": {
-    "cop": 1,
-    "exp": "Ref:Textbook of pathology (Harsh mohan) 6th edition,page no.774 CUTANEOUS SARCOIDOSIS. Sarcoidosis is a systemic granulomatous disease of unknown etiology . The lesions appear in the lungs, skin, eyes, nose and lymph nodes. Cutaneous manifestations appear as presenting feature in about a quaer of patients and include erythema nodosum, or brown-red jelly-like papules or plaques with central clearing. When these lesions are seen around nose, eyes and cheeks they are referred to as lupus perinio. Microscopically, Characteristic feature is the presence of non-caseating epithelioid cell granulomas having Langhans' giant cells but having paucity of lymphocytes, also called 'naked granulomas' . Fibrinoid necrosis and presence of intracellular inclusions such as asteroid bodies are some other features which may be seen."
+    "cop": 0,
+    "exp": "Ref:Textbook of pathology (Harsh mohan) 6th edition,page no.774 CUTANEOUS SARCOIDOSIS. Sarcoidosis is a systemic granulomatous disease of unknown etiology . The lesions appear in the lungs, skin, eyes, nose and lymph nodes. Cutaneous manifestations appear as presenting feature in about a quaer of patients and include erythema nodosum, or brown-red jelly-like papules or plaques with central clearing. When these lesions are seen around nose, eyes and cheeks they are referred to as lupus perinio. Microscopically, Characteristic feature is the presence of non-caseating epithelioid cell granulomas having Langhans' giant cells but having paucity of lymphocytes, also called 'naked granulomas' . Fibrinoid necrosis and presence of intracellular inclusions such as asteroid bodies are some other features which may be seen.",
+    "hint_exp": "🎯 Think of \"seen in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0e2c3d47-01bb-46a4-a03a-0cd5235b3dd0": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Thyroid gland function best\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6f170608-62dd-4c58-b165-05531ff0beec": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 20,000 o One PliC for every 30,000 rural population in the plains. o One PHC for every 20,000 population in hilly, tribal and backward areas."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 20,000 o One PliC for every 30,000 rural population in the plains. o One PHC for every 20,000 population in hilly, tribal and backward areas.",
+    "hint_exp": "🧩 Your crush solved \"hilly region\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "61f6433c-b05b-4c0c-a560-638a500db8cf": {
-    "cop": 2,
-    "exp": "For an infectious agent, infectivity refers to the propoion of exposed persons who become infected. Pathogenicity refers to the propoion of infected individuals who develop clinically apparent disease. Virulence refers to the propoion of clinically apparent cases that are severe or fatal. Ref: 25th edition, Park's Textbook of Preventive and Social Medicine, Page no. 43"
+    "cop": 1,
+    "exp": "For an infectious agent, infectivity refers to the propoion of exposed persons who become infected. Pathogenicity refers to the propoion of infected individuals who develop clinically apparent disease. Virulence refers to the propoion of clinically apparent cases that are severe or fatal. Ref: 25th edition, Park's Textbook of Preventive and Social Medicine, Page no. 43",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a biological agent\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ffc367ca-9736-4098-af2e-29a3b8c1f2b3": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Myelofibrosis Impoant causes of thrombocytosis o Collegen vascular disease o Infection o Hemorrhage o Inflammatory bowel disease o Myeloproliferative disorders o Iron deficiency anemia o Malignancy o Myelodysplastic syndrome"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Myelofibrosis Impoant causes of thrombocytosis o Collegen vascular disease o Infection o Hemorrhage o Inflammatory bowel disease o Myeloproliferative disorders o Iron deficiency anemia o Malignancy o Myelodysplastic syndrome",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"is a recognised feature of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5ae87aca-8ca0-405f-9027-4ac5e24b4b4c": {
-    "cop": 3,
-    "exp": "Femtosecond - 1053 nm\nnd - Yag - 1064 nm."
+    "cop": 2,
+    "exp": "Femtosecond - 1053 nm\nnd - Yag - 1064 nm.",
+    "hint_exp": "🎯 Think of \"Femtosecond laser\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ea3bd769-39b5-427c-a3f0-fdf3d9624968": {
-    "cop": 3,
-    "exp": "Ans. is 'c' is Telomerase \" Telomeres are short repeated sequences of DNA (TTAGGG) that compose the linear ends of chromosomes and are important inensuring the complete replication of chromosome ends and,protecting chromosomal termini from Fusion and degradation.The sequences are formed by a specialized Ribonucleoprotein, telomerase, an enzyme that stabilizes telomere length by adding to the ends of chromosomes. The activity of telomerase is repressed by regulatory proteins, which restrict telomere elongation, then providing a length sensing mechanism. Telomerase activity is expressed in germ cells and is present at low levels in stem cells, but is usually absent in most somatic tissues.When somatic cells replicate, a small section of telomere is not duplicated and telomeres become progressively shortened. Shortened telomeres are proposed to signal a growth check point allowing cells to become senescent. Conversely in immortal cancer cells, telomerase is reactivated and telomeres are not shortened, suggesting that telomere elongation might be an important, possibly essential step in tumor formation"
+    "cop": 2,
+    "exp": "Ans. is 'c' is Telomerase \" Telomeres are short repeated sequences of DNA (TTAGGG) that compose the linear ends of chromosomes and are important inensuring the complete replication of chromosome ends and,protecting chromosomal termini from Fusion and degradation.The sequences are formed by a specialized Ribonucleoprotein, telomerase, an enzyme that stabilizes telomere length by adding to the ends of chromosomes. The activity of telomerase is repressed by regulatory proteins, which restrict telomere elongation, then providing a length sensing mechanism. Telomerase activity is expressed in germ cells and is present at low levels in stem cells, but is usually absent in most somatic tissues.When somatic cells replicate, a small section of telomere is not duplicated and telomeres become progressively shortened. Shortened telomeres are proposed to signal a growth check point allowing cells to become senescent. Conversely in immortal cancer cells, telomerase is reactivated and telomeres are not shortened, suggesting that telomere elongation might be an important, possibly essential step in tumor formation",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which enzymatic mutation responsible\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "775a0fcc-85a0-42fa-af9e-9035e6140ed4": {
-    "cop": 4,
-    "exp": "Blood supply to the medulla is supplied byAnterior spinal aery: The anterior spinal aery supplies the whole medial pa of the medulla oblongata.Posterior inferior cerebellar aery: It is a major branch of the veebral aery that supplies the posterolateral pa of the medulla.Veebral aery: It supplies an area between the other two main aeries, including the nucleus solitarius and other sensory nuclei and fibres."
+    "cop": 3,
+    "exp": "Blood supply to the medulla is supplied byAnterior spinal aery: The anterior spinal aery supplies the whole medial pa of the medulla oblongata.Posterior inferior cerebellar aery: It is a major branch of the veebral aery that supplies the posterolateral pa of the medulla.Veebral aery: It supplies an area between the other two main aeries, including the nucleus solitarius and other sensory nuclei and fibres.",
+    "hint_exp": "🧩 Your crush solved \"blood supply medulla comes\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

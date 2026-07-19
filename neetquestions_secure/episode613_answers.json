@@ -1,202 +1,252 @@
 {
   "e56292b4-72a9-436a-a8fe-3704d3963d0d": {
-    "cop": 4,
-    "exp": "Thalidomide is associated with the development of constipation, rashes and peripheral neuropathy. Ref: Essentials of Medical Pharmacology By KD Tripathi, 5th Edition, Page 782; DeVita, Hellman, and Rosenberg's cancer : Principles And Practice of Oncology By Vincent T DeVita, Theodore S Lawrence, Steven A Rosenberg, Volume 1, Page 493; Reproductive and Developmental Toxicology By Ramesh C Gupta, Page 401"
+    "cop": 3,
+    "exp": "Thalidomide is associated with the development of constipation, rashes and peripheral neuropathy. Ref: Essentials of Medical Pharmacology By KD Tripathi, 5th Edition, Page 782; DeVita, Hellman, and Rosenberg's cancer : Principles And Practice of Oncology By Vincent T DeVita, Theodore S Lawrence, Steven A Rosenberg, Volume 1, Page 493; Reproductive and Developmental Toxicology By Ramesh C Gupta, Page 401",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"thalidomide\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cea94b98-8bfd-4bf9-94ba-e04c3fda7280": {
-    "cop": 1,
-    "exp": "Acute myeloid leukemia (AML) with monosomy 7 is associated with poor disease-free survival when treated by aggressive conventional chemotherapy alone. Similarly, outcomes are poor in children with myelodysplastic syndrome (MDS) with monosomy 7 treated by chemotherapy, immunosuppressive drugs or suppoive measures Myelodysplastic syndrome AML arising from a pre-existing myelodysplastic syndrome (MDS) or myeloproliferative disease (so-called secondary AML) has a worse prognosis, as does treatment-related AML arising after chemotherapy for another previous malignancy. Both of these entities are associated with a high rate of unorable cytogenetic abnormalities Cytogenetics The single most impoant prognostic factor in AML is cytogenetics, or the chromosomal structure of the leukemic cell. Ceain cytogenetic abnormalities are associated with very good outcomes (for example, the (15;17) translocation in acute promyelocytic leukemia). About half of people with AML have \"normal\" cytogenetics; they fall into an intermediate risk group. A number of other cytogenetic abnormalities are known to associate with a poor prognosis and a high risk of relapse after treatment. Genotype A large number of molecular alterations are under study for their prognostic impact in AML. However, only FLT3-ITD, NPM1, CEBPA and c-KIT are currently included in validated international risk stratification schema. These are expected to increase rapidly in the near future. FLT3 internal tandem duplications (ITDs) have been shown to confer a poorer prognosis in AML with normal cytogenetics. Several FLT3 inhibitors have undergone clinical trials, with mixed results. Two other mutations - NPM1 and biallelic CEBPA are associated with improved outcomes, especially in people with normal cytogenetics and are used in current risk stratification algorithms. Researchers are investigating the clinical significance of c-KIT mutations in AML. These are prevalent, and potentially clinically relevant because of the availability of tyrosine kinase inhibitors, such as imatinib and sunitinib that can block the activity of c-KIT pharmacologically. It is expected that additional markers (e.g., RUNX1, ASXL1, and TP53) that have consistently been associated with an inferior outcome will soon be included in these recommendations. The prognostic impoance of other mutated genes (e.g., DNMT3A, IDH1, IDH2) is less clear. Ref Davidson 23rd edition pg 789"
+    "cop": 0,
+    "exp": "Acute myeloid leukemia (AML) with monosomy 7 is associated with poor disease-free survival when treated by aggressive conventional chemotherapy alone. Similarly, outcomes are poor in children with myelodysplastic syndrome (MDS) with monosomy 7 treated by chemotherapy, immunosuppressive drugs or suppoive measures Myelodysplastic syndrome AML arising from a pre-existing myelodysplastic syndrome (MDS) or myeloproliferative disease (so-called secondary AML) has a worse prognosis, as does treatment-related AML arising after chemotherapy for another previous malignancy. Both of these entities are associated with a high rate of unorable cytogenetic abnormalities Cytogenetics The single most impoant prognostic factor in AML is cytogenetics, or the chromosomal structure of the leukemic cell. Ceain cytogenetic abnormalities are associated with very good outcomes (for example, the (15;17) translocation in acute promyelocytic leukemia). About half of people with AML have \"normal\" cytogenetics; they fall into an intermediate risk group. A number of other cytogenetic abnormalities are known to associate with a poor prognosis and a high risk of relapse after treatment. Genotype A large number of molecular alterations are under study for their prognostic impact in AML. However, only FLT3-ITD, NPM1, CEBPA and c-KIT are currently included in validated international risk stratification schema. These are expected to increase rapidly in the near future. FLT3 internal tandem duplications (ITDs) have been shown to confer a poorer prognosis in AML with normal cytogenetics. Several FLT3 inhibitors have undergone clinical trials, with mixed results. Two other mutations - NPM1 and biallelic CEBPA are associated with improved outcomes, especially in people with normal cytogenetics and are used in current risk stratification algorithms. Researchers are investigating the clinical significance of c-KIT mutations in AML. These are prevalent, and potentially clinically relevant because of the availability of tyrosine kinase inhibitors, such as imatinib and sunitinib that can block the activity of c-KIT pharmacologically. It is expected that additional markers (e.g., RUNX1, ASXL1, and TP53) that have consistently been associated with an inferior outcome will soon be included in these recommendations. The prognostic impoance of other mutated genes (e.g., DNMT3A, IDH1, IDH2) is less clear. Ref Davidson 23rd edition pg 789",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"in AML\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1f821410-a3f8-4474-8689-5d3ef75ace97": {
-    "cop": 4,
-    "exp": "Inulin is a polysaccharide starch of about 5-kD molecular weight that is not usually found in the body. It is freely filtered by the glomerulus, but it is not reabsorbed or secreted by the nephron. All the inulin that is filtered flows through the nephron and appears in the urine. Thus, the renal clearance of inulin is relatively large. Inulin in the blood is not taken up by other tissues, and the kidneys are the only excretion route. Thus, inulin clearance is indeed the hallmark experimental method of measuring the GFR. Ref: Eaton D.C., Pooler J.P. (2013). Chapter 3. Clearance. In D.C. Eaton, J.P. Pooler (Eds), Vander's Renal Physiology, 8e."
+    "cop": 3,
+    "exp": "Inulin is a polysaccharide starch of about 5-kD molecular weight that is not usually found in the body. It is freely filtered by the glomerulus, but it is not reabsorbed or secreted by the nephron. All the inulin that is filtered flows through the nephron and appears in the urine. Thus, the renal clearance of inulin is relatively large. Inulin in the blood is not taken up by other tissues, and the kidneys are the only excretion route. Thus, inulin clearance is indeed the hallmark experimental method of measuring the GFR. Ref: Eaton D.C., Pooler J.P. (2013). Chapter 3. Clearance. In D.C. Eaton, J.P. Pooler (Eds), Vander's Renal Physiology, 8e.",
+    "hint_exp": "🎯 Think of \"the following substance\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "24b451f7-d389-41ae-b06a-a2cb9473e2b7": {
-    "cop": 1,
-    "exp": "Answer is A (Occurrence of Turner's syndrome is influenced by maternal age) : Maternal age constitutes an impoant influence on the incidence of Down's syndrome. Occurance of Turner's syndrome is not affected by maternal age. Turner's syndrome is the most common cause of primary amenorrhea. At pubey sexual maturation fails to occur and primary amenorrhea is common. Sho stature is characteristic of Turner's syndrome. Lymphoedema of the dorsum of hands and feet is also a characteristic finding in patients with Turner's syndrome."
+    "cop": 0,
+    "exp": "Answer is A (Occurrence of Turner's syndrome is influenced by maternal age) : Maternal age constitutes an impoant influence on the incidence of Down's syndrome. Occurance of Turner's syndrome is not affected by maternal age. Turner's syndrome is the most common cause of primary amenorrhea. At pubey sexual maturation fails to occur and primary amenorrhea is common. Sho stature is characteristic of Turner's syndrome. Lymphoedema of the dorsum of hands and feet is also a characteristic finding in patients with Turner's syndrome.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"following statements regarding Turner\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5793518b-6b26-49ed-b7bf-63936f7e0c42": {
-    "cop": 3,
-    "exp": "ANSWER: (C) Hydatidiform moleREF: Dutta obs 6th e p. 196Investigations used in H.moleultrasound* Snow storm appearance in uterus* Complete molar pregnancy (chorionic villi show diffuse hydropic swelling and absence of fetal shadow)* Some fetal tissue seen* For diagnostic purpose USG alone is adequate , hormonal assays are for post molar and post chemo follow upSerum beta HCG* Very high in molar pregnancy* > 40000 detected by R1A* Rapidly increasing levels suggest molar pregnancyChest X-ray* To rule out lung metastasisCT scan* To rule out brain and liver metastasis"
+    "cop": 2,
+    "exp": "ANSWER: (C) Hydatidiform moleREF: Dutta obs 6th e p. 196Investigations used in H.moleultrasound* Snow storm appearance in uterus* Complete molar pregnancy (chorionic villi show diffuse hydropic swelling and absence of fetal shadow)* Some fetal tissue seen* For diagnostic purpose USG alone is adequate , hormonal assays are for post molar and post chemo follow upSerum beta HCG* Very high in molar pregnancy* > 40000 detected by R1A* Rapidly increasing levels suggest molar pregnancyChest X-ray* To rule out lung metastasisCT scan* To rule out brain and liver metastasis",
+    "hint_exp": "🧩 Your crush solved \"seen in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9521af3c-b626-47c1-a6cc-067cdbb37a49": {
-    "cop": 3,
-    "exp": "C. i.e. Seronegative pauciaicular juvenile rheumatoid ahritis"
+    "cop": 2,
+    "exp": "C. i.e. Seronegative pauciaicular juvenile rheumatoid ahritis",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"is a feature of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "dc9c5eb7-c2c7-4cf6-9509-dbc41841f64f": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Intravenous Fosphenvtoin:o Water soluble prodrug of phenytoino Used in status epilepticus patientso It is available as intravenous injection. It is less damaging to intima compared to phenytoin, can be injevted at a faster rate of 150 mg/ min, can be used in glucose solution drip,o Its infusion requires ECG monitoring."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Intravenous Fosphenvtoin:o Water soluble prodrug of phenytoino Used in status epilepticus patientso It is available as intravenous injection. It is less damaging to intima compared to phenytoin, can be injevted at a faster rate of 150 mg/ min, can be used in glucose solution drip,o Its infusion requires ECG monitoring.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Fosphenytoin route administration\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ef87435f-52a0-4daf-84b3-5ca34723a50b": {
-    "cop": 1,
-    "exp": "*The optic nerve leaves the orbit is the optic canal to enter the cranial vault *The optic canal is the most posterior landmark of the orbit. It measures 10mm in length *The thin piece of bone separating the optic canal from the superior orbital fissure is the optic strut *The optic strut and optic canal are a pa of the lesser wing of the sphenoid bone Fig - Foramina and bony landmarks of the sphenoid wings and pterygoid process. Reference : AK Khurana Comprehensive Ophthalmology, 6th edition, pg no. 310"
+    "cop": 0,
+    "exp": "*The optic nerve leaves the orbit is the optic canal to enter the cranial vault *The optic canal is the most posterior landmark of the orbit. It measures 10mm in length *The thin piece of bone separating the optic canal from the superior orbital fissure is the optic strut *The optic strut and optic canal are a pa of the lesser wing of the sphenoid bone Fig - Foramina and bony landmarks of the sphenoid wings and pterygoid process. Reference : AK Khurana Comprehensive Ophthalmology, 6th edition, pg no. 310",
+    "hint_exp": "🎯 Think of \"a pa of\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0cffd293-5308-41e4-b190-6ab558c53286": {
-    "cop": 2,
-    "exp": "Nifidipine which is a calcium channel blocker has the advantage of being effective orally,safe and cheap.Transient hypotension should be looked out for .A Cochrane review found that nifedipine was superior to betamimetics as a tocolytic.But there is no clear first line agent to date .(pg 175 textbook of obstetrics Sheila balakrishnan 2nd edition)"
+    "cop": 1,
+    "exp": "Nifidipine which is a calcium channel blocker has the advantage of being effective orally,safe and cheap.Transient hypotension should be looked out for .A Cochrane review found that nifedipine was superior to betamimetics as a tocolytic.But there is no clear first line agent to date .(pg 175 textbook of obstetrics Sheila balakrishnan 2nd edition)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Drug given reduce uterine\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "de060fc3-f997-4e53-8bac-8a68296c3e6b": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Hepatotoxic agent\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3971fd33-f736-46aa-ba31-11c622eec7d7": {
-    "cop": 1,
-    "exp": "Please remember: Target is not Tungsten inmammography, its made up off molybdenum."
+    "cop": 0,
+    "exp": "Please remember: Target is not Tungsten inmammography, its made up off molybdenum.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Filament made\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ca57b9f4-d7fb-48b4-9c8f-b18307aa884c": {
-    "cop": 2,
-    "exp": "Active transport requires expenditure of energy to move molecules through a membrane."
+    "cop": 1,
+    "exp": "Active transport requires expenditure of energy to move molecules through a membrane.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"called\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bd8f65d0-4524-4306-9bb5-eafc86c6b177": {
-    "cop": 1,
-    "exp": "The axon hillock contains the highest density of Na+-VGCs.....Hence it is a low threshold trigger zone. Synaptic input located close to the trigger zone is more effective in depolarizing and hyperpolarizing it than synaptic inputs of equal strength located fuher away. Ref guyton and hall textbook of medical physiology 12/e pg 543 and 59"
+    "cop": 0,
+    "exp": "The axon hillock contains the highest density of Na+-VGCs.....Hence it is a low threshold trigger zone. Synaptic input located close to the trigger zone is more effective in depolarizing and hyperpolarizing it than synaptic inputs of equal strength located fuher away. Ref guyton and hall textbook of medical physiology 12/e pg 543 and 59",
+    "hint_exp": "🎯 Think of \"the neuron because\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9f952fd0-3505-4610-bfcf-0ad275930c63": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Cubitus varus Carrying angle:* Angle between long axis of arm and forearm is called carrying angle.* It is measured with the elbow in full extention.* Angle is more in females because of lower level of trochlea in female. Normal value is 5-15deg.* Cubitus Varus develops with is reduced carrying angle and cubitus valgus is increased carrying angle.* Varus - distal part towards midline and valgus is distal part away from midline."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Cubitus varus Carrying angle:* Angle between long axis of arm and forearm is called carrying angle.* It is measured with the elbow in full extention.* Angle is more in females because of lower level of trochlea in female. Normal value is 5-15deg.* Cubitus Varus develops with is reduced carrying angle and cubitus valgus is increased carrying angle.* Varus - distal part towards midline and valgus is distal part away from midline.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Deformity with decreased carrying\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ac266cd2-a7a0-4404-9203-013ffda355b6": {
-    "cop": 3,
-    "exp": "Thyroid, cricoid and most of the arytenoid cailages are hyaline cailages whereas epiglottis, corniculate, cuneiform and tip of arytenoid near the corniculate cailage are elastic fibrocailage. Hyaline cailages can undergo ossification; it begins at the age of 25 years in thyroid, a little later in cricoid and arytenoids, and is complete by 65 years of age. Ref:- Dhingra; pg num:-282"
+    "cop": 2,
+    "exp": "Thyroid, cricoid and most of the arytenoid cailages are hyaline cailages whereas epiglottis, corniculate, cuneiform and tip of arytenoid near the corniculate cailage are elastic fibrocailage. Hyaline cailages can undergo ossification; it begins at the age of 25 years in thyroid, a little later in cricoid and arytenoids, and is complete by 65 years of age. Ref:- Dhingra; pg num:-282",
+    "hint_exp": "🧩 Your crush solved \"Elastic fibrocailage\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "47718862-1783-4562-8966-4ff38433336e": {
-    "cop": 2,
-    "exp": "Side effects of spironolactone: - Drowsiness, Ataxia, Mental confusion, Epigastric distress It may enhance testosterone clearance or its peripheral conversion to estradiol- gynecomastia, erectile dysfunction or loss of libido in men, and breast tenderness or menstrual irregularities in women. Most serious is hyperkalemia that may occur, especially if renal function is inadequate."
+    "cop": 1,
+    "exp": "Side effects of spironolactone: - Drowsiness, Ataxia, Mental confusion, Epigastric distress It may enhance testosterone clearance or its peripheral conversion to estradiol- gynecomastia, erectile dysfunction or loss of libido in men, and breast tenderness or menstrual irregularities in women. Most serious is hyperkalemia that may occur, especially if renal function is inadequate.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"which diuretic agent can\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "afd02dc5-9bdb-48f3-8040-6e16751f681c": {
-    "cop": 3,
-    "exp": "Norepinephrine is synthesized by a series of enzymatic steps in the adrenal medulla and postganglionic neurons of the sympathetic nervous system from the amino acid tyrosine. Ref: Textbook Of Medical Physiology By Khurana, 2006, Page 769; Lehninger Principles of Biochemistry, 4th Edition, Page 440, 678, 859"
+    "cop": 2,
+    "exp": "Norepinephrine is synthesized by a series of enzymatic steps in the adrenal medulla and postganglionic neurons of the sympathetic nervous system from the amino acid tyrosine. Ref: Textbook Of Medical Physiology By Khurana, 2006, Page 769; Lehninger Principles of Biochemistry, 4th Edition, Page 440, 678, 859",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the follwoing\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7a0f4b19-cb61-4b02-b903-7cad94801f1a": {
-    "cop": 1,
-    "exp": "F1C1 is defective in progressive familial intrahepatic cholestasis type 1 (PFIC1) and benign recurrent intrahepatic cholestasis type 1 (BRIC1) BSEP is defective in PFIC2 and BRIC2 Mutations of MRP2 (ABCC2) cause the Dubin-Johnson syndrome, an inherited form of conjugated hyperbilirubinemia A defective MDR3 (ABCB4) results in PFIC3 The cystic fibrosis transmembrane regulator (CFTR, ABCC7) located on bile duct epithelial cells but not on canalicular membranes is defective in cystic fibrosis This is a difficult area to understand Reference: Harrisons Principles of Internal Medicine, 18th Edition, Page 2616"
+    "cop": 0,
+    "exp": "F1C1 is defective in progressive familial intrahepatic cholestasis type 1 (PFIC1) and benign recurrent intrahepatic cholestasis type 1 (BRIC1) BSEP is defective in PFIC2 and BRIC2 Mutations of MRP2 (ABCC2) cause the Dubin-Johnson syndrome, an inherited form of conjugated hyperbilirubinemia A defective MDR3 (ABCB4) results in PFIC3 The cystic fibrosis transmembrane regulator (CFTR, ABCC7) located on bile duct epithelial cells but not on canalicular membranes is defective in cystic fibrosis This is a difficult area to understand Reference: Harrisons Principles of Internal Medicine, 18th Edition, Page 2616",
+    "hint_exp": "🎯 Think of \"johnson syndrome\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f7cffb4d-bfd3-4eb6-89bf-8f7c691005c0": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"pain control was given by\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c501fee4-9b4d-46e6-8c84-19429e74d782": {
-    "cop": 1,
-    "exp": "In this scenario patient present with signs of acute anterior uveitis, which is an inflammation of iris and ciliary body. Ref: Comprehensive Ophthalmology By A K Khurana, 4th Edition, Pages 141-44 ; Textbook of Ophthalmology By Neema, 3rd Edition, Page 160"
+    "cop": 0,
+    "exp": "In this scenario patient present with signs of acute anterior uveitis, which is an inflammation of iris and ciliary body. Ref: Comprehensive Ophthalmology By A K Khurana, 4th Edition, Pages 141-44 ; Textbook of Ophthalmology By Neema, 3rd Edition, Page 160",
+    "hint_exp": "🧩 Your crush solved \"patient miotic pupil normal\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fbb00f33-8403-4ec7-9150-86e186ace57d": {
-    "cop": 4,
-    "exp": "A sneeze or a cough can generate a pressure of = + 30 and + 50 cm H2O. Blowing a trumpet can generate a pressure up to = + 80 cm H2O. Valsalva maneuvre (is a forced expiratory effo against closed glottis.) It can generate the pressure between = + 120 and + 150 cm H2O."
+    "cop": 3,
+    "exp": "A sneeze or a cough can generate a pressure of = + 30 and + 50 cm H2O. Blowing a trumpet can generate a pressure up to = + 80 cm H2O. Valsalva maneuvre (is a forced expiratory effo against closed glottis.) It can generate the pressure between = + 120 and + 150 cm H2O.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Maximum positive intrathoracic pressure\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "818c24c1-79c7-41c6-9efa-3aa7e3a760c8": {
-    "cop": 2,
-    "exp": "Answer is 'b' i.e. Rubor"
+    "cop": 1,
+    "exp": "Answer is 'b' i.e. Rubor",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Peripheral aerial occlusion Sudden\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "36a9d7ab-40f1-4fec-a716-c059efa059b2": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"traumatic injury common femoral\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0df21ca4-c569-4e7f-9fb5-f1fbca2b9267": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Shows erythrocyte in cytosol"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Shows erythrocyte in cytosol",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Entamoeba histolytica\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c8361ce8-1f44-413c-bf1b-6bb6a5c9511f": {
-    "cop": 4,
-    "exp": "Amlodipine is a calcium channel blocker. Digoxin cause an increase in accumulation of intracellular Calcium. Hence there is no significant drug interaction with CCBS (REF.Essentials of medical pharmacology KD TRIPATHI 8th ed.)"
+    "cop": 3,
+    "exp": "Amlodipine is a calcium channel blocker. Digoxin cause an increase in accumulation of intracellular Calcium. Hence there is no significant drug interaction with CCBS (REF.Essentials of medical pharmacology KD TRIPATHI 8th ed.)",
+    "hint_exp": "🧩 Your crush solved \"following drugs have Significant\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e9a65daa-d996-4852-94af-28f825ea45ab": {
-    "cop": 4,
-    "exp": "Mediastinal syndrome other name for SVC syndrome or It involves veins of upper half of body."
+    "cop": 3,
+    "exp": "Mediastinal syndrome other name for SVC syndrome or It involves veins of upper half of body.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fe989c4f-d60f-4da8-b2bf-dbfbcd114973": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"not seen in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3b69c0d0-26b8-4b30-bb96-eb48a2c6aff1": {
-    "cop": 3,
-    "exp": "Typical neocoex is described as having six layers or laminae lying parallel to the surface Ref: Gray's anatomy 40th edition, Chapter 22."
+    "cop": 2,
+    "exp": "Typical neocoex is described as having six layers or laminae lying parallel to the surface Ref: Gray's anatomy 40th edition, Chapter 22.",
+    "hint_exp": "🎯 Think of \"layers in neocoex\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "523dcd11-e118-458d-9ee8-b231ee037b5e": {
-    "cop": 2,
-    "exp": "Ref Robbins 8/e p 119;9/e p119 The vitamin K-dependent carboxylase carries out the posttranslational modification of specific glutamate residues in proteins togamma-carboxy glutamic acid (Gla) in the presence of reduced vitamin K, molecular oxygen, and carbon dioxide."
+    "cop": 1,
+    "exp": "Ref Robbins 8/e p 119;9/e p119 The vitamin K-dependent carboxylase carries out the posttranslational modification of specific glutamate residues in proteins togamma-carboxy glutamic acid (Gla) in the presence of reduced vitamin K, molecular oxygen, and carbon dioxide.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the clotting factors\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5c2cd7e4-ca78-4171-ab1b-f0d4fe5e0964": {
-    "cop": 3,
-    "exp": "Treatment for kernicterus may include :\nPhototherapy for kernicterus :\nExposure to ultraviolet light breaksdown bilirubin in the bloodstream.\nExchange transfusion :\nRemoving blood that contains bilirubin, with blood that does not contain bilirubin.\nMedications that reduce the amount of bilirubin in the bloodstream :\nAlbumin (albuminar, albutein, plasbumin)\nImmune globulin intravenous\nPhenobarbital."
+    "cop": 2,
+    "exp": "Treatment for kernicterus may include :\nPhototherapy for kernicterus :\nExposure to ultraviolet light breaksdown bilirubin in the bloodstream.\nExchange transfusion :\nRemoving blood that contains bilirubin, with blood that does not contain bilirubin.\nMedications that reduce the amount of bilirubin in the bloodstream :\nAlbumin (albuminar, albutein, plasbumin)\nImmune globulin intravenous\nPhenobarbital.",
+    "hint_exp": "🧩 Your crush solved \"kernicterus\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "92858d54-c293-4894-9d64-fd47617d27c6": {
-    "cop": 2,
-    "exp": "Negative conditioning is used to increase the frequency of a paicular behavior by decreasing the negative consequences. However in this question, out of given options, it's the best answer"
+    "cop": 1,
+    "exp": "Negative conditioning is used to increase the frequency of a paicular behavior by decreasing the negative consequences. However in this question, out of given options, it's the best answer",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Many habits life removed\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "248808d1-2a95-44f2-9df2-0447b002555c": {
-    "cop": 3,
-    "exp": "Ans. C: Spasticity Baclofen have been tried for symptomatic treatment of spasticity in motor neuron disease Baclofen It is an agonist for the GABAB receptors. Its beneficial effects in spasticity result from actions at spinal and supraspinal sites. Baclofen can also be used to treat hiccups A very beneficial propey of baclofen is that tolerance does not seem to occur to any significant degree -- baclofen retains its therapeutic anti-spasmodic effects even after many years of continued use. Baclofen is widely used for the treatment of spastic movement disorders, especially in instances of spinal cord injury, spastic diplegia cerebral palsy, multiple sclerosis, amyotrophic lateral sclerosis (Lou Gehrig's disease), peripheral neuropathy and trigeminal and glossopharyngeal neuralgias The drug is rapidly absorbed after oral administration and is widely distributed throughout the body. Biotransformation is low and the drug is predominantly excreted in the unchanged form by the kidneys. Discontinuation of baclofen can be associated with a withdrawal syndrome which resembles benzodiazepine withdrawal and alcohol withdrawal."
+    "cop": 2,
+    "exp": "Ans. C: Spasticity Baclofen have been tried for symptomatic treatment of spasticity in motor neuron disease Baclofen It is an agonist for the GABAB receptors. Its beneficial effects in spasticity result from actions at spinal and supraspinal sites. Baclofen can also be used to treat hiccups A very beneficial propey of baclofen is that tolerance does not seem to occur to any significant degree -- baclofen retains its therapeutic anti-spasmodic effects even after many years of continued use. Baclofen is widely used for the treatment of spastic movement disorders, especially in instances of spinal cord injury, spastic diplegia cerebral palsy, multiple sclerosis, amyotrophic lateral sclerosis (Lou Gehrig's disease), peripheral neuropathy and trigeminal and glossopharyngeal neuralgias The drug is rapidly absorbed after oral administration and is widely distributed throughout the body. Biotransformation is low and the drug is predominantly excreted in the unchanged form by the kidneys. Discontinuation of baclofen can be associated with a withdrawal syndrome which resembles benzodiazepine withdrawal and alcohol withdrawal.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Baclofen used March 2011\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bc7e8183-1372-42d4-92f2-5338e2d31cc9": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Phenobarbitone"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Phenobarbitone",
+    "hint_exp": "🎯 Think of \"which antiepileptic drug\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "25e95158-089a-44bf-a7c0-8c8bf3453c66": {
-    "cop": 4,
-    "exp": "LOCALLY OR REGIONALLY ADVANCED Head and neck cancerLocally or regionally advanced disease-disease with a large primary tumor and/or lymph node metastases-is the stage of presentation for 50% of patients.Such patients can also be treated with curative intent, but not with surgery or radiation therapy alone.Combined modality therapy including surgery, radiation therapy, and chemotherapy is most successful.It can be administered as induction chemotherapy (chemotherapy before surgery and/or radiotherapy) or as concomitant (simultaneous) chemotherapy and radiation therapy. The latter is currently most commonly used and best evidence-suppoed.In patients with intermediate stage (stage III and early stage IV) concomitant chemoradiotherapy is given postoperatively.It can be administered either as a primary treatment for patients with unresectable disease, to pursue an organ-preserving approach, or in the postoperative setting for intermediate-stage resectable tumors. Preferred chemotherapy agents - cisplatin and cetuximab"
+    "cop": 3,
+    "exp": "LOCALLY OR REGIONALLY ADVANCED Head and neck cancerLocally or regionally advanced disease-disease with a large primary tumor and/or lymph node metastases-is the stage of presentation for 50% of patients.Such patients can also be treated with curative intent, but not with surgery or radiation therapy alone.Combined modality therapy including surgery, radiation therapy, and chemotherapy is most successful.It can be administered as induction chemotherapy (chemotherapy before surgery and/or radiotherapy) or as concomitant (simultaneous) chemotherapy and radiation therapy. The latter is currently most commonly used and best evidence-suppoed.In patients with intermediate stage (stage III and early stage IV) concomitant chemoradiotherapy is given postoperatively.It can be administered either as a primary treatment for patients with unresectable disease, to pursue an organ-preserving approach, or in the postoperative setting for intermediate-stage resectable tumors. Preferred chemotherapy agents - cisplatin and cetuximab",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Preferred treatment approach locally\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "517178da-e870-4844-be44-8d41acd2ce51": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Mobilisation of 2nd pa of duodenum"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Mobilisation of 2nd pa of duodenum",
+    "hint_exp": "🧩 Your crush solved \"Kocher manuever means\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2f9203c1-af5d-49a6-985a-c1474477ad28": {
-    "cop": 2,
-    "exp": "Persistently depolarizing at neuromuscular junction - propey of succinylcholine depolarising eg : succinylcholine 1. MOA - persistent / prolonged depolarising of nicotinic cholinergic receptors 2. fasiculation seen 3. post operative myalgia 4. not reversed by neostigmine 5. train of four response not seen 6. TOF ratio (B/A = 1 ) 7. neuromuscular monitoring not done 8. no post tetanic facilitation non - depolarising 1. MOA - competitive antagonist 2. fasiculation not seen 3. no post operative myalgia 4. reversed by neostigmine 5. train of four response seen 6. TOF ratio (B/A< 1 ) 7. neuromuscular monitoring done 8. post tetanic facilitation seen"
+    "cop": 1,
+    "exp": "Persistently depolarizing at neuromuscular junction - propey of succinylcholine depolarising eg : succinylcholine 1. MOA - persistent / prolonged depolarising of nicotinic cholinergic receptors 2. fasiculation seen 3. post operative myalgia 4. not reversed by neostigmine 5. train of four response not seen 6. TOF ratio (B/A = 1 ) 7. neuromuscular monitoring not done 8. no post tetanic facilitation non - depolarising 1. MOA - competitive antagonist 2. fasiculation not seen 3. no post operative myalgia 4. reversed by neostigmine 5. train of four response seen 6. TOF ratio (B/A< 1 ) 7. neuromuscular monitoring done 8. post tetanic facilitation seen",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"What mechanism action curonium\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "98066b3d-e8b3-4043-9126-ed28919ed409": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3ac0df0e-d21d-4798-b164-7797618aa984": {
-    "cop": 2,
-    "exp": "Ans. (b) TRAM(Ref: Bailey and Love 26th edition Page 817)* TRAM flap based on Superior Epigastric vessels is the MC used flap for breast reconstruction"
+    "cop": 1,
+    "exp": "Ans. (b) TRAM(Ref: Bailey and Love 26th edition Page 817)* TRAM flap based on Superior Epigastric vessels is the MC used flap for breast reconstruction",
+    "hint_exp": "🎯 Think of \"breast reconstruction\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6964d0be-b67b-44a6-8d59-4a555e7f36c0": {
-    "cop": 4,
-    "exp": "Saquinavir (Invirase) is an antiviral medicine that prevents human immunodeficiency virus (HIV) from multiplying in the body. This can cause photosensitivity so the nurse should instruct the client to avoid sun exposure.\n\nOption A: The medicine is taken with food or within 2 hours after eating a full meal.\nOption B: The medicine is best absorbed with a high-fat meal.\nOption C: Weight loss instead is expected."
+    "cop": 3,
+    "exp": "Saquinavir (Invirase) is an antiviral medicine that prevents human immunodeficiency virus (HIV) from multiplying in the body. This can cause photosensitivity so the nurse should instruct the client to avoid sun exposure.\n\nOption A: The medicine is taken with food or within 2 hours after eating a full meal.\nOption B: The medicine is best absorbed with a high-fat meal.\nOption C: Weight loss instead is expected.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"client human immunodeficiency virus\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2ba93a83-52e8-4cb6-ba17-c282b6bf8b9a": {
-    "cop": 3,
-    "exp": "Ans. c. Epidemiological transition Epidemiological transition is a phase of development witnessed by a sudden and stark increase in population growth rates brought about by medical innovation in disease or sickness therapy and treatment, followed by a re-leveling of population growth from subsequent declines in feility rates. Epidemiological Transition Epidemiological transition is a phase of development witnessed by a sudden and stark increase in population growth rates brought about by medical innovation in disease or sickness therapy and treatment, followed by a re-leveling of population growth from subsequent declines in feility ratesdeg. This theory was originally posited by Abdel Omran in 1971 Demographic transition Demographic transition (DT) refers to the transition from high bih and death rates to low bih and death rates as a country develops from a pre-industrial to an industrialized economic system. This is typically demonstrated through a demographic transition model."
+    "cop": 2,
+    "exp": "Ans. c. Epidemiological transition Epidemiological transition is a phase of development witnessed by a sudden and stark increase in population growth rates brought about by medical innovation in disease or sickness therapy and treatment, followed by a re-leveling of population growth from subsequent declines in feility rates. Epidemiological Transition Epidemiological transition is a phase of development witnessed by a sudden and stark increase in population growth rates brought about by medical innovation in disease or sickness therapy and treatment, followed by a re-leveling of population growth from subsequent declines in feility ratesdeg. This theory was originally posited by Abdel Omran in 1971 Demographic transition Demographic transition (DT) refers to the transition from high bih and death rates to low bih and death rates as a country develops from a pre-industrial to an industrialized economic system. This is typically demonstrated through a demographic transition model.",
+    "hint_exp": "🧩 Your crush solved \"of fatality\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "643979e3-a5bc-4106-9b0a-88deb6487afb": {
-    "cop": 2,
-    "exp": "The primary treatments of obstructive sleep apnea are: weight loss in those who are overweight, continuous positive airway pressure, and mandibular advancement devices. There is little evidence to suppo the use of medications or surgery. Continuous positive airway pressure (CPAP) is effective for both moderate and severe disease. It is the most common treatment for obstructive sleep apnea. Adherence to CPAP is generally better than that to an MRS, and there is evidence that CPAP improves driving, whereas there are no such data on MRSs. Thus, CPAP is the current treatment of choice (for both moderate and severe disease). However, MRSs are evidence-based second-line therapy in those who fail CPAP.- Harrison 18/p2189 There is no proven evidence that pharyngel surgery, including uvulopalatopharyngoplasty (whether by scalpel, laser or thermal techniques) helps OSAHS patients."
+    "cop": 1,
+    "exp": "The primary treatments of obstructive sleep apnea are: weight loss in those who are overweight, continuous positive airway pressure, and mandibular advancement devices. There is little evidence to suppo the use of medications or surgery. Continuous positive airway pressure (CPAP) is effective for both moderate and severe disease. It is the most common treatment for obstructive sleep apnea. Adherence to CPAP is generally better than that to an MRS, and there is evidence that CPAP improves driving, whereas there are no such data on MRSs. Thus, CPAP is the current treatment of choice (for both moderate and severe disease). However, MRSs are evidence-based second-line therapy in those who fail CPAP.- Harrison 18/p2189 There is no proven evidence that pharyngel surgery, including uvulopalatopharyngoplasty (whether by scalpel, laser or thermal techniques) helps OSAHS patients.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"years obese suffering from\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4d16f9a6-6197-4dd9-8607-62d3a56eb786": {
-    "cop": 1,
-    "exp": "As already stated, HIV affects cells having CD4 receptors.\nThe CD4 receptors appear to be involved in T-cell death.\nMonocytes and macrophages, which possess CD4 receptor in lesser concentration are not destroyed as extensively as are T cells. This is clinically significant in two ways :-\n\n\nMonocytes and macrophages serve as reservoirs for HIV as it replicates protected within these cells from the immune system.\nThese cells migrate across the blood brain barrier carrying HIV to the central nervous system. HIV causes brain disease, and the predominant cell type harboring HIV in the central nervous system is the monocyte macrophage line."
+    "cop": 0,
+    "exp": "As already stated, HIV affects cells having CD4 receptors.\nThe CD4 receptors appear to be involved in T-cell death.\nMonocytes and macrophages, which possess CD4 receptor in lesser concentration are not destroyed as extensively as are T cells. This is clinically significant in two ways :-\n\n\nMonocytes and macrophages serve as reservoirs for HIV as it replicates protected within these cells from the immune system.\nThese cells migrate across the blood brain barrier carrying HIV to the central nervous system. HIV causes brain disease, and the predominant cell type harboring HIV in the central nervous system is the monocyte macrophage line.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"affects characteristically\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "df4e2b89-6012-41ca-bbc2-2e5e66d86338": {
-    "cop": 4,
-    "exp": "Answer: (d) As the ureter crosses the external iliac artery at the pelvic brim and as the ureter passes through the wall of the bladder.* Renal and ureteric calculi generally are formed in the kidneys and then lodge at one of three locations:o at the junction of the renal pelvis with the ureter;o as the ureters cross the external iliac vessels at the pelvic brim;o as the ureters pass through the wall of the bladder.* Calculi occasionally form in the minor or major calyces or in the renal pelves and infundibula, but those so called \"staghorn\"calculi, would produce mid-back pain.* Renal calculi rarely become stuck as the ureter crosses the edge of the false pelvis.* The ureter does not pass through the center of the trigone, but rather opens at the superior lateral edge of the trigone.* The referred pain from ureteric calculi is usually described as from \"loin to groin\" in that it often starts in the mid back then over the kidney and extends in a band toward the labia majora or scrotum (from T11-L2).* Normally the pain is intermittent and comes and goes in waves and may change in location, generally moving interiorly.* Since the ureters undergo peristaltic movement, the calculi often move with time."
+    "cop": 3,
+    "exp": "Answer: (d) As the ureter crosses the external iliac artery at the pelvic brim and as the ureter passes through the wall of the bladder.* Renal and ureteric calculi generally are formed in the kidneys and then lodge at one of three locations:o at the junction of the renal pelvis with the ureter;o as the ureters cross the external iliac vessels at the pelvic brim;o as the ureters pass through the wall of the bladder.* Calculi occasionally form in the minor or major calyces or in the renal pelves and infundibula, but those so called \"staghorn\"calculi, would produce mid-back pain.* Renal calculi rarely become stuck as the ureter crosses the edge of the false pelvis.* The ureter does not pass through the center of the trigone, but rather opens at the superior lateral edge of the trigone.* The referred pain from ureteric calculi is usually described as from \"loin to groin\" in that it often starts in the mid back then over the kidney and extends in a band toward the labia majora or scrotum (from T11-L2).* Normally the pain is intermittent and comes and goes in waves and may change in location, generally moving interiorly.* Since the ureters undergo peristaltic movement, the calculi often move with time.",
+    "hint_exp": "🎯 Think of \"obstructing calculi\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "53ceb170-33c7-4ca5-8add-af2ba42b0b5d": {
-    "cop": 4,
-    "exp": "Recycling"
+    "cop": 3,
+    "exp": "Recycling",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Best dispose Electronic waste\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "43779aff-f3c6-4540-8654-58857cb678db": {
-    "cop": 4,
-    "exp": "Marshall-Marchetti-Krantz procedure It's a suprapubic operation in which the paraurethral tissue at the level of bladder neck is sutured to the periosteum or perichondrium of the posterior aspect of the pubic symphysis Procedure elevates bladder neck but doesn't correct cystocele Complicaion: Osteitis pubis; Seen in 2-7% of cases Ref: SHAW&;S TEXTBOOK OF GYNAECOLOGY;15th edition; Pg no:193"
+    "cop": 3,
+    "exp": "Marshall-Marchetti-Krantz procedure It's a suprapubic operation in which the paraurethral tissue at the level of bladder neck is sutured to the periosteum or perichondrium of the posterior aspect of the pubic symphysis Procedure elevates bladder neck but doesn't correct cystocele Complicaion: Osteitis pubis; Seen in 2-7% of cases Ref: SHAW&;S TEXTBOOK OF GYNAECOLOGY;15th edition; Pg no:193",
+    "hint_exp": "🧩 Your crush solved \"stress urinary incontinence\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bd86814e-740e-4f73-9188-a21bb88ec73c": {
-    "cop": 1,
-    "exp": "Ans. a. Systematic random sampling"
+    "cop": 0,
+    "exp": "Ans. a. Systematic random sampling",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"population\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d1dd5dd4-e6f3-4e3c-a130-9fabb65d940f": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "57a28285-309c-46e1-9e99-4216cb0818f0": {
-    "cop": 3,
-    "exp": "Fallopian tube"
+    "cop": 2,
+    "exp": "Fallopian tube",
+    "hint_exp": "🎯 Think of \"First site affected genital\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ae212bcd-872a-4df4-b074-6e450fc079f3": {
-    "cop": 2,
-    "exp": "Nonbacterial thrombotic endocarditis (NBTE) is characterized by the deposition of small (1 to 5 mm in diameter) thrombotic masses composed mainly of fibrin and platelets on cardiac valves. Although NBTE can occur in otherwise healthy persons, a wide variety of diseases associated with general debility or wasting are associated with an increased risk of NBTE--hence the alternate term marantic endocarditis. In contrast with infective endocarditis, the valvular lesions of NBTE are sterile and are nondestructive. (Robbins Basic Pathology,9th edition,pg no.391)"
+    "cop": 1,
+    "exp": "Nonbacterial thrombotic endocarditis (NBTE) is characterized by the deposition of small (1 to 5 mm in diameter) thrombotic masses composed mainly of fibrin and platelets on cardiac valves. Although NBTE can occur in otherwise healthy persons, a wide variety of diseases associated with general debility or wasting are associated with an increased risk of NBTE--hence the alternate term marantic endocarditis. In contrast with infective endocarditis, the valvular lesions of NBTE are sterile and are nondestructive. (Robbins Basic Pathology,9th edition,pg no.391)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"true about bacterial thrombotic\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "555d8c17-3cef-41e0-a21a-2eb34f921279": {
-    "cop": 2,
-    "exp": "Refer American college of chest physician's, 2008 Mitomycin is an anti tumor antibiotic with alkyating agent like propey. It is used in superficial cancer not urinary bladder and for squamous cell carcinoma of anus The drug has radiomimetric effectw6 and also sensitizes hypoxic tumor cells to the effects of hypoxia. Application of topical mitomicin C after endoscopic dilation of laryngo tracheal stenosis reduces the rate of restenosis"
+    "cop": 1,
+    "exp": "Refer American college of chest physician's, 2008 Mitomycin is an anti tumor antibiotic with alkyating agent like propey. It is used in superficial cancer not urinary bladder and for squamous cell carcinoma of anus The drug has radiomimetric effectw6 and also sensitizes hypoxic tumor cells to the effects of hypoxia. Application of topical mitomicin C after endoscopic dilation of laryngo tracheal stenosis reduces the rate of restenosis",
+    "hint_exp": "🧩 Your crush solved \"Topical mitomycin used REPEAT\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

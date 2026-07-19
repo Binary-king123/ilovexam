@@ -1,202 +1,252 @@
 {
   "61ec7602-ed46-4a24-9f8f-1b8747daf7a5": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e. Is equal to 1-0 P value is equal to the probability of commiting type I error, i.e. observing a difference when there is no difference in real. When P value is less than signficance level (a) , the results are statistically significant. Significance level (c() is fixed in advance. For example, significance level of study is study is fixed at 0.05 and the p value of test (type I error) is 0.027 (< 0.05), then the result is considered as statistically significant. That means, the maximum tolerable limit of type I error (significance level) of a study is fixed in advance and the usual value is 0.05. That means . 0.05 of type I error is acceptable and if a study has 0.05 type I error, the result is statistically significant."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e. Is equal to 1-0 P value is equal to the probability of commiting type I error, i.e. observing a difference when there is no difference in real. When P value is less than signficance level (a) , the results are statistically significant. Significance level (c() is fixed in advance. For example, significance level of study is study is fixed at 0.05 and the p value of test (type I error) is 0.027 (< 0.05), then the result is considered as statistically significant. That means, the maximum tolerable limit of type I error (significance level) of a study is fixed in advance and the usual value is 0.05. That means . 0.05 of type I error is acceptable and if a study has 0.05 type I error, the result is statistically significant.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"true about value except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c5bf5e66-e416-4e95-980e-1c5edfd0b72f": {
-    "cop": 2,
-    "exp": "Liquid:"
+    "cop": 1,
+    "exp": "Liquid:",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following solution\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b4c0529d-c166-49fb-b2e6-ad5e9dd30744": {
-    "cop": 1,
-    "exp": "(125 mi/min) (706-GN) (646- Ganong 23rd)* The normal value of GFR is 125 ml/min or 180 L/day* A rate of 125 ml/min is 7.5 L/hour or 180 L/day, whereas the normal urine volume is about 1 L/d. Thus 99% or more of the filtrate is normally reabsorbed.* At the rate of 125 ml/min, the kidneys filter in 1 day an amount of fluid equal to 4 times the total body water, 15 times the ECF volume, and 60 times the plasma volume* The normal filtration fraction varies from 15 to 20% (251-SL)* Blood flow to the two kidney is normally about 22% of the cardiac output or 1100 ml/min (281 -Gyton 10th)"
+    "cop": 0,
+    "exp": "(125 mi/min) (706-GN) (646- Ganong 23rd)* The normal value of GFR is 125 ml/min or 180 L/day* A rate of 125 ml/min is 7.5 L/hour or 180 L/day, whereas the normal urine volume is about 1 L/d. Thus 99% or more of the filtrate is normally reabsorbed.* At the rate of 125 ml/min, the kidneys filter in 1 day an amount of fluid equal to 4 times the total body water, 15 times the ECF volume, and 60 times the plasma volume* The normal filtration fraction varies from 15 to 20% (251-SL)* Blood flow to the two kidney is normally about 22% of the cardiac output or 1100 ml/min (281 -Gyton 10th)",
+    "hint_exp": "🎯 Think of \"men\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8cf6e046-f041-4b1e-a0da-76f343a70d8e": {
-    "cop": 1,
-    "exp": "CVC Liver"
+    "cop": 0,
+    "exp": "CVC Liver",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"liver seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5c7e7436-6a3d-4a68-b710-89245e98a25f": {
-    "cop": 3,
-    "exp": "Ans. Graves ophthalmopathy"
+    "cop": 2,
+    "exp": "Ans. Graves ophthalmopathy",
+    "hint_exp": "🧩 Your crush solved \"Vascular congestion over inseions\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9258fc17-8dc5-460e-807b-64ae76b82b1c": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Timolol Impoant acts Angle closure glaucoma Treatment of choice for acute congestive glaucoma Laser iridotomy (1\" choice), Peripheral iridectency (2\" choice) Drug of choice for acute congestive glaucoma Pilocarpine Initially IOP is controlled (first drug used)- Systemic mannitol or acetazolamide Open angle glaucoma Treatment of choice Topical antiglaucoma drugs Drug of choice /3 - blocker (Timolol, betaxolol, levobunalol) Surgery of choice Argon or diode laser trabeculoplasty"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Timolol Impoant acts Angle closure glaucoma Treatment of choice for acute congestive glaucoma Laser iridotomy (1\" choice), Peripheral iridectency (2\" choice) Drug of choice for acute congestive glaucoma Pilocarpine Initially IOP is controlled (first drug used)- Systemic mannitol or acetazolamide Open angle glaucoma Treatment of choice Topical antiglaucoma drugs Drug of choice /3 - blocker (Timolol, betaxolol, levobunalol) Surgery of choice Argon or diode laser trabeculoplasty",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Drug choice open angle\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c2761652-f793-4033-816c-f753da6e15d4": {
-    "cop": 2,
-    "exp": "Ans. Peripheral anterior synechiae"
+    "cop": 1,
+    "exp": "Ans. Peripheral anterior synechiae",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Secondary glaucoma following corneal\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "07f9fb08-8acd-4683-8555-aa1742c517ab": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Maximum allowable dose lidocaine\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3592d60d-232d-4ad1-a9eb-a4b350482dde": {
-    "cop": 4,
-    "exp": "ANSWER: (D) TremorsREF: KDT 7th ed p. 217The most common dose related side effect of salbutamol is tremors, Palpitations, restlessness, nervousness and restlessness are also seen."
+    "cop": 3,
+    "exp": "ANSWER: (D) TremorsREF: KDT 7th ed p. 217The most common dose related side effect of salbutamol is tremors, Palpitations, restlessness, nervousness and restlessness are also seen.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"salbutamol\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "389c5b31-da6f-4183-86d0-28ca2b478a19": {
-    "cop": 3,
-    "exp": "C i.e. Gastrointestinal smooth muscle relaxation - Nitric oxide (NO) is synthesized from arginine (02, NADPH) by NO synthase (requiring FMN, FAD, herne & BH4) in nerves and vascular endothelial cells (hence called EDRF). It relaxes smooth muscles by increasing cyclic GMPQ. - Nitric oxide (NO) and atrial natriuretic factor (ANF) are hormones that act through c-GMPQ. - NO (along with VIP and PACAP) are inhibitory neurotransmitter in enteric (gastrointestinal) neurons that primarily mediate gastrointestinal smooth muscle relaxation c-GMP pathwayQ."
+    "cop": 2,
+    "exp": "C i.e. Gastrointestinal smooth muscle relaxation - Nitric oxide (NO) is synthesized from arginine (02, NADPH) by NO synthase (requiring FMN, FAD, herne & BH4) in nerves and vascular endothelial cells (hence called EDRF). It relaxes smooth muscles by increasing cyclic GMPQ. - Nitric oxide (NO) and atrial natriuretic factor (ANF) are hormones that act through c-GMPQ. - NO (along with VIP and PACAP) are inhibitory neurotransmitter in enteric (gastrointestinal) neurons that primarily mediate gastrointestinal smooth muscle relaxation c-GMP pathwayQ.",
+    "hint_exp": "🧩 Your crush solved \"the gastrointestinal tract\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ba8e091c-54e4-4e84-aa80-ce3aa7fb071b": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which group streptococcus grow\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "57c229f6-ebf6-4c36-b196-a4c76f7ec376": {
-    "cop": 2,
-    "exp": "Hallucinations are not a feature of post traumatic stress disorder. It is a delayed and protracted response to exceptionally stressful or catastrophic life event. It is characterized by flash back (recollection of event), hyper arousal (insomnia), emotional numbing and avoidance. Ref: The Encyclopedia of Psychological Trauma By Gilbe Reyes, Page 42; Counselling for Post-Traumatic Stress Disorder By Michael J. Scott, 3rd Edition, Page 8"
+    "cop": 1,
+    "exp": "Hallucinations are not a feature of post traumatic stress disorder. It is a delayed and protracted response to exceptionally stressful or catastrophic life event. It is characterized by flash back (recollection of event), hyper arousal (insomnia), emotional numbing and avoidance. Ref: The Encyclopedia of Psychological Trauma By Gilbe Reyes, Page 42; Counselling for Post-Traumatic Stress Disorder By Michael J. Scott, 3rd Edition, Page 8",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c3128ba5-195e-461e-a422-dc9ceecb6887": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Enterococcus The bacteria in this question is showing growth in 6.5% NaC1, non bile senstive (ie growing in the presence of bile) and showing 3 hemolysis, Enterococci have all these features."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Enterococcus The bacteria in this question is showing growth in 6.5% NaC1, non bile senstive (ie growing in the presence of bile) and showing 3 hemolysis, Enterococci have all these features.",
+    "hint_exp": "🎯 Think of \"beta hemolytic bacteria resistant\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f11a0b81-db84-4351-ba7b-cdf12314b209": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Growth activity which these\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e97eb8aa-f401-4e8e-bb9c-34c2ecd6a727": {
-    "cop": 3,
-    "exp": "The patient is suffering from multiple myeloma, a neoplastic proliferation of plasma cells (or their precursors) found within the bone marrow. These malignant cells are responsible for the production of excessive amounts of immunoglobulin (usually IgG or IgA), producing an M- protein spike, and increasing the ESR. The decreased platelet count probably reflects infiltration of the bone marrow by myeloma cells. It is not unusual for patients with malignant myeloma to have recurring bacterial infections, paicularly pneumococcal pneumonia, because the overall production of normal immunoglobulins of all isotypes is decreased. Lytic bone lesions due to infiltration by myeloma cells may lead to pathological fractures. All of the other disorders listed can be associated with an M- protein spike, but this is a nonspecific finding. Chronic lymphocytic leukemia is ruled out by the normal white count, since this type of leukemia is generally associated with an absolute lymphocytosis. Patients with monoclonal gammopathy of undetermined significance (choice B) are generally asymptomatic, although they have a predisposition for subsequently developing myeloma, lymphoma, amyloidosis, or Waldenstrom's macroglobulinemia. Plasmacytoma (solitary myeloma) is a rare, isolated plasma cell neoplasm in bone or soft tissues. If the primary cancer is in bone, it is likely to disseminate; extra osseous tumors tend to remain localized. Since this patient had multiple lytic bone lesions, multiple myeloma is the correct diagnosis. Ref: van Rhee F., Anaissie E., Angtuaco E., Bael T., Epstein J., Nair B., Shaughnessy J., Yaccoby S., Barlogie B. (2010). Chapter 109. Myeloma. In J.T. Prchal, K. Kaushansky, M.A. Lichtman, T.J. Kipps, U. Seligsohn (Eds), Williams Hematology, 8e"
+    "cop": 2,
+    "exp": "The patient is suffering from multiple myeloma, a neoplastic proliferation of plasma cells (or their precursors) found within the bone marrow. These malignant cells are responsible for the production of excessive amounts of immunoglobulin (usually IgG or IgA), producing an M- protein spike, and increasing the ESR. The decreased platelet count probably reflects infiltration of the bone marrow by myeloma cells. It is not unusual for patients with malignant myeloma to have recurring bacterial infections, paicularly pneumococcal pneumonia, because the overall production of normal immunoglobulins of all isotypes is decreased. Lytic bone lesions due to infiltration by myeloma cells may lead to pathological fractures. All of the other disorders listed can be associated with an M- protein spike, but this is a nonspecific finding. Chronic lymphocytic leukemia is ruled out by the normal white count, since this type of leukemia is generally associated with an absolute lymphocytosis. Patients with monoclonal gammopathy of undetermined significance (choice B) are generally asymptomatic, although they have a predisposition for subsequently developing myeloma, lymphoma, amyloidosis, or Waldenstrom's macroglobulinemia. Plasmacytoma (solitary myeloma) is a rare, isolated plasma cell neoplasm in bone or soft tissues. If the primary cancer is in bone, it is likely to disseminate; extra osseous tumors tend to remain localized. Since this patient had multiple lytic bone lesions, multiple myeloma is the correct diagnosis. Ref: van Rhee F., Anaissie E., Angtuaco E., Bael T., Epstein J., Nair B., Shaughnessy J., Yaccoby S., Barlogie B. (2010). Chapter 109. Myeloma. In J.T. Prchal, K. Kaushansky, M.A. Lichtman, T.J. Kipps, U. Seligsohn (Eds), Williams Hematology, 8e",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "06a3d715-cd10-4ab5-92db-1d48dcadb28c": {
-    "cop": 2,
-    "exp": "From the successional lamina come permanent teeth, which replace the primary teeth except for the permanent molars."
+    "cop": 1,
+    "exp": "From the successional lamina come permanent teeth, which replace the primary teeth except for the permanent molars.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Successional dental lamina responsible\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a09ccfd1-a60e-40e8-9e3b-a03e30883782": {
-    "cop": 1,
-    "exp": "Kaposi’s sarcoma has four major clinical presentations: classic (chronic), endemic (lymph-adenopathic; African), immunosuppression-associated (transplant), and AIDS-related. The early lesion (patch stage) is characterized by proliferation of small veins and capillaries around one or more preexisting dilated vessel.\nMore advanced lesions (plaque stage) are nodular and show increased numbers of small capillaries or dilated vascular channels interspersed with proliferating sheets of sarcomatous or atypical spindle cells, often with large numbers of extravasated erythrocytes and abundant hemosiderin deposition.\nInfiltration by chronic inflammatory cells is also variable. In the nodular stage, all the histologic features are more prominent than plaque stage."
+    "cop": 0,
+    "exp": "Kaposi’s sarcoma has four major clinical presentations: classic (chronic), endemic (lymph-adenopathic; African), immunosuppression-associated (transplant), and AIDS-related. The early lesion (patch stage) is characterized by proliferation of small veins and capillaries around one or more preexisting dilated vessel.\nMore advanced lesions (plaque stage) are nodular and show increased numbers of small capillaries or dilated vascular channels interspersed with proliferating sheets of sarcomatous or atypical spindle cells, often with large numbers of extravasated erythrocytes and abundant hemosiderin deposition.\nInfiltration by chronic inflammatory cells is also variable. In the nodular stage, all the histologic features are more prominent than plaque stage.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"palate patient shows following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b6de38b7-31bf-4014-961a-d8d729356cf0": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Meyer cotton Grading system\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0548bd64-0f78-4c65-ab53-a66f5adb074a": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"patient dicoumoral therapy require\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8646d4b3-2576-48ce-94dd-e433446e0fec": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Hepatomegaly o Hepatomegaly is one of the essential diagnostic feature of kwashiorkor, it does not indicate poor prognosis. o Poor prognostic factors in PEM, which can lead to early death ? Hypothermia 4. Diarrhea 7. Cardiac failure Hypoglycemia 5. Severe anemia 8. Dehydration or overhydration Systemic infections 6. Liver failure 9. Fluid & electrolyte imbalance"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Hepatomegaly o Hepatomegaly is one of the essential diagnostic feature of kwashiorkor, it does not indicate poor prognosis. o Poor prognostic factors in PEM, which can lead to early death ? Hypothermia 4. Diarrhea 7. Cardiac failure Hypoglycemia 5. Severe anemia 8. Dehydration or overhydration Systemic infections 6. Liver failure 9. Fluid & electrolyte imbalance",
+    "hint_exp": "🧩 Your crush solved \"a child with kwashiorkar\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "00fbc03c-202e-4401-9887-44517b2cdac0": {
-    "cop": 2,
-    "exp": "Multiple sclerosis :- - is m/c immune mediated inflammatory demyelinating disease of CNS - autoimmune destruction of myelin formed - Dawson fingers - are radiological feature of Multiple sclerosis - are periventricular white matter hyperintensities perpendicular to ventricles - involvement of calloso-septal interface - open ring/ horseshoe enhancement is suggestive of demyelination"
+    "cop": 1,
+    "exp": "Multiple sclerosis :- - is m/c immune mediated inflammatory demyelinating disease of CNS - autoimmune destruction of myelin formed - Dawson fingers - are radiological feature of Multiple sclerosis - are periventricular white matter hyperintensities perpendicular to ventricles - involvement of calloso-septal interface - open ring/ horseshoe enhancement is suggestive of demyelination",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"feature of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5a9c6316-0051-437f-9f29-b9edee6b7634": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"low osmolar ORS\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f26b3e4d-831f-4366-87ab-2436ad8d71f9": {
-    "cop": 3,
-    "exp": "Peritonsillar abscess ( Quinsy) is the collection of pus in the peritonsillar space which lies between the capsule of tonsil and superior constrictor muscle. A peritonsillar abscess usually follows acute tonsillitis. First crystal Magna is infected and sealed off. Culture of pus from the abscess May reveal beta-hemolytic streptococci, S.aureus, or anaerobic organisms. (Ref: Diseases of ENT, PL Dhingra, 7th edition, pg no.298)"
+    "cop": 2,
+    "exp": "Peritonsillar abscess ( Quinsy) is the collection of pus in the peritonsillar space which lies between the capsule of tonsil and superior constrictor muscle. A peritonsillar abscess usually follows acute tonsillitis. First crystal Magna is infected and sealed off. Culture of pus from the abscess May reveal beta-hemolytic streptococci, S.aureus, or anaerobic organisms. (Ref: Diseases of ENT, PL Dhingra, 7th edition, pg no.298)",
+    "hint_exp": "🎯 Think of \"most commonly\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f0378569-5d84-41da-8cce-edfa8b147809": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Bass brushing technique\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "243fef19-2fed-4388-bd9c-c9eda547967e": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Which following agents GABAA\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e1dca27f-ebec-4358-be6b-5fccabc7c5b3": {
-    "cop": 2,
-    "exp": "Ans. B: Psoriasis Plaque psoriasis is the most common presentation of psoriasis and of all the patterns is the most likely to affect the typical areas of the elbows, knees, umbilicus and lower back. It tends to be a relatively persistent or chronic pattern of psoriasis that can be improved with treatment but is difficult to clear completely with topical treatments alone. It is characterised by large flat areas (plaques) of psoriasis with typical silvery scale. These plaques may join together to involve very extensive areas of the skin paicularly on the trunk and limbs. It is often accompanied by scalp and nail psoriasis."
+    "cop": 1,
+    "exp": "Ans. B: Psoriasis Plaque psoriasis is the most common presentation of psoriasis and of all the patterns is the most likely to affect the typical areas of the elbows, knees, umbilicus and lower back. It tends to be a relatively persistent or chronic pattern of psoriasis that can be improved with treatment but is difficult to clear completely with topical treatments alone. It is characterised by large flat areas (plaques) of psoriasis with typical silvery scale. These plaques may join together to involve very extensive areas of the skin paicularly on the trunk and limbs. It is often accompanied by scalp and nail psoriasis.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Silver plaques feature September\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "094a7e73-c047-4ff0-8c51-6da21f523e49": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Complete bacteriological cure o Chemotherapy is indicated in every' case of active tuberculosis.o The objective of treatment is cure-that is, the elimination of both the fast and slowly multiplying bacilli from the patient's body.o The effects of chemotherapy are judged not by the anatomic healing of lesions, but maily by the elimination of bacilli from the patient's sputum."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Complete bacteriological cure o Chemotherapy is indicated in every' case of active tuberculosis.o The objective of treatment is cure-that is, the elimination of both the fast and slowly multiplying bacilli from the patient's body.o The effects of chemotherapy are judged not by the anatomic healing of lesions, but maily by the elimination of bacilli from the patient's sputum.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Main treatment\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1fd360bf-7d52-42e7-b392-ddf5165d789a": {
-    "cop": 1,
-    "exp": "(A) Liver /Harrison16 - 2452]# Large majority of ASTROCYTOMAS arising in adults are high grade, supratentorial, and do not have a clearly defined margin.> Neoplastic cells migrate away from the main tumor mass an infiltrate adjacent brain, often tracking along white matter pathways.> Imaging studies do not indicate the full extent of the tumor.> These tumors are eventually fatal, although prolonged survival occurs in a few patients. Longer survival correlates with younger age, better performance status, and greater extent of surgical resection.> Late in their course, gliomas, especially those located in the posterior fossa, can metastasize along CSF pathways to the spine.> Metastases outside the CNS are rare."
+    "cop": 0,
+    "exp": "(A) Liver /Harrison16 - 2452]# Large majority of ASTROCYTOMAS arising in adults are high grade, supratentorial, and do not have a clearly defined margin.> Neoplastic cells migrate away from the main tumor mass an infiltrate adjacent brain, often tracking along white matter pathways.> Imaging studies do not indicate the full extent of the tumor.> These tumors are eventually fatal, although prolonged survival occurs in a few patients. Longer survival correlates with younger age, better performance status, and greater extent of surgical resection.> Late in their course, gliomas, especially those located in the posterior fossa, can metastasize along CSF pathways to the spine.> Metastases outside the CNS are rare.",
+    "hint_exp": "🎯 Think of \"True about gliomas metastize\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "40a26a04-2f6a-4dad-ac46-2d977394f16b": {
-    "cop": 3,
-    "exp": "Weber`s test lateralizes to the affected ear in a conductive hearing loss and to the normal ear in a sensorineural hearing loss. In case of a middle ear pathology, there is conductive hearing loss and hence weber`s test lateralizes to the affected ear.Weber`s is the most sensitive test, lateralizes even at 5 dB of hearing difference between the two ears.Ref: Hazarika; 3rd ed; Pg 53"
+    "cop": 2,
+    "exp": "Weber`s test lateralizes to the affected ear in a conductive hearing loss and to the normal ear in a sensorineural hearing loss. In case of a middle ear pathology, there is conductive hearing loss and hence weber`s test lateralizes to the affected ear.Weber`s is the most sensitive test, lateralizes even at 5 dB of hearing difference between the two ears.Ref: Hazarika; 3rd ed; Pg 53",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"right middle pathology weber\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bb4fb72b-8488-40b6-97d1-b2cbb551e5bb": {
-    "cop": 1,
-    "exp": "Red Cells 42 days with the appropriate additives( SAG-M) 2-6 oC Platelets 5 days 20-24 oC Cryoprecipitate 2yrs At - 30degC It is a supernatant precipitate of FFP and is rich in factor VIII and fibrinogen. Ref: Bailey and love. 27th edition. Pg no:21"
+    "cop": 0,
+    "exp": "Red Cells 42 days with the appropriate additives( SAG-M) 2-6 oC Platelets 5 days 20-24 oC Cryoprecipitate 2yrs At - 30degC It is a supernatant precipitate of FFP and is rich in factor VIII and fibrinogen. Ref: Bailey and love. 27th edition. Pg no:21",
+    "hint_exp": "🧩 Your crush solved \"the following blood fractions\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cdf71080-aca2-446d-ad7f-a8dd3fa509bc": {
-    "cop": 3,
-    "exp": "When the bladder is not empty, it rises above the level of the pubic symphysis. Other options given, do not reach the level of the pubic symphysis."
+    "cop": 2,
+    "exp": "When the bladder is not empty, it rises above the level of the pubic symphysis. Other options given, do not reach the level of the pubic symphysis.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following structures\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "675eef71-e05c-4d4c-aaa7-31bca3b46681": {
-    "cop": 3,
-    "exp": "The next step in the process of leukocyte recruitment is migration of the leukocytes through the endothelium, called transmigration or diapedesis. Transmigration of leukocytes occurs mainly in post-capillary venules. Chemokines act on the adherent leukocytes and stimulate the cells to migrate through interendothelial spaces toward the chemical concentration gradient, that is, toward the site of injury or infection where the chemokines are being produced. REF: ROBBINS pathology 10th edition"
+    "cop": 2,
+    "exp": "The next step in the process of leukocyte recruitment is migration of the leukocytes through the endothelium, called transmigration or diapedesis. Transmigration of leukocytes occurs mainly in post-capillary venules. Chemokines act on the adherent leukocytes and stimulate the cells to migrate through interendothelial spaces toward the chemical concentration gradient, that is, toward the site of injury or infection where the chemokines are being produced. REF: ROBBINS pathology 10th edition",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"through\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "923f811b-cc57-45e4-9134-8c50221a63be": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Major life treatening events Stressors for stress disorders* Stress disorders occur after an extreme traumatic events involving the threat of personal death or injury. They can arise from experiences in war, torture, natural catastroph (earthquake, volcano, floods), assault, rape, and serious accidents (e.g., in car) in burning building.* Symptoms of PTSD develop within 6 months of stressor, However 10% patients have delayed onset.Risk factors for Stress disorders1) Vulnerability factors: - Low education, Lower social class, female gender, low self esteem/neurotic traits, previous traumatic events (including childhood trauma), previous self or family history of psychiatric problems (mood/ anxiety disorders).2) Protective factors: - High IQ, higher social class, male gender, psychopathic traits, chance to view body of dead relative / friend.3) Biological factors: - Following systems are hyperactive in PTSD : -a) Noradrenergic systemb) Opioid systemc) Hypothalamic-pituitary-adrenal (HDA) axis* Recently, the role of Hippocampus in PTSD has received increased attention. Animal studies have shown that stress is associated with structural changes in the hippocampus, and studies of combat veterans with PTSD have revealed a lower average volume in the hippocampal region of the brain. Structural changes in the amygadala, an area of the brain associated with fear, have also been demonstrated."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Major life treatening events Stressors for stress disorders* Stress disorders occur after an extreme traumatic events involving the threat of personal death or injury. They can arise from experiences in war, torture, natural catastroph (earthquake, volcano, floods), assault, rape, and serious accidents (e.g., in car) in burning building.* Symptoms of PTSD develop within 6 months of stressor, However 10% patients have delayed onset.Risk factors for Stress disorders1) Vulnerability factors: - Low education, Lower social class, female gender, low self esteem/neurotic traits, previous traumatic events (including childhood trauma), previous self or family history of psychiatric problems (mood/ anxiety disorders).2) Protective factors: - High IQ, higher social class, male gender, psychopathic traits, chance to view body of dead relative / friend.3) Biological factors: - Following systems are hyperactive in PTSD : -a) Noradrenergic systemb) Opioid systemc) Hypothalamic-pituitary-adrenal (HDA) axis* Recently, the role of Hippocampus in PTSD has received increased attention. Animal studies have shown that stress is associated with structural changes in the hippocampus, and studies of combat veterans with PTSD have revealed a lower average volume in the hippocampal region of the brain. Structural changes in the amygadala, an area of the brain associated with fear, have also been demonstrated.",
+    "hint_exp": "🎯 Think of \"due to\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "87e3e6a6-7e30-4a05-baa7-f9bb1113a442": {
-    "cop": 1,
-    "exp": "*Traumatic spine injuries most commonly affect cervical spine (50-60%)followed by dorsolumbar junction. Ref: Clinical Ohopaedics maheswari 9th p.786"
+    "cop": 0,
+    "exp": "*Traumatic spine injuries most commonly affect cervical spine (50-60%)followed by dorsolumbar junction. Ref: Clinical Ohopaedics maheswari 9th p.786",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"trauma of spine\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bf541c7a-d272-4d68-90ca-288371d76979": {
-    "cop": 1,
-    "exp": "."
+    "cop": 0,
+    "exp": ".",
+    "hint_exp": "🧩 Your crush solved \"Minimum dose estrogen combined\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d309d1a8-a5b6-43a2-9d39-1478296a3b2d": {
-    "cop": 3,
-    "exp": "The amount of ORS solution she should give is 50-100 ml ( 1/4 - 1/2 cup) of ORS solution for a child less than 2 years old. 100-200 ml for older children. Reference: GHAI Essential pediatrics, 8th edition"
+    "cop": 2,
+    "exp": "The amount of ORS solution she should give is 50-100 ml ( 1/4 - 1/2 cup) of ORS solution for a child less than 2 years old. 100-200 ml for older children. Reference: GHAI Essential pediatrics, 8th edition",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the kid\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f52b4258-5451-48c8-8c1f-50ad7c93f31c": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"lady with Normal increased\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "66c85368-5da8-418c-b2bb-d1ddcc87cfd7": {
-    "cop": 1,
-    "exp": "Ans. (a) Obstetric complications(Ref: Harrison 18th ed/pg 1390)The most common causes are bacterial sepsis, malignant disorders such as solid tumors or acute promyelocytic leukemia, and obstetric causes. DIC is diagnosed in almost one-half of pregnant women with abruptio placentae, or with amniotic fluid embolism"
+    "cop": 0,
+    "exp": "Ans. (a) Obstetric complications(Ref: Harrison 18th ed/pg 1390)The most common causes are bacterial sepsis, malignant disorders such as solid tumors or acute promyelocytic leukemia, and obstetric causes. DIC is diagnosed in almost one-half of pregnant women with abruptio placentae, or with amniotic fluid embolism",
+    "hint_exp": "🎯 Think of \"of DIC\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "570227f8-fce4-4db9-9c59-52e880e6f8f2": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Post marketing surveillance Summary of clinical tarils Phase Name Conducted on Blinding and control Human pharmacology Healthy volunteers OPEN LABEL and safety (20-100) (No bliniding) lI Therapeutic 100-150 Single blind exploratory Patients (homogenous population) Controlled Therapeutic Upto 5000 patients Double blind confirmatory from several centres Randomized (heterogenous population) Controlled IV Post marketing surveillance Large number of patients being treated by practicing physicians Purpose o To know maximum tolerable dose (MTD). o Safety and tolerability. o To establish therapeutic efficacy. o Dose ranging and ceiling effect. o To confirm therapeutic efficacy. o To establish the value of drug in relation to existing therapy. o To konwn rare and long-term adverse effects. o Special groups like children, pregnancy etc can be tested."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Post marketing surveillance Summary of clinical tarils Phase Name Conducted on Blinding and control Human pharmacology Healthy volunteers OPEN LABEL and safety (20-100) (No bliniding) lI Therapeutic 100-150 Single blind exploratory Patients (homogenous population) Controlled Therapeutic Upto 5000 patients Double blind confirmatory from several centres Randomized (heterogenous population) Controlled IV Post marketing surveillance Large number of patients being treated by practicing physicians Purpose o To know maximum tolerable dose (MTD). o Safety and tolerability. o To establish therapeutic efficacy. o Dose ranging and ceiling effect. o To confirm therapeutic efficacy. o To establish the value of drug in relation to existing therapy. o To konwn rare and long-term adverse effects. o Special groups like children, pregnancy etc can be tested.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Stage clinical trial also\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "866599b2-5462-4de0-b5c2-d6060ac838b2": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Livero There are three accessible sources of adult stem cells in humans :Bone marrow, which requires extraction by harvesting, that is, drilling into bone (typically the femur or iliac crest),Adipose tissue, which requires extraction by liposuction, andBlood, which requires extraction through pheresis, wherein blood is drawn from the donor (similar to a blood donation), passed through a machine that extracts the stem cells and returns other poions of the blood to the donor.Stem cells can also be taken from umbilical cord blood just after bih"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Livero There are three accessible sources of adult stem cells in humans :Bone marrow, which requires extraction by harvesting, that is, drilling into bone (typically the femur or iliac crest),Adipose tissue, which requires extraction by liposuction, andBlood, which requires extraction through pheresis, wherein blood is drawn from the donor (similar to a blood donation), passed through a machine that extracts the stem cells and returns other poions of the blood to the donor.Stem cells can also be taken from umbilical cord blood just after bih",
+    "hint_exp": "🧩 Your crush solved \"Stem cells taken from\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3757d845-e48b-47f1-8970-cc47827826c6": {
-    "cop": 1,
-    "exp": "Oligodendrocytes and Schwann cells are involved in myelin formation around axons in the CNS and peripheral nervous system respectively. Ref: Ganong&;s review of medical physiology; 23rd edition; pg: 80."
+    "cop": 0,
+    "exp": "Oligodendrocytes and Schwann cells are involved in myelin formation around axons in the CNS and peripheral nervous system respectively. Ref: Ganong&;s review of medical physiology; 23rd edition; pg: 80.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"sheath in CNS\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cf6eff8b-4691-4286-9886-d329aed5e8cd": {
-    "cop": 1,
-    "exp": "A i.e. Microglia Gitter or Hoega cell is a lipid laden microglial cello commonly seen at the edge of healing brain infarcts. It phagocytize lipid from necrotic or degenerating brain cells. It is also known as compound granule cell, gitterzelle (lattice or wire-net), mesoglia or pefivesicular glial cell."
+    "cop": 0,
+    "exp": "A i.e. Microglia Gitter or Hoega cell is a lipid laden microglial cello commonly seen at the edge of healing brain infarcts. It phagocytize lipid from necrotic or degenerating brain cells. It is also known as compound granule cell, gitterzelle (lattice or wire-net), mesoglia or pefivesicular glial cell.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Gitter cells\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "67ff1eb6-230b-4ec0-b431-141ae475920a": {
-    "cop": 3,
-    "exp": "C i.e. 1 hour"
+    "cop": 2,
+    "exp": "C i.e. 1 hour",
+    "hint_exp": "🎯 Think of \"Volkmann ischaemia surgery should\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "09a96ea5-619e-47e6-961d-805ddd6c0f4e": {
-    "cop": 1,
-    "exp": "Friends, direct quote from Robbins….’HER2/neu overexpression is associated with poorer survival but its main importance is as a predictor of response to agents that target this transmembrane protein (examples trastuzumab or lapatinib).’\n• The overexpression is due to amplification of the gene HER2/neu located on 17q21. Ackerman writes…. HER2/new encodes a transmembrane glycoprotein with tyrosine kinase activity and its overexpression is a good predictor of response to herceptin (trastuzumab) but not a good predictor of response to chemotherapy or overall survival."
+    "cop": 0,
+    "exp": "Friends, direct quote from Robbins‧.’HER2/neu overexpression is associated with poorer survival but its main importance is as a predictor of response to agents that target this transmembrane protein (examples trastuzumab or lapatinib).’\n• The overexpression is due to amplification of the gene HER2/neu located on 17q21. Ackerman writes‧. HER2/new encodes a transmembrane glycoprotein with tyrosine kinase activity and its overexpression is a good predictor of response to herceptin (trastuzumab) but not a good predictor of response to chemotherapy or overall survival.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"HER2 receptor plays role\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3419ae62-301f-4e2b-bb0c-6004495ba050": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Which among following shouldn\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "221657a0-71b8-4e1d-980b-9f70539e7295": {
-    "cop": 2,
-    "exp": "Pattern of calcification in Breast Diseases Carcinoma - Microcalcification, punctuate, branching Fibroadenoma - Popcorn (coarse, granular, crushed Stone) Fibrocystic disease - powdery Fat necrosis - Curvilinear Ref: Bailey and love 27th edition Pgno :870"
+    "cop": 1,
+    "exp": "Pattern of calcification in Breast Diseases Carcinoma - Microcalcification, punctuate, branching Fibroadenoma - Popcorn (coarse, granular, crushed Stone) Fibrocystic disease - powdery Fat necrosis - Curvilinear Ref: Bailey and love 27th edition Pgno :870",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"on the basis of findings\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fdfbe5ca-1d5b-4492-a126-5beb70d352c6": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Toxin produced by gram positive anaerobic bacillus o Food poisoning due to ingestion of honey is caused by clostridium botulinum. o Clostridium is a gram positive spore forming anaerobic bacilli."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Toxin produced by gram positive anaerobic bacillus o Food poisoning due to ingestion of honey is caused by clostridium botulinum. o Clostridium is a gram positive spore forming anaerobic bacilli.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"baby brought difficulty feeding\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "909db03b-ff60-45ad-8d6f-712d5c830451": {
-    "cop": 3,
-    "exp": "Ans. c. Sporothrix schenkii (Ref: Ananthnarayan 8/e p609; Harrison 19/e p1353 18/e p1664; Journal of Neglected Tropical Diseases: vol 6.6; June 2012: 'Sporotrichosisin sub-himalayan India (PLOS NQeg Trop Dis. 2012 June 6 (6): 1673)Presence of multiple ulcers in the leg, along the lymphatic channels, in a farmer (outdoor worker) from the sub-himalayan region suggests the diagnosis of Sporotrichosis, caused by Sporothrix schenkii.SporotrichosisSporotrichosis is a subacute or chronic granulomatous mycotic infection involving primarily the skin and subcutaneous tissue with neighboring lymphatics.Subcutaneous mycosis, caused by Sporothrix schenkii (dimorphic fungi)Q, colonies are blackish (variation in pigmentation) and shiny but becomes wrinkled and fuzzy with age.Epidemiology: Sporotrichosis is worldwide in distribution, but more common among people living in temperate and subtropical regions with high humidityQ.In India, Sporotrichosis is known to be endemic in the sub-himalayan regionsQ, ranging from Himachal Pradesh in the north-west to Assam and West Bengal in the East.Sporotrichosis most commonly infects persons involved in outdoor activity such as landscaping, gardening, farming, nursery workers and green house workersQ.Sporotrichosis is the most frequently encountered subcutaneous mycosis in the sub-himalayan beltQ.Source of Infection: Acquired from thorn pricksQ of rose, sphagnum moss, etc. into subcutaneous tissue through minor trauma.Clinical features: Most cases occur in upper limbQ, usual site of infection is extremityQ (facial lesion in case of children) A papule or nodule develops at the site of inoculation after days or weeks. The papule or nodule the softens and breaks down forming an indolent ulcer. Sporotrichosis is characterized by an asymptomatic nodule, which over a period of time becomes ulcerated nodules, lesions are usually arranged In 'linear fashion' along the lymphatic drainageQ. Pulmonary Sporotrichosis, extra-cutaneous Sporotrichosis, is usually present as single chronic cavitary upper lobe lesion, portal is probably lung.Diagnosis: Culture (most reliable)Q of pus, joint fluid, sputum or skin biopsy in which septate hyphae carrying flower like cluster of small conidia is seen. In tissues, fungus is seen as 'cigar shaped yeast'Q (yeast cell without mycelia) Sometimes 'Asteroid bodies'Q can be seen which is formed due to antigen-antibody reaction.Treatment:Cutaneous Sporotrichosis: DOC is ItraconazoleQAlternative Potassium IodideQExtra-cutaneous Sporotrichosis: DOC is IV Amphotericin BQAlternative itraconazole"
+    "cop": 2,
+    "exp": "Ans. c. Sporothrix schenkii (Ref: Ananthnarayan 8/e p609; Harrison 19/e p1353 18/e p1664; Journal of Neglected Tropical Diseases: vol 6.6; June 2012: 'Sporotrichosisin sub-himalayan India (PLOS NQeg Trop Dis. 2012 June 6 (6): 1673)Presence of multiple ulcers in the leg, along the lymphatic channels, in a farmer (outdoor worker) from the sub-himalayan region suggests the diagnosis of Sporotrichosis, caused by Sporothrix schenkii.SporotrichosisSporotrichosis is a subacute or chronic granulomatous mycotic infection involving primarily the skin and subcutaneous tissue with neighboring lymphatics.Subcutaneous mycosis, caused by Sporothrix schenkii (dimorphic fungi)Q, colonies are blackish (variation in pigmentation) and shiny but becomes wrinkled and fuzzy with age.Epidemiology: Sporotrichosis is worldwide in distribution, but more common among people living in temperate and subtropical regions with high humidityQ.In India, Sporotrichosis is known to be endemic in the sub-himalayan regionsQ, ranging from Himachal Pradesh in the north-west to Assam and West Bengal in the East.Sporotrichosis most commonly infects persons involved in outdoor activity such as landscaping, gardening, farming, nursery workers and green house workersQ.Sporotrichosis is the most frequently encountered subcutaneous mycosis in the sub-himalayan beltQ.Source of Infection: Acquired from thorn pricksQ of rose, sphagnum moss, etc. into subcutaneous tissue through minor trauma.Clinical features: Most cases occur in upper limbQ, usual site of infection is extremityQ (facial lesion in case of children) A papule or nodule develops at the site of inoculation after days or weeks. The papule or nodule the softens and breaks down forming an indolent ulcer. Sporotrichosis is characterized by an asymptomatic nodule, which over a period of time becomes ulcerated nodules, lesions are usually arranged In 'linear fashion' along the lymphatic drainageQ. Pulmonary Sporotrichosis, extra-cutaneous Sporotrichosis, is usually present as single chronic cavitary upper lobe lesion, portal is probably lung.Diagnosis: Culture (most reliable)Q of pus, joint fluid, sputum or skin biopsy in which septate hyphae carrying flower like cluster of small conidia is seen. In tissues, fungus is seen as 'cigar shaped yeast'Q (yeast cell without mycelia) Sometimes 'Asteroid bodies'Q can be seen which is formed due to antigen-antibody reaction.Treatment:Cutaneous Sporotrichosis: DOC is ItraconazoleQAlternative Potassium IodideQExtra-cutaneous Sporotrichosis: DOC is IV Amphotericin BQAlternative itraconazole",
+    "hint_exp": "🎯 Think of \"former from Himalayan region\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "650d43ba-53c0-47a1-883b-d87053077d0d": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"achieve caries reduction adults\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c7a891dc-aa92-4496-be61-5dae69f748e9": {
-    "cop": 3,
-    "exp": "Knee extension is carried out by L-2, 3 and 4 (Femoral nerve). Injury at the level of L- 5, doesn't affect knee extension. Knee flexion is carried out by the root value: L -5 and S-1 (Tibial nerve). Toe extension requires L-5 (deep peroneal nerve) Ref - BDC 6th e p140 lowerlimb"
+    "cop": 2,
+    "exp": "Knee extension is carried out by L-2, 3 and 4 (Femoral nerve). Injury at the level of L- 5, doesn't affect knee extension. Knee flexion is carried out by the root value: L -5 and S-1 (Tibial nerve). Toe extension requires L-5 (deep peroneal nerve) Ref - BDC 6th e p140 lowerlimb",
+    "hint_exp": "🧩 Your crush solved \"Which following movements will\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

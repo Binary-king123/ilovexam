@@ -1,202 +1,252 @@
 {
   "bed994c8-fc48-4134-9bee-c0fdf590ee1d": {
-    "cop": 2,
-    "exp": "(B) Anti-apoptotic > The two main anti-apoptotic proteins are Bcl-2 and Bcl-x.> These anti-apoptotic proteins normally reside in mitochondrial membranes and the cytoplasm.> When cells are deprived of survival signals or subjected to stress, Bcl-2 and/or Bcl-x are lost from the mitochondrial membrane and are replaced by pro-apoptotic members of the family, such as Bak, Bax, and Bim. When Bcl-2/Bcl-x levels decrease, the permetability of the mitochondrial membrane increases, and several proteins that can activate the caspase cascade leak out."
+    "cop": 1,
+    "exp": "(B) Anti-apoptotic > The two main anti-apoptotic proteins are Bcl-2 and Bcl-x.> These anti-apoptotic proteins normally reside in mitochondrial membranes and the cytoplasm.> When cells are deprived of survival signals or subjected to stress, Bcl-2 and/or Bcl-x are lost from the mitochondrial membrane and are replaced by pro-apoptotic members of the family, such as Bak, Bax, and Bim. When Bcl-2/Bcl-x levels decrease, the permetability of the mitochondrial membrane increases, and several proteins that can activate the caspase cascade leak out.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"this concept\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "514ca6d9-2ff4-420c-a1cc-b5aeef64db6c": {
-    "cop": 3,
-    "exp": "Retromolar pad\nThis is a triangular pad of tissue at the distal end of the ridge:\n\nIts mucosa is composed of thin, nonkeratinized epithelium and submucosa contains loose areolar tissue, some glandular tissue, fibres of the buccinator (buccally), superior constrictor (lingually), pterygomandibular raphe (superoposteriorly) and tendon of the temporalis. This limits the pressure and extension in the pad.\nIt should be covered by the denture as determined by the muscle attachments."
+    "cop": 2,
+    "exp": "Retromolar pad\nThis is a triangular pad of tissue at the distal end of the ridge:\n\nIts mucosa is composed of thin, nonkeratinized epithelium and submucosa contains loose areolar tissue, some glandular tissue, fibres of the buccinator (buccally), superior constrictor (lingually), pterygomandibular raphe (superoposteriorly) and tendon of the temporalis. This limits the pressure and extension in the pad.\nIt should be covered by the denture as determined by the muscle attachments.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Retromolar contains except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "489d268c-e336-4f69-ace4-ca91a4de7c37": {
-    "cop": 2,
-    "exp": "The first meiotic division is known as the reduction division in which each primary spermatocyte yields two secondary spermatoctyes. Each contains 23 (Haploid) chromosomes consist of two varieties 22+X and 22+Y. Here 22 are autosomes and X & Y are sex chromosomes."
+    "cop": 1,
+    "exp": "The first meiotic division is known as the reduction division in which each primary spermatocyte yields two secondary spermatoctyes. Each contains 23 (Haploid) chromosomes consist of two varieties 22+X and 22+Y. Here 22 are autosomes and X & Y are sex chromosomes.",
+    "hint_exp": "🎯 Think of \"During spermatogenesis chromosome reduces\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2fd77986-9bf5-47df-8b28-307bc38b0881": {
-    "cop": 1,
-    "exp": "Ans. Rectum"
+    "cop": 0,
+    "exp": "Ans. Rectum",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"dead body\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9963ead8-f0e6-4d4f-b220-8356eea82b3c": {
-    "cop": 2,
-    "exp": "To answer this question, let's understand the wobbling rules in more detail. The figure below is key to understanding the concept. Wobble position is the 3rd position of the codon on mRNA and the first position of anticodon on tRNA in 5' to 3' direction (see fig below). Bases in the wobble position are wobble bases. Wobble bases can base pair non-Watson Crick base pairing (Watson Crick base pairing is: A only pair with T and G with C). Let's find the wobble base of the tRNA in the question. The first base (5'-3' direction) of the anticodon is Inosine (I). Thus, it is the wobble base of tRNA here. Inosine (I) in the wobble base can base pair with C, A or U but not with G. So codons it can recognize or pair with are GCC, GCA and GCU but not GCG. Hence, the answer is option B."
+    "cop": 1,
+    "exp": "To answer this question, let's understand the wobbling rules in more detail. The figure below is key to understanding the concept. Wobble position is the 3rd position of the codon on mRNA and the first position of anticodon on tRNA in 5' to 3' direction (see fig below). Bases in the wobble position are wobble bases. Wobble bases can base pair non-Watson Crick base pairing (Watson Crick base pairing is: A only pair with T and G with C). Let's find the wobble base of the tRNA in the question. The first base (5'-3' direction) of the anticodon is Inosine (I). Thus, it is the wobble base of tRNA here. Inosine (I) in the wobble base can base pair with C, A or U but not with G. So codons it can recognize or pair with are GCC, GCA and GCU but not GCG. Hence, the answer is option B.",
+    "hint_exp": "🧩 Your crush solved \"Anticodon recognize following codons\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dbe1bba2-e3f8-4946-b149-8b93798e9d8d": {
-    "cop": 1,
-    "exp": "Ans: A (Mass) & D (Molecular weight) \"The most widely used method for determining purity of of a protein is SDS-PAGEfi-sodium dodecyl sulphate(SDS).ln this polypeptide separates based on their relative molecular mass (Mr)\"- Harper 27th/24Methods Used for Protein Separation & AnalysisTechniqueProtein Property ExploitedElectrophoresisQDenaturing gel (SDS-PAGE) QMassQ (Motecular weight)Native gelMass/Charge2 D gelsMolecular weight & plIEF(Isoelctric focussing)plflsoelctric point)Chromatography Methods(r)Ion- ExchangeChargeQGel FiltrationSizeQ or Molecular weightQAffinityBiological activityReversed phaseHydrophobicityHydrophobic InteractionHvdrophobicityChromatofocussingPlBulk MethodsQCentrifugationMassQ/DensityFiltrationSizeQAmmonium sulphateSolubility"
+    "cop": 0,
+    "exp": "Ans: A (Mass) & D (Molecular weight) \"The most widely used method for determining purity of of a protein is SDS-PAGEfi-sodium dodecyl sulphate(SDS).ln this polypeptide separates based on their relative molecular mass (Mr)\"- Harper 27th/24Methods Used for Protein Separation & AnalysisTechniqueProtein Property ExploitedElectrophoresisQDenaturing gel (SDS-PAGE) QMassQ (Motecular weight)Native gelMass/Charge2 D gelsMolecular weight & plIEF(Isoelctric focussing)plflsoelctric point)Chromatography Methods(r)Ion- ExchangeChargeQGel FiltrationSizeQ or Molecular weightQAffinityBiological activityReversed phaseHydrophobicityHydrophobic InteractionHvdrophobicityChromatofocussingPlBulk MethodsQCentrifugationMassQ/DensityFiltrationSizeQAmmonium sulphateSolubility",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"PAGE Sodium Dodecyl Sulfate\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9326a23d-8e3b-476f-b0b8-ad717b676b47": {
-    "cop": 1,
-    "exp": "EPI launched by WHO includes immunisation against diphtheria, peussis, tetanus, polio, tuberculosis and measles.UIP in India contains 2 vital components. 1. Immunisation of pregnant women against tetanus. 2. Immunisation of children in their first age of life against the 6 EPI target disease. Children with measles may develop acute deficiency of vitamin A.,which may lead to keratomalacia and blindness from corneal scarring. So measles vaccine is given . Reference; Park&;s Textbook of preventive and social medicine, 24th edition.Pg no. 158,461"
+    "cop": 0,
+    "exp": "EPI launched by WHO includes immunisation against diphtheria, peussis, tetanus, polio, tuberculosis and measles.UIP in India contains 2 vital components. 1. Immunisation of pregnant women against tetanus. 2. Immunisation of children in their first age of life against the 6 EPI target disease. Children with measles may develop acute deficiency of vitamin A.,which may lead to keratomalacia and blindness from corneal scarring. So measles vaccine is given . Reference; Park&;s Textbook of preventive and social medicine, 24th edition.Pg no. 158,461",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"blindness prevented administration\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "501f5eab-1c55-4cd8-bfb4-7462bbab9419": {
-    "cop": 4,
-    "exp": "Ans. is 'd i.e., Improving health care delivery"
+    "cop": 3,
+    "exp": "Ans. is 'd i.e., Improving health care delivery",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0335436e-41c6-4cb2-a534-789b181de793": {
-    "cop": 3,
-    "exp": "C i.e. Pemphigus vulgaris"
+    "cop": 2,
+    "exp": "C i.e. Pemphigus vulgaris",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"years middle aged female\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "eb20f579-fd18-4772-8afd-ad241f3ec480": {
-    "cop": 3,
-    "exp": "By 18 months the child is able to scribble and make a tower of 3 blocks and by 2 yrs he is able to make tower of 6 months Mnemonic 2 yr is 24 months during which child makes tower of 2 +4 blocks that is 6 blocks 3 yr is 36 months during which child makes tower of 3 + 6 blocks that is 9 blocks Ref : OP GHAI - ESSENTIAL PEDIATRICS - 8 TH edition page no 50"
+    "cop": 2,
+    "exp": "By 18 months the child is able to scribble and make a tower of 3 blocks and by 2 yrs he is able to make tower of 6 months Mnemonic 2 yr is 24 months during which child makes tower of 2 +4 blocks that is 6 blocks 3 yr is 36 months during which child makes tower of 3 + 6 blocks that is 9 blocks Ref : OP GHAI - ESSENTIAL PEDIATRICS - 8 TH edition page no 50",
+    "hint_exp": "🧩 Your crush solved \"developmental age\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e383a049-9e74-48d0-8d38-ce0559e7bb15": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., DVT EMBOLISM o Embolism may be defined as movement of a detached intravascular solid, liquid or gaseous mass by the blood to a site distant from its origin. o More than 95% of emboli are thromboemboli, i.e., emboli representing dislodged thrombus. Thrombembolism In thromboembolism, the thrombus is completely or paially detached from the site of thrombus. The blood flow will then carry the embolus to various pa of vascular tree and the clinical outcome depends whether the emboli is originating in venous system or aerial system. Venous emboli o Most commonly venous embolism (pulmonary embolism) arises from DVT of lower limb. o Emboli originating from venous thrombi, i.e., venous embolism is usually lodged in pulmonary circulation Pulmonary embolism. Emboli from systemic vein ---> SVC & IVC --> Rt atrium --> Rt ventricle --> Pulmonary circulation Aerial emboli o Most systemic emboli arises from cardiac mural thrombi due to MI of Lt. ventricle. Systemic (Aerial) emboli are lodged mostly in aeries of lower limbs (75%) and brain (10%). Lt ventricle --> Aoa --> System aeries (lower limb, brain). Paradoxical emboli (Crossed embolism) Embolus takes origin from thrombus of vein, but may pass through ASD or VSD to gain access to the systemic circilation i.e., embolus from the vein crosses to the aerial blood system. Other less common type of embolism are : ? o Fat embolism o Amniotic fluid embolism o Septic embolism o Air embolism o Foreign body ambolism"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., DVT EMBOLISM o Embolism may be defined as movement of a detached intravascular solid, liquid or gaseous mass by the blood to a site distant from its origin. o More than 95% of emboli are thromboemboli, i.e., emboli representing dislodged thrombus. Thrombembolism In thromboembolism, the thrombus is completely or paially detached from the site of thrombus. The blood flow will then carry the embolus to various pa of vascular tree and the clinical outcome depends whether the emboli is originating in venous system or aerial system. Venous emboli o Most commonly venous embolism (pulmonary embolism) arises from DVT of lower limb. o Emboli originating from venous thrombi, i.e., venous embolism is usually lodged in pulmonary circulation Pulmonary embolism. Emboli from systemic vein ---> SVC & IVC --> Rt atrium --> Rt ventricle --> Pulmonary circulation Aerial emboli o Most systemic emboli arises from cardiac mural thrombi due to MI of Lt. ventricle. Systemic (Aerial) emboli are lodged mostly in aeries of lower limbs (75%) and brain (10%). Lt ventricle --> Aoa --> System aeries (lower limb, brain). Paradoxical emboli (Crossed embolism) Embolus takes origin from thrombus of vein, but may pass through ASD or VSD to gain access to the systemic circilation i.e., embolus from the vein crosses to the aerial blood system. Other less common type of embolism are : ? o Fat embolism o Amniotic fluid embolism o Septic embolism o Air embolism o Foreign body ambolism",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"most common source embolism\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8a7e83b0-3067-4526-8c7f-4748b899548a": {
-    "cop": 1,
-    "exp": "In exposed positions the former sign may be elicited by directly grasping the segments of the bone and moving either upon the other; in other cases (fracture of the surgical neck of the humerus) the surgeon must be satisfied with determining that the motions (rotation) of one fragment (the shaft) are not imparted to the other, as indicated by the immobility of one of its bony points (the greater tuberosity) Again, abnormal mobility near a joint may simulate abnormal mobility of the joint itself, and special care be necessary to differentiate between fracture and dislocation. is the grating sensation heard or felt when the two rough bone ends rub against each other?\nThe intervention of soft parts between the bone ends, of course, prevents crepitus, which may, on the other hand, be simulated by the crackling of coagulated blood, by roughened joint-surfaces, by tenosynovitis, and by emphysema.\nFinally, be it espe cially noted that although abnormal mo bility and crepitus are pathognomonic, they are often by no means necessary to the diagnosis of fracture, and the manip ulations which they require may be not only extremely painful, but also, by pro ducing further lacerations of the soft parts, positively harmful to the patient."
+    "cop": 0,
+    "exp": "In exposed positions the former sign may be elicited by directly grasping the segments of the bone and moving either upon the other; in other cases (fracture of the surgical neck of the humerus) the surgeon must be satisfied with determining that the motions (rotation) of one fragment (the shaft) are not imparted to the other, as indicated by the immobility of one of its bony points (the greater tuberosity) Again, abnormal mobility near a joint may simulate abnormal mobility of the joint itself, and special care be necessary to differentiate between fracture and dislocation. is the grating sensation heard or felt when the two rough bone ends rub against each other?\nThe intervention of soft parts between the bone ends, of course, prevents crepitus, which may, on the other hand, be simulated by the crackling of coagulated blood, by roughened joint-surfaces, by tenosynovitis, and by emphysema.\nFinally, be it espe cially noted that although abnormal mo bility and crepitus are pathognomonic, they are often by no means necessary to the diagnosis of fracture, and the manip ulations which they require may be not only extremely painful, but also, by pro ducing further lacerations of the soft parts, positively harmful to the patient.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"a fracture\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5defc93f-b188-47cc-a6e1-3862e8bb0613": {
-    "cop": 4,
-    "exp": "Ans. (d) Vitamin A deficiency style=\"font-size: 1.04761904761905em; font-family: Times New Roman, Times, serif\">Ref: * Major etiological factor: HPV-16 and Tobacco exposure.* 75% of head and neck cancers are caused by tobacco and alcohol use.* HPV type 16: risk factor for oropharyngeal cancers that involve the tonsils or the base of the tongue.* Paan (betel quid): most common risk factors among south Asian.* EBV is a risk factor for nasopharyngeal and salivary glands cancer.* Preserved or salted foods: Salted foods during childhood are a risk factor for nasopharyngeal cancer.* Vitamin D deficiency is a risk factor for head and neck squamous cell carcinoma (HNSCC)."
+    "cop": 3,
+    "exp": "Ans. (d) Vitamin A deficiency style=\"font-size: 1.04761904761905em; font-family: Times New Roman, Times, serif\">Ref: * Major etiological factor: HPV-16 and Tobacco exposure.* 75% of head and neck cancers are caused by tobacco and alcohol use.* HPV type 16: risk factor for oropharyngeal cancers that involve the tonsils or the base of the tongue.* Paan (betel quid): most common risk factors among south Asian.* EBV is a risk factor for nasopharyngeal and salivary glands cancer.* Preserved or salted foods: Salted foods during childhood are a risk factor for nasopharyngeal cancer.* Vitamin D deficiency is a risk factor for head and neck squamous cell carcinoma (HNSCC).",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8f3ee039-652b-489c-80fe-26f9d292b8ab": {
-    "cop": 1,
-    "exp": "Cafe lau ait spots are classically seen in neurofibromatosis :Cafe au lait spots, or cafe au lait macules, are flat, pigmented bihmarks.The name cafe au lait is French for \"coffee with milk\" and refers to their light-brown color. They are also called \"giraffe spots,\" or \"coast of Maine spots,\" which refers to their jagged borders They are caused by a collection of pigment-producing melanocytes in the epidermis of the skin. These spots are typically permanent and may grow or increase in number over time. Cafe au lait spots are often harmless but may be associated with syndromes such as neurofibromatosis type 1 and McCune-Albright syndrome Cafe au lait spots can arise from diverse and unrelated causes: Having six or more cafe au lait spots greater than 5 mm in diameter before pubey, or greater than 15 mm in diameter after pubey, is diagnostic feature of neurofibromatosis type I, but other features are required to diagnose NF-1. Familial multiple cafe au lait spots have been observed without NF-1 diagnosis. They can be caused by vitiligo in the rare McCune-Albright syndrome. Legius syndrome Fanconi anemia Idiopathic Ataxia-telangiectasia Basal cell nevus syndrome Benign congenital skin lesion Bloom syndrome Chediak-Higashi syndrome Congenital naevus Gaucher disease Hunter syndrome Jaffe-Campanacci syndrome Maffucci syndrome Multiple mucosal neuroma syndrome Noonan syndrome Silver-Russell syndrome Watson syndrome Tuberous Sclerosis Wiskott-Aldrich syndrome Ref Harrison 20th edition pg 1234"
+    "cop": 0,
+    "exp": "Cafe lau ait spots are classically seen in neurofibromatosis :Cafe au lait spots, or cafe au lait macules, are flat, pigmented bihmarks.The name cafe au lait is French for \"coffee with milk\" and refers to their light-brown color. They are also called \"giraffe spots,\" or \"coast of Maine spots,\" which refers to their jagged borders They are caused by a collection of pigment-producing melanocytes in the epidermis of the skin. These spots are typically permanent and may grow or increase in number over time. Cafe au lait spots are often harmless but may be associated with syndromes such as neurofibromatosis type 1 and McCune-Albright syndrome Cafe au lait spots can arise from diverse and unrelated causes: Having six or more cafe au lait spots greater than 5 mm in diameter before pubey, or greater than 15 mm in diameter after pubey, is diagnostic feature of neurofibromatosis type I, but other features are required to diagnose NF-1. Familial multiple cafe au lait spots have been observed without NF-1 diagnosis. They can be caused by vitiligo in the rare McCune-Albright syndrome. Legius syndrome Fanconi anemia Idiopathic Ataxia-telangiectasia Basal cell nevus syndrome Benign congenital skin lesion Bloom syndrome Chediak-Higashi syndrome Congenital naevus Gaucher disease Hunter syndrome Jaffe-Campanacci syndrome Maffucci syndrome Multiple mucosal neuroma syndrome Noonan syndrome Silver-Russell syndrome Watson syndrome Tuberous Sclerosis Wiskott-Aldrich syndrome Ref Harrison 20th edition pg 1234",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b3658352-35f1-481a-b55f-8e99e0634a25": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"lysosome\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "70f2aa15-4815-4954-90a7-21529e6d1337": {
-    "cop": 2,
-    "exp": "Primary upper limb deep vein thrombosis is Paget Schroetter syndrome is due to subclavian vein compression that occurs in thoracic outlet syndrome."
+    "cop": 1,
+    "exp": "Primary upper limb deep vein thrombosis is Paget Schroetter syndrome is due to subclavian vein compression that occurs in thoracic outlet syndrome.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Paget Schroetter syndrome\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0f649d5b-0938-4846-a39e-99ae34181cae": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following condition treated\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fa688701-8563-41e5-ba60-73afb7a04705": {
-    "cop": 1,
-    "exp": "The insecticide used to control sandflies is a single application of 1 to 2 gm/sq.meter of DDT or 0.25g/sq.meter is found to be effective DDT residue may remain effective for a period of 1-2 years and lindane only for 3 months. Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg 845"
+    "cop": 0,
+    "exp": "The insecticide used to control sandflies is a single application of 1 to 2 gm/sq.meter of DDT or 0.25g/sq.meter is found to be effective DDT residue may remain effective for a period of 1-2 years and lindane only for 3 months. Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg 845",
+    "hint_exp": "🎯 Think of \"choice for sandfly\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9f550b53-a9d6-4845-b0c0-4608fb38b685": {
-    "cop": 2,
-    "exp": "DOC for syphilis is benzathine penicillin. The causative agent for syphilis is Treponema pallidum. Transplacental transmission is the most common route Newborn may have jaundice petechiae or purpuric skin lesions, lymphadenopathy, rhinitis, pneumonia, myocarditis, nephrosis, or long-bone involvement. Treatment: Benzathine penicillin G, 2.4 million units I.M. as a single injection--some recommend a second dose 1 week later"
+    "cop": 1,
+    "exp": "DOC for syphilis is benzathine penicillin. The causative agent for syphilis is Treponema pallidum. Transplacental transmission is the most common route Newborn may have jaundice petechiae or purpuric skin lesions, lymphadenopathy, rhinitis, pneumonia, myocarditis, nephrosis, or long-bone involvement. Treatment: Benzathine penicillin G, 2.4 million units I.M. as a single injection--some recommend a second dose 1 week later",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"choice for treatment\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7f0254fe-5f12-4bbf-bd2f-8b94cdbc34be": {
-    "cop": 1,
-    "exp": "Ohngren's classification: This is done using an imaginary line between medial canthus to the angle of mandible. Growth above this line have poor prognosis"
+    "cop": 0,
+    "exp": "Ohngren's classification: This is done using an imaginary line between medial canthus to the angle of mandible. Growth above this line have poor prognosis",
+    "hint_exp": "🧩 Your crush solved \"used for\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7ee6add9-b943-4739-b95a-c67107cb5b55": {
-    "cop": 2,
-    "exp": "The peripheral chemoreceptors which regulate respiration are located in the carotid body and aortic bodies. These bodies are located in the connective tissue associated with the vessel wall, at the bifurcation of the common carotid, and on the arch of aorta, respectively. The characteristic cells of both these structures are called glomus cells. Type I glomus cells have a high dopamine content, which they possibly employ as a neurotransmetter. Peripheral chemoreceptors convey information to the DRG of neurons in medulla, for which purpose the afferent neurons from the carotid bodies pass through glossopharyngeal nerve and from the aortic bodies pass through vagus nerve.\nThe most potent natural stimulus for peripheral chemoreceptors is low arterial PO2 (hypoxic hypoxia). The other stimuli which activate peripheral chemoreceptors are high arterial PCO2, and an increase in arterial hydrogen ion concentration (acidosis or low pH). The response to activation of peripheral chemoreceptors is an increase in pulmonary ventilation through an increase in the rate and depth of breathing."
+    "cop": 1,
+    "exp": "The peripheral chemoreceptors which regulate respiration are located in the carotid body and aortic bodies. These bodies are located in the connective tissue associated with the vessel wall, at the bifurcation of the common carotid, and on the arch of aorta, respectively. The characteristic cells of both these structures are called glomus cells. Type I glomus cells have a high dopamine content, which they possibly employ as a neurotransmetter. Peripheral chemoreceptors convey information to the DRG of neurons in medulla, for which purpose the afferent neurons from the carotid bodies pass through glossopharyngeal nerve and from the aortic bodies pass through vagus nerve.\nThe most potent natural stimulus for peripheral chemoreceptors is low arterial PO2 (hypoxic hypoxia). The other stimuli which activate peripheral chemoreceptors are high arterial PCO2, and an increase in arterial hydrogen ion concentration (acidosis or low pH). The response to activation of peripheral chemoreceptors is an increase in pulmonary ventilation through an increase in the rate and depth of breathing.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"True about peripheral chemoreceptors\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "da688a75-199c-4060-8e05-2175e1c89a8f": {
-    "cop": 3,
-    "exp": "Clinical Features\n\nHyperthyroid symptoms (heat intolerance, increased sweating and thirst, weight loss despite adequate caloric intake)\nSymptoms of adrenergic stimulation (palpitations, nervousness, fatigue, emotional liability, hyperkinesis and tremors)\nMost common GI symptom is increased frequency of bowel movements and diarrhea.\n\t\nFemale patients often develop amenorrhea, decreased fertility and increased incidence of miscarriage.\nChildren experience rapid growth with early bone maturation.\nOlder patients present with CVS complications (AF and CHF).\nOvert cardiac failure occurs in only 6-19%, increases with age\n\n\nWeight loss, facial flushing, warm and moist skin, tachycardia, cutaneous vasodilatation, collapsing pulse is seen on examination.\nA fine tremor, muscle wasting and proximal muscle group weakness with hyperactive tendon reflexes often are present.\n\t\nOverlying bruit or thrill at upper pole due to increased vascularity.\nLoud venous hum in supraclavicular space.\nOphthalmopathy (orbital proptosis) occurs in 50%, dermopathy in 1-2%.\nDermopathy is characterized by deposition of glycosaminoglycans, leading to thickened skin in pretibial region and dorsum of foot (pretibial myxedema)"
+    "cop": 2,
+    "exp": "Clinical Features\n\nHyperthyroid symptoms (heat intolerance, increased sweating and thirst, weight loss despite adequate caloric intake)\nSymptoms of adrenergic stimulation (palpitations, nervousness, fatigue, emotional liability, hyperkinesis and tremors)\nMost common GI symptom is increased frequency of bowel movements and diarrhea.\n\t\nFemale patients often develop amenorrhea, decreased fertility and increased incidence of miscarriage.\nChildren experience rapid growth with early bone maturation.\nOlder patients present with CVS complications (AF and CHF).\nOvert cardiac failure occurs in only 6-19%, increases with age\n\n\nWeight loss, facial flushing, warm and moist skin, tachycardia, cutaneous vasodilatation, collapsing pulse is seen on examination.\nA fine tremor, muscle wasting and proximal muscle group weakness with hyperactive tendon reflexes often are present.\n\t\nOverlying bruit or thrill at upper pole due to increased vascularity.\nLoud venous hum in supraclavicular space.\nOphthalmopathy (orbital proptosis) occurs in 50%, dermopathy in 1-2%.\nDermopathy is characterized by deposition of glycosaminoglycans, leading to thickened skin in pretibial region and dorsum of foot (pretibial myxedema)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Grave disease true except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9a3b4502-58e3-4c03-9600-b439722d02af": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following projection\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "264196d5-87c0-412d-8a71-b4b8ef5f194e": {
-    "cop": 4,
-    "exp": "Ans. is d i.e., All the above Tests for Eustachian tube patency Valsalva test Methylene blue test Sonotubometry Politzer test Toynbee test Frenzel maneuver Catheterization Inflation - Deflation test"
+    "cop": 3,
+    "exp": "Ans. is d i.e., All the above Tests for Eustachian tube patency Valsalva test Methylene blue test Sonotubometry Politzer test Toynbee test Frenzel maneuver Catheterization Inflation - Deflation test",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Eustachian tube patency seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6de47633-7987-4af3-a025-15bd9ffee34f": {
-    "cop": 1,
-    "exp": "In this condition phenylalanine can&;t be conveed to tyrosine, so phenylalanine accumulates and it&;s level in blood is elevated.Ref: DM Vasudevan - Textbook of Biochemistry, 7th edition, page no: 236, fig 18.1"
+    "cop": 0,
+    "exp": "In this condition phenylalanine can&;t be conveed to tyrosine, so phenylalanine accumulates and it&;s level in blood is elevated.Ref: DM Vasudevan - Textbook of Biochemistry, 7th edition, page no: 236, fig 18.1",
+    "hint_exp": "🧩 Your crush solved \"phenylketonuria\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "51945f8c-c646-408b-aabe-cdb4aa389bae": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"seen in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6912f471-7373-46a4-bb06-2e94fcd2301b": {
-    "cop": 4,
-    "exp": "Maceration is aseptic autolysis."
+    "cop": 3,
+    "exp": "Maceration is aseptic autolysis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Aseptic autolysis found\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d9c5f44a-f183-4fd8-a977-f8e2a0f521bb": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Fatty acid oxidationVery sho chain, sho chain, medium chain and long chain fatty acids get oxidized in mitochondria,Very sho chain, sho chain and medium chain fatty acids can cross inner mitochondrial membrane by passive diffusion,Long chain fatty acids cannot cross the inner mitochondrial membrane. Hence they need a carrier. The carrier is carnitine.Carnitine is p hydroxy y N trimethylaminobutyric acid. It is synthesized from lysine."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Fatty acid oxidationVery sho chain, sho chain, medium chain and long chain fatty acids get oxidized in mitochondria,Very sho chain, sho chain and medium chain fatty acids can cross inner mitochondrial membrane by passive diffusion,Long chain fatty acids cannot cross the inner mitochondrial membrane. Hence they need a carrier. The carrier is carnitine.Carnitine is p hydroxy y N trimethylaminobutyric acid. It is synthesized from lysine.",
+    "hint_exp": "🎯 Think of \"involved in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1adfd4f1-b7bd-4d8c-ba21-e10c3ed9a37a": {
-    "cop": 1,
-    "exp": "Ans. a. Veical transmission is more impoant than horizontal \"According to American journal of gastroenterology, the most common mode of transmission of hepatitis B in the world is horizontal transmission Hepatitis B Virus The mode of transmission of HBV depends upon the prevalence of hepatitis B in the region. Only serum, saliva and semen is truly infectiousQ Children usually acquire infection indirectlyQ, through parenteral route from hepatitis B virus contaminated blood transfusiondeg. Adolescent boys and girls may acquire the virus through sexual contact with an infected paner. HBsAg positive mothers may infect their fetus in third trimester or during early post-paum period. Only 5-10% are infected in utero, rest at the time of deliveryQ. Association of HBeAg in maternal blood is correlated with a high transmission rateQ. HBV Transmission In Endemic areas In areas with Low Prevalence Veical transmissionQ Transmission is generally horizontal(percutaneous, sexualQ) Most individuals are infected perinatallyby veical transmission Prognosis: Most acute infections in hepatitis B produce no symptoms and clears spontaneouslyQ. Only few individuals develop chronic disease or some serious complicationsQ The rate of progression to chronic infection, cirrhosis or HCC depends upon several factors, most impoant of which is age at the time of infection and immune status at the time of infectionQ"
+    "cop": 0,
+    "exp": "Ans. a. Veical transmission is more impoant than horizontal \"According to American journal of gastroenterology, the most common mode of transmission of hepatitis B in the world is horizontal transmission Hepatitis B Virus The mode of transmission of HBV depends upon the prevalence of hepatitis B in the region. Only serum, saliva and semen is truly infectiousQ Children usually acquire infection indirectlyQ, through parenteral route from hepatitis B virus contaminated blood transfusiondeg. Adolescent boys and girls may acquire the virus through sexual contact with an infected paner. HBsAg positive mothers may infect their fetus in third trimester or during early post-paum period. Only 5-10% are infected in utero, rest at the time of deliveryQ. Association of HBeAg in maternal blood is correlated with a high transmission rateQ. HBV Transmission In Endemic areas In areas with Low Prevalence Veical transmissionQ Transmission is generally horizontal(percutaneous, sexualQ) Most individuals are infected perinatallyby veical transmission Prognosis: Most acute infections in hepatitis B produce no symptoms and clears spontaneouslyQ. Only few individuals develop chronic disease or some serious complicationsQ The rate of progression to chronic infection, cirrhosis or HCC depends upon several factors, most impoant of which is age at the time of infection and immune status at the time of infectionQ",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"except true hepatitis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a3387c80-4325-43af-8455-5824132f35cd": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., All of the above Repeatability (reliability)o Repeatability means, the test must give consistent results when it is repeated more than once on the same individual under same conditions.o That means the results of test are precise I exact!. So repeatability is some time called precision, reliability or reproducibility."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., All of the above Repeatability (reliability)o Repeatability means, the test must give consistent results when it is repeated more than once on the same individual under same conditions.o That means the results of test are precise I exact!. So repeatability is some time called precision, reliability or reproducibility.",
+    "hint_exp": "🧩 Your crush solved \"Repeatability test refers\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8f7dff21-8dc0-491e-be45-eb74010227d1": {
-    "cop": 2,
-    "exp": "If mild to moderate bone loss is present, change in crown:root ratio can make the tooth suitable as an overdenture abutment."
+    "cop": 1,
+    "exp": "If mild to moderate bone loss is present, change in crown:root ratio can make the tooth suitable as an overdenture abutment.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f64f7852-0a35-4a55-81c9-5746892d452e": {
-    "cop": 4,
-    "exp": "Pure absence seizures consist of the sudden cessation of ongoing conscious activity without convulsive muscular activity or loss of postural control. They can be so brief as to be inapparent but can last several minutes. There is usually no period of postictal confusion."
+    "cop": 3,
+    "exp": "Pure absence seizures consist of the sudden cessation of ongoing conscious activity without convulsive muscular activity or loss of postural control. They can be so brief as to be inapparent but can last several minutes. There is usually no period of postictal confusion.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"teenager long history daydreaming\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "641cac46-141d-43a1-bc89-bcd7d18aa8c0": {
-    "cop": 2,
-    "exp": "Ximelgatran is an oral direct thrombin inhibitor. All the other given drugs are parenterally acting direct thrombin inhibitor. From medical pharmacology padmaja 4th edition Page no 334"
+    "cop": 1,
+    "exp": "Ximelgatran is an oral direct thrombin inhibitor. All the other given drugs are parenterally acting direct thrombin inhibitor. From medical pharmacology padmaja 4th edition Page no 334",
+    "hint_exp": "🎯 Think of \"inhibitor\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "83a37990-584d-486f-907c-f333e5810435": {
-    "cop": 3,
-    "exp": "Ans. (c) Inner ear to subarachnoid space"
+    "cop": 2,
+    "exp": "Ans. (c) Inner ear to subarachnoid space",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Cochlear aqueduct connects\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "461da608-523d-4096-87ca-52180ac08f9d": {
-    "cop": 2,
-    "exp": "Urethral stricture will not occur after PCNL surgery Complications relating to PCNL include: Injury to the spleen, pleura and colon. Haemorrhage Sepsis. Extravasation due to rupture of the collecting system. Retained stone fragments. Open surgery to the kidney is sometimes more complicated after PCNL. Indications of PCNL Size of stone 2cm Distal obstruction UTI * Hard Stone (BHC-2) Lower calyceal stone"
+    "cop": 1,
+    "exp": "Urethral stricture will not occur after PCNL surgery Complications relating to PCNL include: Injury to the spleen, pleura and colon. Haemorrhage Sepsis. Extravasation due to rupture of the collecting system. Retained stone fragments. Open surgery to the kidney is sometimes more complicated after PCNL. Indications of PCNL Size of stone 2cm Distal obstruction UTI * Hard Stone (BHC-2) Lower calyceal stone",
+    "hint_exp": "🧩 Your crush solved \"complication which will occur\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "81932d24-5e78-48e3-b326-baa79822dfb9": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Promethazine Promethazine is an antihistaminic antiemetic."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Promethazine Promethazine is an antihistaminic antiemetic.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Antiemetic acting receptors\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "af5cd534-6b51-49a1-a227-c5c9fe99a446": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Pregnancy associated pustular psoriasis * Treatment of choice for generalized pustular psoriasis of pregnancy (impetigo herpatiformis) is systemic steroids.* Systemic corticosteroids may prolong generalized pustular psoriasis and erythrodermic psoriasis (erythroderma) and abrupt withdrawal of corticosteroids can precipitate both theseSystemic corticosteroids in psoriasis* The place of systemic corticosteroids therapy in the management of psoriasis is limited not only by their well known side effect profile, but also by the risk of rebound flaring of psoriasis which may result in life threatening erythroderma or generalized pustular psoriasis. It is therefore generally recommended that systemic corticosteroids should only be used for treating psoriasis in the following circumstances: -1. Generalized pustular psoriasis of pregnancy/erythroderma (only definitive indication2. Persistent, otherwise uncontrolled, erythrodermic psoriasis causing metabolic complications.3. Generalized pustular psoriasis if other drugs are contraindicated or ineffective.4. Severe psoriatic polyarthritis threatening severe irreversible joint damage (not in mild or moderate arthritis).5. If systemic steroids is to be employed long term in the management of psoriasis, deflazacort rather than prednisolone should be used. They must be withdrawn slowly to minimize risk of rebound."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Pregnancy associated pustular psoriasis * Treatment of choice for generalized pustular psoriasis of pregnancy (impetigo herpatiformis) is systemic steroids.* Systemic corticosteroids may prolong generalized pustular psoriasis and erythrodermic psoriasis (erythroderma) and abrupt withdrawal of corticosteroids can precipitate both theseSystemic corticosteroids in psoriasis* The place of systemic corticosteroids therapy in the management of psoriasis is limited not only by their well known side effect profile, but also by the risk of rebound flaring of psoriasis which may result in life threatening erythroderma or generalized pustular psoriasis. It is therefore generally recommended that systemic corticosteroids should only be used for treating psoriasis in the following circumstances: -1. Generalized pustular psoriasis of pregnancy/erythroderma (only definitive indication2. Persistent, otherwise uncontrolled, erythrodermic psoriasis causing metabolic complications.3. Generalized pustular psoriasis if other drugs are contraindicated or ineffective.4. Severe psoriatic polyarthritis threatening severe irreversible joint damage (not in mild or moderate arthritis).5. If systemic steroids is to be employed long term in the management of psoriasis, deflazacort rather than prednisolone should be used. They must be withdrawn slowly to minimize risk of rebound.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"systemic steroids in psoriasis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "63ac7b47-50b9-42ab-9b98-e52a895f4108": {
-    "cop": 2,
-    "exp": "Ans b (Commonly presents with Hemarthrosis& hematoma )Ref: Harrison, 18th ed. pg. 460* Haemarthroses and spontaneous muscle haematomas are characteristic factor VIII or IX deficiency (moderate to severe).* They are also seen in deficiencies of fibrinogen, prothrombin and factors V, VII, X. It rarely occurs in bleeding disorders (exception is VWD)* Mucosal bleeding as well as superficial bleeding occurs in underlying platelet disorder or VWD. (disorders of primary haemostasis)More points:* Posttraumatic bleeding + joint hyperextensibility oEhler-Danlos syndrome* Epistaxis is the most common symptom in HHT (hereditary hemorrhagic telengectasia) and boys with VWD.* Bleeding with eruption of primary teeth is a common symptom in children with moderate to severe haemophilia.* VWD type 2 &3 are associated with angiodysplasia of bowel & GI bleeding.* In joint bleeds pain, swelling & loss of function are usual but discoloration from bruising around the joint is rarely a symptom."
+    "cop": 1,
+    "exp": "Ans b (Commonly presents with Hemarthrosis& hematoma )Ref: Harrison, 18th ed. pg. 460* Haemarthroses and spontaneous muscle haematomas are characteristic factor VIII or IX deficiency (moderate to severe).* They are also seen in deficiencies of fibrinogen, prothrombin and factors V, VII, X. It rarely occurs in bleeding disorders (exception is VWD)* Mucosal bleeding as well as superficial bleeding occurs in underlying platelet disorder or VWD. (disorders of primary haemostasis)More points:* Posttraumatic bleeding + joint hyperextensibility oEhler-Danlos syndrome* Epistaxis is the most common symptom in HHT (hereditary hemorrhagic telengectasia) and boys with VWD.* Bleeding with eruption of primary teeth is a common symptom in children with moderate to severe haemophilia.* VWD type 2 &3 are associated with angiodysplasia of bowel & GI bleeding.* In joint bleeds pain, swelling & loss of function are usual but discoloration from bruising around the joint is rarely a symptom.",
+    "hint_exp": "🎯 Think of \"Bleeding platelet defect characterized\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0882788c-fc16-48d7-b4f1-36519ea28c12": {
-    "cop": 3,
-    "exp": "Dermatitis herpetiformis can accompany the celiac disease. The IgA or IgG antibodies formed against the gliadin protein in gluten that is ingested (commonly in wheat, rye, and barley grains) cross-react with reticulin. Reticulin is a component of the anchoring fibrils that attach the epidermal basement membrane to the superficial dermis. This explains the localization of the IgA to the tips of dermal papillae and the site of inflammation. A gluten-free diet may relieve the symptoms. Bullous pemphigoid can occur in older individuals, with an antibody directed at keratinocytes to produce flaccid bullae, but there is no association with celiac disease. Contact dermatitis is most likely to be seen on the hands and forearms. It is a type IV hypersensitivity reaction without immunoglobulin deposition and would not persist for 1 month. Discoid lupus erythematosus is seen in sun-exposed areas and has the appearance of an erythematous rash. Erythema multiforme is a hypersensitivity response to infections and drugs; it produces macules and papules with a red or vesicular center, but it is probably mediated by cytotoxic lymphocytes and not by immunoglobulin deposition. Pemphigus vulgaris is an autoimmune disease in which IgG deposited in acantholytic areas forms vesicles that rupture to form erosions; it is not related to celiac disease."
+    "cop": 2,
+    "exp": "Dermatitis herpetiformis can accompany the celiac disease. The IgA or IgG antibodies formed against the gliadin protein in gluten that is ingested (commonly in wheat, rye, and barley grains) cross-react with reticulin. Reticulin is a component of the anchoring fibrils that attach the epidermal basement membrane to the superficial dermis. This explains the localization of the IgA to the tips of dermal papillae and the site of inflammation. A gluten-free diet may relieve the symptoms. Bullous pemphigoid can occur in older individuals, with an antibody directed at keratinocytes to produce flaccid bullae, but there is no association with celiac disease. Contact dermatitis is most likely to be seen on the hands and forearms. It is a type IV hypersensitivity reaction without immunoglobulin deposition and would not persist for 1 month. Discoid lupus erythematosus is seen in sun-exposed areas and has the appearance of an erythematous rash. Erythema multiforme is a hypersensitivity response to infections and drugs; it produces macules and papules with a red or vesicular center, but it is probably mediated by cytotoxic lymphocytes and not by immunoglobulin deposition. Pemphigus vulgaris is an autoimmune disease in which IgG deposited in acantholytic areas forms vesicles that rupture to form erosions; it is not related to celiac disease.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the lesions over the elbow\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4b8ea4b7-5c33-4a54-a46d-c9f8e75cf259": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"newborn baby presents with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bc93b697-e0c1-477c-95f3-b60ba03d1811": {
-    "cop": 1,
-    "exp": "Carotid sinus massage is a simple bedside maneuver that helps to clarify the type and sometimes also the mechanism of different rhythm disturbances. The major indication for carotid sinus massage is the diagnosis of tachyarrhythmias in which the atrial activity is either absent or intermittently present. Carotid sinus massage is also useful in some patients with normal hea rates; increased vagal tone may normalize a bundle branch block or localize the site of type I second-degree atrioventricular block and can be used for evaluation of the sensing function of permanent pacemakers. Carotid sinus massage is also an impoant diagnostic procedure in patients with suspected hypersensitivity of the carotid sinus. Massage of the carotid sinus is contraindicated in patients with diseased carotid aeries because of the risk of cerebrovascular accident. In rare instances, carotid sinus massage may initiate ventricular tachycardia. Ref -davidson 23rd edition pg 1147"
+    "cop": 0,
+    "exp": "Carotid sinus massage is a simple bedside maneuver that helps to clarify the type and sometimes also the mechanism of different rhythm disturbances. The major indication for carotid sinus massage is the diagnosis of tachyarrhythmias in which the atrial activity is either absent or intermittently present. Carotid sinus massage is also useful in some patients with normal hea rates; increased vagal tone may normalize a bundle branch block or localize the site of type I second-degree atrioventricular block and can be used for evaluation of the sensing function of permanent pacemakers. Carotid sinus massage is also an impoant diagnostic procedure in patients with suspected hypersensitivity of the carotid sinus. Massage of the carotid sinus is contraindicated in patients with diseased carotid aeries because of the risk of cerebrovascular accident. In rare instances, carotid sinus massage may initiate ventricular tachycardia. Ref -davidson 23rd edition pg 1147",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Carotid massage causes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d1922b53-bc6f-43e7-a1a4-297488390427": {
-    "cop": 1,
-    "exp": "Ans. a (Concomitant). (Ref. Parson, Diseases of Eye, 18th/341, Basak, Ophthalmology, 2nd /298)SQUINTS. No.Concomitant (Aparalytic)Paralytic (Nonconcomitant)1.Sudden onsetInsidious onset2.Developmental originAcquired3.Infants and childrenAdults affected4.DiplopiaNo diplopia5.Normal head postureAbnormal head posture6.No false projectionFalse projection +7.Angle of squint constant in all direction of gazeVariable angle of squint8.Normal ocular movementOccular movements restricted9.Secondary angle of deviation = primary angleSecondary angle > primary10.AmblyopiaNo amblyopia11.Good surgical resultsNot satisfactory/contraindicated"
+    "cop": 0,
+    "exp": "Ans. a (Concomitant). (Ref. Parson, Diseases of Eye, 18th/341, Basak, Ophthalmology, 2nd /298)SQUINTS. No.Concomitant (Aparalytic)Paralytic (Nonconcomitant)1.Sudden onsetInsidious onset2.Developmental originAcquired3.Infants and childrenAdults affected4.DiplopiaNo diplopia5.Normal head postureAbnormal head posture6.No false projectionFalse projection +7.Angle of squint constant in all direction of gazeVariable angle of squint8.Normal ocular movementOccular movements restricted9.Secondary angle of deviation = primary angleSecondary angle > primary10.AmblyopiaNo amblyopia11.Good surgical resultsNot satisfactory/contraindicated",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"deviation in which squint\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6a99e736-4df5-4b5c-a88b-a9531f81c11b": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Provisional restorative materials should\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b2510d1f-7661-4aa3-b276-ef0dc5fb2b94": {
-    "cop": 1,
-    "exp": "Aedes aegypti has an impoant position in the history of preventive medicine. It is the first proved vector of a viral disease. It causes yellow fever. Chapter: Environment and health Ref: Park 21st edition page: 711"
+    "cop": 0,
+    "exp": "Aedes aegypti has an impoant position in the history of preventive medicine. It is the first proved vector of a viral disease. It causes yellow fever. Chapter: Environment and health Ref: Park 21st edition page: 711",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "56aa90d7-7959-4a1d-ae0a-3c9ef7146151": {
-    "cop": 1,
-    "exp": "Forceps consist basically of two crossing branches. Each branch has four components: blade, shank, lock and handle.Each blade has two curves: the outward cephalic curve conforms to the roundfetal head, and the upward pelvic curve corresponds more or less to the axis ofthe bih canal.Some varieties have an opening within or a depressionalong the blade surface and are termed fenestrated or pseudofenestrated,respectively. These blade modifications permit a firmer grasp of the fetalhead, but at the expense of increased blade thickness, which may increasevaginal trauma.In general, fenestrated blades are used to deliver a fetus with a molded headwhich is common in nulliparous women.The forceps with thin smooth blades are used for a fetus with arounded head, which is more characteristic in multiparas.(Ref: William's Obstetrics; 25th edition)"
+    "cop": 0,
+    "exp": "Forceps consist basically of two crossing branches. Each branch has four components: blade, shank, lock and handle.Each blade has two curves: the outward cephalic curve conforms to the roundfetal head, and the upward pelvic curve corresponds more or less to the axis ofthe bih canal.Some varieties have an opening within or a depressionalong the blade surface and are termed fenestrated or pseudofenestrated,respectively. These blade modifications permit a firmer grasp of the fetalhead, but at the expense of increased blade thickness, which may increasevaginal trauma.In general, fenestrated blades are used to deliver a fetus with a molded headwhich is common in nulliparous women.The forceps with thin smooth blades are used for a fetus with arounded head, which is more characteristic in multiparas.(Ref: William's Obstetrics; 25th edition)",
+    "hint_exp": "🧩 Your crush solved \"the following function\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bd5c44be-a4be-4b6a-a6d1-fe38657ae4c0": {
-    "cop": 4,
-    "exp": "D i.e. Belly scales are incomplete"
+    "cop": 3,
+    "exp": "D i.e. Belly scales are incomplete",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"of poisonous snakes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "49ccabc6-e242-45e1-ad57-3aa2c0c664e5": {
-    "cop": 1,
-    "exp": "Medullary carcinoma of breast Invasive breast cancer 5% of breast cancers Associated with BRCA-1 Axillary lymph node enlargement bacause of reactive hyperplasia Lymphoreticular infiltration Electron M/E - Bizarre cells with high-grade nuclear features Syncytial pattern -Sheets of cells surrounded mononuclear lymphocytes. Borders push into the adjoining breast tissue In its pure form, High grade, Triple negative - ER and PR negative,Her-2-neu negative"
+    "cop": 0,
+    "exp": "Medullary carcinoma of breast Invasive breast cancer 5% of breast cancers Associated with BRCA-1 Axillary lymph node enlargement bacause of reactive hyperplasia Lymphoreticular infiltration Electron M/E - Bizarre cells with high-grade nuclear features Syncytial pattern -Sheets of cells surrounded mononuclear lymphocytes. Borders push into the adjoining breast tissue In its pure form, High grade, Triple negative - ER and PR negative,Her-2-neu negative",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"statements true medullary carcinoma\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bbe49af4-ccf8-4296-b796-d6383d3163e9": {
-    "cop": 3,
-    "exp": "The child presents with acute onset of bleeding, along with the following laboratory anamolies.\n\n\nThrombocytopenia    (iii) Increased partial thromboplastin time.\nIncreased prothrombin time    (iv) Decreased Fibrinogen\n\n\nThese hematological abnormalities indicate Disseminated intravascular coagulation\nThe peripheral blood smear of the patient is suggestive of acute myeloblastic leukemia (mentioned in the question)\nThe AML most likely to occur in this setting is promyelocytic leukemia as it is the most common myeloid leukemia associated with DIC.\nPromyelocytic (AML-M3) leukemic promyelocytes liberate tissue thromboplastin leading to disseminated intravascular coagulation."
+    "cop": 2,
+    "exp": "The child presents with acute onset of bleeding, along with the following laboratory anamolies.\n\n\nThrombocytopenia    (iii) Increased partial thromboplastin time.\nIncreased prothrombin time    (iv) Decreased Fibrinogen\n\n\nThese hematological abnormalities indicate Disseminated intravascular coagulation\nThe peripheral blood smear of the patient is suggestive of acute myeloblastic leukemia (mentioned in the question)\nThe AML most likely to occur in this setting is promyelocytic leukemia as it is the most common myeloid leukemia associated with DIC.\nPromyelocytic (AML-M3) leukemic promyelocytes liberate tissue thromboplastin leading to disseminated intravascular coagulation.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b44558f3-ce78-4bc1-812c-9d4e6b8db38a": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Carbapenem o MRSA do not respond to any beta lactam antibiotic (penicillins, cephalosporins, carbapenems and monobactams) because it has altered penicillin binding sites."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Carbapenem o MRSA do not respond to any beta lactam antibiotic (penicillins, cephalosporins, carbapenems and monobactams) because it has altered penicillin binding sites.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Methicillin resistant Staphylococcus aureus\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b7ec98e1-61ab-4b1e-8aba-ee2c2a028ba3": {
-    "cop": 1,
-    "exp": "ADP receptors antagonist ,tiplodine and clopidogril are prodrugs Refer kDT 6/e,p605"
+    "cop": 0,
+    "exp": "ADP receptors antagonist ,tiplodine and clopidogril are prodrugs Refer kDT 6/e,p605",
+    "hint_exp": "🧩 Your crush solved \"a prodrug\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

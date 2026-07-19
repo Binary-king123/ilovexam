@@ -1,202 +1,252 @@
 {
   "029622c7-c10d-4616-a1b4-0a7dd8d667b3": {
-    "cop": 1,
-    "exp": "EAR forms the basis for setting the RDA. RDA is set at 2 standard detions above estimated average requirement. Estimated average requirement (EAR) is the daily intake value that is estimated to meet the requirement in 50% of individuals in a life stage or gender group. Recommended daily allowance (RDA) is the average daily dietary intake level that is sufficient to meet the nutrient requirement in nearly 97-98% healthy individual in a specific life stage and gender group. Ref: Harrison's Principle of Internal Medicine, 18th Edition, Chapter 73 ; Dietary Reference Intakes: For Calcium, Phosphorus, Magnesium, Vitamin D By Institute of Medicine (U.S.). Standing Committee on The Scientific Evaluation of Dietary Reference Intakes, Page 23"
+    "cop": 0,
+    "exp": "EAR forms the basis for setting the RDA. RDA is set at 2 standard detions above estimated average requirement. Estimated average requirement (EAR) is the daily intake value that is estimated to meet the requirement in 50% of individuals in a life stage or gender group. Recommended daily allowance (RDA) is the average daily dietary intake level that is sufficient to meet the nutrient requirement in nearly 97-98% healthy individual in a specific life stage and gender group. Ref: Harrison's Principle of Internal Medicine, 18th Edition, Chapter 73 ; Dietary Reference Intakes: For Calcium, Phosphorus, Magnesium, Vitamin D By Institute of Medicine (U.S.). Standing Committee on The Scientific Evaluation of Dietary Reference Intakes, Page 23",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"TRUE\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "381623e4-1011-4c32-ba10-d1c7b77e4573": {
-    "cop": 4,
-    "exp": "Anti-Sm antigen antibodies are found in SLE. Autoantibodies found in Type 1 autoimmune hepatitis: Antinuclear antibodies (ANAs) Anti-smooth muscle actin (SMA) antibodies Antibodies against soluble liver antigen/liver-pancreas antigen (SLA/LPA) Anti-mitochondrial antibodies (AMA, more typical of primary biliary cholangitis) Autoantibodies found in Type 2 autoimmune hepatitis: Anti-liver kidney microsome-1 (LKM-1) antibodies, which are directed against CYP2D6 Anti-liver cytosol-1 (ACL-1) antibodies"
+    "cop": 3,
+    "exp": "Anti-Sm antigen antibodies are found in SLE. Autoantibodies found in Type 1 autoimmune hepatitis: Antinuclear antibodies (ANAs) Anti-smooth muscle actin (SMA) antibodies Antibodies against soluble liver antigen/liver-pancreas antigen (SLA/LPA) Anti-mitochondrial antibodies (AMA, more typical of primary biliary cholangitis) Autoantibodies found in Type 2 autoimmune hepatitis: Anti-liver kidney microsome-1 (LKM-1) antibodies, which are directed against CYP2D6 Anti-liver cytosol-1 (ACL-1) antibodies",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fe7de1d0-97fe-4feb-ba7d-664527bf8b42": {
-    "cop": 2,
-    "exp": "b. Stop transfusion and look for clerical errors style=\"font-size: 1.04761904761905em; font-family: Times New Roman, Times, serif\">(Ref: )Transfusion reactions:Category 1: Mild reactionsSignsSymptomsPossible causeImmediate managementUrticaria/rashPruritis (itching)Allergic* Stop transfusion* Assess patient* An antihistamine may be required* Transfusion may be restarted if no other signs/symptoms are present* If signs/symptoms worsen treat as Category 2. Category 2: Moderately severe reactionsSignsSymptomsPossible causeImmediate managementFlushingUrticariaRigorsFeverRestlessnessTachycardiaAnxietyPruritisPalpitationsMild dyspneaHeadacheAllergic (moderately-severe)Febrile non-hemolytic transfusion reaction:-antibodies to white cells or platelets* Antibodies to proteins including IgA* Possible contamination with pyrogens and /or bacteria* Stop transfusion and maintain IV line with NSaline* Contact Medical Officer* Patient may require antihistamine and/or paracetamol* Further investigation and management according to clinical features* If investigation required: complete Transfusion Reaction Form and send blood pack, form and samples to blood bank Category 3: Life-threatening reactionsSignsSymptoms Possible cause Immediate managementRigorsFeverRestlessnessHypotensionTachycardiaDark UrineUnexplained bleeding (DIC)AnxietyChest painPain at infusion siteRespiratory distressLoin/back painHeadacheDyspneaAcute intravascular hemolysis (wrong blood)Bacterial contamination and septic shockFluid overloadAnaphylaxisTransfusion related acute lung injury (TRALI)* Stop transfusion and maintain IV line with N.Saline* Contact Medical Officer* Manage immediate needs:- Fluid for hypotension- Oxygen- Adrenaline for anaphylaxis- Diuretic for fluid overload* Complete Transfusion Reaction Form and send blood pack, form and samples to blood bank* Further management according to likely cause"
+    "cop": 1,
+    "exp": "b. Stop transfusion and look for clerical errors style=\"font-size: 1.04761904761905em; font-family: Times New Roman, Times, serif\">(Ref: )Transfusion reactions:Category 1: Mild reactionsSignsSymptomsPossible causeImmediate managementUrticaria/rashPruritis (itching)Allergic* Stop transfusion* Assess patient* An antihistamine may be required* Transfusion may be restarted if no other signs/symptoms are present* If signs/symptoms worsen treat as Category 2. Category 2: Moderately severe reactionsSignsSymptomsPossible causeImmediate managementFlushingUrticariaRigorsFeverRestlessnessTachycardiaAnxietyPruritisPalpitationsMild dyspneaHeadacheAllergic (moderately-severe)Febrile non-hemolytic transfusion reaction:-antibodies to white cells or platelets* Antibodies to proteins including IgA* Possible contamination with pyrogens and /or bacteria* Stop transfusion and maintain IV line with NSaline* Contact Medical Officer* Patient may require antihistamine and/or paracetamol* Further investigation and management according to clinical features* If investigation required: complete Transfusion Reaction Form and send blood pack, form and samples to blood bank Category 3: Life-threatening reactionsSignsSymptoms Possible cause Immediate managementRigorsFeverRestlessnessHypotensionTachycardiaDark UrineUnexplained bleeding (DIC)AnxietyChest painPain at infusion siteRespiratory distressLoin/back painHeadacheDyspneaAcute intravascular hemolysis (wrong blood)Bacterial contamination and septic shockFluid overloadAnaphylaxisTransfusion related acute lung injury (TRALI)* Stop transfusion and maintain IV line with N.Saline* Contact Medical Officer* Manage immediate needs:- Fluid for hypotension- Oxygen- Adrenaline for anaphylaxis- Diuretic for fluid overload* Complete Transfusion Reaction Form and send blood pack, form and samples to blood bank* Further management according to likely cause",
+    "hint_exp": "🎯 Think of \"the next management\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c294f060-d0cb-41ce-a2e4-04756aed8976": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Vertical transmission seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "99657a0b-c8ad-48c4-bca0-2946b338b15f": {
-    "cop": 2,
-    "exp": "Unourable cytogenetics in ALL are Philadelphia chromosomes t(9;22) & t(4;11) Ref: CMDT 2008 Edition, Page 447"
+    "cop": 1,
+    "exp": "Unourable cytogenetics in ALL are Philadelphia chromosomes t(9;22) & t(4;11) Ref: CMDT 2008 Edition, Page 447",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "95f700f8-81eb-4757-8e01-98c5e5bbb85e": {
-    "cop": 4,
-    "exp": "Diablo homolog (DIABLO) is a mitochondrial proteinthat in humans is encoded by the DIABLO (direct IAPbinding protein with low pI) gene on chromosome 12. DIABLO is also referred to as second mitochondria-derived activator of caspases or SMAC. This protein binds inhibitor of apoptosis proteins (IAPs), thus freeing caspases to activate apoptosis. Due to its proapoptotic function, ref Robbins 9/e p 19, and internet"
+    "cop": 3,
+    "exp": "Diablo homolog (DIABLO) is a mitochondrial proteinthat in humans is encoded by the DIABLO (direct IAPbinding protein with low pI) gene on chromosome 12. DIABLO is also referred to as second mitochondria-derived activator of caspases or SMAC. This protein binds inhibitor of apoptosis proteins (IAPs), thus freeing caspases to activate apoptosis. Due to its proapoptotic function, ref Robbins 9/e p 19, and internet",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"SMAC DIABLO\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2a4a739d-173b-4298-863b-a1596567d3a9": {
-    "cop": 2,
-    "exp": "Small intestinal lamina propria laden with distended macrophages containing large quantities of undigested and paially digested bacteria is the hallmark feature of whipple's disease. The macrophages contain periodic acid schiff (PAS) positive granules and rod shaped bacilli. In whipple's disease, bacteria-laden macrophages can also be found in the mesenteric lymph nodes, synol membranes of affected joints, cardiac valves and the brain. Ref: Robbins Pathologic Basis of Disease, 6th Edition, Pages 814-5"
+    "cop": 1,
+    "exp": "Small intestinal lamina propria laden with distended macrophages containing large quantities of undigested and paially digested bacteria is the hallmark feature of whipple's disease. The macrophages contain periodic acid schiff (PAS) positive granules and rod shaped bacilli. In whipple's disease, bacteria-laden macrophages can also be found in the mesenteric lymph nodes, synol membranes of affected joints, cardiac valves and the brain. Ref: Robbins Pathologic Basis of Disease, 6th Edition, Pages 814-5",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following disease\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8d360e31-d809-443b-b0ec-0733264bd552": {
-    "cop": 1,
-    "exp": "Renshaw cell inhibition is an example of Feedback or Recurrent inhibition.\nImpulses generated in the motor neuron activates inhibitory interneuron to secrete inhibitory mediators and this stops the discharge of motor neuron."
+    "cop": 0,
+    "exp": "Renshaw cell inhibition is an example of Feedback or Recurrent inhibition.\nImpulses generated in the motor neuron activates inhibitory interneuron to secrete inhibitory mediators and this stops the discharge of motor neuron.",
+    "hint_exp": "🎯 Think of \"an example for\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1e158a03-95c9-493e-b8b2-967acb062eee": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Infant botulism is caused by ingestion of preformed toxin . Infant botulism is caused by ingestion of spores. Spores are ingested in food, get established in the gut and there produce the toxin. \"Seven main types of C. botulinum, designated A - G, produce antigenically distinct toxins with pharmacologically identical action. All types can cause human disease, but type A, B and E are most common\". (In Harrison & Ananthanarayan, eight types of C. botulinum A, B, CI, C2, D, E, F, G have been mentioned). . Toxin production in clostridium botulinum appears to be determined by presence of bacteriophage (at least in type C & D). . \"Clostridium butyricum and clostridium baratti have also been found to produce toxin\". - Harrison 16th/e 843 - Any strain producing toxin will obviously cause botulism."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Infant botulism is caused by ingestion of preformed toxin . Infant botulism is caused by ingestion of spores. Spores are ingested in food, get established in the gut and there produce the toxin. \"Seven main types of C. botulinum, designated A - G, produce antigenically distinct toxins with pharmacologically identical action. All types can cause human disease, but type A, B and E are most common\". (In Harrison & Ananthanarayan, eight types of C. botulinum A, B, CI, C2, D, E, F, G have been mentioned). . Toxin production in clostridium botulinum appears to be determined by presence of bacteriophage (at least in type C & D). . \"Clostridium butyricum and clostridium baratti have also been found to produce toxin\". - Harrison 16th/e 843 - Any strain producing toxin will obviously cause botulism.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"following statements true regarding\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f573ae95-8a4e-4b1f-a755-d0f3c815bb2e": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. School teachers Under the National Programme for Control of Blindness, all children aged 10-14 years will be screened for refractive errors by trained teachers.Children who cannot read the 6/9 line with any eye are then sent to the ophthalmic assistant of the CHC for refraction test.Children needing spectacles are then provided free spectacles by opticians who have been contracted by the NPCB."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. School teachers Under the National Programme for Control of Blindness, all children aged 10-14 years will be screened for refractive errors by trained teachers.Children who cannot read the 6/9 line with any eye are then sent to the ophthalmic assistant of the CHC for refraction test.Children needing spectacles are then provided free spectacles by opticians who have been contracted by the NPCB.",
+    "hint_exp": "🧩 Your crush solved \"school children\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8d0d593e-a697-4b47-8160-5f8a7dcb9b57": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Mitochondrial o MELAS (mitochondrial encephalopathy with lactic acidosis an stroke) is a mitochondrial disease"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Mitochondrial o MELAS (mitochondrial encephalopathy with lactic acidosis an stroke) is a mitochondrial disease",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Type inheritance\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "be18057f-9e24-4975-96d4-3cb25fde3e84": {
-    "cop": 1,
-    "exp": "With ove diabetes, the embryo, fetus, and mother frequently experience serious complications directly attributable to diabetesTo minimize early pregnancy loss and congenital malformations in offspring of diabetic mothers, optimal medical care and education are recommended before conception The National Preconception Health and Healthcare Initiative Clinical Workgroup for the CDC established values for optimal glycemic control. This was defined as HbA1c <6.5 percent in women with pregestational diabetes.The ADA (2017b) has also defined optimal pre-conceptional glucose control using insulin. Reflective values are self-monitored preprandial glucose levels of 70 to 100 mg/dL, peak 2-hour postprandial values of 100 to 120 mg/dL, and mean daily glucose concentrations <110 mg/dL.Reference: William's obstetrics; 25th edition; Chapter 57; Diabetes"
+    "cop": 0,
+    "exp": "With ove diabetes, the embryo, fetus, and mother frequently experience serious complications directly attributable to diabetesTo minimize early pregnancy loss and congenital malformations in offspring of diabetic mothers, optimal medical care and education are recommended before conception The National Preconception Health and Healthcare Initiative Clinical Workgroup for the CDC established values for optimal glycemic control. This was defined as HbA1c <6.5 percent in women with pregestational diabetes.The ADA (2017b) has also defined optimal pre-conceptional glucose control using insulin. Reflective values are self-monitored preprandial glucose levels of 70 to 100 mg/dL, peak 2-hour postprandial values of 100 to 120 mg/dL, and mean daily glucose concentrations <110 mg/dL.Reference: William's obstetrics; 25th edition; Chapter 57; Diabetes",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Optimal value glycosylated haemoglobin\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ed52f0a7-d630-411f-8d70-de9a9821f6c8": {
-    "cop": 2,
-    "exp": "It has been suggested that SEs(staph enterotoxins) stimulate the vagus nerve in the abdominal viscera, which transmits the signal to the vomiting center in the brain. Enterotoxin is responsible for the manifestations of staph food poisoning - nausea, vomiting, and diarrhea 2-6 hr after consuming food contaminated with enterotoxin. The toxin directly acts on ANS to cause the illness rather than on the gastrointestinal mucosa. Ref: Textbook of Microbiology; Ananthanarayan and Paniker's; 10th Edition; Page No: 204."
+    "cop": 1,
+    "exp": "It has been suggested that SEs(staph enterotoxins) stimulate the vagus nerve in the abdominal viscera, which transmits the signal to the vomiting center in the brain. Enterotoxin is responsible for the manifestations of staph food poisoning - nausea, vomiting, and diarrhea 2-6 hr after consuming food contaminated with enterotoxin. The toxin directly acts on ANS to cause the illness rather than on the gastrointestinal mucosa. Ref: Textbook of Microbiology; Ananthanarayan and Paniker's; 10th Edition; Page No: 204.",
+    "hint_exp": "🎯 Think of \"action\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f5138f52-64b4-4659-942b-cc1af5300309": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"coracobrachialis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "82d825a6-cbd6-4e1e-a93a-51b571cd7e0b": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Foramen transversarium transmits except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e0f01eda-0bfb-4001-8b32-85d25a6eb000": {
-    "cop": 3,
-    "exp": "Antigenic variability is highest in influenza virus type A and less in type B, while it has not been demonstrated in type C. The antigenic propeies of influenza viruses are determined by both hemagglutinin and neuraminidase. Antigenic variations are of two types: antigenic drift and antigenic shift. Antigenic drift is the gradual sequential change in antigenic structure occurring regularly at frequent intervals. It accounts for the periodical epidemics of influenza. Antigenic shift is an abrupt, drastic, discontinuous variation in the antigenic structure, resulting in a novel virus strain unrelated antigenically to predecessor strains."
+    "cop": 2,
+    "exp": "Antigenic variability is highest in influenza virus type A and less in type B, while it has not been demonstrated in type C. The antigenic propeies of influenza viruses are determined by both hemagglutinin and neuraminidase. Antigenic variations are of two types: antigenic drift and antigenic shift. Antigenic drift is the gradual sequential change in antigenic structure occurring regularly at frequent intervals. It accounts for the periodical epidemics of influenza. Antigenic shift is an abrupt, drastic, discontinuous variation in the antigenic structure, resulting in a novel virus strain unrelated antigenically to predecessor strains.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Antigenic variation seen EXCEPT\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "23cfd3cb-9a32-4c3c-a873-7841684431d8": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Depends on platelet activation Thrombosis Thrombosis is the formation of a blood clot (thrombus) inside a blood vessel or hea, obstructing the flow of blood through the circulatory system. Then what is the difference between formation of normal hemostatic plug and thrombosis ? When a blood vessel is injured, the body uses platelet and fibrin to form a blood clot as the first step to prevent blood loss - hemostasis. If that mechanism causes too much doting, a thrombus is formed i.e., exaggeration of hemostatic process leads to thrombus formation. In other terms, hemostasis is a self limited process i.e., there is spontaneous resolution of hemostatic plug with subsequent repair of the injury, while thrombosis is not self limited and the thrombotic clot does not undergo resolution spontaneously rather it causes obstruction to blood flow. Thrombosis may occur without injury (e.g., in hypercoagulable state), while hemostatic plug is formed only after injury. Pathogenesis of thrombosis Thrombosis is caused by abnormalities in one or more of the following three (Virchow's triad) :? Vascular (endothelial) injury. Abnormal blood flow (stasis or turbulence). Blood hypercoagulability. How do these mechanisms lead to thrombosis? Endothelial injury with formation of clot has already been explained earlier. Blood hypercoagulability, as the name suggests, there is increase tendency of clot formation due to alteration in coagulation pathway that predisposes to thrombus. It may occur in many primary (genetic) or secondary (acquired) conditions. Disturbances in blood flow Stasis- Stasis is the major factor in the development of venous thrombus. Turbulence contributes to aerial and cardiac thrombosis. Normal blood flow is laminar such that the platelets flow centrally in the vessel lumen, separated from the endothelium by a slower-moving clear zone of plasma. Stasis and turbulence leads to thrombosis by ? Disruption of laminar flow brings platelets into contact with endothelium. Prevent dilution of activated clotting factors by fresh flowing blood. Retard the inflow of clotting factor inhibitors. Turbulence can cause endothelial injury or dysfunction."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Depends on platelet activation Thrombosis Thrombosis is the formation of a blood clot (thrombus) inside a blood vessel or hea, obstructing the flow of blood through the circulatory system. Then what is the difference between formation of normal hemostatic plug and thrombosis ? When a blood vessel is injured, the body uses platelet and fibrin to form a blood clot as the first step to prevent blood loss - hemostasis. If that mechanism causes too much doting, a thrombus is formed i.e., exaggeration of hemostatic process leads to thrombus formation. In other terms, hemostasis is a self limited process i.e., there is spontaneous resolution of hemostatic plug with subsequent repair of the injury, while thrombosis is not self limited and the thrombotic clot does not undergo resolution spontaneously rather it causes obstruction to blood flow. Thrombosis may occur without injury (e.g., in hypercoagulable state), while hemostatic plug is formed only after injury. Pathogenesis of thrombosis Thrombosis is caused by abnormalities in one or more of the following three (Virchow's triad) :? Vascular (endothelial) injury. Abnormal blood flow (stasis or turbulence). Blood hypercoagulability. How do these mechanisms lead to thrombosis? Endothelial injury with formation of clot has already been explained earlier. Blood hypercoagulability, as the name suggests, there is increase tendency of clot formation due to alteration in coagulation pathway that predisposes to thrombus. It may occur in many primary (genetic) or secondary (acquired) conditions. Disturbances in blood flow Stasis- Stasis is the major factor in the development of venous thrombus. Turbulence contributes to aerial and cardiac thrombosis. Normal blood flow is laminar such that the platelets flow centrally in the vessel lumen, separated from the endothelium by a slower-moving clear zone of plasma. Stasis and turbulence leads to thrombosis by ? Disruption of laminar flow brings platelets into contact with endothelium. Prevent dilution of activated clotting factors by fresh flowing blood. Retard the inflow of clotting factor inhibitors. Turbulence can cause endothelial injury or dysfunction.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"true about Virchow triad\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e746cd01-71af-494c-84aa-31acdc58d2dc": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Leukotoxin\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "70d7c701-d44a-4a07-b654-0bb67c54277a": {
-    "cop": 4,
-    "exp": "Metachromatic Leukodystrophy: Is a deep white matter leukodystrophy with sparing of subcoical U-fibers and lamellated or Tigroid pattern of the involved white matter. It is associated with Aryl Sulfatase deficiency. Characterized by bilateral symmetrical confluent areas of periventricular deep white matter signal change, in paicular around the atria and frontal horns with sparing of subcoical U fibres can also leads to a \"butterfly pattern\". Progression can lead to coical and subcoical atrophy."
+    "cop": 3,
+    "exp": "Metachromatic Leukodystrophy: Is a deep white matter leukodystrophy with sparing of subcoical U-fibers and lamellated or Tigroid pattern of the involved white matter. It is associated with Aryl Sulfatase deficiency. Characterized by bilateral symmetrical confluent areas of periventricular deep white matter signal change, in paicular around the atria and frontal horns with sparing of subcoical U fibres can also leads to a \"butterfly pattern\". Progression can lead to coical and subcoical atrophy.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following disease\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e2cd27d3-a409-4689-bfcd-818ed49ae797": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Lead poisoning o Plumbism is chronic lead poisoning."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Lead poisoning o Plumbism is chronic lead poisoning.",
+    "hint_exp": "🧩 Your crush solved \"Plumbism\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9f72c130-7b24-4701-8850-8e6de8de1d79": {
-    "cop": 2,
-    "exp": "Scleroderma Is a systemic disease accompanied by oesophagal abnormalities in approximately 80% of patients? The oesophagal lesion consists of atrophy of smooth muscles, manifested by weakness in the lower two-thirds of the oesophagal body and incompetence of the LES. Gastroesophageal reflux d/t incompetent LES combined with poor oesophagal clearance d/t decreased motility leads to severe reflux esophagitis and stricture formation. The patient complains of dysphagia and symptoms of gastro-oesophageal reflux. The dysphagia in scleroderma is characteristic. Patients have dysphagia for liquids while recumbent but not upright. The dysphagia for solids is unrelated to posture. The Barium studies show a dilated oesophagus, stomach and duodenum or a hiatal hernia with distal oesophagal stricture and proximal dilation (a Hiatal hernia is the result of oesophagal shoening due to stricture which pulls the cardio up into the thorax) The diagnosis of scleroderma is made by manometry study which shows : normal peristalsis in the proximal striated oesophagus, with absent peristalsis in the distal smooth muscle poion (as there is smooth muscle atrophy in scleroderma) the LES pressure is decreased but sphincter relaxation to deglutition is normal. Ref : Schwaz 9/e 846"
+    "cop": 1,
+    "exp": "Scleroderma Is a systemic disease accompanied by oesophagal abnormalities in approximately 80% of patients? The oesophagal lesion consists of atrophy of smooth muscles, manifested by weakness in the lower two-thirds of the oesophagal body and incompetence of the LES. Gastroesophageal reflux d/t incompetent LES combined with poor oesophagal clearance d/t decreased motility leads to severe reflux esophagitis and stricture formation. The patient complains of dysphagia and symptoms of gastro-oesophageal reflux. The dysphagia in scleroderma is characteristic. Patients have dysphagia for liquids while recumbent but not upright. The dysphagia for solids is unrelated to posture. The Barium studies show a dilated oesophagus, stomach and duodenum or a hiatal hernia with distal oesophagal stricture and proximal dilation (a Hiatal hernia is the result of oesophagal shoening due to stricture which pulls the cardio up into the thorax) The diagnosis of scleroderma is made by manometry study which shows : normal peristalsis in the proximal striated oesophagus, with absent peristalsis in the distal smooth muscle poion (as there is smooth muscle atrophy in scleroderma) the LES pressure is decreased but sphincter relaxation to deglutition is normal. Ref : Schwaz 9/e 846",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Connective tissue disorder which\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a06dbde5-ae99-4174-bee9-83096f9c90e9": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"According percepts vertical condensation\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6f65f4c2-2184-4d4f-8707-e51f1e20ad49": {
-    "cop": 4,
-    "exp": "Plasma protein binding 1) Highly plasma protein bound drugs are largely restricted to the vascular compament because protein bound drug does not cross membranes,thus they tend to have smaller volumes of distribution. 2)High degree of protein binding generally makes the drug long acting, because bound fraction is not available for metabolism or excretion, unless it is actively extracted by liver or by kidney tubules. 3) One drug can bind to many sites on the albumin molecule. Conversely, more than one drug can bind to the same site. This can give rise to displacement interactions among drugs bound to the same site(s). The drug bound with higher affinity will displace that bound with lower affinity. Some clinically impoant displacement interactions are: * Aspirin displaces sulfonylureas. * Indomethacin, phenytoin displace warfarin. Ref:- kd tripathi; pg num:-19,20"
+    "cop": 3,
+    "exp": "Plasma protein binding 1) Highly plasma protein bound drugs are largely restricted to the vascular compament because protein bound drug does not cross membranes,thus they tend to have smaller volumes of distribution. 2)High degree of protein binding generally makes the drug long acting, because bound fraction is not available for metabolism or excretion, unless it is actively extracted by liver or by kidney tubules. 3) One drug can bind to many sites on the albumin molecule. Conversely, more than one drug can bind to the same site. This can give rise to displacement interactions among drugs bound to the same site(s). The drug bound with higher affinity will displace that bound with lower affinity. Some clinically impoant displacement interactions are: * Aspirin displaces sulfonylureas. * Indomethacin, phenytoin displace warfarin. Ref:- kd tripathi; pg num:-19,20",
+    "hint_exp": "🎯 Think of \"highly bound to albumin\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6f7814dc-9e05-482e-bdd9-4a52fca77c80": {
-    "cop": 1,
-    "exp": "In minimal change disease histopathology is normal while electron microscopy is pathognromic which shows loss or effacement of podocyte foot processes REF : ROBBINS 10TH ED"
+    "cop": 0,
+    "exp": "In minimal change disease histopathology is normal while electron microscopy is pathognromic which shows loss or effacement of podocyte foot processes REF : ROBBINS 10TH ED",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"foot processes\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "696ddb67-de56-471e-ae90-9e258414560b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"non typhoid salmonella\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2191bbf2-1406-4a2f-87b0-595f47db7ffd": {
-    "cop": 4,
-    "exp": "Atropine acts as an antagonist at muscarinic receptors. It has no activity on nicotinic receptor and do not interfere with the release of ACh Ref-KDT 6/e p106"
+    "cop": 3,
+    "exp": "Atropine acts as an antagonist at muscarinic receptors. It has no activity on nicotinic receptor and do not interfere with the release of ACh Ref-KDT 6/e p106",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Atropine useful organophosphate poisoning\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "246bd9b3-9f04-46fe-b083-a2a5ee79e932": {
-    "cop": 2,
-    "exp": "If the contact is open (short of touching the adjacent tooth), a new contact area must be soldered to the casting. An open contact is best detected by visual inspection with the aid of the mouth mirror. The region must be isolated with cotton rolls and dried with the air syringe. Selection of the proper horizontal viewing angle usually discloses the spaces between teeth. Such an open contact permits the passage of food, which affects and irritates the interproximal gingiva.\nSturdevant operative dentistry  7th Edition, Page No:e147"
+    "cop": 1,
+    "exp": "If the contact is open (short of touching the adjacent tooth), a new contact area must be soldered to the casting. An open contact is best detected by visual inspection with the aid of the mouth mirror. The region must be isolated with cotton rolls and dried with the air syringe. Selection of the proper horizontal viewing angle usually discloses the spaces between teeth. Such an open contact permits the passage of food, which affects and irritates the interproximal gingiva.\nSturdevant operative dentistry  7th Edition, Page No:e147",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"case cast restoration contact\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b5a1de62-d167-4979-a0b5-a4c2a2335eb7": {
-    "cop": 2,
-    "exp": "Metaclopramide is a prokinetic drug which is 5HT4 agonist and D2 antagonist used as antienetic."
+    "cop": 1,
+    "exp": "Metaclopramide is a prokinetic drug which is 5HT4 agonist and D2 antagonist used as antienetic.",
+    "hint_exp": "🎯 Think of \"Which following drugs both\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6732b6f1-fdc4-4fd7-87fa-9e0e2da18665": {
-    "cop": 2,
-    "exp": "Subcutaneous Infrapatellar BursaIt lies in front of lower pa of the tibial tuberosity and of the lower pa of the ligamentum patellae.Subcutaneous infrapatellar bursitis is called \"clergyman&;s knee.\"Ref: Chaurasia; Volume 2; 6th edition; Page no: 44"
+    "cop": 1,
+    "exp": "Subcutaneous Infrapatellar BursaIt lies in front of lower pa of the tibial tuberosity and of the lower pa of the ligamentum patellae.Subcutaneous infrapatellar bursitis is called \"clergyman&;s knee.\"Ref: Chaurasia; Volume 2; 6th edition; Page no: 44",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"due to\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f5e7dfbd-8b35-462b-bd1b-735e76220f0b": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"silver alloy\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "78247026-679d-4bd7-ac20-ec29e5d11741": {
-    "cop": 2,
-    "exp": "The screening of gestational diabetes mellitus can be done between 24 to 28 weeks gestation. It is recommended by the American diabetes association that after 24 weeks all pregnant women should be screened for gestational diabetes mellitus with 75g, 2 hour Oral Glucose tolerance test. Normal Values- Fasting state < 92mg/dl After 1 hour< 180 mg/dl After 2 hours< 153 mg/dl Any one abnormal value is diagnsotic of GDM"
+    "cop": 1,
+    "exp": "The screening of gestational diabetes mellitus can be done between 24 to 28 weeks gestation. It is recommended by the American diabetes association that after 24 weeks all pregnant women should be screened for gestational diabetes mellitus with 75g, 2 hour Oral Glucose tolerance test. Normal Values- Fasting state < 92mg/dl After 1 hour< 180 mg/dl After 2 hours< 153 mg/dl Any one abnormal value is diagnsotic of GDM",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"pregnancy\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f3bf8992-acfc-448e-8ba7-84e431d0cf54": {
-    "cop": 1,
-    "exp": "Ans. (a) Ca bilirubinate(Ref: Robbins 9th/pg 877)Two main types of gallstones:Cholesterol stones (most common type in West) containing crystalline cholesterol monohydrate.Pigment stones composed mainly of calcium bilirubinate; contain <20% cholesterol and are classified into \"black\" & \"brown\" types, the latter forming secondary to chronic biliary infection."
+    "cop": 0,
+    "exp": "Ans. (a) Ca bilirubinate(Ref: Robbins 9th/pg 877)Two main types of gallstones:Cholesterol stones (most common type in West) containing crystalline cholesterol monohydrate.Pigment stones composed mainly of calcium bilirubinate; contain <20% cholesterol and are classified into \"black\" & \"brown\" types, the latter forming secondary to chronic biliary infection.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"composed of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2151ff23-cfa4-4b61-91bd-e7522a3ad29d": {
-    "cop": 3,
-    "exp": "When H+ concentration is increased as in acidosis, H+ ions are secreted (preferentially over K+ ions) in exchange of Na+Thus in acidosis K+ secretion into tubules (excretion) is inhibitedRef: Harrison's 18/e p366"
+    "cop": 2,
+    "exp": "When H+ concentration is increased as in acidosis, H+ ions are secreted (preferentially over K+ ions) in exchange of Na+Thus in acidosis K+ secretion into tubules (excretion) is inhibitedRef: Harrison's 18/e p366",
+    "hint_exp": "🎯 Think of \"Acute metabolic acidosis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ff9da929-9c38-4849-8cdf-0e75f34fc827": {
-    "cop": 2,
-    "exp": "MORO REFLEX is also known as embrace reflex or stale reflex. It is a reflex seen in infants in response to stimuli, e.g. that produced by suddenly striking the surface on which the infant rests. To elicit this reflex the head is momentarily allowed to fall back and then is re suppoed by the examiner's hand. The child symmetrically abducts and extends the arms, flexes the thumbs. This movement is followed by flexion and adduction of upper extremities. Persistence of Moro's reflex beyond 12 weeks indicates neurological damage."
+    "cop": 1,
+    "exp": "MORO REFLEX is also known as embrace reflex or stale reflex. It is a reflex seen in infants in response to stimuli, e.g. that produced by suddenly striking the surface on which the infant rests. To elicit this reflex the head is momentarily allowed to fall back and then is re suppoed by the examiner's hand. The child symmetrically abducts and extends the arms, flexes the thumbs. This movement is followed by flexion and adduction of upper extremities. Persistence of Moro's reflex beyond 12 weeks indicates neurological damage.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Persistent Moro reflex weeks\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a005a29d-6bf4-4d04-ba9a-e87b1dbaee1e": {
-    "cop": 1,
-    "exp": "Gonococci does not involve testis, whereas syphilis usually does not affect epididymis."
+    "cop": 0,
+    "exp": "Gonococci does not involve testis, whereas syphilis usually does not affect epididymis.",
+    "hint_exp": "🧩 Your crush solved \"Gonococcus does involve\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e8d7917d-bdac-485e-9c4d-242eb8005963": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the teeth\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c7c51de9-6699-4804-b667-20ad787662dd": {
-    "cop": 3,
-    "exp": "Sho stature"
+    "cop": 2,
+    "exp": "Sho stature",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen testicular feminization syndrome\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5da53719-98bd-4ecf-a0b5-ba107b1d3786": {
-    "cop": 1,
-    "exp": "Causes of Central Diabetes insipidus Causes of Nephrogenic Diabetes insipidus ref - Researchgate.net"
+    "cop": 0,
+    "exp": "Causes of Central Diabetes insipidus Causes of Nephrogenic Diabetes insipidus ref - Researchgate.net",
+    "hint_exp": "🎯 Think of \"the following conditions\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bdc1ff53-3351-45d5-af77-e998db8baea9": {
-    "cop": 1,
-    "exp": "Ans. a (Vibrio cholerae). (Textbook of Microbiology by Anantanarayan, 6th/281)VIBRIO CHOLERAE# Gram-negative, strongly aerobic, Pleomorphic bacteria.# Vibrio lyse when injected intraperitoneally into specifically immunized guinea pigs (Pfieffer's phenomenon).# 'Fish in stream' appearance.# Darting motility (swam of gnats).# Grow better in alkaline medium.# NaCl required for optimal growth.# Bile salt agar# TCBS agar selective media(AIIMS Nov 2007)# Alkaline peptone water--enrichment media# \"Cholera red\" reaction -Indole is formed & nitrates are reduced to nitrites.# Vibrio cholerae toxin permanently activates Gs, causing rice-water diarrhea. ADP ribosylation of G protein stimulates adenylyl cyclase; -pumping of Cl into gut and -Na+ absorption. H2O moves into gut lumen; causes voluminous rice-water diarrhea."
+    "cop": 0,
+    "exp": "Ans. a (Vibrio cholerae). (Textbook of Microbiology by Anantanarayan, 6th/281)VIBRIO CHOLERAE# Gram-negative, strongly aerobic, Pleomorphic bacteria.# Vibrio lyse when injected intraperitoneally into specifically immunized guinea pigs (Pfieffer's phenomenon).# 'Fish in stream' appearance.# Darting motility (swam of gnats).# Grow better in alkaline medium.# NaCl required for optimal growth.# Bile salt agar# TCBS agar selective media(AIIMS Nov 2007)# Alkaline peptone water--enrichment media# \"Cholera red\" reaction -Indole is formed & nitrates are reduced to nitrites.# Vibrio cholerae toxin permanently activates Gs, causing rice-water diarrhea. ADP ribosylation of G protein stimulates adenylyl cyclase; -pumping of Cl into gut and -Na+ absorption. H2O moves into gut lumen; causes voluminous rice-water diarrhea.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"alkaline pH\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5cf00c27-4472-4713-9b52-1a4722a342c7": {
-    "cop": 2,
-    "exp": "Chassaignac's tubercle (carotid tubercle) is the other name of anterior tubercle of transverse process of C6 vertebra."
+    "cop": 1,
+    "exp": "Chassaignac's tubercle (carotid tubercle) is the other name of anterior tubercle of transverse process of C6 vertebra.",
+    "hint_exp": "🧩 Your crush solved \"Chassaignac tubercle\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ec9f805a-9820-4b13-b31c-4200a1e70c55": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Duration treatment multibacillary leprosy\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "25eff63b-265b-466f-8841-44efb6261159": {
-    "cop": 1,
-    "exp": "Ref: R Alagappan - Manual of Practical Medicine 4th Edition.pg no:147 Valve Involvement in Rheumatic Hea Disease Mitral valve alone 50% Aoic valve alone 15-20% Mitral and Aoic valves together 35-40% Mitral, Aoic and Tricuspid valves 2-3% Pulmonary valve is viually never involved. In RHD, mitral valve is most commonly involved followed by involvement of the aoic valve as the pressure gradient across the mitral valve is the greatest, followed by that across the aoic valve. So, the mitral valve is more susceptible to develop pathological changes than the aoic valve"
+    "cop": 0,
+    "exp": "Ref: R Alagappan - Manual of Practical Medicine 4th Edition.pg no:147 Valve Involvement in Rheumatic Hea Disease Mitral valve alone 50% Aoic valve alone 15-20% Mitral and Aoic valves together 35-40% Mitral, Aoic and Tricuspid valves 2-3% Pulmonary valve is viually never involved. In RHD, mitral valve is most commonly involved followed by involvement of the aoic valve as the pressure gradient across the mitral valve is the greatest, followed by that across the aoic valve. So, the mitral valve is more susceptible to develop pathological changes than the aoic valve",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Rheumatic fever\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "12286ac3-09c2-4602-8fc8-740074b1b058": {
-    "cop": 2,
-    "exp": "Basilar aery is single unpaired vessel, formed by right &left veebral aeries at lower border of pons, Ref: Gray's40e/p-262"
+    "cop": 1,
+    "exp": "Basilar aery is single unpaired vessel, formed by right &left veebral aeries at lower border of pons, Ref: Gray's40e/p-262",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2baa6b54-e8d6-42e7-b7ec-5e7f6ca79a60": {
-    "cop": 2,
-    "exp": "*All the above except leptin increases appetite . Leptin decreses appetite . <img src=\" /> Image ref - Harrison internal medicine 20e p2839"
+    "cop": 1,
+    "exp": "*All the above except leptin increases appetite . Leptin decreses appetite . <img src=\" /> Image ref - Harrison internal medicine 20e p2839",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"principal polypeptide that increases\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d8b72f3b-38b9-4133-b703-b57959125786": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Cryptococcus neoformans\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "eb7e33c1-b332-4de9-b35f-c9814fd277b9": {
-    "cop": 2,
-    "exp": "Ans. (B). Executive magistrate can order for exhumation; D. Cr PC 176(4) is related to enquiry of exhumated bodyExhumation:It is the legal digging outQof an already buried body from the grave.Authorization:Written order from the First Class MagistrateQ/District Magistrate/ Executive Magistrate under 176CrPQPolice cannot order exhumation.Time limit: In India, there is no time limitQ for ordering of the exhumation"
+    "cop": 1,
+    "exp": "Ans. (B). Executive magistrate can order for exhumation; D. Cr PC 176(4) is related to enquiry of exhumated bodyExhumation:It is the legal digging outQof an already buried body from the grave.Authorization:Written order from the First Class MagistrateQ/District Magistrate/ Executive Magistrate under 176CrPQPolice cannot order exhumation.Time limit: In India, there is no time limitQ for ordering of the exhumation",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fa1ca656-46d0-41eb-a71d-63efe8f38fbf": {
-    "cop": 4,
-    "exp": "Ans. is 4d' i.e., C o Fast fibers carrying pain- Ad (fast pain)o Slow fibers carrying pain - C (slow pain)Functions of different fibreso Type A fibersA a- Proprioception, somatic motor (extrafusal fibers of muscle spindle).A b - Touch, pressure, kinestheticAg - Motor to intrafusal fibers of muscle spindleA d Pain, temperature, touch, pressureo Type B fibers - Preganglionic autonomico Type C fibers - Pain, temperature. Postganglionic autonomic (mainly sympathetic)"
+    "cop": 3,
+    "exp": "Ans. is 4d' i.e., C o Fast fibers carrying pain- Ad (fast pain)o Slow fibers carrying pain - C (slow pain)Functions of different fibreso Type A fibersA a- Proprioception, somatic motor (extrafusal fibers of muscle spindle).A b - Touch, pressure, kinestheticAg - Motor to intrafusal fibers of muscle spindleA d Pain, temperature, touch, pressureo Type B fibers - Preganglionic autonomico Type C fibers - Pain, temperature. Postganglionic autonomic (mainly sympathetic)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Pain carried hich type\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1823c9e8-1f96-4dac-b370-06aadc515e88": {
-    "cop": 1,
-    "exp": "Ans. Gastric lavage is done"
+    "cop": 0,
+    "exp": "Ans. Gastric lavage is done",
+    "hint_exp": "🎯 Think of \"kerosene oil poisoning\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "985db56c-94e1-4a7a-a1d0-018b53d0753e": {
-    "cop": 4,
-    "exp": "Some proteins contain additional amino acids that arise due to post-translational modification of existing amino acyl residues. Examples: Vitamin C mediated hydroxylation of proline and peptidyl lysine to 4-hydroxyproline and 5-hydroxylysine Vitamin K mediated g-carboxylation of glutamate Methylation Formylation Acetylation Prenylation (addition of fatty acid residues) Glypiation (addition of Glycosyl PI anchor) Phosphorylation Therefore Aminoacyl tRNA synthetase is not required by these."
+    "cop": 3,
+    "exp": "Some proteins contain additional amino acids that arise due to post-translational modification of existing amino acyl residues. Examples: Vitamin C mediated hydroxylation of proline and peptidyl lysine to 4-hydroxyproline and 5-hydroxylysine Vitamin K mediated g-carboxylation of glutamate Methylation Formylation Acetylation Prenylation (addition of fatty acid residues) Glypiation (addition of Glycosyl PI anchor) Phosphorylation Therefore Aminoacyl tRNA synthetase is not required by these.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Aminoacyl tRNA synthetase required\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "88d87302-c63f-4133-ac37-e515a5e9ab5b": {
-    "cop": 3,
-    "exp": "Ans. C. Phase 2The phase 2 of ventricular action potential reflects the ST segment."
+    "cop": 2,
+    "exp": "Ans. C. Phase 2The phase 2 of ventricular action potential reflects the ST segment.",
+    "hint_exp": "🧩 Your crush solved \"ECG\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

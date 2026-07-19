@@ -1,202 +1,252 @@
 {
   "8461818f-b58a-46e4-b381-5ad6890a9434": {
-    "cop": 4,
-    "exp": "Answer: d) Non reassuring fetal heart rate tracingCardio toco graphy-Continuous electric fetal monitoring:CharacterNormalBaseline FHR110-150bpmBaseline variability5-25bpmAcceleration2 in 20 minDecelerationNone or earlyBaseline FHR is the mean level of FHR between the peaks and the depressions in beats per minute (bpm).Baseline variability is the oscillation of baseline FHR excluding the accelerations and decelerations. A base line variability of 5-25 bpm is a sign of fetal wellbeing.Accelerations are increased in FHR by 15 bpm or more lasting for at least 15 secs. Denotes healthy fetus.Deceleration is decrease in FHR below the baseline by 15 bpm or more. Three basic types of deceleration are observed:Early decelerationLate decelerationVariable decelerationType-1 dips.Due to headcompression.Type-ll dips.Due to utero-placentalinsufficiency and fetal hypoxiaIndicates cord compression and may disappear with the change in position of the patient.Pneumonic: (VEAL-CHOP)V- variable decelerationsC- cord compression/ prolapseE- early decelerationsH- Head compressionA- AccelerationsO-OKL- late acceelrationsP-Placental insuffiencyWith each uterine contraction, blood flow to the placenta decreases, and the fetus is exposed to transient hypoxia.As the labor progresses and more and more contractions occur, this hypoxia can eventually lead to a change from aerobic to anaerobic metabolism- fetal acidemia.However, the fetus has a variety of protective mechanisms, including a blood buffering system and the diving reflex (a lowering of the heart rate in times of hypoxic stress), to protect it from becoming dangerously acidemic.Electronic fetal monitoring is not a very specific tool for identifying fetal acidemia.Many fetuses with a non-reassuring fetal heart rate tracing do not have acidemia and are not in distress.However, it can be very difficult to distinguish non-acidemic fetuses with non-reassuring fetal heart rate tracings from acidemic fetuses with non-reassuring fetal heart rate tracings.Thus, the delivery of many fetuses is expedited because of the concern for fetal acidemia when, in fact, the fetus is not acidemic at all.Thus, it is most accurate to state, as is in this case, that the fetus was delivered because of the non-reassuring fetal heart rate tracing.Fetal acidemia is not the reason for delivery. In fact, there is a strong likelihood that this fetus is not acidemic at all.Fetal distress is not the reason for delivery. There is a strong likelihood that this fetus is perfectly healthy and will have high neonatal APGAR scores and no distress at all.Fetal hypoxic encephalopathy is not the reason for delivery. The desire to prevent hypoxic/acidemic damage to organs, including the brain, is the reason for expediting delivery.However, the non-reassuring fetal tracing does not indicate that hypoxic encephalopathy is necessarily occurring.Low neonatal APGAR scores can be a marker of fetal acidemia.However, many fetuses with non-reassuring fetal heart rate tracings do not have low neonatal APGAR scores."
+    "cop": 3,
+    "exp": "Answer: d) Non reassuring fetal heart rate tracingCardio toco graphy-Continuous electric fetal monitoring:CharacterNormalBaseline FHR110-150bpmBaseline variability5-25bpmAcceleration2 in 20 minDecelerationNone or earlyBaseline FHR is the mean level of FHR between the peaks and the depressions in beats per minute (bpm).Baseline variability is the oscillation of baseline FHR excluding the accelerations and decelerations. A base line variability of 5-25 bpm is a sign of fetal wellbeing.Accelerations are increased in FHR by 15 bpm or more lasting for at least 15 secs. Denotes healthy fetus.Deceleration is decrease in FHR below the baseline by 15 bpm or more. Three basic types of deceleration are observed:Early decelerationLate decelerationVariable decelerationType-1 dips.Due to headcompression.Type-ll dips.Due to utero-placentalinsufficiency and fetal hypoxiaIndicates cord compression and may disappear with the change in position of the patient.Pneumonic: (VEAL-CHOP)V- variable decelerationsC- cord compression/ prolapseE- early decelerationsH- Head compressionA- AccelerationsO-OKL- late acceelrationsP-Placental insuffiencyWith each uterine contraction, blood flow to the placenta decreases, and the fetus is exposed to transient hypoxia.As the labor progresses and more and more contractions occur, this hypoxia can eventually lead to a change from aerobic to anaerobic metabolism- fetal acidemia.However, the fetus has a variety of protective mechanisms, including a blood buffering system and the diving reflex (a lowering of the heart rate in times of hypoxic stress), to protect it from becoming dangerously acidemic.Electronic fetal monitoring is not a very specific tool for identifying fetal acidemia.Many fetuses with a non-reassuring fetal heart rate tracing do not have acidemia and are not in distress.However, it can be very difficult to distinguish non-acidemic fetuses with non-reassuring fetal heart rate tracings from acidemic fetuses with non-reassuring fetal heart rate tracings.Thus, the delivery of many fetuses is expedited because of the concern for fetal acidemia when, in fact, the fetus is not acidemic at all.Thus, it is most accurate to state, as is in this case, that the fetus was delivered because of the non-reassuring fetal heart rate tracing.Fetal acidemia is not the reason for delivery. In fact, there is a strong likelihood that this fetus is not acidemic at all.Fetal distress is not the reason for delivery. There is a strong likelihood that this fetus is perfectly healthy and will have high neonatal APGAR scores and no distress at all.Fetal hypoxic encephalopathy is not the reason for delivery. The desire to prevent hypoxic/acidemic damage to organs, including the brain, is the reason for expediting delivery.However, the non-reassuring fetal tracing does not indicate that hypoxic encephalopathy is necessarily occurring.Low neonatal APGAR scores can be a marker of fetal acidemia.However, many fetuses with non-reassuring fetal heart rate tracings do not have low neonatal APGAR scores.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the decision\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d70fb82e-fa21-43de-bae2-ba8a9b82ea89": {
-    "cop": 1,
-    "exp": "Oral"
+    "cop": 0,
+    "exp": "Oral",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"transmission of Toxoplasmosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "00606e93-5480-4aa6-8c35-8739ea2d12fe": {
-    "cop": 4,
-    "exp": "Serine is a dietary non-essential amino acid since it can be synthesised from the glycolytic intermediate 3-phosphoglycerate. Oxidation of 3-phosphoglycerate by a dehydrogenase, conves it to 3-phosphohydroxypyruvate. Transamination and subsequent dephosphorylation then form serine."
+    "cop": 3,
+    "exp": "Serine is a dietary non-essential amino acid since it can be synthesised from the glycolytic intermediate 3-phosphoglycerate. Oxidation of 3-phosphoglycerate by a dehydrogenase, conves it to 3-phosphohydroxypyruvate. Transamination and subsequent dephosphorylation then form serine.",
+    "hint_exp": "🎯 Think of \"human body\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "90786514-a3e2-48e7-a65c-15317ec558c1": {
-    "cop": 1,
-    "exp": "Shortening of lower limb is seen in (from maximum to minimum).\n\n\nPosterior dislocation of hip\nShaft femur fracture\nFracture subtrochanteric region\nIntertrochanteric fracture\nNeck femur fracture"
+    "cop": 0,
+    "exp": "Shortening of lower limb is seen in (from maximum to minimum).\n\n\nPosterior dislocation of hip\nShaft femur fracture\nFracture subtrochanteric region\nIntertrochanteric fracture\nNeck femur fracture",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the lower limb\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "950db640-7498-4a5b-b51d-d5824c886918": {
-    "cop": 2,
-    "exp": "(B) Stimulates platelet aggregation and clot retraction# Aspirin, Ticlopidine, Dipyridamole are antiplatelet drugs.> Ticlopidine interacts with platelet membrane GP llb/llla & alters fibrinogen binding to platelets.> Ticlopidine inhibits platelet aggregation & clot retraction. It has no effect on TXA2, but bleeding time is prolonged."
+    "cop": 1,
+    "exp": "(B) Stimulates platelet aggregation and clot retraction# Aspirin, Ticlopidine, Dipyridamole are antiplatelet drugs.> Ticlopidine interacts with platelet membrane GP llb/llla & alters fibrinogen binding to platelets.> Ticlopidine inhibits platelet aggregation & clot retraction. It has no effect on TXA2, but bleeding time is prolonged.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bb1e595a-251a-42ab-9701-10caba774c06": {
-    "cop": 4,
-    "exp": "Ans. (d) Unlikely to cause pulmonary renal syndrome(Ref: Robbins 9th/pg 510-11; 8th/pg 515)Microscopic polyangiitis (MP)Option a true- MP is small vessel vasculitisTypically spare medium-sized and larger arteriesOption b is true- P-ANCA is present is majority of the patients.Option c is true- major clinical features include hemoptysis, hematuria and proteinuria, bowel pain or bleeding, muscle pain or weakness, and palpable cutaneous purpura.Skin findings are as follows:Palpable purpura (41%), Leukocytoclastic angiitis, livedo reticularis (12%), skin ulcerations, necrosis and gangrene, necrotizing nodules and digital ischemia (7%)Urticaria - Vasculitis-associated urticaria that lasts longer than 24 hours Option d is false- Necrotizing glomerulonephritis (90% of patients) and pulmonary capillaritis are common,"
+    "cop": 3,
+    "exp": "Ans. (d) Unlikely to cause pulmonary renal syndrome(Ref: Robbins 9th/pg 510-11; 8th/pg 515)Microscopic polyangiitis (MP)Option a true- MP is small vessel vasculitisTypically spare medium-sized and larger arteriesOption b is true- P-ANCA is present is majority of the patients.Option c is true- major clinical features include hemoptysis, hematuria and proteinuria, bowel pain or bleeding, muscle pain or weakness, and palpable cutaneous purpura.Skin findings are as follows:Palpable purpura (41%), Leukocytoclastic angiitis, livedo reticularis (12%), skin ulcerations, necrosis and gangrene, necrotizing nodules and digital ischemia (7%)Urticaria - Vasculitis-associated urticaria that lasts longer than 24 hours Option d is false- Necrotizing glomerulonephritis (90% of patients) and pulmonary capillaritis are common,",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"EXCEPT\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ad019d16-1b04-42ec-a6c5-63fcb1d7d89e": {
-    "cop": 1,
-    "exp": "Answer- A. Splenic injuryTachycardia and hypotension after blunt trauma to left abdomen should ale the clinician to the potential for splenic injury"
+    "cop": 0,
+    "exp": "Answer- A. Splenic injuryTachycardia and hypotension after blunt trauma to left abdomen should ale the clinician to the potential for splenic injury",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"patient sustained trauma left\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b25cac4a-e62a-48e2-908d-30ad85107be6": {
-    "cop": 2,
-    "exp": "Ans. Osteosarcoma"
+    "cop": 1,
+    "exp": "Ans. Osteosarcoma",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3406831b-8e42-4773-8bd2-81c4a89467bd": {
-    "cop": 1,
-    "exp": "Frank breech is the most common type of breech frank breech presentation- the lower extremities are flexed at the hips and extended at the knees, and thus the feet lie in close proximity to the head."
+    "cop": 0,
+    "exp": "Frank breech is the most common type of breech frank breech presentation- the lower extremities are flexed at the hips and extended at the knees, and thus the feet lie in close proximity to the head.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"breech presentation at term\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0d5a242a-6848-4480-b50d-b064edeb2a79": {
-    "cop": 3,
-    "exp": "Intestinal obstruction is the most common presentation in adults. Where as in children the most common presentation is bleeding Ref: schwaz's principle of surgery 10th edition Pgno : 1164"
+    "cop": 2,
+    "exp": "Intestinal obstruction is the most common presentation in adults. Where as in children the most common presentation is bleeding Ref: schwaz's principle of surgery 10th edition Pgno : 1164",
+    "hint_exp": "🧩 Your crush solved \"False statement regarding Meckel\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c431392d-4918-4b46-8025-ec3e489f5aa3": {
-    "cop": 4,
-    "exp": "MC cause of Cushing's syndrome is iatrogenic exogenous administration of steroids. MC endogenous cause of Cushing's syndrome is bilateral adrenal hyperplasia secondary to hypersecretion of ACTH from pituitary or from an ectopic non-pituitary source"
+    "cop": 3,
+    "exp": "MC cause of Cushing's syndrome is iatrogenic exogenous administration of steroids. MC endogenous cause of Cushing's syndrome is bilateral adrenal hyperplasia secondary to hypersecretion of ACTH from pituitary or from an ectopic non-pituitary source",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"of Cushing syndrome\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2855e6f3-f684-46f2-bcfc-5648c65d5bb6": {
-    "cop": 1,
-    "exp": "Metamerism is the phenomenon where a color match under a lighting condition appears different under a different lighting condition."
+    "cop": 0,
+    "exp": "Metamerism is the phenomenon where a color match under a lighting condition appears different under a different lighting condition.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Metamerism invariably involves\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "497793f6-123f-4ade-a24b-bca8be899543": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Diplotene stage Oogenesis refers to the process of formation of ova from the primitive germ cells. Unlike fetal testis (in which spermatogenesis beings at pubey), the fetal ovary begins oogenesis by 10 weeks of gestation. The sequence of events in oogenesis are : The primitive germ cells undergo mitotic divisions to form oogonia (diploid cells). Oogonium is unique in that it is the only female cell in which both X' chromosomes are active. The oogonia proliferate by mitosis to form primary oocytes (diploid cells). Primary oocytes formed from the oogonia enter a prolonged prophase (diplotene stage) of the first meiotic division and remain in this stage until ovulation occurs after pubey. Primary oocytes completes the first meiotic division at pubey just before ovulation to form secondary oocyte (haploid cell) and 1st polor body. Secondary oocyte immediately begins second meiotic division but this division stops at metaphase and is completed only if the mature ovum (ootid) is feilized with sperm. At that time second polor body (polocyte) is extruded and the feilized ovum proceeds to form a new individual. Feilization normally occurs in the ampulla of fallopian tube."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Diplotene stage Oogenesis refers to the process of formation of ova from the primitive germ cells. Unlike fetal testis (in which spermatogenesis beings at pubey), the fetal ovary begins oogenesis by 10 weeks of gestation. The sequence of events in oogenesis are : The primitive germ cells undergo mitotic divisions to form oogonia (diploid cells). Oogonium is unique in that it is the only female cell in which both X' chromosomes are active. The oogonia proliferate by mitosis to form primary oocytes (diploid cells). Primary oocytes formed from the oogonia enter a prolonged prophase (diplotene stage) of the first meiotic division and remain in this stage until ovulation occurs after pubey. Primary oocytes completes the first meiotic division at pubey just before ovulation to form secondary oocyte (haploid cell) and 1st polor body. Secondary oocyte immediately begins second meiotic division but this division stops at metaphase and is completed only if the mature ovum (ootid) is feilized with sperm. At that time second polor body (polocyte) is extruded and the feilized ovum proceeds to form a new individual. Feilization normally occurs in the ampulla of fallopian tube.",
+    "hint_exp": "🎯 Think of \"After first meiotic division\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "60c7290a-21a8-4ba6-901f-0ff7586a6981": {
-    "cop": 2,
-    "exp": "Ans. (b) Stylopharyngeus muscle* Cranial nerve IX (glossopharyngeal nerve) is a mixed nerve that carries afferent sensory and efferent motor information.Functions* Branchial motor: supplies the stylopharyngeus muscle* Visceral motor: provides parasympathetic innervations to the parotid gland* Visceral sensory: carries visceral sensory information from the carotid sinus and carotid body.* General sensory: provides general sensory information from the skin of the external ear internal surface of the tympanic membrane, upper pharynx and the posterior one-third of the tongue.* Special sensory: provides taste sensation from the posterior one-third of the tongue including circumvallate papillae."
+    "cop": 1,
+    "exp": "Ans. (b) Stylopharyngeus muscle* Cranial nerve IX (glossopharyngeal nerve) is a mixed nerve that carries afferent sensory and efferent motor information.Functions* Branchial motor: supplies the stylopharyngeus muscle* Visceral motor: provides parasympathetic innervations to the parotid gland* Visceral sensory: carries visceral sensory information from the carotid sinus and carotid body.* General sensory: provides general sensory information from the skin of the external ear internal surface of the tympanic membrane, upper pharynx and the posterior one-third of the tongue.* Special sensory: provides taste sensation from the posterior one-third of the tongue including circumvallate papillae.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Glossopharyngeal nerve supplies\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d301149a-2792-4589-ba64-a8a302695b97": {
-    "cop": 1,
-    "exp": "Bartholin glands may become obstructed, inflamed, and cystic because of abscess formation, which then produces focal pain. A Gartner duct cyst may form in the lateral vaginal wall from the remnant of a wolffian (mesonephric) duct; the cyst is filled with fluid and is usually not inflamed. Hair follicles are not present at the inner labia. The Bartholin gland lies just inferior to the fascia of the urogenital diaphragm and just anterior to the vestibular bulb, which is not glandular and does not become cystic."
+    "cop": 0,
+    "exp": "Bartholin glands may become obstructed, inflamed, and cystic because of abscess formation, which then produces focal pain. A Gartner duct cyst may form in the lateral vaginal wall from the remnant of a wolffian (mesonephric) duct; the cyst is filled with fluid and is usually not inflamed. Hair follicles are not present at the inner labia. The Bartholin gland lies just inferior to the fascia of the urogenital diaphragm and just anterior to the vestibular bulb, which is not glandular and does not become cystic.",
+    "hint_exp": "🧩 Your crush solved \"the following structures\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a8d3bde4-1996-4ae3-bf98-ef4b5bac565c": {
-    "cop": 1,
-    "exp": "Ans: A"
+    "cop": 0,
+    "exp": "Ans: A",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which following given hepatic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fda64400-ac24-418e-b550-3c27c83cf9b9": {
-    "cop": 3,
-    "exp": "Ans is 'c' i.e, Early diagnosis and treatment"
+    "cop": 2,
+    "exp": "Ans is 'c' i.e, Early diagnosis and treatment",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"TB and leprosy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "761b61b1-9a6b-439a-b07a-cfbd5566ef62": {
-    "cop": 4,
-    "exp": "#NAME?"
+    "cop": 3,
+    "exp": "#NAME?",
+    "hint_exp": "🎯 Think of \"year African American with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "79aa963b-571e-4ce6-88d7-9fa451b5f26b": {
-    "cop": 2,
-    "exp": "Ans. is 'b' they integrate rapidly into human gene In gene therapy vector is an agent required to transfer gene to an appropriate cell.Vectors used in gene therapy are of two types:Retrovirus belong to the vectors which integrate completely in the host chromosome.Other viruses used as vectors in gene therapy. Lenti virus - fully integrated Adeno virus - as episomes"
+    "cop": 1,
+    "exp": "Ans. is 'b' they integrate rapidly into human gene In gene therapy vector is an agent required to transfer gene to an appropriate cell.Vectors used in gene therapy are of two types:Retrovirus belong to the vectors which integrate completely in the host chromosome.Other viruses used as vectors in gene therapy. Lenti virus - fully integrated Adeno virus - as episomes",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Retrovirus used gene therapy\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "90d9e8a8-a97d-433f-a122-06261a1b5913": {
-    "cop": 3,
-    "exp": "Calcium channel blockers are contraindicated in sick sinus syndrome along with beta blockers . Sick sinus syndrome, also known assinus node dysfunction (SND), is adisorder of the sinoatrial (SA) node caused by impaired pacemaker function and impulse transmission producing a constellation of abnormal rhythms Refer kDT 6/e p532"
+    "cop": 2,
+    "exp": "Calcium channel blockers are contraindicated in sick sinus syndrome along with beta blockers . Sick sinus syndrome, also known assinus node dysfunction (SND), is adisorder of the sinoatrial (SA) node caused by impaired pacemaker function and impulse transmission producing a constellation of abnormal rhythms Refer kDT 6/e p532",
+    "hint_exp": "🧩 Your crush solved \"used for all except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "75603494-b684-4a4a-8f58-ef569d858dda": {
-    "cop": 1,
-    "exp": "Psoriasis is characterized by well-circumscribed, sharply demarcated erythematous papules and/or plaques. These are covered by dry, brittle, silvery or grayish white, loosely adherent, micaceous scales. The scales are disposed in lamellar fashion. Occasionally a white blanching ring is seen around the psoriatic lesions, known as Woronoff ring. On grattage, silvery white scales come off in layers. After their removal, a characteristic coherence is observed, as if one scratches on a wax candle (candle grease sign). On fuher grattage, a thin peel like membrane, Berkley's membrane, is seen which comes off as a whole. On its removal, a wet surface with multiple pinpoint bleeding is revealed. This is called Auspitz sign. Ref: Textbook of Clinical Dermatology By Sehgal, 4th edition, Page 127."
+    "cop": 0,
+    "exp": "Psoriasis is characterized by well-circumscribed, sharply demarcated erythematous papules and/or plaques. These are covered by dry, brittle, silvery or grayish white, loosely adherent, micaceous scales. The scales are disposed in lamellar fashion. Occasionally a white blanching ring is seen around the psoriatic lesions, known as Woronoff ring. On grattage, silvery white scales come off in layers. After their removal, a characteristic coherence is observed, as if one scratches on a wax candle (candle grease sign). On fuher grattage, a thin peel like membrane, Berkley's membrane, is seen which comes off as a whole. On its removal, a wet surface with multiple pinpoint bleeding is revealed. This is called Auspitz sign. Ref: Textbook of Clinical Dermatology By Sehgal, 4th edition, Page 127.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Berkley membrane seen following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3a57d136-ab36-4c3a-8e30-51f9da6511c3": {
-    "cop": 1,
-    "exp": "Epistaxis in children and young adults usually arises from the anterior nasal septum (Kiessel bach's plexus). In elderly persons, however, spontaneous rupture of a sclerotic blood vessel in the posterior nasal septum is usually the cause of bleeding, especially in combination with hypertension."
+    "cop": 0,
+    "exp": "Epistaxis in children and young adults usually arises from the anterior nasal septum (Kiessel bach's plexus). In elderly persons, however, spontaneous rupture of a sclerotic blood vessel in the posterior nasal septum is usually the cause of bleeding, especially in combination with hypertension.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"blood pressure\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0b02819d-58a0-43de-96c9-7399113e36f2": {
-    "cop": 1,
-    "exp": "Best view to seen pneumoperitoneum - Chest x-ray in erect position.\nIf unable to stand - Left lateral decubitus View."
+    "cop": 0,
+    "exp": "Best view to seen pneumoperitoneum - Chest x-ray in erect position.\nIf unable to stand - Left lateral decubitus View.",
+    "hint_exp": "🎯 Think of \"Best view seen pneumoperitoneum\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d83bad20-4c8c-4b2c-875a-be0a90d86e72": {
-    "cop": 1,
-    "exp": "Answer is option 1, imipramine Baseline studies showed significantly larger and less concentrated nocturnal urine among enuretics compared with controls. We observed a marked antidiuretic effect of imipramine in 6 enuretics with severe nocturnal polyuria. The imipramine induced decrease in urine output was accompanied by reduced osmolal clearance. Approximately a third of the observed decrease in solute excretion was attributed to lower excretion of sodium and potassium. Ref:"
+    "cop": 0,
+    "exp": "Answer is option 1, imipramine Baseline studies showed significantly larger and less concentrated nocturnal urine among enuretics compared with controls. We observed a marked antidiuretic effect of imipramine in 6 enuretics with severe nocturnal polyuria. The imipramine induced decrease in urine output was accompanied by reduced osmolal clearance. Approximately a third of the observed decrease in solute excretion was attributed to lower excretion of sodium and potassium. Ref:",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"choice in nocturnal enuresis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b88dc844-3a9e-4edd-8646-b62d8a5a2a85": {
-    "cop": 4,
-    "exp": "None"
+    "cop": 3,
+    "exp": "None",
+    "hint_exp": "🧩 Your crush solved \"Causes trimester aboion except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d428ae3b-3f21-4bf5-82e8-2cd511f9b0be": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Thalidomide used following except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "dfd3804d-447e-4ec9-9653-db0d413bb05f": {
-    "cop": 4,
-    "exp": "Indications for surgery in BPH Prostatism (frequncy,urgency,dysuria) Acute rention of urine Chronic retention of urine with residue more than 200ml Haematuria Complications like hydroureter , hydronephrosis , stone formation , bladder changes etc ref- srb's manual of surgery 5e p 1045"
+    "cop": 3,
+    "exp": "Indications for surgery in BPH Prostatism (frequncy,urgency,dysuria) Acute rention of urine Chronic retention of urine with residue more than 200ml Haematuria Complications like hydroureter , hydronephrosis , stone formation , bladder changes etc ref- srb's manual of surgery 5e p 1045",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a0644527-e154-4a3d-abb0-aea192ed8059": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"According Veau classification cleft\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5d203709-e1c4-4847-a168-aedd179ba21e": {
-    "cop": 1,
-    "exp": "Ans) a (Stratum spinosum) Ref: Lever's histopathology) of skin edition no 11.The keratinocytes are arranged in four layers: basal cell layer (stratum basalis), squamous cell layer (stratum spinosum), granular layer (stratum granulosum), and homy layer (stratum corneum). The terms stratum malpighii and rete malpighii are often applied to the three lower layers, which contain the basal, squamous, and granular cells, and comprise the nucleated, viable epidermis. An additional layer, the stratum lucidum, can be recognized in areas having a thick stratum granulosum and corneum forming the lowest portion of the homy layer, especially on the palms and soles."
+    "cop": 0,
+    "exp": "Ans) a (Stratum spinosum) Ref: Lever's histopathology) of skin edition no 11.The keratinocytes are arranged in four layers: basal cell layer (stratum basalis), squamous cell layer (stratum spinosum), granular layer (stratum granulosum), and homy layer (stratum corneum). The terms stratum malpighii and rete malpighii are often applied to the three lower layers, which contain the basal, squamous, and granular cells, and comprise the nucleated, viable epidermis. An additional layer, the stratum lucidum, can be recognized in areas having a thick stratum granulosum and corneum forming the lowest portion of the homy layer, especially on the palms and soles.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"skin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0d15d986-7eea-45d0-9253-14fa339a1736": {
-    "cop": 3,
-    "exp": "Palmer's notation Permanent teeth Right left 8 7 6 5 4 3 2 1 1 2 3 4 5 6 7 8 8 7 6 5 4 3 2 1 1 2 3 4 5 6 7 8 Temporary teeth 5 4 3 2 1 1 2 3 4 5 5 4 3 2 1 1 2 3 4 5 Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE NO 85"
+    "cop": 2,
+    "exp": "Palmer's notation Permanent teeth Right left 8 7 6 5 4 3 2 1 1 2 3 4 5 6 7 8 8 7 6 5 4 3 2 1 1 2 3 4 5 6 7 8 Temporary teeth 5 4 3 2 1 1 2 3 4 5 5 4 3 2 1 1 2 3 4 5 Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE NO 85",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5b39092a-472a-443e-978a-b967a32d28c4": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., PASBasement membranes are periodic acid-Schiff (PAS) positive amorphous structures that lie underneath epithelia of differenent organs."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., PASBasement membranes are periodic acid-Schiff (PAS) positive amorphous structures that lie underneath epithelia of differenent organs.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"stained by\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4baf77b2-dbc9-4197-a939-c0fa767dc68e": {
-    "cop": 4,
-    "exp": "Most benign strictures follow iatrogenic bile duct injury A surgeon experience increases beyond 20 cases, bile duct injury rate Decreases Errors leading to Laparoscopic bile duct injuriea stem from misperception, not errors of skill, knowledge or judgement Primary cause of error in 97% cases was a visual Perceptual illusion whereas only 3% injuries were due to faults of technical skills Ref: Sabiston 20th edition Pgno :1511"
+    "cop": 3,
+    "exp": "Most benign strictures follow iatrogenic bile duct injury A surgeon experience increases beyond 20 cases, bile duct injury rate Decreases Errors leading to Laparoscopic bile duct injuriea stem from misperception, not errors of skill, knowledge or judgement Primary cause of error in 97% cases was a visual Perceptual illusion whereas only 3% injuries were due to faults of technical skills Ref: Sabiston 20th edition Pgno :1511",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"CBD injury\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b84b22b2-65fb-4133-bc28-0de2bc434496": {
-    "cop": 1,
-    "exp": "Nifedipine It is the first and the prototype DHP, but infrequently used now. The overriding action is arteriolar dilatation → t.p.r. decreases, BP falls. The direct depressant action on heart is significant. As described above, it does not depress SA node or A-V conduction. Nifedipine acts rapidly, due to which reflex sympathetic stimulation of heart predominates producing tachycardia, increased contractility and CO. No decrease in venous return along with lowering of afterload aids increase in CO. Coronary flow is increased. The duration of action is short (3-6 hours).\nDose: 5-20 mg BD-TDS oral.\nt.p.r = total peripheral resistance.\nCO = Cardiac output.\nReference: Essentials of Medical Pharmacology Eighth Edition KD  TRIPATHI  page no 595"
+    "cop": 0,
+    "exp": "Nifedipine It is the first and the prototype DHP, but infrequently used now. The overriding action is arteriolar dilatation → t.p.r. decreases, BP falls. The direct depressant action on heart is significant. As described above, it does not depress SA node or A-V conduction. Nifedipine acts rapidly, due to which reflex sympathetic stimulation of heart predominates producing tachycardia, increased contractility and CO. No decrease in venous return along with lowering of afterload aids increase in CO. Coronary flow is increased. The duration of action is short (3-6 hours).\nDose: 5-20 mg BD-TDS oral.\nt.p.r = total peripheral resistance.\nCO = Cardiac output.\nReference: Essentials of Medical Pharmacology Eighth Edition KD  TRIPATHI  page no 595",
+    "hint_exp": "🎯 Think of \"action of nifedipine\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "80e508f3-a2b3-4ddf-b653-d48269419583": {
-    "cop": 2,
-    "exp": "DOC for rapid cyclers is Valproate. \nAlternatives are Lithium, Carbamazepine and Lamotrigine."
+    "cop": 1,
+    "exp": "DOC for rapid cyclers is Valproate. \nAlternatives are Lithium, Carbamazepine and Lamotrigine.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"rapid cycling\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "648803ea-dcfe-4720-bc5a-b37b0d04e283": {
-    "cop": 1,
-    "exp": "Answer is A (Not common in Asians): Primary hepatocellular carcinoma is specially prevalent in regions of Asia and Sub-Saharan Africa. Primary hepatocellular carcinoma is specially prevalent in regions of Asia and Sub-Saharan Africa. The principal reason for high incidence of HCC in pas of Asia and Africa is the frequency of chronic infection with hepatitis B virus and hepatitis C virus. Raised titres of HBV and HBC markers are thus impoant etiological predictors. Percutaneous liver biopsy is diagnostic provided the sample is taken from an area localized by ultrasound or CT -Harrison Fibromellar variant grows slowly and is associated with a longer survival if treated - Harrison (It has thus a better prognosis)"
+    "cop": 0,
+    "exp": "Answer is A (Not common in Asians): Primary hepatocellular carcinoma is specially prevalent in regions of Asia and Sub-Saharan Africa. Primary hepatocellular carcinoma is specially prevalent in regions of Asia and Sub-Saharan Africa. The principal reason for high incidence of HCC in pas of Asia and Africa is the frequency of chronic infection with hepatitis B virus and hepatitis C virus. Raised titres of HBV and HBC markers are thus impoant etiological predictors. Percutaneous liver biopsy is diagnostic provided the sample is taken from an area localized by ultrasound or CT -Harrison Fibromellar variant grows slowly and is associated with a longer survival if treated - Harrison (It has thus a better prognosis)",
+    "hint_exp": "🧩 Your crush solved \"features hepatocellular carcinoma except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ac9d05a3-64a1-47f9-b6c4-f874bbb6099f": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"herpes primary lesion\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8a464c7f-0fb2-49f4-8c04-5486037626ff": {
-    "cop": 1,
-    "exp": "Prostate cancers are adenocarcinomas that arise from the prostatic acinar cells. In eighty-five percent of the cases, the adenocarcinoma is multifocal. Prostate cancers are graded according to their dysplasia, utilizing the Gleason scoring system. Sarcoma of the prostate accounts for 0.1% of all malignant prostatic tumors. Rhabdomyosarcoma is the most frequent mesenchymal tumor within the prostate, and is seen almost exclusively in childhood. Seminomas are not seen within the prostate. Seminoma is a germ cell tumor of the testis. Primary squamous carcinoma of the prostate is rare and is associated with a poor survival. More commonly, squamous differentiation occurs in the primary and metastatic deposits of adenocarcinomas after estrogen therapy. Also Know: Over 75% of cancers occur in the outer pa of the gland--mainly in the posterior pa. The most widely used and the one that correlates best with survival is Gleason's system, which uses two numbers representing the two predominant patterns in the tumor. The best- and worst-differentiated patterns, according to this system, are 1,1 (pure grade 1 lesions) and 5,5 (pure grade 5 lesions), respectively; a grade 2,4 carcinoma would show a mixture of moderately and poorly differentiated areas. Ref: Chandrasoma P., Taylor C.R. (1998). Chapter 51. The Testis, Prostate, & Penis. In P. Chandrasoma, C.R. Taylor (Eds), Concise Pathology, 3e."
+    "cop": 0,
+    "exp": "Prostate cancers are adenocarcinomas that arise from the prostatic acinar cells. In eighty-five percent of the cases, the adenocarcinoma is multifocal. Prostate cancers are graded according to their dysplasia, utilizing the Gleason scoring system. Sarcoma of the prostate accounts for 0.1% of all malignant prostatic tumors. Rhabdomyosarcoma is the most frequent mesenchymal tumor within the prostate, and is seen almost exclusively in childhood. Seminomas are not seen within the prostate. Seminoma is a germ cell tumor of the testis. Primary squamous carcinoma of the prostate is rare and is associated with a poor survival. More commonly, squamous differentiation occurs in the primary and metastatic deposits of adenocarcinomas after estrogen therapy. Also Know: Over 75% of cancers occur in the outer pa of the gland--mainly in the posterior pa. The most widely used and the one that correlates best with survival is Gleason's system, which uses two numbers representing the two predominant patterns in the tumor. The best- and worst-differentiated patterns, according to this system, are 1,1 (pure grade 1 lesions) and 5,5 (pure grade 5 lesions), respectively; a grade 2,4 carcinoma would show a mixture of moderately and poorly differentiated areas. Ref: Chandrasoma P., Taylor C.R. (1998). Chapter 51. The Testis, Prostate, & Penis. In P. Chandrasoma, C.R. Taylor (Eds), Concise Pathology, 3e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6eb11103-4713-4ad5-bd26-cf430b44c5be": {
-    "cop": 4,
-    "exp": "Refer KDT 6/e p 741 *Rifamipicin is a powerful enzyme inducer. It increases the metabolism of protease inhibitors and thus decreases the efficacy of anti retroviral therapy *another drug, rifabutin is devoid of these interactions and is the preferred agent for treatment of mycobacterial infections in patients"
+    "cop": 3,
+    "exp": "Refer KDT 6/e p 741 *Rifamipicin is a powerful enzyme inducer. It increases the metabolism of protease inhibitors and thus decreases the efficacy of anti retroviral therapy *another drug, rifabutin is devoid of these interactions and is the preferred agent for treatment of mycobacterial infections in patients",
+    "hint_exp": "🎯 Think of \"for which treatment\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "eb8b7a69-c582-4015-bb8a-cc8b4f49d3fa": {
-    "cop": 3,
-    "exp": "."
+    "cop": 2,
+    "exp": ".",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"defects can\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ceb5f8c8-6022-4ee5-80e1-aed68d0e79c2": {
-    "cop": 3,
-    "exp": "Epithelial liming of iris develops from Neuroectoedrm."
+    "cop": 2,
+    "exp": "Epithelial liming of iris develops from Neuroectoedrm.",
+    "hint_exp": "🧩 Your crush solved \"following develops from surface\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e2dbd1dc-6d6e-423f-b95b-e38621618324": {
-    "cop": 1,
-    "exp": "Bifurcated roots are not a normal feature of mandibular incisors."
+    "cop": 0,
+    "exp": "Bifurcated roots are not a normal feature of mandibular incisors.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1bacd846-e9b2-42a9-9318-6e750983a9be": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Super oxide dismutase"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Super oxide dismutase",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"from free radical injury\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f6e1c588-52a3-4b21-abec-ea32b3f33f90": {
-    "cop": 4,
-    "exp": "Ring of Waldeyer consists of following tonsils\n\n Nasopharyngeal(Adenoids)\n Eustachian\n Palatine\n Lingual"
+    "cop": 3,
+    "exp": "Ring of Waldeyer consists of following tonsils\n\n Nasopharyngeal(Adenoids)\n Eustachian\n Palatine\n Lingual",
+    "hint_exp": "🎯 Think of \"Waldeyer\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e31fd354-06e0-4e15-86b9-d8ae3f05c1c0": {
-    "cop": 2,
-    "exp": "In thyrotoxicosis the increase in sympathetic activity due to increased T3 and T4 leads to contraction of Muller's muscle. Hence these patients would have infrequent blinking and infact some of them might sleep with their eyes open leading to corneal erosions. Lid retraction, causing a staring appearance, can occur in any form of thyrotoxicosis and is the result of sympathetic overactivity. However, Graves' disease is associated with specific eye signs that comprise Graves' ophthalmopathy. The earliest manifestations of ophthalmopathy are usually a sensation of grittiness, eye discomfo, and excess tearing. The most serious manifestation is compression of the optic nerve at the apex of the orbit, leading to papilledema; peripheral field defects; and, if left untreated, permanent loss of vision."
+    "cop": 1,
+    "exp": "In thyrotoxicosis the increase in sympathetic activity due to increased T3 and T4 leads to contraction of Muller's muscle. Hence these patients would have infrequent blinking and infact some of them might sleep with their eyes open leading to corneal erosions. Lid retraction, causing a staring appearance, can occur in any form of thyrotoxicosis and is the result of sympathetic overactivity. However, Graves' disease is associated with specific eye signs that comprise Graves' ophthalmopathy. The earliest manifestations of ophthalmopathy are usually a sensation of grittiness, eye discomfo, and excess tearing. The most serious manifestation is compression of the optic nerve at the apex of the orbit, leading to papilledema; peripheral field defects; and, if left untreated, permanent loss of vision.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following clinical signs\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a6b58e9d-3106-4a03-b811-1c8c446c54e0": {
-    "cop": 3,
-    "exp": "Always we should look for an infectious or malignant mass with a contrast enhanced CT,  non - contrast head CT is less sensitive. Antiretroviral therapy is of only long term benefit not for treatment of acute problem.since embolic stroke is unlikely in this case, i.v heparin is not the immediate need before further evaluation."
+    "cop": 2,
+    "exp": "Always we should look for an infectious or malignant mass with a contrast enhanced CT,  non - contrast head CT is less sensitive. Antiretroviral therapy is of only long term benefit not for treatment of acute problem.since embolic stroke is unlikely in this case, i.v heparin is not the immediate need before further evaluation.",
+    "hint_exp": "🧩 Your crush solved \"responses\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d65b88d9-64ee-43d5-9a06-6d4c3ad40cb9": {
-    "cop": 4,
-    "exp": "Ans. is 'D' i.e., All of above o Screening for Down syndrome in pregnancy can be done by number of option like - Karyotyping by - Chorionic villus sampling at 10-12 weeks. Amniocentesis at 16-18 wreeks. Cordocentasis after 18 weeks. Maternal serum marker - PAPP-A and free ji HCG in first trimester. a-feto protein, HCG and estradiol (Triple test) in second trimester. Fetal USG - done in 2nd trimester to look for - Increased nuchal fold thickness. Short femur and humerus. Duodenal atresia."
+    "cop": 3,
+    "exp": "Ans. is 'D' i.e., All of above o Screening for Down syndrome in pregnancy can be done by number of option like - Karyotyping by - Chorionic villus sampling at 10-12 weeks. Amniocentesis at 16-18 wreeks. Cordocentasis after 18 weeks. Maternal serum marker - PAPP-A and free ji HCG in first trimester. a-feto protein, HCG and estradiol (Triple test) in second trimester. Fetal USG - done in 2nd trimester to look for - Increased nuchal fold thickness. Short femur and humerus. Duodenal atresia.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"of Down Syndrome\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2bc3974f-8816-40c4-957e-2b822a05cc22": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"severe liver disease\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a681d150-d06d-45ba-9221-c608665c96a0": {
-    "cop": 2,
-    "exp": "Protein losing enteropathy Presents with puffy eyes and pedal edema and low serum albumin in patients with GI diseases. If the loss of albumin exceeds the rate of synthesis, hypoalbuminemia -edema develops Intestinal lymphangiectasia , dilatation of intestinal lymphatics leads to loss of lymph fluid into gastrointestinal tract, leading to the development of hypo-proteinemia and resultant edema. The test used for diagnosis is Tc 99 radio-nuclide scan Choice B is the wrong statement since it says normal flow of Lymphatics."
+    "cop": 1,
+    "exp": "Protein losing enteropathy Presents with puffy eyes and pedal edema and low serum albumin in patients with GI diseases. If the loss of albumin exceeds the rate of synthesis, hypoalbuminemia -edema develops Intestinal lymphangiectasia , dilatation of intestinal lymphatics leads to loss of lymph fluid into gastrointestinal tract, leading to the development of hypo-proteinemia and resultant edema. The test used for diagnosis is Tc 99 radio-nuclide scan Choice B is the wrong statement since it says normal flow of Lymphatics.",
+    "hint_exp": "🎯 Think of \"losing enteropathy\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d3194b2f-9060-4950-a5bc-075b68ed95a3": {
-    "cop": 1,
-    "exp": "Answer is A (Inflammatory bowel disease): Enteropathic Ahis (Ahritis associated with inflammatory bowel disease) is a seronegative ahropathy that is characterized hr the absence of Rheumatoid factor. Causes of False Positive Rheumatoid factor SLE (Associated with a positive Coomb's test) Sjogren syndrome Chronic Liver disease Sarcoidosis Interstitial Pulmonary Fibrosis Infectious mononucleosis Hepatitis B (Associated with HbsAg) Tuberculosis Leprosy Syphilis (Associated with a positive VDRL) Subacute bacterial endocarditis Visceral leishmaniasis Schistosomiasis Malaria"
+    "cop": 0,
+    "exp": "Answer is A (Inflammatory bowel disease): Enteropathic Ahis (Ahritis associated with inflammatory bowel disease) is a seronegative ahropathy that is characterized hr the absence of Rheumatoid factor. Causes of False Positive Rheumatoid factor SLE (Associated with a positive Coomb's test) Sjogren syndrome Chronic Liver disease Sarcoidosis Interstitial Pulmonary Fibrosis Infectious mononucleosis Hepatitis B (Associated with HbsAg) Tuberculosis Leprosy Syphilis (Associated with a positive VDRL) Subacute bacterial endocarditis Visceral leishmaniasis Schistosomiasis Malaria",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"False positive rheumatoid factor\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3b15f2e7-42b9-47b5-a0e3-dcce9b6307c9": {
-    "cop": 1,
-    "exp": "DDT Repeat fromNov 08 Mosquito control measures may be divided into 3 steps: I. Anti-larval measures Anti-adult measures Protection against mosquito bites Anti-larval measures a. Environmental control (Source reduction) Source reduction means elimination of the breeding places of mosquitoes. This is the most impoant step in controlling mosquitoes. Source reduction methods include: - Minor engineering methods such as filling, leveling and drainage of breeding places - Water management (such as intermittent irrigation) - Changing the salinity of water (this makes water unsuitable for mosquito breeding) b. Chemical control Chemical control methods are: i) Mineral oil- oil spreads on water forming a thin film, which cut off the air supply to the mosquito larvae and pupae ii) Paris Green- It is a stomach poison (that is it must be ingested in order to work). It mainly kills the Anopheles larvae because they are surface feeders. Bottom feeding larvae are also killed when Paris green is applied as a special granular formulation. iii) Synthetic insecticides? The common synthetic larvicides used are: Abate, Malathion, Fenthion, and Chloropyrifos The organochlorine compounds e.g. DDT, HCH are not used for larviciding operations because of their long residual effect, water contamination and increased risk of developing resistance in the vector mosquitoes. c. Biological control- it includes larva eating fishes such as Gambusia affinis and Lebister reticulates. Anti-adult measures a.Residual sprays- e.g. DDT. Lindane, Malathion, OMS-33. DDT is the insecticide of choice. b.Space sprays- Space sprays are those that are sprayed into the atmosphere in the form of a mist or fog to kill mosquitoes. e.g. Pyrethrum, Malathion, Fenitrothion c. Genetic control These include sterile male technique, cytoplasmic incompatibility, chromosomal translocations, sex distoion, and gene replacement. These methods are still in research phase. Protection against mosquito bites a.Mosquito net b.Screening- screening of buildings with copper or bronze gauze is costly but excellent method. c. Repellants"
+    "cop": 0,
+    "exp": "DDT Repeat fromNov 08 Mosquito control measures may be divided into 3 steps: I. Anti-larval measures Anti-adult measures Protection against mosquito bites Anti-larval measures a. Environmental control (Source reduction) Source reduction means elimination of the breeding places of mosquitoes. This is the most impoant step in controlling mosquitoes. Source reduction methods include: - Minor engineering methods such as filling, leveling and drainage of breeding places - Water management (such as intermittent irrigation) - Changing the salinity of water (this makes water unsuitable for mosquito breeding) b. Chemical control Chemical control methods are: i) Mineral oil- oil spreads on water forming a thin film, which cut off the air supply to the mosquito larvae and pupae ii) Paris Green- It is a stomach poison (that is it must be ingested in order to work). It mainly kills the Anopheles larvae because they are surface feeders. Bottom feeding larvae are also killed when Paris green is applied as a special granular formulation. iii) Synthetic insecticides? The common synthetic larvicides used are: Abate, Malathion, Fenthion, and Chloropyrifos The organochlorine compounds e.g. DDT, HCH are not used for larviciding operations because of their long residual effect, water contamination and increased risk of developing resistance in the vector mosquitoes. c. Biological control- it includes larva eating fishes such as Gambusia affinis and Lebister reticulates. Anti-adult measures a.Residual sprays- e.g. DDT. Lindane, Malathion, OMS-33. DDT is the insecticide of choice. b.Space sprays- Space sprays are those that are sprayed into the atmosphere in the form of a mist or fog to kill mosquitoes. e.g. Pyrethrum, Malathion, Fenitrothion c. Genetic control These include sterile male technique, cytoplasmic incompatibility, chromosomal translocations, sex distoion, and gene replacement. These methods are still in research phase. Protection against mosquito bites a.Mosquito net b.Screening- screening of buildings with copper or bronze gauze is costly but excellent method. c. Repellants",
+    "hint_exp": "🧩 Your crush solved \"Following Larval control measures\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

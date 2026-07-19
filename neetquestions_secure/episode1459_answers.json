@@ -1,202 +1,252 @@
 {
   "d03dc48d-522e-4bee-ba21-f7de1ff1938b": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8ecf5718-ec4b-4c33-80e0-5fe199de8356": {
-    "cop": 1,
-    "exp": "ANSWER: (A) Serratus anterior REF: Gray's anatomy 39th edition page 558 See APPENDIX-7 below for \"BRACHIAL PLEXUS LESIONS\" Since question asks particularly \"ON ACTION\" - A is coorect. Iatrogenic injury of the spinal accessory nerve (usually via accidental damage during minor neck surgery) is the most common cause of accessory nerve palsy. Although rare, this kind of damage can cause extensive morbidity, including numbness, paralysis, pain, and winging of the scapula. A lesion of the pyramidal system above the pons produces weakness of the ipsilateral sternocleidomastoid and contralateral trapezius. In jugular foramen syndrome, caused by pathologies including nasopharyngeal carcinoma or a glomus tumour, lesions of the glossopharyngeal, vagus and accessory nerves coexist. The accessory nerve can be injured more dis tally in the neck by trauma or by surgical exploration in the posterior triangle. If the accessory nerve is sacrificed as part of a radical neck dissection, and the innervation of trapezius is lost APPENDIX - 7 Brachial Plexus Lesions-chart 1 Nerve (Segment) Motor Deficit(s) Sensory Deficits Long Thoracic (C 5, 6, 7) Winged Scapula- Serratus Anterior None Suprascapular (C 5, 6 ) Hard to start shoulder abduction - Supraspinatus None Axillary (C 5, 6 ) Difficult abducting arm to horizontal - Deltoid Lateral side of arm below point of shoulder Loss of shoulder roundness - Deltoid Musculocutaneous C 5, 6, (7) Very weak flexion of elbow joint- Biceps & Brachialis Lateral forearm Weak supination of radioulnar joint -Biceps Radial (C 5 - Tl) Drop Wrist - Extensor carpi radialis iongus & brevis, Ext. carpi ulnaris Posterior lateral &arm; dorsum of hand Difficulty making a fist - synergy between wrist 1 extensors and finger flexors Median (EUR 5 - Tl) at Elbow Pronation of radioulnar joints-Pronator teres & quadratus Radial portion of palm; palmar surface 8i tips of radial 3% Weak wrist flexion - FI. carpi radialis digits Weakened opposition of thumb - thenar muscles \"Ape Hand\"- thumb hyper extended and adducted - thenar muscles \"Papal Hand\" Loss of flexion of I.P. joints of thumb & fingers 1 & 2 - Fl. pollices Iongus ; FL digit, superficialis, FL digit profundus Median (C 5 - Tl) at Wrist Weakened opposition of thumb - thenar muscles Palmar surface & tips of radial \"Ape Hand\"- thumb hyper extended and adducted - thenar muscles 3% digits Ulnar (C 8, Tl) at Elbow \"Clawing\" of fingers 3 & 4- M.P. joints hyper extended: P.I.P. Flexed - Interossei& Lumbricals Ulnar and dorsal aspect of palm and of ulnar VA digits Loss of abduction & adduction of M.P joints of fingers -Interossei Thumb - abducted and extended - adductor pollices Loss of flexion of D.I.P. joints of fingers 4 8t 5 - Fl. digit profund. Ulnar (C 8, Tl) at Wrist \"Clawing\" of fingers 3 & 4- M.P. joints hyper extended; P.I.P. Flexed - Interossei & Lumbricals Ulnar and dorsal aspect of palm and of ulnar 1 xk digits Loss of abduction & adduction of M.P joints of fingers - Interossei Thumb - abducted and extended - adductor pollices Upper and Lower Root Lesions-chart 2 Lesion Motor Deficits Sensory Deficits Nerves Erb s Palsy (C5,6) Loss of abduction, flexion and rotation at shoulder; Weak shoulder extension - deltoid, rotator cuff Posterior and lateral aspect of arm - axillary n. Axillary, Suprascapular, Upper and Lower subscapular Very weak elbow flexion and supination of radioulnar joint - biceps brachii & brachiaiis Radial side of Forearm- musculocutaneous n. Thumb and 1st finger - superficial hr. of radial; digital brs. - Median n. Musculocutaneous: Radial N. brs. to supinator & brachioradialis muscles Susceptible to shoulder dislocation - loss of rotator cuff muscles Suprascapular, Upper and Lower subscapular \"Waiters Tip\" position Klumke's Palsy (C8, Tl) Loss of opposition of thumb -Tnenar muscles Ulnar side of forearm, hand & ulnar 1 Vi & digits - ulnar and medial antebrachial cutaneous Thenar branch of Median nerve Loss of adduction of thumb - Adductor pollices Ulnar nerve Loss of following finger movements: abduction and adduction of M.P. joints; flexion at M.P. & extension of LP. joints. Lumbricals & interossei Deep branch of Ulnar & Median Very weak flexion of P.I.P. & D.I.P. joints FI Digit. Super. & Profund. Ulnar and Median"
+    "cop": 0,
+    "exp": "ANSWER: (A) Serratus anterior REF: Gray's anatomy 39th edition page 558 See APPENDIX-7 below for \"BRACHIAL PLEXUS LESIONS\" Since question asks particularly \"ON ACTION\" - A is coorect. Iatrogenic injury of the spinal accessory nerve (usually via accidental damage during minor neck surgery) is the most common cause of accessory nerve palsy. Although rare, this kind of damage can cause extensive morbidity, including numbness, paralysis, pain, and winging of the scapula. A lesion of the pyramidal system above the pons produces weakness of the ipsilateral sternocleidomastoid and contralateral trapezius. In jugular foramen syndrome, caused by pathologies including nasopharyngeal carcinoma or a glomus tumour, lesions of the glossopharyngeal, vagus and accessory nerves coexist. The accessory nerve can be injured more dis tally in the neck by trauma or by surgical exploration in the posterior triangle. If the accessory nerve is sacrificed as part of a radical neck dissection, and the innervation of trapezius is lost APPENDIX - 7 Brachial Plexus Lesions-chart 1 Nerve (Segment) Motor Deficit(s) Sensory Deficits Long Thoracic (C 5, 6, 7) Winged Scapula- Serratus Anterior None Suprascapular (C 5, 6 ) Hard to start shoulder abduction - Supraspinatus None Axillary (C 5, 6 ) Difficult abducting arm to horizontal - Deltoid Lateral side of arm below point of shoulder Loss of shoulder roundness - Deltoid Musculocutaneous C 5, 6, (7) Very weak flexion of elbow joint- Biceps & Brachialis Lateral forearm Weak supination of radioulnar joint -Biceps Radial (C 5 - Tl) Drop Wrist - Extensor carpi radialis iongus & brevis, Ext. carpi ulnaris Posterior lateral &arm; dorsum of hand Difficulty making a fist - synergy between wrist 1 extensors and finger flexors Median (EUR 5 - Tl) at Elbow Pronation of radioulnar joints-Pronator teres & quadratus Radial portion of palm; palmar surface 8i tips of radial 3% Weak wrist flexion - FI. carpi radialis digits Weakened opposition of thumb - thenar muscles \"Ape Hand\"- thumb hyper extended and adducted - thenar muscles \"Papal Hand\" Loss of flexion of I.P. joints of thumb & fingers 1 & 2 - Fl. pollices Iongus ; FL digit, superficialis, FL digit profundus Median (C 5 - Tl) at Wrist Weakened opposition of thumb - thenar muscles Palmar surface & tips of radial \"Ape Hand\"- thumb hyper extended and adducted - thenar muscles 3% digits Ulnar (C 8, Tl) at Elbow \"Clawing\" of fingers 3 & 4- M.P. joints hyper extended: P.I.P. Flexed - Interossei& Lumbricals Ulnar and dorsal aspect of palm and of ulnar VA digits Loss of abduction & adduction of M.P joints of fingers -Interossei Thumb - abducted and extended - adductor pollices Loss of flexion of D.I.P. joints of fingers 4 8t 5 - Fl. digit profund. Ulnar (C 8, Tl) at Wrist \"Clawing\" of fingers 3 & 4- M.P. joints hyper extended; P.I.P. Flexed - Interossei & Lumbricals Ulnar and dorsal aspect of palm and of ulnar 1 xk digits Loss of abduction & adduction of M.P joints of fingers - Interossei Thumb - abducted and extended - adductor pollices Upper and Lower Root Lesions-chart 2 Lesion Motor Deficits Sensory Deficits Nerves Erb s Palsy (C5,6) Loss of abduction, flexion and rotation at shoulder; Weak shoulder extension - deltoid, rotator cuff Posterior and lateral aspect of arm - axillary n. Axillary, Suprascapular, Upper and Lower subscapular Very weak elbow flexion and supination of radioulnar joint - biceps brachii & brachiaiis Radial side of Forearm- musculocutaneous n. Thumb and 1st finger - superficial hr. of radial; digital brs. - Median n. Musculocutaneous: Radial N. brs. to supinator & brachioradialis muscles Susceptible to shoulder dislocation - loss of rotator cuff muscles Suprascapular, Upper and Lower subscapular \"Waiters Tip\" position Klumke's Palsy (C8, Tl) Loss of opposition of thumb -Tnenar muscles Ulnar side of forearm, hand & ulnar 1 Vi & digits - ulnar and medial antebrachial cutaneous Thenar branch of Median nerve Loss of adduction of thumb - Adductor pollices Ulnar nerve Loss of following finger movements: abduction and adduction of M.P. joints; flexion at M.P. & extension of LP. joints. Lumbricals & interossei Deep branch of Ulnar & Median Very weak flexion of P.I.P. & D.I.P. joints FI Digit. Super. & Profund. Ulnar and Median",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"scapula\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ebc1e933-ccca-4b93-a1b8-6539c0942a67": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Alzhiemer's diseaseCauses of dementiaReversible causes Surgically treatableo Normal pressure hydrocephaluso Brain tumors (frontal lobe tumor)o Meningiomao Subdural hematoma (Head injury)o HydrocephalusMedically treatable o Hypothyroidismo Depressiono HIV infectiono Alcohol abuseo Vitamin B12 , Folate. Niacin deficiencyo Any metabolic or endocrine disturbanceo Neurosyphiliso Hashimoto's encephalopathyo Wilson's diseaseo Celiac disease or Whipple's diseaseo Chronic meningoencephalitiso Drugs and toxin (toxic dementia)Irreversible causeso Alzheimer s diseaseo Vascular (Multi-infarct) dementia o Parkinson's diseaseo Huntington's choreao Creutzfeld Jakob diseaseo Lewy body dementiao Pick's diseaseo Overall Alzheimer's disease is the most common cause. Vascular dementia is the 2nd most common cause."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Alzhiemer's diseaseCauses of dementiaReversible causes Surgically treatableo Normal pressure hydrocephaluso Brain tumors (frontal lobe tumor)o Meningiomao Subdural hematoma (Head injury)o HydrocephalusMedically treatable o Hypothyroidismo Depressiono HIV infectiono Alcohol abuseo Vitamin B12 , Folate. Niacin deficiencyo Any metabolic or endocrine disturbanceo Neurosyphiliso Hashimoto's encephalopathyo Wilson's diseaseo Celiac disease or Whipple's diseaseo Chronic meningoencephalitiso Drugs and toxin (toxic dementia)Irreversible causeso Alzheimer s diseaseo Vascular (Multi-infarct) dementia o Parkinson's diseaseo Huntington's choreao Creutzfeld Jakob diseaseo Lewy body dementiao Pick's diseaseo Overall Alzheimer's disease is the most common cause. Vascular dementia is the 2nd most common cause.",
+    "hint_exp": "🎯 Think of \"of dementia\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2d3284c2-6462-4183-bfee-513c04498563": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"septic arthritis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1adbbac2-65ea-4e56-a155-7cccbc409581": {
-    "cop": 1,
-    "exp": "Probenecid inhibits tubular secretion and increase the duration of action of penicillin G Penicillin G is sho acting. To overcome this problem: Benzathine and procaine group can be added to penicillin G to make it long acting. Benzathine penicillin G is longest acting penicillin. Probenecid can be administered with penicillins. Former inhibits the tubular secretion. Penicillins have wide therapeutic index. A high initial dose can be used."
+    "cop": 0,
+    "exp": "Probenecid inhibits tubular secretion and increase the duration of action of penicillin G Penicillin G is sho acting. To overcome this problem: Benzathine and procaine group can be added to penicillin G to make it long acting. Benzathine penicillin G is longest acting penicillin. Probenecid can be administered with penicillins. Former inhibits the tubular secretion. Penicillins have wide therapeutic index. A high initial dose can be used.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "45558c5a-f635-479a-bf2d-4546d44f041e": {
-    "cop": 1,
-    "exp": "Anterosuperior Compament The anterosuperior compament of the mediastinum borders the undersurface of the sternum ventrally, the pericardium dorsally, and the visceral pleura laterally (at the apposition of the pleura and pericardium). Tumors of the anterior mediastinum includethymomas, teratoma or germ cell tumors, a spectrum of lympho- mas including Hodgkin disease, and thyroid goiter. In most cases, tissue (core biopsy) is required for diagnosis; fine-needle aspirate is usually inadequate. Thymomas are usually the most frequently occurring neoplasm of the anterior mediastinum, and lymphomas are second. Germ cell neoplasms include benign and malignant teratomas, choriocarcinoma, seminoma, and embryonal cell neoplasm. Teratomas frequently occur in young adults. The gonads are the most common primary site, followed by the mediastinum. Most germ cell neoplasms are benign, but 20% are malignant. Malignant teratomas may produce high serum levels of a-fetoprotein (AFP) and carcinoembryonic antigen. Endocrine disease of the thyroid and parathyroid may occur in the anterior mediastinum as a result of their anatomic position in adults (substernal goiter) or embryologic development. Carcinoid tumors may be foundwithin the thymus. Primary carcinomas of the mediastinum are often unresectable and respond poorly to treatment. Ref: Sabiston 20th edition Pgno: 1608"
+    "cop": 0,
+    "exp": "Anterosuperior Compament The anterosuperior compament of the mediastinum borders the undersurface of the sternum ventrally, the pericardium dorsally, and the visceral pleura laterally (at the apposition of the pleura and pericardium). Tumors of the anterior mediastinum includethymomas, teratoma or germ cell tumors, a spectrum of lympho- mas including Hodgkin disease, and thyroid goiter. In most cases, tissue (core biopsy) is required for diagnosis; fine-needle aspirate is usually inadequate. Thymomas are usually the most frequently occurring neoplasm of the anterior mediastinum, and lymphomas are second. Germ cell neoplasms include benign and malignant teratomas, choriocarcinoma, seminoma, and embryonal cell neoplasm. Teratomas frequently occur in young adults. The gonads are the most common primary site, followed by the mediastinum. Most germ cell neoplasms are benign, but 20% are malignant. Malignant teratomas may produce high serum levels of a-fetoprotein (AFP) and carcinoembryonic antigen. Endocrine disease of the thyroid and parathyroid may occur in the anterior mediastinum as a result of their anatomic position in adults (substernal goiter) or embryologic development. Carcinoid tumors may be foundwithin the thymus. Primary carcinomas of the mediastinum are often unresectable and respond poorly to treatment. Ref: Sabiston 20th edition Pgno: 1608",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which antero superior mediastinal\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c40926d8-0038-4aff-aa25-eb2394718da1": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"NESTROFT test used screening\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a52fafca-d021-48c0-871e-04ae4d4d726f": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Imponent towards a paicular woman Quod Hanc (or Quod Hoc) is a type of impotence in which a person shows psychic impotence with one woman but can perform the sexual act successfully with another woman."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Imponent towards a paicular woman Quod Hanc (or Quod Hoc) is a type of impotence in which a person shows psychic impotence with one woman but can perform the sexual act successfully with another woman.",
+    "hint_exp": "🎯 Think of \"Quod Hanc means\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ff401904-8805-45bb-a932-da2946e344e8": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 1900 kcal/day Recommended daily take of energyGroupEnergy allowence (Kcal)Infancy0-6 month7-12 month118 kcal/day118 kcal/daychildren1 - 3 year4-6 year7-9 year124016901950"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 1900 kcal/day Recommended daily take of energyGroupEnergy allowence (Kcal)Infancy0-6 month7-12 month118 kcal/day118 kcal/daychildren1 - 3 year4-6 year7-9 year124016901950",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year fever what caloric\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5776b1a3-c96b-442d-82c7-cb96a14adcfc": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"True about Creutzfeldt Jacob\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ed284a3a-deb0-46e3-865d-62c67275adc6": {
-    "cop": 3,
-    "exp": "Most cases of tuberculosis are caused when patients inhale droplet nuclei containing infectious organisms. While the bacilli are deposited on the alveolar spaces, they do not clog up the alveoli but are engulfed by macrophages. Tissue injury is not a result of toxin secretion but by cell-mediated hypersensitivity, that is, \"immunologic injury. Also Know: M tuberculosis multiplies in alveolar macrophages. MDR-TB are resistant to isoniazid and rifampin. Ref: Ray C.G., Ryan K.J. (2010). Chapter 27. Mycobacteria. In C.G. Ray, K.J. Ryan (Eds), Sherris Medical Microbiology, 5."
+    "cop": 2,
+    "exp": "Most cases of tuberculosis are caused when patients inhale droplet nuclei containing infectious organisms. While the bacilli are deposited on the alveolar spaces, they do not clog up the alveoli but are engulfed by macrophages. Tissue injury is not a result of toxin secretion but by cell-mediated hypersensitivity, that is, \"immunologic injury. Also Know: M tuberculosis multiplies in alveolar macrophages. MDR-TB are resistant to isoniazid and rifampin. Ref: Ray C.G., Ryan K.J. (2010). Chapter 27. Mycobacteria. In C.G. Ray, K.J. Ryan (Eds), Sherris Medical Microbiology, 5.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "77e781d9-efa9-4dc4-b01c-91d9c57b9222": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"ideal crown preparation degree\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "32f0508c-cdf1-4fae-b05c-283b0299a263": {
-    "cop": 2,
-    "exp": "(B) Endolymph > The inner ear (labyrinth) is made up of two parts, one within the other. The bony labyrinth is a series of channels in the petrous portion of the temporal bone. Inside these channels, surrounded by a fluid called perilymph, is the membranous labyrinth.> This membranous structure more or less duplicates the shape of the bony channels. It is filled with a K+-rich fluid called endolymph, and there is no communication between the spaces filled with endolymph and those filled with perilymph."
+    "cop": 1,
+    "exp": "(B) Endolymph > The inner ear (labyrinth) is made up of two parts, one within the other. The bony labyrinth is a series of channels in the petrous portion of the temporal bone. Inside these channels, surrounded by a fluid called perilymph, is the membranous labyrinth.> This membranous structure more or less duplicates the shape of the bony channels. It is filled with a K+-rich fluid called endolymph, and there is no communication between the spaces filled with endolymph and those filled with perilymph.",
+    "hint_exp": "🎯 Think of \"Extracellular fluid that high\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bb1cc773-4b28-4472-99a3-df99ccc6cfad": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., To monitor drug toxicity Pharmacovigilance Pharmacovigilance is the science and activities relating to detection, assessment, understanding and prevention of adverse effects or any other drug related problem."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., To monitor drug toxicity Pharmacovigilance Pharmacovigilance is the science and activities relating to detection, assessment, understanding and prevention of adverse effects or any other drug related problem.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"used for\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "24e423b2-9092-43c0-9657-1f51f97f46c8": {
-    "cop": 3,
-    "exp": "Active form of Pyridoxine\n\nPyridoxal Phosphate (PLP)\nMainly used for Amino Acid metabolism.\n\nCoenzyme Role of Pyridoxal Phosphate (PLP)\nTransamination\n\nAlanine Amino Transferase (ALT)\nAspartate Amino Transferase (AST)\nAlanine Glyoxalate Amino Transferase.\n\nDecarboxylation of amino acids\nThis results in the formation of Biogenic Amines\n\nGlutamate: CABA\n5-Hydroxy Tryptophan: Serotonin\nHistidine: Histamine\nCysteine: Taurine\nSerine: Ethanolamine\nDOPA: Dopamine.\n\nKey Concept:\nHistidine is converted to Histamine by the process of decarboxylation."
+    "cop": 2,
+    "exp": "Active form of Pyridoxine\n\nPyridoxal Phosphate (PLP)\nMainly used for Amino Acid metabolism.\n\nCoenzyme Role of Pyridoxal Phosphate (PLP)\nTransamination\n\nAlanine Amino Transferase (ALT)\nAspartate Amino Transferase (AST)\nAlanine Glyoxalate Amino Transferase.\n\nDecarboxylation of amino acids\nThis results in the formation of Biogenic Amines\n\nGlutamate: CABA\n5-Hydroxy Tryptophan: Serotonin\nHistidine: Histamine\nCysteine: Taurine\nSerine: Ethanolamine\nDOPA: Dopamine.\n\nKey Concept:\nHistidine is converted to Histamine by the process of decarboxylation.",
+    "hint_exp": "🧩 Your crush solved \"Histidine converted histamine\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5ad23441-c73f-47d5-b93c-037c8b3637b6": {
-    "cop": 1,
-    "exp": "The most characteristic feature is the nuclear pyknosis. \nOther \n\nCellular shrinkage \nChromatin clumping \nIntact cell membrane \nCytoplasmic eosinophilia"
+    "cop": 0,
+    "exp": "The most characteristic feature is the nuclear pyknosis. \nOther \n\nCellular shrinkage \nChromatin clumping \nIntact cell membrane \nCytoplasmic eosinophilia",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which characteristic feature apoptosis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6e061399-0c56-4085-9b4c-005e872aebd4": {
-    "cop": 2,
-    "exp": "Basically for any type of collagen vitamin C is required Collagen Synthesis requirements: 1. Hydroxylation reaction for proline and lysine is done, and for both these reactions Vitamin C, Fe, Prolyl hydroxylase, Lysyl hydroxylase are required Fig- hydroxylation reaction needed for collagen biosynthesis 2. Glycosylation reaction (adding carbohydrate on it) here the enzyme required is Lysyl oxidase and this oxidase require copper. So, for the synthesis of collagen we require: 2 Metals - Fe, Cu 1 Vitamin -Vitamin C 3 Enzymes"
+    "cop": 1,
+    "exp": "Basically for any type of collagen vitamin C is required Collagen Synthesis requirements: 1. Hydroxylation reaction for proline and lysine is done, and for both these reactions Vitamin C, Fe, Prolyl hydroxylase, Lysyl hydroxylase are required Fig- hydroxylation reaction needed for collagen biosynthesis 2. Glycosylation reaction (adding carbohydrate on it) here the enzyme required is Lysyl oxidase and this oxidase require copper. So, for the synthesis of collagen we require: 2 Metals - Fe, Cu 1 Vitamin -Vitamin C 3 Enzymes",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Synthesis type collagen requires\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "863a13ac-c1ce-4a68-8dcc-ed57bc383cab": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 21 days Vital event Registration to be done within Bih 21 days Death 21 days Marriage 30 days Pregnancy NO LEGISLATION YET"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 21 days Vital event Registration to be done within Bih 21 days Death 21 days Marriage 30 days Pregnancy NO LEGISLATION YET",
+    "hint_exp": "🎯 Think of \"registered within\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "287cd7f8-aabe-4978-b059-3f7d9943c1ab": {
-    "cop": 1,
-    "exp": "The lateral plantar nerve provides sensory innervation to the lateral aspect of the plantar surface of the foot.Must know:The lateral plantar nerve supplies sensation to the distal lateral sole, the plantar aspect of the small toe, and the lateral plantar surface of the fouh toe. The lateral plantar nerve is one of the terminal branches of the tibial nerve that courses from the medial side of the foot laterally toward the head of metatarsal 5, deep to the flexor digitorum brevis muscle. The lateral plantar nerve continues forward and bifurcates into a deep branch and a superficial branch. This nerve provides motor innervation to lumbricals 2 to 4 and the plantar and dorsal interossei, adductor hallucis, quadratus plantae, flexor digiti minimi brevis, and abductor digiti minimi muscles. The medial plantar nerve provides sensory innervation to the medial plantar surface of the foot. Ref: Moon D.A., Foreman K.B., Albeine K.H. (2011). Chapter 38. Foot. In D.A. Moon, K.B. Foreman, K.H. Albeine (Eds), The Big Picture: Gross Anatomy."
+    "cop": 0,
+    "exp": "The lateral plantar nerve provides sensory innervation to the lateral aspect of the plantar surface of the foot.Must know:The lateral plantar nerve supplies sensation to the distal lateral sole, the plantar aspect of the small toe, and the lateral plantar surface of the fouh toe. The lateral plantar nerve is one of the terminal branches of the tibial nerve that courses from the medial side of the foot laterally toward the head of metatarsal 5, deep to the flexor digitorum brevis muscle. The lateral plantar nerve continues forward and bifurcates into a deep branch and a superficial branch. This nerve provides motor innervation to lumbricals 2 to 4 and the plantar and dorsal interossei, adductor hallucis, quadratus plantae, flexor digiti minimi brevis, and abductor digiti minimi muscles. The medial plantar nerve provides sensory innervation to the medial plantar surface of the foot. Ref: Moon D.A., Foreman K.B., Albeine K.H. (2011). Chapter 38. Foot. In D.A. Moon, K.B. Foreman, K.H. Albeine (Eds), The Big Picture: Gross Anatomy.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"barefoot child steps some\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "cd161933-5f34-41da-ac22-eb89a3284056": {
-    "cop": 1,
-    "exp": "Ans. A. HBVHepatitis B is the only hepatitis virus with a DNA genome (thus requiring entry into the nucleus for transcription of the genome into mRNA)."
+    "cop": 0,
+    "exp": "Ans. A. HBVHepatitis B is the only hepatitis virus with a DNA genome (thus requiring entry into the nucleus for transcription of the genome into mRNA).",
+    "hint_exp": "🧩 Your crush solved \"the host hepatocyte\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "87e91670-8ce9-414c-a6ca-6030ad7cd018": {
-    "cop": 3,
-    "exp": "Right middle lobe pathology obliterates lower right border of heart producing silhouette sign."
+    "cop": 2,
+    "exp": "Right middle lobe pathology obliterates lower right border of heart producing silhouette sign.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"triangular opacity with clear\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a81c3902-88e8-4d8b-9f8a-9a7376b75508": {
-    "cop": 1,
-    "exp": "Ans. a (PICA). (Ref. O.P Ghai, 6th/pg.p 58)PICA# PICA is a disorder involving repeated or chronic ingestion of non-nutritive substances including plaster, charcoal, clay, wood, ashes and earth.# PICA after 2nd year of life needs to be investigated.# MR, lack of parental nurturing, autism, and behavior disorders like Kleine-Terin syndrome, family disorganization, low socioecomy.# Geophagia (earth eating) is seen with pregnancy.# Here patient develops craving for substance such as- Starch (amylophagia),- Ice (pagophagia) &- Clay (geophagia) these symptoms are peculiar i.e. Characteristic of iron deficiency.# Some of these materials such as starch & clay bind iron in the gastrointestinal tract, worsening the deficiency.# The basis of this bizarre behavior is unknown.# A particularly invidious consequence of iron deficiency, is increased by intestinal absorption of lead.# Children from impoverished families who often have both iron deficiency & pica are at greatest risk of developing lead poisoning.# The toxicity of lead is at least in part due to a disruption of hemesynthesis in neural tissue, a process abetted by iron deficiency.# Thus, these children are at increased risk of lead poisoning, iron deficiency anemia and parasitic infection."
+    "cop": 0,
+    "exp": "Ans. a (PICA). (Ref. O.P Ghai, 6th/pg.p 58)PICA# PICA is a disorder involving repeated or chronic ingestion of non-nutritive substances including plaster, charcoal, clay, wood, ashes and earth.# PICA after 2nd year of life needs to be investigated.# MR, lack of parental nurturing, autism, and behavior disorders like Kleine-Terin syndrome, family disorganization, low socioecomy.# Geophagia (earth eating) is seen with pregnancy.# Here patient develops craving for substance such as- Starch (amylophagia),- Ice (pagophagia) &- Clay (geophagia) these symptoms are peculiar i.e. Characteristic of iron deficiency.# Some of these materials such as starch & clay bind iron in the gastrointestinal tract, worsening the deficiency.# The basis of this bizarre behavior is unknown.# A particularly invidious consequence of iron deficiency, is increased by intestinal absorption of lead.# Children from impoverished families who often have both iron deficiency & pica are at greatest risk of developing lead poisoning.# The toxicity of lead is at least in part due to a disruption of hemesynthesis in neural tissue, a process abetted by iron deficiency.# Thus, these children are at increased risk of lead poisoning, iron deficiency anemia and parasitic infection.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"known as\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "094f489a-632f-488e-9103-5a3b47d089f6": {
-    "cop": 1,
-    "exp": "Ans. A. 5 daysa. Oseltamivir (oral tablet) - 75 mg BD for 5 days for treatment; 75 mg OD for prophylaxisb. Zanamivir (inhalation)-10 mg BD for 5 days for treatment; 10 mg OD for prophylaxisc. Zanamivir may exacerbate bronchospasm in asthmatic patients.d. Oseltamivir has been associated with neuropsychiatric side effects in children."
+    "cop": 0,
+    "exp": "Ans. A. 5 daysa. Oseltamivir (oral tablet) - 75 mg BD for 5 days for treatment; 75 mg OD for prophylaxisb. Zanamivir (inhalation)-10 mg BD for 5 days for treatment; 10 mg OD for prophylaxisc. Zanamivir may exacerbate bronchospasm in asthmatic patients.d. Oseltamivir has been associated with neuropsychiatric side effects in children.",
+    "hint_exp": "🎯 Think of \"influenza\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1c9b1fe4-754a-4a5c-a24d-cebec694143f": {
-    "cop": 4,
-    "exp": "(D) All of the above# PSA is secreted by the epithelial cells of the prostate gland.> PSA is not a unique indicator of prostate cancer, but may also detect prostatitis or benign prostatic hyperplasia. Only 30 percent of patients with high PSA have prostate cancer diagnosed after biopsy.> PSA is used for Prostate cancer screening and levels between 4 and 10 ng/mL (nanograms per milliliter) are considered to be suspicious and confirm the abnormal PSA with a repeat test.> PSA levels are monitored periodically every 6-36 months after treatment for prostate cancer."
+    "cop": 3,
+    "exp": "(D) All of the above# PSA is secreted by the epithelial cells of the prostate gland.> PSA is not a unique indicator of prostate cancer, but may also detect prostatitis or benign prostatic hyperplasia. Only 30 percent of patients with high PSA have prostate cancer diagnosed after biopsy.> PSA is used for Prostate cancer screening and levels between 4 and 10 ng/mL (nanograms per milliliter) are considered to be suspicious and confirm the abnormal PSA with a repeat test.> PSA levels are monitored periodically every 6-36 months after treatment for prostate cancer.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"specific to\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "671ae216-46ab-4022-a07c-71487ded4aec": {
-    "cop": 2,
-    "exp": "Ans. b. Retrograde amnesia At the time of peak concentration in plasma, hypnotic doses of benzodiazepines (midazolam) can be expected to cause varying degrees of lightheadedness, lassitude, increased reaction time, motor incoordination, impairment of mental and motor functions, confusion, and anterograde amnesia.\" Midazolam: It causes anterograde amnesiaQ Tolerance and tachyphylaxis may occur, paicularly with longer-term infusionsQ(Shafer A. Complications of sedation with midazolam in the intensive care unit and a comparison with other sedative regimens. Crit Care Med. 1998;26(5): 947-56) Benzodiazepine withdrawal syndrome has also been associated with high dose/ long-term midazolam infusionsQ Compared with propofol infusions, midazolam infusions have been associated with a decreased occurrence of hypotensiondeg but a more variable time course for recovery of function after the cessation of the infusion."
+    "cop": 1,
+    "exp": "Ans. b. Retrograde amnesia At the time of peak concentration in plasma, hypnotic doses of benzodiazepines (midazolam) can be expected to cause varying degrees of lightheadedness, lassitude, increased reaction time, motor incoordination, impairment of mental and motor functions, confusion, and anterograde amnesia.\" Midazolam: It causes anterograde amnesiaQ Tolerance and tachyphylaxis may occur, paicularly with longer-term infusionsQ(Shafer A. Complications of sedation with midazolam in the intensive care unit and a comparison with other sedative regimens. Crit Care Med. 1998;26(5): 947-56) Benzodiazepine withdrawal syndrome has also been associated with high dose/ long-term midazolam infusionsQ Compared with propofol infusions, midazolam infusions have been associated with a decreased occurrence of hypotensiondeg but a more variable time course for recovery of function after the cessation of the infusion.",
+    "hint_exp": "🧩 Your crush solved \"Midazolam causes except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0c03263c-f2c1-44fb-b4ff-f575c46d4009": {
-    "cop": 4,
-    "exp": "Congenital PUJ obstruction is MCC for hydronephrosis in children."
+    "cop": 3,
+    "exp": "Congenital PUJ obstruction is MCC for hydronephrosis in children.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"of hydronephrosis in children\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "408d8f71-b9a7-48df-9cee-e5b161e55f7e": {
-    "cop": 3,
-    "exp": "Esomeprazole is an example of proton pumb inhibitor"
+    "cop": 2,
+    "exp": "Esomeprazole is an example of proton pumb inhibitor",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Esomeprazole acts inhibiting\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c9131d58-2993-4b5f-9a0c-49d4a387190a": {
-    "cop": 1,
-    "exp": "Superficial palmar arch is a direct continuation of the ulnar aery. The curve of the arch lies across the palm, in level with the distal border of the fully extended thumb. The arch is completed by anastomosing with the superficial palmar branch of the radial aery.Ref: Snell's clinical anatomy, 7th Edition, Page 545."
+    "cop": 0,
+    "exp": "Superficial palmar arch is a direct continuation of the ulnar aery. The curve of the arch lies across the palm, in level with the distal border of the fully extended thumb. The arch is completed by anastomosing with the superficial palmar branch of the radial aery.Ref: Snell's clinical anatomy, 7th Edition, Page 545.",
+    "hint_exp": "🎯 Think of \"Superficial Plamar arch related\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e2f560b1-db8e-4811-9192-590ba0bdc554": {
-    "cop": 4,
-    "exp": "Ans. Green"
+    "cop": 3,
+    "exp": "Ans. Green",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"staining in corneal ulcer\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b33cd35b-292e-4f4c-875b-e65d4137b4bd": {
-    "cop": 1,
-    "exp": "<p>ATOPIC DERMATITIS:-Atopic eczema.Chronically relapsing skin disorder that usually begins at infancy characterised by pruritus,xerosis and eczematisation. Clinical features-Infantile phase:- AD more acute with predominantly involving face,scalp and extensor surfaces of extremities.Typically there are papules,vesicles,excoriations and exudation. Childhood phase:-Lichenification and localisation of rash to the flexural folds of extremities. Adults:-Lichenification and skin prone to itching and inflammation. KEY DIAGNOSTIC FEATURES:-Hanifin and Rajka developed diagnostic criteria for AD based on clinical features. three major and three minor establishes diagnosis major criteria1. Pruritis.2. Typical morphology and histology-face/flexural involvement in infants and child.Flexural Lichenification in older children.3. Tendency towards chronicity.4. Personal/family history of an atopic disorder such as asthma,allergic rhinitis etc.. minor criteria Other common skin findings:-Xeroderma,recurrent infection due to herpes,staph aureus, Icthyosis, pityriasis alba. Eye findings- Conjunctivitis,Keratitis, keratoconys, Dennie morgan fold and anterior sub capsular cataract. type 1hypersensitivity elevated igE Early age of onset hand foot dermatitis periorbital darkening white dermographism chelitis keratosis pilaris hypelinearity of Palms and soles Ref Harrison20th edition pg 2340"
+    "cop": 0,
+    "exp": "<p>ATOPIC DERMATITIS:-Atopic eczema.Chronically relapsing skin disorder that usually begins at infancy characterised by pruritus,xerosis and eczematisation. Clinical features-Infantile phase:- AD more acute with predominantly involving face,scalp and extensor surfaces of extremities.Typically there are papules,vesicles,excoriations and exudation. Childhood phase:-Lichenification and localisation of rash to the flexural folds of extremities. Adults:-Lichenification and skin prone to itching and inflammation. KEY DIAGNOSTIC FEATURES:-Hanifin and Rajka developed diagnostic criteria for AD based on clinical features. three major and three minor establishes diagnosis major criteria1. Pruritis.2. Typical morphology and histology-face/flexural involvement in infants and child.Flexural Lichenification in older children.3. Tendency towards chronicity.4. Personal/family history of an atopic disorder such as asthma,allergic rhinitis etc.. minor criteria Other common skin findings:-Xeroderma,recurrent infection due to herpes,staph aureus, Icthyosis, pityriasis alba. Eye findings- Conjunctivitis,Keratitis, keratoconys, Dennie morgan fold and anterior sub capsular cataract. type 1hypersensitivity elevated igE Early age of onset hand foot dermatitis periorbital darkening white dermographism chelitis keratosis pilaris hypelinearity of Palms and soles Ref Harrison20th edition pg 2340",
+    "hint_exp": "🧩 Your crush solved \"Hanifin Rajke diagnostic criteria\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3ef83f4c-fd8d-47a9-ba0a-abbafd5b8ed4": {
-    "cop": 3,
-    "exp": "Ans. c (Nocardia). (Ref. Textbook of Microbiology by Anantanarayan, 6th/371)FOLLOWING ARE ACID FAST STAINING POSITIVE1. M.Tb2. Nocardia3. Bacterial spores4. Lipofuschin pigment5. M. leprae6. Cryptosporidium"
+    "cop": 2,
+    "exp": "Ans. c (Nocardia). (Ref. Textbook of Microbiology by Anantanarayan, 6th/371)FOLLOWING ARE ACID FAST STAINING POSITIVE1. M.Tb2. Nocardia3. Bacterial spores4. Lipofuschin pigment5. M. leprae6. Cryptosporidium",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bf211901-dd66-40b0-9350-a3e40da879ee": {
-    "cop": 3,
-    "exp": "UV rays are used to disinfect OT for 30-45 min exposure Formaldehyde gas also can be used for fumigation of operation theatres. Ref : Ananthanarayana textbook of Microbiology 9th edition Pgno : 33"
+    "cop": 2,
+    "exp": "UV rays are used to disinfect OT for 30-45 min exposure Formaldehyde gas also can be used for fumigation of operation theatres. Ref : Ananthanarayana textbook of Microbiology 9th edition Pgno : 33",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"done by\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "305e8ee2-537d-4bb4-ab8c-129f2a5ef13f": {
-    "cop": 4,
-    "exp": "Reactive ahritis (previously known as Reiter's disease) is predominantly a disease of young men, with a male preponderance of 15 : 1. It is the most common cause of inflammatory ahritis in men aged 16-35 but may occur at any age. Between 1 and 2% of patients with non-specific urethritis seen at genitourinary medicine clinics have reactive ahritis. Following an epidemic of Shigella dysentery, 20% of HLA-B27-positive men developed reactive ahritis. Classic triad** Non-specific urethritis* Conjunctivitis (~50%)* Reactive ahritis Additional extra-aicular features* Circinate balanitis(20-50%)* Keratodermablennorrhagica (15%)* Nail dystrophy* Buccal erosions (10%) Precipitated by* Bacterial dysentery, mainly Salmonella, Shigella,Campylobacter or Yersinia* Sexually acquired infection with Chlamydia REF:DAVIDSON'S PRINCIPLES AND PRACTICE OF MEDICINE 22nd EDITION PAGE NO 1107"
+    "cop": 3,
+    "exp": "Reactive ahritis (previously known as Reiter's disease) is predominantly a disease of young men, with a male preponderance of 15 : 1. It is the most common cause of inflammatory ahritis in men aged 16-35 but may occur at any age. Between 1 and 2% of patients with non-specific urethritis seen at genitourinary medicine clinics have reactive ahritis. Following an epidemic of Shigella dysentery, 20% of HLA-B27-positive men developed reactive ahritis. Classic triad** Non-specific urethritis* Conjunctivitis (~50%)* Reactive ahritis Additional extra-aicular features* Circinate balanitis(20-50%)* Keratodermablennorrhagica (15%)* Nail dystrophy* Buccal erosions (10%) Precipitated by* Bacterial dysentery, mainly Salmonella, Shigella,Campylobacter or Yersinia* Sexually acquired infection with Chlamydia REF:DAVIDSON'S PRINCIPLES AND PRACTICE OF MEDICINE 22nd EDITION PAGE NO 1107",
+    "hint_exp": "🎯 Think of \"Reactive ahritis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b8a09a57-1f50-47c4-892d-45d28a07f706": {
-    "cop": 3,
-    "exp": "Small cell carcinomas are highly chemosensitive with an overall 90% regression rate with chemotherapy. Propey Small Cell Carcinoma Non Small Cell Carcinoma Location Central location Peripheral location Metastasis Highly metastatic lesion with wide spread metastasis at time of diagnosis Common site of metastasis include brain, bone, liver and adrenals Less metastatic than small cell carcinoma Paraneoplastic syndrome ACTH AVP (Vasopressin) Calcitonin ANF Gastrin Releasing peptide PTH-rp Repsonse to Chemotherapy Superior response Overall regression rate 90% Rate complete regression in 30% Inferior response Onjective shrinkage in 30-50% Complete response; Uncommon Ref: Harrisons 19th edition pgno: 522"
+    "cop": 2,
+    "exp": "Small cell carcinomas are highly chemosensitive with an overall 90% regression rate with chemotherapy. Propey Small Cell Carcinoma Non Small Cell Carcinoma Location Central location Peripheral location Metastasis Highly metastatic lesion with wide spread metastasis at time of diagnosis Common site of metastasis include brain, bone, liver and adrenals Less metastatic than small cell carcinoma Paraneoplastic syndrome ACTH AVP (Vasopressin) Calcitonin ANF Gastrin Releasing peptide PTH-rp Repsonse to Chemotherapy Superior response Overall regression rate 90% Rate complete regression in 30% Inferior response Onjective shrinkage in 30-50% Complete response; Uncommon Ref: Harrisons 19th edition pgno: 522",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"small cell carcinoma\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c1408ecf-fc1d-49ca-a622-83c9a99c2615": {
-    "cop": 4,
-    "exp": "Pituitary hormones, the hormones of the anterior lobe of the pituitary gland controlled by hypothalamic releasing factors; they include growth hormone (somatotropin) prolactin, thyroid-luteinizing hormone, adrenocoicotropic hormone, and melanocyte-stimulating hormone. The posterior lobe is the source of vasopressin, which inhibits diuresis and raises blood pressure, and oxytocin, which stimulates the contraction of smooth muscle, especially in the uterus.Thyroxine a thyroid hormone that contains iodine and is a derivative of the amino acid tyrosine, occurring naturally as l-thyroxine; its chemical name is tetraiodothyronine.Ref: Ganong&;s review of medical physiology; 24th edition; page no:-325"
+    "cop": 3,
+    "exp": "Pituitary hormones, the hormones of the anterior lobe of the pituitary gland controlled by hypothalamic releasing factors; they include growth hormone (somatotropin) prolactin, thyroid-luteinizing hormone, adrenocoicotropic hormone, and melanocyte-stimulating hormone. The posterior lobe is the source of vasopressin, which inhibits diuresis and raises blood pressure, and oxytocin, which stimulates the contraction of smooth muscle, especially in the uterus.Thyroxine a thyroid hormone that contains iodine and is a derivative of the amino acid tyrosine, occurring naturally as l-thyroxine; its chemical name is tetraiodothyronine.Ref: Ganong&;s review of medical physiology; 24th edition; page no:-325",
+    "hint_exp": "🧩 Your crush solved \"Pituitary secretes hormones except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d23c7680-cb6a-4778-a20b-cba749d3da4e": {
-    "cop": 1,
-    "exp": "Ans. A CapitateRef: Kulkarni Clinical Anatomy, 2nd ed. pg. 80* The carpal bones are cartilaginous at birth. Capitate is the first bone to ossify at 1 year and pisiform the last one to ossify at 12 years.Extra Mile* Scaphoid is boat-shaped. Its neck or waist subdivides the scaphoid into proximal and distal segments. A tubercele projects from its lateral side. It lies in the floor of anatomical snuff-box, where it can be palpated.* Lunate is shaped like lunar crescent (shape of half moon).* Triquetral is pyramidal in shape.* Pisiform is pea-shaped. It is a sesamoid bone in the tendon of flexor carpi ulnar is.* Trapezium is quadrilateral and bears a crest and groove (for lodging tendon of flexor carpi radialis). It takes part in the first carpometacarpal joint, which imparts unique mobility to human thumb.* Trapezoid is irregular like a baby's shoe.* Capitate bears a big head. It is largest carpal bone.* Hamate has a hook-shaped process."
+    "cop": 0,
+    "exp": "Ans. A CapitateRef: Kulkarni Clinical Anatomy, 2nd ed. pg. 80* The carpal bones are cartilaginous at birth. Capitate is the first bone to ossify at 1 year and pisiform the last one to ossify at 12 years.Extra Mile* Scaphoid is boat-shaped. Its neck or waist subdivides the scaphoid into proximal and distal segments. A tubercele projects from its lateral side. It lies in the floor of anatomical snuff-box, where it can be palpated.* Lunate is shaped like lunar crescent (shape of half moon).* Triquetral is pyramidal in shape.* Pisiform is pea-shaped. It is a sesamoid bone in the tendon of flexor carpi ulnar is.* Trapezium is quadrilateral and bears a crest and groove (for lodging tendon of flexor carpi radialis). It takes part in the first carpometacarpal joint, which imparts unique mobility to human thumb.* Trapezoid is irregular like a baby's shoe.* Capitate bears a big head. It is largest carpal bone.* Hamate has a hook-shaped process.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which carpal bone ossify\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8b9fc886-9496-4dc8-89b2-206a28dfb4a9": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"thiopentone used for induction\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6a4bdac8-4b06-40ac-86e2-c1d37553f28c": {
-    "cop": 3,
-    "exp": "classification GI range Example Low GI 55 or less Most fruits and vegetables except potatoes and water melon, pasta beans, lentils Medium GI 56-69 Sucrose, brown rice, basmati rice High GI 70 or more Corn flakes, white bread, candy bar Ref: Park 22nd edition, page 568"
+    "cop": 2,
+    "exp": "classification GI range Example Low GI 55 or less Most fruits and vegetables except potatoes and water melon, pasta beans, lentils Medium GI 56-69 Sucrose, brown rice, basmati rice High GI 70 or more Corn flakes, white bread, candy bar Ref: Park 22nd edition, page 568",
+    "hint_exp": "🎯 Think of \"Corn flakes classified which\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4d74e509-bb09-4ad9-9921-f5c007e8a8e8": {
-    "cop": 4,
-    "exp": "One half of the dose is eliminated in the first 2 hours so its elimination half-life equals 2 hours. With the passage of each half-life the amount in the body (or in the blood) will decrease to 50% of a former level. Thus, at 6 hours after administration, 3 half-lives have passed: (1) 200 mg to 100 mg, (2) 100 mg to 50 mg, and (3) 50 mg to 25 mg. Ref:- kd tripathi; pg num:-32 Plasma half-life:-"
+    "cop": 3,
+    "exp": "One half of the dose is eliminated in the first 2 hours so its elimination half-life equals 2 hours. With the passage of each half-life the amount in the body (or in the blood) will decrease to 50% of a former level. Thus, at 6 hours after administration, 3 half-lives have passed: (1) 200 mg to 100 mg, (2) 100 mg to 50 mg, and (3) 50 mg to 25 mg. Ref:- kd tripathi; pg num:-32 Plasma half-life:-",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"patient given dose drug\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "03b310ff-2d80-422e-8b96-d774012a2807": {
-    "cop": 2,
-    "exp": "Ans 'b' ie Ca Rectum Anterior resection is the general term used to describe operations in which rectosigmoid pa is resected from an abdominal approach with no need for perineal, sacral or other incision. Resection of the rectosigmoid colon performed above the pelvic peritoneum is called high anterior resection. whereas an operation in which it is necessary to open the pelvic peritoneum to approach the lesion in upper 2/3 of rectum is called as Low anterior resection."
+    "cop": 1,
+    "exp": "Ans 'b' ie Ca Rectum Anterior resection is the general term used to describe operations in which rectosigmoid pa is resected from an abdominal approach with no need for perineal, sacral or other incision. Resection of the rectosigmoid colon performed above the pelvic peritoneum is called high anterior resection. whereas an operation in which it is necessary to open the pelvic peritoneum to approach the lesion in upper 2/3 of rectum is called as Low anterior resection.",
+    "hint_exp": "🧩 Your crush solved \"which case Anterior resection\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e6b600be-d441-4471-9466-5e4a0c730cc0": {
-    "cop": 4,
-    "exp": "D i.e. Roseola infantum Roseola infantum/ Exanthema subetum/ Sixth disease Erythema Infectiosum (Fifth disease) Rubella/ Third disease Rubeola/ First disease (Measles) Eto HHV - 6 Human parvo virus B-19 Toga virus Paramyxovirus ciF * Affects < 3 yrs old child - Involves mostly 3-12 - Forchheimers - Koplik's spots - Maculopapular lesions years age group spots - Discrete lesions that sparing face - Bright red slapped cheek - Spreads from hair become confluent as - Resolve with in 2 days appearance f/b diffuse lacy line down-ward & rash spreads from hair (48 hrs) reticular rash that waxes and cleaning as it line downwards wanes over 3 weeks. spreads sparing palms and sole, lasts >=3 days"
+    "cop": 3,
+    "exp": "D i.e. Roseola infantum Roseola infantum/ Exanthema subetum/ Sixth disease Erythema Infectiosum (Fifth disease) Rubella/ Third disease Rubeola/ First disease (Measles) Eto HHV - 6 Human parvo virus B-19 Toga virus Paramyxovirus ciF * Affects < 3 yrs old child - Involves mostly 3-12 - Forchheimers - Koplik's spots - Maculopapular lesions years age group spots - Discrete lesions that sparing face - Bright red slapped cheek - Spreads from hair become confluent as - Resolve with in 2 days appearance f/b diffuse lacy line down-ward & rash spreads from hair (48 hrs) reticular rash that waxes and cleaning as it line downwards wanes over 3 weeks. spreads sparing palms and sole, lasts >=3 days",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"After days fever patient\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3f1fefa6-c6f7-4bf9-890c-a8e63c569658": {
-    "cop": 4,
-    "exp": "Median nerve injury causes wasting of thenar eminence."
+    "cop": 3,
+    "exp": "Median nerve injury causes wasting of thenar eminence.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following nerves\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c3e7749f-80a5-440e-bea8-1d96a6c2b504": {
-    "cop": 1,
-    "exp": "Corneal dystrophies are inherited disorders in which the cells have some inborn defects due to which pathological changes may occur with passage of time leading to development of corneal haze in otherwise normal eyes that are free from inflammation or vascularization. There is no associated systemic disease. Dystrophies occur bilaterally, manifesting occasionally at bih, but more usually during first or second decade and sometimes even later in life.Reference:Comprehensive ophthalmology,AK Khurana,4th edition,page no.117"
+    "cop": 0,
+    "exp": "Corneal dystrophies are inherited disorders in which the cells have some inborn defects due to which pathological changes may occur with passage of time leading to development of corneal haze in otherwise normal eyes that are free from inflammation or vascularization. There is no associated systemic disease. Dystrophies occur bilaterally, manifesting occasionally at bih, but more usually during first or second decade and sometimes even later in life.Reference:Comprehensive ophthalmology,AK Khurana,4th edition,page no.117",
+    "hint_exp": "🎯 Think of \"Recurrent corneal erosion seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4b2cf620-d180-49de-963a-e33b3be6efe3": {
-    "cop": 1,
-    "exp": "Ans is 'a' ie Abdominal ultrasound Detailed Radiological investigations are performed in i) < 3 yrs. old with first UTI ii) those with symptoms of pyelonephritis iii) recurrent UTI iv) abnormal voiding or persistently distended bladder v) family h/o UTI or hypeension So, in this pt. of 2 yrs. an abdominal U/S will be done to delect any renal anomaly."
+    "cop": 0,
+    "exp": "Ans is 'a' ie Abdominal ultrasound Detailed Radiological investigations are performed in i) < 3 yrs. old with first UTI ii) those with symptoms of pyelonephritis iii) recurrent UTI iv) abnormal voiding or persistently distended bladder v) family h/o UTI or hypeension So, in this pt. of 2 yrs. an abdominal U/S will be done to delect any renal anomaly.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"UTI\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8faced01-747c-44d1-b171-6000611f3aec": {
-    "cop": 3,
-    "exp": "Cause efflux of drug"
+    "cop": 2,
+    "exp": "Cause efflux of drug",
+    "hint_exp": "🧩 Your crush solved \"gene acts\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a54e2bb3-7815-4d00-8124-3159111803b0": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Lacrimal gland function test\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6de7841b-2d69-4563-bf4c-4a35cfce4d00": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Standard of living o Life expectancy at birth is a dimension of HDI (not life expectancy at one year).HUMAN DEVELOPMENT INDEX (HDDo HDI is a composite index combining indicators representing three dimensions.Components of HDIRecent (23\"Ve & 22nAle of Park)Old (Previous editions)1. Longevity: - Life expectancy at birth2. Knowledey Mean years of schoolingy Expected years of schooling3. Income:-GNI per capita1. Longevity: - Life expectancy at birth2. Knowledgey Mean years of schooling (gross enrolment ratio)y Adult literacy rate3. Income: - GDP per capita"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Standard of living o Life expectancy at birth is a dimension of HDI (not life expectancy at one year).HUMAN DEVELOPMENT INDEX (HDDo HDI is a composite index combining indicators representing three dimensions.Components of HDIRecent (23\"Ve & 22nAle of Park)Old (Previous editions)1. Longevity: - Life expectancy at birth2. Knowledey Mean years of schoolingy Expected years of schooling3. Income:-GNI per capita1. Longevity: - Life expectancy at birth2. Knowledgey Mean years of schooling (gross enrolment ratio)y Adult literacy rate3. Income: - GDP per capita",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"includes except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5cab817d-f60d-41f2-b8b5-81e802e1a515": {
-    "cop": 3,
-    "exp": "Within the dural sheath, the ophthalmic aery gives off the central aery of the retina. after piercing the dura mater it gives off a large lacrimal branch that runs along the lateral wall of the orbit. the main aery runs towards the medial wall of the orbit giving off a number of branches. Notes: the central aery of retina is the only aerial supply to most of the nervous layer the retina of the eye.if this aery is blocked there is sudden blindness. Ref BDC volume 3;Sixth edition pg 209."
+    "cop": 2,
+    "exp": "Within the dural sheath, the ophthalmic aery gives off the central aery of the retina. after piercing the dura mater it gives off a large lacrimal branch that runs along the lateral wall of the orbit. the main aery runs towards the medial wall of the orbit giving off a number of branches. Notes: the central aery of retina is the only aerial supply to most of the nervous layer the retina of the eye.if this aery is blocked there is sudden blindness. Ref BDC volume 3;Sixth edition pg 209.",
+    "hint_exp": "🎯 Think of \"Retina\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ed2a8d44-41d5-466c-815a-fca43915dfb4": {
-    "cop": 1,
-    "exp": "RNA editing \n\nApo B-100 and apo B-48 are closely related polypeptides.\nApo B-100, a single polypeptide of 4536 amino acids, is encoded by the same gene as apo B-48.\nApo B-48 consists of the first 2152 amino acids of apo B-100, counting from N terminals. These (2152 amino acids) account for 48% of total amino acids (4536) of apo B-100. Therefore, it is called apo B-48.\nIn the intestine, after synthesis of 2152 amino acids by their respective codons, the codon 2153 (CAA) acts as stop codon which terminates further synthesis.\nTherefore, in the intestine, translation stops at the 2153rd codon so that instead of a polypeptide chain of 4536 amino acids (i.e. apo B-100), a shorter polypeptide chain of 2152 amino acids (i.e. apo B-48) is synthesized.\nThis is an example of tissue-specific editing of an RNA transcript."
+    "cop": 0,
+    "exp": "RNA editing \n\nApo B-100 and apo B-48 are closely related polypeptides.\nApo B-100, a single polypeptide of 4536 amino acids, is encoded by the same gene as apo B-48.\nApo B-48 consists of the first 2152 amino acids of apo B-100, counting from N terminals. These (2152 amino acids) account for 48% of total amino acids (4536) of apo B-100. Therefore, it is called apo B-48.\nIn the intestine, after synthesis of 2152 amino acids by their respective codons, the codon 2153 (CAA) acts as stop codon which terminates further synthesis.\nTherefore, in the intestine, translation stops at the 2153rd codon so that instead of a polypeptide chain of 4536 amino acids (i.e. apo B-100), a shorter polypeptide chain of 2152 amino acids (i.e. apo B-48) is synthesized.\nThis is an example of tissue-specific editing of an RNA transcript.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of difference in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b4cdc059-52e6-4b5d-9472-a87cdd320529": {
-    "cop": 2,
-    "exp": "Lysozyme, an enzyme with antibacterial activity, is produced primarily by the Submandibular Salivary Gland Acinar Cells"
+    "cop": 1,
+    "exp": "Lysozyme, an enzyme with antibacterial activity, is produced primarily by the Submandibular Salivary Gland Acinar Cells",
+    "hint_exp": "🧩 Your crush solved \"Submandibular Acinar Cells secrete\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

@@ -1,202 +1,252 @@
 {
   "898fb4be-667d-474e-bedb-4f65fede6c17": {
-    "cop": 4,
-    "exp": "Hyperacusis - increased sensitivity to noise Hypoacusis - decreased sensitivity to noise Presbycusis - SNHL a/w old age Paracusis - a patient hears better in noisy environment. (seen in otosclerosis)"
+    "cop": 3,
+    "exp": "Hyperacusis - increased sensitivity to noise Hypoacusis - decreased sensitivity to noise Presbycusis - SNHL a/w old age Paracusis - a patient hears better in noisy environment. (seen in otosclerosis)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"patient hears better noise\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f35ee22a-505d-41bd-9712-1af6a6971390": {
-    "cop": 4,
-    "exp": "In the mouth, areas of dystrophic calcification may frequently be found in the gingiva, tongue or cheek. Such areas are also found in the benign fibromas of the mouth and adjacent structures. One of the most common intraoral dystrophic calcifications are found in the pulp of teeth."
+    "cop": 3,
+    "exp": "In the mouth, areas of dystrophic calcification may frequently be found in the gingiva, tongue or cheek. Such areas are also found in the benign fibromas of the mouth and adjacent structures. One of the most common intraoral dystrophic calcifications are found in the pulp of teeth.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"dystrophic calcification\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "59e3c439-a663-4fa0-beb6-e5eba75ca8d7": {
-    "cop": 1,
-    "exp": "Ans. a. 9-12 months (Ref: Sabiston 19/e p1923-1924; Schwartz 9/e p1658-1663: Bailey 26/e 634-648, 25/e p657-668; Nelson 19/e p1252- 1253)Ideal time for the repair of cleft palate is 6-18 months of age. Best choice among the given options is 9-12 months.'Cleft lip repair is commonly performed between 3 and 6 months of age whereas cleft palate repair is frequently performed between 6 and 18 months. - Bailey 26/e 638Surgical closure of a cleft lip is usually performed by 3 months of age. when the infant has shown satisfactory weight gain and is free of any oral, respiratory: or systemic infection. Z-plasty is the most commonly used technique; a staggered suture line minimizes notching of the lip from retraction of scar tissue. The initial repair may be revised at 4 or 5 year of age. In an otherwise healthy child, closure of the palate is usually done before 1 year of age to enhance normal speech development.' - Nelson 19/e p1252-1253Cleft Lip and PalateClefts of the lip, alveolus and hard and soft palate are the MC congenital abnormalities of the orofacial structuresQ.Frequently occur as isolated deformities but can be associated with other medical conditions, particularly congenital heart diseaseQ.Incomplete clefts affect only a portion of the lip and contain a bridge of tissue connecting the central and lateral lip elements, referred to as Simonart's bandQ.Cleft lip is due to non-fusion of maxillary process with medial nasal processQ.Unilateral cleft lip is associated with posterior displacement of alar cartilageQIncidence:Highest incidence reported for cleft lip and palate occurs in the Indian tribes of Montana, USA (1:276).Cleft lip/palate predominates in malesQCleft palate alone appears to be more common in femalesQ.Incidence of cleft lip and palate is 1:600 live birthsQIncidence of isolated cleft palate is 1:1000 live birthsQDistribution:In unilateral cleft lip the deformity affects the left sideQ in 60% of cases.Typical distribution of cleft typesCleft lip alone: 15%Cleft lip and palate: 45% (MC)QIsolated cleft palate: 40%Etiology of cleft lip and palateEtiology of cleft lip and palate: Genetic predisposition and a contributory environmental componentQ. Environmental factors: Maternal epilepsyQ and drugs (steroids, diazepam and phenytoinQ).Associated syndromes:Although most clefts of the lip and palate occur as an isolated deformity, Pierre Robin sequence remains the most common syndromeQ.Other associated syndromes: Stickler's (ophthalmic and musculoskeletal abnormalities), Shprintzen's (cardiac anomalies), Down's, Apert's and Treacher-Collins'syndromes.Types of Cleft lipTypes of Cleft palate* Unilateral deft lip* Bilateral deft lip* Incomplete: Cleft of the hard palate remains attached to the nasal septum and vomerQ* Complete: Nasal septum and vomer are completely separated from the palatine processesQAntenatal diagnosis:All but isolated cleft palate can be diagnosed by ultrasound after 18 weeksQ gestationProblems immediately after birth:Some babies are able to feed normally but some will need assistanceBreathing problems in Pierre Robin sequence may be life threateningManagement:Surgical techniques are aimed at restoring normal anatomy.Cleft lip* Repaired between 3-6 months of ageQCleft palate* Repaired between 6-18 months of ageQPrinciples of surgery:Cleft lip surgery attaches and reconnects the muscles around the oral sphincterQCleft palate surgery aims to bring together mucosa and muscles with minimal scarringQTwo-stage procedures attempt to minimize dissectionQSecondary Management:Following primary surgery, regular review by a multidisciplinary team is essentialQ.Many aspects of cleft care require long-term review: Hearing, speech, dental development, facial growthQ.Timing of Primary Cleft Lip and Palate Procedures (after Delaire)Cleft lip aloneCleft palate aloneCleft lip and palate* Unilateral (one side): One operation at 5-6 months* Bilateral (both sides): One operation at 4-5 months* Soft palate only: One operation at 6 monthsQ* Soft and hard palate: Two operations- Soft palate at 6 monthsQ - Hard palate at 15-18 months* Unilateral: Two operations- Cleft lip and soft palate at 5-6 months- Hard palate and gum pad with or without lip revision at 15-18 months* Bilateral: Two operations- Cleft lip and soft palate at 4-5 months- Hard palate and gum pad with or without lip revision at 15-18 months"
+    "cop": 0,
+    "exp": "Ans. a. 9-12 months (Ref: Sabiston 19/e p1923-1924; Schwartz 9/e p1658-1663: Bailey 26/e 634-648, 25/e p657-668; Nelson 19/e p1252- 1253)Ideal time for the repair of cleft palate is 6-18 months of age. Best choice among the given options is 9-12 months.'Cleft lip repair is commonly performed between 3 and 6 months of age whereas cleft palate repair is frequently performed between 6 and 18 months. - Bailey 26/e 638Surgical closure of a cleft lip is usually performed by 3 months of age. when the infant has shown satisfactory weight gain and is free of any oral, respiratory: or systemic infection. Z-plasty is the most commonly used technique; a staggered suture line minimizes notching of the lip from retraction of scar tissue. The initial repair may be revised at 4 or 5 year of age. In an otherwise healthy child, closure of the palate is usually done before 1 year of age to enhance normal speech development.' - Nelson 19/e p1252-1253Cleft Lip and PalateClefts of the lip, alveolus and hard and soft palate are the MC congenital abnormalities of the orofacial structuresQ.Frequently occur as isolated deformities but can be associated with other medical conditions, particularly congenital heart diseaseQ.Incomplete clefts affect only a portion of the lip and contain a bridge of tissue connecting the central and lateral lip elements, referred to as Simonart's bandQ.Cleft lip is due to non-fusion of maxillary process with medial nasal processQ.Unilateral cleft lip is associated with posterior displacement of alar cartilageQIncidence:Highest incidence reported for cleft lip and palate occurs in the Indian tribes of Montana, USA (1:276).Cleft lip/palate predominates in malesQCleft palate alone appears to be more common in femalesQ.Incidence of cleft lip and palate is 1:600 live birthsQIncidence of isolated cleft palate is 1:1000 live birthsQDistribution:In unilateral cleft lip the deformity affects the left sideQ in 60% of cases.Typical distribution of cleft typesCleft lip alone: 15%Cleft lip and palate: 45% (MC)QIsolated cleft palate: 40%Etiology of cleft lip and palateEtiology of cleft lip and palate: Genetic predisposition and a contributory environmental componentQ. Environmental factors: Maternal epilepsyQ and drugs (steroids, diazepam and phenytoinQ).Associated syndromes:Although most clefts of the lip and palate occur as an isolated deformity, Pierre Robin sequence remains the most common syndromeQ.Other associated syndromes: Stickler's (ophthalmic and musculoskeletal abnormalities), Shprintzen's (cardiac anomalies), Down's, Apert's and Treacher-Collins'syndromes.Types of Cleft lipTypes of Cleft palate* Unilateral deft lip* Bilateral deft lip* Incomplete: Cleft of the hard palate remains attached to the nasal septum and vomerQ* Complete: Nasal septum and vomer are completely separated from the palatine processesQAntenatal diagnosis:All but isolated cleft palate can be diagnosed by ultrasound after 18 weeksQ gestationProblems immediately after birth:Some babies are able to feed normally but some will need assistanceBreathing problems in Pierre Robin sequence may be life threateningManagement:Surgical techniques are aimed at restoring normal anatomy.Cleft lip* Repaired between 3-6 months of ageQCleft palate* Repaired between 6-18 months of ageQPrinciples of surgery:Cleft lip surgery attaches and reconnects the muscles around the oral sphincterQCleft palate surgery aims to bring together mucosa and muscles with minimal scarringQTwo-stage procedures attempt to minimize dissectionQSecondary Management:Following primary surgery, regular review by a multidisciplinary team is essentialQ.Many aspects of cleft care require long-term review: Hearing, speech, dental development, facial growthQ.Timing of Primary Cleft Lip and Palate Procedures (after Delaire)Cleft lip aloneCleft palate aloneCleft lip and palate* Unilateral (one side): One operation at 5-6 months* Bilateral (both sides): One operation at 4-5 months* Soft palate only: One operation at 6 monthsQ* Soft and hard palate: Two operations- Soft palate at 6 monthsQ - Hard palate at 15-18 months* Unilateral: Two operations- Cleft lip and soft palate at 5-6 months- Hard palate and gum pad with or without lip revision at 15-18 months* Bilateral: Two operations- Cleft lip and soft palate at 4-5 months- Hard palate and gum pad with or without lip revision at 15-18 months",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "aa235436-aea1-490f-a636-ad6ddddd477d": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Iron deficiency Anemia Mentzer index more than 13 suggests a diagnosis of Iron-deficiency anemia. Mentzer index The Mentzer index is used to help in differentiating iron deficiency anemia from beta thalassemia. The index is calculated as the quotient of the mean corpuscular volume (MCV, in fL) divided by the red blood cell count (RBC, in millions per microleter). If the Mentzer index is less than 13, thallassemia is said to be more likely. If the Mentzer Index is greater than 13, Then iron-deficiency anemia is said to be more likely. Principle In iron deficiency, the marrow cannot produce as many RBCs and they are small (imcrocytic), so the RBC count and the MCV will both be low, and as a result, the index will be greater than 13. Conversely, in thalassemia, which is a disorder of globin synthesis, the number of RBCs produced is normal, but the cells are smaller and more fragile. Therefore, the RBC count is normal, but the MCV is low, so the index will be less than 13. In practice, the Mentzer index is not a reliable indicator and should not, by itself be used to differentiate the two conditions. Index Formula Value for iron deficiency anemia Value for iron thalassemia Mentzer index MC V/RBC count > 13 < 13 Shine and Lal index MCV2 x MCH x 0.01 > 1530 < 1530 England and Fraser index MCV - RBC - (5 x Hb) 5.19 > 0 < 0 Srivastava index MCH/RBC > 3.8 < 3.8 Green and king index MCV2 x RDW x Hb/100 > 65 < 65 Red cell distribution width index MCV x RDW/RBC > 220 < 220"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Iron deficiency Anemia Mentzer index more than 13 suggests a diagnosis of Iron-deficiency anemia. Mentzer index The Mentzer index is used to help in differentiating iron deficiency anemia from beta thalassemia. The index is calculated as the quotient of the mean corpuscular volume (MCV, in fL) divided by the red blood cell count (RBC, in millions per microleter). If the Mentzer index is less than 13, thallassemia is said to be more likely. If the Mentzer Index is greater than 13, Then iron-deficiency anemia is said to be more likely. Principle In iron deficiency, the marrow cannot produce as many RBCs and they are small (imcrocytic), so the RBC count and the MCV will both be low, and as a result, the index will be greater than 13. Conversely, in thalassemia, which is a disorder of globin synthesis, the number of RBCs produced is normal, but the cells are smaller and more fragile. Therefore, the RBC count is normal, but the MCV is low, so the index will be less than 13. In practice, the Mentzer index is not a reliable indicator and should not, by itself be used to differentiate the two conditions. Index Formula Value for iron deficiency anemia Value for iron thalassemia Mentzer index MC V/RBC count > 13 < 13 Shine and Lal index MCV2 x MCH x 0.01 > 1530 < 1530 England and Fraser index MCV - RBC - (5 x Hb) 5.19 > 0 < 0 Srivastava index MCH/RBC > 3.8 < 3.8 Green and king index MCV2 x RDW x Hb/100 > 65 < 65 Red cell distribution width index MCV x RDW/RBC > 220 < 220",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Mentzer index more than\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2666484a-dc2a-46ca-9496-8807fe9637c5": {
-    "cop": 3,
-    "exp": "Alpha cellsGlucagonBeta cellsInsulin, amylinDelta cellsSomatostatinPP cellsPancreatic polypeptideRef: Harrison 19e pg: 2403"
+    "cop": 2,
+    "exp": "Alpha cellsGlucagonBeta cellsInsulin, amylinDelta cellsSomatostatinPP cellsPancreatic polypeptideRef: Harrison 19e pg: 2403",
+    "hint_exp": "🧩 Your crush solved \"is produced by\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f2e975a1-2a59-46ec-96cd-54b066f43dfa": {
-    "cop": 1,
-    "exp": "MPGN > Membranous  > FSGS."
+    "cop": 0,
+    "exp": "MPGN > Membranous  > FSGS.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"nephrotic syndrome\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "46eb53e6-a4f7-4e9e-a6cb-6cdd83d24e37": {
-    "cop": 1,
-    "exp": "A patient presenting with long standing history of purulent nasal discharge, fever, opacification of sinus and development of conjunctival congestion with edema suggests a diagnosis of chronic sinusitis associated with orbital complications (orbital cellulitis or abscess). Therefore, a CT scan or ultrasound of the orbit should be next step in this patient's evaluation. Ref: Diseases of Ear, Nose and Throat By PL Dhingra, 4th Edition, Chapter 37 and 38; Handbook of Otolaryngology : Head and Neck Surgery By David Goldenberg, Bradley Goldstein"
+    "cop": 0,
+    "exp": "A patient presenting with long standing history of purulent nasal discharge, fever, opacification of sinus and development of conjunctival congestion with edema suggests a diagnosis of chronic sinusitis associated with orbital complications (orbital cellulitis or abscess). Therefore, a CT scan or ultrasound of the orbit should be next step in this patient's evaluation. Ref: Diseases of Ear, Nose and Throat By PL Dhingra, 4th Edition, Chapter 37 and 38; Handbook of Otolaryngology : Head and Neck Surgery By David Goldenberg, Bradley Goldstein",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"fever\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "054dfaa3-9763-4820-8386-61ca64b4c4c9": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"response to its own growth\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dd495bd6-c097-44c2-a2ff-4fa488617b6f": {
-    "cop": 1,
-    "exp": "(4 months) (43-Dutta 6th) (2154-Nelson 17th)* At 16th week (4 month) lanugo (downy thin colourless hairs) appears but near term almost completely disappears.The homy layer of epidermis is absent before 20th week."
+    "cop": 0,
+    "exp": "(4 months) (43-Dutta 6th) (2154-Nelson 17th)* At 16th week (4 month) lanugo (downy thin colourless hairs) appears but near term almost completely disappears.The homy layer of epidermis is absent before 20th week.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Lanugo hair appears\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "36ec3082-35bd-4400-a94e-0da054efcbaa": {
-    "cop": 1,
-    "exp": "Insulinomas Beta cell tumors (insulinomas) are the most common type of PanNET( pancreatic NeuroEndocrineTumors) and may be responsible for the elaboration of sufficient insulin to induce clinically significant hypoglycemia. The characteristic clinical picture is dominated by attacks of hypoglycemia, which occur when plasma blood glucose levels fall below 50 mg/dL. The attacks consist principally of such central nervous system manifestations as confusion, stupor, and loss of consciousness. They are precipitated by fasting or exercise and are promptly relieved by feeding or parenteral administration of glucose. Most insulinomas are cured by surgical resection. TEXT BOOK OF ROBBINS BASIC PATHOLOGY NINTH EDITION PAGE.751 IMAGE REF: ROBBINS BASIC PATHOLOGY NINTH EDITION FIG:19-34 PAGE 751"
+    "cop": 0,
+    "exp": "Insulinomas Beta cell tumors (insulinomas) are the most common type of PanNET( pancreatic NeuroEndocrineTumors) and may be responsible for the elaboration of sufficient insulin to induce clinically significant hypoglycemia. The characteristic clinical picture is dominated by attacks of hypoglycemia, which occur when plasma blood glucose levels fall below 50 mg/dL. The attacks consist principally of such central nervous system manifestations as confusion, stupor, and loss of consciousness. They are precipitated by fasting or exercise and are promptly relieved by feeding or parenteral administration of glucose. Most insulinomas are cured by surgical resection. TEXT BOOK OF ROBBINS BASIC PATHOLOGY NINTH EDITION PAGE.751 IMAGE REF: ROBBINS BASIC PATHOLOGY NINTH EDITION FIG:19-34 PAGE 751",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "eb4982c6-a298-48fa-b964-7210c34d62ad": {
-    "cop": 2,
-    "exp": "Ans is 'b' i.e. Behind the esophagus \"The majority of blunt injuries to the thoracic aoa occur at aoic isthmus just distal to the left subclan aery. Other locations include the transverse arch, proximal ascending aoa, and descending aoa just proximal to the diaphragm.\" - Sevitt S. The mechanisms of traumatic rupture of the thoracic aoa. Br J Surg 1977; 64:166 About 'aoic valves' the following reputed radiologly website writes: \"The above figures represent the site of injury in those patients who present to hospital. The ascending aoa is injured in 20 to 25% of cases at autopsy but most of these patients die at the scene from serious complications such as a ruptured aoic valve, coronary aery laceration or haemopericardium with pericardial tamponade.\" Aoic isthmus is poion of the proximal descending thoracic aoa between the left subclan aery origin and the ligamentum aeriosum. Tethering of the aoa by the ligamentum aeriosum is believed to account for the high frequency of aoic injury in the isthmus region. The isthmus is thought to be a transition zone between the more mobile ascending aoa and arch and the relatively fixed descending thoracic aoa which allows for stretching with rapid deceleration"
+    "cop": 1,
+    "exp": "Ans is 'b' i.e. Behind the esophagus \"The majority of blunt injuries to the thoracic aoa occur at aoic isthmus just distal to the left subclan aery. Other locations include the transverse arch, proximal ascending aoa, and descending aoa just proximal to the diaphragm.\" - Sevitt S. The mechanisms of traumatic rupture of the thoracic aoa. Br J Surg 1977; 64:166 About 'aoic valves' the following reputed radiologly website writes: \"The above figures represent the site of injury in those patients who present to hospital. The ascending aoa is injured in 20 to 25% of cases at autopsy but most of these patients die at the scene from serious complications such as a ruptured aoic valve, coronary aery laceration or haemopericardium with pericardial tamponade.\" Aoic isthmus is poion of the proximal descending thoracic aoa between the left subclan aery origin and the ligamentum aeriosum. Tethering of the aoa by the ligamentum aeriosum is believed to account for the high frequency of aoic injury in the isthmus region. The isthmus is thought to be a transition zone between the more mobile ascending aoa and arch and the relatively fixed descending thoracic aoa which allows for stretching with rapid deceleration",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"decelerations ruptured places where\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "68b6c08e-602d-4046-8769-b1d2d59fcd8d": {
-    "cop": 2,
-    "exp": "Inferior mesenteric artery arises from the abdominal aorta and supplies hindgut.\nIt continues as a superior rectal artery.\nIt takes part in the formation of the marginal artery of Drummond."
+    "cop": 1,
+    "exp": "Inferior mesenteric artery arises from the abdominal aorta and supplies hindgut.\nIt continues as a superior rectal artery.\nIt takes part in the formation of the marginal artery of Drummond.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"True about inferior mesenteric\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d147caa9-0423-4fd8-b383-e6bf26f7f1a1": {
-    "cop": 4,
-    "exp": "The rima has an anterior intermembranous pa (three-fifth) and a posterior intercailaginous pa, The rima is the narrowest pa of the larynx. It is longer (23 mm) in males than in females (17 mm ). ref : B D Chaurasia's Human Anatomy , sixth edition, volume 3 , pg. no. 256 ref : 16.15a , B D Chaurasia's Human Anatomy , sixth edition, volume 3 , pg. no. 255"
+    "cop": 3,
+    "exp": "The rima has an anterior intermembranous pa (three-fifth) and a posterior intercailaginous pa, The rima is the narrowest pa of the larynx. It is longer (23 mm) in males than in females (17 mm ). ref : B D Chaurasia's Human Anatomy , sixth edition, volume 3 , pg. no. 256 ref : 16.15a , B D Chaurasia's Human Anatomy , sixth edition, volume 3 , pg. no. 255",
+    "hint_exp": "🎯 Think of \"the larynx\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b0402d20-caff-4e54-9fbb-4ce4d6bea409": {
-    "cop": 1,
-    "exp": "."
+    "cop": 0,
+    "exp": ".",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Transvestism\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b84e6bf6-bb4f-44f1-a81c-8eee9c52169e": {
-    "cop": 4,
-    "exp": "\"Originally used to assess mortality related to porto-systemic shunts, the Child's score also predicts mortality in patients with cirrhosis after hepatic resection\"- CSDT\nPrognosis of portocaval shunt depends on Child's criteria\nChild's Criteria:\n\nSerum bilirubin\nSerum albumin\nAscites - (Presence & degree of ascites)\nNeurological disorder\nProthrombin time"
+    "cop": 3,
+    "exp": "\"Originally used to assess mortality related to porto-systemic shunts, the Child's score also predicts mortality in patients with cirrhosis after hepatic resection\"- CSDT\nPrognosis of portocaval shunt depends on Child's criteria\nChild's Criteria:\n\nSerum bilirubin\nSerum albumin\nAscites - (Presence & degree of ascites)\nNeurological disorder\nProthrombin time",
+    "hint_exp": "🧩 Your crush solved \"Prognosis portocaval shunt depends\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "be9aa994-23aa-4c4e-8ca9-83e2c030e78d": {
-    "cop": 2,
-    "exp": "Right inguinal hernia is more common following a grid iron (MC Burney's) incision for appendicectomy and is due to injury to the iliohypogastric nerve."
+    "cop": 1,
+    "exp": "Right inguinal hernia is more common following a grid iron (MC Burney's) incision for appendicectomy and is due to injury to the iliohypogastric nerve.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Nerve most commonly injured\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "978e04fc-c670-469d-a802-15048914e92f": {
-    "cop": 3,
-    "exp": "Ans. MRI"
+    "cop": 2,
+    "exp": "Ans. MRI",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"renal aery hypeension\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a03f92a4-3837-4d06-8862-f60c8334078d": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Chronic pyelonephritis Pathological changes of chronic pyelonephritis area) Irregular scarring of kidneyb) The hallmarks of chronic pyelonephritis are coarse corticomedullary scars overlying blunted calyces; dilated pelvis and flattening of papillae.c) The microscopic changes involve predominantly tubules and interstitium; and include :-o Atrophy of tubules in some areas and hypertrophy or dilatation in other areas.o Thyroidization of tubules :- Dilated tubules with flattened epithelium filled with colloid casts resemble colloid containing thyroid follicles.o Chronic interstitial inflammation with interstitial fibrosisd) Arcuate and interlobular vessels demonstrate obliterative intimal sclerosis in the scarred areas; and in the presence of hypertension, hyaline arteriosclerosis is seen in the entire kidney."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Chronic pyelonephritis Pathological changes of chronic pyelonephritis area) Irregular scarring of kidneyb) The hallmarks of chronic pyelonephritis are coarse corticomedullary scars overlying blunted calyces; dilated pelvis and flattening of papillae.c) The microscopic changes involve predominantly tubules and interstitium; and include :-o Atrophy of tubules in some areas and hypertrophy or dilatation in other areas.o Thyroidization of tubules :- Dilated tubules with flattened epithelium filled with colloid casts resemble colloid containing thyroid follicles.o Chronic interstitial inflammation with interstitial fibrosisd) Arcuate and interlobular vessels demonstrate obliterative intimal sclerosis in the scarred areas; and in the presence of hypertension, hyaline arteriosclerosis is seen in the entire kidney.",
+    "hint_exp": "🎯 Think of \"Irregular scarred kidney with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ce224c45-390c-4c3d-8da0-7cfd1f5b1d5b": {
-    "cop": 1,
-    "exp": "Ref: Page 1138: Harrison 20th edition* The bacterium L. pneumophila leads to legionnaire disease.* The most common form of transmission of Legionella is inhalation of contaminated aerosols produced in conjunction with water sprays, jets or mists.* It has 2 distinct clinical syndromes: Legionnaires disease, which most often manifests as severe pneumonia accompanied by multisystemic disease, and Pontiac fever, which is an acute, febrile, self-limited, viral-like illness"
+    "cop": 0,
+    "exp": "Ref: Page 1138: Harrison 20th edition* The bacterium L. pneumophila leads to legionnaire disease.* The most common form of transmission of Legionella is inhalation of contaminated aerosols produced in conjunction with water sprays, jets or mists.* It has 2 distinct clinical syndromes: Legionnaires disease, which most often manifests as severe pneumonia accompanied by multisystemic disease, and Pontiac fever, which is an acute, febrile, self-limited, viral-like illness",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Legionnaire disease causes\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "65c712d6-6ecd-4c80-ae21-7d99c34be194": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 2 cm o Wide local excision leaving a margin of at least 2.5 cm of tissue all round with block dissection of the inguinal nodes; If they' are involved."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 2 cm o Wide local excision leaving a margin of at least 2.5 cm of tissue all round with block dissection of the inguinal nodes; If they' are involved.",
+    "hint_exp": "🧩 Your crush solved \"clearence for anal carcinoma\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8fde329c-1932-429c-9407-96a8b5f3230c": {
-    "cop": 3,
-    "exp": "C i.e. Smoke - The blackening of entery wound is due to fine carbon paicles in smokeQ. Grease (abrasion) collar is seen in firearm entry woundQ. - Bevelling of skull is seen in exit wound (point) of bulletQ."
+    "cop": 2,
+    "exp": "C i.e. Smoke - The blackening of entery wound is due to fine carbon paicles in smokeQ. Grease (abrasion) collar is seen in firearm entry woundQ. - Bevelling of skull is seen in exit wound (point) of bulletQ.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"firearm injury entry wound\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "96461ab4-55f4-405f-9223-8a21e06b7de2": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Activated protein used therapeutically\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3b1a055d-f8b6-4f7d-a32e-a2fc96da74a9": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Liver Stage of human cycleOccurs inPre-erythrocytic schizogonyLiverErythrocytic schizogonyRBCsExo-ery>throcytic schizogonyLiverGametogamyRBCs"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Liver Stage of human cycleOccurs inPre-erythrocytic schizogonyLiverErythrocytic schizogonyRBCsExo-ery>throcytic schizogonyLiverGametogamyRBCs",
+    "hint_exp": "🎯 Think of \"malaria erythrocytic schizogony occurs\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b3d945b3-01fa-4aee-b785-be7cac280d59": {
-    "cop": 3,
-    "exp": "Monocytes enter the blood from the bone marrow and circulate for about 72 hours. They then enter the tissues and become tissue macrophages.\nGanong 23 rd ed, pg 65"
+    "cop": 2,
+    "exp": "Monocytes enter the blood from the bone marrow and circulate for about 72 hours. They then enter the tissues and become tissue macrophages.\nGanong 23 rd ed, pg 65",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following cells become\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c3658dcd-703d-47f6-8f77-3a3db4e7a8b9": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"true about Gardner Syndrome\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "97281a6a-8cce-46a0-b76a-8de70521ecf9": {
-    "cop": 2,
-    "exp": "Enterococci are present in the intestine, genital tract and saliva. They are frequently isolated from cases of urinary tract infection and wound infection. Also causes endocarditis, infection of the biliary tract, septicemia and intra-abdominal abscess complicating diveiculitis and peritonitis. Strains resistant to Penicillin and other antibiotics occur frequently, so it is essential to perform antibiotic sensitivity for proper therapy. Enterococci are intrinsically resistant to cephalosporins and offer low-level resistance to aminoglycosides. In penicillin-sensitive strains, synergism occurs with combination treatment with Penicillin and aminoglycosides. If strains showed high-level resistance to aminoglycosides, this synergism does not occur. The drug of choice in such cases is vancomycin. Recently vancomycin-resistant Enterococci have begun to emerge. The phenotypes are Van A, B, C, D and E. The mechanism is an alteration of D-alanyl-D-alanine chain in the cell wall. Reference: Textbook of Microbiology; Anathanarayan and paniker's; 10th edition; Page no: 219, 220"
+    "cop": 1,
+    "exp": "Enterococci are present in the intestine, genital tract and saliva. They are frequently isolated from cases of urinary tract infection and wound infection. Also causes endocarditis, infection of the biliary tract, septicemia and intra-abdominal abscess complicating diveiculitis and peritonitis. Strains resistant to Penicillin and other antibiotics occur frequently, so it is essential to perform antibiotic sensitivity for proper therapy. Enterococci are intrinsically resistant to cephalosporins and offer low-level resistance to aminoglycosides. In penicillin-sensitive strains, synergism occurs with combination treatment with Penicillin and aminoglycosides. If strains showed high-level resistance to aminoglycosides, this synergism does not occur. The drug of choice in such cases is vancomycin. Recently vancomycin-resistant Enterococci have begun to emerge. The phenotypes are Van A, B, C, D and E. The mechanism is an alteration of D-alanyl-D-alanine chain in the cell wall. Reference: Textbook of Microbiology; Anathanarayan and paniker's; 10th edition; Page no: 219, 220",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"hydrolysis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ddb49ca0-57bf-497a-a4b1-fc3adfac0364": {
-    "cop": 1,
-    "exp": "During the time that the core of the mandible rotates forward an average of 15 degrees, the mandibular plane angle, representing the orientation of the jaw to an outside observer, decreases only 2 to 4 degrees on the average. The reason that the internal rotation is not expressed in jaw orientation, of course, is that surface changes (external rotation) tend to compensate. This means that the posterior part of the lower border of the mandible must be an area of resorption, while the anterior aspect of the lower border is unchanged or undergoes slight apposition. Studies of surface changes reveal exactly this as the usual pattern of apposition and resorption. On the average, then, there is about 15 degrees of internal, forward rotation and 11 to 12 degrees of external, backward rotation producing the 3 to 4 degree decrease in mandibular plane angle observed in the average individual during childhood and adolescence.\nRef: Contemporary orthodontics Proffit , 4th ed pg 116"
+    "cop": 0,
+    "exp": "During the time that the core of the mandible rotates forward an average of 15 degrees, the mandibular plane angle, representing the orientation of the jaw to an outside observer, decreases only 2 to 4 degrees on the average. The reason that the internal rotation is not expressed in jaw orientation, of course, is that surface changes (external rotation) tend to compensate. This means that the posterior part of the lower border of the mandible must be an area of resorption, while the anterior aspect of the lower border is unchanged or undergoes slight apposition. Studies of surface changes reveal exactly this as the usual pattern of apposition and resorption. On the average, then, there is about 15 degrees of internal, forward rotation and 11 to 12 degrees of external, backward rotation producing the 3 to 4 degree decrease in mandibular plane angle observed in the average individual during childhood and adolescence.\nRef: Contemporary orthodontics Proffit , 4th ed pg 116",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the jaw to an outside observer\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "320ebc37-7345-46e0-9345-059f72223df7": {
-    "cop": 3,
-    "exp": "MRI image shows multiple blooming foci noted diffusely involving the bilateral cerebral hemisphere predominantly at gray-white matter junction. Given the clinical history, most probable diagnosis DAI. Blooming aifact is a susceptibility aefact encountered on some MRI sequences in the presence parmagnetic substances that affect the local magnetic milieux. Although it is an aifact, it may be deliberately exploited to improve detection of ceain small lesions Cerebral amyloid angiopathy is seen old age ."
+    "cop": 2,
+    "exp": "MRI image shows multiple blooming foci noted diffusely involving the bilateral cerebral hemisphere predominantly at gray-white matter junction. Given the clinical history, most probable diagnosis DAI. Blooming aifact is a susceptibility aefact encountered on some MRI sequences in the presence parmagnetic substances that affect the local magnetic milieux. Although it is an aifact, it may be deliberately exploited to improve detection of ceain small lesions Cerebral amyloid angiopathy is seen old age .",
+    "hint_exp": "🎯 Think of \"year came with loss\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c8ba2673-6a06-4111-908a-5ae1536c899f": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Pellagra Pellagra* Pellagra, the classic niacin deficiency disease, occurs chiefly in populations where corn (maize), a poor source of tryptophan, is the major foodstuff\". A severe dietary imbalance, such as in anorexia nervosa and in war or famine conditions, also can cause pellagra.* Pellagra can also develop in conditions associated with disturbed tryptophan metabolism such as carcinoid syndrome and Hartnup disease.* The early symptoms of pellagra are vague: anorexia, lassitude, weakness, burning sensation, numbness, and dizziness.* After a long period of deficiency, the classic triad of dermatitis, diarrhea, and dementia appears.* Dermatitis, the most characteristic manifestation of pellagra, can develop suddenly or insidiously and may be initiated by irritants, including intense sunlight. The lesions first appear as symmetric areas of erythema on exposed surfaces, resembling sunburn, and might go unrecognized. The lesions are usually sharply demarcated from the surrounding healthy skin, and their distribution can change frequently. The lesions on the hands and feet often have the appearance of a glove or stocking. Similar demarcations can also occur around the neck (Casal necklace).* In some cases, vesicles and bullae develop (wet type). In others, there may be suppuration beneath the scaly, crusted epidermis; in still others, the swelling can disappear after a short time, followed by desquamation."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Pellagra Pellagra* Pellagra, the classic niacin deficiency disease, occurs chiefly in populations where corn (maize), a poor source of tryptophan, is the major foodstuff\". A severe dietary imbalance, such as in anorexia nervosa and in war or famine conditions, also can cause pellagra.* Pellagra can also develop in conditions associated with disturbed tryptophan metabolism such as carcinoid syndrome and Hartnup disease.* The early symptoms of pellagra are vague: anorexia, lassitude, weakness, burning sensation, numbness, and dizziness.* After a long period of deficiency, the classic triad of dermatitis, diarrhea, and dementia appears.* Dermatitis, the most characteristic manifestation of pellagra, can develop suddenly or insidiously and may be initiated by irritants, including intense sunlight. The lesions first appear as symmetric areas of erythema on exposed surfaces, resembling sunburn, and might go unrecognized. The lesions are usually sharply demarcated from the surrounding healthy skin, and their distribution can change frequently. The lesions on the hands and feet often have the appearance of a glove or stocking. Similar demarcations can also occur around the neck (Casal necklace).* In some cases, vesicles and bullae develop (wet type). In others, there may be suppuration beneath the scaly, crusted epidermis; in still others, the swelling can disappear after a short time, followed by desquamation.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Casal necklace seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "90efbd48-f5f5-4d30-b7eb-41289876b90a": {
-    "cop": 2,
-    "exp": "Thyroid cartilage, itself lies in front of C4 - C5 level. Its upper border is at C4 vertebra level.\n\n\"The superior border of the thyroid cartilage is at the C4 level.\" — Atlas of anatomy"
+    "cop": 1,
+    "exp": "Thyroid cartilage, itself lies in front of C4 - C5 level. Its upper border is at C4 vertebra level.\n\n\"The superior border of the thyroid cartilage is at the C4 level.\" — Atlas of anatomy",
+    "hint_exp": "🧩 Your crush solved \"thyroid cartilage\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "40e4a691-1569-44d3-97f2-fc253a5ca7b5": {
-    "cop": 4,
-    "exp": "Ans: D i.e. Argentaffinoma Conventional adenomas or non-mucin producing adenocarcinomas also occur in the appendix and may cause obstruction and enlargement that mimics acute appendicitis Mucocoele, a dilated appendix filled with mucin, may simply represent an obstructed appendix containing inspissated mucin or be a consequence of mucinous cystadenoma or mucinous cystadenocarcinoma In most advanced cases of intraperitoneal seeding and spread of mucinous cystadenoma or mucinous cystadenocarcinoma (through the appendiceal wall), the abdomen fills with tenacious, semisolid mucin, a condition called pseudomyxoma peritoneii The most common tumour of the appendix is the carcinoid/argentaffinoma."
+    "cop": 3,
+    "exp": "Ans: D i.e. Argentaffinoma Conventional adenomas or non-mucin producing adenocarcinomas also occur in the appendix and may cause obstruction and enlargement that mimics acute appendicitis Mucocoele, a dilated appendix filled with mucin, may simply represent an obstructed appendix containing inspissated mucin or be a consequence of mucinous cystadenoma or mucinous cystadenocarcinoma In most advanced cases of intraperitoneal seeding and spread of mucinous cystadenoma or mucinous cystadenocarcinoma (through the appendiceal wall), the abdomen fills with tenacious, semisolid mucin, a condition called pseudomyxoma peritoneii The most common tumour of the appendix is the carcinoid/argentaffinoma.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"appendix\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b689a4e7-d672-4a83-942d-f925ed852391": {
-    "cop": 3,
-    "exp": "The most common primary cancers with orbital metastases are breast, lung, and prostate. Breast consistently ranks the most common primary site, with 48%-53% ofmetastatic orbital lesions. Other sitesinclude kidney, thyroid, stomach, melanoma, and pancreas. ... Scirrhous breast carcinoma may present with enophthalmos. Ref khurana 6/e"
+    "cop": 2,
+    "exp": "The most common primary cancers with orbital metastases are breast, lung, and prostate. Breast consistently ranks the most common primary site, with 48%-53% ofmetastatic orbital lesions. Other sitesinclude kidney, thyroid, stomach, melanoma, and pancreas. ... Scirrhous breast carcinoma may present with enophthalmos. Ref khurana 6/e",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Most common site distant\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "01ae2962-6b9e-4082-b0ae-764a66ea7098": {
-    "cop": 4,
-    "exp": "Ans. Right ventricle"
+    "cop": 3,
+    "exp": "Ans. Right ventricle",
+    "hint_exp": "🎯 Think of \"mediastinum shadow\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0ea3ba54-cf29-4231-9eaa-85962c45f7df": {
-    "cop": 3,
-    "exp": "niacin taken as supplement or as therapy for dyslipidemiadyslipidemia.Harrison 17 pg 443-"
+    "cop": 2,
+    "exp": "niacin taken as supplement or as therapy for dyslipidemiadyslipidemia.Harrison 17 pg 443-",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"toxicity\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a6c316c5-f36c-4550-91d7-1a37618a6c0c": {
-    "cop": 2,
-    "exp": "150"
+    "cop": 1,
+    "exp": "150",
+    "hint_exp": "🧩 Your crush solved \"inch of mosquito net\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b215823a-0098-440b-be5b-52c599f919f2": {
-    "cop": 3,
-    "exp": "Cutaneous T cell lymphoma REF: Rook's 8 ed p.29.7 The carcinogenic effect of UVA is seen more with melanomas and to a lesser extent for non melanomatous skin tumours like basal cell carcinoma and squamous cell carcinoma."
+    "cop": 2,
+    "exp": "Cutaneous T cell lymphoma REF: Rook's 8 ed p.29.7 The carcinogenic effect of UVA is seen more with melanomas and to a lesser extent for non melanomatous skin tumours like basal cell carcinoma and squamous cell carcinoma.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Tumor caused PUVA\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "90d3f27a-e4f6-4cef-a858-3e03c9dabd90": {
-    "cop": 1,
-    "exp": "It has been explained that ACL is taut in extension, and prevent anterior gliding of tibia an femur. When one walks downhill, he tries to keep the knee in extension to maintain the balance and In extension, ACL is required to prevent anterior gliding of tibia. Therefore a person with ACL deficient knee will have difficulty in going downhill.\nOpposite is true for PCL. When one climbs upstairs, he keeps the knee in flexion most of the time. PCL is taut in flexion and prevent posterior gliding of tibia. Therefore PCL deficient knee will have difficulty in climbing upstairs."
+    "cop": 0,
+    "exp": "It has been explained that ACL is taut in extension, and prevent anterior gliding of tibia an femur. When one walks downhill, he tries to keep the knee in extension to maintain the balance and In extension, ACL is required to prevent anterior gliding of tibia. Therefore a person with ACL deficient knee will have difficulty in going downhill.\nOpposite is true for PCL. When one climbs upstairs, he keeps the knee in flexion most of the time. PCL is taut in flexion and prevent posterior gliding of tibia. Therefore PCL deficient knee will have difficulty in climbing upstairs.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which activity will difficult\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "317afdf5-c970-4b3c-adda-3489dbdf1881": {
-    "cop": 1,
-    "exp": "A i.e. Fracture mobility is a risk factor"
+    "cop": 0,
+    "exp": "A i.e. Fracture mobility is a risk factor",
+    "hint_exp": "🎯 Think of \"True about Post traumatic\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c87ed0a9-0573-4c22-89e0-7cc4b47b8fed": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e.,HyperiglycreidemiaAs Fructokinase is very active, following fructose ingestion, there is increased utilization of ATP forming more ADP and AMP. AMP on catabolism gives rise to uric acid. Hence it results in hyperuricemia.A person who is on fructose based diet ends up getting hyperiglyceridemia and hypercholesterolemia."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e.,HyperiglycreidemiaAs Fructokinase is very active, following fructose ingestion, there is increased utilization of ATP forming more ADP and AMP. AMP on catabolism gives rise to uric acid. Hence it results in hyperuricemia.A person who is on fructose based diet ends up getting hyperiglyceridemia and hypercholesterolemia.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"fructose\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ffaff5da-4519-482e-b938-df27d97d8e37": {
-    "cop": 4,
-    "exp": "(D) All of the above # McArdle syndrome (type V):# Enzyme Deficiency:> Muscle phosphorylase# Morphologic changes:> Skeletal muscle only-accumulations of glycogen predominant in subsacrolemmal location.> Clinical features: Painful cramps associated with strenuous exercise. Myoglobinuria occurs in 50% of cases. Onset in adulthood (>20 year old). Muscular exercise fails to raise lactate level in venous blood. Compatible with normal longevity."
+    "cop": 3,
+    "exp": "(D) All of the above # McArdle syndrome (type V):# Enzyme Deficiency:> Muscle phosphorylase# Morphologic changes:> Skeletal muscle only-accumulations of glycogen predominant in subsacrolemmal location.> Clinical features: Painful cramps associated with strenuous exercise. Myoglobinuria occurs in 50% of cases. Onset in adulthood (>20 year old). Muscular exercise fails to raise lactate level in venous blood. Compatible with normal longevity.",
+    "hint_exp": "🧩 Your crush solved \"of Myophosphorylase deficiency\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "da1cfe22-fbb2-4b92-816e-eb8c44833e09": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"patient with grandmal epilepsy\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "13d2e5da-3476-4e8f-a872-c456694bfec3": {
-    "cop": 2,
-    "exp": "MIRENA is a levonorgestrel containing IUD paicularly in elderly parous women assuming that they have no history of PID, ectopic pregnancy, leukemia, sickle cell disease or valvular hea disease. In this patient MIRENA is the best treatment for her. It is an effective alternative to hysterectomy to reduce heavy vaginal bleeding. IUD is not indicated for young nulliparous women due to the potential for dysmenorrhea and high risk of STD. Combined OCP is a well accepted and safe method of contraception for teens."
+    "cop": 1,
+    "exp": "MIRENA is a levonorgestrel containing IUD paicularly in elderly parous women assuming that they have no history of PID, ectopic pregnancy, leukemia, sickle cell disease or valvular hea disease. In this patient MIRENA is the best treatment for her. It is an effective alternative to hysterectomy to reduce heavy vaginal bleeding. IUD is not indicated for young nulliparous women due to the potential for dysmenorrhea and high risk of STD. Combined OCP is a well accepted and safe method of contraception for teens.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"best treatment for her\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "25c7f230-2310-4202-a2d9-8fe4dfef0fa1": {
-    "cop": 2,
-    "exp": "Insulin ⇒ only  Filtration occurs\nCreatinine,para amono hippuric acid ⇒ Both filtration and secretion occurs.\nGlucose ⇒ Both filtration and reabsorption occurs."
+    "cop": 1,
+    "exp": "Insulin ⇒ only  Filtration occurs\nCreatinine,para amono hippuric acid ⇒ Both filtration and secretion occurs.\nGlucose ⇒ Both filtration and reabsorption occurs.",
+    "hint_exp": "🎯 Think of \"Substance which both filtration\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e8904e1e-8a81-4076-92b8-ffd9b5e5dc33": {
-    "cop": 1,
-    "exp": "A i.e. CT scan"
+    "cop": 0,
+    "exp": "A i.e. CT scan",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Investigation choice temporal bone\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5235de69-3754-412a-8b2c-89b6b529cbe6": {
-    "cop": 3,
-    "exp": ".endoscope wash with diy water is often associated with a wide spectrumof clinical manifestations which mainly includes infection by mycobacterium chelonae.it belongs to the non tuerculous bacteria and is grouped under rapidly growing bacteria. ref:SRB&;s manual of surgery,ed 3,pg no 499"
+    "cop": 2,
+    "exp": ".endoscope wash with diy water is often associated with a wide spectrumof clinical manifestations which mainly includes infection by mycobacterium chelonae.it belongs to the non tuerculous bacteria and is grouped under rapidly growing bacteria. ref:SRB&;s manual of surgery,ed 3,pg no 499",
+    "hint_exp": "🧩 Your crush solved \"associated with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "52ad2068-3825-403c-8687-70f3fc5e6b19": {
-    "cop": 3,
-    "exp": "Heparin: Heparin is an anticoagulant that binds to antithrombin and activates it, which in turn inactivates thrombin. Thus heparin will prevent the clot from enlarging in this patient. Use of Heparin best anticoagulant Estimation of pH, Blood gases, Electrolytes, and Ionized calcium. Digitalis: Drug of choice for treating congestive hea failure and arrhythmias. Ouabain: A plant-derived glycoside Inhibits active transpo of Na+ in the cardiac muscle. In lower doses, it can be used in treating arrythmias. Glycosaminoglycans long linear (unbranched) polysaccharides consisting of repeating disaccharide (double sugar) units. Heparin & heparin sulfate"
+    "cop": 2,
+    "exp": "Heparin: Heparin is an anticoagulant that binds to antithrombin and activates it, which in turn inactivates thrombin. Thus heparin will prevent the clot from enlarging in this patient. Use of Heparin best anticoagulant Estimation of pH, Blood gases, Electrolytes, and Ionized calcium. Digitalis: Drug of choice for treating congestive hea failure and arrhythmias. Ouabain: A plant-derived glycoside Inhibits active transpo of Na+ in the cardiac muscle. In lower doses, it can be used in treating arrythmias. Glycosaminoglycans long linear (unbranched) polysaccharides consisting of repeating disaccharide (double sugar) units. Heparin & heparin sulfate",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"THEME FOCUS CHEMISTRY CARBOHYDRATES\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0db55bd6-b162-4674-8704-3ef979e18ed3": {
-    "cop": 2,
-    "exp": "Rough estimate for presbyopic add\n45 yrs : +1.00 to +1.35 D\n50 yrs : +1.50 to +1.75 D\n55 yrs : +2.00 to +2.25 D"
+    "cop": 1,
+    "exp": "Rough estimate for presbyopic add\n45 yrs : +1.00 to +1.35 D\n50 yrs : +1.50 to +1.75 D\n55 yrs : +2.00 to +2.25 D",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which presbyopic lens used\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6a87c9fa-90db-4f3e-bff1-8609e7d042b7": {
-    "cop": 4,
-    "exp": "Physiological leukocytosis (i.e.,increase in the number of circulating leucocytes in the absence of infection or tissue injury) has no clinical significance. It is seen in the following conditions: 1. Normal infants: The count may be as high as 18-20,000/mm3 but it returns to normal level within 1-2 years. 2. Food intake and digestion (\"digestive leukocytosis\"):There is a mild increase which returns to normal within an hour or so. 3. Physical exercise. 4. Mental stress. 5. Pregnancy: The count may be quite high, especially during the first pregnancy. 6. Paurition: The high TLC is possibly due to tissue injury, pain, physical stress and hemorrhage. 7. Extremes of temperatures: Exposure to sun or to very low temperature can increase the WBC count."
+    "cop": 3,
+    "exp": "Physiological leukocytosis (i.e.,increase in the number of circulating leucocytes in the absence of infection or tissue injury) has no clinical significance. It is seen in the following conditions: 1. Normal infants: The count may be as high as 18-20,000/mm3 but it returns to normal level within 1-2 years. 2. Food intake and digestion (\"digestive leukocytosis\"):There is a mild increase which returns to normal within an hour or so. 3. Physical exercise. 4. Mental stress. 5. Pregnancy: The count may be quite high, especially during the first pregnancy. 6. Paurition: The high TLC is possibly due to tissue injury, pain, physical stress and hemorrhage. 7. Extremes of temperatures: Exposure to sun or to very low temperature can increase the WBC count.",
+    "hint_exp": "🎯 Think of \"is seen in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4ce476d1-86cc-4dd9-9a80-5b99491201dc": {
-    "cop": 3,
-    "exp": "Answer is C (Lead poisoning): Lead poisoning is the single hest answer of exclusion. Although there are a few isolated case repos that implicate lead poisoning as a cause of spastic paraplegia, such repos are not confirmed and hence lead poisoning remains the single best answer of exclusion. Cord compression due to Cervical spondylosis, subacute combined degeneration of cord due to vitamin B12 deficiency, and motor neuron disease involving the UMN's are all established cause for spastic paraplegia. Causes of spastic paraplegia: Spinal cord compression Cervical spondylosis Cervical or thoracic disc Metastatic tumor Primary tumor (meningioma, neurofibroma etc) Infective (epidural abscess, spinal TB etc) Epidural haematoma Inflammatory disorders Multiple sclerosis Idiopathic transverse myelitis Sarcoidosis Infections (Iyme, zoster, TB, AIDS) Degenerative disorders Motor neuron disease Syringomyelia Vascular Spinal cord infarction Vasculitis, systemic lupus erythematosus etc Si'oinal AVM Trauma Cord contusion, laceration or transaction Displaced veebral fracture or disc Traumatic epidural haematoma Metabolic/Nutritional B12 deficiency (subacute combined degeneration) Rare hereditary conditions Friedreich's ataxia Hereditary spastic paraparesis Parasagittal brain lesions Meningioma Cerebral venous sinus thrombosis Congenital spastic diplegia"
+    "cop": 2,
+    "exp": "Answer is C (Lead poisoning): Lead poisoning is the single hest answer of exclusion. Although there are a few isolated case repos that implicate lead poisoning as a cause of spastic paraplegia, such repos are not confirmed and hence lead poisoning remains the single best answer of exclusion. Cord compression due to Cervical spondylosis, subacute combined degeneration of cord due to vitamin B12 deficiency, and motor neuron disease involving the UMN's are all established cause for spastic paraplegia. Causes of spastic paraplegia: Spinal cord compression Cervical spondylosis Cervical or thoracic disc Metastatic tumor Primary tumor (meningioma, neurofibroma etc) Infective (epidural abscess, spinal TB etc) Epidural haematoma Inflammatory disorders Multiple sclerosis Idiopathic transverse myelitis Sarcoidosis Infections (Iyme, zoster, TB, AIDS) Degenerative disorders Motor neuron disease Syringomyelia Vascular Spinal cord infarction Vasculitis, systemic lupus erythematosus etc Si'oinal AVM Trauma Cord contusion, laceration or transaction Displaced veebral fracture or disc Traumatic epidural haematoma Metabolic/Nutritional B12 deficiency (subacute combined degeneration) Rare hereditary conditions Friedreich's ataxia Hereditary spastic paraparesis Parasagittal brain lesions Meningioma Cerebral venous sinus thrombosis Congenital spastic diplegia",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Spastic paraplegia caused except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0b7b9860-695f-4ed2-9c77-a82abd77fe23": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the following EXCEPT\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

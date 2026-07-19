@@ -1,202 +1,252 @@
-﻿{
+{
   "4cf54361-20f0-48cc-aa15-37769f099be7": {
-    "cop": 3,
-    "exp": "a-Helix: A peptide chain forms regular helical coils called a-helix. These coils are stabilized by hydrogen bonds between carbonyl O of 1st amino and amide N of 4th amino acid residues. Thus in a-helix intrachain hydrogen bonding is present. The a-helices can be either right handed or left handed. Left-handed a-helix is less stable than right-handed a-helix because of the steric interference between the C = O and the side chains. Only the right-handed a-helix has been found in protein structure. Each amino acid residue advances by 0.15 nm along the helix, and 3.6 amino acid residues are present in one complete turn. The distance between two equivalent points on turn is 0.54 nm and is called a pitch. Small or uncharged amino acid residues such as alanine, leucine, and phenylalanine are often found in a-helix. More polar residues such as arginine, glutamate, and serine may repel and destabilize a-helix. Proline is never found in a aa aa-helix. The proteins of hair, nail, skin contain a group of proteins called keratins rich in a aa aa-helical structureRef: Textbook of medical biochemistry, MN Chatterji, 8th edition, page no: 89"
+    "cop": 2,
+    "exp": "a-Helix: A peptide chain forms regular helical coils called a-helix. These coils are stabilized by hydrogen bonds between carbonyl O of 1st amino and amide N of 4th amino acid residues. Thus in a-helix intrachain hydrogen bonding is present. The a-helices can be either right handed or left handed. Left-handed a-helix is less stable than right-handed a-helix because of the steric interference between the C = O and the side chains. Only the right-handed a-helix has been found in protein structure. Each amino acid residue advances by 0.15 nm along the helix, and 3.6 amino acid residues are present in one complete turn. The distance between two equivalent points on turn is 0.54 nm and is called a pitch. Small or uncharged amino acid residues such as alanine, leucine, and phenylalanine are often found in a-helix. More polar residues such as arginine, glutamate, and serine may repel and destabilize a-helix. Proline is never found in a aa aa-helix. The proteins of hair, nail, skin contain a group of proteins called keratins rich in a aa aa-helical structureRef: Textbook of medical biochemistry, MN Chatterji, 8th edition, page no: 89",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"alpha helix\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "87036c22-39ee-4837-8ffc-8a016d4daba2": {
-    "cop": 1,
-    "exp": "Medical certificate is the simplest type of written/documentary evidence."
+    "cop": 0,
+    "exp": "Medical certificate is the simplest type of written/documentary evidence.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Medical certificate\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b3703695-b58c-4237-9214-5e2a9df3f962": {
-    "cop": 2,
-    "exp": "Loss of beat to beat variation of hea beat"
+    "cop": 1,
+    "exp": "Loss of beat to beat variation of hea beat",
+    "hint_exp": "🎯 Think of \"Most sensitive test acute\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5be85006-8f1e-4db8-9c8e-17268b71489e": {
-    "cop": 2,
-    "exp": "There are 5 phases of action potential. The plateau phase corresponds to phase 2 of action potential. Plateau phase is due to slow influx of calcium ions resulting from opening of sarcolemmal L type calcium channels and also due to closure of a distinct set of K+ channels called the inward rectifying K+ channels. Phase 0: Rapid depolarization: The initial rapid depolarization and the overshoot is due to the opening of voltage gated Na channels and rapid influx of Na ions. Phase 1: Initial rapid repolarization: It is due to closure of Na+ channels and opening of K+ channels resulting in transient outward current. Phase 2: Plateau: It is due to slow influx of calcium ions resulting from opening of sarcolemmal L type calcium channels and also due to closure of a distinct set of K+ channels called the inward rectifying K+ channels. Phase 3: Repolarization: It result from closing of Ca2+ channels and opening of two types of K+ channels. Phase 4: Resting potential: It is maintained by a resting K+ current, the largest contributor to which is the inward rectifying K+ current. Ref: Textbook Of Medical Physiology By Khurana page 248."
+    "cop": 1,
+    "exp": "There are 5 phases of action potential. The plateau phase corresponds to phase 2 of action potential. Plateau phase is due to slow influx of calcium ions resulting from opening of sarcolemmal L type calcium channels and also due to closure of a distinct set of K+ channels called the inward rectifying K+ channels. Phase 0: Rapid depolarization: The initial rapid depolarization and the overshoot is due to the opening of voltage gated Na channels and rapid influx of Na ions. Phase 1: Initial rapid repolarization: It is due to closure of Na+ channels and opening of K+ channels resulting in transient outward current. Phase 2: Plateau: It is due to slow influx of calcium ions resulting from opening of sarcolemmal L type calcium channels and also due to closure of a distinct set of K+ channels called the inward rectifying K+ channels. Phase 3: Repolarization: It result from closing of Ca2+ channels and opening of two types of K+ channels. Phase 4: Resting potential: It is maintained by a resting K+ current, the largest contributor to which is the inward rectifying K+ current. Ref: Textbook Of Medical Physiology By Khurana page 248.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"action potential\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9f547988-f585-49e4-bf5a-461832b7356a": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Cinnarizine o Vertigo is due to labyrinthine disorder and the impulse utilizes cholinergic muscarinic and HI histamic receptors (similar to motion sickness).o So, the drugs used are antimuscarinic, phenothiazines (phenothiazines have anticholinergic property) and antihistaminics.o Cinnarizine (act by inhibiting influx of Ca+2 into endolymph) and betahistine. (a histamine) analogue improve blood circulation to the inner ear - can be used in Meniere's disease."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Cinnarizine o Vertigo is due to labyrinthine disorder and the impulse utilizes cholinergic muscarinic and HI histamic receptors (similar to motion sickness).o So, the drugs used are antimuscarinic, phenothiazines (phenothiazines have anticholinergic property) and antihistaminics.o Cinnarizine (act by inhibiting influx of Ca+2 into endolymph) and betahistine. (a histamine) analogue improve blood circulation to the inner ear - can be used in Meniere's disease.",
+    "hint_exp": "🧩 Your crush solved \"Which drug used treatment\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6c4a7859-dbc0-48fb-9dba-83e05ffa4d0c": {
-    "cop": 3,
-    "exp": "Many therapeutic drugs can cause cell or tissue injury in a susceptible patient or if used excessively or inappropriately.Radiation, cytotoxic anticancer drugs, extremes of temperature, and even hypoxia can damage DNA, either directly or through the production of free radicals. If repair mechanisms cannot cope with the injury, the cell triggers intrinsic mechanisms that induce apoptosis.Anoikis is a form of programmed cell death that occurs in anchorage-dependent cells when they detach from the surrounding extracellular matrix (ECM). Usually, cells stay close to the tissue to which they belong since the communication between proximal cells as well as between cells and ECM provide essential signals for growth or survival. When cells are detached from the ECM, there is a loss of normal cell-matrix interactions, and they may undergo anoikis. However, metastatic tumor cells may escape from anoikis and invade other organs.( Robbins Basic Pathology, 9 th edition,)"
+    "cop": 2,
+    "exp": "Many therapeutic drugs can cause cell or tissue injury in a susceptible patient or if used excessively or inappropriately.Radiation, cytotoxic anticancer drugs, extremes of temperature, and even hypoxia can damage DNA, either directly or through the production of free radicals. If repair mechanisms cannot cope with the injury, the cell triggers intrinsic mechanisms that induce apoptosis.Anoikis is a form of programmed cell death that occurs in anchorage-dependent cells when they detach from the surrounding extracellular matrix (ECM). Usually, cells stay close to the tissue to which they belong since the communication between proximal cells as well as between cells and ECM provide essential signals for growth or survival. When cells are detached from the ECM, there is a loss of normal cell-matrix interactions, and they may undergo anoikis. However, metastatic tumor cells may escape from anoikis and invade other organs.( Robbins Basic Pathology, 9 th edition,)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Chemotherapeutic drugs cause\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9bc61f48-f456-4ca8-be97-cb7c374388ee": {
-    "cop": 3,
-    "exp": "Gene testing is performed first. If positive screening begins from 10 years of age."
+    "cop": 2,
+    "exp": "Gene testing is performed first. If positive screening begins from 10 years of age.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"First step treatment person\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "404c45fb-a1b2-44fa-a893-71a3af2e162a": {
-    "cop": 4,
-    "exp": "Apo-Al \n\nApo A-I is an activator for lecithin : cholesterol acyl transferase (LCAT)."
+    "cop": 3,
+    "exp": "Apo-Al \n\nApo A-I is an activator for lecithin : cholesterol acyl transferase (LCAT).",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "871f023a-a087-4d9b-a4d8-21ed389bba56": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Activated paial thromboplastin time o Lab control of heprin is done by monitoring aPTT."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Activated paial thromboplastin time o Lab control of heprin is done by monitoring aPTT.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"thrombosis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "971bff4b-0980-43b4-b41a-b022eba83233": {
-    "cop": 2,
-    "exp": "Asbestos fibers can cause pulmonary interstitial fibrosis with restrictive lung disease, and there is an increased risk of malignancy. Individuals who have been exposed to asbestos and who smoke have a greatly increased incidence of bronchogenic carcinoma. Mesothelioma is uncommon, even in individuals with asbestos exposure, but virtually all occurrences of malignant mesothelioma are in individuals who have been exposed to asbestos. Arsenic exposure is a risk factor for skin cancer. Chronic beryllium exposure may lead to sarcoid like granuloma formation. Chromium exposure increases the risk of carcinomas of the upper respiratory tract and lung. Nickel exposure is associated with cancers of the respiratory tract."
+    "cop": 1,
+    "exp": "Asbestos fibers can cause pulmonary interstitial fibrosis with restrictive lung disease, and there is an increased risk of malignancy. Individuals who have been exposed to asbestos and who smoke have a greatly increased incidence of bronchogenic carcinoma. Mesothelioma is uncommon, even in individuals with asbestos exposure, but virtually all occurrences of malignant mesothelioma are in individuals who have been exposed to asbestos. Arsenic exposure is a risk factor for skin cancer. Chronic beryllium exposure may lead to sarcoid like granuloma formation. Chromium exposure increases the risk of carcinomas of the upper respiratory tract and lung. Nickel exposure is associated with cancers of the respiratory tract.",
+    "hint_exp": "🧩 Your crush solved \"the following metals\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7819da00-0b0f-4d42-8cf6-43a7094dcdc8": {
-    "cop": 4,
-    "exp": "Enterococcus fecalis is not a super antigen."
+    "cop": 3,
+    "exp": "Enterococcus fecalis is not a super antigen.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Super antigen produced following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9b2a0cbf-57af-471d-93cd-83f152fdc209": {
-    "cop": 3,
-    "exp": "Urethra\n-        Length\no   Male- 20 cms\no   Female- 4 cms\n-        Shortest part of the male urethra- Membranous part\n-        The longest part of the male urethra- Penile urethra\n-        Location of sphincter urethrae- Membranous part\n-        Prostatic urethra\no   Widest part\no   Most dilatable part\no   Concave anteriorly.\no   Route- downwards & forwards. Exit prostate slightly anterior to its apex.\no   Crescentic on the cross section\no    Structures on the posterior wall\n§  Urethral crest\n§  Colliculus seminalis (verumontanum)\n§  Opening of ejaculatory ducts\n§  Prostatic sinuses with the opening of prostate glands\no   Lymphatics\n§  Membranous part- Internal iliac nodes\n§  Prostatic part- Internal iliac nodes\n§Penile urethra- Deep inguinal nodes."
+    "cop": 2,
+    "exp": "Urethra\n-        Length\no   Male- 20 cms\no   Female- 4 cms\n-        Shortest part of the male urethra- Membranous part\n-        The longest part of the male urethra- Penile urethra\n-        Location of sphincter urethrae- Membranous part\n-        Prostatic urethra\no   Widest part\no   Most dilatable part\no   Concave anteriorly.\no   Route- downwards & forwards. Exit prostate slightly anterior to its apex.\no   Crescentic on the cross section\no    Structures on the posterior wall\n§  Urethral crest\n§  Colliculus seminalis (verumontanum)\n§  Opening of ejaculatory ducts\n§  Prostatic sinuses with the opening of prostate glands\no   Lymphatics\n§  Membranous part- Internal iliac nodes\n§  Prostatic part- Internal iliac nodes\n§Penile urethra- Deep inguinal nodes.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Sphincter urethrae present\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7b450773-b289-4650-893a-0ace962a0cb7": {
-    "cop": 2,
-    "exp": "Ans. b (Inhibiting Acetyl choline esterase). (Ref. Parikh, Textbook of FMT, 5th/892)ORGANOPHOSPHOROUS COMPOUND POISONING# It produces cholinergic syndrome (muscarinic and nicotinic effects).# Muscarinic effects include:- bradycardia, bronchorrhoea, lacrimation, sweating, hyperperistalsis, wheezing, salivation, incontinence and miosis (pin point pupils).- Hint:* Salivation* Lacrimation* Urinary incontinence* Decreased heart rate* GI symptoms* Excessive sweating and elation# Nicotinic effects include:- initial hypertension,- tachycardia,- fasciculations,- muscle weakness,- agitation and anxiety.# 'Red tears' is also its feature."
+    "cop": 1,
+    "exp": "Ans. b (Inhibiting Acetyl choline esterase). (Ref. Parikh, Textbook of FMT, 5th/892)ORGANOPHOSPHOROUS COMPOUND POISONING# It produces cholinergic syndrome (muscarinic and nicotinic effects).# Muscarinic effects include:- bradycardia, bronchorrhoea, lacrimation, sweating, hyperperistalsis, wheezing, salivation, incontinence and miosis (pin point pupils).- Hint:* Salivation* Lacrimation* Urinary incontinence* Decreased heart rate* GI symptoms* Excessive sweating and elation# Nicotinic effects include:- initial hypertension,- tachycardia,- fasciculations,- muscle weakness,- agitation and anxiety.# 'Red tears' is also its feature.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c579d02a-090c-4228-9073-e107c6c566e3": {
-    "cop": 1,
-    "exp": "The most frequently used pin type is the small self-threading pin. Friction-locked and cemented pins, although still available, are rarely used. \nThe diameter of the prepared pinhole is 0.0015 inch to 0.004 inch smaller than the diameter of the pin. The threads engage the dentin as it is inserted, retaining the pin. The elasticity (resiliency) of the dentin permits insertion of a threaded pin into a hole of smaller diameter.\nAlthough the threads of self threading pins do not engage the dentin for their entire width, the self-threading pin is the most retentive of the three types of pins ,being three to six times more retentive than the cemented pin.\nReference: Sturdevant operative dentistry. 7th EDITION page no.269"
+    "cop": 0,
+    "exp": "The most frequently used pin type is the small self-threading pin. Friction-locked and cemented pins, although still available, are rarely used. \nThe diameter of the prepared pinhole is 0.0015 inch to 0.004 inch smaller than the diameter of the pin. The threads engage the dentin as it is inserted, retaining the pin. The elasticity (resiliency) of the dentin permits insertion of a threaded pin into a hole of smaller diameter.\nAlthough the threads of self threading pins do not engage the dentin for their entire width, the self-threading pin is the most retentive of the three types of pins ,being three to six times more retentive than the cemented pin.\nReference: Sturdevant operative dentistry. 7th EDITION page no.269",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"amalgam pin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "54663ef9-9319-47cc-b6b9-f64a2a81cae7": {
-    "cop": 1,
-    "exp": "Chief Judicial Magistrate: Imprisonment up to 7 years and unlimited fine. REF: The Synopsis of Forensic Medicine and Toxicology 29th edition page no: 4."
+    "cop": 0,
+    "exp": "Chief Judicial Magistrate: Imprisonment up to 7 years and unlimited fine. REF: The Synopsis of Forensic Medicine and Toxicology 29th edition page no: 4.",
+    "hint_exp": "🧩 Your crush solved \"chief judicial magistrate\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0a662e78-6d14-4b54-aafe-83c752f881ae": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Flat leaf like worms* Cylindrical helminthes - Nematodes (roundworms)* Flat, segmented helminthes - Cestodes (tapeworms)* Flat, leaf like helminthes - Trematodes (flukes)"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Flat leaf like worms* Cylindrical helminthes - Nematodes (roundworms)* Flat, segmented helminthes - Cestodes (tapeworms)* Flat, leaf like helminthes - Trematodes (flukes)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Leaf like helminths also\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "078ddeec-9d8b-4c06-ae36-e3612687574a": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"blood flow in capillaries\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "787db308-a2bd-408e-8e31-bc55007c9a83": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e. Hallucination Hallucination - A perception that occurs in the absence of a stimulusIllusions - A misinterpretation of stimuli arising from external objects.Phobia - An irrational fear of an object, situation or activityImpulse - A sudden often unreasoning determination to perform some act."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e. Hallucination Hallucination - A perception that occurs in the absence of a stimulusIllusions - A misinterpretation of stimuli arising from external objects.Phobia - An irrational fear of an object, situation or activityImpulse - A sudden often unreasoning determination to perform some act.",
+    "hint_exp": "🎯 Think of \"False sense perception without\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9608c1cb-2b37-4239-8184-f48edb07ed6f": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Universal increase in creatine kinase Duchenne and Becker's muscular dystrophy are X-like recessive. So expression of gene is essentially confirmed in males. Females are affected only if X-chromosome carrying the normal allele is lost or inactivated Becker is milder form with late onset and slow progression. In duchenni, onset is early with deloyed misection. Pseudohyperophy of calf muscle, glutei, deltiod, Gower sign may positive at age of 3 year. Cardiac involvement staed at 10 year of age. Histopathology shows diffuse degeneration & regeneration of muscle fibre. Serum CPX are markedly high"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Universal increase in creatine kinase Duchenne and Becker's muscular dystrophy are X-like recessive. So expression of gene is essentially confirmed in males. Females are affected only if X-chromosome carrying the normal allele is lost or inactivated Becker is milder form with late onset and slow progression. In duchenni, onset is early with deloyed misection. Pseudohyperophy of calf muscle, glutei, deltiod, Gower sign may positive at age of 3 year. Cardiac involvement staed at 10 year of age. Histopathology shows diffuse degeneration & regeneration of muscle fibre. Serum CPX are markedly high",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Duschene muscular dystrophy true\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ab607822-0a01-4bc2-96c4-2bf119e2805c": {
-    "cop": 4,
-    "exp": "ANTIMETABOLITE Flucytosine (5-FC) Mech of action:- It is a pyrimidine antimetabolite which is inactive as such. After uptake into fungal cells, it is conveed into 5-fluorouracil and then to 5-fluorodeoxyuridylic acid which is an inhibitor of thymidylate synthesis. Thymidylic acid is a component of DNA. 5-FC is a narrow spectrum fungistatic, active against Cryptococcus neoformans, Torula, Chromoblastomyces; and a few strains of Candida. Adverse effects:- Toxicity of 5-FC consists of dose-dependent bone marrow depression and gastrointestinal disturbances, paicularly enteritis and diarrhoea. Liver dysfunction is mild and reversible. Ref:- kd tripathi; pg num:-791"
+    "cop": 3,
+    "exp": "ANTIMETABOLITE Flucytosine (5-FC) Mech of action:- It is a pyrimidine antimetabolite which is inactive as such. After uptake into fungal cells, it is conveed into 5-fluorouracil and then to 5-fluorodeoxyuridylic acid which is an inhibitor of thymidylate synthesis. Thymidylic acid is a component of DNA. 5-FC is a narrow spectrum fungistatic, active against Cryptococcus neoformans, Torula, Chromoblastomyces; and a few strains of Candida. Adverse effects:- Toxicity of 5-FC consists of dose-dependent bone marrow depression and gastrointestinal disturbances, paicularly enteritis and diarrhoea. Liver dysfunction is mild and reversible. Ref:- kd tripathi; pg num:-791",
+    "hint_exp": "🧩 Your crush solved \"which of the following drugs\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b5192d8b-1bc3-44eb-8549-21476aab1ddd": {
-    "cop": 4,
-    "exp": "Dopamine 8-hydroxylase is a 'copper' containing monooxygenase that requires ascorbic acid and molecular oxygen.It catalyzes the formation of norepinephrine."
+    "cop": 3,
+    "exp": "Dopamine 8-hydroxylase is a 'copper' containing monooxygenase that requires ascorbic acid and molecular oxygen.It catalyzes the formation of norepinephrine.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"dopamine hydroxylase\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "69a0e84a-5408-4fc0-8517-064f4c09ce57": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e. Bulimia nervosa Bulimia nervosao Bulimia nervosa is characterized by episodes of uncontrollable excessive eating (binges) followed by vigrous weight-reducing measures like self-induced vomiting, purgative abuse, diuretics, or abuse of emetics; and less commonly severe dieting and stemous exercise.o Episodes of binge eating occur relatively frequently (twice a week or more) for at least 3 months.o As in anorexia nervosa, there is extreme preoccupation with the shape and weight of the body. However, bulimiia nervosa differs from anorexia nervosa : -i) Patients of bulimia are slightly older than those with anorexia i.e., Late adolescence.ii) Most of the patients with bulimia nervosa have a weight within their normal weight range.iii) Amenorrhea is usually not present and most are sexually active, compared with anorexia nervosa patients.iv) Peculiar behavior about the food of anorexia nerv osa is absent.v) Depressive symptoms are more common - Post-binge anquish.o Patient with bulimia nervosa may have dental caries/tooth decay, Sore throat, Swollen Salivary gland (parotitis), and internal bleeding due to vomiting."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e. Bulimia nervosa Bulimia nervosao Bulimia nervosa is characterized by episodes of uncontrollable excessive eating (binges) followed by vigrous weight-reducing measures like self-induced vomiting, purgative abuse, diuretics, or abuse of emetics; and less commonly severe dieting and stemous exercise.o Episodes of binge eating occur relatively frequently (twice a week or more) for at least 3 months.o As in anorexia nervosa, there is extreme preoccupation with the shape and weight of the body. However, bulimiia nervosa differs from anorexia nervosa : -i) Patients of bulimia are slightly older than those with anorexia i.e., Late adolescence.ii) Most of the patients with bulimia nervosa have a weight within their normal weight range.iii) Amenorrhea is usually not present and most are sexually active, compared with anorexia nervosa patients.iv) Peculiar behavior about the food of anorexia nerv osa is absent.v) Depressive symptoms are more common - Post-binge anquish.o Patient with bulimia nervosa may have dental caries/tooth decay, Sore throat, Swollen Salivary gland (parotitis), and internal bleeding due to vomiting.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Eating disorder with normal\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "41de8e3a-84f4-4036-ab44-20dbddf14cc4": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"indicative of\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "aa50126a-8e32-4afd-a646-98ad01051a7f": {
-    "cop": 4,
-    "exp": "Shock in Obstetrics:\nCauses of shock during pregnancy"
+    "cop": 3,
+    "exp": "Shock in Obstetrics:\nCauses of shock during pregnancy",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"multipara with previous LSCS\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3a427bac-3a14-4f9d-8e09-b41cea358a7a": {
-    "cop": 3,
-    "exp": "D. Polyacrylamide gel electrophoresis (PAGE) It has a high molecular sieving effect and so separation is very efficient. In agar gel electrophoresis, serum components are separated into 5 fractions; while in PAGE serum will show more than 20 different bands. The amount of cross linking and thereby the pore size can be controlled. Another common variant is the SDS-PAGE electrophoresis. Here proteins are boiled for 1-2 minutes with a denaturing agent, sodium dodecyl sulphate (SDS) (Fig. 54.2). The negative charges of SDS will cover the protein molecules, making them strongly negative. Then the separation of molecules will depend mainly on their molecular size. SDS-PAGE is therefore commonly used for molecular weight determination as well as for assessing the purity of proteins.Ref: DM Vasudevan - Textbook of Biochemistry, 6th edition, page no: 600"
+    "cop": 2,
+    "exp": "D. Polyacrylamide gel electrophoresis (PAGE) It has a high molecular sieving effect and so separation is very efficient. In agar gel electrophoresis, serum components are separated into 5 fractions; while in PAGE serum will show more than 20 different bands. The amount of cross linking and thereby the pore size can be controlled. Another common variant is the SDS-PAGE electrophoresis. Here proteins are boiled for 1-2 minutes with a denaturing agent, sodium dodecyl sulphate (SDS) (Fig. 54.2). The negative charges of SDS will cover the protein molecules, making them strongly negative. Then the separation of molecules will depend mainly on their molecular size. SDS-PAGE is therefore commonly used for molecular weight determination as well as for assessing the purity of proteins.Ref: DM Vasudevan - Textbook of Biochemistry, 6th edition, page no: 600",
+    "hint_exp": "🧩 Your crush solved \"will be\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6432027a-c906-4666-bb81-aebb18c83f56": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Peroxisome Peroxisome is a membrane bound organellel found in all eukaryotic cells. \"Peroxisomes contain a group of enzymes that oxidize a variety of substrates and thereby form hydrogen peroxide. The H202 thus formed is efficiently decomposed within the organelle by catalase which is present in high concentration\". Lysosomes can only form H,02 - They cannot degrade H202. Remember H202 is produced as well as destroyed in mitochondria and cytosol. It is produced from superoxide by enzyme SOD. It is destroyed by glutathione peroxidase."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Peroxisome Peroxisome is a membrane bound organellel found in all eukaryotic cells. \"Peroxisomes contain a group of enzymes that oxidize a variety of substrates and thereby form hydrogen peroxide. The H202 thus formed is efficiently decomposed within the organelle by catalase which is present in high concentration\". Lysosomes can only form H,02 - They cannot degrade H202. Remember H202 is produced as well as destroyed in mitochondria and cytosol. It is produced from superoxide by enzyme SOD. It is destroyed by glutathione peroxidase.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"produced and destroyed\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7ee42740-dd29-434c-bf53-e641e89c5804": {
-    "cop": 3,
-    "exp": "Ans. (C) Cd1a and Langerin IHC(Ref: Apley's system of Orthopedics and Fracture 9th Ed; Page no-198 and 204)The possible diagnosis in the given scenario is Langerhans cell histiocytosis (LHC).Femur can be involved in LCH.LANGERHANS cells have a single large nucleus with characteristic folded or grooved nucleus (Coffee-Bean appearance) with small inconspicuous nucleoli.Visualization of the CD 1a surface marker is now considered sufficient to establish the diagnosis of LCH."
+    "cop": 2,
+    "exp": "Ans. (C) Cd1a and Langerin IHC(Ref: Apley's system of Orthopedics and Fracture 9th Ed; Page no-198 and 204)The possible diagnosis in the given scenario is Langerhans cell histiocytosis (LHC).Femur can be involved in LCH.LANGERHANS cells have a single large nucleus with characteristic folded or grooved nucleus (Coffee-Bean appearance) with small inconspicuous nucleoli.Visualization of the CD 1a surface marker is now considered sufficient to establish the diagnosis of LCH.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"middle aged female present\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d06e36fc-3e6c-4be7-874a-1ff2ea32ab79": {
-    "cop": 2,
-    "exp": "POLYUNSATURATED FATTY ACIDS (PUFA)The impoant polyunsaturated fatty acids are:Linoleic acid (18 C, 2 double bonds)Linolenic acid (18 C, 3 double bonds)Arachidonic acid (20 C, 4 double bonds)They are present in good quantities in vegetable oils such as sunflower oil (Fig. 7.2, Table 7.4). They are used to esterify cholesterol, whereby the latter can be excreted. So, PUFA, in general, are anti-atherogenicOther PUFAs belonging to very long chain fatty acids (VLCFA) are timnodonic acid (20 C, 5 double bonds); clupanodonic acid (22 C, 5 double bonds) and cervonic acid (22 C, 6 double bonds). They are present in fish oils. They are impoant for development of the human brain.Ref: DM Vasudevan - Textbook of Biochemistry, 6th edition, page no: 161"
+    "cop": 1,
+    "exp": "POLYUNSATURATED FATTY ACIDS (PUFA)The impoant polyunsaturated fatty acids are:Linoleic acid (18 C, 2 double bonds)Linolenic acid (18 C, 3 double bonds)Arachidonic acid (20 C, 4 double bonds)They are present in good quantities in vegetable oils such as sunflower oil (Fig. 7.2, Table 7.4). They are used to esterify cholesterol, whereby the latter can be excreted. So, PUFA, in general, are anti-atherogenicOther PUFAs belonging to very long chain fatty acids (VLCFA) are timnodonic acid (20 C, 5 double bonds); clupanodonic acid (22 C, 5 double bonds) and cervonic acid (22 C, 6 double bonds). They are present in fish oils. They are impoant for development of the human brain.Ref: DM Vasudevan - Textbook of Biochemistry, 6th edition, page no: 161",
+    "hint_exp": "🎯 Think of \"not a PUFA\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ba76018f-02df-41f2-bc05-1ca44203231e": {
-    "cop": 1,
-    "exp": "Most common side effect → Bleeding\nMost common side effect requiring removal of the device → Pain"
+    "cop": 0,
+    "exp": "Most common side effect → Bleeding\nMost common side effect requiring removal of the device → Pain",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"IUD insertion\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e60d10fa-e0ea-4c1f-9bfb-a6060fa59096": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"meningitis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cf5ff80f-138e-433b-ac94-53a05531eaa8": {
-    "cop": 1,
-    "exp": "One-third of patients will have liver metastases at the time of diagnosis and 50% will develop them at some point, accounting for the majority of deaths. The lung is the next most common site; metastasis to ovary, brain, kidney, and bone is less common.Ref: Bailey and love, page: 1262"
+    "cop": 0,
+    "exp": "One-third of patients will have liver metastases at the time of diagnosis and 50% will develop them at some point, accounting for the majority of deaths. The lung is the next most common site; metastasis to ovary, brain, kidney, and bone is less common.Ref: Bailey and love, page: 1262",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"metastasis in Ca colon\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bee8c294-bbc2-4760-bdb7-f67130094fd6": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following plaque\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d289973a-d6f2-4d42-bcb4-9ddda41946eb": {
-    "cop": 1,
-    "exp": "Autosomal recessive Neurofibromatosis is an inherited disorder It is of two types: ? Neurofibromatosis - Neurofibromatois II Genetics of Neurofibromatosis Both the neurofibromas are inherited in an autosomal dominant pattern. The genes for them are located on different chromosome - NF-1--) Neurofibrin gene on chromosome 17 - NF-2 --) Merlin gene on chromosome 22 NEUROFIBROMATOSIS TYPE I ? Neurofibromatosis is a comparatively common hereditary disorder in which the skin, nevous system, bone, endocrine glands and sometimes other organs are at the sites of a variety of congenital abnormalities often taking the fonn of benign tumours. . The main feature of neurofibromatosis I is - (i) Spots of hyperpigmentation and (ii) Cutaneous and subcutaneous neurofibromatous tumours'. Hyperpigmentation in Neurofibromatosis I takes two forms :? a) Cafe - au - lait spots' . These are patches of pigmentation and they appear sholy after bih' and occur anywhere on the body. . They are light brown in colour (cafe - au - lait) and do not change in number as the patient ages but they increase in size during pubey. . Presence of more than six cafe - au - lait spots > 1.5 cm in size is considered diagnostic of Neurofibromatosis. b) Freckles' . Neurofibromatosis I is also characterized by the presence of Freckles like or diffuse pigmentation of the axillae and other interiginous areas (groin, under breast) and small round whitish spots. When coupled with cafe au lait patches they are viually pathogtzomonice of the disease. ii) Neurofibromas a) Cutaneous tumours . They are situated in the dermis and form discrete soft or, firm papules. . They are ,flesh coloured or violaceous and often topped with comedo. When pressed, the soft tumours tend to invaginate through a small opening in the skin giving the feeling of a seedless raisin or a scrotum without a testicle. This phenomenon is spoken of as \"button holding\". b) Subcutaneous tumours . They take two forms ? a) Firm discrete nodules attached to a nerve. b) Plexiform neuromase (overgrowth of subcutaneous tissue sometimes reaching enormous size and occur most often in the face, scalp, neck and chest and may cause hideous disfigurement). Lisch Nodule'? This is another unique .finding of neurofibromatosiso. . It is a small whitish spote present in the iris. Tumours associated with Neurofibromatosis I are 1) Tumours of the CNS a) Optic Nerve Gliomao b) Non-optic Gliomas (usually low grade astrocytomas) c) Nonneoplastic ' hamaomatous\" lesion Osborn writes - \"The common CNS tumor in NF-1 is optic nerve glioma occuring in 5 to 15% of casese\" 2) Other tumours associated with NF-1 a) Pheochromocytoma b) Rhabdomyosarcoma c) leukemia (myeloid leukemia) d) Wilms tumour e) Juvenile Xanthogranuloma"
+    "cop": 0,
+    "exp": "Autosomal recessive Neurofibromatosis is an inherited disorder It is of two types: ? Neurofibromatosis - Neurofibromatois II Genetics of Neurofibromatosis Both the neurofibromas are inherited in an autosomal dominant pattern. The genes for them are located on different chromosome - NF-1--) Neurofibrin gene on chromosome 17 - NF-2 --) Merlin gene on chromosome 22 NEUROFIBROMATOSIS TYPE I ? Neurofibromatosis is a comparatively common hereditary disorder in which the skin, nevous system, bone, endocrine glands and sometimes other organs are at the sites of a variety of congenital abnormalities often taking the fonn of benign tumours. . The main feature of neurofibromatosis I is - (i) Spots of hyperpigmentation and (ii) Cutaneous and subcutaneous neurofibromatous tumours'. Hyperpigmentation in Neurofibromatosis I takes two forms :? a) Cafe - au - lait spots' . These are patches of pigmentation and they appear sholy after bih' and occur anywhere on the body. . They are light brown in colour (cafe - au - lait) and do not change in number as the patient ages but they increase in size during pubey. . Presence of more than six cafe - au - lait spots > 1.5 cm in size is considered diagnostic of Neurofibromatosis. b) Freckles' . Neurofibromatosis I is also characterized by the presence of Freckles like or diffuse pigmentation of the axillae and other interiginous areas (groin, under breast) and small round whitish spots. When coupled with cafe au lait patches they are viually pathogtzomonice of the disease. ii) Neurofibromas a) Cutaneous tumours . They are situated in the dermis and form discrete soft or, firm papules. . They are ,flesh coloured or violaceous and often topped with comedo. When pressed, the soft tumours tend to invaginate through a small opening in the skin giving the feeling of a seedless raisin or a scrotum without a testicle. This phenomenon is spoken of as \"button holding\". b) Subcutaneous tumours . They take two forms ? a) Firm discrete nodules attached to a nerve. b) Plexiform neuromase (overgrowth of subcutaneous tissue sometimes reaching enormous size and occur most often in the face, scalp, neck and chest and may cause hideous disfigurement). Lisch Nodule'? This is another unique .finding of neurofibromatosiso. . It is a small whitish spote present in the iris. Tumours associated with Neurofibromatosis I are 1) Tumours of the CNS a) Optic Nerve Gliomao b) Non-optic Gliomas (usually low grade astrocytomas) c) Nonneoplastic ' hamaomatous\" lesion Osborn writes - \"The common CNS tumor in NF-1 is optic nerve glioma occuring in 5 to 15% of casese\" 2) Other tumours associated with NF-1 a) Pheochromocytoma b) Rhabdomyosarcoma c) leukemia (myeloid leukemia) d) Wilms tumour e) Juvenile Xanthogranuloma",
+    "hint_exp": "🎯 Think of \"Neurofibromatosis true except aEUR\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f4430c8a-2628-4906-b4ab-a89c2556984f": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Providing 3 million people treatment by end of 2005 3 by 5 target o On lst December 2003, WHO and UN A IDS announced a detailed plan to reach the \"3 by 5 target\" of providing antiretroviral treatment (A) to three million people living with IIIIDS in the developing countries by the end of 2005. o Ultimate goal ()1 this strategy is to provide universal access to A to anyone who needs it. o It has five Pillars (focus areas of concerns) :? 1) Simptified standard tools to deliver A 2) A new service to ensure effective, reliable supply of medicines and diagnostics 3) Dissemination and application of new knowledge and successful strategy 4) Urgent, sustained suppo to countries 5) Global leadership. backed by strong panership"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Providing 3 million people treatment by end of 2005 3 by 5 target o On lst December 2003, WHO and UN A IDS announced a detailed plan to reach the \"3 by 5 target\" of providing antiretroviral treatment (A) to three million people living with IIIIDS in the developing countries by the end of 2005. o Ultimate goal ()1 this strategy is to provide universal access to A to anyone who needs it. o It has five Pillars (focus areas of concerns) :? 1) Simptified standard tools to deliver A 2) A new service to ensure effective, reliable supply of medicines and diagnostics 3) Dissemination and application of new knowledge and successful strategy 4) Urgent, sustained suppo to countries 5) Global leadership. backed by strong panership",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"AIDS control programme\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5e822f88-3b09-44e3-bc37-7655161cd67f": {
-    "cop": 1,
-    "exp": "100 mg of ethinyl oestradiol and 0.5 mg of levonoregestel initially followed by the same dose after 12 hours"
+    "cop": 0,
+    "exp": "100 mg of ethinyl oestradiol and 0.5 mg of levonoregestel initially followed by the same dose after 12 hours",
+    "hint_exp": "🧩 Your crush solved \"Yuzpe Lance regimen post\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "11b550e4-82b1-48e4-8b46-0a9aeb2196cb": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Thermolab lie enzymes* Polymerase Chain Reaction is invitro amplification of a desired fragment of DNA* Specific amplification of a desired fragment of DNA is possible only because this process uses specific primers which are complementary to flanking sequences of the desired fragment.* It involves three steps in every cycle# Denaturation at 94 or 95degC# Annealing at (Tm - 5)degC# Elongation at 72degC* This way if Polymerase Chain Reaction is allowed to go through n number of cycles, by the end we get 2n products. Hence it is a sensitive technique.* Hence it involves DNA denaturation followed by annealing.* As the DNA polymerase that is used in this process should be capable of withstanding repeated cycles of 94 or 95degC, the enzyme should be thermostable. Hence the DNA polymerase used in Polymerase Chain Reaction is extracted from an organism which lives in hot springs. That organism being Thermus aquaticus and hence the DNA polymerase is Taq DNA polymerase* Optimum temperature required for this enzyme for elongation is 75degC. Hence elongation is carried out at 72degC"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Thermolab lie enzymes* Polymerase Chain Reaction is invitro amplification of a desired fragment of DNA* Specific amplification of a desired fragment of DNA is possible only because this process uses specific primers which are complementary to flanking sequences of the desired fragment.* It involves three steps in every cycle# Denaturation at 94 or 95degC# Annealing at (Tm - 5)degC# Elongation at 72degC* This way if Polymerase Chain Reaction is allowed to go through n number of cycles, by the end we get 2n products. Hence it is a sensitive technique.* Hence it involves DNA denaturation followed by annealing.* As the DNA polymerase that is used in this process should be capable of withstanding repeated cycles of 94 or 95degC, the enzyme should be thermostable. Hence the DNA polymerase used in Polymerase Chain Reaction is extracted from an organism which lives in hot springs. That organism being Thermus aquaticus and hence the DNA polymerase is Taq DNA polymerase* Optimum temperature required for this enzyme for elongation is 75degC. Hence elongation is carried out at 72degC",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Polymerase Chain Reaction\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3fb174fc-f5b4-4832-a88a-ef94ee954854": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Conn syndrome characterised except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7bb9d344-e902-44fb-8a00-060279963711": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"year child disturbs other\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "df3235b7-e4d2-4a66-a1af-36b4a5d89ef8": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Pyeloplasty Pelvi-ureteral junction (PUJ)/ureteropelvic (UPJ) o UPJ obstruction is the most common obstructive lesion in childhood and is the most common cause of hydronephrosis found on prenatal and early postnatal ultrasonography. o It is most commonly caused by intrinsic stenosis of a segment of ureter which is usually localized to the region of pelviureteric junction. Other causes include ureteric folds & extrinsic obstruction by crossing lower pole vessels. Presentation o Hydronephrois revealed by maternal USG (Dilated renal pelvis but normal ureter). o Palpable renal mass in new borns or infants. o Abdominal flank or back pain typically exacerbated by drinking large volumes of liquid. o UTI/Haematuria after minimal trauma. Epidemiology Left side more commonly involved than right (Bilateral = 10%). Male more commonly involved than females (M : F = 2 : 1). Initial Diagnosis by Ultrasonography o Hydronephrosis with dilated renal pelvis. Ureter i f visualized is of normal caliber (not dilated). Renal Differential function Nuclear Renography is used to determine Renal Differential function o A differential function of < 40% is considered significant and often an indication for surgical management. Management Management depends on the differential renal function and AP diameter of PUJ : - 1)Differential renal function > 40% especially when AP diameter of PUJ < 30 mm --> Conservative treatment. 2)Differential renal function < 40% especially when AP diameter of PUJ > 30 MM Surgical treatment is indicated. Pyeloplasty is the surgical procedure of choice. Other surgical procedures used are external drainage (nephrostomy), endopyelotomy and nephrectomy. o Differential function of < 10% is often considered as an arbitary cut off for nephrectomy."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Pyeloplasty Pelvi-ureteral junction (PUJ)/ureteropelvic (UPJ) o UPJ obstruction is the most common obstructive lesion in childhood and is the most common cause of hydronephrosis found on prenatal and early postnatal ultrasonography. o It is most commonly caused by intrinsic stenosis of a segment of ureter which is usually localized to the region of pelviureteric junction. Other causes include ureteric folds & extrinsic obstruction by crossing lower pole vessels. Presentation o Hydronephrois revealed by maternal USG (Dilated renal pelvis but normal ureter). o Palpable renal mass in new borns or infants. o Abdominal flank or back pain typically exacerbated by drinking large volumes of liquid. o UTI/Haematuria after minimal trauma. Epidemiology Left side more commonly involved than right (Bilateral = 10%). Male more commonly involved than females (M : F = 2 : 1). Initial Diagnosis by Ultrasonography o Hydronephrosis with dilated renal pelvis. Ureter i f visualized is of normal caliber (not dilated). Renal Differential function Nuclear Renography is used to determine Renal Differential function o A differential function of < 40% is considered significant and often an indication for surgical management. Management Management depends on the differential renal function and AP diameter of PUJ : - 1)Differential renal function > 40% especially when AP diameter of PUJ < 30 mm --> Conservative treatment. 2)Differential renal function < 40% especially when AP diameter of PUJ > 30 MM Surgical treatment is indicated. Pyeloplasty is the surgical procedure of choice. Other surgical procedures used are external drainage (nephrostomy), endopyelotomy and nephrectomy. o Differential function of < 10% is often considered as an arbitary cut off for nephrectomy.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ec644422-da95-4caa-9f74-b3105940cde0": {
-    "cop": 3,
-    "exp": "MRI is the investigation of choice for Mullerian Duct Anomalies Newer modality - 3D USG also has high sensitivity and specificity and accuracy comparable to MRI"
+    "cop": 2,
+    "exp": "MRI is the investigation of choice for Mullerian Duct Anomalies Newer modality - 3D USG also has high sensitivity and specificity and accuracy comparable to MRI",
+    "hint_exp": "🧩 Your crush solved \"Imaging investigation choice Diagnose\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "837a7560-b65d-4dc2-9b61-7e55a61a7c4f": {
-    "cop": 1,
-    "exp": "The normal lung contains neuroendocrine cells within the epithelium as single cells or as clusters, the neuroepithelial bodies.\nNeuroendocrine lesions of the lung may be of following types -\n\nA. Non-Neoplastic\n(i) Reactive neuroendocrine cell hyperplasia in response to inflammation or scarring.\n(ii) Idiopathic pulmonary neuroendocrine cell hyperplasia → a precursor lesion of tumorlets and carcinoids.\n\nB. Neoplastic\n(a) Benign\n(i) Tumorlets → Small, inconsequential hyperplastic neuroendocrine cells seen in areas of scarring or chronic inflammation.\n\n(b) Malignant\n(i) Carcinoid tumor\n(ii) Small cell carcinoma of the lung\n(iii) Large cell neuroendocrine carcinoma of the lung."
+    "cop": 0,
+    "exp": "The normal lung contains neuroendocrine cells within the epithelium as single cells or as clusters, the neuroepithelial bodies.\nNeuroendocrine lesions of the lung may be of following types -\n\nA. Non-Neoplastic\n(i) Reactive neuroendocrine cell hyperplasia in response to inflammation or scarring.\n(ii) Idiopathic pulmonary neuroendocrine cell hyperplasia → a precursor lesion of tumorlets and carcinoids.\n\nB. Neoplastic\n(a) Benign\n(i) Tumorlets → Small, inconsequential hyperplastic neuroendocrine cells seen in areas of scarring or chronic inflammation.\n\n(b) Malignant\n(i) Carcinoid tumor\n(ii) Small cell carcinoma of the lung\n(iii) Large cell neuroendocrine carcinoma of the lung.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the lung\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fe0a4916-c0d0-4aa1-8ffa-2fe702abcd89": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following restorations\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b7a573b2-0bcf-42a3-8492-b81e17696156": {
-    "cop": 1,
-    "exp": "Continuous bladder drainage"
+    "cop": 0,
+    "exp": "Continuous bladder drainage",
+    "hint_exp": "🎯 Think of \"case of VVF\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "08bcb7af-92fd-426c-a0e2-b325c6c1e172": {
-    "cop": 4,
-    "exp": "Inferonasal fibres are related to anterior poion of chiasma. Optic Chiasma Lies over tuberculum. Tumor over chiasma can lead to visual field defects. Decussation of visual pathway takes place over chiasma for nasal fibres from retina. Inferonasal fibres are related to anterior poion of chiasma whereas superonasal fibres are related to posterior poion of chiasma."
+    "cop": 3,
+    "exp": "Inferonasal fibres are related to anterior poion of chiasma. Optic Chiasma Lies over tuberculum. Tumor over chiasma can lead to visual field defects. Decussation of visual pathway takes place over chiasma for nasal fibres from retina. Inferonasal fibres are related to anterior poion of chiasma whereas superonasal fibres are related to posterior poion of chiasma.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"true regarding optic chiasma\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "afead983-e247-4852-a8cd-e7e0caf240df": {
-    "cop": 1,
-    "exp": "Isolation: Separation for the period of communicability of infected persons in such places or under such conditions as prevent transmission of infectious agent to the susceptible. Quarantine: It is the limitation of movement of such well persons or animals exposed to communicable diseases for a period usually not longer than the longest incubation period of the disease to prevent effective contact with those not exposed. Segregation: It is the separation for special consideration, control of or observation of some pa of a group of persons from others to facilitate control of communicable disease. Ref: Park 21st edition, page 110-111."
+    "cop": 0,
+    "exp": "Isolation: Separation for the period of communicability of infected persons in such places or under such conditions as prevent transmission of infectious agent to the susceptible. Quarantine: It is the limitation of movement of such well persons or animals exposed to communicable diseases for a period usually not longer than the longest incubation period of the disease to prevent effective contact with those not exposed. Segregation: It is the separation for special consideration, control of or observation of some pa of a group of persons from others to facilitate control of communicable disease. Ref: Park 21st edition, page 110-111.",
+    "hint_exp": "🧩 Your crush solved \"limitation movement well persons\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ac635fb7-4b75-440b-94dc-4c86118e46b5": {
-    "cop": 1,
-    "exp": "Mass in bronchus in an old chronic smoker suggest bronchogenic carcinoma. The marker of carcinoma, on immunohistochemistry, is cytokeratin.\nOther epithelial markers for carcinoma are :-\n\n\nEpithelial membrane antigen (EMA):- Breast, lung and Kidney's adenocarcinoma.\nCarcino-embryonic antigen: - Carcinomas of GIT, pancreas, lung, breast, uterus and ovary."
+    "cop": 0,
+    "exp": "Mass in bronchus in an old chronic smoker suggest bronchogenic carcinoma. The marker of carcinoma, on immunohistochemistry, is cytokeratin.\nOther epithelial markers for carcinoma are :-\n\n\nEpithelial membrane antigen (EMA):- Breast, lung and Kidney's adenocarcinoma.\nCarcino-embryonic antigen: - Carcinomas of GIT, pancreas, lung, breast, uterus and ovary.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year Chronic smoker mass\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d0c72cce-f31c-4736-a6dd-a8db25b5b3b1": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Radiation caries caused irradiation\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "88cdcfa0-b000-4726-a18c-217ad3e4329e": {
-    "cop": 2,
-    "exp": "Insulin"
+    "cop": 1,
+    "exp": "Insulin",
+    "hint_exp": "🎯 Think of \"During foetal lite maximum\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d1d16d94-414d-48bf-b293-1251f2cb673d": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Enzymes concerned with citric\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1dc68583-c250-473a-809d-e85023ca6867": {
-    "cop": 1,
-    "exp": "(A) Acute Lymphoblastic Leukomia (ALL) # LEUKEMIA is a cancer of the blood cells. It is the most common childhood cancer, accounting for almost one-third of all childhood cancers.# Types of leukemia include:> Acute Lymphoblastic Leukemia (ALL): Commonly referred to as \"childhood leukemia\", because it is the most common child- hood cancer. Almost 75% of children with leukemia have ALL, a cancer of the lymphoid cells in the bone marrow and the lymphoid organs of the body. They are involved in the body's immune system. Usually occurs between 2 and 8 years old.> Acute Myelogenous Leukemia (AML): AML (acute myeloid leukemia, acute nonlymphatic leukemia or ANLL) is cancer of the myeloid blood cells which are produced in the bone marrow and which help fight bacterial infections. Usually occurs in people over age 25, but sometimes affects teenagers and children. Wilm's tumour: also called Nephroblastoma, is a type of cancer that originates in the kidney. Wilm's tumour is the second most common type of all childhood solid tumours. Average age of diagnosis is between 2 and 3 years when the disease affects only one kidney, but often diagnosed at a younger age when both kidneys are involved.> Non-Hodgkin's Lymphoma: affects the lymph nodes that are found deep within the body and is the third most common childhood cancer. There are many types of lymphoma, including Burkitt's, non-Burkitt's, and lymphoblastic lymphoma. Most often in children between 2 and 10. More common in boys than girls.# Osteosarcoma is the most common type of bone sarcomas in children and the sixth most common malignancy in children. These tumours often start at the end of the bone. (This was the type of cancer that Terry Fox had). Occurs between the ages of 10 and 25.# Retinoblastoma is a malignant tumour of the retina (a thin membrane in the back of the eye). It is the most common type of eye cancer found in children. The tumour may be in one eye only or both. Most common in children younger than 5.# Neuroblastoma is a cancer of the sympathetic nervous system and the most common tumour outside of the brain. Generally occurs in children under the age of 5."
+    "cop": 0,
+    "exp": "(A) Acute Lymphoblastic Leukomia (ALL) # LEUKEMIA is a cancer of the blood cells. It is the most common childhood cancer, accounting for almost one-third of all childhood cancers.# Types of leukemia include:> Acute Lymphoblastic Leukemia (ALL): Commonly referred to as \"childhood leukemia\", because it is the most common child- hood cancer. Almost 75% of children with leukemia have ALL, a cancer of the lymphoid cells in the bone marrow and the lymphoid organs of the body. They are involved in the body's immune system. Usually occurs between 2 and 8 years old.> Acute Myelogenous Leukemia (AML): AML (acute myeloid leukemia, acute nonlymphatic leukemia or ANLL) is cancer of the myeloid blood cells which are produced in the bone marrow and which help fight bacterial infections. Usually occurs in people over age 25, but sometimes affects teenagers and children. Wilm's tumour: also called Nephroblastoma, is a type of cancer that originates in the kidney. Wilm's tumour is the second most common type of all childhood solid tumours. Average age of diagnosis is between 2 and 3 years when the disease affects only one kidney, but often diagnosed at a younger age when both kidneys are involved.> Non-Hodgkin's Lymphoma: affects the lymph nodes that are found deep within the body and is the third most common childhood cancer. There are many types of lymphoma, including Burkitt's, non-Burkitt's, and lymphoblastic lymphoma. Most often in children between 2 and 10. More common in boys than girls.# Osteosarcoma is the most common type of bone sarcomas in children and the sixth most common malignancy in children. These tumours often start at the end of the bone. (This was the type of cancer that Terry Fox had). Occurs between the ages of 10 and 25.# Retinoblastoma is a malignant tumour of the retina (a thin membrane in the back of the eye). It is the most common type of eye cancer found in children. The tumour may be in one eye only or both. Most common in children younger than 5.# Neuroblastoma is a cancer of the sympathetic nervous system and the most common tumour outside of the brain. Generally occurs in children under the age of 5.",
+    "hint_exp": "🧩 Your crush solved \"childhood\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

@@ -1,202 +1,252 @@
 {
   "0a610998-f5ca-445a-a80b-32394c34a0a5": {
-    "cop": 4,
-    "exp": "Ans. All of the above"
+    "cop": 3,
+    "exp": "Ans. All of the above",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"doughnut sign seen brain\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "299de6a6-a2be-42a5-a573-c3641f22e9c8": {
-    "cop": 4,
-    "exp": "D i.e. Gastroduodenal- Rt gasgtroepiploic a. is branch of gastroduodenal a.Q & left gastroepiploic a. is a branch of splenic a.Q (left sided structure).- Superior pancreatico-duodenal a. is a br. of gastroduodenal a. & inferior pancreatico-duodenal a. is a br. of superior mesentric a.Q - Rt. gastric a. is a br. of hepatic a.Q & lt gastric a. is a br. of celiac trunk.Q"
+    "cop": 3,
+    "exp": "D i.e. Gastroduodenal- Rt gasgtroepiploic a. is branch of gastroduodenal a.Q & left gastroepiploic a. is a branch of splenic a.Q (left sided structure).- Superior pancreatico-duodenal a. is a br. of gastroduodenal a. & inferior pancreatico-duodenal a. is a br. of superior mesentric a.Q - Rt. gastric a. is a br. of hepatic a.Q & lt gastric a. is a br. of celiac trunk.Q",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"gastroepiploic aery branch\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1ace5aeb-1425-492c-8369-1a789102c615": {
-    "cop": 1,
-    "exp": "Anti-dsDNA antibodies are a group of anti-nuclear antibodies (ANA) and their target antigen is double stranded DNA. Blood tests such as enzyme-linked immunosorbent assay (ELISA) and immunofluorescence are routinely performed to detect anti-dsDNA antibodies in diagnostic laboratories. They are highly diagnostic of systemic lupus erythematosus (SLE) and are implicated in the pathogenesis of lupus nephritis."
+    "cop": 0,
+    "exp": "Anti-dsDNA antibodies are a group of anti-nuclear antibodies (ANA) and their target antigen is double stranded DNA. Blood tests such as enzyme-linked immunosorbent assay (ELISA) and immunofluorescence are routinely performed to detect anti-dsDNA antibodies in diagnostic laboratories. They are highly diagnostic of systemic lupus erythematosus (SLE) and are implicated in the pathogenesis of lupus nephritis.",
+    "hint_exp": "🎯 Think of \"year lady presents outpatient\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "968aa8b7-8a50-43de-b8c3-f5c380a61be9": {
-    "cop": 1,
-    "exp": "50% reduction in KVP reduces 50% radiation dose Quantity of exposure is directly propoional to (kVp)2. Thus reducing kVp by 1/2 would reduce the radiation dose to 1/4 . X rays are produced by energy conversion when a fast-moving stream of electrons is suddently decelerated in the target of an x-ray tube. The target of an x-ray tube is usually tungsten or an alloy of tungsten. The exposure dose to the patient depends on Quantity and Quality of the x ray beam. X ray Quantity, also referred to as radiation exposure, refers to the number of photons in the x ray beam. More photons increase the dose to the patient. X ray Quality refers to the energy or penetrating power of the photons in the beam. Several factors affect the quality and quantity of the x ray beam. kVp: The kVp affects both the quantity and the quality of the radiation beam. The kVp across the X ray tube influences the force of attraction experienced by an electron released by the filament as it moves towards the anode. Thus if the kVp is increased, then the kinetic energy (E) of the electron increases. As X ray production by Bremsstrahlung is propoional to E 2,quantity or Intensity will be directly propoional to kVp`. If the kVp is doubled, then the intensity increases by a factor of four. The quality or the penetrating power of the beam increases as the kVp increases. Quality of radiation depends almost entirely on the kVp. mA/mAs: mA/mAs affects the quantity of radiation. It has no effect on quality of beam. It has no effect on quality of beam. If the mA is doubled, then the quantity is doubled, and the dose is increased by a factor of two. When the current through the X-ray tube (mA) is doubled the number of electrons flowing across the tube in unit time is doubled. If all other factors remain unchanged. each electron will have the same chance of creating X ray photons and so the number of photons will be doubled. The same applies to mAs. The quantity of the X ray beam is directly propoional to the mA through the tube. Filtration: filtration affects both the quality and quantity of the beam. A filter is always inseed in the x ray beam to remove low energy photons. This removal reduces the quantity, and as a result, the mean energy to the beam increases. The beam becomes more penetrating or harder. Thicker filters reduce the quantity of the beam, but increases beam quality. A filter is intended to protect the patient by removing these low-energy photons. Target material: Target material with higher atomic numbers increase both the quantity of photons slightly and quality (energy) of the beam. Tungsten produces a significantly more efficient spectrum than molybdenum. Source to image receptor distance (SID): The SID affects the quantity of photons but has no effect on the quality. The quantity is affected by the inverse square law, which states that the intensity (quantity) is inversely propoional to the square of the distance. If the distance is increased, then the quantity decreases by 1/d2. Summary: Quantity of X-rays generated is directly propoional to atomic number (z), current (mA), length of time of exposure (s) and square of the voltage applied (kVp). Quantity of x-ray = (kVp)2 xmAxsxZ d2 Quality of radiation depends almost entirely on the voltage (kVp). Effects of Various Parameters on Quality and Quantity of X Rays Variable Quantity Quality Anode material (Z) a Z Affects position (energy) of characteristic x rays Tube potential (kVp) a kVp2 Determines presence or absence of characteristic x rays; determines maximum x-ray energy Tube current (mA) a mA None Time a time None Distance a 1/distance,- None Filtration (HVL) Decreases with increasing filtration (higher HVL) Increased percentage of high-energy x rays with increased filtration (higher HVL)"
+    "cop": 0,
+    "exp": "50% reduction in KVP reduces 50% radiation dose Quantity of exposure is directly propoional to (kVp)2. Thus reducing kVp by 1/2 would reduce the radiation dose to 1/4 . X rays are produced by energy conversion when a fast-moving stream of electrons is suddently decelerated in the target of an x-ray tube. The target of an x-ray tube is usually tungsten or an alloy of tungsten. The exposure dose to the patient depends on Quantity and Quality of the x ray beam. X ray Quantity, also referred to as radiation exposure, refers to the number of photons in the x ray beam. More photons increase the dose to the patient. X ray Quality refers to the energy or penetrating power of the photons in the beam. Several factors affect the quality and quantity of the x ray beam. kVp: The kVp affects both the quantity and the quality of the radiation beam. The kVp across the X ray tube influences the force of attraction experienced by an electron released by the filament as it moves towards the anode. Thus if the kVp is increased, then the kinetic energy (E) of the electron increases. As X ray production by Bremsstrahlung is propoional to E 2,quantity or Intensity will be directly propoional to kVp`. If the kVp is doubled, then the intensity increases by a factor of four. The quality or the penetrating power of the beam increases as the kVp increases. Quality of radiation depends almost entirely on the kVp. mA/mAs: mA/mAs affects the quantity of radiation. It has no effect on quality of beam. It has no effect on quality of beam. If the mA is doubled, then the quantity is doubled, and the dose is increased by a factor of two. When the current through the X-ray tube (mA) is doubled the number of electrons flowing across the tube in unit time is doubled. If all other factors remain unchanged. each electron will have the same chance of creating X ray photons and so the number of photons will be doubled. The same applies to mAs. The quantity of the X ray beam is directly propoional to the mA through the tube. Filtration: filtration affects both the quality and quantity of the beam. A filter is always inseed in the x ray beam to remove low energy photons. This removal reduces the quantity, and as a result, the mean energy to the beam increases. The beam becomes more penetrating or harder. Thicker filters reduce the quantity of the beam, but increases beam quality. A filter is intended to protect the patient by removing these low-energy photons. Target material: Target material with higher atomic numbers increase both the quantity of photons slightly and quality (energy) of the beam. Tungsten produces a significantly more efficient spectrum than molybdenum. Source to image receptor distance (SID): The SID affects the quantity of photons but has no effect on the quality. The quantity is affected by the inverse square law, which states that the intensity (quantity) is inversely propoional to the square of the distance. If the distance is increased, then the quantity decreases by 1/d2. Summary: Quantity of X-rays generated is directly propoional to atomic number (z), current (mA), length of time of exposure (s) and square of the voltage applied (kVp). Quantity of x-ray = (kVp)2 xmAxsxZ d2 Quality of radiation depends almost entirely on the voltage (kVp). Effects of Various Parameters on Quality and Quantity of X Rays Variable Quantity Quality Anode material (Z) a Z Affects position (energy) of characteristic x rays Tube potential (kVp) a kVp2 Determines presence or absence of characteristic x rays; determines maximum x-ray energy Tube current (mA) a mA None Time a time None Distance a 1/distance,- None Filtration (HVL) Decreases with increasing filtration (higher HVL) Increased percentage of high-energy x rays with increased filtration (higher HVL)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Regarding scan true except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ea0db22a-db0e-4131-a373-6a467add15f8": {
-    "cop": 2,
-    "exp": "3 -- monthly"
+    "cop": 1,
+    "exp": "3 -- monthly",
+    "hint_exp": "🧩 Your crush solved \"avoid conception given\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1caf0c2b-fac6-4324-8890-12e30ff1fae2": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Commonest mycobacterial infection patient\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1f1f5b27-5839-49fd-a59f-43cbefd6b710": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Increased cardiac oxygen demand\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "42186434-4cf8-4313-9b76-7a2cfb0c05b2": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"likely\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0d4c63bd-a1e7-431c-b53d-a0bf0a123c30": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"dead except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6ee47cd2-837a-4a23-a511-e2141b38cc99": {
-    "cop": 1,
-    "exp": "Answer is A (hs CRP) hs CRP which is a serum marker of systemic inflammation has emerged as a major risk factor marker fir future cardiovascular events CRP and Future risk of cardiovascular events CRP when measured by high sensitivity assays (hs CRP) strongly and independently predicts risk of Myocardial Infarction, Stroke, Peripheral Aerial disease and Sudden Cardiac Death among healthy individuals hs CRP adds prognostic information at all levels of LDL cholesterol and at all levels of risk as determined by the Framingham risk score hs CRP is a better predictor of cardiovascular risk than lipoprotein 'a', homocysteine or interleukin 6 and an elevated hs CRP carries a significantly higher relative risk offitture cardiovascular events than any of the other individual factors Infact hs CRP may be a better predictor of cardiovascular risk than elevated LDL cholesterol levels `Absolute vascular risk is higher in individuals with elevated hs CRP levels and low levels of LDL cholesterol than in those with elevated levels of LDL cholesterol but low levels of hs CRP'"
+    "cop": 0,
+    "exp": "Answer is A (hs CRP) hs CRP which is a serum marker of systemic inflammation has emerged as a major risk factor marker fir future cardiovascular events CRP and Future risk of cardiovascular events CRP when measured by high sensitivity assays (hs CRP) strongly and independently predicts risk of Myocardial Infarction, Stroke, Peripheral Aerial disease and Sudden Cardiac Death among healthy individuals hs CRP adds prognostic information at all levels of LDL cholesterol and at all levels of risk as determined by the Framingham risk score hs CRP is a better predictor of cardiovascular risk than lipoprotein 'a', homocysteine or interleukin 6 and an elevated hs CRP carries a significantly higher relative risk offitture cardiovascular events than any of the other individual factors Infact hs CRP may be a better predictor of cardiovascular risk than elevated LDL cholesterol levels `Absolute vascular risk is higher in individuals with elevated hs CRP levels and low levels of LDL cholesterol than in those with elevated levels of LDL cholesterol but low levels of hs CRP'",
+    "hint_exp": "🧩 Your crush solved \"Best predictor future risk\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8e9820ce-9d39-4445-a951-c50cd8d6be9b": {
-    "cop": 2,
-    "exp": "B i.e. Atracurium besylate"
+    "cop": 1,
+    "exp": "B i.e. Atracurium besylate",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following drugs\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "70d1a0d1-c63d-488d-8711-5483c269aff2": {
-    "cop": 3,
-    "exp": "Livedo reticularis consists of a mottled reticular vascular pattern and appears like lace like purplish discoloration of the skin. It is a manifestation of venous thrombosis. Ref: Harrisons, Edition - 18 , Page - 2736"
+    "cop": 2,
+    "exp": "Livedo reticularis consists of a mottled reticular vascular pattern and appears like lace like purplish discoloration of the skin. It is a manifestation of venous thrombosis. Ref: Harrisons, Edition - 18 , Page - 2736",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Dermatological manifestation antiphospholipid antibody\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7766dec4-c70a-4f41-a454-b932968a9acf": {
-    "cop": 3,
-    "exp": "Total fertility rate determines the average number of children a woman would have if she were to pass through her reproductive years bearing children at the same rates as the women now in each age group does.\nIt is computed by summing the age specific fertility rates for all ages. This gives the approximate magnitude of the completed family size. - Park"
+    "cop": 2,
+    "exp": "Total fertility rate determines the average number of children a woman would have if she were to pass through her reproductive years bearing children at the same rates as the women now in each age group does.\nIt is computed by summing the age specific fertility rates for all ages. This gives the approximate magnitude of the completed family size. - Park",
+    "hint_exp": "🎯 Think of \"completed family size estimated\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1b697af6-c7a0-4eee-92a8-2ab8d74c78ef": {
-    "cop": 3,
-    "exp": "Ans. C. OPC poisoningAll the symptoms listed in the questions are symptoms associated with cholinergic effects which is OPC poisoning.it should not be confused with atropine poisoning where effects are anticholinergic."
+    "cop": 2,
+    "exp": "Ans. C. OPC poisoningAll the symptoms listed in the questions are symptoms associated with cholinergic effects which is OPC poisoning.it should not be confused with atropine poisoning where effects are anticholinergic.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year farmer convulsing with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "23174153-60a5-4dd2-9777-c2badb224ddf": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Upper lip middle 1/3''"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Upper lip middle 1/3''",
+    "hint_exp": "🧩 Your crush solved \"face\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "171b0121-ac8b-4e59-a312-1d308adf45e7": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Anti double stranded highly\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4d6c8a42-cfb4-4567-91b5-59457ae84bf2": {
-    "cop": 4,
-    "exp": "Ans-D"
+    "cop": 3,
+    "exp": "Ans-D",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"severe widespread psoriasis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d127a044-5c98-4ddc-a065-a4b41d8e5ddd": {
-    "cop": 3,
-    "exp": "Ans: c (100 Rad) Ref: Practical Radiotherapy- Physics and equipment 2nd ed/p.25, 2521 Gray = 100 RadGray is defined as: ' The absorbed dose (D) is the quotient of de by dm, where de is the mean energy imparted by the ionising radiation to matter of mass dm. D = de dmThe S.I unit of absorbed dose is gray. 1 Gray = 1 joule per kg = 100 RadIntensity is defined as the X - ray energy passing through unit area per unit time and is measured in roentgens.Rem is the Rontgen equivalent man, where absorbed dose of rads is multiplied by the quality factor of the type of radiation. The biological effect of radiation is expressed in Rem."
+    "cop": 2,
+    "exp": "Ans: c (100 Rad) Ref: Practical Radiotherapy- Physics and equipment 2nd ed/p.25, 2521 Gray = 100 RadGray is defined as: ' The absorbed dose (D) is the quotient of de by dm, where de is the mean energy imparted by the ionising radiation to matter of mass dm. D = de dmThe S.I unit of absorbed dose is gray. 1 Gray = 1 joule per kg = 100 RadIntensity is defined as the X - ray energy passing through unit area per unit time and is measured in roentgens.Rem is the Rontgen equivalent man, where absorbed dose of rads is multiplied by the quality factor of the type of radiation. The biological effect of radiation is expressed in Rem.",
+    "hint_exp": "🎯 Think of \"equal to\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5baee0bb-9a16-44d9-bf8c-34cc0166f8cc": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"treated with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9ad9a2cc-f595-4ac7-aec5-b829b3543057": {
-    "cop": 3,
-    "exp": "Papillary thyroid cancer is the most common cancer. Occurs in 70-80% of patients diagnosed with thyroid cancer. Common in females and younger age group. According to Woolner's Classification there are 3 types. 1)Occult primary(less than 1.5cm) 2) Intrathyroidal 3) Extrathyroidal Reference: SRB's Manual of Surgery, 6th Edition, page no = 468."
+    "cop": 2,
+    "exp": "Papillary thyroid cancer is the most common cancer. Occurs in 70-80% of patients diagnosed with thyroid cancer. Common in females and younger age group. According to Woolner's Classification there are 3 types. 1)Occult primary(less than 1.5cm) 2) Intrathyroidal 3) Extrathyroidal Reference: SRB's Manual of Surgery, 6th Edition, page no = 468.",
+    "hint_exp": "🧩 Your crush solved \"the thyroid carcinoma\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5fa70a34-78a7-42e9-94e2-c4d2530dd62d": {
-    "cop": 2,
-    "exp": "Ans. is b, i.e. Early Menopause-Fibroid is an estrogen and progesterone dependent tumor. Hence early menarrche and late menopause predispose to fibroid and not the vice versa."
+    "cop": 1,
+    "exp": "Ans. is b, i.e. Early Menopause-Fibroid is an estrogen and progesterone dependent tumor. Hence early menarrche and late menopause predispose to fibroid and not the vice versa.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"following predispose fibroid except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "45ce4c2a-1dd7-42e4-bdf0-7458eb61f8af": {
-    "cop": 1,
-    "exp": "The pa of brain affected in Alzheimer's disease is cerebral coex and hippocampus. In parkinsonism, basal ganglia, coex and even the brainstem(subcoex) is affected. In progressive supranuclear palsy and HIV encephalopathy there is subcoical dementia. Reference Harrison20th edition pg 2456"
+    "cop": 0,
+    "exp": "The pa of brain affected in Alzheimer's disease is cerebral coex and hippocampus. In parkinsonism, basal ganglia, coex and even the brainstem(subcoex) is affected. In progressive supranuclear palsy and HIV encephalopathy there is subcoical dementia. Reference Harrison20th edition pg 2456",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following casues subcoical dementia\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d91f8d8d-86ba-407d-b644-4935b90be04d": {
-    "cop": 1,
-    "exp": "(A) Nigrostriate pathviay> The long dopamine systems are the nigrostriatal system, which projects from the substantia nigra to the striatum and is involved in Motor control."
+    "cop": 0,
+    "exp": "(A) Nigrostriate pathviay> The long dopamine systems are the nigrostriatal system, which projects from the substantia nigra to the striatum and is involved in Motor control.",
+    "hint_exp": "🎯 Think of \"Major dopaminergic pathway\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f5588d2f-4b7f-48ac-81f3-4adc072945ad": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Thomas test Tests for Hip JointTESTINDICATIONTHOMASFixed flexion DeformityTrendelenburg TestFailure of the Abductor MechanismBryants TriangleSupratrochanteric ShorteningSquaring of pelvisAdduction/Abduction DeformityTelescoping TestPositive in DDH, transcervical neck femur fractureNelatons LineSupratrochanteric ShorteningChienes testSupratrochanteric ShorteningShoemakers LineSupratrochanteric Shortening"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Thomas test Tests for Hip JointTESTINDICATIONTHOMASFixed flexion DeformityTrendelenburg TestFailure of the Abductor MechanismBryants TriangleSupratrochanteric ShorteningSquaring of pelvisAdduction/Abduction DeformityTelescoping TestPositive in DDH, transcervical neck femur fractureNelatons LineSupratrochanteric ShorteningChienes testSupratrochanteric ShorteningShoemakers LineSupratrochanteric Shortening",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the Hip\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9b5b7fa8-c8ea-4187-8d9a-6dc67dcda52b": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Inhibit ADP mediated cAMP activation"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Inhibit ADP mediated cAMP activation",
+    "hint_exp": "🧩 Your crush solved \"Clopidogrel mechanism action\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "264c5956-cf1d-4974-8d1c-58717d90121a": {
-    "cop": 1,
-    "exp": "Ans. Rupture of mesentery"
+    "cop": 0,
+    "exp": "Ans. Rupture of mesentery",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"When seat belt worn\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b6d59fe5-c3f3-4016-9272-7dd7933986db": {
-    "cop": 4,
-    "exp": "Lead poisoning is mainly manifested by neurologic disorders, particularly in children. Lead absorption is enhanced by zinc deficiency; zinc is a trace metal. Lead inhibits heme incorporation into hemoglobin, leading to increased amounts of zinc protoporphyrin with anemia. Cadmium is a heavy metal associated with toxicity to the gastrointestinal tract, kidneys, and lungs. Copper is a trace metal that is unlikely to cause toxicity from environmental sources, although copper accumulation can occur with Wilson disease. Acute iron poisoning is associated with gastrointestinal, renal, and CNS toxicities. Nickel jewelry may cause skin rash; inhaled nickel produces respiratory problems."
+    "cop": 3,
+    "exp": "Lead poisoning is mainly manifested by neurologic disorders, particularly in children. Lead absorption is enhanced by zinc deficiency; zinc is a trace metal. Lead inhibits heme incorporation into hemoglobin, leading to increased amounts of zinc protoporphyrin with anemia. Cadmium is a heavy metal associated with toxicity to the gastrointestinal tract, kidneys, and lungs. Copper is a trace metal that is unlikely to cause toxicity from environmental sources, although copper accumulation can occur with Wilson disease. Acute iron poisoning is associated with gastrointestinal, renal, and CNS toxicities. Nickel jewelry may cause skin rash; inhaled nickel produces respiratory problems.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the same community\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "515c3906-10bc-475f-8313-ce83758abf05": {
-    "cop": 3,
-    "exp": "C i.e. Progesterone production require f eta steroidogenic tissue"
+    "cop": 2,
+    "exp": "C i.e. Progesterone production require f eta steroidogenic tissue",
+    "hint_exp": "🎯 Think of \"placental hormone\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "cb96dd17-95e9-4e92-aec2-af87cea52550": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"normal human plasma\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4bf68693-d0a6-40bc-a23a-9c81060a6c3f": {
-    "cop": 3,
-    "exp": "Trapezius Iatrogenic injury of the spinal accessory nerve (usually accidental damage during minor neck surgery) is the most common cause of accessory nerve palsy. Although rare, this kind of damage can cause extensive morbidity, including numbness, paralysis, pain, and winging of the scapula. In jugular foramen syndrome, caused by pathologies including nasopharyngeal carcinoma or a glomus tumor, lesions of the glossopharyngeal, vagus and accessory nerves coexist."
+    "cop": 2,
+    "exp": "Trapezius Iatrogenic injury of the spinal accessory nerve (usually accidental damage during minor neck surgery) is the most common cause of accessory nerve palsy. Although rare, this kind of damage can cause extensive morbidity, including numbness, paralysis, pain, and winging of the scapula. In jugular foramen syndrome, caused by pathologies including nasopharyngeal carcinoma or a glomus tumor, lesions of the glossopharyngeal, vagus and accessory nerves coexist.",
+    "hint_exp": "🧩 Your crush solved \"scapula\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6ca4a7af-f43a-4d87-95d5-b293f57caed6": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e8bee6f0-3e8a-4115-961e-0110693e8c23": {
-    "cop": 3,
-    "exp": "Ans. C i.e. HDCV"
+    "cop": 2,
+    "exp": "Ans. C i.e. HDCV",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9df78a9b-44fb-42cf-a895-36d43549995c": {
-    "cop": 3,
-    "exp": "Answer is C (Mesangial deposits of IgA): Presence of non blanching rash (Purpura), swelling of knee (Ahralgia) along with haematuria (glomerulonephritis) suggests the diagnosis of Henoch- Schonlein purpura. H.S purpura is characterized by deposition of IgA in the mesangial region (Robbins)"
+    "cop": 2,
+    "exp": "Answer is C (Mesangial deposits of IgA): Presence of non blanching rash (Purpura), swelling of knee (Ahralgia) along with haematuria (glomerulonephritis) suggests the diagnosis of Henoch- Schonlein purpura. H.S purpura is characterized by deposition of IgA in the mesangial region (Robbins)",
+    "hint_exp": "🎯 Think of \"of his renal biopsy specimen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5c85d988-8669-4baa-89f7-85bf6531c620": {
-    "cop": 3,
-    "exp": "Simple proteins are those that are made up of only amino acids. Conjugated proteins are combinations of protein with a non-protein pa, called prosthetic group Albumin is a simple protein. It may transpo metal ions. But there is no prosthetic group -> option a is excluded. Gluten, a protein composite of:- Prolamin (in wheat named gliadin) Glutelin(in wheat named glutenin) This is again a simple protein -> option b is excluded. Myoglobin contains heme prosthetic group. So, it is obviously a conjugated protein -> option c is the answer."
+    "cop": 2,
+    "exp": "Simple proteins are those that are made up of only amino acids. Conjugated proteins are combinations of protein with a non-protein pa, called prosthetic group Albumin is a simple protein. It may transpo metal ions. But there is no prosthetic group -> option a is excluded. Gluten, a protein composite of:- Prolamin (in wheat named gliadin) Glutelin(in wheat named glutenin) This is again a simple protein -> option b is excluded. Myoglobin contains heme prosthetic group. So, it is obviously a conjugated protein -> option c is the answer.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "280c3867-cd2b-4e05-91e7-bac05b9b7e67": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e, Sin of Gomorrah Buccal coitus (coitus per os/sin of gomorrah) In this, the male organ is introduced into mouth, usually of a young child. Fellatio is oral stimulation of penis by male or female. Cunnilingus is oral stimulation of female genitals."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e, Sin of Gomorrah Buccal coitus (coitus per os/sin of gomorrah) In this, the male organ is introduced into mouth, usually of a young child. Fellatio is oral stimulation of penis by male or female. Cunnilingus is oral stimulation of female genitals.",
+    "hint_exp": "🧩 Your crush solved \"buccal coitus\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "af368e40-942b-479f-9f97-61327c0f94f4": {
-    "cop": 1,
-    "exp": "Most commonly, TR is secondary to marked dilation of the tricuspid annulus from RV enlargement due to PA hypeension. Functional TR may complicate RV enlargement of any cause, including an inferior MI that involves the RV. It is commonly seen in the late stages of hea failure due to rheumatic or congenital hea disease with severe PA hypeension (pulmonary aery systolic pressure >55 mmHg), as well as in ischemic and idiopathic dilated cardiomyopathies. It is reversible in pa if PA hypeension can be relieved. Rheumatic fever may produce organic (primary) TR, often associated with TS. Infarction of RV papillary muscles, tricuspid valve prolapse, carcinoid hea disease, endomyocardial fibrosis, radiation, infective endocarditis, and trauma all may produce TR. As is the case for TS, the clinical features of TR result primarily from systemic venous congestion and reduction of CO. With the onset of TR in patients with PA hypeension, symptoms of pulmonary congestion diminish, but the clinical manifestations of right-sided hea failure become intensified. The neck veins are distended with prominent v waves and rapid y descents, marked hepatomegaly, ascites, pleural effusions, edema, systolic pulsations of the liver, and a positive hepatojugular reflex. ref : Harrison&;s principle of internal medicine,20 th edition,pg no.1948"
+    "cop": 0,
+    "exp": "Most commonly, TR is secondary to marked dilation of the tricuspid annulus from RV enlargement due to PA hypeension. Functional TR may complicate RV enlargement of any cause, including an inferior MI that involves the RV. It is commonly seen in the late stages of hea failure due to rheumatic or congenital hea disease with severe PA hypeension (pulmonary aery systolic pressure >55 mmHg), as well as in ischemic and idiopathic dilated cardiomyopathies. It is reversible in pa if PA hypeension can be relieved. Rheumatic fever may produce organic (primary) TR, often associated with TS. Infarction of RV papillary muscles, tricuspid valve prolapse, carcinoid hea disease, endomyocardial fibrosis, radiation, infective endocarditis, and trauma all may produce TR. As is the case for TS, the clinical features of TR result primarily from systemic venous congestion and reduction of CO. With the onset of TR in patients with PA hypeension, symptoms of pulmonary congestion diminish, but the clinical manifestations of right-sided hea failure become intensified. The neck veins are distended with prominent v waves and rapid y descents, marked hepatomegaly, ascites, pleural effusions, edema, systolic pulsations of the liver, and a positive hepatojugular reflex. ref : Harrison&;s principle of internal medicine,20 th edition,pg no.1948",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Enlarged pulsatile liver seen\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "eaa2da68-a0d7-4f65-b0bb-5683a53ac249": {
-    "cop": 3,
-    "exp": "Ans. c (Cri du chat) (Ref. Harrison's Internal medicine 17th edition, p. 412; Robbin's pathology 7th edition, p. 177)Cri-du-chat syndrome: Congenital microdeletion of short arm of chromosome 5 (46, XX or XY, 5p-). Findings: microcephaly, moderate to severe intellectual disability, high-pitched crying/mewing, epicanthal folds, cardiac abnormalities (VSD).Location of diseases on chromosomesDiseasesDeletionWolf-hirschorn syndrome4p-Cridu chat5p-DiGeorge syndrome22q-Cat-cry syndrome22p-Miller-Dieker17p-a-thalassemia16p -Angelman Syndrome15q - (angel ... maternal Mama)Prader-Willi Syndrome15q - (paternal .... P .... Papa)Retinoblastoma13q 14 -Beckwith-Wiedemann syndrome11 pl5 -WAGAR11 pl3 -Down's syndromeTrisomy 21PatauTrisomy 13Edwards syndromeTrisomy 18Educational Points:22q 11 deletion associated with high incidence of schizophrenia (Harrison's 17th edition, p. 2075; Robbins, 178)TrisomyCardinal featuresTrisomy 13 (Patau syndrome)# Auricular deformities# Microcephaly# Arrhinencephaly# Inner ear anomalies# Ocular anomalies# Hypertelorism# Cleft lip and palate# VSD# Simian creaseTrisomy 18 (Edward syndrome)# Auricular deformities# Inner ear anomalies# Ptosis of eyelids# Micrognathia# Flexion deformities# Mental retardationTrisomy 21 (Down's syndrome)# Auricular deformities# Hypertelorism# Epicanthal fold# Protruding tongue# High arched palate# Inner ear anomalies# Cardiovascular defects# Mental retardation"
+    "cop": 2,
+    "exp": "Ans. c (Cri du chat) (Ref. Harrison's Internal medicine 17th edition, p. 412; Robbin's pathology 7th edition, p. 177)Cri-du-chat syndrome: Congenital microdeletion of short arm of chromosome 5 (46, XX or XY, 5p-). Findings: microcephaly, moderate to severe intellectual disability, high-pitched crying/mewing, epicanthal folds, cardiac abnormalities (VSD).Location of diseases on chromosomesDiseasesDeletionWolf-hirschorn syndrome4p-Cridu chat5p-DiGeorge syndrome22q-Cat-cry syndrome22p-Miller-Dieker17p-a-thalassemia16p -Angelman Syndrome15q - (angel ... maternal Mama)Prader-Willi Syndrome15q - (paternal .... P .... Papa)Retinoblastoma13q 14 -Beckwith-Wiedemann syndrome11 pl5 -WAGAR11 pl3 -Down's syndromeTrisomy 21PatauTrisomy 13Edwards syndromeTrisomy 18Educational Points:22q 11 deletion associated with high incidence of schizophrenia (Harrison's 17th edition, p. 2075; Robbins, 178)TrisomyCardinal featuresTrisomy 13 (Patau syndrome)# Auricular deformities# Microcephaly# Arrhinencephaly# Inner ear anomalies# Ocular anomalies# Hypertelorism# Cleft lip and palate# VSD# Simian creaseTrisomy 18 (Edward syndrome)# Auricular deformities# Inner ear anomalies# Ptosis of eyelids# Micrognathia# Flexion deformities# Mental retardationTrisomy 21 (Down's syndrome)# Auricular deformities# Hypertelorism# Epicanthal fold# Protruding tongue# High arched palate# Inner ear anomalies# Cardiovascular defects# Mental retardation",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Deletion short chromosome syndrome\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "713deca2-f00d-477b-a112-a20c25a87977": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Maximum hours of work per week is 48 hrs. Factories ActThe first Indian Factories act dates as for back as 1881.The act was revised and amended several times, the lates being the factories (Amendment) act, 1987"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Maximum hours of work per week is 48 hrs. Factories ActThe first Indian Factories act dates as for back as 1881.The act was revised and amended several times, the lates being the factories (Amendment) act, 1987",
+    "hint_exp": "🎯 Think of \"factories Act\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0f86fa73-0b09-4df6-804a-108ff88b9b4f": {
-    "cop": 2,
-    "exp": "Shellfish"
+    "cop": 1,
+    "exp": "Shellfish",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"associated with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e5a24220-c97f-411b-9084-d01db1735792": {
-    "cop": 2,
-    "exp": "Clinical features of Rhinosporodiosis : Leafly, polypoidal mass, pink to purple in colour, attached to nasal septum or lateral wall mass is very vascular, bleeds on touch and studded with white dots (Strawberry-Like appearance)."
+    "cop": 1,
+    "exp": "Clinical features of Rhinosporodiosis : Leafly, polypoidal mass, pink to purple in colour, attached to nasal septum or lateral wall mass is very vascular, bleeds on touch and studded with white dots (Strawberry-Like appearance).",
+    "hint_exp": "🧩 Your crush solved \"Nasal polyps with subcutaneous\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e73b7bff-701c-4648-9bde-bbe63d8e4aac": {
-    "cop": 3,
-    "exp": "Ans. is c, i.e. VestibuleRef: COGDT 11th/ed, p26Vestibule is the triangular area bounded anteriorly by the clitoris, posteriorly by Fourchette and on either side by labia minora."
+    "cop": 2,
+    "exp": "Ans. is c, i.e. VestibuleRef: COGDT 11th/ed, p26Vestibule is the triangular area bounded anteriorly by the clitoris, posteriorly by Fourchette and on either side by labia minora.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"triangular area bounded clitoris\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "dd7f78b0-5828-4c7d-a0af-2c67dee96bf4": {
-    "cop": 1,
-    "exp": "Antigenic drift is due to mutation and selection. REF:ANANTHANARAYAN AND PANIKER'S TEXTBOOK OF MICROBIOLOGY 9TH EDITION PAGE NO-499"
+    "cop": 0,
+    "exp": "Antigenic drift is due to mutation and selection. REF:ANANTHANARAYAN AND PANIKER'S TEXTBOOK OF MICROBIOLOGY 9TH EDITION PAGE NO-499",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Causes antigenic drift influenza\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d1546293-b991-4a10-98ac-b7c65dcac622": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., 100 women years"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., 100 women years",
+    "hint_exp": "🎯 Think of \"Pearl index indicates number\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a375cfda-35e6-470e-a218-17fb4ae8285f": {
-    "cop": 3,
-    "exp": "C i.e. Vaso vagal attack Total spinal anesthesia - Ocurs if the large volume of LA used for epidural -anesthesia is injected into subarachnoid space i.e. it occurs following epidural/caudal anesthesia, if there is inadveent intrathecal injection of large volume of drugs. - It occurs after (not during injection) Vasovagal attack or emotional fainting (Syncope) Likely to occur paicularly in an anxious patient with a rapidly ascending spinal block. It may occur instantaneously even during the procedure (e.g. spinal)Q. Pallor, nausea and (neurocardiogenic) bradycardia or asystole are a/w hypotension and fainting. Rapid resolution results from placing the patient in head down position and administration of iv ephedrine or atropine. Systemic toxicity - If large amount of LA reach the tissues of hea and brain they exe the same membrane stabilizing effect as on nerve resulting in progressive depression of function. The earliest feature is numbness or tingling of tongue and circumoral area; b/o rich blood supply to these tissue depositing enough drug to have an effect on nerve endings. The patient may beome light headed, anxious, drowsy and or complain of tinnitus. Convulsions, loss of consciousness, coma and apnoea may develop subsequently. Cardiovascular collapse may result from direct myocardial depression and vasodilation or hypoxemia d/t apnoea. - The most ommon cause is accidental intravascular injectionQ but it may also result from absolute overdose during blocks. System absorption of LA is greatest after intercostal nerve block and caudal anesthesia; intermediate after epidural anesthesia > brachial plexus > sciatic & femoral nerve block; and least after infiltration anesthesia."
+    "cop": 2,
+    "exp": "C i.e. Vaso vagal attack Total spinal anesthesia - Ocurs if the large volume of LA used for epidural -anesthesia is injected into subarachnoid space i.e. it occurs following epidural/caudal anesthesia, if there is inadveent intrathecal injection of large volume of drugs. - It occurs after (not during injection) Vasovagal attack or emotional fainting (Syncope) Likely to occur paicularly in an anxious patient with a rapidly ascending spinal block. It may occur instantaneously even during the procedure (e.g. spinal)Q. Pallor, nausea and (neurocardiogenic) bradycardia or asystole are a/w hypotension and fainting. Rapid resolution results from placing the patient in head down position and administration of iv ephedrine or atropine. Systemic toxicity - If large amount of LA reach the tissues of hea and brain they exe the same membrane stabilizing effect as on nerve resulting in progressive depression of function. The earliest feature is numbness or tingling of tongue and circumoral area; b/o rich blood supply to these tissue depositing enough drug to have an effect on nerve endings. The patient may beome light headed, anxious, drowsy and or complain of tinnitus. Convulsions, loss of consciousness, coma and apnoea may develop subsequently. Cardiovascular collapse may result from direct myocardial depression and vasodilation or hypoxemia d/t apnoea. - The most ommon cause is accidental intravascular injectionQ but it may also result from absolute overdose during blocks. System absorption of LA is greatest after intercostal nerve block and caudal anesthesia; intermediate after epidural anesthesia > brachial plexus > sciatic & femoral nerve block; and least after infiltration anesthesia.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"anesthesia resident givnig spinal\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "052f519c-f34e-4459-83dd-eba19d6ebc02": {
-    "cop": 2,
-    "exp": "Endometrial carcinoma"
+    "cop": 1,
+    "exp": "Endometrial carcinoma",
+    "hint_exp": "🧩 Your crush solved \"Poly cystic ovarian disease\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d47b1dfd-787b-47a0-960d-019da38782a1": {
-    "cop": 3,
-    "exp": "C i.e., Bulbospongiosus"
+    "cop": 2,
+    "exp": "C i.e., Bulbospongiosus",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Superficial perineal muscles include\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7b8685ec-a4c9-4203-a832-3b642ce437cd": {
-    "cop": 4,
-    "exp": "Mayapple (May Apple) Toxic Principle : Podophyllin (purified form: podophyllotoxin) Clinical Features : Exposure of eyes causes irritation with conjunctivitis, keratitis, corneal ulceration, and iritis. Ingestion results in nausea, abdominal pain, vomiting,and diarrhoea. fever, tachypnoea, tachycardia, hypotension, ataxia, dizziness, lethargy, confusion, and altered sensorium. Treatment : No specific antidote is known. Emesis may be useful during the initial phases of toxicity. Hemodialysis is ineffective, but charcoal hemoperfusion has reversed acute symptoms within hours. Topically administered resin should be removed with petroleum jelly. If eye contact occurs, flush with copious amounts of warm water and consult a physician or poison center immediately."
+    "cop": 3,
+    "exp": "Mayapple (May Apple) Toxic Principle : Podophyllin (purified form: podophyllotoxin) Clinical Features : Exposure of eyes causes irritation with conjunctivitis, keratitis, corneal ulceration, and iritis. Ingestion results in nausea, abdominal pain, vomiting,and diarrhoea. fever, tachypnoea, tachycardia, hypotension, ataxia, dizziness, lethargy, confusion, and altered sensorium. Treatment : No specific antidote is known. Emesis may be useful during the initial phases of toxicity. Hemodialysis is ineffective, but charcoal hemoperfusion has reversed acute symptoms within hours. Topically administered resin should be removed with petroleum jelly. If eye contact occurs, flush with copious amounts of warm water and consult a physician or poison center immediately.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"this plant\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a38b4098-25a6-4b3e-aedb-12d1aacead9c": {
-    "cop": 4,
-    "exp": "Abandoning of a child Father or mother of a child who is under 12 years or anyone who is having care of such child, leaves such a child in any place with the intention of abandoning the child shall be punished with imprisonment upto 7 years. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 354"
+    "cop": 3,
+    "exp": "Abandoning of a child Father or mother of a child who is under 12 years or anyone who is having care of such child, leaves such a child in any place with the intention of abandoning the child shall be punished with imprisonment upto 7 years. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 354",
+    "hint_exp": "🎯 Think of \"Abandoning child will punished\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dab02540-b737-424b-aeac-4d7502be3b55": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., B Positive in Lead I and Negative in Lead II The normal QRS axis lies between -30deg and + 90\". Left axis detion is conventionally diagnosed when QRS axis lies more leftward negative than -30\". A quick way to assess QRS axis is to look at leads I and II. If the QRS axis is positive in leads 1 and II then the axis is normal. If the QRS complex positive in lead I and negative in lead II left axis detion. If the QRS complex is negative in lead I and positive in lead II right axis detion. Negative QRS complexes in both leads I and II most commonly indicates -4 incorrect positioning of the limb electrodes."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., B Positive in Lead I and Negative in Lead II The normal QRS axis lies between -30deg and + 90\". Left axis detion is conventionally diagnosed when QRS axis lies more leftward negative than -30\". A quick way to assess QRS axis is to look at leads I and II. If the QRS axis is positive in leads 1 and II then the axis is normal. If the QRS complex positive in lead I and negative in lead II left axis detion. If the QRS complex is negative in lead I and positive in lead II right axis detion. Negative QRS complexes in both leads I and II most commonly indicates -4 incorrect positioning of the limb electrodes.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Detion\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "44a5c30c-49ee-4884-81ae-7209629cbd29": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Vasoconstriction o All the given options are caused by angiotensin II. But vasoconstriction is the most prominent action.Actions of angiotensin 11 (A-II)o The most prominent action of A-II is vasoconstriction.o Angiotensin II is one of the most potent vasoconstrictors known, being four to eight times as active as epinephrine.o Vasoconstriction involves arterioles and venules and occurs in all vascular beds. However, it is less marked in cerebral, skeletal muscle, pulmonary and coronary vessels.o A-II increases the force of myocardial contraction by promoting Ca+2 influx.o A-II and A-II I are tropic to zona glomerulosa of adrenal cortex -| aldosterone secretion - Na+ & water retention.o A-II also has a direct action on kidney - promotes Na+, C1- and HCO2- reabsorption.o In brain, A II induces drinking behavior and ADH release. It also increases central sympathetic outflow.o A-II enhances sympethetic activity by peripheral action as well - It releases Adr from adrenal medulla, stimulates autonomic ganglia and increases the output of NA from adrenergic nerve endings."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Vasoconstriction o All the given options are caused by angiotensin II. But vasoconstriction is the most prominent action.Actions of angiotensin 11 (A-II)o The most prominent action of A-II is vasoconstriction.o Angiotensin II is one of the most potent vasoconstrictors known, being four to eight times as active as epinephrine.o Vasoconstriction involves arterioles and venules and occurs in all vascular beds. However, it is less marked in cerebral, skeletal muscle, pulmonary and coronary vessels.o A-II increases the force of myocardial contraction by promoting Ca+2 influx.o A-II and A-II I are tropic to zona glomerulosa of adrenal cortex -| aldosterone secretion - Na+ & water retention.o A-II also has a direct action on kidney - promotes Na+, C1- and HCO2- reabsorption.o In brain, A II induces drinking behavior and ADH release. It also increases central sympathetic outflow.o A-II enhances sympethetic activity by peripheral action as well - It releases Adr from adrenal medulla, stimulates autonomic ganglia and increases the output of NA from adrenergic nerve endings.",
+    "hint_exp": "🧩 Your crush solved \"Most prominent action angiotensin\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

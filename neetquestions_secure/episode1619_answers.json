@@ -1,202 +1,252 @@
 {
   "1b1c5368-cbed-42b1-89e5-dda45d427e9b": {
-    "cop": 4,
-    "exp": "The man is likely to have a lung tumor, given his clinical presentation and the radiographic results. The patient's hypercalcemia is likely due to a paraneoplastic syndrome, such as that due to the elaboration of parathyroid-related hormone (PTrH). PTrH is produced by squamous cell carcinoma Adrenocoicotropic-like substance and antidiuretic hormone are produced by yet another form of lung cancer--small cell carcinoma of the lung. Carcinoembryonic antigen is an onco-fetal antigen produced by colon cancer cells. Erythropoietin causes secondary polycythemia and is related to renal cell carcinoma"
+    "cop": 3,
+    "exp": "The man is likely to have a lung tumor, given his clinical presentation and the radiographic results. The patient's hypercalcemia is likely due to a paraneoplastic syndrome, such as that due to the elaboration of parathyroid-related hormone (PTrH). PTrH is produced by squamous cell carcinoma Adrenocoicotropic-like substance and antidiuretic hormone are produced by yet another form of lung cancer--small cell carcinoma of the lung. Carcinoembryonic antigen is an onco-fetal antigen produced by colon cancer cells. Erythropoietin causes secondary polycythemia and is related to renal cell carcinoma",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"which substance\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "26c3b18e-4da9-4dc5-95eb-056e5a12e3ae": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"year G2P1 woman weeks\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f82e06a5-c8de-45a4-8889-3d5f7b251604": {
-    "cop": 4,
-    "exp": "Ans. is 'a' i.e., Sarcoidosis; 'b' i.e., Interstitia lung disease; 'c' i.e., Langerhan's cell histiocytosis End-stage lung disease o When the lung can no longer keep the blood supplied with oxygen it is referred to as end-stage lung disease. o Causes of end stage lung disease - ARDS Pulmonary circulatory diseases Tuberculosis Cystic fibrosis Pneumoconiosis (Asbestosis and others) COPD (emphysema, chronic bronchitis) Interstitial lung diseases (e.g. sarcoidosis) o Pulmonary Langerhans cell histiocytosis is a progressive disease, and leads to endstage lung disease."
+    "cop": 3,
+    "exp": "Ans. is 'a' i.e., Sarcoidosis; 'b' i.e., Interstitia lung disease; 'c' i.e., Langerhan's cell histiocytosis End-stage lung disease o When the lung can no longer keep the blood supplied with oxygen it is referred to as end-stage lung disease. o Causes of end stage lung disease - ARDS Pulmonary circulatory diseases Tuberculosis Cystic fibrosis Pneumoconiosis (Asbestosis and others) COPD (emphysema, chronic bronchitis) Interstitial lung diseases (e.g. sarcoidosis) o Pulmonary Langerhans cell histiocytosis is a progressive disease, and leads to endstage lung disease.",
+    "hint_exp": "🎯 Think of \"stage Lung disease seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2df1f40e-1ca6-4dc6-bcb6-041631a634bc": {
-    "cop": 4,
-    "exp": "Thiopentone decreases oxygen consumption, metabolic rate and ICT. That is why it is agent of choice for cerebral protection. On sleep it increases stage 2 and decreases stage 3, 4 and REM."
+    "cop": 3,
+    "exp": "Thiopentone decreases oxygen consumption, metabolic rate and ICT. That is why it is agent of choice for cerebral protection. On sleep it increases stage 2 and decreases stage 3, 4 and REM.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Thiopentone does cause\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "24fa082b-f34a-4c77-b511-7d82583363ef": {
-    "cop": 1,
-    "exp": "Before answering this questions, let us first understand what is bioassay, immunoassay and Radioimmunoassay\n\nBioassay – A Bioassay is a test that uses animals or live tissues to look for a response to the hormone that is injected.\nImmunoassay – An Immunoassay is a test that uses antibodies detected against the hormone to “capture” the hormone. The test uses materials or substances that are related to or are a part of the immune system. To perform an immunoassay, cells are introduced from the immune system which may or may not have an antibody and cell clumping is observed.\nRadioimmunoassay – An radioimmunoassay uses a radioisotope as the label to detect and measure the amount of hormone present in the sample.\n\nBioassay for detecting hCG was developed in 1930’s. wherein samples were injected in rabbits, frogs etc and ovulation was observed. These tests were expensive, slow and insensitive for hCG as they couldnot differentiate between LH and hCG.\nBioassay for hCG is an outdated test these days.\nELISA – It consists of immunosorbent assay of monocional antibodies to detect B-hCG. It forms the bases of home pregnancy tests. This is more sensitive and specific and can detect hCG in serum upto 1-2 mIU/ml. Radioimmunoassay and Radio receptor assay are more sensitive than ELISA and detect hCG Gupto .002 mLU/ml in serum (RIA) or .05 mLU/ml (IRMA)\nBut between the two, Radioimmunoassay is more specific as it doesnot cross react with luteinizing hormone and is the best test for detecting B-hCG\n“Radioreceptor assays are more sensitive, but not much used as there is cross reactivity with LH.”"
+    "cop": 0,
+    "exp": "Before answering this questions, let us first understand what is bioassay, immunoassay and Radioimmunoassay\n\nBioassay – A Bioassay is a test that uses animals or live tissues to look for a response to the hormone that is injected.\nImmunoassay – An Immunoassay is a test that uses antibodies detected against the hormone to “capture” the hormone. The test uses materials or substances that are related to or are a part of the immune system. To perform an immunoassay, cells are introduced from the immune system which may or may not have an antibody and cell clumping is observed.\nRadioimmunoassay – An radioimmunoassay uses a radioisotope as the label to detect and measure the amount of hormone present in the sample.\n\nBioassay for detecting hCG was developed in 1930’s. wherein samples were injected in rabbits, frogs etc and ovulation was observed. These tests were expensive, slow and insensitive for hCG as they couldnot differentiate between LH and hCG.\nBioassay for hCG is an outdated test these days.\nELISA – It consists of immunosorbent assay of monocional antibodies to detect B-hCG. It forms the bases of home pregnancy tests. This is more sensitive and specific and can detect hCG in serum upto 1-2 mIU/ml. Radioimmunoassay and Radio receptor assay are more sensitive than ELISA and detect hCG Gupto .002 mLU/ml in serum (RIA) or .05 mLU/ml (IRMA)\nBut between the two, Radioimmunoassay is more specific as it doesnot cross react with luteinizing hormone and is the best test for detecting B-hCG\n“Radioreceptor assays are more sensitive, but not much used as there is cross reactivity with LH.”",
+    "hint_exp": "🧩 Your crush solved \"Best test estimating\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6059a102-4f5b-4356-9968-cabc1a53c3af": {
-    "cop": 1,
-    "exp": "Answer is A (Hemochromatosis): The association of Ahritis, hyperpigmentation of skin and hypogonadism suggests the diagnosis of hematochromatosis. Hematochromatosis (Disorder of iron storage) Inappropriate increase in intestinal absorption results in deposition of excessive amounts of iron in parenchymal cells with eventual tissue damage and impaired fitnction of organs Serum iron led % Transferrin saturation Ted Serum ferritin iced Elevation in percent Transferrin saturation is the earliest phenotypic marker of. herditaty hemochmmatosisdeg Treatment of Haematochromatosis Therapy of Haematochromatosis involves removal of excessive body iron and suppoive treatment of damaged organs Removal of Excessive Body iron Phlebotomy is the treatment of choice - Iron removal is best accomplished by once or twice weekly phlebotomy of 500m1, - These should be continued until the serum ferritin level is < 50p.g/L (May be required for 1-2 years) - Thereafter phlebotomies are performed at appropriate intervals to maintain ferritin levels between 50-10011e/1. (usually one phlebotomy every 3 months) Chelating agents (such as Desferoxamine) are alternative agents and indicated when anemia and hypoproteinernia are severe enough to preclude phlebotomy Alcohol consumption should be eleminatedt as it increases the risk of cirrhosis in hematochromatosis nearly ten fold. The charachteristic clinical features of Haemochromatosis in order of frequency area : Hepatomegaly (95%) Skin pigmentation (90%) Diabetes mellitus (65%) Ahropathy (25-50%) Cardiac disease (15%) Hypogonadism"
+    "cop": 0,
+    "exp": "Answer is A (Hemochromatosis): The association of Ahritis, hyperpigmentation of skin and hypogonadism suggests the diagnosis of hematochromatosis. Hematochromatosis (Disorder of iron storage) Inappropriate increase in intestinal absorption results in deposition of excessive amounts of iron in parenchymal cells with eventual tissue damage and impaired fitnction of organs Serum iron led % Transferrin saturation Ted Serum ferritin iced Elevation in percent Transferrin saturation is the earliest phenotypic marker of. herditaty hemochmmatosisdeg Treatment of Haematochromatosis Therapy of Haematochromatosis involves removal of excessive body iron and suppoive treatment of damaged organs Removal of Excessive Body iron Phlebotomy is the treatment of choice - Iron removal is best accomplished by once or twice weekly phlebotomy of 500m1, - These should be continued until the serum ferritin level is < 50p.g/L (May be required for 1-2 years) - Thereafter phlebotomies are performed at appropriate intervals to maintain ferritin levels between 50-10011e/1. (usually one phlebotomy every 3 months) Chelating agents (such as Desferoxamine) are alternative agents and indicated when anemia and hypoproteinernia are severe enough to preclude phlebotomy Alcohol consumption should be eleminatedt as it increases the risk of cirrhosis in hematochromatosis nearly ten fold. The charachteristic clinical features of Haemochromatosis in order of frequency area : Hepatomegaly (95%) Skin pigmentation (90%) Diabetes mellitus (65%) Ahropathy (25-50%) Cardiac disease (15%) Hypogonadism",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"patient presents with Ahritis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2b33bae4-578b-4f98-a0dc-b5010b3c392e": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "eee939ee-85bd-456f-a026-408ca098608e": {
-    "cop": 2,
-    "exp": "Ans. b. Red blood cells (Ref: Harper's 27/e p190-191)Ketone bodies cannot be utilized Red blood cells.Substrate utilized for energy productionOrganFedFastingStarvationBrainGlucoseGlucoseKetone bodiesQHeartFatty acidQFatty acidKetone bodiesLiverGlucoseFatty acidAmino acidMusclesGlucoseFatty acidFatty acidHeart utilizes fatty acids even in fed state. Brain doesn't use fatty acid for energy production."
+    "cop": 1,
+    "exp": "Ans. b. Red blood cells (Ref: Harper's 27/e p190-191)Ketone bodies cannot be utilized Red blood cells.Substrate utilized for energy productionOrganFedFastingStarvationBrainGlucoseGlucoseKetone bodiesQHeartFatty acidQFatty acidKetone bodiesLiverGlucoseFatty acidAmino acidMusclesGlucoseFatty acidFatty acidHeart utilizes fatty acids even in fed state. Brain doesn't use fatty acid for energy production.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a951431f-18b4-4358-a481-14928c96a610": {
-    "cop": 1,
-    "exp": "Globally ,tuberculosis is the most common cause of moality & morbidity in HIV-infected patients . When CD4 count is less than 500cells/cubic millimeter ,tuberculosis may occur in an HIV patient .It is the most common cause of admission in patients with mild immune suppression . Reference: Harrison20th edition pg 877"
+    "cop": 0,
+    "exp": "Globally ,tuberculosis is the most common cause of moality & morbidity in HIV-infected patients . When CD4 count is less than 500cells/cubic millimeter ,tuberculosis may occur in an HIV patient .It is the most common cause of admission in patients with mild immune suppression . Reference: Harrison20th edition pg 877",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"aids\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "dec4f316-2a17-4f6a-92ec-322cdbf74dc2": {
-    "cop": 4,
-    "exp": "Sling procedure employed for complicated cases of sphincter incompetence works by compressing urethra at the urethrovesical junction disadvantages:voiding difficulties, detrusor instability, sling erosion D.C.DUTTA&;S TEXTBOOK OF GYNAECOLOGY,Pg no:405,6th edition"
+    "cop": 3,
+    "exp": "Sling procedure employed for complicated cases of sphincter incompetence works by compressing urethra at the urethrovesical junction disadvantages:voiding difficulties, detrusor instability, sling erosion D.C.DUTTA&;S TEXTBOOK OF GYNAECOLOGY,Pg no:405,6th edition",
+    "hint_exp": "🧩 Your crush solved \"USI\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7a536f3b-891c-4476-ac2f-ae9f1b827c84": {
-    "cop": 1,
-    "exp": "Bhore committee (1946) : 'Health survey and Development committee' Sho term plan : 1 PHC per 40,000 population, 30 beds, 3 subcenters and 2 medical officers Long term plan (3 million plan) : Primary health units with 75- bedded hospitals per 10,000- 20,000 population; secondary health units with 650- bedded hospitals ; Regional health units with 2,500 beds Prepare 'Social Physicians' ( 3 month training in preventive and social medicine in medical education) School health Comprehensive health care concept."
+    "cop": 0,
+    "exp": "Bhore committee (1946) : 'Health survey and Development committee' Sho term plan : 1 PHC per 40,000 population, 30 beds, 3 subcenters and 2 medical officers Long term plan (3 million plan) : Primary health units with 75- bedded hospitals per 10,000- 20,000 population; secondary health units with 650- bedded hospitals ; Regional health units with 2,500 beds Prepare 'Social Physicians' ( 3 month training in preventive and social medicine in medical education) School health Comprehensive health care concept.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"School Health first recommended\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6c2a0d66-eeef-4864-be6e-9628660bee97": {
-    "cop": 2,
-    "exp": "75"
+    "cop": 1,
+    "exp": "75",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"sodium in low osmolar ORS\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "20234180-6e25-471b-bbaf-23abd4e77847": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Life expectancy at 1 year o Life expectancy at birth is a dimension of HDI (not life expectancy at one year).HUMAN DEVELOPMENT INDEX (HDDo HDI is a composite index combining indicators representing three dimensions.Components of HDIRecent (23\"Ve & 22nAle of Park)Old (Previous editions)1. Longevity: - Life expectancy at birth2. Knowledey Mean years of schoolingy Expected years of schooling3. Income:-GNI per capita1. Longevity: - Life expectancy at birth2. Knowledgey Mean years of schooling (gross enrolment ratio)y Adult literacy rate3. Income: - GDP per capita"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Life expectancy at 1 year o Life expectancy at birth is a dimension of HDI (not life expectancy at one year).HUMAN DEVELOPMENT INDEX (HDDo HDI is a composite index combining indicators representing three dimensions.Components of HDIRecent (23\"Ve & 22nAle of Park)Old (Previous editions)1. Longevity: - Life expectancy at birth2. Knowledey Mean years of schoolingy Expected years of schooling3. Income:-GNI per capita1. Longevity: - Life expectancy at birth2. Knowledgey Mean years of schooling (gross enrolment ratio)y Adult literacy rate3. Income: - GDP per capita",
+    "hint_exp": "🎯 Think of \"included human development index\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4657d426-ae05-47fb-868b-48bcfb84a1e0": {
-    "cop": 4,
-    "exp": "Ans. d. Hypersensitivity reaction with modified macrophages, lymphocytes and giant cells (Ref: Robbins 9/e p208. 375,376; Anananantyan 9/e p162)Clinical features like fever; night sweats and weight loss and X-ray finding of mass in apical lobe with histopathological findings of caseous necrosis are highly suggestive of tuberculosis. The underlying process is type IV hypersensitivity, which is characterized by presence of modified macrophages, lymphocytes & giant cells.Schematic illustration of the events that give rise to the formation of granulomas in cell-mediated (type IV) hypersensitivity reactions.TuberculosisAntigenic property :Group specificity is due to polysaccharideQ while type specificity is due to protein antigenQ.Antibodies are not useful for diagnosis and immunity.Pathogenecity:Macrophages are the primary cells infectedQ by M. tuberculosis.M. tuberculosis replicated within the macrophages (phagosome) by blocking fusion of phagosome and IysosomeQ.It is due to escape of kiliing by macrophagesQ and induction of type IV hypersensitivity.Factors contributing in pathogenesis: Cord factor, Lipoarabinomannan, Complement system, M. tuberculosis heat shock proteins.Risk of acquiring infection is determined mainly by exogenous factorsQ while risk of developing disease depends largely on endogenous factorsQ.Most potent risk factor- HIV coinfectionQClinical Features:Pulmonary TBExtrapuimonary TBPrimary diseasePost primary disease* MC site: Lymph nodeQ (MC cervical & supraclavicular)* Involvement of genitourinary tract (sterile pyuria in acidic urine)* Skeletal TB (MC site spine, hip, knee)* TB meningitis (paresis of cranial nerves especially ocular, is frequent* finding)Q* Gl TB (MC site terminal ileum & caecum)Q* Tuberculous pericarditis (MC cause of chronic constrictive pericarditis)Q* Usually localized in middle & lower zonesQ* Primary focus is usually peripheral in subpleural region and is accompanied by draining lymphatics, inflamed regional LNs which are collectively called Primary complex / Ghon's focusQ.* Occult hematogenous dissemination to apex of lung (Simons FocusQ)* Also called adult type or reactivation or secondary tuberculosis or chronic pulmonary TB* Usually localized to apical & posterior segments of upper lobe due to high O2 concentration (Puhl's lesionQ)* MC hematologic finding: mild anemia & leukocytosis* Infraclavicular lesion is called Assman's FocusQ"
+    "cop": 3,
+    "exp": "Ans. d. Hypersensitivity reaction with modified macrophages, lymphocytes and giant cells (Ref: Robbins 9/e p208. 375,376; Anananantyan 9/e p162)Clinical features like fever; night sweats and weight loss and X-ray finding of mass in apical lobe with histopathological findings of caseous necrosis are highly suggestive of tuberculosis. The underlying process is type IV hypersensitivity, which is characterized by presence of modified macrophages, lymphocytes & giant cells.Schematic illustration of the events that give rise to the formation of granulomas in cell-mediated (type IV) hypersensitivity reactions.TuberculosisAntigenic property :Group specificity is due to polysaccharideQ while type specificity is due to protein antigenQ.Antibodies are not useful for diagnosis and immunity.Pathogenecity:Macrophages are the primary cells infectedQ by M. tuberculosis.M. tuberculosis replicated within the macrophages (phagosome) by blocking fusion of phagosome and IysosomeQ.It is due to escape of kiliing by macrophagesQ and induction of type IV hypersensitivity.Factors contributing in pathogenesis: Cord factor, Lipoarabinomannan, Complement system, M. tuberculosis heat shock proteins.Risk of acquiring infection is determined mainly by exogenous factorsQ while risk of developing disease depends largely on endogenous factorsQ.Most potent risk factor- HIV coinfectionQClinical Features:Pulmonary TBExtrapuimonary TBPrimary diseasePost primary disease* MC site: Lymph nodeQ (MC cervical & supraclavicular)* Involvement of genitourinary tract (sterile pyuria in acidic urine)* Skeletal TB (MC site spine, hip, knee)* TB meningitis (paresis of cranial nerves especially ocular, is frequent* finding)Q* Gl TB (MC site terminal ileum & caecum)Q* Tuberculous pericarditis (MC cause of chronic constrictive pericarditis)Q* Usually localized in middle & lower zonesQ* Primary focus is usually peripheral in subpleural region and is accompanied by draining lymphatics, inflamed regional LNs which are collectively called Primary complex / Ghon's focusQ.* Occult hematogenous dissemination to apex of lung (Simons FocusQ)* Also called adult type or reactivation or secondary tuberculosis or chronic pulmonary TB* Usually localized to apical & posterior segments of upper lobe due to high O2 concentration (Puhl's lesionQ)* MC hematologic finding: mild anemia & leukocytosis* Infraclavicular lesion is called Assman's FocusQ",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the name of underlying process\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "59f79d9f-b1cb-4b1a-a89d-c5fd30ff89af": {
-    "cop": 1,
-    "exp": "Spontaneous peroforation of esophagus Boerhaave&;s syndrome patient can present with retching subcutaneous emphysema can pain On X rays pneuma mediastinum can be seen ref : bailey and love 27th ed."
+    "cop": 0,
+    "exp": "Spontaneous peroforation of esophagus Boerhaave&;s syndrome patient can present with retching subcutaneous emphysema can pain On X rays pneuma mediastinum can be seen ref : bailey and love 27th ed.",
+    "hint_exp": "🧩 Your crush solved \"after a heavy meal There\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8eed721a-90c8-4715-972e-1d4243ffb57d": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"cold caloric stimWation test\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "08dad2eb-e0f9-420d-a825-3d1fd1203f92": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Allergic fungal sinusitis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0715de47-6ced-46c3-945d-8421b36a7284": {
-    "cop": 3,
-    "exp": "Ref:KD Tripathi pharmacology 7th edition (page.no: 121) Katzung 10/e p76 Acetylcholine is the primary excitatory neurotransmitter in both sympathetic and parasympathetic ganglia Other adrenergic , peptidergic receptors bring secondary , slowly developing changes in membrane potential in ganglia"
+    "cop": 2,
+    "exp": "Ref:KD Tripathi pharmacology 7th edition (page.no: 121) Katzung 10/e p76 Acetylcholine is the primary excitatory neurotransmitter in both sympathetic and parasympathetic ganglia Other adrenergic , peptidergic receptors bring secondary , slowly developing changes in membrane potential in ganglia",
+    "hint_exp": "🎯 Think of \"the autonomic ganglion\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "41dae4a5-639a-4bb2-93c6-1b8f5fed4ad2": {
-    "cop": 1,
-    "exp": "Ans. (A) Cilastatin prevents degradation of imipenem in kidney(Ref: Goodman and Gilman 13th/e p1035)Imipenem is rapidly inactivated by renal dehydropeptidase I, so it is combined with cilastatin, an inhibitor of this enzyme.Cilastatin increases the half life of imipenem and also inhibits the formation of nephrotoxic metabolite.Meropenem, doripenem and ertapenem are not metabolized by renal dehydropeptidase"
+    "cop": 0,
+    "exp": "Ans. (A) Cilastatin prevents degradation of imipenem in kidney(Ref: Goodman and Gilman 13th/e p1035)Imipenem is rapidly inactivated by renal dehydropeptidase I, so it is combined with cilastatin, an inhibitor of this enzyme.Cilastatin increases the half life of imipenem and also inhibits the formation of nephrotoxic metabolite.Meropenem, doripenem and ertapenem are not metabolized by renal dehydropeptidase",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Imipenem combined with cilastatin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "02750dd0-997d-4ef6-92ca-d217119bb940": {
-    "cop": 1,
-    "exp": "Pivot shift test and anterior drawer test require flexion of the knee joint, which cannot be possible in acutely injured knee.\nLachman's test is done in 15-30° of flexion, therefore can be performed in acutely injured knee."
+    "cop": 0,
+    "exp": "Pivot shift test and anterior drawer test require flexion of the knee joint, which cannot be possible in acutely injured knee.\nLachman's test is done in 15-30° of flexion, therefore can be performed in acutely injured knee.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6437a00b-74e2-433d-9e82-668ff3661388": {
-    "cop": 1,
-    "exp": "Nasotracheal intubation is mainly used when access to the trachea through the oropharynx is difficult and emergency cricothyrotomy is not indicated. The advantages of nasotracheal intubation are .good oral hygiene, .greater comfo for the patient and .greater ease in communicating with the intubated patient through lip reading. Disadvantages include need for a smaller airway, which results in increased airway resistance; need for a more skilled operator, because the tube is usually inseed without direct vision; possible bleeding caused by passage of the nasotracheal tube through the nasopharynx; and sinusitis that may result owing to obstruction of the ostia of the sinuses. Ref: Pain W.R., Dorroh C. (2011). Chapter 7. Emergency Procedures. In R.L. Humphries, C. Stone (Eds), CURRENT Diagnosis & Treatment Emergency Medicine, 7e."
+    "cop": 0,
+    "exp": "Nasotracheal intubation is mainly used when access to the trachea through the oropharynx is difficult and emergency cricothyrotomy is not indicated. The advantages of nasotracheal intubation are .good oral hygiene, .greater comfo for the patient and .greater ease in communicating with the intubated patient through lip reading. Disadvantages include need for a smaller airway, which results in increased airway resistance; need for a more skilled operator, because the tube is usually inseed without direct vision; possible bleeding caused by passage of the nasotracheal tube through the nasopharynx; and sinusitis that may result owing to obstruction of the ostia of the sinuses. Ref: Pain W.R., Dorroh C. (2011). Chapter 7. Emergency Procedures. In R.L. Humphries, C. Stone (Eds), CURRENT Diagnosis & Treatment Emergency Medicine, 7e.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"nasotracheal intubation\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2a39347e-76aa-4b2d-9605-a1ed2cbec256": {
-    "cop": 3,
-    "exp": "Classification of stage of tumor of oral cavity based on size of lymph node."
+    "cop": 2,
+    "exp": "Classification of stage of tumor of oral cavity based on size of lymph node.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"disease\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bbc72a62-44a6-4263-a99c-1e39e509ef75": {
-    "cop": 2,
-    "exp": "Causes of HEMOPTYSIS A:Infections:y 1.viral bronchitis 2.chronic bronchitis super infected with streptococcus,hemophilus etcwhich increase airway inflammation and potential for bleeding. 3.bronchiectasis(with recurrent infections) LEADING CAUSE OF MASSIVE HEMOPTYSIS AND SUBSEQUENT DEATH. 4.Tuberculosis Development of cavity is frequent source of bleed Erosion of pulmonary aery(Rasmussen aneurysm) 5.others like Nocardia,non tb mycobacterium,aspergillus in pre existing cavities, pulmonary abscess,,paragonimiasis. B:vascular 1 pulmonary edema 2.pulmonary embolisms 3.pulmonary a v malformations 4.aoo bronchial fistula 5.diffuse alveolar hemorrhage cause significant bleed in to lung but NOT PRESENT AS HEMOPTYSIS CAUSES OF DAH:SLE,COCAINE TOXICITY,PULMONARY RENAL SYNDROME BY ANTI GBM,Granulomatosis with polyangitis.(these people also have hematuria). C:MALIGNANCY Bronchigenic carcinoma(any histology). Carcinoid Metastasis from melanoma ,sarcoma,adenocarcinoma of breast and colon. Kaposi sarcoma in hiv patients D: MECHANICAL and others Diagnostic and therapeutic procedures Pulmonary endometriosis Foreign body Coagulopathy. Source:HARRISON 20TH EDITION"
+    "cop": 1,
+    "exp": "Causes of HEMOPTYSIS A:Infections:y 1.viral bronchitis 2.chronic bronchitis super infected with streptococcus,hemophilus etcwhich increase airway inflammation and potential for bleeding. 3.bronchiectasis(with recurrent infections) LEADING CAUSE OF MASSIVE HEMOPTYSIS AND SUBSEQUENT DEATH. 4.Tuberculosis Development of cavity is frequent source of bleed Erosion of pulmonary aery(Rasmussen aneurysm) 5.others like Nocardia,non tb mycobacterium,aspergillus in pre existing cavities, pulmonary abscess,,paragonimiasis. B:vascular 1 pulmonary edema 2.pulmonary embolisms 3.pulmonary a v malformations 4.aoo bronchial fistula 5.diffuse alveolar hemorrhage cause significant bleed in to lung but NOT PRESENT AS HEMOPTYSIS CAUSES OF DAH:SLE,COCAINE TOXICITY,PULMONARY RENAL SYNDROME BY ANTI GBM,Granulomatosis with polyangitis.(these people also have hematuria). C:MALIGNANCY Bronchigenic carcinoma(any histology). Carcinoid Metastasis from melanoma ,sarcoma,adenocarcinoma of breast and colon. Kaposi sarcoma in hiv patients D: MECHANICAL and others Diagnostic and therapeutic procedures Pulmonary endometriosis Foreign body Coagulopathy. Source:HARRISON 20TH EDITION",
+    "hint_exp": "🎯 Think of \"the most likely\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ec43f460-77be-4724-88a1-9b94a5bee1c7": {
-    "cop": 2,
-    "exp": "B i.e. C7The most prominent spinous processQ that can be felt in neck is that of seventh cervical veebrae. The C-7 is named veebra prominens because it has the longest spinous processQ, and the process is not bifid."
+    "cop": 1,
+    "exp": "B i.e. C7The most prominent spinous processQ that can be felt in neck is that of seventh cervical veebrae. The C-7 is named veebra prominens because it has the longest spinous processQ, and the process is not bifid.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which veebra most prominent\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d991137f-d5c2-495b-8b48-aa37eac865a5": {
-    "cop": 3,
-    "exp": "Each pharyngeal arch is characterized by its own muscular components. The muscular components of each arch have their own cranial nerve, and wherever the muscle cells migrate, they carry their nerve commponent with them. The neurons of 5th, 77th, 9th and 10th cranial sensory ganglia that supply the pharyngeal arch structures are derived from the ectodermal placodes (epipharyngeal placodes) and from the neural crest cells. Arch Nerve Skeletal derivatives Pouch Derivatives Muscle Derivatives Aery 1st (Mandibular arch) Trigeminal (V) Incus Malleus Anterior ligament of malleus Spine of sphenoid Sphenomandibular ligament Auditory tube Middle ear cavity Tensor tympani Muscles of mastication Mylohyoid Anterior belly of digastric Tensor veli palatini maxillary aery 2nd (hyoid arch) Facial (VII) Stapes Styloid process (temporal) Lesser cornu and upper hyoid Stylohyoid ligament palatine tonsil Tonsillar fossa Stapedius Stylohyoid Facial muscles (Buccinator, platysma, posterior belly of diagastric) Stapedial aery Hyoid aery 3rd Glossopharyngeal (IX) Greater cornu of hyoid Lower pa of hyoid pa Inferior parathyroids Thymus Stylopharyngeus Common carotid Proximal internal carotid aeries 4th Supeiror laryngeal of vagus (X) Thyroid cailage Corniculate cailage Cuneiform cailage Superior parathyroids Parafolliculae C cells of thyroid (from ultimobranchial body) Pharyngeal muscles Larynx-cricothyroid Levator veli palatini Right side : Right subclan aery (proximal poion) Left side: Arch of the aoa from the left common carotid to the left subclan aeries 6th Recurrent laryngeal nerve of Vagus (X) Arytenoid cailages All intrinsic muscles of the larynx (except the crciothyroid muscle) Right side: Right pulmonary aery Left side: Pulmonary aery and ductus aeriosus Ref: Langman's Medical embryology 14th edition Pgno: 284, 289"
+    "cop": 2,
+    "exp": "Each pharyngeal arch is characterized by its own muscular components. The muscular components of each arch have their own cranial nerve, and wherever the muscle cells migrate, they carry their nerve commponent with them. The neurons of 5th, 77th, 9th and 10th cranial sensory ganglia that supply the pharyngeal arch structures are derived from the ectodermal placodes (epipharyngeal placodes) and from the neural crest cells. Arch Nerve Skeletal derivatives Pouch Derivatives Muscle Derivatives Aery 1st (Mandibular arch) Trigeminal (V) Incus Malleus Anterior ligament of malleus Spine of sphenoid Sphenomandibular ligament Auditory tube Middle ear cavity Tensor tympani Muscles of mastication Mylohyoid Anterior belly of digastric Tensor veli palatini maxillary aery 2nd (hyoid arch) Facial (VII) Stapes Styloid process (temporal) Lesser cornu and upper hyoid Stylohyoid ligament palatine tonsil Tonsillar fossa Stapedius Stylohyoid Facial muscles (Buccinator, platysma, posterior belly of diagastric) Stapedial aery Hyoid aery 3rd Glossopharyngeal (IX) Greater cornu of hyoid Lower pa of hyoid pa Inferior parathyroids Thymus Stylopharyngeus Common carotid Proximal internal carotid aeries 4th Supeiror laryngeal of vagus (X) Thyroid cailage Corniculate cailage Cuneiform cailage Superior parathyroids Parafolliculae C cells of thyroid (from ultimobranchial body) Pharyngeal muscles Larynx-cricothyroid Levator veli palatini Right side : Right subclan aery (proximal poion) Left side: Arch of the aoa from the left common carotid to the left subclan aeries 6th Recurrent laryngeal nerve of Vagus (X) Arytenoid cailages All intrinsic muscles of the larynx (except the crciothyroid muscle) Right side: Right pulmonary aery Left side: Pulmonary aery and ductus aeriosus Ref: Langman's Medical embryology 14th edition Pgno: 284, 289",
+    "hint_exp": "🧩 Your crush solved \"the second branchial arch\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cb743425-7e0a-4e74-96bd-dfaea0f00452": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Apoptosis Annexin V assays provides simple and effective method to detect apoptosis at a very early stage."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Apoptosis Annexin V assays provides simple and effective method to detect apoptosis at a very early stage.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"V is a marker for\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5cc2ef48-820c-4ca8-a6c9-261f32ea33b2": {
-    "cop": 1,
-    "exp": "Ans. A. Glucocerebroside(Ref: Nelson 20/e, Chapter 86.4 Lipidoses)SphingolipidosesEnzyme deficiencySphingolipid accumulatedFarber diseaseCeramidaseCeramideFabry diseasea-GalactosidaseGlobotriaosyl CeramideGM1 gangliosidosisb-GalactosidaseGM1 GangliosideGM2 gangliosidosisTay-Sachs diseaseb-Hexosaminidases AGM2 GangliosideSandhoff diseaseb-Hexosaminidases A and BGM2 GangliosideGaucher diseaseGlucocerebrosidase/ b GlucosidaseGlucosylceramideNiemann-Pick DiseaseSphingomyelinaseSphingomyelinMetachromatic leukodystrophyArylsulfatase A Sphingolipid activator Protein (SAP-1)Sulfogalactosyl CeramideKrabbe diseaseb-Galactosidaseb-GalactocerebrosidaseGalactosyl CeramideGaucher's DiseaseMost common lysosomal storage disorderGlucocerebrosidase defectLysosomes filled with glucocerebrosideNo cherry red spot in the maculaNo mental deterioration (Type I)Hematological features-Pancytopenia, bleeding manifestationHepatosplenomegalyBone pain and pathological fractures of long bonesX-ray Femur-Erlenmeyer flask deformityBone marrow biopsy-Gaucher cell with Wrinkled paper appearance/crumbled tissue paper appearance."
+    "cop": 0,
+    "exp": "Ans. A. Glucocerebroside(Ref: Nelson 20/e, Chapter 86.4 Lipidoses)SphingolipidosesEnzyme deficiencySphingolipid accumulatedFarber diseaseCeramidaseCeramideFabry diseasea-GalactosidaseGlobotriaosyl CeramideGM1 gangliosidosisb-GalactosidaseGM1 GangliosideGM2 gangliosidosisTay-Sachs diseaseb-Hexosaminidases AGM2 GangliosideSandhoff diseaseb-Hexosaminidases A and BGM2 GangliosideGaucher diseaseGlucocerebrosidase/ b GlucosidaseGlucosylceramideNiemann-Pick DiseaseSphingomyelinaseSphingomyelinMetachromatic leukodystrophyArylsulfatase A Sphingolipid activator Protein (SAP-1)Sulfogalactosyl CeramideKrabbe diseaseb-Galactosidaseb-GalactocerebrosidaseGalactosyl CeramideGaucher's DiseaseMost common lysosomal storage disorderGlucocerebrosidase defectLysosomes filled with glucocerebrosideNo cherry red spot in the maculaNo mental deterioration (Type I)Hematological features-Pancytopenia, bleeding manifestationHepatosplenomegalyBone pain and pathological fractures of long bonesX-ray Femur-Erlenmeyer flask deformityBone marrow biopsy-Gaucher cell with Wrinkled paper appearance/crumbled tissue paper appearance.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"child presents with hepatosplenomegaly\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "edead9d9-92c4-4fff-a809-f02a641cace9": {
-    "cop": 1,
-    "exp": "Ans. a. pH at which ionized fraction of drug equals to unionized fractionRef: Goodman Gilman 12th E/P 18pKa is the pH at which as drug is 50% ionized and 50% unionized, i.e. the fraction of ionized drug equals to the fraction of unionized drug.The effect of pH on drug ionization and unionization can be calculated for acidic and basic drug by Hasselbalch equations given below:Basic drug: Log10 (Unionizeddrug)(Ionizeddrug) =pK4 -PHAcidic drug: Log10 (Ionizeddrug)(Ionizeddrug) =pKa -PHWhat is pKa ?If the ionized drug=unionized drug, i.e. 50% each, then the equation becomes,Log10 1=PKa -PHOr,0=pKa -pHOr. pKa =pHHencepKa is the pH at which the drug is 50% ionized and 50% unionized."
+    "cop": 0,
+    "exp": "Ans. a. pH at which ionized fraction of drug equals to unionized fractionRef: Goodman Gilman 12th E/P 18pKa is the pH at which as drug is 50% ionized and 50% unionized, i.e. the fraction of ionized drug equals to the fraction of unionized drug.The effect of pH on drug ionization and unionization can be calculated for acidic and basic drug by Hasselbalch equations given below:Basic drug: Log10 (Unionizeddrug)(Ionizeddrug) =pK4 -PHAcidic drug: Log10 (Ionizeddrug)(Ionizeddrug) =pKa -PHWhat is pKa ?If the ionized drug=unionized drug, i.e. 50% each, then the equation becomes,Log10 1=PKa -PHOr,0=pKa -pHOr. pKa =pHHencepKa is the pH at which the drug is 50% ionized and 50% unionized.",
+    "hint_exp": "🎯 Think of \"pKa\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9f92396e-c8f8-471d-8c5f-006a6da14085": {
-    "cop": 2,
-    "exp": "Oligospermia is defined as a sperm count below 20 million/mL. Ref: Textbook of Gynecology By D C Dutta, 4th Edition, Pages 217, 218, 225 ; Current Obs and Gynae Diagnosis and Treatment 9th Edition, Page 982"
+    "cop": 1,
+    "exp": "Oligospermia is defined as a sperm count below 20 million/mL. Ref: Textbook of Gynecology By D C Dutta, 4th Edition, Pages 217, 218, 225 ; Current Obs and Gynae Diagnosis and Treatment 9th Edition, Page 982",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year infeile male underwent\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0f58677c-77f7-4606-b971-a06f6f29aff8": {
-    "cop": 4,
-    "exp": "Histones are the Most Abundant Chromatin ProteinsHistones are a small family of closely related basic proteins. Nucleosomes contain four major types of histones: H2A, H2B, H3, and H4.These four core histones are subject to at least six types of covalent modification or posttranslational modifications (PTMs): acetylation, methylation, phosphorylation, ADP-ribosylation, monoubiquitylation, and sumoylation. These histone modifications play an impoant role in chromatin structure and function.Ref: Harper&;s Biochemistry; 30th edition; Chapter 35 DNA Organization, Replication, & Repair"
+    "cop": 3,
+    "exp": "Histones are the Most Abundant Chromatin ProteinsHistones are a small family of closely related basic proteins. Nucleosomes contain four major types of histones: H2A, H2B, H3, and H4.These four core histones are subject to at least six types of covalent modification or posttranslational modifications (PTMs): acetylation, methylation, phosphorylation, ADP-ribosylation, monoubiquitylation, and sumoylation. These histone modifications play an impoant role in chromatin structure and function.Ref: Harper&;s Biochemistry; 30th edition; Chapter 35 DNA Organization, Replication, & Repair",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "877bc6a0-86a7-4cf0-9856-57410e37d9ad": {
-    "cop": 2,
-    "exp": "Chorionic vinous biopsy at this stage will confirm presence or absence In a woman with a history of a previous child with Down syndrome the risk of recurrence of Down syndrome is increased These women need confirmatory diagnosis of Down's syndrome as early as possible. If would after them the advantage of first trimester aboion, if the .fetus is diagnosed with Down's syndrome. The definitive diagnosis of Down 's syndrome or any aneuploidy can only be provided by Karyotyping. - The fetal cells for Karyotyping can be obtained by two methods :- - Chrionic vinous sampling - Amniocentesis Chorionic vinous sampling would be the procedure of choice, because it is usually performed during first trimester i.e., between 9- 12 weeks so it offers the advantage of first trimetster aboion if the fetus is affected. Amniocentesis too provides definitive diagnosis, but, it is usually performed in the 2\"d trimester (16-18 weeks). All other methods used to diagnose Down's syndrome i.e., ultrasound, biochemical markers, triple test, quadruple test etc are just screening methods. They would only suggest the presence of Down's syndrome, they do not provide definitive diagnosis."
+    "cop": 1,
+    "exp": "Chorionic vinous biopsy at this stage will confirm presence or absence In a woman with a history of a previous child with Down syndrome the risk of recurrence of Down syndrome is increased These women need confirmatory diagnosis of Down's syndrome as early as possible. If would after them the advantage of first trimester aboion, if the .fetus is diagnosed with Down's syndrome. The definitive diagnosis of Down 's syndrome or any aneuploidy can only be provided by Karyotyping. - The fetal cells for Karyotyping can be obtained by two methods :- - Chrionic vinous sampling - Amniocentesis Chorionic vinous sampling would be the procedure of choice, because it is usually performed during first trimester i.e., between 9- 12 weeks so it offers the advantage of first trimetster aboion if the fetus is affected. Amniocentesis too provides definitive diagnosis, but, it is usually performed in the 2\"d trimester (16-18 weeks). All other methods used to diagnose Down's syndrome i.e., ultrasound, biochemical markers, triple test, quadruple test etc are just screening methods. They would only suggest the presence of Down's syndrome, they do not provide definitive diagnosis.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"mother Down pregnant doesn\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8ecb88ac-ed3f-4b17-a1e2-6906abb886b1": {
-    "cop": 4,
-    "exp": "In hypehyroidism, lagging of the upper eyelid as the eye looks downward, impairment of convergence, and retraction of the upper eyelid and infrequent blinking may be present. Page 1910, Nelson textbook of pediatrics 19th edition"
+    "cop": 3,
+    "exp": "In hypehyroidism, lagging of the upper eyelid as the eye looks downward, impairment of convergence, and retraction of the upper eyelid and infrequent blinking may be present. Page 1910, Nelson textbook of pediatrics 19th edition",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Following thyrotoxicosis signs EXCEPT\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c57c2083-4d70-4b2b-90e9-53df4cc1af8b": {
-    "cop": 2,
-    "exp": "mi-RNAs : small non coding RNA They are 21-30 nucleotides in length. They don't code for any protein. These are transcribed but not translated. Function :gene silencing."
+    "cop": 1,
+    "exp": "mi-RNAs : small non coding RNA They are 21-30 nucleotides in length. They don't code for any protein. These are transcribed but not translated. Function :gene silencing.",
+    "hint_exp": "🎯 Think of \"Find false statement about\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dc607a9e-8910-4e18-abe1-e814c135dca6": {
-    "cop": 2,
-    "exp": "Antifungal agents Mechanism of antifungal agentsDrugsAntibiotics Polyene Amphotericin B , Nystatin , Hamycin Echinocandins Caspofungin , Micafungin , Anidulafungin Heterocyclic BenzofuranGriseofulvin Antimetabolite Flucytosine Azoles Topical Imidazoles Clotrimazole , Econazole , Miconazole , Oxiconazole Systemic Imidazoles Ketoconazole Systemic triazole Fluconazole , Itraconazole , Voriconazole,Posaconazole Allylamine Terbinafine Other topical agents Undecylenic acid , Benzoic acid , Quiniodochlor , Ciclopirox olamine , Butenafine , Sodium thiosulfate Drugs used for treatment of systemic fungal infections Amphotericin B , Flucytosine , Triazoles ( Ketoconazole , Fluconazole , Voriconazole , Itraconazole , Posaconazole , Rabuconazole) , Echinocandins (Caspofungin , Micafungin , Anidulafungin )Drugs used for treatment of superficial fungal infections Griseofulvin , Allylamines , Azoles (Ketoconazole , Fluconazole , Itraconazole )Topical drugs for superficial fungal infections Polyenes , Imidazoles (Clotrimazole , Econazole, Miconazole , Oxiconazole Terconazole , Butaconazole , Tioconazole , Seaconazole ) , Allylamines , Ciclopirox olamine , Benzoic acid with salicylic acid , Tolnaftate , Undecylenic acid , Haloprogin (Refer: Rang and Dale's Clinical Pharmacology, 7th edition, pg no: 652)(Refer: K. D. Tripathi&;s Essentials of Medical Pharmacology, 7th edition, pg no: 792)"
+    "cop": 1,
+    "exp": "Antifungal agents Mechanism of antifungal agentsDrugsAntibiotics Polyene Amphotericin B , Nystatin , Hamycin Echinocandins Caspofungin , Micafungin , Anidulafungin Heterocyclic BenzofuranGriseofulvin Antimetabolite Flucytosine Azoles Topical Imidazoles Clotrimazole , Econazole , Miconazole , Oxiconazole Systemic Imidazoles Ketoconazole Systemic triazole Fluconazole , Itraconazole , Voriconazole,Posaconazole Allylamine Terbinafine Other topical agents Undecylenic acid , Benzoic acid , Quiniodochlor , Ciclopirox olamine , Butenafine , Sodium thiosulfate Drugs used for treatment of systemic fungal infections Amphotericin B , Flucytosine , Triazoles ( Ketoconazole , Fluconazole , Voriconazole , Itraconazole , Posaconazole , Rabuconazole) , Echinocandins (Caspofungin , Micafungin , Anidulafungin )Drugs used for treatment of superficial fungal infections Griseofulvin , Allylamines , Azoles (Ketoconazole , Fluconazole , Itraconazole )Topical drugs for superficial fungal infections Polyenes , Imidazoles (Clotrimazole , Econazole, Miconazole , Oxiconazole Terconazole , Butaconazole , Tioconazole , Seaconazole ) , Allylamines , Ciclopirox olamine , Benzoic acid with salicylic acid , Tolnaftate , Undecylenic acid , Haloprogin (Refer: Rang and Dale's Clinical Pharmacology, 7th edition, pg no: 652)(Refer: K. D. Tripathi&;s Essentials of Medical Pharmacology, 7th edition, pg no: 792)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Econazole useful treatment following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fd9da159-9275-4cae-90b3-64b597f14997": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7883ab67-1b09-4fd5-adff-634c00b9f6f9": {
-    "cop": 2,
-    "exp": "Anterior fibers of zonules are strongest and are inseed into the lens capsule just anterior to the equator. Ref: Textbook of clinical ophthalmology p.1139."
+    "cop": 1,
+    "exp": "Anterior fibers of zonules are strongest and are inseed into the lens capsule just anterior to the equator. Ref: Textbook of clinical ophthalmology p.1139.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Zonule\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6e89cb30-d53b-4a5b-8c13-17b502852449": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"term space maintenance refers\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0c7f80a8-b06c-4cf6-bb0b-c408fd8f1310": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Prognosis good\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9e2879dc-1ed2-44dc-aa50-4ef9bad6b504": {
-    "cop": 4,
-    "exp": "PRINCIPLES OF PRIMARY HEALTH CARE: Equitable distribution Community paicipation Intersectoral coordination Appropriate technology - Since ASHA workers are a pa of the community itself, the principle of Community paicipation is followed here. - Community paicipation: The community should be involved in the planning, implementation and maintenance of health programs. Locally available resources - materials and man power - should be used."
+    "cop": 3,
+    "exp": "PRINCIPLES OF PRIMARY HEALTH CARE: Equitable distribution Community paicipation Intersectoral coordination Appropriate technology - Since ASHA workers are a pa of the community itself, the principle of Community paicipation is followed here. - Community paicipation: The community should be involved in the planning, implementation and maintenance of health programs. Locally available resources - materials and man power - should be used.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Primary health care\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "82d38bea-e17b-4a63-94ac-fa56bab36704": {
-    "cop": 3,
-    "exp": "The grades and structures visible are given below: Grade Structures visible opening mouth I Faucial pillars, soft palate and uvula II Faucial pillars, soft palate, uvula marked by the base of the tongue III Soft palate only IV Hard palate is only visible"
+    "cop": 2,
+    "exp": "The grades and structures visible are given below: Grade Structures visible opening mouth I Faucial pillars, soft palate and uvula II Faucial pillars, soft palate, uvula marked by the base of the tongue III Soft palate only IV Hard palate is only visible",
+    "hint_exp": "🧩 Your crush solved \"the grade of the airway\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f16a7adb-e77b-4189-9521-45a6f592605c": {
-    "cop": 4,
-    "exp": "In cerebellum there are 4 deep nuclei: dentate globose emboliform, and fastigial nuclei. Ref: Ganong&;s review of medical physiology; 23rd edition; pg:255."
+    "cop": 3,
+    "exp": "In cerebellum there are 4 deep nuclei: dentate globose emboliform, and fastigial nuclei. Ref: Ganong&;s review of medical physiology; 23rd edition; pg:255.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a cerebellar nucleus\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1d5f5aee-c5ed-44f4-ae79-15f5b0ac304f": {
-    "cop": 3,
-    "exp": "(C) (Reassure the mother that this is normal)What will my newborn's poos be like?For the first couple of days after the birth, baby will pass meconium. Meconium is greeny-black in colour, and has a sticky, tar-like texture. It is made up of mucus, amniotic fluid, and everything baby has ingested while she was in mothers womb (uterus). Meconium may be difficult to wipe off baby's tiny bottom, but its appearance is a good sign that her bowels are working normally. In the early weeks, baby may poo during or after every feed. On average, she will do four poos a day in the first week. This will slowly settle down and her bowels will work out their own routine. One then find that she poos at a similar time each day.A newborn can have as many as eight to ten bowel movements a day, but as long as she is having at least one, she's probably all right.One day without a bowel movement is usually no cause for concern. As long as baby is feeding well and wetting her diaper five or six times a day, then she's most likely getting enough to eat. If she starts to become uncomfortable or has a persistently swollen abdomen, then she may need some help with pooping, and one should speak to pediatrician about how to facilitate this.In the early days, a newborn's bowel movements are thick and dark green in color. This is due to a substance called meconium that has been building up in her intestines during pregnancy. As the baby starts to feed and have bowel movements, she will finish expelling the meconium and her stools will start to turn yellowish. It is not uncommon for an infant's bowel movements to vary in color from day to day. The color of the stools can depend on a variety of things, including what a breastfeeding mom is eating, how hydrated the baby is, and the type and frequency of formula the infant is being fed, if applicable* Most sensitive indicator of intravascular volume depletion in infants- Heart rate *** Probiotics have been shown to have beneficial effects in prevention of Necrotizing enterocolitis in preterm infants* Rota virus is the single most common cause (MCC) of diarrhea amonget children in both developed and developing world* Enterotoxigenic E.coli (ETEC) is the MCC of bacterial diarrhea amongs children in developing world* ETEC is the MC bacterial cause for Traveler's diarrhea **"
+    "cop": 2,
+    "exp": "(C) (Reassure the mother that this is normal)What will my newborn's poos be like?For the first couple of days after the birth, baby will pass meconium. Meconium is greeny-black in colour, and has a sticky, tar-like texture. It is made up of mucus, amniotic fluid, and everything baby has ingested while she was in mothers womb (uterus). Meconium may be difficult to wipe off baby's tiny bottom, but its appearance is a good sign that her bowels are working normally. In the early weeks, baby may poo during or after every feed. On average, she will do four poos a day in the first week. This will slowly settle down and her bowels will work out their own routine. One then find that she poos at a similar time each day.A newborn can have as many as eight to ten bowel movements a day, but as long as she is having at least one, she's probably all right.One day without a bowel movement is usually no cause for concern. As long as baby is feeding well and wetting her diaper five or six times a day, then she's most likely getting enough to eat. If she starts to become uncomfortable or has a persistently swollen abdomen, then she may need some help with pooping, and one should speak to pediatrician about how to facilitate this.In the early days, a newborn's bowel movements are thick and dark green in color. This is due to a substance called meconium that has been building up in her intestines during pregnancy. As the baby starts to feed and have bowel movements, she will finish expelling the meconium and her stools will start to turn yellowish. It is not uncommon for an infant's bowel movements to vary in color from day to day. The color of the stools can depend on a variety of things, including what a breastfeeding mom is eating, how hydrated the baby is, and the type and frequency of formula the infant is being fed, if applicable* Most sensitive indicator of intravascular volume depletion in infants- Heart rate *** Probiotics have been shown to have beneficial effects in prevention of Necrotizing enterocolitis in preterm infants* Rota virus is the single most common cause (MCC) of diarrhea amonget children in both developed and developing world* Enterotoxigenic E.coli (ETEC) is the MCC of bacterial diarrhea amongs children in developing world* ETEC is the MC bacterial cause for Traveler's diarrhea **",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"days passes greenish stools\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c402674d-1ec4-4b93-b83e-cd201b86d13c": {
-    "cop": 1,
-    "exp": "Clasps Designed to Accommodate Functional Movement\nClasp  assemblies  that  accommodate  functional  prosthesis movement are designed to address the concern of a Class I lever. \nThe concern is that the distal extension acts as a long “effort  arm”  across  the  distal  rest  “fulcrum”  to  cause  the clasp tip “resistance arm” to engage the tooth undercut. This results in harmful tipping or torquing of the tooth, which is greater with stiff clasps and increased denture base movement. \nTwo strategies may be adopted to change the fulcrum location  and  subsequently  the  “resistance  arm”  engaging effect  (mesial  rest  concept  clasp  assemblies),  or  to  minimize the effect of the lever through the use of a flexible arm (wrought-wire retentive arm).\nKey Concept:\nClasp  assemblies  that  accommodate  functional  prosthesis movement are designed to address the concern of a Class I lever. \nRef: McCracken's REMOVABLE PARTIAL PROSTHODONTICS, THIRTEENTH EDITION page no 72"
+    "cop": 0,
+    "exp": "Clasps Designed to Accommodate Functional Movement\nClasp  assemblies  that  accommodate  functional  prosthesis movement are designed to address the concern of a Class I lever. \nThe concern is that the distal extension acts as a long “effort  arm”  across  the  distal  rest  “fulcrum”  to  cause  the clasp tip “resistance arm” to engage the tooth undercut. This results in harmful tipping or torquing of the tooth, which is greater with stiff clasps and increased denture base movement. \nTwo strategies may be adopted to change the fulcrum location  and  subsequently  the  “resistance  arm”  engaging effect  (mesial  rest  concept  clasp  assemblies),  or  to  minimize the effect of the lever through the use of a flexible arm (wrought-wire retentive arm).\nKey Concept:\nClasp  assemblies  that  accommodate  functional  prosthesis movement are designed to address the concern of a Class I lever. \nRef: McCracken's REMOVABLE PARTIAL PROSTHODONTICS, THIRTEENTH EDITION page no 72",
+    "hint_exp": "🎯 Think of \"movement\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3b339776-4f44-4c5f-af27-2c1f9b823076": {
-    "cop": 4,
-    "exp": "Brimonidine is α2 - blocker used for glaucoma that depress CNS and can lead to drowsiness.\nIt can cross BBB and also lead to apnea in newborns."
+    "cop": 3,
+    "exp": "Brimonidine is α2 - blocker used for glaucoma that depress CNS and can lead to drowsiness.\nIt can cross BBB and also lead to apnea in newborns.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following antiglaucoma drug\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0a102f43-6697-49f3-bfeb-a11467aa8f20": {
-    "cop": 1,
-    "exp": "Gottron's sign is a characteristic feature of dermatomyosistis. It is a violaceous, erythematous, symmetrical rash that occur on the extensor surface of the metacarpophalangeal and interphalangeal joints. Similar lesions can also occur over the elbow and knees. Other features of dermatomyositis are -heliotrope rash which is a reddish purple rash that occur on the eyelids which is associated with swelling of the eyelid. -Periungal erythema -abnormal nail bed capillary loops and -cracking of the skin of the tips of fingers are also seen in dermatomyositis."
+    "cop": 0,
+    "exp": "Gottron's sign is a characteristic feature of dermatomyosistis. It is a violaceous, erythematous, symmetrical rash that occur on the extensor surface of the metacarpophalangeal and interphalangeal joints. Similar lesions can also occur over the elbow and knees. Other features of dermatomyositis are -heliotrope rash which is a reddish purple rash that occur on the eyelids which is associated with swelling of the eyelid. -Periungal erythema -abnormal nail bed capillary loops and -cracking of the skin of the tips of fingers are also seen in dermatomyositis.",
+    "hint_exp": "🧩 Your crush solved \"the following condition\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "96820c97-92cc-439a-a960-e049b619af74": {
-    "cop": 3,
-    "exp": "Ans. C: Cardiovascular disease In chronic renal failure treated with standard dialysis, cardiovascular disease constitute the major cause of death."
+    "cop": 2,
+    "exp": "Ans. C: Cardiovascular disease In chronic renal failure treated with standard dialysis, cardiovascular disease constitute the major cause of death.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Most common cause death\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "65cfc1d7-09ad-4284-9714-ea8af1a296fe": {
-    "cop": 2,
-    "exp": "Ans. b. Laryngeal carcinomaRef: Diseases of Ear, Nose and Throat by Dhingra; 7th Ed Page No- 359 and Logan Turners Disease of the Nose, Throat and Ear 11th Ed; Page No- 569A high tracheostomy is done above the level of thyroid isthmus i.e. above 2nd tracheal cartilage.It can cause perichondritis of cricoid and subglottic stenosis, so it is avoided always; however in cases of Ca larynx total larynx will be removed and fresh tracheostomy made in clean area. So to preserve the site for permanent tracheostomy high tracheostomy is done.The only indication of high tracheostomy (i.e. tracheostomy at the 1st tracheal ring) is carcinoma of larynx.In laryngomalacia the management is reassurance. Rarely supraglottoplasty is required but not tracheostomy.In vocal cord palsy, it is done at tracheal rings 2 and 3 or 3 and 4.In subglottic stenosis, low tracheostomy is done."
+    "cop": 1,
+    "exp": "Ans. b. Laryngeal carcinomaRef: Diseases of Ear, Nose and Throat by Dhingra; 7th Ed Page No- 359 and Logan Turners Disease of the Nose, Throat and Ear 11th Ed; Page No- 569A high tracheostomy is done above the level of thyroid isthmus i.e. above 2nd tracheal cartilage.It can cause perichondritis of cricoid and subglottic stenosis, so it is avoided always; however in cases of Ca larynx total larynx will be removed and fresh tracheostomy made in clean area. So to preserve the site for permanent tracheostomy high tracheostomy is done.The only indication of high tracheostomy (i.e. tracheostomy at the 1st tracheal ring) is carcinoma of larynx.In laryngomalacia the management is reassurance. Rarely supraglottoplasty is required but not tracheostomy.In vocal cord palsy, it is done at tracheal rings 2 and 3 or 3 and 4.In subglottic stenosis, low tracheostomy is done.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"High tracheostomy done\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c5e29ee1-2f7e-4a5b-a9fb-5efe738c7c05": {
-    "cop": 2,
-    "exp": "Schneider's first rank symptoms \n\nHallucinations :- Audible thoughts, voices commenting on one's action, voices heard arguing two or more hallucinatory voices discussing the subject in third person (third person hallucination).\nThought attention phenomena :- Thought insertion, thought withdrawal, thought broadcasting.\nPassivity phenomena :- Made feeling (affect), made impulse, mode volition (acts), somatic passivity.\nDelusional perceptions (Primary delusions)."
+    "cop": 1,
+    "exp": "Schneider's first rank symptoms \n\nHallucinations :- Audible thoughts, voices commenting on one's action, voices heard arguing two or more hallucinatory voices discussing the subject in third person (third person hallucination).\nThought attention phenomena :- Thought insertion, thought withdrawal, thought broadcasting.\nPassivity phenomena :- Made feeling (affect), made impulse, mode volition (acts), somatic passivity.\nDelusional perceptions (Primary delusions).",
+    "hint_exp": "🎯 Think of \"schizophrenia\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1ea8ec8c-e30e-4624-88c4-9c4cf08e8e54": {
-    "cop": 1,
-    "exp": "ZIKA VIRUS Flavivirus vector = Aedesegypt Specimen 1 serum 2 wholeblood 3 urine =Best 4 CSF not recommended symptoms similar to chicken gunya FDA = EUA =Emergency use authorization TRIOPLEX r PCR Zika MAC eLISA ref: ANANTHANARYANA MICROBIOLOGY"
+    "cop": 0,
+    "exp": "ZIKA VIRUS Flavivirus vector = Aedesegypt Specimen 1 serum 2 wholeblood 3 urine =Best 4 CSF not recommended symptoms similar to chicken gunya FDA = EUA =Emergency use authorization TRIOPLEX r PCR Zika MAC eLISA ref: ANANTHANARYANA MICROBIOLOGY",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "13f18dbf-f481-47db-9877-577956b1c997": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Tyrosine Amino acidsBiological important compoundTyrosineCatecholamines (epinephrine, norepinephrine, dopamine), thyroxine, triiodothryonine, melanin.(Note: - Phenylalanine is the precursor of tyrosine, thus it can also give rise to all these compounds through tyrosine (phenylalanine - Tyrosine - Catecholamines thyroxine, T3, melanin).TryptophanVitamin niacin, melatonin, SerotoninGlycineArginineMethionineCreatineGlycine, cysteineBile saltsGlycineHemeAspartic acid and glutaminePyrimidine basesGlycine, aspartic acid, glutaminePurine basesb-alanineCoenzyme-AArginineNitric oxideHistidine, Arginine, lysineKeratinMethionine, lysineCarnitineGABAGlutamateGlutamate, cysteine, glycineGlutathione"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Tyrosine Amino acidsBiological important compoundTyrosineCatecholamines (epinephrine, norepinephrine, dopamine), thyroxine, triiodothryonine, melanin.(Note: - Phenylalanine is the precursor of tyrosine, thus it can also give rise to all these compounds through tyrosine (phenylalanine - Tyrosine - Catecholamines thyroxine, T3, melanin).TryptophanVitamin niacin, melatonin, SerotoninGlycineArginineMethionineCreatineGlycine, cysteineBile saltsGlycineHemeAspartic acid and glutaminePyrimidine basesGlycine, aspartic acid, glutaminePurine basesb-alanineCoenzyme-AArginineNitric oxideHistidine, Arginine, lysineKeratinMethionine, lysineCarnitineGABAGlutamateGlutamate, cysteine, glycineGlutathione",
+    "hint_exp": "🧩 Your crush solved \"Catecholamines synthesized from\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

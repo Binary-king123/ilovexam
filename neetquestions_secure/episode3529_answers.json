@@ -1,202 +1,252 @@
 {
   "73991b44-e13d-4b6e-952e-b999a6d5013d": {
-    "cop": 1,
-    "exp": "Interleukin-1"
+    "cop": 0,
+    "exp": "Interleukin-1",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Fever\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ff795fa5-2711-4d00-9fd1-721668a0dccc": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Treponemal infection o Caseous necrosis is a feature of syphilis which is caused by tremonemal infection.Caseous necrosiso It is a variant of coagulative necrosis. It is most commonly encountered when cell death is attributable to certain organisms e.g., mycobacterium tuberculosis (TB), syphilis and fungi (Histoplasma, Coccidioidomycosis).o In contrast to coagulative necrosis where tissue architecture is maintained, in caseous necrosis, the tissue architecture is completely obliterated. So, it has been called caseous because of its cheesy white appearance of the area of necrosis."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Treponemal infection o Caseous necrosis is a feature of syphilis which is caused by tremonemal infection.Caseous necrosiso It is a variant of coagulative necrosis. It is most commonly encountered when cell death is attributable to certain organisms e.g., mycobacterium tuberculosis (TB), syphilis and fungi (Histoplasma, Coccidioidomycosis).o In contrast to coagulative necrosis where tissue architecture is maintained, in caseous necrosis, the tissue architecture is completely obliterated. So, it has been called caseous because of its cheesy white appearance of the area of necrosis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"is seen in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d47ec04d-8a9a-4f02-a8d6-14ad991b88bb": {
-    "cop": 4,
-    "exp": "Reynold's pentad of acute obstructive cholangitis(suppurative cholangitis) includes - persistent right upper quadrant pain,persistent fever,persistent jaundice,shock(toxicity) and altered mental status. Reference:SRB's manual of surgery,5th edition,page no:651."
+    "cop": 3,
+    "exp": "Reynold's pentad of acute obstructive cholangitis(suppurative cholangitis) includes - persistent right upper quadrant pain,persistent fever,persistent jaundice,shock(toxicity) and altered mental status. Reference:SRB's manual of surgery,5th edition,page no:651.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a9e9e2d9-33de-4813-851d-daf0c7b1102f": {
-    "cop": 1,
-    "exp": "Ethylene glycol intoxication causes metabolic acidosis, cardiovascular dysfunction, and finally acute kidney failure. Zinc phosphide used for rat poisoning can cause fatal acute liver necrosis. This condition is not rare in India. Carbamate poisoning is like organophosphorous poisoning."
+    "cop": 0,
+    "exp": "Ethylene glycol intoxication causes metabolic acidosis, cardiovascular dysfunction, and finally acute kidney failure. Zinc phosphide used for rat poisoning can cause fatal acute liver necrosis. This condition is not rare in India. Carbamate poisoning is like organophosphorous poisoning.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the likely poison that\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "18fec33f-2663-47e4-ba2c-cfad09961a8b": {
-    "cop": 2,
-    "exp": "Ans: B > A (Blue white translucen > Red)Ref: Park's Textbook of Preventive and Social Medicine, 22nd edition, pg: 739Explanation:Colour Coding for Various Categories of Biomedical Wastes and Disposal MethodsColourCodingType of containerWaste categoryDisposalMethodYellowPlastic bag* Category 1: Human anatomical waste (Human tissues, organs, body parts etc)* Category 2: Animal waste (Animal tissues, organs, body fluids etc)* Category 3: Microbiology and Biotechnology waste (waste from lab, cultures, vaccines etc)* Category 6: Solid waste contaminated with blood and body fluids (cotton, dressing material etc)* Incineration* Deep burialRedDisinfected container.'' Plastic bag* Category 3: Microbiology and Biotechnology waste (waste from lab. cultures, vaccines etc)* Category 6 and 7: Alt Solid waste (Items contaminated with blood and body fluids, Disposable item wastes)* Autoclaving* Microwaving* Chemical treatmentBlue 1 White translucentPlastic bag/Puncture proof container* Category 4: Sharp wastes (needles, syringes, scalpel, blade etc)* Category 7: Solid waste from Disposable items (tubings, catheters, IV sets etc)* Autoclaving* Microwaving* Chemical treatment* ShreddingBlackPlastic bag* Category 5: Discarded medicines and Cytotoxic drugs* Category 9: Incineration Ash (Ash from any biomedical waste)* Category 10: Chemical used in disinfectants* Disposal in secured landfillNote:Recent amendment (2011) of the biomedical management rules says Red bin for Category 4 (sharps), but this amendment is yet to be implemented.Also, one of the options, blue white translucent is not there in new amendment. So, I assume the question was based on old BMM rules. So the best option is blue with white translucent.Main Features of the New Amendment:Scope of BMW rules extended to all health facilities (occupier) irrespective of number of patients attending.New rule says compulsory authorization from prescribed authority (CPCB) to start any new health facility is required with regard to its biomedical waste disposal plans. Earlier only facility which caters to more than 1000 patients per month was required to get authorization.There are only 8 categories (old 10 categories) (liquid waste and ash is removed, chemical waste is made as 8* category)New bins are yellow, red, blue and black.There is an overlapping of category 3 and 6 which can be put either red or yellow as per existing rule, but new amendment exclusively say 3 in red and 6 in yellow. Category 7 in overlap was there earlier, nut new rule says it should go to red bin.Sharps in red bin as per new rules.Black bin-general waste.New rules applies only to biomedical waste and not for other waste like radioactive and chemical waste.Note:Liquid waste generated from laboratory, washing, cleaning, house keeping and disinfecting activities shall be treated so as to meet the discharge standards stipulated under these rules.Incineration ash (Ash from incineration of any Biomedical waste) shall be disposed through secured landfill, if toxic or hazardous constituents are present beyond the prescribed limits as given in Hazardous Waste (Management, Handling and Transboundary Movement) Rules (2008)."
+    "cop": 1,
+    "exp": "Ans: B > A (Blue white translucen > Red)Ref: Park's Textbook of Preventive and Social Medicine, 22nd edition, pg: 739Explanation:Colour Coding for Various Categories of Biomedical Wastes and Disposal MethodsColourCodingType of containerWaste categoryDisposalMethodYellowPlastic bag* Category 1: Human anatomical waste (Human tissues, organs, body parts etc)* Category 2: Animal waste (Animal tissues, organs, body fluids etc)* Category 3: Microbiology and Biotechnology waste (waste from lab, cultures, vaccines etc)* Category 6: Solid waste contaminated with blood and body fluids (cotton, dressing material etc)* Incineration* Deep burialRedDisinfected container.'' Plastic bag* Category 3: Microbiology and Biotechnology waste (waste from lab. cultures, vaccines etc)* Category 6 and 7: Alt Solid waste (Items contaminated with blood and body fluids, Disposable item wastes)* Autoclaving* Microwaving* Chemical treatmentBlue 1 White translucentPlastic bag/Puncture proof container* Category 4: Sharp wastes (needles, syringes, scalpel, blade etc)* Category 7: Solid waste from Disposable items (tubings, catheters, IV sets etc)* Autoclaving* Microwaving* Chemical treatment* ShreddingBlackPlastic bag* Category 5: Discarded medicines and Cytotoxic drugs* Category 9: Incineration Ash (Ash from any biomedical waste)* Category 10: Chemical used in disinfectants* Disposal in secured landfillNote:Recent amendment (2011) of the biomedical management rules says Red bin for Category 4 (sharps), but this amendment is yet to be implemented.Also, one of the options, blue white translucent is not there in new amendment. So, I assume the question was based on old BMM rules. So the best option is blue with white translucent.Main Features of the New Amendment:Scope of BMW rules extended to all health facilities (occupier) irrespective of number of patients attending.New rule says compulsory authorization from prescribed authority (CPCB) to start any new health facility is required with regard to its biomedical waste disposal plans. Earlier only facility which caters to more than 1000 patients per month was required to get authorization.There are only 8 categories (old 10 categories) (liquid waste and ash is removed, chemical waste is made as 8* category)New bins are yellow, red, blue and black.There is an overlapping of category 3 and 6 which can be put either red or yellow as per existing rule, but new amendment exclusively say 3 in red and 6 in yellow. Category 7 in overlap was there earlier, nut new rule says it should go to red bin.Sharps in red bin as per new rules.Black bin-general waste.New rules applies only to biomedical waste and not for other waste like radioactive and chemical waste.Note:Liquid waste generated from laboratory, washing, cleaning, house keeping and disinfecting activities shall be treated so as to meet the discharge standards stipulated under these rules.Incineration ash (Ash from incineration of any Biomedical waste) shall be disposed through secured landfill, if toxic or hazardous constituents are present beyond the prescribed limits as given in Hazardous Waste (Management, Handling and Transboundary Movement) Rules (2008).",
+    "hint_exp": "🧩 Your crush solved \"colour used dispose sharp\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2b801ad5-c2af-4a2a-8843-dc06a619666b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"ED50 used determining\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "71b79236-d7bd-48f9-892a-e8c018f7e3f5": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"offered by\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bb0b8de5-9322-4fa6-93e0-37b3d433b8ef": {
-    "cop": 1,
-    "exp": "Answer is A (CD19) : CD 19 is a marker fir B lymphocytes. Primarily B cell associated antigens include CD10 and CD19 to CD23 i.e. CD10, CD19, CD20, CD21, CD22, CD23 Primarily T cell associated antigens include CD1 to CD8 with the exception of CD6 i.e. C'D1, CD2, CD3, CD4, CD5, CD6, CD7, CD8. Primarily monocyte macrophage associated antigens CD13 to CD15 and CD33 i.e. CD13, CD14, CD15, CD33. Primarily NK cell associated antigens includeQ CD16 and CD56. (Do remember the antigens associated with NK cells. CD] 6 and CD56 being the primary ones, and also CD2 which is found expressed in a subset.Q)"
+    "cop": 0,
+    "exp": "Answer is A (CD19) : CD 19 is a marker fir B lymphocytes. Primarily B cell associated antigens include CD10 and CD19 to CD23 i.e. CD10, CD19, CD20, CD21, CD22, CD23 Primarily T cell associated antigens include CD1 to CD8 with the exception of CD6 i.e. C'D1, CD2, CD3, CD4, CD5, CD6, CD7, CD8. Primarily monocyte macrophage associated antigens CD13 to CD15 and CD33 i.e. CD13, CD14, CD15, CD33. Primarily NK cell associated antigens includeQ CD16 and CD56. (Do remember the antigens associated with NK cells. CD] 6 and CD56 being the primary ones, and also CD2 which is found expressed in a subset.Q)",
+    "hint_exp": "🎯 Think of \"B lymphocyte\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3ea02569-d128-4184-87fa-b1817f2918be": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e. Radical neck dissection \"Lymph node metastasis in the lateral neck in patients with papillary carcinma usually should be managed with modified radical or functional neck dissection.\" - Schwaz Though the option mentions 'Radical neck dissection', not 'modified radical neck dissection, it still is the best choice among given option. Also know Modified radical neck dissection is done in any type of thyroid cancer with palpable or involved cervical lymph nodes (cervical lymph nodes are frequently involved in Papillary, Medullary Huhle cell and anaplastic carcinomas) It can also be done prophylactically in medullary carcinoma when the thyroid lesion is larger than 1 cm."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e. Radical neck dissection \"Lymph node metastasis in the lateral neck in patients with papillary carcinma usually should be managed with modified radical or functional neck dissection.\" - Schwaz Though the option mentions 'Radical neck dissection', not 'modified radical neck dissection, it still is the best choice among given option. Also know Modified radical neck dissection is done in any type of thyroid cancer with palpable or involved cervical lymph nodes (cervical lymph nodes are frequently involved in Papillary, Medullary Huhle cell and anaplastic carcinomas) It can also be done prophylactically in medullary carcinoma when the thyroid lesion is larger than 1 cm.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Cervical lymph node involvement\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6a680ad4-ba92-4be5-9959-5e79c900234d": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Bedaquiline Bedaquiline* It is a diaryl quinolone.* It acts by inhibiting M. tuberculosis adenosine triphosphate synthase.* It demonstrates significant potency against M. tuberculosis infection, both drug susceptible and multidrug resistant strains as well as many other mycobacteria.* It has potential to shorten the duration of drug therapy for management M. tuberculosis infection.* It is associated with nausea, increased QT interval.* FT, has approved bedaquiline for the management of drug resistant tuberculosis with a black box warning, relating to possible cardiac toxicity and sudden death.Note:DELAMANID:* It is also a new agent derived from nitrodihydro-imidazooxazole class of compounds.* It inhibits mycolic acid synthesis, and has shown potent in vitro and invivo activity against both drug susceptible and drug resistant M. tuberculosis strains."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Bedaquiline Bedaquiline* It is a diaryl quinolone.* It acts by inhibiting M. tuberculosis adenosine triphosphate synthase.* It demonstrates significant potency against M. tuberculosis infection, both drug susceptible and multidrug resistant strains as well as many other mycobacteria.* It has potential to shorten the duration of drug therapy for management M. tuberculosis infection.* It is associated with nausea, increased QT interval.* FT, has approved bedaquiline for the management of drug resistant tuberculosis with a black box warning, relating to possible cardiac toxicity and sudden death.Note:DELAMANID:* It is also a new agent derived from nitrodihydro-imidazooxazole class of compounds.* It inhibits mycolic acid synthesis, and has shown potent in vitro and invivo activity against both drug susceptible and drug resistant M. tuberculosis strains.",
+    "hint_exp": "🧩 Your crush solved \"treatment of MDR TB patients\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "15c1fb02-f369-459d-a554-d3311c018238": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"drug more selective subtype\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a1dfd8fe-a1cc-41bf-9ca5-dbda9eb8a544": {
-    "cop": 1,
-    "exp": "The ECG shows a hea rate of 100/min with normal axis. P wave and PR interval are in normal limits. Wide complex qRS is noted in lead II, III indicating Ventricular extra-systoles or premature ventricular contractions. ST segment and QT interval are within normal limits. In young and asymptomatic individuals extra-systoles do not indicate any significant hea disease."
+    "cop": 0,
+    "exp": "The ECG shows a hea rate of 100/min with normal axis. P wave and PR interval are in normal limits. Wide complex qRS is noted in lead II, III indicating Ventricular extra-systoles or premature ventricular contractions. ST segment and QT interval are within normal limits. In young and asymptomatic individuals extra-systoles do not indicate any significant hea disease.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"ECG\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0c3cb55f-4e9f-448f-8181-f926a45ade72": {
-    "cop": 2,
-    "exp": "Ans. b. 10% KOH mountExplanation: Central clearing is associated with tinea corporis (dermatophytic fungal infection). So, answer will be KOH mount."
+    "cop": 1,
+    "exp": "Ans. b. 10% KOH mountExplanation: Central clearing is associated with tinea corporis (dermatophytic fungal infection). So, answer will be KOH mount.",
+    "hint_exp": "🎯 Think of \"Patient suffering from lesions\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9c3fab1b-52fc-4d1b-ac97-b30e5b6d6194": {
-    "cop": 1,
-    "exp": "BRT are intracellular inclusion bodies found in choroidal epithelial cells of choroid plexus. It consists of a lipid droplet surrounded by a ring shaped bundle of filaments."
+    "cop": 0,
+    "exp": "BRT are intracellular inclusion bodies found in choroidal epithelial cells of choroid plexus. It consists of a lipid droplet surrounded by a ring shaped bundle of filaments.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Biondi Ring Tangles BRTs\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "100431e6-c877-4599-bc7e-bf759314a684": {
-    "cop": 1,
-    "exp": "Mass movement is a modified type of peristalsis in the colon,propelling the fecal material in this segment en masse fuher down the colon and force feces into the rectum. When the walls of the rectum are stretched by the feces, the defecation reflex is initiated and a bowel movement follows when this is convenient."
+    "cop": 0,
+    "exp": "Mass movement is a modified type of peristalsis in the colon,propelling the fecal material in this segment en masse fuher down the colon and force feces into the rectum. When the walls of the rectum are stretched by the feces, the defecation reflex is initiated and a bowel movement follows when this is convenient.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "68c957a7-c8a7-44ee-84be-6a9a31b7ebb7": {
-    "cop": 4,
-    "exp": "Ans. d (Enterovirus-71) (Ref. Ananthanarayan, Microbiology, 8th/p. 491).Hand, foot, and mouth disease (HFMD), is a contagious enteroviral infection occurring primarily in children and characterized by a vesicular palmoplantar eruption and erosive stomatitis. It is caused by enterovirus-71 & coxsackie A5, 7, 9, 10, 16, Bl, 2, 5, with coxsackie A16 being the most common cause. Coxsackie viruses are typical enteroviruses. Enteroviruses are believed to spread via fecal-oral and perhaps respiratory routes.Coxsackie viruses also cause:# Herpangina# Aseptic meningitis# Bornholm disease (epidemic pleurodynia)# Myocarditis/ Pericarditis# Juvenile diabetes# Orchitis# Post viral fatigue synd. Educational PointsThe 72 Enteroviruses include:1 to 3 - 3 - Polio4 to 27 - 24 - Coxsackie A (Coxsackie A 23 is same as ECHO 9)28 to 33 - 6 - Coxsackie B34 to 67 - 34 - ECHO (ECHO 10 is Reo, ECHO 28 Rhino 1 A, ECHO 34 is Coxsackie A24)68 to 72 - 5 - Enterovirus 68 to 72 (Entero Virus 72 is Hepatitis A Virus)"
+    "cop": 3,
+    "exp": "Ans. d (Enterovirus-71) (Ref. Ananthanarayan, Microbiology, 8th/p. 491).Hand, foot, and mouth disease (HFMD), is a contagious enteroviral infection occurring primarily in children and characterized by a vesicular palmoplantar eruption and erosive stomatitis. It is caused by enterovirus-71 & coxsackie A5, 7, 9, 10, 16, Bl, 2, 5, with coxsackie A16 being the most common cause. Coxsackie viruses are typical enteroviruses. Enteroviruses are believed to spread via fecal-oral and perhaps respiratory routes.Coxsackie viruses also cause:# Herpangina# Aseptic meningitis# Bornholm disease (epidemic pleurodynia)# Myocarditis/ Pericarditis# Juvenile diabetes# Orchitis# Post viral fatigue synd. Educational PointsThe 72 Enteroviruses include:1 to 3 - 3 - Polio4 to 27 - 24 - Coxsackie A (Coxsackie A 23 is same as ECHO 9)28 to 33 - 6 - Coxsackie B34 to 67 - 34 - ECHO (ECHO 10 is Reo, ECHO 28 Rhino 1 A, ECHO 34 is Coxsackie A24)68 to 72 - 5 - Enterovirus 68 to 72 (Entero Virus 72 is Hepatitis A Virus)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"caused by\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3c751a4a-648e-4156-99ba-547c43a5dd8d": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., 245 o Because of the improved effectiveness of reduced osmolarity ORS solution, WHO and UNICEF are recommending that countries manufacture and use the following formulation in place of the previously recommended ORS solution.Composition of reduced osmolarity ORSReduced osmolarity ORSgrams/litreSodium chlorideGlucose, anhydrousPotassium chlorideTrisodium citrate, dihydrateTotal weight2.613.51.52.920.5Reduced osmolarity ORSmmol/litreSodiumChlorideGlucose, anhydrousPotassiumCitrateTotal osmolarity7565752010245"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., 245 o Because of the improved effectiveness of reduced osmolarity ORS solution, WHO and UNICEF are recommending that countries manufacture and use the following formulation in place of the previously recommended ORS solution.Composition of reduced osmolarity ORSReduced osmolarity ORSgrams/litreSodium chlorideGlucose, anhydrousPotassium chlorideTrisodium citrate, dihydrateTotal weight2.613.51.52.920.5Reduced osmolarity ORSmmol/litreSodiumChlorideGlucose, anhydrousPotassiumCitrateTotal osmolarity7565752010245",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"osmolarity\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8d7e731f-2b70-4e6a-80ea-0d1ffa6de1c2": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. LipofuscinPigments are colored substances. Which may be : ?Endogenous pigmets --> Synthesized in the body itself.Exogenous pigments --> Coming from out side the body.Endogenous pigments LipofuscinIt is an insoluble pigment, also known as lipochrome and wear or tear or aging pigment.o Lipofuscin is not injurious to the cell or its functions.o Its impoance lies in being the tell-tale sign of free radical injury and lipid peroxidation.o It is seen in cells undergoing slow, regressive changes and is paicularly prominent in the liver and hea of aging patients or patients with severe malnutrition and cancer cachexia.o Lipofuscin is composed of polymers of lipids and phospholipids complexed with proteins, suggesting that it is derived through lipid peroxidation of polyunsaturated lipids of subcellular membranes.o On electron microscopy, the granules are highly electron dense, often have membranous structure in their midst and are usually in perinuclear location.o In tissue section it appears as yellow brown pigment.o Deposition of lipofuscin in the hea is referred as brown atrophy.Melanino It is an endogenous, non hemoglobin derived brown-black pigment.o Melanin is the only endogenous brown black pigment.HemosiderinIt is hemoglobin derived, golden yellow to brown, granular or crystalline pigment in which form iron is stored in cells.o When there is local or systemic excess of iron, ferritin forms hemosiderin granules.o Thus hemosiderin pigment represents aggregrates of ferritin micelles.o Under normal conditions small amounts of hemosiderin can be seen in the mononuclear phagocytes of the bone marrow, spleen and liver, all actively engaged in red cell breakdown.BilirubinIt is the normal major pigment found in bile.o It is derived from hemoglobin but contains no iron.o Its normal formation and excretion are vital to health and jaundice is a common clinical disorder caused by excesses of this pigment within cells and tissues.Exogenous Pigments Carbon or Coal dusto It is the most common exogenous pigment.o Accumulation of this pigment blacken the tissue of lung (anthrocosis) and lymph nodes.Tattoingo It is a form of localized pigmentation of the skin.o The pigments inoculated are phagocytosed by dermal macrophages, in which they resides for the remainder of the life."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. LipofuscinPigments are colored substances. Which may be : ?Endogenous pigmets --> Synthesized in the body itself.Exogenous pigments --> Coming from out side the body.Endogenous pigments LipofuscinIt is an insoluble pigment, also known as lipochrome and wear or tear or aging pigment.o Lipofuscin is not injurious to the cell or its functions.o Its impoance lies in being the tell-tale sign of free radical injury and lipid peroxidation.o It is seen in cells undergoing slow, regressive changes and is paicularly prominent in the liver and hea of aging patients or patients with severe malnutrition and cancer cachexia.o Lipofuscin is composed of polymers of lipids and phospholipids complexed with proteins, suggesting that it is derived through lipid peroxidation of polyunsaturated lipids of subcellular membranes.o On electron microscopy, the granules are highly electron dense, often have membranous structure in their midst and are usually in perinuclear location.o In tissue section it appears as yellow brown pigment.o Deposition of lipofuscin in the hea is referred as brown atrophy.Melanino It is an endogenous, non hemoglobin derived brown-black pigment.o Melanin is the only endogenous brown black pigment.HemosiderinIt is hemoglobin derived, golden yellow to brown, granular or crystalline pigment in which form iron is stored in cells.o When there is local or systemic excess of iron, ferritin forms hemosiderin granules.o Thus hemosiderin pigment represents aggregrates of ferritin micelles.o Under normal conditions small amounts of hemosiderin can be seen in the mononuclear phagocytes of the bone marrow, spleen and liver, all actively engaged in red cell breakdown.BilirubinIt is the normal major pigment found in bile.o It is derived from hemoglobin but contains no iron.o Its normal formation and excretion are vital to health and jaundice is a common clinical disorder caused by excesses of this pigment within cells and tissues.Exogenous Pigments Carbon or Coal dusto It is the most common exogenous pigment.o Accumulation of this pigment blacken the tissue of lung (anthrocosis) and lymph nodes.Tattoingo It is a form of localized pigmentation of the skin.o The pigments inoculated are phagocytosed by dermal macrophages, in which they resides for the remainder of the life.",
+    "hint_exp": "🎯 Think of \"the following pigments\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6085043a-d765-4367-a5df-731291a974b7": {
-    "cop": 4,
-    "exp": "- Miliary Tuberculosis- Due to Hematogenous spread of infection - At first, the chest radiograph may be normal, but then small, discrete nodules, 1-2 mm in diameter, become apparent, evenly distributed throughout both lungs. - other causes of Miliary shadows seen on Chest X-ray: Tuberculosis Histoplasmosis Sarcoidosis Healed varicella"
+    "cop": 3,
+    "exp": "- Miliary Tuberculosis- Due to Hematogenous spread of infection - At first, the chest radiograph may be normal, but then small, discrete nodules, 1-2 mm in diameter, become apparent, evenly distributed throughout both lungs. - other causes of Miliary shadows seen on Chest X-ray: Tuberculosis Histoplasmosis Sarcoidosis Healed varicella",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b403b43a-700b-44ee-8c06-889de7bcd640": {
-    "cop": 1,
-    "exp": "Stool osmotic gap is calculated by using the formula : 2 x (stool + stool ) stool osmolality When it is >50, an osmotic gap is present, suggests diarrhea is due to a non absorbed dietary nutrient, e.g., a fatty acid and/or carbohydrate. When this difference is <25, a dietary nutrient is not responsible for the diarrhea. Ref: Harrison, E-18, P-2460."
+    "cop": 0,
+    "exp": "Stool osmotic gap is calculated by using the formula : 2 x (stool + stool ) stool osmolality When it is >50, an osmotic gap is present, suggests diarrhea is due to a non absorbed dietary nutrient, e.g., a fatty acid and/or carbohydrate. When this difference is <25, a dietary nutrient is not responsible for the diarrhea. Ref: Harrison, E-18, P-2460.",
+    "hint_exp": "🧩 Your crush solved \"Stool osmotic calculated using\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b73d015e-de43-4a11-9e0b-74f1bd740981": {
-    "cop": 1,
-    "exp": "Sellick's manoeuvre is the application of back-ward pressure on cricoid cartilage to prevent regurgitation of gastric contents and its leaking into respiratory tract."
+    "cop": 0,
+    "exp": "Sellick's manoeuvre is the application of back-ward pressure on cricoid cartilage to prevent regurgitation of gastric contents and its leaking into respiratory tract.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Sallick manouvere used\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c078daa7-9cc8-45e7-a67b-7367dc9032bc": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Group A streptococcus from other Beta hymolytic streptococci o Lets discuss each option one by oneStaphylococci and streptococci are differentiated by catalase test.Bacitracin sensitivity is used to differentiate streptococcus pyogenes (group A streptococcus) from other beta hemolytic streptococci.Alpha hemolytic and Gamma hemolytic streptococci are differentiated from Beta hemolytic streptocci, on the basis ofhemolysis.Following flow chart will help in the diagnosis of gram (+)ve cocci."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Group A streptococcus from other Beta hymolytic streptococci o Lets discuss each option one by oneStaphylococci and streptococci are differentiated by catalase test.Bacitracin sensitivity is used to differentiate streptococcus pyogenes (group A streptococcus) from other beta hemolytic streptococci.Alpha hemolytic and Gamma hemolytic streptococci are differentiated from Beta hemolytic streptocci, on the basis ofhemolysis.Following flow chart will help in the diagnosis of gram (+)ve cocci.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"sensitivity\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d67dc20e-215c-4abb-be7e-02d94d9274d6": {
-    "cop": 1,
-    "exp": "Answer- A. SarcoidosisCondle wax chipping sign is a feature of occular Sarcoidosis."
+    "cop": 0,
+    "exp": "Answer- A. SarcoidosisCondle wax chipping sign is a feature of occular Sarcoidosis.",
+    "hint_exp": "🎯 Think of \"seen in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "67cc93ee-16f6-4bc9-9168-6aae263cb3f6": {
-    "cop": 2,
-    "exp": "Ref: HL Sharma 3rd ed pg no:189 Nonselective beta blockers are used for essential tremors they occur due to contraction of skeletal muscles (beta 2 receptors) cardioselective beta blockers are not useful"
+    "cop": 1,
+    "exp": "Ref: HL Sharma 3rd ed pg no:189 Nonselective beta blockers are used for essential tremors they occur due to contraction of skeletal muscles (beta 2 receptors) cardioselective beta blockers are not useful",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"choice for essential tremors\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2f528e06-5bf8-45ab-b870-8483557b96c1": {
-    "cop": 1,
-    "exp": "A. i.e. Periumblical region Spontaneous remissions & recurrences are very common in herpes gestationis which typically presents with abrupt onset, intensily pruritic uicarial lesions mostly on abdomen, often periumblical during late pregnancyQ."
+    "cop": 0,
+    "exp": "A. i.e. Periumblical region Spontaneous remissions & recurrences are very common in herpes gestationis which typically presents with abrupt onset, intensily pruritic uicarial lesions mostly on abdomen, often periumblical during late pregnancyQ.",
+    "hint_exp": "🧩 Your crush solved \"herpes Gestationis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6d914b14-77ee-4c63-9ebf-3c9e2bdec4eb": {
-    "cop": 1,
-    "exp": "Ans. (a) Alzheimer's diseaseRef: Goodman & Gillman llthed /. 132"
+    "cop": 0,
+    "exp": "Ans. (a) Alzheimer's diseaseRef: Goodman & Gillman llthed /. 132",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"used in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "95cb173b-f8a6-40de-9c6e-28620bcd338c": {
-    "cop": 2,
-    "exp": "Cotard delusion delusion that he is dead. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 359"
+    "cop": 1,
+    "exp": "Cotard delusion delusion that he is dead. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 359",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"dead called\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "598aa758-89ef-476a-ba00-0a47544e632f": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Regarding Ganser syndrome true\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3158508d-bfb4-4387-8142-ab4a62144bd5": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Earliest symptom Wilm tumour\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2469097f-24a7-42a5-85b7-7a354f346b55": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Autosomal dominant disorder In Autosomal dominant disorders individuals are affected in successive generations. The disease does not occur in the offspring of unaffected individuals' ? Autosomal dominant o If both parents are normal, the disease cannot be autosomal dominant because it is manifested in Heterozygous state, So, even a single gene affection amongst the allel will cause the disease to be manifested. To be normal, a person should have normal copy of both allel. If both parents are normal, that means there is no abnormal gene. Autosomal recessive o In autosomal recessive disorder, if both parents are carrier (phenotypically normal) 25% of child will develop disease. Polygenic disorder o A trait is called `polygenic' if multiple genes on thought to contribute to the phenotype. o Polygenic disorders include Hypeension Diabetes, Asthma o A male infant with asthma or diabetes may will be born to normal parents Veically transmitted disorder o Passage of disease causing agent (pathogen) `veically' from mother to baby during the perinatal period is called 'veical transmission'. o A veically transmitted agent might lie dormant in the mother and not manifest in her clinically (normal mother) but may manifest in the child."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Autosomal dominant disorder In Autosomal dominant disorders individuals are affected in successive generations. The disease does not occur in the offspring of unaffected individuals' ? Autosomal dominant o If both parents are normal, the disease cannot be autosomal dominant because it is manifested in Heterozygous state, So, even a single gene affection amongst the allel will cause the disease to be manifested. To be normal, a person should have normal copy of both allel. If both parents are normal, that means there is no abnormal gene. Autosomal recessive o In autosomal recessive disorder, if both parents are carrier (phenotypically normal) 25% of child will develop disease. Polygenic disorder o A trait is called `polygenic' if multiple genes on thought to contribute to the phenotype. o Polygenic disorders include Hypeension Diabetes, Asthma o A male infant with asthma or diabetes may will be born to normal parents Veically transmitted disorder o Passage of disease causing agent (pathogen) `veically' from mother to baby during the perinatal period is called 'veical transmission'. o A veically transmitted agent might lie dormant in the mother and not manifest in her clinically (normal mother) but may manifest in the child.",
+    "hint_exp": "🧩 Your crush solved \"affected male infant born\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6a839fe5-4d56-4cf7-81a5-2a5eb749b256": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. Inferior meatus Openings in the lateral wall of nasal cavity *Inferior meatus : Nasolacrimal duct*Middle meatus : Anterior ethmoidal sinus*Frontal sinus*Maxillary sinus*Superior meatus : Posterior ethmoidal sinuses*Sphenoethmoidal recess : Sphenoid sinus*Note: that the nasolacrimal duct opens into the inferior meatus but if its blocked and a DCR (Dacryocystorhinostomy) operation is performed the new opening is in the middle meatus*"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. Inferior meatus Openings in the lateral wall of nasal cavity *Inferior meatus : Nasolacrimal duct*Middle meatus : Anterior ethmoidal sinus*Frontal sinus*Maxillary sinus*Superior meatus : Posterior ethmoidal sinuses*Sphenoethmoidal recess : Sphenoid sinus*Note: that the nasolacrimal duct opens into the inferior meatus but if its blocked and a DCR (Dacryocystorhinostomy) operation is performed the new opening is in the middle meatus*",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the nasolacrimal duct\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6460f1a9-1885-452a-931b-944923817be3": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Antibiotics and observation \"Early cases of post-traumatic CSF rhinorrhoea are managed conservatively by placing the pt. in the semisitting position, avoiding blowing of nose, sneezing and straining. Prophylactic antibiotics are also administered to prevent meningitis.\" - Dhingrao Traumatic rhinorrhea often stops spontaneously. Conservative treatment consists of 1-2 weeks trial of-i) Subarachnoid drainage through a lumbar catheter, ii) Strict bed rest, iii) Head elevation, iv) Stool softeners, v) Advising patient to avoid coughing, sneezing, nose blowing, and straining, vi) Prophylactic antibiotics, o Surgical repair is generally advocated in patients with large fistulae especially in the presence of pneumocephalus."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Antibiotics and observation \"Early cases of post-traumatic CSF rhinorrhoea are managed conservatively by placing the pt. in the semisitting position, avoiding blowing of nose, sneezing and straining. Prophylactic antibiotics are also administered to prevent meningitis.\" - Dhingrao Traumatic rhinorrhea often stops spontaneously. Conservative treatment consists of 1-2 weeks trial of-i) Subarachnoid drainage through a lumbar catheter, ii) Strict bed rest, iii) Head elevation, iv) Stool softeners, v) Advising patient to avoid coughing, sneezing, nose blowing, and straining, vi) Prophylactic antibiotics, o Surgical repair is generally advocated in patients with large fistulae especially in the presence of pneumocephalus.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"CSF rhinorhoea\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "427a71f6-629c-409b-8a98-4b75c1b94b4d": {
-    "cop": 4,
-    "exp": "In trachoma there is both follicular and papillary reaction papillary hyperophy follicles pannus formation Herbe pits ropy discharge all are seen in trachoma Khurana 6th edition page number 65"
+    "cop": 3,
+    "exp": "In trachoma there is both follicular and papillary reaction papillary hyperophy follicles pannus formation Herbe pits ropy discharge all are seen in trachoma Khurana 6th edition page number 65",
+    "hint_exp": "🎯 Think of \"trachoma\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7ff43a08-a890-4ba2-8b59-56b4f40633d1": {
-    "cop": 2,
-    "exp": "Ans: b (Crocidolite) Ref: Davidson, 20th ed, p. 72; 19th ed, p. 573Crocidolite is the most potent cause of mesotheliomaTypes of Asbestos:Serpentine (curly and flexible fibres) e.g., chrysoliteAmphibole (straight stiff and brittle) e.g., crocidolite.Amphiboles are more pathogenic than chrysoliteThe greater pathogenicity of amphibole is apparently related to their aerodymanic properties and solubility. The straight stiff amphiboles may align themselves in the airstream and are delivered to the deeper long tissues, where they can penetrate epithelial cells and reach interstitium.AsbestosisCaused by chrysolite, amosite, anthophyllite and crocidolite. Crocidolite or blue asbestos exposure is the most dangerous. Length of amphibole also plays a role in pathogenicity, those longer than 8 micrometer and thinner than 0.5 micrometer being more injurious than shorter thicker ones.Occupational exposure in - mining, milling, pipe fitters and boiler makersPathologyDiffuse interstitial fibrosis is mainly seen in the lower lobe.Asbestos bodies - Golden brown, fusiform or beaded rods (ferruginous) with translucent centre with asbestos fibres coated with an iron containing proteinacious material.Asbestos exposure causes pulmonary fibrosis (asbestosis) and carcinoma of lung, pleura (mesothelioma) and peritoneum.Atleast 10 years of exposure is needed for Asbestosis to manifest.But the disease may manifest many years after leaving the exposure site (similar to silica and coal)Lung cancer in asbestos exposure is associated with a minimum lapse of 15-19 years between first exposure and development of the disease.Mesothelioma is not associated with smoking (i.e., smoking does not increase the risk of mesothelioma in asbestos exposure)Radiological featuresCalcification of parietal pleura along the lower lung field, the diaphragm and the cardiac border.Ground glass appearance of the lung fields may be seen."
+    "cop": 1,
+    "exp": "Ans: b (Crocidolite) Ref: Davidson, 20th ed, p. 72; 19th ed, p. 573Crocidolite is the most potent cause of mesotheliomaTypes of Asbestos:Serpentine (curly and flexible fibres) e.g., chrysoliteAmphibole (straight stiff and brittle) e.g., crocidolite.Amphiboles are more pathogenic than chrysoliteThe greater pathogenicity of amphibole is apparently related to their aerodymanic properties and solubility. The straight stiff amphiboles may align themselves in the airstream and are delivered to the deeper long tissues, where they can penetrate epithelial cells and reach interstitium.AsbestosisCaused by chrysolite, amosite, anthophyllite and crocidolite. Crocidolite or blue asbestos exposure is the most dangerous. Length of amphibole also plays a role in pathogenicity, those longer than 8 micrometer and thinner than 0.5 micrometer being more injurious than shorter thicker ones.Occupational exposure in - mining, milling, pipe fitters and boiler makersPathologyDiffuse interstitial fibrosis is mainly seen in the lower lobe.Asbestos bodies - Golden brown, fusiform or beaded rods (ferruginous) with translucent centre with asbestos fibres coated with an iron containing proteinacious material.Asbestos exposure causes pulmonary fibrosis (asbestosis) and carcinoma of lung, pleura (mesothelioma) and peritoneum.Atleast 10 years of exposure is needed for Asbestosis to manifest.But the disease may manifest many years after leaving the exposure site (similar to silica and coal)Lung cancer in asbestos exposure is associated with a minimum lapse of 15-19 years between first exposure and development of the disease.Mesothelioma is not associated with smoking (i.e., smoking does not increase the risk of mesothelioma in asbestos exposure)Radiological featuresCalcification of parietal pleura along the lower lung field, the diaphragm and the cardiac border.Ground glass appearance of the lung fields may be seen.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "91261ca9-fa29-43e2-8b42-40b808166ef7": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Chicken pox In some disease, a great deal of subclinical infection occurs ? i) Rubella iii) Polio v) Japanese encephalitis vii) Influenza ii) Mumps iv) Hepatitis A and B vi) Diphtheria In chickenpox -Inapparent infection is estimated to occur in no more than 5% of susceptible children\"."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Chicken pox In some disease, a great deal of subclinical infection occurs ? i) Rubella iii) Polio v) Japanese encephalitis vii) Influenza ii) Mumps iv) Hepatitis A and B vi) Diphtheria In chickenpox -Inapparent infection is estimated to occur in no more than 5% of susceptible children\".",
+    "hint_exp": "🧩 Your crush solved \"show iceberg phenomenon except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "69e598ea-15b2-4032-ade9-c1779daed7d8": {
-    "cop": 1,
-    "exp": "Breech"
+    "cop": 0,
+    "exp": "Breech",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"External cephalic version contraindicated\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bf88044d-7cd9-4feb-8655-f48236348b99": {
-    "cop": 2,
-    "exp": "Ans: B (Promethazine) Ref: Goodman & Gilman s The Pharmacological Basis of Therapeutics, 12th ed, 2011, Pg 921-922.Explanation:Hydroxyzine, is a long acting first generation antihistamine used in the treatment of skin allergies. It acts for a duration of 6-24 hrs.Cetirizine a second generation antihistamine acts for 12-24 hrs.Acrivastine belongs to second generation antihistamine and acts for a duration of 6-8 hrs.Promethazine, a first generation antihistamine acts for a duration of 4-6 hrs.Among the first generation antihistamines longer acting drugs include doxepin (6-24 hrs), chlorpheniramine (24 hrs) and meclizine (12-24 hrs ). Of the 2nd generation antihistamines longer acting drugs are cetirizine (12-24 hrs). levocetirizine (12-24 hrs), azelastine (12-24 hrs). loratadine (24 hrs). desloratadine (24 hrs). ebastine (24 hrs), mizolastine (24 hrs), and fexofenadine (12-24 hrs)."
+    "cop": 1,
+    "exp": "Ans: B (Promethazine) Ref: Goodman & Gilman s The Pharmacological Basis of Therapeutics, 12th ed, 2011, Pg 921-922.Explanation:Hydroxyzine, is a long acting first generation antihistamine used in the treatment of skin allergies. It acts for a duration of 6-24 hrs.Cetirizine a second generation antihistamine acts for 12-24 hrs.Acrivastine belongs to second generation antihistamine and acts for a duration of 6-8 hrs.Promethazine, a first generation antihistamine acts for a duration of 4-6 hrs.Among the first generation antihistamines longer acting drugs include doxepin (6-24 hrs), chlorpheniramine (24 hrs) and meclizine (12-24 hrs ). Of the 2nd generation antihistamines longer acting drugs are cetirizine (12-24 hrs). levocetirizine (12-24 hrs), azelastine (12-24 hrs). loratadine (24 hrs). desloratadine (24 hrs). ebastine (24 hrs), mizolastine (24 hrs), and fexofenadine (12-24 hrs).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Short acting anti histamine\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7a2a19d1-0ac7-4b9b-973e-bba97387208e": {
-    "cop": 1,
-    "exp": "The trigeminal nerve through its three branches is the chief sensory nerve of the face. The skin over the angle of the jaw and over the parotid gland is supplied by the great auricular nerve (C2,C3)"
+    "cop": 0,
+    "exp": "The trigeminal nerve through its three branches is the chief sensory nerve of the face. The skin over the angle of the jaw and over the parotid gland is supplied by the great auricular nerve (C2,C3)",
+    "hint_exp": "🎯 Think of \"jaw\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d9081fc5-f32c-4bfe-8e94-9d8203b6739c": {
-    "cop": 3,
-    "exp": "Paial idiopathic epilepsy with rolandic spikes Also called benign epilepsy with centrotemporal spikes They are seizures while falling asleep or on awakening Focal sharp waves in centrotemporal location are seen on EEG. Carbamazepine is the most frequently used 1st line drug, but valproate, phenytoin, gabapentin and levetiracetam have been found effective as well."
+    "cop": 2,
+    "exp": "Paial idiopathic epilepsy with rolandic spikes Also called benign epilepsy with centrotemporal spikes They are seizures while falling asleep or on awakening Focal sharp waves in centrotemporal location are seen on EEG. Carbamazepine is the most frequently used 1st line drug, but valproate, phenytoin, gabapentin and levetiracetam have been found effective as well.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"rolandic epilepsy\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b88b1f0f-630b-4b52-bdae-5fd5445eecd5": {
-    "cop": 4,
-    "exp": "The diagnostic procedures in a clinically suspected case of TB include AFB microscopy of sputum using Ziehl-Neelsen basic fuschsin stain;Mycobacterium culture using Lowenstein-Jensen or Middlebrook medium;nucleic acid amplifications using PCR,BACTEC;radiographic procedures like chest X ray with classic picture of upper-lobe disease with infiltrates & cavities,CT;Tuberculin skin testing with purified protein derivative which is a screening for latent M.tuberculosis infection Reference:Harrison's Medicine-18th edition,page no:1350,1351."
+    "cop": 3,
+    "exp": "The diagnostic procedures in a clinically suspected case of TB include AFB microscopy of sputum using Ziehl-Neelsen basic fuschsin stain;Mycobacterium culture using Lowenstein-Jensen or Middlebrook medium;nucleic acid amplifications using PCR,BACTEC;radiographic procedures like chest X ray with classic picture of upper-lobe disease with infiltrates & cavities,CT;Tuberculin skin testing with purified protein derivative which is a screening for latent M.tuberculosis infection Reference:Harrison's Medicine-18th edition,page no:1350,1351.",
+    "hint_exp": "🧩 Your crush solved \"tuberculosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "65fca6ad-5bd4-4df4-96e9-c372093cb35a": {
-    "cop": 2,
-    "exp": "AMINO ACID DERIVED PRODUCTS Phenyl alanine Tyrosine->Melanin,Dopa,Dopamine,Norepinephrine,Epinephrine Tryptophan Niacin,Seratonin->Melatonin Histidine Carnosine,Histamine,Anserine Glycine Heme Glutamate GABA,Glutathione Arginine Urea,creatine,Nitric oxide Serine Ethanolamine,choline Lysine cadaverine Reference: Harpers illustrated biochemistry 30th edition"
+    "cop": 1,
+    "exp": "AMINO ACID DERIVED PRODUCTS Phenyl alanine Tyrosine->Melanin,Dopa,Dopamine,Norepinephrine,Epinephrine Tryptophan Niacin,Seratonin->Melatonin Histidine Carnosine,Histamine,Anserine Glycine Heme Glutamate GABA,Glutathione Arginine Urea,creatine,Nitric oxide Serine Ethanolamine,choline Lysine cadaverine Reference: Harpers illustrated biochemistry 30th edition",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"synthesized from\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cfb03798-a275-4cf3-8746-d7ec10a4a60d": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"scoring cast best instrument\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9bb90663-2c01-48ac-929f-23f0382cbf40": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"choice in Laryngeal stenosis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dcc99eb8-717b-46b9-bd38-5642ecb68863": {
-    "cop": 3,
-    "exp": "C i.e. ADP level"
+    "cop": 2,
+    "exp": "C i.e. ADP level",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"in liver\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b35fcef8-1d24-417f-af98-50a8742fb700": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Deficit weight height years\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "90826940-94bc-4231-a047-a8116f461c83": {
-    "cop": 1,
-    "exp": "Factor: The F factor is the transfer factor that contains the genetic information necessary for the synthesis of sex pilus and for self-transfer but is devoid of other identifiable genetic markers such as drug resistance. Cells carrying the F factor have no distinguishing feature other than their ability to mate with F - cells and render them F+. he F factor is actually an episode and has the ability to exist in some cells in the integrated data or inseed into the host chromosome. Such cells are able to transfer the chromosomal gene to recipient cells with high frequency and are known as Hfr cells. following conjugation with an Hfr cell an F- only rarely becomes F+ though it receives chromosomal genes from the donors. REF:Ananthanarayan and Panicker's Textbook ofMicrobiology 8thEdition pg no:65"
+    "cop": 0,
+    "exp": "Factor: The F factor is the transfer factor that contains the genetic information necessary for the synthesis of sex pilus and for self-transfer but is devoid of other identifiable genetic markers such as drug resistance. Cells carrying the F factor have no distinguishing feature other than their ability to mate with F - cells and render them F+. he F factor is actually an episode and has the ability to exist in some cells in the integrated data or inseed into the host chromosome. Such cells are able to transfer the chromosomal gene to recipient cells with high frequency and are known as Hfr cells. following conjugation with an Hfr cell an F- only rarely becomes F+ though it receives chromosomal genes from the donors. REF:Ananthanarayan and Panicker's Textbook ofMicrobiology 8thEdition pg no:65",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"factor integrates with bacterial\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9e94a4e7-5361-4911-9b92-5b75287cd2d5": {
-    "cop": 3,
-    "exp": "Anti-CCP is the most specific antibody for rheumatoid ahritis with specificity of 95%. 20% patients have elevated ANA and ESR. CRP levels are elevated propoional to disease activity."
+    "cop": 2,
+    "exp": "Anti-CCP is the most specific antibody for rheumatoid ahritis with specificity of 95%. 20% patients have elevated ANA and ESR. CRP levels are elevated propoional to disease activity.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Rheumatoid ahritis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0b7b856a-0e36-453a-8809-d6fdeb304528": {
-    "cop": 1,
-    "exp": "Ans. A. 5- fluorouracilHand and land foot syndrome is peculiar feature of 5- fluorouracil. Bleomycin is known to cause pulmonary fibrosis, Etoposide cause alopecia and GIT disturbances. Doxorubicin is highly cardiotoxic drug."
+    "cop": 0,
+    "exp": "Ans. A. 5- fluorouracilHand and land foot syndrome is peculiar feature of 5- fluorouracil. Bleomycin is known to cause pulmonary fibrosis, Etoposide cause alopecia and GIT disturbances. Doxorubicin is highly cardiotoxic drug.",
+    "hint_exp": "🎯 Think of \"Hand foot syndrome seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b21ff787-700a-45d8-844c-706cec292e09": {
-    "cop": 1,
-    "exp": "Tearing of hymen in a virgin during rape usually occurs posteriorly at the sides, in the 4 or 8 O'clock position, or in the middle line of the hymen. More than two tears are unusual. Tears usually occur in the posterior midline of the hymen because the hymen lies suspended across a potential space, whereas anteriorly the periurethral tissues buttress the hymen. Ref: The Essentials of Forensic Medicine and Toxicology by K S Narayan Reddy, 27th edition, Page 356."
+    "cop": 0,
+    "exp": "Tearing of hymen in a virgin during rape usually occurs posteriorly at the sides, in the 4 or 8 O'clock position, or in the middle line of the hymen. More than two tears are unusual. Tears usually occur in the posterior midline of the hymen because the hymen lies suspended across a potential space, whereas anteriorly the periurethral tissues buttress the hymen. Ref: The Essentials of Forensic Medicine and Toxicology by K S Narayan Reddy, 27th edition, Page 356.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"hymen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3d5a04f4-af0a-459e-8e3c-fbb513e89508": {
-    "cop": 4,
-    "exp": "Ans. is'd' i.e., Desferrioxamine is treatment of choice"
+    "cop": 3,
+    "exp": "Ans. is'd' i.e., Desferrioxamine is treatment of choice",
+    "hint_exp": "🧩 Your crush solved \"hematochromatosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

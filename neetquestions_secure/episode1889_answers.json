@@ -1,202 +1,252 @@
 {
   "1467fbe3-6697-4709-b57a-12f5a178a1e7": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"hookworm infestation\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "578fa9cc-2677-440b-b22d-808531689fe8": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., +1 o A correlation simply expresses the strength and direction of the relationship between two variables in terms of a correlation coefficient, signified by `r'. o Values of r varies from -1 to +1.; o The strength of the relationship is indicated by the size of the coefficient , whereas its direction is indicated by the sign(+ or -) o A plus sign (+) means : That there is a positive correlation between the two variables - high values of one variable (such as salt intake ) are associated with high value of the other variable ( such as blood pressure) i.e salt intake is directly propoional to blood pressure. o A negative sign (-) means : That there is a negative correlation between the two variables - high values of one variables (such as cigarette consumption ) are associated with low values of the other ( such as life expectancy). Cigarette consumption is inversely propoional to life expectancy o If there is a perfect linear relationship between the two variables so that it is possible to know the exact value of one variable from the knowledge of other variable, the correlation coefficient ( r) will be exactly + or - 1.00 ( +1 or -1 ). o If there is absolutely no relationship between the two variables so that it is impossible to know anything about one variable on the basis of knowledge of the other variable. Then the coefficient will be 0. Strength of correlation o The strength of linear relationship between two random variables X and Y is based on the value of correlation coefficient and is often summarized according to the following guidelines:- For Positive Correlation For negative correlation Interpretation r<0. 30 - 0.30 r very weak linear relationship 0.30 5 r < 0.50 - 0.50 < r 5 - 0.30 weak linear relationship 0.50 _. r < or 0.80 - 0.80 <r - 0.50 moderate linear relationship 0.80 5..r< 0.90 - 0.90 <r- 0.80 strong linear relationship r 0.90 1.5.-0.90 very strong linear relationship o If you have difficulty in interpreting above table, I am giving in very simple language:- A. Positive Correlation i) Correlation coefficient less than 0.30 Very weak positive correlation. ii) Correlation coefficient 0.30 to 0.49 --) Weak Positive correlation iii) Correlation coefficient 0.50 to 0.79 Moderate Positive correlation iv) Correlation coefficient 0.80 to 0.89 --)Strong Positive correlation v) Correlation Coefficient equal to or greater than 0.90--> very strong positive correlation. B. Negative Correlation i) Correlation coefficient more than - 0.30 Very weak negative correlation ii) Correlation coefficient - 0.30 to - 0.497-> Weak negative correlation iii) Correlation coefficient - 0.50 to - 0.79 --> Moderate negative correlation iv) Correlation coefficient - 0.80 to - 0.89 Strong negative correlation. v) Correlation coefficient equal or less then - 0.90 --> very strong negative correlation Note: you should keep in mind that for negative values, more means towards more positive side and less means towards more negative side. For example; if we are saying, more than - 0.30, that mean - 0.29, - 0.28, - 0.27 .... so on; and if we are saying less than - 0.90 that means - 0.91, - 0.92 .... so on."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., +1 o A correlation simply expresses the strength and direction of the relationship between two variables in terms of a correlation coefficient, signified by `r'. o Values of r varies from -1 to +1.; o The strength of the relationship is indicated by the size of the coefficient , whereas its direction is indicated by the sign(+ or -) o A plus sign (+) means : That there is a positive correlation between the two variables - high values of one variable (such as salt intake ) are associated with high value of the other variable ( such as blood pressure) i.e salt intake is directly propoional to blood pressure. o A negative sign (-) means : That there is a negative correlation between the two variables - high values of one variables (such as cigarette consumption ) are associated with low values of the other ( such as life expectancy). Cigarette consumption is inversely propoional to life expectancy o If there is a perfect linear relationship between the two variables so that it is possible to know the exact value of one variable from the knowledge of other variable, the correlation coefficient ( r) will be exactly + or - 1.00 ( +1 or -1 ). o If there is absolutely no relationship between the two variables so that it is impossible to know anything about one variable on the basis of knowledge of the other variable. Then the coefficient will be 0. Strength of correlation o The strength of linear relationship between two random variables X and Y is based on the value of correlation coefficient and is often summarized according to the following guidelines:- For Positive Correlation For negative correlation Interpretation r<0. 30 - 0.30 r very weak linear relationship 0.30 5 r < 0.50 - 0.50 < r 5 - 0.30 weak linear relationship 0.50 _. r < or 0.80 - 0.80 <r - 0.50 moderate linear relationship 0.80 5..r< 0.90 - 0.90 <r- 0.80 strong linear relationship r 0.90 1.5.-0.90 very strong linear relationship o If you have difficulty in interpreting above table, I am giving in very simple language:- A. Positive Correlation i) Correlation coefficient less than 0.30 Very weak positive correlation. ii) Correlation coefficient 0.30 to 0.49 --) Weak Positive correlation iii) Correlation coefficient 0.50 to 0.79 Moderate Positive correlation iv) Correlation coefficient 0.80 to 0.89 --)Strong Positive correlation v) Correlation Coefficient equal to or greater than 0.90--> very strong positive correlation. B. Negative Correlation i) Correlation coefficient more than - 0.30 Very weak negative correlation ii) Correlation coefficient - 0.30 to - 0.497-> Weak negative correlation iii) Correlation coefficient - 0.50 to - 0.79 --> Moderate negative correlation iv) Correlation coefficient - 0.80 to - 0.89 Strong negative correlation. v) Correlation coefficient equal or less then - 0.90 --> very strong negative correlation Note: you should keep in mind that for negative values, more means towards more positive side and less means towards more negative side. For example; if we are saying, more than - 0.30, that mean - 0.29, - 0.28, - 0.27 .... so on; and if we are saying less than - 0.90 that means - 0.91, - 0.92 .... so on.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"correlation between weight heights\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bd196a9c-0f6f-4c43-b9ba-aae4f6158e86": {
-    "cop": 1,
-    "exp": "Ans. a. Depth of general anesthesia (Ref: Morgan 4/144-146; Lee's 12/e p146, 286, 447)EEG in anesthesia is useful in monitoring the depth of anesthesia (GA) with 16-lead.Uses of EEG in anesthesiaTo assess the sedation and awarenessQTo monitor epileptic activityQ, and to control antiepileptic drugs infusion, especially in paralyzed patientsTo monitor the changes in conscious levelsQDuring cerebrovascular surgery, to confirm the adequacy of cerebral oxygenationQMonitoring the depth of anesthesiaQ (GA) with 16-leadHave look on some new and important techniques.Bispectral Index Scale (BIS)It is based on the principle of EEGQIt uses 3 EEG electrodes placed on frontal, parietal and temporal lobesQBIS is used to monitor:Intraoperative awarenessQDepth of anesthesiaQIts value ranges from 0-100 (0: coma: 100: awake)Target intra-operative BIS: 40-60QTarget sedation BIS: 60-80QEntropyIt is based on the principle of EEG and EMGQ"
+    "cop": 0,
+    "exp": "Ans. a. Depth of general anesthesia (Ref: Morgan 4/144-146; Lee's 12/e p146, 286, 447)EEG in anesthesia is useful in monitoring the depth of anesthesia (GA) with 16-lead.Uses of EEG in anesthesiaTo assess the sedation and awarenessQTo monitor epileptic activityQ, and to control antiepileptic drugs infusion, especially in paralyzed patientsTo monitor the changes in conscious levelsQDuring cerebrovascular surgery, to confirm the adequacy of cerebral oxygenationQMonitoring the depth of anesthesiaQ (GA) with 16-leadHave look on some new and important techniques.Bispectral Index Scale (BIS)It is based on the principle of EEGQIt uses 3 EEG electrodes placed on frontal, parietal and temporal lobesQBIS is used to monitor:Intraoperative awarenessQDepth of anesthesiaQIts value ranges from 0-100 (0: coma: 100: awake)Target intra-operative BIS: 40-60QTarget sedation BIS: 60-80QEntropyIt is based on the principle of EEG and EMGQ",
+    "hint_exp": "🎯 Think of \"anesthesia\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "83f57471-405a-4c47-b501-9f8a5686380f": {
-    "cop": 2,
-    "exp": "Ans. Heat cramps"
+    "cop": 1,
+    "exp": "Ans. Heat cramps",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Miner cramps also called\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f45a164b-be13-40b8-890d-157532e27e8e": {
-    "cop": 2,
-    "exp": "Embryonated egg provide a better yield of rabies virus and were used for the preparation of the inactibated non neural rabies vaccine. REF:ANANTHANARAYAN AND PANIKER'S TEXTBOOK OF MICROBIOLOGY 9TH EDITION PAGE NO:434"
+    "cop": 1,
+    "exp": "Embryonated egg provide a better yield of rabies virus and were used for the preparation of the inactibated non neural rabies vaccine. REF:ANANTHANARAYAN AND PANIKER'S TEXTBOOK OF MICROBIOLOGY 9TH EDITION PAGE NO:434",
+    "hint_exp": "🧩 Your crush solved \"Vaccine prepared embryonated\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "22da9c3f-2144-4333-89bc-eeec0e8cbafb": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"located on\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "60bda0ff-efb7-4da7-9887-16d5439fb1ba": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Kidney disease Plummer-Vinson syndrome* Plummer-Vinson syndrome, also known as Brown-Kelly-Paterson syndrome or sederopenic dysphagia, seen in middle aged edentulous women.* The plummer Vinsion Paterson Brown Kelly Syndrome is characterized by: -# Dysphagia# Chronic iron deficiency anemia# Atrophic oral mucosa and glossitis# Brittle, spoon-shaped fingernails (Koilonychia)* The cause of dysphagia is usually a cervical esophageal web, but abnormal pharyngeal and esophageal motility may play a role.* The syndrome characterstically occurs in middle aged edentulous (without teeth) women.* It is a premalignant lesion. Approximately 10% of patient develop squamous cell Ca of esophagus, oral cavity or the hypopharynx.* As iron-deficiency anemia is a common finding, it is also known as sideropenic dysphagia.* Carcinoma develops in post-cricoid region (not in lower third esophagus)."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Kidney disease Plummer-Vinson syndrome* Plummer-Vinson syndrome, also known as Brown-Kelly-Paterson syndrome or sederopenic dysphagia, seen in middle aged edentulous women.* The plummer Vinsion Paterson Brown Kelly Syndrome is characterized by: -# Dysphagia# Chronic iron deficiency anemia# Atrophic oral mucosa and glossitis# Brittle, spoon-shaped fingernails (Koilonychia)* The cause of dysphagia is usually a cervical esophageal web, but abnormal pharyngeal and esophageal motility may play a role.* The syndrome characterstically occurs in middle aged edentulous (without teeth) women.* It is a premalignant lesion. Approximately 10% of patient develop squamous cell Ca of esophagus, oral cavity or the hypopharynx.* As iron-deficiency anemia is a common finding, it is also known as sideropenic dysphagia.* Carcinoma develops in post-cricoid region (not in lower third esophagus).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"true about Plummer vinson\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "06caedf4-10b9-41e6-bb46-3155ec6354aa": {
-    "cop": 3,
-    "exp": "Auriculotemporal nerve arises by two roots which run backward, encircle the middle meningeal aery, and unite to form a single trunk. The nerve continues backward between the neck of the mandible and the sphenomandibular ligament above the maxillary aery. Behind the neck of the mandible, it turns upwards and ascends on the temple behind the superficial temporal vessels. Ref BDC volume 3; 6th edition pg 125"
+    "cop": 2,
+    "exp": "Auriculotemporal nerve arises by two roots which run backward, encircle the middle meningeal aery, and unite to form a single trunk. The nerve continues backward between the neck of the mandible and the sphenomandibular ligament above the maxillary aery. Behind the neck of the mandible, it turns upwards and ascends on the temple behind the superficial temporal vessels. Ref BDC volume 3; 6th edition pg 125",
+    "hint_exp": "🎯 Think of \"mandible\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "929f603e-1c87-4a50-8bed-dac684c40ee5": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Hilar Lymphnode\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e92349fb-de9d-4450-bc6e-e07ec78b1af8": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the bone marrow\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "111ad14f-a151-4ffd-a69a-3aef0897e4bf": {
-    "cop": 4,
-    "exp": "Ans. is d, i.e. Increased peripheral vascular resistanceRef: Dutta Obs. 7/e, p 51-53As discussed in detail:Blood volume increases during pregnancyCardiac output = Stroke volume x Heart rateAll these three parameters increase during pregnancyIn pregnancy since the main hormone is progesterone, which has a smooth muscle relaxant effect so peripheral vascular resistance decreases during pregnancy (and not increases)."
+    "cop": 3,
+    "exp": "Ans. is d, i.e. Increased peripheral vascular resistanceRef: Dutta Obs. 7/e, p 51-53As discussed in detail:Blood volume increases during pregnancyCardiac output = Stroke volume x Heart rateAll these three parameters increase during pregnancyIn pregnancy since the main hormone is progesterone, which has a smooth muscle relaxant effect so peripheral vascular resistance decreases during pregnancy (and not increases).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following changes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d07c010e-4d8e-4f06-b5a4-9b5151955dc7": {
-    "cop": 2,
-    "exp": "Differential expression of outer surface proteins is thought to be involved with virulence; answers A, B and C are incorrect: (A) intracellular growth in leukocytes is a virulence factor of Ehrlichia; (B) endotoxins are characteristic of gram-negative organisms, not Borrelia; (C) localization in reticuloendothelial cells occurs in infections with Francisella tularensis."
+    "cop": 1,
+    "exp": "Differential expression of outer surface proteins is thought to be involved with virulence; answers A, B and C are incorrect: (A) intracellular growth in leukocytes is a virulence factor of Ehrlichia; (B) endotoxins are characteristic of gram-negative organisms, not Borrelia; (C) localization in reticuloendothelial cells occurs in infections with Francisella tularensis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c8ebe29b-c103-4867-911a-f6ab2361803d": {
-    "cop": 3,
-    "exp": "In a healthy individual, the total kappa tolambda ratio is roughly 2:1 in serum (measuring intact whole antibodies) or 1:1.5 if measuring free light chains, with a highly divergent ratio indicative of neoplasm. Ref Robbins 9/e p102"
+    "cop": 2,
+    "exp": "In a healthy individual, the total kappa tolambda ratio is roughly 2:1 in serum (measuring intact whole antibodies) or 1:1.5 if measuring free light chains, with a highly divergent ratio indicative of neoplasm. Ref Robbins 9/e p102",
+    "hint_exp": "🎯 Think of \"What ratio Kappa lambda\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a41cb4b0-9efe-4f41-9092-01534b59ea6f": {
-    "cop": 4,
-    "exp": "Budd-Chiari syndrome in its pure form consists of slowly developing thrombosis of the hepatic veins and the adjacent inferior vena cava . ETIOLOGY.: idiopathic in one third, in the remaining cases various causes associated with increased thrombotic tendencies are attributed to polycythaemia vera, paroxysmal nocturnal haemoglobinuria, oral contraceptives, pregnancy, postpaum state, intra-abdominal cancers (e.g. hepatocellular carcinoma), chemotherapy, radiation and myeloproliferative diseases. Formation of membranous webs, probably congenital or as a consequence of organised thrombosis, in the suprahepatic poion of inferior vena cava is another impoant cause. MORPHOLOGIC FEATURES. Grossly, the liver is enlarged, swollen, red-purple and has a tense capsule. Histologically, the changes in sudden hepatic vein occlusion are those of centrilobular congestion, necrosis and rupture of sinusoids into the space of Disse. In slowly developing thrombosis, the changes are more chronic and include fibrosing reaction in the centrilobular zone that may progress to cardiac cirrhosis. CLINICAL FEATURES : acute form -abdominal pain, vomiting, enlarged liver, ascites and mild icterus. chronic form - the patients present with pain over enlarged tender liver, ascites and other features of poal hypeension. The acute form of illness leads to acute hepatic failure and death, whereas in chronic form the patient may live for months to a few years. TEXT BOOK OF PATHOLOGY 6TH EDITION HARSH MOHAN PGNO.603 IMAGE REF:"
+    "cop": 3,
+    "exp": "Budd-Chiari syndrome in its pure form consists of slowly developing thrombosis of the hepatic veins and the adjacent inferior vena cava . ETIOLOGY.: idiopathic in one third, in the remaining cases various causes associated with increased thrombotic tendencies are attributed to polycythaemia vera, paroxysmal nocturnal haemoglobinuria, oral contraceptives, pregnancy, postpaum state, intra-abdominal cancers (e.g. hepatocellular carcinoma), chemotherapy, radiation and myeloproliferative diseases. Formation of membranous webs, probably congenital or as a consequence of organised thrombosis, in the suprahepatic poion of inferior vena cava is another impoant cause. MORPHOLOGIC FEATURES. Grossly, the liver is enlarged, swollen, red-purple and has a tense capsule. Histologically, the changes in sudden hepatic vein occlusion are those of centrilobular congestion, necrosis and rupture of sinusoids into the space of Disse. In slowly developing thrombosis, the changes are more chronic and include fibrosing reaction in the centrilobular zone that may progress to cardiac cirrhosis. CLINICAL FEATURES : acute form -abdominal pain, vomiting, enlarged liver, ascites and mild icterus. chronic form - the patients present with pain over enlarged tender liver, ascites and other features of poal hypeension. The acute form of illness leads to acute hepatic failure and death, whereas in chronic form the patient may live for months to a few years. TEXT BOOK OF PATHOLOGY 6TH EDITION HARSH MOHAN PGNO.603 IMAGE REF:",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"False about Budd Chiari\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b0560b75-ec38-4969-b4b8-2b341afd713a": {
-    "cop": 2,
-    "exp": "Wilm's tumor (Nephroblastoma) \n\nMost common malignant tumor of kidney,\n80% of tumor present below 5 year of age.\n\nPresentation \n\nAsymptomac abdominal mass (M. C.).\nHaematuria (10-25%).\nHypertension (25%).\nAbdominal pain (30%).\nFever (20%)."
+    "cop": 1,
+    "exp": "Wilm's tumor (Nephroblastoma) \n\nMost common malignant tumor of kidney,\n80% of tumor present below 5 year of age.\n\nPresentation \n\nAsymptomac abdominal mass (M. C.).\nHaematuria (10-25%).\nHypertension (25%).\nAbdominal pain (30%).\nFever (20%).",
+    "hint_exp": "🧩 Your crush solved \"Wilms tumor most common\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "be6db3d7-059b-4fc1-afb2-4b5d056fc41f": {
-    "cop": 2,
-    "exp": "Ans. B. Insulina. insulin acts on enzymatic (tyrosine kinase) receptorsb. Nicotine acts on NM and NN receptors which are ion channel receptorsc. Diazepam acts on GABA-BZD-Cl channel complex that mediates entry of chlorided. Glibenclamide is a sulfonylurea that acts on ACh sensitive K+ channels."
+    "cop": 1,
+    "exp": "Ans. B. Insulina. insulin acts on enzymatic (tyrosine kinase) receptorsb. Nicotine acts on NM and NN receptors which are ion channel receptorsc. Diazepam acts on GABA-BZD-Cl channel complex that mediates entry of chlorided. Glibenclamide is a sulfonylurea that acts on ACh sensitive K+ channels.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"following drugs ionic channels\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c19cdef6-07a7-478d-8aee-5a2d9d4f9399": {
-    "cop": 4,
-    "exp": "Ans. D. Mauriceau-Smellie-VeitThe image shows Mauriceau-Smellie-Veit maneuver used for delivery of after-coming head in breech delivery."
+    "cop": 3,
+    "exp": "Ans. D. Mauriceau-Smellie-VeitThe image shows Mauriceau-Smellie-Veit maneuver used for delivery of after-coming head in breech delivery.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following manoeuvre called\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a8c38dc5-e507-48f2-85b1-5aa9a8974f9a": {
-    "cop": 1,
-    "exp": "Usually a combination of ampicillin of cephalosporin and gentamicin is commended empirically and changed if necessary ,after the urine and blood culture results are obtained. Any of the following drugs can be used: Amoxicillin(500mg tid) Nitrofurantoin (100mg bid) Cephalexin(500mg tid) Amoxicillin-clavulanic acid(875mg bid) A Course of 10-14days will cure 70-100% of cases. Refer page no 274 of Text book of obsteics,sheila balakrishnan,2 nd edition and Textbook of Dutta, 9th edition,page 279."
+    "cop": 0,
+    "exp": "Usually a combination of ampicillin of cephalosporin and gentamicin is commended empirically and changed if necessary ,after the urine and blood culture results are obtained. Any of the following drugs can be used: Amoxicillin(500mg tid) Nitrofurantoin (100mg bid) Cephalexin(500mg tid) Amoxicillin-clavulanic acid(875mg bid) A Course of 10-14days will cure 70-100% of cases. Refer page no 274 of Text book of obsteics,sheila balakrishnan,2 nd edition and Textbook of Dutta, 9th edition,page 279.",
+    "hint_exp": "🎯 Think of \"Regarding antibiotic choice urinary\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "96d71de4-f6b2-447f-909d-8c38ea28d4c9": {
-    "cop": 1,
-    "exp": "Most common cause of acquired cataract is senile cataract Refer: Khurana 6th edition page number 190"
+    "cop": 0,
+    "exp": "Most common cause of acquired cataract is senile cataract Refer: Khurana 6th edition page number 190",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of cataract\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "28f89a9a-4b4c-4a3b-8bf9-ad383c47813e": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"perforation of appendix\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3df75c0c-683f-40e2-93dc-15e781a58198": {
-    "cop": 1,
-    "exp": "(Ultrasound) (152-Sutton 17th)* ULTRASOUND - widely used as the preliminary examination in suspected gall bladder or biliary tract disease and has added advantages that liver and pancreas can be assessed at the same examination* It is highly accurate in the diagnosis of gall stones including the non opaque stones not visible at simple radiographyLaparoscopic cholecystectomy is the treatment of choice for symptomatic gall stone (634-CMDT-10)99Tcm HIDA- isotope scanning is also a most valuable screening test for acute cholecystitisPercutaneous transhepatic cholangiography (PTC) - main indication for PTC is in the assessment of obstructive jaundice,Endoscopic retrograde cholangiopancreatography (ERCP) probably method of choice for the investigation of obstructive jaundice* Most common complication after ERCP is - Acute Pancreatitis** Stone which is resistant to Lithotripsy - cystine stone*** Focal and diffuse thickening of gall bladder with high amplitude reflection and \"Comet tail\" artifacts on USG- suggests - Adenomyomatosis of GBMagnetic resonance cholangiopancreatograpy (MRCP) is a radiological technique that produces images of the pancreatobiliary tree that are similar in appearance to those obtained by invasive radiographic methods such as ERCPAdvantages over ERCP* MRCP do not require administration of contrast agents or ionizing radiation* Images can be acquired faster* It is less operator dependent* Carries no risk of pancreatitis*Pancreatic divisum is the most common congenital variant of human pancreas"
+    "cop": 0,
+    "exp": "(Ultrasound) (152-Sutton 17th)* ULTRASOUND - widely used as the preliminary examination in suspected gall bladder or biliary tract disease and has added advantages that liver and pancreas can be assessed at the same examination* It is highly accurate in the diagnosis of gall stones including the non opaque stones not visible at simple radiographyLaparoscopic cholecystectomy is the treatment of choice for symptomatic gall stone (634-CMDT-10)99Tcm HIDA- isotope scanning is also a most valuable screening test for acute cholecystitisPercutaneous transhepatic cholangiography (PTC) - main indication for PTC is in the assessment of obstructive jaundice,Endoscopic retrograde cholangiopancreatography (ERCP) probably method of choice for the investigation of obstructive jaundice* Most common complication after ERCP is - Acute Pancreatitis** Stone which is resistant to Lithotripsy - cystine stone*** Focal and diffuse thickening of gall bladder with high amplitude reflection and \"Comet tail\" artifacts on USG- suggests - Adenomyomatosis of GBMagnetic resonance cholangiopancreatograpy (MRCP) is a radiological technique that produces images of the pancreatobiliary tree that are similar in appearance to those obtained by invasive radiographic methods such as ERCPAdvantages over ERCP* MRCP do not require administration of contrast agents or ionizing radiation* Images can be acquired faster* It is less operator dependent* Carries no risk of pancreatitis*Pancreatic divisum is the most common congenital variant of human pancreas",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"suspected gall bladder stone\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fa39980a-e15a-46ff-8ed2-7f64c9a383d6": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Greater omentumAnteriorCoils of small intestinePa of greater omentum (sometimes)Anterior abdominal wallPosteriorPsoas and iliacus musclesFemoral nerveLateral cutaneous nerve of thighAppendix (most common position)"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Greater omentumAnteriorCoils of small intestinePa of greater omentum (sometimes)Anterior abdominal wallPosteriorPsoas and iliacus musclesFemoral nerveLateral cutaneous nerve of thighAppendix (most common position)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"structures posterior relations except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ac80b22e-81b4-426b-83b8-e61023d5801e": {
-    "cop": 2,
-    "exp": "The lesions are acanthosis nigricans, which looks somewhat like a mole or wa, but is actually due to epidermal hyperplasia. Acanthosis nigricans can be seen in obesity, diabetes, and in patients with underlying cancers, often adenocarcinomas of the chest or abdomen. The lesions are not characteristic of immunosuppression and are not easily superinfected. They are also neither malignant nor premalignant. Ref: Suurmond D. (2009). Section 5. Miscellaneous Epidermal Disorders. In D. Suurmond (Ed), Fitzpatrick's Color Atlas & Synopsis of Clinical Dermatology, 6e."
+    "cop": 1,
+    "exp": "The lesions are acanthosis nigricans, which looks somewhat like a mole or wa, but is actually due to epidermal hyperplasia. Acanthosis nigricans can be seen in obesity, diabetes, and in patients with underlying cancers, often adenocarcinomas of the chest or abdomen. The lesions are not characteristic of immunosuppression and are not easily superinfected. They are also neither malignant nor premalignant. Ref: Suurmond D. (2009). Section 5. Miscellaneous Epidermal Disorders. In D. Suurmond (Ed), Fitzpatrick's Color Atlas & Synopsis of Clinical Dermatology, 6e.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5b510738-48fa-45d0-bd50-161b86062ded": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Black * Dead or moribund patients (color code black) have the lowest priority.* Triage has been explained in previous sessions"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Black * Dead or moribund patients (color code black) have the lowest priority.* Triage has been explained in previous sessions",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Least priority color code\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d69a1aa0-fe3a-48be-92c2-01c50a37417e": {
-    "cop": 3,
-    "exp": "The Food and Agriculture Organization was formed in 1945 with headquaers in Rome .It was the first United Nations Organization specialized agency created to look after several areas of world cooperation (refer pgno:923 park 23rd edition)"
+    "cop": 2,
+    "exp": "The Food and Agriculture Organization was formed in 1945 with headquaers in Rome .It was the first United Nations Organization specialized agency created to look after several areas of world cooperation (refer pgno:923 park 23rd edition)",
+    "hint_exp": "🧩 Your crush solved \"FAO\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9eabb046-348b-4eee-a67e-c45defe58775": {
-    "cop": 4,
-    "exp": "Replanting primary teeth has a poor prognosis, but could be considered if within 30 minutes. A primary tooth that is replanted will likely require splinting. The patient should be placed on antibiotics, restricted to a soft diet, and have a primary endodontic procedure accomplished."
+    "cop": 3,
+    "exp": "Replanting primary teeth has a poor prognosis, but could be considered if within 30 minutes. A primary tooth that is replanted will likely require splinting. The patient should be placed on antibiotics, restricted to a soft diet, and have a primary endodontic procedure accomplished.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the treatment of choice\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "483e70de-55c2-4816-853c-0f208cbae109": {
-    "cop": 1,
-    "exp": "Ans. a. Paracentric inversion (Ref: Robbins 9/e p138, 160, 8/e p138, 160; Lippincot 5/e p433-434)\"Inversion refers to a rearrangement that involves two breaks within a single chromosome with reincorporation of the inverted, intervening segment. An inversion involving only one arm of the chromosome is known as paracentric. If the breaks are on opposite sides of the centromere, it is known as pericentric. Inversions are often fully compatible with normal development.\"- Robbins 9/e p160, 8/e p160 Point MutationsReplacement or changes in single baseQTransitionTransversionPurine - PurineQ Pyrimidine - PyrimidineQPurine PyrimidineQ Pyrimidine - PurineQ Effects of point mutationSilent Mutations:No apparent effect due to change in 3rd nucleotide of genetic code (Wobble hypothesis)QThe codon containing the changed base codes for the same amino acidQExample: 67th position of B chain of HbAQNormalValineMilwaukeeQGlutamateBristolQAspartateSydneyQAlanineMissense mutations:The codon containing the changed base codes for different amino acidQAcceptable: Change in amino acid does not alter function of protein, Ex: Hb Hikari b-61: Asparaginase for lysineQPartially acceptable: Change in amino acid interferes with normal function. Ex: HbS/Sickle cell anemia b-6: Valine for glutamic acidQUnacceptable: Result in totally non-functional protein, Ex: HbM (Boston) a-58: Tyrosine for histidineQNonsense mutations:The codon containing changed base may become the termination codonFrame-shift muations:Addition or deletion of a base can cause aleration in the frame of m-RNA."
+    "cop": 0,
+    "exp": "Ans. a. Paracentric inversion (Ref: Robbins 9/e p138, 160, 8/e p138, 160; Lippincot 5/e p433-434)\"Inversion refers to a rearrangement that involves two breaks within a single chromosome with reincorporation of the inverted, intervening segment. An inversion involving only one arm of the chromosome is known as paracentric. If the breaks are on opposite sides of the centromere, it is known as pericentric. Inversions are often fully compatible with normal development.\"- Robbins 9/e p160, 8/e p160 Point MutationsReplacement or changes in single baseQTransitionTransversionPurine - PurineQ Pyrimidine - PyrimidineQPurine PyrimidineQ Pyrimidine - PurineQ Effects of point mutationSilent Mutations:No apparent effect due to change in 3rd nucleotide of genetic code (Wobble hypothesis)QThe codon containing the changed base codes for the same amino acidQExample: 67th position of B chain of HbAQNormalValineMilwaukeeQGlutamateBristolQAspartateSydneyQAlanineMissense mutations:The codon containing the changed base codes for different amino acidQAcceptable: Change in amino acid does not alter function of protein, Ex: Hb Hikari b-61: Asparaginase for lysineQPartially acceptable: Change in amino acid interferes with normal function. Ex: HbS/Sickle cell anemia b-6: Valine for glutamic acidQUnacceptable: Result in totally non-functional protein, Ex: HbM (Boston) a-58: Tyrosine for histidineQNonsense mutations:The codon containing changed base may become the termination codonFrame-shift muations:Addition or deletion of a base can cause aleration in the frame of m-RNA.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d6c130af-c911-4585-acaa-018b353753f8": {
-    "cop": 4,
-    "exp": "Ref Robbins 9/e p333 HCC may manifest with silent hepatomegaly, it is more often encountered in persons with symptomatic cirrhosis of the liver. In these persons, a rapid increase in liver size, sudden worsening of ascites, or the appearance of bloody ascites, fever, and pain call attention to the development of a tumor. There are no good serologic screening tests for hepatocellular carcinoma. The most commonly used marker is serum alpha-fetoprotein level, but it rises only with advanced tumors and only in 50% of patients. Fur- thermore, false-positive results are obtained in yolk-sac tumors, and many non-neoplastic conditions such as cir- rhosis, chronic hepatitis, normal pregnancy, and massive liver necrosis. Hence the test is neither specific nor sensi- tive. Radiologic screening of patients with cirrhosis at 6-month intervals, looking for dysplastic nodules or early, small hepatocellular BenignEdit There are several types of benign liver tumor. Hemangiomas: These are the most common type of benign liver tumor, found in up to 7% of autopsy specimens. They sta in blood vessels. Most of these tumors do not cause symptoms and do not need treatment. Some may bleed and need to be removed if it is mild to severe. A rare tumor is Infantile hemangioendothelioma. Hepatic adenomas: These benign epithelial liver tumors develop in the liver and are also an uncommon occurrence, found mainly in women using estrogens as contraceptives, or in cases of steroid abuse. They are, in most cases, located in the right hepatic lobe and are frequently seen as solitary. The size of adenomas range from 1 to 30 cm. Symptoms associated with hepatic adenomas are all associate with large lesions which can cause intense abdominal pain. Over the last few decades there has been an increase with occurrences of this specific type of adenoma. The prognosis for these tumors has still not been mastered. Some correlations have been made such as malignant transformation, spontaneous hemorrhage, and rupture. Focal nodular hyperplasia (FNH) is the second most common tumor of the liver. This tumor is the result of a congenital aeriovenous malformation hepatocyteresponse. This process is one in which all normal constituents of the liver are present, but the pattern by which they are presented is abnormal. Even though those conditions exist the liver still seems to perform in the normal range. Other types include nodular regenerative hyperplasia and hamaoma. carcinomas, is the current clinical frontier."
+    "cop": 3,
+    "exp": "Ref Robbins 9/e p333 HCC may manifest with silent hepatomegaly, it is more often encountered in persons with symptomatic cirrhosis of the liver. In these persons, a rapid increase in liver size, sudden worsening of ascites, or the appearance of bloody ascites, fever, and pain call attention to the development of a tumor. There are no good serologic screening tests for hepatocellular carcinoma. The most commonly used marker is serum alpha-fetoprotein level, but it rises only with advanced tumors and only in 50% of patients. Fur- thermore, false-positive results are obtained in yolk-sac tumors, and many non-neoplastic conditions such as cir- rhosis, chronic hepatitis, normal pregnancy, and massive liver necrosis. Hence the test is neither specific nor sensi- tive. Radiologic screening of patients with cirrhosis at 6-month intervals, looking for dysplastic nodules or early, small hepatocellular BenignEdit There are several types of benign liver tumor. Hemangiomas: These are the most common type of benign liver tumor, found in up to 7% of autopsy specimens. They sta in blood vessels. Most of these tumors do not cause symptoms and do not need treatment. Some may bleed and need to be removed if it is mild to severe. A rare tumor is Infantile hemangioendothelioma. Hepatic adenomas: These benign epithelial liver tumors develop in the liver and are also an uncommon occurrence, found mainly in women using estrogens as contraceptives, or in cases of steroid abuse. They are, in most cases, located in the right hepatic lobe and are frequently seen as solitary. The size of adenomas range from 1 to 30 cm. Symptoms associated with hepatic adenomas are all associate with large lesions which can cause intense abdominal pain. Over the last few decades there has been an increase with occurrences of this specific type of adenoma. The prognosis for these tumors has still not been mastered. Some correlations have been made such as malignant transformation, spontaneous hemorrhage, and rupture. Focal nodular hyperplasia (FNH) is the second most common tumor of the liver. This tumor is the result of a congenital aeriovenous malformation hepatocyteresponse. This process is one in which all normal constituents of the liver are present, but the pattern by which they are presented is abnormal. Even though those conditions exist the liver still seems to perform in the normal range. Other types include nodular regenerative hyperplasia and hamaoma. carcinomas, is the current clinical frontier.",
+    "hint_exp": "🎯 Think of \"level\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "742d0c9c-71d3-48fd-9537-ce5d4fc8db1a": {
-    "cop": 4,
-    "exp": "D i.e. Right ventricle"
+    "cop": 3,
+    "exp": "D i.e. Right ventricle",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"mediastinum shadow\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "71ad0c66-a27d-4096-82f9-4a42ebadcc71": {
-    "cop": 1,
-    "exp": "Mullerian duct anomaly is an impoant cause of recurrent miscarriage in early and midtrimester. Septate or arcuate uterus is the most common uterine anomaly associated with mullerian fusion defects and it is the most common defect associated with repeated pregnancy loss."
+    "cop": 0,
+    "exp": "Mullerian duct anomaly is an impoant cause of recurrent miscarriage in early and midtrimester. Septate or arcuate uterus is the most common uterine anomaly associated with mullerian fusion defects and it is the most common defect associated with repeated pregnancy loss.",
+    "hint_exp": "🧩 Your crush solved \"cases of recurrent aboions\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6656cbc8-6351-420e-a51a-2c0fd35e595b": {
-    "cop": 4,
-    "exp": "Phenobarbitone, rifampin enhance theophylline metabolism Cimetidine inhibits theophylline metabolism ESSENTIALS OF MEDICAL PHARMACOLOGY 7TH EDITION KD TRIPATHI Page No:226,227"
+    "cop": 3,
+    "exp": "Phenobarbitone, rifampin enhance theophylline metabolism Cimetidine inhibits theophylline metabolism ESSENTIALS OF MEDICAL PHARMACOLOGY 7TH EDITION KD TRIPATHI Page No:226,227",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"theophylline metabolism drug interactions\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7db82722-6a65-4243-976c-175ae5f2efa2": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., NormalBMI =Weight (Kg)----------------(Height in meters)2=70------(1.75)J= 22.86 (Normal BMI) BMI =Weight in kg----------------(Height in meters)2=50------(1.50)2= 22.22 Classification of adults according to BMIClassificationBMIRisk of comorbiditiesUnderweight< 18.50Low (but risk of other clinical problems increased)Normal range18.50-24.99AverageOverweight:> 25.00 Pre-obese25.00-29.99IncreasedObese class I30.00-34.99ModerateObese class II35.00-39.99SevereObese class III> 40.00Very severe* Thus, the patient in question is classified into normal range."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., NormalBMI =Weight (Kg)----------------(Height in meters)2=70------(1.75)J= 22.86 (Normal BMI) BMI =Weight in kg----------------(Height in meters)2=50------(1.50)2= 22.22 Classification of adults according to BMIClassificationBMIRisk of comorbiditiesUnderweight< 18.50Low (but risk of other clinical problems increased)Normal range18.50-24.99AverageOverweight:> 25.00 Pre-obese25.00-29.99IncreasedObese class I30.00-34.99ModerateObese class II35.00-39.99SevereObese class III> 40.00Very severe* Thus, the patient in question is classified into normal range.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"with height will have\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "957e927e-528e-41ff-9ac6-b999fd00379a": {
-    "cop": 1,
-    "exp": "CD 8 cells are another name for cytotoxic T cells. Basic Pathology, Robbins. Page no.:101"
+    "cop": 0,
+    "exp": "CD 8 cells are another name for cytotoxic T cells. Basic Pathology, Robbins. Page no.:101",
+    "hint_exp": "🎯 Think of \"cell\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ddb6bbb6-b1ed-46a8-9ff9-1633ced76a8b": {
-    "cop": 2,
-    "exp": "The ulnar nerve is most vulnerable near the elbow where it curves posteriorly around the medial epicondyle. The chief motor disability from palsy is loss of the finer intrinsic motions of the hand. Inspection will show an abduction deformity of the little finger from paralysis of the interossei, interosseous muscle wasting, and paial claw hand from interphalangeal flexion deformities of the ring and little fingers.Claw Hand--Klumpke Paralysis: An LMN lesion at the brachial plexus or ulnar nerve produces paralysis of the intrinsic hand muscles results in the claw hand. Sensation on the ulnar aspect of the arm, forearm, and hand may be lost. Ref: LeBlond R.F., DeGowin R.L., Brown D.D. (2009). Chapter 14. The Neurologic Examination. In R.F. LeBlond, R.L. DeGowin, D.D. Brown (Eds), DeGowin's Diagnostic Examination, 9e."
+    "cop": 1,
+    "exp": "The ulnar nerve is most vulnerable near the elbow where it curves posteriorly around the medial epicondyle. The chief motor disability from palsy is loss of the finer intrinsic motions of the hand. Inspection will show an abduction deformity of the little finger from paralysis of the interossei, interosseous muscle wasting, and paial claw hand from interphalangeal flexion deformities of the ring and little fingers.Claw Hand--Klumpke Paralysis: An LMN lesion at the brachial plexus or ulnar nerve produces paralysis of the intrinsic hand muscles results in the claw hand. Sensation on the ulnar aspect of the arm, forearm, and hand may be lost. Ref: LeBlond R.F., DeGowin R.L., Brown D.D. (2009). Chapter 14. The Neurologic Examination. In R.F. LeBlond, R.L. DeGowin, D.D. Brown (Eds), DeGowin's Diagnostic Examination, 9e.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bdb678fe-72d0-4005-9c66-b21014173058": {
-    "cop": 4,
-    "exp": "Whether an antigen will induce tolerance rather than an immunologic response is largely determined by immunological maturity of the host, structure, dose of antigen and administration of immunosuppressive drugs. Tolerance is best maintained by the presence of low concentrations of antigen. T cells become tolerant more readily than B cells."
+    "cop": 3,
+    "exp": "Whether an antigen will induce tolerance rather than an immunologic response is largely determined by immunological maturity of the host, structure, dose of antigen and administration of immunosuppressive drugs. Tolerance is best maintained by the presence of low concentrations of antigen. T cells become tolerant more readily than B cells.",
+    "hint_exp": "🧩 Your crush solved \"Which following statements best\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "52c58257-1cfa-4c56-a294-28aa8625f99e": {
-    "cop": 4,
-    "exp": "Severe internal bleeding"
+    "cop": 3,
+    "exp": "Severe internal bleeding",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"When shoulder pain develops\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b56b9921-40e5-491e-8231-9f084c2c1fe2": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"related to\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5ce5afcf-7f70-43b9-9f72-4c9b0f87aee7": {
-    "cop": 3,
-    "exp": "Ans. Echocardiography"
+    "cop": 2,
+    "exp": "Ans. Echocardiography",
+    "hint_exp": "🎯 Think of \"pericardial effusion\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a2f60ab0-5bdf-4c5c-928b-c601b3530280": {
-    "cop": 3,
-    "exp": "Immune thrombocytopenic purpura is an acquired disorder characterized by immune-mediated destruction of platelets and inhibition of release of platelets from the megakaryocyte. Since plateletsare involved bleeding time is abnormally prolonged in ITP. APTT, PT, CT are prolonged in coagulation disorders. Ref: Harrison's Principle of Internal Medicine, 18th Edition, Page 968, Chapter 115"
+    "cop": 2,
+    "exp": "Immune thrombocytopenic purpura is an acquired disorder characterized by immune-mediated destruction of platelets and inhibition of release of platelets from the megakaryocyte. Since plateletsare involved bleeding time is abnormally prolonged in ITP. APTT, PT, CT are prolonged in coagulation disorders. Ref: Harrison's Principle of Internal Medicine, 18th Edition, Page 968, Chapter 115",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"abnormally prolonged in ITP\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "66bb8e75-2bc9-4732-96f0-ce9d6512e16b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Effective evaluation refers\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9ea4ae20-f791-4adc-bcd6-5cf5fad86189": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Inverted sign seen\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7af45a7b-c899-4055-88c9-5cc77b0d7cc1": {
-    "cop": 3,
-    "exp": "Ans. (c) HSV keratitis."
+    "cop": 2,
+    "exp": "Ans. (c) HSV keratitis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Dendrites cornea seen with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5913481a-5c50-4407-8d36-1a307bad405e": {
-    "cop": 3,
-    "exp": "Ans. Angular conjunctivitis"
+    "cop": 2,
+    "exp": "Ans. Angular conjunctivitis",
+    "hint_exp": "🎯 Think of \"known to\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d0afa91b-8a4a-4a10-86ef-620bf1439689": {
-    "cop": 1,
-    "exp": "The borderline type is characterised by emotional instability. In addition, patient's own self-image, aims, and internal preferences (including sexual) are often unclear or disturbed. There are usually chronic feelings of emptiness. A liability to become involved in intense and unstable relationships may cause repeated emotional crises and may be associated with excessive effos to avoid abandonment and a series of suicidal threats or acts of self-harm.The borderline type is also known as borderline personality disorder (DSM-IV-TR), the characteristic features of which include the following:1. Significant and persistent disturbance of identity of self, e.g. 'who am I'. There is marked unceainty about major issues in life.2. Unstable and intense interpersonal relationship patterns.3. Impulsivity.4. Unstable emotional responses, with rapid shifts. Anger outbursts may occur.5. Chronic feelings of boredom or emptiness with an inability to stay alone.6. Deliberate self-harm is common in the form of self-mutilation, suicidal gestures, or accident proneness. Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 117"
+    "cop": 0,
+    "exp": "The borderline type is characterised by emotional instability. In addition, patient's own self-image, aims, and internal preferences (including sexual) are often unclear or disturbed. There are usually chronic feelings of emptiness. A liability to become involved in intense and unstable relationships may cause repeated emotional crises and may be associated with excessive effos to avoid abandonment and a series of suicidal threats or acts of self-harm.The borderline type is also known as borderline personality disorder (DSM-IV-TR), the characteristic features of which include the following:1. Significant and persistent disturbance of identity of self, e.g. 'who am I'. There is marked unceainty about major issues in life.2. Unstable and intense interpersonal relationship patterns.3. Impulsivity.4. Unstable emotional responses, with rapid shifts. Anger outbursts may occur.5. Chronic feelings of boredom or emptiness with an inability to stay alone.6. Deliberate self-harm is common in the form of self-mutilation, suicidal gestures, or accident proneness. Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 117",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"lady very unstable relationship\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a0012dc7-cb2f-4d5b-afe6-507155ea4b12": {
-    "cop": 1,
-    "exp": "Ans: A (> 10% loss of body weight) Ref: Nelson s Textbook of Pediatrics. 19th Edition, Chapter on 'Deficit Therapy'. Page 245Explanation:In an older child with diarrhea, 6% loss of body weight amounts to Severe dehydration whereas 10% loss of body weight is required to cause the same in infants (Ref: Nelson).CLINICAL EVALUATION OF DEHYDRATIONMild dehydration (<5% in an infant: <3% in an older child or adult):Normal or increased pulseDecreased urine outputThirstyNormal physical findingsModerate dehydration (5-10% in an infant: 3- 6% in an older child or adult):TachycardiaLittle or no urine output: Irritable/lethargieSunken eyes and fontanelDecreased tearsDry mucous membranesMild delay in elasticity (skin turgor)Delayed capillary refill (>1.5 sec)Cool and paleSevere dehydration (>10% in an infant; >6% in an older child or adult):Peripheral pulses either rapid and weak or absentDecreased blood pressureNo urine outputVery sunken eyes and fontanelNo tearsParched mucous membranesDelayed elasticity (poor skin turgor)Very delayed capillary refill (>3 see)Cold and mottledLimp, depressed consciousness"
+    "cop": 0,
+    "exp": "Ans: A (> 10% loss of body weight) Ref: Nelson s Textbook of Pediatrics. 19th Edition, Chapter on 'Deficit Therapy'. Page 245Explanation:In an older child with diarrhea, 6% loss of body weight amounts to Severe dehydration whereas 10% loss of body weight is required to cause the same in infants (Ref: Nelson).CLINICAL EVALUATION OF DEHYDRATIONMild dehydration (<5% in an infant: <3% in an older child or adult):Normal or increased pulseDecreased urine outputThirstyNormal physical findingsModerate dehydration (5-10% in an infant: 3- 6% in an older child or adult):TachycardiaLittle or no urine output: Irritable/lethargieSunken eyes and fontanelDecreased tearsDry mucous membranesMild delay in elasticity (skin turgor)Delayed capillary refill (>1.5 sec)Cool and paleSevere dehydration (>10% in an infant; >6% in an older child or adult):Peripheral pulses either rapid and weak or absentDecreased blood pressureNo urine outputVery sunken eyes and fontanelNo tearsParched mucous membranesDelayed elasticity (poor skin turgor)Very delayed capillary refill (>3 see)Cold and mottledLimp, depressed consciousness",
+    "hint_exp": "🧩 Your crush solved \"What percentage weight loss\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3444513d-d8f7-44b6-9a63-c1721d45ad1f": {
-    "cop": 1,
-    "exp": "The most common complication in type 2 diabetes mellitus is neuropathy affecting 50% of patients. Distal symmetric polyneuropathy leading to loss of function in stocking glove pattern is the leading presentation of diabetic neuropathy."
+    "cop": 0,
+    "exp": "The most common complication in type 2 diabetes mellitus is neuropathy affecting 50% of patients. Distal symmetric polyneuropathy leading to loss of function in stocking glove pattern is the leading presentation of diabetic neuropathy.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which most common complication\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "01f23a45-dc7e-4a62-a4be-918c07117e11": {
-    "cop": 1,
-    "exp": "Answer- A. Paget's diseaseCauses of secondary osteosarcomaPagets DiseaseFibrous dysplasiaEnchondromatosisHereditary multiple exostosisRadiationChronicosteomyelitisBone infarction"
+    "cop": 0,
+    "exp": "Answer- A. Paget's diseaseCauses of secondary osteosarcomaPagets DiseaseFibrous dysplasiaEnchondromatosisHereditary multiple exostosisRadiationChronicosteomyelitisBone infarction",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"associated with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0870eb4d-966c-40e3-8cb3-7003da804f90": {
-    "cop": 2,
-    "exp": "Ans) b (Mumps) Ref Dhingra 4th edition p34-36Measles, mumps and cytomegalovirus are well documented to produce labryrinthitis which is common cause for acquired SNHL.Viruses usually reach the inner ear by blood stream affecting stria vascularis and then endolymph and organ of corti.Several other viruses, eg rubella, herpes zoster, herpes simplex, influenza, and Epstein - Barr vims are clinically known to cause deafness but direct proof of their invasion of labyrinth is lacking.There is another entity called sudden SNHL. In this condition SNHL will develop over a period of hours or few weeks. Mostly it will be unilateral. It may be accompanied by tinnitus or temporary spell of vertigo. Viral infections like mumps and herpes zoster are aetiological factors.\"Unilateral SNHL\" was clearly given in the original question paperSo most probably mumps may be the right answer."
+    "cop": 1,
+    "exp": "Ans) b (Mumps) Ref Dhingra 4th edition p34-36Measles, mumps and cytomegalovirus are well documented to produce labryrinthitis which is common cause for acquired SNHL.Viruses usually reach the inner ear by blood stream affecting stria vascularis and then endolymph and organ of corti.Several other viruses, eg rubella, herpes zoster, herpes simplex, influenza, and Epstein - Barr vims are clinically known to cause deafness but direct proof of their invasion of labyrinth is lacking.There is another entity called sudden SNHL. In this condition SNHL will develop over a period of hours or few weeks. Mostly it will be unilateral. It may be accompanied by tinnitus or temporary spell of vertigo. Viral infections like mumps and herpes zoster are aetiological factors.\"Unilateral SNHL\" was clearly given in the original question paperSo most probably mumps may be the right answer.",
+    "hint_exp": "🎯 Think of \"Virus causing sensori neural\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "34a7e4f8-94bd-4674-8eba-eaf3c064e027": {
-    "cop": 3,
-    "exp": "Rheobase (R) refers to the minimum intensity of stimulus which if applied for adequate time (utilization time) produces a response.Chronaxie (C) refers to the minimum duration for which the stimulus of double the rheobase intensity must be applied to produce a response. Ref: Indu Khurana Medical Physiology for Undergraduates, 1st ed, p 51"
+    "cop": 2,
+    "exp": "Rheobase (R) refers to the minimum intensity of stimulus which if applied for adequate time (utilization time) produces a response.Chronaxie (C) refers to the minimum duration for which the stimulus of double the rheobase intensity must be applied to produce a response. Ref: Indu Khurana Medical Physiology for Undergraduates, 1st ed, p 51",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"called\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c73ac683-d1af-44a2-9b75-6add352c05c6": {
-    "cop": 2,
-    "exp": "absolute CD4 lymphocyte count is the predictor for HIV progression.risk of progression to an AIDS oppeunistic infection or malignancy is high with CD4<200 normal CD4:CD8 ratio is 2. If ratio decreases to 1 or less,it denotes AIDS clinical diagnosis of AIDS, minor signs includes persistent cough for more than 1 month,generalised pruritic dermatitis,oropharyngeal candidiasis,generalised lymphadenopathy,history of herpes zoster,herpes simplex infection major criteria includes weight loss >10% body weight,chronic diarrhoea >1 month,prolonged fever of more than 1 month park edition 23 page 348,350"
+    "cop": 1,
+    "exp": "absolute CD4 lymphocyte count is the predictor for HIV progression.risk of progression to an AIDS oppeunistic infection or malignancy is high with CD4<200 normal CD4:CD8 ratio is 2. If ratio decreases to 1 or less,it denotes AIDS clinical diagnosis of AIDS, minor signs includes persistent cough for more than 1 month,generalised pruritic dermatitis,oropharyngeal candidiasis,generalised lymphadenopathy,history of herpes zoster,herpes simplex infection major criteria includes weight loss >10% body weight,chronic diarrhoea >1 month,prolonged fever of more than 1 month park edition 23 page 348,350",
+    "hint_exp": "🧩 Your crush solved \"diagnosi AIDS criteria include\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

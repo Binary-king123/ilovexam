@@ -1,202 +1,252 @@
 {
   "590e6162-f5b8-4e35-91d8-8aeeedd7c0af": {
-    "cop": 1,
-    "exp": "Fracture shaft femur - Perkin's traction\nFoot drop - Toe raising splint\nCTEV - Dennis Brown splint \nDDH - Pavlick Hamers\n           Bachelor cast\n           Von Rosen splint"
+    "cop": 0,
+    "exp": "Fracture shaft femur - Perkin's traction\nFoot drop - Toe raising splint\nCTEV - Dennis Brown splint \nDDH - Pavlick Hamers\n           Bachelor cast\n           Von Rosen splint",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Perkins traction used\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "514b7f0e-2f5b-428a-89e6-cd0dfce8525f": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Contraceptive choice women with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "cd2d358a-d0c8-4917-8da0-01bc92b0ba97": {
-    "cop": 4,
-    "exp": "- Given clinical features suggets the diagnosis of congenital hypothyroidism which can be caused d/t defect in thyroid. Hence option 4 is the answer. Cretinism: - Cretinism denotes physical & mental insufficiency secondary to congenital hypothyroidism. - Cretinism may be endemic, sporadic or familial & is twice as frequent in girls as in boys. - Iodination of salt has reduced incidence of cretinism in the United States and other countries. - The most common cause of neonatal hypothyroidism today is agenesis of thyroid, which occurs at rate of 1 in 4,000 newborns. - Symptoms of congenital hypothyroidism appear in early weeks of life and include sluggishness a large abdomen often with umbilical herniation impaired development of skeletal & central nervous system severe mental retardation protruding tongue low body temperature refractory anemia. stunted growth & characteristic facies - If thyroid hormone replacement therapy is not promptly provided, this results in mentally retarded dwarfs."
+    "cop": 3,
+    "exp": "- Given clinical features suggets the diagnosis of congenital hypothyroidism which can be caused d/t defect in thyroid. Hence option 4 is the answer. Cretinism: - Cretinism denotes physical & mental insufficiency secondary to congenital hypothyroidism. - Cretinism may be endemic, sporadic or familial & is twice as frequent in girls as in boys. - Iodination of salt has reduced incidence of cretinism in the United States and other countries. - The most common cause of neonatal hypothyroidism today is agenesis of thyroid, which occurs at rate of 1 in 4,000 newborns. - Symptoms of congenital hypothyroidism appear in early weeks of life and include sluggishness a large abdomen often with umbilical herniation impaired development of skeletal & central nervous system severe mental retardation protruding tongue low body temperature refractory anemia. stunted growth & characteristic facies - If thyroid hormone replacement therapy is not promptly provided, this results in mentally retarded dwarfs.",
+    "hint_exp": "🎯 Think of \"that their baby\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1b674d6a-1392-4375-ac1d-38318077ed77": {
-    "cop": 4,
-    "exp": "Ans: (d) Standing height is about 1.7 cm less than recumbent lengthRef: Pediatrics for Medical Graduates, Arun Babu T, 1st edition, Page 3 5.Weight: It is recommended to weigh children using a scale with the following features:Solidly built and durableElectronic (digital reading)Measures up to 150 kgMeasures to a precision of 0.1 kg (100 g)Allows tared weighing\"Tared weighing\" means that the scale can be re-set to zero (\"tared\") with the person just weighed still on it. Thus, a mother can stand on the scale, be weighed, and the scale tared. While remaining on the scale, if she is given her child to hold, the child's weight alone appears on the scale.Tared weighing has two clear advantages:There is no need to subtract weights to determine the child's weight alone (reducing the risk of error).The child is likely to remain calm when held in the mother's arms for weighing,Bathroom scales are not recommended as they tend to be unreliable.Hanging scales are also not reliable when weighing agitated babies,Precision describes the smallest exact unit that the scale can measure.Points to Remember:Birth weight of Indian children 2.8 KgTerm neonate regains lost birth weight by 7 to 10 days, preterm by 10 to 14 daysBirth weight double by 6 months, triples by 1 year, quadruples by 2 years and increases 5 times by 3 years.Age in monthsRate of weight gain (gm/day)10 days to 3 months25-304 to 6 months207 to 9 months1510 to 12 months12Formula for calculating expected weight:Infants of age 3 to 12 months weight (Kg)=(Age in months +9)/2For 1 to 6 years weight (Kg)=(Age in years x2) +8For 7 to 12 years weight (Kg)=/2 or Age in years x3Length:If a child is less than 2 years old, measure recumbent length.If the child is aged 2 years or older and able to stand, measure standing height.In general, standing height is about 0.7 cm less than recumbent length.If a child less than 2 years old will not lie down for measurement of length, measure standing height and add 0.7 cm to convert it to length.If a child aged 2 years or older cannot stand, measure recumbent length and subtract 0.7 cm to convert it to height.Equipment needed to measure length is a length board (sometimes called an infantometer) which should be placed on a flat, stable surface such as a table.To measure height, use a height board (sometimes called a stadiometer) mounted at a right angle between a level floor and against a straight, vertical surface such as a wall or pillar.Child should directly look forwards (in stadiometer) or child should be looking straight up (in infantometer) so that the head is positioned in line with FRANKFURT PLANE (the line joining the floor of external auditory meatus to the lower margin of orbit)Expected height between 2 and 12 years in cm (Weech formula)=(Age in yearsMid-Parental Target HeightIn girl (cm)=(mother's height in cm+father's height in cm-13)/2In boy (cm)=(mother's height in cm+father's height in cm+13)/2Expected adult height (cm)=Mid-Parental target height+-8"
+    "cop": 3,
+    "exp": "Ans: (d) Standing height is about 1.7 cm less than recumbent lengthRef: Pediatrics for Medical Graduates, Arun Babu T, 1st edition, Page 3 5.Weight: It is recommended to weigh children using a scale with the following features:Solidly built and durableElectronic (digital reading)Measures up to 150 kgMeasures to a precision of 0.1 kg (100 g)Allows tared weighing\"Tared weighing\" means that the scale can be re-set to zero (\"tared\") with the person just weighed still on it. Thus, a mother can stand on the scale, be weighed, and the scale tared. While remaining on the scale, if she is given her child to hold, the child's weight alone appears on the scale.Tared weighing has two clear advantages:There is no need to subtract weights to determine the child's weight alone (reducing the risk of error).The child is likely to remain calm when held in the mother's arms for weighing,Bathroom scales are not recommended as they tend to be unreliable.Hanging scales are also not reliable when weighing agitated babies,Precision describes the smallest exact unit that the scale can measure.Points to Remember:Birth weight of Indian children 2.8 KgTerm neonate regains lost birth weight by 7 to 10 days, preterm by 10 to 14 daysBirth weight double by 6 months, triples by 1 year, quadruples by 2 years and increases 5 times by 3 years.Age in monthsRate of weight gain (gm/day)10 days to 3 months25-304 to 6 months207 to 9 months1510 to 12 months12Formula for calculating expected weight:Infants of age 3 to 12 months weight (Kg)=(Age in months +9)/2For 1 to 6 years weight (Kg)=(Age in years x2) +8For 7 to 12 years weight (Kg)=/2 or Age in years x3Length:If a child is less than 2 years old, measure recumbent length.If the child is aged 2 years or older and able to stand, measure standing height.In general, standing height is about 0.7 cm less than recumbent length.If a child less than 2 years old will not lie down for measurement of length, measure standing height and add 0.7 cm to convert it to length.If a child aged 2 years or older cannot stand, measure recumbent length and subtract 0.7 cm to convert it to height.Equipment needed to measure length is a length board (sometimes called an infantometer) which should be placed on a flat, stable surface such as a table.To measure height, use a height board (sometimes called a stadiometer) mounted at a right angle between a level floor and against a straight, vertical surface such as a wall or pillar.Child should directly look forwards (in stadiometer) or child should be looking straight up (in infantometer) so that the head is positioned in line with FRANKFURT PLANE (the line joining the floor of external auditory meatus to the lower margin of orbit)Expected height between 2 and 12 years in cm (Weech formula)=(Age in yearsMid-Parental Target HeightIn girl (cm)=(mother's height in cm+father's height in cm-13)/2In boy (cm)=(mother's height in cm+father's height in cm+13)/2Expected adult height (cm)=Mid-Parental target height+-8",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"true about anthropometric measurements\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "69e2d7cc-49a5-4f82-93cf-4bfcaf08dd74": {
-    "cop": 2,
-    "exp": "Ans. is'b' i.e., T4o Three general classes of hormone exist : -Proteins and polypeptideMost of hormones in the body are polypeptides and proteins. In general, polypeptides writh 100 or more aminoacids are called proteins, and those with fewer than 100 amino acids are referred to as peptides.Proteins and peptide hormones are synthesized on the rough ER. They are usually synthesized first as larger proteins (precursors) that are not biologically active (preprohormone) and cleaved in the ER to form smaller prohormones. These are then transferred to the Golgi apparatus for packing into secretory vesicles. In this process, enzymes in the vesicles cleave the prohormones to produce smaller, biologically active hormones and inactive fragments. Vesicles are stored into cytoplasm and secretion of the hormones occur by exocytosis.The peptide/protein hormones are :-Hypothalamus Thyrotropin releasing hormone (TRH), corticotropin-releasing hormone (CRH), Growth-hormone releasing hormone (GHRh), Growth hormone inhibitory hormone (GHIn), i.e., somatostatin, Gonadotropin-releasing hormone (GnRH).Anterior pituitary Growth hormone, thyroid stimulating hormone (THS) or thyrotropin, adrenocorticotropin hormone (ACTH), prolactin, follicle stimulating hormone (FSH), leutinizing hormone (LH).Posterior pituitary ; - Antidiuretic hormone (ADH)/vasopressin, oxytocin.Thyroid gland : - CalcitoninPancreas : - Insulin, glucagon.Parathyroid : - ParathormonePlacenta : - Human chorionic gonadotropin (HCG), Human somatomammotropin.Kidney : - Renin, erythropoietinHeart: - Atrial natriuretic peptide (ANP)Stomach : - GastrinSmall intestine : - Secretin, Cholecystokinin (CCK)Adipocytes : - LeptinAngiotensin IISome of these peptide hormones are glycoproteins, i.e., they have sugar associated with proteins. Glycoprotein hormones are FSH, LH, TSH, human chorionic gonadotropin, erythropoietin,Steroid hormonesThese hormones are synthesized from cholesterol. Once they are synthesized, they are simply diffuse across the cell membrane (because they are lipid soluble) and enter the interstitial fluid and then the blood. Thus, they are not stored.Steroid hormones are : -Adrenal cortex : - Cortisol (Glucocorticoids), Aldosterone (mineralocorticoids).Gonads : - Testosterone, estrogen, progesterone.Kidney : - 1, 25 - DihydroxycholecalciferolAmine hormonesThese hormones are derivatives of amino acid tyrosine. These hormones are : -Thyroid gland : - Thyroxine (T4)and Triiodothyronine (T3).Adrenal medulla : - Norepinephrine (Noradrenaline), Epinephrine (adrenaline)Hypothalamus : - Dopamine or Prolactin inhibiting factor (PIF)"
+    "cop": 1,
+    "exp": "Ans. is'b' i.e., T4o Three general classes of hormone exist : -Proteins and polypeptideMost of hormones in the body are polypeptides and proteins. In general, polypeptides writh 100 or more aminoacids are called proteins, and those with fewer than 100 amino acids are referred to as peptides.Proteins and peptide hormones are synthesized on the rough ER. They are usually synthesized first as larger proteins (precursors) that are not biologically active (preprohormone) and cleaved in the ER to form smaller prohormones. These are then transferred to the Golgi apparatus for packing into secretory vesicles. In this process, enzymes in the vesicles cleave the prohormones to produce smaller, biologically active hormones and inactive fragments. Vesicles are stored into cytoplasm and secretion of the hormones occur by exocytosis.The peptide/protein hormones are :-Hypothalamus Thyrotropin releasing hormone (TRH), corticotropin-releasing hormone (CRH), Growth-hormone releasing hormone (GHRh), Growth hormone inhibitory hormone (GHIn), i.e., somatostatin, Gonadotropin-releasing hormone (GnRH).Anterior pituitary Growth hormone, thyroid stimulating hormone (THS) or thyrotropin, adrenocorticotropin hormone (ACTH), prolactin, follicle stimulating hormone (FSH), leutinizing hormone (LH).Posterior pituitary ; - Antidiuretic hormone (ADH)/vasopressin, oxytocin.Thyroid gland : - CalcitoninPancreas : - Insulin, glucagon.Parathyroid : - ParathormonePlacenta : - Human chorionic gonadotropin (HCG), Human somatomammotropin.Kidney : - Renin, erythropoietinHeart: - Atrial natriuretic peptide (ANP)Stomach : - GastrinSmall intestine : - Secretin, Cholecystokinin (CCK)Adipocytes : - LeptinAngiotensin IISome of these peptide hormones are glycoproteins, i.e., they have sugar associated with proteins. Glycoprotein hormones are FSH, LH, TSH, human chorionic gonadotropin, erythropoietin,Steroid hormonesThese hormones are synthesized from cholesterol. Once they are synthesized, they are simply diffuse across the cell membrane (because they are lipid soluble) and enter the interstitial fluid and then the blood. Thus, they are not stored.Steroid hormones are : -Adrenal cortex : - Cortisol (Glucocorticoids), Aldosterone (mineralocorticoids).Gonads : - Testosterone, estrogen, progesterone.Kidney : - 1, 25 - DihydroxycholecalciferolAmine hormonesThese hormones are derivatives of amino acid tyrosine. These hormones are : -Thyroid gland : - Thyroxine (T4)and Triiodothyronine (T3).Adrenal medulla : - Norepinephrine (Noradrenaline), Epinephrine (adrenaline)Hypothalamus : - Dopamine or Prolactin inhibiting factor (PIF)",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7f07297e-40f2-420b-a4ee-de53c632ff0e": {
-    "cop": 2,
-    "exp": "Aron Beck postulated a cognitive triad of depression that consists of\n\n1) View about the self → a negative self-precept;\n2) About the environment → A tendency to experience the world as hostile and demanding, \n3) About the future → Expectation of suffering and failure. \n\nCognitive therapy consists of modifying these distortions."
+    "cop": 1,
+    "exp": "Aron Beck postulated a cognitive triad of depression that consists of\n\n1) View about the self → a negative self-precept;\n2) About the environment → A tendency to experience the world as hostile and demanding, \n3) About the future → Expectation of suffering and failure. \n\nCognitive therapy consists of modifying these distortions.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"depression\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b59b7b30-dc0d-4bd4-a562-b1c73707b6e5": {
-    "cop": 2,
-    "exp": "Answer is B (Low Urinary Calcium): Primary Hyperparathyroidism is associated with normal or increased urinary calcium levels. Increased PTH and Increased Serum calcium in association with high levels of urinary calcium suggest a diagnosis of Primary Hyperparathyroidism Increased PTH and Increased Serum calcium in association with low levels of urinary calcium suggest a diagnosis of Familial Hvpocalciuric Hvpercalcemia (FHH) Disorder S-Ca2+- S-PHOS Intact PTH PTHrP Urine Calcium Urinary Ca2+ Creatinine Clearance ratio Primary HPTH 1' sl, (or N) 1' (or N) ,I, U-Ca2' > 100mg/24h >0.02 Familial benign hypercalcemia l' .I(or N) 1' (or N) ,I, U-Ca2+ <100mg/24h <0.01 This clearance ratio is calculated from simultaneous fasting serum and urine Ca and creatinine measurements. The urine sample can be from a spot or a 24 h collection. The clearance ratio is calculated as follows: Urine Ca (mg/24h)x plasma creatinine (mg/dl )/plasma Ca (mg/dL) x urine creatinine (mg/24h)"
+    "cop": 1,
+    "exp": "Answer is B (Low Urinary Calcium): Primary Hyperparathyroidism is associated with normal or increased urinary calcium levels. Increased PTH and Increased Serum calcium in association with high levels of urinary calcium suggest a diagnosis of Primary Hyperparathyroidism Increased PTH and Increased Serum calcium in association with low levels of urinary calcium suggest a diagnosis of Familial Hvpocalciuric Hvpercalcemia (FHH) Disorder S-Ca2+- S-PHOS Intact PTH PTHrP Urine Calcium Urinary Ca2+ Creatinine Clearance ratio Primary HPTH 1' sl, (or N) 1' (or N) ,I, U-Ca2' > 100mg/24h >0.02 Familial benign hypercalcemia l' .I(or N) 1' (or N) ,I, U-Ca2+ <100mg/24h <0.01 This clearance ratio is calculated from simultaneous fasting serum and urine Ca and creatinine measurements. The urine sample can be from a spot or a 24 h collection. The clearance ratio is calculated as follows: Urine Ca (mg/24h)x plasma creatinine (mg/dl )/plasma Ca (mg/dL) x urine creatinine (mg/24h)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Primary hyperparathyroidism suggested following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7241e65d-70bb-4fd5-b053-3fce11a2ef10": {
-    "cop": 1,
-    "exp": "* Rocuronium is the fastest acting Non-depolarizing muscle relaxant (NDMR). It can be used for the rapid sequence endotracheal intubation in patients having contra-indications to the use of SCh. * Mivacurium is the shoest acting NDMR. * SCh is the shoest and fastest acting skeletal muscle relaxant. It is a depolarizing NM blocker."
+    "cop": 0,
+    "exp": "* Rocuronium is the fastest acting Non-depolarizing muscle relaxant (NDMR). It can be used for the rapid sequence endotracheal intubation in patients having contra-indications to the use of SCh. * Mivacurium is the shoest acting NDMR. * SCh is the shoest and fastest acting skeletal muscle relaxant. It is a depolarizing NM blocker.",
+    "hint_exp": "🎯 Think of \"tracheal intubation\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e948bdd1-c5ea-4695-98e5-600051031f2d": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Lorazepam"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Lorazepam",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"choice for status epilepticus\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "07eec661-249c-4d13-9840-d3ba2c2ee773": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Adenocarcinoma of lung o Bronchoalveolar carcinoma (BAC) is a relatively unusual (5% of all lung cancer) subtype of adenocarcinoma that has a unique growth pattern that differs from adenocarcinoma. Rather than invading and destroying contiguous lung parenchyma tumor cells multiply and fill the alveolar spaces. Because of their grwoth within alveoli, BAC tumor cells from one site can aerogenously seed other pas of the same lobe or lung, or the contralateral lung. This growth pattern and tendency to seed can produce three radiographic presentation: a single nodule, multiple nodules (in single or multiple nodes), or a diffuse form with an appearance mimicking that of a lobar pneumonia. Because tumorcells fill the alveolar spaces and envelop small airways rather than destroying them, air bronchograms can be seen, unlike with other carcinomas. o it has the best prognosis of all the cell types."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Adenocarcinoma of lung o Bronchoalveolar carcinoma (BAC) is a relatively unusual (5% of all lung cancer) subtype of adenocarcinoma that has a unique growth pattern that differs from adenocarcinoma. Rather than invading and destroying contiguous lung parenchyma tumor cells multiply and fill the alveolar spaces. Because of their grwoth within alveoli, BAC tumor cells from one site can aerogenously seed other pas of the same lobe or lung, or the contralateral lung. This growth pattern and tendency to seed can produce three radiographic presentation: a single nodule, multiple nodules (in single or multiple nodes), or a diffuse form with an appearance mimicking that of a lobar pneumonia. Because tumorcells fill the alveolar spaces and envelop small airways rather than destroying them, air bronchograms can be seen, unlike with other carcinomas. o it has the best prognosis of all the cell types.",
+    "hint_exp": "🧩 Your crush solved \"is seen in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "635fb5d1-b898-48f8-98fa-a91780a15a46": {
-    "cop": 4,
-    "exp": "Ans. is 'd' ie Hepatitis (Ref. Sabiston, 18/e pl515 (17/e, p 1561, 16/e, p 1056); Maingot's 10/e, p 300)Hemobilia is defined as bleeding into the biliary tree from an abnormal communication between a blood vessel and bile duct.Causes of hemobilia:Trauma (most common)iatrogenic trauma is the most common cause(includes interventional radiological procedures, percutaneous liver biopsy, percutaneous transhepatic bil- iary drainage, operations on gallbladder and bile duct)blunt trauma is more common cause than penetrating traumaGall stonesVascular pathologies - aneurysms, angiodysplasias, hemangiomas.Uncommon causesMalignant tumors of liver, biliary tree, gall bladder, pancreas parasitic infection heaptic abscess cholangitisClinical presentationClassical triad consists ofUpper abdominal pain (biliary colic)Obstructive jaundice (obstruction by blood clots)Upper gastrointestinal haemorrhageHematemesismelenaDiagnosisDiagnosis of hemobilia is typically made on upper endoscopy with findings of bleeding from the ampulla of vater.Arterial angiography is the investigation of choice as it will reveal the source of bleeding in about 90% of cases.ManagementIn majority of cases, transarterial embolization (TAE) is curative.Surgery is indicated when TAE has failed, it consists of:ligation of bleeding vessels"
+    "cop": 3,
+    "exp": "Ans. is 'd' ie Hepatitis (Ref. Sabiston, 18/e pl515 (17/e, p 1561, 16/e, p 1056); Maingot's 10/e, p 300)Hemobilia is defined as bleeding into the biliary tree from an abnormal communication between a blood vessel and bile duct.Causes of hemobilia:Trauma (most common)iatrogenic trauma is the most common cause(includes interventional radiological procedures, percutaneous liver biopsy, percutaneous transhepatic bil- iary drainage, operations on gallbladder and bile duct)blunt trauma is more common cause than penetrating traumaGall stonesVascular pathologies - aneurysms, angiodysplasias, hemangiomas.Uncommon causesMalignant tumors of liver, biliary tree, gall bladder, pancreas parasitic infection heaptic abscess cholangitisClinical presentationClassical triad consists ofUpper abdominal pain (biliary colic)Obstructive jaundice (obstruction by blood clots)Upper gastrointestinal haemorrhageHematemesismelenaDiagnosisDiagnosis of hemobilia is typically made on upper endoscopy with findings of bleeding from the ampulla of vater.Arterial angiography is the investigation of choice as it will reveal the source of bleeding in about 90% of cases.ManagementIn majority of cases, transarterial embolization (TAE) is curative.Surgery is indicated when TAE has failed, it consists of:ligation of bleeding vessels",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Causes Hemobilia Except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c39da3c0-1ac3-4b69-b08c-758baba7d8cb": {
-    "cop": 4,
-    "exp": "Ans. All of the above"
+    "cop": 3,
+    "exp": "Ans. All of the above",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of lid retraction\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3553dbf3-55aa-4b2b-b6ee-2a1ce746568d": {
-    "cop": 4,
-    "exp": "ANSWER: (D) AtaxiaREF: Merrit's neurology 12th ed p, 674Mobieus syndrome:Underdevelopment of the VI and VII cranial nerves: The VI cranial nerve controls lateral eye movement, and the VII cranial nerve controls facial expression. People with Mobius syndrome are bom with facial paralysis and the inability to move their eyes laterally. Often, the upper lip is retracted due to muscle shrinkage.Occasionally, the cranial nerves V and VIII are affected.If cranial VIII is affected, the person experiences hearing loss.Infants with this disorder can be identified at birth by a \"mask-like\" lack of expression that is detectable during crying or laughing and by an inability to suck while nursing because of paresis (palsy) of the sixth and seventh cranial nerves. Also, because a person with Mobius syndrome cannot follow objects by moving their eyes from side to side, they turn their head instead. Limb abnormalities--dubbed feet, missing fingers or toesChest-wall abnormalities (Poland Syndrome)Crossed eyes (strabismus)Difficulty in breathing and/or in swallowingComeal erosion resulting from difficulty in blinkingThough the syndrome has been assodated with autism the children are not mentally retarded"
+    "cop": 3,
+    "exp": "ANSWER: (D) AtaxiaREF: Merrit's neurology 12th ed p, 674Mobieus syndrome:Underdevelopment of the VI and VII cranial nerves: The VI cranial nerve controls lateral eye movement, and the VII cranial nerve controls facial expression. People with Mobius syndrome are bom with facial paralysis and the inability to move their eyes laterally. Often, the upper lip is retracted due to muscle shrinkage.Occasionally, the cranial nerves V and VIII are affected.If cranial VIII is affected, the person experiences hearing loss.Infants with this disorder can be identified at birth by a \"mask-like\" lack of expression that is detectable during crying or laughing and by an inability to suck while nursing because of paresis (palsy) of the sixth and seventh cranial nerves. Also, because a person with Mobius syndrome cannot follow objects by moving their eyes from side to side, they turn their head instead. Limb abnormalities--dubbed feet, missing fingers or toesChest-wall abnormalities (Poland Syndrome)Crossed eyes (strabismus)Difficulty in breathing and/or in swallowingComeal erosion resulting from difficulty in blinkingThough the syndrome has been assodated with autism the children are not mentally retarded",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d57d9235-69bc-4698-8dad-e48d0a3bf258": {
-    "cop": 4,
-    "exp": "PT measures extrinsic system and common pathway APTT measures intrinsic and common pathway In thrombocytopenia , coagulation pathway is not affected. So no change in PT , APTT In DIC and vit k deficiency both PT and APTT are prolonged Reference : Harsh Mohan textbook of pathology, 7th edition.Pg no.314,317"
+    "cop": 3,
+    "exp": "PT measures extrinsic system and common pathway APTT measures intrinsic and common pathway In thrombocytopenia , coagulation pathway is not affected. So no change in PT , APTT In DIC and vit k deficiency both PT and APTT are prolonged Reference : Harsh Mohan textbook of pathology, 7th edition.Pg no.314,317",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Prologed Normal seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "456f5ac4-0a02-4aad-96b6-55bb49f6206a": {
-    "cop": 1,
-    "exp": "Bohr's equation PCO2 x VT = PCO2 x (VT - PDS)25 x 500 = 48 (500 - PDS)12500/48=500 - PDS260 =500-PDSPDS = 240ml"
+    "cop": 0,
+    "exp": "Bohr's equation PCO2 x VT = PCO2 x (VT - PDS)25 x 500 = 48 (500 - PDS)12500/48=500 - PDS260 =500-PDSPDS = 240ml",
+    "hint_exp": "🧩 Your crush solved \"What physiological dead space\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fd71212f-3c7a-4fae-aa63-a0b8eccc9643": {
-    "cop": 4,
-    "exp": "Prevalence of 10 % is considered as an epidemic of trachoma and indication for staing chemoprophylaxis * Annual mass drug administration (MDA) with azithromycin (or topical tetracycline) for three years, was recommended by WHO, in combination with other elements of the SAFE strategy, in districts where the prevalence of TF in children aged 1-9 years, determined by programmes using population-based surveys, was at least 10%. * Number of rounds of treatment required: if baseline prevalence is over 30% - 5 rounds of treatment are recommended. If baseline prevalence is between 10% and 30% - 3 rounds of treatment should be conducted. * Prevalence of 10 % is considered as an epidemic of trachoma and indication for staing chemoprophylaxis"
+    "cop": 3,
+    "exp": "Prevalence of 10 % is considered as an epidemic of trachoma and indication for staing chemoprophylaxis * Annual mass drug administration (MDA) with azithromycin (or topical tetracycline) for three years, was recommended by WHO, in combination with other elements of the SAFE strategy, in districts where the prevalence of TF in children aged 1-9 years, determined by programmes using population-based surveys, was at least 10%. * Number of rounds of treatment required: if baseline prevalence is over 30% - 5 rounds of treatment are recommended. If baseline prevalence is between 10% and 30% - 3 rounds of treatment should be conducted. * Prevalence of 10 % is considered as an epidemic of trachoma and indication for staing chemoprophylaxis",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Prevalence considered epidemic trachoma\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8b4ebb87-a7a5-4b11-b493-5d9411c918b6": {
-    "cop": 2,
-    "exp": "In general all typical antipsychotics cause extra pyramidal side effects as they block dopaminergic activity and lead to unopposed increase in cholinergic activity. But Thioridazone possesses anticholinergic action and hence carries least risk of causing EPS. If the options included any atypical antipsychotic (Clozapine ,Olanzapine), then that would be the right answer as atypical antipsychotics has lower risk of causing EPS then all typical antipsychotics."
+    "cop": 1,
+    "exp": "In general all typical antipsychotics cause extra pyramidal side effects as they block dopaminergic activity and lead to unopposed increase in cholinergic activity. But Thioridazone possesses anticholinergic action and hence carries least risk of causing EPS. If the options included any atypical antipsychotic (Clozapine ,Olanzapine), then that would be the right answer as atypical antipsychotics has lower risk of causing EPS then all typical antipsychotics.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following drug\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "88bf20c7-df5e-4b92-bc06-8ed6710e444d": {
-    "cop": 2,
-    "exp": "Selected Down Syndrome Screening Strategies and Their Detection RateScreening testDetection rateQuadruple screen 80-82%First trimester screenNT alone64-70%NT, hCG, PAPP-A80-84%Integrated screening94-96%Sequential screeningStepwise92%Contingent91%Cell-free DNA91%(Ref: William's Obstetrics; 25th edition)"
+    "cop": 1,
+    "exp": "Selected Down Syndrome Screening Strategies and Their Detection RateScreening testDetection rateQuadruple screen 80-82%First trimester screenNT alone64-70%NT, hCG, PAPP-A80-84%Integrated screening94-96%Sequential screeningStepwise92%Contingent91%Cell-free DNA91%(Ref: William's Obstetrics; 25th edition)",
+    "hint_exp": "🎯 Think of \"Detection rate down syndrome\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "018a765c-a238-48ec-ae09-63e01c35734f": {
-    "cop": 4,
-    "exp": "Glutathione -tripeptide-also called gamma-glutamyl cysteinyl glycine. It consists of 3amino acids glutamic acid, glycine, &cystein. It is produced from miester cycle (gamma-glutamyl cycle)catalysed by gamma-glutamyl transferase.Ref: DM Vasudevan - Textbook of Biochemistry for Medical Students, 7th edition, page no: 198"
+    "cop": 3,
+    "exp": "Glutathione -tripeptide-also called gamma-glutamyl cysteinyl glycine. It consists of 3amino acids glutamic acid, glycine, &cystein. It is produced from miester cycle (gamma-glutamyl cycle)catalysed by gamma-glutamyl transferase.Ref: DM Vasudevan - Textbook of Biochemistry for Medical Students, 7th edition, page no: 198",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"glutathione\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f4f0c626-c540-469b-9203-ab9fdfc79a4c": {
-    "cop": 1,
-    "exp": "Submandibular nodes do not form pa of Waldeyer's lymphatic ring. They form pa of the outer group of lymph nodes into which efferents from the constituents of the Waldeyer's lymphatic ring may drain."
+    "cop": 0,
+    "exp": "Submandibular nodes do not form pa of Waldeyer's lymphatic ring. They form pa of the outer group of lymph nodes into which efferents from the constituents of the Waldeyer's lymphatic ring may drain.",
+    "hint_exp": "🧩 Your crush solved \"lymph nodes does not\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5ba45ef9-298b-4c33-b989-4f6f16ff7499": {
-    "cop": 2,
-    "exp": "Treatment is eminently unsatisfactory since nothing appears to have a decided influence upon the course of the disease.\nRetinitis pigmentosa shows all three pattern of inheritance, i.e., autosomal recessive (most common), autosomal dominant, sex- linked (X- linked recessive).\nInitially there is loss of peripheral vision and central vision is preserved till late.\nRetinitis pigmentosa is assoicated with many systemic syndromes."
+    "cop": 1,
+    "exp": "Treatment is eminently unsatisfactory since nothing appears to have a decided influence upon the course of the disease.\nRetinitis pigmentosa shows all three pattern of inheritance, i.e., autosomal recessive (most common), autosomal dominant, sex- linked (X- linked recessive).\nInitially there is loss of peripheral vision and central vision is preserved till late.\nRetinitis pigmentosa is assoicated with many systemic syndromes.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"true about retinitis pigmentosa\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ed293827-83fd-4de4-a01b-572580943a2e": {
-    "cop": 1,
-    "exp": "Ans. Pseudo squint"
+    "cop": 0,
+    "exp": "Ans. Pseudo squint",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Large angle Kappa gives\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5367ca83-08e8-4c8f-abf4-ee59e3cc360c": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Sympathetic ophthalmitis"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Sympathetic ophthalmitis",
+    "hint_exp": "🎯 Think of \"eye except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "293fba13-b5d6-429a-ac20-d81c04c4da5e": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"common in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e4c089c9-a732-4b6c-917a-802625325b00": {
-    "cop": 3,
-    "exp": "Ans. Specular microscopy done for corneal endothelial count"
+    "cop": 2,
+    "exp": "Ans. Specular microscopy done for corneal endothelial count",
+    "hint_exp": "🧩 Your crush solved \"Corneal transplantation\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4a4088b3-2c54-4efb-a329-35d6d5e8c2ab": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Candida * Amongst the given options, only Candida causes oral lesion in AIDS patient.* Oral lesions in AIDS include1. Hairy leukoplakia (caused by EBV)2. Thrush (caused by Candida)3. Aphthous ulcer"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Candida * Amongst the given options, only Candida causes oral lesion in AIDS patient.* Oral lesions in AIDS include1. Hairy leukoplakia (caused by EBV)2. Thrush (caused by Candida)3. Aphthous ulcer",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"infected patients smear from\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "173fba87-8945-4f21-b471-eba39203627a": {
-    "cop": 3,
-    "exp": "Gas exchange occurs across type I pneumocytes. Option A is incorrect. Type II pneumocytes synthesize surfactant. When there is alveolar injury, type I cells degenerate and are replaced by type II cells. Type II cells are thus responsible for regeneration of epithelium. Lamellar inclusion bodies are the structures within which surfactant is present, in type II pneumocytes. These bodies then release surfactant by exocytosis. Type III pneumocytes act as chemoreceptors. Type I and type II pneumocytes exist in a ratio of 1:1. Option D is incorrect."
+    "cop": 2,
+    "exp": "Gas exchange occurs across type I pneumocytes. Option A is incorrect. Type II pneumocytes synthesize surfactant. When there is alveolar injury, type I cells degenerate and are replaced by type II cells. Type II cells are thus responsible for regeneration of epithelium. Lamellar inclusion bodies are the structures within which surfactant is present, in type II pneumocytes. These bodies then release surfactant by exocytosis. Type III pneumocytes act as chemoreceptors. Type I and type II pneumocytes exist in a ratio of 1:1. Option D is incorrect.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"True statement regarding alveolar\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b3ab9516-a119-47fc-8724-3b12e841c30d": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Oesophageal varices Clues in this question are ? 1) H/O massive hematemasis 2) Splenomegaly o Amongst the given options, splenomegaly will be seen only in esophageal varices due to poal hypeension."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Oesophageal varices Clues in this question are ? 1) H/O massive hematemasis 2) Splenomegaly o Amongst the given options, splenomegaly will be seen only in esophageal varices due to poal hypeension.",
+    "hint_exp": "🎯 Think of \"child brought mother with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "89859b63-ae4d-4d6d-9252-6cc7226fef2a": {
-    "cop": 1,
-    "exp": "The MDS are a heterogeneous group of hematologic disorders broadly characterized by both: (1) cytopenias due to bone marrow failure and (2) a high risk of development of AML. WHO classification of MDS is as follows Refractory cytopenia with unilineage dysplasia - this includes refractory anemia, refractory neutropenia, or refractory thrombocytopenia RARS (Refractory Anemia with ringed sideroblasts) RAEB (Refractory Anemia with excess Blasts) Refractory cytopenia with multilineage dysplasia MDS with isolated deletion of 5q MDS, unclassifiable Childhood MDS"
+    "cop": 0,
+    "exp": "The MDS are a heterogeneous group of hematologic disorders broadly characterized by both: (1) cytopenias due to bone marrow failure and (2) a high risk of development of AML. WHO classification of MDS is as follows Refractory cytopenia with unilineage dysplasia - this includes refractory anemia, refractory neutropenia, or refractory thrombocytopenia RARS (Refractory Anemia with ringed sideroblasts) RAEB (Refractory Anemia with excess Blasts) Refractory cytopenia with multilineage dysplasia MDS with isolated deletion of 5q MDS, unclassifiable Childhood MDS",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ec301947-c668-4844-a83a-e6f08298b5fe": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"infiltration anaesthesia\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "44e4b048-aa17-44c4-b014-8783e5a95f04": {
-    "cop": 4,
-    "exp": "Ans. D. ADPGlutamate Dehydrogenase (GDH)Liver Glutamate Dehydrogenase (GDH) is allosterically inhibited by ATP, GTP, NADH.Liver Glutamate Dehydrogenase (GDH) is allosterically activated by ADPReversible reaction but strongly favour Glutamate formationCan use either NAD+ or NADP+."
+    "cop": 3,
+    "exp": "Ans. D. ADPGlutamate Dehydrogenase (GDH)Liver Glutamate Dehydrogenase (GDH) is allosterically inhibited by ATP, GTP, NADH.Liver Glutamate Dehydrogenase (GDH) is allosterically activated by ADPReversible reaction but strongly favour Glutamate formationCan use either NAD+ or NADP+.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"mitochondria\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "82d636f8-f61c-4497-b3a3-793d1504541f": {
-    "cop": 4,
-    "exp": "The pentose phosphate pathway is an alternative route for the metabolism of glucose. It does not lead to formation of ATP but  has  two  major  functions: \n\n The  formation  of  NADPH for synthesis of fatty acids and steroids ,  and  maintaining  reduced  glutathione  for  antioxidant activity, and\n The synthesis of ribose for nucleotide and nucleic acid formation.\n\nHarper 30TH EDITION PG- 197"
+    "cop": 3,
+    "exp": "The pentose phosphate pathway is an alternative route for the metabolism of glucose. It does not lead to formation of ATP but  has  two  major  functions: \n\n The  formation  of  NADPH for synthesis of fatty acids and steroids ,  and  maintaining  reduced  glutathione  for  antioxidant activity, and\n The synthesis of ribose for nucleotide and nucleic acid formation.\n\nHarper 30TH EDITION PG- 197",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following metabolic pathways\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "649ba165-0c1d-41a8-aa18-9be7b52119b1": {
-    "cop": 3,
-    "exp": "The rectus sheath, also called the rectus fascia, is formed by the aponeurosis of the transverse abdominus and the internal and external oblique muscle. It contains the rectus abdominis and pyramidalis muscles."
+    "cop": 2,
+    "exp": "The rectus sheath, also called the rectus fascia, is formed by the aponeurosis of the transverse abdominus and the internal and external oblique muscle. It contains the rectus abdominis and pyramidalis muscles.",
+    "hint_exp": "🎯 Think of \"contributed by\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ada0992d-8d19-4abb-a19f-a25883a129aa": {
-    "cop": 1,
-    "exp": "The virulence of Streptococcus pneumoniae depends on the capsular polysaccharide. The capsular polysaccharide because of its acidic and hydrophilic propeies, protects the cocci from phagocytosis. Capsulated streptococcus pneumoniae are not phagocytosed efficiently in fluid media or exudates, however, they are susceptible to surface phagocytosis, being engulfed against a firm surface, such as a fibrin clot or epithelium . The enhanced virulence of type 3 Streptococcus pneumoniae is due to the abundance of its capsular material. Non-capsulated strains are avirulent. Antibody to capsular polysaccharide affords protection against infection. Penicillin-resistant strains and strains resistant to erythromycin and tetracycline are found. Reference: Textbook of Microbiology; Anathanarayan and panicker's; 10th edition; Page no: 226"
+    "cop": 0,
+    "exp": "The virulence of Streptococcus pneumoniae depends on the capsular polysaccharide. The capsular polysaccharide because of its acidic and hydrophilic propeies, protects the cocci from phagocytosis. Capsulated streptococcus pneumoniae are not phagocytosed efficiently in fluid media or exudates, however, they are susceptible to surface phagocytosis, being engulfed against a firm surface, such as a fibrin clot or epithelium . The enhanced virulence of type 3 Streptococcus pneumoniae is due to the abundance of its capsular material. Non-capsulated strains are avirulent. Antibody to capsular polysaccharide affords protection against infection. Penicillin-resistant strains and strains resistant to erythromycin and tetracycline are found. Reference: Textbook of Microbiology; Anathanarayan and panicker's; 10th edition; Page no: 226",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"True statement regarding Pneumococcus\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5e1e1185-dbb2-4f62-b798-30c9da799528": {
-    "cop": 1,
-    "exp": "A third hea sound (S 3) is often heard in large left-to-right shunts caused by high flow across the mitral valve with VSD or patent ductus aeriosus and with high flow across the tricuspid valve with ASD.In constrictive pericarditis, an early prominent sound of a somewhat higher frequency is heard - called the \"pericardial knock, which is considered as a variant of S 3.(Hursts)The third hea sound (S 3 ) occurs during the rapid filling phase of ventricular diastole. (Harrison's). The 'rapid filling phase' (mid-diastole) begins when the tricuspid and mitral valves open. Ventricular filling occurs passively in this period. \"Presystole\" begins with atrial contraction and occurs just before the first hea sound. Active filling from atrial systole contributes about 20% of the blood volume to the ventricles during diastole (in contrast with the 80% from rapid, passive filling in mid-diastole).The first option mentions 'ventricular filling during atrial contraction'. Hence, it is the answer.Ref : Hurst 13/e p287; Harrison 18/e p1827"
+    "cop": 0,
+    "exp": "A third hea sound (S 3) is often heard in large left-to-right shunts caused by high flow across the mitral valve with VSD or patent ductus aeriosus and with high flow across the tricuspid valve with ASD.In constrictive pericarditis, an early prominent sound of a somewhat higher frequency is heard - called the \"pericardial knock, which is considered as a variant of S 3.(Hursts)The third hea sound (S 3 ) occurs during the rapid filling phase of ventricular diastole. (Harrison's). The 'rapid filling phase' (mid-diastole) begins when the tricuspid and mitral valves open. Ventricular filling occurs passively in this period. \"Presystole\" begins with atrial contraction and occurs just before the first hea sound. Active filling from atrial systole contributes about 20% of the blood volume to the ventricles during diastole (in contrast with the 80% from rapid, passive filling in mid-diastole).The first option mentions 'ventricular filling during atrial contraction'. Hence, it is the answer.Ref : Hurst 13/e p287; Harrison 18/e p1827",
+    "hint_exp": "🧩 Your crush solved \"following statements about third\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c1e9de89-35a0-4946-97cc-8cc7e562baa4": {
-    "cop": 2,
-    "exp": "Major criteria of RHD include card it is,chorea,ahritis, subcutaneous nodule, erythema marginatum. Ref : Ghai essential of pediatrics, eighth edition ,p.no:436"
+    "cop": 1,
+    "exp": "Major criteria of RHD include card it is,chorea,ahritis, subcutaneous nodule, erythema marginatum. Ref : Ghai essential of pediatrics, eighth edition ,p.no:436",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"major manifestation theumatic fever\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0f144230-6850-46df-9781-6631b01e7c43": {
-    "cop": 1,
-    "exp": "During pregnancy many physiological changes take place in a mother's body. Maternal blood volume increases up to 40% due to elevated testosterone and estrogen levels. Bone marrow production of erythrocytes also increases, but does not keep up with the plasma volume expansion, resulting in a decrease in hematocrit (physiological anemia of pregnancy). Respiratory minute volume increases by about 50% because of the increased basal metabolic rate and oxygen consumption. This increase is largely due to an increase in tidal volume without increase in respiratory rate. Residual volume and expiratory reserve volume decreases. Gastrointestinal tone and motility decrease because of the inhibitory effect of progesterone on these smooth muscles. Ref: Alford C., Nurudeen S. (2013). Chapter 4. Physiology of Reproduction in Women. In A.H. DeCherney, L. Nathan, N. Laufer, A.S. Roman (Eds), CURRENT Diagnosis & Treatment: Obstetrics & Gynecology, 11e."
+    "cop": 0,
+    "exp": "During pregnancy many physiological changes take place in a mother's body. Maternal blood volume increases up to 40% due to elevated testosterone and estrogen levels. Bone marrow production of erythrocytes also increases, but does not keep up with the plasma volume expansion, resulting in a decrease in hematocrit (physiological anemia of pregnancy). Respiratory minute volume increases by about 50% because of the increased basal metabolic rate and oxygen consumption. This increase is largely due to an increase in tidal volume without increase in respiratory rate. Residual volume and expiratory reserve volume decreases. Gastrointestinal tone and motility decrease because of the inhibitory effect of progesterone on these smooth muscles. Ref: Alford C., Nurudeen S. (2013). Chapter 4. Physiology of Reproduction in Women. In A.H. DeCherney, L. Nathan, N. Laufer, A.S. Roman (Eds), CURRENT Diagnosis & Treatment: Obstetrics & Gynecology, 11e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"year primigravida asks what\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "65d8ffa9-34cb-4f0a-a574-aa9165694b3a": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"What true about Bordetella\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d67bca34-9ecf-4429-bf69-5d26325ae9f1": {
-    "cop": 2,
-    "exp": "In the question a 19 year old girl is presenting with primary amenorrhea, she has well developed breast and public hair but on examination uterus and vagina are absent. Since her breast and public hair both are well developed- this means her secondary sexual characteristics are well developed.\nThis means in this female amount of estrogen is adequate, which means she has normally functioning ovaries.\nThus, options XYY (presence of Y Chromosome means- gonads are testis), Klienfelter’s syndrome (genotype = 47XXY- again since Y chromosome is present, gonads are testes i.e. they are males) are ruled out and in gonadal dysgenesis gonads are incompletely formed and are streak gonads, M/c example is Turner’s syndrome - genotype 45X0. Since gonads are streak, therefore estrogen is insufficient so secondary sexual characteristics are not well developed. In Turners thus by exclusion, our answer is option b- i.e. Mayer Rokitanskv kuster hauser syndrome."
+    "cop": 1,
+    "exp": "In the question a 19 year old girl is presenting with primary amenorrhea, she has well developed breast and public hair but on examination uterus and vagina are absent. Since her breast and public hair both are well developed- this means her secondary sexual characteristics are well developed.\nThis means in this female amount of estrogen is adequate, which means she has normally functioning ovaries.\nThus, options XYY (presence of Y Chromosome means- gonads are testis), Klienfelter’s syndrome (genotype = 47XXY- again since Y chromosome is present, gonads are testes i.e. they are males) are ruled out and in gonadal dysgenesis gonads are incompletely formed and are streak gonads, M/c example is Turner’s syndrome - genotype 45X0. Since gonads are streak, therefore estrogen is insufficient so secondary sexual characteristics are not well developed. In Turners thus by exclusion, our answer is option b- i.e. Mayer Rokitanskv kuster hauser syndrome.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year patient complains primary\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "63df0fc4-c214-413c-ab0d-db14765a626a": {
-    "cop": 4,
-    "exp": "Nontuberculous mycobacteria (NTM) survives in soil and water. Most NTM cause disease in humans only rarely. There is no human-to-human transmission of NTM. Disseminated disease denotes immune dysfunction eg:advanced HIV infection. Pulmonary disease is highly associated with pulmonary epithelial defects but not with systemic immunodeficiency. Ref: Harrison, Edition-18, Page-1367."
+    "cop": 3,
+    "exp": "Nontuberculous mycobacteria (NTM) survives in soil and water. Most NTM cause disease in humans only rarely. There is no human-to-human transmission of NTM. Disseminated disease denotes immune dysfunction eg:advanced HIV infection. Pulmonary disease is highly associated with pulmonary epithelial defects but not with systemic immunodeficiency. Ref: Harrison, Edition-18, Page-1367.",
+    "hint_exp": "🧩 Your crush solved \"statements about nontuberculous mycobacteria\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7bab4c75-c50d-46c3-93eb-9b4b5e19ca37": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"what angle hallpike thermal\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c8ee5db9-6834-494e-9132-159333008df4": {
-    "cop": 1,
-    "exp": "Ans. is \"a' i.e., Acts as PPAR gamma agonist [Ref KDT 7*/ep. 276\\Rosiglitazoneo It is oral antidiabetic drugo They are selective agonists for nuclear peroxisome proliferator activator receptor gamma (PPAR gamma) expressed in the fat and muscle cells.o It enhances transcription of several insulin responsive genes,o Reverse insulin resistance by enhancing GLUT 4 expression and translocation."
+    "cop": 0,
+    "exp": "Ans. is \"a' i.e., Acts as PPAR gamma agonist [Ref KDT 7*/ep. 276\\Rosiglitazoneo It is oral antidiabetic drugo They are selective agonists for nuclear peroxisome proliferator activator receptor gamma (PPAR gamma) expressed in the fat and muscle cells.o It enhances transcription of several insulin responsive genes,o Reverse insulin resistance by enhancing GLUT 4 expression and translocation.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"action\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "63987783-c2a2-4def-9987-0a49d88d6bbc": {
-    "cop": 3,
-    "exp": "Ans. (c) Stronglyloides(Ref: dacie and lewis practical ematology, 11th ed, pg 102)Moderate eosinophilia occurs in allergic conditions; more severe eosinophilia (20-50x109/L) may be seen in parasitic infections"
+    "cop": 2,
+    "exp": "Ans. (c) Stronglyloides(Ref: dacie and lewis practical ematology, 11th ed, pg 102)Moderate eosinophilia occurs in allergic conditions; more severe eosinophilia (20-50x109/L) may be seen in parasitic infections",
+    "hint_exp": "🎯 Think of \"found in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0b6a6a5a-553d-4d7a-ae51-ad193d6685cf": {
-    "cop": 1,
-    "exp": "Ans. (a) MaxillaryRef: Gray's anatomy, 39th ed. / 477, 479* The maxillae are the largest of the facial bones, other than the mandible, and jointly form the whole of the upper jaw. Each bone forms the greater part of the floor and lateral wall of the nasal cavity, and of the floor of the orbit* \"Orbital surface of maxilla is smooth and triangular, and forms most of the floor of the orbit\"* The seven bones that articulate with orbit are:# Frontal bone# Lacrimal bone# Ethmoid bone# Zygomatic bone# Maxillary bone# Palatine bone# Sphenoid boneAlso Know* Maxilla is also the most common fracture of orbital floor.* The floor (inferior wall) is formed by the orbital surface of maxilla, the orbital surface of Zygomatic bone and the orbital process of palatine boneNOTE: The nasal bone does not form part of the orbit."
+    "cop": 0,
+    "exp": "Ans. (a) MaxillaryRef: Gray's anatomy, 39th ed. / 477, 479* The maxillae are the largest of the facial bones, other than the mandible, and jointly form the whole of the upper jaw. Each bone forms the greater part of the floor and lateral wall of the nasal cavity, and of the floor of the orbit* \"Orbital surface of maxilla is smooth and triangular, and forms most of the floor of the orbit\"* The seven bones that articulate with orbit are:# Frontal bone# Lacrimal bone# Ethmoid bone# Zygomatic bone# Maxillary bone# Palatine bone# Sphenoid boneAlso Know* Maxilla is also the most common fracture of orbital floor.* The floor (inferior wall) is formed by the orbital surface of maxilla, the orbital surface of Zygomatic bone and the orbital process of palatine boneNOTE: The nasal bone does not form part of the orbit.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"orbit\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6f0eadbe-efe2-4b59-9a78-7f6b165759e4": {
-    "cop": 1,
-    "exp": "Sodium cromoglycate (Mast cell stabilizing agent)Inhibit degranulation of mast cells, thereby preventing the release of the chemical mediators of anaphylaxis.Improves lung function, reduce symptoms, and lower airway activity in persons with asthma.Most effective in patients who have either seasonal disease or perennial airway stimulation.Steroids have no role in exercise-induced asthma.(Refer: Harrison's Principles of Internal Medicine, 18thedition, pg no: 2106-2115)"
+    "cop": 0,
+    "exp": "Sodium cromoglycate (Mast cell stabilizing agent)Inhibit degranulation of mast cells, thereby preventing the release of the chemical mediators of anaphylaxis.Improves lung function, reduce symptoms, and lower airway activity in persons with asthma.Most effective in patients who have either seasonal disease or perennial airway stimulation.Steroids have no role in exercise-induced asthma.(Refer: Harrison's Principles of Internal Medicine, 18thedition, pg no: 2106-2115)",
+    "hint_exp": "🧩 Your crush solved \"prevent exercise induced bronchial\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6c71fccb-838d-4001-89eb-74e7277f1b6f": {
-    "cop": 1,
-    "exp": "Apt test can be performed to confirm a fetal bleed and there by vasa prae.Apt test is based on the principle that fetal haemoglobin is more resistant to alkali denaturation .Therefore when water and blood are mixed with sodium hydroxide it remains pink for longer if fetal in origin (refer pgno:138 sheila textbook of obstetrics 2nd edition)"
+    "cop": 0,
+    "exp": "Apt test can be performed to confirm a fetal bleed and there by vasa prae.Apt test is based on the principle that fetal haemoglobin is more resistant to alkali denaturation .Therefore when water and blood are mixed with sodium hydroxide it remains pink for longer if fetal in origin (refer pgno:138 sheila textbook of obstetrics 2nd edition)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which test differentiates maternal\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e37c2661-e84e-4579-979f-45269816e601": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Latissimus dorsi Muscles producing movements at shoulderMovementMain musclesAccessory musclesFlexioni) C lavicutar head of pectoralis majorii) Anterior fibers of deltoidi) Corachobrachialisii) Short head of bicepsiii) Sternocostal head of pectorali s majorExtensioni) Posterior fibres of deltoidii) Latissimus dorsii) Teres majorii)Long head of tricepsAdductioni) Pectoralis majorii) Latissimus dorsii) Teres majorii) Corachobrachialisiii) Short head of bicepsiv) Long head of tricepsAbduction1) Deltoid (middle or acromial fibers)ii) Supraspinatusiii) Serratus anterioriv) L pper and lower fibers of trapezius Medial rotationi) Pectoralis majorii) Anterior fibers of deltoidiii) Latissimusdorsiiv) Teres majori) StibscapularisLateral rotationi) Posteri or fi bers o f deltoidii) infraspinatusiii) Teres minor"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Latissimus dorsi Muscles producing movements at shoulderMovementMain musclesAccessory musclesFlexioni) C lavicutar head of pectoralis majorii) Anterior fibers of deltoidi) Corachobrachialisii) Short head of bicepsiii) Sternocostal head of pectorali s majorExtensioni) Posterior fibres of deltoidii) Latissimus dorsii) Teres majorii)Long head of tricepsAdductioni) Pectoralis majorii) Latissimus dorsii) Teres majorii) Corachobrachialisiii) Short head of bicepsiv) Long head of tricepsAbduction1) Deltoid (middle or acromial fibers)ii) Supraspinatusiii) Serratus anterioriv) L pper and lower fibers of trapezius Medial rotationi) Pectoralis majorii) Anterior fibers of deltoidiii) Latissimusdorsiiv) Teres majori) StibscapularisLateral rotationi) Posteri or fi bers o f deltoidii) infraspinatusiii) Teres minor",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"abductor shoulder\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ccd5b5eb-7faa-4d7a-aafa-856e1ab4617d": {
-    "cop": 1,
-    "exp": "Hypoglycemia is the most common cause of seizure in an infant of diabetic mother within 24hours of delivery. Ref: NMS Pediatrics By Paul H. Dworkin, Paula S. Algranati page135."
+    "cop": 0,
+    "exp": "Hypoglycemia is the most common cause of seizure in an infant of diabetic mother within 24hours of delivery. Ref: NMS Pediatrics By Paul H. Dworkin, Paula S. Algranati page135.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "01b58d7e-440a-49ca-b799-8ee8cfcd1762": {
-    "cop": 2,
-    "exp": "(B) Social & language communication problem# Autism (i.e. marked impairment in reciprocal social and interpersonal interaction): Absent social smile, Lack of eye-to-eyecontact, Lack of awareness of others' existence or feelings; treats people as furniture, Lack of attachment to parents and absence of separation anxiety, No or abnormal social play; prefers solitary games, Marked impairment in making friends, Lack of imitative behavior, Absence of fear in presence of danger."
+    "cop": 1,
+    "exp": "(B) Social & language communication problem# Autism (i.e. marked impairment in reciprocal social and interpersonal interaction): Absent social smile, Lack of eye-to-eyecontact, Lack of awareness of others' existence or feelings; treats people as furniture, Lack of attachment to parents and absence of separation anxiety, No or abnormal social play; prefers solitary games, Marked impairment in making friends, Lack of imitative behavior, Absence of fear in presence of danger.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Autism\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "54bc73f8-f5e0-4e07-976f-cd0d9eea3bce": {
-    "cop": 4,
-    "exp": "Diuretics in pregnancy- In a PIH patient, furosemide is C/I as an anti-hypeensive because in PIH the intravascular volume is low. Thats because the pathology is Vasospasm and hence there is intravascular 'Low vloume'. Giving a diuretic would fuher decrease the intravascular volume and hence reduce the placental perfusion. However, in a pregnant female with Hypeension of pregnancy complicated with CHF/Pulmonary edema, then diuretics can be used"
+    "cop": 3,
+    "exp": "Diuretics in pregnancy- In a PIH patient, furosemide is C/I as an anti-hypeensive because in PIH the intravascular volume is low. Thats because the pathology is Vasospasm and hence there is intravascular 'Low vloume'. Giving a diuretic would fuher decrease the intravascular volume and hence reduce the placental perfusion. However, in a pregnant female with Hypeension of pregnancy complicated with CHF/Pulmonary edema, then diuretics can be used",
+    "hint_exp": "🧩 Your crush solved \"contraindicated in pregnancy\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

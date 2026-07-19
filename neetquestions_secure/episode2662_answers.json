@@ -1,202 +1,252 @@
 {
   "7990149c-fd07-48f0-a998-a5848ec4366e": {
-    "cop": 1,
-    "exp": "DLH is permeable to water, but ALH is impermeable to water, hence fluid becomes dilute as it passes through it because of movement of sodium, potassium and chloride out of tubular lumen into medullary interstitium. Thus the fluid reaching DCT is always hypotonic Ref: Ganong -23rd edition, Page 639"
+    "cop": 0,
+    "exp": "DLH is permeable to water, but ALH is impermeable to water, hence fluid becomes dilute as it passes through it because of movement of sodium, potassium and chloride out of tubular lumen into medullary interstitium. Thus the fluid reaching DCT is always hypotonic Ref: Ganong -23rd edition, Page 639",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"fluid in DCT\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a1ab8dcd-c4ae-4f1d-89fc-773f8c8b77de": {
-    "cop": 2,
-    "exp": "Ans. B. AphasiaTriad of NPH does not include aphasia.* The clinical triad of NPH includes- An abnormal gait (ataxic or apractic)- Dementia (usually mild to moderate, with an emphasis on executive impairment)- Urinary urgency or incontinence* Neuroimaging reveals enlarged lateral ventricles (hydrocephalus) with little or no cortical atrophy, although the sylvian fissures may appear propped open (so-called \"boxcarring\"), which can be mistaken for Peri sylvian atrophy."
+    "cop": 1,
+    "exp": "Ans. B. AphasiaTriad of NPH does not include aphasia.* The clinical triad of NPH includes- An abnormal gait (ataxic or apractic)- Dementia (usually mild to moderate, with an emphasis on executive impairment)- Urinary urgency or incontinence* Neuroimaging reveals enlarged lateral ventricles (hydrocephalus) with little or no cortical atrophy, although the sylvian fissures may appear propped open (so-called \"boxcarring\"), which can be mistaken for Peri sylvian atrophy.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Triad normal pressure hydrocephalus\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "39bcaf4b-a099-4502-94e6-3c9712af0b48": {
-    "cop": 2,
-    "exp": "Ans. (B) Neuromuscular junction(Ref: Katzung 11/e p98)Bethanechol acts on muscarinic receptors only whereas physostigmine increases ACh, thus can stimulate both muscarinic and nicotinic receptors. Neuromuscular junction contains NM receptors, thus will be affected by physostigmine but not by bethanechol."
+    "cop": 1,
+    "exp": "Ans. (B) Neuromuscular junction(Ref: Katzung 11/e p98)Bethanechol acts on muscarinic receptors only whereas physostigmine increases ACh, thus can stimulate both muscarinic and nicotinic receptors. Neuromuscular junction contains NM receptors, thus will be affected by physostigmine but not by bethanechol.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dc4678af-b353-4a7b-a1b9-7e4369a62eeb": {
-    "cop": 1,
-    "exp": "Ans. a (Sevoflurane) (Ref. Anaesthesia by Ajay yadav 3rd ed., p 65)SEVOFLURANE# Chemistry and Physical Properties- It is nonflammable and nonexplosive in mixtures of air or oxygen.- Care must be taken to ensure that sevoflurane is not used with an anesthesia machine in which the CO2 absorbent has been dried by prolonged gas flow through the absorbent.- Sevoflurane reaction with desiccated CO2 absorbent also can produce CO2 which can result in serious patient injury.# Pharmacokinetics- rapid induction of anesthesia, and rapid emergence following discontinuation of administration.- Sevoflurane is metabolized in liver by CYP2E1 & predominant product being hexafluoroisopropanol,# Clinical Use- Sevoflurane is widely used, particularly for outpatient anesthesia, because of its rapid recovery.- Suited for inhalation induction of anesthesia (particularly in children) as it is not irritating to airway.- It the most effective clinical bronchodilator of the inhalational anesthetics.- Unlike isoflurane or desflurane, sevoflurane does not produce tachycardia and thus may be a preferable agent in patients prone to myocardial ischemia.# Side Effects- Hypotensive effect- Sevoflurane produces effects on cerebral vascular resistance, cerebral metabolic O2 consumption, and cerebral blood flow that are very similar to those produced by isoflurane and desflurane.- Biochemical evidence of transient renal injury has been reported in human volunteers.- It is not known to cause hepatotoxicity.AnestheticSolubilityMAC (%)Metabolism (%)Unique side effects/propertiesNitrous oxide0.5>1000Low potency; because the MAC is >100, it cannot provide com plete anesthesia; good for induction; good anesthesia and amnesiaDesflurane0.46.5<0.1Pulmonary irritantSevoflurane0.72.03-Isoflurane1.41.30.2-Enflurane1.81.78ProconsultantHalothane2.30.820Halothane hepatitis; sensitizes heart to arrhythmogenic effects of catecholaminesMethoxyflurane120.2>70NephrotoxicityOil: gas partition approx. = 150 + MACEducational point:# Fluoride ion liberation - M >> S >> E >> I > D.# Desflurane is a strong airway irritant, and can cause coughing, breath-holding, laryngospasm, and excessive respiratory secretions. Because of its irritant properties, desflurane is not used for induction of anesthesia."
+    "cop": 0,
+    "exp": "Ans. a (Sevoflurane) (Ref. Anaesthesia by Ajay yadav 3rd ed., p 65)SEVOFLURANE# Chemistry and Physical Properties- It is nonflammable and nonexplosive in mixtures of air or oxygen.- Care must be taken to ensure that sevoflurane is not used with an anesthesia machine in which the CO2 absorbent has been dried by prolonged gas flow through the absorbent.- Sevoflurane reaction with desiccated CO2 absorbent also can produce CO2 which can result in serious patient injury.# Pharmacokinetics- rapid induction of anesthesia, and rapid emergence following discontinuation of administration.- Sevoflurane is metabolized in liver by CYP2E1 & predominant product being hexafluoroisopropanol,# Clinical Use- Sevoflurane is widely used, particularly for outpatient anesthesia, because of its rapid recovery.- Suited for inhalation induction of anesthesia (particularly in children) as it is not irritating to airway.- It the most effective clinical bronchodilator of the inhalational anesthetics.- Unlike isoflurane or desflurane, sevoflurane does not produce tachycardia and thus may be a preferable agent in patients prone to myocardial ischemia.# Side Effects- Hypotensive effect- Sevoflurane produces effects on cerebral vascular resistance, cerebral metabolic O2 consumption, and cerebral blood flow that are very similar to those produced by isoflurane and desflurane.- Biochemical evidence of transient renal injury has been reported in human volunteers.- It is not known to cause hepatotoxicity.AnestheticSolubilityMAC (%)Metabolism (%)Unique side effects/propertiesNitrous oxide0.5>1000Low potency; because the MAC is >100, it cannot provide com plete anesthesia; good for induction; good anesthesia and amnesiaDesflurane0.46.5<0.1Pulmonary irritantSevoflurane0.72.03-Isoflurane1.41.30.2-Enflurane1.81.78ProconsultantHalothane2.30.820Halothane hepatitis; sensitizes heart to arrhythmogenic effects of catecholaminesMethoxyflurane120.2>70NephrotoxicityOil: gas partition approx. = 150 + MACEducational point:# Fluoride ion liberation - M >> S >> E >> I > D.# Desflurane is a strong airway irritant, and can cause coughing, breath-holding, laryngospasm, and excessive respiratory secretions. Because of its irritant properties, desflurane is not used for induction of anesthesia.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"anesthesia in Children\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d003e93a-0fd0-4f41-ad4b-8bbd483811b8": {
-    "cop": 3,
-    "exp": "Glutathione (GSH) is a tripeptide. It contains an unusual peptide linkage between the amine group of cysteine and the carboxyl group of the glutamate side chain. Glutathione, anantioxidant, helps protect cells from reactive oxygen species such as free radicals and peroxides. Glutathione is not an essential nutrient since it can be synthesized from the amino acids L-cysteine, L-glutamic acid and glycine."
+    "cop": 2,
+    "exp": "Glutathione (GSH) is a tripeptide. It contains an unusual peptide linkage between the amine group of cysteine and the carboxyl group of the glutamate side chain. Glutathione, anantioxidant, helps protect cells from reactive oxygen species such as free radicals and peroxides. Glutathione is not an essential nutrient since it can be synthesized from the amino acids L-cysteine, L-glutamic acid and glycine.",
+    "hint_exp": "🧩 Your crush solved \"Glutathione\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bca71e80-d344-40a9-917c-3a0f6782b997": {
-    "cop": 1,
-    "exp": "CT shows a fluid collection in the left mastoid air cells consistent with acute mastoiditis. CT doesn't show any mass, so it is not meningioma. No history of diabetes or any destructive inflammatory process rules out mucormycosis. Acute mastoiditis Infection spreads from the mucosa, lining the mastoid air cells, to involve bony walls of the mastoid air cell system. Accompanies or follows ASOM More common in children M/C organism- beta-hemolytic streptococcus Presents with pain behind the ear, fever and ear discharge Signs are mastoid tenderness and sagging of the posterior meatal wall. Hearing loss may also accompany."
+    "cop": 0,
+    "exp": "CT shows a fluid collection in the left mastoid air cells consistent with acute mastoiditis. CT doesn't show any mass, so it is not meningioma. No history of diabetes or any destructive inflammatory process rules out mucormycosis. Acute mastoiditis Infection spreads from the mucosa, lining the mastoid air cells, to involve bony walls of the mastoid air cell system. Accompanies or follows ASOM More common in children M/C organism- beta-hemolytic streptococcus Presents with pain behind the ear, fever and ear discharge Signs are mastoid tenderness and sagging of the posterior meatal wall. Hearing loss may also accompany.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1c1107cb-a2c6-413e-afb3-3e9ff2c69fe1": {
-    "cop": 3,
-    "exp": "The most commonly seen variety is EA with distal TEF (type C), which occurs in approximately 85% of the cases in most series. The next most frequent is pure EA (type A), occurring in 8 to 10% of patients, followed by TEF without EA (type E). The latter occurs in 8% of cases and is also referred to as an H-type fistula, based on the anatomic similarity to that letter. EA with fistula between both the proximal and distal ends of the esophagus and trachea (type D) is seen in approximately 2% of cases, and type B, EA with TEF between the proximal esophagus and trachea, is seen in approximately 1% of cases. Ref: Schwaz's principle of surgery 9th edition, chapter 39."
+    "cop": 2,
+    "exp": "The most commonly seen variety is EA with distal TEF (type C), which occurs in approximately 85% of the cases in most series. The next most frequent is pure EA (type A), occurring in 8 to 10% of patients, followed by TEF without EA (type E). The latter occurs in 8% of cases and is also referred to as an H-type fistula, based on the anatomic similarity to that letter. EA with fistula between both the proximal and distal ends of the esophagus and trachea (type D) is seen in approximately 2% of cases, and type B, EA with TEF between the proximal esophagus and trachea, is seen in approximately 1% of cases. Ref: Schwaz's principle of surgery 9th edition, chapter 39.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"esophageal atresia\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3ac13029-2de5-4070-8374-19520635e1a6": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"arterial supply if the tongue\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8f975924-5671-4ac7-8a2f-df437f90bf65": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Infra bony pockets treated\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ff9e3050-edb5-4744-916a-2c94a5246e56": {
-    "cop": 2,
-    "exp": "Ingestion of antifreeze causes high AG acidosis. Due to ethylene glycol and its metabolites oxalic acid, glycolic acid. Diagnosis is facilitated by the presence of oxalate crystals in urine.Ref: Harrison's 18/e p367, 17/e p291"
+    "cop": 1,
+    "exp": "Ingestion of antifreeze causes high AG acidosis. Due to ethylene glycol and its metabolites oxalic acid, glycolic acid. Diagnosis is facilitated by the presence of oxalate crystals in urine.Ref: Harrison's 18/e p367, 17/e p291",
+    "hint_exp": "🧩 Your crush solved \"years girl parents gave\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3cc30bb9-77c8-4dac-8352-1fce9f7cc6cb": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Pellagra* The Casal collar or Casal necklace is a clinical sign in which there is an erythematous pigmented skin rash partly or completely encircling the lower part of the neck (dermatomes C3 and C4). It is seen in patients with pellagra."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Pellagra* The Casal collar or Casal necklace is a clinical sign in which there is an erythematous pigmented skin rash partly or completely encircling the lower part of the neck (dermatomes C3 and C4). It is seen in patients with pellagra.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a feature of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d925bb02-61ca-49ee-9d8d-9690d84ee28d": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"main form iron carbide\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "605350cd-6e2d-4c38-b0ab-17abed8105c9": {
-    "cop": 2,
-    "exp": "Answer B. Tabes dorsalisThe correct answer is tabes dorsalis. Pupils that are nonreactive to bright light but briskly constrict when focusing on a near object are known as Argyll Robertson pupils, which are characteristic of tabes dorsalis. Tabes dorsalis is a form of neurosyphilis that is characterized by degeneration of the nerves in the dorsal columns of the spinal cord, which leads to ataxia and loss of proprioception, as well as this pupil finding. The patient improved with intravenous penicillin."
+    "cop": 1,
+    "exp": "Answer B. Tabes dorsalisThe correct answer is tabes dorsalis. Pupils that are nonreactive to bright light but briskly constrict when focusing on a near object are known as Argyll Robertson pupils, which are characteristic of tabes dorsalis. Tabes dorsalis is a form of neurosyphilis that is characterized by degeneration of the nerves in the dorsal columns of the spinal cord, which leads to ataxia and loss of proprioception, as well as this pupil finding. The patient improved with intravenous penicillin.",
+    "hint_exp": "🎯 Think of \"the diagnosis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "57b074a2-3c4a-4095-a94b-6172cf0738d4": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "93a95ac0-c05c-4c61-8154-02112cd185ac": {
-    "cop": 1,
-    "exp": "Ans. a. Nipple retraction"
+    "cop": 0,
+    "exp": "Ans. a. Nipple retraction",
+    "hint_exp": "🧩 Your crush solved \"the following except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fef2e2db-8073-4d63-9336-ebc984b191a7": {
-    "cop": 3,
-    "exp": "Nitric Oxide (NO) is a major signaling molecule in neurons and in the immune system, either acting within the cell in which it is produced or by penetrating cellmembranes to affect adjacent cells. Nitric oxide is generated from arginine by the action of nitric oxidesynthases (NOS) Ref guyton and hall textbook of medical physiology 12/e pg 29"
+    "cop": 2,
+    "exp": "Nitric Oxide (NO) is a major signaling molecule in neurons and in the immune system, either acting within the cell in which it is produced or by penetrating cellmembranes to affect adjacent cells. Nitric oxide is generated from arginine by the action of nitric oxidesynthases (NOS) Ref guyton and hall textbook of medical physiology 12/e pg 29",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following molecules\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "80d0f8e3-68f6-4bfe-8e5c-c426e118849e": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., % of total body surface area Extent of burns The surface area burnt is more impoant than the degree of burn, in assessing prognosis of a given case. For example, a first degree burn over a wide area is more dangerous than a third degree burn over a limited area. For estimation of burn area, there is rule of 9 (Wallace's formula) :? In adults surface area is calculated by :? 9% for the head and neck. 9% for each upper limb. 9% for the front of each lower limb. 9% for the back of each lower limb. 9% for the front of the chest. 9% for the back of the chest. 9% for the front of the abdomen. 9% for the back of the abdomen. 1% for the genitalia."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., % of total body surface area Extent of burns The surface area burnt is more impoant than the degree of burn, in assessing prognosis of a given case. For example, a first degree burn over a wide area is more dangerous than a third degree burn over a limited area. For estimation of burn area, there is rule of 9 (Wallace's formula) :? In adults surface area is calculated by :? 9% for the head and neck. 9% for each upper limb. 9% for the front of each lower limb. 9% for the back of each lower limb. 9% for the front of the chest. 9% for the back of the chest. 9% for the front of the abdomen. 9% for the back of the abdomen. 1% for the genitalia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"nine true\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f48be094-af98-481b-95ff-18246f4f52b3": {
-    "cop": 4,
-    "exp": "Class I antigen Expressed on all nucleated cells and platelets Encode cell surface glycoproteins Encoded by 3 closely related loci HLA-A, HLA-B & HLA-C CD8+ T cells widely express class I HLA antigen Class II antigen Expressed on macrophages, B cells and T cells Encode cell surface glycoproteins Have a single loci HLA-D (with 3 surface loci DR,DQ,DP) Class III antigen Encodes complements of the complement system Genes coding for histocompatibility antigens are clustered on a small segment of chromosome 6. This cluster constitutes human MHC or HLA complex The class III molecules loci , are present in between the loci for class I and class II molecules (ref: Harrison's 18/e p2685-2687)"
+    "cop": 3,
+    "exp": "Class I antigen Expressed on all nucleated cells and platelets Encode cell surface glycoproteins Encoded by 3 closely related loci HLA-A, HLA-B & HLA-C CD8+ T cells widely express class I HLA antigen Class II antigen Expressed on macrophages, B cells and T cells Encode cell surface glycoproteins Have a single loci HLA-D (with 3 surface loci DR,DQ,DP) Class III antigen Encodes complements of the complement system Genes coding for histocompatibility antigens are clustered on a small segment of chromosome 6. This cluster constitutes human MHC or HLA complex The class III molecules loci , are present in between the loci for class I and class II molecules (ref: Harrison's 18/e p2685-2687)",
+    "hint_exp": "🎯 Think of \"True statements except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "82f35608-407e-4c2f-a4ca-c497b2ceb024": {
-    "cop": 3,
-    "exp": "Ans. (C). Imprisonment for one month and/ or fine of Rs 500Voluntarily causing hurt on provocation is punishable under 334 IPC - One month Imprisonment & 500 rupees."
+    "cop": 2,
+    "exp": "Ans. (C). Imprisonment for one month and/ or fine of Rs 500Voluntarily causing hurt on provocation is punishable under 334 IPC - One month Imprisonment & 500 rupees.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "033040cc-d79b-4108-8f84-c14eb55b3177": {
-    "cop": 4,
-    "exp": "Though IV disc space can be preserved in less common types of TB spine, in the most common (approx 98%) paradisical variety of TB spine, IV disc space is always involved.\n\"A radiographic finding of destruction of the vertebra along with diminution of the intervertebral disc space is considered pathognomic of tuberculosis. \"- T.B. Of Orthopedics By Kotwal 2005/e p 91\nAs a rule neoplastic and traumatic/osteoporotic collapse show sparing of the intervertebral disc. Common neoplasms in adult causing vertebral collapse are metastasis and multiple myeloma, while in children vertebral collapse may indicate histiocytosis (vertebra plana).\nDisc space narrowing is seen in degenerative diseases and infection of the disc space."
+    "cop": 3,
+    "exp": "Though IV disc space can be preserved in less common types of TB spine, in the most common (approx 98%) paradisical variety of TB spine, IV disc space is always involved.\n\"A radiographic finding of destruction of the vertebra along with diminution of the intervertebral disc space is considered pathognomic of tuberculosis. \"- T.B. Of Orthopedics By Kotwal 2005/e p 91\nAs a rule neoplastic and traumatic/osteoporotic collapse show sparing of the intervertebral disc. Common neoplasms in adult causing vertebral collapse are metastasis and multiple myeloma, while in children vertebral collapse may indicate histiocytosis (vertebra plana).\nDisc space narrowing is seen in degenerative diseases and infection of the disc space.",
+    "hint_exp": "🧩 Your crush solved \"lady with chronic backache\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8c87d00c-3c69-4526-8c43-504e2c3994b3": {
-    "cop": 1,
-    "exp": "3-4 days REF: William's obstetrics 22nd ed, Langman's Medical Embryology 9' edition page 45 LH Surge 24 hours before ovulation Ovulation 0 hours Feilization 24 hours after ovulation (Day 1) Reaches uterine cavity 3-4 days post feilization (Day 4-5 post ovulation) Implantation 7-9 day post feilization"
+    "cop": 0,
+    "exp": "3-4 days REF: William's obstetrics 22nd ed, Langman's Medical Embryology 9' edition page 45 LH Surge 24 hours before ovulation Ovulation 0 hours Feilization 24 hours after ovulation (Day 1) Reaches uterine cavity 3-4 days post feilization (Day 4-5 post ovulation) Implantation 7-9 day post feilization",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"feilized ovum reaches uterine\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f6933e77-3838-4f5b-b384-f49e29967231": {
-    "cop": 4,
-    "exp": "Dubin Johnson syndrome is a beingn rare disorder characterized by conjugated hyperbilirubinemia. The degree of hyperbilirubinemia increase during illness, pregnancy and with the use of oral contraceptive pills. Physical examination shows jaundice sometimes hepatospleenomegaly. Investigations: shows elevated serum bilirubin levels. Other routine tests are normal. Cardinal feature of DJS is accumulation of dark coarsely granular pigment within the lysosomes of centrilobular hepatocytes. This gives a gross black appearance to the liver. This pigment is derived from epinephrine metabolites that are not excreted. Ref: Harrison's principles of internal medicine 18th edition, Chapter 303."
+    "cop": 3,
+    "exp": "Dubin Johnson syndrome is a beingn rare disorder characterized by conjugated hyperbilirubinemia. The degree of hyperbilirubinemia increase during illness, pregnancy and with the use of oral contraceptive pills. Physical examination shows jaundice sometimes hepatospleenomegaly. Investigations: shows elevated serum bilirubin levels. Other routine tests are normal. Cardinal feature of DJS is accumulation of dark coarsely granular pigment within the lysosomes of centrilobular hepatocytes. This gives a gross black appearance to the liver. This pigment is derived from epinephrine metabolites that are not excreted. Ref: Harrison's principles of internal medicine 18th edition, Chapter 303.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the least likely diagnosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2d74bfd2-b822-4658-8722-ea8589e95824": {
-    "cop": 2,
-    "exp": "Ans. B. Stage 2Stage 1 (sleep)presence of theta waves 4-HzStage 2 (sleep)Sleep spindles appears as sinusoidal waves occurring at a frequency of 12-14 Hz. Presence of sleep spindles and K complexes. K complexes are occasional high voltage biphasic waves.stage 3A high-amplitude delta rhythm (0.5-4 Hz) are seen.Stage 4presence of slow waves."
+    "cop": 1,
+    "exp": "Ans. B. Stage 2Stage 1 (sleep)presence of theta waves 4-HzStage 2 (sleep)Sleep spindles appears as sinusoidal waves occurring at a frequency of 12-14 Hz. Presence of sleep spindles and K complexes. K complexes are occasional high voltage biphasic waves.stage 3A high-amplitude delta rhythm (0.5-4 Hz) are seen.Stage 4presence of slow waves.",
+    "hint_exp": "🎯 Think of \"ECG\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3a0def0f-3600-4f02-aaa8-12337d2c78fa": {
-    "cop": 1,
-    "exp": ". Shelf-life 5 days Storage temperature range 20-24 oC Comments Platelets components must be agitated gently and continuously in a single layer on a platelet agitator."
+    "cop": 0,
+    "exp": ". Shelf-life 5 days Storage temperature range 20-24 oC Comments Platelets components must be agitated gently and continuously in a single layer on a platelet agitator.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Platelets stored\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1c71e32a-c56e-4815-8f05-e0896a87e12c": {
-    "cop": 4,
-    "exp": "The saccule is a diverticulum of mucous membrane which is present in ventricle (sinus of larynx)."
+    "cop": 3,
+    "exp": "The saccule is a diverticulum of mucous membrane which is present in ventricle (sinus of larynx).",
+    "hint_exp": "🧩 Your crush solved \"water cane larynx saccules\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7611ed09-88e5-4596-9471-e45cac9cde57": {
-    "cop": 2,
-    "exp": "TGF-β stimulates fibroblast migration and proliferation, increases the synthesis of collagen and fibronectin, and decreases the degradation of ECM by inhibiting metalloproteinases. TGF-β is involved not only in scar formation after injury but also in the development of fibrosis in lung, liver, and kidneys that follows chronic inflammation. TGF-β also has anti-inflammatory effects that serve to limit and terminate inflammatory responses. It does this by inhibiting lymphocyte proliferation and the activity of other leukocytes.\nVEGFs, mainly VEGF-A, stimulates both migration and proliferation of endothelial cells, thus initiating the process of capillary sprouting in angiogenesis. It promotes vasodilation by stimulating the production of NO and contributes to the formation of the vascular lumen."
+    "cop": 1,
+    "exp": "TGF-β stimulates fibroblast migration and proliferation, increases the synthesis of collagen and fibronectin, and decreases the degradation of ECM by inhibiting metalloproteinases. TGF-β is involved not only in scar formation after injury but also in the development of fibrosis in lung, liver, and kidneys that follows chronic inflammation. TGF-β also has anti-inflammatory effects that serve to limit and terminate inflammatory responses. It does this by inhibiting lymphocyte proliferation and the activity of other leukocytes.\nVEGFs, mainly VEGF-A, stimulates both migration and proliferation of endothelial cells, thus initiating the process of capillary sprouting in angiogenesis. It promotes vasodilation by stimulating the production of NO and contributes to the formation of the vascular lumen.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"involved following processes angiogenesis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "560d7754-5077-4426-a1f0-481b10958d61": {
-    "cop": 1,
-    "exp": "Ans. (a) 44%6 year old child:Apply Berkow formula:* Head and Trunk =13% for head +13% for anterior trunk +13% for posterior trunk +2% neck* Total =41% - nearby answer =40%"
+    "cop": 0,
+    "exp": "Ans. (a) 44%6 year old child:Apply Berkow formula:* Head and Trunk =13% for head +13% for anterior trunk +13% for posterior trunk +2% neck* Total =41% - nearby answer =40%",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"burns\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3e7ef622-dd3d-44bd-ad9d-bf7e6ba72781": {
-    "cop": 2,
-    "exp": "Broad ligament does not constitute triradiate condensation of endopelvic fasica."
+    "cop": 1,
+    "exp": "Broad ligament does not constitute triradiate condensation of endopelvic fasica.",
+    "hint_exp": "🎯 Think of \"all except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "325096c3-7a1e-4e07-96b7-777f78ce434e": {
-    "cop": 3,
-    "exp": "Most common immunoglobulin reduced in Protein Energy Malnutriton is IgA which is involved in mucosal immunity. Low levels of IgA increases the susceptibility of infections in children with PEM."
+    "cop": 2,
+    "exp": "Most common immunoglobulin reduced in Protein Energy Malnutriton is IgA which is involved in mucosal immunity. Low levels of IgA increases the susceptibility of infections in children with PEM.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following immunoglobulin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a32aef89-cb99-4547-a0dd-5786ebd12a2b": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"of gingivitis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "173e8e1e-2809-41aa-88a3-d9b8e6471da4": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Streptococcus mutans . Streptococcus mutans belongs to viridans streptococci and is an impoant cause of dental caries."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Streptococcus mutans . Streptococcus mutans belongs to viridans streptococci and is an impoant cause of dental caries.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Dental caries caused\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b43554af-6a9d-4bf4-886b-16ad225f8a60": {
-    "cop": 4,
-    "exp": "Anterior posterior diameter of Eye ball is 24 mm."
+    "cop": 3,
+    "exp": "Anterior posterior diameter of Eye ball is 24 mm.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Eye ball\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3de70dd2-e1cb-4a9b-b629-4c2a757ecfe8": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"abnormal swallowing pattern with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e0a4cdff-c510-4111-a168-dd46ee26b773": {
-    "cop": 3,
-    "exp": "Brown to black- Madurella mycetomatis, madurella grisea, exophiala jeanselmei. White to yellow- Nocardia asteroides, Nocardia brasiliensis, Actinomadura madurai, Streptomycess somaliensis, Scedosporium apiospermum. Reference: Textbook of Microbiology; Baveja; 4th edition ."
+    "cop": 2,
+    "exp": "Brown to black- Madurella mycetomatis, madurella grisea, exophiala jeanselmei. White to yellow- Nocardia asteroides, Nocardia brasiliensis, Actinomadura madurai, Streptomycess somaliensis, Scedosporium apiospermum. Reference: Textbook of Microbiology; Baveja; 4th edition .",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"granules in mycetoma\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8eec5e6f-19ae-4a4f-88bb-1913bcdc0556": {
-    "cop": 3,
-    "exp": "Hemorrhoids are dilations of veins of the rectum and anal canal, which may occur inside or outside the anal sphincter. This condition may be aggravated by constipation and pregnancy and can also result from venous obstruction by rectal tumors. Thrombosis of hemorrhoids is exquisitely painful. Of interest, internal hemorrhoids typically bleed without pain, whereas external hemorrhoids typically hurt but do not bleed. The other choices do not feature dilated veins.Diagnosis: Hemorrhoids, varicose veins"
+    "cop": 2,
+    "exp": "Hemorrhoids are dilations of veins of the rectum and anal canal, which may occur inside or outside the anal sphincter. This condition may be aggravated by constipation and pregnancy and can also result from venous obstruction by rectal tumors. Thrombosis of hemorrhoids is exquisitely painful. Of interest, internal hemorrhoids typically bleed without pain, whereas external hemorrhoids typically hurt but do not bleed. The other choices do not feature dilated veins.Diagnosis: Hemorrhoids, varicose veins",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "85a8c584-f2ba-4321-a5ed-730ce5dc7af4": {
-    "cop": 1,
-    "exp": "Rifampin binds to the subunit of bacterial DNA-dependent RNA polymerase and thereby inhibits RNA synthesis. Rifampin is bactericidal for mycobacteria. Ethambutol inhibits arabinosyl transferase III, thereby disrupting the transfer of arabinose into arabinogalactan biosynthesis, which in turn disrupts the assembly of mycobacterial cell wall. Colchicine inhibits the release of histamine-containing granules from mast cells, the secretion of insulin from pancreatic cells, and the movement of melanin granules in melanophores. Chloramphenicol acts primarily by binding reversibly to the 50S ribosomal subunit (near the binding site for the macrolide antibiotics and clindamycin, which chloramphenicol inhibits competitively). Although binding of tRNA at the codon recognition site on the 30S ribosomal subunit is undisturbed, the drug apparently prevents the binding of the amino acid-containing end of the aminoacyl tRNA to the acceptor site on the 50S ribosomal subunit. Ref :Gumbo T. (2011). Chapter 56. Chemotherapy of Tuberculosis, Mycobacterium Avium Complex Disease, and Leprosy. In L.L. Brunton, B.A. Chabner, B.C. Knollmann (Eds), Goodman & Gilman's The Pharmacological Basis of Therapeutics, 12e"
+    "cop": 0,
+    "exp": "Rifampin binds to the subunit of bacterial DNA-dependent RNA polymerase and thereby inhibits RNA synthesis. Rifampin is bactericidal for mycobacteria. Ethambutol inhibits arabinosyl transferase III, thereby disrupting the transfer of arabinose into arabinogalactan biosynthesis, which in turn disrupts the assembly of mycobacterial cell wall. Colchicine inhibits the release of histamine-containing granules from mast cells, the secretion of insulin from pancreatic cells, and the movement of melanin granules in melanophores. Chloramphenicol acts primarily by binding reversibly to the 50S ribosomal subunit (near the binding site for the macrolide antibiotics and clindamycin, which chloramphenicol inhibits competitively). Although binding of tRNA at the codon recognition site on the 30S ribosomal subunit is undisturbed, the drug apparently prevents the binding of the amino acid-containing end of the aminoacyl tRNA to the acceptor site on the 50S ribosomal subunit. Ref :Gumbo T. (2011). Chapter 56. Chemotherapy of Tuberculosis, Mycobacterium Avium Complex Disease, and Leprosy. In L.L. Brunton, B.A. Chabner, B.C. Knollmann (Eds), Goodman & Gilman's The Pharmacological Basis of Therapeutics, 12e",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"dependent synthesis inhibited\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4cef7274-72f0-4b29-a87a-1b009ea0f439": {
-    "cop": 2,
-    "exp": "Answer is B (HOCM) Murmur of HOCM typically increases with Valsalva maneuver. 'Most murmurs decrease in length and intensity with Valsalva Maneuver. Two exceptions are the systolic murmur of HOCM which usually becomes much louder and that of MVP which becomes longer and often louder' -- Harrison"
+    "cop": 1,
+    "exp": "Answer is B (HOCM) Murmur of HOCM typically increases with Valsalva maneuver. 'Most murmurs decrease in length and intensity with Valsalva Maneuver. Two exceptions are the systolic murmur of HOCM which usually becomes much louder and that of MVP which becomes longer and often louder' -- Harrison",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following murmurs increase\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "45db6ef5-e97c-403d-b2de-816ef083490c": {
-    "cop": 3,
-    "exp": "<p>RUBELLA VACCINE:- RA 27/3 vaccine Live attenuated Induces higher antibody titres and produces and Immune response more closely paralleling natural infection than the other vaccines. Administration-0.5 ml subcutaneously. Seroconversion occurs in more than 95% vaccines. Age group- 1-14 yrs. Infants under 1 yr should not be vaccinated due to possible interference from persisting rubella antibody. Contraindications-immunocompromised patients, leukemia, pregnancy. The recipient of immunisation should be adviced not to become pregnant in next 3 months. {Reference: park&;s textbook of preventive and social medicine, 23rd edition, pg no.151}</p>"
+    "cop": 2,
+    "exp": "<p>RUBELLA VACCINE:- RA 27/3 vaccine Live attenuated Induces higher antibody titres and produces and Immune response more closely paralleling natural infection than the other vaccines. Administration-0.5 ml subcutaneously. Seroconversion occurs in more than 95% vaccines. Age group- 1-14 yrs. Infants under 1 yr should not be vaccinated due to possible interference from persisting rubella antibody. Contraindications-immunocompromised patients, leukemia, pregnancy. The recipient of immunisation should be adviced not to become pregnant in next 3 months. {Reference: park&;s textbook of preventive and social medicine, 23rd edition, pg no.151}</p>",
+    "hint_exp": "🎯 Think of \"Rubella vaccination contraindicated except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b80ad29a-7031-4a3d-82e4-6ac76187c7f7": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Langerhans cell histiocytosis Birbeck granules are characteristic of langerhans cell histiocytosis Tumour cells in the langerhan's cell histiocvtosis are derived from dendritic cells and express : S-100 CD1a HLA-DR These cells are characterized by the presence of birbeck granules in their cytoplasm unde he electron microscope, Birbeck granules have pentalaminar, rodlike tuular appearance and sometimes a dilated terminal end (tennis-racket appearance)"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Langerhans cell histiocytosis Birbeck granules are characteristic of langerhans cell histiocytosis Tumour cells in the langerhan's cell histiocvtosis are derived from dendritic cells and express : S-100 CD1a HLA-DR These cells are characterized by the presence of birbeck granules in their cytoplasm unde he electron microscope, Birbeck granules have pentalaminar, rodlike tuular appearance and sometimes a dilated terminal end (tennis-racket appearance)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"cytoplasm\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "edf5e447-a791-4c9c-b741-371f7a7ce295": {
-    "cop": 4,
-    "exp": "(D) Severe emotional disturbances # Severe emotional disturbances> Encopresis (also known as paradoxical diarrhea) is involuntary fecal soiling in adults and children who have usually already been toilet trained. Persons with encopresis often leak stool into their undergarments.> Strong emotional reactions typically result from failed and repeated attempts to control this highly aversive bodily product.> These reactions then in turn may complicate conventional treatments using stool softeners, sitting demands, and behavioral strategies. The estimated prevalence of encopresis in four-year-olds is between one and three percent.> The disorder is thought to be more common in males than females, by a factor of 6 to 1."
+    "cop": 3,
+    "exp": "(D) Severe emotional disturbances # Severe emotional disturbances> Encopresis (also known as paradoxical diarrhea) is involuntary fecal soiling in adults and children who have usually already been toilet trained. Persons with encopresis often leak stool into their undergarments.> Strong emotional reactions typically result from failed and repeated attempts to control this highly aversive bodily product.> These reactions then in turn may complicate conventional treatments using stool softeners, sitting demands, and behavioral strategies. The estimated prevalence of encopresis in four-year-olds is between one and three percent.> The disorder is thought to be more common in males than females, by a factor of 6 to 1.",
+    "hint_exp": "🧩 Your crush solved \"is associated with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "62e0dece-de77-40df-b9ef-67fd6ac9babe": {
-    "cop": 3,
-    "exp": "Brachial plexus injuries, vascular injuries, pleural effusion, winged scapula and infection are complication that may arise secondary to first rib removal. Complications of Surgical treatment of TOS Brachial plexus injuries Winged scapula due to long thoracic nerve injury Horner's syndrome Vascular injuries (subclan vessels) Pleural effusion Pnemothorax Air embolism Infection"
+    "cop": 2,
+    "exp": "Brachial plexus injuries, vascular injuries, pleural effusion, winged scapula and infection are complication that may arise secondary to first rib removal. Complications of Surgical treatment of TOS Brachial plexus injuries Winged scapula due to long thoracic nerve injury Horner's syndrome Vascular injuries (subclan vessels) Pleural effusion Pnemothorax Air embolism Infection",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8d85416b-7335-4231-a03b-802b4a275192": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"injury to which nerve\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f41a58c8-cb66-48af-8757-6b00d7605e51": {
-    "cop": 4,
-    "exp": "Ans. D. 8-15 degreeWHO has defined conditions for storage of drugs which can be defined as follows:Label instructionsTemperatureStore frozen-20degC(4degF)Keep cool8deg-15degC(45deg-59degF)Store at room temperatureStore at 15deg-25degC(59deg-77degF)Store at ambientStorage in a dry, clean, well-ventilated area at roomtemperaturetemperatures between 15deg to 25degC(59deg-77degF) or up to 30degC, depending on climatic conditions"
+    "cop": 3,
+    "exp": "Ans. D. 8-15 degreeWHO has defined conditions for storage of drugs which can be defined as follows:Label instructionsTemperatureStore frozen-20degC(4degF)Keep cool8deg-15degC(45deg-59degF)Store at room temperatureStore at 15deg-25degC(59deg-77degF)Store at ambientStorage in a dry, clean, well-ventilated area at roomtemperaturetemperatures between 15deg to 25degC(59deg-77degF) or up to 30degC, depending on climatic conditions",
+    "hint_exp": "🎯 Think of \"Store drug cool place\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e41b5817-5930-45a0-9142-3383f1d21183": {
-    "cop": 1,
-    "exp": "Ans is 'a' Early respiratory distress leading Neonates presenting with symptoms of respiratory distress within 24 hrs is a poor prognostic sign. The earlier the symptoms arise the worst is the prognosis. Congenital diaphragmatic hernia It is the herniation of abdominal contents into the thoracic cavity through the diaphragmatic defect The defect may be posterolateral (Bochdalek hernia) retrosternal (Morgagni hernia) at the esophageal hiatus (hiatal hernia) adjacent to the hiatus (paresophageal hernia) Although all these defects are congenital, the term congenital diaphragmatic hernia is generally used for Bochdalek hernia. Bochdalek hernia Most Bochdalek hernia are on the left side (-80%)and may rarely be bilateral. Compression of the lung results in pulmonary hypoplasia, involving both the lungs (ipsilateral > contralateral) Pulmonary vasculature is also abnormal leading to pulmonary hypeension. Thus the two main factors that affect morbidity and moality are pulmonary hypoplasia and pulmonary hypeension. The most frequent clinical presentation of CDH is respiratory distress due to severe hypoxemia. - The anteroposterior diameter of the chest may be large along with a scaphoid abdomen. The diagnosis of CDH can be made prenatally by ultrasound. The postnatal diagnosis is relatively straightforward because a plain chest radiograph demonstrates the gastric air bubbles or loops of bowel within the chest. There may also be a mediastinal shift away from the side of the hernia."
+    "cop": 0,
+    "exp": "Ans is 'a' Early respiratory distress leading Neonates presenting with symptoms of respiratory distress within 24 hrs is a poor prognostic sign. The earlier the symptoms arise the worst is the prognosis. Congenital diaphragmatic hernia It is the herniation of abdominal contents into the thoracic cavity through the diaphragmatic defect The defect may be posterolateral (Bochdalek hernia) retrosternal (Morgagni hernia) at the esophageal hiatus (hiatal hernia) adjacent to the hiatus (paresophageal hernia) Although all these defects are congenital, the term congenital diaphragmatic hernia is generally used for Bochdalek hernia. Bochdalek hernia Most Bochdalek hernia are on the left side (-80%)and may rarely be bilateral. Compression of the lung results in pulmonary hypoplasia, involving both the lungs (ipsilateral > contralateral) Pulmonary vasculature is also abnormal leading to pulmonary hypeension. Thus the two main factors that affect morbidity and moality are pulmonary hypoplasia and pulmonary hypeension. The most frequent clinical presentation of CDH is respiratory distress due to severe hypoxemia. - The anteroposterior diameter of the chest may be large along with a scaphoid abdomen. The diagnosis of CDH can be made prenatally by ultrasound. The postnatal diagnosis is relatively straightforward because a plain chest radiograph demonstrates the gastric air bubbles or loops of bowel within the chest. There may also be a mediastinal shift away from the side of the hernia.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"What true regarding Bochdalek\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f1966e8f-25d1-4078-820f-80de4232a098": {
-    "cop": 3,
-    "exp": "Anthropoid pelvis"
+    "cop": 2,
+    "exp": "Anthropoid pelvis",
+    "hint_exp": "🧩 Your crush solved \"delivery often\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "13b9092a-e43d-406c-9c5b-29f61f099d22": {
-    "cop": 1,
-    "exp": "Glucose-6-phosphatase dehydrogenase (Pathway shown: Pentose Phosphate pathway/ Hexose monophosphate shunt pathway)"
+    "cop": 0,
+    "exp": "Glucose-6-phosphatase dehydrogenase (Pathway shown: Pentose Phosphate pathway/ Hexose monophosphate shunt pathway)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"catalyzed by\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f914423c-f602-4820-88de-1c85d233dc9e": {
-    "cop": 4,
-    "exp": "Ans. is d i.e. Fever"
+    "cop": 3,
+    "exp": "Ans. is d i.e. Fever",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "54427731-8344-46bd-9f43-923573e0a773": {
-    "cop": 4,
-    "exp": "Ans. D. Post-menopausal osteoporosisRaloxifine has antioestrogenic effect on breast and endometrial tissue and estrogenic effect on bone. Therefore, it inhibits the bone resorption and indicated for the use in post-menopausal osteoporosis."
+    "cop": 3,
+    "exp": "Ans. D. Post-menopausal osteoporosisRaloxifine has antioestrogenic effect on breast and endometrial tissue and estrogenic effect on bone. Therefore, it inhibits the bone resorption and indicated for the use in post-menopausal osteoporosis.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b9643ea5-e49b-459a-81af-33012ac22d3b": {
-    "cop": 3,
-    "exp": "Rare neoplasmTypically located in epiphysis of long boneOther epiphyseal origin tumors are:i. Osteoblastomaii. Subchondral cyst"
+    "cop": 2,
+    "exp": "Rare neoplasmTypically located in epiphysis of long boneOther epiphyseal origin tumors are:i. Osteoblastomaii. Subchondral cyst",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of a long bone\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8733203a-abe9-4d28-8f49-0f89ed300087": {
-    "cop": 2,
-    "exp": "Ans. B BThe following diagram and its branches should be remembered."
+    "cop": 1,
+    "exp": "Ans. B BThe following diagram and its branches should be remembered.",
+    "hint_exp": "🧩 Your crush solved \"blockage which following blood\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

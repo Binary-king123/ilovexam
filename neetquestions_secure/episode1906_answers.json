@@ -1,202 +1,252 @@
 {
   "0cc1bc36-4136-4a3e-91c5-f70bcb453c71": {
-    "cop": 2,
-    "exp": "(B) Is the only cranial nerve to emerge from the dorsal aspect of the brainstem # TROCHLEAR NERVE emerges from the superior medullary velum near the frenulum veli just below the inferior colliculus.> Trochlear nerve is the only cranial nerve which emerges on the dorsal aspect of the brainstem.> When the trochlear nerve is damaged, diplopia occurs on looking downwards: vision is single so long as the eyes look above the horizontal plane."
+    "cop": 1,
+    "exp": "(B) Is the only cranial nerve to emerge from the dorsal aspect of the brainstem # TROCHLEAR NERVE emerges from the superior medullary velum near the frenulum veli just below the inferior colliculus.> Trochlear nerve is the only cranial nerve which emerges on the dorsal aspect of the brainstem.> When the trochlear nerve is damaged, diplopia occurs on looking downwards: vision is single so long as the eyes look above the horizontal plane.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Trochlear nerve\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "dfd31e5c-a11e-4664-9f91-c8d98c63b950": {
-    "cop": 1,
-    "exp": "Dicrotic notch is due to backflow of blood in the aoa at the beginning of diastole.It marks the end of ventricular systole. Reference:Textbook of medical physiology Geetha,2nd edition,page no:187."
+    "cop": 0,
+    "exp": "Dicrotic notch is due to backflow of blood in the aoa at the beginning of diastole.It marks the end of ventricular systole. Reference:Textbook of medical physiology Geetha,2nd edition,page no:187.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"due to closure of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2c88c0a1-dc93-4a12-916f-842a957d3046": {
-    "cop": 3,
-    "exp": "Presence of fetal head at +2station indicate low forceps delivery. High forceps -head not engaged Mid cavity forceps-head engaged, presenting pa above +2station Low forceps -head at +2or below it but not at reached pelvic flow Outlet-head at or on perineum. Ref: Datta Obs 9e pg 533, table 37.2"
+    "cop": 2,
+    "exp": "Presence of fetal head at +2station indicate low forceps delivery. High forceps -head not engaged Mid cavity forceps-head engaged, presenting pa above +2station Low forceps -head at +2or below it but not at reached pelvic flow Outlet-head at or on perineum. Ref: Datta Obs 9e pg 533, table 37.2",
+    "hint_exp": "🎯 Think of \"forceps delivery\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8494da99-7dfb-4a6c-8b8d-e4c2ac20d6ce": {
-    "cop": 2,
-    "exp": "Ref: Harrison 's Principles of Internal Medicine, 18th edition. Pages 937-942: CMDT 2013, Pages 527-529Explanation:MULTIPLE MYELOMAMalignant proliferation of plasma cells derived from a single clone.Clinical Featureso Lytic hone lesionso Anemia with high ESRo Rnulex formation of red cellso Renal failureo Infectionso Hypercalcemia.Classical Triad of MMo Marrow plasmacytosis >10%o Lytic bone lesionso Serum and/or urine M component.Diagnosiso Monoclonal plasma cells (k, l, light chain restricted) in BM or as a tumor (solitary plasmacytoma).o End organ damage--lytic bony lesions, anemia, hypercalcemia, renal failure with paraproteinemia (mostly IgG or IgA)o Serum electrophoresis for M band (b,g)o Urine Bence Jones protein for light chainso Non secretory myeloma--No paraproteins, poor prognosis.o X-rays axial skeleton--Skull, spine, long bones, ribs for lytic lesionso PET or MRI useful for early lesionso Radionuclide scan NOT useful.DD: Smoldering myeloma and MGUS.Treatment:o Thalidomide/lenolidamide + high dose dexamethasone.o Bortezomib.o Autologous hematopoietic SCT.o Localized RT tor vertebral collapse, o Bisphosphonates for malignant hypercalcemia (beware of osteonecrosis jaw!).* PrognosisStage32 microglobulinAlbuminSurvivalStage 1<3.5 mg/L>5.5 g/dL>5 yearsStage 23.5-5.5 mg/L Stage 3>5.5 mg/L <2 years Smouldering myeloma (Asymptomatic myeloma)MGUSM protein in serum> 30g/L<30g/LBM plasma cells> 10%< 10%SymptomsNil End organ damageNilNilPlasma Cell LeukemiaPlasma cells >2000/pL in 2% of patients.Seen in IgD (12% t and IgE (25%) myelomas."
+    "cop": 1,
+    "exp": "Ref: Harrison 's Principles of Internal Medicine, 18th edition. Pages 937-942: CMDT 2013, Pages 527-529Explanation:MULTIPLE MYELOMAMalignant proliferation of plasma cells derived from a single clone.Clinical Featureso Lytic hone lesionso Anemia with high ESRo Rnulex formation of red cellso Renal failureo Infectionso Hypercalcemia.Classical Triad of MMo Marrow plasmacytosis >10%o Lytic bone lesionso Serum and/or urine M component.Diagnosiso Monoclonal plasma cells (k, l, light chain restricted) in BM or as a tumor (solitary plasmacytoma).o End organ damage--lytic bony lesions, anemia, hypercalcemia, renal failure with paraproteinemia (mostly IgG or IgA)o Serum electrophoresis for M band (b,g)o Urine Bence Jones protein for light chainso Non secretory myeloma--No paraproteins, poor prognosis.o X-rays axial skeleton--Skull, spine, long bones, ribs for lytic lesionso PET or MRI useful for early lesionso Radionuclide scan NOT useful.DD: Smoldering myeloma and MGUS.Treatment:o Thalidomide/lenolidamide + high dose dexamethasone.o Bortezomib.o Autologous hematopoietic SCT.o Localized RT tor vertebral collapse, o Bisphosphonates for malignant hypercalcemia (beware of osteonecrosis jaw!).* PrognosisStage32 microglobulinAlbuminSurvivalStage 1<3.5 mg/L>5.5 g/dL>5 yearsStage 23.5-5.5 mg/L Stage 3>5.5 mg/L <2 years Smouldering myeloma (Asymptomatic myeloma)MGUSM protein in serum> 30g/L<30g/LBM plasma cells> 10%< 10%SymptomsNil End organ damageNilNilPlasma Cell LeukemiaPlasma cells >2000/pL in 2% of patients.Seen in IgD (12% t and IgE (25%) myelomas.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the diagnosis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9706788b-43d5-4bb7-bf82-223dfdf85a5c": {
-    "cop": 2,
-    "exp": "Kidney size increases approximately 1.5 cm, returns to normal size in postpaum.(Ref: William's Obstetrics; 25th edition)"
+    "cop": 1,
+    "exp": "Kidney size increases approximately 1.5 cm, returns to normal size in postpaum.(Ref: William's Obstetrics; 25th edition)",
+    "hint_exp": "🧩 Your crush solved \"pregnancy by\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b7dc8c06-09a0-43a0-938f-b0ac315b0258": {
-    "cop": 3,
-    "exp": "The mechanism involves a sudden rise in intracellular calcium due to release of stored calcium in sarcoplasmic reticulum, stimulating contraction, rhabdomyolysis and a hypermetabolic state.(Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no.823)"
+    "cop": 2,
+    "exp": "The mechanism involves a sudden rise in intracellular calcium due to release of stored calcium in sarcoplasmic reticulum, stimulating contraction, rhabdomyolysis and a hypermetabolic state.(Refer: stoelting's pharmacology and physiology in anaesthetic practice, 5th edition, pg no.823)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following mechanism\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b5991460-bc4e-43f1-8c59-9315821c7d97": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the reamer\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f9a24b3e-dea9-4b10-97e2-93e5349de4ab": {
-    "cop": 3,
-    "exp": "The secondary odontoblasts subsequently generate reparative tertiary dentin (or “reparative dentin”) as a part of the ongoing host defense. Reparative dentin usually appears as a localized dentin deposit on the wall of the pulp cavity immediately subjacent to the area on the tooth that had received the injury. Reparative dentin is generally atubular and therefore structurally diferent from the primary and secondary dentin.\nIn the case of mild injury (e.g., a shallow caries lesion), primary odontoblasts initiate increased formation of dentin along the internal aspect of the dentin beneath the affected area through secretion of reactionary tertiary dentin (or “reactionary dentin”). Reactionary dentin is tubular in nature and is continuous with primary and secondary dentin.\nReference: Sturdevant operative dentistry. 7th edition Page no 10"
+    "cop": 2,
+    "exp": "The secondary odontoblasts subsequently generate reparative tertiary dentin (or “reparative dentin”) as a part of the ongoing host defense. Reparative dentin usually appears as a localized dentin deposit on the wall of the pulp cavity immediately subjacent to the area on the tooth that had received the injury. Reparative dentin is generally atubular and therefore structurally diferent from the primary and secondary dentin.\nIn the case of mild injury (e.g., a shallow caries lesion), primary odontoblasts initiate increased formation of dentin along the internal aspect of the dentin beneath the affected area through secretion of reactionary tertiary dentin (or “reactionary dentin”). Reactionary dentin is tubular in nature and is continuous with primary and secondary dentin.\nReference: Sturdevant operative dentistry. 7th edition Page no 10",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2c01e886-e220-4e5e-a515-aa64ccce86a2": {
-    "cop": 4,
-    "exp": "A number of proteins have been identified that are components of the cell membrane or actin cytoskeleton of the podocyte. These include nephrin (NPHS1), a-actinin-4, podocin (NPHS2), CD2AP, Wilms tumor suppressor (WT1), and TRPC6. Mutations in the genes for these proteins, occurring in autosomal dominant and recessive patterns, have been associated with steroid-resistant nephrotic syndrome and biopsy-proven FSGS. Ref: Gipson D.S., Trachtman H (2009). Chapter 25. Focal Segmental Glomerulosclerosis. In Lerma E.V., Berns J.S., Nissenson A.R. (Eds), CURRENT Diagnosis & Treatment: Nephrology & Hypeension."
+    "cop": 3,
+    "exp": "A number of proteins have been identified that are components of the cell membrane or actin cytoskeleton of the podocyte. These include nephrin (NPHS1), a-actinin-4, podocin (NPHS2), CD2AP, Wilms tumor suppressor (WT1), and TRPC6. Mutations in the genes for these proteins, occurring in autosomal dominant and recessive patterns, have been associated with steroid-resistant nephrotic syndrome and biopsy-proven FSGS. Ref: Gipson D.S., Trachtman H (2009). Chapter 25. Focal Segmental Glomerulosclerosis. In Lerma E.V., Berns J.S., Nissenson A.R. (Eds), CURRENT Diagnosis & Treatment: Nephrology & Hypeension.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following gene mutations\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "223f4aea-5332-47a9-8e55-e51a4fa12fc6": {
-    "cop": 2,
-    "exp": "Road fatality After 2005, person who died within 30 days of a road crash is said to be killed by road traffic accident. Before 2005, fatalities were counted within six days of road traffic accident."
+    "cop": 1,
+    "exp": "Road fatality After 2005, person who died within 30 days of a road crash is said to be killed by road traffic accident. Before 2005, fatalities were counted within six days of road traffic accident.",
+    "hint_exp": "🧩 Your crush solved \"how many days of accident\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6797244a-252c-4471-a79d-04a0df277e33": {
-    "cop": 4,
-    "exp": "The patient in the question is a chronic smoker, although he is worried about quitting smoking, he is ready for it as suggested by his family members. So he is most likely to be in the stage of contemplation and cost analysis according to the 'stages of behaviour change' model. In this stage, smokers realize or admit that tobacco use is unhealthy and they intend to quit smoking in the next 6 months. Ref: Essential Concepts for Healthy Living By Sandra Alters, 5th edition, page 9-10."
+    "cop": 3,
+    "exp": "The patient in the question is a chronic smoker, although he is worried about quitting smoking, he is ready for it as suggested by his family members. So he is most likely to be in the stage of contemplation and cost analysis according to the 'stages of behaviour change' model. In this stage, smokers realize or admit that tobacco use is unhealthy and they intend to quit smoking in the next 6 months. Ref: Essential Concepts for Healthy Living By Sandra Alters, 5th edition, page 9-10.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"behaviour change\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6ec9914a-ee01-4ed0-864b-7b3505987448": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following statements\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "cfc65064-dd89-4438-bbee-adc1f5f28fee": {
-    "cop": 4,
-    "exp": "Bronchoscope-glutaraldehyde REF:Ananthanarayan & Panicker's Textbook of Microbiology 9th edition pg no:34"
+    "cop": 3,
+    "exp": "Bronchoscope-glutaraldehyde REF:Ananthanarayan & Panicker's Textbook of Microbiology 9th edition pg no:34",
+    "hint_exp": "🎯 Think of \"Irradiation used sterilizea Except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "187542b7-6ca6-4286-94ce-e34cd931f161": {
-    "cop": 1,
-    "exp": "As low as reasonably achievable (ALARA) is a principle of radioprotection stating that whenever ionizing radiation has to be applied to humans, animals or materials exposure should be as low as reasonably achievable. It is fundamental to the principles of radiation protection. 3 basic principles of ALARA: Time Distance Shielding."
+    "cop": 0,
+    "exp": "As low as reasonably achievable (ALARA) is a principle of radioprotection stating that whenever ionizing radiation has to be applied to humans, animals or materials exposure should be as low as reasonably achievable. It is fundamental to the principles of radiation protection. 3 basic principles of ALARA: Time Distance Shielding.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"ALARA stands\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "936ba537-1358-4cff-ba5a-0a3acff43ddc": {
-    "cop": 1,
-    "exp": "Ans. a (Parotid tumor). (Ref. LB, 25th/pg. 756)Salivary gland tumor TypeSubgroup1AdenomaPleomorphic (80-90%), Warthin's tumor, Adenolymphoma2CarcinomaAcinic cell carcinoma (LG-low grade), Adenoid cystic carcinoma (LG),Mucoepidermoid (LG and HG), Adenocarcinoma (HG), Squamous cell carcinoma (HG)3Non epithelial tumorsHemangioma, Lymphangioma4LymphomaPrimary, Secondary5SecondariesLocal, Distant (skin and bronchus)6Tumor like lesionsAdenomatoid hyperplasia, Benign lymphoepithelial lesion, Salivary gland cysts"
+    "cop": 0,
+    "exp": "Ans. a (Parotid tumor). (Ref. LB, 25th/pg. 756)Salivary gland tumor TypeSubgroup1AdenomaPleomorphic (80-90%), Warthin's tumor, Adenolymphoma2CarcinomaAcinic cell carcinoma (LG-low grade), Adenoid cystic carcinoma (LG),Mucoepidermoid (LG and HG), Adenocarcinoma (HG), Squamous cell carcinoma (HG)3Non epithelial tumorsHemangioma, Lymphangioma4LymphomaPrimary, Secondary5SecondariesLocal, Distant (skin and bronchus)6Tumor like lesionsAdenomatoid hyperplasia, Benign lymphoepithelial lesion, Salivary gland cysts",
+    "hint_exp": "🧩 Your crush solved \"tumor of\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "eb2c61c4-81a1-4d88-a73c-68e00b4c718f": {
-    "cop": 3,
-    "exp": "CURB 65- predict moality in the community-acquired Pneumonia. The CURB-65 criteria includes five variables :- C - Confusion U - B.U. N >7 mmol/L R - Respiratory rate > 30/min B - Blood pressure :- Systolic < 90 mmHg or Diastolic < 60 mmHg 65 - Age >65 years Each criterion has one point which predicts the moality in CAP:- Score 0: 30-day moality rate is 1.5%- can be treated outside the hospital. Score 2: 30-day moality rate is 9.2%, and patients should be admitted to the hospital. Score 3: moality rates are 22% overall; these patients may require admission to an ICU."
+    "cop": 2,
+    "exp": "CURB 65- predict moality in the community-acquired Pneumonia. The CURB-65 criteria includes five variables :- C - Confusion U - B.U. N >7 mmol/L R - Respiratory rate > 30/min B - Blood pressure :- Systolic < 90 mmHg or Diastolic < 60 mmHg 65 - Age >65 years Each criterion has one point which predicts the moality in CAP:- Score 0: 30-day moality rate is 1.5%- can be treated outside the hospital. Score 2: 30-day moality rate is 9.2%, and patients should be admitted to the hospital. Score 3: moality rates are 22% overall; these patients may require admission to an ICU.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"CURB criteria include except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "afe4f35b-dbdd-433f-8aa8-1ef5f39bd2ac": {
-    "cop": 3,
-    "exp": "Hegar's sign Softeningof the lower uterine segment can be elicited between second and fifth month of pregnancy. In a bimanual palpation with one hand placed on the abdomen and two fingers in the vagina the lower uterine segment is not felt and fingers of hands will touch together as if no uterus is between. This test is not recommended now for fear of disturbance of pregnancy. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 330"
+    "cop": 2,
+    "exp": "Hegar's sign Softeningof the lower uterine segment can be elicited between second and fifth month of pregnancy. In a bimanual palpation with one hand placed on the abdomen and two fingers in the vagina the lower uterine segment is not felt and fingers of hands will touch together as if no uterus is between. This test is not recommended now for fear of disturbance of pregnancy. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 330",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"absent uterus\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1e25354c-b585-479f-bb0f-08d7b41458cd": {
-    "cop": 2,
-    "exp": "Desmopressin is ADH and will exacerbates the symptoms of SIADH. Hypeonic saline (3%NaCl) is used for severely symptomatic patients with hyponatremia. Demeclocycline decreases the release of ADH."
+    "cop": 1,
+    "exp": "Desmopressin is ADH and will exacerbates the symptoms of SIADH. Hypeonic saline (3%NaCl) is used for severely symptomatic patients with hyponatremia. Demeclocycline decreases the release of ADH.",
+    "hint_exp": "🎯 Think of \"SIADH\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "df8f5d0d-f1a0-44c7-beaa-2f3f58a9f420": {
-    "cop": 1,
-    "exp": "A i.e. GA Obstetric Anesthesia N20 can be given in Early pregnancy Anesthesia is dangerous in all three trimesters but comparatively 2\" trimester is safestQ. Supine Hypotensive Syndrome : In late pregnancy (IIIrd Trim) circulatory depression occurs due to diminished venous return because of pressure of gravid uterus over inferior venacava in supine position.Q Best uterine relaxant is halothane, so uterine tetanic contractions are most rapidly treated by halothane.Q M.C. cause of death during G.A. in obstetrics is Mendelson's syndromeQ i.e. Aspiration of gastric content during anesthesia. On X-Ray, butterfly motteling in hilar area is seen. This is prevented by: - Empty stomach and H2 blockers - Esophageal Intubation - Secillik's maneuver i.e. backward pressure on cailage.Q Contraindications - Gallimanie is C/I as it crosses placenta. - Morphine is C/I until delivery as it causes respiratory depression in mother and baby. For respiratory depression of morphine or pathidine. Naloxane 0.01 mg/Kg is given through umbilical vein."
+    "cop": 0,
+    "exp": "A i.e. GA Obstetric Anesthesia N20 can be given in Early pregnancy Anesthesia is dangerous in all three trimesters but comparatively 2\" trimester is safestQ. Supine Hypotensive Syndrome : In late pregnancy (IIIrd Trim) circulatory depression occurs due to diminished venous return because of pressure of gravid uterus over inferior venacava in supine position.Q Best uterine relaxant is halothane, so uterine tetanic contractions are most rapidly treated by halothane.Q M.C. cause of death during G.A. in obstetrics is Mendelson's syndromeQ i.e. Aspiration of gastric content during anesthesia. On X-Ray, butterfly motteling in hilar area is seen. This is prevented by: - Empty stomach and H2 blockers - Esophageal Intubation - Secillik's maneuver i.e. backward pressure on cailage.Q Contraindications - Gallimanie is C/I as it crosses placenta. - Morphine is C/I until delivery as it causes respiratory depression in mother and baby. For respiratory depression of morphine or pathidine. Naloxane 0.01 mg/Kg is given through umbilical vein.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"manual removal of placenta\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9f57bcf1-2e00-4825-9808-8a1edac26909": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Diagnosis following radiograph\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "61f45db4-e63d-49d3-857c-c607698a1340": {
-    "cop": 1,
-    "exp": "SMALL - BOWEL NEOPLASM MC tumor of small bowel : Stromal tumor> Adenoma MC tumor of small bowel in children: Lymphoma MC malignant tumor of small bowel: Adenocarcinoma >Carcinoid MC site of small bowel malignancy, carcinoids, lymphoma: Ileum"
+    "cop": 0,
+    "exp": "SMALL - BOWEL NEOPLASM MC tumor of small bowel : Stromal tumor> Adenoma MC tumor of small bowel in children: Lymphoma MC malignant tumor of small bowel: Adenocarcinoma >Carcinoid MC site of small bowel malignancy, carcinoids, lymphoma: Ileum",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Most common tumor small\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "17297d71-089a-4050-ae96-173bda780eed": {
-    "cop": 4,
-    "exp": "D i.e. Poor vascularily"
+    "cop": 3,
+    "exp": "D i.e. Poor vascularily",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"slow because of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5e0d391d-a258-419b-a64e-14a80df934c9": {
-    "cop": 4,
-    "exp": "The fecal elastase-1 and small bowel biopsy are useful in the evaluation of patients with suspected pancreatic steatorrhea. A decrease of fecal elastase level to <100 mg per gram of stool strongly suggests severe pancreatic exocrine insufficiency. The diagnostic test with the best sensitivity and specificity in chronic pancreatitis is the hormone stimulation test utilizing secretin. It becomes abnormal when > 60% of the pancreatic exocrine function has been lost. In contrast to acute pancreatitis, the serum amylase and lipase levels are usually not strikingly elevated in chronic pancreatitis."
+    "cop": 3,
+    "exp": "The fecal elastase-1 and small bowel biopsy are useful in the evaluation of patients with suspected pancreatic steatorrhea. A decrease of fecal elastase level to <100 mg per gram of stool strongly suggests severe pancreatic exocrine insufficiency. The diagnostic test with the best sensitivity and specificity in chronic pancreatitis is the hormone stimulation test utilizing secretin. It becomes abnormal when > 60% of the pancreatic exocrine function has been lost. In contrast to acute pancreatitis, the serum amylase and lipase levels are usually not strikingly elevated in chronic pancreatitis.",
+    "hint_exp": "🎯 Think of \"pancreatic steatorrhea\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a2389b6b-c949-4288-86ad-86d771f90764": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e959cbc0-bc9d-4d52-b9ed-d0c459977ddd": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Acute gastric volvulus Acute gastric volvulus causes severe abdominal pain accompanied by the diagnostic triad k/a Brochardt's triad. Brochardt's triad includes : vomiting followed by retching and then inability to vomit. epigastric distention inability to pass nasogastric tube."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Acute gastric volvulus Acute gastric volvulus causes severe abdominal pain accompanied by the diagnostic triad k/a Brochardt's triad. Brochardt's triad includes : vomiting followed by retching and then inability to vomit. epigastric distention inability to pass nasogastric tube.",
+    "hint_exp": "🧩 Your crush solved \"Brochardt triad acute epigastric\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d4bf6afd-00ac-43bf-9312-8d859e48f005": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"High copper amalgam produced\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "44ba6b87-a78a-42ad-ab47-661c6844e8fd": {
-    "cop": 3,
-    "exp": "Glycopyrrolate is quartenary amine which can't cross BBB and hence carries no CNS side effects."
+    "cop": 2,
+    "exp": "Glycopyrrolate is quartenary amine which can't cross BBB and hence carries no CNS side effects.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8280db78-f5fc-4cb3-bd34-2e94ed214789": {
-    "cop": 2,
-    "exp": "Ans: b (ego)Id- refers to a reservoir of unorganized instinctual drives, it operates under primary process thinking and it lacks the capacity to delay or modify the instinctual drives with which an infant is bomEgo-logical and abstract thinking and verbal expressions, defence mechanisms and functions of ego, it's the executive organ of the psycho which controls motility, perception and contact with reality, it modulates and delays instinctional drivesSuper ego- it establishes and maintain an individuals moral conscience on the basis of a complex system of values and ideals internalized from parents. It serves as an agency which scrutinizes a person's behavior, thought and feelings with expected standards of behavior and provides approval/ disapproval(Rough example )Id is basic human instincts for eg ;you see a chocolate in another person's hand and you have a tendency to grab and eat it.Your super ego tells you it would be wrong to do so and your ego acts as a balance between the id and super ego and prevents you from doing that action. Instead it directs you to go and buy a chocolate for yourself."
+    "cop": 1,
+    "exp": "Ans: b (ego)Id- refers to a reservoir of unorganized instinctual drives, it operates under primary process thinking and it lacks the capacity to delay or modify the instinctual drives with which an infant is bomEgo-logical and abstract thinking and verbal expressions, defence mechanisms and functions of ego, it's the executive organ of the psycho which controls motility, perception and contact with reality, it modulates and delays instinctional drivesSuper ego- it establishes and maintain an individuals moral conscience on the basis of a complex system of values and ideals internalized from parents. It serves as an agency which scrutinizes a person's behavior, thought and feelings with expected standards of behavior and provides approval/ disapproval(Rough example )Id is basic human instincts for eg ;you see a chocolate in another person's hand and you have a tendency to grab and eat it.Your super ego tells you it would be wrong to do so and your ego acts as a balance between the id and super ego and prevents you from doing that action. Instead it directs you to go and buy a chocolate for yourself.",
+    "hint_exp": "🎯 Think of \"Frustration tolerated\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f5397bf2-f720-4da0-ac1c-ead2fa9b5b21": {
-    "cop": 4,
-    "exp": "Ans. is 'a' i.e., Diffuse colloid goiter; 'b' i.e., Nodular goiter; 'c' i.e., Mental retardation Pendred syndrome o It is an autosomal recessive disorder o Goiter with sensory neural deafness is seen in pendred syndrome. o Goiter is due to several mutation in TPO gene which lead to defective organification and congenital hypothyroidism. o Hearing loss is usually present at bih but goiter appears after pubey. o Goitre is usually soft and diffuse and later life become nodular. o It is due to defect in a sulfate transpoer protein common to thyroid gland and cochlea."
+    "cop": 3,
+    "exp": "Ans. is 'a' i.e., Diffuse colloid goiter; 'b' i.e., Nodular goiter; 'c' i.e., Mental retardation Pendred syndrome o It is an autosomal recessive disorder o Goiter with sensory neural deafness is seen in pendred syndrome. o Goiter is due to several mutation in TPO gene which lead to defective organification and congenital hypothyroidism. o Hearing loss is usually present at bih but goiter appears after pubey. o Goitre is usually soft and diffuse and later life become nodular. o It is due to defect in a sulfate transpoer protein common to thyroid gland and cochlea.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"True about pendred syndrome\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8deeebda-a48c-44e8-b326-65f75a7f96dc": {
-    "cop": 2,
-    "exp": "Ans. B: Onchocerciasis Chorioretinitis (CR) is an inflammatory process that involves the uveal tract of the eye. Inflammation is usually caused by congenital viral, bacterial, or protozoal infections in neonates. Congenital toxoplasma and cytomegalovirus infection are the most common etiologies in this age group. Fungal infections are commonly identified"
+    "cop": 1,
+    "exp": "Ans. B: Onchocerciasis Chorioretinitis (CR) is an inflammatory process that involves the uveal tract of the eye. Inflammation is usually caused by congenital viral, bacterial, or protozoal infections in neonates. Congenital toxoplasma and cytomegalovirus infection are the most common etiologies in this age group. Fungal infections are commonly identified",
+    "hint_exp": "🧩 Your crush solved \"is commonly\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3d500c60-8cdc-469e-8c2b-a3a024b674de": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"gene disease with following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "04c7cbb9-d407-4290-bfba-8d7e82e2b3ce": {
-    "cop": 1,
-    "exp": "ANSWER: (A) CD4 T cellREF: Jawett s 24th edition section IV. Virology > Chapter 30. Pathogenesis & Control of Viral Diseases > Table 30-7See APPENDIX-19 for list of \"CYTOKINES\"Synthesis of InterferonsInterferons are produced by all vertebrate species. Normal cells do not generally synthesize interferon until they are induced to do so. Infection with viruses is a potent insult leading to induction; RNA viruses are stronger inducers of interferon than DNA viruses. Interferons also can be induced by double-stranded RNA, bacterial endotoxin, and small molecules such as tilorone. IFN-g is not produced in response to most viruses but is induced by mitogen stimulation.The different classes of interferon are produced by different cell types. IFN-a and IFN-b are synthesized by many cell types, but IFN-g is produced mainly by lymphocytes, especially T cells and natural killer (NK) cells. Dendritic cells are potent interferon producers; under the same virus challenge conditions, dendritic cells can secrete up to l000x more interferon than fibroblasts. APPENDIX -19Cytokines:NameMajor Cellular SourceSelected Biologic EffectsIFN-a,bMacrophages (IFNa)fibroblasts (IFNb)AntiviralIFN-gCD4+- T cells, NK cellsActivates macrophages, TH1 differentiationTNF-aMacrophages, T cellsCell activation, Fever, cachexia, antitumorTNF-a, LT (lymphotoxin)T cellsActivates PMNsIL-1MacrophagesCell activation, Fever (Pro inflammatory)IL-2T cellsT cell growth and activationIL-3T cellsHematopoiesisIL-4T cells, mast cellsB cell proliferation and switching to IgE, TH2 differentiationIL-5T cellsDifferentiation of eosinophil, activates B cellsIL-7Bone marrow stroma cellsT cell progenitor differentiationIL-8Macrophages, T cellsChemotactic for neutrophilsIL-10Macrophages, T cellsInhibits activated macrophages and dendritic cells, Anti-inflammatoryIL-12MacrophagesDifferentiation of T cells, activation of NK cellsGM-CSFT cells, macrophages, monocytesDifferentiation of myeloid progenitor cellsM-CSFMacrophages, monocytes, fibroblastsDifferentiation of monocytes and macrophagesG-CSFFibroblasts, monocytes, macrophagesStimulates neutrophil production in bone marrow"
+    "cop": 0,
+    "exp": "ANSWER: (A) CD4 T cellREF: Jawett s 24th edition section IV. Virology > Chapter 30. Pathogenesis & Control of Viral Diseases > Table 30-7See APPENDIX-19 for list of \"CYTOKINES\"Synthesis of InterferonsInterferons are produced by all vertebrate species. Normal cells do not generally synthesize interferon until they are induced to do so. Infection with viruses is a potent insult leading to induction; RNA viruses are stronger inducers of interferon than DNA viruses. Interferons also can be induced by double-stranded RNA, bacterial endotoxin, and small molecules such as tilorone. IFN-g is not produced in response to most viruses but is induced by mitogen stimulation.The different classes of interferon are produced by different cell types. IFN-a and IFN-b are synthesized by many cell types, but IFN-g is produced mainly by lymphocytes, especially T cells and natural killer (NK) cells. Dendritic cells are potent interferon producers; under the same virus challenge conditions, dendritic cells can secrete up to l000x more interferon than fibroblasts. APPENDIX -19Cytokines:NameMajor Cellular SourceSelected Biologic EffectsIFN-a,bMacrophages (IFNa)fibroblasts (IFNb)AntiviralIFN-gCD4+- T cells, NK cellsActivates macrophages, TH1 differentiationTNF-aMacrophages, T cellsCell activation, Fever, cachexia, antitumorTNF-a, LT (lymphotoxin)T cellsActivates PMNsIL-1MacrophagesCell activation, Fever (Pro inflammatory)IL-2T cellsT cell growth and activationIL-3T cellsHematopoiesisIL-4T cells, mast cellsB cell proliferation and switching to IgE, TH2 differentiationIL-5T cellsDifferentiation of eosinophil, activates B cellsIL-7Bone marrow stroma cellsT cell progenitor differentiationIL-8Macrophages, T cellsChemotactic for neutrophilsIL-10Macrophages, T cellsInhibits activated macrophages and dendritic cells, Anti-inflammatoryIL-12MacrophagesDifferentiation of T cells, activation of NK cellsGM-CSFT cells, macrophages, monocytesDifferentiation of myeloid progenitor cellsM-CSFMacrophages, monocytes, fibroblastsDifferentiation of monocytes and macrophagesG-CSFFibroblasts, monocytes, macrophagesStimulates neutrophil production in bone marrow",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Interferon gamma secreted\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "25153403-0085-4f80-b577-77331a3dbcef": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Monoclonal antibody\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b4fab459-45fb-46e2-a900-593053054678": {
-    "cop": 4,
-    "exp": "The ex utero intrapaum therapy (EXIT) procedure is used in circumstances in which airway obstruction is predicted at the time of delivery due to the presence of a large neck mass, such as a cystic hygroma or teratoma, or to congenital tracheal stenosis. Ref: Schwaz's principle of surgery 9th edition, chapter 39."
+    "cop": 3,
+    "exp": "The ex utero intrapaum therapy (EXIT) procedure is used in circumstances in which airway obstruction is predicted at the time of delivery due to the presence of a large neck mass, such as a cystic hygroma or teratoma, or to congenital tracheal stenosis. Ref: Schwaz's principle of surgery 9th edition, chapter 39.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"EXIT procedure used EXCEPT\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "72e4a06c-0227-45f8-8189-24c840eec7bd": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"following periodontal surgeries that\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "06ad1294-3f51-486d-8d74-cd774303e368": {
-    "cop": 3,
-    "exp": "Refer KDT 6/e p 286 Hypeension and diabetes are aggravated by steroids. In peptic ulcer b, bleeding and silent perforation may occur. Thus steroids are contraindicated in these conditions. However since steroids may have to be used as a life saving measure"
+    "cop": 2,
+    "exp": "Refer KDT 6/e p 286 Hypeension and diabetes are aggravated by steroids. In peptic ulcer b, bleeding and silent perforation may occur. Thus steroids are contraindicated in these conditions. However since steroids may have to be used as a life saving measure",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Steroids contraindicated except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a910e906-4cf1-4135-843e-be09e59c2004": {
-    "cop": 3,
-    "exp": "The history here is highly suggestive of Wiskott-Aldreich syndrome. IgM levels are decreased in this condition. Wiskott-Aldrich syndrome It is an X-linked disease characterised by a traid of clinical manifestations: R - Recurrent infections E - Eczema T - Thrombocytopenia with small platelets. Serum IgM levels are low but IgE and IgA levels are normal or elevated. IgG is usually normal Reference: Ananthanarayan and Paniker&;s Textbook of Microbiology Tenth edition"
+    "cop": 2,
+    "exp": "The history here is highly suggestive of Wiskott-Aldreich syndrome. IgM levels are decreased in this condition. Wiskott-Aldrich syndrome It is an X-linked disease characterised by a traid of clinical manifestations: R - Recurrent infections E - Eczema T - Thrombocytopenia with small platelets. Serum IgM levels are low but IgE and IgA levels are normal or elevated. IgG is usually normal Reference: Ananthanarayan and Paniker&;s Textbook of Microbiology Tenth edition",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2e01723b-027f-4eb9-aad6-643f9636f29c": {
-    "cop": 3,
-    "exp": "By 11th to 12th-day cells appear between the inner surface of the cytotrophoblast and the outer surface of the yolk sac. \nThese cells lie loosely and are called extraembryonic mesoderm. A cavity formed within it called the extraembryonic coelom or chorionic cavity. \nThis covers both the yolk sac and amniotic cavity except where the embryoblast is connected to trophoblast through the connecting stalk"
+    "cop": 2,
+    "exp": "By 11th to 12th-day cells appear between the inner surface of the cytotrophoblast and the outer surface of the yolk sac. \nThese cells lie loosely and are called extraembryonic mesoderm. A cavity formed within it called the extraembryonic coelom or chorionic cavity. \nThis covers both the yolk sac and amniotic cavity except where the embryoblast is connected to trophoblast through the connecting stalk",
+    "hint_exp": "🎯 Think of \"yolk sac at\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bc2ed346-2025-4687-a985-89b8513cc15e": {
-    "cop": 1,
-    "exp": "1. Pyruvate carboxylase2. Phosphoenolpyruvate carboxykinase3. Fructose-1-6-bisphosphatase4. Glucose-6-phosphataseGluconeogenesis involves several enzymes of glycolysis, but it is not a reversal of glycolysis. The irreversible steps in glycolysis are circumvented by four enzymes which are designated as the key enzymes of gluconeogenesis.Ref: D M Vasudevan 7th edition Page no: 117"
+    "cop": 0,
+    "exp": "1. Pyruvate carboxylase2. Phosphoenolpyruvate carboxykinase3. Fructose-1-6-bisphosphatase4. Glucose-6-phosphataseGluconeogenesis involves several enzymes of glycolysis, but it is not a reversal of glycolysis. The irreversible steps in glycolysis are circumvented by four enzymes which are designated as the key enzymes of gluconeogenesis.Ref: D M Vasudevan 7th edition Page no: 117",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"gluconeogenesis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6d34742b-5bcd-4b4e-b5b8-c4a24d625e9c": {
-    "cop": 3,
-    "exp": "Posttraumatic epilepsy (PTE) is a recurrent seizure disorder that apparently results from injury to the brain. This injury may be due to multiple types of head insults often labled traumatic brain injury (TBI). There is an increase in PTE due to increasing TBI. PTE must be differentiated from posttraumatic seizures (PTS), which is a broader-spectrum term and signifies seizures that occur as a sequel to brain injury. Seizures that occur within 24 hours after brain injury are called immediate PTS. PTS that occur within 1 week after injury are termed early PTS, and seizures that occur more than 1 week after injury are termed late PTS. About 20% of people who have a single late posttraumatic seizure never have any fuher seizures, and these people should not be labeled as having PTE. The former definition of epilepsy required 2 unprovoked seizures, but the updated definition of epilepsy can be met with 1 unprovoked seizure and high likelihood of another. This blurrs the definition of PTS and PTE, but it is impoant to differentiate between the two. As PTS is a provoked seizure it is different than unprovoked seizure, but late PTS may be hard to differentiate from PTE Ref - Harrison's internal medicine 20e , medscape.com"
+    "cop": 2,
+    "exp": "Posttraumatic epilepsy (PTE) is a recurrent seizure disorder that apparently results from injury to the brain. This injury may be due to multiple types of head insults often labled traumatic brain injury (TBI). There is an increase in PTE due to increasing TBI. PTE must be differentiated from posttraumatic seizures (PTS), which is a broader-spectrum term and signifies seizures that occur as a sequel to brain injury. Seizures that occur within 24 hours after brain injury are called immediate PTS. PTS that occur within 1 week after injury are termed early PTS, and seizures that occur more than 1 week after injury are termed late PTS. About 20% of people who have a single late posttraumatic seizure never have any fuher seizures, and these people should not be labeled as having PTE. The former definition of epilepsy required 2 unprovoked seizures, but the updated definition of epilepsy can be met with 1 unprovoked seizure and high likelihood of another. This blurrs the definition of PTS and PTE, but it is impoant to differentiate between the two. As PTS is a provoked seizure it is different than unprovoked seizure, but late PTS may be hard to differentiate from PTE Ref - Harrison's internal medicine 20e , medscape.com",
+    "hint_exp": "🧩 Your crush solved \"term post traumatic epilepsy\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b2e1ae62-ec31-4953-803c-12779471d2d3": {
-    "cop": 2,
-    "exp": "Management of DCIS : FNAC confirms the disease but will not differentiate DCIS from invasive carcinoma. Ref : SRB&;s 4thE pg: 566"
+    "cop": 1,
+    "exp": "Management of DCIS : FNAC confirms the disease but will not differentiate DCIS from invasive carcinoma. Ref : SRB&;s 4thE pg: 566",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following test\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f317b11f-4b2f-4a01-9310-f58638c17cf4": {
-    "cop": 1,
-    "exp": "a. Resisted internal rotation (subscapularis) = \"Lift-off test\"b. Resisted external rotation (infraspinatus, teres minor)c. Resisted abduction (supraspinatus) = \"Empty Can Test\", Jobe's Test (thumbs down, arms forward 30deg) and Drop-Arm Testd. Speed's Test (biceps)e. Yergason's Test (biceps)"
+    "cop": 0,
+    "exp": "a. Resisted internal rotation (subscapularis) = \"Lift-off test\"b. Resisted external rotation (infraspinatus, teres minor)c. Resisted abduction (supraspinatus) = \"Empty Can Test\", Jobe's Test (thumbs down, arms forward 30deg) and Drop-Arm Testd. Speed's Test (biceps)e. Yergason's Test (biceps)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Lift test done RELATED\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3b6c5ffd-ef96-4e8f-8a32-71107b4b72ff": {
-    "cop": 2,
-    "exp": "ANSWER: (B) M3REF: Wintrobes Clinical Hematology 11thedchapter 3Acute Promyelocytic Leukemia (AML tl5; 17) (q22;ql2) Acute promyelocytic leukemia (APL) is diagnosed in less than 10% of all AML cases. A variant of APL is knowm as microgranular M3 (or hypogranular) because the granulation is significantly less than in the traditional M3. Accurate diagnosis of APL is important because of the danger of potentially fatal disseminated intravascular coagulation, which can be initiated by procoagulants contained in the granules."
+    "cop": 1,
+    "exp": "ANSWER: (B) M3REF: Wintrobes Clinical Hematology 11thedchapter 3Acute Promyelocytic Leukemia (AML tl5; 17) (q22;ql2) Acute promyelocytic leukemia (APL) is diagnosed in less than 10% of all AML cases. A variant of APL is knowm as microgranular M3 (or hypogranular) because the granulation is significantly less than in the traditional M3. Accurate diagnosis of APL is important because of the danger of potentially fatal disseminated intravascular coagulation, which can be initiated by procoagulants contained in the granules.",
+    "hint_exp": "🎯 Think of \"which AML type\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9ce33492-0d63-4de0-a257-2d0560792be6": {
-    "cop": 2,
-    "exp": "Nitrates because of tolerance produce Monday headache in workers working in nitrate industry which gradually subsides by Friday. Ref: Katzung 12th ed."
+    "cop": 1,
+    "exp": "Nitrates because of tolerance produce Monday headache in workers working in nitrate industry which gradually subsides by Friday. Ref: Katzung 12th ed.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "31963d3a-d2d8-4b70-9ef4-17789b72c611": {
-    "cop": 1,
-    "exp": "De quervains thyroiditis is not of autoimmune etiology. It occurs several weeks following a viral illness with a prodrome of generalized myalgia, pharyngitis, low grade fever and fatigue. Viruses involved in causing this includes mumps, coxsackie, influenza, adeno virus and echo virus. Ref: Ultrasound of the Thyroid and Parathyroid Glands By Robe A. Sofferman, Page 86; Acute Endocrinology: From Cause to Consequence By Greet Van Den Berghe, Page 10"
+    "cop": 0,
+    "exp": "De quervains thyroiditis is not of autoimmune etiology. It occurs several weeks following a viral illness with a prodrome of generalized myalgia, pharyngitis, low grade fever and fatigue. Viruses involved in causing this includes mumps, coxsackie, influenza, adeno virus and echo virus. Ref: Ultrasound of the Thyroid and Parathyroid Glands By Robe A. Sofferman, Page 86; Acute Endocrinology: From Cause to Consequence By Greet Van Den Berghe, Page 10",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0f005198-848d-47bf-a1fd-ee2990bbf819": {
-    "cop": 1,
-    "exp": "DNA Polymerases Ecoli Eukaryotic Function I Gap filling following DNA replication, repair, and recombination II DNA proofreading and repair b DNA repair g Mitochondrial DNA synthesis III e Processive, leading strand synthesis a Primase d Processive, lagging strand synthesis Harper30e pg: 383"
+    "cop": 0,
+    "exp": "DNA Polymerases Ecoli Eukaryotic Function I Gap filling following DNA replication, repair, and recombination II DNA proofreading and repair b DNA repair g Mitochondrial DNA synthesis III e Processive, leading strand synthesis a Primase d Processive, lagging strand synthesis Harper30e pg: 383",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"reading and repair\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6c577596-8f1c-47ac-b72a-6d0beb81d476": {
-    "cop": 4,
-    "exp": "Refer CMDT 2010/1041 Teriparatide acts by stimulating the formulation of bone whereas bisphoshonates act by inhibitng the resorption of bone Strontium ranelate has both of these propeies"
+    "cop": 3,
+    "exp": "Refer CMDT 2010/1041 Teriparatide acts by stimulating the formulation of bone whereas bisphoshonates act by inhibitng the resorption of bone Strontium ranelate has both of these propeies",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Osteoporosis except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e3a54f80-5825-4754-b040-19a6d84b2cd7": {
-    "cop": 4,
-    "exp": "Phytanic alpha oxidase \n\nRefsum disease is caused by a deficiency of phytanic acid α -hydroxylase (α -oxidase) which is required for a-oxidation of methylated fatty acids, phytanic acid."
+    "cop": 3,
+    "exp": "Phytanic alpha oxidase \n\nRefsum disease is caused by a deficiency of phytanic acid α -hydroxylase (α -oxidase) which is required for a-oxidation of methylated fatty acids, phytanic acid.",
+    "hint_exp": "🎯 Think of \"which of the following enzyme\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5574850c-b73e-4007-8280-9e8441ab07c2": {
-    "cop": 2,
-    "exp": "- the case finding tool in RNTCP is based on sputum examination. - sputum smear examination by direct microscopy is now considered the method of choice. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:429 <\\p>"
+    "cop": 1,
+    "exp": "- the case finding tool in RNTCP is based on sputum examination. - sputum smear examination by direct microscopy is now considered the method of choice. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:429 <\\p>",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"RNTCP\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bc46f39e-6ee8-401b-b0ce-bcea41366671": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Iron deficiency anemia\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

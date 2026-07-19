@@ -1,202 +1,252 @@
 {
   "f4972022-b434-4677-a308-62e6e421cb80": {
-    "cop": 3,
-    "exp": "ANSWER: (C) IgMREF: Jawetz, Melnick, & Adelberg's Medical Microbiology, 24TH edition Chapter 44 Chapter 8Repeat in December 2010See APPENDIX-20 below for \"IMMUNOGLOBULINS\"Note: Both secretory IgA (dimeric) and IgM(pentameric) have J chainsIgM is the main immunoglobulin produced early in the primary immune response. IgM is present on the surface of virtually all uncommitted B cells. It is a pentamer composed of five H..L. units (each similar to one IgG unit) and one molecule of J (joining) chain. APPENDIX - 20Immunoglobulins IgGIgAIgMIgDIgEHeavy chaingaudePercentage75-85 (max)7-155-100.30.019 (min)Carbohydrate %41010.71212serum half-life (days)21 (max)6532 (min)Concentration12 mg/ml2 mg/ml1.2 mg/ml0.03 mg/ml0.00004 mg/mlMolecular formmonomerSerum IgA = monomerPentamerMonomerMonomer Secretory IgA = Dimer Molecular weight150,000(lightest)Serum IgA = 160,000950,000(heaviest)175,000190,000Secretory IgA = 400,000SubclassesIgGl > IgG2 > IgG3 > IgG4IgAl = circulatory, IgA2 = secretoryMl, M2nonenoneComplimentactivationClassical ++ G4 subclass= alternateAlternate (only IgAl fixes complement)Classical +++AlternateAlternate or NoneSedimentationcoefficient7SMonomer = 7S7S7S8SDimer = 15SPlacental crossingYesNoNoNoNoPresence in milkPresentPresentAbsentAbsentAbsentCompartmentEqual in intravascular (45%) and extravascular(55%)compartmentMostly extravascular (Minimum intravascular distribution)mostlyintravascular MostlyextravascularHeat stabilityStableStableStableStableHeat labileAlso know- Producessecondaryresponse - First to appear in fetus (20 wk)- Producesprimaryresponse Homocytotropic"
+    "cop": 2,
+    "exp": "ANSWER: (C) IgMREF: Jawetz, Melnick, & Adelberg's Medical Microbiology, 24TH edition Chapter 44 Chapter 8Repeat in December 2010See APPENDIX-20 below for \"IMMUNOGLOBULINS\"Note: Both secretory IgA (dimeric) and IgM(pentameric) have J chainsIgM is the main immunoglobulin produced early in the primary immune response. IgM is present on the surface of virtually all uncommitted B cells. It is a pentamer composed of five H..L. units (each similar to one IgG unit) and one molecule of J (joining) chain. APPENDIX - 20Immunoglobulins IgGIgAIgMIgDIgEHeavy chaingaudePercentage75-85 (max)7-155-100.30.019 (min)Carbohydrate %41010.71212serum half-life (days)21 (max)6532 (min)Concentration12 mg/ml2 mg/ml1.2 mg/ml0.03 mg/ml0.00004 mg/mlMolecular formmonomerSerum IgA = monomerPentamerMonomerMonomer Secretory IgA = Dimer Molecular weight150,000(lightest)Serum IgA = 160,000950,000(heaviest)175,000190,000Secretory IgA = 400,000SubclassesIgGl > IgG2 > IgG3 > IgG4IgAl = circulatory, IgA2 = secretoryMl, M2nonenoneComplimentactivationClassical ++ G4 subclass= alternateAlternate (only IgAl fixes complement)Classical +++AlternateAlternate or NoneSedimentationcoefficient7SMonomer = 7S7S7S8SDimer = 15SPlacental crossingYesNoNoNoNoPresence in milkPresentPresentAbsentAbsentAbsentCompartmentEqual in intravascular (45%) and extravascular(55%)compartmentMostly extravascular (Minimum intravascular distribution)mostlyintravascular MostlyextravascularHeat stabilityStableStableStableStableHeat labileAlso know- Producessecondaryresponse - First to appear in fetus (20 wk)- Producesprimaryresponse Homocytotropic",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following immunoglobulin\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e598bea0-8527-4412-a32b-08e951fb046a": {
-    "cop": 3,
-    "exp": "Answer is C (Pulmonary stenosis) Pulmonary stenosis is the most common cardiac abnormality in Noonan's syndrome. Turner's syndrome Most common cardiac defect associated is Coarctation of aoa Bicuspid aoic valve Noonan's syndrome Most common cardiac defect associated is Pulmonary valvular stenosis (most common) Hyperophic cardiomyopathy ASD"
+    "cop": 2,
+    "exp": "Answer is C (Pulmonary stenosis) Pulmonary stenosis is the most common cardiac abnormality in Noonan's syndrome. Turner's syndrome Most common cardiac defect associated is Coarctation of aoa Bicuspid aoic valve Noonan's syndrome Most common cardiac defect associated is Pulmonary valvular stenosis (most common) Hyperophic cardiomyopathy ASD",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Cardiac abnormality seen with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c1f2c9d5-50ed-4c2a-80f0-72644b003f4a": {
-    "cop": 2,
-    "exp": "ANSWER: (B) EzetimibeREF: Harrison's 18th ed ch: 356Cholesterol ivithin the lumen of the small intestine is derived from the diet (about one-third) and the bile (about two-thirds) and is actively absorbed by the enter ocyte through a process that involves the protein N PCI LI.Ezetimibe is a cholesterol absorption inhibitor that binds directly to and inhibits NPCILI and blocks the intestinal absorption of cholesterol. Ezetimibe (10 mg) inhibits cholesterol absorption by almost 60%, resulting in a reduction in delivery of dietary sterols in the liver and an increase in hepatic LDL receptor expression.The mean reduction in plasma LDL-C on Ezetimibe (10 mg) is 18%, and the effect is additive when used in combination with a statin. Effects on triglyceride and HDL-C levels are negligible, and no cardiovascular outcome data have been reported.When used in combination with a statin, monitoring of liver transaminases is recommended. The only role for Ezetimibe in monotherapy is in patients who do not tolerate statins; the drug is often added to a statin in patients who require further LDL-C reduction."
+    "cop": 1,
+    "exp": "ANSWER: (B) EzetimibeREF: Harrison's 18th ed ch: 356Cholesterol ivithin the lumen of the small intestine is derived from the diet (about one-third) and the bile (about two-thirds) and is actively absorbed by the enter ocyte through a process that involves the protein N PCI LI.Ezetimibe is a cholesterol absorption inhibitor that binds directly to and inhibits NPCILI and blocks the intestinal absorption of cholesterol. Ezetimibe (10 mg) inhibits cholesterol absorption by almost 60%, resulting in a reduction in delivery of dietary sterols in the liver and an increase in hepatic LDL receptor expression.The mean reduction in plasma LDL-C on Ezetimibe (10 mg) is 18%, and the effect is additive when used in combination with a statin. Effects on triglyceride and HDL-C levels are negligible, and no cardiovascular outcome data have been reported.When used in combination with a statin, monitoring of liver transaminases is recommended. The only role for Ezetimibe in monotherapy is in patients who do not tolerate statins; the drug is often added to a statin in patients who require further LDL-C reduction.",
+    "hint_exp": "🎯 Think of \"cholesterol from intestine\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "08a3910d-47d7-452c-81df-c720c5d1ab31": {
-    "cop": 3,
-    "exp": "Bone loss is usually seen on the most coronal aspect of the implant in the form of a wedge. There is no periodontal ligament on implants, so there is no feeling of soreness."
+    "cop": 2,
+    "exp": "Bone loss is usually seen on the most coronal aspect of the implant in the form of a wedge. There is no periodontal ligament on implants, so there is no feeling of soreness.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"occlusal trauma on implants\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "543b14f0-b0fc-4982-ad84-4b1d348b3c99": {
-    "cop": 3,
-    "exp": "Facial forms and malocclusions that have a strong familial tendency are:\n\nSevere deep bite\nClass II division 2 pattern\nSkeletal open bite\nMandibular prognathism\nBimaxillary protrusion\nMandibular retrognathism\nSevere crowding/spacing\nMedian diastema\n\nRef:Orthodontics: Diagnosis and Management of Malocclusion and Dentofacial Deformities 3rd ed O P Kharbanda pdf no 751"
+    "cop": 2,
+    "exp": "Facial forms and malocclusions that have a strong familial tendency are:\n\nSevere deep bite\nClass II division 2 pattern\nSkeletal open bite\nMandibular prognathism\nBimaxillary protrusion\nMandibular retrognathism\nSevere crowding/spacing\nMedian diastema\n\nRef:Orthodontics: Diagnosis and Management of Malocclusion and Dentofacial Deformities 3rd ed O P Kharbanda pdf no 751",
+    "hint_exp": "🧩 Your crush solved \"Which following maximum familial\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2ebfedd2-dba3-4e42-8f43-e9e7bb267e64": {
-    "cop": 1,
-    "exp": "Multiple sex partners (MSP) is the measure and incidence of engaging in sexual activities with two or more people within a specific time period. Sexual activity with MSP can happen simultaneously or serially. \nMSP includes sexual activity between people of a different gender or the same gender.\nMSP can also mean that one person may have a long-term relationship or relationships, and when the second relationship begins, the person can be said to have multiple sex partners.\nAnother term, polyamorous, is a behaviour and not a measure describing multiple romantically sexually or romantically committed relationships at the same time."
+    "cop": 0,
+    "exp": "Multiple sex partners (MSP) is the measure and incidence of engaging in sexual activities with two or more people within a specific time period. Sexual activity with MSP can happen simultaneously or serially. \nMSP includes sexual activity between people of a different gender or the same gender.\nMSP can also mean that one person may have a long-term relationship or relationships, and when the second relationship begins, the person can be said to have multiple sex partners.\nAnother term, polyamorous, is a behaviour and not a measure describing multiple romantically sexually or romantically committed relationships at the same time.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d3b9db8d-a40f-43bd-8732-3426e11a11a7": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Transitional cell carcinomaHistological type% of total baholin gland carcinomasAdenocarcinoma40Squamous cell carcinoma40Adenocystic carcinoma15Adenosquamous carcinoma5Transitional cell carcinomarareSmall cell carcinomarare"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Transitional cell carcinomaHistological type% of total baholin gland carcinomasAdenocarcinoma40Squamous cell carcinoma40Adenocystic carcinoma15Adenosquamous carcinoma5Transitional cell carcinomarareSmall cell carcinomarare",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"baholingland carcinoma except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7c728566-3645-4e2c-bebf-84e04027354f": {
-    "cop": 4,
-    "exp": "Ans. d (Adenovirus). (Ref. Textbook of Microbiology by Anantanarayan, 6th/451)INFECTION BY ADENOVIRUS SyndromesPrinciple serotypes1Respiratory disease in children1, 2, 5, 62Sore-throat, febrile cold, pneumonia3, 4, 7, 14, 213ARDS in military recruits4, 7, 214Follicular (swimming pool) conjunctivitis3,75Epidemic kerato conjunctivitis sicca8, 19, 37Q6Diarrhoea40, 417Soft tissue sarcoma and bladder carcinoma18,198Gene therapy2,59AIDS43, 47"
+    "cop": 3,
+    "exp": "Ans. d (Adenovirus). (Ref. Textbook of Microbiology by Anantanarayan, 6th/451)INFECTION BY ADENOVIRUS SyndromesPrinciple serotypes1Respiratory disease in children1, 2, 5, 62Sore-throat, febrile cold, pneumonia3, 4, 7, 14, 213ARDS in military recruits4, 7, 214Follicular (swimming pool) conjunctivitis3,75Epidemic kerato conjunctivitis sicca8, 19, 37Q6Diarrhoea40, 417Soft tissue sarcoma and bladder carcinoma18,198Gene therapy2,59AIDS43, 47",
+    "hint_exp": "🎯 Think of \"is caused by\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b3e93d27-76b5-468c-8c95-16332ce23f6d": {
-    "cop": 1,
-    "exp": "Ans. a (Ocular toxicitv). (Ref. KD Trioathi, 5th ed., 704 & Harrison, Medicine 14th ed.. 428)DRUGS CAUSING OCULAR TOXICITY, MAINLY COLOR VISION ALTERATION# Barbiturates# Ethambutol (-red-green blindness)# Thiazides# Digoxin (yellow vision)# Sildenafil (Blue - green blindness)# Sulfonamides"
+    "cop": 0,
+    "exp": "Ans. a (Ocular toxicitv). (Ref. KD Trioathi, 5th ed., 704 & Harrison, Medicine 14th ed.. 428)DRUGS CAUSING OCULAR TOXICITY, MAINLY COLOR VISION ALTERATION# Barbiturates# Ethambutol (-red-green blindness)# Thiazides# Digoxin (yellow vision)# Sildenafil (Blue - green blindness)# Sulfonamides",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"its side effect\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "28764847-5803-4695-a44a-68ea8cbf69ae": {
-    "cop": 1,
-    "exp": "A i.e. Hemangioblastoma"
+    "cop": 0,
+    "exp": "A i.e. Hemangioblastoma",
+    "hint_exp": "🧩 Your crush solved \"the following tumor\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "23269eaf-d5a5-4a29-bb24-27244907d5b0": {
-    "cop": 3,
-    "exp": "Cells of seoli"
+    "cop": 2,
+    "exp": "Cells of seoli",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the Testes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3bf46432-62ce-4bc3-8c8b-18d4ea5cb7af": {
-    "cop": 2,
-    "exp": "Naegleria doesn't belong to class coccidia. It belongs to lobosea Coccidia includes all the mentioned options Coccidia are a subclass of microscopic, spore-forming, single-celled obligate intracellular parasites belonging to the apicomplexan class Conoidasida Ref: D.R. Arora.Medical parasitology 4th ed pg. 18"
+    "cop": 1,
+    "exp": "Naegleria doesn't belong to class coccidia. It belongs to lobosea Coccidia includes all the mentioned options Coccidia are a subclass of microscopic, spore-forming, single-celled obligate intracellular parasites belonging to the apicomplexan class Conoidasida Ref: D.R. Arora.Medical parasitology 4th ed pg. 18",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following parasite\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8bb7750e-f568-44ac-87e9-82d864b3d503": {
-    "cop": 1,
-    "exp": "Radio-immunoguided surgery procedureinwhichradiolabeledsubstancesareadministeredandtumorsareexcisedbasedonthelocationofradioactivesignals Radio-immunoguided surgery for colorectal cancer The intra-operative detection of metastatic disease in colorectal cancer depends on tumor associated antigen and antibodies as well as detection technology."
+    "cop": 0,
+    "exp": "Radio-immunoguided surgery procedureinwhichradiolabeledsubstancesareadministeredandtumorsareexcisedbasedonthelocationofradioactivesignals Radio-immunoguided surgery for colorectal cancer The intra-operative detection of metastatic disease in colorectal cancer depends on tumor associated antigen and antibodies as well as detection technology.",
+    "hint_exp": "🎯 Think of \"done\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "39c7b792-8b98-462e-8459-e94a275faaad": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Strongyloides stercoralis(Ref: Harrison, 19th/e, p.1415)* The migrating filariform larva of Strongyloides moves rapidly in a short line at the rate of 3-4 cm in an hour, hence it is termed \"larva currens\"."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Strongyloides stercoralis(Ref: Harrison, 19th/e, p.1415)* The migrating filariform larva of Strongyloides moves rapidly in a short line at the rate of 3-4 cm in an hour, hence it is termed \"larva currens\".",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"cause larva currens\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3b1451a5-f056-4ca0-b11d-28bae645df88": {
-    "cop": 4,
-    "exp": "<p> Malnutrition: Defined as a pathological state resulting from a relative or absolute deficiency or excess of one or more essential nutrients. It comprises: Undernutrition, Overnitrition, Imbalance and Specific deficiency. Main victims are children under 15 years. Children under 5 years are hit the hardest. Malnutrition in India is mainly attributed to kwashiorkar, marasmus, xerophthalmia, nutritional anemia and endemic goitre. Iron deficiency anemia is the most widespread micronutrient deficiency affecting all age groups in India. The effects are direct and indirect. Direct effects are occurence of frank and subclinical nutrition deficiency diseases such as kwashiorkar, marasmus, vitamin and mineral deficiency. Indirect effects are a high morbidity and moality among young children retarded physical and mental growth. Malnutrition predisposes to infection and infection to malnutrition. Waterlow&;s classification of PEM: It defines two groups- 1. Malnutrition with a retarded growth, in which a drop in height/age ratio points to a chronic condition - shoness/stunting. It is an index of duration of malnutrition 2. Malnutrition with a low weight fir a normal height, in ehich the weight for height ratio is indicative of acute condition of rapid weight loss/ wasting . It is an index of severity of malnutrition. Classification of grades of PEM is given by ICMR. IAP Classification of malnutrition: Based on % of ideal weight expected for the age. 1. Normal : >80% 2. Grade 1 PEM: 71-80% 3. Grade 2 PEM:61-70% 4. Grade 3 PEM:51-60% 5. Grade 4 PEM:<50% {Reference: Park&;s textbook of community medicine 23 rd edition, pg no. 640}"
+    "cop": 3,
+    "exp": "<p> Malnutrition: Defined as a pathological state resulting from a relative or absolute deficiency or excess of one or more essential nutrients. It comprises: Undernutrition, Overnitrition, Imbalance and Specific deficiency. Main victims are children under 15 years. Children under 5 years are hit the hardest. Malnutrition in India is mainly attributed to kwashiorkar, marasmus, xerophthalmia, nutritional anemia and endemic goitre. Iron deficiency anemia is the most widespread micronutrient deficiency affecting all age groups in India. The effects are direct and indirect. Direct effects are occurence of frank and subclinical nutrition deficiency diseases such as kwashiorkar, marasmus, vitamin and mineral deficiency. Indirect effects are a high morbidity and moality among young children retarded physical and mental growth. Malnutrition predisposes to infection and infection to malnutrition. Waterlow&;s classification of PEM: It defines two groups- 1. Malnutrition with a retarded growth, in which a drop in height/age ratio points to a chronic condition - shoness/stunting. It is an index of duration of malnutrition 2. Malnutrition with a low weight fir a normal height, in ehich the weight for height ratio is indicative of acute condition of rapid weight loss/ wasting . It is an index of severity of malnutrition. Classification of grades of PEM is given by ICMR. IAP Classification of malnutrition: Based on % of ideal weight expected for the age. 1. Normal : >80% 2. Grade 1 PEM: 71-80% 3. Grade 2 PEM:61-70% 4. Grade 3 PEM:51-60% 5. Grade 4 PEM:<50% {Reference: Park&;s textbook of community medicine 23 rd edition, pg no. 640}",
+    "hint_exp": "🧩 Your crush solved \"Second degree under nutrition\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e85cd8e0-74da-4aad-99b1-8cd8e128d9f4": {
-    "cop": 3,
-    "exp": "Silver-based solders are used when a low-fusing point is needed for soldering onto stainless steel or other base metal alloys. Orthodontic appliances are commonly soldered using silver-based solders. In general, the resistance of silver solders to tarnish is not as good as gold-based solders. The silver-based solders are composed of silver (10 to 80 wt%), copper (15 to 30%) and zinc (4 to 35%), with  some products containing small percentages of cadmium, tin or phosphorus to further modify the fusion temperature. The formation of the silver-copper eutectic is responsible for these solders to range from 620° to 700°C, which is slightly below those of gold-based solders. This diﬀerence is important in  the soldering of stainless steel."
+    "cop": 2,
+    "exp": "Silver-based solders are used when a low-fusing point is needed for soldering onto stainless steel or other base metal alloys. Orthodontic appliances are commonly soldered using silver-based solders. In general, the resistance of silver solders to tarnish is not as good as gold-based solders. The silver-based solders are composed of silver (10 to 80 wt%), copper (15 to 30%) and zinc (4 to 35%), with  some products containing small percentages of cadmium, tin or phosphorus to further modify the fusion temperature. The formation of the silver-copper eutectic is responsible for these solders to range from 620° to 700°C, which is slightly below those of gold-based solders. This diﬀerence is important in  the soldering of stainless steel.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"orthodontic silver solders\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "53317234-b08a-425b-a0d1-3613a0c69d59": {
-    "cop": 2,
-    "exp": "The Ruffini ending is a tonic receptor that produces a train of action potentials proportional to the intensity of pressure applied to the skin. The Pacinian corpuscle is a very rapidly adapting receptor that fires once or twice in response to skin deformation. It can produce a continuous train of action potentials if the stimulus is repetitively applied and withdrawn. Therefore, the Pacinian corpuscle is used to encode vibration."
+    "cop": 1,
+    "exp": "The Ruffini ending is a tonic receptor that produces a train of action potentials proportional to the intensity of pressure applied to the skin. The Pacinian corpuscle is a very rapidly adapting receptor that fires once or twice in response to skin deformation. It can produce a continuous train of action potentials if the stimulus is repetitively applied and withdrawn. Therefore, the Pacinian corpuscle is used to encode vibration.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following receptors\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4b66d06a-4d4b-462e-87dd-de7a3afe7ddd": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Brachytherapy means\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d424a38a-c0e4-4a14-a7cf-9cd53bb5d8a3": {
-    "cop": 3,
-    "exp": "Xenodiagnosis is used in the diagnosis of Chagas disease, which is caused by Trypanosoma cruzi, a hemoflagellate. There are four morphologic forms of hemoflagellates. In man, they may be intracellular, in which they are called leishmanial forms; or, they may be located extracellularly in the blood, in which they are called trypanosomes. The insect vectors may have leptomonads (promastigotes) or crithidial (epimastigote) forms. Leishmaniasis (cutaneous, mucocutaneous/and visceral) only has the leishmania, intracellular forms present in man. In Mrican trypanosomiasis, only the extracellular, or trypanosomal form, is present in man. Chagas disease has both the intracellular (leishmanial) and extracellular (trypanosomal) forms. Chagas disease is rampant in South America and is the major cause of progressive hea failure and death in that area. T cruzi is a flagellated protozoan that is transmitted to man by the bite of the Reduviid bug, or kissing bug, which usually occurs during the night. Sholy after the bite, the bug defecates on the wound site and the sleeping host rubs the organisms into the wound. Periorbital inflammation develops, which is called Romana's sign. Trypanosomes circulate in the blood and leishmanial forms invade (1) the reticuloendothelial cells, producing hepatosplenomegaly; (2) the hea muscle, causing myocarditis and arrhythmias; (3) the brain, producing a meningoencephalitis; and (4) into the gastrointestinal tract, where the leishmania destroy the ganglion cells in the distal esophagus and rectum to produce acquired achalasia and Hirschsprung disease, respectively. Laboratory diagnosis is made by (1) finding trypanosomes in the blood, (2) finding leishmanial forms in tissue, (3) culture, (4) serology, and (5) xenodiagnosis. Xenodiagnosis is a method of inoculation in which sterile Reduviid bugs are fed or offered the blood of an infected patient. After a few weeks, the bug's intestinal contents are examined for presence or absence of the organism. Only 5% of patients die in the acute stage of hea failure, whereas in chronic disease, hea failure is a common cause of death. Nifuimox is the drug of choice."
+    "cop": 2,
+    "exp": "Xenodiagnosis is used in the diagnosis of Chagas disease, which is caused by Trypanosoma cruzi, a hemoflagellate. There are four morphologic forms of hemoflagellates. In man, they may be intracellular, in which they are called leishmanial forms; or, they may be located extracellularly in the blood, in which they are called trypanosomes. The insect vectors may have leptomonads (promastigotes) or crithidial (epimastigote) forms. Leishmaniasis (cutaneous, mucocutaneous/and visceral) only has the leishmania, intracellular forms present in man. In Mrican trypanosomiasis, only the extracellular, or trypanosomal form, is present in man. Chagas disease has both the intracellular (leishmanial) and extracellular (trypanosomal) forms. Chagas disease is rampant in South America and is the major cause of progressive hea failure and death in that area. T cruzi is a flagellated protozoan that is transmitted to man by the bite of the Reduviid bug, or kissing bug, which usually occurs during the night. Sholy after the bite, the bug defecates on the wound site and the sleeping host rubs the organisms into the wound. Periorbital inflammation develops, which is called Romana's sign. Trypanosomes circulate in the blood and leishmanial forms invade (1) the reticuloendothelial cells, producing hepatosplenomegaly; (2) the hea muscle, causing myocarditis and arrhythmias; (3) the brain, producing a meningoencephalitis; and (4) into the gastrointestinal tract, where the leishmania destroy the ganglion cells in the distal esophagus and rectum to produce acquired achalasia and Hirschsprung disease, respectively. Laboratory diagnosis is made by (1) finding trypanosomes in the blood, (2) finding leishmanial forms in tissue, (3) culture, (4) serology, and (5) xenodiagnosis. Xenodiagnosis is a method of inoculation in which sterile Reduviid bugs are fed or offered the blood of an infected patient. After a few weeks, the bug's intestinal contents are examined for presence or absence of the organism. Only 5% of patients die in the acute stage of hea failure, whereas in chronic disease, hea failure is a common cause of death. Nifuimox is the drug of choice.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of a disease that\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0e2c5124-fb56-49b4-931d-68ea7130a5f7": {
-    "cop": 2,
-    "exp": "Reduction and cessation of movements may precede fetal death by a day or two.Failure to perceive 10 movements in a 12 hour period should prompt fuher biophysical assessment.NST is currently the most common method to assess fetal well being.It has been incorporated into biophysical profile.The test is based on the hypothesis that the hea rate of a fetus which is not acidotic due to hypoxia will accelerate in response to fetal movement. TEXTBOOK OF OBSTETRICS, SHEILA BALAKRISHNAN ,Pg no:509,2nd edition"
+    "cop": 1,
+    "exp": "Reduction and cessation of movements may precede fetal death by a day or two.Failure to perceive 10 movements in a 12 hour period should prompt fuher biophysical assessment.NST is currently the most common method to assess fetal well being.It has been incorporated into biophysical profile.The test is based on the hypothesis that the hea rate of a fetus which is not acidotic due to hypoxia will accelerate in response to fetal movement. TEXTBOOK OF OBSTETRICS, SHEILA BALAKRISHNAN ,Pg no:509,2nd edition",
+    "hint_exp": "🧩 Your crush solved \"management\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fc630fee-dd0b-4cd4-9651-8419e00dc644": {
-    "cop": 3,
-    "exp": "Prostate-specific antigen (PSA), a glycoprotein with a MW of 34,000, is a biological marker used in the detection of prostate cancer. It is secreted from prostatic epithelial cells and is responsible for aiding liquefaction of semen. This marker, which is evaluated with a blood test, can be produced by both benign and malignant epithelial cells. The prostate stromal cells do not produce PSA. Ref:Barrett K.E., Barman S.M., Boitano S., Brooks H.L. (2012). Chapter 23. Function of the Male Reproductive System. In K.E. Barrett, S.M. Barman, S. Boitano, H.L. Brooks (Eds), Ganong's Review of Medical Physiology, 24e."
+    "cop": 2,
+    "exp": "Prostate-specific antigen (PSA), a glycoprotein with a MW of 34,000, is a biological marker used in the detection of prostate cancer. It is secreted from prostatic epithelial cells and is responsible for aiding liquefaction of semen. This marker, which is evaluated with a blood test, can be produced by both benign and malignant epithelial cells. The prostate stromal cells do not produce PSA. Ref:Barrett K.E., Barman S.M., Boitano S., Brooks H.L. (2012). Chapter 23. Function of the Male Reproductive System. In K.E. Barrett, S.M. Barman, S. Boitano, H.L. Brooks (Eds), Ganong's Review of Medical Physiology, 24e.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which following cell type\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "20010de5-f8b2-4a6a-9ce4-ac25ef21823e": {
-    "cop": 4,
-    "exp": "Answer is D (All of the above) Blind loop syndrome and Antibiotic therapy may cause false positive D-xylose test due to bacterial overgrowth Pyloric stenosis may cause false positive results due to delayed gastric emptying and persistant vomiting. Ascitis is an established cause for false positive D- xylose test due to large collection of fluid in third space."
+    "cop": 3,
+    "exp": "Answer is D (All of the above) Blind loop syndrome and Antibiotic therapy may cause false positive D-xylose test due to bacterial overgrowth Pyloric stenosis may cause false positive results due to delayed gastric emptying and persistant vomiting. Ascitis is an established cause for false positive D- xylose test due to large collection of fluid in third space.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"False positive xylose test\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f006b857-b726-465c-898e-55c8e9e23617": {
-    "cop": 2,
-    "exp": "Glycerol 3 phosphate may be derived from glycerol by action of Glycerol kinase or from glycolytic intermediate DHAP (Dihydroacetone phosphate) by the action of glycerol 3 phosphate dehydrogenase. The enzyme glycerol kinase is not expressed in adipose tissue and hence glycerol cannot be utilized for provision of glycerol 3 phosphate. Ref: Harper's Illustrated Biochemistry 27th/210, 211, 226; Introduction to Nutrition and Metabolism By David A. Bender, 1997, Page 145."
+    "cop": 1,
+    "exp": "Glycerol 3 phosphate may be derived from glycerol by action of Glycerol kinase or from glycolytic intermediate DHAP (Dihydroacetone phosphate) by the action of glycerol 3 phosphate dehydrogenase. The enzyme glycerol kinase is not expressed in adipose tissue and hence glycerol cannot be utilized for provision of glycerol 3 phosphate. Ref: Harper's Illustrated Biochemistry 27th/210, 211, 226; Introduction to Nutrition and Metabolism By David A. Bender, 1997, Page 145.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5bb87492-1306-4a7d-becb-87cfb8c085b1": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., It may be used in barbiturate poisoning as it acts on the same receptor i.e. GABAA o It has been explained in previous explanation that BZDs and barbiturates have different binding sites on GABAA receptors. o Flumazenil is specfic antagonist of BZDs, i.e., it acts on BZDs binding site of GABAA receptors, which is different from Baributurate binding site. Therefore, flumazenil does not antagonize barbiturates --> not effective in barbiturates poisoning."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., It may be used in barbiturate poisoning as it acts on the same receptor i.e. GABAA o It has been explained in previous explanation that BZDs and barbiturates have different binding sites on GABAA receptors. o Flumazenil is specfic antagonist of BZDs, i.e., it acts on BZDs binding site of GABAA receptors, which is different from Baributurate binding site. Therefore, flumazenil does not antagonize barbiturates --> not effective in barbiturates poisoning.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Flumazenil false\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3cf8380c-1a7d-4139-a82a-4dd69d7b39bb": {
-    "cop": 2,
-    "exp": "Leuprolide is a long acting GnRH agonist. GNRH agonists are used in precocious pubey, prostate cancer, endometriosis, premenopausal breast cancer, uterine leiomyoma, polycystic ovarian disease. THEY Will decrease excess hormones like estrogen , androgen (REF.Essential of medical pharmacology K D TRIPATHI 6 Edition, Page No - 239)"
+    "cop": 1,
+    "exp": "Leuprolide is a long acting GnRH agonist. GNRH agonists are used in precocious pubey, prostate cancer, endometriosis, premenopausal breast cancer, uterine leiomyoma, polycystic ovarian disease. THEY Will decrease excess hormones like estrogen , androgen (REF.Essential of medical pharmacology K D TRIPATHI 6 Edition, Page No - 239)",
+    "hint_exp": "🧩 Your crush solved \"leuprolide\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0353b47d-3f59-4e4c-a3e5-6975824cd685": {
-    "cop": 3,
-    "exp": "Enterobius vermicularis is a nematode which lie attached to the mucosa of cecum. As its period of gravidity draws to a close it migrates down the colon and lay eggs in the perianal skin at night. Another nematode which resides predominantly in the cecum and colon is Trichuris trichura with its anterior poion threaded into the superficial mucosa. Infection occurs with the ingestion of eggs which that hatch in the duodenum releasing the larvae that mature before migrating to the large bowel."
+    "cop": 2,
+    "exp": "Enterobius vermicularis is a nematode which lie attached to the mucosa of cecum. As its period of gravidity draws to a close it migrates down the colon and lay eggs in the perianal skin at night. Another nematode which resides predominantly in the cecum and colon is Trichuris trichura with its anterior poion threaded into the superficial mucosa. Infection occurs with the ingestion of eggs which that hatch in the duodenum releasing the larvae that mature before migrating to the large bowel.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the caecum and appendix\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e9f12a03-ad15-4dac-a061-ae60ed1a0dc0": {
-    "cop": 1,
-    "exp": "GVHD characteristically involves the liver, gastrointestinal tract, and skin. It occurs as a complication of hematopoietic stem cell transplant when immunocompetent cells and precursors recognize host tissue alloantigens and react against them."
+    "cop": 0,
+    "exp": "GVHD characteristically involves the liver, gastrointestinal tract, and skin. It occurs as a complication of hematopoietic stem cell transplant when immunocompetent cells and precursors recognize host tissue alloantigens and react against them.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "92ccd1b7-2949-499c-8a3b-b3ee6a6223d1": {
-    "cop": 2,
-    "exp": "The disease is von Hippel-Landau disease, which is associated with a deletion involving the VHL gene on chromosome 3 (3p). Affected individuals develop vascular tumors (hemangioblastomas) of the retina, cerebellum, and/or medulla. Roughly half of the affected individuals later develop multiple, bilateral renal cell carcinomas. Berry aneurysms are unrelated to hemangioblastomas, but are instead associated with adult polycystic disease. Peripheral nerve cancers are a feature of von Recklinghausen's disease (neurofibromatosis type I). Choreiform movements, related to decreased GABA and acetylcholine, are a feature of Huntington's disease. Ref: Wyatt C., Butterwoh IV J.F., Moos P.J., Mackey D.C., Brown T.G. (2008). Chapter 6. Genetic Disorders. In C. Wyatt, J.F. Butterwoh IV, P.J. Moos, D.C. Mackey, T.G. Brown (Eds), Pathology: The Big Picture."
+    "cop": 1,
+    "exp": "The disease is von Hippel-Landau disease, which is associated with a deletion involving the VHL gene on chromosome 3 (3p). Affected individuals develop vascular tumors (hemangioblastomas) of the retina, cerebellum, and/or medulla. Roughly half of the affected individuals later develop multiple, bilateral renal cell carcinomas. Berry aneurysms are unrelated to hemangioblastomas, but are instead associated with adult polycystic disease. Peripheral nerve cancers are a feature of von Recklinghausen's disease (neurofibromatosis type I). Choreiform movements, related to decreased GABA and acetylcholine, are a feature of Huntington's disease. Ref: Wyatt C., Butterwoh IV J.F., Moos P.J., Mackey D.C., Brown T.G. (2008). Chapter 6. Genetic Disorders. In C. Wyatt, J.F. Butterwoh IV, P.J. Moos, D.C. Mackey, T.G. Brown (Eds), Pathology: The Big Picture.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "05987fcb-d5f6-41c9-a9e1-c446b324778d": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Abnormal mobility at fracture site"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Abnormal mobility at fracture site",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Dignostic sign fracture\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0373ab9a-f578-43bb-866e-20dc02978cb3": {
-    "cop": 2,
-    "exp": "Milk and water are both fine. However, if your child refuses solids, give your child just milk, rather than water. Most toddlers don&;t need oral glucose-electrolyte solutions such as Pedialyte unless the child is dehydrated. Avoid fruit juices, because they all make diarrhea worse. If IV is required then give dextrose. Reference: GHAI Essential pediatrics, 8th edition"
+    "cop": 1,
+    "exp": "Milk and water are both fine. However, if your child refuses solids, give your child just milk, rather than water. Most toddlers don&;t need oral glucose-electrolyte solutions such as Pedialyte unless the child is dehydrated. Avoid fruit juices, because they all make diarrhea worse. If IV is required then give dextrose. Reference: GHAI Essential pediatrics, 8th edition",
+    "hint_exp": "🧩 Your crush solved \"year girl brought diarrhea\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0ed2b7b9-4e90-4770-af95-bb6e05ad2855": {
-    "cop": 2,
-    "exp": "Option 2: Parainfluenza virus contains a single-stranded, nonsegmented, negative- sense RNA genome with nucleoproteins P and L. It is surrounded by a helical nucleocapsid, which contains glycoprotein spikes. Options 1,3 ,5 are DNA viruses. List of DNA viruses: Herpes viruses (Herpesviridae family) HBV Parvovirus B virus HPV JC virus and BK virus Variola (Smallpox) and Molluscum contagiosum virus Human adenovirus"
+    "cop": 1,
+    "exp": "Option 2: Parainfluenza virus contains a single-stranded, nonsegmented, negative- sense RNA genome with nucleoproteins P and L. It is surrounded by a helical nucleocapsid, which contains glycoprotein spikes. Options 1,3 ,5 are DNA viruses. List of DNA viruses: Herpes viruses (Herpesviridae family) HBV Parvovirus B virus HPV JC virus and BK virus Variola (Smallpox) and Molluscum contagiosum virus Human adenovirus",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a28e66a8-d0d0-4cc3-a13d-5bb819bf719e": {
-    "cop": 2,
-    "exp": "Decreased vital capacity and decreased total lung volume suggests a restrictive lung disease picture.amogst the options provided sarcoidosis is the only restrictive lung disease Ref Harrison 19th edition pg 2207"
+    "cop": 1,
+    "exp": "Decreased vital capacity and decreased total lung volume suggests a restrictive lung disease picture.amogst the options provided sarcoidosis is the only restrictive lung disease Ref Harrison 19th edition pg 2207",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the most probably diagnosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3361397c-c79f-41eb-9942-105cee2b973d": {
-    "cop": 3,
-    "exp": "Citron bodies and boat or leaf shaped pleomorphic bacilli with irregular staining suggest CL septicum\". Clostridium Clostridial species are : Gram positive Anaerobic (obligate anaerobe) Spore forming Bacilli Motile by peritrichate flagella except C perfringens and C. tetani type IV which are non motile. Non capsulated except C. perfringens and C. butyricum which are capsulated Pathogenesis is due to exotoxin not endotoxin. Clostridium botulinum causes botulism not gas gangrene. REF : ananthanarayana 10th ed"
+    "cop": 2,
+    "exp": "Citron bodies and boat or leaf shaped pleomorphic bacilli with irregular staining suggest CL septicum\". Clostridium Clostridial species are : Gram positive Anaerobic (obligate anaerobe) Spore forming Bacilli Motile by peritrichate flagella except C perfringens and C. tetani type IV which are non motile. Non capsulated except C. perfringens and C. butyricum which are capsulated Pathogenesis is due to exotoxin not endotoxin. Clostridium botulinum causes botulism not gas gangrene. REF : ananthanarayana 10th ed",
+    "hint_exp": "🎯 Think of \"an exudate\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ffdd8904-708d-4cbe-9d60-671ec386838c": {
-    "cop": 1,
-    "exp": "."
+    "cop": 0,
+    "exp": ".",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"acts\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d08b4fb2-e805-4795-9c5f-48e3460bb6fb": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Which true about erosive\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "49115da6-628b-4924-ac66-803ddf581f82": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3c859fe3-16ba-413f-9ba9-6bb852498eb1": {
-    "cop": 4,
-    "exp": "Answer is option 4 None of the above Fetal risks in Dengue fever in pregnancy includes : No evidence of teratogenicity, aboion or IUGR following Dengue in pregnancy Veical transmission is present Newborn presents with fever hepatomegaly and thrombocytopenia. In grave infection Newborn may show coagulopathy"
+    "cop": 3,
+    "exp": "Answer is option 4 None of the above Fetal risks in Dengue fever in pregnancy includes : No evidence of teratogenicity, aboion or IUGR following Dengue in pregnancy Veical transmission is present Newborn presents with fever hepatomegaly and thrombocytopenia. In grave infection Newborn may show coagulopathy",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "388e5b01-b3d7-4d34-a7ec-7b944205a21b": {
-    "cop": 4,
-    "exp": "Ans. D. Nucleus cuneatusDORSAL COLUMN (Fasciculus Gracilis and Fasciculus Cuneatus)a. They carry sensations of conscious proprioception, fine touch, two-point tactile discrimination, and vibration.b. The cell bodies of the first-order sensory neurons lie in the dorsal root ganglia of the spinal nerves. The central processes of these cells enter in the posterior white column as fasciculus gracilis and fasciculus cuneatusc. The fibres of fasciculus gracilis and fasciculus cuneatus terminate in nucleus gracilis and nucleus cuneatus, respectively. The axons of second-order sensory neurons from nucleus gracilis and nucleus cuneatus curve ventromedially around the central grey matter of the medulla as internal arcuate fibres to undergo decussation.d. The fibres after crossing the midline turn upwards as a flat tract called medial lemniscus, which courses upwards to terminate in the ventral posterolateral nucleus (VPL) of the thalamus.e. The third-order sensory neurons from thalamus project into the sensory cortex of the cerebral hemisphere."
+    "cop": 3,
+    "exp": "Ans. D. Nucleus cuneatusDORSAL COLUMN (Fasciculus Gracilis and Fasciculus Cuneatus)a. They carry sensations of conscious proprioception, fine touch, two-point tactile discrimination, and vibration.b. The cell bodies of the first-order sensory neurons lie in the dorsal root ganglia of the spinal nerves. The central processes of these cells enter in the posterior white column as fasciculus gracilis and fasciculus cuneatusc. The fibres of fasciculus gracilis and fasciculus cuneatus terminate in nucleus gracilis and nucleus cuneatus, respectively. The axons of second-order sensory neurons from nucleus gracilis and nucleus cuneatus curve ventromedially around the central grey matter of the medulla as internal arcuate fibres to undergo decussation.d. The fibres after crossing the midline turn upwards as a flat tract called medial lemniscus, which courses upwards to terminate in the ventral posterolateral nucleus (VPL) of the thalamus.e. The third-order sensory neurons from thalamus project into the sensory cortex of the cerebral hemisphere.",
+    "hint_exp": "🎯 Think of \"Internal arcuate fibers come\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "08bf8c23-451d-40df-a9c4-0cf62bf0af6d": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"use if the\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0bf4e3d7-a91f-468f-a888-9b5b2f8efaf5": {
-    "cop": 1,
-    "exp": "Xanthogranulomatous pyelonephritis is a form of chronic pyelonephritis characterised by destruction of renal parenchyma and the presence of granulomas, abscesses and collection of lipid laden foamy macrophages (foam cells).\nXanthogranulomatous pyelonephritis in children \n\nAge of presentation ranges from infancy to 16 years.\nFocal form being more common in children --> Appear healthy.\nThose who affected diffusely, present with non-specific symptoms of chronic infection.\n\ni) Weight loss               ii) Fever                 iii) Lethargy         iv) Failure to thrive\n\nProteus is the most common causative organism.\n\nI am not sure about option 'c'.\nIn old ages, xanthogranulomatous pyelonephritis is more common in female, but I cound not find data in children."
+    "cop": 0,
+    "exp": "Xanthogranulomatous pyelonephritis is a form of chronic pyelonephritis characterised by destruction of renal parenchyma and the presence of granulomas, abscesses and collection of lipid laden foamy macrophages (foam cells).\nXanthogranulomatous pyelonephritis in children \n\nAge of presentation ranges from infancy to 16 years.\nFocal form being more common in children --> Appear healthy.\nThose who affected diffusely, present with non-specific symptoms of chronic infection.\n\ni) Weight loss               ii) Fever                 iii) Lethargy         iv) Failure to thrive\n\nProteus is the most common causative organism.\n\nI am not sure about option 'c'.\nIn old ages, xanthogranulomatous pyelonephritis is more common in female, but I cound not find data in children.",
+    "hint_exp": "🧩 Your crush solved \"the following statements\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "23b2a04c-6f3e-4319-b106-97e9feb3abd0": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 60 breaths per minute * Fast breathing is defined asi) Child less than 2 months of age - 60 breaths per minute.ii) Child aged 2 months upto 12 months - 50 breaths per minuteiii) Child aged 12 months upto 5 years - 40 breaths per minute"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 60 breaths per minute * Fast breathing is defined asi) Child less than 2 months of age - 60 breaths per minute.ii) Child aged 2 months upto 12 months - 50 breaths per minuteiii) Child aged 12 months upto 5 years - 40 breaths per minute",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Fast breathing child less\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "14fb5565-954a-4e6e-a31b-fd56899de70a": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., PPV increase"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., PPV increase",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"true\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "00cf265a-adee-4f74-ad23-f9a4f7aee47a": {
-    "cop": 3,
-    "exp": "Ans. c (21 days) (Ref: Park PSM 22nd/pg. 783)REGISTRATION OF VITAL EVENTS - In an effort to improve the civil registration system, the Govt of India promulgated the Central Births and Deaths Registration Act in 1969. The act came in force on 1st april 1970. The time limit for registering the event of births and that of deaths is 21 days uniformly all over India."
+    "cop": 2,
+    "exp": "Ans. c (21 days) (Ref: Park PSM 22nd/pg. 783)REGISTRATION OF VITAL EVENTS - In an effort to improve the civil registration system, the Govt of India promulgated the Central Births and Deaths Registration Act in 1969. The act came in force on 1st april 1970. The time limit for registering the event of births and that of deaths is 21 days uniformly all over India.",
+    "hint_exp": "🎯 Think of \"registration of birth\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1def74a8-d99a-49e8-b2a9-3193cdf63d80": {
-    "cop": 1,
-    "exp": "Secretions Secreted by 1. Pancreatic enzymes (trysin, chymotypsin, carboxypeptidase) 2. Insulin 3. Bicarbonates & water 4. Enterokinase 5. Sucrase, maltase, isomaltase, lactase 6. Amino peptidase & several dipeptidases 7. Cholecystokinins 8. Mucus (in duodenum) 9. Bile (initial poriton) 10. HCl 11. Ptyalin 12. Lingual lipase 13. Elastase 14. Trehalase 1. Pancreatic acini (exocrine pancreas) 2. Islets of langerhans (endocrine pancreas) 3. Epithelial cells of ducts & ductules leading from acini 4. Intestinal mucosa 5. Contained in enterocytes of mucosa (not secreted in intestinal juice) 6. Enterocytes of duodenum & jejunum 7. I cells of mucosa of duodenum & upper jejunum 8. Brunner's glands 9. Hepatocytes of liver 10. Parietal cells 11. Parotid gland 12. Lingual glands of mouth 13. Pancreas 14. Enterocytes of small intestine."
+    "cop": 0,
+    "exp": "Secretions Secreted by 1. Pancreatic enzymes (trysin, chymotypsin, carboxypeptidase) 2. Insulin 3. Bicarbonates & water 4. Enterokinase 5. Sucrase, maltase, isomaltase, lactase 6. Amino peptidase & several dipeptidases 7. Cholecystokinins 8. Mucus (in duodenum) 9. Bile (initial poriton) 10. HCl 11. Ptyalin 12. Lingual lipase 13. Elastase 14. Trehalase 1. Pancreatic acini (exocrine pancreas) 2. Islets of langerhans (endocrine pancreas) 3. Epithelial cells of ducts & ductules leading from acini 4. Intestinal mucosa 5. Contained in enterocytes of mucosa (not secreted in intestinal juice) 6. Enterocytes of duodenum & jejunum 7. I cells of mucosa of duodenum & upper jejunum 8. Brunner's glands 9. Hepatocytes of liver 10. Parietal cells 11. Parotid gland 12. Lingual glands of mouth 13. Pancreas 14. Enterocytes of small intestine.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following enzymes\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "67560313-545a-42f8-a8cf-7e2a710b8a81": {
-    "cop": 4,
-    "exp": "<img alt=\"\" src=\" />"
+    "cop": 3,
+    "exp": "<img alt=\"\" src=\" />",
+    "hint_exp": "🧩 Your crush solved \"Point radiotherapy carcinoma cervix\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6e8b53d3-55d1-40d2-85ff-904343634f83": {
-    "cop": 2,
-    "exp": "Because eukaryotes are structurally complex and have complex antigenic propeies. They are unlike prokaryotes does not have a well-established cellular organization Ref: Textbook of Microbiology; Ananthanarayan and Paniker; 9th edition."
+    "cop": 1,
+    "exp": "Because eukaryotes are structurally complex and have complex antigenic propeies. They are unlike prokaryotes does not have a well-established cellular organization Ref: Textbook of Microbiology; Ananthanarayan and Paniker; 9th edition.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"causing infection because\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "354ec504-dabb-4ba9-90c2-7da34694897f": {
-    "cop": 2,
-    "exp": "Velocity of impulses at different parts of conductive system:\n\nAtrial muscle fibers : 0.3 meter/second\nInternodal fibers : 1.0 meter/second\nAV node : 0.05 meter/second\nBundle of His : 0.12 meter/second\nPurkinje fibers : 4.0 meter/second\nVentricular muscle fibers : 0.5 meter/second\n\nThus, the velocity of impulses is maximum in Purkinje fibers and minimum at AV node."
+    "cop": 1,
+    "exp": "Velocity of impulses at different parts of conductive system:\n\nAtrial muscle fibers : 0.3 meter/second\nInternodal fibers : 1.0 meter/second\nAV node : 0.05 meter/second\nBundle of His : 0.12 meter/second\nPurkinje fibers : 4.0 meter/second\nVentricular muscle fibers : 0.5 meter/second\n\nThus, the velocity of impulses is maximum in Purkinje fibers and minimum at AV node.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"nodal delay\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0192ff7f-6350-4253-a527-0a83a399fe0e": {
-    "cop": 1,
-    "exp": "When infection penetrates the tonsillar capsule and involves the surrounding tissues, peritonsillar cellulitis results. Peritonsillar abscess otherwise known as 'quinsy' and cellulitis present with severe sore throat, odynophagia, trismus, medial detion of the soft palate and peritonsillar fold, and an abnormal muffled (\"hot potato\") voice."
+    "cop": 0,
+    "exp": "When infection penetrates the tonsillar capsule and involves the surrounding tissues, peritonsillar cellulitis results. Peritonsillar abscess otherwise known as 'quinsy' and cellulitis present with severe sore throat, odynophagia, trismus, medial detion of the soft palate and peritonsillar fold, and an abnormal muffled (\"hot potato\") voice.",
+    "hint_exp": "🎯 Think of \"referred to as Quinsy\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a08b78a6-0c10-40f9-90a2-88622767e53e": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"dentures cleaned boiling water\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9bff2129-9470-4af8-9e85-7ed2c8a23c4f": {
-    "cop": 2,
-    "exp": "Adenylyl cyclase is a transmembrane protein, and it crosses the membrane 12 times. Ten isoforms of this enzyme have been described and each can have distinct regulatory propeies, permitting the cAMP pathway to be customized to specific tissue needs. Notably, stimulatory heterotrimeric G proteins (Gs) activate, while inhibitory heterotrimeric G proteins (Gi) inactivate adenylyl cyclase (Figure 2-28). When the appropriate ligand binds to a stimulatory receptor, a Gs a subunit activates one of the adenylyl cyclases.(Ref: Ganong&;s review of medical physiology 23rd edition Page no: 56)"
+    "cop": 1,
+    "exp": "Adenylyl cyclase is a transmembrane protein, and it crosses the membrane 12 times. Ten isoforms of this enzyme have been described and each can have distinct regulatory propeies, permitting the cAMP pathway to be customized to specific tissue needs. Notably, stimulatory heterotrimeric G proteins (Gs) activate, while inhibitory heterotrimeric G proteins (Gi) inactivate adenylyl cyclase (Figure 2-28). When the appropriate ligand binds to a stimulatory receptor, a Gs a subunit activates one of the adenylyl cyclases.(Ref: Ganong&;s review of medical physiology 23rd edition Page no: 56)",
+    "hint_exp": "🧩 Your crush solved \"associated with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

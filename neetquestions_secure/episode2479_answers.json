@@ -1,202 +1,252 @@
 {
   "27c511f1-74e8-49bf-a50d-4839ef6f4b4c": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Lymphocytic predominant Prognosis of hodgkin lymphoma mainly depends on the histological type and staging. o Histological type Best prognosis --> Lymphocytic predominent Worst prognosis ---> Lymphocytic depletion type"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Lymphocytic predominant Prognosis of hodgkin lymphoma mainly depends on the histological type and staging. o Histological type Best prognosis --> Lymphocytic predominent Worst prognosis ---> Lymphocytic depletion type",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Best prognostic type Hodgkin\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b7b6aeb1-0fcc-4c60-be65-28b5b7f33380": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"orbital view carried\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2cb20924-78f1-4183-b443-f42e1fb6f35e": {
-    "cop": 1,
-    "exp": "Ans: A (Herpes simplex) Reference: Thappa DM, edit to: Essentials in Dermatology, 2nd edn. NewDelhi: Jay peeExplanation: (See the following table)Stevens-Johnson Syndrome (SJS)Drug induced SJSPhenvtoinPhenobarbitoneSulfonamidesPenicillinsNS AIDSViral CausesHerpes simplex virus (Most Common cause)AIDSCoxsackievirusViral infectionsInfluenza HepatitisMumpsBacterial causesGroup A beta-hemolytic streptococciNail AbnormalitiesNail abnormalityDescriptionCausesKoilonychiaReverse curvature in the longtitudinal and transverse axisIron deficiency anemiaMacronychia/McronychiaToo small or large nails--OnycholysisDistal or lateral separation of the nail from nail bedPsoriasis, OnychomycosisPterygiumCentral fibrotic tongue like band from proximal nail fold joins the nail bed dividing the nail proximal!}1 into twoLichen planusSubungual hyperkeratosisExcessive collection of squamous debris under the free edge of nailPsoriasis OnychomycosisOnychogryphosisNail get thickened and grows upwards in a spiral mannerChronic traumaPachynychia congenitaHypertrophy of nails associated with nail bed and hyponychial hyperkeratosis--Beau's linesTransverse grooves on nailsTemporary cessation of nail formationChemotherapyHypocalcemiaNail infectionCoronary occlusionMalnutritionTerry's nailNail N white proximally hut normal distallyCongestive cardiac failureCirrhosisDiabetes mellitusPittingPunctate erosions on nail surfacePsoriasisAlopecia areataRed LunulaeNails show erythema of lunulaPsoriasis (Dotted red lunula) Congestive cardiac failure CirrhosisSLESplinter hemorrhagesLongiitudinal hemorrhages in nail bedPsoriasisDermatitisFungal infectionsInfective endocarditis SLEMycosis fungoidesRheumatoid arthritisMees linesWhitening or discoloration of the nail in bands or \"stria\" that run parallel the lunula (nail base)CirrhosisChemotherapyHeavy metal poisoning(Arsenic, Thallium)TraumaMuehrcke's nailsWhite lines (leukonychia) that extend all the way across the nail and he parallel to the lunula {half moon)Non-specificAssc with decreased protein synthesisHypoalbuminemiaNephrotic syndromeDiphtheriaBrucellosisLymphogranuloma venereumMycobacteriaMycoplasma pneumoniaeRicketsial infectionsTularemiaIt is common in children and young adultsThe disease is preceded by a nonspecific prodrome with fever, myalgia, rhinitis and coughSkin lesions occur abruptly and are purpuric macules, atypical target lesions and papulesBullous lesions may occur in oral, genital and anal mucosaUlcerative stomatitis with hemorrhagic crusting is the most characteristic featureCorneal erosions may lead to symhlepharan. synechiae and opacitiesConstitutional symptoms may be severe during active stagesThe treatment includes supportive care and steroids.SJS Vs TENSJS - Mucosal erosions and epidermal detachment below 10%Toxic epidermal necrolysis (TEN)- Mucosal erosions and epidermal detachment more than 30%"
+    "cop": 0,
+    "exp": "Ans: A (Herpes simplex) Reference: Thappa DM, edit to: Essentials in Dermatology, 2nd edn. NewDelhi: Jay peeExplanation: (See the following table)Stevens-Johnson Syndrome (SJS)Drug induced SJSPhenvtoinPhenobarbitoneSulfonamidesPenicillinsNS AIDSViral CausesHerpes simplex virus (Most Common cause)AIDSCoxsackievirusViral infectionsInfluenza HepatitisMumpsBacterial causesGroup A beta-hemolytic streptococciNail AbnormalitiesNail abnormalityDescriptionCausesKoilonychiaReverse curvature in the longtitudinal and transverse axisIron deficiency anemiaMacronychia/McronychiaToo small or large nails--OnycholysisDistal or lateral separation of the nail from nail bedPsoriasis, OnychomycosisPterygiumCentral fibrotic tongue like band from proximal nail fold joins the nail bed dividing the nail proximal!}1 into twoLichen planusSubungual hyperkeratosisExcessive collection of squamous debris under the free edge of nailPsoriasis OnychomycosisOnychogryphosisNail get thickened and grows upwards in a spiral mannerChronic traumaPachynychia congenitaHypertrophy of nails associated with nail bed and hyponychial hyperkeratosis--Beau's linesTransverse grooves on nailsTemporary cessation of nail formationChemotherapyHypocalcemiaNail infectionCoronary occlusionMalnutritionTerry's nailNail N white proximally hut normal distallyCongestive cardiac failureCirrhosisDiabetes mellitusPittingPunctate erosions on nail surfacePsoriasisAlopecia areataRed LunulaeNails show erythema of lunulaPsoriasis (Dotted red lunula) Congestive cardiac failure CirrhosisSLESplinter hemorrhagesLongiitudinal hemorrhages in nail bedPsoriasisDermatitisFungal infectionsInfective endocarditis SLEMycosis fungoidesRheumatoid arthritisMees linesWhitening or discoloration of the nail in bands or \"stria\" that run parallel the lunula (nail base)CirrhosisChemotherapyHeavy metal poisoning(Arsenic, Thallium)TraumaMuehrcke's nailsWhite lines (leukonychia) that extend all the way across the nail and he parallel to the lunula {half moon)Non-specificAssc with decreased protein synthesisHypoalbuminemiaNephrotic syndromeDiphtheriaBrucellosisLymphogranuloma venereumMycobacteriaMycoplasma pneumoniaeRicketsial infectionsTularemiaIt is common in children and young adultsThe disease is preceded by a nonspecific prodrome with fever, myalgia, rhinitis and coughSkin lesions occur abruptly and are purpuric macules, atypical target lesions and papulesBullous lesions may occur in oral, genital and anal mucosaUlcerative stomatitis with hemorrhagic crusting is the most characteristic featureCorneal erosions may lead to symhlepharan. synechiae and opacitiesConstitutional symptoms may be severe during active stagesThe treatment includes supportive care and steroids.SJS Vs TENSJS - Mucosal erosions and epidermal detachment below 10%Toxic epidermal necrolysis (TEN)- Mucosal erosions and epidermal detachment more than 30%",
+    "hint_exp": "🎯 Think of \"Stevens Johnson syndrome caused\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f26e74b1-2012-4ce8-a58e-e5b374efa59f": {
-    "cop": 4,
-    "exp": "Ans. Slit-lamp examination"
+    "cop": 3,
+    "exp": "Ans. Slit-lamp examination",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"lens\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d7c7eb07-c878-4554-abc6-925b002f2930": {
-    "cop": 2,
-    "exp": "IOL are made of (i) PMIVIA (rigid IOL); (ii) Silicon, acrylic, hydrogel, collamer (foldable IOL)."
+    "cop": 1,
+    "exp": "IOL are made of (i) PMIVIA (rigid IOL); (ii) Silicon, acrylic, hydrogel, collamer (foldable IOL).",
+    "hint_exp": "🧩 Your crush solved \"Modern made Acrylic acidb\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3c48b4c2-9510-4eeb-abcd-5cabb660f35a": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Nucleolus Organelle Function Nucleolus Site of synthesis of r-RNA Ribosomes Site of protein synthesis, translation of mRNA RER / Site of protein synthesis Granular ER (e.g. hormones, proteins found in enzyme) SER / Agrannlar Site of steroid synthesis I0 ER detoxification / FA elongation Golgi Body Processing / packaging, intracellular soing of proteins, formation of lysosomes Lysosomes Contain digestive / lytic enzymes and hydrolases (suicidal bags of cell) Peroxisomes Contain oxidases"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Nucleolus Organelle Function Nucleolus Site of synthesis of r-RNA Ribosomes Site of protein synthesis, translation of mRNA RER / Site of protein synthesis Granular ER (e.g. hormones, proteins found in enzyme) SER / Agrannlar Site of steroid synthesis I0 ER detoxification / FA elongation Golgi Body Processing / packaging, intracellular soing of proteins, formation of lysosomes Lysosomes Contain digestive / lytic enzymes and hydrolases (suicidal bags of cell) Peroxisomes Contain oxidases",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"of rRNA takes place in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "803aea49-d0c5-4cf5-bb9e-3a0d79c77b31": {
-    "cop": 2,
-    "exp": "(B) Arginine > Adequate dietary protein is absolutely essential for proper wound healing, and tissue levels of the amino acids Arginine and Glutamine may influence wound repair & immune function.> Healing of wounds, whether from accidental injury or surgical intervention, involves the activity of an intricate network of blood cells, tissue types, cytokines, and growth factors.> This results in increased cellular activity, which causes an intensified metabolic demand for nutrients.> Nutritional deficiencies can impede wound healing, and several nutritional factors required for wound repair may improve healing time and wound outcome.> Vitamin A is required for epithelial and bone formation, cellular differentiation, and immune function. Vitamin C is necessary for collagen formation, proper immune function, and as a tissue antioxidant.> Vitamin E is the major lipid-soluble antioxidant in the skin; however, the effect of vitamin E on surgical wounds is inconclusive.> Bromelain reduces edema, bruising, pain, and healing time following trauma and surgical procedures. Glucosamine appears to be the rate-limiting substrate for hyaluronic acid production in the wound"
+    "cop": 1,
+    "exp": "(B) Arginine > Adequate dietary protein is absolutely essential for proper wound healing, and tissue levels of the amino acids Arginine and Glutamine may influence wound repair & immune function.> Healing of wounds, whether from accidental injury or surgical intervention, involves the activity of an intricate network of blood cells, tissue types, cytokines, and growth factors.> This results in increased cellular activity, which causes an intensified metabolic demand for nutrients.> Nutritional deficiencies can impede wound healing, and several nutritional factors required for wound repair may improve healing time and wound outcome.> Vitamin A is required for epithelial and bone formation, cellular differentiation, and immune function. Vitamin C is necessary for collagen formation, proper immune function, and as a tissue antioxidant.> Vitamin E is the major lipid-soluble antioxidant in the skin; however, the effect of vitamin E on surgical wounds is inconclusive.> Bromelain reduces edema, bruising, pain, and healing time following trauma and surgical procedures. Glucosamine appears to be the rate-limiting substrate for hyaluronic acid production in the wound",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Amino acids that promote\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9ff806d6-5e94-4378-be7c-c66207533d23": {
-    "cop": 1,
-    "exp": "Structures passing through the lesser sciatic foramen are tendon of obturator internus, internal pudendal vessels and pudendal nerve. Structures passing through greater sciatic foramen are:Piriformis muscleSuperior and inferior gluteal vesselInternal pudendal vesselPudendal nerveSciatic nervePosterior femoral cutaneous nerveNerve to obturator internusQuadratus femorisStructures passing through both greater and lesser sciatic foramen:Pudendal nerveInternal pudendal vesselsNerve to obturator internusRef: BRS Gross Anatomy By Kyung Won Chung, page 97"
+    "cop": 0,
+    "exp": "Structures passing through the lesser sciatic foramen are tendon of obturator internus, internal pudendal vessels and pudendal nerve. Structures passing through greater sciatic foramen are:Piriformis muscleSuperior and inferior gluteal vesselInternal pudendal vesselPudendal nerveSciatic nervePosterior femoral cutaneous nerveNerve to obturator internusQuadratus femorisStructures passing through both greater and lesser sciatic foramen:Pudendal nerveInternal pudendal vesselsNerve to obturator internusRef: BRS Gross Anatomy By Kyung Won Chung, page 97",
+    "hint_exp": "🎯 Think of \"following structures passes through\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "76bca04c-dba3-4b68-9a93-c0dce3bbeea2": {
-    "cop": 3,
-    "exp": "."
+    "cop": 2,
+    "exp": ".",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"hemoglobin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b6b4bd80-0ac0-44cd-aabf-6e67964818ae": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Bone marrow transplantation\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6fa00a3c-9e09-424d-bcac-edc794659642": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a locality API\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "96ee1efc-5c1e-4dfe-8aa1-c12b5bc3c1fb": {
-    "cop": 2,
-    "exp": "TREATMENT OF ACUTE UVEITIS : Drug of first choice: Steroids (topical, intravitreally, subconjuctivally or systemic if the there is no improvement on maximal topical steroids have been used or if the uveitis is severe). Use of atropine and other mydriatics: Most effective in acute stage because they: Give rest to eye by relieving the sphincter Prevents formation of synechiae and breaking old one's Reduces hyperemia and exudation Pilocarpine and other cholinergics and miotics are contrainidicated because they enhance the synechae formation. Beta blockers are used in hypeensive uveitis."
+    "cop": 1,
+    "exp": "TREATMENT OF ACUTE UVEITIS : Drug of first choice: Steroids (topical, intravitreally, subconjuctivally or systemic if the there is no improvement on maximal topical steroids have been used or if the uveitis is severe). Use of atropine and other mydriatics: Most effective in acute stage because they: Give rest to eye by relieving the sphincter Prevents formation of synechiae and breaking old one's Reduces hyperemia and exudation Pilocarpine and other cholinergics and miotics are contrainidicated because they enhance the synechae formation. Beta blockers are used in hypeensive uveitis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"choice for anterior uveitis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "18e957b7-fbed-4ac1-b872-ffc579a41eda": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., All the above Ductopenia* Loss of bile ducts from the portal tracts is referred to as ductopenia.* Ductopenia is most commonly seen related to chronic allograft rejection however it can be seen in many disease including drug related injury, primary biliary cirrhosis, primary sclerosing cholangitis, chronic graft- vs-host disease, hepatic sarcoidosis, paraneoplastic syndrome related to Hodgkin disease, and syndromic paucity of bile ducts (Alagille syndrome).* Ductopenia can be identified by looking for unpaired hepatic arteries or by the aid of immunohistochemical stain CK7.* Typically a minimum loss of 30% (early/evolving chronic ductopenic allograft rejection) of bile ducts is required for a diagnosis and most cases of ductopenia are defined by loss of at least 50% of bile ducts.* Due to sampling issues, at least 10-12 portal tracts must be present to accurately evaluate bile duct loss."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., All the above Ductopenia* Loss of bile ducts from the portal tracts is referred to as ductopenia.* Ductopenia is most commonly seen related to chronic allograft rejection however it can be seen in many disease including drug related injury, primary biliary cirrhosis, primary sclerosing cholangitis, chronic graft- vs-host disease, hepatic sarcoidosis, paraneoplastic syndrome related to Hodgkin disease, and syndromic paucity of bile ducts (Alagille syndrome).* Ductopenia can be identified by looking for unpaired hepatic arteries or by the aid of immunohistochemical stain CK7.* Typically a minimum loss of 30% (early/evolving chronic ductopenic allograft rejection) of bile ducts is required for a diagnosis and most cases of ductopenia are defined by loss of at least 50% of bile ducts.* Due to sampling issues, at least 10-12 portal tracts must be present to accurately evaluate bile duct loss.",
+    "hint_exp": "🎯 Think of \"associated with ductopenia\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e83cef48-9fd9-4db5-a59a-ae36a07c120a": {
-    "cop": 4,
-    "exp": "BRAF V600E (valine converting to glutamate at 600thposition)is seen in the following cancers\n\nLangerhan’s cell histiocytosis\nHairy cell leukemia\nMalignant melanoma\nPilocytic astrocytoma (WHO Grade I astrocytoma)\nOvarian carcinoma\nEndometrial carcinoma\nColorectal carcinoma\nPapillary carcinoma thyroid\nErdheim Chester disease"
+    "cop": 3,
+    "exp": "BRAF V600E (valine converting to glutamate at 600thposition)is seen in the following cancers\n\nLangerhan’s cell histiocytosis\nHairy cell leukemia\nMalignant melanoma\nPilocytic astrocytoma (WHO Grade I astrocytoma)\nOvarian carcinoma\nEndometrial carcinoma\nColorectal carcinoma\nPapillary carcinoma thyroid\nErdheim Chester disease",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"all of the following except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2aaa06f7-1137-441b-8700-94ec5761d93c": {
-    "cop": 1,
-    "exp": "(A) Creatinine kinase # THE STRENGTH ENZYME SYSTEM: When muscle strength is required, ATP is created quickly form the following chemical reaction. The enzyme creatine kinase mediates ATP production from the high energy molecule creatine phosphate by an anaerobic reaction: CP + ADP > ATP + Creatine The CP (Creatine Phosphate) is depleted in just a few seconds. To continue producing high strength power, the speed enzyme system kicks in.> Creatine kinase (CK), also known as creatine phosphokinase (CPK) or phospho-creatine kinase (and sometimes incorrectly as creatinine kinase), is an enzyme expressed by various tissues and cell types.> CK catalyses the conversion of creatine and consumes adenosine triphosphate (ATP) to create phosphocreatine (PCr) and adenosine diphosphate (ADP).> This CK enzyme reaction is reversible, such that also ATP can be generated from PCr and ADP. In tissues and cells that consume ATP rapidly, especially skeletal muscle, but also brain, photoreceptor cells of the retina, hair cells of the inner ear, spermatozoa and smooth muscle, PCr serves as an energy reservoir for the rapid buffering and regeneration of ATP in situ, as well as for intracellular energy transport by the PCr shuttle or circuit. Thus creatine kinase is an important enzyme in such tissues.> Clinically, creatine kinase is assayed in blood tests as a marker of Myocardial infarction, Rhabdomyolysis, Muscular dystrophy, the Autoimmune Myositides and in Acute Renal Failure."
+    "cop": 0,
+    "exp": "(A) Creatinine kinase # THE STRENGTH ENZYME SYSTEM: When muscle strength is required, ATP is created quickly form the following chemical reaction. The enzyme creatine kinase mediates ATP production from the high energy molecule creatine phosphate by an anaerobic reaction: CP + ADP > ATP + Creatine The CP (Creatine Phosphate) is depleted in just a few seconds. To continue producing high strength power, the speed enzyme system kicks in.> Creatine kinase (CK), also known as creatine phosphokinase (CPK) or phospho-creatine kinase (and sometimes incorrectly as creatinine kinase), is an enzyme expressed by various tissues and cell types.> CK catalyses the conversion of creatine and consumes adenosine triphosphate (ATP) to create phosphocreatine (PCr) and adenosine diphosphate (ADP).> This CK enzyme reaction is reversible, such that also ATP can be generated from PCr and ADP. In tissues and cells that consume ATP rapidly, especially skeletal muscle, but also brain, photoreceptor cells of the retina, hair cells of the inner ear, spermatozoa and smooth muscle, PCr serves as an energy reservoir for the rapid buffering and regeneration of ATP in situ, as well as for intracellular energy transport by the PCr shuttle or circuit. Thus creatine kinase is an important enzyme in such tissues.> Clinically, creatine kinase is assayed in blood tests as a marker of Myocardial infarction, Rhabdomyolysis, Muscular dystrophy, the Autoimmune Myositides and in Acute Renal Failure.",
+    "hint_exp": "🧩 Your crush solved \"constantly maintained due to\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "aeb13ce9-614b-4472-a434-7c515b3b6e99": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f86feb11-2324-4dd4-95c9-30e5c85bd504": {
-    "cop": 1,
-    "exp": "When a muscle begins to contract after a long period of rest, its initial strength of contraction may be as little as one half its strength 10 to 50 muscle twitches later. That is, the strength of contraction increases to a plateau, a phenomenon called the staircase effect or treppeIt is caused primarily by increasing calcium ions in the cytosol because of the release of more and more ions from the sarcoplasmic reticulum with each successive muscle action potential and failure of the sarcoplasm to recapture the ions immediately.Guyton 13th edition pg: 84"
+    "cop": 0,
+    "exp": "When a muscle begins to contract after a long period of rest, its initial strength of contraction may be as little as one half its strength 10 to 50 muscle twitches later. That is, the strength of contraction increases to a plateau, a phenomenon called the staircase effect or treppeIt is caused primarily by increasing calcium ions in the cytosol because of the release of more and more ions from the sarcoplasmic reticulum with each successive muscle action potential and failure of the sarcoplasm to recapture the ions immediately.Guyton 13th edition pg: 84",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"muscle contraction\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5e7fdfff-fa0f-43ba-96d5-c26397688ab4": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Decentralised approach Principles of primary health care1. Equitable distribution# It means, health services must be shared equally by all people irrespective of their ability to pay and all people (urban or rural, rich or poor) have access to health services.2. Community participation# The local community is involved in planning and implementation of health services.# Primary health care is thus described as - Health by the people, placing people's health in people hands.# Village health guides and trained dais are perfect examples of community participation. They belong to the community they serve3. Intersectoral coordination# The primary health care is not provided by health sector alone.# It involves all other related sectors of national and community development, in particular agriculture, animal husbandry, food, industry, education, housing, public works, communication and other sectors.4. Appropriate technology# Appropriate technology is defined as 'technology that is scientifically sound, adaptable to local needs, and acceptable to those who apply it and those for whom it is used, and that can be maintained by the people themselves in keeping with the principles of self reliance with the resources the community and country can afford.'"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Decentralised approach Principles of primary health care1. Equitable distribution# It means, health services must be shared equally by all people irrespective of their ability to pay and all people (urban or rural, rich or poor) have access to health services.2. Community participation# The local community is involved in planning and implementation of health services.# Primary health care is thus described as - Health by the people, placing people's health in people hands.# Village health guides and trained dais are perfect examples of community participation. They belong to the community they serve3. Intersectoral coordination# The primary health care is not provided by health sector alone.# It involves all other related sectors of national and community development, in particular agriculture, animal husbandry, food, industry, education, housing, public works, communication and other sectors.4. Appropriate technology# Appropriate technology is defined as 'technology that is scientifically sound, adaptable to local needs, and acceptable to those who apply it and those for whom it is used, and that can be maintained by the people themselves in keeping with the principles of self reliance with the resources the community and country can afford.'",
+    "hint_exp": "🎯 Think of \"elements primary health care\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f1f1583f-440b-4c8b-abb6-5d490c0d4bcf": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"hypertrophy adverse effect following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8a0d9c0e-c708-4951-b6cf-19a6e6239859": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Chlorine demand InstrumentUtilityHorrocks ApparatusChlorinator/ ChloronomeChloroscopeChlorine demand estimationMixing or regulating dose of chlorineMeasuring residual level of chlorine"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Chlorine demand InstrumentUtilityHorrocks ApparatusChlorinator/ ChloronomeChloroscopeChlorine demand estimationMixing or regulating dose of chlorineMeasuring residual level of chlorine",
+    "hint_exp": "🧩 Your crush solved \"Horrock appar used\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "86033282-731e-4341-82da-de545f93f79d": {
-    "cop": 4,
-    "exp": "Nootropic drugs are newer class of drugs to improvr the cognitive capacity in alzheimers patient. aThey include piracetam and aneracitam REFR: ESSENTIALS OF MEDICAL PHARMACOLOGY KD TRIPATHI 8TH ED."
+    "cop": 3,
+    "exp": "Nootropic drugs are newer class of drugs to improvr the cognitive capacity in alzheimers patient. aThey include piracetam and aneracitam REFR: ESSENTIALS OF MEDICAL PHARMACOLOGY KD TRIPATHI 8TH ED.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "79b47015-9676-49fd-b16b-248d539dbe0b": {
-    "cop": 2,
-    "exp": "Clonal selection\n\nB-cells are able to make a specific antibody against a specific antigen. It is due to the presence of specific receptor on B-cells - B-cell receptor (BCR), that is usually an immunoglobulin Ig M or Ig D. An antigen interacts with B-cell that shows best fit by virtue of its BCR. The antigen binds to this receptor, and the B-cell is stimulated to divide and form a clone (clonal selection). This clone of cells will become plasma cells that will secrete antibody of a particular specificity and same class.\nPlasma cells make an antibody of a single specificity, of a single immunoglobulin class and allotype, and of a single light chain type only. An exception is seen in the primary antibody response, when a plasma cell producing IgM initially, may later be switched to IgG production (called isotype switching or class switching)."
+    "cop": 1,
+    "exp": "Clonal selection\n\nB-cells are able to make a specific antibody against a specific antigen. It is due to the presence of specific receptor on B-cells - B-cell receptor (BCR), that is usually an immunoglobulin Ig M or Ig D. An antigen interacts with B-cell that shows best fit by virtue of its BCR. The antigen binds to this receptor, and the B-cell is stimulated to divide and form a clone (clonal selection). This clone of cells will become plasma cells that will secrete antibody of a particular specificity and same class.\nPlasma cells make an antibody of a single specificity, of a single immunoglobulin class and allotype, and of a single light chain type only. An exception is seen in the primary antibody response, when a plasma cell producing IgM initially, may later be switched to IgG production (called isotype switching or class switching).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Plasma cells produce specific\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "94d36dc7-d1ea-4681-a9b1-3f3c9ccc3fb2": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"True about posttraumatic stress\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c0e9b4cd-afe8-4129-b6d2-ee91812a4a12": {
-    "cop": 1,
-    "exp": "Telogen Effluvium (TE): The second most common cause of hair loss in women. Androgenetic Alopecia or pattern hair loss is by far the most common type of hair loss in men and women. TE is a non scarring alopecia. The pathophysiology underlying TE is best characterized as a premature shift of hairs from the anagen (growth) phase into the catagen (resting) and telogen (terminal) phases. Seen after severe illness, surgery, nutritional deficiency, iron deficiency, childbih, in association with medications and in patients with thyroid disease. Reversible once the initiating factor is eliminated. Ref: Otberg N., Shapiro J. (2012). Chapter 88. Hair Growth Disorders. In L.A. Goldsmith, S.I. Katz, B.A. Gilchrest, A.S. Paller, D.J. Leffell, N.A. Dallas (Eds), Fitzpatrick's Dermatology in General Medicine, 8e."
+    "cop": 0,
+    "exp": "Telogen Effluvium (TE): The second most common cause of hair loss in women. Androgenetic Alopecia or pattern hair loss is by far the most common type of hair loss in men and women. TE is a non scarring alopecia. The pathophysiology underlying TE is best characterized as a premature shift of hairs from the anagen (growth) phase into the catagen (resting) and telogen (terminal) phases. Seen after severe illness, surgery, nutritional deficiency, iron deficiency, childbih, in association with medications and in patients with thyroid disease. Reversible once the initiating factor is eliminated. Ref: Otberg N., Shapiro J. (2012). Chapter 88. Hair Growth Disorders. In L.A. Goldsmith, S.I. Katz, B.A. Gilchrest, A.S. Paller, D.J. Leffell, N.A. Dallas (Eds), Fitzpatrick's Dermatology in General Medicine, 8e.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "85e8cae0-6ef3-4278-b121-9f39c31c7474": {
-    "cop": 4,
-    "exp": "Herpes Zoster"
+    "cop": 3,
+    "exp": "Herpes Zoster",
+    "hint_exp": "🧩 Your crush solved \"Disease which does come\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "763b7a19-91d9-4302-95f0-a5f96109ec17": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Magnetostrictive handpiece\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fd4d66c1-1357-4d1f-995e-202bee7204d9": {
-    "cop": 2,
-    "exp": "Ans. b. Sodium chromoglycate (Ref: style=\"font-size: 1.04761904761905em; font-family: Times New Roman, Times, serif\">)Olympic Movement Anti-doping Code: Appendix AProhibited classes of substance and prohibited methodsA. Stimulants* Amineptine* Amiphenazole* Amphetamines* Bromantan* Caffeine* Carphedon* Cocaine* Ephedrine* Fencamfamin* Formoterol* Mesocarb* Pentetrazol* Pipradrol* SalbutamolQ* Salmeterol* Terbutaline B. Narcotics* Buprenorphine* Dextromoramide* Diamorphine (Heroin)* Methadone* Morphine* Pentazocine* Pethidine C. Anabolic agentsAnabolic steroids* Androstenediol* Androstenedione* Costebol* Dehydroepiandrosterone* Dihydrotestosterone* Fluoxymesterone* Metandienone* Metenolone* Nandrolone* 19-norandrostenediol* 19-norandrostenedione* Oxandrolone* Stanozolol* Testosterone Beta-agonists* Bambuterol* Clenbuterol* Fenoterol* Formoterol* Reproterol* SalbutamolQ* Salmeterol* Terbutaline D. Diuretics* Acetazolamide* Bumetanide* Chlorthaliodone* Ethacrynicacid* Furosemide* Hydrochlorthiazide* Mannitol* Mersalyl* SpironolactoneQ* Tnmaterene E. Peptide hormones, mimetics and analogues* Chorionic gonadotropin (prohibited in males only)* Pituitary and synthetic gonadotropins (LH) (prohibited in males only)* Corticotropins (ACTH)* ErythropoietinQ* Growth hormone* Insulin* Insulin-like growth factor* (IGF-1)"
+    "cop": 1,
+    "exp": "Ans. b. Sodium chromoglycate (Ref: style=\"font-size: 1.04761904761905em; font-family: Times New Roman, Times, serif\">)Olympic Movement Anti-doping Code: Appendix AProhibited classes of substance and prohibited methodsA. Stimulants* Amineptine* Amiphenazole* Amphetamines* Bromantan* Caffeine* Carphedon* Cocaine* Ephedrine* Fencamfamin* Formoterol* Mesocarb* Pentetrazol* Pipradrol* SalbutamolQ* Salmeterol* Terbutaline B. Narcotics* Buprenorphine* Dextromoramide* Diamorphine (Heroin)* Methadone* Morphine* Pentazocine* Pethidine C. Anabolic agentsAnabolic steroids* Androstenediol* Androstenedione* Costebol* Dehydroepiandrosterone* Dihydrotestosterone* Fluoxymesterone* Metandienone* Metenolone* Nandrolone* 19-norandrostenediol* 19-norandrostenedione* Oxandrolone* Stanozolol* Testosterone Beta-agonists* Bambuterol* Clenbuterol* Fenoterol* Formoterol* Reproterol* SalbutamolQ* Salmeterol* Terbutaline D. Diuretics* Acetazolamide* Bumetanide* Chlorthaliodone* Ethacrynicacid* Furosemide* Hydrochlorthiazide* Mannitol* Mersalyl* SpironolactoneQ* Tnmaterene E. Peptide hormones, mimetics and analogues* Chorionic gonadotropin (prohibited in males only)* Pituitary and synthetic gonadotropins (LH) (prohibited in males only)* Corticotropins (ACTH)* ErythropoietinQ* Growth hormone* Insulin* Insulin-like growth factor* (IGF-1)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"drug that banned players\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "731e8c90-37bc-46d1-9ead-e5fae0a0cb4a": {
-    "cop": 2,
-    "exp": "- First step- cervical spine protection | ABCDE A - Airway maintenance B - Breathing C - Circulation D - Disability (brief neurological examination) E - Exposure and environment control"
+    "cop": 1,
+    "exp": "- First step- cervical spine protection | ABCDE A - Airway maintenance B - Breathing C - Circulation D - Disability (brief neurological examination) E - Exposure and environment control",
+    "hint_exp": "🎯 Think of \"Sequence resuscitation trauma patient\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "65e30b2a-fda6-4c5e-8f0c-83cc59775afa": {
-    "cop": 1,
-    "exp": "Ans. (a) Originates from cells in the stratum basalis.This patient is most likely suffering from metastatic malignant melanoma. Her description of a black lesion on her toe that was removed many years prior suggests a long latency between metastasis, which is not usually seen with other tumors. Malignant melanoma may often metastasize to areas that other tumors do not typically metastasize to. Malignant melanoma originates from melanocytes in the stratum basalis layer of the epidermis.Image source- style=\"text-decoration: underline; color: rgba(17, 85, 204, 1); font-family: Times New Roman, Times, serif\">t/images/dis107.jpg"
+    "cop": 0,
+    "exp": "Ans. (a) Originates from cells in the stratum basalis.This patient is most likely suffering from metastatic malignant melanoma. Her description of a black lesion on her toe that was removed many years prior suggests a long latency between metastasis, which is not usually seen with other tumors. Malignant melanoma may often metastasize to areas that other tumors do not typically metastasize to. Malignant melanoma originates from melanocytes in the stratum basalis layer of the epidermis.Image source- style=\"text-decoration: underline; color: rgba(17, 85, 204, 1); font-family: Times New Roman, Times, serif\">t/images/dis107.jpg",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"type of malignancy\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bd74d216-6dab-488c-8437-2a4dc2a8f9b1": {
-    "cop": 1,
-    "exp": "Gossypol: Its use as a male contraceptive was discovered in China. Gossypol is a yellow pigment isolated from cottonseed oil. It is administered orally 10-20 mg daily for 3 months and thereafter 20 mg twice weekly. The action is directly on the seminiferous tubules inhibiting spermatogenesis without altering FSH and LH levels. The side effectssuch as weakness, hypokalaemia and permanent sterility in 20% cases limit its use. Reference: Shaw's Textbook of Gynaecology 16th edition page no 272"
+    "cop": 0,
+    "exp": "Gossypol: Its use as a male contraceptive was discovered in China. Gossypol is a yellow pigment isolated from cottonseed oil. It is administered orally 10-20 mg daily for 3 months and thereafter 20 mg twice weekly. The action is directly on the seminiferous tubules inhibiting spermatogenesis without altering FSH and LH levels. The side effectssuch as weakness, hypokalaemia and permanent sterility in 20% cases limit its use. Reference: Shaw's Textbook of Gynaecology 16th edition page no 272",
+    "hint_exp": "🧩 Your crush solved \"Hypokalemic paralysis side effect\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "33ac16e8-7a79-4785-93ea-47728dff376f": {
-    "cop": 4,
-    "exp": "Ans. is 'a' i.e. 30 yrs female on OCP's, 'b' i.e. Pregnancy, 'c' i.e. Leg paralysis"
+    "cop": 3,
+    "exp": "Ans. is 'a' i.e. 30 yrs female on OCP's, 'b' i.e. Pregnancy, 'c' i.e. Leg paralysis",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"pulmonary embolism\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "95e4f83d-715b-4cff-8f6d-d8622feb7a5a": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"absent and not to be replaced\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ebd2884b-c695-4233-882c-dbce878388e7": {
-    "cop": 1,
-    "exp": "Sabin Feldman dye test is positive for toxoplasmosis. It is a complement fixation test. This test is based on specific inhibition by antibodies of the staining of trophozoite by alkaline methylene blue.If antibodies are present ,Toxoplasma trophozoites are not stained which indicates positive result.If there are no antibodies, trophozoites with intact membrane are stained and appear blue under microscope"
+    "cop": 0,
+    "exp": "Sabin Feldman dye test is positive for toxoplasmosis. It is a complement fixation test. This test is based on specific inhibition by antibodies of the staining of trophozoite by alkaline methylene blue.If antibodies are present ,Toxoplasma trophozoites are not stained which indicates positive result.If there are no antibodies, trophozoites with intact membrane are stained and appear blue under microscope",
+    "hint_exp": "🎯 Think of \"Feldman test\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1a952c6b-640b-4cea-a526-b5766768c089": {
-    "cop": 2,
-    "exp": "Pancuronium is vagolytic agent, causing hypertension and tachycardia."
+    "cop": 1,
+    "exp": "Pancuronium is vagolytic agent, causing hypertension and tachycardia.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"true regarding pancuronium\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b0d0a859-3e76-4ab3-8452-175bf0f3cca8": {
-    "cop": 2,
-    "exp": "B. i.e. Menorrhagia"
+    "cop": 1,
+    "exp": "B. i.e. Menorrhagia",
+    "hint_exp": "🧩 Your crush solved \"Bulemia which\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d68e71dc-c918-4bd3-a6c3-f7458b265fcb": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Dystocia dystrophia syndrome\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6da312e7-f857-4d8d-bc91-77738ef658db": {
-    "cop": 2,
-    "exp": "Question repeat"
+    "cop": 1,
+    "exp": "Question repeat",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Gamma Gandy bodies contains\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7a162615-1972-4e97-8792-136e544393d2": {
-    "cop": 4,
-    "exp": "Given Abd X-ray - Coffee bean sign / Omega sign / Bent inner tube | Sigmoid volvulus TREATMENT:- Colonoscopic detorsion After 3 days sigmoid colectomy Ischemia / strangulation / perforation - Emergency condition | Immediate colonic resection"
+    "cop": 3,
+    "exp": "Given Abd X-ray - Coffee bean sign / Omega sign / Bent inner tube | Sigmoid volvulus TREATMENT:- Colonoscopic detorsion After 3 days sigmoid colectomy Ischemia / strangulation / perforation - Emergency condition | Immediate colonic resection",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ebbe986c-3887-40a5-a1be-eb82ec317b32": {
-    "cop": 3,
-    "exp": "Administer additional anesthetic(s) to deepen the level of anesthesia, is the first treatment for bronchospasm because it is quick to administer. Inhalational beta-2 agonists, volatile anesthetics, and intravenous drugs with beta-adrenergic activity (epinephrine) can all attenuate bronchospasm. Neuromuscular blocking agents, have no effect on bronchospasm. In fact, some neuromuscular blocking agents can precipitate a bronchospasm if they cause histamine release."
+    "cop": 2,
+    "exp": "Administer additional anesthetic(s) to deepen the level of anesthesia, is the first treatment for bronchospasm because it is quick to administer. Inhalational beta-2 agonists, volatile anesthetics, and intravenous drugs with beta-adrenergic activity (epinephrine) can all attenuate bronchospasm. Neuromuscular blocking agents, have no effect on bronchospasm. In fact, some neuromuscular blocking agents can precipitate a bronchospasm if they cause histamine release.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "61124175-1b7b-4dbe-a75f-d8ef1272209d": {
-    "cop": 1,
-    "exp": "To diagnose late-onset schizophrenia, the patient should meet the DSM IV criteria for schizophrenia (including duration of at least 6 months) with the additional requirement that the onset of symptoms (including the prodrome) be at or above age 45. The prototypical patient is a middle-aged or elderly person who functioned moderately well through early adulthood (despite some premorbid schizoid or paranoid personality traits) and who exhibits persecutory delusions and auditory hallucinations and shows some improvement in positive symptoms with low-dose neuroleptic therapy, yet has a chronic course."
+    "cop": 0,
+    "exp": "To diagnose late-onset schizophrenia, the patient should meet the DSM IV criteria for schizophrenia (including duration of at least 6 months) with the additional requirement that the onset of symptoms (including the prodrome) be at or above age 45. The prototypical patient is a middle-aged or elderly person who functioned moderately well through early adulthood (despite some premorbid schizoid or paranoid personality traits) and who exhibits persecutory delusions and auditory hallucinations and shows some improvement in positive symptoms with low-dose neuroleptic therapy, yet has a chronic course.",
+    "hint_exp": "🧩 Your crush solved \"True about late onset\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "96735f4b-e8cf-4c48-adaa-acc8a24227df": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., 1-2 weeks o The umbilical cord stump usually dries and shrivels up and is shed off by 1-2 weeks.o The parents must look out for signs like redness, swelling and edema with pus discharge around the stump. These might indicate infection- Omphalitis"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., 1-2 weeks o The umbilical cord stump usually dries and shrivels up and is shed off by 1-2 weeks.o The parents must look out for signs like redness, swelling and edema with pus discharge around the stump. These might indicate infection- Omphalitis",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"umbilical cord shed\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0f5de9fb-5d74-4484-bddd-cef0508e8aad": {
-    "cop": 1,
-    "exp": "Chloride is the most abundant extracellular anion and phosphate is the most abundant intracellular anion. Sodium is the most abundant extracellular ion and potassium is the most abundant intracellular ion cation. Bicarbonate ion is the second most abundant extracellular anion. Must know: Osmolality of plasma varies from 285-295 mosm/kg. Major determinant of osmo-lality is sodium. Ref: Textbook of Biochemistry by DM Vasudevan, 5th edition, Page 373."
+    "cop": 0,
+    "exp": "Chloride is the most abundant extracellular anion and phosphate is the most abundant intracellular anion. Sodium is the most abundant extracellular ion and potassium is the most abundant intracellular ion cation. Bicarbonate ion is the second most abundant extracellular anion. Must know: Osmolality of plasma varies from 285-295 mosm/kg. Major determinant of osmo-lality is sodium. Ref: Textbook of Biochemistry by DM Vasudevan, 5th edition, Page 373.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "adef180e-3b4d-427a-9ba1-c13242e9d614": {
-    "cop": 2,
-    "exp": ".Annular (stenosing) type: >>* It is more common on left side. * Here the growth spreads round the internal wall and so it often presents with intestinal obstruction. Ulcerative type: >>* It is common on right side. Proliferative type: >> * Common in right side. It is fleshy, bulky and polypoid. It is less malignant. ref:SRB&;s manual of surgery,ed 3,pg no 835"
+    "cop": 1,
+    "exp": ".Annular (stenosing) type: >>* It is more common on left side. * Here the growth spreads round the internal wall and so it often presents with intestinal obstruction. Ulcerative type: >>* It is common on right side. Proliferative type: >> * Common in right side. It is fleshy, bulky and polypoid. It is less malignant. ref:SRB&;s manual of surgery,ed 3,pg no 835",
+    "hint_exp": "🎯 Think of \"carcinoma of the right colon\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e0d688cf-0ae8-487e-aebf-09d51b0f52aa": {
-    "cop": 2,
-    "exp": "Ref Robbins 8/e p 1149"
+    "cop": 1,
+    "exp": "Ref Robbins 8/e p 1149",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"present in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d2f34d49-8493-45a5-b062-34975a2c3d34": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Specific plaque hypothesis forward\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0d9bb06e-d80b-48ee-a13b-6e98af01f827": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Capsular swelling"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Capsular swelling",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Quellung reaction\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bb031126-ed42-4214-950f-788d4fdfa73b": {
-    "cop": 1,
-    "exp": "Monkey kidney,human embryonic kidny,human amniotic&chick embryo cell cultutes areprimary cell culture REF:MICROBIOLOGY ANANTHA NARAYANAN NINTH EDITION PAGE.435"
+    "cop": 0,
+    "exp": "Monkey kidney,human embryonic kidny,human amniotic&chick embryo cell cultutes areprimary cell culture REF:MICROBIOLOGY ANANTHA NARAYANAN NINTH EDITION PAGE.435",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7c1d0784-f1b6-49d6-bb92-c0b313732119": {
-    "cop": 2,
-    "exp": "X-ray diffraction method is used in the analysis of urinary calculi for fast and reliable results. It even enables to determine the propotional rate of the paicular crystalline components forming the calculus. It is also used for the detection of gallstones of all types of composition such as calcium stearate, calcium bilirubinate, cholesterol, calcite or dioxycholic acid. Ref: World of Nanobioengineering: Potential Big Ideas for the Future By Amin Elsersawi, Pages 46, 48"
+    "cop": 1,
+    "exp": "X-ray diffraction method is used in the analysis of urinary calculi for fast and reliable results. It even enables to determine the propotional rate of the paicular crystalline components forming the calculus. It is also used for the detection of gallstones of all types of composition such as calcium stearate, calcium bilirubinate, cholesterol, calcite or dioxycholic acid. Ref: World of Nanobioengineering: Potential Big Ideas for the Future By Amin Elsersawi, Pages 46, 48",
+    "hint_exp": "🎯 Think of \"the following technique\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7532ed25-0354-4e0a-8c62-eebea309cbe4": {
-    "cop": 3,
-    "exp": "C i.e. Only plates Fracture both bones of forearm may result in severe loss of function unless adequately treated by restoring normal relationship of radius and ulnaQ. The relationship of radio humeral, ulno humeral, proximal radioulnar, radio carpal and distal radioulnar joints and the interosseous space must be anatomical or some functional impairment will occur. In addition to regaining length, and axial alignment (by reducing angulation) , achieving normal rotational alignment is necessary if a good, range of pronation & supination is to be restored. Forearm rotation is vulnerable to any malalignment of radius and accurate rotational as well as axial reduction is necessary Malunion and nonunion occur more frequently because of the difficulty in reducing and maintaing the reduction of two parallel bones in the presence of pronating and supinating muscles that have angulating and rotational influences Because of these factors OR&IF (by plating)Q of displaced diaphyseal fractures in adult is accepted as best method of treatment."
+    "cop": 2,
+    "exp": "C i.e. Only plates Fracture both bones of forearm may result in severe loss of function unless adequately treated by restoring normal relationship of radius and ulnaQ. The relationship of radio humeral, ulno humeral, proximal radioulnar, radio carpal and distal radioulnar joints and the interosseous space must be anatomical or some functional impairment will occur. In addition to regaining length, and axial alignment (by reducing angulation) , achieving normal rotational alignment is necessary if a good, range of pronation & supination is to be restored. Forearm rotation is vulnerable to any malalignment of radius and accurate rotational as well as axial reduction is necessary Malunion and nonunion occur more frequently because of the difficulty in reducing and maintaing the reduction of two parallel bones in the presence of pronating and supinating muscles that have angulating and rotational influences Because of these factors OR&IF (by plating)Q of displaced diaphyseal fractures in adult is accepted as best method of treatment.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"radius and ulna in a an adult\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "445ea2ca-3402-4e07-a2dc-5ac2e36576e2": {
-    "cop": 2,
-    "exp": "Answer- B. Absence of vascular inflammationOcclusive disease involving large intracranial aeries, especially the distal internal carotid aery and the stem of the middle cerebral and anterior cerebral aery.The lenticulostriate aeries develop a rich collateral circulation around the occlusive lesion, which gives the impression of a 'puff of smoke\" ( moyamoya in ]apanese) on conventional x-ray angiographyOccurs mainly in Asian children or young adults.Surgical bypass of extracranial carotid aeries to the dura or MCAs may prevent stroke and hemorrhage."
+    "cop": 1,
+    "exp": "Answer- B. Absence of vascular inflammationOcclusive disease involving large intracranial aeries, especially the distal internal carotid aery and the stem of the middle cerebral and anterior cerebral aery.The lenticulostriate aeries develop a rich collateral circulation around the occlusive lesion, which gives the impression of a 'puff of smoke\" ( moyamoya in ]apanese) on conventional x-ray angiographyOccurs mainly in Asian children or young adults.Surgical bypass of extracranial carotid aeries to the dura or MCAs may prevent stroke and hemorrhage.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

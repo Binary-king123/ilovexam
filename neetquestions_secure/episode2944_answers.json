@@ -1,202 +1,252 @@
 {
   "65441df0-be43-4571-abb3-17b19bd9b004": {
-    "cop": 1,
-    "exp": "6weeks REF: USG in Obstetrics & Gynecology by Callen 4th edition page 119-120 Fetal cardiac activity is detected as early as With Transvaginal USG 6 weeks of gestational age With Transabdominal USG"
+    "cop": 0,
+    "exp": "6weeks REF: USG in Obstetrics & Gynecology by Callen 4th edition page 119-120 Fetal cardiac activity is detected as early as With Transvaginal USG 6 weeks of gestational age With Transabdominal USG",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Fetal cardiac activity detected\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "432fdacc-8c7a-4557-b07a-71ffa23c7598": {
-    "cop": 1,
-    "exp": "In prokaryotes, the genes involved in a metabolic pathway are often present in a linear array called an operon, for example, the lac operonThe structural gene for b-galactosidase (lacZ) is clustered with the genes responsible for the permeation of lactose into the cell (lacY) and for thiogalactoside transacetylase (lacA). The structural genes for these three enzymes (lacZ, lacY, lacA), along with the lac promoter and lac operator (a regulatory region), are physically associated to constitute the lac operonImmediately upstream of the lac operon promoter is the binding site (CRE) for the cAMP binding protein, CAP, the positive regulator of lac operon transcriptionRef: Harper 29e, page: 430"
+    "cop": 0,
+    "exp": "In prokaryotes, the genes involved in a metabolic pathway are often present in a linear array called an operon, for example, the lac operonThe structural gene for b-galactosidase (lacZ) is clustered with the genes responsible for the permeation of lactose into the cell (lacY) and for thiogalactoside transacetylase (lacA). The structural genes for these three enzymes (lacZ, lacY, lacA), along with the lac promoter and lac operator (a regulatory region), are physically associated to constitute the lac operonImmediately upstream of the lac operon promoter is the binding site (CRE) for the cAMP binding protein, CAP, the positive regulator of lac operon transcriptionRef: Harper 29e, page: 430",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"LAC operon\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "20ae2b80-6812-4f71-957f-a580bf1d845d": {
-    "cop": 3,
-    "exp": "Organ which is most sensitive to hypothermia is the hea. This is reason why hypothermia may present as ventricular fibrillation or asystole especially when core temperature is less than 24 degC. Other complications: Coagulopathies Disseminated Intravascular Coagulation (DIC) Pancreatitis Acute renal failure"
+    "cop": 2,
+    "exp": "Organ which is most sensitive to hypothermia is the hea. This is reason why hypothermia may present as ventricular fibrillation or asystole especially when core temperature is less than 24 degC. Other complications: Coagulopathies Disseminated Intravascular Coagulation (DIC) Pancreatitis Acute renal failure",
+    "hint_exp": "🎯 Think of \"the following organ\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "adec1165-edac-4774-952a-43d1f5e98f29": {
-    "cop": 3,
-    "exp": "Diffusion occur without the expenditure of energy. It depend on the concentration of molecules. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 4)"
+    "cop": 2,
+    "exp": "Diffusion occur without the expenditure of energy. It depend on the concentration of molecules. (REF: TEXTBOOK OF MEDICAL PHYSIOLOGY GEETHA N 2 EDITION, PAGE NO - 4)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which factor does affect\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0f24493d-9e34-4a8c-96f7-d8c376a4de24": {
-    "cop": 4,
-    "exp": "D i.e. Bicarbonate"
+    "cop": 3,
+    "exp": "D i.e. Bicarbonate",
+    "hint_exp": "🧩 Your crush solved \"Largest fraction present blood\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fb28f928-f41f-4bce-a4fb-388e12f0abf8": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Allergic reactions depends except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "aff6224d-89a7-4470-b187-f0778c886cc7": {
-    "cop": 2,
-    "exp": "Calcium gluconate Calcium gluconate is the fastest acting agent used in t/t of hyperkalemia. In acts within minutes but an impoant point to note is that it does not cause transcellular movement of potassium, instead it acts on cell membrane. - it stabilizes the cardiac: cell membrane and reduces chances of cardiac anyhthmia... - Thus it has no use when there are no E.C.G.. features. NaHCO3 NaHCO3 has been routinely used in the treatment of hyperkalemia. It was believed that NaHCO3 caused movement of potassium inside the cells by causing alkalosis. But studies do not suppo this - They claim that NaHCO3 do not cause movement of potassium inside the cells in acute cases of hyperkalemia. - It only decreases potassium when there is coexisting acidosis. - NaHCO3 can decrease potassium level in chronic hyperkalemia. It increases potassium delivery to the kidney. But the use of NaHCO3 still continues in most hospitals and institutes across the world. - It is now hypothesized that NaHCO3 does not cause r entry inside the cell by mechanism earlier believed to he, but by another mechanism. The question does not say anything about acidosis. Don't think that acidosis occurs only in severe hyperkalemia. Most patients with C.R.F. present with acidosis and mild moderate hyperkalemia. In hyperkalemia with no E.C.G. feature, calcium prophylaxis is not indicated - Calcium gluconate is administered to stabilize the cardiac membrane - Instability of the cardiac membrane is indicated by E.C.G. changes - Absence of E.C.G. changes suggest that the cardiac membrane is stable. In these cases there is no use of calcium administration. Prophylactic calcium gluconate is of no use."
+    "cop": 1,
+    "exp": "Calcium gluconate Calcium gluconate is the fastest acting agent used in t/t of hyperkalemia. In acts within minutes but an impoant point to note is that it does not cause transcellular movement of potassium, instead it acts on cell membrane. - it stabilizes the cardiac: cell membrane and reduces chances of cardiac anyhthmia... - Thus it has no use when there are no E.C.G.. features. NaHCO3 NaHCO3 has been routinely used in the treatment of hyperkalemia. It was believed that NaHCO3 caused movement of potassium inside the cells by causing alkalosis. But studies do not suppo this - They claim that NaHCO3 do not cause movement of potassium inside the cells in acute cases of hyperkalemia. - It only decreases potassium when there is coexisting acidosis. - NaHCO3 can decrease potassium level in chronic hyperkalemia. It increases potassium delivery to the kidney. But the use of NaHCO3 still continues in most hospitals and institutes across the world. - It is now hypothesized that NaHCO3 does not cause r entry inside the cell by mechanism earlier believed to he, but by another mechanism. The question does not say anything about acidosis. Don't think that acidosis occurs only in severe hyperkalemia. Most patients with C.R.F. present with acidosis and mild moderate hyperkalemia. In hyperkalemia with no E.C.G. feature, calcium prophylaxis is not indicated - Calcium gluconate is administered to stabilize the cardiac membrane - Instability of the cardiac membrane is indicated by E.C.G. changes - Absence of E.C.G. changes suggest that the cardiac membrane is stable. In these cases there is no use of calcium administration. Prophylactic calcium gluconate is of no use.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Hyperkalemia without changes treated\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9f0f522a-c578-459a-b5ec-f7f1214ad0c3": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Least chance of chronicity (Ref: Harrison, 18th/e, p. 2546; 17th/e, p. 1939)* Least chances of chronicity are with HAV and HEV.* Maximum chance of chronicity is with HCV.* 90% of infants infected with HBV , become chronically infected.Remember: By definition,HBV chronic carriers are those in whom HBsAg persists for more than 6 months."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Least chance of chronicity (Ref: Harrison, 18th/e, p. 2546; 17th/e, p. 1939)* Least chances of chronicity are with HAV and HEV.* Maximum chance of chronicity is with HCV.* 90% of infants infected with HBV , become chronically infected.Remember: By definition,HBV chronic carriers are those in whom HBsAg persists for more than 6 months.",
+    "hint_exp": "🎯 Think of \"true except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fce03682-ced2-436a-b7f7-50151f714b3d": {
-    "cop": 3,
-    "exp": "C i.e. Telogen effluviumDiffuse hair loss after 3 months of prolonged, high grade, recurrent fever of any cause (eg typhoid) or difficult & prolonged child hihQ indicates diagnosis - telogen effluvium. The onset of hair loss is rapid within 2-4 weeks of causes (like radio/chemotherapy, poisoning/intoxication and malnutrition) in anagen effluvium."
+    "cop": 2,
+    "exp": "C i.e. Telogen effluviumDiffuse hair loss after 3 months of prolonged, high grade, recurrent fever of any cause (eg typhoid) or difficult & prolonged child hihQ indicates diagnosis - telogen effluvium. The onset of hair loss is rapid within 2-4 weeks of causes (like radio/chemotherapy, poisoning/intoxication and malnutrition) in anagen effluvium.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year female developed diffuse\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2bc298d5-31c5-4b65-98f3-b0be4f57d2d2": {
-    "cop": 1,
-    "exp": "Duodenum"
+    "cop": 0,
+    "exp": "Duodenum",
+    "hint_exp": "🧩 Your crush solved \"mucosal glands present which\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "26b0f3aa-f4e2-442b-939f-59e6fa8b24d6": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"choice\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2c7413f0-c900-4ab6-a889-80b803379472": {
-    "cop": 4,
-    "exp": "Number of nevi is the better indicator of malignant conversion. More the number of nevi, more the chances of malignancy."
+    "cop": 3,
+    "exp": "Number of nevi is the better indicator of malignant conversion. More the number of nevi, more the chances of malignancy.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"nevi better\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5a11efed-6f6a-4358-810a-b791c3cdb981": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"gingivitis in children\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3704a7b6-d7a7-4dea-84cd-4ed342adf9c7": {
-    "cop": 1,
-    "exp": "The synopsis of forensic medicine & toxicology ;Dr k.s narayan reddy ; 28th edition ;pg.no. 138 The blast may drive multiple fragments of bomb or pieces of nearby objects, e.g gravel ,glass,wood,brick,plaster etc through the air into the skin & causes bruises ,abrasion, puncture lacerations intimately mixed on skin ."
+    "cop": 0,
+    "exp": "The synopsis of forensic medicine & toxicology ;Dr k.s narayan reddy ; 28th edition ;pg.no. 138 The blast may drive multiple fragments of bomb or pieces of nearby objects, e.g gravel ,glass,wood,brick,plaster etc through the air into the skin & causes bruises ,abrasion, puncture lacerations intimately mixed on skin .",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"an explosion\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a86b5725-6c07-4e36-bffb-7d571bae5cd3": {
-    "cop": 3,
-    "exp": "Answer is C (FK 506): lmmunosuppression has customarily constituted triple therapy with : (NICE Guidelines) 1. A calcineurin inhibitor (cvclosporin); 2. An antiproliferative agent (azathioprine); and 3. A coicosteroid (prednisolone) However, a small number of treatment centers use a policy of initial monotherapy with a calcineurin inhibitor, adding in other agents if necessary. Immunosuppressive therapy for renal transplantation in adults Induction therapy Is a course of intensive immunosuppressive for about 2 weeks immediately post operatively (though often staed immediately pre-operatively) with the aim of 'switching off' the immune system after transplantation to reduce the likelihood of accelerated rejection and acute rejection. It has also been used as a means of reducing exposure to calcineurin inhibitors in the early stages after transplantation when the graft may be paicularly vulnerable to their nephrotoxic effects. The term induction therapy has usually been linked with the use of the following agents: - The polyclonal antibodies antithymocyte immunoglobulin (ATG) - The antilymphocyte immunoglobulin (ALG), and - The monoclonal antibody muromonab-CD3 (OKT3) Initial therapy Is the treatment given to all recipients (except where the donor is an identical twin) for 0-3 months after transplantation. Initial therapy is usually 'triple therapy', in which a clacineurin inhibitor (traditionally cyclosporine) is used as the 'primary agent' in combination with a coicosteroid (prednisolone) and azathioprine. Occasionally, dual therapy (cyclosporine plus costicositeroid) is used. Maintenance therapy Is the treatment that patients receive long-term, throughout the duration of allograft survival Maintenance therapy is often identical to initial therapy (triple therapy) but at a reduced dosage because the transplanted kidney becomes immunologically more stable with increasing time. However, agents used in maintenance therapy may be altered in response to - Development of acute rejection, severe infections or toxicity. - Poor tolerability leading to non-adherence"
+    "cop": 2,
+    "exp": "Answer is C (FK 506): lmmunosuppression has customarily constituted triple therapy with : (NICE Guidelines) 1. A calcineurin inhibitor (cvclosporin); 2. An antiproliferative agent (azathioprine); and 3. A coicosteroid (prednisolone) However, a small number of treatment centers use a policy of initial monotherapy with a calcineurin inhibitor, adding in other agents if necessary. Immunosuppressive therapy for renal transplantation in adults Induction therapy Is a course of intensive immunosuppressive for about 2 weeks immediately post operatively (though often staed immediately pre-operatively) with the aim of 'switching off' the immune system after transplantation to reduce the likelihood of accelerated rejection and acute rejection. It has also been used as a means of reducing exposure to calcineurin inhibitors in the early stages after transplantation when the graft may be paicularly vulnerable to their nephrotoxic effects. The term induction therapy has usually been linked with the use of the following agents: - The polyclonal antibodies antithymocyte immunoglobulin (ATG) - The antilymphocyte immunoglobulin (ALG), and - The monoclonal antibody muromonab-CD3 (OKT3) Initial therapy Is the treatment given to all recipients (except where the donor is an identical twin) for 0-3 months after transplantation. Initial therapy is usually 'triple therapy', in which a clacineurin inhibitor (traditionally cyclosporine) is used as the 'primary agent' in combination with a coicosteroid (prednisolone) and azathioprine. Occasionally, dual therapy (cyclosporine plus costicositeroid) is used. Maintenance therapy Is the treatment that patients receive long-term, throughout the duration of allograft survival Maintenance therapy is often identical to initial therapy (triple therapy) but at a reduced dosage because the transplanted kidney becomes immunologically more stable with increasing time. However, agents used in maintenance therapy may be altered in response to - Development of acute rejection, severe infections or toxicity. - Poor tolerability leading to non-adherence",
+    "hint_exp": "🧩 Your crush solved \"the following drugs\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6dfa0707-3172-4995-8580-f6f260ea53b7": {
-    "cop": 2,
-    "exp": "SUBCENTERS TYPE-A TYPE-B Delivery facility Absent Present Health worker 1 1 Health worker /ANM 1 2 Safai karamchari 1 1 Total 3 workers 4"
+    "cop": 1,
+    "exp": "SUBCENTERS TYPE-A TYPE-B Delivery facility Absent Present Health worker 1 1 Health worker /ANM 1 2 Safai karamchari 1 1 Total 3 workers 4",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Type centre characterized\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fe668a9a-9bc7-4e15-ac15-444b4dc6186e": {
-    "cop": 1,
-    "exp": "Prematurity is the main cause of increased moality and morbidity in twins. Length of gestation tends to be inversely related to the number of fetuses. The mean age at delivery for singletons is 38.8 weeks, for twins 35.3 weeks, for triplets 32.2 weeks, and for quadruplets 29.9 weeks. The prematurity rate in multiple gestations is 5-10 times that of singletons, with 50% of twins and 90% of triplets born before 37 weeks. Ref: Thilo E.H., Rosenberg A.A. (2012). Chapter 2. The Newborn Infant. In W.W. Hay, Jr., M.J. Levin, R.R. Deterding, J.J. Ross, J.M. Sondheimer (Eds),CURRENT Diagnosis & Treatment: Pediatrics, 21e."
+    "cop": 0,
+    "exp": "Prematurity is the main cause of increased moality and morbidity in twins. Length of gestation tends to be inversely related to the number of fetuses. The mean age at delivery for singletons is 38.8 weeks, for twins 35.3 weeks, for triplets 32.2 weeks, and for quadruplets 29.9 weeks. The prematurity rate in multiple gestations is 5-10 times that of singletons, with 50% of twins and 90% of triplets born before 37 weeks. Ref: Thilo E.H., Rosenberg A.A. (2012). Chapter 2. The Newborn Infant. In W.W. Hay, Jr., M.J. Levin, R.R. Deterding, J.J. Ross, J.M. Sondheimer (Eds),CURRENT Diagnosis & Treatment: Pediatrics, 21e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the commonest\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "710ccf65-1e2b-4a60-acd3-304a8c72f220": {
-    "cop": 3,
-    "exp": "C i.e. Behaviour therapy"
+    "cop": 2,
+    "exp": "C i.e. Behaviour therapy",
+    "hint_exp": "🎯 Think of \"Choice in Phobic disorder\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1bc1250a-ccc4-4e66-bd7c-f03501c11d48": {
-    "cop": 4,
-    "exp": "Ans. (d) Bronchial asthmaRef: Robbiris pathology 9th ed. /682Findings in Bronchial Asthma in Broncho-Alveolar Lavage or in Sputum* Curschmann spirals, is a finding in bronchial asthma which may result from extrusion of mucus plugs from subepithelial mucous gland ducts or bronchioles.* Charcot-Leyden crystals: it is composed of an eosinophilic protein called galectin-10.The other characteristic histologic findings of asthma, collectively called \"airway remodeling\" include:* Airway wall thickenig* An increase in the size of the submucosal glands and number of airway goblet cells* Subbasement membrane fibrosis (due to deposition of type I and III collagen)* Increased vascularity* Hypertrophy and/or hyperplasia of the bronchial wall muscle"
+    "cop": 3,
+    "exp": "Ans. (d) Bronchial asthmaRef: Robbiris pathology 9th ed. /682Findings in Bronchial Asthma in Broncho-Alveolar Lavage or in Sputum* Curschmann spirals, is a finding in bronchial asthma which may result from extrusion of mucus plugs from subepithelial mucous gland ducts or bronchioles.* Charcot-Leyden crystals: it is composed of an eosinophilic protein called galectin-10.The other characteristic histologic findings of asthma, collectively called \"airway remodeling\" include:* Airway wall thickenig* An increase in the size of the submucosal glands and number of airway goblet cells* Subbasement membrane fibrosis (due to deposition of type I and III collagen)* Increased vascularity* Hypertrophy and/or hyperplasia of the bronchial wall muscle",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Crushman spiral characteristic which\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "888fa7cd-b0eb-4861-b83f-05ca09ed9293": {
-    "cop": 1,
-    "exp": "(A) I is true but II is false Stimulation of the noradrenergic nerves to the intestine inhibits contractions in vivo.> Norepinephrine exerts both a & ft actions on the muscle> The b action, reduced muscle tension in response to excitation, is mediated via cyclic AMP and is probably due to increase: tracellular binding of Ca2+.> The a action, which is also inhibition of contraction, is associated with increased Ca2+ efflux from the muscle cells."
+    "cop": 0,
+    "exp": "(A) I is true but II is false Stimulation of the noradrenergic nerves to the intestine inhibits contractions in vivo.> Norepinephrine exerts both a & ft actions on the muscle> The b action, reduced muscle tension in response to excitation, is mediated via cyclic AMP and is probably due to increase: tracellular binding of Ca2+.> The a action, which is also inhibition of contraction, is associated with increased Ca2+ efflux from the muscle cells.",
+    "hint_exp": "🧩 Your crush solved \"these statements\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e304b9bc-2609-43a0-8cbf-f8e068c312e5": {
-    "cop": 1,
-    "exp": "Ans. A: Voluntary worker In the public sector, a Sub-health Center (Sub-center) is the most peripheral and first contact point between the primary health care system and the community. As per the population norms, one Sub-center is established for every 5000 population in plain areas and for every 3000 population in hilly/tribal/dese areas. A Sub-center provides interface with the community at the grass-root level, providing all the primary health care services. As sub-centers are the first contact point with the community, the success of any nation wide programme would depend largely on well functioning sub-centers providing services of acceptable standard to the people. Currently a Sub-center is staffed by one Female Health Worker commonly known as Auxiliary Nurse Midwife (ANM), one Male Health Worker commonly known as Multi Purpose Worker (Male) and volunteer worker. One Health Assistant (Female) commonly known as Lady Health Visitor (LHV) and one Health Assistant (Male) located at the PHC level are entrusted with the task of supervision of all the Subcenters (generally six subcenters) under a PHC."
+    "cop": 0,
+    "exp": "Ans. A: Voluntary worker In the public sector, a Sub-health Center (Sub-center) is the most peripheral and first contact point between the primary health care system and the community. As per the population norms, one Sub-center is established for every 5000 population in plain areas and for every 3000 population in hilly/tribal/dese areas. A Sub-center provides interface with the community at the grass-root level, providing all the primary health care services. As sub-centers are the first contact point with the community, the success of any nation wide programme would depend largely on well functioning sub-centers providing services of acceptable standard to the people. Currently a Sub-center is staffed by one Female Health Worker commonly known as Auxiliary Nurse Midwife (ANM), one Male Health Worker commonly known as Multi Purpose Worker (Male) and volunteer worker. One Health Assistant (Female) commonly known as Lady Health Visitor (LHV) and one Health Assistant (Male) located at the PHC level are entrusted with the task of supervision of all the Subcenters (generally six subcenters) under a PHC.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7f934e6f-42a7-49f6-8cf1-e392fa3d1ae0": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following compounds acts\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2aa8556a-16b4-4526-95cf-dceaffc4194f": {
-    "cop": 3,
-    "exp": "Ans-CKef: Apleys System of Orthopaedics and Fractures, 9th editionExplanation:Eight-bulb appearance - Seen due to internal rotation of the humeral head in posterior dislocation of the shoulder.Anterior dislocation of shoulder occurs from the excessive external rotation of the shoulder (especially in abduction).Risk factors of posterior shoulder dislocation of the shoulder occur from:o Excessive internal rotationo Following seizure episodeo Following electrocutiono In both seizure and electrocution, excessive contraction of the stronger muscles of the upper back causes pull of the humeral head backward causing dislocation.* Normal appearance of the shoulder in X-ray.Eight-bulb appearance of the humeral head in X-ray due to internal rotation of the humeral head in posterior dislocation.NOTE associated with anterior shoulder dislocation - Fracture of the greater tuberosity. associated with posterior shoulder dislocation - Fracture of the lesser tuberosity."
+    "cop": 2,
+    "exp": "Ans-CKef: Apleys System of Orthopaedics and Fractures, 9th editionExplanation:Eight-bulb appearance - Seen due to internal rotation of the humeral head in posterior dislocation of the shoulder.Anterior dislocation of shoulder occurs from the excessive external rotation of the shoulder (especially in abduction).Risk factors of posterior shoulder dislocation of the shoulder occur from:o Excessive internal rotationo Following seizure episodeo Following electrocutiono In both seizure and electrocution, excessive contraction of the stronger muscles of the upper back causes pull of the humeral head backward causing dislocation.* Normal appearance of the shoulder in X-ray.Eight-bulb appearance of the humeral head in X-ray due to internal rotation of the humeral head in posterior dislocation.NOTE associated with anterior shoulder dislocation - Fracture of the greater tuberosity. associated with posterior shoulder dislocation - Fracture of the lesser tuberosity.",
+    "hint_exp": "🎯 Think of \"Light bulb sign shoulder\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "597a5536-a9d9-40a8-8670-7781e688dd7c": {
-    "cop": 1,
-    "exp": "Ans. (a) Band keratopathy."
+    "cop": 0,
+    "exp": "Ans. (a) Band keratopathy.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"child with juvenile rheumatoid\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "cb8c01a1-7355-4401-b52d-91b7737ceef5": {
-    "cop": 2,
-    "exp": "There is painless, progressive enlargement of lymph nodes. They are discrete, and non-tender."
+    "cop": 1,
+    "exp": "There is painless, progressive enlargement of lymph nodes. They are discrete, and non-tender.",
+    "hint_exp": "🧩 Your crush solved \"True regarding lymph node\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b13276a5-6c24-4036-a4da-edcf0c0cde03": {
-    "cop": 3,
-    "exp": "All the given symptoms are due to anticholinesterase action."
+    "cop": 2,
+    "exp": "All the given symptoms are due to anticholinesterase action.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"and blood pressure\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ac38d49a-4d9b-4b52-8363-d7f2fd7a0f58": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Pneumococcus On blood agar, after incubation for 18 hrs, the colonies of pneumococci are small, dome shaped and glistening with an area of green discoloration (alpha hemolysis) around them, resembling colonies of Str. viridans."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Pneumococcus On blood agar, after incubation for 18 hrs, the colonies of pneumococci are small, dome shaped and glistening with an area of green discoloration (alpha hemolysis) around them, resembling colonies of Str. viridans.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Culture streptococcus viridans resemble\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4eb07066-2cdb-4871-bdf5-67f6b72b8da0": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Reumatic activity involves mostly\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "489d5015-fad1-4066-bd41-8ac7c15beb22": {
-    "cop": 2,
-    "exp": "In contrast to other mullerian duct defects, transverse vaginal septum is associated with few urologic abnormalities."
+    "cop": 1,
+    "exp": "In contrast to other mullerian duct defects, transverse vaginal septum is associated with few urologic abnormalities.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"associated with lower rate of\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ab5e661d-5a12-4d81-9f76-12cf9f57459d": {
-    "cop": 3,
-    "exp": "Incapacitation and unconsciousness from use of cocaine and other powerful narcotics have led to numerous cases of the \"gluteal crush syndrome.\" Compression of the gluteal region while supine for extended periods of time can lead to gluteal crush injury, in which the nerves and vessels of the gluteal area are compressed. This can result in loss of gluteal muscles and other soft tissues and sciatic nerve compression. The nerve compression can cause paralysis of knee flexors and muscles of the anterior and lateral compartments of the leg, with sensory loss in the posterior thigh and leg and sensory loss in the foot. Tibial nerve loss would not result in loss of dorsiflex- ion of the foot nor generalized sensory loss. Neither piriformis entrapment nor femoral nerve entrapment is associated with loss of gluteal musculature, nor loss of knee flexion or plantar flexion of the foot, nor do they lead to general sensory loss in the limb."
+    "cop": 2,
+    "exp": "Incapacitation and unconsciousness from use of cocaine and other powerful narcotics have led to numerous cases of the \"gluteal crush syndrome.\" Compression of the gluteal region while supine for extended periods of time can lead to gluteal crush injury, in which the nerves and vessels of the gluteal area are compressed. This can result in loss of gluteal muscles and other soft tissues and sciatic nerve compression. The nerve compression can cause paralysis of knee flexors and muscles of the anterior and lateral compartments of the leg, with sensory loss in the posterior thigh and leg and sensory loss in the foot. Tibial nerve loss would not result in loss of dorsiflex- ion of the foot nor generalized sensory loss. Neither piriformis entrapment nor femoral nerve entrapment is associated with loss of gluteal musculature, nor loss of knee flexion or plantar flexion of the foot, nor do they lead to general sensory loss in the limb.",
+    "hint_exp": "🧩 Your crush solved \"the most likely diagnosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3471bb82-2650-4bcc-9c6e-b5cfae435853": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Line diagramo Line diagram is used to show the trend of events with passage of time and shows how the frequency of a particular event (e.g. incidence of disease) vary over time,Line diagram 1 Line chart/Line graph)o It is used to show the trend of events with passage of time and shows how the frequency of a particular event or variable vary over time.DataMethodFrequency of occurrence (comparisons of magnitude)Bar ChartPie chartTrends over timeLine graphDistribution (not related to time)Histogram,Frequency polygonAssociation (Looking for correlation between two variables)Scatter diagram"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Line diagramo Line diagram is used to show the trend of events with passage of time and shows how the frequency of a particular event (e.g. incidence of disease) vary over time,Line diagram 1 Line chart/Line graph)o It is used to show the trend of events with passage of time and shows how the frequency of a particular event or variable vary over time.DataMethodFrequency of occurrence (comparisons of magnitude)Bar ChartPie chartTrends over timeLine graphDistribution (not related to time)Histogram,Frequency polygonAssociation (Looking for correlation between two variables)Scatter diagram",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Best plot change incidence\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ef1269f1-a140-4b21-b468-ec427f05bbdd": {
-    "cop": 3,
-    "exp": "SUBPOENA OR SUMMONS: Sections 61 to 69 of Cr.P.C. Is a document compelling the attendance of a witness in a cou of law under penalty, on a paicular day, time, and place for the purpose of giving evidence. It may also require him to bring with any books, documents or other things under his control, that he is bound by law to produce in evidence. The Synopsis of Forensic Medicine 28th edition page no: 5."
+    "cop": 2,
+    "exp": "SUBPOENA OR SUMMONS: Sections 61 to 69 of Cr.P.C. Is a document compelling the attendance of a witness in a cou of law under penalty, on a paicular day, time, and place for the purpose of giving evidence. It may also require him to bring with any books, documents or other things under his control, that he is bound by law to produce in evidence. The Synopsis of Forensic Medicine 28th edition page no: 5.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Subpoena\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "de0673bd-aebc-41ac-8614-82b0d1ae281d": {
-    "cop": 4,
-    "exp": "Postural ohostatic tachycardia syndrome (POTS) is characterised by symptomatic ohostatic intolerance without ohostatic hypotension that is associated with either hea rate of more than 120/minute or increase of >30/minute when standing that subside on sitting / lying down. The symptoms of ohostatic intolerance include lightheadedness, blurred vision, palpitation and nausea. Usually affects women more than men. This syndrome develops between 15 and 50 years of age. Reference: Harrison's Principles of Internal Medicine, 20th edition, p3164"
+    "cop": 3,
+    "exp": "Postural ohostatic tachycardia syndrome (POTS) is characterised by symptomatic ohostatic intolerance without ohostatic hypotension that is associated with either hea rate of more than 120/minute or increase of >30/minute when standing that subside on sitting / lying down. The symptoms of ohostatic intolerance include lightheadedness, blurred vision, palpitation and nausea. Usually affects women more than men. This syndrome develops between 15 and 50 years of age. Reference: Harrison's Principles of Internal Medicine, 20th edition, p3164",
+    "hint_exp": "🎯 Think of \"characterised by all except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8b07ba4b-73f9-4e44-8403-d6cebd5aadb1": {
-    "cop": 3,
-    "exp": "One of several proteins that paicipate in differentiation and growth. Two glycoproteins, inhibin A and inhibin B, are secreted by Seoli cells in the testis and granulosa cells in the ovary, inhibiting FSH secretion by direct action on the pituitary.Ref: Ganong&;s review of medical physiology; 24th edition; page no:-427"
+    "cop": 2,
+    "exp": "One of several proteins that paicipate in differentiation and growth. Two glycoproteins, inhibin A and inhibin B, are secreted by Seoli cells in the testis and granulosa cells in the ovary, inhibiting FSH secretion by direct action on the pituitary.Ref: Ganong&;s review of medical physiology; 24th edition; page no:-427",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Males females show difference\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c9478568-5f29-4ee1-8e14-2c950d54801a": {
-    "cop": 2,
-    "exp": "Typically, the Class I composite preparation has occlusally converging walls that provide primary retention form. The actual bonding also provides retention form. However, an occlusal bevel is not indicated on Class I preparations nor are retention grooves used."
+    "cop": 1,
+    "exp": "Typically, the Class I composite preparation has occlusally converging walls that provide primary retention form. The actual bonding also provides retention form. However, an occlusal bevel is not indicated on Class I preparations nor are retention grooves used.",
+    "hint_exp": "🧩 Your crush solved \"the following features\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3698b028-47d4-4ea3-ab28-c714aac6746a": {
-    "cop": 1,
-    "exp": "Ans. (a) Phagocytes(Ref Robbins 9th/pg 238; 8th/pg 55)DiagnosisNitroblue-tetrazolium (NBT) test: Most widely known test for chronic granulomatous disease.#Depends upon direct reduction of NBT in phagocytes by superoxide free radical to form an insoluble formazan Q#This test tells whether or not PHOX enzymes are present, not how much they are affected Q"
+    "cop": 0,
+    "exp": "Ans. (a) Phagocytes(Ref Robbins 9th/pg 238; 8th/pg 55)DiagnosisNitroblue-tetrazolium (NBT) test: Most widely known test for chronic granulomatous disease.#Depends upon direct reduction of NBT in phagocytes by superoxide free radical to form an insoluble formazan Q#This test tells whether or not PHOX enzymes are present, not how much they are affected Q",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"used for\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a4885e55-8247-477e-9818-6aa456205940": {
-    "cop": 2,
-    "exp": "The meal should be atleast one-third of the total energy requirement and half of protein need.REF.PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE.Editon-21.Page no.-611."
+    "cop": 1,
+    "exp": "The meal should be atleast one-third of the total energy requirement and half of protein need.REF.PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE.Editon-21.Page no.-611.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"meals provided schools provide\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3503593e-a3c5-4924-85de-06383cf31e47": {
-    "cop": 1,
-    "exp": "Clindamycin"
+    "cop": 0,
+    "exp": "Clindamycin",
+    "hint_exp": "🎯 Think of \"drug causing pseudomembranous colitis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d25e14bf-9a92-4f6f-a65f-a337344cff68": {
-    "cop": 1,
-    "exp": "Boric acid (Hydrogen borate/Ohoboric acid) Weak acid, used as an antiseptic, insecticide (especially for cockroaches), flame retardant, as a neutron absorber. GIT: Nausea, vomiting, diarrhea and occasionally crampy abdominal pain-confused with acute gastroenteritis. Dermal: generalized erythema creating a 'boiled lobster' appearance with massive areas of desquamation & exfoliation of skin Rash is paicularly seen on the palms, soles and buttocks CNS: Irritability, seizures, delirium and coma. Renal: Oliguria, renal tubular damage and elevated serum creatinine. CVS: Tachycardia, hypotension. Death results from circulatory collapse. Medico-legal: Because of wide availability, accidental intake by children occurs frequently. It may be taken by mistake and suicidal purposes."
+    "cop": 0,
+    "exp": "Boric acid (Hydrogen borate/Ohoboric acid) Weak acid, used as an antiseptic, insecticide (especially for cockroaches), flame retardant, as a neutron absorber. GIT: Nausea, vomiting, diarrhea and occasionally crampy abdominal pain-confused with acute gastroenteritis. Dermal: generalized erythema creating a 'boiled lobster' appearance with massive areas of desquamation & exfoliation of skin Rash is paicularly seen on the palms, soles and buttocks CNS: Irritability, seizures, delirium and coma. Renal: Oliguria, renal tubular damage and elevated serum creatinine. CVS: Tachycardia, hypotension. Death results from circulatory collapse. Medico-legal: Because of wide availability, accidental intake by children occurs frequently. It may be taken by mistake and suicidal purposes.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"skin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a701f10b-ba4f-4512-8fa2-92629238a880": {
-    "cop": 4,
-    "exp": "Ketamine being sympathomimetic causes raised left sided pressures, which obstructs shunt flow."
+    "cop": 3,
+    "exp": "Ketamine being sympathomimetic causes raised left sided pressures, which obstructs shunt flow.",
+    "hint_exp": "🧩 Your crush solved \"Anaesthetic agent choice congenital\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "47654f71-1093-422e-85a5-5366ee6c756b": {
-    "cop": 2,
-    "exp": "Resting membrane potential of nerve is -70 mvd/t K channels. And it is equal to equilibrium potential of chloride ion (-70 mv)."
+    "cop": 1,
+    "exp": "Resting membrane potential of nerve is -70 mvd/t K channels. And it is equal to equilibrium potential of chloride ion (-70 mv).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"close to the\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ea310c44-4cd7-4095-a308-337b972c08e2": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., FMN Riboflavin is also called Warburg yellow enzyme. Riboflavin provides the reactive moieties of the coenzymes flavin mononucleotide (FMN) and flavin adenine dinucleotide (FAD). Flavin coenzymes are involved in oxidoreduction reactions as electron carriers. These reactions include the mitochondrial respiratory chain, key enzymes in fatty acid and amino acid oxidation and the citric acid cycle."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., FMN Riboflavin is also called Warburg yellow enzyme. Riboflavin provides the reactive moieties of the coenzymes flavin mononucleotide (FMN) and flavin adenine dinucleotide (FAD). Flavin coenzymes are involved in oxidoreduction reactions as electron carriers. These reactions include the mitochondrial respiratory chain, key enzymes in fatty acid and amino acid oxidation and the citric acid cycle.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"is a constituent of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b693c60a-cdfa-4b0d-9a8e-ad8605982eed": {
-    "cop": 1,
-    "exp": "Mostly, treatment is conservative. Tracheostomy may be required for some cases of severe respiratory obstruction. Supraglottoplasty is required in cases of severe laryngomalacia. Ref: PL Dhingra 7th edition of Ear, Nose and Throat; Pg no 333"
+    "cop": 0,
+    "exp": "Mostly, treatment is conservative. Tracheostomy may be required for some cases of severe respiratory obstruction. Supraglottoplasty is required in cases of severe laryngomalacia. Ref: PL Dhingra 7th edition of Ear, Nose and Throat; Pg no 333",
+    "hint_exp": "🎯 Think of \"treatment for laryngomalacia\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "aabc1536-bbbd-46b6-97b1-67425ed8c383": {
-    "cop": 2,
-    "exp": "Ans. NMR"
+    "cop": 1,
+    "exp": "Ans. NMR",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Radiation used\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7ad2cb10-c2d3-43f9-9ecb-e5ba3128f763": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"true regarding agammaglobulinemia except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cbe54cda-d26d-4c6b-b2d2-c433dff3284b": {
-    "cop": 2,
-    "exp": "PLATELET ACTIVATING FACTOR (PAF) Like eicosanoids, platelet activating factor (PAF) is a cell membrane derived polar lipid with intense biological activity. The types of cells which synthesize PAF is quite limited--mainly WBC, platelets, vascular endothelium and kidney cells. Actions:- Blood vessels:- Vasodilatation mediated by release of EDRF occurs - fall in BP on i.v. injection. Decreased coronary blood flow has been observed on intracoronary injection, probably due to formation of platelet aggregates and release of TXA2. PAF is the most potent agent known to increase vascular permeability. Wheal and flare occur at the site of intradermal injection Visceral smooth muscle:- Contraction occurs by direct action as well as through release of LTC4, TXA2 and PGs. Aerosolized PAF is a potent bronchoconstrictor. Stomach:- PAF is highly ulcerogenic: erosions and mucosal bleeding occur sholy after i.v. injection of PAF. The gastric smooth muscle contracts. Ref:- kd tripathi;pg num:-190,191"
+    "cop": 1,
+    "exp": "PLATELET ACTIVATING FACTOR (PAF) Like eicosanoids, platelet activating factor (PAF) is a cell membrane derived polar lipid with intense biological activity. The types of cells which synthesize PAF is quite limited--mainly WBC, platelets, vascular endothelium and kidney cells. Actions:- Blood vessels:- Vasodilatation mediated by release of EDRF occurs - fall in BP on i.v. injection. Decreased coronary blood flow has been observed on intracoronary injection, probably due to formation of platelet aggregates and release of TXA2. PAF is the most potent agent known to increase vascular permeability. Wheal and flare occur at the site of intradermal injection Visceral smooth muscle:- Contraction occurs by direct action as well as through release of LTC4, TXA2 and PGs. Aerosolized PAF is a potent bronchoconstrictor. Stomach:- PAF is highly ulcerogenic: erosions and mucosal bleeding occur sholy after i.v. injection of PAF. The gastric smooth muscle contracts. Ref:- kd tripathi;pg num:-190,191",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"platelet activating factor\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d5104b06-7482-4607-ba84-0bee295df7df": {
-    "cop": 2,
-    "exp": "Ans. (b) DMT-1(Ref: Wintrobe 13ed /pg 811; Robbin's 9th/649; Complete review of Pathology 1st/314)About DMT-1:Mucosal uptake of non-heme iron begins at brush border of mucosal cell, mediated by divalent metal ion transporter 1 (DMT1, also known as Nramp2, SLC11A2).Levels of DMT1 are markedly increased in iron-deficient animals.In addition to iron, DMT I has been shown to transport a variety of divalent metal ions, including Mn2+,Co2+,Cu2+,Zn2+,Cd2+, and Pb2+. (Hence non -specific)It acts as a proton symporter; protons accompany metal ions into the cell.Hepcidin: principal iron regulatory hormone; and is negatively regulates ferroportin on basolateral surface of enterocyte Q"
+    "cop": 1,
+    "exp": "Ans. (b) DMT-1(Ref: Wintrobe 13ed /pg 811; Robbin's 9th/649; Complete review of Pathology 1st/314)About DMT-1:Mucosal uptake of non-heme iron begins at brush border of mucosal cell, mediated by divalent metal ion transporter 1 (DMT1, also known as Nramp2, SLC11A2).Levels of DMT1 are markedly increased in iron-deficient animals.In addition to iron, DMT I has been shown to transport a variety of divalent metal ions, including Mn2+,Co2+,Cu2+,Zn2+,Cd2+, and Pb2+. (Hence non -specific)It acts as a proton symporter; protons accompany metal ions into the cell.Hepcidin: principal iron regulatory hormone; and is negatively regulates ferroportin on basolateral surface of enterocyte Q",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"iron metabolism but\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c0ab8348-bed6-4a74-bd18-efe22b609e90": {
-    "cop": 1,
-    "exp": "Poal venous pressure is normally about 10 mm Hg in humans, and hepatic venous pressure is approximately 5 mm Hg.Ref: Ganong&;s Review of medical physiology 25th edition. Page: 509"
+    "cop": 0,
+    "exp": "Poal venous pressure is normally about 10 mm Hg in humans, and hepatic venous pressure is approximately 5 mm Hg.Ref: Ganong&;s Review of medical physiology 25th edition. Page: 509",
+    "hint_exp": "🎯 Think of \"Normal poal venous pressure\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8815ea54-7593-471d-97bb-1f61fe5cf350": {
-    "cop": 4,
-    "exp": "Ans. d. Obtained from E. coli Paclitaxel Alkaloid ester derived from the Western yew (Taxus brevifolia) and the European yew (Taxus baccata)Q. Mechanism of Action: Mitotic spindle poison through high-affinity binding to microtubules with enhancement of tubulin polymerization Binds to beta-tubulin and enhances its polymerization (a mechanism opposite to that of vinca alkaloids) Microtubules are stabilized and their depolymerization is prevented. Abnormal arrays or 'bundles' of microtubules are produced throughout the cell cycle Cytotoxic action of paclitaxel emphasizes the impoance of tubulin-microtubule dynamic equilibrium. Indications: Metastatic ovarian and breast carcinoma after failure of first-line chemotherapy and relapse cases. Wide variety of solid tumors,including ovarian, advanced breast, non-small cell and small cell lung, head and neck, esophageal, prostate, and bladder cancer AIDS-related Kaposi's sarcomaQ Side-Effects: Reversible myelosuppression, gastro intestinal mucositis and hair loss, stocking and glove neuropathyQ"
+    "cop": 3,
+    "exp": "Ans. d. Obtained from E. coli Paclitaxel Alkaloid ester derived from the Western yew (Taxus brevifolia) and the European yew (Taxus baccata)Q. Mechanism of Action: Mitotic spindle poison through high-affinity binding to microtubules with enhancement of tubulin polymerization Binds to beta-tubulin and enhances its polymerization (a mechanism opposite to that of vinca alkaloids) Microtubules are stabilized and their depolymerization is prevented. Abnormal arrays or 'bundles' of microtubules are produced throughout the cell cycle Cytotoxic action of paclitaxel emphasizes the impoance of tubulin-microtubule dynamic equilibrium. Indications: Metastatic ovarian and breast carcinoma after failure of first-line chemotherapy and relapse cases. Wide variety of solid tumors,including ovarian, advanced breast, non-small cell and small cell lung, head and neck, esophageal, prostate, and bladder cancer AIDS-related Kaposi's sarcomaQ Side-Effects: Reversible myelosuppression, gastro intestinal mucositis and hair loss, stocking and glove neuropathyQ",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "05cd2c51-39df-4cfa-baff-247268642e7a": {
-    "cop": 3,
-    "exp": "Clinical pointers for the reversal of neuromuscular blockade are:-Lift head for 5 seconds Lift leg for 5 secondsSustained hand grip for 5 seconds(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 203)"
+    "cop": 2,
+    "exp": "Clinical pointers for the reversal of neuromuscular blockade are:-Lift head for 5 seconds Lift leg for 5 secondsSustained hand grip for 5 seconds(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 203)",
+    "hint_exp": "🧩 Your crush solved \"neuromuscular blockade\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

@@ -1,202 +1,252 @@
 {
   "4446a59b-3e66-443c-903a-f88b5ae979aa": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Increased glucose uptake in muscleInsulin is a hypoglycemic and anabolic hormone Immediate effects of insulin:Immediate effects of insulin include the effect of insulin on causing glucose and potassium uptake into cells, Insulin stimulates glucose uptake into cells by Stimulating GLUT4 transpoer up regulation across the membranes of skeletal muscle, cardiac muscle and adipose tissueStimulating glucokinase in liver. As glucokinase is stimulated in liver, glucose in liver is conveed to glucose 6 phosphate. This reduces glucose level within hepatocytes. This stimulates fuher glucose uptake into hepatocytes"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Increased glucose uptake in muscleInsulin is a hypoglycemic and anabolic hormone Immediate effects of insulin:Immediate effects of insulin include the effect of insulin on causing glucose and potassium uptake into cells, Insulin stimulates glucose uptake into cells by Stimulating GLUT4 transpoer up regulation across the membranes of skeletal muscle, cardiac muscle and adipose tissueStimulating glucokinase in liver. As glucokinase is stimulated in liver, glucose in liver is conveed to glucose 6 phosphate. This reduces glucose level within hepatocytes. This stimulates fuher glucose uptake into hepatocytes",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cf4c7607-f868-42e6-9b56-41fc83b824ea": {
-    "cop": 3,
-    "exp": "C i.e. Nevus achromicus Hypopigmented Patch Unilateral Nevus achromicus (depigmentosus) - Mostly presents with unilateral, stable single, well circumscribed oval or rectangular localized area of hypomelanosis (depigmented skin) with feathered margins. - It is congenital (i.e. present at bih)Q but sometimes may not be apparent at bih. - It remains stable in size and color over time and typically has no associated findings Q. - Lesions occur most commonly on trunk. Hairs within the lesiosn are usually depigmented. Histology shows normal or reduced number of melanocytes. 3 variants of lesion are single (mc), segmental and systematized (very rare). - Erythema appears on massage - Pressure with glass slide does not make the lesion disappear. Nevus anaemicus - Developmental, solitary (unilateral) white (pale) round flat patch, usually on trunk and present at bih. It is stable (i.e. does not increase in size). Thought to have vascular filling defect. - Massage fails to develop erythema in lesionQ. Pressure with glass slide makes the lesion disappear & indistinct from surrounding skin. Hypomelanosis of Ito (Linear nevoid hypopigmentation/ Pigmentary Mosacism/ Incontinentia pigmenti achromians of Ito) - This neurocutaneous disorder results from migration of 2 clones of melanocytes, each with a different pigment potential. - It may present with widespread bilateral (symmetrical) or unilateral areas of hypopigmentation in form of whorls (swirls) and streaks occurring along Blaschko's lines. - One third cases are associated with abnormalities involving musculoskeletal system (asymmetry), CNS (convulsions & mental retardation), teeth, and eyes (hypeelorism & strabismus). Bilateral Piebaldism - It is AD condition characterized by congenital stable areas of vitiligo like amelanotic skin with white forelock. - Amelanotic patches of skin totally devoid of pigment are present at bih (congenital) and remain unchanged throughout life (stable)Q. - Frontal median or paramedian patch with a mesh of white hair (white foelock) is most common lesion; rest of scalp hair are pigmented. - Often, white patches occur bilaterally mostly but not necessarily (always) symmetrically on ventral trunk (chest & abdomen) and limbs (upper & lower extremities). Occasionally they are found on face esp. chin - Back as well as hands and feet (acral area) remain normally pigmented (acral sparing). - Islands of normal or hypermelanotic skin occur in white depigmented areasQ. - Piebaldism can be distinguished from vitiligo (where the lesions are acquired later in life) by almost invariable presence of white forelock and islands of normal pigmented skin in hypomelanotic areasQ as well as configuration & distribution of lesions. - Piebaldism may be associated with 2 systemic neurocristopathies d/t abnormal embryonic migration or survival of 2 neural crest derived elements, one being melanocytes and other myenteric ganglion cells (IA Hirschprung disease in Shah-Waardenburg syndrome) or auditory nerve cells (1/t sensorineural deafness in Waardenburg's syndrome). Waardenburg's syndrome is characterized by dystopia canthorum (lateral displacement of inner canthi but normal interpupillary distance), hetero chromic irises, broad nasal root, sensorineural hearing loss and piebaldism. Vitiligo - Usually not present at bih, oftenly stas in childhood (before 20 years age) - Hypomelanotic (milky white) macule with scalloped hyper pigmented border usually first noted at sun exposed area of face & dorsa of hands. - Affect paicularly areas that are hyper pigmented (i.e., face, axilla, groin, areola & genitalia) or subjected to repeated trauma (i.e., dora of hand, feet, elbow, knee & ankles). - Usually symmetrical but may be segmental (i.e. U/L dermatomal involving trigeminal distribution) or generalized (complete). - Increase in size, older lesions show amelanotic hair (leucotrichia)Q and damage to normal skin results in depigmentation i.e., Koebner /isomorphic phenomenon - May be associated with diabetes mellitusQ, pernicious anemia, mysthenia gravis, alopecia areata, Addison's ds, thyroid ds, hypoparathyroidism, morphea, lichen sclerosus, halo nevus & malignant melanoma - Eyes are not involved - Show paial / near complete response to treatment Albinism (Oculo-cutaneous) - Present at bih (autosomal recessive) - Diffuse hypopigmentation of skin, & hair throughout the bodyQ. - Absence of pigment in iris & retina (eye) with visual defects in form of nystagmus, poot eye sight, photophobia, transulent iridis & red reflex. - Frecklies, non- pigmented melanocytic nevi, & amelanotic melanomas may develop on sun exposed area - No response to treatment"
+    "cop": 2,
+    "exp": "C i.e. Nevus achromicus Hypopigmented Patch Unilateral Nevus achromicus (depigmentosus) - Mostly presents with unilateral, stable single, well circumscribed oval or rectangular localized area of hypomelanosis (depigmented skin) with feathered margins. - It is congenital (i.e. present at bih)Q but sometimes may not be apparent at bih. - It remains stable in size and color over time and typically has no associated findings Q. - Lesions occur most commonly on trunk. Hairs within the lesiosn are usually depigmented. Histology shows normal or reduced number of melanocytes. 3 variants of lesion are single (mc), segmental and systematized (very rare). - Erythema appears on massage - Pressure with glass slide does not make the lesion disappear. Nevus anaemicus - Developmental, solitary (unilateral) white (pale) round flat patch, usually on trunk and present at bih. It is stable (i.e. does not increase in size). Thought to have vascular filling defect. - Massage fails to develop erythema in lesionQ. Pressure with glass slide makes the lesion disappear & indistinct from surrounding skin. Hypomelanosis of Ito (Linear nevoid hypopigmentation/ Pigmentary Mosacism/ Incontinentia pigmenti achromians of Ito) - This neurocutaneous disorder results from migration of 2 clones of melanocytes, each with a different pigment potential. - It may present with widespread bilateral (symmetrical) or unilateral areas of hypopigmentation in form of whorls (swirls) and streaks occurring along Blaschko's lines. - One third cases are associated with abnormalities involving musculoskeletal system (asymmetry), CNS (convulsions & mental retardation), teeth, and eyes (hypeelorism & strabismus). Bilateral Piebaldism - It is AD condition characterized by congenital stable areas of vitiligo like amelanotic skin with white forelock. - Amelanotic patches of skin totally devoid of pigment are present at bih (congenital) and remain unchanged throughout life (stable)Q. - Frontal median or paramedian patch with a mesh of white hair (white foelock) is most common lesion; rest of scalp hair are pigmented. - Often, white patches occur bilaterally mostly but not necessarily (always) symmetrically on ventral trunk (chest & abdomen) and limbs (upper & lower extremities). Occasionally they are found on face esp. chin - Back as well as hands and feet (acral area) remain normally pigmented (acral sparing). - Islands of normal or hypermelanotic skin occur in white depigmented areasQ. - Piebaldism can be distinguished from vitiligo (where the lesions are acquired later in life) by almost invariable presence of white forelock and islands of normal pigmented skin in hypomelanotic areasQ as well as configuration & distribution of lesions. - Piebaldism may be associated with 2 systemic neurocristopathies d/t abnormal embryonic migration or survival of 2 neural crest derived elements, one being melanocytes and other myenteric ganglion cells (IA Hirschprung disease in Shah-Waardenburg syndrome) or auditory nerve cells (1/t sensorineural deafness in Waardenburg's syndrome). Waardenburg's syndrome is characterized by dystopia canthorum (lateral displacement of inner canthi but normal interpupillary distance), hetero chromic irises, broad nasal root, sensorineural hearing loss and piebaldism. Vitiligo - Usually not present at bih, oftenly stas in childhood (before 20 years age) - Hypomelanotic (milky white) macule with scalloped hyper pigmented border usually first noted at sun exposed area of face & dorsa of hands. - Affect paicularly areas that are hyper pigmented (i.e., face, axilla, groin, areola & genitalia) or subjected to repeated trauma (i.e., dora of hand, feet, elbow, knee & ankles). - Usually symmetrical but may be segmental (i.e. U/L dermatomal involving trigeminal distribution) or generalized (complete). - Increase in size, older lesions show amelanotic hair (leucotrichia)Q and damage to normal skin results in depigmentation i.e., Koebner /isomorphic phenomenon - May be associated with diabetes mellitusQ, pernicious anemia, mysthenia gravis, alopecia areata, Addison's ds, thyroid ds, hypoparathyroidism, morphea, lichen sclerosus, halo nevus & malignant melanoma - Eyes are not involved - Show paial / near complete response to treatment Albinism (Oculo-cutaneous) - Present at bih (autosomal recessive) - Diffuse hypopigmentation of skin, & hair throughout the bodyQ. - Absence of pigment in iris & retina (eye) with visual defects in form of nystagmus, poot eye sight, photophobia, transulent iridis & red reflex. - Frecklies, non- pigmented melanocytic nevi, & amelanotic melanomas may develop on sun exposed area - No response to treatment",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"newborn child presents with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7043336c-f20c-46e9-a0f2-c32ed9577076": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Cryptococcal Meningitis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ea9c4a64-bb76-49b8-8138-6ae81039c0ca": {
-    "cop": 3,
-    "exp": "Ans. is c i.e. Paraovarian cysts Paraovarian cysts are extra peritoneal cysts lying in broad ligament adjacent to the ovary, below the fallopian tube. The tube is stretched and flattened over the top of the cyst which tends to enlarge in a lateral direction so that it may lie to the side of and above the ovary. The cyst is usually unilocular contains clear fluid, its wall is smooth, thin and translucent. So it is seen as glistening spots in tuba! serosa.."
+    "cop": 2,
+    "exp": "Ans. is c i.e. Paraovarian cysts Paraovarian cysts are extra peritoneal cysts lying in broad ligament adjacent to the ovary, below the fallopian tube. The tube is stretched and flattened over the top of the cyst which tends to enlarge in a lateral direction so that it may lie to the side of and above the ovary. The cyst is usually unilocular contains clear fluid, its wall is smooth, thin and translucent. So it is seen as glistening spots in tuba! serosa..",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"condition where glistening spots\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0a44af95-6337-49c7-b4fa-8a22399aa577": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Heparin Mast cells Mast cells are bone marrow derived cells. They are found predominantly near blood vessels and nerves and in subepithelial sites, where local immediate hypersensitivity reaction tend to occur. Mast cells have cytoplasmic membrane-bound granules that contain a variety of biologically active mediators. These granules are referred as metachromatic granules. Mast cells are central to the development of immediate hypersensitivity."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Heparin Mast cells Mast cells are bone marrow derived cells. They are found predominantly near blood vessels and nerves and in subepithelial sites, where local immediate hypersensitivity reaction tend to occur. Mast cells have cytoplasmic membrane-bound granules that contain a variety of biologically active mediators. These granules are referred as metachromatic granules. Mast cells are central to the development of immediate hypersensitivity.",
+    "hint_exp": "🧩 Your crush solved \"Anticoagulant produced mast cells\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "20905740-a4c4-47de-bf61-beb0e46b533b": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Endoscopic ultrasound"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Endoscopic ultrasound",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"staging the oesphageal cancer\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fa73e1eb-f7b8-48b3-bc8d-ccf3f020c9b2": {
-    "cop": 1,
-    "exp": "Tryptophan is conveed to Seratonin, which is then acetylated and fuher methylated to form Metatonin.Ref: DM Vasudevan - Textbook of Biochemistry, 7th edition, page no: 240, Fig no 18.10."
+    "cop": 0,
+    "exp": "Tryptophan is conveed to Seratonin, which is then acetylated and fuher methylated to form Metatonin.Ref: DM Vasudevan - Textbook of Biochemistry, 7th edition, page no: 240, Fig no 18.10.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"a derivative of tryptophan\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d65c49bc-ecd0-4a7d-a25c-6aacaefd2221": {
-    "cop": 4,
-    "exp": "D. i.e. (Neural crest) (320 - I.B.S 8,h)* Derivatives of Endoderm = Glands(a) Endocrine: Thyroid, Parathyroid, Thymus , Islets of langerhans(b) Exocrine: Liver, Pancreas, Glands in wall of GIT, greater part of prostate (except inner glandular zone) and its female homologous* The superior parathyroid glands arise from caudal pharyngeal complex, the complex probably also gives origin to the parafollicular cells of the thyroid. Which may represent the ultimo branchial body of lower animals.*** \"C- cells\" parafollicuiars, constitute and endocrine system which are derived from neural crest and are found in thyroid, parathyroid and in thymus (544- Rana-shinde 7th)NEURAL -CREST - DERIVATIVES (273-74- IBS 8th)1. The neurons of the spinal posterior nerve root ganglia2. The neurons of the sensory ganglia of the 5, 7, 8, 9 and 10th cranial nerves.3. The Schwann cells that form the neurolemmal sheaths of all peripheral nerves4. The neurons of the sympathetic ganglia5. The specific cells of the adrenal medulla6. Chromaffin tissue7. The pigment cells (melanoblasts**) of the skin8. The pia mater and arachnoidmater are also, probably, derived from the neural crest9. The mesenchyme of the dental papillae (odontoblast**) Some diseases and syndromes are associated with disturbances of the Neural crestHirschsprung's disease (aganglionic megacolon**). Aorticopulmonary septal defects of heart. Cleft lip, cleft palate, frontonasal dysplasia, neurofibromatosis, tumours of adrenal medulla, albinism"
+    "cop": 3,
+    "exp": "D. i.e. (Neural crest) (320 - I.B.S 8,h)* Derivatives of Endoderm = Glands(a) Endocrine: Thyroid, Parathyroid, Thymus , Islets of langerhans(b) Exocrine: Liver, Pancreas, Glands in wall of GIT, greater part of prostate (except inner glandular zone) and its female homologous* The superior parathyroid glands arise from caudal pharyngeal complex, the complex probably also gives origin to the parafollicular cells of the thyroid. Which may represent the ultimo branchial body of lower animals.*** \"C- cells\" parafollicuiars, constitute and endocrine system which are derived from neural crest and are found in thyroid, parathyroid and in thymus (544- Rana-shinde 7th)NEURAL -CREST - DERIVATIVES (273-74- IBS 8th)1. The neurons of the spinal posterior nerve root ganglia2. The neurons of the sensory ganglia of the 5, 7, 8, 9 and 10th cranial nerves.3. The Schwann cells that form the neurolemmal sheaths of all peripheral nerves4. The neurons of the sympathetic ganglia5. The specific cells of the adrenal medulla6. Chromaffin tissue7. The pigment cells (melanoblasts**) of the skin8. The pia mater and arachnoidmater are also, probably, derived from the neural crest9. The mesenchyme of the dental papillae (odontoblast**) Some diseases and syndromes are associated with disturbances of the Neural crestHirschsprung's disease (aganglionic megacolon**). Aorticopulmonary septal defects of heart. Cleft lip, cleft palate, frontonasal dysplasia, neurofibromatosis, tumours of adrenal medulla, albinism",
+    "hint_exp": "🎯 Think of \"thyroid developed from\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "92751b1a-61bb-48ea-b0f3-0f09cc356909": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Cardiolipin \"Cardiolipin is the only human glycerophospholipid that possess antigenic properties \"o Cardiolipin is the major lipid of inner mitochondrial membrane."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Cardiolipin \"Cardiolipin is the only human glycerophospholipid that possess antigenic properties \"o Cardiolipin is the major lipid of inner mitochondrial membrane.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following phospholipid antigenic\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "93221bb6-5c94-4c8e-8b23-af76a1104c9d": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Direct coombs test positive\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dfebd891-3c90-4146-b454-a04ef2fb6616": {
-    "cop": 3,
-    "exp": "Anticoagulants are necessary in cases of congenital hea disease who have pulmonary hypeension, aificial valve replacements or atrial fibrillation. The patient taking warfarin should discontinue it as soon as pregnancy is diagnosed and replace by heparin 5000 units twice daily subcutaneously up to 12th week. This is then replaced by warfarin tablet 3 mg. daily to be taken at the same time each day and continued up to 36 weeks. Thereafter it is replaced by heparin upto 7 days postpaum. Warfarin is then to be continued. Reference: Dutta's Textbook of Obstetrics 7th edition page 277"
+    "cop": 2,
+    "exp": "Anticoagulants are necessary in cases of congenital hea disease who have pulmonary hypeension, aificial valve replacements or atrial fibrillation. The patient taking warfarin should discontinue it as soon as pregnancy is diagnosed and replace by heparin 5000 units twice daily subcutaneously up to 12th week. This is then replaced by warfarin tablet 3 mg. daily to be taken at the same time each day and continued up to 36 weeks. Thereafter it is replaced by heparin upto 7 days postpaum. Warfarin is then to be continued. Reference: Dutta's Textbook of Obstetrics 7th edition page 277",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"pregnant woman with prosthetic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "eb6fa70c-222b-48e4-99a3-6f1b0a55c196": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"growth\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "cc65ea05-e069-41e6-8994-6e7f8cd9bdd7": {
-    "cop": 2,
-    "exp": "Bar diagram"
+    "cop": 1,
+    "exp": "Bar diagram",
+    "hint_exp": "🎯 Think of \"presented\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "44199182-2eef-4bd6-8eb5-3af6e474d94b": {
-    "cop": 4,
-    "exp": "D i.e. Left upper lobe (posterior pa) - Consolidation of apical poion of left upper lobe (LUL) will obliterate or obscure the aoic knuckle (knob) poion of cardiac shadow on chest x-ray (Mnemonic-LUL sounds like Knuckle\") * - Consolidation of lingula (anterior) obscures left hea border (i.e. left cardiac silhouette) and consolidation of righ middle lobe (RML) obliterates right hea border (right cardiac sihoutte). Mn= \"Lingula is left and RML is right\". Radiographic Mediastinal Signs Silhouette's (Obscured Margin) Sign - The normal radio-opaque margins of soft tissue mediastinal structures (such as hea, aoic arch, hilum, azygoesophageal recesses) and diaphragm are visible on chest x-ray because they are outlined by adjacent air containing radiolucent lung (i.e. b/o normal soft tissue air inteface/contrast). -Silhouette (obscured margin) sign is based on the principle, which says that if two structures have approximately the same radiographic density, and are in intimate contact with each other, then the interface between them is obliterated\". However, if there is even a small gap between them, then they are seen with their borders as separate entities. An intrathoracic lesion touching a border of hea, aoa or diaphragm and having similar radiographic density (opacity) will obliterate that border on X-ray. And a lesion not anatomically contigious with a border of these structures or having markedly dissimilar density will not obliterate that border. - Silhouette's invisible or obscured border sign is caused by any intrathoracic opacity eg consolidation, pneumonia, mass, fluid, atelectasia of same density as the adjacent normal structure. This sign is used to diagnose variety of lung/chest conditions and to localize it to a specific lobe /region of lung. Silhoutte sign is very useful in localizing lung lesions as all structures forming cardiac silhoutte (hea border, ascending descending aoa, aoic knob & hemidiaphragm) are in contact with a specific poion of lung. Silhoutte structure (which may be obscured by pathology) Lung lobe/poion in contact Upper right hea border (Superior RUL (Right upper lobe, anterior vena cava), Ascending aoa & Upper pole of hilum = Superior right mediastinum or Right Aoic border segment) & anterior segment of RML Right hea border/Right cardiac RML (Right middle lobe, medial) sithoutte >>> Right medial lower lobe Aoic knudcle/knob/arch LUL (Left upper lobe apico-posterior segment) Upper left hea border (left superior LUL (Left upper lobe anterior mediastinum) segment) Left hea border (Left cardiac silhoutte) Lingula (anterior) segment of LUL Anterior hemidiaphragm Lower lobe (anterior- basal segments) Position of oblique fissure is best index of lower lobe volume. Left hemidiaphragm, Descending aoa Left lower lobe (LL) Right hemidiaphragm Right lower lobe (RLL) - Obscuration of right hea border (right cardiac silhouette) on PA viewQ and movement of horizontal fissure and lower half of oblique fissure toward one another on lateral projection is diagnostic of right middle lobe collapse. With the exception of absence of horizontal fissure on left, radiological features of lingual collapse are similar to right middle lobe collapse. - In right upper lobe collapse, lateral end of horizontal fissure moves upward & medially (towards superior mediastinum) & its anterior end moves upward towards apex. And the upper half of oblique fissure moves anteriorly. Both fissures become concave superiorly. Cervico-Thoracic Sign It is based on the fact that upper most border anterior mediastinum ends at the level of clavicle while middle (higher) & posterior (highest) mediastinum projects above clavicle. Therefore, a well defined mass (which is sharply outlined by apical lung) above the clavicles is always posterior, whereas an anterior mass being in contact with soft tissues (of same density) rather than aerated lung, is ill defined (have unsharp borders) Hilar-Overlay Sign - It allows differentiation of true cardiomegaly from large anterior mediastinal masses. In cardiomegaly the hilum is displaced laterally whereas in the presence of anterior mediastinal mass the hilum is seen projecting medial to the lateral border of mass. With the mediastinal mass, the hilium is seen through the mass whereas with cardiomegaly the hilum is displaced so that only its lateral border is visible. Hilar Bifurcation (Convergence) Sign - It differentiates hilar masses from vascular structures in cases of hilar enlargment. - If the vessels (eg pulmonary aeries) are seen to arise directly from the hilar shadow (i.e. vessels converge into lateral border of cardiac silhoutte) then the enlargement is vascular, but if they appear to arise medial to the lateral aspect of the hilar shadow, the enlargment is caused by an extravascular mass."
+    "cop": 3,
+    "exp": "D i.e. Left upper lobe (posterior pa) - Consolidation of apical poion of left upper lobe (LUL) will obliterate or obscure the aoic knuckle (knob) poion of cardiac shadow on chest x-ray (Mnemonic-LUL sounds like Knuckle\") * - Consolidation of lingula (anterior) obscures left hea border (i.e. left cardiac silhouette) and consolidation of righ middle lobe (RML) obliterates right hea border (right cardiac sihoutte). Mn= \"Lingula is left and RML is right\". Radiographic Mediastinal Signs Silhouette's (Obscured Margin) Sign - The normal radio-opaque margins of soft tissue mediastinal structures (such as hea, aoic arch, hilum, azygoesophageal recesses) and diaphragm are visible on chest x-ray because they are outlined by adjacent air containing radiolucent lung (i.e. b/o normal soft tissue air inteface/contrast). -Silhouette (obscured margin) sign is based on the principle, which says that if two structures have approximately the same radiographic density, and are in intimate contact with each other, then the interface between them is obliterated\". However, if there is even a small gap between them, then they are seen with their borders as separate entities. An intrathoracic lesion touching a border of hea, aoa or diaphragm and having similar radiographic density (opacity) will obliterate that border on X-ray. And a lesion not anatomically contigious with a border of these structures or having markedly dissimilar density will not obliterate that border. - Silhouette's invisible or obscured border sign is caused by any intrathoracic opacity eg consolidation, pneumonia, mass, fluid, atelectasia of same density as the adjacent normal structure. This sign is used to diagnose variety of lung/chest conditions and to localize it to a specific lobe /region of lung. Silhoutte sign is very useful in localizing lung lesions as all structures forming cardiac silhoutte (hea border, ascending descending aoa, aoic knob & hemidiaphragm) are in contact with a specific poion of lung. Silhoutte structure (which may be obscured by pathology) Lung lobe/poion in contact Upper right hea border (Superior RUL (Right upper lobe, anterior vena cava), Ascending aoa & Upper pole of hilum = Superior right mediastinum or Right Aoic border segment) & anterior segment of RML Right hea border/Right cardiac RML (Right middle lobe, medial) sithoutte >>> Right medial lower lobe Aoic knudcle/knob/arch LUL (Left upper lobe apico-posterior segment) Upper left hea border (left superior LUL (Left upper lobe anterior mediastinum) segment) Left hea border (Left cardiac silhoutte) Lingula (anterior) segment of LUL Anterior hemidiaphragm Lower lobe (anterior- basal segments) Position of oblique fissure is best index of lower lobe volume. Left hemidiaphragm, Descending aoa Left lower lobe (LL) Right hemidiaphragm Right lower lobe (RLL) - Obscuration of right hea border (right cardiac silhouette) on PA viewQ and movement of horizontal fissure and lower half of oblique fissure toward one another on lateral projection is diagnostic of right middle lobe collapse. With the exception of absence of horizontal fissure on left, radiological features of lingual collapse are similar to right middle lobe collapse. - In right upper lobe collapse, lateral end of horizontal fissure moves upward & medially (towards superior mediastinum) & its anterior end moves upward towards apex. And the upper half of oblique fissure moves anteriorly. Both fissures become concave superiorly. Cervico-Thoracic Sign It is based on the fact that upper most border anterior mediastinum ends at the level of clavicle while middle (higher) & posterior (highest) mediastinum projects above clavicle. Therefore, a well defined mass (which is sharply outlined by apical lung) above the clavicles is always posterior, whereas an anterior mass being in contact with soft tissues (of same density) rather than aerated lung, is ill defined (have unsharp borders) Hilar-Overlay Sign - It allows differentiation of true cardiomegaly from large anterior mediastinal masses. In cardiomegaly the hilum is displaced laterally whereas in the presence of anterior mediastinal mass the hilum is seen projecting medial to the lateral border of mass. With the mediastinal mass, the hilium is seen through the mass whereas with cardiomegaly the hilum is displaced so that only its lateral border is visible. Hilar Bifurcation (Convergence) Sign - It differentiates hilar masses from vascular structures in cases of hilar enlargment. - If the vessels (eg pulmonary aeries) are seen to arise directly from the hilar shadow (i.e. vessels converge into lateral border of cardiac silhoutte) then the enlargement is vascular, but if they appear to arise medial to the lateral aspect of the hilar shadow, the enlargment is caused by an extravascular mass.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which poion of the lung\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "17d763b4-4993-4140-a143-119d87071cbb": {
-    "cop": 4,
-    "exp": "JVP rises on deep inspiration is called as kussmaul's sign Mechanism: In normal body,During inspiration their is negative intrathoarcic pressurre & Increased intrathoracic volume,This will lead to increase in right hea capacity and the JVP falls with inspiration (Normal body) Whereas in ceain conditions, the hea is less compliant and a raise in venous return is seen, which will lead to raised JVP Kussmaul's sign is seen in where the right side of hea is not functioning properly Constrictive pericarditis -Right side of hea will not be functioning normally due to calcification. Restrictive cardiomyopathy - Right side of hea will not be functioning normally due to fibrosis. Complete Hea block causes CANON A waves Atrial fibrillation - Twitching Absent P wave in ECG; A wave absent in JVP | No rise of JVP in atrial fib"
+    "cop": 3,
+    "exp": "JVP rises on deep inspiration is called as kussmaul's sign Mechanism: In normal body,During inspiration their is negative intrathoarcic pressurre & Increased intrathoracic volume,This will lead to increase in right hea capacity and the JVP falls with inspiration (Normal body) Whereas in ceain conditions, the hea is less compliant and a raise in venous return is seen, which will lead to raised JVP Kussmaul's sign is seen in where the right side of hea is not functioning properly Constrictive pericarditis -Right side of hea will not be functioning normally due to calcification. Restrictive cardiomyopathy - Right side of hea will not be functioning normally due to fibrosis. Complete Hea block causes CANON A waves Atrial fibrillation - Twitching Absent P wave in ECG; A wave absent in JVP | No rise of JVP in atrial fib",
+    "hint_exp": "🧩 Your crush solved \"Which following condition should\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7530f2df-0fb0-471d-88b2-c6a46865dc55": {
-    "cop": 2,
-    "exp": "Surface of the papules in lichen planus often reveals a network of grey lines (Wickham's striae). Typically seen in oral mucosa Oral lichen planus (LIE-kun PLAY-nus) is an ongoing (chronic) inflammatory condition that affects mucous membranes inside your mouth. Oral lichen planus may appear as white, lacy patches; red, swollen tissues; or open sores. These lesions may cause burning, pain or other discomfo. Ref: Harrison 19e pg: 349"
+    "cop": 1,
+    "exp": "Surface of the papules in lichen planus often reveals a network of grey lines (Wickham's striae). Typically seen in oral mucosa Oral lichen planus (LIE-kun PLAY-nus) is an ongoing (chronic) inflammatory condition that affects mucous membranes inside your mouth. Oral lichen planus may appear as white, lacy patches; red, swollen tissues; or open sores. These lesions may cause burning, pain or other discomfo. Ref: Harrison 19e pg: 349",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"is seen commonly in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6f37c7db-f9d1-422b-b9bd-751929f53092": {
-    "cop": 4,
-    "exp": "Post coital test and miller kurzrok test can detect cervical hostility as noted by rotatory/shaky movement of the sperm in post coital test, or < 3 cm of penetration of cervical mucus in 30 minutes in miller kurzrok test.\nSpinbarkeit is basically a test for assessing ovulation: At the time of ovulation, the cervical mucus is thin and so profuse that the patient may notice a clear discharge, (called Normal ovulatory cascade). This ovulatory mucus has the property of great elasticity and will withstand stretching up to a distance of over 10 cm. This phenomenon is called spinbarkeit, or thread test for oestrogen activity. Under the influence of progesterone after ovulation mucus becomes thick and opaque and breaks on stretching i.e. hostile for sperms\nTherefore, indirectly Spinbarkeit test can also detect cervical hostility."
+    "cop": 3,
+    "exp": "Post coital test and miller kurzrok test can detect cervical hostility as noted by rotatory/shaky movement of the sperm in post coital test, or < 3 cm of penetration of cervical mucus in 30 minutes in miller kurzrok test.\nSpinbarkeit is basically a test for assessing ovulation: At the time of ovulation, the cervical mucus is thin and so profuse that the patient may notice a clear discharge, (called Normal ovulatory cascade). This ovulatory mucus has the property of great elasticity and will withstand stretching up to a distance of over 10 cm. This phenomenon is called spinbarkeit, or thread test for oestrogen activity. Under the influence of progesterone after ovulation mucus becomes thick and opaque and breaks on stretching i.e. hostile for sperms\nTherefore, indirectly Spinbarkeit test can also detect cervical hostility.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Cervical hostility tested following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f478d129-18cd-469b-aeb9-248fb224e9ce": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"used to demonstrate\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bdd21e47-9a6f-44c8-8cf2-240a8ff18c7e": {
-    "cop": 1,
-    "exp": "Dietary Fluoride Supplementation Schedule"
+    "cop": 0,
+    "exp": "Dietary Fluoride Supplementation Schedule",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"best starting fluoride supplementation\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "92bf609d-12e6-4630-bf3f-cd79d3c2d9a5": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Perimolysis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cf56e01f-ead4-4680-b996-e5320e924dc1": {
-    "cop": 2,
-    "exp": "Ans. is b i.e. Anthropoid pelvis"
+    "cop": 1,
+    "exp": "Ans. is b i.e. Anthropoid pelvis",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"pelvis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "58e66239-2a94-48a0-acf4-a0d0ca1fd25e": {
-    "cop": 4,
-    "exp": "Nuclear changes appear in necrotic cells in one of three patterns, all due to nonspecific breakdown of DNA. The basophilia of the chromatin may fade (karyolysis), a change that presumably reflects loss of DNA because of enzymatic degradation by endonucleases. A second pattern is pyknosis, characterized by nuclear shrinkage and increased basophilia. Here the chromatin condenses into a solid, shrunken basophilic mass. In the third pattern, known as karyorrhexis, the pyknotic nucleus undergoes fragmentation. With the passage of time (a day or two), the nucleus in the necrotic cell totally disappears. Ref: Robbins, 8th edition, Chapter 1."
+    "cop": 3,
+    "exp": "Nuclear changes appear in necrotic cells in one of three patterns, all due to nonspecific breakdown of DNA. The basophilia of the chromatin may fade (karyolysis), a change that presumably reflects loss of DNA because of enzymatic degradation by endonucleases. A second pattern is pyknosis, characterized by nuclear shrinkage and increased basophilia. Here the chromatin condenses into a solid, shrunken basophilic mass. In the third pattern, known as karyorrhexis, the pyknotic nucleus undergoes fragmentation. With the passage of time (a day or two), the nucleus in the necrotic cell totally disappears. Ref: Robbins, 8th edition, Chapter 1.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following changes\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d8cc941d-182c-4fe4-8660-a95d1b5fae57": {
-    "cop": 2,
-    "exp": "Veical transmission of diseases: Disease Most common time of transmission Varicella I trimester Rubella I trimester Parvovirus II trimester Hepatitis B III trimester Toxoplasmosis III trimester Syphilis III trimester CMV Any trimester HIV During delivery Hepatitis C During delivery Ref: Park 25th edition Pgno: 102"
+    "cop": 1,
+    "exp": "Veical transmission of diseases: Disease Most common time of transmission Varicella I trimester Rubella I trimester Parvovirus II trimester Hepatitis B III trimester Toxoplasmosis III trimester Syphilis III trimester CMV Any trimester HIV During delivery Hepatitis C During delivery Ref: Park 25th edition Pgno: 102",
+    "hint_exp": "🎯 Think of \"fetal damage\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3a75ca21-40ce-440c-8c59-4544adad4665": {
-    "cop": 2,
-    "exp": "B i.e. Eosinophillic Granuloma Features Disorder Geographic lytic skullQ Eosinophillic granuloma/Hand? Veebrae planaQ Schuller Christian ds/ Histocytosis"
+    "cop": 1,
+    "exp": "B i.e. Eosinophillic Granuloma Features Disorder Geographic lytic skullQ Eosinophillic granuloma/Hand? Veebrae planaQ Schuller Christian ds/ Histocytosis",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"skull with bevelled edges\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "066f9439-7b2e-420e-bfee-d02974390364": {
-    "cop": 3,
-    "exp": "Ans. c (Osteoid osteoma) (Ref. Maheshwari orthopedics 4th1215)Osteoid osteoma# It is the commonest true benign bone tumor.# Please note that otherwise the most common benign bone tumor is osteochondroma!# Osteochondroma is synomymous with exostosis.# Not a premalignant condition.# Tibia is most commonly affected bone.# Posterior elements of vertebrae is a common site.# Affects 5-25 years of age.# Classical clinical presentation is nagging pain during nighttime, relieved by aspirin.Radiological features:# Generally in diaphysis. Usually cortical.# Typically seen as a radiolucent nidus (usually < 1 cm) surrounded by reactive sclerosis.# May have central fleck of target calcification in the centre.# Spinal lesions: Most often affects lamina. 60% are in lumbar spine. Mature sclerotic lesion may present as sclerotic 'Ivory pedicle' or 'ivory lamina'.# Radionuclide bone scan may show \"double density sign \". Q# CT remains the best modality to detect most sensitively the nidus, which is defining feature.# Rx:- Complete excison of nidus with sclerotic bone.- RFA.OSTEOBLASTOMA# <1% of all primary bone tumors# Mean age: 6-30 years (90%)# Lesion >1.5 cm; smaller lesions are classified as osteoid osteoma# Radiological features:Similar to osteoid osteoma:- Radiolucent nidus >2 cm in size.- Well demarcated.- Stippled / ringlike flecks of matrix calcification.# MC Location = spine (in posterior elements) followed by long bone diaphysis (e.g., femur).CHONDROBLASTOMA (Codman tumor)# 1% of primary bone neoplasms, and epiphyseal in origin.# Peak in 2nd decade.# Histologically,'chicken wire' calcification (pericellular deposition of calcification) is virtually PATHOGNOMONIC. # MC location = long bones (80%); 2/3 in lower extremity, 50% about knee.# Radiological features:- eccentric medullary, subarticular location with open growth plate (98% begin within epiphysis)# DD: (*) Giant cell tumor (usually larger + less well demarcated, not calcified, older age group with closed growth plate),"
+    "cop": 2,
+    "exp": "Ans. c (Osteoid osteoma) (Ref. Maheshwari orthopedics 4th1215)Osteoid osteoma# It is the commonest true benign bone tumor.# Please note that otherwise the most common benign bone tumor is osteochondroma!# Osteochondroma is synomymous with exostosis.# Not a premalignant condition.# Tibia is most commonly affected bone.# Posterior elements of vertebrae is a common site.# Affects 5-25 years of age.# Classical clinical presentation is nagging pain during nighttime, relieved by aspirin.Radiological features:# Generally in diaphysis. Usually cortical.# Typically seen as a radiolucent nidus (usually < 1 cm) surrounded by reactive sclerosis.# May have central fleck of target calcification in the centre.# Spinal lesions: Most often affects lamina. 60% are in lumbar spine. Mature sclerotic lesion may present as sclerotic 'Ivory pedicle' or 'ivory lamina'.# Radionuclide bone scan may show \"double density sign \". Q# CT remains the best modality to detect most sensitively the nidus, which is defining feature.# Rx:- Complete excison of nidus with sclerotic bone.- RFA.OSTEOBLASTOMA# <1% of all primary bone tumors# Mean age: 6-30 years (90%)# Lesion >1.5 cm; smaller lesions are classified as osteoid osteoma# Radiological features:Similar to osteoid osteoma:- Radiolucent nidus >2 cm in size.- Well demarcated.- Stippled / ringlike flecks of matrix calcification.# MC Location = spine (in posterior elements) followed by long bone diaphysis (e.g., femur).CHONDROBLASTOMA (Codman tumor)# 1% of primary bone neoplasms, and epiphyseal in origin.# Peak in 2nd decade.# Histologically,'chicken wire' calcification (pericellular deposition of calcification) is virtually PATHOGNOMONIC. # MC location = long bones (80%); 2/3 in lower extremity, 50% about knee.# Radiological features:- eccentric medullary, subarticular location with open growth plate (98% begin within epiphysis)# DD: (*) Giant cell tumor (usually larger + less well demarcated, not calcified, older age group with closed growth plate),",
+    "hint_exp": "🧩 Your crush solved \"bone\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0389e64f-92a3-4d3f-b42d-9ab84ef82a6c": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e482d6a6-98b0-48ba-bafa-93db07d8c52f": {
-    "cop": 1,
-    "exp": "Ans. Lesbianism"
+    "cop": 0,
+    "exp": "Ans. Lesbianism",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Following paraphilia\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1ddadcd5-6381-4657-b768-c0a9b89649f7": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"enteropathica\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "94efc416-0db3-494e-ae75-91ab6556642f": {
-    "cop": 2,
-    "exp": "Low-voltage ECG is usually defined as a QRS amplitude of 5 mm (0.5 mV) or less in all of the frontal plane leads and 10 mm (1.0 mV) or less in all of the precordial leads. Low voltage often occurs in the frontal plane without low voltage in the precordial leads (voltage discordance). Ref Harrison 20th edition pg 1534"
+    "cop": 1,
+    "exp": "Low-voltage ECG is usually defined as a QRS amplitude of 5 mm (0.5 mV) or less in all of the frontal plane leads and 10 mm (1.0 mV) or less in all of the precordial leads. Low voltage often occurs in the frontal plane without low voltage in the precordial leads (voltage discordance). Ref Harrison 20th edition pg 1534",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year male comes with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b7bbf6e5-57c8-4e75-8dc3-7a1b679581b3": {
-    "cop": 3,
-    "exp": "The brachialis is supplied by both musculocutaneous nerve and radial nerve. The musculocutaneous nerve is motor and the radial nerve is proprioceptive. The action of the brachialis is flexion of the forearm at the elbow joint. REF: BD Chaurasia 7th edition Page no: 91."
+    "cop": 2,
+    "exp": "The brachialis is supplied by both musculocutaneous nerve and radial nerve. The musculocutaneous nerve is motor and the radial nerve is proprioceptive. The action of the brachialis is flexion of the forearm at the elbow joint. REF: BD Chaurasia 7th edition Page no: 91.",
+    "hint_exp": "🧩 Your crush solved \"muscle with dual Nerve\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4c5c9265-5f25-4123-b665-959d9b566732": {
-    "cop": 2,
-    "exp": "Cadmium poisoning causes itai-itaidisease which is also known as ouch ouch disease due to cadmium contaminated water. Cadmium poisoning also causes other signs and symptoms like yellowing of teeth(Cadmium ring formation) and chronic renal failure."
+    "cop": 1,
+    "exp": "Cadmium poisoning causes itai-itaidisease which is also known as ouch ouch disease due to cadmium contaminated water. Cadmium poisoning also causes other signs and symptoms like yellowing of teeth(Cadmium ring formation) and chronic renal failure.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Itai Itai disease caused\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b5f4100f-aac8-4ddc-a365-6dcbc0cbf544": {
-    "cop": 3,
-    "exp": "Cl. cochlearium does not break carbohydrate and protein. Neither proteolytic nor Saccharolytic - Cl. cochlearium. Proteolytic Clostridium turn the meat black and produce foul odor - Cl. tetani, Cl botulinum A, B, and F. Saccharolytic Clostridium turn the meat pink -Cl. perfringens, Cl. difficle and , Cl botulinum C, D, E. Robeson's cooked meat (RCM) broth: (refer to the image below) Anaerobic Medium for the growth of Clostridium. Contains unsaturated fatty acids, digested meat, and sulfhydryl compounds. Renders the broth turbid. Saccharolytic Clostridium turn the meat pink, while proteolytic species turn the meat black and produce foul smell. Most of the Clostridium produce gas. Left side tube- Uninoculated Robeson cooked meat . Ride side tube - RCM broth turns into black colour."
+    "cop": 2,
+    "exp": "Cl. cochlearium does not break carbohydrate and protein. Neither proteolytic nor Saccharolytic - Cl. cochlearium. Proteolytic Clostridium turn the meat black and produce foul odor - Cl. tetani, Cl botulinum A, B, and F. Saccharolytic Clostridium turn the meat pink -Cl. perfringens, Cl. difficle and , Cl botulinum C, D, E. Robeson's cooked meat (RCM) broth: (refer to the image below) Anaerobic Medium for the growth of Clostridium. Contains unsaturated fatty acids, digested meat, and sulfhydryl compounds. Renders the broth turbid. Saccharolytic Clostridium turn the meat pink, while proteolytic species turn the meat black and produce foul smell. Most of the Clostridium produce gas. Left side tube- Uninoculated Robeson cooked meat . Ride side tube - RCM broth turns into black colour.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following species clostridium\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5a509ee3-6e5c-4ddf-afcc-0cee5f3f1e7e": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e Sunray appearance in X-ray indicates new bone formation Osteosarcoma occurs because of proliferation of osteoblasts* (not osteoclasts)Age groupPrimary osteosarcoma - 15-25yrsSecondary osteosarcoma - older age, >45yrsAs with any other sarcoma it spreads through blood stream and does not metastasize to lymphatics.Sun ray appearance on X-ray :As the periosteum is unable to contain the tumor, the tumor grows into the overlying soft tissues. New bone is laid down along the blood vessels within the tumor growing centrifugally giving rise to sunray appearance on the X-ray.Children with retinoblastoma* have an increased incidence of osteosarcoma."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e Sunray appearance in X-ray indicates new bone formation Osteosarcoma occurs because of proliferation of osteoblasts* (not osteoclasts)Age groupPrimary osteosarcoma - 15-25yrsSecondary osteosarcoma - older age, >45yrsAs with any other sarcoma it spreads through blood stream and does not metastasize to lymphatics.Sun ray appearance on X-ray :As the periosteum is unable to contain the tumor, the tumor grows into the overlying soft tissues. New bone is laid down along the blood vessels within the tumor growing centrifugally giving rise to sunray appearance on the X-ray.Children with retinoblastoma* have an increased incidence of osteosarcoma.",
+    "hint_exp": "🎯 Think of \"True regarding osteosarcoma\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dfc1ccf6-de06-4438-9aee-f5011b862724": {
-    "cop": 2,
-    "exp": "Loss of E cadherin can contribute to malignant phenotype by allowing easy disintegration of cell which can then invade locally and metastasize. Reduced cell surface expression of E cadherin has been noted in many carcinomas : Stomach carcinoma Breast carcinoma Prostate carcinoma Ovarian carcinoma"
+    "cop": 1,
+    "exp": "Loss of E cadherin can contribute to malignant phenotype by allowing easy disintegration of cell which can then invade locally and metastasize. Reduced cell surface expression of E cadherin has been noted in many carcinomas : Stomach carcinoma Breast carcinoma Prostate carcinoma Ovarian carcinoma",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"mutation\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "657e08ad-2bfb-4e45-a981-13e8013759b0": {
-    "cop": 3,
-    "exp": "One or more apolipoproteins (proteins or polypeptides) are present in each lipoprotein. They are usually abbreted as apo followed by the letter A, B, C, etc. Some apolipoproteins are integral and cannot be removed (eg, apo B), whereas others are bound to the surface and are free to transfer to other lipoproteins, eg, apos C and E). The major apolipoproteins of HDL (a-lipoprotein) are apoAs. The main apolipoprotein of LDL (b-lipoprotein) is apo B (B-100), which is found also in VLDL. Chylomicrons contain a truncated form of apo B (B-48) that is synthesized in the intestine, while B-100 is synthesized in the liver.Ref: Harper&;s Biochemistry; 30th edition; Chapter 25; Lipid Transpo & Storage"
+    "cop": 2,
+    "exp": "One or more apolipoproteins (proteins or polypeptides) are present in each lipoprotein. They are usually abbreted as apo followed by the letter A, B, C, etc. Some apolipoproteins are integral and cannot be removed (eg, apo B), whereas others are bound to the surface and are free to transfer to other lipoproteins, eg, apos C and E). The major apolipoproteins of HDL (a-lipoprotein) are apoAs. The main apolipoprotein of LDL (b-lipoprotein) is apo B (B-100), which is found also in VLDL. Chylomicrons contain a truncated form of apo B (B-48) that is synthesized in the intestine, while B-100 is synthesized in the liver.Ref: Harper&;s Biochemistry; 30th edition; Chapter 25; Lipid Transpo & Storage",
+    "hint_exp": "🧩 Your crush solved \"of chylomicrons\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c5274354-9e33-489e-8f1b-52a8c7973871": {
-    "cop": 2,
-    "exp": "Paradoxical sleep, rapid eye movement (not slow), dreaming, generalized muscular atony, penile erection (tumescence), autonomic hyperactivity (Increased pulse rate & BP), and intermittent movement of small muscle groups."
+    "cop": 1,
+    "exp": "Paradoxical sleep, rapid eye movement (not slow), dreaming, generalized muscular atony, penile erection (tumescence), autonomic hyperactivity (Increased pulse rate & BP), and intermittent movement of small muscle groups.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"False regarding sleep\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "29faa73f-8fba-42b5-be2d-d4c7d29f4d42": {
-    "cop": 2,
-    "exp": "Russell bodies are large homogenous eosinophilic inclusions formed by hugely distended endoplasmic reticulum of plasma cell.\nTheir formation is triggered by synthesis of excessive amount of normal secretory proteins in plasma cells."
+    "cop": 1,
+    "exp": "Russell bodies are large homogenous eosinophilic inclusions formed by hugely distended endoplasmic reticulum of plasma cell.\nTheir formation is triggered by synthesis of excessive amount of normal secretory proteins in plasma cells.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Russell body found\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "10658827-3256-4cf2-8247-8808b6f64afc": {
-    "cop": 2,
-    "exp": "Coarctation of aoa is associated with notching, typically of the inferior posterior aspects of the ribs (3rd through 8th). The number and location of notched ribs provides information regarding location of the coarctation. Ref: CURRENT Diagnosis & Treatment: Nephrology & Hypeension chapter 42; Essence of Paediatrics By Khan, 4/e page 153-8."
+    "cop": 1,
+    "exp": "Coarctation of aoa is associated with notching, typically of the inferior posterior aspects of the ribs (3rd through 8th). The number and location of notched ribs provides information regarding location of the coarctation. Ref: CURRENT Diagnosis & Treatment: Nephrology & Hypeension chapter 42; Essence of Paediatrics By Khan, 4/e page 153-8.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "32e01fe6-d66e-4259-a0d6-c26efa267270": {
-    "cop": 2,
-    "exp": "Diminished concentrating ability and proteinuria occur even when the glomerular filtration rate is near normal in gouty nephropathy. The severity of renal involvement correlates with the duration and magnitude of serum uric acid elevation. Uric acid and monosodium urate deposit in the renal parenchyma. These deposits can cause intrarenal obstruction and elicit an inflammatory response as well. Hypertension, nephrolithiasis, and pyelonephritis can also contribute to the nephropathy of gout. Nephrotic syndrome, acute kidney injury, and ATN are not characteristics of chronic gouty nephropathy, though patients with gout may be at risk for these disorders for other reasons."
+    "cop": 1,
+    "exp": "Diminished concentrating ability and proteinuria occur even when the glomerular filtration rate is near normal in gouty nephropathy. The severity of renal involvement correlates with the duration and magnitude of serum uric acid elevation. Uric acid and monosodium urate deposit in the renal parenchyma. These deposits can cause intrarenal obstruction and elicit an inflammatory response as well. Hypertension, nephrolithiasis, and pyelonephritis can also contribute to the nephropathy of gout. Nephrotic syndrome, acute kidney injury, and ATN are not characteristics of chronic gouty nephropathy, though patients with gout may be at risk for these disorders for other reasons.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"renal complications of gout\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6f2a02cb-60f3-4e86-9c7c-450bccfbe444": {
-    "cop": 3,
-    "exp": "Elevated intraesophageal pressure (pressurization of the esophagus) from incomplete air evacuation Simultaneous mirrored contractions with no evidence of progressive peristalsisLow-amplitude waveforms indicating a lack of muscular tone"
+    "cop": 2,
+    "exp": "Elevated intraesophageal pressure (pressurization of the esophagus) from incomplete air evacuation Simultaneous mirrored contractions with no evidence of progressive peristalsisLow-amplitude waveforms indicating a lack of muscular tone",
+    "hint_exp": "🧩 Your crush solved \"manometric features achalasia except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b9ab46ca-dc56-4f96-a1d1-ad3a7d03b71a": {
-    "cop": 1,
-    "exp": "Anterior cruciate ligaments prevent anterior displacement of tibia over femur."
+    "cop": 0,
+    "exp": "Anterior cruciate ligaments prevent anterior displacement of tibia over femur.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Anterior cruciate ligament prevents\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d6481f03-90d5-426a-ab42-35fe83bd3e8e": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Barrett's Esophagus Adenocarcinoma of esophagus almost always arises in Barrett's esophagus. Other option i.e. long standing achalasia, corrosive stricture and alcohol abuse are risk factors for squamous cell Ca of esophagus"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Barrett's Esophagus Adenocarcinoma of esophagus almost always arises in Barrett's esophagus. Other option i.e. long standing achalasia, corrosive stricture and alcohol abuse are risk factors for squamous cell Ca of esophagus",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"adenocarcinoma esophagus develops\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3b25bcb7-4465-4541-b291-968c27ed8a81": {
-    "cop": 4,
-    "exp": "Hamstring Muscles( Biceps femoris long head, semitendinous, semimembranous, and adductor magnus) causes flexion at knee joint and Extension at Hip Joint. Hip flexion and knee Extension by quadriceps femoris muscle Hip and knee Flexion by saorious"
+    "cop": 3,
+    "exp": "Hamstring Muscles( Biceps femoris long head, semitendinous, semimembranous, and adductor magnus) causes flexion at knee joint and Extension at Hip Joint. Hip flexion and knee Extension by quadriceps femoris muscle Hip and knee Flexion by saorious",
+    "hint_exp": "🎯 Think of \"Biceps Femoris hamstring muscle\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fea4bf44-b069-4e3b-ad55-0f3698cfc738": {
-    "cop": 4,
-    "exp": "Coagulative necrosis is the most common subtype of necrosis. Cell outline is maintained (Tomb stone appearance). Most common cause of Coagulative necrosis is Ischemic Hypoxia. Localized area of Coagulative necrosis is called an Infarct. Ex: - Ischemia to all solid organs except BRAIN. -Thermal injury -Dry gangrene -Zenker's degeneration (muscle necrosis in typhoid fever). Cheese like appearance of the affected tissue is characteristic feature of Caseous Necrosis."
+    "cop": 3,
+    "exp": "Coagulative necrosis is the most common subtype of necrosis. Cell outline is maintained (Tomb stone appearance). Most common cause of Coagulative necrosis is Ischemic Hypoxia. Localized area of Coagulative necrosis is called an Infarct. Ex: - Ischemia to all solid organs except BRAIN. -Thermal injury -Dry gangrene -Zenker's degeneration (muscle necrosis in typhoid fever). Cheese like appearance of the affected tissue is characteristic feature of Caseous Necrosis.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"statement true regarding coagulative\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d32af1d5-e511-45fc-8768-13ac2a1078a2": {
-    "cop": 1,
-    "exp": "Before initiating the treatment with disulfiram for alcohol dependence, patient should be abstained from alcohol at least for 12hrs. Ref: Essentials of postgraduate psychiatry By JN Vyas 1st ed Pg 329"
+    "cop": 0,
+    "exp": "Before initiating the treatment with disulfiram for alcohol dependence, patient should be abstained from alcohol at least for 12hrs. Ref: Essentials of postgraduate psychiatry By JN Vyas 1st ed Pg 329",
+    "hint_exp": "🧩 Your crush solved \"abstained from alcohol\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c9011eeb-153c-4b55-91ae-c17819b181c6": {
-    "cop": 1,
-    "exp": "Both sporadic and familial RCC is associated with: Loss of sequence on chromosome 3 either by translocation (3:6, 3:8, 3:11) or deletion. This region harbors the VHL gene. Familial RCC is associated with:- Von Hippel-Lindau syndrome Ref: RAM DAS NAYAK EXAM PREPARATORY MANUAL FOR UNDERGRADUATES 2nd ed. pg no: 633"
+    "cop": 0,
+    "exp": "Both sporadic and familial RCC is associated with: Loss of sequence on chromosome 3 either by translocation (3:6, 3:8, 3:11) or deletion. This region harbors the VHL gene. Familial RCC is associated with:- Von Hippel-Lindau syndrome Ref: RAM DAS NAYAK EXAM PREPARATORY MANUAL FOR UNDERGRADUATES 2nd ed. pg no: 633",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Renal cell carcinoma related\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0468df6c-acbc-45f2-9365-a15808fbc11e": {
-    "cop": 4,
-    "exp": "D i.e. All"
+    "cop": 3,
+    "exp": "D i.e. All",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"nigricans\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d8d6f4b5-15c9-4098-8e3a-e1fe22fcbb33": {
-    "cop": 2,
-    "exp": "Ans. (b) 24 hoursRef.: Harrison 19th ed. / 2568, 17th ed. Ch. 364* The standard definition of TLA requires that all neurologic signs and symptoms resolve within 24 hours regardless of whether there is imaging evidence of new permanent brain injury; stroke has occurred if the neurologic signs and symptoms last for >24 hours."
+    "cop": 1,
+    "exp": "Ans. (b) 24 hoursRef.: Harrison 19th ed. / 2568, 17th ed. Ch. 364* The standard definition of TLA requires that all neurologic signs and symptoms resolve within 24 hours regardless of whether there is imaging evidence of new permanent brain injury; stroke has occurred if the neurologic signs and symptoms last for >24 hours.",
+    "hint_exp": "🎯 Think of \"Duration\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "101e2f95-d29e-464d-8b59-b051203ffbc1": {
-    "cop": 1,
-    "exp": "Rolling interactions of leucocytes are mediated by a family of proteins called as selectins 3 types of selectins: L - selectins ( on leucocytes ) , E - selectin ( on endothelium ), P-selectin ( On platelets, endothelium ) Integrins: Firm adhesion of leucocyte to endothelial cell is mediated by family of leucocyte surface proteins called as integrins Transferrin: Iron transpoing protein PECAM-1: (platelet endothelium cell adhesion molecule): Present in the inter-cellular junction between endothelial cells Help in migration of leucocytes"
+    "cop": 0,
+    "exp": "Rolling interactions of leucocytes are mediated by a family of proteins called as selectins 3 types of selectins: L - selectins ( on leucocytes ) , E - selectin ( on endothelium ), P-selectin ( On platelets, endothelium ) Integrins: Firm adhesion of leucocyte to endothelial cell is mediated by family of leucocyte surface proteins called as integrins Transferrin: Iron transpoing protein PECAM-1: (platelet endothelium cell adhesion molecule): Present in the inter-cellular junction between endothelial cells Help in migration of leucocytes",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following proteins\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8da81cab-53e6-4353-a1f2-393382e4b1ab": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Proton pump inhibitors \"Proton pump inhibitors are the drug of choice for Zollinger Ellison syndrome; they have decreased the need for total gastrectomy\"."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Proton pump inhibitors \"Proton pump inhibitors are the drug of choice for Zollinger Ellison syndrome; they have decreased the need for total gastrectomy\".",
+    "hint_exp": "🧩 Your crush solved \"Drug choice Zollinger Ellison\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

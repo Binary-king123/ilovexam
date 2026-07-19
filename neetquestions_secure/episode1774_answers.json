@@ -1,202 +1,252 @@
 {
   "0dfae512-e33d-4ee7-8531-7004e754e07b": {
-    "cop": 1,
-    "exp": "45 XO = Turner syndrome (Most common form of gonadal dysgenesis) The growth of uterus depends on estrogens In turner syndrome there are streak ovaries so less estrogen ; leading to infantile uterus. So leads to non bleeding of uterus So H is given to induce pubey. Features of turner's syndrome: - 1) B/L streak gonads 2) Webbing of neck 3) Low posterior hair line 4) Widely spaced nipple (as breast is absent) 5) Shield shaped chest 6) sho 4th metacarpal 7) Cubitus valgus 8) CVS anomalies: M/c - Bicuspid aoic valves (coarctation of aoa) 9) Most common renal anomaly: - horse shoe shaped kidney"
+    "cop": 0,
+    "exp": "45 XO = Turner syndrome (Most common form of gonadal dysgenesis) The growth of uterus depends on estrogens In turner syndrome there are streak ovaries so less estrogen ; leading to infantile uterus. So leads to non bleeding of uterus So H is given to induce pubey. Features of turner's syndrome: - 1) B/L streak gonads 2) Webbing of neck 3) Low posterior hair line 4) Widely spaced nipple (as breast is absent) 5) Shield shaped chest 6) sho 4th metacarpal 7) Cubitus valgus 8) CVS anomalies: M/c - Bicuspid aoic valves (coarctation of aoa) 9) Most common renal anomaly: - horse shoe shaped kidney",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year girl with primary\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "11ba17c8-5276-44fb-9b24-7c266c8734ba": {
-    "cop": 3,
-    "exp": "Answer: c) 73.8 daysISOTOPES USED IN MEDICINEReactor Radioisotopes (half-life indicated in brackets):Molybdenum-99 (66 h): Used as the 'parent' in a generator to produce technetium-99m.Technetium-99m (6 h): Used in to image the skeleton and heart muscle in particular, but also for brain, thyroid, lungs (perfusion and ventilation), liver, spleen, kidney (structure and filtration rate), gall bladder, bone marrow, salivary and lacrimal glands, heart blood pool, infection and numerous specialized medical studies.Uses of Technetium 99 tagged RBC's:Commonly indicated in Acute Lower Gastrointestinal Bleeding.Relatively sensitive & very specific imaging method for noninvasive diagnosis of liver hemangioma.Measurement of left ventricular ejection fraction. Assessment of regional wall motion (left and right ventricles).Chromium-51 (28 d): Used to label RBC's and quantify gastro-intestinal protein loss.Cobalt-60 (10.5 months): Formerly used for external beam radiotherapy.Copper-64 (13 h): To study genetic diseases affecting copper metabolism. Eg: Wilson's and Menke's diseases.Dysprosium-165 (2 h): Used as an aggregated hydroxide for synovectomy treatment of arthritis.Erbium-169 (9.4 d): Use for relieving arthritis pain in synovial joints.Holmium-166 (26 h): Being developed for diagnosis and treatment of liver tumours.Iodine-125 (60 d): Used in brachytherapy (prostate and brain), to evaluate the filtration rate of kidneys and to diagnose DVT in the leg. It is also used in radioimmuno-assays to show the presence of hormones in tiny quantities.Iodine-131 (8 d): Used in treating thyroid cancer, imaging the thyroid; in diagnosis of abnormal liver function, renal (kidney) blood flow and urinary tract obstruction. A strong gamma emitter, but used for beta therapy.Iridium-192 (74 d): Supplied in wire form for use as an internal radiotherapy source for cancer treatmentIron-59 (46 d): Used in studies of iron metabolism in the spleen.Lutetium-177 (6.7 d): emits just enough gammas for imaging while the beta radiation does the therapy on small (eg endocrine) tumours. Its half-life is long enough to allow sophisticated preparation for use.Palladium-103 (17 d): Used to make brachytherapy permanent implant seeds for early stage prostate cancer.Phosphorus-32 (14 d): Used in the treatment of polycythemia vera (excess red blood cells). Beta emitter.Potassium-42 (12 h): Used for the determination of exchangeable potassium in coronary blood flow.Rhenium-186 (3.8 d): Used for pain relief in bone cancer. Beta emitter with weak gamma for imaging.Rhenium-188 (17 h): Used to beta irradiate coronary arteries from an angioplasty balloon.Samarium-153 (47 h): Sm-153 is very effective in relieving the pain of secondary cancers lodged in the bone, sold as Quadramet. Also very effective for prostate and breast cancer. Beta emitter.Selenium-75 (120 d): Used as seleno-methionine to study the production of digestive enzymes.Sodium-24 (15 h): For studies of electrolytes within the body.Strontium-89 (50 d): Very effective in reducing the pain of prostate & bone cancer. Beta emitter.Xenon-133 (5 d): Used for pulmonary (lung) ventilation studies.Ytterbium-169 (32 d): Used for cerebrospinal fluid studies in the brain.Ytterbium-177 (1.9 h): Progenitor of Lu-177.Yttrium-90 (64 h): for brachytherapy and as silicate colloid for relieving pain of arthritis. Pure beta emitter.Radioisotopes of caesium, gold and ruthenium are also used in brachytherapy."
+    "cop": 2,
+    "exp": "Answer: c) 73.8 daysISOTOPES USED IN MEDICINEReactor Radioisotopes (half-life indicated in brackets):Molybdenum-99 (66 h): Used as the 'parent' in a generator to produce technetium-99m.Technetium-99m (6 h): Used in to image the skeleton and heart muscle in particular, but also for brain, thyroid, lungs (perfusion and ventilation), liver, spleen, kidney (structure and filtration rate), gall bladder, bone marrow, salivary and lacrimal glands, heart blood pool, infection and numerous specialized medical studies.Uses of Technetium 99 tagged RBC's:Commonly indicated in Acute Lower Gastrointestinal Bleeding.Relatively sensitive & very specific imaging method for noninvasive diagnosis of liver hemangioma.Measurement of left ventricular ejection fraction. Assessment of regional wall motion (left and right ventricles).Chromium-51 (28 d): Used to label RBC's and quantify gastro-intestinal protein loss.Cobalt-60 (10.5 months): Formerly used for external beam radiotherapy.Copper-64 (13 h): To study genetic diseases affecting copper metabolism. Eg: Wilson's and Menke's diseases.Dysprosium-165 (2 h): Used as an aggregated hydroxide for synovectomy treatment of arthritis.Erbium-169 (9.4 d): Use for relieving arthritis pain in synovial joints.Holmium-166 (26 h): Being developed for diagnosis and treatment of liver tumours.Iodine-125 (60 d): Used in brachytherapy (prostate and brain), to evaluate the filtration rate of kidneys and to diagnose DVT in the leg. It is also used in radioimmuno-assays to show the presence of hormones in tiny quantities.Iodine-131 (8 d): Used in treating thyroid cancer, imaging the thyroid; in diagnosis of abnormal liver function, renal (kidney) blood flow and urinary tract obstruction. A strong gamma emitter, but used for beta therapy.Iridium-192 (74 d): Supplied in wire form for use as an internal radiotherapy source for cancer treatmentIron-59 (46 d): Used in studies of iron metabolism in the spleen.Lutetium-177 (6.7 d): emits just enough gammas for imaging while the beta radiation does the therapy on small (eg endocrine) tumours. Its half-life is long enough to allow sophisticated preparation for use.Palladium-103 (17 d): Used to make brachytherapy permanent implant seeds for early stage prostate cancer.Phosphorus-32 (14 d): Used in the treatment of polycythemia vera (excess red blood cells). Beta emitter.Potassium-42 (12 h): Used for the determination of exchangeable potassium in coronary blood flow.Rhenium-186 (3.8 d): Used for pain relief in bone cancer. Beta emitter with weak gamma for imaging.Rhenium-188 (17 h): Used to beta irradiate coronary arteries from an angioplasty balloon.Samarium-153 (47 h): Sm-153 is very effective in relieving the pain of secondary cancers lodged in the bone, sold as Quadramet. Also very effective for prostate and breast cancer. Beta emitter.Selenium-75 (120 d): Used as seleno-methionine to study the production of digestive enzymes.Sodium-24 (15 h): For studies of electrolytes within the body.Strontium-89 (50 d): Very effective in reducing the pain of prostate & bone cancer. Beta emitter.Xenon-133 (5 d): Used for pulmonary (lung) ventilation studies.Ytterbium-169 (32 d): Used for cerebrospinal fluid studies in the brain.Ytterbium-177 (1.9 h): Progenitor of Lu-177.Yttrium-90 (64 h): for brachytherapy and as silicate colloid for relieving pain of arthritis. Pure beta emitter.Radioisotopes of caesium, gold and ruthenium are also used in brachytherapy.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Half life Iridium\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a200ed82-7fbf-4ad6-813b-7e96f8125f04": {
-    "cop": 4,
-    "exp": "Locards principal of exchange states that whenever two bodies come in contact with each other, there is exchange of material between the two and so a criminal can be linked to crime."
+    "cop": 3,
+    "exp": "Locards principal of exchange states that whenever two bodies come in contact with each other, there is exchange of material between the two and so a criminal can be linked to crime.",
+    "hint_exp": "🎯 Think of \"for\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8f915616-d5f2-4721-8180-1f73df42d1ea": {
-    "cop": 1,
-    "exp": "Tuli's clinical staging is used for assessment of severity and progression of neural deficit Stage 1 :Patient unaware of neural deficit, physician detects plantar extensor and/or ankle clonus. Stage 2 : Patient aware of deficit but manages to walk with suppo, clumsiness of gait. Stage 3 : Paralysis in extension, sensory deficit less than 50% Stage 4 : III + flexor spasm/ paralysis in flexion/ flaccid/ sensory deficit more than 50%/ sphincters involved"
+    "cop": 0,
+    "exp": "Tuli's clinical staging is used for assessment of severity and progression of neural deficit Stage 1 :Patient unaware of neural deficit, physician detects plantar extensor and/or ankle clonus. Stage 2 : Patient aware of deficit but manages to walk with suppo, clumsiness of gait. Stage 3 : Paralysis in extension, sensory deficit less than 50% Stage 4 : III + flexor spasm/ paralysis in flexion/ flaccid/ sensory deficit more than 50%/ sphincters involved",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"flexion\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3734fd2a-551c-4104-9b17-c00db6643b41": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Soyabean Amongst Pulses o Highest calories-Soyabeano Highest protein-Soyabeano Highest fat-Soyabeano Highest iron-Soyabeano Highest thiamine-Soyabeano Highest riboflavin-Soyabeano Highest calcium-Horse gramo Highest Niacin-Peas dryo Highest vit C-Bengal gram"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Soyabean Amongst Pulses o Highest calories-Soyabeano Highest protein-Soyabeano Highest fat-Soyabeano Highest iron-Soyabeano Highest thiamine-Soyabeano Highest riboflavin-Soyabeano Highest calcium-Horse gramo Highest Niacin-Peas dryo Highest vit C-Bengal gram",
+    "hint_exp": "🧩 Your crush solved \"among pulses\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2ac2d1f7-6ff0-4bb6-bb85-e9a9733b5bf4": {
-    "cop": 1,
-    "exp": "Most of the IUCDs have an average life span of 3 years.\nExceptions are:"
+    "cop": 0,
+    "exp": "Most of the IUCDs have an average life span of 3 years.\nExceptions are:",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Among following IUCD which\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ba79c015-1784-4e49-9c41-8c8d2d6091c5": {
-    "cop": 3,
-    "exp": "The defect in Bater syndrome in thick ascending limb of Loop of Henle- | urinary loss of calcium & nephrocalcinosis The salt wasting and polyuria lead to dehydration- stimulates the R.A.A.S- secondary hyperaldosteronism. This explains the hypokalemia. ROMK receptors in TAL are affected leading to urinary loss of potassium. | intra-renal prostaglandins and hence indomethacin is prescribed Secondary aldosteronism explains the development of metabolic alkalosis"
+    "cop": 2,
+    "exp": "The defect in Bater syndrome in thick ascending limb of Loop of Henle- | urinary loss of calcium & nephrocalcinosis The salt wasting and polyuria lead to dehydration- stimulates the R.A.A.S- secondary hyperaldosteronism. This explains the hypokalemia. ROMK receptors in TAL are affected leading to urinary loss of potassium. | intra-renal prostaglandins and hence indomethacin is prescribed Secondary aldosteronism explains the development of metabolic alkalosis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Bater syndrome except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9e53955f-19c9-4ffa-afbb-934907be7da7": {
-    "cop": 4,
-    "exp": "ABO incompatibility is seen with Whole Blood Plasma Platelets -ABO incompatible plasma carries a high risk of transfusion reactions, therefore, plasma transfusions should always be ABO compatible. -The platelets bear the intrinsic ABO antigens. So, platelet-rich plasma and single donor platelets also should be preferably ABO compatible. -So, the answer of exclusion is cryoprecipitate. It is not carrying ABO antigens but should preferably be ABO compatible to avoid even the minimal risk of hemolytic reaction."
+    "cop": 3,
+    "exp": "ABO incompatibility is seen with Whole Blood Plasma Platelets -ABO incompatible plasma carries a high risk of transfusion reactions, therefore, plasma transfusions should always be ABO compatible. -The platelets bear the intrinsic ABO antigens. So, platelet-rich plasma and single donor platelets also should be preferably ABO compatible. -So, the answer of exclusion is cryoprecipitate. It is not carrying ABO antigens but should preferably be ABO compatible to avoid even the minimal risk of hemolytic reaction.",
+    "hint_exp": "🎯 Think of \"incompatibility seen with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4e7a3978-3fdf-4bda-8f5f-da1d470b0d11": {
-    "cop": 3,
-    "exp": "DYSTROPHIC CALCIFICATION : Pathogenesis : The final common pathway is the formation of crystalline calcium phosphate Process - two major phases: initiation (or nucleation) and Propagation * Both can occur intracellularly and extracellularly * Initiation of intracellular calcification occurs in the mitochondria * Initiators of extracellular dystrophic calcification include phospholipids found in membrane-bound vesicles - matrix vesicles Sites of Metastatic calcification * May occur in any normal tissue of the body but affects the following organs more commonly: * Kidneys, especially at the basement membrane of tubular epithelium and in the tubular lumina causing nephrocalcinosis * Lungs, especially in the alveolar walls. * Stomach, on the acid-secreting fundal glands. * Blood vessels, especially on the internal elastic lamina. * Cornea: another site affected by metastatic calcification. * Synovium of the joint causing pain and dysfunction. Tubular basement membrane in nephrocalcinosis due to hypercalcaemia REF : robbins 10th ed"
+    "cop": 2,
+    "exp": "DYSTROPHIC CALCIFICATION : Pathogenesis : The final common pathway is the formation of crystalline calcium phosphate Process - two major phases: initiation (or nucleation) and Propagation * Both can occur intracellularly and extracellularly * Initiation of intracellular calcification occurs in the mitochondria * Initiators of extracellular dystrophic calcification include phospholipids found in membrane-bound vesicles - matrix vesicles Sites of Metastatic calcification * May occur in any normal tissue of the body but affects the following organs more commonly: * Kidneys, especially at the basement membrane of tubular epithelium and in the tubular lumina causing nephrocalcinosis * Lungs, especially in the alveolar walls. * Stomach, on the acid-secreting fundal glands. * Blood vessels, especially on the internal elastic lamina. * Cornea: another site affected by metastatic calcification. * Synovium of the joint causing pain and dysfunction. Tubular basement membrane in nephrocalcinosis due to hypercalcaemia REF : robbins 10th ed",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"organs of all cells except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e7c72a2c-6bd8-473e-8c79-8c4b1a18fb2e": {
-    "cop": 3,
-    "exp": "Metal fume fever is an acute febrile illness associated with the inhalation of respirable paicles of zinc oxide."
+    "cop": 2,
+    "exp": "Metal fume fever is an acute febrile illness associated with the inhalation of respirable paicles of zinc oxide.",
+    "hint_exp": "🧩 Your crush solved \"related with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1553c8b1-0500-4a8d-9594-80810594c19e": {
-    "cop": 3,
-    "exp": "Viidagliptin is a DPP - 4 inhibitor which can lead to hepatotoxicity."
+    "cop": 2,
+    "exp": "Viidagliptin is a DPP - 4 inhibitor which can lead to hepatotoxicity.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following drug\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a1b14974-731e-4fc2-8edb-17401768e05c": {
-    "cop": 3,
-    "exp": "Ans-CNote-Most common cause - trauma most common nontraumatic - a Berry aneurysm* Most common cause of S AH is rupture of a secular aneurysm (excluding head trauma) - Harrison (a Saccular aneurysm are synonymous with Berry aneurysms and most commonly occurs in the anterior circulation on the circle of Willis)* Between 5% and 10% of strokes are due to SAH. Although hemorrhage is usually from rupture of an aneurysm or AV malformation (893-CMDT-10)* A saccular aneurysm (a berry aneurysm) are usually asymptomatic. They may be associated with polycystic kidney disease and co-arctation of the aorta* *** The hallmark of aneurismal rupture is blood in the CSF*** Sudden headache in the absence of focal neurologic symptoms is the hallmark of aneurismal rupture, focal deficits may occur (hemiparesis, aphasia, and abulia)* A mycotic aneurysm is an infected aneurysm resulting from either an extravascular or intravascular source of infection* Resulting from direct trauma to a vessels with secondary infections most commonly occurs in femoral arteries and less commonly in the arteries of neck* The putamen (Basal ganglia) is the most common site hypertensive haemorrhage*** Phenylpropanolamine (PPA) has been associated with hemorrhagic stroke use for weight loss**Resmussen's aneurysm is the dilation of small and medium-sized pulmonary artery** in a tuberculous cavity* The aneurysm involved in massive bleeding in cavitory tuberculous lesion is Bronchial artery* Most common site of peripheral aneurysms is - Popliteal artery** (923- Baily & Love 25th)* Nerve compressed by aneurysm of posterior communicating artery is - Occulomotor nerve*** Pseudoaneurysm in IV drug abusers is commonly found in Femoral, Brachial and radial artery* The best method to monitor intracranial pressure is - Intraventricular catheter*** Most common location of intracranial neurocysticercosis is Brain parenchyma (epileptic seizure is most common symptoms)Diagnostic strategy in SAHInvestigation of choiceMost sensitive investigation to determine etiology||Non contrast CT scan*DSA* of four vessels (both carotid & both vertebral) to define the anatomical details of aneurysm & to determine other unruptured aneurysm exists|If scan fails|Lumber puncture done to establish blood in CSF(Hallmark)* Most common site of rupture of Abdominal aortic aneurysm is - Laterally into the left retroperitoneum*** Subdural hemorrhage - results from tearing of the superior cerebral veins** at their point of entry into the superior sagittal sinus, caused by, blow on the front or back of the head* Cerebral hemorrhage- caused by rupture of the thin-walled lenticulostriate artery a branch of the middle cerebral artery"
+    "cop": 2,
+    "exp": "Ans-CNote-Most common cause - trauma most common nontraumatic - a Berry aneurysm* Most common cause of S AH is rupture of a secular aneurysm (excluding head trauma) - Harrison (a Saccular aneurysm are synonymous with Berry aneurysms and most commonly occurs in the anterior circulation on the circle of Willis)* Between 5% and 10% of strokes are due to SAH. Although hemorrhage is usually from rupture of an aneurysm or AV malformation (893-CMDT-10)* A saccular aneurysm (a berry aneurysm) are usually asymptomatic. They may be associated with polycystic kidney disease and co-arctation of the aorta* *** The hallmark of aneurismal rupture is blood in the CSF*** Sudden headache in the absence of focal neurologic symptoms is the hallmark of aneurismal rupture, focal deficits may occur (hemiparesis, aphasia, and abulia)* A mycotic aneurysm is an infected aneurysm resulting from either an extravascular or intravascular source of infection* Resulting from direct trauma to a vessels with secondary infections most commonly occurs in femoral arteries and less commonly in the arteries of neck* The putamen (Basal ganglia) is the most common site hypertensive haemorrhage*** Phenylpropanolamine (PPA) has been associated with hemorrhagic stroke use for weight loss**Resmussen's aneurysm is the dilation of small and medium-sized pulmonary artery** in a tuberculous cavity* The aneurysm involved in massive bleeding in cavitory tuberculous lesion is Bronchial artery* Most common site of peripheral aneurysms is - Popliteal artery** (923- Baily & Love 25th)* Nerve compressed by aneurysm of posterior communicating artery is - Occulomotor nerve*** Pseudoaneurysm in IV drug abusers is commonly found in Femoral, Brachial and radial artery* The best method to monitor intracranial pressure is - Intraventricular catheter*** Most common location of intracranial neurocysticercosis is Brain parenchyma (epileptic seizure is most common symptoms)Diagnostic strategy in SAHInvestigation of choiceMost sensitive investigation to determine etiology||Non contrast CT scan*DSA* of four vessels (both carotid & both vertebral) to define the anatomical details of aneurysm & to determine other unruptured aneurysm exists|If scan fails|Lumber puncture done to establish blood in CSF(Hallmark)* Most common site of rupture of Abdominal aortic aneurysm is - Laterally into the left retroperitoneum*** Subdural hemorrhage - results from tearing of the superior cerebral veins** at their point of entry into the superior sagittal sinus, caused by, blow on the front or back of the head* Cerebral hemorrhage- caused by rupture of the thin-walled lenticulostriate artery a branch of the middle cerebral artery",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of subarachnoid hemorrhage\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a6221e86-b22e-44a7-9aee-168cecd5e1d2": {
-    "cop": 2,
-    "exp": "widely used classification for physeal injury) It is a transverse fracture through the hypertrophic or calcified zone of plate , but towards the edge the fracture deviates away, from physis &split of triangular metaphyseal segment of bone i.e thurston Holland fragment."
+    "cop": 1,
+    "exp": "widely used classification for physeal injury) It is a transverse fracture through the hypertrophic or calcified zone of plate , but towards the edge the fracture deviates away, from physis &split of triangular metaphyseal segment of bone i.e thurston Holland fragment.",
+    "hint_exp": "🎯 Think of \"Thurston Holland sign seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "38fd710f-c0b5-457e-84aa-9809848ad3f1": {
-    "cop": 1,
-    "exp": "Most common type of TAPVC is supracardiac type,where 2 pulmonary vein join to form common pulmonary vein that may drains to left innominate vein or right superior venacava. Classification of TAPVC : Darling&;s classification (1957) is the most popular. 1. Type I-Supracardiac connections : 45% of TAPVC patients.The common venous confluence joins SVC. 2. Type II-Cardiac TAPVC It accounts for 25% of cases.CVC drains into coronary sinus or directly into RA. 3. Type III-Infracardiac TAPVC Approx.21% of cases.CVC drains into hepatic vein,ductus venosus,poal vein or IVC.The common pulmonary vein penetrates the diaphragm through the esophageal hiatus. 4. Type IV-Mixed Type It accounts for <10% of cases. Ref : Ghai essential of pediatrics, eighth edition, p.no:426"
+    "cop": 0,
+    "exp": "Most common type of TAPVC is supracardiac type,where 2 pulmonary vein join to form common pulmonary vein that may drains to left innominate vein or right superior venacava. Classification of TAPVC : Darling&;s classification (1957) is the most popular. 1. Type I-Supracardiac connections : 45% of TAPVC patients.The common venous confluence joins SVC. 2. Type II-Cardiac TAPVC It accounts for 25% of cases.CVC drains into coronary sinus or directly into RA. 3. Type III-Infracardiac TAPVC Approx.21% of cases.CVC drains into hepatic vein,ductus venosus,poal vein or IVC.The common pulmonary vein penetrates the diaphragm through the esophageal hiatus. 4. Type IV-Mixed Type It accounts for <10% of cases. Ref : Ghai essential of pediatrics, eighth edition, p.no:426",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"most common type total\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "329fb8a4-1832-4837-81f0-b057bce2598c": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"year male complained recurrent\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3bc7c461-b8b5-4f5e-bfca-83f6b8147be3": {
-    "cop": 1,
-    "exp": "Ans. is a, i.e. Falope ring* Chances of reversal are best when tubectomy was done with: Laparoscopic clips > Laparoscopic falope rings* Chances of Reversal are least with: Cauterization."
+    "cop": 0,
+    "exp": "Ans. is a, i.e. Falope ring* Chances of reversal are best when tubectomy was done with: Laparoscopic clips > Laparoscopic falope rings* Chances of Reversal are least with: Cauterization.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"sterilization\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ac86cd8a-54af-46bc-b7a6-aea87bf6d3bd": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Medullary carcinoma thyroid"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Medullary carcinoma thyroid",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Amyloid found\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "77e323e2-621c-4577-9799-17a1d84ffdf7": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"preganancy\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "87ad24f6-8e65-4760-85c9-27f15f7c0d4a": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"yet to be available for\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "352dec3f-6019-46b7-89ad-02b74c3c1ada": {
-    "cop": 4,
-    "exp": "A randomized placebo controlled trial (ACTG 076) demonstrated that zidovudine (ZDV) given at the beginning of the second trimester, during labor and delivery, and to the newborn for 6 weeks significantly reduced the transmission of HIV to the newborn from 25.5 percent in the control group to 8.3 percent in the treatment group. Thus, ZDV can be highly effective for primary prevention in the newborn. Although a cesarean section has been shown to reduce veical transmission, it is less effective than ZDV and is not a routinely recommended procedure for HIV-infected pregnant women. HIV can be transmitted by breast feeding, and in some studies, the risk is increased by 14 percent. However, breast feeding has no impact on the highest risk of transmission, which occurs during gestation, labor, and delivery. Early identification of newborns at risk of HIV infection will guide the medical management and improve outcomes. It has no impact on the primary prevention of the infection to the newborn. Finally, all HIV-infected women should be made aware of the benefit of ZDV so they can make informed choices."
+    "cop": 3,
+    "exp": "A randomized placebo controlled trial (ACTG 076) demonstrated that zidovudine (ZDV) given at the beginning of the second trimester, during labor and delivery, and to the newborn for 6 weeks significantly reduced the transmission of HIV to the newborn from 25.5 percent in the control group to 8.3 percent in the treatment group. Thus, ZDV can be highly effective for primary prevention in the newborn. Although a cesarean section has been shown to reduce veical transmission, it is less effective than ZDV and is not a routinely recommended procedure for HIV-infected pregnant women. HIV can be transmitted by breast feeding, and in some studies, the risk is increased by 14 percent. However, breast feeding has no impact on the highest risk of transmission, which occurs during gestation, labor, and delivery. Early identification of newborns at risk of HIV infection will guide the medical management and improve outcomes. It has no impact on the primary prevention of the infection to the newborn. Finally, all HIV-infected women should be made aware of the benefit of ZDV so they can make informed choices.",
+    "hint_exp": "🧩 Your crush solved \"pregnant women\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "55f8bad7-bd5b-4bd5-bf07-f9e0bbf8fbe5": {
-    "cop": 2,
-    "exp": "Movement of tibial tuberosity towards lateral border of patella Photographic manual of regional ohopaedic and neurological tests By Joseph J.Cipriano 4/e p374] Modified Helfet test * While the patient is sitting on the edge of a table with the knee flexed 900 , instruct him or her to extend the knee. * If knee mechanics are within normal limits, the tibial tuberosity can be seen in line with the midline of the patella in full flexion; during extension, the tibia rotates and the tibial tubercle moves into line with the lateral border of the patella. gastrointestinal, cutaneous, musculoskeletal, pulmonary, and renal systems through progressive interstitial fibrosis. Small aerioles in the aforementioned systems show obliteration caused by intimal hyperplasia accompanied by progressive interstitial fibrosis. * In the skin, the changes begin in the fingers and hands and consist of sclerotic atrophy, which is characterized by increased dermal collagen, epidermal atrophy, and loss of skin adnexal structures. Two antinuclear antibodies are unique to systemic sclerosis. * One is Scl-70, which is found in diffuse progressive systemic sclerosis, and the other is an anticentromere antibody found in the CREST syndrome, a variant of progressive systemic sclerosis. * The CREST syndrome is characterized by calcinosis, Raynaud's syndrome (episodic ischemia of digits), esophageal dysmotility, sclerodactyly, and telangiectasia. Pulmonary hypeension and primary biliary cirrhosis are common in the CREST syndrome, but the kidneys are usually spared. * In contrast to the histologic findings with systemic sclerosis, a conjunctival biopsy that reveals noncaseating granulomas is suggestive of sarcoidosis; * Failure of the tibia to rotate during extension indicates a meniscal lesion or cruciate ligament involvement. Mechanism during flexion and extension of knee joint: The flexion and extension movements at the knee joint are invariably accompanied by rotations or conjunct rotation. * Rotation during standing position (i.e. when the foot is firmly placed on the ground) When the leg is extended, medial rotation of the femur occurs during the last 30 degrees of extension, and When the leg is flexed, lateral rotation of the femur occurs during the initial stages of flexion. * Rotation in Sitting position (i.e. when the foot is off the ground) In sitting position during extension and flexion of the knee joint, the tibia rotates instead of femur. During extension, the tibia rotates laterally to lock and stabilize the knee.During flexion the tibia rotates medially to Pain sensitive Pain Insensitive Scalp Pia-arachnoid Periostium Pial veins Dural senuses Brain Parenchyma Middle meaningeal aery Ventricular ependyma Falx cereberi Choroid plexus Proximal segments of the large pial aeries unlock the knee"
+    "cop": 1,
+    "exp": "Movement of tibial tuberosity towards lateral border of patella Photographic manual of regional ohopaedic and neurological tests By Joseph J.Cipriano 4/e p374] Modified Helfet test * While the patient is sitting on the edge of a table with the knee flexed 900 , instruct him or her to extend the knee. * If knee mechanics are within normal limits, the tibial tuberosity can be seen in line with the midline of the patella in full flexion; during extension, the tibia rotates and the tibial tubercle moves into line with the lateral border of the patella. gastrointestinal, cutaneous, musculoskeletal, pulmonary, and renal systems through progressive interstitial fibrosis. Small aerioles in the aforementioned systems show obliteration caused by intimal hyperplasia accompanied by progressive interstitial fibrosis. * In the skin, the changes begin in the fingers and hands and consist of sclerotic atrophy, which is characterized by increased dermal collagen, epidermal atrophy, and loss of skin adnexal structures. Two antinuclear antibodies are unique to systemic sclerosis. * One is Scl-70, which is found in diffuse progressive systemic sclerosis, and the other is an anticentromere antibody found in the CREST syndrome, a variant of progressive systemic sclerosis. * The CREST syndrome is characterized by calcinosis, Raynaud's syndrome (episodic ischemia of digits), esophageal dysmotility, sclerodactyly, and telangiectasia. Pulmonary hypeension and primary biliary cirrhosis are common in the CREST syndrome, but the kidneys are usually spared. * In contrast to the histologic findings with systemic sclerosis, a conjunctival biopsy that reveals noncaseating granulomas is suggestive of sarcoidosis; * Failure of the tibia to rotate during extension indicates a meniscal lesion or cruciate ligament involvement. Mechanism during flexion and extension of knee joint: The flexion and extension movements at the knee joint are invariably accompanied by rotations or conjunct rotation. * Rotation during standing position (i.e. when the foot is firmly placed on the ground) When the leg is extended, medial rotation of the femur occurs during the last 30 degrees of extension, and When the leg is flexed, lateral rotation of the femur occurs during the initial stages of flexion. * Rotation in Sitting position (i.e. when the foot is off the ground) In sitting position during extension and flexion of the knee joint, the tibia rotates instead of femur. During extension, the tibia rotates laterally to lock and stabilize the knee.During flexion the tibia rotates medially to Pain sensitive Pain Insensitive Scalp Pia-arachnoid Periostium Pial veins Dural senuses Brain Parenchyma Middle meaningeal aery Ventricular ependyma Falx cereberi Choroid plexus Proximal segments of the large pial aeries unlock the knee",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"healthy young athlete sitting\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3e660734-4d9e-4bdb-aac7-632e66837092": {
-    "cop": 4,
-    "exp": "The lower regions of the lung have a relatively small resting volume and large increase in volume compared with those near the top of the lung. The other choices are incorrect: The airway resistance of the upper regions is probably somewhat less than that of the lower regions because the parenchyma is better expanded there. However, in any event, this is not the explanation of the difference in ventilation. There is no evidence that there is less surfactant in the upper regions of the lung. It is true that the blood flow to the lower regions is higher than to the upper regions, but this is not relevant here."
+    "cop": 3,
+    "exp": "The lower regions of the lung have a relatively small resting volume and large increase in volume compared with those near the top of the lung. The other choices are incorrect: The airway resistance of the upper regions is probably somewhat less than that of the lower regions because the parenchyma is better expanded there. However, in any event, this is not the explanation of the difference in ventilation. There is no evidence that there is less surfactant in the upper regions of the lung. It is true that the blood flow to the lower regions is higher than to the upper regions, but this is not relevant here.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the upright human lung\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "436f8498-5ee4-47aa-b75c-7d3f214ad787": {
-    "cop": 3,
-    "exp": "The clinical features points toward a diagnosis of Parkinson disease. It is characterized by loss of dopaminergic neurons that project from the substantia nigra to the putamen. Other options: Serotonergic raphe neurons have been implicated in the control of mood and descending pain modulation (analgesia) pathway. GABAergic pathway loss from striatum (caudate nucleus + putamen) results in hyperkinetic disorder, Huntington disease. Loss of nucleus basalis of Meyne in the basal forebrain, a diffuse cholinergic projection to the entire neocoex, the amygdala, and the hippocampus leads to Alzheimer disease."
+    "cop": 2,
+    "exp": "The clinical features points toward a diagnosis of Parkinson disease. It is characterized by loss of dopaminergic neurons that project from the substantia nigra to the putamen. Other options: Serotonergic raphe neurons have been implicated in the control of mood and descending pain modulation (analgesia) pathway. GABAergic pathway loss from striatum (caudate nucleus + putamen) results in hyperkinetic disorder, Huntington disease. Loss of nucleus basalis of Meyne in the basal forebrain, a diffuse cholinergic projection to the entire neocoex, the amygdala, and the hippocampus leads to Alzheimer disease.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2d0672c6-db55-4c49-bbe6-dee3694e71a8": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Remove tube & reattempt intubation o Dont get confuse with answer of previous question. o There is difference between option 'a' of previous question and option 'a' of this question : ? Previous question - confirm the position of endotracheal tube. This question - confirm the position of ET tube by chest x-ray. o Best answer would have been, confirm the position of endotracheal tube. o But, chest x-ray cannot distinguish between tracheal and esophageal intubation and cannot confirm the position of the ET tube in trachea. Chest x-ray is done to confirm the correct length of tube (not the position). Method to confirm tracheal intubation 1. Tests which suggest tracheal placement (not confirmatory) Symmetrical Bilateral chest movements when reservoir bag is squeezed. Equal breath sounds over lung fields when reservoir bag is squeezed. Absence of gurgle over lung fields when reservoir bag is squeezed. Misting of the tube (water vapour deposition) during expiration. Feeling of correct lung compliance and refilling of bag during expiration. 2. Confirmatory tests Capnography --> Measures end tidal CO2 in expired gas. Esophageal detector device. o None of these method has been mentioned in the options of this question. o Amongst the given options, best course of action is to remove the tube and reattempt intubation : ? \"If there is any doubt about tube placement the tube should be removed\" --- Lee."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Remove tube & reattempt intubation o Dont get confuse with answer of previous question. o There is difference between option 'a' of previous question and option 'a' of this question : ? Previous question - confirm the position of endotracheal tube. This question - confirm the position of ET tube by chest x-ray. o Best answer would have been, confirm the position of endotracheal tube. o But, chest x-ray cannot distinguish between tracheal and esophageal intubation and cannot confirm the position of the ET tube in trachea. Chest x-ray is done to confirm the correct length of tube (not the position). Method to confirm tracheal intubation 1. Tests which suggest tracheal placement (not confirmatory) Symmetrical Bilateral chest movements when reservoir bag is squeezed. Equal breath sounds over lung fields when reservoir bag is squeezed. Absence of gurgle over lung fields when reservoir bag is squeezed. Misting of the tube (water vapour deposition) during expiration. Feeling of correct lung compliance and refilling of bag during expiration. 2. Confirmatory tests Capnography --> Measures end tidal CO2 in expired gas. Esophageal detector device. o None of these method has been mentioned in the options of this question. o Amongst the given options, best course of action is to remove the tube and reattempt intubation : ? \"If there is any doubt about tube placement the tube should be removed\" --- Lee.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"neonate having congenital diaphragmatic\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1eba8abc-c003-4ab8-998c-286a62da4f88": {
-    "cop": 2,
-    "exp": "Most common complication which can occur due to forceful traction of cord is Uterine inversion Other causes of Uterine inversion are: Fundal implantation of placenta Uterine atony Cord traction applied before placental separation Abnormally adhered placentation e.g. placenta accreta. Management: IV access Fluids, blood Try and reposit ASAP Manual reposition Hydrostatic reposition: O' SULLIVAN If it fails, surgical interventions like Haultain's surgery and Huntington procedure may be done"
+    "cop": 1,
+    "exp": "Most common complication which can occur due to forceful traction of cord is Uterine inversion Other causes of Uterine inversion are: Fundal implantation of placenta Uterine atony Cord traction applied before placental separation Abnormally adhered placentation e.g. placenta accreta. Management: IV access Fluids, blood Try and reposit ASAP Manual reposition Hydrostatic reposition: O' SULLIVAN If it fails, surgical interventions like Haultain's surgery and Huntington procedure may be done",
+    "hint_exp": "🧩 Your crush solved \"cord\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "858f866d-2e84-400e-bb1c-3e56bd20d931": {
-    "cop": 3,
-    "exp": "Ans. (c) 36 hoursRef: Goodman Gillman llthed /573"
+    "cop": 2,
+    "exp": "Ans. (c) 36 hoursRef: Goodman Gillman llthed /573",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Digoxin\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "656d492b-ab20-412b-86e5-3afa203513a0": {
-    "cop": 3,
-    "exp": "Movements affected in Erb’s palsy\n-        Shoulder\n\n   Abduction\n   Lateral rotation\n\n-        Forearm\n\n   Flexion\n   Supination\n\n-        Biceps & Supinator jerks lost\n-        Sensation over lower part of deltoid lost"
+    "cop": 2,
+    "exp": "Movements affected in Erb’s palsy\n-        Shoulder\n\n   Abduction\n   Lateral rotation\n\n-        Forearm\n\n   Flexion\n   Supination\n\n-        Biceps & Supinator jerks lost\n-        Sensation over lower part of deltoid lost",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"year fell from motor\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "565db13c-cf4f-437f-b733-c377446aa80c": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Calcaneum"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Calcaneum",
+    "hint_exp": "🎯 Think of \"Severe disease involves\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bdd341b6-7117-4208-8adc-a692a43291bb": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Willebrand factor synthesized which\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "da0907c4-c5a9-474e-8e7a-26e38d90d6e2": {
-    "cop": 3,
-    "exp": "Dipalmitoyl lecithin is a very effective surface-active agent and a major constituent of the surfactant preventing adherence, due to surface tension, of the inner surfaces of the lungs. Its absence from the lungs of premature infants causes respiratory distress syndrome.​\nReference: : HARPERS ILLUSTRATED BIOCHEMISTRY30th ed,  Page No:216"
+    "cop": 2,
+    "exp": "Dipalmitoyl lecithin is a very effective surface-active agent and a major constituent of the surfactant preventing adherence, due to surface tension, of the inner surfaces of the lungs. Its absence from the lungs of premature infants causes respiratory distress syndrome.​\nReference: : HARPERS ILLUSTRATED BIOCHEMISTRY30th ed,  Page No:216",
+    "hint_exp": "🧩 Your crush solved \"the following lipids\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2f94df5f-8a2c-4e82-85b5-5198689f6569": {
-    "cop": 3,
-    "exp": "Rhegmatous Retinal detachment is a complication of pathological myopia, not Tractional Retinal detachment."
+    "cop": 2,
+    "exp": "Rhegmatous Retinal detachment is a complication of pathological myopia, not Tractional Retinal detachment.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"complication pathological myopia among\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8dbfe4ac-fe50-4ed0-8025-854b0687f6c3": {
-    "cop": 3,
-    "exp": "(Ref: KDT 6/e p523) Mechanism of action nitrates in classical angina is reduction in preload (due to venodilation) and in variant angina is coronary vasodilation."
+    "cop": 2,
+    "exp": "(Ref: KDT 6/e p523) Mechanism of action nitrates in classical angina is reduction in preload (due to venodilation) and in variant angina is coronary vasodilation.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Nitroglycerine exes beneficial effects\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "95a8045a-a95c-48bd-8540-1dfc724c1ef0": {
-    "cop": 2,
-    "exp": "Abnormal left axis detion was found with left-sided was pneumothorax .Relevant QRS abnormalities (incomplete RBBB and T-wave inversion)in (10%). QRS amplitude in V2-V6 leads was significantly decreased in left-sided pneumothorax. Ref Harrison 20th edition pg 1536"
+    "cop": 1,
+    "exp": "Abnormal left axis detion was found with left-sided was pneumothorax .Relevant QRS abnormalities (incomplete RBBB and T-wave inversion)in (10%). QRS amplitude in V2-V6 leads was significantly decreased in left-sided pneumothorax. Ref Harrison 20th edition pg 1536",
+    "hint_exp": "🎯 Think of \"the following ECG changes\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ce68cb18-ab2c-4ec7-86f1-4235a1f7ef15": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"bone marrow\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8d7ce4b9-2d19-4385-9fd9-0456e5a01ed6": {
-    "cop": 1,
-    "exp": "Valproate Antiseizure drug In addition, it is used as a mood stabilizer in bipolar disorder and as prophylactic treatment for migraine. Least effective against depression Treatment : Pharmcotherapy- TCAs SSRI(M.C.) SNRI MAO inhibitors Atypical antidepressants Psychotherapy ECT"
+    "cop": 0,
+    "exp": "Valproate Antiseizure drug In addition, it is used as a mood stabilizer in bipolar disorder and as prophylactic treatment for migraine. Least effective against depression Treatment : Pharmcotherapy- TCAs SSRI(M.C.) SNRI MAO inhibitors Atypical antidepressants Psychotherapy ECT",
+    "hint_exp": "🧩 Your crush solved \"the following medication\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ea456522-e2a4-4444-82e3-3bd23dbb0434": {
-    "cop": 2,
-    "exp": "Tonic neck reflex is divided into two types\n\nAsymmetric Tonic neck reflex\nSymmetric Tonic neck reflex"
+    "cop": 1,
+    "exp": "Tonic neck reflex is divided into two types\n\nAsymmetric Tonic neck reflex\nSymmetric Tonic neck reflex",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a child at birth\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e2ff2fab-fe59-4c36-9b83-df821ae85586": {
-    "cop": 1,
-    "exp": "Ans. is 'a' Autism \"Difficulty in concentration and communication, delayed speech and problems in forming social relationship in early childhood suggests the diagnosis of Autism\"Essentials of Diagnosis and Typical Features of AutismOnset in infancy or early childhood (before age of 3 years)Abnormal language and speech development (Abnormal communication)Inability to develop normal social skill (lack of eye contact gestures and facial expression)Understand little or no language (therefore fail to acquire speech)Deficient comprehension and communicative use of speech and gesture.Behavioural peculiarities such as ritualized repetitive or stereotyped behaviour and rigidity.Difficulty in concentrationSevere deficit in social responsiveness and interpersonal skillsIntrusive stereotypes (Repetitive behaviour) together with inability to concentrate may prevent children from engaging in meaningful activity or social interaction (difficulty in making friends)Do not engage in pretended play (which starts before age of 2 in normal children)Also knowAbout 75% of children with autism are mentally retardedEpilepsy develops in one fifth to one third of autistic individuals.EEG abnormalities are noted in half of the patients."
+    "cop": 0,
+    "exp": "Ans. is 'a' Autism \"Difficulty in concentration and communication, delayed speech and problems in forming social relationship in early childhood suggests the diagnosis of Autism\"Essentials of Diagnosis and Typical Features of AutismOnset in infancy or early childhood (before age of 3 years)Abnormal language and speech development (Abnormal communication)Inability to develop normal social skill (lack of eye contact gestures and facial expression)Understand little or no language (therefore fail to acquire speech)Deficient comprehension and communicative use of speech and gesture.Behavioural peculiarities such as ritualized repetitive or stereotyped behaviour and rigidity.Difficulty in concentrationSevere deficit in social responsiveness and interpersonal skillsIntrusive stereotypes (Repetitive behaviour) together with inability to concentrate may prevent children from engaging in meaningful activity or social interaction (difficulty in making friends)Do not engage in pretended play (which starts before age of 2 in normal children)Also knowAbout 75% of children with autism are mentally retardedEpilepsy develops in one fifth to one third of autistic individuals.EEG abnormalities are noted in half of the patients.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"year with normal developmental\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "db14de0e-d1b6-485f-be2e-fdf9c06a13f7": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "aeed9096-2f58-4116-9de3-7bba21dc5c42": {
-    "cop": 2,
-    "exp": "- the process of phagocytosis is fuher enhanced when micro organisms are coated with specific proteins, opsonins from the serum. - opsonins establish a bond between bacteria and bacteria and the membrane of the phagocytic cell. - C3b is opsonin generated by activation of complement pathway. Reference : Harsh mohan text book of pathology, 7th edition, pg no:121 <\\p>"
+    "cop": 1,
+    "exp": "- the process of phagocytosis is fuher enhanced when micro organisms are coated with specific proteins, opsonins from the serum. - opsonins establish a bond between bacteria and bacteria and the membrane of the phagocytic cell. - C3b is opsonin generated by activation of complement pathway. Reference : Harsh mohan text book of pathology, 7th edition, pg no:121 <\\p>",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Opsonins\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9f48e6c8-d4ff-4a6c-b969-44b34cc0c651": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"primary trauma from occlusion\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e456bf48-f38d-4a26-bf5d-0b9ccd07e8ad": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"maximum permissible dose radiation\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "64fea340-adc4-4c45-bb1b-88b920be1097": {
-    "cop": 3,
-    "exp": "Recurrent laryngeal nerve supplies all intrinsic muscles of larynx except cricothyroid muscle which is supplied by superior laryngeal nerve (external laryngeal branch)."
+    "cop": 2,
+    "exp": "Recurrent laryngeal nerve supplies all intrinsic muscles of larynx except cricothyroid muscle which is supplied by superior laryngeal nerve (external laryngeal branch).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"surgeon performing thyroidectomy should\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c07cd135-1e41-4fbf-8c33-53d0cb6ac4e9": {
-    "cop": 1,
-    "exp": "Bechet's Disease: A painful aphthous ulcer- aka oroculoGenitalSyndrome Sign / symptom Points Ocular Lesions Genital aphthosis Oral aphthosis Skin lesions Neurological manifestations Vascular manifestations Positive pathergy test* 2 2 2 1 1 1 1* *Pathergy test is optional and the primary scoring system does not include pathergy testing. However, where pathergy testing is conducted one extra point may be assigned for a positive result. Pathergy Test: Site: Commonly volar aspect of foreman Intradermal injection of 0.1ml isotonic salt solution using 20 G needle without prior disinfection of the injection of the injection site. 3-5 mm intradermally, at an angle of 45 degree. Reading - after 24-48 hours +ve result-Erythematous papule or pustule (>2 mm) at pick site."
+    "cop": 0,
+    "exp": "Bechet's Disease: A painful aphthous ulcer- aka oroculoGenitalSyndrome Sign / symptom Points Ocular Lesions Genital aphthosis Oral aphthosis Skin lesions Neurological manifestations Vascular manifestations Positive pathergy test* 2 2 2 1 1 1 1* *Pathergy test is optional and the primary scoring system does not include pathergy testing. However, where pathergy testing is conducted one extra point may be assigned for a positive result. Pathergy Test: Site: Commonly volar aspect of foreman Intradermal injection of 0.1ml isotonic salt solution using 20 G needle without prior disinfection of the injection of the injection site. 3-5 mm intradermally, at an angle of 45 degree. Reading - after 24-48 hours +ve result-Erythematous papule or pustule (>2 mm) at pick site.",
+    "hint_exp": "🎯 Think of \"revised guideline Behcet disease\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4e936e41-1b0d-4626-aa2d-967235b076b7": {
-    "cop": 3,
-    "exp": "Psychologist have shown and established that we learn best from people whom we respect and regard. Leaders are agents of change and they can be made us- of in health education work. If leader are convinced first about a given programme the rest of task of implementing the programme will be easy. Attributes of leader are: - He understands needs and demands of community - Takes the initiative - Identifies himself with community - Honest - Considerate - Easily accessible to the people - Provides proper guidance - Is receptive to views and suggestion of people - Selfless - Impaial - Sincere - Possesses the requisite skill and knowledge of eliciting' cooperation and achieving coordination of the various official and non official organization."
+    "cop": 2,
+    "exp": "Psychologist have shown and established that we learn best from people whom we respect and regard. Leaders are agents of change and they can be made us- of in health education work. If leader are convinced first about a given programme the rest of task of implementing the programme will be easy. Attributes of leader are: - He understands needs and demands of community - Takes the initiative - Identifies himself with community - Honest - Considerate - Easily accessible to the people - Provides proper guidance - Is receptive to views and suggestion of people - Selfless - Impaial - Sincere - Possesses the requisite skill and knowledge of eliciting' cooperation and achieving coordination of the various official and non official organization.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"implementation health programme best\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bc44ad5d-f68a-4518-9282-f94dbaf3a51b": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Presternal area Keloids ---> It is a scar which shows extreme overgrowth so that scar tissues grows beyond the limits of original wounds and shows no tendency to resolve. Keloids grow on paicular sites, these are ? a) Central chests (probably most common, not sure) b) Back c) Shoulder d) Earlobes Other points about Keloids & hvperophic scars Hyperophic scars (FITS) and keloids represent an overabundance of fibroplasia in the dermal healing process. They are both characterized by excessive collagen deposition versus collagen degradation. HTS rise above the skin level but stay within the confines of the original wound and often regress over time. Keloids are defined as scars that grow beyond the border of the original wound and rarely regress spontaneously. Both HTS and keloids occur after trauma to the skin, and may be tender, pruritic, and cause a burning sensation. Keloids are more prevalent among dark pigmented ethnicitics (i.e. Africans, Asians & Hispanics) HTS usually develop within 4 weeks after trauma Keloids tend to occur 3 months to years after the trauma."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Presternal area Keloids ---> It is a scar which shows extreme overgrowth so that scar tissues grows beyond the limits of original wounds and shows no tendency to resolve. Keloids grow on paicular sites, these are ? a) Central chests (probably most common, not sure) b) Back c) Shoulder d) Earlobes Other points about Keloids & hvperophic scars Hyperophic scars (FITS) and keloids represent an overabundance of fibroplasia in the dermal healing process. They are both characterized by excessive collagen deposition versus collagen degradation. HTS rise above the skin level but stay within the confines of the original wound and often regress over time. Keloids are defined as scars that grow beyond the border of the original wound and rarely regress spontaneously. Both HTS and keloids occur after trauma to the skin, and may be tender, pruritic, and cause a burning sensation. Keloids are more prevalent among dark pigmented ethnicitics (i.e. Africans, Asians & Hispanics) HTS usually develop within 4 weeks after trauma Keloids tend to occur 3 months to years after the trauma.",
+    "hint_exp": "🧩 Your crush solved \"hyperophic keloid\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f7053e92-8317-4b62-8489-4d08ddf6d37e": {
-    "cop": 3,
-    "exp": "Spinal anesthesia is an absolute contra-indication in severe hea disease as it can cause severe hemodynamic instability Etomidate is cardio vascular stable Propofol can be used with caution in patients with severe hea disease Epidural anesthesia can be used with caution in patient with severe hea disease"
+    "cop": 2,
+    "exp": "Spinal anesthesia is an absolute contra-indication in severe hea disease as it can cause severe hemodynamic instability Etomidate is cardio vascular stable Propofol can be used with caution in patients with severe hea disease Epidural anesthesia can be used with caution in patient with severe hea disease",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"patient with severe aoic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a64fad74-e586-4222-b3b1-d750ba893934": {
-    "cop": 4,
-    "exp": "Premedication advantages : anxiolysis,to decrease the dose of anesthetic and analgesic drugs,to prevent complications like aspiration,DVT Drugs used are : Anxiolytoics,sedatives,antisialogogues,anti-emetics,analgesics,antacids."
+    "cop": 3,
+    "exp": "Premedication advantages : anxiolysis,to decrease the dose of anesthetic and analgesic drugs,to prevent complications like aspiration,DVT Drugs used are : Anxiolytoics,sedatives,antisialogogues,anti-emetics,analgesics,antacids.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"anaesthesia\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "610c0c60-3671-4d6a-8933-b3b8326ea06d": {
-    "cop": 4,
-    "exp": "The most common cause of dysfunctional uterine bleeding is anovulation. This is caused by excessive and prolonged estrogen effect without the postovulatory progesterone effect. This occurs most often around menarche and menopause, when subtle hormonal imbalances commonly occur. An estrogenic stimulation causes the endometrial glands to proliferate. Persistent proliferation without a progesterone phase will eventually break down and bleed even though there is no secretory change present and the stroma is not menstrual. That is why this is called \"anovulation bleed,\" because it is a non-ovulatory bleed that may seem like normal menstruation. Asynchronous secretory endometrium refers to secretory endometrium that has a mismatch of 2 or more days between the glands and the stroma. For example, the glands may be at day 17 while the stroma shows more maturity, corresponding to day 22. This is a type of dysfunctional ovulatory bleeding and clinically presents with infeility. It is usually due to an inadequate luteal phase because the corpus luteum is not producing enough progesterone even though ovulation has occurred. Decidualized stroma with inactive glands is the common histologic appearance of patients taking oral contraceptives. These patients have asynchronous glands and stroma. The glands are usually not active and the stroma appears to be ready for implantation. This reves to normal with discontinuation of oral contraceptives. Early proliferative endometrium and late secretory endometrium (choice D) are physiologic phases of the normal menstrual cycle. Ref: Hoffman B.L., Schorge J.O., Schaffer J.I., Halvorson L.M., Bradshaw K.D., Cunningham F.G., Calver L.E. (2012). Chapter 8. Abnormal Uterine Bleeding. In B.L. Hoffman, J.O. Schorge, J.I. Schaffer, L.M. Halvorson, K.D. Bradshaw, F.G. Cunningham, L.E. Calver (Eds), Williams Gynecology, 2e."
+    "cop": 3,
+    "exp": "The most common cause of dysfunctional uterine bleeding is anovulation. This is caused by excessive and prolonged estrogen effect without the postovulatory progesterone effect. This occurs most often around menarche and menopause, when subtle hormonal imbalances commonly occur. An estrogenic stimulation causes the endometrial glands to proliferate. Persistent proliferation without a progesterone phase will eventually break down and bleed even though there is no secretory change present and the stroma is not menstrual. That is why this is called \"anovulation bleed,\" because it is a non-ovulatory bleed that may seem like normal menstruation. Asynchronous secretory endometrium refers to secretory endometrium that has a mismatch of 2 or more days between the glands and the stroma. For example, the glands may be at day 17 while the stroma shows more maturity, corresponding to day 22. This is a type of dysfunctional ovulatory bleeding and clinically presents with infeility. It is usually due to an inadequate luteal phase because the corpus luteum is not producing enough progesterone even though ovulation has occurred. Decidualized stroma with inactive glands is the common histologic appearance of patients taking oral contraceptives. These patients have asynchronous glands and stroma. The glands are usually not active and the stroma appears to be ready for implantation. This reves to normal with discontinuation of oral contraceptives. Early proliferative endometrium and late secretory endometrium (choice D) are physiologic phases of the normal menstrual cycle. Ref: Hoffman B.L., Schorge J.O., Schaffer J.I., Halvorson L.M., Bradshaw K.D., Cunningham F.G., Calver L.E. (2012). Chapter 8. Abnormal Uterine Bleeding. In B.L. Hoffman, J.O. Schorge, J.I. Schaffer, L.M. Halvorson, K.D. Bradshaw, F.G. Cunningham, L.E. Calver (Eds), Williams Gynecology, 2e.",
+    "hint_exp": "🎯 Think of \"this type of endometrium\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1b29e59f-f0d3-45df-9535-e8f52de7fc49": {
-    "cop": 2,
-    "exp": "Impotence is not a ground for defense in a case of Rape. That is to say, that rape can be committed even if a person is impotent. Ref: Krishan Vij textbook of forensic medicine, 5th edition pg : 393"
+    "cop": 1,
+    "exp": "Impotence is not a ground for defense in a case of Rape. That is to say, that rape can be committed even if a person is impotent. Ref: Krishan Vij textbook of forensic medicine, 5th edition pg : 393",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Impotence pleaded ground defense\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a9ee3613-f780-4522-bea7-3f573c445d2f": {
-    "cop": 3,
-    "exp": "DiGeorge syndrome Chromosomal defect (22q11 deletion) that results in developmental anomalies of the branchial (pharyngeal) pouches and organs that develop from these embryonic structures (thymus, parathyroids, and aoic arch). These children present with tetany (caused by hypoparathyroidism) and deficiency of cellular immunity. They also have characteristic facial features (\"angry look\"). In the absence of a thymus, T-cell maturation is interrupted at the pre-T stage. DiGeorge syndrome has been corrected by transplanting thymic tissue. Diagnosis: DiGeorge syndrome"
+    "cop": 2,
+    "exp": "DiGeorge syndrome Chromosomal defect (22q11 deletion) that results in developmental anomalies of the branchial (pharyngeal) pouches and organs that develop from these embryonic structures (thymus, parathyroids, and aoic arch). These children present with tetany (caused by hypoparathyroidism) and deficiency of cellular immunity. They also have characteristic facial features (\"angry look\"). In the absence of a thymus, T-cell maturation is interrupted at the pre-T stage. DiGeorge syndrome has been corrected by transplanting thymic tissue. Diagnosis: DiGeorge syndrome",
+    "hint_exp": "🧩 Your crush solved \"the appropriate diagnosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

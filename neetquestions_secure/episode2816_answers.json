@@ -1,202 +1,252 @@
 {
   "c86bc923-6f34-458f-adb0-81028f5c0389": {
-    "cop": 3,
-    "exp": "The gastric biopsy of an individual with pernicious anemia shows atrophy of all layers of the body and fundus with loss of glandular elements, the absence of parietal and chief cells and replacement by mucosal cells, inflammatory infiltrate and intestinal metaplasia.The antral mucosa is usually well preserved.Ref: Harrison's 18/e 867"
+    "cop": 2,
+    "exp": "The gastric biopsy of an individual with pernicious anemia shows atrophy of all layers of the body and fundus with loss of glandular elements, the absence of parietal and chief cells and replacement by mucosal cells, inflammatory infiltrate and intestinal metaplasia.The antral mucosa is usually well preserved.Ref: Harrison's 18/e 867",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"usually situated in the\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a21f669c-86c8-4a65-b58d-afaaaacc580c": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"prognostic factors Lupus Nephritis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ee7a5b85-abe2-4650-8c10-2a7583ff4b32": {
-    "cop": 4,
-    "exp": "Ans. D.> 15 mg/dL.Area yellow discoloration of body in jaundiceRange of serum bilirubin (mg%)Head and neck4-8Upper trunk5-12Lower trunk and thigh8-16Arms and lower limbs11-18Palms and solesmore than 15"
+    "cop": 3,
+    "exp": "Ans. D.> 15 mg/dL.Area yellow discoloration of body in jaundiceRange of serum bilirubin (mg%)Head and neck4-8Upper trunk5-12Lower trunk and thigh8-16Arms and lower limbs11-18Palms and solesmore than 15",
+    "hint_exp": "🎯 Think of \"neonate with skin soles\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e6cd0abf-3b3d-4502-b999-f80af1eb9f4f": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. Streptococcus Viridans Prosthetic valve endocarditis is of two typesEarly onset endocarditis - onset of symptoms within 60 days of surgery.Late onset endocarditis - onset of symptoms after 60 days of surgeryMC Organism causing - Early onset endocarditis - Staph epidermidis* Late onset endocarditis - Streptococci (Includes viridans streptococci, streptococcus bovis, other non-group A streptococci)But this classification into late and early onset endocarditis is outdated (Note, that the question belongs to the time when this classification was in use)Harrison 15/e divides Prosthetic valve endocarditis into :less than 2 month2-12 monthsMore 12 months after surgeryMC organisms causing prosthetic valve endocarditis according to Harrison 15/e -less than 2 month - Coagulase-negative staphylococci (Staph, epidermidis is a coagulas negative staphylococci)2-12 month - Same as in less than 2 monthmore than 12 months - Streptococci (includes viridans streptococci, streptococcus bovis, other non-group A streptococci)"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. Streptococcus Viridans Prosthetic valve endocarditis is of two typesEarly onset endocarditis - onset of symptoms within 60 days of surgery.Late onset endocarditis - onset of symptoms after 60 days of surgeryMC Organism causing - Early onset endocarditis - Staph epidermidis* Late onset endocarditis - Streptococci (Includes viridans streptococci, streptococcus bovis, other non-group A streptococci)But this classification into late and early onset endocarditis is outdated (Note, that the question belongs to the time when this classification was in use)Harrison 15/e divides Prosthetic valve endocarditis into :less than 2 month2-12 monthsMore 12 months after surgeryMC organisms causing prosthetic valve endocarditis according to Harrison 15/e -less than 2 month - Coagulase-negative staphylococci (Staph, epidermidis is a coagulas negative staphylococci)2-12 month - Same as in less than 2 monthmore than 12 months - Streptococci (includes viridans streptococci, streptococcus bovis, other non-group A streptococci)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Causative organism late prosthetic\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "db2a271c-a619-4a47-b1c8-035489c7ac84": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"surgical procedure choice skeletal\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "86e4d971-cbdf-4abf-b17c-f57d9da5f126": {
-    "cop": 2,
-    "exp": "CTLA-4 is an antagonistic/inhibitory receptor normally expressed by T cells that competes with CD28 for binding of B7-1 and B7-2 and thus prevents the second signal and subsequent T-cell activation. This is a key mechanism of peripheral tolerance and plays role in preventing T-cell activation against cancer cells. Administration of antibodies that bind and block CTLA-4 allows CD28 to bind B7-1 and B7-2 and mediate costimulation resulting in the augmentation of antitumor T-cell responses. This passive immunotherapy approach has been approved to treat advanced melanoma skin cancers. Signal 1 is TCR complex and co-receptor mediated. Co-stimulation (signal 2) is via CD28-B7 engagement, follows signal 1, and results in activation and proliferation. PD-1/PD-L1 are a distinct T-cell inhibitory receptor and its ligand. ZAP-70 and ITAMs are involved in intracellular T-cell activation signal transduction."
+    "cop": 1,
+    "exp": "CTLA-4 is an antagonistic/inhibitory receptor normally expressed by T cells that competes with CD28 for binding of B7-1 and B7-2 and thus prevents the second signal and subsequent T-cell activation. This is a key mechanism of peripheral tolerance and plays role in preventing T-cell activation against cancer cells. Administration of antibodies that bind and block CTLA-4 allows CD28 to bind B7-1 and B7-2 and mediate costimulation resulting in the augmentation of antitumor T-cell responses. This passive immunotherapy approach has been approved to treat advanced melanoma skin cancers. Signal 1 is TCR complex and co-receptor mediated. Co-stimulation (signal 2) is via CD28-B7 engagement, follows signal 1, and results in activation and proliferation. PD-1/PD-L1 are a distinct T-cell inhibitory receptor and its ligand. ZAP-70 and ITAMs are involved in intracellular T-cell activation signal transduction.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which following best describes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ff39e4cd-1b9d-4e17-9fb7-307c8a9fbe85": {
-    "cop": 1,
-    "exp": "AXILLARY NERVE:-Root value: C5, C6Arises from the posterior cord of brachial plexus, near lower border of the subscapularis.Runs backward on Subscapularis to pass through quadrangular space along with posterior circumflex humeral aery.Here it is related to surgical neck of humerus.Nerve gives branch to shoulder joint and divide into anterior and posterior division.Anterior division:- teres minor and posterior pa of deltoid.Continues as upper lateral cutaneous nerve of arm and supplies skin over deltoid.Posterior division:-continues horizontally between deltoid and surgical neck of humerus along with posterior circumflex humeral vessels.supplies deltoid and few branches to innervate skin.Risk of damage in inferior dislocation of the head of humerus and fracture surgical neck humerus.Clinical presentation:-Impaired abduction of shoulder.Loss of sensation over lower half of deltoid- regimental badge area.Loss of shoulder contour with prominence of greater tubercle.{Reference:Vishram Singh, pg no. 78}"
+    "cop": 0,
+    "exp": "AXILLARY NERVE:-Root value: C5, C6Arises from the posterior cord of brachial plexus, near lower border of the subscapularis.Runs backward on Subscapularis to pass through quadrangular space along with posterior circumflex humeral aery.Here it is related to surgical neck of humerus.Nerve gives branch to shoulder joint and divide into anterior and posterior division.Anterior division:- teres minor and posterior pa of deltoid.Continues as upper lateral cutaneous nerve of arm and supplies skin over deltoid.Posterior division:-continues horizontally between deltoid and surgical neck of humerus along with posterior circumflex humeral vessels.supplies deltoid and few branches to innervate skin.Risk of damage in inferior dislocation of the head of humerus and fracture surgical neck humerus.Clinical presentation:-Impaired abduction of shoulder.Loss of sensation over lower half of deltoid- regimental badge area.Loss of shoulder contour with prominence of greater tubercle.{Reference:Vishram Singh, pg no. 78}",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"axillary nerve\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5fe45460-e979-4015-91d4-f52a39a9357f": {
-    "cop": 4,
-    "exp": "Fatty acid biosynthesis \n\nFatty acid synthesis occurs in the cytosol\nTCA cycle and ATP production (via ETC) occur in mitochondria\nMitochondria play a key role in apoptosis"
+    "cop": 3,
+    "exp": "Fatty acid biosynthesis \n\nFatty acid synthesis occurs in the cytosol\nTCA cycle and ATP production (via ETC) occur in mitochondria\nMitochondria play a key role in apoptosis",
+    "hint_exp": "🎯 Think of \"Mitochondria involved following except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6cfee23f-ffd8-4ef5-876f-e54335eb4a51": {
-    "cop": 1,
-    "exp": "Thrombotic thrombocytopenic microangiopathies are a group of disorders characterized by thrombocytopenia, a microangiopathic hemolytic anemia evident by fragmented RBCs and laboratory evidence of hemolysis, and microvascular thrombosis. They include thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS).TTP and HUS have common features of thrombocytopenia, hemolytic anemia, fever, renal failure, and neurologic disturbances; When patients, paicularly children, have more evidence of renal injury, their condition tends to be called HUS; In adults with the neurologic disease, it is considered to be TTP; In adults, there is often a mixture of both, hence called TTP/HUS.Renal biopsy showing glomerular capillary endotheliosis associated with platelet thrombi, damage to the capillary wall, and formation of fibrin material in and around glomeruli; similar lesions occur in preeclampsia/HELLP (hemolysis, elevated liver enzymes, and low platelet count syndrome), malignant hypeension, and the antiphospholipid syndromeCauses of TTP/HUS:PregnancyDrugs like oral contraceptives, quinine; in renal transplant patients given OKT3 for rejectionCalcineurin inhibitors, cyclosporine, and tacrolimusAntiplatelet agents, ticlopidine, and clopidogrelHIV infectionIn DIC, while thrombocytopenia and microangiopathy are seen, a coagulopathy predominates - with consumption of clotting factors and fibrinogen resulting in an elevated prothrombin time (PT) & activated paial thromboplastin time (aPTT); The PT and aPTT are characteristically normal in TTP or HUS.Hemolytic Uremic Syndrome (HUS): Characterized by acute renal failure, microangiopathic hemolytic anemia, and thrombocytopeniaIt is seen predominantly in children; most of the cases preceded by an episode of hemorrhagic diarrhea; Escherichia coli O157: H7 is the most frequent etiologic serotype, followed by Shigella dysenteriae This Shiga toxin (verotoxin) inhibits the endothelial production of ADAMTS13(normally ADAMTS13 metalloprotease cleaves large multimers of von Willebrand&;s factor)Absent ADAMTS13, these large multimers cause platelet clumping and intravascular hemolysisSome children with complement protein deficiencies express atypical HUS (aHUS), which can be treated with the liver transplantTreatment of adult TTP/HUS is daily plasmapheresis; Patients with childhood HUS from infectious diarrhea are not given antibiotics, as antibiotics are thought to accelerate the release of the toxin and the diarrhea is usually self-limited. No intervention appears superior to suppoive therapy in children with post-diarrheal HUS.Ref: Harrison's 18/e p970"
+    "cop": 0,
+    "exp": "Thrombotic thrombocytopenic microangiopathies are a group of disorders characterized by thrombocytopenia, a microangiopathic hemolytic anemia evident by fragmented RBCs and laboratory evidence of hemolysis, and microvascular thrombosis. They include thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS).TTP and HUS have common features of thrombocytopenia, hemolytic anemia, fever, renal failure, and neurologic disturbances; When patients, paicularly children, have more evidence of renal injury, their condition tends to be called HUS; In adults with the neurologic disease, it is considered to be TTP; In adults, there is often a mixture of both, hence called TTP/HUS.Renal biopsy showing glomerular capillary endotheliosis associated with platelet thrombi, damage to the capillary wall, and formation of fibrin material in and around glomeruli; similar lesions occur in preeclampsia/HELLP (hemolysis, elevated liver enzymes, and low platelet count syndrome), malignant hypeension, and the antiphospholipid syndromeCauses of TTP/HUS:PregnancyDrugs like oral contraceptives, quinine; in renal transplant patients given OKT3 for rejectionCalcineurin inhibitors, cyclosporine, and tacrolimusAntiplatelet agents, ticlopidine, and clopidogrelHIV infectionIn DIC, while thrombocytopenia and microangiopathy are seen, a coagulopathy predominates - with consumption of clotting factors and fibrinogen resulting in an elevated prothrombin time (PT) & activated paial thromboplastin time (aPTT); The PT and aPTT are characteristically normal in TTP or HUS.Hemolytic Uremic Syndrome (HUS): Characterized by acute renal failure, microangiopathic hemolytic anemia, and thrombocytopeniaIt is seen predominantly in children; most of the cases preceded by an episode of hemorrhagic diarrhea; Escherichia coli O157: H7 is the most frequent etiologic serotype, followed by Shigella dysenteriae This Shiga toxin (verotoxin) inhibits the endothelial production of ADAMTS13(normally ADAMTS13 metalloprotease cleaves large multimers of von Willebrand&;s factor)Absent ADAMTS13, these large multimers cause platelet clumping and intravascular hemolysisSome children with complement protein deficiencies express atypical HUS (aHUS), which can be treated with the liver transplantTreatment of adult TTP/HUS is daily plasmapheresis; Patients with childhood HUS from infectious diarrhea are not given antibiotics, as antibiotics are thought to accelerate the release of the toxin and the diarrhea is usually self-limited. No intervention appears superior to suppoive therapy in children with post-diarrheal HUS.Ref: Harrison's 18/e p970",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"presents casualty with history\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2008baf8-0714-42de-abd4-61d5021f0593": {
-    "cop": 4,
-    "exp": "Confounding factor:\n\nOne which is associated with BOTH exposure and disease and is distributed UNEQUALLY in study and control group.\nIt is itself a RISK FACTOR for the disease. \ne.g. – study of coffee drinking and lung cancer – if coffee drinker is also a cigarette smoker then this cigarette smoking is a confounding factor. Confounding factor can be neutralized by MATCHING"
+    "cop": 3,
+    "exp": "Confounding factor:\n\nOne which is associated with BOTH exposure and disease and is distributed UNEQUALLY in study and control group.\nIt is itself a RISK FACTOR for the disease. \ne.g. – study of coffee drinking and lung cancer – if coffee drinker is also a cigarette smoker then this cigarette smoking is a confounding factor. Confounding factor can be neutralized by MATCHING",
+    "hint_exp": "🧩 Your crush solved \"Confounding Factor\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "88080052-fd51-4522-aae6-8aa9baf25daf": {
-    "cop": 4,
-    "exp": "Proximal myopathy presents as symmetrical weakness of proximal upper and/or lower limbs. There is a broad range of underlying causes including drugs, alcohol, thyroid disease, osteomalacia, idiopathic inflammatory myopathies (IIM), hereditary myopathies, malignancy, infections and sarcoidosis and is not a feature of type 1 diabetes mellitus Ref Davidson 23rd edtion pg 721"
+    "cop": 3,
+    "exp": "Proximal myopathy presents as symmetrical weakness of proximal upper and/or lower limbs. There is a broad range of underlying causes including drugs, alcohol, thyroid disease, osteomalacia, idiopathic inflammatory myopathies (IIM), hereditary myopathies, malignancy, infections and sarcoidosis and is not a feature of type 1 diabetes mellitus Ref Davidson 23rd edtion pg 721",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Acquired proximal myopathy feature\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "483592ce-85e6-4dd9-9cc2-e539c489588c": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Congenital toxoplasmosis False\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3b03b1f0-93fd-4906-8025-3abcb4f369bb": {
-    "cop": 2,
-    "exp": "Keratoderma blenorrhagica is hyperkeratotic lesions over palms & soles which ooze pus.It is a cutaneaus manifestation of Reiter's disease characterized by triad of arthritis,urethritis & conjuctivitis."
+    "cop": 1,
+    "exp": "Keratoderma blenorrhagica is hyperkeratotic lesions over palms & soles which ooze pus.It is a cutaneaus manifestation of Reiter's disease characterized by triad of arthritis,urethritis & conjuctivitis.",
+    "hint_exp": "🎯 Think of \"seen in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "77122c85-d30b-4d08-a211-1080323a0204": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Spinomuscular atrophy seen lesion\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7a81429d-b299-4ad9-8767-b5f14f7991e1": {
-    "cop": 3,
-    "exp": "Timing of primary cleft lip and palate procedures Cleft lip alone Cleft palate alone Cleft lip and palate Unilateral: one operation at 5-6 months Bilateral: One operation at 4-5 months Soft palate only: One operation at 6 months Soft and hard palate: Two operations Soft palate at 6 months Hard palate at 15-18 months Unilateral: Two operations Cleft lip and soft palate at 5-6 months Hard palate and gum pad with or without lip revision at 15-18 months Bilateral: two operations Cleft lip and soft palate at 4-5 months Hard palate and gum pad with or without lip revision at 15-18 months"
+    "cop": 2,
+    "exp": "Timing of primary cleft lip and palate procedures Cleft lip alone Cleft palate alone Cleft lip and palate Unilateral: one operation at 5-6 months Bilateral: One operation at 4-5 months Soft palate only: One operation at 6 months Soft and hard palate: Two operations Soft palate at 6 months Hard palate at 15-18 months Unilateral: Two operations Cleft lip and soft palate at 5-6 months Hard palate and gum pad with or without lip revision at 15-18 months Bilateral: two operations Cleft lip and soft palate at 4-5 months Hard palate and gum pad with or without lip revision at 15-18 months",
+    "hint_exp": "🧩 Your crush solved \"which\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "18517f27-4f74-45e6-87b7-7deee2a77e7d": {
-    "cop": 4,
-    "exp": "Isotonic fluids are 0.9% Normal saline, 5% dextrose, Ringer lactate."
+    "cop": 3,
+    "exp": "Isotonic fluids are 0.9% Normal saline, 5% dextrose, Ringer lactate.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"these fluids\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2c5bc1c2-f0dc-421c-9b5e-9146edc2ddd6": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e. Median"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e. Median",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Standard detion does depend\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5607d4a9-ea11-4cac-8572-e74c4dd16a28": {
-    "cop": 3,
-    "exp": "C i.e. Memory"
+    "cop": 2,
+    "exp": "C i.e. Memory",
+    "hint_exp": "🎯 Think of \"Confabulation disorder\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "816f6ee0-dae8-4a9a-bace-6808eabab0d6": {
-    "cop": 2,
-    "exp": "Necrotizing papillitis is the other name of acute papillary necrosis. When infection of renal pyramids develop in association with vascular diseases of the kidney or with urinary tract obstruction, renal papillary necrosis is likely to result.\nIn the given options, DM is the commonest and TB is the rarest cause of papillary necrosis\n• Diabetes mellitus\n• Sickle cell disease\n• Chronic alcoholism\n• Vascular disease\n• Analgesic abuse nephropathy"
+    "cop": 1,
+    "exp": "Necrotizing papillitis is the other name of acute papillary necrosis. When infection of renal pyramids develop in association with vascular diseases of the kidney or with urinary tract obstruction, renal papillary necrosis is likely to result.\nIn the given options, DM is the commonest and TB is the rarest cause of papillary necrosis\n• Diabetes mellitus\n• Sickle cell disease\n• Chronic alcoholism\n• Vascular disease\n• Analgesic abuse nephropathy",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Necrotizing papillitis seen following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "de377a3e-299c-4d1e-bf43-6d607a0e3e76": {
-    "cop": 3,
-    "exp": "Craniofacial osteomas are begin tumors often originating in the paranasal sinuses. The frontal sinus is the most frequent location followed by the ethmoid,Maxillary and sphenoid sinus,respectively Age of presentation=second to fifth decade with a male-female ratio-3:1. Ref .Scott Brown 7/e,Vol 2,p 1521."
+    "cop": 2,
+    "exp": "Craniofacial osteomas are begin tumors often originating in the paranasal sinuses. The frontal sinus is the most frequent location followed by the ethmoid,Maxillary and sphenoid sinus,respectively Age of presentation=second to fifth decade with a male-female ratio-3:1. Ref .Scott Brown 7/e,Vol 2,p 1521.",
+    "hint_exp": "🧩 Your crush solved \"osteoma\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "35ee5ec0-5968-4b76-bd5e-26dedb953d7f": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 15 In India the level of iodization is fixed under the Prevention of food adulteration (PFA) act and is not less than 30 ppm at the production point and not less than 15 ppm of iodine at the consumer level."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 15 In India the level of iodization is fixed under the Prevention of food adulteration (PFA) act and is not less than 30 ppm at the production point and not less than 15 ppm of iodine at the consumer level.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Minimal level iodine consumer\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "60d8fe8d-c26e-454f-a366-f7563abf3f71": {
-    "cop": 3,
-    "exp": "Lung cancer Most common symptom in chronic smokers is persistent cough and chest X Ray is a must for such patients. Smoking cessation can reduce risk of lung cancer. Cessation at or before middle age can reduce the chances of lung cancer by 90% But in this case scenario, patients is elderly and will not have a strong will to achieve the goal of smoking abstinence. Therefore after doing a chest X ray, he must be referred to smoking cessation clinics so that compliance can be monitored and effective counselling can be done ."
+    "cop": 2,
+    "exp": "Lung cancer Most common symptom in chronic smokers is persistent cough and chest X Ray is a must for such patients. Smoking cessation can reduce risk of lung cancer. Cessation at or before middle age can reduce the chances of lung cancer by 90% But in this case scenario, patients is elderly and will not have a strong will to achieve the goal of smoking abstinence. Therefore after doing a chest X ray, he must be referred to smoking cessation clinics so that compliance can be monitored and effective counselling can be done .",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"management in such patients\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "49ab0252-ad74-4bfd-b494-2353682f5293": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., CD 23"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., CD 23",
+    "hint_exp": "🎯 Think of \"positive for\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "02791893-dda5-4cb2-baf5-b977662cd231": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., P. jiroveci R jiroveci (Carinii) is the most common oppounistic infection in AIDS patients, overall. \"P jiroveci pneumonia remains the most common AIDS related oppounistic infection\" - Textbook of diagnostic microbiology o In developing countries (like India), most common oppounistic infection in AIDS is M. tuberculosis."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., P. jiroveci R jiroveci (Carinii) is the most common oppounistic infection in AIDS patients, overall. \"P jiroveci pneumonia remains the most common AIDS related oppounistic infection\" - Textbook of diagnostic microbiology o In developing countries (like India), most common oppounistic infection in AIDS is M. tuberculosis.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Most common oppounistic infection\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "13c58479-0258-4903-9a1d-2ffeb23611af": {
-    "cop": 2,
-    "exp": "C2 dermatome: Occiput and upper pa of neck. C3 dermatome: Lower pa of neck up to the clavicle. C4 dermatone: Area just below the clavicle (Area which coincide with upper border of sternum). Motor supply of upper-limb is C5 to T1 Motor supply of diaphragm (Phrenic nerve) is C3 to C5 Thus C4 to C5 involvement will cause increased respiratory rate with all the above mentioned features."
+    "cop": 1,
+    "exp": "C2 dermatome: Occiput and upper pa of neck. C3 dermatome: Lower pa of neck up to the clavicle. C4 dermatone: Area just below the clavicle (Area which coincide with upper border of sternum). Motor supply of upper-limb is C5 to T1 Motor supply of diaphragm (Phrenic nerve) is C3 to C5 Thus C4 to C5 involvement will cause increased respiratory rate with all the above mentioned features.",
+    "hint_exp": "🧩 Your crush solved \"lesion\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dda96177-6c76-4423-9148-52094b7aaf1f": {
-    "cop": 4,
-    "exp": "Answer-D. NoneUpper abdominal symptoms that futhll any of the following criteria :New-onset symptoms in a patient greater than 50 years of ageDysphagiaOdynophagiaPersistent or recurrent esophageal reflux despite therapyPersistent vomiting of unknown causeActive or recent upper GI bleedingPresumed chronic blood loss and iron deficiency anaemia if any of the following are present-There is clinical suspicion of an upper GI sourceColonoscopy is negativeLession seen on upper GI tract imagingAcute caustic ingestionWhen sampling of tissue of fluid is indicatedExaluation of diarrhea in a patient suspected of having small bowel disease (eg. celiac disease)Intraoperative evaluation of anatomic reconstructions"
+    "cop": 3,
+    "exp": "Answer-D. NoneUpper abdominal symptoms that futhll any of the following criteria :New-onset symptoms in a patient greater than 50 years of ageDysphagiaOdynophagiaPersistent or recurrent esophageal reflux despite therapyPersistent vomiting of unknown causeActive or recent upper GI bleedingPresumed chronic blood loss and iron deficiency anaemia if any of the following are present-There is clinical suspicion of an upper GI sourceColonoscopy is negativeLession seen on upper GI tract imagingAcute caustic ingestionWhen sampling of tissue of fluid is indicatedExaluation of diarrhea in a patient suspected of having small bowel disease (eg. celiac disease)Intraoperative evaluation of anatomic reconstructions",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"indicated in all except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "99de17b8-96c1-4ea3-b779-eff2f0e6158e": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which consequence does occur\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ec086545-b354-4e25-807e-3a70e8c790da": {
-    "cop": 3,
-    "exp": "MCT can be of two types - sporadic and familial (occurring in MEN syn. 2A & 2B and Familial cases without MEN syn.) The familial MTC are more aggressive, multicentric (bilateral) and present at a younger age, therefore high risk cases should be screened for MTC by - detecting RET mutation. The genetic screening tests are supplemented by estimating serum calcitonin levels in the basal state and after stimulation by either calcium or pentagastrin. Prophylactic total thyroidectomy is indicated in RET mutation carriers once the mutation is confirmed. Ref : Bailey & love 25/e p797"
+    "cop": 2,
+    "exp": "MCT can be of two types - sporadic and familial (occurring in MEN syn. 2A & 2B and Familial cases without MEN syn.) The familial MTC are more aggressive, multicentric (bilateral) and present at a younger age, therefore high risk cases should be screened for MTC by - detecting RET mutation. The genetic screening tests are supplemented by estimating serum calcitonin levels in the basal state and after stimulation by either calcium or pentagastrin. Prophylactic total thyroidectomy is indicated in RET mutation carriers once the mutation is confirmed. Ref : Bailey & love 25/e p797",
+    "hint_exp": "🎯 Think of \"medullary carcinoma thyroid\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "49483fd1-5539-4d8d-b08b-df1097467b8e": {
-    "cop": 1,
-    "exp": "Barret's esophagus: Intestinal metaplasia of squamous cells of esophagus d/t reflux of gastric acid Stratified squamous epithelium of esophagus is replaced by nonciliated columnar epithelium with goblet cells. Increases risk of esophageal adenocarcinoma Interstitial like columnar cell has goblet cells which secrete mucin - identified with stain called Alcian blue"
+    "cop": 0,
+    "exp": "Barret's esophagus: Intestinal metaplasia of squamous cells of esophagus d/t reflux of gastric acid Stratified squamous epithelium of esophagus is replaced by nonciliated columnar epithelium with goblet cells. Increases risk of esophageal adenocarcinoma Interstitial like columnar cell has goblet cells which secrete mucin - identified with stain called Alcian blue",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Barrett esophagus result which\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8165eda1-af51-46d2-8bcb-a54d487a26ab": {
-    "cop": 2,
-    "exp": "Behavioral therapy is learning given by BF Skinner , according to him all behaviors are learned phenomenon and thus can be unlearned Positive reinforcement a type of reinforcement when a behavior is rewarded there is more chance that the behavior is repeated Negative reinforcement is that when a behavior is done and an aversive response is removed, the behavior is repeated. When I go and meet my girlfriend, she checks my messages and picks up fight (aversive response) suddenly I delete all messages one day and that day there was no fight (no aversive response) then that behavior is repeated (delete all messages before meeting my girlfriend) Extinction is the type of reinforcement where a behavior is done and a rewarding response is removed the chance is that behavior will not be repeated A child likes to play with children( reward) but when the child fights with other children( undesirable behavior) the child will be removed from playing( removing a reward) , then the child stops fighting with other children( reduction of undesirable behaviour) Ref. kaplon and sadock synopsis, 11 th edition, pg no. 845"
+    "cop": 1,
+    "exp": "Behavioral therapy is learning given by BF Skinner , according to him all behaviors are learned phenomenon and thus can be unlearned Positive reinforcement a type of reinforcement when a behavior is rewarded there is more chance that the behavior is repeated Negative reinforcement is that when a behavior is done and an aversive response is removed, the behavior is repeated. When I go and meet my girlfriend, she checks my messages and picks up fight (aversive response) suddenly I delete all messages one day and that day there was no fight (no aversive response) then that behavior is repeated (delete all messages before meeting my girlfriend) Extinction is the type of reinforcement where a behavior is done and a rewarding response is removed the chance is that behavior will not be repeated A child likes to play with children( reward) but when the child fights with other children( undesirable behavior) the child will be removed from playing( removing a reward) , then the child stops fighting with other children( reduction of undesirable behaviour) Ref. kaplon and sadock synopsis, 11 th edition, pg no. 845",
+    "hint_exp": "🧩 Your crush solved \"the line of management\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bc908718-b72d-4314-898d-ab7bcfa4970b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Taxonomically chamydia\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f2c75241-55f5-4605-8254-5ccbc7e19894": {
-    "cop": 3,
-    "exp": "7th April"
+    "cop": 2,
+    "exp": "7th April",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"World Health celebrated\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "07270ca1-0d7f-4aa7-b1d1-d4cb1ad219d1": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e. Ataxia telangiectasia Only about 5 to 10% of breast cancers are caused by inheritance of germline mutations most important of which are BRCA-1 & BRCA-2.Percent Incidence of Sporadic, Familial, and Hereditary Breast CancerSporadic breast cancer 65-75%Familial breast cancer 20-30%Hereditary breast cancer 5-10%BRCA-145% BRCA-235% p53 (Li-Fraumeni Syndrome)1% STK 11/LKB1 (Peutz-Jeghners syndrome)<1% PTEN (Cowden disease)<1% MSH2/MLH1 (Muir Torre syndrome)<1% ATM (Ataxia-telangiectasia)<1% Unknown20%"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e. Ataxia telangiectasia Only about 5 to 10% of breast cancers are caused by inheritance of germline mutations most important of which are BRCA-1 & BRCA-2.Percent Incidence of Sporadic, Familial, and Hereditary Breast CancerSporadic breast cancer 65-75%Familial breast cancer 20-30%Hereditary breast cancer 5-10%BRCA-145% BRCA-235% p53 (Li-Fraumeni Syndrome)1% STK 11/LKB1 (Peutz-Jeghners syndrome)<1% PTEN (Cowden disease)<1% MSH2/MLH1 (Muir Torre syndrome)<1% ATM (Ataxia-telangiectasia)<1% Unknown20%",
+    "hint_exp": "🎯 Think of \"CA breast\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b50932e4-865d-466c-8b62-9720a1fc8b68": {
-    "cop": 3,
-    "exp": "Hypercalcaemia is one of the most common biochemical abnormalities and is often detected during routine biochemical analysis in asymptomatic patients. However, it can present with chronic symptoms, as described below, and occasionally as an acute emergency with severe hypercalcaemia and dehydration. Causes of hypercalcaemia are listed in Box 20.36. Of these, primary hyperparathyroidism and malignant hypercalcaemia are by far the most common. Familial hypocalciuric hypercalcaemia (FHH) is a rare but impoant cause that needs differentiation from primary hyperparathyroidism (HPT). Lithium may cause hyperparathyroidism by reducing the sensitivity of the calcium-sensing receptor. With normal or elevated PTH levels *Primaryoeiaryhyperparathyroidism *Lithium-inducedhyperparathyroidism *Familialhypocalciurichypercalcaemia With low PTH levels *Malignancy(lung,breast,myeloma,renal,lymphoma, thyroid) *Elevated1,25(OH)2vitaminD(vitaminDintoxication, sarcoidosis,HIV,othergranulomatousdisease) *Thyrotoxicosis *Paget'sdiseasewithimmobilisation *Milk-alkalisyndrome *Thiazidediuretics *Glucocoicoiddeficiency DAVIDSONS PRINCIOLES AND PRACTICE OF MEDICINE 22ND EDITION PAGE NO-767"
+    "cop": 2,
+    "exp": "Hypercalcaemia is one of the most common biochemical abnormalities and is often detected during routine biochemical analysis in asymptomatic patients. However, it can present with chronic symptoms, as described below, and occasionally as an acute emergency with severe hypercalcaemia and dehydration. Causes of hypercalcaemia are listed in Box 20.36. Of these, primary hyperparathyroidism and malignant hypercalcaemia are by far the most common. Familial hypocalciuric hypercalcaemia (FHH) is a rare but impoant cause that needs differentiation from primary hyperparathyroidism (HPT). Lithium may cause hyperparathyroidism by reducing the sensitivity of the calcium-sensing receptor. With normal or elevated PTH levels *Primaryoeiaryhyperparathyroidism *Lithium-inducedhyperparathyroidism *Familialhypocalciurichypercalcaemia With low PTH levels *Malignancy(lung,breast,myeloma,renal,lymphoma, thyroid) *Elevated1,25(OH)2vitaminD(vitaminDintoxication, sarcoidosis,HIV,othergranulomatousdisease) *Thyrotoxicosis *Paget'sdiseasewithimmobilisation *Milk-alkalisyndrome *Thiazidediuretics *Glucocoicoiddeficiency DAVIDSONS PRINCIOLES AND PRACTICE OF MEDICINE 22ND EDITION PAGE NO-767",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d2a3683b-5d4f-43b7-b1a5-a8fee90c385f": {
-    "cop": 2,
-    "exp": "Harshmohan textbook of pathology 7th edition. HBM45 is the most specific immunohistochemical stain for melanoma. Sarcomas- immunohistochemical stains like vimentin, desmin. carcinoma- pankeratine.."
+    "cop": 1,
+    "exp": "Harshmohan textbook of pathology 7th edition. HBM45 is the most specific immunohistochemical stain for melanoma. Sarcomas- immunohistochemical stains like vimentin, desmin. carcinoma- pankeratine..",
+    "hint_exp": "🧩 Your crush solved \"marker\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "131198f8-149c-4caf-a65d-a02a76a6bae7": {
-    "cop": 4,
-    "exp": "The effects of motilin can be mimicked by erythromycin. It induces phase III migrating motor complex activity and increases smooth muscle contractility. It has multiple effects on upper GI motility, increasing lower esophageal pressure and stimulating gastric and small-bowel contractility. It is a prokinetic agent is in patients with diabetic gastroparesis, where it can improve gastric emptying in the sho term. Ref: Sharkey K.A., Wallace J.L. (2011). Chapter 46. Treatment of Disorders of Bowel Motility and Water Flux; Anti-Emetics; Agents Used in Biliary and Pancreatic Disease. In L.L. Brunton, B.A. Chabner, B.C. Knollmann (Eds), Goodman & Gilman's The Pharmacological Basis of Therapeutics, 12e."
+    "cop": 3,
+    "exp": "The effects of motilin can be mimicked by erythromycin. It induces phase III migrating motor complex activity and increases smooth muscle contractility. It has multiple effects on upper GI motility, increasing lower esophageal pressure and stimulating gastric and small-bowel contractility. It is a prokinetic agent is in patients with diabetic gastroparesis, where it can improve gastric emptying in the sho term. Ref: Sharkey K.A., Wallace J.L. (2011). Chapter 46. Treatment of Disorders of Bowel Motility and Water Flux; Anti-Emetics; Agents Used in Biliary and Pancreatic Disease. In L.L. Brunton, B.A. Chabner, B.C. Knollmann (Eds), Goodman & Gilman's The Pharmacological Basis of Therapeutics, 12e.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"patient with diabetic gastroparesis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1eac29b7-4f17-46bc-ba1e-f4faef5d1156": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6e957c9d-d9dc-449f-b433-f53a00f6e695": {
-    "cop": 3,
-    "exp": "i.e. (Balanced translocation): (414-H17th) (493-94-CMDT-l1)The Philadelphia chromosome (Ph) is derived from a reciprocal translocation between chromosome 9 and 22 with the break point joining the sequence of ABL oncogene with the BCR gene. The fusion of these DNA sequences allows the generation of an entirely noval fusion protein with modified functionReciprocal translocation generates Ph chromosomes Fusion of BCR and ABL gene sequences Chimeric BCR-ABL *protein-- The first reproducible chromosome abnormality detected in human malignancy was the Philadelphia chromosomes detected in CMLOther example - Translocations of MYC in Burkitt's lymphoma"
+    "cop": 2,
+    "exp": "i.e. (Balanced translocation): (414-H17th) (493-94-CMDT-l1)The Philadelphia chromosome (Ph) is derived from a reciprocal translocation between chromosome 9 and 22 with the break point joining the sequence of ABL oncogene with the BCR gene. The fusion of these DNA sequences allows the generation of an entirely noval fusion protein with modified functionReciprocal translocation generates Ph chromosomes Fusion of BCR and ABL gene sequences Chimeric BCR-ABL *protein-- The first reproducible chromosome abnormality detected in human malignancy was the Philadelphia chromosomes detected in CMLOther example - Translocations of MYC in Burkitt's lymphoma",
+    "hint_exp": "🎯 Think of \"Philadelphia chromosome\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "311540be-b30f-4eff-b327-37fe4f774138": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., 10 years International classification of disease (ICD)o The I CD was produced by WHO and has been accepted for national and international use.o Since its inception, ICD has been revised about once every 10 years,o The latest revision, the HP' revision (ICD-10). came into effect on January 1, 1993.o The ICD also provides a basis that can be accepted for use in other fields e.g. dentistry, oncology and ophthalmology,o The ICD-10 is arranged in 21 major chaptors.o ICD-10 is arranged in 3 volumes :-Volume 1 - Classifications, lists, nomenclature & definitionsVolume 2 -Instruction manualVolume 3 - Alphabetical index"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., 10 years International classification of disease (ICD)o The I CD was produced by WHO and has been accepted for national and international use.o Since its inception, ICD has been revised about once every 10 years,o The latest revision, the HP' revision (ICD-10). came into effect on January 1, 1993.o The ICD also provides a basis that can be accepted for use in other fields e.g. dentistry, oncology and ophthalmology,o The ICD-10 is arranged in 21 major chaptors.o ICD-10 is arranged in 3 volumes :-Volume 1 - Classifications, lists, nomenclature & definitionsVolume 2 -Instruction manualVolume 3 - Alphabetical index",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"revised every\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3db6dea6-c462-4f1e-9866-cc6c5c238690": {
-    "cop": 2,
-    "exp": "Cotton wool spots are characteristically seen in malignant hypeension. Other features of malignant hypeension are papilloedema, retinal oedema over posterior pole and clusters of superficial flame shaped hemorrhages. Ref: Ophthalmology By Khurana, 3e page 255"
+    "cop": 1,
+    "exp": "Cotton wool spots are characteristically seen in malignant hypeension. Other features of malignant hypeension are papilloedema, retinal oedema over posterior pole and clusters of superficial flame shaped hemorrhages. Ref: Ophthalmology By Khurana, 3e page 255",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "badfcdcd-519c-4398-976b-20893bf2ba2d": {
-    "cop": 3,
-    "exp": "Ans. is 4c' i.e., Gluteal area Skin fold thicknesso Since it is most accessible, SFT is the most common method used to assess obesity. o Measurements are taken at 4 sites : mid triceps (best site), biceps, subscapular and suprailiac regionso The sum of measurements > 50 mm in girls and > 40 mm in boys indicate obesity.o At single mid triceps level (best site to measure SFT), thickness > 18 mm in boys and > 32 mm in girls indicate obesity.o The instrument used to estimate SFT is Herpenden skin callipers."
+    "cop": 2,
+    "exp": "Ans. is 4c' i.e., Gluteal area Skin fold thicknesso Since it is most accessible, SFT is the most common method used to assess obesity. o Measurements are taken at 4 sites : mid triceps (best site), biceps, subscapular and suprailiac regionso The sum of measurements > 50 mm in girls and > 40 mm in boys indicate obesity.o At single mid triceps level (best site to measure SFT), thickness > 18 mm in boys and > 32 mm in girls indicate obesity.o The instrument used to estimate SFT is Herpenden skin callipers.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following site\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6618feb3-7e9f-433b-91d2-82ebc40485e6": {
-    "cop": 4,
-    "exp": "Summary of blink reflex:Ipsilateral blinkContralateral blinkNormalPresentPresentFacial nerve lesionAbsentPresentTrigeminal nerve lesionAbsentAbsent"
+    "cop": 3,
+    "exp": "Summary of blink reflex:Ipsilateral blinkContralateral blinkNormalPresentPresentFacial nerve lesionAbsentPresentTrigeminal nerve lesionAbsentAbsent",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"right cornea\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "15243f1f-0671-4ba8-ad42-473685c12b12": {
-    "cop": 1,
-    "exp": "Answer- A. 150 mEq"
+    "cop": 0,
+    "exp": "Answer- A. 150 mEq",
+    "hint_exp": "🎯 Think of \"years male patient with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "93c66b79-86d7-4cb1-87cc-30ab9859273b": {
-    "cop": 3,
-    "exp": "Methods in which vectors transmit agents: Biting Regurgitation Scratching in of infective faeces Contamination of host with body fluids of vectors (refer pgno:98 park 23 rd edition)"
+    "cop": 2,
+    "exp": "Methods in which vectors transmit agents: Biting Regurgitation Scratching in of infective faeces Contamination of host with body fluids of vectors (refer pgno:98 park 23 rd edition)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"agent by vectors\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a4fdcd05-6f71-4cc8-926b-0f77bffbc4dd": {
-    "cop": 4,
-    "exp": "Mesothelial cells are found in variable numbers in most effusions, but their presence at greater than 5% of total nucleated cells makes a diagnosis of TB less likely. Markedly increased number of mesothelial cells, especially in bloody eosinophilic effusions, suggests pulmonary embolism as the cause of an effusion."
+    "cop": 3,
+    "exp": "Mesothelial cells are found in variable numbers in most effusions, but their presence at greater than 5% of total nucleated cells makes a diagnosis of TB less likely. Markedly increased number of mesothelial cells, especially in bloody eosinophilic effusions, suggests pulmonary embolism as the cause of an effusion.",
+    "hint_exp": "🧩 Your crush solved \"characterized by all except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9cac9978-5633-4959-99be-dd04370b9e51": {
-    "cop": 2,
-    "exp": "The lasers range from long wavelengths (infrared), through visible wavelengths, to short wavelengths​ (ultraviolet). Excimers are special ultraviolet lasers.​"
+    "cop": 1,
+    "exp": "The lasers range from long wavelengths (infrared), through visible wavelengths, to short wavelengths​ (ultraviolet). Excimers are special ultraviolet lasers.​",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"type of lasers\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ebecf289-4b29-420d-a754-f24d15e5fee2": {
-    "cop": 3,
-    "exp": "The Tympanic Membrane - Dimensions: Its dimensions are: 9-10 mm height and 8-9 mm width. It is 0.1 mm thick. Position: Tympanic membrane (TM) is a paition wall between the EAC and the middle ear. It is positioned obliquely. It forms angle of 55deg with deep EAC. Structure: Tympanic membrane consists of the following three layers: Outer epithelial layer: It is continuous with the EAC skin. Middle fibrous layer: The middle layer is made up of fibrous tissue, which is lined on the outside by skin (continuous with that of the external acoustic meatus), and on the inside by mucous membrane of the tympanic cavity. The fibrous layer contains collagen fibres and some elastic fibres. The fibres are arranged in two layers. In the outer layer they are placed radially, while in the inner layer they run circularly. Inner mucosal layer: The mucous membrane is lined by an epithelium which may be cuboidal or squamous. It is said that the mucosa over the upper pa of the tympanic membrane may have patches of ciliated columnar epithelium, but this is not borne out by EM studies. Otoscopy: Normal tympanic membrane is shiny and pearly-grey in colour. Its trans parency varies from person to person. REF : Inderbir Singh's Textbook of Human Histology, Seventh edition, pg.no., 413."
+    "cop": 2,
+    "exp": "The Tympanic Membrane - Dimensions: Its dimensions are: 9-10 mm height and 8-9 mm width. It is 0.1 mm thick. Position: Tympanic membrane (TM) is a paition wall between the EAC and the middle ear. It is positioned obliquely. It forms angle of 55deg with deep EAC. Structure: Tympanic membrane consists of the following three layers: Outer epithelial layer: It is continuous with the EAC skin. Middle fibrous layer: The middle layer is made up of fibrous tissue, which is lined on the outside by skin (continuous with that of the external acoustic meatus), and on the inside by mucous membrane of the tympanic cavity. The fibrous layer contains collagen fibres and some elastic fibres. The fibres are arranged in two layers. In the outer layer they are placed radially, while in the inner layer they run circularly. Inner mucosal layer: The mucous membrane is lined by an epithelium which may be cuboidal or squamous. It is said that the mucosa over the upper pa of the tympanic membrane may have patches of ciliated columnar epithelium, but this is not borne out by EM studies. Otoscopy: Normal tympanic membrane is shiny and pearly-grey in colour. Its trans parency varies from person to person. REF : Inderbir Singh's Textbook of Human Histology, Seventh edition, pg.no., 413.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "32b398b2-2386-47f0-bca9-b1de292ed549": {
-    "cop": 1,
-    "exp": "Giant hemangioma Kasabach-Merritt syndrome : The combination of hemangioma, thrombocytopenia and coagulopathy is termed Kasabach Merritt syndrome. The primary abnormalities in these patients is hemangioma The hemangiomas seen in these lesions are quiet large and causes platelet consumption, activation of coagulation and microangiopaihic red cell destruction. The bleeding diathesis is mainly localized in the large hemangiomas (\"sequestered\"or localized intravascular coagulation but laboratory evidence of DIC in the general circulation is also definitely present). The severity and the incidence of DIC tends to parallel the size of vascular tumours but remember that thrombocytopenia and consumptive coagulopathy are not seen in all hemangiomas and size alone does not determine which hemangiomas are associated with thrombocytopenia and coagulopathies. Recurrent bleeding from the surface of the tumour is the major hemorrhagic manifestation. Periodic swelling of the lesion is often observed. This phenomenon may be a consequence of intermittent obstruction of blood outflow from the hemangioma. Treatment Surgical removal is the best treatment Interferon"
+    "cop": 0,
+    "exp": "Giant hemangioma Kasabach-Merritt syndrome : The combination of hemangioma, thrombocytopenia and coagulopathy is termed Kasabach Merritt syndrome. The primary abnormalities in these patients is hemangioma The hemangiomas seen in these lesions are quiet large and causes platelet consumption, activation of coagulation and microangiopaihic red cell destruction. The bleeding diathesis is mainly localized in the large hemangiomas (\"sequestered\"or localized intravascular coagulation but laboratory evidence of DIC in the general circulation is also definitely present). The severity and the incidence of DIC tends to parallel the size of vascular tumours but remember that thrombocytopenia and consumptive coagulopathy are not seen in all hemangiomas and size alone does not determine which hemangiomas are associated with thrombocytopenia and coagulopathies. Recurrent bleeding from the surface of the tumour is the major hemorrhagic manifestation. Periodic swelling of the lesion is often observed. This phenomenon may be a consequence of intermittent obstruction of blood outflow from the hemangioma. Treatment Surgical removal is the best treatment Interferon",
+    "hint_exp": "🎯 Think of \"Kasabaach Merrit Syndrome associated\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c486dbc5-e803-47a5-ac61-a2e696565c6f": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Doxacurium Among the given options, only doxacurium is long acting. See explanation- 4 of session- 3."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Doxacurium Among the given options, only doxacurium is long acting. See explanation- 4 of session- 3.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Longest acting among muscle\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "53901703-6ab7-4ebb-adbc-29b62be09d00": {
-    "cop": 1,
-    "exp": "Laryngocele arises as a herniation of laryngeal mucosa through the Thyrohyoid membrane. It is dilatation of laryngeal saccule and extends between the thyroid cailage and the ventricle. It may be internal, external or combined. Treatment is endoscopic or external excision. Ref: PL Dhingra 7th edition of Ear, Nose and Throat, pg no. 345"
+    "cop": 0,
+    "exp": "Laryngocele arises as a herniation of laryngeal mucosa through the Thyrohyoid membrane. It is dilatation of laryngeal saccule and extends between the thyroid cailage and the ventricle. It may be internal, external or combined. Treatment is endoscopic or external excision. Ref: PL Dhingra 7th edition of Ear, Nose and Throat, pg no. 345",
+    "hint_exp": "🧩 Your crush solved \"Laryngocele arises herniation laryngeal\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

@@ -1,202 +1,252 @@
 {
   "83a7be38-a067-421a-95d0-7ff2232ae4bf": {
-    "cop": 3,
-    "exp": "HISTOPATHOLOGIC TERMS Before describing the pathology of common skin diseases, the following pathologic terms in common use need to be defined for the understanding of Dermatopathology: Acanthosis: Thickening of the epidermis due to hyperplasia of stratum Malpighi. Acantholysis: Loss of cohesion between epidermal cells with formation of intraepidermal space containing edema fluid and detached epithelial cells. Dyskeratosis: Abnormal development of epidermal cells resulting in rounded cells devoid of their prickles and having pyknotic nuclei. Dyskeratosis is a feature of premalignant and malignant lesions and is rarely seen in benign conditions. Hyperkeratosis: Thickening of the horny layer. Parakeratosis: Abnormal keratinization of the cells so that the horny layer contains nucleated keratinocytes rather than the normal non-nucleate keratin layer. Spongiosis: Intercellular edema of the epidermis which may progress to vesicle formation in the epidermis. Pigment incontinence: Loss of melanin pigment from damaged basal cell layer so that the pigment accumulates in the melanophages in the dermis. Ref: Textbook of pathology (Harsh Mohan)6th edition, page no.769"
+    "cop": 2,
+    "exp": "HISTOPATHOLOGIC TERMS Before describing the pathology of common skin diseases, the following pathologic terms in common use need to be defined for the understanding of Dermatopathology: Acanthosis: Thickening of the epidermis due to hyperplasia of stratum Malpighi. Acantholysis: Loss of cohesion between epidermal cells with formation of intraepidermal space containing edema fluid and detached epithelial cells. Dyskeratosis: Abnormal development of epidermal cells resulting in rounded cells devoid of their prickles and having pyknotic nuclei. Dyskeratosis is a feature of premalignant and malignant lesions and is rarely seen in benign conditions. Hyperkeratosis: Thickening of the horny layer. Parakeratosis: Abnormal keratinization of the cells so that the horny layer contains nucleated keratinocytes rather than the normal non-nucleate keratin layer. Spongiosis: Intercellular edema of the epidermis which may progress to vesicle formation in the epidermis. Pigment incontinence: Loss of melanin pigment from damaged basal cell layer so that the pigment accumulates in the melanophages in the dermis. Ref: Textbook of pathology (Harsh Mohan)6th edition, page no.769",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"means\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "dacfe1f5-98dc-41f2-b98b-55d2d846eb7b": {
-    "cop": 1,
-    "exp": "The anesthetized state has been termed dissociative anesthesia because patients who receive ketamine alone appear to be in a cataleptic state, in contrast to other states of anesthesia that resemble normal sleep. Patients anesthetized with ketamine have profound analgesia, but they keep their eyes open and maintain many reflexes. Corneal, cough, and swallow reflexes all may be present, but they should not be assumed to be protective. The patient has no recall of surgery or anesthesia, but amnesia is not as prominent with ketamine as with the benzodiazepines. Ref: Miller's anesthesia 8th edition"
+    "cop": 0,
+    "exp": "The anesthetized state has been termed dissociative anesthesia because patients who receive ketamine alone appear to be in a cataleptic state, in contrast to other states of anesthesia that resemble normal sleep. Patients anesthetized with ketamine have profound analgesia, but they keep their eyes open and maintain many reflexes. Corneal, cough, and swallow reflexes all may be present, but they should not be assumed to be protective. The patient has no recall of surgery or anesthesia, but amnesia is not as prominent with ketamine as with the benzodiazepines. Ref: Miller's anesthesia 8th edition",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following drugs produces\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0a1a710a-899b-4372-b417-e0aeb868faa2": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., HLA identity similarity seen in 1:100 people transplant immunobiology and rejection -o Antigen which is responsible for transplantation mechanism is glycoprotein surface antigen (HLA).o Every indivudual has a unique set of inherited transplant antigens the human leucocyte antigen (HLA) - Which are genetically encoded on chromosome 6.o The purpose of these antigens is to help the body recognize what is self and what is not.o When an organ is transplanted between HLA mismatched people, that organ is recognized as nonself because of unrecognized HLA, and can be destroyed.\"Within any particular family, sibling 'v have a 1:4 chance of being HLA identical In contrast among unrelated people, the probabilities of HLA identity is in several thousand depending upon phenotype involved. It is due to the fact that HLA complex is inherited intact as two haplotypes\".THREE TYPES OF REJECTION MAY TAKE PLACE IN RENAL TRANSPLANT PATIENTS :Hyperacute -o This reiection is analogous to a blood transfustion reaction as it is a humoral response mediated bv preformed recipient antibodies against the HLA expressed on the donor renal vascular endothelium.o To have these preformed antibodies the recipient must have been sensitized by a previous blood transfusion, a previous pregnancy or a previous transplant.o All potential recipients are screened for these antibodies preoperatively by placement of donor lymphocytes with recipient serum.o If this cross match is positive, that is antibodies are present in the recipient serum against the donor HLA, transplant surgery is contraindicated.o Clinically hyperacute rejection is seen as soon as blood flow to the donor kidney is established.Acute reiection -o This occurs in first week to month after transplant.o Cell mediated immunity is involved in this process and T lymphocytes play a major role in this.Chronic rejection -o It is defined as a process of gradual progressive decrease in renal function that cannot be attributed to another cause.o Unlike the causes of hyperacute and acute rejection, the underlying immune mechanism of chronic rejection is not understood."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., HLA identity similarity seen in 1:100 people transplant immunobiology and rejection -o Antigen which is responsible for transplantation mechanism is glycoprotein surface antigen (HLA).o Every indivudual has a unique set of inherited transplant antigens the human leucocyte antigen (HLA) - Which are genetically encoded on chromosome 6.o The purpose of these antigens is to help the body recognize what is self and what is not.o When an organ is transplanted between HLA mismatched people, that organ is recognized as nonself because of unrecognized HLA, and can be destroyed.\"Within any particular family, sibling 'v have a 1:4 chance of being HLA identical In contrast among unrelated people, the probabilities of HLA identity is in several thousand depending upon phenotype involved. It is due to the fact that HLA complex is inherited intact as two haplotypes\".THREE TYPES OF REJECTION MAY TAKE PLACE IN RENAL TRANSPLANT PATIENTS :Hyperacute -o This reiection is analogous to a blood transfustion reaction as it is a humoral response mediated bv preformed recipient antibodies against the HLA expressed on the donor renal vascular endothelium.o To have these preformed antibodies the recipient must have been sensitized by a previous blood transfusion, a previous pregnancy or a previous transplant.o All potential recipients are screened for these antibodies preoperatively by placement of donor lymphocytes with recipient serum.o If this cross match is positive, that is antibodies are present in the recipient serum against the donor HLA, transplant surgery is contraindicated.o Clinically hyperacute rejection is seen as soon as blood flow to the donor kidney is established.Acute reiection -o This occurs in first week to month after transplant.o Cell mediated immunity is involved in this process and T lymphocytes play a major role in this.Chronic rejection -o It is defined as a process of gradual progressive decrease in renal function that cannot be attributed to another cause.o Unlike the causes of hyperacute and acute rejection, the underlying immune mechanism of chronic rejection is not understood.",
+    "hint_exp": "🎯 Think of \"true transplanted kidney except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c294ded8-a328-43b0-855d-15a3ac6b1ed9": {
-    "cop": 3,
-    "exp": "ADHD patients are vulnerable to antisocial behavior, substance use disorders (alcoholism), mood disorders, conduct disorder, and lower education attainments."
+    "cop": 2,
+    "exp": "ADHD patients are vulnerable to antisocial behavior, substance use disorders (alcoholism), mood disorders, conduct disorder, and lower education attainments.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"childhood can\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "eaea23ee-710d-4367-abea-6e77610a425f": {
-    "cop": 2,
-    "exp": "National Population Policy 2000 has the objective of bringing the total feility rate to replacement level by 2010 It also aims net reproduction rate by 1 by the year 2010 which the National health policy 1983 fails to achieve Reference : Park&;s textbook of preventive and social medicine, 23rd edition, Page no: 493"
+    "cop": 1,
+    "exp": "National Population Policy 2000 has the objective of bringing the total feility rate to replacement level by 2010 It also aims net reproduction rate by 1 by the year 2010 which the National health policy 1983 fails to achieve Reference : Park&;s textbook of preventive and social medicine, 23rd edition, Page no: 493",
+    "hint_exp": "🧩 Your crush solved \"National Population Policy 2000\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a0422664-9ed2-48c0-9938-e8016735c43d": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"False about School Vision\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "67277df2-71e0-4177-964b-a2a60951748d": {
-    "cop": 3,
-    "exp": "Concentric enlargement of blind spot is the most common visual field defect in patients with papilledema.Compression,detachment ,and lateral displacement of the peripapillary retina appears to be the major reasons that the blind spot increases in size in patients with papilledema. Ref : Riordan-Eva P. (2011). Chapter 3. Ophthalmic Emergencies. In P. Riordan-Eva, E.T. Cunningham, Jr. (Eds), Vaughan & Asbury's General Ophthalmology, 18e."
+    "cop": 2,
+    "exp": "Concentric enlargement of blind spot is the most common visual field defect in patients with papilledema.Compression,detachment ,and lateral displacement of the peripapillary retina appears to be the major reasons that the blind spot increases in size in patients with papilledema. Ref : Riordan-Eva P. (2011). Chapter 3. Ophthalmic Emergencies. In P. Riordan-Eva, E.T. Cunningham, Jr. (Eds), Vaughan & Asbury's General Ophthalmology, 18e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"blind spot\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "948e5f7d-99be-4c19-b147-3d2c2e8ceaeb": {
-    "cop": 3,
-    "exp": "Ans. (c) Fetomaternal blood leak(Ref: Oski's Pediatrics: Principles & Practice, chapter 66; Dacie 11th/pg 307)Ring sideroblasts are not seen in sickle cell anemia, but in Sideroblastic AnemiaPeripheral smear finding in sickle cell anemia:Ansiopoikilocytosis, polychromasia, Increased Retie %Irreversibly sickle RBCs and target cells (increased after autosplenectomy).Howell-Jolly bodies due to asplenia. Q"
+    "cop": 2,
+    "exp": "Ans. (c) Fetomaternal blood leak(Ref: Oski's Pediatrics: Principles & Practice, chapter 66; Dacie 11th/pg 307)Ring sideroblasts are not seen in sickle cell anemia, but in Sideroblastic AnemiaPeripheral smear finding in sickle cell anemia:Ansiopoikilocytosis, polychromasia, Increased Retie %Irreversibly sickle RBCs and target cells (increased after autosplenectomy).Howell-Jolly bodies due to asplenia. Q",
+    "hint_exp": "🎯 Think of \"used to detect\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0cab7972-9ee3-4283-9b6b-b8cd9b5b5f2e": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Morphea Scleroderma Scleroderma is a chronic disease of unknown etiology that affects the microvasculature and loose connective tissue and is characterized by fibrosis and obliteration of vessels in the skin, lungs, gastrointestinal tract, kidney and hea. Scleroderma is classified into : - Cutaneous (localized) Scleroderma or Morphea. Systemic sclerosis (generalized scleroderma). Cutaneous scleroderma (Morphea or localized scleroderma) Morphea is characterized by excessive collegen deposition leading to thickening of dermis, subcutaneous tissue or both. Internal organs are not involved (in contrast to system sclerosis). Morphea presents as dark, purple or bluish, firm indurated plaques. The most impoant skin finding is the induration of skin (which is felt inside -dermal induration) and hence inability to pinch skin (hidebound skin). Morphea is divided into : ? Plaque-type -4 Most common. occurs most commonly on lower trunk followed by extremities. Face is spared. Generalized-type --> When plaque type morphea involves 3 or more major anatomical ragions of chest (sternum), abdomen, lower back, buttock and thighs. Linear type Involves most commonly lower extremities followed by upper extremities, frontal poion of head (forehead) and anterior trunk. Frontoparietal linear morphea involves frontoparietal aspect of face and scalp: it is referred to as en coup de sabre. Deep morphea (Morphea profundus or subcutaneous morphea) It affects the subcutaneous tissue in contrast to other variant of morphea where dermis is involved primarily. Systemic sclerosis (Generalized scleroderma) Systemic sclerosis is generalized form of scleroderma, which involves internal organs along with skin. So, systemic sclerosis is a multisystem disorder. It is characterized by diffuse sclerosis of Skin predominantly affecting the acral region, i.e., hands, feet, finger, toes and face. Which leads to sclerodactyly and contractures in acral areas. Other manifestations are : - Raynaud's phenomenon --> Most common & earliest manifestation. Mask like face (expression less) Beaking of nose Thinning of lips. Mat like telangiectasia Salt-pepper dyschromatosis Periungual telangiectasia Calcinosis cutis on elbow, knuckles and malleoli. Calcinosis cutis, Raynaud's phenomenon, Esophageal dysmotility, Sclerodactyly and Telangiectasia occur together in CREST syndrome a variant of sclerodermea. Extracutaneous manifestation are : GIT --> Reflux esophagitis is the most common systemic complaint. Other are esophageal dysmotility, Constipation, diarrhea, malabsorption. Musculoskeletal --> Ahritis, proximal muscle weakness. Respiratory -4 Pulmonary fibrosis, alveolitis Cardiac Pericarditis, conduction defect, pulmonary hypeension. Renal --> Renal failure."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Morphea Scleroderma Scleroderma is a chronic disease of unknown etiology that affects the microvasculature and loose connective tissue and is characterized by fibrosis and obliteration of vessels in the skin, lungs, gastrointestinal tract, kidney and hea. Scleroderma is classified into : - Cutaneous (localized) Scleroderma or Morphea. Systemic sclerosis (generalized scleroderma). Cutaneous scleroderma (Morphea or localized scleroderma) Morphea is characterized by excessive collegen deposition leading to thickening of dermis, subcutaneous tissue or both. Internal organs are not involved (in contrast to system sclerosis). Morphea presents as dark, purple or bluish, firm indurated plaques. The most impoant skin finding is the induration of skin (which is felt inside -dermal induration) and hence inability to pinch skin (hidebound skin). Morphea is divided into : ? Plaque-type -4 Most common. occurs most commonly on lower trunk followed by extremities. Face is spared. Generalized-type --> When plaque type morphea involves 3 or more major anatomical ragions of chest (sternum), abdomen, lower back, buttock and thighs. Linear type Involves most commonly lower extremities followed by upper extremities, frontal poion of head (forehead) and anterior trunk. Frontoparietal linear morphea involves frontoparietal aspect of face and scalp: it is referred to as en coup de sabre. Deep morphea (Morphea profundus or subcutaneous morphea) It affects the subcutaneous tissue in contrast to other variant of morphea where dermis is involved primarily. Systemic sclerosis (Generalized scleroderma) Systemic sclerosis is generalized form of scleroderma, which involves internal organs along with skin. So, systemic sclerosis is a multisystem disorder. It is characterized by diffuse sclerosis of Skin predominantly affecting the acral region, i.e., hands, feet, finger, toes and face. Which leads to sclerodactyly and contractures in acral areas. Other manifestations are : - Raynaud's phenomenon --> Most common & earliest manifestation. Mask like face (expression less) Beaking of nose Thinning of lips. Mat like telangiectasia Salt-pepper dyschromatosis Periungual telangiectasia Calcinosis cutis on elbow, knuckles and malleoli. Calcinosis cutis, Raynaud's phenomenon, Esophageal dysmotility, Sclerodactyly and Telangiectasia occur together in CREST syndrome a variant of sclerodermea. Extracutaneous manifestation are : GIT --> Reflux esophagitis is the most common systemic complaint. Other are esophageal dysmotility, Constipation, diarrhea, malabsorption. Musculoskeletal --> Ahritis, proximal muscle weakness. Respiratory -4 Pulmonary fibrosis, alveolitis Cardiac Pericarditis, conduction defect, pulmonary hypeension. Renal --> Renal failure.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Localised scleroderma\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ed0175cc-7fc1-4069-97c1-a26a02d90e77": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Neuroleptic malignant syndrome"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Neuroleptic malignant syndrome",
+    "hint_exp": "🧩 Your crush solved \"Kaloo year adult medication\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "12ca604d-8eaa-4ded-b302-811dab8b732e": {
-    "cop": 2,
-    "exp": "Many chemicals are associated with an increased incidence of malignancy. These substances are called chemical carcinogens. Aflatoxin B1, a natural product of the fungus Aspergillus flavus, is metabolized to an epoxide. The fungus can grow on improperly stored peanuts and grains and is associated with the high incidence of hepatocellular carcinoma in some areas of Africa and the Far East. Hepatitis B virus is also highly associated with liver cancer in these regions. direct-acting chemical carcinogens, such as the direct-acting alkylating agents that are used in chemotherapy, most organic carcinogens first require conversion to a more reactive compound. Polycyclic aromatic hydrocarbons, aromatic amines, and azo dyes must be metabolized by cytochrome P450-dependent mixedfunction oxidases to active metabolites.Azo dyes, such as butter yellow and scarlet red, are metabolized to active compounds that have induced hepatocellular cancer in rats, but no human cases have been repoed Vinyl chloride is metabolized to an epoxide and is associated with angiosarcoma of the liver, not hepatocellular carcinoma Reference: Robbins & Cotran Pathologic Basis of Disease, 9edition."
+    "cop": 1,
+    "exp": "Many chemicals are associated with an increased incidence of malignancy. These substances are called chemical carcinogens. Aflatoxin B1, a natural product of the fungus Aspergillus flavus, is metabolized to an epoxide. The fungus can grow on improperly stored peanuts and grains and is associated with the high incidence of hepatocellular carcinoma in some areas of Africa and the Far East. Hepatitis B virus is also highly associated with liver cancer in these regions. direct-acting chemical carcinogens, such as the direct-acting alkylating agents that are used in chemotherapy, most organic carcinogens first require conversion to a more reactive compound. Polycyclic aromatic hydrocarbons, aromatic amines, and azo dyes must be metabolized by cytochrome P450-dependent mixedfunction oxidases to active metabolites.Azo dyes, such as butter yellow and scarlet red, are metabolized to active compounds that have induced hepatocellular cancer in rats, but no human cases have been repoed Vinyl chloride is metabolized to an epoxide and is associated with angiosarcoma of the liver, not hepatocellular carcinoma Reference: Robbins & Cotran Pathologic Basis of Disease, 9edition.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following substances\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6b577c60-48f4-440a-8483-12b6eb099981": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Group B streptococcus Medically important streptococci and their characteristicsSpecies or common nameLancefield groupHemolysisHabitat in human hostsLaboratory testCommon diseases causedStr. PyogenesAbetaThroat,skinBacitracin sensitive;PYR test positive;Ribose not fermentedUpper respiratory tract infection; pyoderma; rheumatic fever; glomerulonephritisStr. agalactiaeBbetaFemalegenitaltract,rectumCAMP test, hippuratehydrolysisNeonatal menigitis, septicemiaStr. equisimilisCbetaThroatRibose and trehalose fermentationPharyngitis, endocarditisStr. anginosusA,C,F,G untvpablebeta (alpha, gamma)Throat colon female genital tractGroup A strains bacitracin resistantPYR negative;Minute colony variants of other groupsPyogenic infectionsEnterococcus sp.(Str. faecalis and other enterococci)DGamma(alpha,beta)ColonGrowth in 6.5% NaCl; PYR positiveUrinary tract infections, endocarditis,Suppurative infectionsNonenterococcalGroup D species(Str. bovis)DGammaColonNo growth in 6.5% NaClEndocarditisViridans steptococci (many species)No typedalpha (gamma)Mouth colon, female genital tractOptochin resistantSpecies classification on biochemical propertiesEndocarditis (Str. sanguis): dental caries (Str. mutans)"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Group B streptococcus Medically important streptococci and their characteristicsSpecies or common nameLancefield groupHemolysisHabitat in human hostsLaboratory testCommon diseases causedStr. PyogenesAbetaThroat,skinBacitracin sensitive;PYR test positive;Ribose not fermentedUpper respiratory tract infection; pyoderma; rheumatic fever; glomerulonephritisStr. agalactiaeBbetaFemalegenitaltract,rectumCAMP test, hippuratehydrolysisNeonatal menigitis, septicemiaStr. equisimilisCbetaThroatRibose and trehalose fermentationPharyngitis, endocarditisStr. anginosusA,C,F,G untvpablebeta (alpha, gamma)Throat colon female genital tractGroup A strains bacitracin resistantPYR negative;Minute colony variants of other groupsPyogenic infectionsEnterococcus sp.(Str. faecalis and other enterococci)DGamma(alpha,beta)ColonGrowth in 6.5% NaCl; PYR positiveUrinary tract infections, endocarditis,Suppurative infectionsNonenterococcalGroup D species(Str. bovis)DGammaColonNo growth in 6.5% NaClEndocarditisViridans steptococci (many species)No typedalpha (gamma)Mouth colon, female genital tractOptochin resistantSpecies classification on biochemical propertiesEndocarditis (Str. sanguis): dental caries (Str. mutans)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"CAMP test positive\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "02eaabf2-91a4-4583-bc4c-6d81e2a8d5c7": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e. 2 feet proximal to ileococcal valve on antimesentric border"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e. 2 feet proximal to ileococcal valve on antimesentric border",
+    "hint_exp": "🎯 Think of \"Which true regarding site\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "683e2470-f8f2-470d-8bb9-3ff4249b6a51": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., M. Tuberculosis . MAC infection occurs when CD4 + T cells counts are < 50/ml, in contrast M. tuberculosis infection develops early in the course with CD4 T cells counts > 300/ml."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., M. Tuberculosis . MAC infection occurs when CD4 + T cells counts are < 50/ml, in contrast M. tuberculosis infection develops early in the course with CD4 T cells counts > 300/ml.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following mycobacteria can\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "44dc4168-6862-4a89-8ab5-a6091ed41d1e": {
-    "cop": 1,
-    "exp": "The lecithin/sphingomyelin (L/S) ratio for assessment of fetal pulmonary maturity. The test depends on outward flow of pulmonary secretions from the lungs into the amniotic fluid, thereby changing the phospholipid composition of the latter and permitting measurement of the L/S ratio in a sample of amniotic fluid. In the absence of complications, the ratio of these 2 components reaches 2.0 at approximately 35 weeks. The presence of blood or meconium may interfere with test interpretation. Ref: Mehta S.H., Sokol R.J. (2013). Chapter 12. Assessment of At-Risk Pregnancy. In A.H. DeCherney, L. Nathan, N. Laufer, A.S. Roman (Eds), CURRENT Diagnosis & Treatment: Obstetrics & Gynecology, 11e."
+    "cop": 0,
+    "exp": "The lecithin/sphingomyelin (L/S) ratio for assessment of fetal pulmonary maturity. The test depends on outward flow of pulmonary secretions from the lungs into the amniotic fluid, thereby changing the phospholipid composition of the latter and permitting measurement of the L/S ratio in a sample of amniotic fluid. In the absence of complications, the ratio of these 2 components reaches 2.0 at approximately 35 weeks. The presence of blood or meconium may interfere with test interpretation. Ref: Mehta S.H., Sokol R.J. (2013). Chapter 12. Assessment of At-Risk Pregnancy. In A.H. DeCherney, L. Nathan, N. Laufer, A.S. Roman (Eds), CURRENT Diagnosis & Treatment: Obstetrics & Gynecology, 11e.",
+    "hint_exp": "🧩 Your crush solved \"lecithin sphingomyelin ratio measured\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f2405060-9bdf-44a7-abf0-1604279b5b43": {
-    "cop": 2,
-    "exp": "Red infarcts are seen in\nArterial obstruction\nIn organs that have dual blood supply\nLung* and Liver*\nArterial obstruction\nIn tissues that have collateral vessels permitting some continued flow into the area although the amount is not\nsufficient to prevent infarction.\nIntestine*\nVenous infarcts\nWhite (or pale) infarcts are seen\nArterial obstruction in solid organs that lack significant collateral circulation. e.g. - heart\nspleen\nkidney\nbrain*"
+    "cop": 1,
+    "exp": "Red infarcts are seen in\nArterial obstruction\nIn organs that have dual blood supply\nLung* and Liver*\nArterial obstruction\nIn tissues that have collateral vessels permitting some continued flow into the area although the amount is not\nsufficient to prevent infarction.\nIntestine*\nVenous infarcts\nWhite (or pale) infarcts are seen\nArterial obstruction in solid organs that lack significant collateral circulation. e.g. - heart\nspleen\nkidney\nbrain*",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"findings\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ebe1c206-a0f0-45e8-bba6-9975d84f67c3": {
-    "cop": 1,
-    "exp": "The most common cranial nerve involved in GBS is the 7th cranial nerve involvement BUT the question was regarding cranial nerve involvement causing ophthalmo-paresis in G.B.S. Hence the Answer is a 6th cranial nerve. Remember the number 7-6-3 as cranial nerves involved in G.B.S. Ophthalmoparesis may be observed in up to 25% of patients with G.B.S. Limitation of eye movement most commonly results from asymmetrical palsy associated with cranial nerve VI. Ptosis from cranial nerve III (oculomotor) palsy also is often associated with limited eye movements."
+    "cop": 0,
+    "exp": "The most common cranial nerve involved in GBS is the 7th cranial nerve involvement BUT the question was regarding cranial nerve involvement causing ophthalmo-paresis in G.B.S. Hence the Answer is a 6th cranial nerve. Remember the number 7-6-3 as cranial nerves involved in G.B.S. Ophthalmoparesis may be observed in up to 25% of patients with G.B.S. Limitation of eye movement most commonly results from asymmetrical palsy associated with cranial nerve VI. Ptosis from cranial nerve III (oculomotor) palsy also is often associated with limited eye movements.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"in Guillain Barre syndrome\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "67e10794-d851-4957-9264-6836b3024fd4": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Histamine"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Histamine",
+    "hint_exp": "🎯 Think of \"chemokines except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "06f8618c-2886-46a1-94f5-60ea4e1b5ea7": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Hemolyticjaundice\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e4a33209-564b-4410-be2d-1e84ba5d59d3": {
-    "cop": 4,
-    "exp": "Black Triangles’ can be treated by:\n\nFilling the entire embrasure space with pink porcelain.\nAndrew's bridge system\nIncreasing the connector height\n\nLoss of residual ridge contour may lead to unesthetic open gingival embrasures (“black triangles”), food impaction and percolation of saliva during speech."
+    "cop": 3,
+    "exp": "Black Triangles’ can be treated by:\n\nFilling the entire embrasure space with pink porcelain.\nAndrew's bridge system\nIncreasing the connector height\n\nLoss of residual ridge contour may lead to unesthetic open gingival embrasures (“black triangles”), food impaction and percolation of saliva during speech.",
+    "hint_exp": "🧩 Your crush solved \"Black Triangles source plaque\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c4256f5b-76d6-4dd2-b096-5939be199510": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"composite resins\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "126ed480-77a1-47ea-8f1b-2b543c64d260": {
-    "cop": 3,
-    "exp": "Myoglobin dissociation curve is: Rectangular hyperbola. P50for myoglobin (PO2at which 50% of myoglobin is saturated)- 5 mmHg. Myoglobin has high affinity for O2."
+    "cop": 2,
+    "exp": "Myoglobin dissociation curve is: Rectangular hyperbola. P50for myoglobin (PO2at which 50% of myoglobin is saturated)- 5 mmHg. Myoglobin has high affinity for O2.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"dissociation curve\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5370fd68-2261-4f3a-9cdd-3bc82b1d9f24": {
-    "cop": 1,
-    "exp": "WHO classification of mental retardation (MR) mild MR ...IQ 50-70 moderate MR....IQ 35-49 severe MR....IQ 20-34 profound MR... IQ undere 20 ref; (page no;582) 23rd edition of PARK&;s textbook of Preventive and Social medicine"
+    "cop": 0,
+    "exp": "WHO classification of mental retardation (MR) mild MR ...IQ 50-70 moderate MR....IQ 35-49 severe MR....IQ 20-34 profound MR... IQ undere 20 ref; (page no;582) 23rd edition of PARK&;s textbook of Preventive and Social medicine",
+    "hint_exp": "🎯 Think of \"this concept\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "56b5d56c-d53f-49c6-8a5b-4ce4dd7d5b96": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"selective serotonin adrenaline reuptake\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "79e3b09c-46ac-48b4-8e3c-2747c52755a4": {
-    "cop": 1,
-    "exp": "Caclitonin is the tumor marker for MTC which arises from parafollicular cells."
+    "cop": 0,
+    "exp": "Caclitonin is the tumor marker for MTC which arises from parafollicular cells.",
+    "hint_exp": "🧩 Your crush solved \"the tumor marker\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "96b470fb-092d-4ae8-a882-fd5ec4271e0f": {
-    "cop": 3,
-    "exp": "- Preductal & postductal oxygen saturation parameters are used to detect R - L shunt at the level of foramen ovale & ductus aeriosus. - Pre - ductal O2 saturation in PDA: Always seen in RIGHT UPPER LIMB supplied by Right Subclan aery- itself a branch of BRACHIOCEPHALIC TRUNK (branch of arch of aoa). It is not near to ductus aeriosus. So, no mixing of Pre or Post ductal blood. - Left hand is supplied by LEFT SUBCLAN AERY Just distal to left subclan aery is the ductus aeriosus. So, mixing of Pre and Post ductal blood can take place - Therefore, right upper limb is always considered for Pre-ductal O2 saturation. - Lower limbs are considered for post-ductal O2 saturation - Preductal O2 saturation of at least 3% above the postductal is evidence of right-to-left ductal shunting"
+    "cop": 2,
+    "exp": "- Preductal & postductal oxygen saturation parameters are used to detect R - L shunt at the level of foramen ovale & ductus aeriosus. - Pre - ductal O2 saturation in PDA: Always seen in RIGHT UPPER LIMB supplied by Right Subclan aery- itself a branch of BRACHIOCEPHALIC TRUNK (branch of arch of aoa). It is not near to ductus aeriosus. So, no mixing of Pre or Post ductal blood. - Left hand is supplied by LEFT SUBCLAN AERY Just distal to left subclan aery is the ductus aeriosus. So, mixing of Pre and Post ductal blood can take place - Therefore, right upper limb is always considered for Pre-ductal O2 saturation. - Lower limbs are considered for post-ductal O2 saturation - Preductal O2 saturation of at least 3% above the postductal is evidence of right-to-left ductal shunting",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"done at\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5b4c99b2-ad33-48e1-b991-742a254d04c8": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"mainly predominated by\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "51c34203-733c-4397-af5a-aa871ede9fd7": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"medical radiotherapy linear particle\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8eef8a27-b4cd-4ef8-884c-780d5061de96": {
-    "cop": 1,
-    "exp": "Answer is A (Thyrotoxicosis) Dancing carotids may be seen in Aoic regurgitation Thyrotoxicosis"
+    "cop": 0,
+    "exp": "Answer is A (Thyrotoxicosis) Dancing carotids may be seen in Aoic regurgitation Thyrotoxicosis",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Dancing carotid seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0633785c-d232-4f38-928b-cecc18762bd4": {
-    "cop": 1,
-    "exp": "S3 is due to the rapid gush of blood in the ventricle Ref: Ganong 25th ed/page 540"
+    "cop": 0,
+    "exp": "S3 is due to the rapid gush of blood in the ventricle Ref: Ganong 25th ed/page 540",
+    "hint_exp": "🧩 Your crush solved \"due to\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c5224bd0-a56e-4471-b721-f560b7b2c623": {
-    "cop": 2,
-    "exp": "Ans. (B) Methyldopa(Ref: KDT 8th/e p612)Methyl dopa itself is not an a2 agonist but it is converted to an active metabolite a-methyl norepinephrine which possesses a2 agonistic action. All other drugs listed in the question are a2 agonists for the treatment of hypertension."
+    "cop": 1,
+    "exp": "Ans. (B) Methyldopa(Ref: KDT 8th/e p612)Methyl dopa itself is not an a2 agonist but it is converted to an active metabolite a-methyl norepinephrine which possesses a2 agonistic action. All other drugs listed in the question are a2 agonists for the treatment of hypertension.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e9e19cc2-f9c8-45bd-9749-62007f34bfe5": {
-    "cop": 2,
-    "exp": "Ans. B i.e. Posterior hypothalamusShivering/ShudderingIt is a bodily function in response to early hypothermia in warm-blooded animals.When the core body temperature drops, the shivering reflex is triggered to maintain homeostasis.Muscle groups around the vital organs begin to shake in small movements in an attempt to create warmth by expending energy.Shivering can also be a response to a fever, as a person may feel cold, though their core temperature is already elevated.Located in the posterior hypothalamus near the wall of the third ventricle is an area called the primary motor center for shivering.This area is normally inhibited by signals from the heat center in the anterior hypothalamic-preoptic area but is excited by cold signals from the skin and spinal cord."
+    "cop": 1,
+    "exp": "Ans. B i.e. Posterior hypothalamusShivering/ShudderingIt is a bodily function in response to early hypothermia in warm-blooded animals.When the core body temperature drops, the shivering reflex is triggered to maintain homeostasis.Muscle groups around the vital organs begin to shake in small movements in an attempt to create warmth by expending energy.Shivering can also be a response to a fever, as a person may feel cold, though their core temperature is already elevated.Located in the posterior hypothalamus near the wall of the third ventricle is an area called the primary motor center for shivering.This area is normally inhibited by signals from the heat center in the anterior hypothalamic-preoptic area but is excited by cold signals from the skin and spinal cord.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Shivering controlled September 2012\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "eba0e9d7-2e6e-4f8d-9447-bc566a44d186": {
-    "cop": 3,
-    "exp": "Hypoxia stimulates inflation of lungs. Inflation augments furthur inflation."
+    "cop": 2,
+    "exp": "Hypoxia stimulates inflation of lungs. Inflation augments furthur inflation.",
+    "hint_exp": "🎯 Think of \"the first breath of newborn\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8652d1e4-e8e2-4533-96f3-6aa8f374af55": {
-    "cop": 3,
-    "exp": "Answer is C (Glomerulonephritis): Renal adverse effects of Amphotericin B : Nephrotoxicity is the most impoant long term toxicity of Amphotericin B - KDT Manifestations of Nephrotoxicity of Amphotericin B are : - Azotemia - Reduced G. F.R Acidosis (A) Hypokalemia - Inability to concentrate urine Nephrotoxity reverses slowly though often incompletely after stoppage of therapy."
+    "cop": 2,
+    "exp": "Answer is C (Glomerulonephritis): Renal adverse effects of Amphotericin B : Nephrotoxicity is the most impoant long term toxicity of Amphotericin B - KDT Manifestations of Nephrotoxicity of Amphotericin B are : - Azotemia - Reduced G. F.R Acidosis (A) Hypokalemia - Inability to concentrate urine Nephrotoxity reverses slowly though often incompletely after stoppage of therapy.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Renal damage amphotericin except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "def8ef39-b995-4afa-92fc-4b1a987b0df0": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., +- 2 SD 1 SD --> Coveres 68% of area (68% confidence limit) 2 SD --4 Coveres 95% of area (95% confidence limit) 3 SD --> Coveres 99.7% of area (99.7% confidence limit)"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., +- 2 SD 1 SD --> Coveres 68% of area (68% confidence limit) 2 SD --4 Coveres 95% of area (95% confidence limit) 3 SD --> Coveres 99.7% of area (99.7% confidence limit)",
+    "hint_exp": "🧩 Your crush solved \"confidence limit exist between\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e9f95266-9d53-4c1d-9f38-54ab0536750d": {
-    "cop": 1,
-    "exp": "Pyromania This is an irresistible desire to set fire. In the history, the Roman Emperor Nero had pyromania, he was playing mandolin after giving orders to set fire a pa of Rome. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 360"
+    "cop": 0,
+    "exp": "Pyromania This is an irresistible desire to set fire. In the history, the Roman Emperor Nero had pyromania, he was playing mandolin after giving orders to set fire a pa of Rome. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 360",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"called\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "882a4e16-90bb-4fda-8bc0-9d64b5d0250e": {
-    "cop": 2,
-    "exp": "Kata thermometer: It's an alcohol thermometer Reading is from 100 F to 96 F Two instruments have used, the bulb of one is covered with wet muslin cloth called Wet Kata thermometer and the one without covering is Dry kata thermometer. Kata thermometer was initially designed for measurement of \"cooling power\" of air. now it is largely used as anemometer for recording low air velocity Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg 807"
+    "cop": 1,
+    "exp": "Kata thermometer: It's an alcohol thermometer Reading is from 100 F to 96 F Two instruments have used, the bulb of one is covered with wet muslin cloth called Wet Kata thermometer and the one without covering is Dry kata thermometer. Kata thermometer was initially designed for measurement of \"cooling power\" of air. now it is largely used as anemometer for recording low air velocity Park's Textbook of Preventive and Social Medicine, 25th Edition, Pg 807",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Kata Thermometer used recording\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "31a479c4-bfcd-4e88-8a6c-732b57dfb3a7": {
-    "cop": 2,
-    "exp": "WHO GUIDELINES FOR DIAGNOSIS OF DIABETES MELLITUS CUT-OFF (mmol/L) CUT-OFF (mg/dl) Diabetes Fasting plasma glucose >= 7mmol/L >=126mg/dL 2-hour plasma glucose >11.1 mmol/L >200mg/dL Impaired glucose tolerance Fasting plasma glucose <7 mmol/L <126 mg/dL 2-hour plasma glucose 7.8-11.1 mmol/L 140-200mg/dL Impaired fasting glucose Fasting plasma glucose 6.1-6.9 mmol/dL 110-125 mg/dL 2-hour plasma glucose <7.8 mmol/dL <140 mg/dL Ref: Park 25th edition Pgno : 414"
+    "cop": 1,
+    "exp": "WHO GUIDELINES FOR DIAGNOSIS OF DIABETES MELLITUS CUT-OFF (mmol/L) CUT-OFF (mg/dl) Diabetes Fasting plasma glucose >= 7mmol/L >=126mg/dL 2-hour plasma glucose >11.1 mmol/L >200mg/dL Impaired glucose tolerance Fasting plasma glucose <7 mmol/L <126 mg/dL 2-hour plasma glucose 7.8-11.1 mmol/L 140-200mg/dL Impaired fasting glucose Fasting plasma glucose 6.1-6.9 mmol/dL 110-125 mg/dL 2-hour plasma glucose <7.8 mmol/dL <140 mg/dL Ref: Park 25th edition Pgno : 414",
+    "hint_exp": "🎯 Think of \"diagnosis of diabetes\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f358025e-5cac-467b-93a8-313c0b39554c": {
-    "cop": 3,
-    "exp": "Drugs useful for day care surgeryPropofolSevoflurane, desflurane & isofluraneAlfentanilMidazolam Mivacurium(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 214,219)"
+    "cop": 2,
+    "exp": "Drugs useful for day care surgeryPropofolSevoflurane, desflurane & isofluraneAlfentanilMidazolam Mivacurium(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no. 214,219)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"day care surgery\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "37e38af3-e8aa-44f8-9ab8-8fd429164cd3": {
-    "cop": 4,
-    "exp": "\"All listed methods are used in the management of intra aicular fracture\" Intra aicular fracture Intra aicular fracture are those in which the break crosses into the surface of a joint. They always result in some degree of cailage damage. Ideally the joint surface should be restored to their original position and held there strongly enough that movement may be staed in the early postoperative period. some permanent loss of motion is to be expected and joint may develop degenerative ahritis as a result of the injury. Principles of intra aicular fracture Immobilization of intra aicular fracture results in joint stiffness Immobilization of aicular fracture, treated by open reduction and internal fixation, results in much greater stiffness. Depressed aicular fragments, which do not reduce as a result of closed manipulation and traction, are impacted and will not reduced by closed means. Major aicular depression do not fill with fibrocailage and the instability which results from their displacement, is permanent. Anatomical reduction and stable fixation of aicular fragment is necessary to restore joint congruity. Immediate motion is necessary to prevent joint stiffness and to ensure aicular healing and recovery. This require stable internal fixation. Radius fracture treatment ( of distal end i.e. intra aicular pa) K wire fixation may be helpful for smaller fragments. cast immobilization is indicated for nondisplaced fracture, displaced fractures with a stable fracture pattern. The cast should be worn approximately 6 weeks or until radiographic evidence of union has occured. Ahrodesis In this operation, fusion is achieved between the bones forming a joint so as to eliminate any motion at the joint. An ahrodesis is used most often for a painful, stiff joint. It is also performed for grossly unstable joints in polio etc. It is also used for grossly unstable joint due to trauma. Excision and aspiration of hematoma excision of damaged poion of bone and aspiration of intra aicular hematoma, are also included in management of intra aicular fracture. Ref: AO principles of fracture management by Raudi, Page 106-09."
+    "cop": 3,
+    "exp": "\"All listed methods are used in the management of intra aicular fracture\" Intra aicular fracture Intra aicular fracture are those in which the break crosses into the surface of a joint. They always result in some degree of cailage damage. Ideally the joint surface should be restored to their original position and held there strongly enough that movement may be staed in the early postoperative period. some permanent loss of motion is to be expected and joint may develop degenerative ahritis as a result of the injury. Principles of intra aicular fracture Immobilization of intra aicular fracture results in joint stiffness Immobilization of aicular fracture, treated by open reduction and internal fixation, results in much greater stiffness. Depressed aicular fragments, which do not reduce as a result of closed manipulation and traction, are impacted and will not reduced by closed means. Major aicular depression do not fill with fibrocailage and the instability which results from their displacement, is permanent. Anatomical reduction and stable fixation of aicular fragment is necessary to restore joint congruity. Immediate motion is necessary to prevent joint stiffness and to ensure aicular healing and recovery. This require stable internal fixation. Radius fracture treatment ( of distal end i.e. intra aicular pa) K wire fixation may be helpful for smaller fragments. cast immobilization is indicated for nondisplaced fracture, displaced fractures with a stable fracture pattern. The cast should be worn approximately 6 weeks or until radiographic evidence of union has occured. Ahrodesis In this operation, fusion is achieved between the bones forming a joint so as to eliminate any motion at the joint. An ahrodesis is used most often for a painful, stiff joint. It is also performed for grossly unstable joints in polio etc. It is also used for grossly unstable joint due to trauma. Excision and aspiration of hematoma excision of damaged poion of bone and aspiration of intra aicular hematoma, are also included in management of intra aicular fracture. Ref: AO principles of fracture management by Raudi, Page 106-09.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "100f5d37-3982-41a2-9ad1-30cdd32ba2cc": {
-    "cop": 1,
-    "exp": "Ans. A (Nutrition) or None # Nutriton is factor in child pugh classification (L & B 25th/1083, Schwartz)# Nutriton is not a factor in child pugh classification (Harrison 17th/1923, CMDT 09/ 607, CSDT 12th/583)Table (Harrison): Child-Pugh Classification of CirrhosisFactorUnits123Serum bilirubinmmol/Lmg/dL<34<2.034-512.0-3.0>51>3.0Serum albuming/Lg/dL>35>3.530-353.0-3.5<30<3.0Prothrombin timeSeconds prolonged INR0-4<1.74-61.7-23>6>2.3AscitesNone Easily controlledPoorly controlledHepatic encephalopathyNone MinimalAdvancedNote: The Child-Pugh score is calculated by adding the scores of the five factors and can range from 5-15. Child-Pugh class is either A (a score of 5-6), B (7-9), or C (10 or above). Decompensa tion in dicates cirrhosis with a Child-Pugh score of 7 or more (class B). This level has been the accepted criterion for listing for liver transplantationTable (Swartz): Revised Child Classification of Clinical Severity of CirrhosisFactorABCNutritional status'1ExcellentGoodPoorAscites0NoneMinimal, controlledModerate to severeEncephalopathyNoneMinimal, controlledModerate to severeSerum bilirubin (mg/dL)<22-3>3Serum albumin (g/ dL)>3.52.8-3.S<2.8Prothrombin time (% of control)>7040-70<40"
+    "cop": 0,
+    "exp": "Ans. A (Nutrition) or None # Nutriton is factor in child pugh classification (L & B 25th/1083, Schwartz)# Nutriton is not a factor in child pugh classification (Harrison 17th/1923, CMDT 09/ 607, CSDT 12th/583)Table (Harrison): Child-Pugh Classification of CirrhosisFactorUnits123Serum bilirubinmmol/Lmg/dL<34<2.034-512.0-3.0>51>3.0Serum albuming/Lg/dL>35>3.530-353.0-3.5<30<3.0Prothrombin timeSeconds prolonged INR0-4<1.74-61.7-23>6>2.3AscitesNone Easily controlledPoorly controlledHepatic encephalopathyNone MinimalAdvancedNote: The Child-Pugh score is calculated by adding the scores of the five factors and can range from 5-15. Child-Pugh class is either A (a score of 5-6), B (7-9), or C (10 or above). Decompensa tion in dicates cirrhosis with a Child-Pugh score of 7 or more (class B). This level has been the accepted criterion for listing for liver transplantationTable (Swartz): Revised Child Classification of Clinical Severity of CirrhosisFactorABCNutritional status'1ExcellentGoodPoorAscites0NoneMinimal, controlledModerate to severeEncephalopathyNoneMinimal, controlledModerate to severeSerum bilirubin (mg/dL)<22-3>3Serum albumin (g/ dL)>3.52.8-3.S<2.8Prothrombin time (% of control)>7040-70<40",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Child criteria include\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2da0ebcf-a63f-405b-82fc-13d325cd7ac1": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following therapies would\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f2be7544-1fbe-4568-b76d-095364df95a7": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., As asymptomatic abdominal mass Presentation of Wilm's tumor : o Asymptomatic abdominal mass (most common) o Heamaturia (10-25%) o Abdominal pain (30%) o Fever (20%) o Hypeension (25%) o Anorexia and vomiting"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., As asymptomatic abdominal mass Presentation of Wilm's tumor : o Asymptomatic abdominal mass (most common) o Heamaturia (10-25%) o Abdominal pain (30%) o Fever (20%) o Hypeension (25%) o Anorexia and vomiting",
+    "hint_exp": "🎯 Think of \"most common presentation child\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "76ae8238-d2d4-4cc0-af9c-d7294e4d977f": {
-    "cop": 4,
-    "exp": "A i.e. Remnant of left horn of sinus venosus; B i.e. Great, middle & small cardiac vein drain into it; C i.e. Thebesian valve guard its opening"
+    "cop": 3,
+    "exp": "A i.e. Remnant of left horn of sinus venosus; B i.e. Great, middle & small cardiac vein drain into it; C i.e. Thebesian valve guard its opening",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"True about coronory sinus\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c21fb94f-73fc-4a1b-94ce-51168ea8029d": {
-    "cop": 3,
-    "exp": "- Chloramphenicol acts by inhibiting peptide bond formation. - Tetracyclines act by binding to 30S ribosome and inhibiting the binding of acyl tRNA to A site of mRNA-ribosome complex. - It enters bacteria by forming pores in the cell membrane and by active transpo which pumps it across the cell membrane. - Macrolides, Clindamycin and Quinpristine act by inhibiting translocation."
+    "cop": 2,
+    "exp": "- Chloramphenicol acts by inhibiting peptide bond formation. - Tetracyclines act by binding to 30S ribosome and inhibiting the binding of acyl tRNA to A site of mRNA-ribosome complex. - It enters bacteria by forming pores in the cell membrane and by active transpo which pumps it across the cell membrane. - Macrolides, Clindamycin and Quinpristine act by inhibiting translocation.",
+    "hint_exp": "🧩 Your crush solved \"mechanism action tetracyclines involves\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "91c25b34-ae48-45d5-a29f-7005fb039fc0": {
-    "cop": 2,
-    "exp": "Answer- B. Mixed rotationMixed (incomplete) rotation : The intestine does not rotate as it re enters the abdomen after physiological hernia caecum just lies inferior to the pylorus in the midline."
+    "cop": 1,
+    "exp": "Answer- B. Mixed rotationMixed (incomplete) rotation : The intestine does not rotate as it re enters the abdomen after physiological hernia caecum just lies inferior to the pylorus in the midline.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following abnormality\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2a5c6a51-4acf-42e9-bac6-e57d0be8c623": {
-    "cop": 2,
-    "exp": "Gynecomastia Gynecomastia is the enlargement of the male breast Benign lesion Occurs as a result of an imbalance between estrogens, which stimulate breast tissue, and androgens, which counteract these effects May appear during pubey, in the very aged, or at any time during adult life when there is cause for hyperestrinism, the most impoant of these is cirrhosis of the liver Drugs such as alcohol, marijuana, heroin, antiretroviral therapy, and anabolic steroids have been associated with gynecomastia. Rarely, gynecomastia occurs as pa of Klinefelter syndrome (47, XXY karyotype) or in association with functioning testicular neoplasms, such as Leydig cell or Seoli cell tumors. Breast development is defective in Turner syndrome (45, XO karyotype)."
+    "cop": 1,
+    "exp": "Gynecomastia Gynecomastia is the enlargement of the male breast Benign lesion Occurs as a result of an imbalance between estrogens, which stimulate breast tissue, and androgens, which counteract these effects May appear during pubey, in the very aged, or at any time during adult life when there is cause for hyperestrinism, the most impoant of these is cirrhosis of the liver Drugs such as alcohol, marijuana, heroin, antiretroviral therapy, and anabolic steroids have been associated with gynecomastia. Rarely, gynecomastia occurs as pa of Klinefelter syndrome (47, XXY karyotype) or in association with functioning testicular neoplasms, such as Leydig cell or Seoli cell tumors. Breast development is defective in Turner syndrome (45, XO karyotype).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e0cacda3-a588-4615-b40b-8b80b4f24ca6": {
-    "cop": 3,
-    "exp": "It involves posterior superior surface of right lobe of liver."
+    "cop": 2,
+    "exp": "It involves posterior superior surface of right lobe of liver.",
+    "hint_exp": "🎯 Think of \"Amebic liver abscess\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "cfaa1a21-86d8-42fe-b365-be9059afc96c": {
-    "cop": 1,
-    "exp": "This pt. is suffering from acute pancreatitis. In acute pancreatitis, serum lipase level is elevated. In fact the diagnosis of acute pancreatitis is usually confirmed by an elevated level of serum amylase and/or lipase. Another lab test used to diagnose acute pancreatitis is - serum trypsin level (it has theoretical advantage over amylase and lipase determinations in that the pancreas is the only organ that contains this enzyme). In acute pancreatitis Serum amylase level is increased many fold Serum LDH level are elevated and markedly elevated levels suggest a poor prognosis. Hypocalcemia is seen in about 25% of pts. and is thought to be due to intraperitoneal saponification of calcium by fatty acids in areas of fat necrosis. Ref : Harrison, 17/e p2002"
+    "cop": 0,
+    "exp": "This pt. is suffering from acute pancreatitis. In acute pancreatitis, serum lipase level is elevated. In fact the diagnosis of acute pancreatitis is usually confirmed by an elevated level of serum amylase and/or lipase. Another lab test used to diagnose acute pancreatitis is - serum trypsin level (it has theoretical advantage over amylase and lipase determinations in that the pancreas is the only organ that contains this enzyme). In acute pancreatitis Serum amylase level is increased many fold Serum LDH level are elevated and markedly elevated levels suggest a poor prognosis. Hypocalcemia is seen in about 25% of pts. and is thought to be due to intraperitoneal saponification of calcium by fatty acids in areas of fat necrosis. Ref : Harrison, 17/e p2002",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year male chronic alcoholic\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "14bed2da-8d52-4d6e-b9ac-7b9bdc44ccb2": {
-    "cop": 2,
-    "exp": "Significant emotional concerns develop when puberty is delayed. By definition, if breast development has not begun by age 13, delayed puberty should be suspected. Menarche usually follows about 1 to 2 years after the beginning of breast development; if menarche is delayed beyond age 16, delayed puberty should be investigated. Appropriate laboratory tests include circulating pituitary and steroid hormone levels, karyotypic analysis, and central nervous system (CNS) imaging when indicated. An FSH value greater than 40 mIU/mL defines hypergonadotropic hypogonadism as a cause of delayed pubertal maturation. Hypergonadotropic hypogonadism is seen in girls with gonadal dysgenesis, such as occurs with Turner syndrome. Since gonadal dysgenesis is such a common cause of absent pubertal development, hypergonadotropic hypogonadism is frequently but not invariably found in these patients."
+    "cop": 1,
+    "exp": "Significant emotional concerns develop when puberty is delayed. By definition, if breast development has not begun by age 13, delayed puberty should be suspected. Menarche usually follows about 1 to 2 years after the beginning of breast development; if menarche is delayed beyond age 16, delayed puberty should be investigated. Appropriate laboratory tests include circulating pituitary and steroid hormone levels, karyotypic analysis, and central nervous system (CNS) imaging when indicated. An FSH value greater than 40 mIU/mL defines hypergonadotropic hypogonadism as a cause of delayed pubertal maturation. Hypergonadotropic hypogonadism is seen in girls with gonadal dysgenesis, such as occurs with Turner syndrome. Since gonadal dysgenesis is such a common cause of absent pubertal development, hypergonadotropic hypogonadism is frequently but not invariably found in these patients.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

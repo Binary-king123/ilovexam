@@ -1,202 +1,252 @@
 {
   "ce1e2633-f02f-424d-bda7-3eb2134e00fe": {
-    "cop": 3,
-    "exp": "Ans. (c) Anterior Dislocation of tibiaRef: Maheshwari 5th ed. /148-149* The anterior cruciate ligament (ACL) stretches from the lateral condyle of femur to the anterior intercondylar area.* The ACL is critically important because it prevents the tibia from being pushed too far anterior relative to the femur. It is often torn during twisting or bending of the knee.* ACL is considered as the major stabilizer of the knee. Therefore, ACL Tears are the most common knee injuries.* If there is ACL tear, reconstruction is most commonly done by autograft, meaning the tissue used for the repair is from the patient's body.* The two most common sources for tissue are the patellar tendon and hamstrings tendon* The posterior cruciate ligament (PCL) stretches from medial condyle of femur to the posterior intercondylar area.* This ligament prevents posterior displacement of the tibia relative to the femur."
+    "cop": 2,
+    "exp": "Ans. (c) Anterior Dislocation of tibiaRef: Maheshwari 5th ed. /148-149* The anterior cruciate ligament (ACL) stretches from the lateral condyle of femur to the anterior intercondylar area.* The ACL is critically important because it prevents the tibia from being pushed too far anterior relative to the femur. It is often torn during twisting or bending of the knee.* ACL is considered as the major stabilizer of the knee. Therefore, ACL Tears are the most common knee injuries.* If there is ACL tear, reconstruction is most commonly done by autograft, meaning the tissue used for the repair is from the patient's body.* The two most common sources for tissue are the patellar tendon and hamstrings tendon* The posterior cruciate ligament (PCL) stretches from medial condyle of femur to the posterior intercondylar area.* This ligament prevents posterior displacement of the tibia relative to the femur.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Anterior cruciate ligaments prevent\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8d65c9ff-90e4-44b0-b4b4-9585454294a4": {
-    "cop": 2,
-    "exp": "Ans- BSputum Microscopy takes about less than a hr where as gene expert 2hrs.Rapid detection is by Microscopy.More sensitive & Specific is GeneXpertWhat is the Xpert MTB/RIF Assay?The Xpert MTB/RIF assay is a new test that is revolutionizing tuberculosis (TB) control by contributing to the rapid diagnosis of TB disease and drug resistance. The test simultaneously detects Mycobacterium tuberculosis complex (MTBC)and resistance to rifampin (RIF) in less than 2 hours.In comparison, standard cultures can take 2 to 6 weeks for M.tb to grow and conventional drug resistance tests can add 3 more weeks. The information provided by the Xpert MTB/RIF assay aids in selecting treatment regimens and reaching infection control decisions quickly.The Xpert MTB/RIF assay is a nucleic acid amplification (NAA) test that uses a disposable cartridge with the GeneXpert Instrument System. A sputum sample is collected from the patient with suspected TB. The sputum is mixed with the reagent that is provided with the assay, and a cartridge containing this mixture is placed in the GeneXpert machine. All processing from this point on is fully automated.Major advantages of the Xpert MTB/RIF assay are that 1) Results are available quickly, and2) Minimal technical training is required to run the test.Additionally, the Xpert MTB/RIF assay can quickly identify possible multidrug-resistant TB (MDR TB). MDR TB is TB that is resistant to both isoniazid (INH) and RIF, two of the most effective TB drugs. RIF resistance is a predictor of MDR TB because resistance to RIF, in most instances, co-exists with resistance to INH. Rapid diagnosis of RIF resistance potentially allows TB patients to start on effective treatment much sooner than waiting for results from other types of drug susceptibility testing. For patients who are found to NOT have TB disease, rapid results from the Xpert MTB/RIF assay may contribute to cost savings by avoiding unnecessary treatment and respiratory isolation in hospitals or other institutions. As with other NAA tests, the Xpert MTB/RIF assay should be interpreted along with clinical, radiographic, and other laboratory findings. The Xpert MTB/RIF assay does not replace the need for smear with microscopy for acid-fast bacilli, culture for mycobacteria, and growth-based drug susceptibility testing, in addition to genotyping for early discovery of outbreaks. Results from the Xpert MTB/RIF assay indicate whether or not MTBC was detected in the sample. In some instances, the result is invalid,whereby the test should be repeated. If MTBC was detected, the results will also state whether resistance to RIF was detected, not detected, or indeterminate.Regardless of the Xpert MTB/RIF result, patient specimens should also have mycobacterial culture to ensure isolates are available for drug susceptibility testing and genotyping. RIF Resistance Detected:Results that are positive for MTBC and for RIF resistance mean that the bacteria have a high probability of resistance to RIF. This should be confirmed by additional rapid testing. If RIF resistance is confirmed, rapid molecular testing for drug resistance to both first-line and second-line drugs should be performed so that an effective treatment regimen can be selected. RIF Resistance Not Detected:Results that are positive for MTBC, but negative for RIF resistance mean that the bacteria are probably susceptible to RIF. However, all tests that are positive for MTBC should have growth-based susceptibility testing to first-line TB drugs.RIF Resistance Indeterminate:Results that are positive for MTBC and indeterminate for RIF resistance mean that the test could not accurately determine if the bacteria are resistant to RIF. Growth-based susceptibility testing to first-line TB drugs should be performed."
+    "cop": 1,
+    "exp": "Ans- BSputum Microscopy takes about less than a hr where as gene expert 2hrs.Rapid detection is by Microscopy.More sensitive & Specific is GeneXpertWhat is the Xpert MTB/RIF Assay?The Xpert MTB/RIF assay is a new test that is revolutionizing tuberculosis (TB) control by contributing to the rapid diagnosis of TB disease and drug resistance. The test simultaneously detects Mycobacterium tuberculosis complex (MTBC)and resistance to rifampin (RIF) in less than 2 hours.In comparison, standard cultures can take 2 to 6 weeks for M.tb to grow and conventional drug resistance tests can add 3 more weeks. The information provided by the Xpert MTB/RIF assay aids in selecting treatment regimens and reaching infection control decisions quickly.The Xpert MTB/RIF assay is a nucleic acid amplification (NAA) test that uses a disposable cartridge with the GeneXpert Instrument System. A sputum sample is collected from the patient with suspected TB. The sputum is mixed with the reagent that is provided with the assay, and a cartridge containing this mixture is placed in the GeneXpert machine. All processing from this point on is fully automated.Major advantages of the Xpert MTB/RIF assay are that 1) Results are available quickly, and2) Minimal technical training is required to run the test.Additionally, the Xpert MTB/RIF assay can quickly identify possible multidrug-resistant TB (MDR TB). MDR TB is TB that is resistant to both isoniazid (INH) and RIF, two of the most effective TB drugs. RIF resistance is a predictor of MDR TB because resistance to RIF, in most instances, co-exists with resistance to INH. Rapid diagnosis of RIF resistance potentially allows TB patients to start on effective treatment much sooner than waiting for results from other types of drug susceptibility testing. For patients who are found to NOT have TB disease, rapid results from the Xpert MTB/RIF assay may contribute to cost savings by avoiding unnecessary treatment and respiratory isolation in hospitals or other institutions. As with other NAA tests, the Xpert MTB/RIF assay should be interpreted along with clinical, radiographic, and other laboratory findings. The Xpert MTB/RIF assay does not replace the need for smear with microscopy for acid-fast bacilli, culture for mycobacteria, and growth-based drug susceptibility testing, in addition to genotyping for early discovery of outbreaks. Results from the Xpert MTB/RIF assay indicate whether or not MTBC was detected in the sample. In some instances, the result is invalid,whereby the test should be repeated. If MTBC was detected, the results will also state whether resistance to RIF was detected, not detected, or indeterminate.Regardless of the Xpert MTB/RIF result, patient specimens should also have mycobacterial culture to ensure isolates are available for drug susceptibility testing and genotyping. RIF Resistance Detected:Results that are positive for MTBC and for RIF resistance mean that the bacteria have a high probability of resistance to RIF. This should be confirmed by additional rapid testing. If RIF resistance is confirmed, rapid molecular testing for drug resistance to both first-line and second-line drugs should be performed so that an effective treatment regimen can be selected. RIF Resistance Not Detected:Results that are positive for MTBC, but negative for RIF resistance mean that the bacteria are probably susceptible to RIF. However, all tests that are positive for MTBC should have growth-based susceptibility testing to first-line TB drugs.RIF Resistance Indeterminate:Results that are positive for MTBC and indeterminate for RIF resistance mean that the test could not accurately determine if the bacteria are resistant to RIF. Growth-based susceptibility testing to first-line TB drugs should be performed.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Most rapid diagnosis pulmonary\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "59ab37c3-c6b4-4adf-b722-35e208ca65cc": {
-    "cop": 1,
-    "exp": "Ans:A-Maintain sick roleSomatic symptom disorder (SSD formerly known as \"somatization disorder\" or \"somatoform disorder\") is a form of mental illness that causes one or more bodily symptoms, including pain.The symptoms may or may not be traceable to a physical cause including general medical conditions, other mental illnesses, or substance abuse. But regardless, they cause excessive and dispropoionate levels of distress.The symptoms can involve one or more different organs and body systems, such as:PainNeurologic problemsGastrointestinal complaintsSexual symptomsMany people who have SSD will also have an anxiety disorder.People with SSD are not faking their symptoms. The distress they experience from pain and other problems they experience are real, regardless of whether or not a physical explanation can be found. And the distress from symptoms significantly affects daily functioning."
+    "cop": 0,
+    "exp": "Ans:A-Maintain sick roleSomatic symptom disorder (SSD formerly known as \"somatization disorder\" or \"somatoform disorder\") is a form of mental illness that causes one or more bodily symptoms, including pain.The symptoms may or may not be traceable to a physical cause including general medical conditions, other mental illnesses, or substance abuse. But regardless, they cause excessive and dispropoionate levels of distress.The symptoms can involve one or more different organs and body systems, such as:PainNeurologic problemsGastrointestinal complaintsSexual symptomsMany people who have SSD will also have an anxiety disorder.People with SSD are not faking their symptoms. The distress they experience from pain and other problems they experience are real, regardless of whether or not a physical explanation can be found. And the distress from symptoms significantly affects daily functioning.",
+    "hint_exp": "🎯 Think of \"true regarding somatization disorder\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d064b209-945d-4eda-b9cb-875fddb2985c": {
-    "cop": 2,
-    "exp": "Factors Affecting Algor Mois : i. Environmental temperature (major factor): Rate of fall of body temperature is directly propoional to the difference between the temperature of the dead body and the environmental temperature. ii. Air movement: Air movement over the surface of the dead body causes a quick fall of temperature due to increased evaporation of body fluids. iii. Humidity: Cooling is more rapid in a humid rather than in a dry atmosphere, since moist air is better conductor of heat. iv. Media of disposal: Cooling is earliest in water, and late in buried bodies. The ratio of the rates of fall of temperature in the three media, water:air: soil = 4:2:1. The rate is thus maximum in water, moderate in air and minimum in a buried body. v. Built of cadaver: Obese bodies cool slowly, and lean bodies rapidly, since fat is a bad conductor of heat. vi. Age and sex: Rate of loss of heat is more in children and the elderly, compared to adults because the surface area of the body is more in relation to the body volume. Females retain body heat for a comparatively longer period because of their subcutaneous fatty tissue. vii. Clothing or coverings of the body: A well-covered body retains heat for a longer period as compared to a naked or thinly clothed body, as clothes are bad conductors of heat."
+    "cop": 1,
+    "exp": "Factors Affecting Algor Mois : i. Environmental temperature (major factor): Rate of fall of body temperature is directly propoional to the difference between the temperature of the dead body and the environmental temperature. ii. Air movement: Air movement over the surface of the dead body causes a quick fall of temperature due to increased evaporation of body fluids. iii. Humidity: Cooling is more rapid in a humid rather than in a dry atmosphere, since moist air is better conductor of heat. iv. Media of disposal: Cooling is earliest in water, and late in buried bodies. The ratio of the rates of fall of temperature in the three media, water:air: soil = 4:2:1. The rate is thus maximum in water, moderate in air and minimum in a buried body. v. Built of cadaver: Obese bodies cool slowly, and lean bodies rapidly, since fat is a bad conductor of heat. vi. Age and sex: Rate of loss of heat is more in children and the elderly, compared to adults because the surface area of the body is more in relation to the body volume. Females retain body heat for a comparatively longer period because of their subcutaneous fatty tissue. vii. Clothing or coverings of the body: A well-covered body retains heat for a longer period as compared to a naked or thinly clothed body, as clothes are bad conductors of heat.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"algor mois\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4c016841-5ca6-4750-8e14-1a6d4faebbf0": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Episodic muscular weakness seen\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fd7978f2-5431-4fe7-b5cc-58b60cd88bd1": {
-    "cop": 1,
-    "exp": "Cells of transitional epithelium have an extra reserve of cell membrane in the form of plate-like areas of cytoplasm containing internalized membranes, which permits the stretching of the epithelium."
+    "cop": 0,
+    "exp": "Cells of transitional epithelium have an extra reserve of cell membrane in the form of plate-like areas of cytoplasm containing internalized membranes, which permits the stretching of the epithelium.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"epithelium\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b1bfd71b-ae90-41a1-a4de-7ace25123326": {
-    "cop": 1,
-    "exp": "Breast milk is rich in docosahexaenoic acid. It is necessary for the myelination of the nervous system and thus helps in brain development. Ref: Page 151; Ghai Essential Pediatrics; 8th edition"
+    "cop": 0,
+    "exp": "Breast milk is rich in docosahexaenoic acid. It is necessary for the myelination of the nervous system and thus helps in brain development. Ref: Page 151; Ghai Essential Pediatrics; 8th edition",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"breast milk which\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6dd09ee6-1a16-47fc-99f5-3e3d2fc34f3b": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"best sampling procedure that\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f785f08a-9215-4380-833d-a370ebfe86ae": {
-    "cop": 1,
-    "exp": "Methylene Blue Dye Reduction Test is used to assess the microbiological quality of raw and pasteurized milk. This test is based on the fact that the blue colour of the dye solution added to the milk get decolourized when the oxygen present in the milk get exhausted due to microbial activity. The sooner the decolourization, more inferior is the bacteriological quality of milk assumed to be."
+    "cop": 0,
+    "exp": "Methylene Blue Dye Reduction Test is used to assess the microbiological quality of raw and pasteurized milk. This test is based on the fact that the blue colour of the dye solution added to the milk get decolourized when the oxygen present in the milk get exhausted due to microbial activity. The sooner the decolourization, more inferior is the bacteriological quality of milk assumed to be.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"milk\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b99752e5-227d-4e87-827e-b29160ff2b5d": {
-    "cop": 3,
-    "exp": "Patient here is showing signs of hemodynamic compromise post LSCS which had a lateral extension and a drop in hemoglobin suggestive of acute hemorrhage. Mild PPH does not correspond with the amount of compromise and anemia. Therefore it appears to be a case of intraabdominal bleeding from lateral extension or an unidentified bleeder, which should be immediately explored and secured."
+    "cop": 2,
+    "exp": "Patient here is showing signs of hemodynamic compromise post LSCS which had a lateral extension and a drop in hemoglobin suggestive of acute hemorrhage. Mild PPH does not correspond with the amount of compromise and anemia. Therefore it appears to be a case of intraabdominal bleeding from lateral extension or an unidentified bleeder, which should be immediately explored and secured.",
+    "hint_exp": "🧩 Your crush solved \"an angle of uterine incision\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "73f9624d-2fa9-4616-aa19-85a09bd5de39": {
-    "cop": 2,
-    "exp": "The WHO recommended ACTs include:\n\nArtemether-lumefantrine\nArtesunate-amodiaquine\nArtesunate-mefloquine\nArtesunate-sulfadoxine-pyrimethamine\nDihydroartemisinin-piperaquine"
+    "cop": 1,
+    "exp": "The WHO recommended ACTs include:\n\nArtemether-lumefantrine\nArtesunate-amodiaquine\nArtesunate-mefloquine\nArtesunate-sulfadoxine-pyrimethamine\nDihydroartemisinin-piperaquine",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"recommended if such resistance\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b990988a-0c71-4cc7-8b0f-4599ebc6ceb5": {
-    "cop": 3,
-    "exp": "Ans. C: Liyrotoxicosis P-etibial myxedema/ thyroid dermopathy/ localized myxedema, nearly always occurs in patients who have severe Graves' ophthalmopathy. Pretibial myxedema is thought to be caused by the activation of dermal fibroblasts, the basic cell precursors that make up skin cells and by the stimulation of connective tissue cells by TSH receptor antibodies. In PTM, activated fibroblasts tend to produce excess deposits of hyaluronic acid, and it is this imbalance in glycosaminoglycan proteins that leads to dermal changes."
+    "cop": 2,
+    "exp": "Ans. C: Liyrotoxicosis P-etibial myxedema/ thyroid dermopathy/ localized myxedema, nearly always occurs in patients who have severe Graves' ophthalmopathy. Pretibial myxedema is thought to be caused by the activation of dermal fibroblasts, the basic cell precursors that make up skin cells and by the stimulation of connective tissue cells by TSH receptor antibodies. In PTM, activated fibroblasts tend to produce excess deposits of hyaluronic acid, and it is this imbalance in glycosaminoglycan proteins that leads to dermal changes.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Pretibial myxedema seen March\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b4b459d1-34bb-4c19-9f63-14aa767d3ab8": {
-    "cop": 1,
-    "exp": "Ans. is 'a'i.e., Tyrosine kinaseRefCardio - oncology: principles, prevention and management, by puja Mehta, p. 10)CrizotinibIt is a small molecule multitargeted tyrosine kinase receptor inhibitor targeting ALK, MET, ROS1 kinases.By inhibiting ALK tyrosine kinase activity, crizotinib inhibits cell proliferation, induces Gl - S phase cell cycle arrest and apoptosis.It is approved for the first line in the management of metastatic non-small cell lung cancer with an ALK mutation."
+    "cop": 0,
+    "exp": "Ans. is 'a'i.e., Tyrosine kinaseRefCardio - oncology: principles, prevention and management, by puja Mehta, p. 10)CrizotinibIt is a small molecule multitargeted tyrosine kinase receptor inhibitor targeting ALK, MET, ROS1 kinases.By inhibiting ALK tyrosine kinase activity, crizotinib inhibits cell proliferation, induces Gl - S phase cell cycle arrest and apoptosis.It is approved for the first line in the management of metastatic non-small cell lung cancer with an ALK mutation.",
+    "hint_exp": "🎯 Think of \"inhibitor of which receptor\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4ad7a7f3-07f3-40f3-ad9e-520b64a9575f": {
-    "cop": 3,
-    "exp": "Ans: c (Buffalo milk)Ref: Park, 20th ed. Pg. 545 19th ed. Pg. 499, Table 22Nutritive value of milks compared (Value per 100 gm) Calcium (mg) 210 120 170 28 Iron (mg) 0.2 0.2 0.3 -Energy (Kcal) 117 67 72 65 BuffaloCowGoatHumanFat (gm)6.54.14.53.4protein(gm)4.33.23.31.1Lactose (gm)5.14.44.67.4Minerals (gm)0.80.80.80.1water(gm)818786.888Calcium (mg)21012017028Iron (mg)0.20.20.3-Energy (Kcal)117677265It is evident from this table that Buffalo milk contains highest amount of fat and highest calories. Human milk contains higher amount of lactose and water than animal milk. Human milk proteins contain greater amount of tryptophan and sulphur containing amino acid, especially cysteine.Human milk contains a higher percentage of linoeic acid and oleic acid than animal milk."
+    "cop": 2,
+    "exp": "Ans: c (Buffalo milk)Ref: Park, 20th ed. Pg. 545 19th ed. Pg. 499, Table 22Nutritive value of milks compared (Value per 100 gm) Calcium (mg) 210 120 170 28 Iron (mg) 0.2 0.2 0.3 -Energy (Kcal) 117 67 72 65 BuffaloCowGoatHumanFat (gm)6.54.14.53.4protein(gm)4.33.23.31.1Lactose (gm)5.14.44.67.4Minerals (gm)0.80.80.80.1water(gm)818786.888Calcium (mg)21012017028Iron (mg)0.20.20.3-Energy (Kcal)117677265It is evident from this table that Buffalo milk contains highest amount of fat and highest calories. Human milk contains higher amount of lactose and water than animal milk. Human milk proteins contain greater amount of tryptophan and sulphur containing amino acid, especially cysteine.Human milk contains a higher percentage of linoeic acid and oleic acid than animal milk.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"present in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "78f3fb46-5fc0-4a34-8e74-3f893e85f08c": {
-    "cop": 4,
-    "exp": "D i.e. Grass & Weed grasped in the hand"
+    "cop": 3,
+    "exp": "D i.e. Grass & Weed grasped in the hand",
+    "hint_exp": "🧩 Your crush solved \"Feature indicative anti moem\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0eaa5eb0-e745-4fbf-86d0-ec50c81aef8b": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Spironolactone Drugs causing gynecomastiao Calcium channel antagonisto Isoniazideo Reserpineo Clomipheneo Ketoconazoleo Digitaliso Methyldopao Estrogenso Phenytoino Cimetidineo Ethionamideo Testosteroneo Griseofulvino Spironolactone"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Spironolactone Drugs causing gynecomastiao Calcium channel antagonisto Isoniazideo Reserpineo Clomipheneo Ketoconazoleo Digitaliso Methyldopao Estrogenso Phenytoino Cimetidineo Ethionamideo Testosteroneo Griseofulvino Spironolactone",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Gynaecomastia caused which drug\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4522ba55-8f21-4b8c-98c0-d571aa907b0c": {
-    "cop": 3,
-    "exp": "C i.e. Death Kubler Ross classified five stages of deathQ that dying patients pass through from the time they first become aware of their fatal prognosis together actual death Denial (No, not me) Anger (Why me) Bargaining (Yes me, but) Depression (yes me) Acceptance Mn- \"DABDA\""
+    "cop": 2,
+    "exp": "C i.e. Death Kubler Ross classified five stages of deathQ that dying patients pass through from the time they first become aware of their fatal prognosis together actual death Denial (No, not me) Anger (Why me) Bargaining (Yes me, but) Depression (yes me) Acceptance Mn- \"DABDA\"",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Ross classified five stages\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d14d1d73-1896-4f4e-87d4-fd95fd6b9111": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Phenobarbitone improves the condition* Gilbert syndrome is a milder form of hyperbilirubinemia caused by a reduced activity of UDP-glucuronyl transferase. It is caused by mutation of UGT1A1 gene.* UDP glucuronyl transferase is involved in conjugating bilirubin to form bilirubin diglucuronide. Hence it presents as unconjugated hyperbilirubinemia.* Total bilirubin is mildly increased. But the ratio of unconjugated to conjugated bilirubin is high.* It presents as a milder form of jaundice. It is not life threatening* Starvation and stress are found to cause aggravation of the milder jaundice* If jaundice is disturbing, treatment can be tried with enzyme inducers like phenobarbitone. Phenobarbitone induces UDP glucuronyl transferase and helps in the reduction of bilirubin levels.* As some drugs also get metabolised by UDP glucuronyl transferase, detection of this condition is of clinical significance. For example, an antineoplastic drug, irinotecan is metabolised by UDP glucuronyl transferase. Hence in Gilbert's syndrome, Irinotecan has to be avoided. As UDP glucuronyl transferase defect increases the half-life of Irinotecan, it results in life threatening neutropenia."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Phenobarbitone improves the condition* Gilbert syndrome is a milder form of hyperbilirubinemia caused by a reduced activity of UDP-glucuronyl transferase. It is caused by mutation of UGT1A1 gene.* UDP glucuronyl transferase is involved in conjugating bilirubin to form bilirubin diglucuronide. Hence it presents as unconjugated hyperbilirubinemia.* Total bilirubin is mildly increased. But the ratio of unconjugated to conjugated bilirubin is high.* It presents as a milder form of jaundice. It is not life threatening* Starvation and stress are found to cause aggravation of the milder jaundice* If jaundice is disturbing, treatment can be tried with enzyme inducers like phenobarbitone. Phenobarbitone induces UDP glucuronyl transferase and helps in the reduction of bilirubin levels.* As some drugs also get metabolised by UDP glucuronyl transferase, detection of this condition is of clinical significance. For example, an antineoplastic drug, irinotecan is metabolised by UDP glucuronyl transferase. Hence in Gilbert's syndrome, Irinotecan has to be avoided. As UDP glucuronyl transferase defect increases the half-life of Irinotecan, it results in life threatening neutropenia.",
+    "hint_exp": "🎯 Think of \"Gilbert syndrome true\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8a41677e-9e3c-406b-9ae1-54dec39c106b": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Level residual chlorine after\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "baf15d49-1d1c-4bf8-b993-c7dd8e174add": {
-    "cop": 2,
-    "exp": "* Gout is a hereditary disorder with increase in serum uric acid due to increased production, or decreased excretion of uric acid and uric salt. * Thought to be caused by lack of an enzyme needed to completely metabolise purines for renal excretion. REF : HARRISONS 21ST ED"
+    "cop": 1,
+    "exp": "* Gout is a hereditary disorder with increase in serum uric acid due to increased production, or decreased excretion of uric acid and uric salt. * Thought to be caused by lack of an enzyme needed to completely metabolise purines for renal excretion. REF : HARRISONS 21ST ED",
+    "hint_exp": "🧩 Your crush solved \"acute gout\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "25f7ae26-5fa5-43d0-9859-fb923de6327c": {
-    "cop": 1,
-    "exp": "IgG is the main serum immunoglobulin consisting of 80% of the total. equally distributed between intravascular and extravascular compaments. IgG is the only maternal immunoglobulin that is normally transpoed across the placenta and provide natural passive immunity in the newborns. Reference : Anathanarayan & paniker's 9th edition, pg no: 96,97 <\\p>"
+    "cop": 0,
+    "exp": "IgG is the main serum immunoglobulin consisting of 80% of the total. equally distributed between intravascular and extravascular compaments. IgG is the only maternal immunoglobulin that is normally transpoed across the placenta and provide natural passive immunity in the newborns. Reference : Anathanarayan & paniker's 9th edition, pg no: 96,97 <\\p>",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Antibody transferred from mother\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "45367e95-20b1-4ff7-9218-e82f97f1cc64": {
-    "cop": 3,
-    "exp": "In fetal anaemia due to Rh ISO immunization,the peak systolic velocity in the middle cerebral aery is increased. refer pgno:513 sheila textbook of obstetrics 2 nd edition"
+    "cop": 2,
+    "exp": "In fetal anaemia due to Rh ISO immunization,the peak systolic velocity in the middle cerebral aery is increased. refer pgno:513 sheila textbook of obstetrics 2 nd edition",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Fetal anemia detected Doppler\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "dfa3d42a-0dd9-4777-9872-56605e54179a": {
-    "cop": 1,
-    "exp": "SPRING LIGAMENT:- Also known as plantar calcaneonavicular ligament. Attachments-Anteriorly: plantar surface of navicular bone.Posteriorly: anterior margin of sustentaculum tali. Head of talus directly rests on upper surface of the ligament. The plantar surface of the ligament is suppoed by tendon of tibialis posterior medially,and by tendons of flexor hallucis longus and flexor digitorum longus laterally. Most impoant ligament for maintaining the medial longitudinal arch of foot. TALUS:-Second largest tarsal bone.Head, neck and body. Tibia above and calcaneum below, Attachments:-Devoid of muscular attachment.Numerous ligaments attached to it because it takes pa in three joints- ankle, talocalcanean, and talonavicular .Neck:- Capsular ligament of ankle joint.Dorsal talonavicular Interosseus talocalcanean and cervical ligament.Anterior talofibular ligament. Medial surface of body:- deep fibres of deltoid. Medial tubercle - superficial fibres of deltoid ligament. Groove on posterior surface lodges flexor hallucis tendon. Posterior talofibular ligament attached to posterior process.Plantar border: posterior talocalcanean ligament. <img src=\" /> {Reference: BDC 6E pg no. 30}"
+    "cop": 0,
+    "exp": "SPRING LIGAMENT:- Also known as plantar calcaneonavicular ligament. Attachments-Anteriorly: plantar surface of navicular bone.Posteriorly: anterior margin of sustentaculum tali. Head of talus directly rests on upper surface of the ligament. The plantar surface of the ligament is suppoed by tendon of tibialis posterior medially,and by tendons of flexor hallucis longus and flexor digitorum longus laterally. Most impoant ligament for maintaining the medial longitudinal arch of foot. TALUS:-Second largest tarsal bone.Head, neck and body. Tibia above and calcaneum below, Attachments:-Devoid of muscular attachment.Numerous ligaments attached to it because it takes pa in three joints- ankle, talocalcanean, and talonavicular .Neck:- Capsular ligament of ankle joint.Dorsal talonavicular Interosseus talocalcanean and cervical ligament.Anterior talofibular ligament. Medial surface of body:- deep fibres of deltoid. Medial tubercle - superficial fibres of deltoid ligament. Groove on posterior surface lodges flexor hallucis tendon. Posterior talofibular ligament attached to posterior process.Plantar border: posterior talocalcanean ligament. <img src=\" /> {Reference: BDC 6E pg no. 30}",
+    "hint_exp": "🎯 Think of \"talus\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3b2b7508-15f2-428a-a6d2-f71a4ac95635": {
-    "cop": 3,
-    "exp": "Mucopolysaccharidoses (MPS) The MPSs are a group of closely related syndromes that result from genetically determined deficiencies of enzymes involved in the degradation of mucopolysaccharides (glycosaminoglycans). Chemically, mucopolysaccharides are long-chain complex carbohydrates that are linked with proteins to form proteoglycans. They are abundant in the ground substance of connective tissue. The glycosaminoglycans that accumulate in MPSs are dermatan sulfate, heparan sulfate, keratan sulfate, and chondroitin sulfate. The enzymes involved in the degradation of these molecules cleave terminal sugars from the polysaccharide chains disposed along a polypeptide or core protein. In the absence of enzymes, these chains accumulate within lysosomes in various tissues and organs of the body. Several clinical variants of MPS, classified numerically from MPS I to MPS VII, have been described, each resulting from the deficiency of one specific enzyme. All the MPSs except one are inherited as autosomal recessive traits; the exception, Hunter syndrome, is an X-linked recessive trait. Within a given group (e.g., MPS I, characterized by a deficiency of a-l-iduronidase), subgroups exist that result from different mutant alleles at the same genetic locus. Thus, the severity of enzyme deficiency and the clinical picture even within subgroups are often different. In general, MPSs are progressive disorders, characterized by coarse facial features, clouding of the cornea, joint stiffness, and mental retardation. Urinary excretion of the accumulated mucopolysaccharides is often increased. Ref Robbins 9/e pg 154"
+    "cop": 2,
+    "exp": "Mucopolysaccharidoses (MPS) The MPSs are a group of closely related syndromes that result from genetically determined deficiencies of enzymes involved in the degradation of mucopolysaccharides (glycosaminoglycans). Chemically, mucopolysaccharides are long-chain complex carbohydrates that are linked with proteins to form proteoglycans. They are abundant in the ground substance of connective tissue. The glycosaminoglycans that accumulate in MPSs are dermatan sulfate, heparan sulfate, keratan sulfate, and chondroitin sulfate. The enzymes involved in the degradation of these molecules cleave terminal sugars from the polysaccharide chains disposed along a polypeptide or core protein. In the absence of enzymes, these chains accumulate within lysosomes in various tissues and organs of the body. Several clinical variants of MPS, classified numerically from MPS I to MPS VII, have been described, each resulting from the deficiency of one specific enzyme. All the MPSs except one are inherited as autosomal recessive traits; the exception, Hunter syndrome, is an X-linked recessive trait. Within a given group (e.g., MPS I, characterized by a deficiency of a-l-iduronidase), subgroups exist that result from different mutant alleles at the same genetic locus. Thus, the severity of enzyme deficiency and the clinical picture even within subgroups are often different. In general, MPSs are progressive disorders, characterized by coarse facial features, clouding of the cornea, joint stiffness, and mental retardation. Urinary excretion of the accumulated mucopolysaccharides is often increased. Ref Robbins 9/e pg 154",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"one of the mucopolysaccaridos\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3fd702e4-74ca-4c7e-b759-e94080c24846": {
-    "cop": 4,
-    "exp": "Ans. is d, i.e. Chondrodysplasia punctateRef. Dutta Obs. 7/e, p 511Warfarin is an anticoagulant drug.Action: Interferes with the synthesis of the vitamin K dependent factors like II, VII, IX and X.Side effects:HemorrhageIt leads to:-Contradi's syndrome: skeletal and facial anomalies in the fetus-Chondrodysplasia punctata in the fetus.Miscarriage, IUGR and stillbirths accentuates neonatal hypothrombinemia."
+    "cop": 3,
+    "exp": "Ans. is d, i.e. Chondrodysplasia punctateRef. Dutta Obs. 7/e, p 511Warfarin is an anticoagulant drug.Action: Interferes with the synthesis of the vitamin K dependent factors like II, VII, IX and X.Side effects:HemorrhageIt leads to:-Contradi's syndrome: skeletal and facial anomalies in the fetus-Chondrodysplasia punctata in the fetus.Miscarriage, IUGR and stillbirths accentuates neonatal hypothrombinemia.",
+    "hint_exp": "🧩 Your crush solved \"the fetus\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4a54f07d-5821-4e4c-a74b-cf77b228857d": {
-    "cop": 2,
-    "exp": "Answer is option 2, severe liver disease Liver disease is associated with impairment of the haemostatic function due to the abnormal and decreased synthesis of the clotting factors. It is thus only logical to have considered assessment of the clotting profile (to include prothrombin time (PT) and activated paial thromboplastin time (aPTT)) to be an integral pa of the comprehensive assessment of a patient who presents with liver impairment. Laboratory abnormalities of coagulation are considered to be a predictive risk factor for bleeding, but patients with liver disease do not have bleeding pattern as those who have coagulation factor deficiencies. Ref Robbins 9/e pg 450"
+    "cop": 1,
+    "exp": "Answer is option 2, severe liver disease Liver disease is associated with impairment of the haemostatic function due to the abnormal and decreased synthesis of the clotting factors. It is thus only logical to have considered assessment of the clotting profile (to include prothrombin time (PT) and activated paial thromboplastin time (aPTT)) to be an integral pa of the comprehensive assessment of a patient who presents with liver impairment. Laboratory abnormalities of coagulation are considered to be a predictive risk factor for bleeding, but patients with liver disease do not have bleeding pattern as those who have coagulation factor deficiencies. Ref Robbins 9/e pg 450",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Bleeding disorders with APTT\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3d910c11-bcf2-433a-a72b-d9a7b5fffc68": {
-    "cop": 1,
-    "exp": "In normal circumstances, the LOS transiently relaxes as a coordinated pa of swallowing, as a means of allowing vomiting to occur and in response to stretching of the gastric fundus, paicularly after a meal to allow swallowed air to be vented. Most episodes of physiological reflux occur during postprandial transient LOS relaxations (TLOSRs). In the early stages of GORD, most pathological reflux occurs as a result of an increased number of TLOSRs rather than a persistent fall in overall sphincter pressure. In more severe GORD, LOS pressure tends to be generally low, and this loss of sphincter function seems to be made worse if there is loss of an adequate length of intraabdominal oesophagus.Ref: Bailey and Love 27e pg: 1076"
+    "cop": 0,
+    "exp": "In normal circumstances, the LOS transiently relaxes as a coordinated pa of swallowing, as a means of allowing vomiting to occur and in response to stretching of the gastric fundus, paicularly after a meal to allow swallowed air to be vented. Most episodes of physiological reflux occur during postprandial transient LOS relaxations (TLOSRs). In the early stages of GORD, most pathological reflux occurs as a result of an increased number of TLOSRs rather than a persistent fall in overall sphincter pressure. In more severe GORD, LOS pressure tends to be generally low, and this loss of sphincter function seems to be made worse if there is loss of an adequate length of intraabdominal oesophagus.Ref: Bailey and Love 27e pg: 1076",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"early stages of GERD\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "eb49ea3f-7314-4d6d-80d4-1fa538182a63": {
-    "cop": 4,
-    "exp": "Facial recess or Posterior sinus - It is a depression in the posterior wall of the middle ear. It is bounded by: Medially - Veical pa of VIII nerve Laterally - Chorda tympani Above - Fossa incudis"
+    "cop": 3,
+    "exp": "Facial recess or Posterior sinus - It is a depression in the posterior wall of the middle ear. It is bounded by: Medially - Veical pa of VIII nerve Laterally - Chorda tympani Above - Fossa incudis",
+    "hint_exp": "🎯 Think of \"Facial recess posterior sinus\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9159e292-806d-4ccf-842b-27463a065e50": {
-    "cop": 3,
-    "exp": "The most common form of acute glomerulonephritis is caused by group A beta-hemolytic streptococcal infection elsewhere in the body."
+    "cop": 2,
+    "exp": "The most common form of acute glomerulonephritis is caused by group A beta-hemolytic streptococcal infection elsewhere in the body.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"and\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f1100b71-fdd0-4d31-adf5-3a1198b745ab": {
-    "cop": 2,
-    "exp": "Ans. is 'b' ie., Progressive supranuclear palsy * Hummingbird sign on brain MRI is a radiological sign of progressive supranuclear palsy."
+    "cop": 1,
+    "exp": "Ans. is 'b' ie., Progressive supranuclear palsy * Hummingbird sign on brain MRI is a radiological sign of progressive supranuclear palsy.",
+    "hint_exp": "🧩 Your crush solved \"brain MRI\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e63fd94e-6b2b-46f4-b5a7-0f242e92f233": {
-    "cop": 2,
-    "exp": "35"
+    "cop": 1,
+    "exp": "35",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"pregnancy\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "51c94b50-3a34-4f58-8016-e6bd01d0deee": {
-    "cop": 1,
-    "exp": "In late stages greater omentum and small bowel become adherent to inflamed appendix, walling off the spread of peritoneal contamination"
+    "cop": 0,
+    "exp": "In late stages greater omentum and small bowel become adherent to inflamed appendix, walling off the spread of peritoneal contamination",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following appendicitis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "da33df35-4da2-420b-9b03-fbf6dc320bd2": {
-    "cop": 3,
-    "exp": "\"The histology of Wilm's tumor was identified as the most important determinant of prognosis.\" - Devita's Cancer"
+    "cop": 2,
+    "exp": "\"The histology of Wilm's tumor was identified as the most important determinant of prognosis.\" - Devita's Cancer",
+    "hint_exp": "🎯 Think of \"most important determinant prognosis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e3cc1bd6-07a8-4e42-a9cc-28619b369ca2": {
-    "cop": 4,
-    "exp": "Answer is D (Lead V5) The most sensitive lead in detecting intraoperative myocardial ischemia is lead V5 'If only one lead can be displayed V5 should be used because V5 has the greatest sensitivity: 75% intraoperatively and 89% during exercise treadmill testing'-Yao & Ausio's Anesthesiology: Problem Oriented Patient Management 6th/-150"
+    "cop": 3,
+    "exp": "Answer is D (Lead V5) The most sensitive lead in detecting intraoperative myocardial ischemia is lead V5 'If only one lead can be displayed V5 should be used because V5 has the greatest sensitivity: 75% intraoperatively and 89% during exercise treadmill testing'-Yao & Ausio's Anesthesiology: Problem Oriented Patient Management 6th/-150",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following ECG\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b3c91360-df90-4540-8fb5-80a728b92fb5": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"formula denotes\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dcf90dd9-f85f-4eef-a36d-112dbe9aae40": {
-    "cop": 3,
-    "exp": "C i.e. PA pressure tracing has diacrotic notch from closure of pulmonary valve"
+    "cop": 2,
+    "exp": "C i.e. PA pressure tracing has diacrotic notch from closure of pulmonary valve",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"While introducing Swan ganz\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e6bf60b4-e021-41e2-9a10-0a5da9ef16ce": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which single rooted tooth\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d5ae2f40-0109-46ff-919a-a34d29e0ad61": {
-    "cop": 2,
-    "exp": "Ans. is B 14-16 weeks o Anencephaly can be detected as early as 10-11 weeks of pregnancy. The ideal time to diagnose anencephaly is 14-16 weeks Diagnosis of fetal malformations o Many structural abnormalities in the fetus can be reliably diagnosed by ultrasound scan, and these can usually be made before 20 weeks. Common examples include; - Hydrocephalus Neural tube defects (anencephaly, myelomeningocele. spina bifida) Duodenal atresia Fetal hydrops Gastroschisis Examphalos o First-trimester ultrasonic soft tissue markers for chromosomal abnormalities such as : The absence of fetal nasal bone An increased fetal nuchal translucency Are now: in common use to enable detection of Down syndrome fetuses. o Earliest anomaly detected by USG is anencephaly # It can be detected at 10-11 weeks when cranium can be visualized ultrasonographically:"
+    "cop": 1,
+    "exp": "Ans. is B 14-16 weeks o Anencephaly can be detected as early as 10-11 weeks of pregnancy. The ideal time to diagnose anencephaly is 14-16 weeks Diagnosis of fetal malformations o Many structural abnormalities in the fetus can be reliably diagnosed by ultrasound scan, and these can usually be made before 20 weeks. Common examples include; - Hydrocephalus Neural tube defects (anencephaly, myelomeningocele. spina bifida) Duodenal atresia Fetal hydrops Gastroschisis Examphalos o First-trimester ultrasonic soft tissue markers for chromosomal abnormalities such as : The absence of fetal nasal bone An increased fetal nuchal translucency Are now: in common use to enable detection of Down syndrome fetuses. o Earliest anomaly detected by USG is anencephaly # It can be detected at 10-11 weeks when cranium can be visualized ultrasonographically:",
+    "hint_exp": "🎯 Think of \"Ideal timing detect anencephaly\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "62cc2e54-b2e7-499b-ad86-bf2664aaa11d": {
-    "cop": 4,
-    "exp": "The incidence of cleft lip and palate is 1:600 live bihs and of isolated cleft palate is 1:1000 live bihs. The incidence increases in Oriental groups (1:500) and decreases in the black population (1:2000). The highest incidence repoed for cleft lip and palate occurs in the Indian tribes of Montana, USA (1:276). Although cleft lip and palate is an extremely diverse and variable congenital abnormality, several distinct sub-groups exist, namely cleft lip with/without cleft palate (CL/P), cleft palate (CP) alone and submucous cleft palate (SMCP). The typical distribution of cleft types is: *cleft lip alone: 15%; *cleft lip and palate: 45%; *isolated cleft palate: 40%. Cleft lip/palate predominates in males whereas cleft palate alone appears to be more common in females. In unilateral cleft lip the deformity affects the left side in 60% of cases. AETIOLOGY Contemporary opinion on the aetiology of cleft lip and palate is that cleft lip and palate and isolated cleft palate have a genetic predisposition and a contributory environmental component. A family history of cleft lip and palate in which the first-degree *The key features of the perioperative care of the child with cleft lip and palate *The associated complications of cleft lip and palate and their management relative is affected increases the risk to 1:25 live bihs. Genetic influence is more significant in cleft lip/palate than cleft palate alone, in which environmental factors exe a greater influence. Environmental factors implicated in clefting include maternal epilepsy and drugs, e.g. steroids, diazepam and phenytoin. The role of antenatal folic acid supplements in preventing cleft lip and palate remains equivocal. Although most clefts of the lip and palate occur as an isolated deformity, Pierre Robin sequence remains the most common syndrome. This syndrome comprises isolated cleft palate, retrognathia and a posteriorly displaced tongue (glossoptosis), which is associated with early respiratory and feeding difficulties. Isolated cleft palate is more commonly associated with a syndrome than cleft lip/palate and cleft lip alone. Over 150 syndromes are associated with cleft lip and palate, although Stickler's (ophthalmic and musculoskeletal abnormalities), Shprintzen's (cardiac anomalies), Down's, Ape's and TreacherCollins' syndromes are most frequently encountered. Antenatal diagnosis is possible after 18 weeks, Bailey & Love,25th,657."
+    "cop": 3,
+    "exp": "The incidence of cleft lip and palate is 1:600 live bihs and of isolated cleft palate is 1:1000 live bihs. The incidence increases in Oriental groups (1:500) and decreases in the black population (1:2000). The highest incidence repoed for cleft lip and palate occurs in the Indian tribes of Montana, USA (1:276). Although cleft lip and palate is an extremely diverse and variable congenital abnormality, several distinct sub-groups exist, namely cleft lip with/without cleft palate (CL/P), cleft palate (CP) alone and submucous cleft palate (SMCP). The typical distribution of cleft types is: *cleft lip alone: 15%; *cleft lip and palate: 45%; *isolated cleft palate: 40%. Cleft lip/palate predominates in males whereas cleft palate alone appears to be more common in females. In unilateral cleft lip the deformity affects the left side in 60% of cases. AETIOLOGY Contemporary opinion on the aetiology of cleft lip and palate is that cleft lip and palate and isolated cleft palate have a genetic predisposition and a contributory environmental component. A family history of cleft lip and palate in which the first-degree *The key features of the perioperative care of the child with cleft lip and palate *The associated complications of cleft lip and palate and their management relative is affected increases the risk to 1:25 live bihs. Genetic influence is more significant in cleft lip/palate than cleft palate alone, in which environmental factors exe a greater influence. Environmental factors implicated in clefting include maternal epilepsy and drugs, e.g. steroids, diazepam and phenytoin. The role of antenatal folic acid supplements in preventing cleft lip and palate remains equivocal. Although most clefts of the lip and palate occur as an isolated deformity, Pierre Robin sequence remains the most common syndrome. This syndrome comprises isolated cleft palate, retrognathia and a posteriorly displaced tongue (glossoptosis), which is associated with early respiratory and feeding difficulties. Isolated cleft palate is more commonly associated with a syndrome than cleft lip/palate and cleft lip alone. Over 150 syndromes are associated with cleft lip and palate, although Stickler's (ophthalmic and musculoskeletal abnormalities), Shprintzen's (cardiac anomalies), Down's, Ape's and TreacherCollins' syndromes are most frequently encountered. Antenatal diagnosis is possible after 18 weeks, Bailey & Love,25th,657.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Select wrong statement with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "34c20e28-587a-4476-97a3-ac9125bd4160": {
-    "cop": 3,
-    "exp": "Ref: Ananthnarayan, 9th ed. ch-1Organisms on the basis of their growth at different temperature:* Psychrophilic: (below 20degC)* Psychrotrophs: (important cause of food spoilage)* Mesophilic: (25-40degC)* Thermophilic: (55-80degC)"
+    "cop": 2,
+    "exp": "Ref: Ananthnarayan, 9th ed. ch-1Organisms on the basis of their growth at different temperature:* Psychrophilic: (below 20degC)* Psychrotrophs: (important cause of food spoilage)* Mesophilic: (25-40degC)* Thermophilic: (55-80degC)",
+    "hint_exp": "🧩 Your crush solved \"Mesophilic organism grows\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "153f2765-8ca2-41d3-acd5-1231a85dbe7e": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e.Musculocutaneous nerve Flexion at the elbow is brought about by- BrachialisBiceps brachi BrachioradialisTheir nerve supply :Brachialis -- Musculocutaneous nerveBiceps brachi - Musculocutaneous nerveBrachioradialis - Radial nerveSo the nerve injured is either musculocutaneous nerve or radial nerve.The cutaneous nerve supply of :Musculocutaneous nerve - * lateral cutaneous nerve of forearm - skin of the lateral side of the forearmRadial nerve - * Post. Cutaneous nerve of arm - Supplies skin on backlower lateral cutaneous nerve of armpost cutaneous nerve of forearm.- posterior aspect of fore armThus sensory loss in lateral side of forearm and weakness of flexion of elbow joint is due to injury to musculocutaneous nerve."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e.Musculocutaneous nerve Flexion at the elbow is brought about by- BrachialisBiceps brachi BrachioradialisTheir nerve supply :Brachialis -- Musculocutaneous nerveBiceps brachi - Musculocutaneous nerveBrachioradialis - Radial nerveSo the nerve injured is either musculocutaneous nerve or radial nerve.The cutaneous nerve supply of :Musculocutaneous nerve - * lateral cutaneous nerve of forearm - skin of the lateral side of the forearmRadial nerve - * Post. Cutaneous nerve of arm - Supplies skin on backlower lateral cutaneous nerve of armpost cutaneous nerve of forearm.- posterior aspect of fore armThus sensory loss in lateral side of forearm and weakness of flexion of elbow joint is due to injury to musculocutaneous nerve.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Traumatic anterior dislocation shoulder\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2ed0d768-a240-4e06-b4b7-653a2ca3991f": {
-    "cop": 4,
-    "exp": "Growth hormone Harrison writes ? \"Cranial irradiation may result in long-term hypothalmic and pituitary dysfunction, especially in children and adolescents. The development of hormonal abnormalities correlates strongly with irradiation dosage and the time interval after completion of radiotherapy. The development of hypopituitarism occurs after 5 to 15 years and usually reflects hypothahnic damage rather than absolute destruction of pituitary cells Though the pattern of hormone loss is variable, GH deficiency is most common, followed by gonadotropin and ACTH deficiency\""
+    "cop": 3,
+    "exp": "Growth hormone Harrison writes ? \"Cranial irradiation may result in long-term hypothalmic and pituitary dysfunction, especially in children and adolescents. The development of hormonal abnormalities correlates strongly with irradiation dosage and the time interval after completion of radiotherapy. The development of hypopituitarism occurs after 5 to 15 years and usually reflects hypothahnic damage rather than absolute destruction of pituitary cells Though the pattern of hormone loss is variable, GH deficiency is most common, followed by gonadotropin and ACTH deficiency\"",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Most common hormone deficiency\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d77fbd83-01b5-44bc-ac9f-cf5025a7d112": {
-    "cop": 1,
-    "exp": "Gout: Disturbed purine metabolism leading to ecxessive accumulation of uric acid in the blood -an inherited disorder ;or impaired excretion of uric acid by kidneys.result is accumulation of sodium bicarbonte crystals in soft tissues. Tisues of predliction are cailages,tendon ,bursa. Patient ,beyond 40 years of age, presents as 1.ahritis-MP joint of big toe is ourite site,acute severe pain 2.bursitis-commonly of olecranon bursa 3.tophi formation deposit of uric acid salt in soft tissue. Confirmation of diagnosis: urate crystals in aspirate from a joint or bursa,high serum uric acid levels Treatment: NSAIDS,uricosuric drugs,uric acid inhibitors. IMAGE SHOWING MONOSODIUM URATE CRYSTALS IN NEGATIVELY BIFRINGENT REF:Essential Ohopaedics.Maheswari &Mhaskar.Edition 9 .Pg no:293"
+    "cop": 0,
+    "exp": "Gout: Disturbed purine metabolism leading to ecxessive accumulation of uric acid in the blood -an inherited disorder ;or impaired excretion of uric acid by kidneys.result is accumulation of sodium bicarbonte crystals in soft tissues. Tisues of predliction are cailages,tendon ,bursa. Patient ,beyond 40 years of age, presents as 1.ahritis-MP joint of big toe is ourite site,acute severe pain 2.bursitis-commonly of olecranon bursa 3.tophi formation deposit of uric acid salt in soft tissue. Confirmation of diagnosis: urate crystals in aspirate from a joint or bursa,high serum uric acid levels Treatment: NSAIDS,uricosuric drugs,uric acid inhibitors. IMAGE SHOWING MONOSODIUM URATE CRYSTALS IN NEGATIVELY BIFRINGENT REF:Essential Ohopaedics.Maheswari &Mhaskar.Edition 9 .Pg no:293",
+    "hint_exp": "🎯 Think of \"patient with gouty ahritis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "79c8a1b2-3b85-4299-a27d-431524f71a25": {
-    "cop": 4,
-    "exp": "Gluteus medius and minimus"
+    "cop": 3,
+    "exp": "Gluteus medius and minimus",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"unwanted movement\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6cbd0160-c7a1-4ee6-9c66-86a6b58c2275": {
-    "cop": 2,
-    "exp": "Ans. B: Subjective sense of imbalance In veigo, patient gets a feeling of rotation of himself or of his environment. Veigo (\"a whirling or spinning movement\") It is a type of dizziness, where there is a feeling of motion when one is stationary. The symptoms are due to a dysfunction of the vestibular system in the inner ear. It is often associated with nausea and vomiting as well as difficulties standing or walking. The most common causes are benign paroxysmal positional veigo, concussion and vestibular migraine while less common causes include Meniere's disease and vestibular neuritis. Excessive consumption of ethanol (alcoholic beverages) can also cause notorious symptoms of veigo. A number of conditions that involve the central nervous system may lead to veigo including: migraine headaches, lateral medullary syndrome, multiple sclerosis Veigo is a sensation of spinning while stationary. Repetitive spinning, as in familiar childhood games, can induce sho-lived veigo by disrupting the ineia of the fluid in the vestibular system Veigo is classified into either peripheral or central depending on the location of the dysfunction of the vestibular pathway Peripheral: Veigo caused by problems with the inner ear or vestibular system is called \"peripheral\", \"otologic\" or \"vestibular\". - The most common cause is benign paroxysmal positional veigo (BPPV) but other causes include Meniere's disease, superior canal dehiscence syndrome, labyrinthitis and visual veigo. - Any cause of inflammation such as common cold, influenza, and bacterial infections may cause transient veigo if they involve the inner ear, as may chemical insults (e.g., aminoglycosides) or physical trauma (e.g., skull fractures). - Motion sickness is sometimes classified as a cause of peripheral veigo. Central: If veigo arises from the balance centers of the brain, it is usually milder, and has accompanying neurologic deficits, such as slurred speech, double vision or pathologic nystagmus. - Brain pathology can cause a sensation of disequilibrium which is an off-balance sensation."
+    "cop": 1,
+    "exp": "Ans. B: Subjective sense of imbalance In veigo, patient gets a feeling of rotation of himself or of his environment. Veigo (\"a whirling or spinning movement\") It is a type of dizziness, where there is a feeling of motion when one is stationary. The symptoms are due to a dysfunction of the vestibular system in the inner ear. It is often associated with nausea and vomiting as well as difficulties standing or walking. The most common causes are benign paroxysmal positional veigo, concussion and vestibular migraine while less common causes include Meniere's disease and vestibular neuritis. Excessive consumption of ethanol (alcoholic beverages) can also cause notorious symptoms of veigo. A number of conditions that involve the central nervous system may lead to veigo including: migraine headaches, lateral medullary syndrome, multiple sclerosis Veigo is a sensation of spinning while stationary. Repetitive spinning, as in familiar childhood games, can induce sho-lived veigo by disrupting the ineia of the fluid in the vestibular system Veigo is classified into either peripheral or central depending on the location of the dysfunction of the vestibular pathway Peripheral: Veigo caused by problems with the inner ear or vestibular system is called \"peripheral\", \"otologic\" or \"vestibular\". - The most common cause is benign paroxysmal positional veigo (BPPV) but other causes include Meniere's disease, superior canal dehiscence syndrome, labyrinthitis and visual veigo. - Any cause of inflammation such as common cold, influenza, and bacterial infections may cause transient veigo if they involve the inner ear, as may chemical insults (e.g., aminoglycosides) or physical trauma (e.g., skull fractures). - Motion sickness is sometimes classified as a cause of peripheral veigo. Central: If veigo arises from the balance centers of the brain, it is usually milder, and has accompanying neurologic deficits, such as slurred speech, double vision or pathologic nystagmus. - Brain pathology can cause a sensation of disequilibrium which is an off-balance sensation.",
+    "hint_exp": "🧩 Your crush solved \"Which following defines veigo\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c0602364-a12d-4a7a-880e-899522e5a493": {
-    "cop": 2,
-    "exp": "ANS. BDimorphic fungi are fungi which can exist as mold/hyphal/ filamentous form or as yeast.Examples of dimorphic fungi (HSBC) + P1. Histoplasma2. Sporothrix3. Blastomycosis4. Coccidiomycosis5. Penicillium"
+    "cop": 1,
+    "exp": "ANS. BDimorphic fungi are fungi which can exist as mold/hyphal/ filamentous form or as yeast.Examples of dimorphic fungi (HSBC) + P1. Histoplasma2. Sporothrix3. Blastomycosis4. Coccidiomycosis5. Penicillium",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"dimorphic fungi\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b7e4257a-4bbd-46a1-add2-639e3e182595": {
-    "cop": 4,
-    "exp": "Decreased glucose level leads to increased levels of glucagon. Glucagon inhibits the activity of PFK-2 and stimulates the activity of Fructose 2,6 biphosphatase. Activation of fructose-2,6-biphosphatase leads to decreased level of fructose-2,6-biphosphate levels.Ref: Harper's Illustrated Biochemistry 27th ed."
+    "cop": 3,
+    "exp": "Decreased glucose level leads to increased levels of glucagon. Glucagon inhibits the activity of PFK-2 and stimulates the activity of Fructose 2,6 biphosphatase. Activation of fructose-2,6-biphosphatase leads to decreased level of fructose-2,6-biphosphate levels.Ref: Harper's Illustrated Biochemistry 27th ed.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following Except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5f93653b-1a28-4331-84e9-6be9b0ac6972": {
-    "cop": 4,
-    "exp": "Explanation- Chitin- Made up of N Acetyl D Glucosamine joined by b1 ------- 4 linkage."
+    "cop": 3,
+    "exp": "Explanation- Chitin- Made up of N Acetyl D Glucosamine joined by b1 ------- 4 linkage.",
+    "hint_exp": "🎯 Think of \"Chitin contains\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "19411d1d-6e7d-4475-a1fe-f8e225b6f35b": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., < 1/100000 WHO defines elimination of measles as the absence of endemic measles for a period of 12 months in the presence of adequate surveillance. One indicater of measles elimination is a sustained measles incidence < 1/100, 000 population. o In 2005, the World Health Assembly set a goal of achieving a 90% reduction in global measles moality by 2010 as compared with level in 2000."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., < 1/100000 WHO defines elimination of measles as the absence of endemic measles for a period of 12 months in the presence of adequate surveillance. One indicater of measles elimination is a sustained measles incidence < 1/100, 000 population. o In 2005, the World Health Assembly set a goal of achieving a 90% reduction in global measles moality by 2010 as compared with level in 2000.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Measles elimination criteria\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a731293f-cf5e-4090-b527-57b2f04ed389": {
-    "cop": 3,
-    "exp": "C. i.e. Toe dorsiflexion Compament syndrome is clinically diagnosed by high index of suspicion in any patient with pain out of propoion to injury, who is unresponsive b/O associated head or other injury. Physical findings that warn are pain on passive range of motion of toes causing affected compamental muscles stretchQ, and tense compaments that are tender on palpation. So compament syndrome affecting posterior leg can be earliest diagnosed by passive stretch of toe plantiflexiors that occurs during (passive) toe, dorsiflexion movementQ."
+    "cop": 2,
+    "exp": "C. i.e. Toe dorsiflexion Compament syndrome is clinically diagnosed by high index of suspicion in any patient with pain out of propoion to injury, who is unresponsive b/O associated head or other injury. Physical findings that warn are pain on passive range of motion of toes causing affected compamental muscles stretchQ, and tense compaments that are tender on palpation. So compament syndrome affecting posterior leg can be earliest diagnosed by passive stretch of toe plantiflexiors that occurs during (passive) toe, dorsiflexion movementQ.",
+    "hint_exp": "🧩 Your crush solved \"pain\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

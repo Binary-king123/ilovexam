@@ -1,202 +1,252 @@
 {
   "a579cce7-9289-44ae-b410-223582417c58": {
-    "cop": 4,
-    "exp": "Ans. D. Disability rate. (Ref. Park's Textbook of PSM 22nd/pg.25)Discussion:Sullivan's Index (expectation of life free of disability) is computed by subtracting from life expectancy the probable duration of bed disability and inability to perform major activities, according to cross-sectional data from the population survey.Indicators of health are as follows:-# Mortality indicators: CDR, IMR, 1-4 year mortality rate, MMR, Under 5 mortality rate, proportional mortality rate, expectation of life etc...# Morbidity indicators:Incidence, prevalence, duration of stay etc...# Disability rates:Sullivan's index, HALE, DALY# Nutritional status indicators:Prevalence of LBW, anthropometric measurement# Environmental indicatorsilndicators relating to pollution, access to safe water & sanitation facility etc...# Socio-economic indicators:Per capita GNP, dependency ratio etc...# Indicators of social & mental health:Crime rate, homicide suicide rates, drug abuse# Health policy indicators:Proportion of GNP spent on health# Health care delivery indicators: Dr. population ratio, Dr. Nurse ratio, physiotherapist population ratio etc...# Utilization rates: Fully immunized infants, bed occupancy rate etc...# Indicators of Quality of life:PQLI# Other:Basic needs indicators (by ILO);Health for all indicators (12 in no.)- MDG indicators etc.."
+    "cop": 3,
+    "exp": "Ans. D. Disability rate. (Ref. Park's Textbook of PSM 22nd/pg.25)Discussion:Sullivan's Index (expectation of life free of disability) is computed by subtracting from life expectancy the probable duration of bed disability and inability to perform major activities, according to cross-sectional data from the population survey.Indicators of health are as follows:-# Mortality indicators: CDR, IMR, 1-4 year mortality rate, MMR, Under 5 mortality rate, proportional mortality rate, expectation of life etc...# Morbidity indicators:Incidence, prevalence, duration of stay etc...# Disability rates:Sullivan's index, HALE, DALY# Nutritional status indicators:Prevalence of LBW, anthropometric measurement# Environmental indicatorsilndicators relating to pollution, access to safe water & sanitation facility etc...# Socio-economic indicators:Per capita GNP, dependency ratio etc...# Indicators of social & mental health:Crime rate, homicide suicide rates, drug abuse# Health policy indicators:Proportion of GNP spent on health# Health care delivery indicators: Dr. population ratio, Dr. Nurse ratio, physiotherapist population ratio etc...# Utilization rates: Fully immunized infants, bed occupancy rate etc...# Indicators of Quality of life:PQLI# Other:Basic needs indicators (by ILO);Health for all indicators (12 in no.)- MDG indicators etc..",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"indicator of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a7b84a9f-3a57-4acb-a2fc-e008a2290334": {
-    "cop": 4,
-    "exp": "Induced hypothermia is used for neurosurgery, carotid artery surgery, cardiac surgery, traumatic brain injury, ARDS, malignant hyperthermia, Prolonged surgeries, neonatal encephalopathy caused by birth asphyxia.\nHypothermia induces arrhythmia, so it cannot be used in arrhythmia."
+    "cop": 3,
+    "exp": "Induced hypothermia is used for neurosurgery, carotid artery surgery, cardiac surgery, traumatic brain injury, ARDS, malignant hyperthermia, Prolonged surgeries, neonatal encephalopathy caused by birth asphyxia.\nHypothermia induces arrhythmia, so it cannot be used in arrhythmia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Hypothermia used except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "651fe8b8-e475-45ad-8b66-54dd0c797c18": {
-    "cop": 4,
-    "exp": "Meyer-Oveon correlation of anesthetic potency with solubility in olive oil interpreted by the majority of researchers as an indicator that lipids are likely the anesthetic target. This interpretation focused attention on anesthetic effects on the bulk physical propeies of cell membranes, which were known at that time to consist primarily of lipid molecules. Such nonspecific or \"lipoid-based\" anesthetic theories dominated the field from the 1960s to the 1980s. Moreover, the simple elegance of the relationship between MAC and lipid solubility graphically illustrated Meyer and Oveon's conclusion that \"All chemically indifferent substances that are soluble in fat are anesthetics ... their relative potency as anesthetics will depend on their affinity to fat on the one hand and water on the other hand, that is, on the fat/water paition coefficient. This was interpreted as oring lipids as the primary targets of anesthetics and a single nonspecific theory to explain anesthesia. Objections to the outdated lipid hypotheses: 1. Stereoisomers of an anesthetic drug Stereoisomers that represent mirror images of each other are termed enantiomers or optical isomers (for example, the isomers of R-(+)- and S-(-)-etomidate). Physicochemical effects of enantiomers are always identical in an achiral environment (for example in the lipid bilayer). However, in vivo enantiomers of many general anesthetics (e.g. isoflurane, thiopental, etomidate) can differ greatly in their anesthetic potency despite the similar oil/gas paition coefficients. For example, the R-(+) isomer of etomidate is 10 times more potent anesthetic than its S-(-) isomer 2. Non-immobilizers According to the Meyer-Oveon correlation, the anesthetic potency of the drug is directly propoional to its lipid solubility, however, there are many compounds that do not satisfy this rule. These drugs are strikingly similar to potent general anesthetics and are predicted to be potent anesthetics based on their lipid solubility, but they exe only one constituent of the anesthetic action (amnesia) and do not suppress movement (i.e. do not depress spinal cord functions) as all anesthetics do. These drugs are referred to as non-immobilizers. 3. Temperature increases do not have an anaesthetic effect 4. Effect vanishes beyond a ceain chain length According to the Meyer-Oveon correlation, in a homologous series of any general anesthetic (e.g. n-alcohols, or alkanes), increasing the chain length increases the lipid solubility, and thereby should produce a corresponding increase in anesthetic potency. However, beyond a ceain chain length, the anesthetic effect disappears. For the n-alcohols, this cutoff occurs at a carbon chain length of about 13 and for the n-alkanes at a chain length of between 6 and 10, depending on the species. 5. Non-hydrophobic anesthetics. Ref: Miller's anesthesia 8th edition Ref: Morgan & Mikhail's clinical anesthesiology 6e"
+    "cop": 3,
+    "exp": "Meyer-Oveon correlation of anesthetic potency with solubility in olive oil interpreted by the majority of researchers as an indicator that lipids are likely the anesthetic target. This interpretation focused attention on anesthetic effects on the bulk physical propeies of cell membranes, which were known at that time to consist primarily of lipid molecules. Such nonspecific or \"lipoid-based\" anesthetic theories dominated the field from the 1960s to the 1980s. Moreover, the simple elegance of the relationship between MAC and lipid solubility graphically illustrated Meyer and Oveon's conclusion that \"All chemically indifferent substances that are soluble in fat are anesthetics ... their relative potency as anesthetics will depend on their affinity to fat on the one hand and water on the other hand, that is, on the fat/water paition coefficient. This was interpreted as oring lipids as the primary targets of anesthetics and a single nonspecific theory to explain anesthesia. Objections to the outdated lipid hypotheses: 1. Stereoisomers of an anesthetic drug Stereoisomers that represent mirror images of each other are termed enantiomers or optical isomers (for example, the isomers of R-(+)- and S-(-)-etomidate). Physicochemical effects of enantiomers are always identical in an achiral environment (for example in the lipid bilayer). However, in vivo enantiomers of many general anesthetics (e.g. isoflurane, thiopental, etomidate) can differ greatly in their anesthetic potency despite the similar oil/gas paition coefficients. For example, the R-(+) isomer of etomidate is 10 times more potent anesthetic than its S-(-) isomer 2. Non-immobilizers According to the Meyer-Oveon correlation, the anesthetic potency of the drug is directly propoional to its lipid solubility, however, there are many compounds that do not satisfy this rule. These drugs are strikingly similar to potent general anesthetics and are predicted to be potent anesthetics based on their lipid solubility, but they exe only one constituent of the anesthetic action (amnesia) and do not suppress movement (i.e. do not depress spinal cord functions) as all anesthetics do. These drugs are referred to as non-immobilizers. 3. Temperature increases do not have an anaesthetic effect 4. Effect vanishes beyond a ceain chain length According to the Meyer-Oveon correlation, in a homologous series of any general anesthetic (e.g. n-alcohols, or alkanes), increasing the chain length increases the lipid solubility, and thereby should produce a corresponding increase in anesthetic potency. However, beyond a ceain chain length, the anesthetic effect disappears. For the n-alcohols, this cutoff occurs at a carbon chain length of about 13 and for the n-alkanes at a chain length of between 6 and 10, depending on the species. 5. Non-hydrophobic anesthetics. Ref: Miller's anesthesia 8th edition Ref: Morgan & Mikhail's clinical anesthesiology 6e",
+    "hint_exp": "🎯 Think of \"all except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "374c76f0-a3c3-4cb9-9891-b865f15c45c5": {
-    "cop": 2,
-    "exp": "B i.e. Formation of thymidine dimers"
+    "cop": 1,
+    "exp": "B i.e. Formation of thymidine dimers",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Excessive ultraviolet radiation harmful\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2076d106-63f6-415e-9bca-b7f5440c71ef": {
-    "cop": 1,
-    "exp": "Q-switched Nd:YAG laser, the argon laser and diode lasers can be effectively used fc: iridotomy. Nd: YAG laser has become the preferred method for creating an iridotomy."
+    "cop": 0,
+    "exp": "Q-switched Nd:YAG laser, the argon laser and diode lasers can be effectively used fc: iridotomy. Nd: YAG laser has become the preferred method for creating an iridotomy.",
+    "hint_exp": "🧩 Your crush solved \"laser\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "19427ba5-1b31-49a0-89b2-7619511e7af7": {
-    "cop": 1,
-    "exp": "Staphylococcus epidermidis is the most common contaminant in positive blood culture among the given bacteria. Ref ananthnarayana and panikers microbiology textbook 8/e"
+    "cop": 0,
+    "exp": "Staphylococcus epidermidis is the most common contaminant in positive blood culture among the given bacteria. Ref ananthnarayana and panikers microbiology textbook 8/e",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a positive blood culture\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3883c9ba-5781-4d0b-8696-49f804b087af": {
-    "cop": 4,
-    "exp": "Each child with Homo Carboxylase Synthatase Deficiency (HCSD) is likely to experience slightly different effects. Many babies with this condition sta to have symptoms within hours of bih or during the first few days or weeks of life. Other babies have their first symptoms sometime in infancy, usually before two years of age. A small number of people with HCSD never show symptoms and are only found to be affected after a brother or sister is diagnosed. HCSD causes episodes of illness called metabolic crises. Some of the first symptoms of a metabolic crisis are: poor appetite vomiting extreme sleepiness or lack of energy irritability low muscle tone (floppy muscles and joints) severe peeling skin rash Common lab findings are: low blood sugar, called hypoglycemia high levels of acidic substances in the blood, called metabolic acidosis slightly high levels of ammonia in the blood low platelets ketones in the urine high levels of substances called organic acids in the urine If a metabolic crisis is not treated, a child with HCSD can develop: breathing problems seizures swelling of the brain coma, sometimes leading to death Ref: Kliegman, Behrman, Jenson, Stanton, (2007), Chapter 85, \"Defects in Metabolism of Amino Acids\", In the book, \"Nelson's Textbook of Pediatrics\", Volume 1, 18th Edition, New Delhi, Page 543"
+    "cop": 3,
+    "exp": "Each child with Homo Carboxylase Synthatase Deficiency (HCSD) is likely to experience slightly different effects. Many babies with this condition sta to have symptoms within hours of bih or during the first few days or weeks of life. Other babies have their first symptoms sometime in infancy, usually before two years of age. A small number of people with HCSD never show symptoms and are only found to be affected after a brother or sister is diagnosed. HCSD causes episodes of illness called metabolic crises. Some of the first symptoms of a metabolic crisis are: poor appetite vomiting extreme sleepiness or lack of energy irritability low muscle tone (floppy muscles and joints) severe peeling skin rash Common lab findings are: low blood sugar, called hypoglycemia high levels of acidic substances in the blood, called metabolic acidosis slightly high levels of ammonia in the blood low platelets ketones in the urine high levels of substances called organic acids in the urine If a metabolic crisis is not treated, a child with HCSD can develop: breathing problems seizures swelling of the brain coma, sometimes leading to death Ref: Kliegman, Behrman, Jenson, Stanton, (2007), Chapter 85, \"Defects in Metabolism of Amino Acids\", In the book, \"Nelson's Textbook of Pediatrics\", Volume 1, 18th Edition, New Delhi, Page 543",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"child\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "471a5733-af03-4592-ab35-c3d3ef1645c4": {
-    "cop": 2,
-    "exp": "Clinical Features of datura * Dryness of mouth (dry as bone) * Bitter taste * Difficulty in talking * Dysphagia * Dilated pupils * Diplopia * Difficulty in vision (blurring of vision, blind as bat) * Dry hot skin with flushing (red as beet) * Hyperpyrexia (hot as hare) * Drunken gait (ataxia) * Hyperreflexia * Convulsions * Delirium, hallucinations, agitation, amnesia, incoherence, visual or auditory hallucinations (mad as a hen) * Deficit of recent memory. Remote memory undisturbed * Dysuria * Distention of bladder (retention of urine) * Death. REF;THE SYNOPSIS OF FORENSIC MEDICINE:KS NARAYANA REDDY;28th EDITION;PAGE NO 344"
+    "cop": 1,
+    "exp": "Clinical Features of datura * Dryness of mouth (dry as bone) * Bitter taste * Difficulty in talking * Dysphagia * Dilated pupils * Diplopia * Difficulty in vision (blurring of vision, blind as bat) * Dry hot skin with flushing (red as beet) * Hyperpyrexia (hot as hare) * Drunken gait (ataxia) * Hyperreflexia * Convulsions * Delirium, hallucinations, agitation, amnesia, incoherence, visual or auditory hallucinations (mad as a hen) * Deficit of recent memory. Remote memory undisturbed * Dysuria * Distention of bladder (retention of urine) * Death. REF;THE SYNOPSIS OF FORENSIC MEDICINE:KS NARAYANA REDDY;28th EDITION;PAGE NO 344",
+    "hint_exp": "🎯 Think of \"Muttering delirium seen with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8baa74cc-9ec5-4bd3-aca5-1c1329f0b44b": {
-    "cop": 4,
-    "exp": "Effects of diabetes on the Newborn Congenital abnormalities Macrosomia Hypoglycemia Hypocalcemia Apnea and bradycardia Hyaline membrane disease Traumatic delivery Polycythemia Hyperbilirubinemia Cardiomyopathy"
+    "cop": 3,
+    "exp": "Effects of diabetes on the Newborn Congenital abnormalities Macrosomia Hypoglycemia Hypocalcemia Apnea and bradycardia Hyaline membrane disease Traumatic delivery Polycythemia Hyperbilirubinemia Cardiomyopathy",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which of the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9ef84c16-4b56-4d67-90c5-37f0ee5beb48": {
-    "cop": 3,
-    "exp": "Ans.C.4Intrinsic muscles of Hand :4 thenar muscles: Abductor pollicis brevis, flexor pollicis brevis, opponenspollicis, adductor pollicis.4 hypothenar muscles: Palmaris brevis, abductor digitiminimi, flexor digitiminimi brevis, opponensdigitiminimi.4 lumbricals8 interossei: 4 dorsal interossei and 4 palmar interossei."
+    "cop": 2,
+    "exp": "Ans.C.4Intrinsic muscles of Hand :4 thenar muscles: Abductor pollicis brevis, flexor pollicis brevis, opponenspollicis, adductor pollicis.4 hypothenar muscles: Palmaris brevis, abductor digitiminimi, flexor digitiminimi brevis, opponensdigitiminimi.4 lumbricals8 interossei: 4 dorsal interossei and 4 palmar interossei.",
+    "hint_exp": "🧩 Your crush solved \"Total number ofdorsal interossei\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2e127c7a-d93f-4681-9cfe-d9dfeb23a712": {
-    "cop": 2,
-    "exp": "Ans. (b) AttachmentRef: Robbin's pathology 9th ed. /245-46* Envelope glycoprotein GP120 (or gp 120) is a glycoprotein exposed on the surface of the HIV envelope.* The 120 in its name comes from its molecular weight of 120 kDa.* Gpl20 is essential for virus entry into cells as it plays a vital role in attachment to specific cell surface receptors.* Binding to CD4 induces the start of a cascade of conformational changes in gpl20 and gp41 that lead to the fusion of the viral with the host cell membrane.* Gpl20 is coded by the HIV envgene, which is around 2.5 kb long and codes for around 850 amino acids"
+    "cop": 1,
+    "exp": "Ans. (b) AttachmentRef: Robbin's pathology 9th ed. /245-46* Envelope glycoprotein GP120 (or gp 120) is a glycoprotein exposed on the surface of the HIV envelope.* The 120 in its name comes from its molecular weight of 120 kDa.* Gpl20 is essential for virus entry into cells as it plays a vital role in attachment to specific cell surface receptors.* Binding to CD4 induces the start of a cascade of conformational changes in gpl20 and gp41 that lead to the fusion of the viral with the host cell membrane.* Gpl20 is coded by the HIV envgene, which is around 2.5 kb long and codes for around 850 amino acids",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Group antigen surface will\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "85d2e2b7-7fad-4bf5-b45e-faec3d300b4b": {
-    "cop": 3,
-    "exp": "During smoke inhalation in thermal deaths apa from CO, the other factors which contribute to death are oxygen deprivation, cyanide, free radicals (inactive surfactants, thus preventing oxygen from crossing the alveoli into the blood), and non-specific toxic substances. Ref: The Essentials of Forensic Medicine and Toxicology by Narayan Reddy, 27th edition, Page 285."
+    "cop": 2,
+    "exp": "During smoke inhalation in thermal deaths apa from CO, the other factors which contribute to death are oxygen deprivation, cyanide, free radicals (inactive surfactants, thus preventing oxygen from crossing the alveoli into the blood), and non-specific toxic substances. Ref: The Essentials of Forensic Medicine and Toxicology by Narayan Reddy, 27th edition, Page 285.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5e665385-2619-444c-8956-eabf02ee0964": {
-    "cop": 2,
-    "exp": "Ans. (b) BiopsyRef: Chapter 91: Harrison 18th ed.* Taking multiple biopsies increases the yield. Cytologic examination of tumor brushings complements standard biopsies and should be performed routinely.* The extent of tumor spread to the mediastinum and para-aortic lymph nodes should be assessed by CT scans of the chest and abdomen and by endoscopic ultrasound.* Positron emission tomography scanning provides a useful assessment of resectability, offering accurate information regarding spread to mediastinal lymph nodes"
+    "cop": 1,
+    "exp": "Ans. (b) BiopsyRef: Chapter 91: Harrison 18th ed.* Taking multiple biopsies increases the yield. Cytologic examination of tumor brushings complements standard biopsies and should be performed routinely.* The extent of tumor spread to the mediastinum and para-aortic lymph nodes should be assessed by CT scans of the chest and abdomen and by endoscopic ultrasound.* Positron emission tomography scanning provides a useful assessment of resectability, offering accurate information regarding spread to mediastinal lymph nodes",
+    "hint_exp": "🎯 Think of \"differentiate malignancy from benign\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5eb78e5d-2d04-40a4-ad23-0ef95f0cb607": {
-    "cop": 3,
-    "exp": "Normal pH is 7.35 - 7.45: So this patient is in acidosis Normal PaCo2 is 35-45 mm of Hg: Increased PaCO2 means respiratory acidosis Normal HCO3- is 22-26 mEq/L: this is in the normal range So the patient has Respiratory acidosis with no metabolic compensation. ** If HCO3- is elevated, then we can say there is metabolic compensation. ref - harrisons internal medicine 20e pg322"
+    "cop": 2,
+    "exp": "Normal pH is 7.35 - 7.45: So this patient is in acidosis Normal PaCo2 is 35-45 mm of Hg: Increased PaCO2 means respiratory acidosis Normal HCO3- is 22-26 mEq/L: this is in the normal range So the patient has Respiratory acidosis with no metabolic compensation. ** If HCO3- is elevated, then we can say there is metabolic compensation. ref - harrisons internal medicine 20e pg322",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"your inference\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ed5216f1-d987-49df-bc51-c2b5500adc23": {
-    "cop": 2,
-    "exp": "Acute akathisia * It was coined by Haskovec * Subjective state of restlessness and fidgety behaviour * <72 hours of staing antipsychotics * DD=agitated depression * If this is misdiagnosed as agitation and if antipsychotic is hiked there will be worsening of symptoms Propranolol id the TOC Ref,Kaplon and Sadock, synopsis of psychiatry, 11 th edition, pg.no.925"
+    "cop": 1,
+    "exp": "Acute akathisia * It was coined by Haskovec * Subjective state of restlessness and fidgety behaviour * <72 hours of staing antipsychotics * DD=agitated depression * If this is misdiagnosed as agitation and if antipsychotic is hiked there will be worsening of symptoms Propranolol id the TOC Ref,Kaplon and Sadock, synopsis of psychiatry, 11 th edition, pg.no.925",
+    "hint_exp": "🧩 Your crush solved \"choice for akathisia\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c984efb4-7f65-4bfc-87cc-f08d6b4bc010": {
-    "cop": 2,
-    "exp": "Option A: S. creatinine use to assess kidney damage Option B: CT pulmonary Angiogram not useful which is done in Pulmonary sequestration or in P.E Option C: 12-Lead ECG=LVH Option D: Fundoscopy=Papilledema"
+    "cop": 1,
+    "exp": "Option A: S. creatinine use to assess kidney damage Option B: CT pulmonary Angiogram not useful which is done in Pulmonary sequestration or in P.E Option C: 12-Lead ECG=LVH Option D: Fundoscopy=Papilledema",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"HTN\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e4da7a27-2437-4648-8340-be840a325728": {
-    "cop": 3,
-    "exp": "Endometriosis"
+    "cop": 2,
+    "exp": "Endometriosis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Three month amenorrhoea female\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6c27d9d6-2bd9-4dfe-ac42-13510004294b": {
-    "cop": 4,
-    "exp": "Ans. D i.e. Cefadroxil Spectrum of Cefadroxil Good gram (+)ve (Streptococcus pyogenes (GAS), Staphylococcus) Gram (-)ve (Proteus, E. coli, Klebsiella)"
+    "cop": 3,
+    "exp": "Ans. D i.e. Cefadroxil Spectrum of Cefadroxil Good gram (+)ve (Streptococcus pyogenes (GAS), Staphylococcus) Gram (-)ve (Proteus, E. coli, Klebsiella)",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "225a2022-0fdd-4cec-b3cb-49d80bb040f7": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Addison disease characterized except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3a71b986-ee88-470d-9d44-c6e59fb3bebd": {
-    "cop": 2,
-    "exp": "The plasma membranes of intestinal epithelial cells contain a sodium gradient that drives the active transpo of glucose. The rate and amount of glucose transpoed depend upon the sodium gradient maintained across the plasma membrane. Sodium ions entering the cell in the company of glucose are pumped out again by Na+,K+-ATPase. Once in the cytosol of the intestinal cell, the glucose moves across the cell and diffuses out of the cell into the interstitial fluid of the submucosa and then into the plasma of the capillaries underlying the intestinal epithelium. This occurs for the following reason: while glucose is maintained in blood plasma at an approximately constant level, it is always slowly moving out of the plasma into the cells of tissue that use it. Given that the diffusion from the intestinal cells into the plasma is passive, the intestinal cells and the plasma try to maintain an equilibrium. Thus, plasma glucose levels are always approximately equal to or slightly less than levels in the intestinal cells. Due to the passive maintenance of this equilibrium, it is highly unlikely that the concentration of glucose in the plasma can get much higher than that in the intestinal cell cytosol. It is also unlikely that the levels of glucose in other tissues of the body (for example, muscle) will have any bearing on those found in the intestinal cells"
+    "cop": 1,
+    "exp": "The plasma membranes of intestinal epithelial cells contain a sodium gradient that drives the active transpo of glucose. The rate and amount of glucose transpoed depend upon the sodium gradient maintained across the plasma membrane. Sodium ions entering the cell in the company of glucose are pumped out again by Na+,K+-ATPase. Once in the cytosol of the intestinal cell, the glucose moves across the cell and diffuses out of the cell into the interstitial fluid of the submucosa and then into the plasma of the capillaries underlying the intestinal epithelium. This occurs for the following reason: while glucose is maintained in blood plasma at an approximately constant level, it is always slowly moving out of the plasma into the cells of tissue that use it. Given that the diffusion from the intestinal cells into the plasma is passive, the intestinal cells and the plasma try to maintain an equilibrium. Thus, plasma glucose levels are always approximately equal to or slightly less than levels in the intestinal cells. Due to the passive maintenance of this equilibrium, it is highly unlikely that the concentration of glucose in the plasma can get much higher than that in the intestinal cell cytosol. It is also unlikely that the levels of glucose in other tissues of the body (for example, muscle) will have any bearing on those found in the intestinal cells",
+    "hint_exp": "🧩 Your crush solved \"absorption glucose from into\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a500f546-6019-49d2-83a4-25287587a572": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"deficiency Rickets Characterised forehead\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "de6f7d66-90b1-4503-a265-4ae8322afb08": {
-    "cop": 3,
-    "exp": "Tracheal intubation is best achieved in the classic \"sniffing the morning air\" position in which the neck is flexed and there is extension at the cranio-cervical (atlanto-axial) junction. This aligns the structures of the upper airway in the optimum position for laryngoscopy and permits the best view of the larynx when using a curved blade laryngoscope. Abnormalities of the bony structures and the soft tissues of the upper airway will result in difficult intubation. Signs of difficult intubation: Thyromental distance < 7cms Mallampatti grade III or IV Micrognathia Macroglossia High arched palate with narrow dental arch TMJ limitation Limited cervical veebrae extension Miller sign Growth in oral cavity The modified Mallampati, thyromental distance, ability to protrude the mandible and craniocervical movement are probably the most reliable."
+    "cop": 2,
+    "exp": "Tracheal intubation is best achieved in the classic \"sniffing the morning air\" position in which the neck is flexed and there is extension at the cranio-cervical (atlanto-axial) junction. This aligns the structures of the upper airway in the optimum position for laryngoscopy and permits the best view of the larynx when using a curved blade laryngoscope. Abnormalities of the bony structures and the soft tissues of the upper airway will result in difficult intubation. Signs of difficult intubation: Thyromental distance < 7cms Mallampatti grade III or IV Micrognathia Macroglossia High arched palate with narrow dental arch TMJ limitation Limited cervical veebrae extension Miller sign Growth in oral cavity The modified Mallampati, thyromental distance, ability to protrude the mandible and craniocervical movement are probably the most reliable.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2c21aabe-0df7-48ae-834b-88b2a69735b3": {
-    "cop": 2,
-    "exp": "Amount per 100 ml Cow's milk Human milk Fat 3.8 g 3.7 g Protein 3.3 g 1.1 g Lactose 4.5 g 7 g Ref: Nutrition and Child Development, K.E. Elizabeth, 4th edition pg: 18"
+    "cop": 1,
+    "exp": "Amount per 100 ml Cow's milk Human milk Fat 3.8 g 3.7 g Protein 3.3 g 1.1 g Lactose 4.5 g 7 g Ref: Nutrition and Child Development, K.E. Elizabeth, 4th edition pg: 18",
+    "hint_exp": "🎯 Think of \"Amount protein milk\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "86b7327e-815f-4bba-a794-5e2890af17e2": {
-    "cop": 1,
-    "exp": "ref: Park&;s 23rd edition pg 58 Advantage of age adjusted standardised death rates is that it removes all the confounding effects of different age structures and yields a single standardised adjusted rate, by which the moality experience can be direclty compared."
+    "cop": 0,
+    "exp": "ref: Park&;s 23rd edition pg 58 Advantage of age adjusted standardised death rates is that it removes all the confounding effects of different age structures and yields a single standardised adjusted rate, by which the moality experience can be direclty compared.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Between countries moality compared\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "cd07886f-c56c-40ed-ab80-3e52f6e86b98": {
-    "cop": 2,
-    "exp": "Bulbourethral glands are located posterior and lateral to the membranous poion of the urethra at the base of the penis, between the two layers of the fascia of the urogenital diaphragm, in the deep perineal pouch. They are enclosed by transverse fibers of the sphincter urethrae membranaceae muscle. Ref - BDC 6e vol2 pg376"
+    "cop": 1,
+    "exp": "Bulbourethral glands are located posterior and lateral to the membranous poion of the urethra at the base of the penis, between the two layers of the fascia of the urogenital diaphragm, in the deep perineal pouch. They are enclosed by transverse fibers of the sphincter urethrae membranaceae muscle. Ref - BDC 6e vol2 pg376",
+    "hint_exp": "🧩 Your crush solved \"the urethra\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "51c4c296-d89a-4717-abee-e36a14347408": {
-    "cop": 4,
-    "exp": "(25 cm) (267-IBS4th) (134-35-Snell 7th)OESOPHAGUS* It extends from the lower part of the neck to the upper part of the abdomen.* The oesophagus is about 25 cm long (10 inch)* The pharyngo-oesophageal junction is the narrowed part of the alimentary canal except for the vermiform appendix.* The oesophagus begins in the neck at the lower border of the cricoid cartilage. It ends by the opening into the stomach at its cardiac end at the level of 11th thoracic vertebra.Constriction-4DistanceCervicalBronchoaorticDiaphragmaticDuodenumDistance from incisor teeth6 in (15 cm)10 in (25 cm)16 in (41 cm)22-26 in (56-66 cm)Distance from nostrils7.2 in (18 cm)11.2 in (28 cm)17.2 in (44 cm)23.2-27.2 in (59-69 cm)Arterial supply* Upper third = Inferior thyroid artery** Middle third = Oesophageal branches of the descending thoracic aorta** Lower third = Left gastric artery*"
+    "cop": 3,
+    "exp": "(25 cm) (267-IBS4th) (134-35-Snell 7th)OESOPHAGUS* It extends from the lower part of the neck to the upper part of the abdomen.* The oesophagus is about 25 cm long (10 inch)* The pharyngo-oesophageal junction is the narrowed part of the alimentary canal except for the vermiform appendix.* The oesophagus begins in the neck at the lower border of the cricoid cartilage. It ends by the opening into the stomach at its cardiac end at the level of 11th thoracic vertebra.Constriction-4DistanceCervicalBronchoaorticDiaphragmaticDuodenumDistance from incisor teeth6 in (15 cm)10 in (25 cm)16 in (41 cm)22-26 in (56-66 cm)Distance from nostrils7.2 in (18 cm)11.2 in (28 cm)17.2 in (44 cm)23.2-27.2 in (59-69 cm)Arterial supply* Upper third = Inferior thyroid artery** Middle third = Oesophageal branches of the descending thoracic aorta** Lower third = Left gastric artery*",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"oesophagus in adult\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "62a9a1a4-2a9c-4488-85e7-496cf6c70413": {
-    "cop": 2,
-    "exp": "About 50% of infections with classic V cholerae are asymptomatic, as are about 75% of infections with the El Tor biotype. The incubation period is 12 hours-3 days. There is a sudden onset of nausea and vomiting and profuse diarrhea with abdominal cramps. Stools, which resemble \"rice water,\" contain mucus, epithelial cells, and large numbers of vibrios. There is a rapid loss of fluid and electrolytes, which leads to profound dehydration, circulatory collapse, and anuria. The moality rate without treatment is between 25% and 50%.Ref: Jawetz; 27th edition; Page no: 255"
+    "cop": 1,
+    "exp": "About 50% of infections with classic V cholerae are asymptomatic, as are about 75% of infections with the El Tor biotype. The incubation period is 12 hours-3 days. There is a sudden onset of nausea and vomiting and profuse diarrhea with abdominal cramps. Stools, which resemble \"rice water,\" contain mucus, epithelial cells, and large numbers of vibrios. There is a rapid loss of fluid and electrolytes, which leads to profound dehydration, circulatory collapse, and anuria. The moality rate without treatment is between 25% and 50%.Ref: Jawetz; 27th edition; Page no: 255",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Characteristic of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "be6c2d2d-1c12-41d2-850f-04449f663483": {
-    "cop": 3,
-    "exp": "An early sign of sympathetic ophthalmia is a limited range of accommodation with photophobia. Sympathetic ophthalmia (SO) is a granulomatous uveitis of both eyes following trauma to one eye. The disease may progress to severe iridocyclitis with pain and photophobia. Commonly the eye remains relatively painless while the inflammatory disease spreads through the uvea, where characteristic focal infiltrates in the choroid named Dalen-Fuchs nodules are seen."
+    "cop": 2,
+    "exp": "An early sign of sympathetic ophthalmia is a limited range of accommodation with photophobia. Sympathetic ophthalmia (SO) is a granulomatous uveitis of both eyes following trauma to one eye. The disease may progress to severe iridocyclitis with pain and photophobia. Commonly the eye remains relatively painless while the inflammatory disease spreads through the uvea, where characteristic focal infiltrates in the choroid named Dalen-Fuchs nodules are seen.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "92c07fcf-708e-4894-b1f0-cf2d418fc8ee": {
-    "cop": 4,
-    "exp": "Abrus precatorius\nCerbera thevetia\nSemicarpur anacardium\nRicinus\n\n\nActive principle\nAbrin(toxalbumen)\nCerberine,Thevetin thevetoxin and nerifolin\nSemicarpol,Bhilawanol\nRicin\n\n\nFeatures\nSimilar to viperine snake\nArrhythmias cause of death is hyperkalemia\nUsed for artificial bruise\nDiarthea Biological  weapon"
+    "cop": 3,
+    "exp": "Abrus precatorius\nCerbera thevetia\nSemicarpur anacardium\nRicinus\n\n\nActive principle\nAbrin(toxalbumen)\nCerberine,Thevetin thevetoxin and nerifolin\nSemicarpol,Bhilawanol\nRicin\n\n\nFeatures\nSimilar to viperine snake\nArrhythmias cause of death is hyperkalemia\nUsed for artificial bruise\nDiarthea Biological  weapon",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following toxins have\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4cac90da-5169-45c2-ad50-209339581921": {
-    "cop": 4,
-    "exp": "Ans. All"
+    "cop": 3,
+    "exp": "Ans. All",
+    "hint_exp": "🧩 Your crush solved \"Which ocular structures most\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3b761e90-a516-4e9e-a275-ceb2e705d271": {
-    "cop": 4,
-    "exp": "Sydenham chorea (SC) is a neurological disorder of childhood resulting from infection Group A beta-hemolytic streptococcus (GABHS), the bacterium that causes rheumatic fever. SC is characterized by rapid, irregular, and aimless involuntary movements of the arms and legs, trunk, and facial muscles. Sydenham's chorea is characterized by the abrupt onset (sometimes within a few hours) of neurologic symptoms, classically chorea, usually affecting all four limbs. Other neurologic symptoms include behavior change, dysahria, gait disturbance, loss of fine and gross motor control with resultant deterioration of handwriting, headache, slowed cognition, facial grimacing, fidgetiness and hypotonia. Also, there may be tongue fasciculations (\"bag of worms\") and a \"milk sign\", which is a relapsing grip demonstrated by alternate increases and decreases in tension, as if hand milking. Non-neurologic manifestations of acute rheumatic fever are carditis, ahritis, erythema marginatum, and subcutaneous nodules. The PANDAS (pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections) syndrome is similar, but is not characterized by Sydenham's motor dysfunction. PANDAS presents with tics and/or a psychological component (e.g., OCD) and occurs much earlier, days to weeks after GABHS infection rather than 6-9 months later. It may be confused with other conditions such as lupus and Tourette syndrome. Movements cease during sleep, and the disease usually resolves after several months. Unlike in Huntington's disease, which is generally of adult onset and associated with an unremitting autosomal dominant movement disorder and dementia, neuroimaging in Sydenham's chorea is normal and other family members are unaffected. Other disorders that may be accompanied by chorea include abetalipoproteinemia, ataxia-telangiectasia, biotin-thiamine-responsive basal ganglia disease, Fahr disease, familial dyskinesia-facial myokymia (Bird-Raskind syndrome) due to an ADCY5 gene mutation, glutaric aciduria, Lesch-Nyhan syndrome, mitochondrial disorders, Wilson disease, hypehyroidism, lupus erythematosus, pregnancy (chorea gravidarum), and side effects of ceain anticonvulsants or psychotropic agent Ref Davidson 23rd edition pg 1025"
+    "cop": 3,
+    "exp": "Sydenham chorea (SC) is a neurological disorder of childhood resulting from infection Group A beta-hemolytic streptococcus (GABHS), the bacterium that causes rheumatic fever. SC is characterized by rapid, irregular, and aimless involuntary movements of the arms and legs, trunk, and facial muscles. Sydenham's chorea is characterized by the abrupt onset (sometimes within a few hours) of neurologic symptoms, classically chorea, usually affecting all four limbs. Other neurologic symptoms include behavior change, dysahria, gait disturbance, loss of fine and gross motor control with resultant deterioration of handwriting, headache, slowed cognition, facial grimacing, fidgetiness and hypotonia. Also, there may be tongue fasciculations (\"bag of worms\") and a \"milk sign\", which is a relapsing grip demonstrated by alternate increases and decreases in tension, as if hand milking. Non-neurologic manifestations of acute rheumatic fever are carditis, ahritis, erythema marginatum, and subcutaneous nodules. The PANDAS (pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections) syndrome is similar, but is not characterized by Sydenham's motor dysfunction. PANDAS presents with tics and/or a psychological component (e.g., OCD) and occurs much earlier, days to weeks after GABHS infection rather than 6-9 months later. It may be confused with other conditions such as lupus and Tourette syndrome. Movements cease during sleep, and the disease usually resolves after several months. Unlike in Huntington's disease, which is generally of adult onset and associated with an unremitting autosomal dominant movement disorder and dementia, neuroimaging in Sydenham's chorea is normal and other family members are unaffected. Other disorders that may be accompanied by chorea include abetalipoproteinemia, ataxia-telangiectasia, biotin-thiamine-responsive basal ganglia disease, Fahr disease, familial dyskinesia-facial myokymia (Bird-Raskind syndrome) due to an ADCY5 gene mutation, glutaric aciduria, Lesch-Nyhan syndrome, mitochondrial disorders, Wilson disease, hypehyroidism, lupus erythematosus, pregnancy (chorea gravidarum), and side effects of ceain anticonvulsants or psychotropic agent Ref Davidson 23rd edition pg 1025",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "10fc6e3d-3b3e-41b2-a874-672e3fe8d532": {
-    "cop": 4,
-    "exp": "Complex Regional  Pain Syndrome (Causalgia, Reflex Sympathetic Dystrophy Syndrome)\nCausalgia is a term applied to severe pain which arises after injury to or sectioning of a peripheral sensory nerve. \nAlthough few reports of this condition exist in the dental literature, cases do occur after the extraction of teeth. It has readily identifiable signs and symptoms and is treatable if recognized early; however, the syndrome may become disabling if unrecognized.\nKey Concept:\nCausalgia manifests as severe pain after injury or sectioning of a peripheral sensory nerve following a diﬃcult extraction. The other names are complex regional pain syndrome and reﬂex sympathetic dystrophy syndrome.\nReference: Shafer’s Textbook of ORAL PATHOLOGY Eighth Edition page no 578"
+    "cop": 3,
+    "exp": "Complex Regional  Pain Syndrome (Causalgia, Reflex Sympathetic Dystrophy Syndrome)\nCausalgia is a term applied to severe pain which arises after injury to or sectioning of a peripheral sensory nerve. \nAlthough few reports of this condition exist in the dental literature, cases do occur after the extraction of teeth. It has readily identifiable signs and symptoms and is treatable if recognized early; however, the syndrome may become disabling if unrecognized.\nKey Concept:\nCausalgia manifests as severe pain after injury or sectioning of a peripheral sensory nerve following a diﬃcult extraction. The other names are complex regional pain syndrome and reﬂex sympathetic dystrophy syndrome.\nReference: Shafer’s Textbook of ORAL PATHOLOGY Eighth Edition page no 578",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"a peripheral sensory nerve\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f1ed725d-2a20-4bc9-99d9-ca44ac4c4d20": {
-    "cop": 4,
-    "exp": "The effects of rickets on the teeth, which included developmental abnormalities of dentin and enamel, delayed eruption, and misalignment of the teeth in the jaws."
+    "cop": 3,
+    "exp": "The effects of rickets on the teeth, which included developmental abnormalities of dentin and enamel, delayed eruption, and misalignment of the teeth in the jaws.",
+    "hint_exp": "🎯 Think of \"juvenile rickets\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8322f496-2130-4b53-b1ab-e7389cd8cf88": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"malignant hyperthermia\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b7f1c3cc-7f2a-4e37-9ad5-252e3ffd66bb": {
-    "cop": 2,
-    "exp": "Ans. is `b' i.e. HLA DR4"
+    "cop": 1,
+    "exp": "Ans. is `b' i.e. HLA DR4",
+    "hint_exp": "🧩 Your crush solved \"is\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4bf7c9a5-1bf0-4d1f-83bc-6a95828f56a5": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a33dc0bb-0f03-4fbb-ba1c-d95f84678628": {
-    "cop": 2,
-    "exp": "Widal test is a tube agglutination test for the diagnosis of typhoid. Weil- Felix reaction for the diagnosis of typhus fever , streptococcus MG agglutination test for diagnosis of primary atypical pneumonia, Paul - Bunnell test for diagnosis of infectious mononucleosis aishheterophileagglutination test. The heterophile antigen is the same or closely related antigens occurring in different species, classes or kingdoms. Reference : Anathanarayan & paniker's 9th edition, pg no:109,89 <\\p>"
+    "cop": 1,
+    "exp": "Widal test is a tube agglutination test for the diagnosis of typhoid. Weil- Felix reaction for the diagnosis of typhus fever , streptococcus MG agglutination test for diagnosis of primary atypical pneumonia, Paul - Bunnell test for diagnosis of infectious mononucleosis aishheterophileagglutination test. The heterophile antigen is the same or closely related antigens occurring in different species, classes or kingdoms. Reference : Anathanarayan & paniker's 9th edition, pg no:109,89 <\\p>",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which heterophile agglutination test\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8fd121b0-27c8-4139-ae2b-7e1586e22dac": {
-    "cop": 1,
-    "exp": "It is a straight-forward question.\nMost common site of skeletal TB is spine, and pus from the Dorsal spine can travel along intercostal neurovascular bundle in the intercostal space in chest wall to form a cold abscess."
+    "cop": 0,
+    "exp": "It is a straight-forward question.\nMost common site of skeletal TB is spine, and pus from the Dorsal spine can travel along intercostal neurovascular bundle in the intercostal space in chest wall to form a cold abscess.",
+    "hint_exp": "🎯 Think of \"chest wall\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "71c196df-0a1c-4c79-a2be-2197b1b7c2ea": {
-    "cop": 3,
-    "exp": "Ans: c (Aldosterone)Ref: Ganong, 23rd ed Pg. 357Aldosterone is the steroid that is mainly involved in water balance.AldosteroneIt increases the reabsorption of Na and excretion of K .It acts on the kidney - primarily the Principal cells of the collecting duct. Stimuli for secretion -Rennin angiotensin systemIncreased K -Endothelin -Low sodium -Standing -Stress like anxiety, surgery, trauma and hemorrhage"
+    "cop": 2,
+    "exp": "Ans: c (Aldosterone)Ref: Ganong, 23rd ed Pg. 357Aldosterone is the steroid that is mainly involved in water balance.AldosteroneIt increases the reabsorption of Na and excretion of K .It acts on the kidney - primarily the Principal cells of the collecting duct. Stimuli for secretion -Rennin angiotensin systemIncreased K -Endothelin -Low sodium -Standing -Stress like anxiety, surgery, trauma and hemorrhage",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Steroid involved water balance\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "618dff21-2a8c-4095-a7a4-42f4352e37f7": {
-    "cop": 4,
-    "exp": "Loud S1-Tachycardia Sho PR interval CHF Anemia Pheochromocytoma Thyrotoxicosis Physiological: Children /pregnancy In Mitral stenosis-Physical obstruction- | Left atrial pressure S1 becomes softer in - Later stages of MS when the leaflets are rigid and calcified After exposure to beta adrenergic receptor blockers - Long PR intervals - left ventricular contractile dysfunction"
+    "cop": 3,
+    "exp": "Loud S1-Tachycardia Sho PR interval CHF Anemia Pheochromocytoma Thyrotoxicosis Physiological: Children /pregnancy In Mitral stenosis-Physical obstruction- | Left atrial pressure S1 becomes softer in - Later stages of MS when the leaflets are rigid and calcified After exposure to beta adrenergic receptor blockers - Long PR intervals - left ventricular contractile dysfunction",
+    "hint_exp": "🧩 Your crush solved \"the following conditions\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b2a46cb7-84d3-4bcf-a6a8-06db4b5127d8": {
-    "cop": 3,
-    "exp": "Lysosomes are also called suicide bags of cell as they digest cell during starvation and release energy Lysosomal membrane resist acid distribution hence fomes residual bodies Ref:Guyton and Hall textbook of medical physiology 12th edition,page number:12,13,16"
+    "cop": 2,
+    "exp": "Lysosomes are also called suicide bags of cell as they digest cell during starvation and release energy Lysosomal membrane resist acid distribution hence fomes residual bodies Ref:Guyton and Hall textbook of medical physiology 12th edition,page number:12,13,16",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"also known as\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d2f4c319-d6bd-4b3f-8bdd-aaadf96c1347": {
-    "cop": 3,
-    "exp": "This case is an example of Burkitt's lymphoma, which may affect the tonsils or other lymphoid tissues. The translocation places the myc oncogene on chromosome 8 downstream of the very active heavy chain locus on chromosome 14, activating myc gene expression in B cells and their derivatives. The translocation is likely an aberrant form of the normal DNA rearrangements that generate unique heavy chain genes in each B cell. The translocation joins one chromosome 8 to one chromosome 14, leaving their homologues unaffected. The cause for the phenotype must therefore be trans-acting, since cis-acting effects would peain only to the translocated loci and not affect the homologous untranslocated loci. Activation of a tumor-promoting gene (oncogene) on chromosome 8 could produce an enlarged tonsil, while underactivity of immunoglobulin production due to one-half expression could decrease immune function but would not completely ablate the processes in choices a, b, d, and e. At the genetic level, trans-acting events are autosomal dominant in that one of the two homologous loci is abnormal and produces a phenotype. Mutations of cis-acting events must disrupt both homologous loci to produce phenotypes, making them autosomal recessive at the genetic level."
+    "cop": 2,
+    "exp": "This case is an example of Burkitt's lymphoma, which may affect the tonsils or other lymphoid tissues. The translocation places the myc oncogene on chromosome 8 downstream of the very active heavy chain locus on chromosome 14, activating myc gene expression in B cells and their derivatives. The translocation is likely an aberrant form of the normal DNA rearrangements that generate unique heavy chain genes in each B cell. The translocation joins one chromosome 8 to one chromosome 14, leaving their homologues unaffected. The cause for the phenotype must therefore be trans-acting, since cis-acting effects would peain only to the translocated loci and not affect the homologous untranslocated loci. Activation of a tumor-promoting gene (oncogene) on chromosome 8 could produce an enlarged tonsil, while underactivity of immunoglobulin production due to one-half expression could decrease immune function but would not completely ablate the processes in choices a, b, d, and e. At the genetic level, trans-acting events are autosomal dominant in that one of the two homologous loci is abnormal and produces a phenotype. Mutations of cis-acting events must disrupt both homologous loci to produce phenotypes, making them autosomal recessive at the genetic level.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "aab59837-52c2-46b8-a55c-4892a8ea36a8": {
-    "cop": 3,
-    "exp": "It is a destructive bone tumour believed to arise from ectopic remnants of notochord/ notochord cell rest.Its maximum incidence between 50-70 years.It is locally malignant with strong tendency to recur after excision.Predilection for sacral (50%) and cranial (40%) regions (the extreme ends of the axial skeleton); In sacrum at s4 and s5 and in cranium basisphenoid (clivus and dorsal aspect of sella)Above sacrum and below c2, chordomas are rare.Radiologically appears as a oval or lobulated well-defined purely lytic mass in midline, which may contain calcification and a soft tissue component.Recurrence rate is high but it metastasis occurs late.Chordoma at the base of skull carry best prognosis"
+    "cop": 2,
+    "exp": "It is a destructive bone tumour believed to arise from ectopic remnants of notochord/ notochord cell rest.Its maximum incidence between 50-70 years.It is locally malignant with strong tendency to recur after excision.Predilection for sacral (50%) and cranial (40%) regions (the extreme ends of the axial skeleton); In sacrum at s4 and s5 and in cranium basisphenoid (clivus and dorsal aspect of sella)Above sacrum and below c2, chordomas are rare.Radiologically appears as a oval or lobulated well-defined purely lytic mass in midline, which may contain calcification and a soft tissue component.Recurrence rate is high but it metastasis occurs late.Chordoma at the base of skull carry best prognosis",
+    "hint_exp": "🎯 Think of \"calcification\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "51b8d7f2-6e8c-48a2-9947-c9955f8e9b10": {
-    "cop": 2,
-    "exp": "Type I 5'-monodeiodinase is the enzyme responsible for the peripheral conversion of thyroxine (T4) to triiodothyronine (T3), primarily in liver and kidney.\nThis enzyme also participates in the breakdown of reverse T3 (rT3) by converting it to 3,3'-diiodothyro­nine. Decreased activity of type I 5'-monodeiodinase will therefore decrease plasma levels of T3 and increase plasma levels of rT3 (by decreasing its breakdown). Type II 5'-monodeiodinase is present in the anterior pituitary and central nervous system. Conversion of T 4 to T 3 within the anterior pituitary by this enzyme is responsible for normal feedback inhibition of thyroid­ stimulating hormone (TSH) secretion. With decreased type I 5'-monodeiodinase activity, plasma levels ofT4 and TSH usually stay within normal limits because the type II enzyme continues to insure normal feedback inhibition by anterior pituitary T 3."
+    "cop": 1,
+    "exp": "Type I 5'-monodeiodinase is the enzyme responsible for the peripheral conversion of thyroxine (T4) to triiodothyronine (T3), primarily in liver and kidney.\nThis enzyme also participates in the breakdown of reverse T3 (rT3) by converting it to 3,3'-diiodothyro­nine. Decreased activity of type I 5'-monodeiodinase will therefore decrease plasma levels of T3 and increase plasma levels of rT3 (by decreasing its breakdown). Type II 5'-monodeiodinase is present in the anterior pituitary and central nervous system. Conversion of T 4 to T 3 within the anterior pituitary by this enzyme is responsible for normal feedback inhibition of thyroid­ stimulating hormone (TSH) secretion. With decreased type I 5'-monodeiodinase activity, plasma levels ofT4 and TSH usually stay within normal limits because the type II enzyme continues to insure normal feedback inhibition by anterior pituitary T 3.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Decreased activity type monodeiodinase\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d7c7ec34-a948-4e30-a22a-917471e41bc9": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"HACEK group of bacteria\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a55c41be-322b-449f-b8a2-efd5621dde71": {
-    "cop": 4,
-    "exp": "Ans. D: Both subcutaneous and intramuscular route A depot injection is an injection, usually subcutaneous or intramuscular, of a pharmacological agent which releases its active compound in a consistent way over a long period of time. Depot injections are usually either solid or oil-based. Depot injections may be available as ceain forms of a drug, such as decanoate salts or esters. Examples of depot injections include Depo Provera and haloperidol decanoate. The advantages of using a long-acting depot injection include increased medication compliance due to reduction in the frequency of dosing, as well as more consistent serum concentrations. A significant disadvantage is that the drug is not immediately reversible, since it is slowly released."
+    "cop": 3,
+    "exp": "Ans. D: Both subcutaneous and intramuscular route A depot injection is an injection, usually subcutaneous or intramuscular, of a pharmacological agent which releases its active compound in a consistent way over a long period of time. Depot injections are usually either solid or oil-based. Depot injections may be available as ceain forms of a drug, such as decanoate salts or esters. Examples of depot injections include Depo Provera and haloperidol decanoate. The advantages of using a long-acting depot injection include increased medication compliance due to reduction in the frequency of dosing, as well as more consistent serum concentrations. A significant disadvantage is that the drug is not immediately reversible, since it is slowly released.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Depot progestins administered which\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "30a6d968-9dce-437f-bcae-8339a0d0fc4a": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Kyanasur Forest disease"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Kyanasur Forest disease",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Mites vectors following diseases\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c916dd34-37a4-443b-a3d9-cb709260c5dc": {
-    "cop": 3,
-    "exp": "Cow&;s milk and human milk are dissimilar in many aspects. The differences may be seen as great as the difference between brain and brawn.Protein: Human milk contains low protein, 3times less than cows milk. Human milk contains more cysteine, essential for prematures and less methionine than cows milk. Human milk is viually a living fluidFats: Mothers milk is especially rich in fats, which represent between 30-50 percent of total energy value. Carbohydrates: Human milk contains more lactose than most other milks. It may be especially useful for growing brainsVitamins and Minerals: Human milk is rich in Vitamin D, C, A etcAnother factor which is supposed to be deficient in human milk is iron but again recent work has shown that iron contained in breast milk has a high level of bioavailability.Ref: Park; 23rd ed; Pg 540"
+    "cop": 2,
+    "exp": "Cow&;s milk and human milk are dissimilar in many aspects. The differences may be seen as great as the difference between brain and brawn.Protein: Human milk contains low protein, 3times less than cows milk. Human milk contains more cysteine, essential for prematures and less methionine than cows milk. Human milk is viually a living fluidFats: Mothers milk is especially rich in fats, which represent between 30-50 percent of total energy value. Carbohydrates: Human milk contains more lactose than most other milks. It may be especially useful for growing brainsVitamins and Minerals: Human milk is rich in Vitamin D, C, A etcAnother factor which is supposed to be deficient in human milk is iron but again recent work has shown that iron contained in breast milk has a high level of bioavailability.Ref: Park; 23rd ed; Pg 540",
+    "hint_exp": "🎯 Think of \"Compared milk human milk\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1d03cef3-bb65-4b4d-9565-a4dd9daa1758": {
-    "cop": 3,
-    "exp": "Hepatocellular damageExamplesMicrovascular fatty changeTetracycline, salicylates, yellow phosphorus, ethanolMacrovascular fatty change Ethanol, methotrexate, amiodaroneCentrilobular necrosisBromobenzene , CCL4,acetaminophen,halothane ,rifampinDiffuse or massive necrosisHalothane, isoniazid, acetaminophen, methyldopa, trinitrotoluene, Amanita phalloides toxinHepatitis Methyldopa, isoniazid, nitrofurantoin, phenytoin, oxyphenisatinFibrosis-cirrhosis Ethanol, methotrexate, amiodarone, most drugs that cause chronic hepatitisGranuloma formation Sulfonamides, methyldopa, quinidine, phenylbutazone, hydralazine, allopurinolCholestasis Chlorpromazine, anabolic steroids, erythromycin, estolate, OCP, organic arsenicalsPeripheral necrosisPhosphorus (Refer: Robbins & Cotran's - Pathologic Basis of Disease, SAE, 1st edition, Vol II-pg no: 840 &841)"
+    "cop": 2,
+    "exp": "Hepatocellular damageExamplesMicrovascular fatty changeTetracycline, salicylates, yellow phosphorus, ethanolMacrovascular fatty change Ethanol, methotrexate, amiodaroneCentrilobular necrosisBromobenzene , CCL4,acetaminophen,halothane ,rifampinDiffuse or massive necrosisHalothane, isoniazid, acetaminophen, methyldopa, trinitrotoluene, Amanita phalloides toxinHepatitis Methyldopa, isoniazid, nitrofurantoin, phenytoin, oxyphenisatinFibrosis-cirrhosis Ethanol, methotrexate, amiodarone, most drugs that cause chronic hepatitisGranuloma formation Sulfonamides, methyldopa, quinidine, phenylbutazone, hydralazine, allopurinolCholestasis Chlorpromazine, anabolic steroids, erythromycin, estolate, OCP, organic arsenicalsPeripheral necrosisPhosphorus (Refer: Robbins & Cotran's - Pathologic Basis of Disease, SAE, 1st edition, Vol II-pg no: 840 &841)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of liver\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "84a971bc-b5a3-4dd3-81df-b7cdd27f7281": {
-    "cop": 3,
-    "exp": "Synthesis and diversity of immunoglobulin in membrane bound or secretory form is determined by differential/ alternative RNA processing of heavy, kappa & lambda light chains & immunoglobulin gene rearrangements."
+    "cop": 2,
+    "exp": "Synthesis and diversity of immunoglobulin in membrane bound or secretory form is determined by differential/ alternative RNA processing of heavy, kappa & lambda light chains & immunoglobulin gene rearrangements.",
+    "hint_exp": "🧩 Your crush solved \"membrane bound or get secreted\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

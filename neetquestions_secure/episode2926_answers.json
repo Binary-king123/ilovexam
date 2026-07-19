@@ -1,202 +1,252 @@
 {
   "f92503c0-4a7f-482c-8291-5d9c30e40178": {
-    "cop": 4,
-    "exp": "A i.e. Petecheal haemorrhages; B i.e. Closed fractures of femur, C i.e. Aggregation of chylomicrons"
+    "cop": 3,
+    "exp": "A i.e. Petecheal haemorrhages; B i.e. Closed fractures of femur, C i.e. Aggregation of chylomicrons",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"embolism characterized\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e5d30089-77fd-47aa-a098-e8e868054db2": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Ampicillin given virus infection\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2c2981e6-bdf8-426a-b6c6-aaa684f53ad4": {
-    "cop": 3,
-    "exp": "Prevalence of tuberculosis is the percentage of individuals who show a positive reaction to the standard tuberculin test.Prevalence represents a cumulative experience of a population to recent and remote infection with Mycobacterium tuberculosis.limitations are high coverage of BCG vaccination. since most of the vaccinees become positive reactors to the tuberculin test and cross-sensitivity to atypical mycobacteriae.Park 23e pg: 172"
+    "cop": 2,
+    "exp": "Prevalence of tuberculosis is the percentage of individuals who show a positive reaction to the standard tuberculin test.Prevalence represents a cumulative experience of a population to recent and remote infection with Mycobacterium tuberculosis.limitations are high coverage of BCG vaccination. since most of the vaccinees become positive reactors to the tuberculin test and cross-sensitivity to atypical mycobacteriae.Park 23e pg: 172",
+    "hint_exp": "🎯 Think of \"TB infection in a community\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ab343574-8149-4f5a-9244-54ded4a3858b": {
-    "cop": 1,
-    "exp": "Reactive (spondylo)ahritis (ReA) is a 'reaction' to a number of bacterial triggers with clinical features in keeping with all SpA conditions. The known triggers are Chlamydia, Campylobacter, Salmonella, Shigella and Yersinia. Notably, non-SpA-related reactive ahritis can occur following infection with many viruses, Mycoplasma, Borrelia, streptococci and mycobacteria, including M. leprae, which causes leprosy (Hansen's disease); however, the 'reaction' in these instances consists typically of myoahralgias, is not associated with HLA-B27 and is generally not chronic. The ahritis associated with rheumatic fever is also an example of a reactive ahritis that is not associated with HLA-B27.Sexually acquired reactive ahritis (SARA) is predominantly a disease of young men, with a malepreponderance of 15 : 1. This may reflect a difficulty in diagnosing the condition in young women, in whom Chlamydia infection is often asymptomatic and is hard to detect in practical terms. Between 1% and 2% of patients with non-specific urethritis seen at genitourinary medicine clinics have SARA. The syndrome of chlamydial urethritis, conjunctivitis and reactive ahritis was formerly known as Reiter's disease. Clinical features The onset is typically acute, with an inflammatory enthesitis, oligoahritis and/or spinal inflammation. Lower limb joints and entheses are predominantly affected. In all types of ReA, there may be considerable systemic disturbance, with fever and weight loss. Achilles inseional enthesitis/tendonitis or plantar fasciitis may also be present. The first attack of ahritis is usually self-limiting, but recurrent or chronic ahritis can develop and about 10% still have active disease 20 years after the initial presentation. Low back pain and stiffness due to enthesitis and osteitis are common and 15-20% of patients develop sacroiliitis. Many extra-aicular features in ReA involve the skin, especially in SARA: * circinate balanitis, which stas as vesicles on the coronal margin of the prepuce and glans penis, later rupturing to form superficial erosions with minimal surrounding erythema, some coalescing to give a circular pattern * keratoderma blennorrhagica, which begins as discrete waxy, yellow-brown vesico-papules with desquamating margins, occasionally coalescing to form large crusty plaques on the palms and soles of the feet * pustular psoriasis * nail dystrophy with subungual hyperkeratosis * mouth ulcers * conjunctivitis * uveitis, which is rare with the first attack but arises in 30% of patients with recurring or chronic ahritis. Other complications in ReA are very rare but include aoic incompetence, conduction defects, pleuro-pericarditis, peripheral neuropathy, seizures and meningoencephalitis . Ref - Davidsons 23e p1031"
+    "cop": 0,
+    "exp": "Reactive (spondylo)ahritis (ReA) is a 'reaction' to a number of bacterial triggers with clinical features in keeping with all SpA conditions. The known triggers are Chlamydia, Campylobacter, Salmonella, Shigella and Yersinia. Notably, non-SpA-related reactive ahritis can occur following infection with many viruses, Mycoplasma, Borrelia, streptococci and mycobacteria, including M. leprae, which causes leprosy (Hansen's disease); however, the 'reaction' in these instances consists typically of myoahralgias, is not associated with HLA-B27 and is generally not chronic. The ahritis associated with rheumatic fever is also an example of a reactive ahritis that is not associated with HLA-B27.Sexually acquired reactive ahritis (SARA) is predominantly a disease of young men, with a malepreponderance of 15 : 1. This may reflect a difficulty in diagnosing the condition in young women, in whom Chlamydia infection is often asymptomatic and is hard to detect in practical terms. Between 1% and 2% of patients with non-specific urethritis seen at genitourinary medicine clinics have SARA. The syndrome of chlamydial urethritis, conjunctivitis and reactive ahritis was formerly known as Reiter's disease. Clinical features The onset is typically acute, with an inflammatory enthesitis, oligoahritis and/or spinal inflammation. Lower limb joints and entheses are predominantly affected. In all types of ReA, there may be considerable systemic disturbance, with fever and weight loss. Achilles inseional enthesitis/tendonitis or plantar fasciitis may also be present. The first attack of ahritis is usually self-limiting, but recurrent or chronic ahritis can develop and about 10% still have active disease 20 years after the initial presentation. Low back pain and stiffness due to enthesitis and osteitis are common and 15-20% of patients develop sacroiliitis. Many extra-aicular features in ReA involve the skin, especially in SARA: * circinate balanitis, which stas as vesicles on the coronal margin of the prepuce and glans penis, later rupturing to form superficial erosions with minimal surrounding erythema, some coalescing to give a circular pattern * keratoderma blennorrhagica, which begins as discrete waxy, yellow-brown vesico-papules with desquamating margins, occasionally coalescing to form large crusty plaques on the palms and soles of the feet * pustular psoriasis * nail dystrophy with subungual hyperkeratosis * mouth ulcers * conjunctivitis * uveitis, which is rare with the first attack but arises in 30% of patients with recurring or chronic ahritis. Other complications in ReA are very rare but include aoic incompetence, conduction defects, pleuro-pericarditis, peripheral neuropathy, seizures and meningoencephalitis . Ref - Davidsons 23e p1031",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"young back from leisure\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7d4f1a80-c78e-4adc-93ec-a2d93733411e": {
-    "cop": 4,
-    "exp": "Major basic protein is a 117 amino acid enzyme with potent activity against helminths, bacteria and mammalian cells. It is released by eosinophils. It is the enzyme associated with immune hypersensitivity reactions. It also stimulates the release of histamine from mast cells and basophils, activates neutrophils and alveolar macrophages, and is involved in epithelial cell damage and bronchospasm in asthma."
+    "cop": 3,
+    "exp": "Major basic protein is a 117 amino acid enzyme with potent activity against helminths, bacteria and mammalian cells. It is released by eosinophils. It is the enzyme associated with immune hypersensitivity reactions. It also stimulates the release of histamine from mast cells and basophils, activates neutrophils and alveolar macrophages, and is involved in epithelial cell damage and bronchospasm in asthma.",
+    "hint_exp": "🧩 Your crush solved \"Which blood cells secrete\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "70d8cee1-a026-4255-a229-e556ce8bc02b": {
-    "cop": 3,
-    "exp": "- There is a slight increase in propoion of ectopic pregnancy post-failure of IUCD. The failure is highest with progesterone IUD. Progestase intrauterine device: - Rate of progesteron release = 65 mcg/day - Total progesteron content = 38mg - Shelf life = 1 to yrs - MC side effect is bleeding - 2nd MC side effect - pain"
+    "cop": 2,
+    "exp": "- There is a slight increase in propoion of ectopic pregnancy post-failure of IUCD. The failure is highest with progesterone IUD. Progestase intrauterine device: - Rate of progesteron release = 65 mcg/day - Total progesteron content = 38mg - Shelf life = 1 to yrs - MC side effect is bleeding - 2nd MC side effect - pain",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"highest incidence ectopic pregnancy\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "36681951-472e-4976-a1c6-fe71b574104a": {
-    "cop": 3,
-    "exp": "Genu of internal capsule is not a part of auditory pathway. The fibres from medial geniculate body, pass through the posterior limb of internal capsule to reach auditory cortex."
+    "cop": 2,
+    "exp": "Genu of internal capsule is not a part of auditory pathway. The fibres from medial geniculate body, pass through the posterior limb of internal capsule to reach auditory cortex.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "20e4a386-0646-4e0d-a9eb-74d390f29a47": {
-    "cop": 4,
-    "exp": "Fat necrosis found in breast(traumatic fat necrosis), fat deposits throughout peritonial cavity(omentum, retroperitoneum).(Ref: Textbook of Pathology HARSH MOHAN 6th Edition page no.45)"
+    "cop": 3,
+    "exp": "Fat necrosis found in breast(traumatic fat necrosis), fat deposits throughout peritonial cavity(omentum, retroperitoneum).(Ref: Textbook of Pathology HARSH MOHAN 6th Edition page no.45)",
+    "hint_exp": "🎯 Think of \"is common in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e1def4ab-99ef-4058-b30a-49f2c17fa296": {
-    "cop": 4,
-    "exp": "The non- operative or conservative managementof spleenic trauma is most attractive if diagnosis has been made with an abdominal scan, the patient is hemodynamically stable and no other signs of abdominal injury are present. Reference: Greenfield&;s Surgery- Scientific Principles and Practices, 5th edition, page no- 393"
+    "cop": 3,
+    "exp": "The non- operative or conservative managementof spleenic trauma is most attractive if diagnosis has been made with an abdominal scan, the patient is hemodynamically stable and no other signs of abdominal injury are present. Reference: Greenfield&;s Surgery- Scientific Principles and Practices, 5th edition, page no- 393",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year patient presented with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3ddd655e-fda3-4f89-91f8-4fc59bdee7d2": {
-    "cop": 1,
-    "exp": "Protamine sulfate is an antidote of heparin overdose whereas vitamin K is used as an antidote for warfarin toxicity."
+    "cop": 0,
+    "exp": "Protamine sulfate is an antidote of heparin overdose whereas vitamin K is used as an antidote for warfarin toxicity.",
+    "hint_exp": "🧩 Your crush solved \"heparin overdose\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "21834622-7af7-4bca-a1be-4d42ed31877f": {
-    "cop": 2,
-    "exp": "Management of cow milk protein allergy is always in order. If child is allergic to any item, next item is used in management.\n             Cow milk\n                   ↓\n         Soy based diet\n                   ↓\nPartial/extensively hydrolysed diet\n                   ↓\n  Amino acid based formula"
+    "cop": 1,
+    "exp": "Management of cow milk protein allergy is always in order. If child is allergic to any item, next item is used in management.\n             Cow milk\n                   ↓\n         Soy based diet\n                   ↓\nPartial/extensively hydrolysed diet\n                   ↓\n  Amino acid based formula",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d127cf2c-677b-420c-9024-81afd00899c2": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"would reveal\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8f127ef2-8260-4fa8-91bb-e8262c8a2afc": {
-    "cop": 2,
-    "exp": "Ans. is b i.e. Nifedipine"
+    "cop": 1,
+    "exp": "Ans. is b i.e. Nifedipine",
+    "hint_exp": "🎯 Think of \"Drug given reduce uterine\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8fb5b703-6d9a-4756-8cd8-b47c60791136": {
-    "cop": 2,
-    "exp": "Canal wall down mastoidectomy is done in cases of attic cholesteatoma. In this procedure mastoid cavity is left open into the external auditory canal. Since the patient in the question is suffering from attic cholesteatoma and secondary complications canal wall down mastoidectomy would be the treatment of choice. Other indications of this procedure includes extensive chronic otits media, formation of a new attic retraction pocket with disease following a previously performed canal wall up procedure, lateral semicircular canal fistula in the only hearing ear."
+    "cop": 1,
+    "exp": "Canal wall down mastoidectomy is done in cases of attic cholesteatoma. In this procedure mastoid cavity is left open into the external auditory canal. Since the patient in the question is suffering from attic cholesteatoma and secondary complications canal wall down mastoidectomy would be the treatment of choice. Other indications of this procedure includes extensive chronic otits media, formation of a new attic retraction pocket with disease following a previously performed canal wall up procedure, lateral semicircular canal fistula in the only hearing ear.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"choice\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "32f55aab-3255-4dfc-b0e9-cbe1e4d9a5b5": {
-    "cop": 1,
-    "exp": "Ans. a. Amnestic syndromeIn amnestic syndrome, degenerative changes in the brain are seen, which is not a pa of normal ageing. `Amnestic SyndromeThe amnestic disorders are characterized by problems with memory function.Some people experience difficulty recalling events that happened or facts that they learned before the onset of the amnestic disorder. This type of amnesia is called retrograde amnesia.Other people experience the inability to learn new facts or retain new memories, which is called anterograde amnesia.People with amnestic disorders do not usually forget all of their personal history and their identity, although memory loss of this degree of severity occurs in rare instances in patient"
+    "cop": 0,
+    "exp": "Ans. a. Amnestic syndromeIn amnestic syndrome, degenerative changes in the brain are seen, which is not a pa of normal ageing. `Amnestic SyndromeThe amnestic disorders are characterized by problems with memory function.Some people experience difficulty recalling events that happened or facts that they learned before the onset of the amnestic disorder. This type of amnesia is called retrograde amnesia.Other people experience the inability to learn new facts or retain new memories, which is called anterograde amnesia.People with amnestic disorders do not usually forget all of their personal history and their identity, although memory loss of this degree of severity occurs in rare instances in patient",
+    "hint_exp": "🧩 Your crush solved \"the brain\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3647db32-f6dc-4978-ad0f-47e96b03f81a": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"carious lesions because they\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "85f2694c-d91e-4bc2-820c-56e3e3203cec": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Pramlinitide o Pramlinide is the only approved drug, beside insulin, to be used in both type-I and type-2 DM."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Pramlinitide o Pramlinide is the only approved drug, beside insulin, to be used in both type-I and type-2 DM.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which antidiabetic drug used\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f1c06c1a-ea44-46a6-9e8d-c4f86e914e65": {
-    "cop": 2,
-    "exp": "Ans. (b) Pumps sodium out of cell* Digitalis is one of the cardiac glycosides which increases myocardial contractility and output in a hypodynamic heart without a proportionate increase in oxygen consumption.* Compounds in cardiac glycosides group include: digoxin, digitoxin, strophanthin, ouabain etc.* MOA of Digitalis: binds to Na+K+ATPase of myocardial fibres and inhibits this enzyme. This leads to progressive accumulation of Na+ intracellularly which indirectly results in intracellular Calcium accumulation.* ACTION:# Digitalis increases the force of contraction and decreases the heart rate# It also decreases the AV conduction, hence contraindication in WPW syndrome.# Causes diuresis in CHF patients# Causes decrease in peripheral resistance in CHF patients (because of withdrawal of reflex sympathetic overactivity)"
+    "cop": 1,
+    "exp": "Ans. (b) Pumps sodium out of cell* Digitalis is one of the cardiac glycosides which increases myocardial contractility and output in a hypodynamic heart without a proportionate increase in oxygen consumption.* Compounds in cardiac glycosides group include: digoxin, digitoxin, strophanthin, ouabain etc.* MOA of Digitalis: binds to Na+K+ATPase of myocardial fibres and inhibits this enzyme. This leads to progressive accumulation of Na+ intracellularly which indirectly results in intracellular Calcium accumulation.* ACTION:# Digitalis increases the force of contraction and decreases the heart rate# It also decreases the AV conduction, hence contraindication in WPW syndrome.# Causes diuresis in CHF patients# Causes decrease in peripheral resistance in CHF patients (because of withdrawal of reflex sympathetic overactivity)",
+    "hint_exp": "🎯 Think of \"true statement about digitalis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1449f1d4-dda9-4308-af38-dd255b481cf1": {
-    "cop": 3,
-    "exp": "Cystometry refers to the process of studying the relationship between the intravesical volume and pressure, the Cystometrogram refers to a graphical record of this relationship. Normal cystometrogram shows three phases of filling: Phase Ia: It is the initial phase of filling in which pressure rises from 0 to 10 cm H2O, when about 50 mL of fluid is collected in the bladder Phase Ib: It is the phase of plateau which lasts till the bladder volume is 400 mL. The first urge to void is felt at a bladder volume of about 150 mL, and a marked sense of fullness at about 400mL. The flatness of segment Ib is a manifestation of the law of Laplace. Phase II: This phase stas beyond 400 mL volume when the pressure begins to rise markedly, triggering the micturition reflex"
+    "cop": 2,
+    "exp": "Cystometry refers to the process of studying the relationship between the intravesical volume and pressure, the Cystometrogram refers to a graphical record of this relationship. Normal cystometrogram shows three phases of filling: Phase Ia: It is the initial phase of filling in which pressure rises from 0 to 10 cm H2O, when about 50 mL of fluid is collected in the bladder Phase Ib: It is the phase of plateau which lasts till the bladder volume is 400 mL. The first urge to void is felt at a bladder volume of about 150 mL, and a marked sense of fullness at about 400mL. The flatness of segment Ib is a manifestation of the law of Laplace. Phase II: This phase stas beyond 400 mL volume when the pressure begins to rise markedly, triggering the micturition reflex",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"first urge void felt\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "291afa26-a462-49e2-b99d-ba6ff5ee3b6f": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"treated by\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a4434c14-86f2-41e2-b43f-66fc2905756a": {
-    "cop": 4,
-    "exp": "This is a case of Wilm's tumour. Wilms tumor is often associated with mutations in the WT1 gene, CTNNB1 gene, or AMER1 gene CT image shows a mass in the right kidney. Gross nephrectomy specimen shows a Wilms tumor pushing the normal renal parenchyma to the side. HPE image shows the characteristic three components:* Malignant small round (blue) cells ~ 2x the size of resting lymphocyte (blastema component) Tubular structures/rosettes (epithelial component) Loose paucicellular stroma with spindle cells (stromal component) The median age at diagnosis of this kidney tumor (see the image below) is approximately 3.5 years. Clinical findings include the following: Asymptomatic abdominal mass (in 80% of children at presentation) Abdominal pain or hematuria (25%) Urinary tract infection and varicocele (less common) Hypeension, gross hematuria, and fever (5-30%) Hypotension, anemia, and fever (from hemorrhage into the tumor; uncommon) Respiratory symptoms related to lung metastases (in patients with advanced disease; rare)"
+    "cop": 3,
+    "exp": "This is a case of Wilm's tumour. Wilms tumor is often associated with mutations in the WT1 gene, CTNNB1 gene, or AMER1 gene CT image shows a mass in the right kidney. Gross nephrectomy specimen shows a Wilms tumor pushing the normal renal parenchyma to the side. HPE image shows the characteristic three components:* Malignant small round (blue) cells ~ 2x the size of resting lymphocyte (blastema component) Tubular structures/rosettes (epithelial component) Loose paucicellular stroma with spindle cells (stromal component) The median age at diagnosis of this kidney tumor (see the image below) is approximately 3.5 years. Clinical findings include the following: Asymptomatic abdominal mass (in 80% of children at presentation) Abdominal pain or hematuria (25%) Urinary tract infection and varicocele (less common) Hypeension, gross hematuria, and fever (5-30%) Hypotension, anemia, and fever (from hemorrhage into the tumor; uncommon) Respiratory symptoms related to lung metastases (in patients with advanced disease; rare)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year child presented with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "56bfa9d6-7c73-41df-b41b-eab9901a3a1b": {
-    "cop": 4,
-    "exp": "The Natural history of disease is best established by coho studies. COHO STUDY: Forward looking study Prospective study Cause to effect study Risk factor to disease study Exposure to outcome study Follow-up study Incidence study"
+    "cop": 3,
+    "exp": "The Natural history of disease is best established by coho studies. COHO STUDY: Forward looking study Prospective study Cause to effect study Risk factor to disease study Exposure to outcome study Follow-up study Incidence study",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"disease\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f9b27d54-9546-46bb-a051-4235401ae7e1": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Probenecid interacts with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c8f5da00-b1d6-47b1-894d-244cc2c400b4": {
-    "cop": 2,
-    "exp": "Sideropenic dysphagia or plummer vinson syndrome has post cricoid webs. Triad is IDA, chelitis and koilonychia."
+    "cop": 1,
+    "exp": "Sideropenic dysphagia or plummer vinson syndrome has post cricoid webs. Triad is IDA, chelitis and koilonychia.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "33c264e5-a090-4d92-b9e5-d0eb18d9c765": {
-    "cop": 1,
-    "exp": "Ans. A. Competitive inhibitionCompetitive inhibition --Km increases and Vmax remains the same.Noncompetitive inhibition --Km remains the same and Vmax decreasesUncompetitive inhibition -- Both Km and Vmax decreases."
+    "cop": 0,
+    "exp": "Ans. A. Competitive inhibitionCompetitive inhibition --Km increases and Vmax remains the same.Noncompetitive inhibition --Km remains the same and Vmax decreasesUncompetitive inhibition -- Both Km and Vmax decreases.",
+    "hint_exp": "🧩 Your crush solved \"the type of enzyme inhibition\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3fb862ba-826e-48d0-8ed2-9467a5e7ff00": {
-    "cop": 1,
-    "exp": "Mass density The essential physics of medical imaging By Jerrold T. Bushberg 2/e p3.56 writes? \"What do CT numbers correspond to physically in the patient? CT images are produced with a highly filtered, high-kV x-ray beam, with an average energy of about 75 keV. At this energy in muscle tissue, about 91% of x-ray interactions are Comptom scatter. For .fat and hone, Compton scattering interactions are 94% and 74%, respectively. Therefore, CT numbers and CT images derive their contrast mainly .from the physical propeies of tissue that influence Compton scatter. Density (g/cubic cm) is a very impoant discriminating propey of tissue, and the linear attenuation coefficient (p) tracks linearly with density. Other than physical density, the Compton scatter cross section depends on the electron density in tissue: Electron density = NZ/A where N is Avogadro's number (a constant) Z is the atomic number, A is the atomic mass The main constituents of soft tissue are hydrogen (Z = 1, A = 1), carbon (Z = 6, A = 12), nitrogen (Z = 7, A = 14), and oxygen (Z = 8, A = 16). Carbon, nitrogen, and oxygen all have the WA ratio of 0.5, so their electron densities are the same. Because the Z/A ratio .for hydrogen is 1.0, the relative abundance of hydrogen in a tissue has some influence on CT number. Hydrogenous tissue such as fat is well visualized on CT Neveheless, density (g/cubic cm) plays the dominant role in forming contrast in medical CT.\" \"The difference in electron density of tissues depends upon physical density. Therefore, the soft tissue contrast achieved in an image is primarily determined by the relative physical densities of the structures, not by the relative differences in atomic numbers.\"- Neuroimaging By Robe A. Zimmerman, Wendell A. Gibby, Raymond F. Carmody P5 CT is a tomographic imaging technique that generates cross-sectional images in the axial plane. The basic concept of x-ray CT is simple. By looking at an object from multiple directions a three dimensional representation of that object can be formed. A thin beam of x-rays is passed through the body from multiple different projections. When an x-ray beam passes through the body, there is a logarithmic attenuation of its intensity over distance. A measurement of the intensity of the exiting beam is known as the linear attenuation coefficient when the attenuator thickness is 1 cm. The linear attenuation coefficient is related to the absorption of a given material both photoelectric interaction and Comptom scattering interactions. This, of course, depends upon the energy of the x-ray beam and the type of material being irradiated. CT images are maps of the relative linear attenuation coefficient of tissues. The relative attenuation coefficient is normally expressed in Hounsfield units (HU), also known as CT numbers (Named in honor of the inventor of CT, Geoffrey Hounsfield). The HU of material Xis HU = 1000 X (14-14)/1.1.,,., where x, is the attenuation coefficient of the material X, and ix,. is the attenuation coefficient of water. By definition, the HU value for water is always zero. HU value for air is -1000 ( minus 1000) HU value for coical bone is 1000"
+    "cop": 0,
+    "exp": "Mass density The essential physics of medical imaging By Jerrold T. Bushberg 2/e p3.56 writes? \"What do CT numbers correspond to physically in the patient? CT images are produced with a highly filtered, high-kV x-ray beam, with an average energy of about 75 keV. At this energy in muscle tissue, about 91% of x-ray interactions are Comptom scatter. For .fat and hone, Compton scattering interactions are 94% and 74%, respectively. Therefore, CT numbers and CT images derive their contrast mainly .from the physical propeies of tissue that influence Compton scatter. Density (g/cubic cm) is a very impoant discriminating propey of tissue, and the linear attenuation coefficient (p) tracks linearly with density. Other than physical density, the Compton scatter cross section depends on the electron density in tissue: Electron density = NZ/A where N is Avogadro's number (a constant) Z is the atomic number, A is the atomic mass The main constituents of soft tissue are hydrogen (Z = 1, A = 1), carbon (Z = 6, A = 12), nitrogen (Z = 7, A = 14), and oxygen (Z = 8, A = 16). Carbon, nitrogen, and oxygen all have the WA ratio of 0.5, so their electron densities are the same. Because the Z/A ratio .for hydrogen is 1.0, the relative abundance of hydrogen in a tissue has some influence on CT number. Hydrogenous tissue such as fat is well visualized on CT Neveheless, density (g/cubic cm) plays the dominant role in forming contrast in medical CT.\" \"The difference in electron density of tissues depends upon physical density. Therefore, the soft tissue contrast achieved in an image is primarily determined by the relative physical densities of the structures, not by the relative differences in atomic numbers.\"- Neuroimaging By Robe A. Zimmerman, Wendell A. Gibby, Raymond F. Carmody P5 CT is a tomographic imaging technique that generates cross-sectional images in the axial plane. The basic concept of x-ray CT is simple. By looking at an object from multiple directions a three dimensional representation of that object can be formed. A thin beam of x-rays is passed through the body from multiple different projections. When an x-ray beam passes through the body, there is a logarithmic attenuation of its intensity over distance. A measurement of the intensity of the exiting beam is known as the linear attenuation coefficient when the attenuator thickness is 1 cm. The linear attenuation coefficient is related to the absorption of a given material both photoelectric interaction and Comptom scattering interactions. This, of course, depends upon the energy of the x-ray beam and the type of material being irradiated. CT images are maps of the relative linear attenuation coefficient of tissues. The relative attenuation coefficient is normally expressed in Hounsfield units (HU), also known as CT numbers (Named in honor of the inventor of CT, Geoffrey Hounsfield). The HU of material Xis HU = 1000 X (14-14)/1.1.,,., where x, is the attenuation coefficient of the material X, and ix,. is the attenuation coefficient of water. By definition, the HU value for water is always zero. HU value for air is -1000 ( minus 1000) HU value for coical bone is 1000",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Hounsfield numbers depend upon\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c8aef18c-9f13-4479-b1c6-42fbc1497b80": {
-    "cop": 4,
-    "exp": "Ans. (d) Whole bodyRef. Molecular anatomic imaging: PET-CT and Spect- Ct integrated Modality imaging by Gustav konrad von schulthessch 6"
+    "cop": 3,
+    "exp": "Ans. (d) Whole bodyRef. Molecular anatomic imaging: PET-CT and Spect- Ct integrated Modality imaging by Gustav konrad von schulthessch 6",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"much area covered spiral\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "929c5117-cedb-47b9-8130-3fad0933a8a8": {
-    "cop": 2,
-    "exp": "An excess of cholesterol relative to bile acids and phospholipids allows cholesterol to form crystals and such bile is called lithogenic or supersaturated bile Lithogenic bile Increased Biliary cholesterol Obesity Cholesterol rich diet Cholesterol therapy Decreased Bile Acids Primary biliary cirrhosis OCP's Mutation of CYP7A1 gene Impaired enterohepatic circulation of bile acids : Ileal disease or resection, cholestyramine or colestipol(bile acid sequestrants) Decreased biliary Lecithin MDR-3 gene mutation leads to defective Lecithin secretion inBile Ref : Sabiston 20th edition Pgno :1492"
+    "cop": 1,
+    "exp": "An excess of cholesterol relative to bile acids and phospholipids allows cholesterol to form crystals and such bile is called lithogenic or supersaturated bile Lithogenic bile Increased Biliary cholesterol Obesity Cholesterol rich diet Cholesterol therapy Decreased Bile Acids Primary biliary cirrhosis OCP's Mutation of CYP7A1 gene Impaired enterohepatic circulation of bile acids : Ileal disease or resection, cholestyramine or colestipol(bile acid sequestrants) Decreased biliary Lecithin MDR-3 gene mutation leads to defective Lecithin secretion inBile Ref : Sabiston 20th edition Pgno :1492",
+    "hint_exp": "🎯 Think of \"Lithogenic bile following propeies\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3033a117-2395-4c78-bacb-88f13ecb0e63": {
-    "cop": 1,
-    "exp": "Penicillins and cephalosporins are called beta-Iactam drugs because of the importance of the intact BETA-lactam ring for antimicrobial activity. -Lac­tamases inactivate these drugs by breaking the single bond in their BETA-lactam ring. BETA-Lactamases are coded for by either a transferable plasmid or by the genome of the organism. Plasmids are extrachromosomal genetic elements that may be transferred among unrelated bacteria."
+    "cop": 0,
+    "exp": "Penicillins and cephalosporins are called beta-Iactam drugs because of the importance of the intact BETA-lactam ring for antimicrobial activity. -Lac­tamases inactivate these drugs by breaking the single bond in their BETA-lactam ring. BETA-Lactamases are coded for by either a transferable plasmid or by the genome of the organism. Plasmids are extrachromosomal genetic elements that may be transferred among unrelated bacteria.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"beta Lactamases cause resistance\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "84a572c0-5273-483c-a839-de493af0afcb": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Acetazolamide Carbonic anhydrase inhibitors act by a non-competitive, reversible inhibition of the enzyme carbonic anhydrase."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Acetazolamide Carbonic anhydrase inhibitors act by a non-competitive, reversible inhibition of the enzyme carbonic anhydrase.",
+    "hint_exp": "🧩 Your crush solved \"carbonic anhydrase\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "30ffa370-7730-4190-b01e-0ac90020ddf4": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e.. Dentition o Fluoride helps in dentition and reduces tooth decay,o Flourine is often called a two edged sword i -i) Excess intake -Causes Endemic fluorosisii) Inadequate-Causes dental caries"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e.. Dentition o Fluoride helps in dentition and reduces tooth decay,o Flourine is often called a two edged sword i -i) Excess intake -Causes Endemic fluorosisii) Inadequate-Causes dental caries",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Fluoride helps\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "01eeecf3-16ab-4b02-9c6f-5614301ce04d": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Cimetidine Drues that inhibit drue metabolizine enzymeso Allopurinolo Erythromycino Chloramphenicolo Ketoconazoleo Ciprofloxacino Diltiazemo Propoxypheneo Cimetidineo Metronidazoleo Verapamilo Omeprazoleo Clarithromycino Phenylbutazoneo Itraconazoleo Sulfonamideso Amiodaroneo Isoniazido Quinidineo Disulfiramo MAO inhibitorsDrugs that induce microsomaj enzymeso Phenobarbitoneo Rifampino Isoniazido Phenylbutazoneo DDTo Carbamezepineo Clofibrateo Ritonaviro Chronic alcohol intake o Cyclophosphamideo Phenytoino Glucocorticoidso Chloral hydrateo Griseofulvino Omeprazoleo Meprobamateo Glutethimideo Cigarette smokingRemembero All Barbiturates are enzyme inducers except secobarbital, which inhibits the enzymeo Acutely, ritonavir is an inhibitor, while with chronic (repeated) administration it acts as an inducer."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Cimetidine Drues that inhibit drue metabolizine enzymeso Allopurinolo Erythromycino Chloramphenicolo Ketoconazoleo Ciprofloxacino Diltiazemo Propoxypheneo Cimetidineo Metronidazoleo Verapamilo Omeprazoleo Clarithromycino Phenylbutazoneo Itraconazoleo Sulfonamideso Amiodaroneo Isoniazido Quinidineo Disulfiramo MAO inhibitorsDrugs that induce microsomaj enzymeso Phenobarbitoneo Rifampino Isoniazido Phenylbutazoneo DDTo Carbamezepineo Clofibrateo Ritonaviro Chronic alcohol intake o Cyclophosphamideo Phenytoino Glucocorticoidso Chloral hydrateo Griseofulvino Omeprazoleo Meprobamateo Glutethimideo Cigarette smokingRemembero All Barbiturates are enzyme inducers except secobarbital, which inhibits the enzymeo Acutely, ritonavir is an inhibitor, while with chronic (repeated) administration it acts as an inducer.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4e551d74-dda8-44ba-ac91-26ff4a44d126": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., D. Medinensis(Ref: Harrison, 19th/e, p. 1422-1423; Chatterjee, 12th/e, p. 204)* Larva of D. Medinensis is ingested by Cyclops in the water."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., D. Medinensis(Ref: Harrison, 19th/e, p. 1422-1423; Chatterjee, 12th/e, p. 204)* Larva of D. Medinensis is ingested by Cyclops in the water.",
+    "hint_exp": "🎯 Think of \"in water and\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6cc92774-74a6-4ae6-8c5d-c08e4e3f2a0a": {
-    "cop": 2,
-    "exp": "SITE OF LESSION visual feild defect Disc/optic nerve lesions Same sided monocular blindness Chiasmal lesions Bitemporal Hemianopia Optic tract lesions (mc) Incongruous Homonymous hemianopia Lt. Geniculate body lesions Incongruous Homonymous hemianopia Meyer's loop (Temporal lobe) Pie in the sky Baum's loop (parietal lobe) Pie on the Floor Occipital lobe lesion Congruous Homonymous hemianopia with macular sparing"
+    "cop": 1,
+    "exp": "SITE OF LESSION visual feild defect Disc/optic nerve lesions Same sided monocular blindness Chiasmal lesions Bitemporal Hemianopia Optic tract lesions (mc) Incongruous Homonymous hemianopia Lt. Geniculate body lesions Incongruous Homonymous hemianopia Meyer's loop (Temporal lobe) Pie in the sky Baum's loop (parietal lobe) Pie on the Floor Occipital lobe lesion Congruous Homonymous hemianopia with macular sparing",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"a lesion in occipital lobe\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7cb9ec8b-6e14-448e-aa2b-2eb89bfb592a": {
-    "cop": 1,
-    "exp": "Answer is A (Airway - Breathing - Compression (A-B-C)) The A-B-C (Airway - Breathing - Compression) sequence is still retained for neonates since cardiac arrests in neonates are nearly always from asphyxia. The major Highlight of the 2010 AHA Guidelines for CPR is the Change from \"A-B-C\" to \"C-A-B\". The newest development in the 2010 AHA Guidelines for CPR and ECC is a change in the basic life suppo (BLS) sequence of steps from \"A-B-C\" (Airway, Breathing, Chest compressions) to \"C-A-B\" (Chest compressions, Airway, Breathing) for adults and paediatric patients (children and infants, excluding new-borns). However the A-B-C (Airway - Breathing -Compression) sequence is still retained for neonates since cardiac arrests in neonates are nearly always from asphyxia."
+    "cop": 0,
+    "exp": "Answer is A (Airway - Breathing - Compression (A-B-C)) The A-B-C (Airway - Breathing - Compression) sequence is still retained for neonates since cardiac arrests in neonates are nearly always from asphyxia. The major Highlight of the 2010 AHA Guidelines for CPR is the Change from \"A-B-C\" to \"C-A-B\". The newest development in the 2010 AHA Guidelines for CPR and ECC is a change in the basic life suppo (BLS) sequence of steps from \"A-B-C\" (Airway, Breathing, Chest compressions) to \"C-A-B\" (Chest compressions, Airway, Breathing) for adults and paediatric patients (children and infants, excluding new-borns). However the A-B-C (Airway - Breathing -Compression) sequence is still retained for neonates since cardiac arrests in neonates are nearly always from asphyxia.",
+    "hint_exp": "🧩 Your crush solved \"2010 Guidelines during Basic\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6358335c-4acc-4bf4-bac5-c543e20c8df8": {
-    "cop": 1,
-    "exp": "Dopamine or dobutamine are positive inotropic drugs with the prompt onset and sho duration of action; they are most useful in patients with failure complicated by severe hypotension.Katzung 13e pg: 220"
+    "cop": 0,
+    "exp": "Dopamine or dobutamine are positive inotropic drugs with the prompt onset and sho duration of action; they are most useful in patients with failure complicated by severe hypotension.Katzung 13e pg: 220",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"choice in cardiogenic shock\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "392915cf-1ffc-4c3f-8c90-bf4f11a23312": {
-    "cop": 2,
-    "exp": "Covering is an infamous conduct (professional misconduct), which refers to assisting unqualified person."
+    "cop": 1,
+    "exp": "Covering is an infamous conduct (professional misconduct), which refers to assisting unqualified person.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"practice\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "aa2674c7-d745-4989-b7fa-74b1e870113f": {
-    "cop": 4,
-    "exp": "The impoance of oxygen-dependent mechanisms in the bacterial killing by phagocytic cells is exemplified in chronic granulomatous disease (CGD). Children with this disease suffer from a hereditary deficiency of NADPH oxidase which leads to decreased oxidative burst. Susceptible to recurrent bacterial infections. The most common variants are an X-linked defect in one of the membrane-bound components (gp91phox) and autosomal recessive defects in the genes encoding two of the cytoplasmic components (p47phox and p67phox). -Patients deficient in myeloperoxidase (choice C) cannot produce hypochlorous acid (HOCl) and experience an increased susceptibility to infections with the fungal pathogen Candida. -Catalase (choice A) conves hydrogen peroxide to water and molecular oxygen. Diagnosis: Chronic granulomatous disease"
+    "cop": 3,
+    "exp": "The impoance of oxygen-dependent mechanisms in the bacterial killing by phagocytic cells is exemplified in chronic granulomatous disease (CGD). Children with this disease suffer from a hereditary deficiency of NADPH oxidase which leads to decreased oxidative burst. Susceptible to recurrent bacterial infections. The most common variants are an X-linked defect in one of the membrane-bound components (gp91phox) and autosomal recessive defects in the genes encoding two of the cytoplasmic components (p47phox and p67phox). -Patients deficient in myeloperoxidase (choice C) cannot produce hypochlorous acid (HOCl) and experience an increased susceptibility to infections with the fungal pathogen Candida. -Catalase (choice A) conves hydrogen peroxide to water and molecular oxygen. Diagnosis: Chronic granulomatous disease",
+    "hint_exp": "🎯 Think of \"the following proteins\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3f93f4ab-f091-4c0a-996d-5358bc6e9a90": {
-    "cop": 2,
-    "exp": "park's textbook of preventive and social medicine 23rd edition *effect of radiation exposure are called somatic if they become manifest in the exposed individual and hereditary if they the descandants . *for some somatic effects ,the propability of an occurring ,rather than its severity ,is regarded as a function of dose without a theshold (stochatic effect).where as for other somatic effects the severity vary with doses (non-stochastic effect ):a threshold may therefore exist for such effects ."
+    "cop": 1,
+    "exp": "park's textbook of preventive and social medicine 23rd edition *effect of radiation exposure are called somatic if they become manifest in the exposed individual and hereditary if they the descandants . *for some somatic effects ,the propability of an occurring ,rather than its severity ,is regarded as a function of dose without a theshold (stochatic effect).where as for other somatic effects the severity vary with doses (non-stochastic effect ):a threshold may therefore exist for such effects .",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Effect radiation above threshold\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7e53b5f4-6d1c-4067-afce-a937f4e5cbaa": {
-    "cop": 4,
-    "exp": "Ans. is 'D' i.e.. Tilt the head on opposite side Sternocleidomastoid (sternomastoid) Origin 1. The, sternal head is tendinous and arises from the superolateral part of the front of the manubrium stemi. 2. The clavicular head is musculotendinous and arises from the medial one-third of the superior surface of the clavicle. It passes deep to the sternal head, and the twro heads blend below' the middle of the neck. Between the two heads, there is a small triangular depression of the lesser supraclavicular fossa, overlying the internal jugular vein. Insertion o It is inserted : 1. By a thick tendon into the lateral surface of mastoid process, from its tip to superior border. 2. By a thin apponeurosis into the lateral half of the superior nuchal line of the occipital bone. Nerve supply 1. The spinal accessor}' nerve provides the motor supply. It passes through the muscle. 2. Branches from the ventral rami of C2 are proprioceptive. Blood supply o Arterial supply-one branch each from superior thyroid artery and suprascapular artery and, two branches from the occipital artery' supply the big muscle, o Veins follow the arteries. Actions 1. When one muscle contracts : It turns the chin to the opposite side. It can also tilt the head towards the shoulder of same side. 2. When both muscles contract together : They draw the head forwards, as in eating and in lifting the head from a pillow. With the longus colli, they flex the neck against resistance. It also helps in forced inspiration."
+    "cop": 3,
+    "exp": "Ans. is 'D' i.e.. Tilt the head on opposite side Sternocleidomastoid (sternomastoid) Origin 1. The, sternal head is tendinous and arises from the superolateral part of the front of the manubrium stemi. 2. The clavicular head is musculotendinous and arises from the medial one-third of the superior surface of the clavicle. It passes deep to the sternal head, and the twro heads blend below' the middle of the neck. Between the two heads, there is a small triangular depression of the lesser supraclavicular fossa, overlying the internal jugular vein. Insertion o It is inserted : 1. By a thick tendon into the lateral surface of mastoid process, from its tip to superior border. 2. By a thin apponeurosis into the lateral half of the superior nuchal line of the occipital bone. Nerve supply 1. The spinal accessor}' nerve provides the motor supply. It passes through the muscle. 2. Branches from the ventral rami of C2 are proprioceptive. Blood supply o Arterial supply-one branch each from superior thyroid artery and suprascapular artery and, two branches from the occipital artery' supply the big muscle, o Veins follow the arteries. Actions 1. When one muscle contracts : It turns the chin to the opposite side. It can also tilt the head towards the shoulder of same side. 2. When both muscles contract together : They draw the head forwards, as in eating and in lifting the head from a pillow. With the longus colli, they flex the neck against resistance. It also helps in forced inspiration.",
+    "hint_exp": "🧩 Your crush solved \"False about sternocleidomastoid\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b8738e8c-3d9e-4fe4-942d-c4ff7c3e0def": {
-    "cop": 1,
-    "exp": "ANSWER: (A) Alkylating agentsREF: Robbin s 7th ed p. 322Pro carcinogenic chemicals:Alkylating agentsAromatic amines and azo dyesNitrosoamines and amides"
+    "cop": 0,
+    "exp": "ANSWER: (A) Alkylating agentsREF: Robbin s 7th ed p. 322Pro carcinogenic chemicals:Alkylating agentsAromatic amines and azo dyesNitrosoamines and amides",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"pro carcinogenic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "826ca1b1-bb84-4c34-93ac-4c1347b1c181": {
-    "cop": 3,
-    "exp": "ANSWER: (C) PhototoxicityREF: Rook's 8th ed p. 75.31, Fitzpatrik 8tK ed p. 1068The most common photosensitivity reaction is phototoxicity i.e. does not involve immunological reaction. \"Paracetamol cause phototoxic reactions\""
+    "cop": 2,
+    "exp": "ANSWER: (C) PhototoxicityREF: Rook's 8th ed p. 75.31, Fitzpatrik 8tK ed p. 1068The most common photosensitivity reaction is phototoxicity i.e. does not involve immunological reaction. \"Paracetamol cause phototoxic reactions\"",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Paracetamol causes\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ba3761a8-520c-485d-a362-d0d3fb71a21e": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"patient comes with emotional\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f5ab525d-278e-4d92-bdbe-d3b44023f00b": {
-    "cop": 2,
-    "exp": "Superior vena cava related to the mediastinal pa of right lungB D CHOURASIAS HUMAN ANATOMY UPPER LIMB THORAX VOLUME, 1 SIXTH EDITION, Page no,236"
+    "cop": 1,
+    "exp": "Superior vena cava related to the mediastinal pa of right lungB D CHOURASIAS HUMAN ANATOMY UPPER LIMB THORAX VOLUME, 1 SIXTH EDITION, Page no,236",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "56d9aef2-1a95-40f7-8641-689d554f07de": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "188d3826-5416-4fdb-8320-49d2d2a2eb7d": {
-    "cop": 1,
-    "exp": "(A) Paracetamol # Nonlinear Pharmacokinetics> Nonlinearity in pharmacokinetics (i.e., changes in such parameters as clearance, volume of distribution, and half-life as a function of dose or concentration of drug) usually is due to saturation of either protein binding, hepatic metabolism, or active renal transport of the drug."
+    "cop": 0,
+    "exp": "(A) Paracetamol # Nonlinear Pharmacokinetics> Nonlinearity in pharmacokinetics (i.e., changes in such parameters as clearance, volume of distribution, and half-life as a function of dose or concentration of drug) usually is due to saturation of either protein binding, hepatic metabolism, or active renal transport of the drug.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Drug that does follow\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "63d7d909-d632-4c45-8cdc-9b3122077039": {
-    "cop": 1,
-    "exp": "All the above four options is answer Ref Robbins 7/e p657; 9/e p664-665 severe falciparum malaria: The incidence and progression of coagulation abnormalities were studied in 52 patients with acute falciparum malaria. The patients were prospectively divided into 3 groups; severe (parasitaemia greater than or equal to 5% or vital organ dysfunction), 12 patients; moderate (parasitaemia 1%- less than 5% without complications), 16 patients; and mild (parasitaemia less than 1%), 24 patients. No case died or developed clinical evidence of disseminated intravascular coagulation. Conventional indices of coagulation (prothrombin time, paial thromboplastin time, fibrinogen, fibrin degradation products) were usually within the normal range but reduced plasma concentrations of antithrombin III (AT-III) levels were noted in all groups, and the incidence was significantly higher in patients with severe and moderate malaria (83% and 81%) compared with the mild group (37%; P less than 0.005). Depletion of AT-III was associated with thrombocytopenia, acute promyelocytic leukemia: Acute promyelocytic leukemia (APL) is a is a unique subtype of acute leukemiacharacterized by abnormal proliferation of promyelocytes, life-threatening coagulopathy, and the chromosome translocation t(15;17)(q22;q11-12). heparin overdose: Heparin is an anticoagulant, meaning it inhibits the formation of blood clots in the body. In heparin overdose, the body is unable to deploy its natural defenses against hemorrhage (excessive bleeding), and life-threatening blood loss can occur quickly. Excessive bleeding from an open wound is unlikely to go unnoticed, but internal bleeding can be sneakier. All patients receiving heparin should be monitored closely for the signs and symptoms of internal bleeding due to delayed clotting action abruption placentae: Placental abruption can cause life-threatening problems for both mother and baby. For the mother, placental abruption can lead to: Shock due to blood loss Blood clotting problems (disseminated intravascular coagulation)"
+    "cop": 0,
+    "exp": "All the above four options is answer Ref Robbins 7/e p657; 9/e p664-665 severe falciparum malaria: The incidence and progression of coagulation abnormalities were studied in 52 patients with acute falciparum malaria. The patients were prospectively divided into 3 groups; severe (parasitaemia greater than or equal to 5% or vital organ dysfunction), 12 patients; moderate (parasitaemia 1%- less than 5% without complications), 16 patients; and mild (parasitaemia less than 1%), 24 patients. No case died or developed clinical evidence of disseminated intravascular coagulation. Conventional indices of coagulation (prothrombin time, paial thromboplastin time, fibrinogen, fibrin degradation products) were usually within the normal range but reduced plasma concentrations of antithrombin III (AT-III) levels were noted in all groups, and the incidence was significantly higher in patients with severe and moderate malaria (83% and 81%) compared with the mild group (37%; P less than 0.005). Depletion of AT-III was associated with thrombocytopenia, acute promyelocytic leukemia: Acute promyelocytic leukemia (APL) is a is a unique subtype of acute leukemiacharacterized by abnormal proliferation of promyelocytes, life-threatening coagulopathy, and the chromosome translocation t(15;17)(q22;q11-12). heparin overdose: Heparin is an anticoagulant, meaning it inhibits the formation of blood clots in the body. In heparin overdose, the body is unable to deploy its natural defenses against hemorrhage (excessive bleeding), and life-threatening blood loss can occur quickly. Excessive bleeding from an open wound is unlikely to go unnoticed, but internal bleeding can be sneakier. All patients receiving heparin should be monitored closely for the signs and symptoms of internal bleeding due to delayed clotting action abruption placentae: Placental abruption can cause life-threatening problems for both mother and baby. For the mother, placental abruption can lead to: Shock due to blood loss Blood clotting problems (disseminated intravascular coagulation)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Conditions associated with incoagulable\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "10e7851a-6ad2-4eac-8b85-bcacbd676348": {
-    "cop": 2,
-    "exp": "Demographic window\n\nThe period of time in a nation's demographic evolution when the proportion of population of working age group (15-55 years) is particularly prominent people < 15 years of age are less than 30% and > 65 years of age are less than 15%.\nThe demographic window opportunity lasts for 30-40 years (i.e. from the age of 15 to age of 55).\nDemographic window of India is expected from 2010 to 2050\n\nDemographic dividend\n\nA rise in the rate of economic growth due to a rising share of working age people in a population.\nIt occurs when fertility rate falls. Lets see why :-\n\nBecause of mechanical link between fertility levels and age structure, when the birth rate (fertility) falls, the age pyramid first shrinks with gradual lower proportion of young population (under 15 years) and proportion of population in working age group increases. This has following effects -\ni)  The respective nation has demographic window.\nOutput per capita rises as population in working age group is prominent and dependency ratio (child dependency ratio) is decreased.\nIn other words, decrease fertility rate is responsible for demographic dividend and demographic window.\nDemographic gift\n\nThis the gift due to decreased fertility rate.\nThat means favorable effects (demographic dividend) of decrease in fertility rate.\n\nDemographic transition\n\nA model used to explain the process of transition from high birth rate & death rate to low birth rate & death rate.\n\nDemographic trap\n\nThis trap is the population growth due to high birth rate and low death rate.\n\nDemography bonus\n\nThe term demography bonus connotes the period when the dependency ratio in a population declines because of decline in fertility, until it starts to rise again because of increasing longevity.\n\nDemographic burden\n\nIt is the increase in the total dependency ratio during any period of time, mostly caused by increased old age dependency ratio."
+    "cop": 1,
+    "exp": "Demographic window\n\nThe period of time in a nation's demographic evolution when the proportion of population of working age group (15-55 years) is particularly prominent people < 15 years of age are less than 30% and > 65 years of age are less than 15%.\nThe demographic window opportunity lasts for 30-40 years (i.e. from the age of 15 to age of 55).\nDemographic window of India is expected from 2010 to 2050\n\nDemographic dividend\n\nA rise in the rate of economic growth due to a rising share of working age people in a population.\nIt occurs when fertility rate falls. Lets see why :-\n\nBecause of mechanical link between fertility levels and age structure, when the birth rate (fertility) falls, the age pyramid first shrinks with gradual lower proportion of young population (under 15 years) and proportion of population in working age group increases. This has following effects -\ni)  The respective nation has demographic window.\nOutput per capita rises as population in working age group is prominent and dependency ratio (child dependency ratio) is decreased.\nIn other words, decrease fertility rate is responsible for demographic dividend and demographic window.\nDemographic gift\n\nThis the gift due to decreased fertility rate.\nThat means favorable effects (demographic dividend) of decrease in fertility rate.\n\nDemographic transition\n\nA model used to explain the process of transition from high birth rate & death rate to low birth rate & death rate.\n\nDemographic trap\n\nThis trap is the population growth due to high birth rate and low death rate.\n\nDemography bonus\n\nThe term demography bonus connotes the period when the dependency ratio in a population declines because of decline in fertility, until it starts to rise again because of increasing longevity.\n\nDemographic burden\n\nIt is the increase in the total dependency ratio during any period of time, mostly caused by increased old age dependency ratio.",
+    "hint_exp": "🎯 Think of \"Demographic divided\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "37ece523-733c-4847-ac00-bbe9a01f1143": {
-    "cop": 1,
-    "exp": "Ans. a. P. falciparum"
+    "cop": 0,
+    "exp": "Ans. a. P. falciparum",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"protected from infection of\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ef69ae6b-153a-43af-b5a9-a6d1af8a3727": {
-    "cop": 1,
-    "exp": "Fallen fragment sign and hinged fragment sign are seen in simple bone cyst. Fallen fragment sign refers the settlement of fractured fragment in dependent position Hinged fragment sign (aka Trap door sign) refers to non separation of fractured fragment from the adjacent coex."
+    "cop": 0,
+    "exp": "Fallen fragment sign and hinged fragment sign are seen in simple bone cyst. Fallen fragment sign refers the settlement of fractured fragment in dependent position Hinged fragment sign (aka Trap door sign) refers to non separation of fractured fragment from the adjacent coex.",
+    "hint_exp": "🧩 Your crush solved \"Fallen fragment sign seen\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

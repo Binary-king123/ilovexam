@@ -1,202 +1,252 @@
 {
   "5a14b926-0cc8-4f10-b1f1-2aab6e449312": {
-    "cop": 4,
-    "exp": "."
+    "cop": 3,
+    "exp": ".",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"normal total iron binding\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ef460fde-7cac-42e1-bf3b-e8f9edb38a88": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"action\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "31bed22e-5ce9-407a-9517-e392d13514f5": {
-    "cop": 4,
-    "exp": "The ingestion of methanol (wood alcohol) causes metabolic acidosisIts metabolites formaldehyde and formic acid cause severe optic nerve and CNS damageLactic acid, ketoacids, and other unidentified organic acids may contribute to the acidosisDue to its low molecular weight, an osmolar gap is usually presentEthanol is used in the treatment of methanol poisoningRef: Harrison's 18/e p366, Tripathi 6/e p387, Davidson's 20/e p219"
+    "cop": 3,
+    "exp": "The ingestion of methanol (wood alcohol) causes metabolic acidosisIts metabolites formaldehyde and formic acid cause severe optic nerve and CNS damageLactic acid, ketoacids, and other unidentified organic acids may contribute to the acidosisDue to its low molecular weight, an osmolar gap is usually presentEthanol is used in the treatment of methanol poisoningRef: Harrison's 18/e p366, Tripathi 6/e p387, Davidson's 20/e p219",
+    "hint_exp": "🎯 Think of \"following statements true regarding\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b6d39184-4d8e-4441-9d97-767539024e2e": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following diseases\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "214970a4-9082-44e7-98a5-a3eeecc520f3": {
-    "cop": 4,
-    "exp": "They are bacteria but may be considered as viruses on account of their filterability and failure to grow in cell-free culture media. REF: Textbook of microbiology Ananthanarayan, and Paniker. Page no.: 415"
+    "cop": 3,
+    "exp": "They are bacteria but may be considered as viruses on account of their filterability and failure to grow in cell-free culture media. REF: Textbook of microbiology Ananthanarayan, and Paniker. Page no.: 415",
+    "hint_exp": "🧩 Your crush solved \"Growth cell free aificial\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c9b4d79c-6afd-4412-b3b0-d96035afb485": {
-    "cop": 2,
-    "exp": "Ans is 'b' i.e. Wait & watch for 7 days + antibiotics CSF rhinorrhea may be classified as:Traumatic (>90%) - Approximately 80% of all traumatic leaks occur in the setting of accidental trauma, and the remaining traumatic leaks occur after neurosurgical and rhinological proceduresNontraumatic (<10%)- Nontraumatic etiologies include neoplasms and hydrocephalus High pressure flow- intracranial tumours & hydrocephalousLow pressure flow- congenital defectsMost common site for leak is through cribriform plate and ethmoidal air sinuses.Less common sites are through frontal and sphenoidal sinuses.Rarely, the leak can originate in the middle or posterior cranial fossa and can reach the nasal cavity by way of the middle ear and eustachian tubeDiagnosis:Basic clinical tests-Rhinoscopy-visualization of CSF leakage from paranasal sinusesTissue test-unlike nasal mucous ,CSF does not cause a tissue to stiffenFilter paper test-sample of nasal discharge on a filter paper exhibits a light CSF border and a dark central area of blood 'double ring sign ' or ' halo sign' (in cases of traumatic CSF leak where blood and CSF are mixed.)Queckenstedt test-compression of jugular veins leads to increased CSF leakage d/t increase in ICPBiochemical tests:Concentrations of glucose & protein are higher in CSF than in nasal discharge.b2-transferrin is the preferred biochemical marker of CSF. It helps in distinguishing CSF from other nasal secretions.Beta-trace protein (bTP) is another chemical marker that could be used for the detection of CSFCSF tracers:Intrathecal fluorescein dye administration, radionuclide cisternography, CT cisternographyRadiological studies:High-resolution CT provides detailed information about the bony skull base anatomy, and MRI assesses soft tissues , including unrecognized tumors and coincidental meningoencephalocelesTreatment:Traumatic rhinorrhea often stops spontaneouslyConservative treatment consists of 1-2 weeks trial of-Strict bed restHead elevationStool softenersAdvising patient to avoid coughing, sneezing, nose blowing, and strainingProphylactic antibioticsSubarachnoid drainage through a lumbar catheterSurgical repair is generally advocated in patients with large fistulas especially in the presence of pneumocephalus."
+    "cop": 1,
+    "exp": "Ans is 'b' i.e. Wait & watch for 7 days + antibiotics CSF rhinorrhea may be classified as:Traumatic (>90%) - Approximately 80% of all traumatic leaks occur in the setting of accidental trauma, and the remaining traumatic leaks occur after neurosurgical and rhinological proceduresNontraumatic (<10%)- Nontraumatic etiologies include neoplasms and hydrocephalus High pressure flow- intracranial tumours & hydrocephalousLow pressure flow- congenital defectsMost common site for leak is through cribriform plate and ethmoidal air sinuses.Less common sites are through frontal and sphenoidal sinuses.Rarely, the leak can originate in the middle or posterior cranial fossa and can reach the nasal cavity by way of the middle ear and eustachian tubeDiagnosis:Basic clinical tests-Rhinoscopy-visualization of CSF leakage from paranasal sinusesTissue test-unlike nasal mucous ,CSF does not cause a tissue to stiffenFilter paper test-sample of nasal discharge on a filter paper exhibits a light CSF border and a dark central area of blood 'double ring sign ' or ' halo sign' (in cases of traumatic CSF leak where blood and CSF are mixed.)Queckenstedt test-compression of jugular veins leads to increased CSF leakage d/t increase in ICPBiochemical tests:Concentrations of glucose & protein are higher in CSF than in nasal discharge.b2-transferrin is the preferred biochemical marker of CSF. It helps in distinguishing CSF from other nasal secretions.Beta-trace protein (bTP) is another chemical marker that could be used for the detection of CSFCSF tracers:Intrathecal fluorescein dye administration, radionuclide cisternography, CT cisternographyRadiological studies:High-resolution CT provides detailed information about the bony skull base anatomy, and MRI assesses soft tissues , including unrecognized tumors and coincidental meningoencephalocelesTreatment:Traumatic rhinorrhea often stops spontaneouslyConservative treatment consists of 1-2 weeks trial of-Strict bed restHead elevationStool softenersAdvising patient to avoid coughing, sneezing, nose blowing, and strainingProphylactic antibioticsSubarachnoid drainage through a lumbar catheterSurgical repair is generally advocated in patients with large fistulas especially in the presence of pneumocephalus.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"rhinorrhea immediate management\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "01fe4b05-fb72-4945-b9df-7bb4a95c8091": {
-    "cop": 2,
-    "exp": "Facial expressionMuscleSmiling and laughingZygomaticus majorSadnessLevator labii superioris and levatoranguli orisGriefDepressor anguli orisAngerDilator naris and depressor septiFrowningCorrugator supercilii and procerusHorror, terror, and frightPlatysmaSurpriseFrontalisDoubtMentalisGrinningRisoriusContemptZygomaticus minorClosing the mouth Orbicualris orisWhistlingBuccinator and Orbicularis orisRef: Chaurasia; Volume 3; 6th edition; Page no: 57"
+    "cop": 1,
+    "exp": "Facial expressionMuscleSmiling and laughingZygomaticus majorSadnessLevator labii superioris and levatoranguli orisGriefDepressor anguli orisAngerDilator naris and depressor septiFrowningCorrugator supercilii and procerusHorror, terror, and frightPlatysmaSurpriseFrontalisDoubtMentalisGrinningRisoriusContemptZygomaticus minorClosing the mouth Orbicualris orisWhistlingBuccinator and Orbicularis orisRef: Chaurasia; Volume 3; 6th edition; Page no: 57",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"whistling\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8667ebb2-318a-480f-9885-bb7b06a94d87": {
-    "cop": 4,
-    "exp": "Ciprofloxacin, Minocycline and Metronidazole comprise the triple antibiotic paste which can be used as intracanal medicament to disinfect the canal. Minocycline causes discoloration of teeth. That is why Cefaclor has been substituted in place of Minocycline."
+    "cop": 3,
+    "exp": "Ciprofloxacin, Minocycline and Metronidazole comprise the triple antibiotic paste which can be used as intracanal medicament to disinfect the canal. Minocycline causes discoloration of teeth. That is why Cefaclor has been substituted in place of Minocycline.",
+    "hint_exp": "🎯 Think of \"triple antibiotic paste minocycline\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e7c5e50c-2c1d-45a0-815d-c59b9a7187e3": {
-    "cop": 1,
-    "exp": "Ans: A (Lerithin cholestenol...) (Ref Harper29thf242J56 ; Lippincott 6th/234-36 ]\" LCAT stands for lecithin.cholestero!acyltransferase - Harper 29th/242Plasma LCAT Is Responsible for Virtually All Plasma Cholesteryl Ester in Humans Harper 29tb/256LCAT activity is associated with HDL containing apo A-I. As cholesterol in HDL becomes esterified, it creates a concentration gradient and draws in cholesterol from tissues and from other lipoproteins, thus enabling HDL to function in reverse cholesterol transportCholesteryl Ester Transfer Protein Facilitates Transfer of Cholesteryl Ester from HDL to Other Lipoproteins Harper 29th/256This protein, associated with HDL, is found in plasma of humans and many other species. It facilitates transfer of cholesteryl ester from HDL to VLDL, 3DL, and LDL In exchange for triacytglycerol, relieving product inhibition of LCAT activity'1 in HDL. Thus, in humans, much of the cholesteryl ester formed by LCAT finds its way to the liver via VLDL remnants (1DL) or LDL . The triacylglycerol-enriched HDL., delivers its cholesterol to the liver in the HDL cycle"
+    "cop": 0,
+    "exp": "Ans: A (Lerithin cholestenol...) (Ref Harper29thf242J56 ; Lippincott 6th/234-36 ]\" LCAT stands for lecithin.cholestero!acyltransferase - Harper 29th/242Plasma LCAT Is Responsible for Virtually All Plasma Cholesteryl Ester in Humans Harper 29tb/256LCAT activity is associated with HDL containing apo A-I. As cholesterol in HDL becomes esterified, it creates a concentration gradient and draws in cholesterol from tissues and from other lipoproteins, thus enabling HDL to function in reverse cholesterol transportCholesteryl Ester Transfer Protein Facilitates Transfer of Cholesteryl Ester from HDL to Other Lipoproteins Harper 29th/256This protein, associated with HDL, is found in plasma of humans and many other species. It facilitates transfer of cholesteryl ester from HDL to VLDL, 3DL, and LDL In exchange for triacytglycerol, relieving product inhibition of LCAT activity'1 in HDL. Thus, in humans, much of the cholesteryl ester formed by LCAT finds its way to the liver via VLDL remnants (1DL) or LDL . The triacylglycerol-enriched HDL., delivers its cholesterol to the liver in the HDL cycle",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"LCAT\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d6bc7b6f-31e2-44f6-a983-334245dca534": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Contamination Infection The entry and development or multiplication of an infectious agent in the body of man or animals. Contamination o The presence of an infectious agent on a body surface, and or in clothes, bedding, toys, surgical instruments, dressing or other inanimate aicles or substances including water, milk and food. Infestation o The lodgment, development and reproduction of ahropods on the surface of the body or in the clothing, e.g. lice."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Contamination Infection The entry and development or multiplication of an infectious agent in the body of man or animals. Contamination o The presence of an infectious agent on a body surface, and or in clothes, bedding, toys, surgical instruments, dressing or other inanimate aicles or substances including water, milk and food. Infestation o The lodgment, development and reproduction of ahropods on the surface of the body or in the clothing, e.g. lice.",
+    "hint_exp": "🧩 Your crush solved \"Presence infectious agent clothes\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "adb8e12b-7aab-4856-8c5c-b2c5f692c413": {
-    "cop": 3,
-    "exp": "Ans. Iridium 191"
+    "cop": 2,
+    "exp": "Ans. Iridium 191",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following radioisotopes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7d4d2a43-e4e9-4892-9ff7-4ea2d89b3185": {
-    "cop": 3,
-    "exp": "HHV - 8 (Human Herpesvirus 8) is the causative agent of kaposi sarcoma."
+    "cop": 2,
+    "exp": "HHV - 8 (Human Herpesvirus 8) is the causative agent of kaposi sarcoma.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"kaposi sarcoma\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "154797e9-1ec7-4515-98e6-0113d1da4aa0": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ab44858a-54e9-4c4e-8e9d-06492017d522": {
-    "cop": 2,
-    "exp": "The right hepatic duct drains the bile ducts from segments V, VI, VII, and VIII, which constitute the right liver. The left hepatic duct directly drains the bile ducts to segments II, III, and IV, which constitute the left liver. Segment I (caudate) is drained by several small ducts. Ref: Principles and Practice of Gastrointestinal Oncology edited by David Kelsen, 2008, Page 484."
+    "cop": 1,
+    "exp": "The right hepatic duct drains the bile ducts from segments V, VI, VII, and VIII, which constitute the right liver. The left hepatic duct directly drains the bile ducts to segments II, III, and IV, which constitute the left liver. Segment I (caudate) is drained by several small ducts. Ref: Principles and Practice of Gastrointestinal Oncology edited by David Kelsen, 2008, Page 484.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Liver divided into eight\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fd11cb7d-581a-4132-aeb3-82be21a8827b": {
-    "cop": 1,
-    "exp": "I have discussed management of cancer cervix in detail in preceeding text.\nOption “a”: Radiotherapy is helpful in all stages. ... Correct\nOption “b”: Prognosis of surgery is good if done in early stages. ... Correct\nOption “c”: When radiotherapy is given para aortic LN should be included. It is incorrect as routine radiotherapy for cancer cervix does not include para aortic lymphnodes. If para aortic lymph nodes are involved then only extended field radiotherapy should be given.\n“The routine use of extended field radiation for prophylactic para aortic radiation without documentation of distant metastasis to para aortic nodes was evaluated and is not practiced because of increased enteric morbidity associated with this treatment modality.”\nNote:\n• IOC to know whether para-aortic lymph nodes are evolved is PET/CT imaging studies.\n• Radiotherapy for para aortic lymph nodes leads to bowel complications and to avoid these complications, extra peritoneal dissection of para aortic nodes is recommended and the dose of radiation should be reduced to 5000 cGy or less. When this approach is used, post radiotherapy bowel complications occur in < 5% patients and 5 year survival rate is 15—26% in patients with positive para aortic nodes.\nOption “d”: Chemotherapy is reserved for last stages. ... Correct\nOption “e”: From stage 1B onwards same prognosis with surgery and RT.\nThe only data which I could get on this is –\n“Stages 1B1,1B2 and 2A (size of lesion <4 cms)-these patients can be managed by surgery or primary chemoradiation.Several studies showed similar survival rates and outcomes.In bulky stages 1B2 and 2A2 -chemoradiation should be preferred but if patient wishes to conserve ovary then surgery should be done but it has increased morbidity because most of these patients have intermediate or high risk factors present for which post operative radiotherapy or chemoradiation has to be given.”"
+    "cop": 0,
+    "exp": "I have discussed management of cancer cervix in detail in preceeding text.\nOption “a”: Radiotherapy is helpful in all stages. ... Correct\nOption “b”: Prognosis of surgery is good if done in early stages. ... Correct\nOption “c”: When radiotherapy is given para aortic LN should be included. It is incorrect as routine radiotherapy for cancer cervix does not include para aortic lymphnodes. If para aortic lymph nodes are involved then only extended field radiotherapy should be given.\n“The routine use of extended field radiation for prophylactic para aortic radiation without documentation of distant metastasis to para aortic nodes was evaluated and is not practiced because of increased enteric morbidity associated with this treatment modality.”\nNote:\n• IOC to know whether para-aortic lymph nodes are evolved is PET/CT imaging studies.\n• Radiotherapy for para aortic lymph nodes leads to bowel complications and to avoid these complications, extra peritoneal dissection of para aortic nodes is recommended and the dose of radiation should be reduced to 5000 cGy or less. When this approach is used, post radiotherapy bowel complications occur in < 5% patients and 5 year survival rate is 15—26% in patients with positive para aortic nodes.\nOption “d”: Chemotherapy is reserved for last stages. ... Correct\nOption “e”: From stage 1B onwards same prognosis with surgery and RT.\nThe only data which I could get on this is –\n“Stages 1B1,1B2 and 2A (size of lesion <4 cms)-these patients can be managed by surgery or primary chemoradiation.Several studies showed similar survival rates and outcomes.In bulky stages 1B2 and 2A2 -chemoradiation should be preferred but if patient wishes to conserve ovary then surgery should be done but it has increased morbidity because most of these patients have intermediate or high risk factors present for which post operative radiotherapy or chemoradiation has to be given.”",
+    "hint_exp": "🧩 Your crush solved \"with surgery and RT\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c3f950b5-df32-4ec7-bf15-bae72c355f96": {
-    "cop": 2,
-    "exp": "TCA * MECHANISM This is an antidepressant with three rings. It acts by blocking the transpoers of neurotransmitters resulting in increased neurotransmitters in synapse DRUGS AMITRYPTILLINE IMIPRAMINE CLOMIPRAMINE DESIPRAMINE NORIPTILLINE DOXEPINE * USE AMITRYPTILLINE========PAIN WITH DEPRESSION IMIPRAMINE==========CHILDHOOD ENEURESIS CLOMIPRAMINE========OCD * SIDE EFFECTS ANTI HISTAMINERGIC==== sedation, weight gain ANTI MUSCURANIC=======dryness of mouth ANTI ADRENERGIC========hypotension, giddiness SWITCH TO MANIA when used in BIPOLAR DEPRESSION Ref. kaplon and Sadock, synopsis of psychiatry, 11 th edition, pg no 955"
+    "cop": 1,
+    "exp": "TCA * MECHANISM This is an antidepressant with three rings. It acts by blocking the transpoers of neurotransmitters resulting in increased neurotransmitters in synapse DRUGS AMITRYPTILLINE IMIPRAMINE CLOMIPRAMINE DESIPRAMINE NORIPTILLINE DOXEPINE * USE AMITRYPTILLINE========PAIN WITH DEPRESSION IMIPRAMINE==========CHILDHOOD ENEURESIS CLOMIPRAMINE========OCD * SIDE EFFECTS ANTI HISTAMINERGIC==== sedation, weight gain ANTI MUSCURANIC=======dryness of mouth ANTI ADRENERGIC========hypotension, giddiness SWITCH TO MANIA when used in BIPOLAR DEPRESSION Ref. kaplon and Sadock, synopsis of psychiatry, 11 th edition, pg no 955",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3fb3b422-c705-48a2-883a-9716542846ef": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Conduction block Adverse effects of CCBso Nausea, constipation and bradycardia are more common with verapamil.o Verapamil can accentuate conduction defect-should be avoided in 2nd & 3rd degree block, in sick sinus syndrome and along with [3-blocker.o Most common side effects of DHPs are palpitation, flushing, hypotension, headache, ankle edema, drowsiness and nausea.o Nifedipine can paradoxically increase the frequency of angina in some patients.o Nifedine can cause voiding difficulty in elderly (relaxant effect on bladder) and glucose intolerance (decreases insulin release)."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Conduction block Adverse effects of CCBso Nausea, constipation and bradycardia are more common with verapamil.o Verapamil can accentuate conduction defect-should be avoided in 2nd & 3rd degree block, in sick sinus syndrome and along with [3-blocker.o Most common side effects of DHPs are palpitation, flushing, hypotension, headache, ankle edema, drowsiness and nausea.o Nifedipine can paradoxically increase the frequency of angina in some patients.o Nifedine can cause voiding difficulty in elderly (relaxant effect on bladder) and glucose intolerance (decreases insulin release).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Patient verapamil should given\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "16a01524-a958-42da-b2a3-da6c8e5a6654": {
-    "cop": 1,
-    "exp": "Fever + earache + congested and bulging tympanic membrane in a four year old child points towards Acute suppurative otitis media as the diagnosis. Antibiotics (Penicillin) form the mainstay of treatment of acute otitis media and should be administered in a child with Acute otitis media and once tympanic membrane is bulging, myringotomy should be done. Grommet inseion is not indicated in Acute suppurative otitis media. It may be used in cases of myringotomy for serous or secretory otitis media."
+    "cop": 0,
+    "exp": "Fever + earache + congested and bulging tympanic membrane in a four year old child points towards Acute suppurative otitis media as the diagnosis. Antibiotics (Penicillin) form the mainstay of treatment of acute otitis media and should be administered in a child with Acute otitis media and once tympanic membrane is bulging, myringotomy should be done. Grommet inseion is not indicated in Acute suppurative otitis media. It may be used in cases of myringotomy for serous or secretory otitis media.",
+    "hint_exp": "🎯 Think of \"choice\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1ce87510-32d6-4d7e-9737-11f454fc036d": {
-    "cop": 4,
-    "exp": "Surgery indications Severe symptoms unresponsive to hormone therapy Severe and deeply infiltrating endometriosis which disto pelvic anatomy Endometriomas > 4cms Laparoscopy is done to destroy endometriotic lesions by excision or ablation or electrodiatherapy,or laser vaporization. Conservative surgical treatment improves feility outcome. D.C.DUTTA&;S TEXTBOOK OF GYNAECOLOGY,Pg no:312,6th edition"
+    "cop": 3,
+    "exp": "Surgery indications Severe symptoms unresponsive to hormone therapy Severe and deeply infiltrating endometriosis which disto pelvic anatomy Endometriomas > 4cms Laparoscopy is done to destroy endometriotic lesions by excision or ablation or electrodiatherapy,or laser vaporization. Conservative surgical treatment improves feility outcome. D.C.DUTTA&;S TEXTBOOK OF GYNAECOLOGY,Pg no:312,6th edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"choice in this case\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3dc60123-6a40-4a1c-833b-23e641e19ffa": {
-    "cop": 3,
-    "exp": "Child is presenting with pain after the injury with :-\n\n\nNormal X-ray → X-rays are normal in physeal injury.\nCalcaneo-valgus deformity → Angular deformity due to physeal arrest.\n\n\nSo, this child had developed physeal injury at the time of trauma.\n\nAbout other options\n\nAny fracture will be seen on x-ray (x-ray is normal in question).\nAvascular necrosis of talus develops after fracture of neck of the talus. X-ray shows the fracture (x-ray is not normal).\nAnkle ligament injury has normal X-ray, but it will not develop angular deformity."
+    "cop": 2,
+    "exp": "Child is presenting with pain after the injury with :-\n\n\nNormal X-ray → X-rays are normal in physeal injury.\nCalcaneo-valgus deformity → Angular deformity due to physeal arrest.\n\n\nSo, this child had developed physeal injury at the time of trauma.\n\nAbout other options\n\nAny fracture will be seen on x-ray (x-ray is normal in question).\nAvascular necrosis of talus develops after fracture of neck of the talus. X-ray shows the fracture (x-ray is not normal).\nAnkle ligament injury has normal X-ray, but it will not develop angular deformity.",
+    "hint_exp": "🧩 Your crush solved \"year with history fall\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "16b7d448-0f04-4904-85bb-9451439d309d": {
-    "cop": 4,
-    "exp": "A i.e. Disorientation; B i.e. Memory deficit; C i.e. Emotional lability These all are features of dementia Dementia is characterized by multiple cognitive defects that include impairment in memory, without impairment in consciousnessQ. The cognitive functions that can be affected in dementia include general intelligence, learning & memory, language, problem solving, orientation, perception, attention & concentration, judgement & social abilities (key words : think about a very old man who is unable to learn new things, concentrate, judge & solve problems with poor personal care, general intelligence, social abilities & communication skills.) Vascular dementia characteristically presents with - sudden onset in early age, stepwise & patchy progression with focal neurological signs & symptomsQ & greater preservation of personality."
+    "cop": 3,
+    "exp": "A i.e. Disorientation; B i.e. Memory deficit; C i.e. Emotional lability These all are features of dementia Dementia is characterized by multiple cognitive defects that include impairment in memory, without impairment in consciousnessQ. The cognitive functions that can be affected in dementia include general intelligence, learning & memory, language, problem solving, orientation, perception, attention & concentration, judgement & social abilities (key words : think about a very old man who is unable to learn new things, concentrate, judge & solve problems with poor personal care, general intelligence, social abilities & communication skills.) Vascular dementia characteristically presents with - sudden onset in early age, stepwise & patchy progression with focal neurological signs & symptomsQ & greater preservation of personality.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"characterized by\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "106313be-9c47-4377-a397-eae091000745": {
-    "cop": 4,
-    "exp": "Pressure - volume curve shifts to left \n\nSympathetic stimulation\nAortic stenosis (pressure overload)\nConcentric hypertrophy\n\nPressure-volume curve shifts to right (volume overload)\n\nMitral regurgitation\nAortic regurgitation"
+    "cop": 3,
+    "exp": "Pressure - volume curve shifts to left \n\nSympathetic stimulation\nAortic stenosis (pressure overload)\nConcentric hypertrophy\n\nPressure-volume curve shifts to right (volume overload)\n\nMitral regurgitation\nAortic regurgitation",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"shifted to the left in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3265e480-c14c-4eb5-9aed-df13e7d8e72e": {
-    "cop": 1,
-    "exp": "Perikymata are transverse, wave like grooves, believed to be the external manifestations of Incremental Lines of Retzius. Enamel cuticle is a delicate membrane that covers the entire enamel of the crown of a newly erupted tooth but is probably soon removed after mastication. Enamel lamellae are thin leaf like structures that extend from the enamel surface towards DEJ."
+    "cop": 0,
+    "exp": "Perikymata are transverse, wave like grooves, believed to be the external manifestations of Incremental Lines of Retzius. Enamel cuticle is a delicate membrane that covers the entire enamel of the crown of a newly erupted tooth but is probably soon removed after mastication. Enamel lamellae are thin leaf like structures that extend from the enamel surface towards DEJ.",
+    "hint_exp": "🎯 Think of \"enamel\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "98c99c39-55d8-425e-a198-172f862af6ae": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Abciximab"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Abciximab",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e4f132a0-7a0f-4af6-a513-3e2ac50e7744": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"pain\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5c3e4394-5727-4a53-952e-00923c4dd7ec": {
-    "cop": 1,
-    "exp": "Inherited Predisposition to Pancreatic Cancer (in decreasing order of risk)Peutz-Jeghers syndromeHereditary pancreatitisFamilial atypical multiple mole melanoma syndromeStrong family history (3 or more relatives with pancreatic cancer)Hereditary breast and ovarian cancerHereditary non-polyposis colorectal cancer (HNPCC)Ref: Robbins Pathology; 9th edition; Page no: 894"
+    "cop": 0,
+    "exp": "Inherited Predisposition to Pancreatic Cancer (in decreasing order of risk)Peutz-Jeghers syndromeHereditary pancreatitisFamilial atypical multiple mole melanoma syndromeStrong family history (3 or more relatives with pancreatic cancer)Hereditary breast and ovarian cancerHereditary non-polyposis colorectal cancer (HNPCC)Ref: Robbins Pathology; 9th edition; Page no: 894",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"pancreatic cancer Except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1966b21f-d30e-4fc3-aa05-493fecfd5e9f": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Prevalence = Incidence duration * Prevalence depends upon 2 factorsi) Incidenceii) Duration of illnessPrevalence - Incidence x mean duration."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Prevalence = Incidence duration * Prevalence depends upon 2 factorsi) Incidenceii) Duration of illnessPrevalence - Incidence x mean duration.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Relationship between incidence prevalence\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fe556544-4632-41ee-9e45-9b3890d1caa6": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4555865c-b4f3-446d-bd7d-9f21d26820e4": {
-    "cop": 3,
-    "exp": "(C) Associated with higher visual acuity than the rods > The rods and cones, which are next to the choroid, synapse with bipolar cells, and the bipolar cells synapse with ganglion cells. The axons of the ganglion cells converge and leave the eye as the optic nerve.> Horizontal cells connect receptor cells to the other receptor cells in the outer plexiform layer.> Amacrine cells connect ganglion cells to one another in the inner plexiform layer.> They have no axons, and their processes make both pre- and postsynaptic connections with neighboring neural elements."
+    "cop": 2,
+    "exp": "(C) Associated with higher visual acuity than the rods > The rods and cones, which are next to the choroid, synapse with bipolar cells, and the bipolar cells synapse with ganglion cells. The axons of the ganglion cells converge and leave the eye as the optic nerve.> Horizontal cells connect receptor cells to the other receptor cells in the outer plexiform layer.> Amacrine cells connect ganglion cells to one another in the inner plexiform layer.> They have no axons, and their processes make both pre- and postsynaptic connections with neighboring neural elements.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the eye\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "41ea4c43-57dd-4d66-ba02-fb1db4e0faef": {
-    "cop": 1,
-    "exp": "Procedure : The patient is seated upright on the slit lamp. A drop of 1 percent methylcellulose is placed in the concavity of the goniolens and with the patient looking up, one edge of the lens is positioned in the lower fornix. The upper lid is elevated and the patient is instructed to look straight ahead. The lens is rotated into position against the eye. When checking the lateral and medial angles, the slit beam should be horizontal and when checking the superior and inferior angles, the slit beam should be veical. Reference : AK KHURANA COMPREHENSIVE OPHTHALMOLOGY, E4, Page-546"
+    "cop": 0,
+    "exp": "Procedure : The patient is seated upright on the slit lamp. A drop of 1 percent methylcellulose is placed in the concavity of the goniolens and with the patient looking up, one edge of the lens is positioned in the lower fornix. The upper lid is elevated and the patient is instructed to look straight ahead. The lens is rotated into position against the eye. When checking the lateral and medial angles, the slit beam should be horizontal and when checking the superior and inferior angles, the slit beam should be veical. Reference : AK KHURANA COMPREHENSIVE OPHTHALMOLOGY, E4, Page-546",
+    "hint_exp": "🧩 Your crush solved \"the pupil\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5b98c190-0530-4e6f-91fd-9ce415eab52e": {
-    "cop": 2,
-    "exp": "Ref: Harrison's l8th editionExplanation:The clinical syndrome caused by the reactivation of VZV from sensory ganglia is herpes zoster.The commonly involved dermatomes are:The thoracic dermatomes, especially T4 to T12. are involved in about 50% of casesThe lumbosacral dermatomes in about 16%The cranial nerves in 14 to 20% ot patientso Opthalmic division of trigeminal in 10 to 15 percent ando Other cranial nerves causing 4 to 5 percentThere are two rather characteristic cranial herpetic syndromes are ophthalmic herpes and geniculate herpes.In ophthalmic herpes, which accounts for 10 to 15 percent of all cases of zoster, the pain and rash are in the distribution of the first division of the trigeminal nerve, and the pathologic changes are centered in the gasserian ganglion. The main hazard in this form of the disease is herpetic involvement of the cornea and conjunctiva, resulting in corneal anesthesia and residual scarring. Palsies of extraocular muscles, ptosis, and mydriasis are frequently associated, indicating that the third, fourth, and sixth crania] nerves are affected in addition to the gasserian ganglion.The less common but also characteristic cranial nerve syndrome called Ramsay Hunt syndrome - consists of a facial palsy in combination with a herpetic eruption of the external auditory meatus, sometimes with tinnitus, vertigo, and deafness. This is due to the reactivation of herpes from the geniculate ganglion."
+    "cop": 1,
+    "exp": "Ref: Harrison's l8th editionExplanation:The clinical syndrome caused by the reactivation of VZV from sensory ganglia is herpes zoster.The commonly involved dermatomes are:The thoracic dermatomes, especially T4 to T12. are involved in about 50% of casesThe lumbosacral dermatomes in about 16%The cranial nerves in 14 to 20% ot patientso Opthalmic division of trigeminal in 10 to 15 percent ando Other cranial nerves causing 4 to 5 percentThere are two rather characteristic cranial herpetic syndromes are ophthalmic herpes and geniculate herpes.In ophthalmic herpes, which accounts for 10 to 15 percent of all cases of zoster, the pain and rash are in the distribution of the first division of the trigeminal nerve, and the pathologic changes are centered in the gasserian ganglion. The main hazard in this form of the disease is herpetic involvement of the cornea and conjunctiva, resulting in corneal anesthesia and residual scarring. Palsies of extraocular muscles, ptosis, and mydriasis are frequently associated, indicating that the third, fourth, and sixth crania] nerves are affected in addition to the gasserian ganglion.The less common but also characteristic cranial nerve syndrome called Ramsay Hunt syndrome - consists of a facial palsy in combination with a herpetic eruption of the external auditory meatus, sometimes with tinnitus, vertigo, and deafness. This is due to the reactivation of herpes from the geniculate ganglion.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Herpes zoster most commonly\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "36aad61d-61ab-4bca-b3c9-f8aec78f0c2f": {
-    "cop": 4,
-    "exp": "Ossification centre Gestational age Calcaneum 5th month of intra-uterine age Talus 7th month of intra-uterine age Lower end of femur 9th month of intra-uterine age (36 weeks) Upper end of tibia 9th month of intra-uterine age (38 weeks) Cuboid Just at the time of bih (40 weeks)"
+    "cop": 3,
+    "exp": "Ossification centre Gestational age Calcaneum 5th month of intra-uterine age Talus 7th month of intra-uterine age Lower end of femur 9th month of intra-uterine age (36 weeks) Upper end of tibia 9th month of intra-uterine age (38 weeks) Cuboid Just at the time of bih (40 weeks)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"appears\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c081ab7f-2d03-4382-8add-fc2025e720c5": {
-    "cop": 4,
-    "exp": "Myxo virus classified into ohomyxo Miridae, consisting of paramyxovirus, mumps, measles virus REF:<\\p> ANATHANARAYANAN MICROBIOLOGY NINTH EDITION PAGE.496"
+    "cop": 3,
+    "exp": "Myxo virus classified into ohomyxo Miridae, consisting of paramyxovirus, mumps, measles virus REF:<\\p> ANATHANARAYANAN MICROBIOLOGY NINTH EDITION PAGE.496",
+    "hint_exp": "🎯 Think of \"Myxoviruses include\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1afd4912-7356-45a0-b99d-d44ce8077ea0": {
-    "cop": 3,
-    "exp": "Pemphigus vulgaris is associated with positive Nikolsky sign and Asboe- Hansen sign or Bullae spread sign. In positive bullae spread sign, pressing the top of existing bullae will lead to spread of bullae to adjacent normal appearing skin. Positive Nikolsky sign refers to shearing of the epidermis by exeing lateral pressure on the normal skin adjacent to an active blister. Pemphigus vulgaris is an acquired chronic disease in which blisters develop on normal appearing skin and mucous membrane. In this condition the pemphigus antibodies attach to extracellular domain of desmoglein and interfere with its attachment to similar domains on other cells reducing cell cell adherence. It is characterised by the development of flaccid clear blister which rupture and evolve into an inflamed erosion. Ref: Blistering Skin Diseases By Lawrence S. Chan page 26."
+    "cop": 2,
+    "exp": "Pemphigus vulgaris is associated with positive Nikolsky sign and Asboe- Hansen sign or Bullae spread sign. In positive bullae spread sign, pressing the top of existing bullae will lead to spread of bullae to adjacent normal appearing skin. Positive Nikolsky sign refers to shearing of the epidermis by exeing lateral pressure on the normal skin adjacent to an active blister. Pemphigus vulgaris is an acquired chronic disease in which blisters develop on normal appearing skin and mucous membrane. In this condition the pemphigus antibodies attach to extracellular domain of desmoglein and interfere with its attachment to similar domains on other cells reducing cell cell adherence. It is characterised by the development of flaccid clear blister which rupture and evolve into an inflamed erosion. Ref: Blistering Skin Diseases By Lawrence S. Chan page 26.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following condition\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8477670f-96eb-4cdc-9442-99e56ff059e6": {
-    "cop": 3,
-    "exp": "Gradenigo syndrome: Consists of Ear discharge(Suppurative otitis media) Diplopia(CN IV paralysis) Retro-orbital pain(CN V involvement) (Ref: Textbook of diseases of ENT, PL Dhingra, 7th edition, pg no. 508)"
+    "cop": 2,
+    "exp": "Gradenigo syndrome: Consists of Ear discharge(Suppurative otitis media) Diplopia(CN IV paralysis) Retro-orbital pain(CN V involvement) (Ref: Textbook of diseases of ENT, PL Dhingra, 7th edition, pg no. 508)",
+    "hint_exp": "🧩 Your crush solved \"False regarding gradenigo syndrome\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "db279adc-74a6-40b5-ad11-0e570756d0b6": {
-    "cop": 2,
-    "exp": "(B) Post Sigmoidoscopy # BACTERAEMIA is unusual following superficial SSIs.> Common after anstomotic break down (deep SSIs).> Bacteraemia is dangerous if the patient has a prosthesis.> Sepsis accompanied by MODS may follow anastomotic leak.> Bacteraemia is common after indwelling catheterization.# Bacteraemia is common after endoscopy especially colonoscopy or sigmoidoscopy."
+    "cop": 1,
+    "exp": "(B) Post Sigmoidoscopy # BACTERAEMIA is unusual following superficial SSIs.> Common after anstomotic break down (deep SSIs).> Bacteraemia is dangerous if the patient has a prosthesis.> Sepsis accompanied by MODS may follow anastomotic leak.> Bacteraemia is common after indwelling catheterization.# Bacteraemia is common after endoscopy especially colonoscopy or sigmoidoscopy.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"of Bacteremia\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "211439dc-a458-4702-a875-558e535c33a9": {
-    "cop": 1,
-    "exp": "Exudative Pleural EffusionTransudative Pleural effusionExudative pleural effusion occurs when local factors that influence the formation and absorption of pleural fluid are altered.Transudative pleural effusion occurs when systemic factors that influence the formation and absorption of pleural fluid are altered.LIGHT's CRITERIATotal serum protein > 3 gm/dlPleural fluid protein/serum protein > 0.5Pleural fluid LDH/serum LDH > 0.6Pleural fluid LDH >2/3rd upper limit of serumTotal serum protein <3 gm/dlPleural fluid protein/serum protein < 0.5Pleural fluid LDH/serum LDH < 0.6Pleural fluid LDH <2/3rd upper limit of serumCausesNeoplasms - metastatic diseases, mesothelioma Infections - bacterial, viral, fungal, parasitic tuberculosis Pulmonary embolism Collagen vascular disorders - SLE, rheumatoid ahritis, Wegener's granulomatosis Gastrointestinal diseases UraemiaMeig's syndrome Chylothorax, hemothorax Ovarian hyperstimulation syndrome Drug-induced - bromocriptine, amiodarone, nitrofurantoin, dantrolene Congestive hea failureCirrhosisTrapped lung Nephrotic syndromeHypoalbuminemiaHepatic hydrothoraxPeritoneal dialysisConstrictive pericarditis SVC obstructionMyxedemaUrinothoraxRight-sided pleural effusionLeft sided pleural effusionCCF, CRF Liver cirrhosis with poal hypeensionAmoebic liver abscess Subphrenic abscessThoracic duct involvement below D5 level Pancreatitis Pericardial inflammation Oesophagal ruptureLeft-sided subdiaphragmatic abscessThoracic duct involvement above D5 levelBilateral pleural effusionPleural effusion in AIDSCCF Meig's syndrome Pulmonary infarction HypoalbuminemiaMalignancy Kaposi sarcoma Parapneumonic effusion Tuberculosis Cryptococcosis Lymphoma (Refer: Harrison's Principles of Internal Medicine, 18th edition, pg no: 2181)"
+    "cop": 0,
+    "exp": "Exudative Pleural EffusionTransudative Pleural effusionExudative pleural effusion occurs when local factors that influence the formation and absorption of pleural fluid are altered.Transudative pleural effusion occurs when systemic factors that influence the formation and absorption of pleural fluid are altered.LIGHT's CRITERIATotal serum protein > 3 gm/dlPleural fluid protein/serum protein > 0.5Pleural fluid LDH/serum LDH > 0.6Pleural fluid LDH >2/3rd upper limit of serumTotal serum protein <3 gm/dlPleural fluid protein/serum protein < 0.5Pleural fluid LDH/serum LDH < 0.6Pleural fluid LDH <2/3rd upper limit of serumCausesNeoplasms - metastatic diseases, mesothelioma Infections - bacterial, viral, fungal, parasitic tuberculosis Pulmonary embolism Collagen vascular disorders - SLE, rheumatoid ahritis, Wegener's granulomatosis Gastrointestinal diseases UraemiaMeig's syndrome Chylothorax, hemothorax Ovarian hyperstimulation syndrome Drug-induced - bromocriptine, amiodarone, nitrofurantoin, dantrolene Congestive hea failureCirrhosisTrapped lung Nephrotic syndromeHypoalbuminemiaHepatic hydrothoraxPeritoneal dialysisConstrictive pericarditis SVC obstructionMyxedemaUrinothoraxRight-sided pleural effusionLeft sided pleural effusionCCF, CRF Liver cirrhosis with poal hypeensionAmoebic liver abscess Subphrenic abscessThoracic duct involvement below D5 level Pancreatitis Pericardial inflammation Oesophagal ruptureLeft-sided subdiaphragmatic abscessThoracic duct involvement above D5 levelBilateral pleural effusionPleural effusion in AIDSCCF Meig's syndrome Pulmonary infarction HypoalbuminemiaMalignancy Kaposi sarcoma Parapneumonic effusion Tuberculosis Cryptococcosis Lymphoma (Refer: Harrison's Principles of Internal Medicine, 18th edition, pg no: 2181)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Bilateral pleural effusion occur\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "87c84b2f-3272-4f4b-a534-b6c6d0a0f0b1": {
-    "cop": 3,
-    "exp": "Inhibition of ATP synthesis\n\nDinitrophenol is an uncoupler.\nUncouplers cause uncoupling of oxidation and phosphorylation, i.e. they allow electrons transport to proceed without ATP synthesis."
+    "cop": 2,
+    "exp": "Inhibition of ATP synthesis\n\nDinitrophenol is an uncoupler.\nUncouplers cause uncoupling of oxidation and phosphorylation, i.e. they allow electrons transport to proceed without ATP synthesis.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d7e04551-8521-4b7e-9f20-72fbad71fcf3": {
-    "cop": 3,
-    "exp": "kostmann syndrome characterized by hereditary neutropenia and treatment of choice is administration of granulocyte colony stimulating factor. Severe Congenital Neutropenia (Kostmann&;s Syndrome) * Clinical manifestations: Chronic severe neutropenia present at bih Accumulation of granulocytic precursors in the bone marrow Recurrent infections * Treatment with G-CSF -- Reduces infections and improves survival * Marked propensity to develop acute myeloid leukemia or myelodysplasia Reference: GHAI Essential pediatrics, 8th edition"
+    "cop": 2,
+    "exp": "kostmann syndrome characterized by hereditary neutropenia and treatment of choice is administration of granulocyte colony stimulating factor. Severe Congenital Neutropenia (Kostmann&;s Syndrome) * Clinical manifestations: Chronic severe neutropenia present at bih Accumulation of granulocytic precursors in the bone marrow Recurrent infections * Treatment with G-CSF -- Reduces infections and improves survival * Marked propensity to develop acute myeloid leukemia or myelodysplasia Reference: GHAI Essential pediatrics, 8th edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Kostmann syndrome treatment\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2652f378-1a0f-4fca-bb43-cc27d3995b12": {
-    "cop": 2,
-    "exp": "Creatinine can also be used to measure GFR as it is minimally secreted or reabsorbed in the renal tubules."
+    "cop": 1,
+    "exp": "Creatinine can also be used to measure GFR as it is minimally secreted or reabsorbed in the renal tubules.",
+    "hint_exp": "🧩 Your crush solved \"the following product\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "90c424dc-19d0-4f35-8874-af4e432e2189": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Quervain disease\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "77cc768b-84d8-4e61-8310-ce6443bcb139": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Aphasia most likely associated\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e85e3f40-cf6d-43db-8c35-c749690d32ae": {
-    "cop": 3,
-    "exp": "An acoustic neuroma is most likely to lead to a palsy of the eighth cranial nerve. Deafness, headache, ataxia, tinnitus, and diplopia are seen, as well as facial paresthesia. Acoustic neuromas represent 5-10% of all intracranial tumors. They develop from Schwann cells and generally grow very slowly. They may be very large before symptoms develop."
+    "cop": 2,
+    "exp": "An acoustic neuroma is most likely to lead to a palsy of the eighth cranial nerve. Deafness, headache, ataxia, tinnitus, and diplopia are seen, as well as facial paresthesia. Acoustic neuromas represent 5-10% of all intracranial tumors. They develop from Schwann cells and generally grow very slowly. They may be very large before symptoms develop.",
+    "hint_exp": "🎯 Think of \"the following cranial nerves\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9ab430c9-6bad-4102-8e3b-914f6dc13d9e": {
-    "cop": 4,
-    "exp": "Drugs which inhibit theophylline metabolism and increase its plasma level are-erythromycin, ciprofloxacin, cimetidine, oral contraceptives,allopurinol, chloramphenicol- all enzyme inhibitors dose should be reduced to 2/3rds of the usual dose KD TRIPATHI Page No:227"
+    "cop": 3,
+    "exp": "Drugs which inhibit theophylline metabolism and increase its plasma level are-erythromycin, ciprofloxacin, cimetidine, oral contraceptives,allopurinol, chloramphenicol- all enzyme inhibitors dose should be reduced to 2/3rds of the usual dose KD TRIPATHI Page No:227",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"theophylline\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b317d0f0-a43d-46b0-b9f9-f6bdcb13be6c": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Translation occurs\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cbc0f82c-1880-4fb5-bef0-b0613eb6594b": {
-    "cop": 1,
-    "exp": "Chandler Index is the average number of hookworm eggs per gram of faeces for the entire community. Ref : Park 23rd edition Pgno : 243"
+    "cop": 0,
+    "exp": "Chandler Index is the average number of hookworm eggs per gram of faeces for the entire community. Ref : Park 23rd edition Pgno : 243",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Chandler Index denominator used\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5346cfe1-a9a5-4099-b7fc-4c00bc59fdf3": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"patient presenting with jaundice\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "929b4349-d014-4f70-8045-b6c441da90f6": {
-    "cop": 3,
-    "exp": "Apa from comprising the epithelial lining of various organs, production of large glycoproteins and carbohydrates, the most impoant function of goblet cells is the secretion of mucus. This mucus is a gel-like substance that is composed mainly of mucins, glycoproteins, and carbohydrates.Ref: <a href=\""
+    "cop": 2,
+    "exp": "Apa from comprising the epithelial lining of various organs, production of large glycoproteins and carbohydrates, the most impoant function of goblet cells is the secretion of mucus. This mucus is a gel-like substance that is composed mainly of mucins, glycoproteins, and carbohydrates.Ref: <a href=\"",
+    "hint_exp": "🎯 Think of \"Goblet cells secrete\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c9a817db-f420-4f88-a2c7-8f1217f4fb9b": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"doxycycline\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bb075dfd-f8c7-4e07-882f-dbb93d382f14": {
-    "cop": 4,
-    "exp": "Alexithymia:- a virtual inability to recognize or verbalize emotional experiences."
+    "cop": 3,
+    "exp": "Alexithymia:- a virtual inability to recognize or verbalize emotional experiences.",
+    "hint_exp": "🧩 Your crush solved \"Alexithymia\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

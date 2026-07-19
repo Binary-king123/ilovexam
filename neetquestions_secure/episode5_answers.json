@@ -1,202 +1,252 @@
 {
   "47a7e08c-e3a3-46bf-8927-d9e194a385c1": {
-    "cop": 1,
-    "exp": "Freely filterable substances by glomerulus\n-        Water\n-        Na+\n-        Cl-\n-        HCO3-\n-        Inulin\n-        Glucose\n-        Creatinine\n \n-        Free Calcium or phosphate"
+    "cop": 0,
+    "exp": "Freely filterable substances by glomerulus\n-        Water\n-        Na+\n-        Cl-\n-        HCO3-\n-        Inulin\n-        Glucose\n-        Creatinine\n \n-        Free Calcium or phosphate",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "de848149-c145-4341-95fd-5e7fb647e705": {
-    "cop": 1,
-    "exp": "Ans.A Anti neuronal ab (Ref: Harrison's Internal medicine 18th/Table 319-1; 17th edition, P. 2076). Autoantibodies in Systemic Lupus Erythematosus (SLE) Antibody Prevalence, % Antigen Recognized Clinical Utility Antinuclear antibodies 98 Multiple nuclear Best screening test; repeated negative tests make SLE unlikely Anti-dsDNA 70 DNA (double-stranded) High titers are SLE-specific and in some patients correlate with disease activity, Anti-Sm 25 Protein complexed to 6 species of nuclear U1 RNA Specific for SLE; no definite clinical correlations; most patients also have anti Anti-RNP 40 Protein complexed to U1 RNA Not specific for SLE; high titers associated with syndromes that have overlap blacks than whites Anti-Ro (SS-A) 30 Protein complexed to hY RNA, primarily 60 kDa and 52 kDa Not specific for SLE; associated with sicca syndrome, predisposes to subacute cutaneous with decreased risk for nephritis Anti-La (SS-B) 10 47-kDa protein complexed to hY RNA Usually associated with anti-Ro; associated with decreased risk for nephritis Antihistone 70 Histones associated with DNA (in the nucleosome, chromatin) More frequent in drug-induced lupus than in SLE Antiphospholipid 50 Phospholipids, 2 glycoproteins 1 cofactor, prothrombin Three tests available ELISAs for cardiolipin and 2G1, sensitive prothrombin Antierythrocyte 60 Erythrocyte membrane Measured as direct Coombs' test; a small proportion develops overt hemolysis Antiplatelet 30 Surface and altered cytoplasmic antigens on platelets Associated with thrombocytopenia but sensitivity and specificity are not good; Antineuronal (includes anti-glutamate receptor) 60 Neuronal and lymphocyte surface antigens In some series a positive test in CSF correlates with active CNS lupus. Antiribosomal P 20 Protein in ribosomes In some series a positive test in serum correlates with depression or psychosis Also remember: Antibody Best screening test for Antibody ANA SLE Anti-Histone Drug-induced lupus Antinuclear antibodies SLE, nonspecific Anti-dsDNA; Anti-Sm Specific for SLE Anti-sm (Nelson's Paediatric Textbook) Marker of CNS lupus Anti-DNA Level of which correlates with disease activity Anti-Ro (SS-A) SACL, neonatal lupus Anti-Ro and Anti-La ie risk of nephritis (protective against nephritis) Antiphospholipid Hematological and Fetal Loss Antiribosomal protein Depression and Psychosis Anti-basement membrane Goodpasture syndrome Anticardiolipin, lupus anticoagulant SLE, antiphospholipid syndrome Anticentromere Limited scleroderma (CREST syndrome) Anti--Scl--70 (anti--DNA topoisomerase 1) Scleroderma (diffuse) Anti--SSA, anti--SSB (anti-Ro, anti--La) Sjogren syndrome Anti--Jo--1, anti--SRP, anti--Mi--2 Polymyositis, dermatomyositis Anti--TSH receptor Graves disease Anti--U1RNP (ribonucleoprotein) Mixed connective tissue disease c-ANCA (PR3-ANCA) Granulomatosis with polyangiitis (Wegener) IgA antiendomysial, IgA anti--tissue transglutaminase Celiac disease p-ANCA (MPO--ANCA) Microscopic polyangiitis, Churg--*JStrauss syndrome Anti--ACh receptor Myasthenia gravis Rheumatoid factor (antibody, most commonly IgM, specific to IgG Fc region), anti--CCP Rheumatoid arthritis Anti--glutamate decarboxylase Type 1 diabetes mellitus Anti--desmoglein Pemphigus vulgaris Anti--hemidesmosome Bullous pemphigoid Antimicrosomal, antithyroglobulin Hashimoto thyroiditis Antimitochondria! 1*< biliary cirrhosis Anti--smooth muscle Autoimmune hepatitis ALSO KNOW: LE cells Neutrophils with LE bodies seen in SLE, RA Penicillamine drug induced Hematoxilin bodies SLE endocarditis (Libmann-Sack) 'Wire-loop' lesions SLE type IV nephritis"
+    "cop": 0,
+    "exp": "Ans.A Anti neuronal ab (Ref: Harrison's Internal medicine 18th/Table 319-1; 17th edition, P. 2076). Autoantibodies in Systemic Lupus Erythematosus (SLE) Antibody Prevalence, % Antigen Recognized Clinical Utility Antinuclear antibodies 98 Multiple nuclear Best screening test; repeated negative tests make SLE unlikely Anti-dsDNA 70 DNA (double-stranded) High titers are SLE-specific and in some patients correlate with disease activity, Anti-Sm 25 Protein complexed to 6 species of nuclear U1 RNA Specific for SLE; no definite clinical correlations; most patients also have anti Anti-RNP 40 Protein complexed to U1 RNA Not specific for SLE; high titers associated with syndromes that have overlap blacks than whites Anti-Ro (SS-A) 30 Protein complexed to hY RNA, primarily 60 kDa and 52 kDa Not specific for SLE; associated with sicca syndrome, predisposes to subacute cutaneous with decreased risk for nephritis Anti-La (SS-B) 10 47-kDa protein complexed to hY RNA Usually associated with anti-Ro; associated with decreased risk for nephritis Antihistone 70 Histones associated with DNA (in the nucleosome, chromatin) More frequent in drug-induced lupus than in SLE Antiphospholipid 50 Phospholipids, 2 glycoproteins 1 cofactor, prothrombin Three tests available ELISAs for cardiolipin and 2G1, sensitive prothrombin Antierythrocyte 60 Erythrocyte membrane Measured as direct Coombs' test; a small proportion develops overt hemolysis Antiplatelet 30 Surface and altered cytoplasmic antigens on platelets Associated with thrombocytopenia but sensitivity and specificity are not good; Antineuronal (includes anti-glutamate receptor) 60 Neuronal and lymphocyte surface antigens In some series a positive test in CSF correlates with active CNS lupus. Antiribosomal P 20 Protein in ribosomes In some series a positive test in serum correlates with depression or psychosis Also remember: Antibody Best screening test for Antibody ANA SLE Anti-Histone Drug-induced lupus Antinuclear antibodies SLE, nonspecific Anti-dsDNA; Anti-Sm Specific for SLE Anti-sm (Nelson's Paediatric Textbook) Marker of CNS lupus Anti-DNA Level of which correlates with disease activity Anti-Ro (SS-A) SACL, neonatal lupus Anti-Ro and Anti-La ie risk of nephritis (protective against nephritis) Antiphospholipid Hematological and Fetal Loss Antiribosomal protein Depression and Psychosis Anti-basement membrane Goodpasture syndrome Anticardiolipin, lupus anticoagulant SLE, antiphospholipid syndrome Anticentromere Limited scleroderma (CREST syndrome) Anti--Scl--70 (anti--DNA topoisomerase 1) Scleroderma (diffuse) Anti--SSA, anti--SSB (anti-Ro, anti--La) Sjogren syndrome Anti--Jo--1, anti--SRP, anti--Mi--2 Polymyositis, dermatomyositis Anti--TSH receptor Graves disease Anti--U1RNP (ribonucleoprotein) Mixed connective tissue disease c-ANCA (PR3-ANCA) Granulomatosis with polyangiitis (Wegener) IgA antiendomysial, IgA anti--tissue transglutaminase Celiac disease p-ANCA (MPO--ANCA) Microscopic polyangiitis, Churg--*JStrauss syndrome Anti--ACh receptor Myasthenia gravis Rheumatoid factor (antibody, most commonly IgM, specific to IgG Fc region), anti--CCP Rheumatoid arthritis Anti--glutamate decarboxylase Type 1 diabetes mellitus Anti--desmoglein Pemphigus vulgaris Anti--hemidesmosome Bullous pemphigoid Antimicrosomal, antithyroglobulin Hashimoto thyroiditis Antimitochondria! 1*< biliary cirrhosis Anti--smooth muscle Autoimmune hepatitis ALSO KNOW: LE cells Neutrophils with LE bodies seen in SLE, RA Penicillamine drug induced Hematoxilin bodies SLE endocarditis (Libmann-Sack) 'Wire-loop' lesions SLE type IV nephritis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Antibodies associated with GTCS\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b90b1e07-21e0-4760-a2dc-8edd5fddac7d": {
-    "cop": 4,
-    "exp": "Tonsilar fossa is bounded by Anterior - Palatoglossal fold containing palatoglossal muscle Posterior - Palatopharyngeal fold containing palato pharyngeal muscle Apex - Soft palate, where both arches meet Base - Dorsal surface of posterior one-third of tongue. (Ref: Anatomy of head, neck and brain. Vishram Singh. P 227 )"
+    "cop": 3,
+    "exp": "Tonsilar fossa is bounded by Anterior - Palatoglossal fold containing palatoglossal muscle Posterior - Palatopharyngeal fold containing palato pharyngeal muscle Apex - Soft palate, where both arches meet Base - Dorsal surface of posterior one-third of tongue. (Ref: Anatomy of head, neck and brain. Vishram Singh. P 227 )",
+    "hint_exp": "🎯 Think of \"bounded anteriorly by\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8ae09b49-665e-45e3-ac3d-869ff1a96a44": {
-    "cop": 3,
-    "exp": "Phallic phase (3-5years): Male child develops Oedipus complex (sexual feeling towards mother) and will be afraid that father may castrate him for this termed as \"Castration anxiety\"."
+    "cop": 2,
+    "exp": "Phallic phase (3-5years): Male child develops Oedipus complex (sexual feeling towards mother) and will be afraid that father may castrate him for this termed as \"Castration anxiety\".",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"development\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "04c2701f-e97b-451d-a824-49d4c35c4ffb": {
-    "cop": 1,
-    "exp": "Ans: A (Stagnant hypoxia)Ref: Pat GK, Hypoxia and Oxygen Therapy, In: Textbook of Medical Physiology, 2nd ed, Abuja Publishing House 2011: 94: 754-55Explanation:Refer the explanation of previous question"
+    "cop": 0,
+    "exp": "Ans: A (Stagnant hypoxia)Ref: Pat GK, Hypoxia and Oxygen Therapy, In: Textbook of Medical Physiology, 2nd ed, Abuja Publishing House 2011: 94: 754-55Explanation:Refer the explanation of previous question",
+    "hint_exp": "🧩 Your crush solved \"Shock causes\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a8b60e51-39fd-45f3-bc37-6b0ab6126430": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"more parallel vertical surfaces\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2b84d3c8-a571-4f34-aaea-b58afabb9ee5": {
-    "cop": 1,
-    "exp": "Mineral trioxide aggregate was developed by Dr Torabinejad in 1993. \nIt contains tricalcium silicate, dicalcium silicate, tricalcium aluminate, bismuth oxide, calcium sulfate and tetracalcium aluminoferrite.\npH of MTA is 12.5.\n\nTextbook of Endodontics Nisha Garg 3rd Ed"
+    "cop": 0,
+    "exp": "Mineral trioxide aggregate was developed by Dr Torabinejad in 1993. \nIt contains tricalcium silicate, dicalcium silicate, tricalcium aluminate, bismuth oxide, calcium sulfate and tetracalcium aluminoferrite.\npH of MTA is 12.5.\n\nTextbook of Endodontics Nisha Garg 3rd Ed",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Calcium silicate based material\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d364fa9c-b9f9-4328-bf4c-070339d50af1": {
-    "cop": 2,
-    "exp": "Total intravenous anaesthesia refers to a technique in general anaesthesia using a compination of agents given solely by IV route and in the absence of all inhalation agents.\nTIVA (Total intravenous anaesthesia) is produced by IV propoful. Propofol decreases the cerebral metabolic rate.\nPropofol does not impair renal function, does not trigger malignant hyperthermia and does not inhibit hypoxic pulmonary vasoconstriction."
+    "cop": 1,
+    "exp": "Total intravenous anaesthesia refers to a technique in general anaesthesia using a compination of agents given solely by IV route and in the absence of all inhalation agents.\nTIVA (Total intravenous anaesthesia) is produced by IV propoful. Propofol decreases the cerebral metabolic rate.\nPropofol does not impair renal function, does not trigger malignant hyperthermia and does not inhibit hypoxic pulmonary vasoconstriction.",
+    "hint_exp": "🎯 Think of \"Which following statements about\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4eafd9d8-b2ea-4f44-ac7f-a12103f61945": {
-    "cop": 4,
-    "exp": "IQ range for categoriesICD-10DSM-IVMild50-6950-55 to 70Moderate35-4935-40 to 50-55Severe20-3420-25 to 35-40ProfoundBelow 20Below 20-25Reference: Oxford Textbook of Psychiatry; 3rd edition; Chapter 18; Learning Disability"
+    "cop": 3,
+    "exp": "IQ range for categoriesICD-10DSM-IVMild50-6950-55 to 70Moderate35-4935-40 to 50-55Severe20-3420-25 to 35-40ProfoundBelow 20Below 20-25Reference: Oxford Textbook of Psychiatry; 3rd edition; Chapter 18; Learning Disability",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Profound\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f0a88604-cf9c-4181-87f8-e3daccd3d389": {
-    "cop": 2,
-    "exp": "THYROID HORMONE SYNTHESIS AND SECRETIONThyroid hormones are synthesized in the colloid, near the apical cell membrane of the follicular cells. Catalyzed by the enzyme thyroidal peroxidase, iodide in the thyroid cell is oxidized to iodine.The iodine enters the colloid and is rapidly bound at the 3 position to tyrosine molecules attached to thyroglobulin, forming monoiodotyrosine (MIT).MIT is next iodinated at the 5 position, forming diiodotyrosine (DIT).Two DIT molecules then condense in an oxidative process (\"coupling reaction\") to form one thyroxine (T4) molecule.Some T3 is probably formed within the thyroid gland by condensation of MIT with DIT. A small amount of reverse T3 (rT3) is also formed.In the normal thyroid, the average distribution of iodinated compounds is 23% MIT, 33% DIT, 35% T4, 7% T3, and 2% reverse T3."
+    "cop": 1,
+    "exp": "THYROID HORMONE SYNTHESIS AND SECRETIONThyroid hormones are synthesized in the colloid, near the apical cell membrane of the follicular cells. Catalyzed by the enzyme thyroidal peroxidase, iodide in the thyroid cell is oxidized to iodine.The iodine enters the colloid and is rapidly bound at the 3 position to tyrosine molecules attached to thyroglobulin, forming monoiodotyrosine (MIT).MIT is next iodinated at the 5 position, forming diiodotyrosine (DIT).Two DIT molecules then condense in an oxidative process (\"coupling reaction\") to form one thyroxine (T4) molecule.Some T3 is probably formed within the thyroid gland by condensation of MIT with DIT. A small amount of reverse T3 (rT3) is also formed.In the normal thyroid, the average distribution of iodinated compounds is 23% MIT, 33% DIT, 35% T4, 7% T3, and 2% reverse T3.",
+    "hint_exp": "🧩 Your crush solved \"the thyroid\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7a6581e6-e0e5-4135-a642-cb80351a063c": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Silica"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Silica",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"caused by\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e3b9ae95-2b0e-42af-a27a-f6c0b51af476": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Life expectancy at bih According to 22nd/e of Park, options 'd & e' are not the components of HDI. o Expected years of schooling (not adult literacy rate) and GNI per capita (not GDP) are the components of HDI."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Life expectancy at bih According to 22nd/e of Park, options 'd & e' are not the components of HDI. o Expected years of schooling (not adult literacy rate) and GNI per capita (not GDP) are the components of HDI.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Human development index includes\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4d8ea9c6-e243-4402-8393-ac53373773ce": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"bronchial asthma which\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8f5f61e2-a8ea-4d15-ba76-823918e49d3b": {
-    "cop": 4,
-    "exp": "Histoplasma capsulatum is a dimorphic fungus that forms two types of spores: tuberculate macroconidia and microconidia. Inhalation of the microconidia transmits infection. Inhaled spores (microconidia) are engulfed by macrophages and develop into yeast forms. Most infections remain asymptomatic; small granulomatous foci heal by calcification. However, pneumonia can occur. The heterophile antibody test is useful for early diagnosis of infectious mononucleosis. The figure below illustrates the oval budding yeasts."
+    "cop": 3,
+    "exp": "Histoplasma capsulatum is a dimorphic fungus that forms two types of spores: tuberculate macroconidia and microconidia. Inhalation of the microconidia transmits infection. Inhaled spores (microconidia) are engulfed by macrophages and develop into yeast forms. Most infections remain asymptomatic; small granulomatous foci heal by calcification. However, pneumonia can occur. The heterophile antibody test is useful for early diagnosis of infectious mononucleosis. The figure below illustrates the oval budding yeasts.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"tissue biopsies\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "940903a9-03dd-4900-bf86-2a421380958b": {
-    "cop": 1,
-    "exp": "Cryptococcus is a yeast, candida is a yeast-like fungus. Both are reproduced by budding Histoplasma is a dimorphic fungus Mucor and Rhizopus are produced by asexual means sporangiospores Reference: Textbook of Microbiology; Baveja; 4th edition"
+    "cop": 0,
+    "exp": "Cryptococcus is a yeast, candida is a yeast-like fungus. Both are reproduced by budding Histoplasma is a dimorphic fungus Mucor and Rhizopus are produced by asexual means sporangiospores Reference: Textbook of Microbiology; Baveja; 4th edition",
+    "hint_exp": "🧩 Your crush solved \"tissue\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e6b8da32-0a36-4ef8-8d82-e1eb2a517c9b": {
-    "cop": 3,
-    "exp": "False 90-95% of polio infections are asymptomatic False Acute flaccid paralysis is seen in Polio & not spastic paralysis True Risk of paralytic polio is increased by tonsillectomy, strenous physical exercise, tooth extraction,Injection (intramuscular) False OPV drops are given to all children less than 5 yr age in pulse polio immunisation"
+    "cop": 2,
+    "exp": "False 90-95% of polio infections are asymptomatic False Acute flaccid paralysis is seen in Polio & not spastic paralysis True Risk of paralytic polio is increased by tonsillectomy, strenous physical exercise, tooth extraction,Injection (intramuscular) False OPV drops are given to all children less than 5 yr age in pulse polio immunisation",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"True about polio\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c853613f-ef01-4ea6-afc6-2a467d44aecc": {
-    "cop": 4,
-    "exp": "Post should be at least 2/3 the root length, parallel sided and serrated for increased retention in the canal"
+    "cop": 3,
+    "exp": "Post should be at least 2/3 the root length, parallel sided and serrated for increased retention in the canal",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"dowel in a pin retained crown\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "08531c7b-c9f3-49f2-a8f2-e64ac23974e7": {
-    "cop": 3,
-    "exp": "terbutaline can be given as s.c (0.25mg) in asthma."
+    "cop": 2,
+    "exp": "terbutaline can be given as s.c (0.25mg) in asthma.",
+    "hint_exp": "🎯 Think of \"Which following drugs administered\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f00410d1-d829-45fa-8643-4dcc815bb0e6": {
-    "cop": 3,
-    "exp": "Mycosis Fungoides:\nMycosis fungoides is synonymous with Cutaneous T cell lymphoma."
+    "cop": 2,
+    "exp": "Mycosis Fungoides:\nMycosis fungoides is synonymous with Cutaneous T cell lymphoma.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"fungoides which\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ccb6817f-6a6b-49c6-879b-0bd13daf314d": {
-    "cop": 3,
-    "exp": "Ans. C: Debilitation after major surgery Acute bacterial parotitis is now infrequent, but its historical impoance. Mumps and bacterial parotitis were differentiated by 1800, but neither was effectively treated. The moality rate for bacterial parotitis was 80%. Before antibiotics and intravenous administration of fluids were available, bacterial parotitis occurred in postoperative patients or other severely ill patients who became dehydrated and contributed to their demise as an incurable sepsis."
+    "cop": 2,
+    "exp": "Ans. C: Debilitation after major surgery Acute bacterial parotitis is now infrequent, but its historical impoance. Mumps and bacterial parotitis were differentiated by 1800, but neither was effectively treated. The moality rate for bacterial parotitis was 80%. Before antibiotics and intravenous administration of fluids were available, bacterial parotitis occurred in postoperative patients or other severely ill patients who became dehydrated and contributed to their demise as an incurable sepsis.",
+    "hint_exp": "🧩 Your crush solved \"affecting the parotid gland\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f2bed904-d182-4df2-97d4-3e5d9186bc39": {
-    "cop": 2,
-    "exp": "High grade squamous intraepithelial lesion have a propensity to progress and become invasive, therefore need investigations and treatment Ref: Shaw Gynecology 17 e pg 410."
+    "cop": 1,
+    "exp": "High grade squamous intraepithelial lesion have a propensity to progress and become invasive, therefore need investigations and treatment Ref: Shaw Gynecology 17 e pg 410.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Patient diagnosed squamous cell\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a2cc3df8-77f3-4290-a580-d66398b9439d": {
-    "cop": 1,
-    "exp": "Ans. A. Can be diagnosed intrauterineExplanationClinical features of ARPKD (Autosomal recessive polycystic kidney disease) are:Classic ARPKD is generally diagnosed in utero or within the neonatal period and characterized by greatly enlarged echogenic kidneys in diseased fetuses. (Option a)Reduced fetal urine production may contribute to oligohydramnios and pulmonary hypoplasia.About 30% of affected neonates die shortly after birth due to respiratory insufficiency. Close to 60% of mortality occurs within the first month of life.In the classic group, most patients are bom with renal insufficiency and ESRD (End stage renal disease). (Option b)However, infants often have a transient improvement in their GFR; death from renal insufficiency at this stage is rare.Some patients are diagnosed after the neonatal stage and form the older group. Morbidity and mortality in this group often involve systemic hypertension, progressive renal insufficiency, and liver manifestations.The hallmarks of ARPKD liver disease are biliary dysgenesis due to a primary ductal plate malformation with associated periportal fibrosis, namely congenital hepatic fibrosis (CHF) and dilatation of intrahepatic bile ducts (Caroli's disease). CHF and Caroli's disease can then lead to portal hypertension exhibiting hepatosplenomegaly, variceal bleeding, and cholangitis.Some patients with the diagnosis of ARPKD at 1 year of age with nephromegaly exhibit slowly declining renal function over 20 years with only minimally enlarged kidneys at ESRD (Option c and e) and markedly atrophic kidneys following renal transplantation.The slow progression of renal disease is likely due to increasing fibrosis rather than the development of cysts.Systemic hypertension is common in all ARPKD patients, even those with normal renal function. (option d)"
+    "cop": 0,
+    "exp": "Ans. A. Can be diagnosed intrauterineExplanationClinical features of ARPKD (Autosomal recessive polycystic kidney disease) are:Classic ARPKD is generally diagnosed in utero or within the neonatal period and characterized by greatly enlarged echogenic kidneys in diseased fetuses. (Option a)Reduced fetal urine production may contribute to oligohydramnios and pulmonary hypoplasia.About 30% of affected neonates die shortly after birth due to respiratory insufficiency. Close to 60% of mortality occurs within the first month of life.In the classic group, most patients are bom with renal insufficiency and ESRD (End stage renal disease). (Option b)However, infants often have a transient improvement in their GFR; death from renal insufficiency at this stage is rare.Some patients are diagnosed after the neonatal stage and form the older group. Morbidity and mortality in this group often involve systemic hypertension, progressive renal insufficiency, and liver manifestations.The hallmarks of ARPKD liver disease are biliary dysgenesis due to a primary ductal plate malformation with associated periportal fibrosis, namely congenital hepatic fibrosis (CHF) and dilatation of intrahepatic bile ducts (Caroli's disease). CHF and Caroli's disease can then lead to portal hypertension exhibiting hepatosplenomegaly, variceal bleeding, and cholangitis.Some patients with the diagnosis of ARPKD at 1 year of age with nephromegaly exhibit slowly declining renal function over 20 years with only minimally enlarged kidneys at ESRD (Option c and e) and markedly atrophic kidneys following renal transplantation.The slow progression of renal disease is likely due to increasing fibrosis rather than the development of cysts.Systemic hypertension is common in all ARPKD patients, even those with normal renal function. (option d)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Autosomal recessive polycystic kidney\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "78c840a3-5ead-4b96-97b6-6b99a2b98f9b": {
-    "cop": 2,
-    "exp": "The following are the adverse effect following immunisation: Vaccine reaction - Here the event is caused by the inherent propeies of the vaccine when given correctly. Programme error - In this case the event is as a result of error in preparation, handling or administration of the vaccine. Coincidental - The event after immunisation is not caused by the vaccine but by a chance association. Injection reaction - The anxiety of the pain an injection itself may cause hyperventilation, dizziness etc. This is not a result of the vaccine and is called injection reaction. Ref: Park, 21st Edition, Page 103, 107."
+    "cop": 1,
+    "exp": "The following are the adverse effect following immunisation: Vaccine reaction - Here the event is caused by the inherent propeies of the vaccine when given correctly. Programme error - In this case the event is as a result of error in preparation, handling or administration of the vaccine. Coincidental - The event after immunisation is not caused by the vaccine but by a chance association. Injection reaction - The anxiety of the pain an injection itself may cause hyperventilation, dizziness etc. This is not a result of the vaccine and is called injection reaction. Ref: Park, 21st Edition, Page 103, 107.",
+    "hint_exp": "🎯 Think of \"of the injection and not as a\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dc05e667-659f-4f8f-a534-b329a1b356cc": {
-    "cop": 3,
-    "exp": "Bicipital aponeurosis lies superficial to the brachial aery and median nerve. -lies deep to superficial veins. -provides protection for the deeper structures during venepuncture at cubital fossa. -routinely released to decompress the median nerve"
+    "cop": 2,
+    "exp": "Bicipital aponeurosis lies superficial to the brachial aery and median nerve. -lies deep to superficial veins. -provides protection for the deeper structures during venepuncture at cubital fossa. -routinely released to decompress the median nerve",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Bicipital aponeurosis lies over\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "77e67056-21d4-4dad-ba62-f785e6ce4e38": {
-    "cop": 2,
-    "exp": "Suppression is pushing of unwanted feelings into unconscious which has reached conscious awareness."
+    "cop": 1,
+    "exp": "Suppression is pushing of unwanted feelings into unconscious which has reached conscious awareness.",
+    "hint_exp": "🧩 Your crush solved \"conscious impulse or conflict\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3779c7ae-2be8-498b-adc9-45465595bf19": {
-    "cop": 4,
-    "exp": "• Risks of colonoscopy: Perforation and hemorrhage\n• MC site of bleeding after colonoscopy: Stalk after polypectomy.\n• MC site of perforation during colonoscopy: Sigmoid colon\n• Perforation can be caused by excessive air pressure, tearing of the antimesenteric border of the colon from excessive pressure on colonic loops, and at the sites of electrosurgical applications"
+    "cop": 3,
+    "exp": "• Risks of colonoscopy: Perforation and hemorrhage\n• MC site of bleeding after colonoscopy: Stalk after polypectomy.\n• MC site of perforation during colonoscopy: Sigmoid colon\n• Perforation can be caused by excessive air pressure, tearing of the antimesenteric border of the colon from excessive pressure on colonic loops, and at the sites of electrosurgical applications",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"perforation during colonoscopy\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cbd91783-e901-4672-9ec1-7f58bce041da": {
-    "cop": 2,
-    "exp": "Cerebellar hemorrhage, when mild, may present with only headache, vomiting, and ataxia of gait. Patients may complain of dizziness or vertigo. The eyes may be deviated to the side opposite the hemorrhage. Nystagmus is not common, but an ipsilateral sixth nerve palsy can occur. This is the only type of intracerebral hemorrhage that commonly benefits from surgical intervention."
+    "cop": 1,
+    "exp": "Cerebellar hemorrhage, when mild, may present with only headache, vomiting, and ataxia of gait. Patients may complain of dizziness or vertigo. The eyes may be deviated to the side opposite the hemorrhage. Nystagmus is not common, but an ipsilateral sixth nerve palsy can occur. This is the only type of intracerebral hemorrhage that commonly benefits from surgical intervention.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"year woman develops occipital\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6c5c0933-9307-485a-a14b-305f77c287ef": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Probenecid Uricosuric drugs are probenacid, sulfinpyrazone and benzbromarone."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Probenecid Uricosuric drugs are probenacid, sulfinpyrazone and benzbromarone.",
+    "hint_exp": "🎯 Think of \"Which uricosuric drug\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8556ec34-5fc9-46de-8be9-bce2fbd3ea06": {
-    "cop": 1,
-    "exp": "Ref Robbins 9/e p106 Incised wound for the formation of collagen and new tissue, thick layer of epithelial ,and granulation tissue formation along with new blood vessels requires atleast 4_5 days"
+    "cop": 0,
+    "exp": "Ref Robbins 9/e p106 Incised wound for the formation of collagen and new tissue, thick layer of epithelial ,and granulation tissue formation along with new blood vessels requires atleast 4_5 days",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the wound\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7a277163-0216-4d34-838f-3f4ca53d763c": {
-    "cop": 2,
-    "exp": "Ergot derivatives should not be given in patients with hypeension since this is classically known to increase blood pressure. A high BP may provoke a post paum ecclampsia Oxytocin is not orally effective . Prostaglandin F2-alpha is given IM."
+    "cop": 1,
+    "exp": "Ergot derivatives should not be given in patients with hypeension since this is classically known to increase blood pressure. A high BP may provoke a post paum ecclampsia Oxytocin is not orally effective . Prostaglandin F2-alpha is given IM.",
+    "hint_exp": "🧩 Your crush solved \"no laceration and there\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "784827e3-b944-4c14-98d5-ed648eb38bc8": {
-    "cop": 3,
-    "exp": "Ans: C (Saphenofemoral incompetency) Ref : 74 A Manual on Clinical Surgery S. DasExplanation:Clinical Examination of Varicose VeinsBrodie-Trendelenherg TestDone to determine the incompetency of Saphenofemoral valve.Patient is placed in recumbent position.Limbs are raised to empty the veins. Veins are milked proximally for further emptying.Saphenofemoral junction is compressed either with the thumb of the examiner/toumiquet and the patient is asked to stand up quickly.There are two variants of this test.The first method is to assess saphenofemoral incompetency. The pressure is released and if the column of blood fills up quickly from above downwards it indicates saphenofemoral incompetency.The second method is to assess the perforators. Here, the pressure is maintained for one minute. Gradual filling of the veins during this period indicates incompetent perforators allowing reflux of blood from deep veins to superficial veins.Positive Brodie--Trendelenberg test i~ an indication for surgery.Tests to Assess Saphenofemoral IncompetencyBrodie -Trendelenberg testMorrisey's cough impulse testTests to Assess Deep VeinsPerthe's testModified Perthe's testTests to Assess PerforatorsMultiple tourniquet testPratt's testFegan's testBrodie-Trendelenberg testTest to Assess V alves in Superficial VeinSchwartz testNote:Even though Brodie-Trendelenberg test is used to assess both saphenofemoral incompetency and incompetent perforators its primary purpose is to assess saphenofemoral incompetency."
+    "cop": 2,
+    "exp": "Ans: C (Saphenofemoral incompetency) Ref : 74 A Manual on Clinical Surgery S. DasExplanation:Clinical Examination of Varicose VeinsBrodie-Trendelenherg TestDone to determine the incompetency of Saphenofemoral valve.Patient is placed in recumbent position.Limbs are raised to empty the veins. Veins are milked proximally for further emptying.Saphenofemoral junction is compressed either with the thumb of the examiner/toumiquet and the patient is asked to stand up quickly.There are two variants of this test.The first method is to assess saphenofemoral incompetency. The pressure is released and if the column of blood fills up quickly from above downwards it indicates saphenofemoral incompetency.The second method is to assess the perforators. Here, the pressure is maintained for one minute. Gradual filling of the veins during this period indicates incompetent perforators allowing reflux of blood from deep veins to superficial veins.Positive Brodie--Trendelenberg test i~ an indication for surgery.Tests to Assess Saphenofemoral IncompetencyBrodie -Trendelenberg testMorrisey's cough impulse testTests to Assess Deep VeinsPerthe's testModified Perthe's testTests to Assess PerforatorsMultiple tourniquet testPratt's testFegan's testBrodie-Trendelenberg testTest to Assess V alves in Superficial VeinSchwartz testNote:Even though Brodie-Trendelenberg test is used to assess both saphenofemoral incompetency and incompetent perforators its primary purpose is to assess saphenofemoral incompetency.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"varicose veins\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1a161e71-2d41-43e3-a3ed-4317413c6d86": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Arrange following enzymes gluconeogenesis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "463091e2-e514-46e3-aedb-931a3af6545e": {
-    "cop": 2,
-    "exp": "B i.e. Malonate"
+    "cop": 1,
+    "exp": "B i.e. Malonate",
+    "hint_exp": "🎯 Think of \"succinate dehydrogenase\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3a63a6c3-1c1d-4578-a6b2-08e42456d546": {
-    "cop": 2,
-    "exp": "<p> Leptospirosis is the most wide zoonotic disease in the world. Reference:Park&;s textbook of preventive and social medicine,K.Park,23rd edition,page no:291. <\\p>"
+    "cop": 1,
+    "exp": "<p> Leptospirosis is the most wide zoonotic disease in the world. Reference:Park&;s textbook of preventive and social medicine,K.Park,23rd edition,page no:291. <\\p>",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the world\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e68f5568-fcaa-4ff5-b664-5065ebba2d96": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"caused by\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "aa9ef9b2-7854-491c-baf4-6df499428906": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Adenoma bronchus"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Adenoma bronchus",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Blood stained sputum only\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1e61071d-fa24-4df4-b39d-ad51308c63e2": {
-    "cop": 3,
-    "exp": "Inherited hyperammonemias are a group of six diseases caused by inborn deficiencies of the enzymes of the Krebs-Henseleit urea cycle. The enzymes involved are: 1. N-acetyl glutamate synthetase 2. Arbamyl phosphate synthetase (CPS) 3. Ornithine transcarbamylase (OTC) 4. Argininosuccinic acid synthetase (citrullinemia) 5. Argininosuccinase deficiency 6. Arginase deficiency Most Severe Cases: In the most severe forms of the hyperammonemic disorders, the infants are asymptomatic at bih and during the first day or two of life, after which they refuse their feedings, vomit, and rapidly become inactive and lethargic, soon lapsing into an irreversible coma. Profuse sweating, focal or generalized seizures, rigidity with opisthotonos, hypothermia, and hyperventilation have been observed in the course of the illness. These symptoms constitute a medical emergency, but even with measures to reduce serum ammonia, the disease is usually fatal. Ref: Ropper A.H., Samuels M.A. (2009). Chapter 37. Inherited Metabolic Diseases of the Nervous System. In A.H. Ropper, M.A. Samuels (Eds), Adams and Victor's Principles of Neurology, 9e."
+    "cop": 2,
+    "exp": "Inherited hyperammonemias are a group of six diseases caused by inborn deficiencies of the enzymes of the Krebs-Henseleit urea cycle. The enzymes involved are: 1. N-acetyl glutamate synthetase 2. Arbamyl phosphate synthetase (CPS) 3. Ornithine transcarbamylase (OTC) 4. Argininosuccinic acid synthetase (citrullinemia) 5. Argininosuccinase deficiency 6. Arginase deficiency Most Severe Cases: In the most severe forms of the hyperammonemic disorders, the infants are asymptomatic at bih and during the first day or two of life, after which they refuse their feedings, vomit, and rapidly become inactive and lethargic, soon lapsing into an irreversible coma. Profuse sweating, focal or generalized seizures, rigidity with opisthotonos, hypothermia, and hyperventilation have been observed in the course of the illness. These symptoms constitute a medical emergency, but even with measures to reduce serum ammonia, the disease is usually fatal. Ref: Ropper A.H., Samuels M.A. (2009). Chapter 37. Inherited Metabolic Diseases of the Nervous System. In A.H. Ropper, M.A. Samuels (Eds), Adams and Victor's Principles of Neurology, 9e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Inherited hyperammonemia result deficiency\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "598d5484-6c3d-4983-aa72-cafaf6a4719a": {
-    "cop": 3,
-    "exp": "Ref:Textbook of forensic medicine and toxicology (V.V.Pillay) 17th edition, page no.377 Infanticide refers to the deliberate killings of chlid below the age of one year.In England, Germany, UK, there is a clear-cut distinction between homicide and infanticides. In India, no such distinction exists, and accuse is punished under sec.302IPC,the same manner as in murder."
+    "cop": 2,
+    "exp": "Ref:Textbook of forensic medicine and toxicology (V.V.Pillay) 17th edition, page no.377 Infanticide refers to the deliberate killings of chlid below the age of one year.In England, Germany, UK, there is a clear-cut distinction between homicide and infanticides. In India, no such distinction exists, and accuse is punished under sec.302IPC,the same manner as in murder.",
+    "hint_exp": "🎯 Think of \"Punishment infanticide comes under\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ed76ceeb-7206-424c-b2b0-222a1d226703": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Doppler o Color doppler ultrasonography is the screening method of choice (not simple USG : option a is incorrect),o Carotid angiography is the investigation of choice for diagnosis,o MRI is the investigation of choice for demyelinating disorder, e.g. multiple sclerosis.Investigations in nervous systemo Investigation of choice for white matter disease - MRI (CT is second choice),o Investigation of choice of acoustic neuroma - GD enhanced MRIo Best investigation for all brain tumors - Contrast enhanced MRIo Investigation of choice for meningeal carcinomatosis - Contrast (gadolinium) enhanced MRI.o Investigation of choice for posterior fossa tumor - MRIo Investigation of choice for para meningeal rhabdomyosarcoma - MRIo Investigation of choice for nasopharyngeal angiofibroma - Contrast enhanced CT.o Investigation of choice for hydrocephalus in older patients and for low pressure hydrocephalus - MRI.o Investigation of choice for acute (<48hrs) subarachnoid hemorrhage (SAH) - Non-Contrast CT scan,o Investivation of choice to know the etiology of SAH - Four vessels digital substruction angiography.o Hallmark of SAH - Blood in CSF on lumbar puncture,o Investigation of choice for chronic SAH - MRI.o Primary procedure of choice for evaluating intracranial complications of acute head injury - CT scan,o Best modality for assessing fractures of the skull base, calvarium and facial bone - CT scan,o Investigation of choice for demyelinating disorders MRI.o Investigation of choice for AV malformation and aneurysm - Angiography (MRI angiography or CT angiography),o Investigation of choice for Craniospinal infection - MRIo Investigation of choice for all intrinsic spinal cord lesions; all causes of cord compression - MRI.o Procedure of choice for emergent evaluation of acute intracerebral hemorrhage - CT scan,o Investigation of choice for myelopathy - MRI.o Shape of epidural hematomas on imaging - Biconvex, hyperdense or mixed density.o Shape of acute subdural hematoma on imaging - Crescent-shaped, hyperdense or mixed density ,o Chronic subdural hematoma on imaging - Hypodense.o Most sensitive test for ischaemic stroke - Diffusion weighted (DW) MRI."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Doppler o Color doppler ultrasonography is the screening method of choice (not simple USG : option a is incorrect),o Carotid angiography is the investigation of choice for diagnosis,o MRI is the investigation of choice for demyelinating disorder, e.g. multiple sclerosis.Investigations in nervous systemo Investigation of choice for white matter disease - MRI (CT is second choice),o Investigation of choice of acoustic neuroma - GD enhanced MRIo Best investigation for all brain tumors - Contrast enhanced MRIo Investigation of choice for meningeal carcinomatosis - Contrast (gadolinium) enhanced MRI.o Investigation of choice for posterior fossa tumor - MRIo Investigation of choice for para meningeal rhabdomyosarcoma - MRIo Investigation of choice for nasopharyngeal angiofibroma - Contrast enhanced CT.o Investigation of choice for hydrocephalus in older patients and for low pressure hydrocephalus - MRI.o Investigation of choice for acute (<48hrs) subarachnoid hemorrhage (SAH) - Non-Contrast CT scan,o Investivation of choice to know the etiology of SAH - Four vessels digital substruction angiography.o Hallmark of SAH - Blood in CSF on lumbar puncture,o Investigation of choice for chronic SAH - MRI.o Primary procedure of choice for evaluating intracranial complications of acute head injury - CT scan,o Best modality for assessing fractures of the skull base, calvarium and facial bone - CT scan,o Investigation of choice for demyelinating disorders MRI.o Investigation of choice for AV malformation and aneurysm - Angiography (MRI angiography or CT angiography),o Investigation of choice for Craniospinal infection - MRIo Investigation of choice for all intrinsic spinal cord lesions; all causes of cord compression - MRI.o Procedure of choice for emergent evaluation of acute intracerebral hemorrhage - CT scan,o Investigation of choice for myelopathy - MRI.o Shape of epidural hematomas on imaging - Biconvex, hyperdense or mixed density.o Shape of acute subdural hematoma on imaging - Crescent-shaped, hyperdense or mixed density ,o Chronic subdural hematoma on imaging - Hypodense.o Most sensitive test for ischaemic stroke - Diffusion weighted (DW) MRI.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"screening invivo choice\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9696296f-f81e-42b8-90e5-398da9c83945": {
-    "cop": 1,
-    "exp": "Key guidelines aspects of WHO recommended drinking water quality: Colour <15 true colour units (TCU) Turbidity <1 nephlometric turbidity units (NTU) pH: 6.5-8.5 Total dissolved solids (TDS) <500 mg/Litre Zero pathogenic microorganisms Zero infectious viruses Absence of pathogenic protozoa and infective stages of helminthes Fluoride <1.0 ppm (0.5-0.8 ppm: Optimum level) Nitrates <45 mg/Litre Nitrites <3 mg/Litre Gross alpha radiological activity <0.5 Bq/Litre (new guidelines -WHO) Gross Beta radiological activity <1.0 Bq/Litre (new guidelines-WHO) Ref: Park 25th edition Pgno: 762"
+    "cop": 0,
+    "exp": "Key guidelines aspects of WHO recommended drinking water quality: Colour <15 true colour units (TCU) Turbidity <1 nephlometric turbidity units (NTU) pH: 6.5-8.5 Total dissolved solids (TDS) <500 mg/Litre Zero pathogenic microorganisms Zero infectious viruses Absence of pathogenic protozoa and infective stages of helminthes Fluoride <1.0 ppm (0.5-0.8 ppm: Optimum level) Nitrates <45 mg/Litre Nitrites <3 mg/Litre Gross alpha radiological activity <0.5 Bq/Litre (new guidelines -WHO) Gross Beta radiological activity <1.0 Bq/Litre (new guidelines-WHO) Ref: Park 25th edition Pgno: 762",
+    "hint_exp": "🧩 Your crush solved \"drinking water\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ec9dbeb5-1b72-43fd-869c-896778e840e3": {
-    "cop": 3,
-    "exp": "Ans. c (Surface ectoderm). (Ref. Human Embryology by IB Singh, 6th/352)LENS# LENS develops from surface ectoderm.# Compared to the cornea, it has a much lower converging power of 17 diopters because of the relatively similar refractive indices of aqueous humor, lens, and vitreous body (cornea 42 D).# However, the lens is the only part of the refractive apparatus that is adjustable.# Adjustment to near vision (accommodation) therefore involves only the lens.# In addition, the lens functions as a UV filter for wavelengths between 300 and 400 nm and thus has a protective function for the macula.# Notching of the lens = \"pseudocoloboma\".# Wilson's disease can induce a yellow-green lens discoloration (chalcosis/ sunflower cataract).# Granular gold deposits located under the lens (chrysiasis lends) can occasionally occur after prolonged treatment with gold preparations (e. g. in primary chronic polyarthritis ).# Other medications, e.g., amiodarone or chlorpromazine, are sometimes deposited in the lens.# In patients with cataract, glittering cholesterol crystals are not infrequently found in the lens (so-called Christmas tree/ decoration cataract)."
+    "cop": 2,
+    "exp": "Ans. c (Surface ectoderm). (Ref. Human Embryology by IB Singh, 6th/352)LENS# LENS develops from surface ectoderm.# Compared to the cornea, it has a much lower converging power of 17 diopters because of the relatively similar refractive indices of aqueous humor, lens, and vitreous body (cornea 42 D).# However, the lens is the only part of the refractive apparatus that is adjustable.# Adjustment to near vision (accommodation) therefore involves only the lens.# In addition, the lens functions as a UV filter for wavelengths between 300 and 400 nm and thus has a protective function for the macula.# Notching of the lens = \"pseudocoloboma\".# Wilson's disease can induce a yellow-green lens discoloration (chalcosis/ sunflower cataract).# Granular gold deposits located under the lens (chrysiasis lends) can occasionally occur after prolonged treatment with gold preparations (e. g. in primary chronic polyarthritis ).# Other medications, e.g., amiodarone or chlorpromazine, are sometimes deposited in the lens.# In patients with cataract, glittering cholesterol crystals are not infrequently found in the lens (so-called Christmas tree/ decoration cataract).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Lens develops from\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "36d1d9e0-62d6-4065-832c-1fedd97d046c": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of neurogenic shock\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "eee99c0a-bd81-4fc8-9fa2-3e168d8be995": {
-    "cop": 2,
-    "exp": "palmar strangulation Here the palm of one hand is placed horizontally across the mouth and nostrils, it's pressure being reinforced by placing the other palm on the top of it at right angles, the heel of the palm above pressing upon the front of the neck. Ref: TEXTBOOK OF FORENSIC MEDICINE AND TOXICOLOGY KRISHNAN VIJ FIFTH EDITION PAGE 134"
+    "cop": 1,
+    "exp": "palmar strangulation Here the palm of one hand is placed horizontally across the mouth and nostrils, it's pressure being reinforced by placing the other palm on the top of it at right angles, the heel of the palm above pressing upon the front of the neck. Ref: TEXTBOOK OF FORENSIC MEDICINE AND TOXICOLOGY KRISHNAN VIJ FIFTH EDITION PAGE 134",
+    "hint_exp": "🎯 Think of \"one hand\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "90172650-01d2-4312-8c6d-5f71bbe8695c": {
-    "cop": 4,
-    "exp": "Administration of 100% oxygen may increase the O2 load on fetal lung tissue. Hence, it is not given . Reference: GHAI Essential pediatrics, 8th edition"
+    "cop": 3,
+    "exp": "Administration of 100% oxygen may increase the O2 load on fetal lung tissue. Hence, it is not given . Reference: GHAI Essential pediatrics, 8th edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following statements\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b9799e1c-a706-43df-8a51-7f1fa165d79c": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., District hospital has specialised facilities Sational program for prevention and control of cancer, diabetes, cardiovascular diseases and stroke (NPCDCS1 Introduction Single centre fi- cancer, diabetes, cardiovascular disease, stroke. 100 districts in 21 states being covered in 1 1 th live year plan. 20,000 subcentres and 700 community health centres (CHCs) covered. o Activities as sub-centres Health promotion for behaviour and lifestyle change. Oppounistic screening of BP. blood glucose (strip method) in age > 30 years. Referral to CHC of cases of DM, HT. o Activities at CHCs : Diagnosis and management at NCD clinic. Home visits by nurse for bedridden cases. Referral to district hospital for complicated cases. o Activities as District hospital : Health promotion Screening of population > 30 years. Diagnosis and management of cardiovascular disease. Home-based palliative care for chronic, debilitating progressive patients. Specialized facilities. Urban health check-up shceme JOr diabetes and high BP : Screen urban slum population. Screen population > 30 years and pregnant females. Cancer control in NPCDCS : Regional cancer control scheme : Regional cancer centres to act as referral centres for complicated cases. Oncology wing development scheme. Decentralized NGO scheme : IEC activities and early cancer detection. lEC at central level. Research and mining."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., District hospital has specialised facilities Sational program for prevention and control of cancer, diabetes, cardiovascular diseases and stroke (NPCDCS1 Introduction Single centre fi- cancer, diabetes, cardiovascular disease, stroke. 100 districts in 21 states being covered in 1 1 th live year plan. 20,000 subcentres and 700 community health centres (CHCs) covered. o Activities as sub-centres Health promotion for behaviour and lifestyle change. Oppounistic screening of BP. blood glucose (strip method) in age > 30 years. Referral to CHC of cases of DM, HT. o Activities at CHCs : Diagnosis and management at NCD clinic. Home visits by nurse for bedridden cases. Referral to district hospital for complicated cases. o Activities as District hospital : Health promotion Screening of population > 30 years. Diagnosis and management of cardiovascular disease. Home-based palliative care for chronic, debilitating progressive patients. Specialized facilities. Urban health check-up shceme JOr diabetes and high BP : Screen urban slum population. Screen population > 30 years and pregnant females. Cancer control in NPCDCS : Regional cancer control scheme : Regional cancer centres to act as referral centres for complicated cases. Oncology wing development scheme. Decentralized NGO scheme : IEC activities and early cancer detection. lEC at central level. Research and mining.",
+    "hint_exp": "🧩 Your crush solved \"National program prevention control\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5a242165-f06e-49de-9b9c-0cc4e1303f75": {
-    "cop": 1,
-    "exp": "ACTH dependent Cushing syndrome is caused by : ACTH producing pituitary adenoma Ectopic ACTH Bronchial or pancreatic carcinoid Small cell cancer of lung Medullary carcinoma of thyroids Pheochromocytoma ACTH Independent Cushing syndrome is caused by : Adrenocoical adenoma/ carcinoma Primary pigmented nodular adrenal disease Adrenal hyperplasia McCune Albright Syndrome Petrosal/Peripheral ACTH ratio > 2 indicates the presence of a pituitary adenoma-secreting ACTH. NOTE: Overall the most common cause of Cushing's syndrome is Iatrogenic steroids but if asked regarding ACTH dependent cause then answer should be given as Pituitary adenoma."
+    "cop": 0,
+    "exp": "ACTH dependent Cushing syndrome is caused by : ACTH producing pituitary adenoma Ectopic ACTH Bronchial or pancreatic carcinoid Small cell cancer of lung Medullary carcinoma of thyroids Pheochromocytoma ACTH Independent Cushing syndrome is caused by : Adrenocoical adenoma/ carcinoma Primary pigmented nodular adrenal disease Adrenal hyperplasia McCune Albright Syndrome Petrosal/Peripheral ACTH ratio > 2 indicates the presence of a pituitary adenoma-secreting ACTH. NOTE: Overall the most common cause of Cushing's syndrome is Iatrogenic steroids but if asked regarding ACTH dependent cause then answer should be given as Pituitary adenoma.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "396db5cd-55ab-434e-b14e-5c2742dd08d9": {
-    "cop": 4,
-    "exp": "Ans. D i.e. All of the above"
+    "cop": 3,
+    "exp": "Ans. D i.e. All of the above",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Hereditary spherocytosis characterized March\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "653fbea7-3a1f-41e2-87fc-e541eb92292b": {
-    "cop": 3,
-    "exp": "Ketamine has been administered intravenously, orally , rectally, intramuscularly and epidural route and very rare intranasal but not subcutaneous"
+    "cop": 2,
+    "exp": "Ketamine has been administered intravenously, orally , rectally, intramuscularly and epidural route and very rare intranasal but not subcutaneous",
+    "hint_exp": "🎯 Think of \"Ketamine given following routes\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f8d93899-b196-427e-9c0e-0f2a4e909a21": {
-    "cop": 4,
-    "exp": "Devic's disease is a variant of multiple sclerosis. Fulminant demyelinating process is seen with another variant called Marburg's variant."
+    "cop": 3,
+    "exp": "Devic's disease is a variant of multiple sclerosis. Fulminant demyelinating process is seen with another variant called Marburg's variant.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "23a3d4a0-103f-4d6c-bcb9-dc8bab68b013": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

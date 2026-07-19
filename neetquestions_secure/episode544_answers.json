@@ -1,202 +1,252 @@
 {
   "abe18c83-edea-4c45-b412-ca1cee875e10": {
-    "cop": 2,
-    "exp": "MCU is IOC for vesicoureteric reflex."
+    "cop": 1,
+    "exp": "MCU is IOC for vesicoureteric reflex.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"vesicoureteric reflex\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e2567ee3-172e-4253-89d8-1a5e1a38ec72": {
-    "cop": 4,
-    "exp": "Ans. D: 20 mm HgAcute pulmonary edema is defined as the sudden increase in pulmonary capillary pressure (usually more than 20 mm Hg) as a result of acute and fulminant left ventricular failure.Patient appears extremely ill, poorly perfused, restless, sweaty, with an increased work of breathing and using respiratory accessory muscles, tachypneic, tachycardic, hypoxic and coughing with frothy sputum that on occasion is blood tinged. Patients with noncardiogenic pulmonary edema have a warm periphery, a bounding pulse, and an absence of S-3 gallop and jugular venous distention.Differentiation is often made based on PCWP measurements from invasive hemodynamic monitoring.PCWP is generally more than 20 mm Hg in HF and is less than 20 mm Hg in noncardiogenic pulmonary edema."
+    "cop": 3,
+    "exp": "Ans. D: 20 mm HgAcute pulmonary edema is defined as the sudden increase in pulmonary capillary pressure (usually more than 20 mm Hg) as a result of acute and fulminant left ventricular failure.Patient appears extremely ill, poorly perfused, restless, sweaty, with an increased work of breathing and using respiratory accessory muscles, tachypneic, tachycardic, hypoxic and coughing with frothy sputum that on occasion is blood tinged. Patients with noncardiogenic pulmonary edema have a warm periphery, a bounding pulse, and an absence of S-3 gallop and jugular venous distention.Differentiation is often made based on PCWP measurements from invasive hemodynamic monitoring.PCWP is generally more than 20 mm Hg in HF and is less than 20 mm Hg in noncardiogenic pulmonary edema.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Left ventricular failure said\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "82858031-9de3-4fdb-b18e-069816662749": {
-    "cop": 4,
-    "exp": "--> Given x-ray is showing \" FIGURE OF 8 \" / \"SNOW MAN\" appearance --> Characteristic feature of supracardiac TAPVC --> TAPVC : In this condition, Pulmonary veins instead of draining into left atrium, anomalously drains into the right atrium directly/indirectly 3 types based on level of its drain Supracardiac (MC) --> Drain above level of hea in superior vena cava --> Non-obstructive Cardiac --> Drain at level of hea directly into right atrium or coronary sinus Infracardiac --> Drain below level of hea - IVC/ hepatic vein/ poal vein (always obstructive). X-ray shows\" Ground glass \" appearance --> Treatment: Surgery OTHER OPTIONS: --> Boot shaped hea/ cor en sabot appearance --> Tetralogy of fallot --> Left axis detion on ECG + congenital cyanotic hea disease --> Tricuspid atresia"
+    "cop": 3,
+    "exp": "--> Given x-ray is showing \" FIGURE OF 8 \" / \"SNOW MAN\" appearance --> Characteristic feature of supracardiac TAPVC --> TAPVC : In this condition, Pulmonary veins instead of draining into left atrium, anomalously drains into the right atrium directly/indirectly 3 types based on level of its drain Supracardiac (MC) --> Drain above level of hea in superior vena cava --> Non-obstructive Cardiac --> Drain at level of hea directly into right atrium or coronary sinus Infracardiac --> Drain below level of hea - IVC/ hepatic vein/ poal vein (always obstructive). X-ray shows\" Ground glass \" appearance --> Treatment: Surgery OTHER OPTIONS: --> Boot shaped hea/ cor en sabot appearance --> Tetralogy of fallot --> Left axis detion on ECG + congenital cyanotic hea disease --> Tricuspid atresia",
+    "hint_exp": "🎯 Think of \"the diagnosis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f2955f99-b61d-40de-ac0b-271ed214fe93": {
-    "cop": 1,
-    "exp": "Ans: A (4 cm...) \"Biopsy should be taken atleast2 cm above the dentate line\"- S. Das Textbook of Surgery 5th/1036\"A rectal biopsy is the gold standard for the diagnosis of Hirschsprung's disease. In the newborn period, this is done at the bedside with minimal morbidity using a special suction rectal biopsy instrument. It is importantto obtain the sample at least 2 cm above the dentate line to avoid sampling the normal transition from ganglionated bowel to the paucity or absence of ganglia in the region of the internal sphincter. In older children, because the rectal mucosa is thicker, a full-thickness biopsy is obtained under general anesthesia. Absent ganglia, hypertrophied nerve trunks, and robust immunostaining for acetylcholinesterase are the pathologic criteria to make the diagnosis\"-Sobiston 18th/2065\"Rectal suction biopsies are the procedure of choice & should be performed no closer than 2cm to the dentate line to avoid the normal area of hypoganglionosis at the anal verge\"-Nelson 18th/1566\"The definitive diagnosis of Hirschsprung's disease is made by rectal biopsy. Samples of mucosa and submucosa are obtained at 1 cm, 2 cm, and 3 cm from the dentate line\"-Schwartz 8th\"Definitive diagnosis is made by rectal biopsy. Mucosal and submucosal biopsies may be taken from the posterior rectal wall with a suction biopsy capsule without anesthesia at the bedside. Serial sections may demonstrate the characteristic lack of ganglion cells and proliferation of nerve trunks in Meissner's plexus. If the findings are equivocal, it is necessary to remove a 1-cm or 2-cm full-thickness strip of mucosa and muscularis from the posterior rectum proximal to the dentate line under anesthesia \"-CSDT 11th/1321Procedures for HSThe definitive method for obtaining tissue for pathologic examination is by a full-thickness rectal biopsy.The specimen must be obtained at least 1.5 cm above the dentate line because aganglionosis may normally be present below this level."
+    "cop": 0,
+    "exp": "Ans: A (4 cm...) \"Biopsy should be taken atleast2 cm above the dentate line\"- S. Das Textbook of Surgery 5th/1036\"A rectal biopsy is the gold standard for the diagnosis of Hirschsprung's disease. In the newborn period, this is done at the bedside with minimal morbidity using a special suction rectal biopsy instrument. It is importantto obtain the sample at least 2 cm above the dentate line to avoid sampling the normal transition from ganglionated bowel to the paucity or absence of ganglia in the region of the internal sphincter. In older children, because the rectal mucosa is thicker, a full-thickness biopsy is obtained under general anesthesia. Absent ganglia, hypertrophied nerve trunks, and robust immunostaining for acetylcholinesterase are the pathologic criteria to make the diagnosis\"-Sobiston 18th/2065\"Rectal suction biopsies are the procedure of choice & should be performed no closer than 2cm to the dentate line to avoid the normal area of hypoganglionosis at the anal verge\"-Nelson 18th/1566\"The definitive diagnosis of Hirschsprung's disease is made by rectal biopsy. Samples of mucosa and submucosa are obtained at 1 cm, 2 cm, and 3 cm from the dentate line\"-Schwartz 8th\"Definitive diagnosis is made by rectal biopsy. Mucosal and submucosal biopsies may be taken from the posterior rectal wall with a suction biopsy capsule without anesthesia at the bedside. Serial sections may demonstrate the characteristic lack of ganglion cells and proliferation of nerve trunks in Meissner's plexus. If the findings are equivocal, it is necessary to remove a 1-cm or 2-cm full-thickness strip of mucosa and muscularis from the posterior rectum proximal to the dentate line under anesthesia \"-CSDT 11th/1321Procedures for HSThe definitive method for obtaining tissue for pathologic examination is by a full-thickness rectal biopsy.The specimen must be obtained at least 1.5 cm above the dentate line because aganglionosis may normally be present below this level.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Biopsy Hirschsprung disease taken\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5294137a-cb1d-43b1-b501-d4424c19dd74": {
-    "cop": 2,
-    "exp": "Progesterone is known to exe a thermogenic effect on the body Record of basal body temperature daily after waking up in the morning helps in knowing the time of ovulation Ref: Shaw Gynecology 17 e pg 254."
+    "cop": 1,
+    "exp": "Progesterone is known to exe a thermogenic effect on the body Record of basal body temperature daily after waking up in the morning helps in knowing the time of ovulation Ref: Shaw Gynecology 17 e pg 254.",
+    "hint_exp": "🧩 Your crush solved \"Rise body temperature during\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a3f0f546-ee82-4e8e-9f26-2c59fe80f9c1": {
-    "cop": 1,
-    "exp": "WAALER-ROSE Bicolor is a haemagglutination slide test for the rapid qualitative and semi-quantitative detection of IgM Rheumatoid Factor in sera from most patients with rheumatoid ahritis. Ref: Ananthanarayana & panikers 9th edition"
+    "cop": 0,
+    "exp": "WAALER-ROSE Bicolor is a haemagglutination slide test for the rapid qualitative and semi-quantitative detection of IgM Rheumatoid Factor in sera from most patients with rheumatoid ahritis. Ref: Ananthanarayana & panikers 9th edition",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Rose waaler test\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fb954ced-4b37-49ef-ae31-8cf8d5be8e4b": {
-    "cop": 1,
-    "exp": "Answer is A (Hypocalcemia): Tumor Lysis syndrome is associated with Hypocalcemia. Tumor Lysis Syndrome is also associated with Hyperphosphatemia, Hyperkalemia and Acidosis."
+    "cop": 0,
+    "exp": "Answer is A (Hypocalcemia): Tumor Lysis syndrome is associated with Hypocalcemia. Tumor Lysis Syndrome is also associated with Hyperphosphatemia, Hyperkalemia and Acidosis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of tumor lysis syndrome\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f04bc5db-72ca-4794-a56a-cf9705afd0f0": {
-    "cop": 4,
-    "exp": "The diphtheria toxin is the sole virulence factor of C. diphtheriae. Responsible for both local effects and systemic complications. It is encoded by a lysogenic beta-prophage. It inhibits mammalian protein synthesis (ribosomal function) ADP ribosylation of EF-2 It has a special affinity for myocardium, adrenals and nerve endings"
+    "cop": 3,
+    "exp": "The diphtheria toxin is the sole virulence factor of C. diphtheriae. Responsible for both local effects and systemic complications. It is encoded by a lysogenic beta-prophage. It inhibits mammalian protein synthesis (ribosomal function) ADP ribosylation of EF-2 It has a special affinity for myocardium, adrenals and nerve endings",
+    "hint_exp": "🎯 Think of \"diphtheria toxin affinity following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f2441be1-203e-4cd5-9d3f-6eb6789e163c": {
-    "cop": 3,
-    "exp": "C i.e. Denaturation"
+    "cop": 2,
+    "exp": "C i.e. Denaturation",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"molecule\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2ca1608e-9d0c-4fac-ba44-7e1bb4bb260d": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the breast cancer\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "42d55d4c-4c6f-4dfb-82b0-b62c9e36fe23": {
-    "cop": 2,
-    "exp": "Posterior cutaneous nerve of thigh:- Root value:S1,S2,S3 Branch of sacral plexus. It enters gluteal region through greater sciatic foramen, below the pyriformis, and runs downwards medial or posterior to the sciatic nerve. It continues in the back of the thigh immediately deep to deep fascia. The nerve gives:1. A perineal branch which crosses the ischial tuberosity enters the urogenital triangle of the perineum and supplies skin of the posterior two -thirds of the scrotum.2. Gluteal branches which wind upwards round the lower border of the gluteus maximus, and supplies skin of posteroinferior quadrant of gluteal region. {Reference: BDC 6E pg no.72}"
+    "cop": 1,
+    "exp": "Posterior cutaneous nerve of thigh:- Root value:S1,S2,S3 Branch of sacral plexus. It enters gluteal region through greater sciatic foramen, below the pyriformis, and runs downwards medial or posterior to the sciatic nerve. It continues in the back of the thigh immediately deep to deep fascia. The nerve gives:1. A perineal branch which crosses the ischial tuberosity enters the urogenital triangle of the perineum and supplies skin of the posterior two -thirds of the scrotum.2. Gluteal branches which wind upwards round the lower border of the gluteus maximus, and supplies skin of posteroinferior quadrant of gluteal region. {Reference: BDC 6E pg no.72}",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the thigh\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "75ea5581-fa09-486c-9d5b-61b6e8ac6f83": {
-    "cop": 1,
-    "exp": "Aplasia is the absence of an organ coupled with persistence of the organ anlage or a rudiment. Thus, aplasia of the lung refers to a condition in which the main bronchus ends blindly in nondescript tissue composed of rudimentary ducts and connective tissue. Dysraphic anomalies (choice C) are defects caused by the failure of apposed structures to fuse. Hypoplasia (choice D) refers to reduced size owing to the incomplete development of all or part of an organ. Examples include microphthalmia and microcephaly. Involution failures (choice E) reflect the persistence of embryonic or fetal structures that should involute at certain stages of development. A persistent thyroglossal duct is the result of incomplete involution of the tract that connects the base of the tongue with the thyroid.Diagnosis: Pulmonary aplasia"
+    "cop": 0,
+    "exp": "Aplasia is the absence of an organ coupled with persistence of the organ anlage or a rudiment. Thus, aplasia of the lung refers to a condition in which the main bronchus ends blindly in nondescript tissue composed of rudimentary ducts and connective tissue. Dysraphic anomalies (choice C) are defects caused by the failure of apposed structures to fuse. Hypoplasia (choice D) refers to reduced size owing to the incomplete development of all or part of an organ. Examples include microphthalmia and microcephaly. Involution failures (choice E) reflect the persistence of embryonic or fetal structures that should involute at certain stages of development. A persistent thyroglossal duct is the result of incomplete involution of the tract that connects the base of the tongue with the thyroid.Diagnosis: Pulmonary aplasia",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"morphogenesis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "50b7abaa-ed59-45f8-93bd-2512ae251289": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"decreased infiltrative lung disease\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c356d0bf-36f1-4ecb-88da-cea106dc47c9": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Tetracyclines inhibit protein synthesis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e2b0546c-8011-446b-a7de-44804b384b09": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the following Gracey curette\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5abc9064-bb6f-4688-983c-36cbf3d98d85": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year tobacco chewer given\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e60a26ec-f6e3-4cd2-b619-0a4dfad3859b": {
-    "cop": 2,
-    "exp": "The basic technique for the detecting of RFLPs involves fragmenting a sample of DNA by a restriction enzyme, which can recognize and cut DNA wherever a specific sho sequence occurs, in a process known as a restriction digest. The resulting DNA fragments are then separated by length through a process known as agarose gel electrophoresis and transferred to a membrane the Southern blot procedure. Hybridization of the membrane to a labeled DNA probe then determines the length of the fragments which are complementary to the probe. An RFLP occurs when the length of a detected fragment varies between individuals. Each fragment length is considered an allele and can be used in genetic analysis.RFLP analysis may be subdivided into single- (SLP) and multi-locus probe (MLP) paradigms. Usually, the SLP method is preferred over MLP because it is more sensitive, easier to interpret and capable of analyzing mixed-DNA samples. Moreover, data can be generated even when the DNA is degraded (e.g. when it is found in bone remains.)Ref: https://en.wikipedia.org/wiki/Restriction_fragment_length_polymorphism"
+    "cop": 1,
+    "exp": "The basic technique for the detecting of RFLPs involves fragmenting a sample of DNA by a restriction enzyme, which can recognize and cut DNA wherever a specific sho sequence occurs, in a process known as a restriction digest. The resulting DNA fragments are then separated by length through a process known as agarose gel electrophoresis and transferred to a membrane the Southern blot procedure. Hybridization of the membrane to a labeled DNA probe then determines the length of the fragments which are complementary to the probe. An RFLP occurs when the length of a detected fragment varies between individuals. Each fragment length is considered an allele and can be used in genetic analysis.RFLP analysis may be subdivided into single- (SLP) and multi-locus probe (MLP) paradigms. Usually, the SLP method is preferred over MLP because it is more sensitive, easier to interpret and capable of analyzing mixed-DNA samples. Moreover, data can be generated even when the DNA is degraded (e.g. when it is found in bone remains.)Ref: https://en.wikipedia.org/wiki/Restriction_fragment_length_polymorphism",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"RELP True\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6912d946-d0b3-4ffd-b3c0-b58ff597adca": {
-    "cop": 2,
-    "exp": "In foreign body aspiration a radiograph is vital as the object may be radio opaque. often its not radio opaque or is obscured by the cardiac shadow or the inflammatory response. over inflation of affectedlung due to inflammatory response. Ref : BAILEY AND LOVE&;S SHO PRACTICE OF SURGERY,24 th edition ,PG NO:852"
+    "cop": 1,
+    "exp": "In foreign body aspiration a radiograph is vital as the object may be radio opaque. often its not radio opaque or is obscured by the cardiac shadow or the inflammatory response. over inflation of affectedlung due to inflammatory response. Ref : BAILEY AND LOVE&;S SHO PRACTICE OF SURGERY,24 th edition ,PG NO:852",
+    "hint_exp": "🎯 Think of \"Chest radiographs children with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6d711347-1a05-4803-bf2b-e81d0daecadc": {
-    "cop": 2,
-    "exp": "The single most sensitive indicator of body iron status is serum ferritin level. Levels of < 10 mcg/ L indicates iron deficiency. Ref: Park 21st edition, page 576."
+    "cop": 1,
+    "exp": "The single most sensitive indicator of body iron status is serum ferritin level. Levels of < 10 mcg/ L indicates iron deficiency. Ref: Park 21st edition, page 576.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "08a7b7d5-2f03-4711-869f-456adaffa3f4": {
-    "cop": 4,
-    "exp": "Ans. D 8 weeks of fertilizationRef: Duttas Obstetrics, 7th ed. pg. 41The prenatal period can be divided intoPeriodProduct (known as)Extends* Ovular/GerminalOvum1st 2 weeks after ovulation* EmbryonicEmbryoFrom fertilization (2nd week of gestation) to 8th week of development after fertilization (10th week AOG)* FetalFetusFrom 8th week of fertilization (10th week AOG) till delivery"
+    "cop": 3,
+    "exp": "Ans. D 8 weeks of fertilizationRef: Duttas Obstetrics, 7th ed. pg. 41The prenatal period can be divided intoPeriodProduct (known as)Extends* Ovular/GerminalOvum1st 2 weeks after ovulation* EmbryonicEmbryoFrom fertilization (2nd week of gestation) to 8th week of development after fertilization (10th week AOG)* FetalFetusFrom 8th week of fertilization (10th week AOG) till delivery",
+    "hint_exp": "🧩 Your crush solved \"Embryo term used till\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "acff25b5-0aea-4baf-bbcd-7a80b8ae589a": {
-    "cop": 2,
-    "exp": "In some strong chronic inflammatory reactions, the accumulation of lymphocytes, antigen-presenting cells, and plasma cells may assume the morphologic features of lymphoid organs, paicularly lymph nodes, even containing well-formed germinal centers. These are called teiary lymphoid organs; this type of lymphoid organogenesis is often seen in the synovium of patients with long-standing rheumatoid ahritis. Ref: Robbins 8th edition, Chapter 2."
+    "cop": 1,
+    "exp": "In some strong chronic inflammatory reactions, the accumulation of lymphocytes, antigen-presenting cells, and plasma cells may assume the morphologic features of lymphoid organs, paicularly lymph nodes, even containing well-formed germinal centers. These are called teiary lymphoid organs; this type of lymphoid organogenesis is often seen in the synovium of patients with long-standing rheumatoid ahritis. Ref: Robbins 8th edition, Chapter 2.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"often seen with which disease\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0b931813-184b-449f-b3e7-b6e3759e78e4": {
-    "cop": 1,
-    "exp": "Ans. (a) Milk productionRef : D.C. Dutta 8th ed. /136, 574Milk production is by Prolactin."
+    "cop": 0,
+    "exp": "Ans. (a) Milk productionRef : D.C. Dutta 8th ed. /136, 574Milk production is by Prolactin.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Oxytocin will following action\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c7bc8414-45de-4221-b780-b5b96fe76501": {
-    "cop": 2,
-    "exp": "Ans: B (Higher elastin content in adults) (Ref: Dhingra 5th/65,4th /56,12-13; The Developing Humans:Kleith8th/431-34: Longman's embryology 10th/317-23]\"Eustachian tube serves to ventilate the middle ear & exchange nasopharyngeal air with air in the middle ear. In children, ET is relatively narrow. It is prone to obstruction when mucosa swell in response to infection or allergic challenge & it results in middle ear effusion\"- Gray's 40th/626Eustachian TubeIt connects nasopharynx with the tympanic cavity. In adults it is about 36 cm long & runs downwards, forwards medially from its tympanic end, forming an angle of 45 with the horizontal.The tympanic end of the tube is body & is situated in the anterior wall of the middle ear. A little above the level of the floor. The pharyngeal end of the tube is slit-like & situated in the lateral wall of the nasopharynx, 1- 1.25 cm behind the posterior end of inferior turbinate*.# It develops from the first arch & partly from the second arch -Dhingra 5th /14Table (Dhingra 5th,/65): Differences Between Infant and Adult Eustachian tube InfantAdultLength13-18mm birth (about half as long as in adult)36mm (31-38 mm)DirectionMore horizontal.At birth, it forms an angle of 100 with the horizontal At age 7 and later it is 45degForms an angle of 45Qwith the horizontalAngulation at isthmusNo angulationAngulation presentBony versus cartilaginousBony parts is slightly longer than 1/3 of the total length of the tube and is relatively wider.Bony part 1/3; cartilaginous part 2/3TubalCartilaginous partFlaccid. Retrograde reflux of nasopharyngeal secretions can occurComparatively rigid, Remains closed and protects the middle ear from the refluxThe density of elastin at the hingeLess dense; tube does not efficiently close by recoilDensity of elastin moreand helps to keep the tube closed by the recoil of cartilageOstmann's pad of fatLess in volumeLarge and helps to keep the tube closed"
+    "cop": 1,
+    "exp": "Ans: B (Higher elastin content in adults) (Ref: Dhingra 5th/65,4th /56,12-13; The Developing Humans:Kleith8th/431-34: Longman's embryology 10th/317-23]\"Eustachian tube serves to ventilate the middle ear & exchange nasopharyngeal air with air in the middle ear. In children, ET is relatively narrow. It is prone to obstruction when mucosa swell in response to infection or allergic challenge & it results in middle ear effusion\"- Gray's 40th/626Eustachian TubeIt connects nasopharynx with the tympanic cavity. In adults it is about 36 cm long & runs downwards, forwards medially from its tympanic end, forming an angle of 45 with the horizontal.The tympanic end of the tube is body & is situated in the anterior wall of the middle ear. A little above the level of the floor. The pharyngeal end of the tube is slit-like & situated in the lateral wall of the nasopharynx, 1- 1.25 cm behind the posterior end of inferior turbinate*.# It develops from the first arch & partly from the second arch -Dhingra 5th /14Table (Dhingra 5th,/65): Differences Between Infant and Adult Eustachian tube InfantAdultLength13-18mm birth (about half as long as in adult)36mm (31-38 mm)DirectionMore horizontal.At birth, it forms an angle of 100 with the horizontal At age 7 and later it is 45degForms an angle of 45Qwith the horizontalAngulation at isthmusNo angulationAngulation presentBony versus cartilaginousBony parts is slightly longer than 1/3 of the total length of the tube and is relatively wider.Bony part 1/3; cartilaginous part 2/3TubalCartilaginous partFlaccid. Retrograde reflux of nasopharyngeal secretions can occurComparatively rigid, Remains closed and protects the middle ear from the refluxThe density of elastin at the hingeLess dense; tube does not efficiently close by recoilDensity of elastin moreand helps to keep the tube closed by the recoil of cartilageOstmann's pad of fatLess in volumeLarge and helps to keep the tube closed",
+    "hint_exp": "🎯 Think of \"True about Eustachian tube\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "64b93d88-8a01-43fc-bf6a-7812c7021fac": {
-    "cop": 3,
-    "exp": "Ans: cRef: Harrison, 16thed, p. 2445"
+    "cop": 2,
+    "exp": "Ans: cRef: Harrison, 16thed, p. 2445",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"lost\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1e2f5d21-b270-4815-bc33-a0eed5c47896": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d24a1568-6e33-4fa2-961e-f4fdc79ae86f": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., -60mVThe resting membrane potential of the hair cells is about -60 mV.When the stereocilia are pushed toward the kinocilium, the membrane potential is decreased to about -50 mV. When the bundle of processes is pushed in the opposite direction, the cell is hyperpolarized.Displacing the process in a direction perpendicular to this axis provides no change in membrane potenital, and displacing the processes in directions that are intermediate between these two directions produces depolarization or hyperpolarization that is propoional to the degree to which the direction is toward or away from the kinocilium.Thus, the hair processes provide a mechanism for generating changes in membrane potential propoional to the direction and distance the hair moves."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., -60mVThe resting membrane potential of the hair cells is about -60 mV.When the stereocilia are pushed toward the kinocilium, the membrane potential is decreased to about -50 mV. When the bundle of processes is pushed in the opposite direction, the cell is hyperpolarized.Displacing the process in a direction perpendicular to this axis provides no change in membrane potenital, and displacing the processes in directions that are intermediate between these two directions produces depolarization or hyperpolarization that is propoional to the degree to which the direction is toward or away from the kinocilium.Thus, the hair processes provide a mechanism for generating changes in membrane potential propoional to the direction and distance the hair moves.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Hair cells baseline membrane\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "495cdbb8-6526-474f-9bde-00abe9169ec8": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Pressure is -30mmhg * For Negative-pressure wound therapy (NPWT), vacuum pump can be set to deliver continuous or intermittent pressures, with levels of pressure depending on the device used, varying between -125 and -75 mmHg depending on the material used and patient tolerance.Negative pressure wound therapy:* Negative-pressure wound therapy (NPWT) is a therapeutic technique using a vacuum dressing to promote healing in acute or chronic wounds and enhance healing of second and third degree burns.* The therapy involves the controlled application of sub-atmospheric pressure to the local wound environment, using a sealed wound dressing connected to a vacuum pump.* NPWT promotes wound healing by applying a vacuum through a special sealed dressing.* The continued vacuum draws out fluid from the wound and increases blood flow to the area and helps to develop good granulation tissue. The vacuum may be applied continuously or intermittently, depending on the type of wound being treated and the clinical objectives.* Typically, the dressing is changed two to three times per week.* The dressings used for the technique include open-cell foam dressings and gauze, sealed with an occlusive dressing intended to contain the vacuum at the wound site.* Where NPWT devices allow delivery of fluids, such as saline or antibiotics to irrigate the wound,intermittent removal of used fluid supports the cleaning and drainage of the wound bed.* General technique for NPWT is as follows: \"protect the periwound by applying a skin barrier then it should be followed by a transparent film/'a dressing or filler material is fitted to the contours of a wound (which is covered with a non-adherent dressing film) and the overlying foam is then sealed with a transparent film.* A drainage tube is connected to the dressing through an opening of the transparent film.* A vacuum tube is connected through an opening in the film drape to a canister on the side of a vacuum pumpor vacuumsource, turning an open wound into a controlled, closed woundwhile removing excess fluid from the wound bed to enhance circulation and remove wound fluids. This creates a moist healing environment and reduces edema.* \"There must be an air tight seal in order for this therapy to be successful.\"* The technique is usually used with chronic wounds or wounds that are expected to present difficulties while healing (such as those associated with diabetes).* Three types of filler material are used over the wound surface: open-cell foam, gauze and transparent film, or honeycombed textiles with a dimpled wound contact surface.* With all three techniques, once the dressing is sealed the vacuum pump can be set to deliver continuous or intermittent pressures, with levels of pressure depending on the device used,varying between -125 and -75 mmHg depending on the material used and patient tolerance.Pressure can be applied constantly or intermittently.* The dressing type used depends on the type of wound, clinical objectives and patient. For pain sensitive patients with shallow or irregular wounds, wounds with undermining or explored tracts or tunnels, gauze may be used, while foam may be cut easily to fit a patient's wound that has a regular contour and perform better when aggressive granulation formation and wound contraction is the desired goal.* Contraindications for NPWT Use:1) Malignancy in the wound2) Untreated osteomyelitis3) Non enteric and unexplored fistulas4) Necrotic tissue with eschar present5) \"Do not place foam directly in contact with exposed blood vessels, anastomotic sites, organs and nerves.\"* There is now sufficient evidence to show that NPWT is safe, and will accelerate healing, to justify its use in the treatment of diabetes-associated chronic leg wounds. There is also evidence, though of poor quality, to suggest that healing of other wounds may also be accelerated."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Pressure is -30mmhg * For Negative-pressure wound therapy (NPWT), vacuum pump can be set to deliver continuous or intermittent pressures, with levels of pressure depending on the device used, varying between -125 and -75 mmHg depending on the material used and patient tolerance.Negative pressure wound therapy:* Negative-pressure wound therapy (NPWT) is a therapeutic technique using a vacuum dressing to promote healing in acute or chronic wounds and enhance healing of second and third degree burns.* The therapy involves the controlled application of sub-atmospheric pressure to the local wound environment, using a sealed wound dressing connected to a vacuum pump.* NPWT promotes wound healing by applying a vacuum through a special sealed dressing.* The continued vacuum draws out fluid from the wound and increases blood flow to the area and helps to develop good granulation tissue. The vacuum may be applied continuously or intermittently, depending on the type of wound being treated and the clinical objectives.* Typically, the dressing is changed two to three times per week.* The dressings used for the technique include open-cell foam dressings and gauze, sealed with an occlusive dressing intended to contain the vacuum at the wound site.* Where NPWT devices allow delivery of fluids, such as saline or antibiotics to irrigate the wound,intermittent removal of used fluid supports the cleaning and drainage of the wound bed.* General technique for NPWT is as follows: \"protect the periwound by applying a skin barrier then it should be followed by a transparent film/'a dressing or filler material is fitted to the contours of a wound (which is covered with a non-adherent dressing film) and the overlying foam is then sealed with a transparent film.* A drainage tube is connected to the dressing through an opening of the transparent film.* A vacuum tube is connected through an opening in the film drape to a canister on the side of a vacuum pumpor vacuumsource, turning an open wound into a controlled, closed woundwhile removing excess fluid from the wound bed to enhance circulation and remove wound fluids. This creates a moist healing environment and reduces edema.* \"There must be an air tight seal in order for this therapy to be successful.\"* The technique is usually used with chronic wounds or wounds that are expected to present difficulties while healing (such as those associated with diabetes).* Three types of filler material are used over the wound surface: open-cell foam, gauze and transparent film, or honeycombed textiles with a dimpled wound contact surface.* With all three techniques, once the dressing is sealed the vacuum pump can be set to deliver continuous or intermittent pressures, with levels of pressure depending on the device used,varying between -125 and -75 mmHg depending on the material used and patient tolerance.Pressure can be applied constantly or intermittently.* The dressing type used depends on the type of wound, clinical objectives and patient. For pain sensitive patients with shallow or irregular wounds, wounds with undermining or explored tracts or tunnels, gauze may be used, while foam may be cut easily to fit a patient's wound that has a regular contour and perform better when aggressive granulation formation and wound contraction is the desired goal.* Contraindications for NPWT Use:1) Malignancy in the wound2) Untreated osteomyelitis3) Non enteric and unexplored fistulas4) Necrotic tissue with eschar present5) \"Do not place foam directly in contact with exposed blood vessels, anastomotic sites, organs and nerves.\"* There is now sufficient evidence to show that NPWT is safe, and will accelerate healing, to justify its use in the treatment of diabetes-associated chronic leg wounds. There is also evidence, though of poor quality, to suggest that healing of other wounds may also be accelerated.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Negative pressure wound therapy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "30fbca4a-07bd-416e-863b-e13feec2d04f": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Rickettsia conorii Tick borne fevers caused by RickettsieOrganismFever causedR. conoriiMediterranean spotted fever (boutonneuse fever)Kenya tick typhusIndian tick typhusSouth African tick typhusIsraeli spotted feverAstrakhan spotted feverR. rickettsiiRocky mountain spotted feverR. AfircaeAfrican tick-bite fever (A similar disease is caused by R. parker in US and A.trisite in South America)R. japonicaJapanese spotted fever (oriental spotted fever) (similar diseae in North Asia is caused by R. sibirica and R. heilongjiangesis)R. honeiFlinders Island spotted feverR. australisQueensland tick typhus"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Rickettsia conorii Tick borne fevers caused by RickettsieOrganismFever causedR. conoriiMediterranean spotted fever (boutonneuse fever)Kenya tick typhusIndian tick typhusSouth African tick typhusIsraeli spotted feverAstrakhan spotted feverR. rickettsiiRocky mountain spotted feverR. AfircaeAfrican tick-bite fever (A similar disease is caused by R. parker in US and A.trisite in South America)R. japonicaJapanese spotted fever (oriental spotted fever) (similar diseae in North Asia is caused by R. sibirica and R. heilongjiangesis)R. honeiFlinders Island spotted feverR. australisQueensland tick typhus",
+    "hint_exp": "🎯 Think of \"Boutonneuse fever caused\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bc4c7cc6-0ee5-455d-a055-5f0ef2e799ee": {
-    "cop": 1,
-    "exp": "AUDIT (Alcohol used disorders indentification test) is used in the screening of alcohol use disorders."
+    "cop": 0,
+    "exp": "AUDIT (Alcohol used disorders indentification test) is used in the screening of alcohol use disorders.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which of the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0540ff8d-5847-493d-b5db-ea4bb8849329": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e. Those who have not breast fed their children"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e. Those who have not breast fed their children",
+    "hint_exp": "🧩 Your crush solved \"Statistically impoant risk factors\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2e639948-c0da-47e6-ad6a-7b5950ca20f3": {
-    "cop": 2,
-    "exp": "Giant cell containing lesions\nBenign\nGCT (osteoclastoma)\nBenign fibrous histiocytom\nNon--ossifying fibroma\nChondroblastoma\nChondromyxoid fibroma\nFibrous dysplasia\nMalignant\nGiant cell containing osteogenic sarcoma\nMalignant fibrous histiocytoma\nFibrosarcoma"
+    "cop": 1,
+    "exp": "Giant cell containing lesions\nBenign\nGCT (osteoclastoma)\nBenign fibrous histiocytom\nNon--ossifying fibroma\nChondroblastoma\nChondromyxoid fibroma\nFibrous dysplasia\nMalignant\nGiant cell containing osteogenic sarcoma\nMalignant fibrous histiocytoma\nFibrosarcoma",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"fibrosa cystica\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b8278df3-1aaf-4b4b-94c7-0081a199a8be": {
-    "cop": 2,
-    "exp": "All amino acids have 1 assymetric or chiral C (means this C has all 4 valencies occupied by different atoms or group of atoms) EXCEPTIONS: * 0 - Glycine (So it lacks chilarity. Hence glycine won't show any optical activity) * 2 - Isoleucine, Threonine (double chiral carbons)"
+    "cop": 1,
+    "exp": "All amino acids have 1 assymetric or chiral C (means this C has all 4 valencies occupied by different atoms or group of atoms) EXCEPTIONS: * 0 - Glycine (So it lacks chilarity. Hence glycine won't show any optical activity) * 2 - Isoleucine, Threonine (double chiral carbons)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Amino acid with double\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "806e447b-5a41-40af-a268-ed48da162295": {
-    "cop": 4,
-    "exp": "Ans. D i.e. Tuberculoid Leprosy"
+    "cop": 3,
+    "exp": "Ans. D i.e. Tuberculoid Leprosy",
+    "hint_exp": "🎯 Think of \"test\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8800c369-7b64-42d4-9f04-5e6a86f9280b": {
-    "cop": 2,
-    "exp": "Impedence autiometry is used to find the health or diseased status of middle ear."
+    "cop": 1,
+    "exp": "Impedence autiometry is used to find the health or diseased status of middle ear.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Impedance audiometry pathology\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "469775e8-47f8-421b-8f99-aad88d14e455": {
-    "cop": 2,
-    "exp": "STEP wise approach to surveillance (STEPS): Is a simple, standardized method by WHO for surveillance Is of Two types STEP wise approach to chronic disease risk factor surveillance STEP wise approach to Stroke Surveillance Comprises of 3 steps : STEPS CORE EXPANDED STEP 1 Behavioural measurements Tobacco use Alcohol consumption Diet Physical activity History of raised BP History of diabetes Tobacco use Alcohol consumption Diet Physical activity History of raised BP History of diabetes STEP 2 Physical measurements Height and weight Waist BP Hip Circumference and Hea rate STEP 3 Biochemical measurements Blood glucose Blood lipids Triglycerides and HDL cholesterol Ref: World Health Organisation"
+    "cop": 1,
+    "exp": "STEP wise approach to surveillance (STEPS): Is a simple, standardized method by WHO for surveillance Is of Two types STEP wise approach to chronic disease risk factor surveillance STEP wise approach to Stroke Surveillance Comprises of 3 steps : STEPS CORE EXPANDED STEP 1 Behavioural measurements Tobacco use Alcohol consumption Diet Physical activity History of raised BP History of diabetes Tobacco use Alcohol consumption Diet Physical activity History of raised BP History of diabetes STEP 2 Physical measurements Height and weight Waist BP Hip Circumference and Hea rate STEP 3 Biochemical measurements Blood glucose Blood lipids Triglycerides and HDL cholesterol Ref: World Health Organisation",
+    "hint_exp": "🧩 Your crush solved \"STEPS used\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "618166d6-4622-4691-8e35-37eb8e1519be": {
-    "cop": 1,
-    "exp": "(A) (Pearl index) (471 - Park 22nd)Pearl index and life table analysis** are used to measure contraceptive efficacy(A) PEARL INDEX is defined as the number of failures per 100 woman - years of exposure (HWY)Failure rate per HWY =Total accidental pregnancies------------------Total months of exposurex 1200* The factor 1200 is the number of months in 100 years*** Total month of exposure in the denominator is obtained by deducting from period under review of 10 months for a full term pregnancy and 4 months for an abortion.* Pearl index limitation is over come by using the method life-table analysis***(B Life-Table Analysis:* Calculative failure rate for each months of use*** A cumulative failure rate can then compare methods for any specific length of exposure.* Women who leave a study for any reason other than unintended pregnancy are removed from the analysis contributing their exposure until the time of the exit."
+    "cop": 0,
+    "exp": "(A) (Pearl index) (471 - Park 22nd)Pearl index and life table analysis** are used to measure contraceptive efficacy(A) PEARL INDEX is defined as the number of failures per 100 woman - years of exposure (HWY)Failure rate per HWY =Total accidental pregnancies------------------Total months of exposurex 1200* The factor 1200 is the number of months in 100 years*** Total month of exposure in the denominator is obtained by deducting from period under review of 10 months for a full term pregnancy and 4 months for an abortion.* Pearl index limitation is over come by using the method life-table analysis***(B Life-Table Analysis:* Calculative failure rate for each months of use*** A cumulative failure rate can then compare methods for any specific length of exposure.* Women who leave a study for any reason other than unintended pregnancy are removed from the analysis contributing their exposure until the time of the exit.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Contraceptive efficacy measured\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e2dd5853-976b-40ec-953b-a401634ed247": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Blow out fracture Fractures of the floor of the orbit Zygomatic fracture and Le fo II maxillary fractures are always accompanied by fractures of orbital floor. Isolated fractures of orbital floor, when a large blunt object strikes the globe, are called \"blow out fractures\". Clinical features Ecchymosis of lid, conjunctiva and sclera. Endophthalmos with inferior displacement of the eye-ball. This becomes apparent when oedema subsides. Diplopia, which may be due to displacement of the eyeball or entrapment of inferior rectus and inferior oblique muscles. Hypoaesthesi a or anaesthesia of cheek and upper lip, if infraorbital nerve is involved. Diagnosis J Water's view show a convex opacity bulging into the antrum from above, i.e., Tear drop opacity. CT scan is diagnostic."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Blow out fracture Fractures of the floor of the orbit Zygomatic fracture and Le fo II maxillary fractures are always accompanied by fractures of orbital floor. Isolated fractures of orbital floor, when a large blunt object strikes the globe, are called \"blow out fractures\". Clinical features Ecchymosis of lid, conjunctiva and sclera. Endophthalmos with inferior displacement of the eye-ball. This becomes apparent when oedema subsides. Diplopia, which may be due to displacement of the eyeball or entrapment of inferior rectus and inferior oblique muscles. Hypoaesthesi a or anaesthesia of cheek and upper lip, if infraorbital nerve is involved. Diagnosis J Water's view show a convex opacity bulging into the antrum from above, i.e., Tear drop opacity. CT scan is diagnostic.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ff9a5fe3-764a-4807-9b84-7d7188943ff8": {
-    "cop": 1,
-    "exp": "Ans (a) EBVRef: Robbin's pathology 9th ed. /588-90, 606EBVNasopharyngeal cancer, Burkitt lymphoma,Hodgkins and non-Hodgkin lymphoma; Infectious mononucleosis (Paul Bunnell test).CMVCMV retinitisHHV 6Primary effusion lymphomaHHV 8Kaposi sarcoma"
+    "cop": 0,
+    "exp": "Ans (a) EBVRef: Robbin's pathology 9th ed. /588-90, 606EBVNasopharyngeal cancer, Burkitt lymphoma,Hodgkins and non-Hodgkin lymphoma; Infectious mononucleosis (Paul Bunnell test).CMVCMV retinitisHHV 6Primary effusion lymphomaHHV 8Kaposi sarcoma",
+    "hint_exp": "🎯 Think of \"Hodgkin lymphoma caused\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "aa699600-de30-415b-b751-501ec0fdb217": {
-    "cop": 3,
-    "exp": "The lingual surface of epiglottis and vallecula are a pa of oropharynx - Logan Turner Whole of epiglottis is included in supraglottic area. - Dhingra 6th/ed , Scott-Brown's 7th/ed"
+    "cop": 2,
+    "exp": "The lingual surface of epiglottis and vallecula are a pa of oropharynx - Logan Turner Whole of epiglottis is included in supraglottic area. - Dhingra 6th/ed , Scott-Brown's 7th/ed",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Supraglottis includes following except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8d3cecbb-6699-4b87-9008-c2281369f676": {
-    "cop": 1,
-    "exp": "GREAT SAPHENOUS VEIN:- Lie on the dorsum of the foot.Recieves 4 dorsal metatarsal veins.Formed by union of medial end of dorsal venous arch with the medial marginal vein and drains the medial side of great toe.Passes upwards of medial malleolus (2.5cm in front) ,crosses the lower one-third of the medial surface of the tibia obliquely, and runs along medial border to reach the back of the knee.Thigh- it inclines forward to reach the saphenous opening where it pierces the cribriform fascia and opens into femoral vein. Contains 10-15 valves to prevent backflow of venous blood. Incompetence of these valves makes vein dilated and touous leading to varicose veins. The vein is connected to deep veins of limb perforator veins. 3 medial perforators-just above ankle.1 perforator just below knee 1 in the region of adductor canal. The perforating veins are also provided with valves which permit flow of blood only from superficial to deep. {Reference: BDC.6E }"
+    "cop": 0,
+    "exp": "GREAT SAPHENOUS VEIN:- Lie on the dorsum of the foot.Recieves 4 dorsal metatarsal veins.Formed by union of medial end of dorsal venous arch with the medial marginal vein and drains the medial side of great toe.Passes upwards of medial malleolus (2.5cm in front) ,crosses the lower one-third of the medial surface of the tibia obliquely, and runs along medial border to reach the back of the knee.Thigh- it inclines forward to reach the saphenous opening where it pierces the cribriform fascia and opens into femoral vein. Contains 10-15 valves to prevent backflow of venous blood. Incompetence of these valves makes vein dilated and touous leading to varicose veins. The vein is connected to deep veins of limb perforator veins. 3 medial perforators-just above ankle.1 perforator just below knee 1 in the region of adductor canal. The perforating veins are also provided with valves which permit flow of blood only from superficial to deep. {Reference: BDC.6E }",
+    "hint_exp": "🧩 Your crush solved \"what relation to the malleoli\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "17b552f6-e0ac-4e3f-a976-0548e074cf11": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"orbitoaxial opening determined point\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "929163db-228c-46f3-ac83-05e5cfb0ca75": {
-    "cop": 3,
-    "exp": "Asherman&;s syndrome Condition characterized by adhesions and/or fibrosis of the endometrium cavity of uterus Diagnosis Hysteroscopy: Confirms uterine synechiae, type and extent of adhesions Hsterosalpingography: Diagnoses uterine synechiae, polyps, uterine anomaly, patency of fallopian tube and incompetence of internal os Saline sonography: Infusion of normal saline into the uterine cavity and simultaneous transvaginal sonography. Helpful in the diagnosis of uterine pathology. SHAW&;S TEXTBOOK OF GYNECOLOGY,15th edition"
+    "cop": 2,
+    "exp": "Asherman&;s syndrome Condition characterized by adhesions and/or fibrosis of the endometrium cavity of uterus Diagnosis Hysteroscopy: Confirms uterine synechiae, type and extent of adhesions Hsterosalpingography: Diagnoses uterine synechiae, polyps, uterine anomaly, patency of fallopian tube and incompetence of internal os Saline sonography: Infusion of normal saline into the uterine cavity and simultaneous transvaginal sonography. Helpful in the diagnosis of uterine pathology. SHAW&;S TEXTBOOK OF GYNECOLOGY,15th edition",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Asherman syndrome diagnosed except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bcece1b7-e496-4c8e-85f7-13dc7923d307": {
-    "cop": 2,
-    "exp": "IgA nephropathy is an immune complex-mediated glomerulonephritis defined by the presence of diffuse mesangial IgA deposits often associated with mesangial hypercellularity. ref - Harrisons internal medicine 20e pg2135-2140"
+    "cop": 1,
+    "exp": "IgA nephropathy is an immune complex-mediated glomerulonephritis defined by the presence of diffuse mesangial IgA deposits often associated with mesangial hypercellularity. ref - Harrisons internal medicine 20e pg2135-2140",
+    "hint_exp": "🎯 Think of \"found in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "74a8b37a-3380-4355-b0a0-a7d82c2297db": {
-    "cop": 1,
-    "exp": "Ans. is. 'a' i.e., PCT HormoneSite of action in kidneyEffectsAldosteroneDistal tubule (late) and collecting duct| NaCl & water reabsorptions, K+ secretionADHDistal tubule and collecting duct| Water reabsorptionAngiotensin IIProximal tubule, thick ascending limb of loop of Henle, distal tubule, collecting duct| NaCl & water reabsoiptionANPDistal tubule, collecting duct| NaCl reabsorption"
+    "cop": 0,
+    "exp": "Ans. is. 'a' i.e., PCT HormoneSite of action in kidneyEffectsAldosteroneDistal tubule (late) and collecting duct| NaCl & water reabsorptions, K+ secretionADHDistal tubule and collecting duct| Water reabsorptionAngiotensin IIProximal tubule, thick ascending limb of loop of Henle, distal tubule, collecting duct| NaCl & water reabsoiptionANPDistal tubule, collecting duct| NaCl reabsorption",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Where does\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "87f865ee-ace7-4084-9888-b9cf34b88438": {
-    "cop": 3,
-    "exp": "Amniocentesis, cordocentesis, cystic hygroma aspiration, and chorionic villus sampling are techniques of obtaining fetal tissues that are amenable to cytogenetic analysis. Amniotic fluid cells require tissue culture to obtain adequate cell numbers for analysis. Chorionic villi can be harvested directly for extremely rapid diagnosis or can be cultured for higher banding (increased detail). Fetal blood obtained by cordocentesis or percutaneous umbilical blood sampling (PUBS) requires 2 to 3 days of culturing before a karyotype is obtained. Doppler flow ultrasound is used to assess blood flow through fetal vessels but is not a substitute for direct analysis of tissue."
+    "cop": 2,
+    "exp": "Amniocentesis, cordocentesis, cystic hygroma aspiration, and chorionic villus sampling are techniques of obtaining fetal tissues that are amenable to cytogenetic analysis. Amniotic fluid cells require tissue culture to obtain adequate cell numbers for analysis. Chorionic villi can be harvested directly for extremely rapid diagnosis or can be cultured for higher banding (increased detail). Fetal blood obtained by cordocentesis or percutaneous umbilical blood sampling (PUBS) requires 2 to 3 days of culturing before a karyotype is obtained. Doppler flow ultrasound is used to assess blood flow through fetal vessels but is not a substitute for direct analysis of tissue.",
+    "hint_exp": "🧩 Your crush solved \"karyotype\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "462787e0-a3c7-49b4-a578-598a88f7d5df": {
-    "cop": 3,
-    "exp": "Median nerve is contributed by two roots given by lateral cord: C5, C6, C7 and medial cord: C8; T1. Radial nerve (C5, 6, 7, 8, T1) also carries fibres from all the roots of brachial plexus. If both given in options , Radial nerve > Median nerve ."
+    "cop": 2,
+    "exp": "Median nerve is contributed by two roots given by lateral cord: C5, C6, C7 and medial cord: C8; T1. Radial nerve (C5, 6, 7, 8, T1) also carries fibres from all the roots of brachial plexus. If both given in options , Radial nerve > Median nerve .",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which following nerves carry\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "882352a5-35f5-4dbd-8c08-19fac23d9d1e": {
-    "cop": 2,
-    "exp": "Ans: B (Alpha-fetoprotein (AFP)) \"A valuable serum tumor marker, AFP is used in the diagnosis & monitoring of hepatic tumors AFP is elevated in almost all hepatoblastomas\"- Nelson 18th/2155\"Serum AFP is elevated in 85-90% of patients & cm serve as a useful marker for therapeutic response*\"- Sabiston 18th/1507HepatoblastomaHepatoblastoma is the most common primary hepatic tum or of childhood'. Rare cases of adult hepatoblastoma have been reported, but overall, the median age of presentation is 18 months, & almost all cases occur before the age of 3 years.Recently it has been a/w familial polyposis syndrome.Most often, this tumor presents as an asymptomatic mass It arise from right lobe 3 times more than left"
+    "cop": 1,
+    "exp": "Ans: B (Alpha-fetoprotein (AFP)) \"A valuable serum tumor marker, AFP is used in the diagnosis & monitoring of hepatic tumors AFP is elevated in almost all hepatoblastomas\"- Nelson 18th/2155\"Serum AFP is elevated in 85-90% of patients & cm serve as a useful marker for therapeutic response*\"- Sabiston 18th/1507HepatoblastomaHepatoblastoma is the most common primary hepatic tum or of childhood'. Rare cases of adult hepatoblastoma have been reported, but overall, the median age of presentation is 18 months, & almost all cases occur before the age of 3 years.Recently it has been a/w familial polyposis syndrome.Most often, this tumor presents as an asymptomatic mass It arise from right lobe 3 times more than left",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"hepatoblastoma\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d746203f-d228-428c-8e11-06df6ca4c7a6": {
-    "cop": 1,
-    "exp": "(a)Volume of distributionRef: Lippincott, 6th ed., pg. 21 and Katzung, 13th ed., pg. 50-51Sometimes rapid achievement of desired plasma concentrations of drugs is needed to produce the prompt response (e.g. in serious infections or arrhythmias). When the time to reach steady state is long, as it is for drugs with long half-lives and having high volume of distribution (Vd) due to their tissue affinities, it may be desirable to administer a large dose (loading dose) to achieve the desired plasma levels rapidly. The volume ot distribution is the proportionality factor that relates the total amount of drug in the body to the concentration in the plasma (Cp).LOADING DOSE= Vd X Desired steady state plasma concentrationLoading dose can be given as single dose or multiple doses over a short time. E.g. in case of treatment of AF by digoxin (longer acting drug with high Vd), loading dose is must to saturate the tissues and to achieve desired plasma concentration rapidly (otherwise it would take about a week for digoxin to achieve the steady state plasma concentration). Loading dose of Chloroquine is also required to treat the malaria.On the other hand, maintenance dose is dependent of the clearance (Cl) as we have to maintain the steady state concentration in view of the volume of the plasma cleared of drug per unit time. Hence, equation for maintenance dose isMAINTENANCE DOSE= Cl X Desired steady state plasma concentration"
+    "cop": 0,
+    "exp": "(a)Volume of distributionRef: Lippincott, 6th ed., pg. 21 and Katzung, 13th ed., pg. 50-51Sometimes rapid achievement of desired plasma concentrations of drugs is needed to produce the prompt response (e.g. in serious infections or arrhythmias). When the time to reach steady state is long, as it is for drugs with long half-lives and having high volume of distribution (Vd) due to their tissue affinities, it may be desirable to administer a large dose (loading dose) to achieve the desired plasma levels rapidly. The volume ot distribution is the proportionality factor that relates the total amount of drug in the body to the concentration in the plasma (Cp).LOADING DOSE= Vd X Desired steady state plasma concentrationLoading dose can be given as single dose or multiple doses over a short time. E.g. in case of treatment of AF by digoxin (longer acting drug with high Vd), loading dose is must to saturate the tissues and to achieve desired plasma concentration rapidly (otherwise it would take about a week for digoxin to achieve the steady state plasma concentration). Loading dose of Chloroquine is also required to treat the malaria.On the other hand, maintenance dose is dependent of the clearance (Cl) as we have to maintain the steady state concentration in view of the volume of the plasma cleared of drug per unit time. Hence, equation for maintenance dose isMAINTENANCE DOSE= Cl X Desired steady state plasma concentration",
+    "hint_exp": "🎯 Think of \"a drug depends upon\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "08ba6808-a607-405e-8b7a-b55ee23f5d37": {
-    "cop": 4,
-    "exp": "Drugs decreasing alcohol craving are; None: Naltrexone Of: Ondansetron The: Topiramate Above: Acamprosate"
+    "cop": 3,
+    "exp": "Drugs decreasing alcohol craving are; None: Naltrexone Of: Ondansetron The: Topiramate Above: Acamprosate",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"drug\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ca02e397-1761-4cf0-b8ac-9824809e159b": {
-    "cop": 4,
-    "exp": "The condyles and teeth modify the mandibular movements, that are initiated by neuromuscular system of the patient. Therefore all three, TMJ, muscles and contacting surface of teeth influence mandibular movements."
+    "cop": 3,
+    "exp": "The condyles and teeth modify the mandibular movements, that are initiated by neuromuscular system of the patient. Therefore all three, TMJ, muscles and contacting surface of teeth influence mandibular movements.",
+    "hint_exp": "🧩 Your crush solved \"Which following factors does\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

@@ -1,202 +1,252 @@
 {
   "87af32e9-bfef-41b7-b44f-5b08bd9673f4": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"TB diagnosis has\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cbf7b8a8-cbb1-4702-ad9f-32f966564e13": {
-    "cop": 4,
-    "exp": "Struther's ligament is another name for Third head of Coracobrachialis. Median nerve runs below the ligament and undergoes compression and leads to Struther's syndrome."
+    "cop": 3,
+    "exp": "Struther's ligament is another name for Third head of Coracobrachialis. Median nerve runs below the ligament and undergoes compression and leads to Struther's syndrome.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"another name for\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "65904ecc-244d-40f4-84ae-070b7086172c": {
-    "cop": 2,
-    "exp": "Bleomycin is metabolized by bleomycin hydrolase. This enzyme is deficient in skin and lungs. Therefore, the major adverse effects of bleomycin are: Flagellated pigmentation of skin Pulmonary fibrosis"
+    "cop": 1,
+    "exp": "Bleomycin is metabolized by bleomycin hydrolase. This enzyme is deficient in skin and lungs. Therefore, the major adverse effects of bleomycin are: Flagellated pigmentation of skin Pulmonary fibrosis",
+    "hint_exp": "🎯 Think of \"Bleomycin toxicity affects which\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "07877a41-a920-4f46-aa62-cab288a6f6a5": {
-    "cop": 3,
-    "exp": "Ans: C (Kinins) Ref: Harsh Mohan, Textbook of Pathology, 6th edition, pg 136-37Explanation:Chemical Mediators of InflammationAka permeability factors or endogenous mediators of increased vascular permeability.They are broadly classified into 2 groups:Mediators released by ceils.Mediators originating from plasma.Chemical Mediators of Acute InflammationA. Cell-Derived MediatorsVasoactive aminesHistamine5-hydroxytryptamineNeuropeptidesArachidonic acid metabolites (Eicosanoids)Metabolites via cyclo-oxygenase pathwayProstaglandinsThromboxane A2ProstacyclinResolvinsMetabolites via lipo-oxygenase pathway5-HETELeukotrienesLipoxinsLysosomal components (from PM Ns, macrophages)Platelet activating factor (PAF)CytokinesIL-1TNF-aTNF-bIFN-gChemokinesFree radicalsOxygen metabolitesNitric oxideB. Plasma-Derived Mediators (Plasma Proteases) Products of:The Kin in the system.The Clotting system.The Fibrinolytic system.The Complement system."
+    "cop": 2,
+    "exp": "Ans: C (Kinins) Ref: Harsh Mohan, Textbook of Pathology, 6th edition, pg 136-37Explanation:Chemical Mediators of InflammationAka permeability factors or endogenous mediators of increased vascular permeability.They are broadly classified into 2 groups:Mediators released by ceils.Mediators originating from plasma.Chemical Mediators of Acute InflammationA. Cell-Derived MediatorsVasoactive aminesHistamine5-hydroxytryptamineNeuropeptidesArachidonic acid metabolites (Eicosanoids)Metabolites via cyclo-oxygenase pathwayProstaglandinsThromboxane A2ProstacyclinResolvinsMetabolites via lipo-oxygenase pathway5-HETELeukotrienesLipoxinsLysosomal components (from PM Ns, macrophages)Platelet activating factor (PAF)CytokinesIL-1TNF-aTNF-bIFN-gChemokinesFree radicalsOxygen metabolitesNitric oxideB. Plasma-Derived Mediators (Plasma Proteases) Products of:The Kin in the system.The Clotting system.The Fibrinolytic system.The Complement system.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Mediator acute inflammation derived\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7d53e02e-42b2-42f0-a19f-006f53c7fd69": {
-    "cop": 1,
-    "exp": "Ans: A (SLE) Ref: Harrison s Principles of Internal Medicine 18th edition, pg 2728Explanation:SLE causes non erosive polyarthritis of the hands, wrist & knees.Can cause avascular necrosis of joints increased by steroid use.Psoriasis, RA & gout cause erosive arthritis. Psoriatic arthritis (PsA):DIP involved, nail changes ( pitting, ridging, onycholysis, yellow discoloration, hyperkeratosis) dactylitisAsymmetrical oligoarthritisSymmetrical polyarthritisArthritis mutilans with destruction and telescoping of digitsCASPAR criteria used to diagnose PsATreatment: Anti-TNF-a- infliximab, etanercept, adalimumab, golimumabAnti T cell- AlefaceptNewer agent- UstekinumabMethotrexate, sulfasalazine, leflunomideRheumatoid Arthritis (RA):MCP. PIP, &MTP involvedJuxta-articular osteopenia- earliest radiological findingACR & EULAR revised criteria used to diagnose RATreatment: Anti TNF- a- Infliximab. Etanercept. adalimumab, golimumab, certolizumabAbatacept, anakinra, rituximab, tocilizumabGouty arthritis:Acute, monoarthritis, 1st MTP involvedPrecipitated by diet, trauma, surgery, alcohol, stressJoint aspirate for needle shaped MSU crystals, birefringent with negative elongation. TC 2-60 thousandS.uric acid can be low /normal during attackAcute attack-NSAlDS, Colchicine, steroids, anakinraHypouricemic drugs- Allopurinol, febuxostat. Rasburicase. Pegloticase"
+    "cop": 0,
+    "exp": "Ans: A (SLE) Ref: Harrison s Principles of Internal Medicine 18th edition, pg 2728Explanation:SLE causes non erosive polyarthritis of the hands, wrist & knees.Can cause avascular necrosis of joints increased by steroid use.Psoriasis, RA & gout cause erosive arthritis. Psoriatic arthritis (PsA):DIP involved, nail changes ( pitting, ridging, onycholysis, yellow discoloration, hyperkeratosis) dactylitisAsymmetrical oligoarthritisSymmetrical polyarthritisArthritis mutilans with destruction and telescoping of digitsCASPAR criteria used to diagnose PsATreatment: Anti-TNF-a- infliximab, etanercept, adalimumab, golimumabAnti T cell- AlefaceptNewer agent- UstekinumabMethotrexate, sulfasalazine, leflunomideRheumatoid Arthritis (RA):MCP. PIP, &MTP involvedJuxta-articular osteopenia- earliest radiological findingACR & EULAR revised criteria used to diagnose RATreatment: Anti TNF- a- Infliximab. Etanercept. adalimumab, golimumab, certolizumabAbatacept, anakinra, rituximab, tocilizumabGouty arthritis:Acute, monoarthritis, 1st MTP involvedPrecipitated by diet, trauma, surgery, alcohol, stressJoint aspirate for needle shaped MSU crystals, birefringent with negative elongation. TC 2-60 thousandS.uric acid can be low /normal during attackAcute attack-NSAlDS, Colchicine, steroids, anakinraHypouricemic drugs- Allopurinol, febuxostat. Rasburicase. Pegloticase",
+    "hint_exp": "🧩 Your crush solved \"erosive arthritis characteristic\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b4c5622d-87ad-48f2-964f-aa1c24c94243": {
-    "cop": 4,
-    "exp": "New therapies are continually being sought for HIV that exploit new viral targets, have activity against resistant viral strains, have a lower incidence of adverse effects, and offer convenient dosing. New agents of existing classes that are currently in advanced stages of clinical development include the NI agent elvucitabine, the NNI agents TMC-278 and IDX899, the PI agent bracanavir, entry inhibitors such as the CCR5 receptor antagonists vicriviroc and PRO 140, and integrase inhibitors such as elvitegravir. In addition, new drug classes such as maturation inhibitors (bevirimat) and the CD4 receptor inhibitor TNX-355 are under investigation. Ref: Katzung 11th edition Chapter 49."
+    "cop": 3,
+    "exp": "New therapies are continually being sought for HIV that exploit new viral targets, have activity against resistant viral strains, have a lower incidence of adverse effects, and offer convenient dosing. New agents of existing classes that are currently in advanced stages of clinical development include the NI agent elvucitabine, the NNI agents TMC-278 and IDX899, the PI agent bracanavir, entry inhibitors such as the CCR5 receptor antagonists vicriviroc and PRO 140, and integrase inhibitors such as elvitegravir. In addition, new drug classes such as maturation inhibitors (bevirimat) and the CD4 receptor inhibitor TNX-355 are under investigation. Ref: Katzung 11th edition Chapter 49.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"drugs used against EXCEPT\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "aad026ec-3e1a-44b4-b4e1-7b6a40b205c9": {
-    "cop": 4,
-    "exp": "GLUT 4 receptors are primarily found in skeletal muscle, fat and cardiac tissue. Q Which GLUT is characteristically found in placenta GLUT 3 Q Which GLUT is characteristically a fructose transpoer GLUT 5 Q Blood to brain glucose transpo facilitated by GLUT 1 Q Main insulin responsive glucose transpoer is GLUT 4 Ref: Harper 30th edition Pgno: 191"
+    "cop": 3,
+    "exp": "GLUT 4 receptors are primarily found in skeletal muscle, fat and cardiac tissue. Q Which GLUT is characteristically found in placenta GLUT 3 Q Which GLUT is characteristically a fructose transpoer GLUT 5 Q Blood to brain glucose transpo facilitated by GLUT 1 Q Main insulin responsive glucose transpoer is GLUT 4 Ref: Harper 30th edition Pgno: 191",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"GLUT Receptors primarily found\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "57b1a229-58e0-4961-b01d-758b39ae6d9c": {
-    "cop": 2,
-    "exp": "(Ref: KD Tripathi, 6th ed. pg. 470-471 & 126)* Methylphenidate acts by releasing NA and DA in brain and is most widely used for attention deficit hyperkinetic disorder because it causes lesser tachycardia and growth retardation as compared to amphetamine.* It is considered as DOC of ADHD* Modafinil# Psychostimulant agent; used most commonly among night-shift (call centre) workers who need alertness and want to keep awake.# Increases attention span and improve accuracy compromised by fatigue and sleepiness.* Considered as first line drug in narcolepsy.* Pemoline# It has CNS stimulant actions similar to those of methylphenidate.# It can also be used in ADHD, narcolepsy and excessive day-time sleepiness# S/E: Hepatotoxicity, thus it has limited use* Amphetamines# It can also be used in ADHD, but not a drug of choice due to highly abusive tendency.# The central effects include alertness, increased concentration an attention spam, euphoria, talkativeness increased work capacity# Stimulate respiratory centre and Hunger centre is suppressed."
+    "cop": 1,
+    "exp": "(Ref: KD Tripathi, 6th ed. pg. 470-471 & 126)* Methylphenidate acts by releasing NA and DA in brain and is most widely used for attention deficit hyperkinetic disorder because it causes lesser tachycardia and growth retardation as compared to amphetamine.* It is considered as DOC of ADHD* Modafinil# Psychostimulant agent; used most commonly among night-shift (call centre) workers who need alertness and want to keep awake.# Increases attention span and improve accuracy compromised by fatigue and sleepiness.* Considered as first line drug in narcolepsy.* Pemoline# It has CNS stimulant actions similar to those of methylphenidate.# It can also be used in ADHD, narcolepsy and excessive day-time sleepiness# S/E: Hepatotoxicity, thus it has limited use* Amphetamines# It can also be used in ADHD, but not a drug of choice due to highly abusive tendency.# The central effects include alertness, increased concentration an attention spam, euphoria, talkativeness increased work capacity# Stimulate respiratory centre and Hunger centre is suppressed.",
+    "hint_exp": "🎯 Think of \"Drug choice ADHD\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7a375d0b-5231-4b3d-98af-e648ac587051": {
-    "cop": 1,
-    "exp": "Cytochrome P450 (CYP) enzymes in extrahepatic tissues often play a dominant role in target tissue metabolic activation of xenobiotic compounds. They may also determine drug efficacy and influence the tissue burden of foreign chemicals or bioavailability of therapeutic agents."
+    "cop": 0,
+    "exp": "Cytochrome P450 (CYP) enzymes in extrahepatic tissues often play a dominant role in target tissue metabolic activation of xenobiotic compounds. They may also determine drug efficacy and influence the tissue burden of foreign chemicals or bioavailability of therapeutic agents.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"activation of xenobiotics\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5b904208-f630-43c4-91bf-6013095fcdc9": {
-    "cop": 3,
-    "exp": "- the first step in the alternative pathway is the binding of C3b to an activator. - bound C3b , which is protected from such inactivation, interact with Factor B to form a magnesium dependent complex C3bB. - this complex is cleaved by Factor D into two fragments, Ba and Bb. -fragment Ba is released into medium. - fragment Bb remains bound to C3b, forming the esterase C3bBb complex, which is alternative pathway C3 convease. Reference : Anathanarayan & paniker's 9th edition, pg no:123 <\\p>"
+    "cop": 2,
+    "exp": "- the first step in the alternative pathway is the binding of C3b to an activator. - bound C3b , which is protected from such inactivation, interact with Factor B to form a magnesium dependent complex C3bB. - this complex is cleaved by Factor D into two fragments, Ba and Bb. -fragment Ba is released into medium. - fragment Bb remains bound to C3b, forming the esterase C3bBb complex, which is alternative pathway C3 convease. Reference : Anathanarayan & paniker's 9th edition, pg no:123 <\\p>",
+    "hint_exp": "🧩 Your crush solved \"convease alternate complement pathway\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1ebbf2f1-42d5-4438-8bb9-acbc0c898d46": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following investigations\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "57c2fecf-04f7-4fac-8a47-16edd94addaa": {
-    "cop": 1,
-    "exp": "The multiple clasp is simply two opposing circumferential clasps joined at the terminal end of the two reciprocal arms. It is used when additional retention and stabilization are needed, usually on tooth supported partial dentures. It may be used for multiple clasping in instances, in which the partial denture replaces an entire half of the dental arch.\nIt may be used rather than an embrasure clasp, when the only available retentive areas are adjacent to each other."
+    "cop": 0,
+    "exp": "The multiple clasp is simply two opposing circumferential clasps joined at the terminal end of the two reciprocal arms. It is used when additional retention and stabilization are needed, usually on tooth supported partial dentures. It may be used for multiple clasping in instances, in which the partial denture replaces an entire half of the dental arch.\nIt may be used rather than an embrasure clasp, when the only available retentive areas are adjacent to each other.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"dentition and retentive\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a45f726c-3ee6-4441-a21c-3f01f99f5ce0": {
-    "cop": 3,
-    "exp": "Cry in uterus is called vagitus uterinus and cry in vagina is called vagitus vaginalis."
+    "cop": 2,
+    "exp": "Cry in uterus is called vagitus uterinus and cry in vagina is called vagitus vaginalis.",
+    "hint_exp": "🎯 Think of \"Vagitus uterinus\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bd0574c6-f5a1-4754-81dd-0d4d369bcc77": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., They can grow in cell free culture media Unique propeies of chlamvdiae are . Chlamydia is an obligate intracellular parasite. This means they can survive only by establishig residence inside animal cells They need their host's ATP as an energy source for their own cellular activity. They are energy parasites using a cell membrane transpo system that uses ATP from the host system and gives out ADP. . This obligate intracellular existence makes it impossible to culture these organisms on nonliving aificial media. Due to their small size and failure to grow in cell - free media they were considered to be viruses. . Chlamydiae grows in cultures of a variety of eukaryotic cell lines Mc Coy or HeLa cells. It may be necessary to treat cells with polyanionic compounds such as DEAD-dextran to reduce the electrostatic barrier to infection. Antimetabolite such as cycloheximide is added to our competition for host cell amino acid pools. All types of chlamydiae proliferate in embryonated eggs paiculary in the yolk sac. . The special features in structure and chemical composition of chlamydiae are: - The outer cell wall resembles the cell wall of gram negative bacteria - It has a relatively high lipid content - It is rigid but it does not contain typical bacterial peptidoglycan; perhaps it contain a tetrapeptide linked matrix. - N Acetylmuramic acid also appears to be absent from chlamydiae cell wall. . Antibiotic susceptibility of chlamydiae: - Penicillin binding proteins occur in chlamydiae cell wall and chlamydiae cell wall formation is inhibited by penicillins and other drugs that inhibit transpeptidation of bacterial peptidoglycan. But remember the impoant point about t/t, that cell wall inhibitors result in the production of morphologically defective forms but are not effective in clinical disease. . Inhibitors of protein synthesis (tetracyclines, erythromycins) are effective in most clinical infections. Erythromycin or tetracyclines are considered the drug of choice for chlamydiae infections."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., They can grow in cell free culture media Unique propeies of chlamvdiae are . Chlamydia is an obligate intracellular parasite. This means they can survive only by establishig residence inside animal cells They need their host's ATP as an energy source for their own cellular activity. They are energy parasites using a cell membrane transpo system that uses ATP from the host system and gives out ADP. . This obligate intracellular existence makes it impossible to culture these organisms on nonliving aificial media. Due to their small size and failure to grow in cell - free media they were considered to be viruses. . Chlamydiae grows in cultures of a variety of eukaryotic cell lines Mc Coy or HeLa cells. It may be necessary to treat cells with polyanionic compounds such as DEAD-dextran to reduce the electrostatic barrier to infection. Antimetabolite such as cycloheximide is added to our competition for host cell amino acid pools. All types of chlamydiae proliferate in embryonated eggs paiculary in the yolk sac. . The special features in structure and chemical composition of chlamydiae are: - The outer cell wall resembles the cell wall of gram negative bacteria - It has a relatively high lipid content - It is rigid but it does not contain typical bacterial peptidoglycan; perhaps it contain a tetrapeptide linked matrix. - N Acetylmuramic acid also appears to be absent from chlamydiae cell wall. . Antibiotic susceptibility of chlamydiae: - Penicillin binding proteins occur in chlamydiae cell wall and chlamydiae cell wall formation is inhibited by penicillins and other drugs that inhibit transpeptidation of bacterial peptidoglycan. But remember the impoant point about t/t, that cell wall inhibitors result in the production of morphologically defective forms but are not effective in clinical disease. . Inhibitors of protein synthesis (tetracyclines, erythromycins) are effective in most clinical infections. Erythromycin or tetracyclines are considered the drug of choice for chlamydiae infections.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"following statements true regarding\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "965d059c-ba02-43f4-baaf-77d635252c98": {
-    "cop": 4,
-    "exp": "harshmohan textbook of pathology 7th edition. *anti histone antibody which is antibody against histone associated with DNA in chromatin is seen paicularly in cases of drug infused lupus than in SLE"
+    "cop": 3,
+    "exp": "harshmohan textbook of pathology 7th edition. *anti histone antibody which is antibody against histone associated with DNA in chromatin is seen paicularly in cases of drug infused lupus than in SLE",
+    "hint_exp": "🧩 Your crush solved \"Drug induced lupus antibodies\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0be4ae67-0a87-4789-83ad-b24e296f4b7b": {
-    "cop": 1,
-    "exp": "The iliofemoral ligament is a Y-shaped ligament extending from the anterior inferior iliac spine to the anterior surface of the interochanteric line of the femur. It prevents hyperextension of the hip joint during standing by screwing the femoral head into the acetabulum. (The ischiofemoral ligament also helps to prevent hyperextension of the hip joint by screwing the femoral head into the acetabulum). Ligamentum capitis femoris attaches the head of the femur to the acetabular fossa. The pubofemoral ligament connects the pubic poion of the rim of the bony acetabulum to the medial surface of the femoral neck. It prevents over abduction of the hip joint. Zona orbicularis is a band of circularly oriented ligamentous fibers that reinforce the capsule of the hip joint. it helps keep the head of the femur in its socket."
+    "cop": 0,
+    "exp": "The iliofemoral ligament is a Y-shaped ligament extending from the anterior inferior iliac spine to the anterior surface of the interochanteric line of the femur. It prevents hyperextension of the hip joint during standing by screwing the femoral head into the acetabulum. (The ischiofemoral ligament also helps to prevent hyperextension of the hip joint by screwing the femoral head into the acetabulum). Ligamentum capitis femoris attaches the head of the femur to the acetabular fossa. The pubofemoral ligament connects the pubic poion of the rim of the bony acetabulum to the medial surface of the femoral neck. It prevents over abduction of the hip joint. Zona orbicularis is a band of circularly oriented ligamentous fibers that reinforce the capsule of the hip joint. it helps keep the head of the femur in its socket.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which ligaments limits extension\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ec335bd8-7046-4696-a0d0-3f5484a0f1c3": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Deficiency of Lactase Lactose intoleranceIt occurs due to deficiency of lactase, the most impoant member of b-galactosidase enzymatic class.Lactase hydrolyses lactose into glucose and galactose in the small intestine.Lactose is present in milk.Therefore, deficiency of lactase, (b-galactosidase) results in intolerance to milk and other dairy products.Clinical features are bloating, diarrhea, failure to thrive, abdominal distension and abdominal cramp."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Deficiency of Lactase Lactose intoleranceIt occurs due to deficiency of lactase, the most impoant member of b-galactosidase enzymatic class.Lactase hydrolyses lactose into glucose and galactose in the small intestine.Lactose is present in milk.Therefore, deficiency of lactase, (b-galactosidase) results in intolerance to milk and other dairy products.Clinical features are bloating, diarrhea, failure to thrive, abdominal distension and abdominal cramp.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"due to\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "813438db-8b69-4ccf-9184-cc0d1d810e3a": {
-    "cop": 4,
-    "exp": "​Anemia, punctuate basophilia, constipation, blue line on gums and abdominal colic suggest the diagnosis of chronic lead poisoning."
+    "cop": 3,
+    "exp": "​Anemia, punctuate basophilia, constipation, blue line on gums and abdominal colic suggest the diagnosis of chronic lead poisoning.",
+    "hint_exp": "🎯 Think of \"Anaemia punctate basophilia constipation\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b837c0aa-c645-4701-bd62-cc48ad4a72e9": {
-    "cop": 4,
-    "exp": ".ge 2 months 3 months 6 months 9 months 12 months 15 months 18 months 2 years 3 years 4 years 5 years Milestone . . ( mile after being talked to) social smile s ther* anticipates feeds Recognizes mo * . t angers stranger anxiety Recognizes s r ' waves \"bye bye\" . h Called* plays simple ball game comes w en ' Jargon . Copies parents in task (~.g. sweeping) f food drink toilet; pulls people to Asks or * ' show toys Shares toys; knows full name and gender Plays cooperatively in a group; goes to toilet alone Helps in household tasks, dresses and undress"
+    "cop": 3,
+    "exp": ".ge 2 months 3 months 6 months 9 months 12 months 15 months 18 months 2 years 3 years 4 years 5 years Milestone . . ( mile after being talked to) social smile s ther* anticipates feeds Recognizes mo * . t angers stranger anxiety Recognizes s r ' waves \"bye bye\" . h Called* plays simple ball game comes w en ' Jargon . Copies parents in task (~.g. sweeping) f food drink toilet; pulls people to Asks or * ' show toys Shares toys; knows full name and gender Plays cooperatively in a group; goes to toilet alone Helps in household tasks, dresses and undress",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"child should worried\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "121e8414-2dc5-4c2e-aa87-76eb39543d48": {
-    "cop": 1,
-    "exp": "A i.e. Duodenum"
+    "cop": 0,
+    "exp": "A i.e. Duodenum",
+    "hint_exp": "🧩 Your crush solved \"located in the\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "023e46dd-28de-4c75-b26b-c98ba22340bf": {
-    "cop": 4,
-    "exp": "Even though she was allergic to pencillin, Doxycycline was not given as she is pregnant and Doxycycline has teratogenic effects.\nTherefore, desensitization should be done by giving repeated small doses of pencillin until the allergic response is subsided. If desensitization is not possible then Erythromycin / Azithromycin / Ceftriaxone is given."
+    "cop": 3,
+    "exp": "Even though she was allergic to pencillin, Doxycycline was not given as she is pregnant and Doxycycline has teratogenic effects.\nTherefore, desensitization should be done by giving repeated small doses of pencillin until the allergic response is subsided. If desensitization is not possible then Erythromycin / Azithromycin / Ceftriaxone is given.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the next management\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e7d2bd2c-0fba-4576-b2ad-9a2758c0c100": {
-    "cop": 2,
-    "exp": "A complete deficiency of HP, the Lesch-Nyhan syndrome, is characterized by hyperuricemia, self-mutilative behavior, choreoathetosis, spasticity, and mental retardation. A paial deficiency of HP, the Kelley-Seegmiller syndrome, is associated with hyperuricemia but no central nervous system manifestations. In both disorders, the hyperuricemia results from urate overproduction and can cause uric acid crystalluria, nephrolithiasis, obstructive uropathy, and gouty ahritis. Early diagnosis and appropriate therapy with allopurinol can prevent or eliminate all the problems attributable to hyperuricemia but have no effect on the behavioral or neurologic abnormalities. Ref: Burns C.M., Womann R.L. (2012). Chapter 359. Disorders of Purine and Pyrimidine Metabolism. In D.L. Longo, A.S. Fauci, D.L. Kasper, S.L. Hauser, J.L. Jameson, J. Loscalzo (Eds), Harrison's Principles of Internal Medicine, 18e."
+    "cop": 1,
+    "exp": "A complete deficiency of HP, the Lesch-Nyhan syndrome, is characterized by hyperuricemia, self-mutilative behavior, choreoathetosis, spasticity, and mental retardation. A paial deficiency of HP, the Kelley-Seegmiller syndrome, is associated with hyperuricemia but no central nervous system manifestations. In both disorders, the hyperuricemia results from urate overproduction and can cause uric acid crystalluria, nephrolithiasis, obstructive uropathy, and gouty ahritis. Early diagnosis and appropriate therapy with allopurinol can prevent or eliminate all the problems attributable to hyperuricemia but have no effect on the behavioral or neurologic abnormalities. Ref: Burns C.M., Womann R.L. (2012). Chapter 359. Disorders of Purine and Pyrimidine Metabolism. In D.L. Longo, A.S. Fauci, D.L. Kasper, S.L. Hauser, J.L. Jameson, J. Loscalzo (Eds), Harrison's Principles of Internal Medicine, 18e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"associated with deficiency of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bd061788-63d8-458a-98ae-e06983ef02fd": {
-    "cop": 4,
-    "exp": "A i.e. Epinephrine; B i.e. GH; C i.e. Glucocoicoid Glucagon, catecholamines (epinephrine & norepinephrine), coisol, ACTH, GH (growth hormone) are increased in stress (infection, surgery, hypoglycemia) whereas, insulin is suppressed (decreased)Q. In maintenance of internal homeostasis (ie avoiding stress) and reproduction processes, multiple hormones cooperate to bring about organized biochemical & physiological responses. Stress Syndrome: CRH - ACTH - Coisol Axis The primitive signal of glucose (substrate) lack is expanded to a broder signal of fright or stress and evokes a coordinated neural and endocrine response. Any stressful event eg. surgery, infection, burn triggers a hypermetabolic state in which a resting energy expenditure is increased alongwith body temperature. CRH-ACTH - coisol axis is central to this integrated response to stress. Features of Stress Syndrome - Coicotropin releasing hormone (CRH) is increased in response to noxious environmental stimuli like pain, trauma, hypoglycemia, infection, surgery, hypovolemia. Various nervous impulses using several neuro transmitters (NTs) like norepinephrine, serotonin, acetylcholine, dopamine, and GABA reach CRH neurosecretory cells and cause release of CRH - In response to CRH, both ACTH and p endorphins (secreted 13-LPH & mature p-endorphin) are released in equimolar quantities 13-endorphin produce central analgesic response. - Glucagon & catecholamines (epinephrine & norepinephrine) are increased, stimulating glycogenolysis (glucose production in liver) for immediate use by critical organs such as the brain. - Coisol production is increased in adrenal coex which induces gluconeogenesis (glucose production from noncarbohydrate source like muscles & other body proteins) - Glucogon, epinephrine, ACTH and growth hormone (GH) stimulate lipolysis and free fatty acids (FFA) & ketones are released into the circulation to be used as an alternative metabolic fuel. - Insulin is suppressedQ that results in decrease in glucose utilization. - One form of stress that is cold, specially in neonate causes increased TRH secretion due to depressed metabolism of neurons in pre- optic area by cooling which release inhibitory discharge, permitting TRH secretion. - ADH (vasopressin), angiotensin & aldosterone synthesis is increased enhancing salt water retention - So increased glucose production (by glycogenolysis & gluconeogenesis) and decreased utilization of glucose results in hyperglycemia. There is marked increase in release of aminoacids from tissue protein, paicularly from skeletal muscle for gluconeogenesis. However, synthesis of specific proteins may increase - These metabolic changes are coordinated with increased sympathetic nervous system activity causing peripheral vasoconstriction and increased blood pressure."
+    "cop": 3,
+    "exp": "A i.e. Epinephrine; B i.e. GH; C i.e. Glucocoicoid Glucagon, catecholamines (epinephrine & norepinephrine), coisol, ACTH, GH (growth hormone) are increased in stress (infection, surgery, hypoglycemia) whereas, insulin is suppressed (decreased)Q. In maintenance of internal homeostasis (ie avoiding stress) and reproduction processes, multiple hormones cooperate to bring about organized biochemical & physiological responses. Stress Syndrome: CRH - ACTH - Coisol Axis The primitive signal of glucose (substrate) lack is expanded to a broder signal of fright or stress and evokes a coordinated neural and endocrine response. Any stressful event eg. surgery, infection, burn triggers a hypermetabolic state in which a resting energy expenditure is increased alongwith body temperature. CRH-ACTH - coisol axis is central to this integrated response to stress. Features of Stress Syndrome - Coicotropin releasing hormone (CRH) is increased in response to noxious environmental stimuli like pain, trauma, hypoglycemia, infection, surgery, hypovolemia. Various nervous impulses using several neuro transmitters (NTs) like norepinephrine, serotonin, acetylcholine, dopamine, and GABA reach CRH neurosecretory cells and cause release of CRH - In response to CRH, both ACTH and p endorphins (secreted 13-LPH & mature p-endorphin) are released in equimolar quantities 13-endorphin produce central analgesic response. - Glucagon & catecholamines (epinephrine & norepinephrine) are increased, stimulating glycogenolysis (glucose production in liver) for immediate use by critical organs such as the brain. - Coisol production is increased in adrenal coex which induces gluconeogenesis (glucose production from noncarbohydrate source like muscles & other body proteins) - Glucogon, epinephrine, ACTH and growth hormone (GH) stimulate lipolysis and free fatty acids (FFA) & ketones are released into the circulation to be used as an alternative metabolic fuel. - Insulin is suppressedQ that results in decrease in glucose utilization. - One form of stress that is cold, specially in neonate causes increased TRH secretion due to depressed metabolism of neurons in pre- optic area by cooling which release inhibitory discharge, permitting TRH secretion. - ADH (vasopressin), angiotensin & aldosterone synthesis is increased enhancing salt water retention - So increased glucose production (by glycogenolysis & gluconeogenesis) and decreased utilization of glucose results in hyperglycemia. There is marked increase in release of aminoacids from tissue protein, paicularly from skeletal muscle for gluconeogenesis. However, synthesis of specific proteins may increase - These metabolic changes are coordinated with increased sympathetic nervous system activity causing peripheral vasoconstriction and increased blood pressure.",
+    "hint_exp": "🎯 Think of \"the following hormones\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "efa600a9-607f-4d80-bd41-af9f2c0e2df0": {
-    "cop": 3,
-    "exp": "Gettler test estimates chloride content of blood is drowning. It is helpul in differentiating  fresh water drowning from sea water drowning."
+    "cop": 2,
+    "exp": "Gettler test estimates chloride content of blood is drowning. It is helpul in differentiating  fresh water drowning from sea water drowning.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Gettler test detects\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "85914f45-df4a-49ba-b91b-faf502dfa5af": {
-    "cop": 1,
-    "exp": "Varicocele is due to abnormal dilation of spermatic cord veins, also known as the pampiniform plexus, due to faulty valvular venous return. Most varicoceles occur on the left, possibly due in pa to the acute angle of confluence with the left renal vein and resulting higher IV pressure. Classically, the mass of enlarged veins can be palpated superior and posterior to the testis (\"bag of worms\"), and is more prominent when standing or with Valsalva maneuver. The sudden onset of a right varicocele should raise the question of a retroperitoneal malignancy resulting in obstruction of the right spermatic vein. Varicocele may lead to infeility in some men. Ref: Cooper C.S., Joudi F.N., Williams R.D. (2010). Chapter 38. Urology. In G.M. Dohey (Ed), CURRENT Diagnosis & Treatment: Surgery, 13e."
+    "cop": 0,
+    "exp": "Varicocele is due to abnormal dilation of spermatic cord veins, also known as the pampiniform plexus, due to faulty valvular venous return. Most varicoceles occur on the left, possibly due in pa to the acute angle of confluence with the left renal vein and resulting higher IV pressure. Classically, the mass of enlarged veins can be palpated superior and posterior to the testis (\"bag of worms\"), and is more prominent when standing or with Valsalva maneuver. The sudden onset of a right varicocele should raise the question of a retroperitoneal malignancy resulting in obstruction of the right spermatic vein. Varicocele may lead to infeility in some men. Ref: Cooper C.S., Joudi F.N., Williams R.D. (2010). Chapter 38. Urology. In G.M. Dohey (Ed), CURRENT Diagnosis & Treatment: Surgery, 13e.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9c4faf7b-0ba3-4687-ba3a-1e455c5b1978": {
-    "cop": 4,
-    "exp": "Folate transporter is the product of gene SLC 19 AI Salute carrier family 19 member which is located on Chromosone 21 q 223"
+    "cop": 3,
+    "exp": "Folate transporter is the product of gene SLC 19 AI Salute carrier family 19 member which is located on Chromosone 21 q 223",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"folic acid transport\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d8a5f5e5-6f7f-41a9-bf47-3908b5271bda": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"true about propofol except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "480bb234-f2e0-4951-8f00-d72b403df5f3": {
-    "cop": 4,
-    "exp": "In the variable region of the H and L domains, maximum sequence variation is concentrated in a few discrete regions called hyperevariable regions ( HV) . HV regions form the antigen binding site of the antibody molecule which is complementary to the structure of the epitope and are called Complementary Determining Regions (CDRs)"
+    "cop": 3,
+    "exp": "In the variable region of the H and L domains, maximum sequence variation is concentrated in a few discrete regions called hyperevariable regions ( HV) . HV regions form the antigen binding site of the antibody molecule which is complementary to the structure of the epitope and are called Complementary Determining Regions (CDRs)",
+    "hint_exp": "🎯 Think of \"complementarity determining regions\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f022fa05-1228-42d9-931a-1af7b8872800": {
-    "cop": 1,
-    "exp": "A i.e. Border line personality disorderHabit or repeated self inflicted injuries (ex. suicidal tendencies) is characteristic feature of Borderline personality disorder."
+    "cop": 0,
+    "exp": "A i.e. Border line personality disorderHabit or repeated self inflicted injuries (ex. suicidal tendencies) is characteristic feature of Borderline personality disorder.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the type of personality\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "dcb3e027-a032-4524-b282-88ff861f2c43": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Best treatment prevent gangrene\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e2ee001d-546d-4e64-9a34-6fc00d68fca7": {
-    "cop": 2,
-    "exp": "Lamivudine (3TC): This deoxycytidine analogue IS phosphorylated intracellularly and inhibits HIV reverse transcriptase as well as hepatitis B virus (HBV) DNA polymerase. Its incorporation into DNA results in chain termination. Most human DNA polymerases are not affected and systemic toxicity of 3TC is low. Point mutation in HIV reverse transcriptase and HBV-DNA polymerase gives rise to rapid lamivudine resistance. Ceain larnivudine-resistant mutants become slow growing. Some cross-resistance with ddl has been noted among HIV. Lamivudine is used in combination with other anti-HIV drugs, and appears to be as effective as AZT. It is also frequently used for chronic hepatitis B. HBV -DNA titre is markedly reduced and biochemical as well as histological indices of liver function improve. However, viral titres rise again after discontinuation. Even with continued medication HBV viraemia tends to return after 1 year due to emergence of resistant mutants. Dose: For chronic hepatitis B-100 mg OD For HIV infection- 150 mg BD ESSENTIALS OF MEDICAL PHARMACOLOGY K.D.TRIPATHI SIXTH EDITION PAGE NO:771,772"
+    "cop": 1,
+    "exp": "Lamivudine (3TC): This deoxycytidine analogue IS phosphorylated intracellularly and inhibits HIV reverse transcriptase as well as hepatitis B virus (HBV) DNA polymerase. Its incorporation into DNA results in chain termination. Most human DNA polymerases are not affected and systemic toxicity of 3TC is low. Point mutation in HIV reverse transcriptase and HBV-DNA polymerase gives rise to rapid lamivudine resistance. Ceain larnivudine-resistant mutants become slow growing. Some cross-resistance with ddl has been noted among HIV. Lamivudine is used in combination with other anti-HIV drugs, and appears to be as effective as AZT. It is also frequently used for chronic hepatitis B. HBV -DNA titre is markedly reduced and biochemical as well as histological indices of liver function improve. However, viral titres rise again after discontinuation. Even with continued medication HBV viraemia tends to return after 1 year due to emergence of resistant mutants. Dose: For chronic hepatitis B-100 mg OD For HIV infection- 150 mg BD ESSENTIALS OF MEDICAL PHARMACOLOGY K.D.TRIPATHI SIXTH EDITION PAGE NO:771,772",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"lamivudine\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6074a7e1-0499-42a2-a74f-b8fd9c9edc57": {
-    "cop": 1,
-    "exp": "It is an autosomal recessive disorder [Ref: Harrison 17thle p. 2060J VVISKOTT - ALDRICH SYNDROME (Immunodeficiency with thrombocytopenia and Eczema). Wiskott Aldrich syndrome is characterized by : Thrombocytopenie purpuradeg Atopic dermatitisdeg (Eczema) Normal appearing megakaryocytes but small defective plateletsdeg. Undue susceptibility to infectiondeg Genetic and Pathogenesis Wiskott aldrich syndrome is an X-linked recessive diseasee. It is caused due to mutation in WASP genedeg. The WASP protein encoded by this gene is expressed in cell of all hematopoietic lineage but paicuarly in platelets and T lymphocytes. WASP deficient platelets are small and have a shoened half life. Patients with this defect uniformly have an impaired humoral immune responses' to polysaccharide antigens as evidenced by absent or markedly diminished isohemagglutinin and poor or absent antibody responses after immunization with polysaccharide vaccine. There is an accelerated rate of synthesis as well as hypercatabolism of albumin IgG, IgA and IgM resulting in highly variable concentrations of different immunoglobulins even within the same patient. The predominant immunoglobulin pattern is :? Low serum level of IgA4deg. levated IgA and IgEdeg Normal or slightly low IgG concentrationdeg The thymus is morphologically normal, at least early in the course of the disease, but there is progressive secondary depletion of T lymphocytes in the peripheral blood and in the T cell zones (paracoical areas) of the lymph nodes with variable loss of cellular immunity. Treatment :? Transplantations' of histocompatible bone marrow from a sibling donor .following myeloablative therapy can correct both the hematologic and immunologic abnormalities. In patients lacking suitable donor, intravenous immunoglobulins infusions or splenectomy may improve platelet counts and reduce the risk of hemorrhage."
+    "cop": 0,
+    "exp": "It is an autosomal recessive disorder [Ref: Harrison 17thle p. 2060J VVISKOTT - ALDRICH SYNDROME (Immunodeficiency with thrombocytopenia and Eczema). Wiskott Aldrich syndrome is characterized by : Thrombocytopenie purpuradeg Atopic dermatitisdeg (Eczema) Normal appearing megakaryocytes but small defective plateletsdeg. Undue susceptibility to infectiondeg Genetic and Pathogenesis Wiskott aldrich syndrome is an X-linked recessive diseasee. It is caused due to mutation in WASP genedeg. The WASP protein encoded by this gene is expressed in cell of all hematopoietic lineage but paicuarly in platelets and T lymphocytes. WASP deficient platelets are small and have a shoened half life. Patients with this defect uniformly have an impaired humoral immune responses' to polysaccharide antigens as evidenced by absent or markedly diminished isohemagglutinin and poor or absent antibody responses after immunization with polysaccharide vaccine. There is an accelerated rate of synthesis as well as hypercatabolism of albumin IgG, IgA and IgM resulting in highly variable concentrations of different immunoglobulins even within the same patient. The predominant immunoglobulin pattern is :? Low serum level of IgA4deg. levated IgA and IgEdeg Normal or slightly low IgG concentrationdeg The thymus is morphologically normal, at least early in the course of the disease, but there is progressive secondary depletion of T lymphocytes in the peripheral blood and in the T cell zones (paracoical areas) of the lymph nodes with variable loss of cellular immunity. Treatment :? Transplantations' of histocompatible bone marrow from a sibling donor .following myeloablative therapy can correct both the hematologic and immunologic abnormalities. In patients lacking suitable donor, intravenous immunoglobulins infusions or splenectomy may improve platelet counts and reduce the risk of hemorrhage.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following statements\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "921d5dd0-6eab-44dd-ae2f-cd81618ee7d2": {
-    "cop": 4,
-    "exp": "The omphalomesenteric (vitelline) duct is a remnant of the embryonic yolk sac. When the entire duct remains intact postnatally, it is recognized as an omphalomesenteric fistula. When the duct is obliterated at the intestinal end but communicates with the umbilicus at the distal end, it is called an umbilical sinus. When the epithelial tract persists but both ends are occluded, an umbilical cyst or intra-abdominal enterocystoma may develop. The entire tract may be obliterated, but a fibrous band may persist between the ileum and the umbilicus The most common remnant of the omphalomesenteric (vitelline) duct is Meckel diveiculum, which is present in 1-3% of the population. Meckel diveiculum may be lined wholly or in pa by small intestinal, colonic, or gastric mucosa, and it may contain aberrant pancreatic tissue. Heterotopic tissue is found in 5% of asymptomatic and 60% of symptomatic cases. In contrast to duplications and pseudodiveicula, Meckel diveiculum is located on the antimesenteric border of the ileum, 10-90 cm from the ileocecal valve. Meckel diveiculum occurs with equal frequency in both sexes."
+    "cop": 3,
+    "exp": "The omphalomesenteric (vitelline) duct is a remnant of the embryonic yolk sac. When the entire duct remains intact postnatally, it is recognized as an omphalomesenteric fistula. When the duct is obliterated at the intestinal end but communicates with the umbilicus at the distal end, it is called an umbilical sinus. When the epithelial tract persists but both ends are occluded, an umbilical cyst or intra-abdominal enterocystoma may develop. The entire tract may be obliterated, but a fibrous band may persist between the ileum and the umbilicus The most common remnant of the omphalomesenteric (vitelline) duct is Meckel diveiculum, which is present in 1-3% of the population. Meckel diveiculum may be lined wholly or in pa by small intestinal, colonic, or gastric mucosa, and it may contain aberrant pancreatic tissue. Heterotopic tissue is found in 5% of asymptomatic and 60% of symptomatic cases. In contrast to duplications and pseudodiveicula, Meckel diveiculum is located on the antimesenteric border of the ileum, 10-90 cm from the ileocecal valve. Meckel diveiculum occurs with equal frequency in both sexes.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4c2f7ffa-9f9e-451a-a4fa-39c22ea61832": {
-    "cop": 2,
-    "exp": "Lid signs: Retraction of the upper lids producing the characteristic staring and frightened appearance (Dalrymple's sign); Lid lag (von Graefe's sign) i.e., when globe is moved downward, the upper lid lags behind Fullness of eyelids due to puffy oedematous swelling (Enroth's sign) Difficulty in eversion of upper lid (Gifford's sign). Most common amongst these is lid retraction producing the characteristic staring look."
+    "cop": 1,
+    "exp": "Lid signs: Retraction of the upper lids producing the characteristic staring and frightened appearance (Dalrymple's sign); Lid lag (von Graefe's sign) i.e., when globe is moved downward, the upper lid lags behind Fullness of eyelids due to puffy oedematous swelling (Enroth's sign) Difficulty in eversion of upper lid (Gifford's sign). Most common amongst these is lid retraction producing the characteristic staring look.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Thyroid Eye disease\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0ee640df-8321-4e27-af3b-b764f2e1dbd9": {
-    "cop": 1,
-    "exp": "Ans. A: Leishmani Donovani Leishmania donovani is the causative agent of kala-azar (VL) Visceral leishmaniasis/ VL/ kala-azar/ black fever/ Dumdum fever It is the most severe form of leishmaniasis. Leishmaniasis is a disease caused by protozoan parasites of the Leishmania genus. This disease is the second-largest parasitic killer in the world (after malaria) The parasite migrates to the internal organs such as liver, spleen (hence 'visceral') and bone marrow Several species of Leishmania are known to give rise to the visceral form of the disease. The \"Old World\" (Africa, Asia, Europe) species are L. donovani and L. infantum and the \"New World\" (South America) species is L. chagasi. Life-cycle of the parasite Visceral leishmaniasis (Kala-azar) is spread through an insect vector, the sandfly of the Phlebotomus genus in the Old World and the Lutzomyia genus in the New World. Sandflies are tiny creatures, 3-6 millimeters long by 1.5-3 millimeters in diameter, and found in tropical or temperate regions throughout the world. Sandfly larvae grow in warm, moist organic matter, such as old trees, house walls or waste -- making them hard to eradicate. The adult female sand fly is a bloodsucker, usually feeding at night on sleeping prey. When the fly bites an animal infected with L. donovani, the pathogen is ingested along with the prey's blood. At this point the protozoan is in the smaller of its two forms, called an amastigote -- round, non-motile, and only three to seven micrometers in diameter. Taken into the stomach of the sandfly, the amastigotes quickly transform into a second L. donovani form, called the promastigote. This form is spindle-shaped, triple the size of the amastigote, and has a single flagellum that allows for motility.The promastigotes live extracellularly in the sandfly's alimentary canal, reproducing asexually, then migrate to the proximal end of the gut where they become poised for a regurgitational transmission. This is their means of transmission back into a mammalian host, as the fly injects its saliva into prey when it bites. The promastigotes are introduced locally at the bite site along with the fly's saliva. Once inside the new host, promastigotes invade macrophages. Once inside, they transform back into the smaller amastigote form. As an amastigote, L. donovani can only reproduce intracellularly -- and the amastigotes replicate in the most hostile pa of the macrophage cell, inside the phagolysosome, whose normal defensive response they are able to prevent. After they have reproduced to a ceain extent, the L. donovani lyse their host cell by sheer pressure of mass, but there is some recent speculation that they are able to leave the cell by triggering the exocytosis response of the macrophage. The daughter cell protozoans then migrate through the bloodstream to find new macrophage hosts. In time, L. donovani becomes a systemic infection, spreading to all the host's organs, paicularly the spleen and liver"
+    "cop": 0,
+    "exp": "Ans. A: Leishmani Donovani Leishmania donovani is the causative agent of kala-azar (VL) Visceral leishmaniasis/ VL/ kala-azar/ black fever/ Dumdum fever It is the most severe form of leishmaniasis. Leishmaniasis is a disease caused by protozoan parasites of the Leishmania genus. This disease is the second-largest parasitic killer in the world (after malaria) The parasite migrates to the internal organs such as liver, spleen (hence 'visceral') and bone marrow Several species of Leishmania are known to give rise to the visceral form of the disease. The \"Old World\" (Africa, Asia, Europe) species are L. donovani and L. infantum and the \"New World\" (South America) species is L. chagasi. Life-cycle of the parasite Visceral leishmaniasis (Kala-azar) is spread through an insect vector, the sandfly of the Phlebotomus genus in the Old World and the Lutzomyia genus in the New World. Sandflies are tiny creatures, 3-6 millimeters long by 1.5-3 millimeters in diameter, and found in tropical or temperate regions throughout the world. Sandfly larvae grow in warm, moist organic matter, such as old trees, house walls or waste -- making them hard to eradicate. The adult female sand fly is a bloodsucker, usually feeding at night on sleeping prey. When the fly bites an animal infected with L. donovani, the pathogen is ingested along with the prey's blood. At this point the protozoan is in the smaller of its two forms, called an amastigote -- round, non-motile, and only three to seven micrometers in diameter. Taken into the stomach of the sandfly, the amastigotes quickly transform into a second L. donovani form, called the promastigote. This form is spindle-shaped, triple the size of the amastigote, and has a single flagellum that allows for motility.The promastigotes live extracellularly in the sandfly's alimentary canal, reproducing asexually, then migrate to the proximal end of the gut where they become poised for a regurgitational transmission. This is their means of transmission back into a mammalian host, as the fly injects its saliva into prey when it bites. The promastigotes are introduced locally at the bite site along with the fly's saliva. Once inside the new host, promastigotes invade macrophages. Once inside, they transform back into the smaller amastigote form. As an amastigote, L. donovani can only reproduce intracellularly -- and the amastigotes replicate in the most hostile pa of the macrophage cell, inside the phagolysosome, whose normal defensive response they are able to prevent. After they have reproduced to a ceain extent, the L. donovani lyse their host cell by sheer pressure of mass, but there is some recent speculation that they are able to leave the cell by triggering the exocytosis response of the macrophage. The daughter cell protozoans then migrate through the bloodstream to find new macrophage hosts. In time, L. donovani becomes a systemic infection, spreading to all the host's organs, paicularly the spleen and liver",
+    "hint_exp": "🧩 Your crush solved \"Causative agent kala azar\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b1b69a1f-8d61-4b71-b487-033bd2b00dbb": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Ist & 2nd branchial arch Goldenhar syndrome (oculoauriculovertebral dysplasia with hemifacial microsomia) is a rare congenital de\\>elopmental anomaly involving the first and second branchial arches.The classic features of this syndrome include ocular changes such as microphthalmia, epibulbar dermoids, lipodennoids and coloboma; aural features such as preauricular tragi, hearing loss and microtia; and vertebral anomalies such as scoliosis, hemivertebrae and cenncal fusion.In addition to facial, vertebral, ophthalmic malformations cardiovascular, CNS, genitourinary: malformations have been associated with goldenhar syndrome."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Ist & 2nd branchial arch Goldenhar syndrome (oculoauriculovertebral dysplasia with hemifacial microsomia) is a rare congenital de\\>elopmental anomaly involving the first and second branchial arches.The classic features of this syndrome include ocular changes such as microphthalmia, epibulbar dermoids, lipodennoids and coloboma; aural features such as preauricular tragi, hearing loss and microtia; and vertebral anomalies such as scoliosis, hemivertebrae and cenncal fusion.In addition to facial, vertebral, ophthalmic malformations cardiovascular, CNS, genitourinary: malformations have been associated with goldenhar syndrome.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Golden svndrome\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bd4ac2e0-c863-4e5d-9b8c-7a8fde8fe2f5": {
-    "cop": 2,
-    "exp": "Administration of a depolarizing anesthetic agent such as succinylcholine in quadriplegics, in paraplegics, or after burns and severe trauma can result in life-threatening hyperkalemia from release of intracellular potassium."
+    "cop": 1,
+    "exp": "Administration of a depolarizing anesthetic agent such as succinylcholine in quadriplegics, in paraplegics, or after burns and severe trauma can result in life-threatening hyperkalemia from release of intracellular potassium.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the most likely\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "389e4101-f1ea-4fd2-b6c1-288c76548ad3": {
-    "cop": 4,
-    "exp": "Selective media for Neisseria meningitis is Thayer - Main media. Contain vancomycin, colistin and nystatin. These antimicrobials will suppress the growth of other organisms which inhibits the growth of Meningococci. Reference: Textbook of microbiology; Anathanarayan & paniker's 10th edition, pg no: 231"
+    "cop": 3,
+    "exp": "Selective media for Neisseria meningitis is Thayer - Main media. Contain vancomycin, colistin and nystatin. These antimicrobials will suppress the growth of other organisms which inhibits the growth of Meningococci. Reference: Textbook of microbiology; Anathanarayan & paniker's 10th edition, pg no: 231",
+    "hint_exp": "🎯 Think of \"meningococcal infection\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "278d33be-6e60-4ce1-a65d-2898d1bd46ef": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Intercellular IgG deposition"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Intercellular IgG deposition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"pemphigus vulgaris\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "19e25fae-506a-4aa4-ac31-c57a81ddece5": {
-    "cop": 1,
-    "exp": "Polyol pathway is responsible for the formation of fructose from glucose Fig: The sorbitol (polyol) pathway"
+    "cop": 0,
+    "exp": "Polyol pathway is responsible for the formation of fructose from glucose Fig: The sorbitol (polyol) pathway",
+    "hint_exp": "🧩 Your crush solved \"responsible for formation of\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0f6e2d7e-5815-4e50-9add-527bbc7dfb9d": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"used for\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5ad0968e-2a56-4b33-831f-d72ed1a3ab87": {
-    "cop": 1,
-    "exp": "Ans. A: Nimodipine Nimodipine binds specifically to LAN/1)e voltage-gated calcium channels. Nimodipine penetrates blood-brain barrier very effectively due to high lipid solubility. It effectively relaxes cerebral vasculature; approved for prevention and treatment of neurological deficit due to cerebral vasospasm following subarchnoid hemorrhage or ruptured congenital intracranial aneurysms. Adverse effects paicularly, in high dosage group (90 mg) includes itching, gastrointestinal hemorrhage, thrombocytopenia, neurological deterioration, vomiting, diaphoresis, congestive hea failure, hyponatremia, decreasing platelet count, disseminated intravascular coagulation and deep vein thrombosis."
+    "cop": 0,
+    "exp": "Ans. A: Nimodipine Nimodipine binds specifically to LAN/1)e voltage-gated calcium channels. Nimodipine penetrates blood-brain barrier very effectively due to high lipid solubility. It effectively relaxes cerebral vasculature; approved for prevention and treatment of neurological deficit due to cerebral vasospasm following subarchnoid hemorrhage or ruptured congenital intracranial aneurysms. Adverse effects paicularly, in high dosage group (90 mg) includes itching, gastrointestinal hemorrhage, thrombocytopenia, neurological deterioration, vomiting, diaphoresis, congestive hea failure, hyponatremia, decreasing platelet count, disseminated intravascular coagulation and deep vein thrombosis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Calcium channel blocker causing\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "76de129a-74f8-4ba9-b03f-62f6545be099": {
-    "cop": 2,
-    "exp": "Ans. (b) Resection with anastomosis.The image shows the presence of coffee bean sign suggestive of sigmoid volvulus, the currently accepted surgical procedures include sigmoid resection with primary anastomosis and resection and the Hartmann procedure. Primary anastomosis is performed if the divided bowel ends are viable, peritoneal contamination is not evident, and the patient is hemodynamically stable. If evidence of ischemic bowel or gross peritoneal contamination is observed or if the patient is hemodynamically unstable, a Hartmann procedure is safer."
+    "cop": 1,
+    "exp": "Ans. (b) Resection with anastomosis.The image shows the presence of coffee bean sign suggestive of sigmoid volvulus, the currently accepted surgical procedures include sigmoid resection with primary anastomosis and resection and the Hartmann procedure. Primary anastomosis is performed if the divided bowel ends are viable, peritoneal contamination is not evident, and the patient is hemodynamically stable. If evidence of ischemic bowel or gross peritoneal contamination is observed or if the patient is hemodynamically unstable, a Hartmann procedure is safer.",
+    "hint_exp": "🎯 Think of \"choice for this patient\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ad800ed4-bd40-441f-9ce1-9a2756f41c3c": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9e7918e3-a6a4-4e45-9d49-a0bc4c4677ae": {
-    "cop": 1,
-    "exp": "Ans. A (b-d-a-c)(Ref: Millers Anesthesia 8th Ed; Page No- 1670)Sequence is neck extension and flexion - Laryngoscopy - Inhalation of Cuff - Check breath soundIf cuff deflated then leak is high so less sound on auscultation.Once the Endotracheal Tube is in place, the laryngoscope is removed from the mouth, the Endotracheal Tube cuff' is appropriately inflated, and the patient is manually ventilated while the Endotracheal Tube is manually held in place."
+    "cop": 0,
+    "exp": "Ans. A (b-d-a-c)(Ref: Millers Anesthesia 8th Ed; Page No- 1670)Sequence is neck extension and flexion - Laryngoscopy - Inhalation of Cuff - Check breath soundIf cuff deflated then leak is high so less sound on auscultation.Once the Endotracheal Tube is in place, the laryngoscope is removed from the mouth, the Endotracheal Tube cuff' is appropriately inflated, and the patient is manually ventilated while the Endotracheal Tube is manually held in place.",
+    "hint_exp": "🧩 Your crush solved \"laryngoscope\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "29d934e3-b4c9-4087-a52a-14797b3a9363": {
-    "cop": 4,
-    "exp": "Active renin is formed in the secretory granules of the granular cells in the juxtaglomerular apparatus. Active renin has a half-life in the circulation of 80 min or less. Its only known function is to cleave the decapeptide angiotensin I from the amino terminal end of angiotensinogen (renin substrate). Ref: Barrett K.E., Barman S.M., Boitano S., Brooks H.L. (2012). Chapter 38. Regulation of Extracellular Fluid Composition & Volume. In K.E. Barrett, S.M. Barman, S. Boitano, H.L. Brooks (Eds), Ganong's Review of Medical Physiology, 24e."
+    "cop": 3,
+    "exp": "Active renin is formed in the secretory granules of the granular cells in the juxtaglomerular apparatus. Active renin has a half-life in the circulation of 80 min or less. Its only known function is to cleave the decapeptide angiotensin I from the amino terminal end of angiotensinogen (renin substrate). Ref: Barrett K.E., Barman S.M., Boitano S., Brooks H.L. (2012). Chapter 38. Regulation of Extracellular Fluid Composition & Volume. In K.E. Barrett, S.M. Barman, S. Boitano, H.L. Brooks (Eds), Ganong's Review of Medical Physiology, 24e.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Renin synthesized large preprohormone\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "660dd774-bdf5-49a5-a931-bda86bc350ff": {
-    "cop": 2,
-    "exp": "Conivaptan is a non-selective vasopressin V1 and V2 antagonistTolvaptan, lixivaptan are selective V2 antagonists used in SIADH.Relcovaptan is a selective V1 antagonist.Ref: HL Sharma 3rd ed Pg 245"
+    "cop": 1,
+    "exp": "Conivaptan is a non-selective vasopressin V1 and V2 antagonistTolvaptan, lixivaptan are selective V2 antagonists used in SIADH.Relcovaptan is a selective V1 antagonist.Ref: HL Sharma 3rd ed Pg 245",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"receptor antagonist\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "edc73b31-f7c8-4f34-b2c0-8456ed8959dc": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Ciprofloxacin should given asthmatic\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "38ad53bf-386f-46c0-bfe6-134b18297987": {
-    "cop": 4,
-    "exp": "Blood flow to the kidneys accounts for 22% of cardiac output. In general, the kidneys filter 160 liters of blood per day. Ref: Essentials of Pathophysiology By Carol M. Poh Page 642."
+    "cop": 3,
+    "exp": "Blood flow to the kidneys accounts for 22% of cardiac output. In general, the kidneys filter 160 liters of blood per day. Ref: Essentials of Pathophysiology By Carol M. Poh Page 642.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"What percent cardiac output\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d3d0d709-5c31-42d7-beba-fab3f89de1f4": {
-    "cop": 4,
-    "exp": "Aschoff bodies are the classic lesions observed in rheumatic fever. They are areas of focal necrosis surrounded by a dense inflammatory infiltration and may be observed in heart tissues."
+    "cop": 3,
+    "exp": "Aschoff bodies are the classic lesions observed in rheumatic fever. They are areas of focal necrosis surrounded by a dense inflammatory infiltration and may be observed in heart tissues.",
+    "hint_exp": "🧩 Your crush solved \"the following conditions\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

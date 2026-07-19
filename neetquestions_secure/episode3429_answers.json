@@ -1,202 +1,252 @@
 {
   "00aa0942-9737-49c0-9946-792a87e2af37": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"C is a novel marker of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ced09271-454f-4fad-bdb2-a13f11b5936a": {
-    "cop": 2,
-    "exp": "This question is a bit confusing one because of the following two facts :-\n\n\"For the induction of anaesthesia, intravenous anaesthetics are used mostly\".\n\"For the maintenance of anaesthesia, inhalational agents are used most commonly\".\n\nBut following statement will clear the doubts.\n\n\"Now a day, most of the minor surgical procedures like incision & drainage are done in total intravenous anaesthesia in which intravenous anaesthetics are used for both induction as well as maintenance of anaesthesia\".\n\nSo,\n\n\nFor major surgical procedure → i) Induction by intravenous anaesthesia, and ii) Maintenance by inhalational anaesthesia.\nFor minor surgical procedure → Induction and maintenance both by intravenous anaesthesia."
+    "cop": 1,
+    "exp": "This question is a bit confusing one because of the following two facts :-\n\n\"For the induction of anaesthesia, intravenous anaesthetics are used mostly\".\n\"For the maintenance of anaesthesia, inhalational agents are used most commonly\".\n\nBut following statement will clear the doubts.\n\n\"Now a day, most of the minor surgical procedures like incision & drainage are done in total intravenous anaesthesia in which intravenous anaesthetics are used for both induction as well as maintenance of anaesthesia\".\n\nSo,\n\n\nFor major surgical procedure → i) Induction by intravenous anaesthesia, and ii) Maintenance by inhalational anaesthesia.\nFor minor surgical procedure → Induction and maintenance both by intravenous anaesthesia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"general anaesthesia\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "daf590ee-f922-4b42-9dfb-758e58c3da13": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Hypeonicity Clinical features of Down's syndrome o Most striking feature in the neonate is hypotonia and although the diagnosis is usually evident at this time, it may some time be missed if the baby is very premature or his facial features are concealed by ventilatory apparetus. CLINICAL FEATURES IN DOWN SYNDROME General Neonatal hypotonia Mild-moderate mental retardation Sho stature Cranio-facial Brachycephaly Clinodactyly Epicanthic folds Protruding tongue Small cars Upward sloping palpebral fissures Strabismus and/or nystagmus Brushfield spots in iris Increased incidence of leukaemia (1%) Limbs Fifth finger clinodactyly Single palmar crease (simian crease) Wide gap between first and second toes Other Congenital hea disease (40%) e.g. common atrio-ventricular canal, ASD, PDA, VSD, Fallot tetralogy Anal atresia & Hirshsprung disease Duodenal atresia & annular pancreas Hypothyroidism & DM Delayed fontanel closure Three fontanel Obesity & obstructive sleep apnea"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Hypeonicity Clinical features of Down's syndrome o Most striking feature in the neonate is hypotonia and although the diagnosis is usually evident at this time, it may some time be missed if the baby is very premature or his facial features are concealed by ventilatory apparetus. CLINICAL FEATURES IN DOWN SYNDROME General Neonatal hypotonia Mild-moderate mental retardation Sho stature Cranio-facial Brachycephaly Clinodactyly Epicanthic folds Protruding tongue Small cars Upward sloping palpebral fissures Strabismus and/or nystagmus Brushfield spots in iris Increased incidence of leukaemia (1%) Limbs Fifth finger clinodactyly Single palmar crease (simian crease) Wide gap between first and second toes Other Congenital hea disease (40%) e.g. common atrio-ventricular canal, ASD, PDA, VSD, Fallot tetralogy Anal atresia & Hirshsprung disease Duodenal atresia & annular pancreas Hypothyroidism & DM Delayed fontanel closure Three fontanel Obesity & obstructive sleep apnea",
+    "hint_exp": "🎯 Think of \"following features Down syndrome\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "94a6a71b-b75c-4f96-a8fe-e501c9a4c4c6": {
-    "cop": 3,
-    "exp": "Haptoglobin binds with Hb released from lysed RBCs and forms a complex and hence in hemolytic anemias there is increased formation of this complex and there is a decrease in serum haptoglobin level. Ref:Postgraduate Hematology by Victor Hoffbrand , under hemolytic anemias Ref Robbins 9/e pg 422"
+    "cop": 2,
+    "exp": "Haptoglobin binds with Hb released from lysed RBCs and forms a complex and hence in hemolytic anemias there is increased formation of this complex and there is a decrease in serum haptoglobin level. Ref:Postgraduate Hematology by Victor Hoffbrand , under hemolytic anemias Ref Robbins 9/e pg 422",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"features hemolytic anemia except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "70893b4c-708f-46bf-a05d-47e0eecfb23d": {
-    "cop": 4,
-    "exp": "Answer is D (All of the above) Decreased haptaglobin levels may occur in all cases of hemolysis. Although decreased haptaglobin levels are more characteristic of intravascular hemolysis, decreased levels are also seen in cases of extravascular hemolvsis. Heptaglobin levels and hemolysis (Hematology for Student's by Mackinney (2003)/78, 79 Normal plasma contains haptoglobin, an a2- globulin that can bind free haemolglobin During intravascular hemolysis as levels of free haemoglobin rise significantly, the levels of serum haptoglobin are observed to be very low or absent Even in Extravascular hemolysis, enough haemoglobin levels leaks out of the macrophages to bind with and deplete haptaglobin Therefore A low serum haptaglobin concentration is a good test of hemolysis butt is not specific for intravascular hemolysis. Parameter Extravascular hemolysis Intravascular hemolysis Haptaglohin Low Very low/Absent"
+    "cop": 3,
+    "exp": "Answer is D (All of the above) Decreased haptaglobin levels may occur in all cases of hemolysis. Although decreased haptaglobin levels are more characteristic of intravascular hemolysis, decreased levels are also seen in cases of extravascular hemolvsis. Heptaglobin levels and hemolysis (Hematology for Student's by Mackinney (2003)/78, 79 Normal plasma contains haptoglobin, an a2- globulin that can bind free haemolglobin During intravascular hemolysis as levels of free haemoglobin rise significantly, the levels of serum haptoglobin are observed to be very low or absent Even in Extravascular hemolysis, enough haemoglobin levels leaks out of the macrophages to bind with and deplete haptaglobin Therefore A low serum haptaglobin concentration is a good test of hemolysis butt is not specific for intravascular hemolysis. Parameter Extravascular hemolysis Intravascular hemolysis Haptaglohin Low Very low/Absent",
+    "hint_exp": "🧩 Your crush solved \"levels\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3866df61-91a8-4564-873a-39dc56915235": {
-    "cop": 4,
-    "exp": "Succinate dehydrogenase"
+    "cop": 3,
+    "exp": "Succinate dehydrogenase",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Malonate competetively inhibits\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bd9fbcad-a531-4796-9641-7d59dbe187c9": {
-    "cop": 2,
-    "exp": "ANSWER: (B) Uric addREF: Biochemistry 3rd edition by S C Rastogi page 366,In humans and higher primates, uric acid is the final oxidation (breakdown) product of purine metabolism and is excreted in urine.AUantoin is a natural end product of purine metabolism in most mammals other than humans."
+    "cop": 1,
+    "exp": "ANSWER: (B) Uric addREF: Biochemistry 3rd edition by S C Rastogi page 366,In humans and higher primates, uric acid is the final oxidation (breakdown) product of purine metabolism and is excreted in urine.AUantoin is a natural end product of purine metabolism in most mammals other than humans.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"purine metabolism\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a5923450-5f6f-475a-85ae-0b91b5b35b90": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"observed every year on\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d8582353-ea78-496a-9d83-d0c9388bae22": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Aspergillus . Septate hyphae and involvement of the cornea ours the diagnosis of the Aspergillus . Aspergillus can cause Aspergillus keratitis after trauma to the cornea. The hyphae of Aspergillus are septate & branched. . Mucor : It can cause infection of eye but its hyphae are not septate. . Candida : Candida can also involve the eye (it usually involves retina). Its infectious form is yeast not hyphae. . Histoplasma : Histoplasma has septate hyphae but it does not involve the eye."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Aspergillus . Septate hyphae and involvement of the cornea ours the diagnosis of the Aspergillus . Aspergillus can cause Aspergillus keratitis after trauma to the cornea. The hyphae of Aspergillus are septate & branched. . Mucor : It can cause infection of eye but its hyphae are not septate. . Candida : Candida can also involve the eye (it usually involves retina). Its infectious form is yeast not hyphae. . Histoplasma : Histoplasma has septate hyphae but it does not involve the eye.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"a case of corneal ulcer\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2009b215-73a5-4dd3-9ead-2facb6707984": {
-    "cop": 1,
-    "exp": "Bleeding from umbilical stump suggests Factor XIII deficiency.\nNeonates with a positive bleeding history, particularly with features such as delayed bleeding, umbilical stump bleeding or miscarriages and in whom the initial panel of screening test is negative should be tested for factor XIII deficiency.\nThe normal screening tests such as PT and PTT are normal in factor XIII deficiency because factor XIII is needed to stabilize the clot after a fibrin clot has formed, so tests used for evaluating the extrinsic or intrinsic pathways are not affected. (Note, that factor XIII is used, once the clot has formed.)\n\nTest used for evaluation of factor XIII\n\nTest used in qualitative evaluation of factor XIII is evaluation of clot stability in 5M urea.\nClots formed from normal individuals remain stable in 5M urea, while clots from factor XIII deficient patient dissolve in urea.\nThis assay detects only the most severely affected patients with 1% to 2% factor XIII deficieincy or tests.\nA quantitative chromogenic assay has been developed but is not yet readily available.\nIn addition to hemorrhages these patients may have poor wound healing a high incidence of infertility among males and abortion among affected females and a high incidence of intracerebral hemorrhage."
+    "cop": 0,
+    "exp": "Bleeding from umbilical stump suggests Factor XIII deficiency.\nNeonates with a positive bleeding history, particularly with features such as delayed bleeding, umbilical stump bleeding or miscarriages and in whom the initial panel of screening test is negative should be tested for factor XIII deficiency.\nThe normal screening tests such as PT and PTT are normal in factor XIII deficiency because factor XIII is needed to stabilize the clot after a fibrin clot has formed, so tests used for evaluating the extrinsic or intrinsic pathways are not affected. (Note, that factor XIII is used, once the clot has formed.)\n\nTest used for evaluation of factor XIII\n\nTest used in qualitative evaluation of factor XIII is evaluation of clot stability in 5M urea.\nClots formed from normal individuals remain stable in 5M urea, while clots from factor XIII deficient patient dissolve in urea.\nThis assay detects only the most severely affected patients with 1% to 2% factor XIII deficieincy or tests.\nA quantitative chromogenic assay has been developed but is not yet readily available.\nIn addition to hemorrhages these patients may have poor wound healing a high incidence of infertility among males and abortion among affected females and a high incidence of intracerebral hemorrhage.",
+    "hint_exp": "🧩 Your crush solved \"newborn baby presented with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dcea38af-c0a1-4afc-a8bb-eb7061f8482c": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Primary prevention Level of preventionExampleso Primordial preventiono Discouragement from adapting a harmful lifestyle, e.g. smokingo Primary preventiono Immunization (vaccination)o Chemoprophylaxiso Nutritional supplementation programmeso Chlorination of watero Using a mosquito neto Health educationo Secondary preventiono Screening testo Case finding programmeso Early diagnosis & treatmento Tertiary preventiono Disability limitation* Resting the affected limb in neutral position in PRPP to prevent deformityo Rehabilitation* Estabilishing schools for blind* Provision of aids for crippled* Reconstructive surgery in leprosy* Muscle re-education and graded exercise in neurological disorder like polio* Changing profession for a more suitable one"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Primary prevention Level of preventionExampleso Primordial preventiono Discouragement from adapting a harmful lifestyle, e.g. smokingo Primary preventiono Immunization (vaccination)o Chemoprophylaxiso Nutritional supplementation programmeso Chlorination of watero Using a mosquito neto Health educationo Secondary preventiono Screening testo Case finding programmeso Early diagnosis & treatmento Tertiary preventiono Disability limitation* Resting the affected limb in neutral position in PRPP to prevent deformityo Rehabilitation* Estabilishing schools for blind* Provision of aids for crippled* Reconstructive surgery in leprosy* Muscle re-education and graded exercise in neurological disorder like polio* Changing profession for a more suitable one",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Immunization\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b843c2d4-b687-4ba4-b85a-5c853eb676b9": {
-    "cop": 1,
-    "exp": "TABLE 8.14: Impoant Tumour Markers. CANCER ASSOCIATED PROTEINS: i. CA-125:-Ovary ii. CA 15-3 :-Breast iii. CA 19-9 :-Colon, pancreas, breast iv. CD30 :-Hodgkin's disease, anaplastic large cell lymphoma (ALCL) v. CD25 :-Hairy cell leukaemia (HCL), adult T cell leukaemia lymphoma (ATLL) vi. Monoclonal immunoglobulins :-Multiple myeloma, other gammopathies vii. Prostate specific antigen (PSA) :-Prostate carcinoma HARSH MOHAN Textbook of pathology 6th edition pg no 234"
+    "cop": 0,
+    "exp": "TABLE 8.14: Impoant Tumour Markers. CANCER ASSOCIATED PROTEINS: i. CA-125:-Ovary ii. CA 15-3 :-Breast iii. CA 19-9 :-Colon, pancreas, breast iv. CD30 :-Hodgkin's disease, anaplastic large cell lymphoma (ALCL) v. CD25 :-Hairy cell leukaemia (HCL), adult T cell leukaemia lymphoma (ATLL) vi. Monoclonal immunoglobulins :-Multiple myeloma, other gammopathies vii. Prostate specific antigen (PSA) :-Prostate carcinoma HARSH MOHAN Textbook of pathology 6th edition pg no 234",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"ovarian carcinoma in serum\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "723ea8d6-028a-4ee5-a665-90d25305dc4a": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"following feature Alzheimer disease\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7626a6f8-9618-4743-880d-16b50f8aabd2": {
-    "cop": 2,
-    "exp": "ALKYLATING AGENTS 1)Nitrogen mustards:- Cyclophosphamide, Ifosfamide, Chlorambucil, Melphalan 2)Ethylenimine :- Thio-TEPA 3)Alkyl sulfonate :- Busulfan 4)Nitrosoureas:- Carmustine (BCNU), Lomustine (CCNU) , 5)Triazine :-Dacarbazine (DTIC), Temozolomide 6)Methylhydrazine :-Procarbazine Ref:- kd tripathi; pg num:-858"
+    "cop": 1,
+    "exp": "ALKYLATING AGENTS 1)Nitrogen mustards:- Cyclophosphamide, Ifosfamide, Chlorambucil, Melphalan 2)Ethylenimine :- Thio-TEPA 3)Alkyl sulfonate :- Busulfan 4)Nitrosoureas:- Carmustine (BCNU), Lomustine (CCNU) , 5)Triazine :-Dacarbazine (DTIC), Temozolomide 6)Methylhydrazine :-Procarbazine Ref:- kd tripathi; pg num:-858",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"alkylating antineoplastic drug\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "34deb7a7-8f80-469c-93e9-b38d0a2f69f2": {
-    "cop": 4,
-    "exp": "The phenomenon by which T cells recognize foreign antigens in the context of specific MHC alleles is termed MHC restriction, and the specific MHC molecule is termed the restriction element. The most common source of foreign peptides presented by class I molecules is viral infection, in the course of which peptides from viral proteins enter the class I pathway. Other examples of intracellularly generated peptides that can be presented by class I molecules in an immunogenic manner include peptides derived from nonviral intracellular infectious agents (e.g., Listeria, Plasmodium), tumor antigens, minor histocompatibility antigens, and ceain autoantigens. Ref: Nepom G.T. (2012). Chapter 315. The Major Histocompatibility Complex. In D.L. Longo, A.S. Fauci, D.L. Kasper, S.L. Hauser, J.L. Jameson, J. Loscalzo (Eds), Harrison's Principles of Internal Medicine, 18e."
+    "cop": 3,
+    "exp": "The phenomenon by which T cells recognize foreign antigens in the context of specific MHC alleles is termed MHC restriction, and the specific MHC molecule is termed the restriction element. The most common source of foreign peptides presented by class I molecules is viral infection, in the course of which peptides from viral proteins enter the class I pathway. Other examples of intracellularly generated peptides that can be presented by class I molecules in an immunogenic manner include peptides derived from nonviral intracellular infectious agents (e.g., Listeria, Plasmodium), tumor antigens, minor histocompatibility antigens, and ceain autoantigens. Ref: Nepom G.T. (2012). Chapter 315. The Major Histocompatibility Complex. In D.L. Longo, A.S. Fauci, D.L. Kasper, S.L. Hauser, J.L. Jameson, J. Loscalzo (Eds), Harrison's Principles of Internal Medicine, 18e.",
+    "hint_exp": "🧩 Your crush solved \"T cells to recognize antigen\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6ec31fe4-b2bd-41d4-9bcc-7eed390c7707": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Oral o First pass elimination is seen with oral and rectal routes. o Maximum first pass effect is seen with oral route."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Oral o First pass elimination is seen with oral and rectal routes. o Maximum first pass effect is seen with oral route.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Maximum first pass metaboilsm\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cf2b89fd-4a25-47bd-a5a4-2b11928d929f": {
-    "cop": 2,
-    "exp": "Cluster headache occur three times more common in men than in women. Cluster headache is likely a disorder involving central pacemaker neurons in the region of the posterior hypothalamus. It is associated with symptoms such as conjunctival injection or lacrimation, rhinorrhea or nasal congestion, or cranial sympathetic dysfunction such as ptosis. These defects occur due to parasympathetic activation which occur as a result of injury to ascending sympathetic fibers surrounding a dilated carotid aery as it passes into the cranial cavity. Ref: Harrison's Internal Medicine, 18th Edition, Chapter 14"
+    "cop": 1,
+    "exp": "Cluster headache occur three times more common in men than in women. Cluster headache is likely a disorder involving central pacemaker neurons in the region of the posterior hypothalamus. It is associated with symptoms such as conjunctival injection or lacrimation, rhinorrhea or nasal congestion, or cranial sympathetic dysfunction such as ptosis. These defects occur due to parasympathetic activation which occur as a result of injury to ascending sympathetic fibers surrounding a dilated carotid aery as it passes into the cranial cavity. Ref: Harrison's Internal Medicine, 18th Edition, Chapter 14",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9d21eef0-3b19-4fc3-af31-d19b8cd614fa": {
-    "cop": 1,
-    "exp": "During bursting of skull due to firearm injury, a large poion of the brain may be thrown out of the bursting skull and found relatively intact. This is called as kronlein shot. - is a very rare injury of the skull caused by a high-velocity bullet in close range. There is bursting of the skull and laceration of the dura mater with complete evisceration of the brain. The brain will get shattered. Back spatter: Once the bullet is fired, spattering of blood back into the barrel. 'Billiard Ball' Ricochet Effect: It occurs after the shotgun pallets strike an intermediate object like doors, etc. When a mass of shotgun pellets enters tissue, the first pellets which penetrate are slowed and struck from behind by the following pellets which can cause them to scatter through the tissue much like a cluster of billiard balls struck by the cue ball. On X ray, the dispersal of pellets may suggest a distant shot,but actually the weapon was fired from close range."
+    "cop": 0,
+    "exp": "During bursting of skull due to firearm injury, a large poion of the brain may be thrown out of the bursting skull and found relatively intact. This is called as kronlein shot. - is a very rare injury of the skull caused by a high-velocity bullet in close range. There is bursting of the skull and laceration of the dura mater with complete evisceration of the brain. The brain will get shattered. Back spatter: Once the bullet is fired, spattering of blood back into the barrel. 'Billiard Ball' Ricochet Effect: It occurs after the shotgun pallets strike an intermediate object like doors, etc. When a mass of shotgun pellets enters tissue, the first pellets which penetrate are slowed and struck from behind by the following pellets which can cause them to scatter through the tissue much like a cluster of billiard balls struck by the cue ball. On X ray, the dispersal of pellets may suggest a distant shot,but actually the weapon was fired from close range.",
+    "hint_exp": "🎯 Think of \"is called as\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "459f448e-41bc-4ff4-ae47-4e9d1c17666e": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Delusion of persecution Persecutory delusions (paranoid)* This is the most common type of delusion. The patient feels that he is being persecuted against.* There is false belief that one is being harmed, threatened, cheated, poisoned, harassed or spied on or is a victim of conspiracy to damage his reputation.* The supposed persecutor of the patient may be people in the environment (e.g., members of family, neighbors, former friend) or may be political or religious groups.* These delusions occur in schizophrenia (especially paranoid, severe affective disorders (sever mania or severe depression), and organic brain syndrome.* Delusion of persecution may occur in the context of primary delusional experiences, auditory hallucinations, bodily hallucinations or experiences of passivity."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Delusion of persecution Persecutory delusions (paranoid)* This is the most common type of delusion. The patient feels that he is being persecuted against.* There is false belief that one is being harmed, threatened, cheated, poisoned, harassed or spied on or is a victim of conspiracy to damage his reputation.* The supposed persecutor of the patient may be people in the environment (e.g., members of family, neighbors, former friend) or may be political or religious groups.* These delusions occur in schizophrenia (especially paranoid, severe affective disorders (sever mania or severe depression), and organic brain syndrome.* Delusion of persecution may occur in the context of primary delusional experiences, auditory hallucinations, bodily hallucinations or experiences of passivity.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"delusion\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fb21f741-b011-47dd-8ae1-ed8c21db7374": {
-    "cop": 4,
-    "exp": "Because the meninges and spinal cord are included in the protrusion, the patient's condition is a classic presentation of spina bifida with meningomyelocele. If the protrusion contains only meninges but no CNS tissue, it is known as spina bifida with meningocele. Meningitis is an inflammation of the meninges caused by bacteria, viral, or numerous other irritants. It does not cause deformation of vertebrae or result in protrusion of spinal cord contents. Spina bifida occulta is a normally asymptomatic condition in which the vertebral lamina fail to fuse completely during embryologic development. A tuft of hair is commonly seen growing over the affected region (usually lumbar in position)."
+    "cop": 3,
+    "exp": "Because the meninges and spinal cord are included in the protrusion, the patient's condition is a classic presentation of spina bifida with meningomyelocele. If the protrusion contains only meninges but no CNS tissue, it is known as spina bifida with meningocele. Meningitis is an inflammation of the meninges caused by bacteria, viral, or numerous other irritants. It does not cause deformation of vertebrae or result in protrusion of spinal cord contents. Spina bifida occulta is a normally asymptomatic condition in which the vertebral lamina fail to fuse completely during embryologic development. A tuft of hair is commonly seen growing over the affected region (usually lumbar in position).",
+    "hint_exp": "🧩 Your crush solved \"congenital anomaly\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a105562f-8899-4daa-83b9-1dfe0dbbf19e": {
-    "cop": 4,
-    "exp": "Ans. Any nucleated retinal layer"
+    "cop": 3,
+    "exp": "Ans. Any nucleated retinal layer",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Retinoblastoma arises from\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b32eaacb-0265-4a5e-9fc8-dd7acca5339b": {
-    "cop": 1,
-    "exp": "Burkitt's lymphoma is actually associated with three translocations. The common variant t(8;14)(q24;q32), involving the oncogene myc on chromosome 8, and the heavy immunoglobulin chain on chromosome 14. The other two variants are: t(8;22)(q24;q11), involving myc and the lambda light chain immunoglobulin site, and t(2;8)(p12;q24), involving the kappa light chain and myc. Mantle cell lymphoma, multiple myeloma, and small (not cleaved) cell lymphoma are associated with the t(11;14)(q13;q32) translocation involving bcl -1 and the heavy chain site. Ref: Friedberg J.W., Perkins A.S. (2010). Chapter 104. Burkitt Lymphoma. In J.T. Prchal, K. Kaushansky, M.A. Lichtman, T.J. Kipps, U. Seligsohn (Eds), Williams Hematology, 8e."
+    "cop": 0,
+    "exp": "Burkitt's lymphoma is actually associated with three translocations. The common variant t(8;14)(q24;q32), involving the oncogene myc on chromosome 8, and the heavy immunoglobulin chain on chromosome 14. The other two variants are: t(8;22)(q24;q11), involving myc and the lambda light chain immunoglobulin site, and t(2;8)(p12;q24), involving the kappa light chain and myc. Mantle cell lymphoma, multiple myeloma, and small (not cleaved) cell lymphoma are associated with the t(11;14)(q13;q32) translocation involving bcl -1 and the heavy chain site. Ref: Friedberg J.W., Perkins A.S. (2010). Chapter 104. Burkitt Lymphoma. In J.T. Prchal, K. Kaushansky, M.A. Lichtman, T.J. Kipps, U. Seligsohn (Eds), Williams Hematology, 8e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following diseases\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f73c0864-8d1e-4874-8b2d-0136993376ed": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Hyaline membrane disease (HMD)"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Hyaline membrane disease (HMD)",
+    "hint_exp": "🎯 Think of \"Granulomatous appearance lung with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4f3f3ca5-ca77-4a1d-8e69-d1335b2801f6": {
-    "cop": 4,
-    "exp": "Ans. is 'a' i.e., Syphilis; 'b' i.e., Leptospira; 'c' i.e., Borrelia"
+    "cop": 3,
+    "exp": "Ans. is 'a' i.e., Syphilis; 'b' i.e., Leptospira; 'c' i.e., Borrelia",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Spirochetes among following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0a48b50c-5a65-4482-ba78-436998fe78e4": {
-    "cop": 2,
-    "exp": "Previous classical incision and previous inveed T shaped incision is absolutely contraindicated in vaginal bih after caesarean section. It is again contraindicated if facilities to do an emergency caesarean section is unavailable. But previous lower segment caesarean section can undergo VBAC but should not be forced. (Sheila TB of obstetrics 2nd edtn pg 339,340)"
+    "cop": 1,
+    "exp": "Previous classical incision and previous inveed T shaped incision is absolutely contraindicated in vaginal bih after caesarean section. It is again contraindicated if facilities to do an emergency caesarean section is unavailable. But previous lower segment caesarean section can undergo VBAC but should not be forced. (Sheila TB of obstetrics 2nd edtn pg 339,340)",
+    "hint_exp": "🧩 Your crush solved \"contraindications vaginal after previous\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b3706e1c-0631-42a5-a76f-8b7d5891eb79": {
-    "cop": 4,
-    "exp": "This is a case of skier's thumb i.e. acute injury to ulnar collateral ligament which occurs when there is abrupt abduction of the thumb. Injury is common in ball handling athletes.\nPatient presents with pain, tenderness and swelling at the base of thumb."
+    "cop": 3,
+    "exp": "This is a case of skier's thumb i.e. acute injury to ulnar collateral ligament which occurs when there is abrupt abduction of the thumb. Injury is common in ball handling athletes.\nPatient presents with pain, tenderness and swelling at the base of thumb.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"cricketer holds catch then\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "49ccf915-c118-4e51-ab57-898215677239": {
-    "cop": 3,
-    "exp": "Ans. c. Diazepam (Ref: Niraj Ahuja 6/e p39-40; Kaplan and Sadock's 9/e p1278, 1284-1285)The seizures in this patient, is due to alcohol withdrawal. Diazepam would be best medication to manage the seizure of the patient.Symptoms of Alcohol withdrawal:Hang over (MC)QHallucinationsQ (usually auditory) and illusionsQInsomniaQSeizures (Alcoholic seizures/Rum fits)QDelirium tremens;Occurs within 5 daysQ of complete or significant abstinenceQ from from heavy alcohol drinking Recovery occurs within 7 daysCharacteristic features are clouding of consciousnessQ, disorientationQ, hallucinations (mostly visual and auditory)Q, illusionQ, autonomic disturbancesQ, agitationQ and insomniaQ.Long acting benzodiazepines such as chlordiazepoxide and diazepam or short acting such as Iorazepam can he used to treat mild-moderate uncomplicated alcohol withdrawal.''Chlordiazepoxide is preferred over diazepam for treatment of alcohol withdrawal syndrome.'Management ofAlcohol IntoxicationAlcohol WithdrawalDelirium TremensDrugs used are:* Lorazepam (can worsen the vitals due to CNS depression)* Haloperidol (can lower seizure threshold) Other drugs which may be used:* Ziprasidone* Olanzapine* All patients should be given multiple oral vitamin B1 including 50-100 mg of thiamine daily for a week.* Replace alcohol (CNS depressant) with any other CNS depressant.* Benzodiazepines are commonly used.* Chlordiazepoxide is drug of choice because of its long half- life.* High dose benzodiazepines or antipsychotics arerecommended.* Anticonvulsants are not given to control seizures seen in delirium tremens. Withdrawal SyndromesSubstanceFeaturesOpioid* YawningQ, Insomnia. Dysphoric mood* Water loss from different orificesQ (LacrimationQ, sweatingQ, diarrheaQ, vomiting, rhinorrheaQ)* Increased vitalsQ (BP, Pulse, RR, Temperature)Q* Pupilary dilation, piloerectionQAlcohol(Hls delirium)* Hang over (MC)Q* HallucinationsQ (usually auditory) and illusionsQ* InsomniaQ* Seizures (Alcoholic seizures/Rum fits)Q* Delirium tremens:- Occurs within 5 daysQ of complete or significant abstinenceQ from from heavy alcohol drinking- Recovery occurs within 7 days- Characteristic features are clouding of consciousnessQ, disorientationQ, hallucinations (mostly visual and auditory)Q, illusionQ, autonomic disturbancesQ, agitationQ and insomniaQ.Cocaine* Increased or decreased- Sleep (hypersomniaQ or insomnia)- Psychomotor activity* Vivid unpleasant dreamsQ* Increased apetite and fatigueRemember:Drug of choice in withdrawal syndromeOpium* Methadone (1st choice)* Clonidine (2nd choice)Alcohol* Chlordiazepoxide (1st choice)* Diazepam (2nd) choice)Treatment of Alcohol DependenceAversion therapy: ApomorphineQ, sub-threshold electric shockPsychotherapyGroup therapyDeterrent agents: (Alcohol sensitizing drugs)QDisulfiramQCitrated calcium carbimide (CCC)MetronidazoleQ, NitrafezoleQMethyltetrazolethiolSulfonylureas (specially ChlorpropamideQ)Cephalosporins (cefoperazoneQ, moxalactamQ, cefamandoleQ)Anticraving agents: (FAN)FluoxetineQAcamprosateQNaltrexoneQ"
+    "cop": 2,
+    "exp": "Ans. c. Diazepam (Ref: Niraj Ahuja 6/e p39-40; Kaplan and Sadock's 9/e p1278, 1284-1285)The seizures in this patient, is due to alcohol withdrawal. Diazepam would be best medication to manage the seizure of the patient.Symptoms of Alcohol withdrawal:Hang over (MC)QHallucinationsQ (usually auditory) and illusionsQInsomniaQSeizures (Alcoholic seizures/Rum fits)QDelirium tremens;Occurs within 5 daysQ of complete or significant abstinenceQ from from heavy alcohol drinking Recovery occurs within 7 daysCharacteristic features are clouding of consciousnessQ, disorientationQ, hallucinations (mostly visual and auditory)Q, illusionQ, autonomic disturbancesQ, agitationQ and insomniaQ.Long acting benzodiazepines such as chlordiazepoxide and diazepam or short acting such as Iorazepam can he used to treat mild-moderate uncomplicated alcohol withdrawal.''Chlordiazepoxide is preferred over diazepam for treatment of alcohol withdrawal syndrome.'Management ofAlcohol IntoxicationAlcohol WithdrawalDelirium TremensDrugs used are:* Lorazepam (can worsen the vitals due to CNS depression)* Haloperidol (can lower seizure threshold) Other drugs which may be used:* Ziprasidone* Olanzapine* All patients should be given multiple oral vitamin B1 including 50-100 mg of thiamine daily for a week.* Replace alcohol (CNS depressant) with any other CNS depressant.* Benzodiazepines are commonly used.* Chlordiazepoxide is drug of choice because of its long half- life.* High dose benzodiazepines or antipsychotics arerecommended.* Anticonvulsants are not given to control seizures seen in delirium tremens. Withdrawal SyndromesSubstanceFeaturesOpioid* YawningQ, Insomnia. Dysphoric mood* Water loss from different orificesQ (LacrimationQ, sweatingQ, diarrheaQ, vomiting, rhinorrheaQ)* Increased vitalsQ (BP, Pulse, RR, Temperature)Q* Pupilary dilation, piloerectionQAlcohol(Hls delirium)* Hang over (MC)Q* HallucinationsQ (usually auditory) and illusionsQ* InsomniaQ* Seizures (Alcoholic seizures/Rum fits)Q* Delirium tremens:- Occurs within 5 daysQ of complete or significant abstinenceQ from from heavy alcohol drinking- Recovery occurs within 7 days- Characteristic features are clouding of consciousnessQ, disorientationQ, hallucinations (mostly visual and auditory)Q, illusionQ, autonomic disturbancesQ, agitationQ and insomniaQ.Cocaine* Increased or decreased- Sleep (hypersomniaQ or insomnia)- Psychomotor activity* Vivid unpleasant dreamsQ* Increased apetite and fatigueRemember:Drug of choice in withdrawal syndromeOpium* Methadone (1st choice)* Clonidine (2nd choice)Alcohol* Chlordiazepoxide (1st choice)* Diazepam (2nd) choice)Treatment of Alcohol DependenceAversion therapy: ApomorphineQ, sub-threshold electric shockPsychotherapyGroup therapyDeterrent agents: (Alcohol sensitizing drugs)QDisulfiramQCitrated calcium carbimide (CCC)MetronidazoleQ, NitrafezoleQMethyltetrazolethiolSulfonylureas (specially ChlorpropamideQ)Cephalosporins (cefoperazoneQ, moxalactamQ, cefamandoleQ)Anticraving agents: (FAN)FluoxetineQAcamprosateQNaltrexoneQ",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the patient\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b96f6e58-53c6-47c9-adf6-a0d882d0881f": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Acarbose Nateglinide, Glimepiride * Glimepiride and Nateglinide are an insulin secretagogue and it is a well-known fact that insulin secretagogues are associated with hypoglycemia.All the insulin secretagogues increase insulin secretion from the pancreas through the same mechanism i.e., by interfering with potassium channel.All the insulin secretagogues have the potential to cause profound and persistent hypoglycemia especially in elderly individuals.Hypoglycemia is usually related to delayed meals, increased physical activity, alcohol intake or renal insufficiency. Individuals who ingest an overdose of some agents develop prolong and serious hypoglycemia and should be monitored closely in the hospital.Thiazolidinediones (Pioglitazone)Thiazolidinediones are considered \"euglycemic\" and are efficacious in about 70% new users.Combination therapy of thiazolidinediones with sulfonylureas or insulin can lead to hypoglycemia and may require dose adjustment.Biguanides (Metformin Phenformin)Biguanides lower glucose among patients with type 2 diabetes mellitus largely by decreasing hepatic glucose output.It is also thought to increase glucose uptake by skeletal muscles.Because insulin secretion is unaltered hypoglycemia is not a side effect of metformin used as monotherapy.Alpha Glucosidase inhibitors (Acarbose)Lowers glucose by inhibiting intestinal enzymes that digest carbohydrate there by reducing carbohydrate digestion.Because of its mechanism of action, acarbose, when administered alone does not cause hypoglucemia in the fasting or postprandial states.Acarbose only produces hypoglycemia when used along with other oral hypoglycemics."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Acarbose Nateglinide, Glimepiride * Glimepiride and Nateglinide are an insulin secretagogue and it is a well-known fact that insulin secretagogues are associated with hypoglycemia.All the insulin secretagogues increase insulin secretion from the pancreas through the same mechanism i.e., by interfering with potassium channel.All the insulin secretagogues have the potential to cause profound and persistent hypoglycemia especially in elderly individuals.Hypoglycemia is usually related to delayed meals, increased physical activity, alcohol intake or renal insufficiency. Individuals who ingest an overdose of some agents develop prolong and serious hypoglycemia and should be monitored closely in the hospital.Thiazolidinediones (Pioglitazone)Thiazolidinediones are considered \"euglycemic\" and are efficacious in about 70% new users.Combination therapy of thiazolidinediones with sulfonylureas or insulin can lead to hypoglycemia and may require dose adjustment.Biguanides (Metformin Phenformin)Biguanides lower glucose among patients with type 2 diabetes mellitus largely by decreasing hepatic glucose output.It is also thought to increase glucose uptake by skeletal muscles.Because insulin secretion is unaltered hypoglycemia is not a side effect of metformin used as monotherapy.Alpha Glucosidase inhibitors (Acarbose)Lowers glucose by inhibiting intestinal enzymes that digest carbohydrate there by reducing carbohydrate digestion.Because of its mechanism of action, acarbose, when administered alone does not cause hypoglucemia in the fasting or postprandial states.Acarbose only produces hypoglycemia when used along with other oral hypoglycemics.",
+    "hint_exp": "🎯 Think of \"Which does cause hypoglycemia\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0efb32c8-a79d-42ae-9506-6f81b8e0b331": {
-    "cop": 4,
-    "exp": "* Delayed type of hypersensitivity is mediated by T cell dependant effector mechanisms involving both CD4+ TH1 cells and CD8 Cytotoxic T cells.* Antibodies do not play a role in type IV hypersensitivity reactions. The activated TH1 cells release Cytokines that will cause accumulation and activation of macrophages which will cause local damage.* TH 2 cells release IL-4 and are involved in Type 1 Hypersensitivity reaction."
+    "cop": 3,
+    "exp": "* Delayed type of hypersensitivity is mediated by T cell dependant effector mechanisms involving both CD4+ TH1 cells and CD8 Cytotoxic T cells.* Antibodies do not play a role in type IV hypersensitivity reactions. The activated TH1 cells release Cytokines that will cause accumulation and activation of macrophages which will cause local damage.* TH 2 cells release IL-4 and are involved in Type 1 Hypersensitivity reaction.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"hypersensitivity\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "645f3f53-4c11-4321-8e60-08acd49fd949": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"electromyogram least useful diagnosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "10ccf991-80ad-4f7d-aa03-b9a38a44bdc0": {
-    "cop": 3,
-    "exp": "C i.e. Non-systemic manifestations In angle closure glaucoma systemic manifestations like nausea, vomiting, headache, abdominal pain are present Q Laser iridotomy (1st) or surgical iridectomy (2nd) is treatment of choice for PACG. Q Pilocarpine is the drug of choice Q used to gain time till the surgery is performed. Atropine (Mydriatic) is contraindicated as it precipitates glaucoma."
+    "cop": 2,
+    "exp": "C i.e. Non-systemic manifestations In angle closure glaucoma systemic manifestations like nausea, vomiting, headache, abdominal pain are present Q Laser iridotomy (1st) or surgical iridectomy (2nd) is treatment of choice for PACG. Q Pilocarpine is the drug of choice Q used to gain time till the surgery is performed. Atropine (Mydriatic) is contraindicated as it precipitates glaucoma.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"close angle glaucoma all\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "988dd067-05f3-4fe9-b0ce-aa3187c47b64": {
-    "cop": 3,
-    "exp": "C i.e. Both"
+    "cop": 2,
+    "exp": "C i.e. Both",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"commonly due to\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c7872bcf-b5f6-45ea-a0f7-80b2be1275dd": {
-    "cop": 3,
-    "exp": "Sites of Epistaxis 1) Little's area - 90% 2) Above the level of middle turbinate- From anterior and posterior ethmoidal vessels 3) Below the level of middle turbinate-From sphenopalatine aery 4) Posterior pa of nasal cavity 5) Nasopharynx 6) Diffuse -Both from septum and lateral nasal wall; Seen in general systemic disorders and blood dyscrasias Ref: Dhingra 7e pg 198."
+    "cop": 2,
+    "exp": "Sites of Epistaxis 1) Little's area - 90% 2) Above the level of middle turbinate- From anterior and posterior ethmoidal vessels 3) Below the level of middle turbinate-From sphenopalatine aery 4) Posterior pa of nasal cavity 5) Nasopharynx 6) Diffuse -Both from septum and lateral nasal wall; Seen in general systemic disorders and blood dyscrasias Ref: Dhingra 7e pg 198.",
+    "hint_exp": "🎯 Think of \"nosebleed in a child\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ea3813ea-769a-4d90-93ff-fca03e11e8a3": {
-    "cop": 1,
-    "exp": "This autosomal recessive disorder is characterized by ichthyosis (usually ichthyosis linearis circumflexa but occasionally the lamellar or congenital ichthyosiform erythroderma types), trichorrhexis invaginata and other hair shaft anomalies, and atopic diathesis. Mutations in the gene SPINK 5, which encodes a serine protease inhibitor, have been identified in patients with Netheon syndrome."
+    "cop": 0,
+    "exp": "This autosomal recessive disorder is characterized by ichthyosis (usually ichthyosis linearis circumflexa but occasionally the lamellar or congenital ichthyosiform erythroderma types), trichorrhexis invaginata and other hair shaft anomalies, and atopic diathesis. Mutations in the gene SPINK 5, which encodes a serine protease inhibitor, have been identified in patients with Netheon syndrome.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of Netheon Syndrome\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b1d6f186-b163-41ba-b404-fa611d6c58ea": {
-    "cop": 1,
-    "exp": "Ca-Pancreas MC genetic mutation in Ca pancreas/ Cholangiocarcinoma - K-RAS > p-16 MC genetic mutation in Ca- GB - P53 > K-RAS MC genetic mutation in Ca stomach - P53 > COX - II"
+    "cop": 0,
+    "exp": "Ca-Pancreas MC genetic mutation in Ca pancreas/ Cholangiocarcinoma - K-RAS > p-16 MC genetic mutation in Ca- GB - P53 > K-RAS MC genetic mutation in Ca stomach - P53 > COX - II",
+    "hint_exp": "🧩 Your crush solved \"Most common mutation pancreatic\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9e7ce951-b988-4f5c-9d95-26103c3c741f": {
-    "cop": 2,
-    "exp": "Ans (b) Primary sclerosing cholangitisRef: Robbings pathology 9th ed. I860PRIMARY SCLEROSING CHOLANGITIS* Leads to obstructive jaundice leading to elevation of serum transaminases, gamma glutamyl transferase and alkaline phosphatase* Typical onion skin fibrosis of bile ducts* Per-cutaneous transhepatic cholangiography demonstrates irregularity and beading of the hepatic and common bile ducts in three patients.# Onion skin appearance in kidney seen in hyperplastic arteriosclerosis# Onion skin like lesions due to arteritis seen in Lymes and SLE# Onion skin fibrosis around bile ducts seen in PSC# Onion skin pattern of deposition of reactive bone in ewing s sarcoma# Onion bulb appearance in sural nerves seen in CIDP due to recurrent demyelination and remyelination"
+    "cop": 1,
+    "exp": "Ans (b) Primary sclerosing cholangitisRef: Robbings pathology 9th ed. I860PRIMARY SCLEROSING CHOLANGITIS* Leads to obstructive jaundice leading to elevation of serum transaminases, gamma glutamyl transferase and alkaline phosphatase* Typical onion skin fibrosis of bile ducts* Per-cutaneous transhepatic cholangiography demonstrates irregularity and beading of the hepatic and common bile ducts in three patients.# Onion skin appearance in kidney seen in hyperplastic arteriosclerosis# Onion skin like lesions due to arteritis seen in Lymes and SLE# Onion skin fibrosis around bile ducts seen in PSC# Onion skin pattern of deposition of reactive bone in ewing s sarcoma# Onion bulb appearance in sural nerves seen in CIDP due to recurrent demyelination and remyelination",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"of bile duct\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bea00bc5-14de-44b6-86f8-fb448c613c93": {
-    "cop": 4,
-    "exp": "Hyperacute rejection Occurs within minutes to hours after transplantation. Manifested clinically as a sudden cessation of urine output, along with fever and pain in the area of the graft site. This immediate rejection is mediated by preformed antibodies and complement activation products. -Lymphocytes and macrophages (choices A, B, and C) are associated with acute and chronic graft rejection."
+    "cop": 3,
+    "exp": "Hyperacute rejection Occurs within minutes to hours after transplantation. Manifested clinically as a sudden cessation of urine output, along with fever and pain in the area of the graft site. This immediate rejection is mediated by preformed antibodies and complement activation products. -Lymphocytes and macrophages (choices A, B, and C) are associated with acute and chronic graft rejection.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"this patient\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3a092dc9-1a88-423b-a4fc-184195e2705a": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following drugs can\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4a483334-4dca-4afb-a4f8-c9816350f2ff": {
-    "cop": 2,
-    "exp": "*Causes of viral lesions in renal transplantation : Polyomavirus, cytomegalovirus, adenovirus, Ebstein Barr virus and by far the most common infection involving kidney transplants are polyoma virusPolyoma virus nephropathy:*Polyoma virus are double stranded, non encapsulated DNA virus*Types of polyoma virus are BK virus and JC virus and BK virus is the common cause of polyoma virus nephropathy in renal transplants*BK virus affects and thereby causes intra nuclear inclusions in collecting ducts of medulla, parietal epithelium of glomerulus, transitional cell in renal pelvis, ureters and urinary bladder.*Note that not all those who are infected by Bk virus develops disease. *Infection of polyoma virus/BK virus is seen in -almost all humans*Disease caused by polyoma virus/BK virus is seen only in - renal transplant recipients.(Ref: Hepinstall pathology of the kidney 6/e p1441)"
+    "cop": 1,
+    "exp": "*Causes of viral lesions in renal transplantation : Polyomavirus, cytomegalovirus, adenovirus, Ebstein Barr virus and by far the most common infection involving kidney transplants are polyoma virusPolyoma virus nephropathy:*Polyoma virus are double stranded, non encapsulated DNA virus*Types of polyoma virus are BK virus and JC virus and BK virus is the common cause of polyoma virus nephropathy in renal transplants*BK virus affects and thereby causes intra nuclear inclusions in collecting ducts of medulla, parietal epithelium of glomerulus, transitional cell in renal pelvis, ureters and urinary bladder.*Note that not all those who are infected by Bk virus develops disease. *Infection of polyoma virus/BK virus is seen in -almost all humans*Disease caused by polyoma virus/BK virus is seen only in - renal transplant recipients.(Ref: Hepinstall pathology of the kidney 6/e p1441)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"in kidney allograft recipients\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "cbecc55d-433f-4a82-bd8c-3ccd22ab381f": {
-    "cop": 2,
-    "exp": "The IPSS estimated that 70% ofschizophrenia patients experienced hallucinations. The most common hallucinations in schizophrenia are auditory, followed by visual Ref ganong's review of medical physiology 25e p157"
+    "cop": 1,
+    "exp": "The IPSS estimated that 70% ofschizophrenia patients experienced hallucinations. The most common hallucinations in schizophrenia are auditory, followed by visual Ref ganong's review of medical physiology 25e p157",
+    "hint_exp": "🧩 Your crush solved \"organic hallucinosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cdb1814b-167c-46ee-b7a2-56fbd4734bc8": {
-    "cop": 4,
-    "exp": "Severe acute malnutrition (SAM) according to the WHO criteria is Weight for height less than median minus -3SD. Severe acute malnutrition (SAM) in children of ages 6 to 59 months is defined by the WHO as any of the following: Weight-for-length (or height) below -3SD of the WHO child growth standards. Presence of bipedal edema Mid-Upper arm circumference <11.5cm Ref: Ghai Essential Pediatrics 9th edition PGno: 97"
+    "cop": 3,
+    "exp": "Severe acute malnutrition (SAM) according to the WHO criteria is Weight for height less than median minus -3SD. Severe acute malnutrition (SAM) in children of ages 6 to 59 months is defined by the WHO as any of the following: Weight-for-length (or height) below -3SD of the WHO child growth standards. Presence of bipedal edema Mid-Upper arm circumference <11.5cm Ref: Ghai Essential Pediatrics 9th edition PGno: 97",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Severe acute malnutrition according\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "32686660-bd52-4bdf-94b7-9e68adf4cdd3": {
-    "cop": 4,
-    "exp": "Ans. D. Immobilization* Treatment of myositis ossificans (MO): when MO is active, immobilization is the best treatment & any attempt at removal of the mass is hazardous.* When silent and ALP/ESR levels are normal, it can safely be removed (generally after 1.5 years) if causing block in movements.* Indomethacin/low dose radiation/bisphosphonates can be given prophylactically in high risk patients to prevent MO formation."
+    "cop": 3,
+    "exp": "Ans. D. Immobilization* Treatment of myositis ossificans (MO): when MO is active, immobilization is the best treatment & any attempt at removal of the mass is hazardous.* When silent and ALP/ESR levels are normal, it can safely be removed (generally after 1.5 years) if causing block in movements.* Indomethacin/low dose radiation/bisphosphonates can be given prophylactically in high risk patients to prevent MO formation.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"this case\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ec8d139b-627a-4003-a24b-fd0ee6eb33f0": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Hypothyroidism"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Hypothyroidism",
+    "hint_exp": "🎯 Think of \"associated with diabetes mellitus\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "898659d9-08e3-4b6d-a058-02d905a40e0d": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., HypothyroidismPhysiological effects of Growth hormone Growth hormone has two major action, i.e., (1) Stimulation of skeletal growth, and (2) Regulation of metabolism. 3) Stimulation of skeletal growthThe effect of GH on skeletal growth is mediated by somatomedins (Insulin-like growth factors : IGF). They are synthesized mainly in the liver. The growth promoting action of somatomedins is helped by their insulin like actions. GH, through somatomedin (IGF-1), stimulates proliferation of chondrocytes and osteocytes resulting in increased deposition of chondroitin sulfate in catilage and increased ossification of the newly formed cailage.GH deficiency in early life causes dwarfism (small height). GH excess in early life leads to gigantism, whereas growth hormone excess in adulthood results in acromegaly.2) Regulation of metabolismProtein metabolism : - GH has predominantly anabolic effects on skeletal and cardiac muscle where it promotes amino acid transpo into cells and increase protein synthesis.Carbohydrate and fat metabolism : - The effects of GH on carbohydrate and fat metabolism are complicated by the fact that GH has anti-insulin effects, whereas somatomedins it produces have insulin like effects:-i) Anti-insulin effects due to direct effect of GH include decreased peripheral utilization of glucose, increased gluconeogenesis, hyperglycemia, and lipolysis. Due to its anti-insulin effects GH excess can cause insulin resistant diabetes mellitus.ii) Insulin like effects due to somatomedins (IGF) include antilipolytic activity, and other insulin like effects."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., HypothyroidismPhysiological effects of Growth hormone Growth hormone has two major action, i.e., (1) Stimulation of skeletal growth, and (2) Regulation of metabolism. 3) Stimulation of skeletal growthThe effect of GH on skeletal growth is mediated by somatomedins (Insulin-like growth factors : IGF). They are synthesized mainly in the liver. The growth promoting action of somatomedins is helped by their insulin like actions. GH, through somatomedin (IGF-1), stimulates proliferation of chondrocytes and osteocytes resulting in increased deposition of chondroitin sulfate in catilage and increased ossification of the newly formed cailage.GH deficiency in early life causes dwarfism (small height). GH excess in early life leads to gigantism, whereas growth hormone excess in adulthood results in acromegaly.2) Regulation of metabolismProtein metabolism : - GH has predominantly anabolic effects on skeletal and cardiac muscle where it promotes amino acid transpo into cells and increase protein synthesis.Carbohydrate and fat metabolism : - The effects of GH on carbohydrate and fat metabolism are complicated by the fact that GH has anti-insulin effects, whereas somatomedins it produces have insulin like effects:-i) Anti-insulin effects due to direct effect of GH include decreased peripheral utilization of glucose, increased gluconeogenesis, hyperglycemia, and lipolysis. Due to its anti-insulin effects GH excess can cause insulin resistant diabetes mellitus.ii) Insulin like effects due to somatomedins (IGF) include antilipolytic activity, and other insulin like effects.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Growth hormone does cause\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7ebbea4c-e8a7-434d-bc9f-d898e4cca7a0": {
-    "cop": 2,
-    "exp": "Abdominal pa of esophagus Here, the veins drain paly into poal & paly into systemic circulation . Veins accompanying left gastric vein drain into poal vein. Others drain into hemiazygos, in thoracic cavity, & continue into vena azygous & superior vena cava. venous drainage of pa of esophagus Cervical pa - Drain into submucosal plexus then to inferior thyroid vein & then to brachiocephalic veins Thoracic pa - Azygous veins Abdominal pa - Drains into left gastric vein & vena azygous hemiazygous vein."
+    "cop": 1,
+    "exp": "Abdominal pa of esophagus Here, the veins drain paly into poal & paly into systemic circulation . Veins accompanying left gastric vein drain into poal vein. Others drain into hemiazygos, in thoracic cavity, & continue into vena azygous & superior vena cava. venous drainage of pa of esophagus Cervical pa - Drain into submucosal plexus then to inferior thyroid vein & then to brachiocephalic veins Thoracic pa - Azygous veins Abdominal pa - Drains into left gastric vein & vena azygous hemiazygous vein.",
+    "hint_exp": "🧩 Your crush solved \"esophagus EXCEPT\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "17e1888a-8b33-45f5-a4b0-48dccd56bf4d": {
-    "cop": 1,
-    "exp": "T. spiralis reprograms terminally differentiated skeletal muscle cells causing them to de-differentiate and re-enter the cell cycle, a process that cannot occur naturally in mammalianskeletal muscle cells, but one that holds great therapeutic potential. Ref ananthnarayana and panikers microbiology textbook 8/e"
+    "cop": 0,
+    "exp": "T. spiralis reprograms terminally differentiated skeletal muscle cells causing them to de-differentiate and re-enter the cell cycle, a process that cannot occur naturally in mammalianskeletal muscle cells, but one that holds great therapeutic potential. Ref ananthnarayana and panikers microbiology textbook 8/e",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fcb168ad-2618-4f07-93ff-0d3c0f4bfccc": {
-    "cop": 4,
-    "exp": "Angiotensin 2 Action: \n\nIncreases thirst. \nIncreases ADH secretion. \nIncreases aldosterone. \nIt is the most potent vasoconstrictor."
+    "cop": 3,
+    "exp": "Angiotensin 2 Action: \n\nIncreases thirst. \nIncreases ADH secretion. \nIncreases aldosterone. \nIt is the most potent vasoconstrictor.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ca84484e-d1c1-44f6-a72c-f6884d29fcc2": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., 10 - 12 week Age of fetus End of Ist month Impoant changes Length -1 cm, weight -21/2 gm Eyes are seen as two dark spots and mouth as a cleft Nucleated RBCs begin to form in placenta End of 2nd month Length -4 cm, weight - 10 gm First ossification center appears in clavicle (4-5 weeks) The anus is seen as dark spot End of 3rd month Length -9 cm, weight - 30 gm Nails appear and neck is formed End of 4th month Length -16 cm, weight - 120 gm Sex can be recognized Lanugo hair is seen Meconium is found in duodenum Convolution begins to develop in brain End op' month Length -25 cm, weight - 400 gm Nails are distinct and soft Meconium appears in beginning of large intestine Light hair appear on head Skin is covered with vernix caseosa End of 6th month Length -30 cm, weight - 700 gm Eyebrows and eyelashes appear Testes are seen close to kidney Meconium in transverse colon End of 7`\" month Length -35 cm, weight - 900 to 1200 gm Meconium in entire large intestine Tests are found at external inguinal ring Eyelids open and pupillary membrane disappear End of 8th month Length -40 cm, weight - 1.5-2 kg Nails reach the tips of fingers Left testis is present in scrotum End of 9th month Length -45 cm, weight - 2.2-3.0 kg Scrotum contains both testes Meconium is seen at the end of large intestine End of Ir month Length -48-52 cm, weight - 2.5-5 kg (full tenn child) Six fontanels are present Surface of brain shows convolution and grey matter begins to form Lanugo is absent except on shoulders. Skin is pale and covered with vernix caseosa The nails project beyond the tip of fingers, but reach only the tip of the toes Cailages have formed in nose and ears."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., 10 - 12 week Age of fetus End of Ist month Impoant changes Length -1 cm, weight -21/2 gm Eyes are seen as two dark spots and mouth as a cleft Nucleated RBCs begin to form in placenta End of 2nd month Length -4 cm, weight - 10 gm First ossification center appears in clavicle (4-5 weeks) The anus is seen as dark spot End of 3rd month Length -9 cm, weight - 30 gm Nails appear and neck is formed End of 4th month Length -16 cm, weight - 120 gm Sex can be recognized Lanugo hair is seen Meconium is found in duodenum Convolution begins to develop in brain End op' month Length -25 cm, weight - 400 gm Nails are distinct and soft Meconium appears in beginning of large intestine Light hair appear on head Skin is covered with vernix caseosa End of 6th month Length -30 cm, weight - 700 gm Eyebrows and eyelashes appear Testes are seen close to kidney Meconium in transverse colon End of 7`\" month Length -35 cm, weight - 900 to 1200 gm Meconium in entire large intestine Tests are found at external inguinal ring Eyelids open and pupillary membrane disappear End of 8th month Length -40 cm, weight - 1.5-2 kg Nails reach the tips of fingers Left testis is present in scrotum End of 9th month Length -45 cm, weight - 2.2-3.0 kg Scrotum contains both testes Meconium is seen at the end of large intestine End of Ir month Length -48-52 cm, weight - 2.5-5 kg (full tenn child) Six fontanels are present Surface of brain shows convolution and grey matter begins to form Lanugo is absent except on shoulders. Skin is pale and covered with vernix caseosa The nails project beyond the tip of fingers, but reach only the tip of the toes Cailages have formed in nose and ears.",
+    "hint_exp": "🎯 Think of \"Nails formed which week\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bfa34be2-972e-4ecb-a833-40804186d01f": {
-    "cop": 1,
-    "exp": "(Decreases O2 tension): Ref: Mechanisms of clinical signs - Google Books Result books.google.co.in/books?isbn=072958075xMark Dennis, William Talbot Bowen, Lucy Cho - 2012 - MedicalLivedo Reticularis is essentially increased visibility of the venous plexus of the skin. Venodilatation of the vessels and deoxygenation of blood in the plexus are two main factors. In general venodilatation is caued by altered autonomic nervous system function; circulating factors that cause Venodilation; or in response to local hypoxia. Venodilation allows more venous blood to be present in engorged venules, making them larger and easier to see through the skin. Deoxygenation is principally caused by decreased cutaneous perfusion which can be as a result of decreased arteriolar inflow (may be due to vasopasm due to cold, ANS activity, arteriolar thrombosis or increased blood viscosity); or decreased venous outflow (may be due to venous thrombosis, increased blood viscosity)"
+    "cop": 0,
+    "exp": "(Decreases O2 tension): Ref: Mechanisms of clinical signs - Google Books Result books.google.co.in/books?isbn=072958075xMark Dennis, William Talbot Bowen, Lucy Cho - 2012 - MedicalLivedo Reticularis is essentially increased visibility of the venous plexus of the skin. Venodilatation of the vessels and deoxygenation of blood in the plexus are two main factors. In general venodilatation is caued by altered autonomic nervous system function; circulating factors that cause Venodilation; or in response to local hypoxia. Venodilation allows more venous blood to be present in engorged venules, making them larger and easier to see through the skin. Deoxygenation is principally caused by decreased cutaneous perfusion which can be as a result of decreased arteriolar inflow (may be due to vasopasm due to cold, ANS activity, arteriolar thrombosis or increased blood viscosity); or decreased venous outflow (may be due to venous thrombosis, increased blood viscosity)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"most of the tissue due to\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6d1ff94e-2c40-4e12-8770-bb52f5958dfe": {
-    "cop": 2,
-    "exp": "The germ cell reach gonadal ridge by the 6th week to form oogonia which multiply by mitosis By 12th week the oogonia are arranged in clusters and are covered by a layer of follicular cells to form the primordial follicle The oogonia enter into the1st meiotic division but are arrested in diplotene stage of prophase and doesn't enter into metaphase but rest until pubey Reference: Textbook of Obstetrics; Sheila balakrishnan; 2 nd edition; Page no: 49"
+    "cop": 1,
+    "exp": "The germ cell reach gonadal ridge by the 6th week to form oogonia which multiply by mitosis By 12th week the oogonia are arranged in clusters and are covered by a layer of follicular cells to form the primordial follicle The oogonia enter into the1st meiotic division but are arrested in diplotene stage of prophase and doesn't enter into metaphase but rest until pubey Reference: Textbook of Obstetrics; Sheila balakrishnan; 2 nd edition; Page no: 49",
+    "hint_exp": "🧩 Your crush solved \"meiotic division oogenesis gets\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

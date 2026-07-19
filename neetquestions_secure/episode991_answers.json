@@ -1,202 +1,252 @@
 {
   "e39ad02c-9fed-4917-b09e-58de9516855b": {
-    "cop": 2,
-    "exp": "ANS. B* Sensitivity: A/(A+C) x 100Sensitivity is the probability that a test will indicate 'disease' among those with the disease.* Specificity: D/(D+B) x 100Specificity is the fraction of those without disease who will have a negative test result.* Positive Predictive Value: A/(A+B) x 100Positive predictive value--diagnostic power of a screening test to correctly identify the disease.* Negative Predictive Value: D/(D+C) x 100Negative predictive value--diagnostic power of a screening test to exclude the disease.# Important formulas in SPM1. Extra edge in sensitivity, specificityIn sequential testing (one diagnostic test is done, if that test is positive, same test is repeated again):- False positivity decreases- Specificity increases- Sensitivity decreasesIn parallel testing (two different diagnostic tests are done together):- False negativity decreases- Sensitivity increases- Specificity decreases(This question was asked in May and November session JIPMER 2017)2. Normal distribution curve3. Positive and negative skew* In positive skew: Mean > Median > Mode* In negative skew: Mean < Median < Mode4. Odds ratio = P/(l-P) {where, P is the probablity}.5. Sample size of a study = 4PQ/D2 {where, P = prevalence, Q = (1-P), D is error6. Standard error of a population[?] (PQ/sample size)7. Crude birth rate = (8 x total fertility rate) + 1."
+    "cop": 1,
+    "exp": "ANS. B* Sensitivity: A/(A+C) x 100Sensitivity is the probability that a test will indicate 'disease' among those with the disease.* Specificity: D/(D+B) x 100Specificity is the fraction of those without disease who will have a negative test result.* Positive Predictive Value: A/(A+B) x 100Positive predictive value--diagnostic power of a screening test to correctly identify the disease.* Negative Predictive Value: D/(D+C) x 100Negative predictive value--diagnostic power of a screening test to exclude the disease.# Important formulas in SPM1. Extra edge in sensitivity, specificityIn sequential testing (one diagnostic test is done, if that test is positive, same test is repeated again):- False positivity decreases- Specificity increases- Sensitivity decreasesIn parallel testing (two different diagnostic tests are done together):- False negativity decreases- Sensitivity increases- Specificity decreases(This question was asked in May and November session JIPMER 2017)2. Normal distribution curve3. Positive and negative skew* In positive skew: Mean > Median > Mode* In negative skew: Mean < Median < Mode4. Odds ratio = P/(l-P) {where, P is the probablity}.5. Sample size of a study = 4PQ/D2 {where, P = prevalence, Q = (1-P), D is error6. Standard error of a population[?] (PQ/sample size)7. Crude birth rate = (8 x total fertility rate) + 1.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a study means\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "96c6a07e-9f97-4004-ace4-15d48ab92919": {
-    "cop": 3,
-    "exp": "The Dix-Hallpike test -- or Nylen-Barany test -- is a diagnostic maneuver used to identify benign paroxysmal positional veigo (BPPV)."
+    "cop": 2,
+    "exp": "The Dix-Hallpike test -- or Nylen-Barany test -- is a diagnostic maneuver used to identify benign paroxysmal positional veigo (BPPV).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Hallpike test done\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c5738a17-f9ed-470a-a0eb-a1b736eef796": {
-    "cop": 4,
-    "exp": "Usage of phenol Recommended strength Decontamination of faeces 10% Mopping of floor and cleaning of drains 5% Bacteriostatic 0.5% Ref : Park 21st edition, page 117"
+    "cop": 3,
+    "exp": "Usage of phenol Recommended strength Decontamination of faeces 10% Mopping of floor and cleaning of drains 5% Bacteriostatic 0.5% Ref : Park 21st edition, page 117",
+    "hint_exp": "🎯 Think of \"disinfection of faeces\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4ad8ff7c-04af-4b7f-9954-6bbaead7fa3a": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Aleness o There is lethargy and listlessness (not aleness)."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Aleness o There is lethargy and listlessness (not aleness).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Kwashiorkor characterised except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8e0b7190-578d-4ee9-bc35-da496cf8411c": {
-    "cop": 4,
-    "exp": "Anti Mi-2 antibodies are useful for diagnosis of dermatomyositis Laboratory studies in suspected RA fall into 3 categories--markers of inflammation, hematologic parameters, and immunologic parameters--and include the following:- Erythrocyte sedimentation rate (ESR) C-reactive protein (CRP) level Complete blood count (CBC) Rheumatoid factor (RF) assay Antinuclear antibody (ANA) assay Anti cyclic citrullinated peptide (anti-CCP) and anti mutated citrullinated vimentin (anti-MCV) assays"
+    "cop": 3,
+    "exp": "Anti Mi-2 antibodies are useful for diagnosis of dermatomyositis Laboratory studies in suspected RA fall into 3 categories--markers of inflammation, hematologic parameters, and immunologic parameters--and include the following:- Erythrocyte sedimentation rate (ESR) C-reactive protein (CRP) level Complete blood count (CBC) Rheumatoid factor (RF) assay Antinuclear antibody (ANA) assay Anti cyclic citrullinated peptide (anti-CCP) and anti mutated citrullinated vimentin (anti-MCV) assays",
+    "hint_exp": "🧩 Your crush solved \"true about Rheumatoid Ahritis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b494e9e6-88dd-497e-9846-ab68097de9c1": {
-    "cop": 1,
-    "exp": "*Tumor involving less than half of the globe- Multimodal therapy (chemoreduction followed by local destruction). *Tumor involving half or more of the globe - Enucleation. Ref: Wills Eye hospital at las of Clinical ophthalmology p.269."
+    "cop": 0,
+    "exp": "*Tumor involving less than half of the globe- Multimodal therapy (chemoreduction followed by local destruction). *Tumor involving half or more of the globe - Enucleation. Ref: Wills Eye hospital at las of Clinical ophthalmology p.269.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year child having leucocoria\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "15109a1e-ed23-4af7-ac1f-6a11c52211c3": {
-    "cop": 4,
-    "exp": "D i.e. Metochlopromide Metochlopramide increases lower esophageal sphinter tone, speeds gastric emptying & lowers gastric fluid volume & decreases risk for aspiration pneumonia due to antiemetic effect"
+    "cop": 3,
+    "exp": "D i.e. Metochlopromide Metochlopramide increases lower esophageal sphinter tone, speeds gastric emptying & lowers gastric fluid volume & decreases risk for aspiration pneumonia due to antiemetic effect",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"preoperative period\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6d268aef-31ca-4f68-994d-b6b6fd1d7cd3": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Mycobacterium tuberculosis (Ref: Ananthanarayan, 9th/e, p. 576 and 8th/e, p. 575)Common pathogens causing T.B. in AIDS patients are M. tuberculosis and M. avium intraceliulare. In developing countries, the most important pathogen is M. tuberculosis, with many strain being multidrug resistant."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Mycobacterium tuberculosis (Ref: Ananthanarayan, 9th/e, p. 576 and 8th/e, p. 575)Common pathogens causing T.B. in AIDS patients are M. tuberculosis and M. avium intraceliulare. In developing countries, the most important pathogen is M. tuberculosis, with many strain being multidrug resistant.",
+    "hint_exp": "🎯 Think of \"tropical countries\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e9795b0e-872e-4d18-b74b-71a7b729e5e0": {
-    "cop": 4,
-    "exp": "Thrombotic thrombocytopenic purpura (TTP) is a rare disorder of unknown etiology. It is characterized by an increased bleeding time but a decreased platelet count. It causes purpura, fever, renal failure, microangiopathic hemolytic anemia, and microthrombi, frequently in young women. Elevated indirect bilirubin and high LDH are characteristic, as are schistocytes in the blood smear, renal dysfunction, and neurologic and systemic symptoms. Negative findings impoant to rule out similar conditions include a negative Coombs test and absence of fibrin split products. TTP is thought to be initiated by endothelial injury, which releases ceain procoagulant materials into the circulation, causing platelet aggregation. This condition may be precipitated by pregnancy or use of estrogens. Autoimmune hemolytic anemia can cause anemia and an elevated indirect bilirubin, but generally produces only mild symptoms, is not associated with thrombocytopenia, and does not cause fragmentation of red blood cells on the peripheral smear. The negative Coombs test argues against autoimmune hemolytic anemia. Disseminated intravascular coagulation can be differentiated from TTP because of abnormal coagulation tests. In DIC, microangiopathic hemolysis is also present, but the prothrombin time (PT) and paial thromboplastin time (PTT) are prolonged, fibrinogen levels are reduced, and fibrin split products are elevated. Hemolytic-uremic syndrome is not significantly different from TTP. The two conditions, in fact, are considered manifestations of the same pathogenetic spectrum. However, the vascular bed of the CNS is not involved in HUS. Thus, mental status changes are not pa of the clinical picture of HUS."
+    "cop": 3,
+    "exp": "Thrombotic thrombocytopenic purpura (TTP) is a rare disorder of unknown etiology. It is characterized by an increased bleeding time but a decreased platelet count. It causes purpura, fever, renal failure, microangiopathic hemolytic anemia, and microthrombi, frequently in young women. Elevated indirect bilirubin and high LDH are characteristic, as are schistocytes in the blood smear, renal dysfunction, and neurologic and systemic symptoms. Negative findings impoant to rule out similar conditions include a negative Coombs test and absence of fibrin split products. TTP is thought to be initiated by endothelial injury, which releases ceain procoagulant materials into the circulation, causing platelet aggregation. This condition may be precipitated by pregnancy or use of estrogens. Autoimmune hemolytic anemia can cause anemia and an elevated indirect bilirubin, but generally produces only mild symptoms, is not associated with thrombocytopenia, and does not cause fragmentation of red blood cells on the peripheral smear. The negative Coombs test argues against autoimmune hemolytic anemia. Disseminated intravascular coagulation can be differentiated from TTP because of abnormal coagulation tests. In DIC, microangiopathic hemolysis is also present, but the prothrombin time (PT) and paial thromboplastin time (PTT) are prolonged, fibrinogen levels are reduced, and fibrin split products are elevated. Hemolytic-uremic syndrome is not significantly different from TTP. The two conditions, in fact, are considered manifestations of the same pathogenetic spectrum. However, the vascular bed of the CNS is not involved in HUS. Thus, mental status changes are not pa of the clinical picture of HUS.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3cac6887-ef7f-4f48-af88-9bd432ec8152": {
-    "cop": 3,
-    "exp": "* Dorsolateral pa of the medulla is suplied by posterior inferior cerebellar aery ,which usually a branch of veebral aery *thrombosis of posterior inferior cerebellar aery ,therfore effects a wedge shaped area on the dorsolateral aspects of medulla and the inferior surface of cerebellum produce lateral medullary syndrome of wallenberg. Ref Harrison20th edition pg 2435"
+    "cop": 2,
+    "exp": "* Dorsolateral pa of the medulla is suplied by posterior inferior cerebellar aery ,which usually a branch of veebral aery *thrombosis of posterior inferior cerebellar aery ,therfore effects a wedge shaped area on the dorsolateral aspects of medulla and the inferior surface of cerebellum produce lateral medullary syndrome of wallenberg. Ref Harrison20th edition pg 2435",
+    "hint_exp": "🧩 Your crush solved \"Lateral medullary syndrome caused\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "42ae87bb-d4a9-42be-89fb-01a007e87b4f": {
-    "cop": 1,
-    "exp": "Ans A Using energy in ATP to extrude 3Na+ out of the cells in exchange to taking two K+ into the cells* Na+K+ ATPase catalyse the hydrolysis of ATP to adenosine diphosphate and uses energy to extrude three Na+ from the cell and take two K+ into the cell for each molecule of ATP hydrolysed.* It is therefore said to have a coupling ratio of 3:2* Its activity is inhibited by Ouabain and related digitalis V glycosides which are used for CHF.* Active transport of sodium and potassium is a major energy consuming process in the body. In body it accounts for 24% of energy utilized by cells and 70% of energy utilized by neurons.Hormones increasing Na-K ATPase activity are* Thyroid hormones* Aldosterone* Insulin"
+    "cop": 0,
+    "exp": "Ans A Using energy in ATP to extrude 3Na+ out of the cells in exchange to taking two K+ into the cells* Na+K+ ATPase catalyse the hydrolysis of ATP to adenosine diphosphate and uses energy to extrude three Na+ from the cell and take two K+ into the cell for each molecule of ATP hydrolysed.* It is therefore said to have a coupling ratio of 3:2* Its activity is inhibited by Ouabain and related digitalis V glycosides which are used for CHF.* Active transport of sodium and potassium is a major energy consuming process in the body. In body it accounts for 24% of energy utilized by cells and 70% of energy utilized by neurons.Hormones increasing Na-K ATPase activity are* Thyroid hormones* Aldosterone* Insulin",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"cellular physiology by\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f47887eb-cd7a-4382-b3c9-519dbc513b4a": {
-    "cop": 3,
-    "exp": "Acute conjunctivitis can be caused by viruses including enterovirus 70 (EV-70), coxsackievirus A24, and epidemic adenoviruses. Q These viruses may also lead to acute hemorrhagic conjunctivitis (AHC), characterized by photophobia, watering, and foreign body sensation, eyelid edema, conjunctival hemorrhages, and superficial punctate keratitis. The disease is self-limiting."
+    "cop": 2,
+    "exp": "Acute conjunctivitis can be caused by viruses including enterovirus 70 (EV-70), coxsackievirus A24, and epidemic adenoviruses. Q These viruses may also lead to acute hemorrhagic conjunctivitis (AHC), characterized by photophobia, watering, and foreign body sensation, eyelid edema, conjunctival hemorrhages, and superficial punctate keratitis. The disease is self-limiting.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"causative agent acute hemorrhagic\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5e587769-1313-4e62-bbaf-7833d96d725b": {
-    "cop": 3,
-    "exp": "* Infective skin lesion with gram positive cocci in chains and hemolytic colonies suggest infection of Streptococcus pyogenes. Option 1, 2 Pneumococcus: Bile solubility Positive (Bile soluble) Optochin sensitivity Option 3 Streptococcus Pyogenes Transpo medium: Pike's medium Direct smear microscopy: Pus cells with gram-positive cocci in sho chains Culture: Blood agar: Pinpoint colony with a wide zone of b-hemolysis Selective media: Crystal violet blood agar and PNF (polymyxin B, neomycin, fusidic acid) media Liquid media: Granular turbidity with powdery deposit Biochemical: Catalase negative, Bacitracin sensitive (Maxted's observation) Pyrrolidonyl Arylamidase (PYR) test is positive. Option 4 Catalase +ve: Staphylococcus spp. Catalase -ve: Streptococcus spp."
+    "cop": 2,
+    "exp": "* Infective skin lesion with gram positive cocci in chains and hemolytic colonies suggest infection of Streptococcus pyogenes. Option 1, 2 Pneumococcus: Bile solubility Positive (Bile soluble) Optochin sensitivity Option 3 Streptococcus Pyogenes Transpo medium: Pike's medium Direct smear microscopy: Pus cells with gram-positive cocci in sho chains Culture: Blood agar: Pinpoint colony with a wide zone of b-hemolysis Selective media: Crystal violet blood agar and PNF (polymyxin B, neomycin, fusidic acid) media Liquid media: Granular turbidity with powdery deposit Biochemical: Catalase negative, Bacitracin sensitive (Maxted's observation) Pyrrolidonyl Arylamidase (PYR) test is positive. Option 4 Catalase +ve: Staphylococcus spp. Catalase -ve: Streptococcus spp.",
+    "hint_exp": "🎯 Think of \"chains and culture\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dfe78d41-4cef-487d-90e9-8759de764ead": {
-    "cop": 1,
-    "exp": "Answer is A (Burning pain): Burning pain is a characteristic feature of small -fiber neuropathies Tingling and Numbness is a feature of large fiber neuropathies while foot drop & twitching are features of motor neuropathies Symptoms, Signs and Tests in Peripheral Neuropathy Type of Neuropathy Symptoms Signs Large fiber * Numbness * Decreased Vibration * Tingling * Decreased Joint-position sense * \"Pins and needles\" * Decreased Reflexes * Poor balance Small fiber * Pain: burning, shock-like, stabbing, prickling, shooting, lancinating * * Decreased Pin prick Decreased Temperature sensation * Allodynia Motor * Cramps * Reduced Strength * Weak grip * Reduced Reflexes * Footdrop * Twitching Autonomic * Decreased or increased sweating * Ohostasis * * Dry eyes, mouth, Erectile dysfunction * * Unequal pupil size Resting tachycardia * Gastroparesis/diarrhea * Faintness, light-headedness"
+    "cop": 0,
+    "exp": "Answer is A (Burning pain): Burning pain is a characteristic feature of small -fiber neuropathies Tingling and Numbness is a feature of large fiber neuropathies while foot drop & twitching are features of motor neuropathies Symptoms, Signs and Tests in Peripheral Neuropathy Type of Neuropathy Symptoms Signs Large fiber * Numbness * Decreased Vibration * Tingling * Decreased Joint-position sense * \"Pins and needles\" * Decreased Reflexes * Poor balance Small fiber * Pain: burning, shock-like, stabbing, prickling, shooting, lancinating * * Decreased Pin prick Decreased Temperature sensation * Allodynia Motor * Cramps * Reduced Strength * Weak grip * Reduced Reflexes * Footdrop * Twitching Autonomic * Decreased or increased sweating * Ohostasis * * Dry eyes, mouth, Erectile dysfunction * * Unequal pupil size Resting tachycardia * Gastroparesis/diarrhea * Faintness, light-headedness",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Small fiber neuropathy presents\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2d1a0a5c-8db1-4ca0-8d47-362632d5d566": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"barbae\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "453d132c-9ad4-4ba0-859a-e5a7c39addfb": {
-    "cop": 4,
-    "exp": "Ans. Rhabdomyosarcoma"
+    "cop": 3,
+    "exp": "Ans. Rhabdomyosarcoma",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Dehiscence bone seen rays\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ee85a13f-64ee-4564-acbf-b84bf8de4664": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Histoplasma Histoplasma capsulatum is a dimorphic fungus.It causes intracellular infection of reticuloendothelial system"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Histoplasma Histoplasma capsulatum is a dimorphic fungus.It causes intracellular infection of reticuloendothelial system",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Fungus which infects reticuloendothelial\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5e61fe28-011a-45ed-87b4-cfb86caad5b8": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Copper Chalcosis refers to the deposition of copper in the tissues. Chalcosis is a term used to describe the deposition of the copper (Cu) in the tissues especially tissues of the eyes. Chalocosis in occular tissues generally occurs from the presence of a copper foreign body within the eye"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Copper Chalcosis refers to the deposition of copper in the tissues. Chalcosis is a term used to describe the deposition of the copper (Cu) in the tissues especially tissues of the eyes. Chalocosis in occular tissues generally occurs from the presence of a copper foreign body within the eye",
+    "hint_exp": "🎯 Think of \"the following tissue deposits\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4cdbc81d-c403-48d1-9606-320bd0e8c8bd": {
-    "cop": 3,
-    "exp": "Obstructive hydrocephalus, in this case resulting from obstruction of the cerebral aqueduct, refers to a condition in which flow of cerebrospinal fluid (CSF) is obstructed within the ventricular system. This leads to pressure increasing in the CSF above the obstruction, explaining the enlarged lateral and third ventricles. Nonobstructive hydrocephalus is due to either excessive CSF production or ineffective CSF reabsorption. This would lead to enlargement of all ventricular chambers. Anencephaly, also known as meroanencephaly, is a partial absence of the brain and is due to defective closure of the anterior neuropore. Holoprosencephaly is a failure of cleavage of the forebrain and would result in a single fused ventricle."
+    "cop": 2,
+    "exp": "Obstructive hydrocephalus, in this case resulting from obstruction of the cerebral aqueduct, refers to a condition in which flow of cerebrospinal fluid (CSF) is obstructed within the ventricular system. This leads to pressure increasing in the CSF above the obstruction, explaining the enlarged lateral and third ventricles. Nonobstructive hydrocephalus is due to either excessive CSF production or ineffective CSF reabsorption. This would lead to enlargement of all ventricular chambers. Anencephaly, also known as meroanencephaly, is a partial absence of the brain and is due to defective closure of the anterior neuropore. Holoprosencephaly is a failure of cleavage of the forebrain and would result in a single fused ventricle.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"these symptoms\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9b425f04-f5a8-458a-94b1-d970126899bc": {
-    "cop": 4,
-    "exp": "- Tropical splenomegaly syndrome is now known as Hyperreactive malarial syndrome (HMS) is prevalent in native residents of regions where malaria is endemic.Patients with HMS have high levels of antibody for Plasmodium falciparum, Plasmodium vivax, or Plasmodium ovale. - Presentation of Kala Azar -fever, chills and spleen progressively becomes greatly enlarged, and bone marrow damage leads to pancytopenia. The liver is somewhat enlarged, and generalized lymphadenopathy may occur. Hyperpigmentation of skin can be seen, leading to the name Kala Azar. Oral miltefosine can be used for treatment.(Liposomal Amphotericin B is preferred)"
+    "cop": 3,
+    "exp": "- Tropical splenomegaly syndrome is now known as Hyperreactive malarial syndrome (HMS) is prevalent in native residents of regions where malaria is endemic.Patients with HMS have high levels of antibody for Plasmodium falciparum, Plasmodium vivax, or Plasmodium ovale. - Presentation of Kala Azar -fever, chills and spleen progressively becomes greatly enlarged, and bone marrow damage leads to pancytopenia. The liver is somewhat enlarged, and generalized lymphadenopathy may occur. Hyperpigmentation of skin can be seen, leading to the name Kala Azar. Oral miltefosine can be used for treatment.(Liposomal Amphotericin B is preferred)",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "afa411d3-1bfb-407b-b265-2d734901dcd3": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Moderately open angle"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Moderately open angle",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"anterior chamber denotes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "21b9d950-b771-485b-ad56-9dc500c017c6": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Form myelin sheath Shwann cellsIn peripheral nervous system (PNS), Schwann cells provide structural suppo to all nerve fibres. Schawann cells form a sheath around the axon and form the outermost layer of a nerve fiber, called neurilemma, also known as sheath of Schwann or neurolemma. Schwann cells is surrounded by a basal lamina (or external lamina).In some fibres, Schwann cells additionally form myelin sheath; these fibres are called myelinated nerve fibres. Those nerve fibres in which myelin sheath is not formed, that is Schwann cells only provide structural suppo, are non-myelinated nerve fibres.Schwann cells deposit concentric layers of myelin around the axon to form myelin sheath. In myelinated fibres, one Schwann cell covers only a sho segment of the axon. The small pa of the axon present in between two adjacent Schwann cells (the pa that is devoid of myelin sheath) is called node of Ranvier.Myelin is a mixture of lipoproteins and acts as an insulator. Since myelin acts as an insulator, impulses are generated only at the nodes of Ranvier and this helps in faster conduction of the impulses. This is called saltatory conduction.Schwann cells are derived from neuroectoderm."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Form myelin sheath Shwann cellsIn peripheral nervous system (PNS), Schwann cells provide structural suppo to all nerve fibres. Schawann cells form a sheath around the axon and form the outermost layer of a nerve fiber, called neurilemma, also known as sheath of Schwann or neurolemma. Schwann cells is surrounded by a basal lamina (or external lamina).In some fibres, Schwann cells additionally form myelin sheath; these fibres are called myelinated nerve fibres. Those nerve fibres in which myelin sheath is not formed, that is Schwann cells only provide structural suppo, are non-myelinated nerve fibres.Schwann cells deposit concentric layers of myelin around the axon to form myelin sheath. In myelinated fibres, one Schwann cell covers only a sho segment of the axon. The small pa of the axon present in between two adjacent Schwann cells (the pa that is devoid of myelin sheath) is called node of Ranvier.Myelin is a mixture of lipoproteins and acts as an insulator. Since myelin acts as an insulator, impulses are generated only at the nodes of Ranvier and this helps in faster conduction of the impulses. This is called saltatory conduction.Schwann cells are derived from neuroectoderm.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Schwann cells\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f0c20fc0-b08c-4304-aada-8bf54b49cee8": {
-    "cop": 1,
-    "exp": "It is Autosomal dominant."
+    "cop": 0,
+    "exp": "It is Autosomal dominant.",
+    "hint_exp": "🎯 Think of \"hereditary angioneurotic edema\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "80fa1ad6-d52d-4368-87dc-9b0652139b71": {
-    "cop": 2,
-    "exp": "Acetate\n\nAll carbon atoms of cholesterol are derived from acetyl-CoA (activated acetate).\n\n\"Cholesterol is a C-27 compound. All its carbon atoms are provided by a single precursor, acetate\". — Essential of biochemistry"
+    "cop": 1,
+    "exp": "Acetate\n\nAll carbon atoms of cholesterol are derived from acetyl-CoA (activated acetate).\n\n\"Cholesterol is a C-27 compound. All its carbon atoms are provided by a single precursor, acetate\". — Essential of biochemistry",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"cholesterol\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6122ee1c-f499-4a9f-9690-ccdafe2520c2": {
-    "cop": 1,
-    "exp": "loa loa - eye worm Adult worms live in subcutaneous connective tissues of man Also occur in subconjuctival tissues of man (refer pgno:173 baveja 3 rd edition)"
+    "cop": 0,
+    "exp": "loa loa - eye worm Adult worms live in subcutaneous connective tissues of man Also occur in subconjuctival tissues of man (refer pgno:173 baveja 3 rd edition)",
+    "hint_exp": "🧩 Your crush solved \"Which lymphatic filarisis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d168ffb8-f6b9-4835-b3dd-e2d02a1f49fd": {
-    "cop": 3,
-    "exp": "WHO'S measles elimination strategy comprises three prong approach to vaccination: catch up, keep up and follow up. Catch up is defined as one time nation-wide vaccination of all children between 9 months to 14 years regardless of history of measles or vaccination status. Keep up is defined as as routine services aimed as vaccination of more than 955 of successive bih cohos. Follow up is defined as subsequent nationwide vaccination campaign conducted every 2 to 4 years targeting all children born after the catch up campaign. Ref: Park 21st edition, page 137 Chapter: Epidemiology in communicable diseases."
+    "cop": 2,
+    "exp": "WHO'S measles elimination strategy comprises three prong approach to vaccination: catch up, keep up and follow up. Catch up is defined as one time nation-wide vaccination of all children between 9 months to 14 years regardless of history of measles or vaccination status. Keep up is defined as as routine services aimed as vaccination of more than 955 of successive bih cohos. Follow up is defined as subsequent nationwide vaccination campaign conducted every 2 to 4 years targeting all children born after the catch up campaign. Ref: Park 21st edition, page 137 Chapter: Epidemiology in communicable diseases.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"WHO for elimination of measles\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cae1d27d-60bf-4e06-9dce-04ae5ee221f2": {
-    "cop": 4,
-    "exp": "Anti-epileptic with highest risk of teratogenicity - Valproate - causes neural tube defects Anti-epileptic with lowest risk of teratogenicity- Lamotrigine >Levetiracetam"
+    "cop": 3,
+    "exp": "Anti-epileptic with highest risk of teratogenicity - Valproate - causes neural tube defects Anti-epileptic with lowest risk of teratogenicity- Lamotrigine >Levetiracetam",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"pregnancy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "94b1cc48-a778-4823-ac9f-6a5d0589056e": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"fetus over\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e8930a5e-ac3f-48e3-b195-3cfa88b8e119": {
-    "cop": 1,
-    "exp": "Stress urinary incontinence (SUI) is defined as the complaint of involuntary leakage on effo or physical exeion or on coughing or sneezing. The cause is related to pelvic relaxation with age, resulting in descent of the trigone and proximal urethra. There is obliteration of the urethrovesical angle, which normally provides resistance at the bladder outlet. The diagnosis is made by the history and physical examination and urodynamic evaluation. Digital pressure applied to the paraurethral tissues in an anterior direction through the vagina reestablishes the urethrovesical angle and prevents stress incontinence (Marshall-Bonney test). Treatment includes behavioral therapy and perineal exercises; if unsuccessful, pharmacologic methods include oxybutynin and ephedrine. Definitive management is surgical. Ref: Cooper C.S., Joudi F.N., Williams R.D. (2010). Chapter 38. Urology. In G.M. Dohey (Ed), CURRENT Diagnosis & Treatment: Surgery, 13e."
+    "cop": 0,
+    "exp": "Stress urinary incontinence (SUI) is defined as the complaint of involuntary leakage on effo or physical exeion or on coughing or sneezing. The cause is related to pelvic relaxation with age, resulting in descent of the trigone and proximal urethra. There is obliteration of the urethrovesical angle, which normally provides resistance at the bladder outlet. The diagnosis is made by the history and physical examination and urodynamic evaluation. Digital pressure applied to the paraurethral tissues in an anterior direction through the vagina reestablishes the urethrovesical angle and prevents stress incontinence (Marshall-Bonney test). Treatment includes behavioral therapy and perineal exercises; if unsuccessful, pharmacologic methods include oxybutynin and ephedrine. Definitive management is surgical. Ref: Cooper C.S., Joudi F.N., Williams R.D. (2010). Chapter 38. Urology. In G.M. Dohey (Ed), CURRENT Diagnosis & Treatment: Surgery, 13e.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following condition\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6b9c0103-e303-49e7-bae0-85fca5b4cd98": {
-    "cop": 1,
-    "exp": "Ans. (a) Calcium oxalateRef.:Bailey and love 26th ed. /1292Types of Renal Stones (Urolithiasis):* Calcium stones (75-85%)# Made of calcium oxalate or Calcium oxalate plus calcium phosphate.* Struvite stone/Triple phosphate stone (15% of cases)# Also known as magnesium-ammonium-phosphate stone# Formed mainly after infection by urea splitting bacteria (Proteus and some staphylococci) - which causes alkaline urine - leads to precipitation of Mg -NH3 - PO4# Causes Staghorn calculi, which occupy large position of renal pelvis.* Uric acid stone# Common in patients with hyperuricemia (except in patients with gout) and in patients with rapid cell turnover (Example- in Leukemia patients).# Cause: Urine of pH less than 5.5 (uric acid is insoluble in acidic urine) a leading to saturation# It is radiolucent stone.* Cystine stone# Due to genetic defect in renal absorption of amino acid cysteine a leading to cystinuria."
+    "cop": 0,
+    "exp": "Ans. (a) Calcium oxalateRef.:Bailey and love 26th ed. /1292Types of Renal Stones (Urolithiasis):* Calcium stones (75-85%)# Made of calcium oxalate or Calcium oxalate plus calcium phosphate.* Struvite stone/Triple phosphate stone (15% of cases)# Also known as magnesium-ammonium-phosphate stone# Formed mainly after infection by urea splitting bacteria (Proteus and some staphylococci) - which causes alkaline urine - leads to precipitation of Mg -NH3 - PO4# Causes Staghorn calculi, which occupy large position of renal pelvis.* Uric acid stone# Common in patients with hyperuricemia (except in patients with gout) and in patients with rapid cell turnover (Example- in Leukemia patients).# Cause: Urine of pH less than 5.5 (uric acid is insoluble in acidic urine) a leading to saturation# It is radiolucent stone.* Cystine stone# Due to genetic defect in renal absorption of amino acid cysteine a leading to cystinuria.",
+    "hint_exp": "🧩 Your crush solved \"renal stone\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "06d42795-6f84-4b89-a6de-1679c1a5711b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Deficiency this haemophilic factor\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8ca8600f-f815-4a1f-8c81-e4e88a673605": {
-    "cop": 2,
-    "exp": "Causes of unilateral elevation of the dome of diaphragm: 1. Idiopathic 2. Eventration 3. Muscular disease 4. Radiation therapy 5. Neurologic disease (Stroke, polio) 6. Trauma, Erb's palsy"
+    "cop": 1,
+    "exp": "Causes of unilateral elevation of the dome of diaphragm: 1. Idiopathic 2. Eventration 3. Muscular disease 4. Radiation therapy 5. Neurologic disease (Stroke, polio) 6. Trauma, Erb's palsy",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"diaphragm\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "daddeef9-f43c-46b7-8b30-4b7547be0ab9": {
-    "cop": 4,
-    "exp": "Ref: Goodman and Gilman 10/e p602 *Dezocine is slightly more potent and faster acting opioid than morphine with a similar duration of action. It is a paial agonist antagonist opioid. *It is active at u receptors and side effect are similar to those of morphine. *Dezocine doesn't increase plasma histamine and produces less hypotension than morphine or pentazocine. *Dezocine is effective for moderate to severe pain but can cause myocardial depression."
+    "cop": 3,
+    "exp": "Ref: Goodman and Gilman 10/e p602 *Dezocine is slightly more potent and faster acting opioid than morphine with a similar duration of action. It is a paial agonist antagonist opioid. *It is active at u receptors and side effect are similar to those of morphine. *Dezocine doesn't increase plasma histamine and produces less hypotension than morphine or pentazocine. *Dezocine is effective for moderate to severe pain but can cause myocardial depression.",
+    "hint_exp": "🎯 Think of \"dezocine\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a0353594-b861-49ba-b3cb-a8f51568adc9": {
-    "cop": 2,
-    "exp": "b. Craniopharyngioma(Ref: Nelson's 20/e p 2453-2460, Ghai 8/e 612-613)CraniopharyngiomaIt is a solid tumor with cysts and calcification located in the suprasellar region.It presents with (short stature), visual field defects & hydrocephalus."
+    "cop": 1,
+    "exp": "b. Craniopharyngioma(Ref: Nelson's 20/e p 2453-2460, Ghai 8/e 612-613)CraniopharyngiomaIt is a solid tumor with cysts and calcification located in the suprasellar region.It presents with (short stature), visual field defects & hydrocephalus.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"grades at school\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "dba88c25-6b72-4e44-ab7e-794ad6b4d30e": {
-    "cop": 4,
-    "exp": "Mandibular nerve begins in the middle cranial fossa through a large sensory root and a small motor root. The sensory root arises from the lateral pa of the trigeminal ganglion and leaves the cranial cavity through the foramen ovale. Ref: BD Chaurasia's HUMAN ANATOMY, Volume 3, 4th edition."
+    "cop": 3,
+    "exp": "Mandibular nerve begins in the middle cranial fossa through a large sensory root and a small motor root. The sensory root arises from the lateral pa of the trigeminal ganglion and leaves the cranial cavity through the foramen ovale. Ref: BD Chaurasia's HUMAN ANATOMY, Volume 3, 4th edition.",
+    "hint_exp": "🧩 Your crush solved \"Mandibular nerve exits cranial\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2e3cdc13-7acf-46c0-9078-d39d0090c5c0": {
-    "cop": 1,
-    "exp": "IUI is the best studied and most widely practiced of all the insemination techniques. It involves placement of about 0.3 to 0.5 mL of washed, processed, and concentrated sperm into the intrauterine cavity by transcervical catheterization.Ideally, the total motile sperm count in the IUI specimen should be 5 million or 10 million or more.Pregnancy rates with semen meeting those thresholds have been repoed to be 10.5% per cycle and 38% after 4 to 6 cycles.ICSI should be offered if the semen analysis shows less than 2 million motile sperm, less than 5% motility, or if surgically recovered sperm are used. Reference: Novak's Gynecology; 14th edition; Chapter 32; Infeility and Assisted Reproductive Technology"
+    "cop": 0,
+    "exp": "IUI is the best studied and most widely practiced of all the insemination techniques. It involves placement of about 0.3 to 0.5 mL of washed, processed, and concentrated sperm into the intrauterine cavity by transcervical catheterization.Ideally, the total motile sperm count in the IUI specimen should be 5 million or 10 million or more.Pregnancy rates with semen meeting those thresholds have been repoed to be 10.5% per cycle and 38% after 4 to 6 cycles.ICSI should be offered if the semen analysis shows less than 2 million motile sperm, less than 5% motility, or if surgically recovered sperm are used. Reference: Novak's Gynecology; 14th edition; Chapter 32; Infeility and Assisted Reproductive Technology",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the IUI specimen should be\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bc8c4222-c1cd-4ed6-b59b-aa6166691c11": {
-    "cop": 2,
-    "exp": ". * In SSPE ,EEG demonstrates characteristic periodic bursts of triphasic waves. Ref Harrison20th edition pg 2567"
+    "cop": 1,
+    "exp": ". * In SSPE ,EEG demonstrates characteristic periodic bursts of triphasic waves. Ref Harrison20th edition pg 2567",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"EEG\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1b1bd9db-692e-4bff-ac6d-891408d99f86": {
-    "cop": 2,
-    "exp": "The CURB-65 criteria for pneumonia include five variables(a) Confusion (b)Urea>7 mmol/L,Respiratory rate>/= 30/min (d) Blood pressure,systolic <90 mmHg or diastolic<60 mmHg,(e) age >/= 65 years.CURB-65 score of 1 or 2 are likely to be suitable for home treatment.With a score of 2, patients should be admitted to hospital.Among patients with scores >/= 3,moality rates are very high and require admission to an ICU. Reference:Harrison' s Medicine-18th edition,page no:2135."
+    "cop": 1,
+    "exp": "The CURB-65 criteria for pneumonia include five variables(a) Confusion (b)Urea>7 mmol/L,Respiratory rate>/= 30/min (d) Blood pressure,systolic <90 mmHg or diastolic<60 mmHg,(e) age >/= 65 years.CURB-65 score of 1 or 2 are likely to be suitable for home treatment.With a score of 2, patients should be admitted to hospital.Among patients with scores >/= 3,moality rates are very high and require admission to an ICU. Reference:Harrison' s Medicine-18th edition,page no:2135.",
+    "hint_exp": "🎯 Think of \"CURB Includes\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "04cb3bef-4f97-4e9d-ad05-c8c7e80c6617": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"ergonomics\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4b6f124b-fa88-4f14-a4a6-124dcdc47551": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"following drugs produce ototoxicity\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4997b151-4b74-4b49-b3f9-4513d6f4eb1b": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"osteomyelitis in adults\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e9bc9c91-832a-4c91-b7ae-190b3cfe7c4b": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 1000-U5MR"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 1000-U5MR",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"calculated by\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "aa5b658f-79b1-4fa3-8af9-37eacca880dc": {
-    "cop": 2,
-    "exp": "The level at which internal rotation occurs is variable. Rotation in the cervix although orable is a less frequent occurrence. In a majority of cases, rotation occurs in the pelvic floor. Rarely it occurs as late as during crowning of the head.D.C.DUTTA&;S TEXTBOOK OF GYNECOLOGY, Pg no:125,7th edition"
+    "cop": 1,
+    "exp": "The level at which internal rotation occurs is variable. Rotation in the cervix although orable is a less frequent occurrence. In a majority of cases, rotation occurs in the pelvic floor. Rarely it occurs as late as during crowning of the head.D.C.DUTTA&;S TEXTBOOK OF GYNECOLOGY, Pg no:125,7th edition",
+    "hint_exp": "🎯 Think of \"internal rotation of the head\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "62b2dd42-14ba-4f13-9f0c-8d161389e6bb": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the tongue\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "90cdc4f5-4bf1-44a3-84bb-f708a15303c9": {
-    "cop": 1,
-    "exp": "Saccades Rapid, ballistic movement of eyes that abruptly change the point of fixation. Can be elicited voluntarily, but occur reflexly whenever the eyes are open, even when fixated on a target. Rapid eye movement that occur during sleep are also saccades. Site -Basal ganglia or cerebellum. Option B- Huntington's chorea - damage to caudate nucleus Option C- Progressive supranuclear palsy - damage to Basal ganglia Option D- Spinocerebellar ataxia- damage to cerebellum falls backwards But in Alzheimer's - coical dementia"
+    "cop": 0,
+    "exp": "Saccades Rapid, ballistic movement of eyes that abruptly change the point of fixation. Can be elicited voluntarily, but occur reflexly whenever the eyes are open, even when fixated on a target. Rapid eye movement that occur during sleep are also saccades. Site -Basal ganglia or cerebellum. Option B- Huntington's chorea - damage to caudate nucleus Option C- Progressive supranuclear palsy - damage to Basal ganglia Option D- Spinocerebellar ataxia- damage to cerebellum falls backwards But in Alzheimer's - coical dementia",
+    "hint_exp": "🧩 Your crush solved \"Saccadic movement present except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "233e722c-c7a6-4f14-adbe-e4cdc55ba0f5": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"upper and lower members\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a762ea03-7e3d-42cd-906a-d0360a157ceb": {
-    "cop": 1,
-    "exp": "Digoxin is primarily eliminated unchanged by glomerular filtration Digitoxin is eliminated by hepatic metabolism."
+    "cop": 0,
+    "exp": "Digoxin is primarily eliminated unchanged by glomerular filtration Digitoxin is eliminated by hepatic metabolism.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"elimination of digoxin\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7f6c304d-b573-43ec-9895-f56cc42ce5bf": {
-    "cop": 1,
-    "exp": "Hydrocortisone, followed by GH is vital to be given in a child with lost pituitary function."
+    "cop": 0,
+    "exp": "Hydrocortisone, followed by GH is vital to be given in a child with lost pituitary function.",
+    "hint_exp": "🎯 Think of \"year underwent neurosurgery craniopharyngioma\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6da8e7ef-a762-42d1-a77b-8a0358f96f1d": {
-    "cop": 1,
-    "exp": "Oil drop sign is seen in nail psoriasis IADVL textbook of dermatology page 1035"
+    "cop": 0,
+    "exp": "Oil drop sign is seen in nail psoriasis IADVL textbook of dermatology page 1035",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8a449c7b-3620-48d5-aee0-2156bc821691": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Sweet technique\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

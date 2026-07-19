@@ -1,202 +1,252 @@
 {
   "45e86b82-5b56-488d-808b-b0703b7189fa": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"antiphospholipid syndrome\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e06bbeb2-6cf0-4159-8b3a-b4da69a5ab84": {
-    "cop": 3,
-    "exp": "AGE-RAGE signalling axis is related to chronic complications in diabetes.Advanced glycation end products (AGEs) are formed as a result of nonenzymatic reactions between intracellular glucose-derived dicarbonyl precursors (glyoxal, methylglyoxal, and 3-deoxyglucosone) with the amino groups of both intracellular and extracellular proteins. The natural rate of AGE formation is greatly accelerated in the presence of hyperglycemia. AGEs bind to a specific receptor (RAGE) that is expressed on inflammatory cells (macrophages and T cells), endothelium, and vascular smooth muscle.Robbins pathology 9e pg: 1115"
+    "cop": 2,
+    "exp": "AGE-RAGE signalling axis is related to chronic complications in diabetes.Advanced glycation end products (AGEs) are formed as a result of nonenzymatic reactions between intracellular glucose-derived dicarbonyl precursors (glyoxal, methylglyoxal, and 3-deoxyglucosone) with the amino groups of both intracellular and extracellular proteins. The natural rate of AGE formation is greatly accelerated in the presence of hyperglycemia. AGEs bind to a specific receptor (RAGE) that is expressed on inflammatory cells (macrophages and T cells), endothelium, and vascular smooth muscle.Robbins pathology 9e pg: 1115",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"is related to\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "98fcae86-df6f-44d4-b3e4-9a86f72e8532": {
-    "cop": 4,
-    "exp": "The development of hypopituitarism occurs after 5-15 years and usually reflects hypothalamic damage rather than the absolute destruction of pituitary cells.Though the pattern of hormone loss is variable, Growth hormone deficiency is most common, followed by gonadotropins and ACTH deficiency.(Ref: Harrison's principals of Internal medicine, 16th Ed page 2078)"
+    "cop": 3,
+    "exp": "The development of hypopituitarism occurs after 5-15 years and usually reflects hypothalamic damage rather than the absolute destruction of pituitary cells.Though the pattern of hormone loss is variable, Growth hormone deficiency is most common, followed by gonadotropins and ACTH deficiency.(Ref: Harrison's principals of Internal medicine, 16th Ed page 2078)",
+    "hint_exp": "🎯 Think of \"Most common hormone deficiency\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fe1ac9e2-fb1d-491a-97b0-6ab1ac5a34a0": {
-    "cop": 3,
-    "exp": "Description: Vector Diseases transmitted Soft tick Relapsing fever, Q fever, KFD (outside India) Hard tick Tularemia, Babesiosis, KFD (India), Tick paralysis, Tick encephalitis, Indian tick typhus, Tick hemorrhagic fever, Rocky Mountain spotted fever. Oriental sore transmitted by sandfly (P.papatasii,P.sergenti) REF: PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE, 25TH EDITION, PG NO. 841"
+    "cop": 2,
+    "exp": "Description: Vector Diseases transmitted Soft tick Relapsing fever, Q fever, KFD (outside India) Hard tick Tularemia, Babesiosis, KFD (India), Tick paralysis, Tick encephalitis, Indian tick typhus, Tick hemorrhagic fever, Rocky Mountain spotted fever. Oriental sore transmitted by sandfly (P.papatasii,P.sergenti) REF: PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE, 25TH EDITION, PG NO. 841",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which of the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b6a70cbb-9546-428e-bf57-762be87327b2": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"pars nervosa\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2b82e8e5-5437-4ca0-89f2-370fc94e2776": {
-    "cop": 3,
-    "exp": "Ans. c (Prion proteins). (Ref. Anathanarayan, Microbiology, 6th ed., p 448, 567)PRION# Stanley Prusiner, a U.S. biochemist whose discovery provided key insights into dementia-related diseases, won the 1997 Nobel Medicine Prize.# Thus, Stanley Prusiner added prions to the list of infectious agents like bacteria, viruses, fungi, and parasites.# Prions exist normally as innocuous cellular proteins;# Prion diseases may be inherited, laterally transmitted, or occur spontaneously.RECOMBINANT DNA TECHNOLOGY# Recombinant DNA (rDNA) technology is a field of molecular biology in which scientists \"edit\" DNA to form new synthetic molecules, which are often referred to as \"chimeras\".# The practice of cutting, pasting, and copying DNA dates back to Arthur Kornberg's successful replication of viral DNA in a breakthrough that served as a proof-of-concept for cloning.# This was followed by the Swiss biochemist Werner Arber's discovery of restriction enzymes in bacteria that degrade foreign viral DNA molecules while sparing their own DNA.# It also touched off a firestorm among activists such as Jeremy Rifkin, for whom terms like 'cloning' and 'recombinant DNA'. were new.# The most recent advance is the development of insulin analogues produced by recombinant DNA, peptide synthesis, and enzyme-catalyzed semisynthesis. Early 1970's Paul Berg, Stanley Cohen and Herbert Boyer developed ways to cut and splice DNA, introducing recombinant DNA techniques.# Recombinant DNA technology was first used commercially to produce human insulin from bacteria."
+    "cop": 2,
+    "exp": "Ans. c (Prion proteins). (Ref. Anathanarayan, Microbiology, 6th ed., p 448, 567)PRION# Stanley Prusiner, a U.S. biochemist whose discovery provided key insights into dementia-related diseases, won the 1997 Nobel Medicine Prize.# Thus, Stanley Prusiner added prions to the list of infectious agents like bacteria, viruses, fungi, and parasites.# Prions exist normally as innocuous cellular proteins;# Prion diseases may be inherited, laterally transmitted, or occur spontaneously.RECOMBINANT DNA TECHNOLOGY# Recombinant DNA (rDNA) technology is a field of molecular biology in which scientists \"edit\" DNA to form new synthetic molecules, which are often referred to as \"chimeras\".# The practice of cutting, pasting, and copying DNA dates back to Arthur Kornberg's successful replication of viral DNA in a breakthrough that served as a proof-of-concept for cloning.# This was followed by the Swiss biochemist Werner Arber's discovery of restriction enzymes in bacteria that degrade foreign viral DNA molecules while sparing their own DNA.# It also touched off a firestorm among activists such as Jeremy Rifkin, for whom terms like 'cloning' and 'recombinant DNA'. were new.# The most recent advance is the development of insulin analogues produced by recombinant DNA, peptide synthesis, and enzyme-catalyzed semisynthesis. Early 1970's Paul Berg, Stanley Cohen and Herbert Boyer developed ways to cut and splice DNA, introducing recombinant DNA techniques.# Recombinant DNA technology was first used commercially to produce human insulin from bacteria.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"1997 Prusiner awarded Nobel\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "26c8ef57-643d-4176-9f0b-ef2a1be0d568": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Ataxia Korsakoff syndrome Korsakoff's syndrome is the chronic amnestic syndrome that follow Wernicke's encephalopathy, and the two syndrome are believed to be pathophysiologically related. Korsakoff's syndrome is characterized by severe and irreversible memory impairments and confabulation behavior in the absence of intellectual decline or attention deficit. Impoant clinical features are :? Memory :- The Korsakoff syndrome is characterized by both antegrade (i.e., learning) and retrograde (i.e., memory of past events) amnesia. Antegrade amnesia is severe with lack of insight. Retrograde amnesia is not as severe. New learning and recent memory is impaired but remote memory is relatively preserved. Although remote memory is relatively preserved, patient is unable to organize them in a temporal context and disto the relationship between facts and fill the remote memory gaps by confabulation. There is profound deficit of explicit (conscious or declarative) type of long term memory, with little impairment of implicit (unconscious or non-declarative) type of long term memory. Personality :- Passive and malleable such that they display lack of initiatives, interest, or concern and diminished spontaneity. Other :- Perseveration, lack of motivation (amotivational syndrome), apathy, passivity. General intellegence, language and motor & perceptual skills are not impaired."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Ataxia Korsakoff syndrome Korsakoff's syndrome is the chronic amnestic syndrome that follow Wernicke's encephalopathy, and the two syndrome are believed to be pathophysiologically related. Korsakoff's syndrome is characterized by severe and irreversible memory impairments and confabulation behavior in the absence of intellectual decline or attention deficit. Impoant clinical features are :? Memory :- The Korsakoff syndrome is characterized by both antegrade (i.e., learning) and retrograde (i.e., memory of past events) amnesia. Antegrade amnesia is severe with lack of insight. Retrograde amnesia is not as severe. New learning and recent memory is impaired but remote memory is relatively preserved. Although remote memory is relatively preserved, patient is unable to organize them in a temporal context and disto the relationship between facts and fill the remote memory gaps by confabulation. There is profound deficit of explicit (conscious or declarative) type of long term memory, with little impairment of implicit (unconscious or non-declarative) type of long term memory. Personality :- Passive and malleable such that they display lack of initiatives, interest, or concern and diminished spontaneity. Other :- Perseveration, lack of motivation (amotivational syndrome), apathy, passivity. General intellegence, language and motor & perceptual skills are not impaired.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"features Korsakoff syndrome except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "631a0fe6-0a96-4d4c-b5be-2efdc4121b75": {
-    "cop": 3,
-    "exp": "Cisterna chyli is a lymph sac lying in front of L1 and L2 vertebrae between aorta and crus of diaphragm."
+    "cop": 2,
+    "exp": "Cisterna chyli is a lymph sac lying in front of L1 and L2 vertebrae between aorta and crus of diaphragm.",
+    "hint_exp": "🎯 Think of \"front of vertebrae\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a40b55cd-3755-4b42-b0d2-0016564deb0f": {
-    "cop": 1,
-    "exp": "Mammary gland is a modified sweat of apocrine variety."
+    "cop": 0,
+    "exp": "Mammary gland is a modified sweat of apocrine variety.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Mammary gland type\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2d2f06d8-6f74-438d-b739-20714682240a": {
-    "cop": 1,
-    "exp": "Torus aoicus (aoic mound) is the prominent region of the right atrial septum, which marks the projection of the non-coronary aoic sinus into the right atrial wall. The bulge is superior to the coronary sinus and anterior to the fossa ovalis."
+    "cop": 0,
+    "exp": "Torus aoicus (aoic mound) is the prominent region of the right atrial septum, which marks the projection of the non-coronary aoic sinus into the right atrial wall. The bulge is superior to the coronary sinus and anterior to the fossa ovalis.",
+    "hint_exp": "🧩 Your crush solved \"an impression in the cavity of\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fc6e1f8b-a892-4ba7-bff9-0ac4d45bfa70": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 2nd - 3rd week * In the second or third week of the illness, if there is severe generalised abdominal pain, this heralds a perforated typhoid ulcer. The patient, who is already very ill, deteriorates further with classical features of peritonitis. An erect chest X-ray or a lateral decubitus film (in the very ill, as they usually are) will show free gas in the peritoneal cavity.* In fact, any patient being treated for typhoid fever who shows a sudden deterioration accompanied by abdominal signs should be considered to have a typhoid perforation until proven otherwise."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 2nd - 3rd week * In the second or third week of the illness, if there is severe generalised abdominal pain, this heralds a perforated typhoid ulcer. The patient, who is already very ill, deteriorates further with classical features of peritonitis. An erect chest X-ray or a lateral decubitus film (in the very ill, as they usually are) will show free gas in the peritoneal cavity.* In fact, any patient being treated for typhoid fever who shows a sudden deterioration accompanied by abdominal signs should be considered to have a typhoid perforation until proven otherwise.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"usually\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fafd8933-f3ca-4f99-ae17-58688d84c761": {
-    "cop": 1,
-    "exp": "Ans. (a) Clinical evaluation (palpation and transillumination)* Best Investigation is USG* The question asks the first investigation - Clinical examination may show nodules and loss of testicular sensation and secondary hydrocele."
+    "cop": 0,
+    "exp": "Ans. (a) Clinical evaluation (palpation and transillumination)* Best Investigation is USG* The question asks the first investigation - Clinical examination may show nodules and loss of testicular sensation and secondary hydrocele.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"years male presents with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d72e82a0-27c8-484c-a7c6-1534ddd7e1fa": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"bone marrow and\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ae4b4572-d1e4-4eee-92e1-50ef9d99fcb3": {
-    "cop": 1,
-    "exp": "Macrophages are responsible for the phagocytosis of various cell debris in the body. Macrophages in various organs are given special names. eg: Kupffer cells - liver Microglia - brain Osteoclasts - bone Dust cells - lungs."
+    "cop": 0,
+    "exp": "Macrophages are responsible for the phagocytosis of various cell debris in the body. Macrophages in various organs are given special names. eg: Kupffer cells - liver Microglia - brain Osteoclasts - bone Dust cells - lungs.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"central nervous system cell\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "18c21c14-cfbc-46de-bad9-791262946a68": {
-    "cop": 2,
-    "exp": "ANSWER: (B) LevonorgestrelREF: Shaw 13th ed p. 233\"The post coital pill or emergency pill or morning after pill contains levonorgesterol (LNG)\""
+    "cop": 1,
+    "exp": "ANSWER: (B) LevonorgestrelREF: Shaw 13th ed p. 233\"The post coital pill or emergency pill or morning after pill contains levonorgesterol (LNG)\"",
+    "hint_exp": "🧩 Your crush solved \"Emergency contraceptive contains\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cfc0f8a9-5287-42ba-95bf-b04b908f15d7": {
-    "cop": 3,
-    "exp": "Oxidation, reduction, hydrolysis, cyclization, and decyclization are phase 1 reactions conjugation, sulfation, acetylation, methylation- phase 2 Pg.no.24 KD TRIPATHI seventh edition"
+    "cop": 2,
+    "exp": "Oxidation, reduction, hydrolysis, cyclization, and decyclization are phase 1 reactions conjugation, sulfation, acetylation, methylation- phase 2 Pg.no.24 KD TRIPATHI seventh edition",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following reactions\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fb953f0e-f0e9-46b1-ae23-75963ae38253": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following immunoglobulins\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2f8d230e-c935-4e75-9f39-5a47edc3ab16": {
-    "cop": 4,
-    "exp": "Ans. D. Bc12. (Ref. Robbin's pathology 8th/pg. 22)Robbin's pathology 8th/pg. 22 ..........\"The choice between cell survival and death is determined by the permeability of mitochondria, which is controlled by a family of more than 20 proteins, the prototype of which is Bcl-2.If cells are exposed to growth factors and other survival signals, they synthesize antiapoptotic members of the Bci- 2 family, the two main ones of which are Bcl-2 itself and Bcl-xL. These proteins antagonize Bax and Bak, and thus limit the escape of mitochondrial pro-apoptotic proteins. Cells deprived of growth factors not only activate the pro-apoptotic proteins but also show reduced levels of Bcl-2 and Bcl-xL, thus further tilting the balance toward death\"Apoptosis* Programmed cell death; ATP required.* Characterized by:- Cell shrinkage,- Chromatin condensation (pyknosis),- Membrane blebbing,- DNA fragmentation (karyorrhexis),- Nuclear fragmentation (karyolysis),- No significant inflammation.- Formation of apoptotic bodies, (later phagocytosed). Necrosis;Verses, Apoptosis FeatureNecrosisApoptosis1Cell sizeEnlarged (swelling)Reduced (shrinkage)2NucleusPyknosis karyorrhexis karyolysisFragmentation into nucleosome-size fragments3Plasma membraneDisruptedIntact; altered structure, especially orientation of lipids4Cellular contentsEnzymatic digestion; may leak out of cellIntact; may be released in apoptotic bodies5Adjacent inflammationFrequentNo6Physiologic or pathologic roleInvariably pathologic (culmination of irreversible cell injury)Often physiologic, means of eliminating unwanted cells; may be pathologic after some forms of cell injury, especially DNA damage# Molecular aspect:- Mediated by caspases.* The activation of the caspase cascade is the most central step in apoptosis.0* Caspases can initiate apoptotic signals (caspases-8 and -9) and execute the apoptotic program (caspases-3, -6, -7).- Intrinsic mitochondrial pathway of apoptosis is the result of increased mitochondrial permeability and release of molecules like antiapoptotic family of Bcl-2 and Bcl-X and proapoptotic cytochrome 'C' and AIF.0- Cytochrome 'C\\ well known for its role in mitochondrial respiration, in cytosol binds to a protein Apaf-land the complex activates caspase-9.- In apoptosis, Apaf-1 is activated by release Cytochrome C from the mitochondria.0Mitochondria are essential in controlling specific apoptosis pathways. The redistribution of cytochrome c, as well as apoptosis-inducing factor (AIF), from mitochondria during apoptosis leads to the activation of a cascade of intracellular proteases known as caspases. Caspase-independent apoptosis occurs after DNA damage, activation of poly-ADP-ribose polymerase, and translocation of AIF into the nucleus. Redistribution of cytochrome c is pre- vented by overproduction of the apoptotic protein BCL2 and is promoted by the proapoptotic protein BAX.# Occurs during:- Embryogenesis,- Hormone induction (menstruation),- Immune cell - mediated death,- Injurious stimuli (e.g., radiation, hypoxia),- Atrophy (e.g., endometrial lining during menopause).Additional Educational points: GeneAssociated tumor1ablCML2c-mycBurkitt's lymphoma3bcl-2Follicular and undifferentiated lymphomas (inhibits apoptosis)4erb-B2Breast, ovarian, and gastric carcinomas5rasColon carcinoma, pancreatic adenocarcinoma, thyroid cancer, and AML6L-mycLung tumor7N-mycNeuroblastoma8retMultiple endocrine neoplasia (MEN) types It and ill9c-kitGi stromal tumor (GIST)Representative Oncogenes at Chromosomal Translocations Gene (Chromosome)TranslocationMalignancy1ABL(9q34.1)-BCR (22q11)(9;22)(q34;q11)Chronic myelogenous leukemia2ATF1 (12q13)-EWS (22q12)(12;22)(q13;q12)Malignant melanoma of soft parts (MMSP)3BCL1 (11ql3.3)-IgH (14q32)(11;14)(q13;q32)Mantle cell lymphoma4BCL2 (18q21.3)-IgH (14q32)(14;18)(q32;q21)Follicular lymphoma5FLI1 (llq24)-EWS (22q12)(11;22)(q24;q12)Ewing's sarcoma6LCK (lp34)-TCRB (7q35)(1;7)(p34;q35)T cell acute lymphocytic leukemia (ALL)7C-MYC (8q24)-IgH (14q32)(8;14)(q24;q32)Burkitt's lymphoma, B cell ALL8WT1 (11p13)-EWS (22q12)(11;22)(p13;q12)Desmoplastic small round cell tumor (DSRCT)9PAX3 (2q35)-FKHR/ALV(13q14)(2;13)(q35;q14)Alveolar rhabdomyosarcoma10PAX7 (1p36)-KHR/ALV(13q14)(1;13)(p36;q14)Alveolar rhabdomyosarcoma11RET (10q11.2)(10;17)(q11.2;q23)Papillary thyroid carcinomas"
+    "cop": 3,
+    "exp": "Ans. D. Bc12. (Ref. Robbin's pathology 8th/pg. 22)Robbin's pathology 8th/pg. 22 ..........\"The choice between cell survival and death is determined by the permeability of mitochondria, which is controlled by a family of more than 20 proteins, the prototype of which is Bcl-2.If cells are exposed to growth factors and other survival signals, they synthesize antiapoptotic members of the Bci- 2 family, the two main ones of which are Bcl-2 itself and Bcl-xL. These proteins antagonize Bax and Bak, and thus limit the escape of mitochondrial pro-apoptotic proteins. Cells deprived of growth factors not only activate the pro-apoptotic proteins but also show reduced levels of Bcl-2 and Bcl-xL, thus further tilting the balance toward death\"Apoptosis* Programmed cell death; ATP required.* Characterized by:- Cell shrinkage,- Chromatin condensation (pyknosis),- Membrane blebbing,- DNA fragmentation (karyorrhexis),- Nuclear fragmentation (karyolysis),- No significant inflammation.- Formation of apoptotic bodies, (later phagocytosed). Necrosis;Verses, Apoptosis FeatureNecrosisApoptosis1Cell sizeEnlarged (swelling)Reduced (shrinkage)2NucleusPyknosis karyorrhexis karyolysisFragmentation into nucleosome-size fragments3Plasma membraneDisruptedIntact; altered structure, especially orientation of lipids4Cellular contentsEnzymatic digestion; may leak out of cellIntact; may be released in apoptotic bodies5Adjacent inflammationFrequentNo6Physiologic or pathologic roleInvariably pathologic (culmination of irreversible cell injury)Often physiologic, means of eliminating unwanted cells; may be pathologic after some forms of cell injury, especially DNA damage# Molecular aspect:- Mediated by caspases.* The activation of the caspase cascade is the most central step in apoptosis.0* Caspases can initiate apoptotic signals (caspases-8 and -9) and execute the apoptotic program (caspases-3, -6, -7).- Intrinsic mitochondrial pathway of apoptosis is the result of increased mitochondrial permeability and release of molecules like antiapoptotic family of Bcl-2 and Bcl-X and proapoptotic cytochrome 'C' and AIF.0- Cytochrome 'C\\ well known for its role in mitochondrial respiration, in cytosol binds to a protein Apaf-land the complex activates caspase-9.- In apoptosis, Apaf-1 is activated by release Cytochrome C from the mitochondria.0Mitochondria are essential in controlling specific apoptosis pathways. The redistribution of cytochrome c, as well as apoptosis-inducing factor (AIF), from mitochondria during apoptosis leads to the activation of a cascade of intracellular proteases known as caspases. Caspase-independent apoptosis occurs after DNA damage, activation of poly-ADP-ribose polymerase, and translocation of AIF into the nucleus. Redistribution of cytochrome c is pre- vented by overproduction of the apoptotic protein BCL2 and is promoted by the proapoptotic protein BAX.# Occurs during:- Embryogenesis,- Hormone induction (menstruation),- Immune cell - mediated death,- Injurious stimuli (e.g., radiation, hypoxia),- Atrophy (e.g., endometrial lining during menopause).Additional Educational points: GeneAssociated tumor1ablCML2c-mycBurkitt's lymphoma3bcl-2Follicular and undifferentiated lymphomas (inhibits apoptosis)4erb-B2Breast, ovarian, and gastric carcinomas5rasColon carcinoma, pancreatic adenocarcinoma, thyroid cancer, and AML6L-mycLung tumor7N-mycNeuroblastoma8retMultiple endocrine neoplasia (MEN) types It and ill9c-kitGi stromal tumor (GIST)Representative Oncogenes at Chromosomal Translocations Gene (Chromosome)TranslocationMalignancy1ABL(9q34.1)-BCR (22q11)(9;22)(q34;q11)Chronic myelogenous leukemia2ATF1 (12q13)-EWS (22q12)(12;22)(q13;q12)Malignant melanoma of soft parts (MMSP)3BCL1 (11ql3.3)-IgH (14q32)(11;14)(q13;q32)Mantle cell lymphoma4BCL2 (18q21.3)-IgH (14q32)(14;18)(q32;q21)Follicular lymphoma5FLI1 (llq24)-EWS (22q12)(11;22)(q24;q12)Ewing's sarcoma6LCK (lp34)-TCRB (7q35)(1;7)(p34;q35)T cell acute lymphocytic leukemia (ALL)7C-MYC (8q24)-IgH (14q32)(8;14)(q24;q32)Burkitt's lymphoma, B cell ALL8WT1 (11p13)-EWS (22q12)(11;22)(p13;q12)Desmoplastic small round cell tumor (DSRCT)9PAX3 (2q35)-FKHR/ALV(13q14)(2;13)(q35;q14)Alveolar rhabdomyosarcoma10PAX7 (1p36)-KHR/ALV(13q14)(1;13)(p36;q14)Alveolar rhabdomyosarcoma11RET (10q11.2)(10;17)(q11.2;q23)Papillary thyroid carcinomas",
+    "hint_exp": "🎯 Think of \"Apoptosis inhibited\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "eb96a5f5-be1c-4f37-9d70-057014f62b17": {
-    "cop": 2,
-    "exp": "Answer is 'b' i.e. Dysgerminoma"
+    "cop": 1,
+    "exp": "Answer is 'b' i.e. Dysgerminoma",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Seminoma correspond\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "480f4348-9954-46cb-8f9c-14bbf837b2f9": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. Left medial visceral rotation The major abdominal vessels are retroperitoneal structures that lie posterior to the contents of peritoneal sac & close to the midline. The vessels which are notoriously difficult to expose are : retrohepatic vena cava, suprarenal aoa; the coeliac axis; the proximal superior mesentric aery; the junction of the superior mesentric, splenic and poal veins and the bifurcation of the vena cava. Rapid exposure of these vessels can be accomplished during abdominal trauma by following maneuvers : - The principle behind visceral rotation is to rotate the viscera of one side towards the midline after freeing their lateral peritoneal attachments so as to expose the vessels of that side A left medial visceral rotation (Mattox maneuver) provides excellent exposure of the aoa, coeliac axis, superior mesentric aery, left renal aery and iliac aeries. A right medial visceral rotation (Catell maneuver) readily exposes the vena cava (with a combined Kocher maneuver), right renal vessels and iliac veins. The infrarenal aoa may be approached a transperitoneal incision at the base of the mesocolon. The junction of the superior mesentric, splenic and poal veins can be readily exposed in trauma surgery by dividing the neck of the pancreas. The bifurcation of the vena cava is obscured by the right common iliac aery. This vessel is to be divided to expose extensive vena caval injuries of this area."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. Left medial visceral rotation The major abdominal vessels are retroperitoneal structures that lie posterior to the contents of peritoneal sac & close to the midline. The vessels which are notoriously difficult to expose are : retrohepatic vena cava, suprarenal aoa; the coeliac axis; the proximal superior mesentric aery; the junction of the superior mesentric, splenic and poal veins and the bifurcation of the vena cava. Rapid exposure of these vessels can be accomplished during abdominal trauma by following maneuvers : - The principle behind visceral rotation is to rotate the viscera of one side towards the midline after freeing their lateral peritoneal attachments so as to expose the vessels of that side A left medial visceral rotation (Mattox maneuver) provides excellent exposure of the aoa, coeliac axis, superior mesentric aery, left renal aery and iliac aeries. A right medial visceral rotation (Catell maneuver) readily exposes the vena cava (with a combined Kocher maneuver), right renal vessels and iliac veins. The infrarenal aoa may be approached a transperitoneal incision at the base of the mesocolon. The junction of the superior mesentric, splenic and poal veins can be readily exposed in trauma surgery by dividing the neck of the pancreas. The bifurcation of the vena cava is obscured by the right common iliac aery. This vessel is to be divided to expose extensive vena caval injuries of this area.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ba58279e-2f60-47ad-8179-c08362cfd074": {
-    "cop": 2,
-    "exp": "Examination of the CSF for trophozoites may be diagnostically helpful, but lumbar puncture may be contraindicated because of increased intracerebral pressure. CT frequently reveals cortical and subcortical lesions of decreased density consistent with embolic infarcts. In other patients, multiple enhancing lesions with edema may mimic the CT appearance of toxoplasmosis. Demonstration of the trophozoites and cysts of Acanthamoeba on wet mounts or in biopsy specimens establishes the diagnosis. Culture on non-nutrient agar plates seeded with Escherichia coli also may be helpful. Fluorescein-labeled antiserum is available from the CDC for the detection of protozoa in biopsy specimens.\nReference: : Harrison’s  M E D I C I N E page no  1574"
+    "cop": 1,
+    "exp": "Examination of the CSF for trophozoites may be diagnostically helpful, but lumbar puncture may be contraindicated because of increased intracerebral pressure. CT frequently reveals cortical and subcortical lesions of decreased density consistent with embolic infarcts. In other patients, multiple enhancing lesions with edema may mimic the CT appearance of toxoplasmosis. Demonstration of the trophozoites and cysts of Acanthamoeba on wet mounts or in biopsy specimens establishes the diagnosis. Culture on non-nutrient agar plates seeded with Escherichia coli also may be helpful. Fluorescein-labeled antiserum is available from the CDC for the detection of protozoa in biopsy specimens.\nReference: : Harrison’s  M E D I C I N E page no  1574",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"True about Acute Primary\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "88f5d57b-62a1-4b77-9114-3da8d2bd7669": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"digoxin overdose\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e6f3e9a3-0a7d-4f94-9d97-62d216d91d61": {
-    "cop": 1,
-    "exp": "Human anatomical wastes including human tissues, organs and body pas come under category no.1. - category no 1 wastes are discarded in a yellow colour plastic bag. Reference: Park&;s textbook of preventive and social medicine, 23rd edition, pg no: 793,794"
+    "cop": 0,
+    "exp": "Human anatomical wastes including human tissues, organs and body pas come under category no.1. - category no 1 wastes are discarded in a yellow colour plastic bag. Reference: Park&;s textbook of preventive and social medicine, 23rd edition, pg no: 793,794",
+    "hint_exp": "🎯 Think of \"What colour coding hospitals\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0697ce2e-8b3a-4335-af65-f7affca35541": {
-    "cop": 4,
-    "exp": "the mRNA act as messenger transpoing the information in the gene in DNA to the protein synthesizing machinery in the cytoplasmRef: DM VASUDEVAN, 7th edition, page no: 558"
+    "cop": 3,
+    "exp": "the mRNA act as messenger transpoing the information in the gene in DNA to the protein synthesizing machinery in the cytoplasmRef: DM VASUDEVAN, 7th edition, page no: 558",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the pancreas\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f54310d0-34d8-4aa6-95f5-22376e897f00": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the replacement of\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "983a34c9-afe9-4ef0-bcd3-674ef41dd331": {
-    "cop": 3,
-    "exp": "α Galactosidase deficiency - Fabry disease\nβ Galactosidase deficiency - krabbes disease."
+    "cop": 2,
+    "exp": "α Galactosidase deficiency - Fabry disease\nβ Galactosidase deficiency - krabbes disease.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"deficienct in Fabry disease\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "99aa0f7f-2426-47ff-bbab-68da050d2085": {
-    "cop": 2,
-    "exp": "B i.e. Impetigo"
+    "cop": 1,
+    "exp": "B i.e. Impetigo",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Honey colored crusts characteristic\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "089aa962-bf9c-4f99-9066-3893598c5ee0": {
-    "cop": 1,
-    "exp": "Ref: Grays Anatomy, 40th edExplanation:A number of structures pass between the thorax and abdomen via apertures in the diaphragm.There are three large openings, for the aorta, oesophagus and inferior vena cava, and a number of smaller ones.The aortic apertureIt is the lowest and most posterior of the large openings, and is found at the level of the lower border of the twelfth thoracic vertebra and the thoracolumbar intervertebral disc, slightly to the left of the midline.The aortic opening transmits the aorta, thoracic duct, lymphatic trunks from the lower posterior thoracic wall and. sometimes, the azygos and hemiazygos veins.The oesophageal apertureIt is located at the level of the tenth thoracic vertebra, above, in front and a little to the left of, the aortic opening.It transmits the oesophagus, gastric nerves, oesophageal branches of the left gastric vessels and some lymphatic vessels.The vena caval apertureThe highest of the three large openings, lies at about the level of the disc between the eighth and ninth thoracic vertebrae.It is traversed by the inferior vena cava, which adheres to the margin of the opening, and by some branches of the right phrenic nerve.Also note:There are two lesser apertures in each crus: one transmits the greater, and the other the lesser, splanchnic nerve.The ganglionated sympathetic trunks usually enter the abdominal cavity behind the diaphragm, deep to the medial arcuate ligament.Openings for minute veins frequently occur in the central tendon.* Aortic, Thoracic duct, Azygos Vein opening -112* Oesophageal opening -T10* Inferior venacava opening-T8"
+    "cop": 0,
+    "exp": "Ref: Grays Anatomy, 40th edExplanation:A number of structures pass between the thorax and abdomen via apertures in the diaphragm.There are three large openings, for the aorta, oesophagus and inferior vena cava, and a number of smaller ones.The aortic apertureIt is the lowest and most posterior of the large openings, and is found at the level of the lower border of the twelfth thoracic vertebra and the thoracolumbar intervertebral disc, slightly to the left of the midline.The aortic opening transmits the aorta, thoracic duct, lymphatic trunks from the lower posterior thoracic wall and. sometimes, the azygos and hemiazygos veins.The oesophageal apertureIt is located at the level of the tenth thoracic vertebra, above, in front and a little to the left of, the aortic opening.It transmits the oesophagus, gastric nerves, oesophageal branches of the left gastric vessels and some lymphatic vessels.The vena caval apertureThe highest of the three large openings, lies at about the level of the disc between the eighth and ninth thoracic vertebrae.It is traversed by the inferior vena cava, which adheres to the margin of the opening, and by some branches of the right phrenic nerve.Also note:There are two lesser apertures in each crus: one transmits the greater, and the other the lesser, splanchnic nerve.The ganglionated sympathetic trunks usually enter the abdominal cavity behind the diaphragm, deep to the medial arcuate ligament.Openings for minute veins frequently occur in the central tendon.* Aortic, Thoracic duct, Azygos Vein opening -112* Oesophageal opening -T10* Inferior venacava opening-T8",
+    "hint_exp": "🎯 Think of \"diaphragm\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "017f37a9-c0cf-4882-b8dc-caf8e0b13747": {
-    "cop": 4,
-    "exp": "Laser is used to demonstrate old or faint tatoos ."
+    "cop": 3,
+    "exp": "Laser is used to demonstrate old or faint tatoos .",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following method\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3ebc9626-368d-4418-8776-639602d42ba9": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Which thyroid malignancy common\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e329aa1f-aa77-475f-b2b7-436ea9a11d37": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Straight sinuso Great cerebral vein of Galen is formed by union of two internal cerebral veins,o It drains into straight sinus.o Is 2 cm long.o Its tributeries are internal cerebral vein, basal vein, occipital vein and posterior callosal vein."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Straight sinuso Great cerebral vein of Galen is formed by union of two internal cerebral veins,o It drains into straight sinus.o Is 2 cm long.o Its tributeries are internal cerebral vein, basal vein, occipital vein and posterior callosal vein.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Vein Galen drains into\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fb00b0ba-c833-4884-9279-21356ef92206": {
-    "cop": 2,
-    "exp": "B. i.e. Deep physiological cup Deep physiological cupQ on fundoscopy is seen in glucoma; where as in papilloedema, there is bluring of margins of optic disc (Pt sign) & reduction in size of physiological cup.Q"
+    "cop": 1,
+    "exp": "B. i.e. Deep physiological cup Deep physiological cupQ on fundoscopy is seen in glucoma; where as in papilloedema, there is bluring of margins of optic disc (Pt sign) & reduction in size of physiological cup.Q",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of papilledema\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "40bd29b3-cfbb-456a-92af-d3aeed5e0e79": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., IP-36, CP-66"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., IP-36, CP-66",
+    "hint_exp": "🎯 Think of \"Which right number doses\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3a9db830-42bc-4931-bc66-627b7bbc9e76": {
-    "cop": 4,
-    "exp": "Ans. is 'd' all of the above (Ref Chandrasoma Taylor, 3/e, p. 412; Harrison, 16/e, p 352 (15/e, p. 369)).Viral infections associated with neutropenia :HepatitisMeaslesAIDS (HIV)Infectious mononucleosisInfluenza (\"severe (eulippenia can occur in overwhelming infection\" - Harrison, 15/e, p1129)"
+    "cop": 3,
+    "exp": "Ans. is 'd' all of the above (Ref Chandrasoma Taylor, 3/e, p. 412; Harrison, 16/e, p 352 (15/e, p. 369)).Viral infections associated with neutropenia :HepatitisMeaslesAIDS (HIV)Infectious mononucleosisInfluenza (\"severe (eulippenia can occur in overwhelming infection\" - Harrison, 15/e, p1129)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which viral infection associated\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f04a8cb6-5e8a-4ce2-a4b8-fca32fb28df4": {
-    "cop": 3,
-    "exp": "Hiatus hernia REF: Sutton's radiology, 7' edition volume 1 page 53 \"The classic appearance of a hiatus hernia, with a fluid level superimposed on the cardiac shadow on the PA film, is well known. A Bochdalek hernia arise posterolaterally through the pleuroperitoneal canal and is usually congenital, presenting at bih as respiratory distress. Ninety per cent are left sided. The hernia may contain omentum, fat, spleen, kidney and bowel, in which case a gas shadow is seen within the mass. The ipsilateral lung is invariably hypoplastic with detion of the mediastinum away from the side of the hernia\""
+    "cop": 2,
+    "exp": "Hiatus hernia REF: Sutton's radiology, 7' edition volume 1 page 53 \"The classic appearance of a hiatus hernia, with a fluid level superimposed on the cardiac shadow on the PA film, is well known. A Bochdalek hernia arise posterolaterally through the pleuroperitoneal canal and is usually congenital, presenting at bih as respiratory distress. Ninety per cent are left sided. The hernia may contain omentum, fat, spleen, kidney and bowel, in which case a gas shadow is seen within the mass. The ipsilateral lung is invariably hypoplastic with detion of the mediastinum away from the side of the hernia\"",
+    "hint_exp": "🧩 Your crush solved \"Retro cardiac shadow showing\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "34230126-7c9d-4a1f-ba45-87533a5e0bce": {
-    "cop": 1,
-    "exp": "In patients presenting with hepatic decompensation due to wilson disease, the disease severit is estimated using the Nazer prognostic index Patients with scores < 7 can be managed with medical therapy. Patients with scores > 9 should be immediately referred for liver transplantation ISHAK score is used to assess fibrosis in liver biopsy Lille score is used in alcoholic hepatitis to assess the treatment response with steroids Rockall score is used in the setting of nonvariceal GI bleed. Ref: Harrison, E-18, P-3190"
+    "cop": 0,
+    "exp": "In patients presenting with hepatic decompensation due to wilson disease, the disease severit is estimated using the Nazer prognostic index Patients with scores < 7 can be managed with medical therapy. Patients with scores > 9 should be immediately referred for liver transplantation ISHAK score is used to assess fibrosis in liver biopsy Lille score is used in alcoholic hepatitis to assess the treatment response with steroids Rockall score is used in the setting of nonvariceal GI bleed. Ref: Harrison, E-18, P-3190",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"wilson disease patients with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b52e4625-3b96-4c43-90e3-735d0adb2966": {
-    "cop": 2,
-    "exp": "Ans. 50% of cases"
+    "cop": 1,
+    "exp": "Ans. 50% of cases",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Scleritis associated with some\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fedc37e5-60fd-461c-aeec-b05f59d086fa": {
-    "cop": 3,
-    "exp": "Niacin is indicated in hyperiglyceridemia and elevated LDL-C which are commonly associated with diabetes. Niacin-induces insulin resistance, and also decreases glucose-stimulated insulin secretion, which may result in severe hyperglycemia. If niacin is prescribed for patients with known or suspected diabetes, blood glucose levels should be monitored for at least weekly once, until patient is proven to be stable So niacin should be used cautiously in diabetics Reference: Harpers illustrated biochemistry 30th edition"
+    "cop": 2,
+    "exp": "Niacin is indicated in hyperiglyceridemia and elevated LDL-C which are commonly associated with diabetes. Niacin-induces insulin resistance, and also decreases glucose-stimulated insulin secretion, which may result in severe hyperglycemia. If niacin is prescribed for patients with known or suspected diabetes, blood glucose levels should be monitored for at least weekly once, until patient is proven to be stable So niacin should be used cautiously in diabetics Reference: Harpers illustrated biochemistry 30th edition",
+    "hint_exp": "🎯 Think of \"this patients\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1ef9932a-207d-4d0a-8ec8-a0751eeaf5ee": {
-    "cop": 1,
-    "exp": "Glucokinase has high Km value, i.e. low affinity for glucose. That means glucokinase acts only when glucose concentration is high (as in absorptive/fed state). It is dormant when glucose concentration is low (as in postabsorptive -fasting state). Liver contains glucokinase, therefore it cannot utilize glucose in starvation as glucose concentration is low and glucokinase is dormant. In fact, this is a welcome response as it spares glucose for the organs which are exclusively dependent on glucose for energy requirement, e.g. brain.\n\nHexokinase, on the other hand, has low Km value, i.e. high affinity for glucose. It can utilize glucose even in lower concentrations. The brain contains hexokinase, therefore it can utilize glucose in starvation."
+    "cop": 0,
+    "exp": "Glucokinase has high Km value, i.e. low affinity for glucose. That means glucokinase acts only when glucose concentration is high (as in absorptive/fed state). It is dormant when glucose concentration is low (as in postabsorptive -fasting state). Liver contains glucokinase, therefore it cannot utilize glucose in starvation as glucose concentration is low and glucokinase is dormant. In fact, this is a welcome response as it spares glucose for the organs which are exclusively dependent on glucose for energy requirement, e.g. brain.\n\nHexokinase, on the other hand, has low Km value, i.e. high affinity for glucose. It can utilize glucose even in lower concentrations. The brain contains hexokinase, therefore it can utilize glucose in starvation.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"starvation brain utilizes glucose\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "005c912f-1369-4faf-8b13-98fbad3e1d4e": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., TCA cycle SiteCycle/ReactionsCytosolQGlycolysis Q (EMP Cycle Q), HMP shunt, fatty' acid synthesisQ glycogenesis, glycogenolysis, Bile acid/Salt synthesis, cholesterol synthesisMitochondria QKreb's cycle (citric acid cycle) Q. Electron transport chain (ECT) Q, Fatty' acid oxidationQ, KetogenesisBoth cytosol and mitochondriaGluconeogenesisQ, Urea cycleQPeroxisomesOxidation of very' long chain fatty' acidsSmooth endoplasmic reticulumTriglyceride synthesisQ, Steroid synthesisQ, cholesterol synthesis, phospholipid synthesisRough endoplasmic reticulum (ribosomes)Protein synthesisNucleusDMA and RNA synthesiso They are called essential fatty acids because human beings require these fatty acids but cannot synthesize themQ,o Humans lack the enzymes to introduce double bonds at carbon atom beyond C9 in the fatty' acid chain,o Hence, human cannot synthesize linolenic acid0and linolenic acid having double bonds beyond C9.o Arachidonic acid can be synthesized from linoleic acid.o Therefore, in deficiency of linoleic acid, arachidonic acid also becomes essential fatty' acids,o Therefore linoleic acid is the most important essential fatty acid0 as it senes as a basis for the production of other EFA."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., TCA cycle SiteCycle/ReactionsCytosolQGlycolysis Q (EMP Cycle Q), HMP shunt, fatty' acid synthesisQ glycogenesis, glycogenolysis, Bile acid/Salt synthesis, cholesterol synthesisMitochondria QKreb's cycle (citric acid cycle) Q. Electron transport chain (ECT) Q, Fatty' acid oxidationQ, KetogenesisBoth cytosol and mitochondriaGluconeogenesisQ, Urea cycleQPeroxisomesOxidation of very' long chain fatty' acidsSmooth endoplasmic reticulumTriglyceride synthesisQ, Steroid synthesisQ, cholesterol synthesis, phospholipid synthesisRough endoplasmic reticulum (ribosomes)Protein synthesisNucleusDMA and RNA synthesiso They are called essential fatty acids because human beings require these fatty acids but cannot synthesize themQ,o Humans lack the enzymes to introduce double bonds at carbon atom beyond C9 in the fatty' acid chain,o Hence, human cannot synthesize linolenic acid0and linolenic acid having double bonds beyond C9.o Arachidonic acid can be synthesized from linoleic acid.o Therefore, in deficiency of linoleic acid, arachidonic acid also becomes essential fatty' acids,o Therefore linoleic acid is the most important essential fatty acid0 as it senes as a basis for the production of other EFA.",
+    "hint_exp": "🧩 Your crush solved \"the follow ing\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1c050b66-d72f-4507-89ef-05d0174c9f38": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Smith arthritis involves\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "faefb0c6-2e1a-4213-bde5-7f1768c6ebf0": {
-    "cop": 1,
-    "exp": "Calcium content in breast milk is 28mg/100g.REF.PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE.Editon-21.Page no.-582 table 21"
+    "cop": 0,
+    "exp": "Calcium content in breast milk is 28mg/100g.REF.PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICINE.Editon-21.Page no.-582 table 21",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Calcium human milk\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d90300ce-60c7-41dc-97f7-51a670efa36f": {
-    "cop": 1,
-    "exp": "Ans. is a, i.e. Birth weight is below the tenth percentile of the average of gestational ageRef Dutta Obs. 7/e, p 461Intrauterine growth restriction is said to be present in those babies whose birth weight is below the tenth percentile of the average for the gestational age."
+    "cop": 0,
+    "exp": "Ans. is a, i.e. Birth weight is below the tenth percentile of the average of gestational ageRef Dutta Obs. 7/e, p 461Intrauterine growth restriction is said to be present in those babies whose birth weight is below the tenth percentile of the average for the gestational age.",
+    "hint_exp": "🎯 Think of \"IUGR defined when\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "34a8c950-c607-49b2-85d6-c48811f095ac": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Respiratory bronchioles o Bronchial arteries supply the lung till the beginning of respiratory bronchiole (conducting part) and then anastomose with pulmonary arteries."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Respiratory bronchioles o Bronchial arteries supply the lung till the beginning of respiratory bronchiole (conducting part) and then anastomose with pulmonary arteries.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Bronchial arteries supply lung\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9015c8fc-a3bc-489f-81db-b396c2a49311": {
-    "cop": 1,
-    "exp": "In addition to CD3 and z proteins, T cells express several other proteins that assist the TCR complex in functional responses. These include CD4, CD8, CD28, and integrins. CD4 and CD8 are expressed on two mutually exclusive subsets of ab T cells. Approximately 60% of mature T cells are CD4+ and about 30% are CD8+. Most CD4+ T cells function as cytokine-secreting helper cells that assist macrophages and B lymphocytes to combat infections. Most CD8+ cells function as cytotoxic (killer) T lymphocytes (CTLs) to destroy host cells harboring microbes. During antigen recognition, CD4 molecules bind to class II MHC molecules that are displaying antigen and CD8 molecules bind to class I MHC molecules, and the CD4 or CD8 coreceptor initiates signals that are necessary for activation of the T cells.Reference: Robbins and Cotran Pathologic Basis of Disease; 9th edition; Chapter 6; 191The normal immune response"
+    "cop": 0,
+    "exp": "In addition to CD3 and z proteins, T cells express several other proteins that assist the TCR complex in functional responses. These include CD4, CD8, CD28, and integrins. CD4 and CD8 are expressed on two mutually exclusive subsets of ab T cells. Approximately 60% of mature T cells are CD4+ and about 30% are CD8+. Most CD4+ T cells function as cytokine-secreting helper cells that assist macrophages and B lymphocytes to combat infections. Most CD8+ cells function as cytotoxic (killer) T lymphocytes (CTLs) to destroy host cells harboring microbes. During antigen recognition, CD4 molecules bind to class II MHC molecules that are displaying antigen and CD8 molecules bind to class I MHC molecules, and the CD4 or CD8 coreceptor initiates signals that are necessary for activation of the T cells.Reference: Robbins and Cotran Pathologic Basis of Disease; 9th edition; Chapter 6; 191The normal immune response",
+    "hint_exp": "🧩 Your crush solved \"T lymphocyte\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a49e6634-1db7-4cf5-897f-01958276eaf6": {
-    "cop": 1,
-    "exp": "(A) Benign paroxysmal positional vertigo# BENIGN PAROXYSMAL POSITIONAL VERTIGO (BPPV) is a disorder arising in the inner ear. Its symptoms are repeated episodes of positional vertigo, that is, of a spinning sensation caused by changes in the position of the head.> BPPV is the most common cause of the symptoms of vertigo.> The Dix-Hallpike test is a common test performed by examiners to determine whether the posterior semicircular canal is involved. It involves a reorientation of the head to align the posterior semicircular canal (at its entrance to the ampulla) with the direction of gravity. This test will reproduce vertigo and nystagmus characteristic of posterior canal BPPV.> The Heimlich maneuver is different from Hallpike manoever which is an emergency technique for preventing suffocation when a person's airway (windpipe) becomes blocked by a piece of food or other object."
+    "cop": 0,
+    "exp": "(A) Benign paroxysmal positional vertigo# BENIGN PAROXYSMAL POSITIONAL VERTIGO (BPPV) is a disorder arising in the inner ear. Its symptoms are repeated episodes of positional vertigo, that is, of a spinning sensation caused by changes in the position of the head.> BPPV is the most common cause of the symptoms of vertigo.> The Dix-Hallpike test is a common test performed by examiners to determine whether the posterior semicircular canal is involved. It involves a reorientation of the head to align the posterior semicircular canal (at its entrance to the ampulla) with the direction of gravity. This test will reproduce vertigo and nystagmus characteristic of posterior canal BPPV.> The Heimlich maneuver is different from Hallpike manoever which is an emergency technique for preventing suffocation when a person's airway (windpipe) becomes blocked by a piece of food or other object.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"done in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ec295459-39b0-4d16-b36d-68545b5e1885": {
-    "cop": 1,
-    "exp": "Stress Incontinence Management Surgical: Kelly&;s repair : Plication of bladder neck Pacey&;s repair : apposing medial fibres of the puborectalis muscles in the midline under the bladder neck region to elevate the same Both may be combined with anterior colporrhaphy Ref: SHAW&;S TEXTBOOK OF GYNAECOLOGY;15th edition; Pg no:193"
+    "cop": 0,
+    "exp": "Stress Incontinence Management Surgical: Kelly&;s repair : Plication of bladder neck Pacey&;s repair : apposing medial fibres of the puborectalis muscles in the midline under the bladder neck region to elevate the same Both may be combined with anterior colporrhaphy Ref: SHAW&;S TEXTBOOK OF GYNAECOLOGY;15th edition; Pg no:193",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"done in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c6e9dc86-b8e4-4e61-bb1c-4b487bd96bf7": {
-    "cop": 3,
-    "exp": "Trimethoprim: Being an antifolate, there is theoretical teratogenic risk. Neonatal haemolysis and methaemoglobinaemia can occur if it is given near term. Pyrimethamine is relatively safe. The only side effects are occasional nausea and rashes. Folate deficiency is rare; megaloblastic anaemia and granulocytopenia may occur with higher doses, especially in those with marginal folate stores. This can be treated by folinic acid. Antibiotics are primarily recommended for treatment of mild, moderate, or severe PJP. Trimethoprim-sulfamethoxazole (TMP-SMX) has been shown to be as effective as intravenous pentamidine and more effective than other alternative treatment regimens. Pentamidine(adverse effects): More common: Burning pain, dryness, or sensation of lump in throat chest pain or congestion coughing difficulty in breathing difficulty in swallowing skin rash wheezing Rare Nausea and vomiting pain in upper abdomen, possibly radiating to the back pain in side of chest (severe) shoness of breath (sudden and severe) Rare - with daily treatment doses only Anxiety chills cold sweats cool, pale skin decreased urination headache increased hunger loss of appetite nausea and vomiting nervousness shakiness stomach pain unusual tiredness methotrexate: Methotrexate has cell cycle specific actionkills cells in S phase; primarily inhibits DNA synthesis, but also affects RNA and protein synthesis. It exes major toxicity on bone marrow-low doses given repeatedly cause megaloblastic anaemia, but high doses produce pancytopenia. Desquamation and bleeding may occur in g.i.t. REFERENCE:ESSENTIALS OF MEDICAL PHARMACOLOGY, www.drugs.com, www.medscape.com"
+    "cop": 2,
+    "exp": "Trimethoprim: Being an antifolate, there is theoretical teratogenic risk. Neonatal haemolysis and methaemoglobinaemia can occur if it is given near term. Pyrimethamine is relatively safe. The only side effects are occasional nausea and rashes. Folate deficiency is rare; megaloblastic anaemia and granulocytopenia may occur with higher doses, especially in those with marginal folate stores. This can be treated by folinic acid. Antibiotics are primarily recommended for treatment of mild, moderate, or severe PJP. Trimethoprim-sulfamethoxazole (TMP-SMX) has been shown to be as effective as intravenous pentamidine and more effective than other alternative treatment regimens. Pentamidine(adverse effects): More common: Burning pain, dryness, or sensation of lump in throat chest pain or congestion coughing difficulty in breathing difficulty in swallowing skin rash wheezing Rare Nausea and vomiting pain in upper abdomen, possibly radiating to the back pain in side of chest (severe) shoness of breath (sudden and severe) Rare - with daily treatment doses only Anxiety chills cold sweats cool, pale skin decreased urination headache increased hunger loss of appetite nausea and vomiting nervousness shakiness stomach pain unusual tiredness methotrexate: Methotrexate has cell cycle specific actionkills cells in S phase; primarily inhibits DNA synthesis, but also affects RNA and protein synthesis. It exes major toxicity on bone marrow-low doses given repeatedly cause megaloblastic anaemia, but high doses produce pancytopenia. Desquamation and bleeding may occur in g.i.t. REFERENCE:ESSENTIALS OF MEDICAL PHARMACOLOGY, www.drugs.com, www.medscape.com",
+    "hint_exp": "🎯 Think of \"Macrocytic anaemia caused EXCEPT\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3e48efb6-d7e8-41c2-a199-2b25edd38ee9": {
-    "cop": 2,
-    "exp": "Types of coho study: 1. Prospective/Concurrent Coho Begin in present and continue to future Outcome has not yet occurred at the time the investigation begins 2. Retrospective/Historical coho Outcomes have occurred before sta of investigation Investigator goes back in time to select study groups from existing records of past employment , up to the present 3. Ambidirectional/mixed coho Combination of retrospective and prospective coho studies"
+    "cop": 1,
+    "exp": "Types of coho study: 1. Prospective/Concurrent Coho Begin in present and continue to future Outcome has not yet occurred at the time the investigation begins 2. Retrospective/Historical coho Outcomes have occurred before sta of investigation Investigator goes back in time to select study groups from existing records of past employment , up to the present 3. Ambidirectional/mixed coho Combination of retrospective and prospective coho studies",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"study design\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f6d52f10-46ae-43fd-95d8-74d95d90f8c6": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e.. Vitamin A overdose Pseudotumor cerebri is a benign self-limiting disorder with a favorable outcomeIt is characterized by elevated intracranial pressure (intracranial hypertension ) witho Normal or small sized ventricular system o No focal neurological signso Papilledema (enlarged blind spot in visual fluid).Isotope brain scan, CT and MRI are normalo Normal CSF findingso EEG shows excessive slow-wave activity Causes includeo High doses of vitamin Ao Outdated Tetracyclineo Quinoloneso Withdrawal of corticosteriod therapyo Addison's diseaseo SLEo Hypoparathyroidism"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e.. Vitamin A overdose Pseudotumor cerebri is a benign self-limiting disorder with a favorable outcomeIt is characterized by elevated intracranial pressure (intracranial hypertension ) witho Normal or small sized ventricular system o No focal neurological signso Papilledema (enlarged blind spot in visual fluid).Isotope brain scan, CT and MRI are normalo Normal CSF findingso EEG shows excessive slow-wave activity Causes includeo High doses of vitamin Ao Outdated Tetracyclineo Quinoloneso Withdrawal of corticosteriod therapyo Addison's diseaseo SLEo Hypoparathyroidism",
+    "hint_exp": "🧩 Your crush solved \"Pseudotumor cerebri caused\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

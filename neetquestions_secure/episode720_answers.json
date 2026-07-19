@@ -1,202 +1,252 @@
 {
   "8738ff80-294f-402c-afef-a99c4f61bfb6": {
-    "cop": 1,
-    "exp": "Ans: A (Hyperkalemia) Ref: Harrison 's Principles of Internal Medicine, 18ed.Explanation:ECG changes in HyperkalaemiaTall T waves (Earliest sign)Prolonged PR intervalWidened QRS intervalFlattened P wavesArrythmias including bradycardia, ventricular tachycardia or fibrillationSinus arrest or nodal rhythm with possible asystoleECG changes in HypokalaemiaFlattened T wavesST segment depressionProlonged QT intervalTall U wavesAtrial arrythmiasVentricular tachycardia or ventricular fibrillation"
+    "cop": 0,
+    "exp": "Ans: A (Hyperkalemia) Ref: Harrison 's Principles of Internal Medicine, 18ed.Explanation:ECG changes in HyperkalaemiaTall T waves (Earliest sign)Prolonged PR intervalWidened QRS intervalFlattened P wavesArrythmias including bradycardia, ventricular tachycardia or fibrillationSinus arrest or nodal rhythm with possible asystoleECG changes in HypokalaemiaFlattened T wavesST segment depressionProlonged QT intervalTall U wavesAtrial arrythmiasVentricular tachycardia or ventricular fibrillation",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Tall waves seen Repeat\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d005f418-3773-459f-9b59-b28ae140451f": {
-    "cop": 3,
-    "exp": "Prolactin-release is regulated mainly by inhibition, specifically by dopamine."
+    "cop": 2,
+    "exp": "Prolactin-release is regulated mainly by inhibition, specifically by dopamine.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Prolactin releasing factors include\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "93db1bdb-3997-4973-8d3f-e6fc74354acf": {
-    "cop": 3,
-    "exp": "(Fibrin clot) (677-78-Harsh. Mohan 6th ,1141- Robbiins - Basis of disease 8th)DIABETIC NEPHROPATHYFour types renal lesions1. Diabetic glomerulosclerosis2. Vascular lesions - (Atheroma, Hyaline arteriolosclerosis)**3. Diabetic pyelonephritis (Papillary necrosis (necrotizingpapillitis)**4. Tubular lesions (Armanni- Ebstein lesions)* Earliest manifestation of diabetic nephropathy is microalbuminuria (> 30mg/day, but < 300mg/day)DIABETIC GLOMERULOSCLEROSIS(i) Diffuse glomerulo sclerosis - Most common lesions** thickening of the GBM and diffuse increase in mesangial matrix with mild proliferation of mesangial cells* Capsular hyaline drop is an eosinophilic hyaline thickening of the parietal layer of Bowman's capsule and bulges into the glomerular space* Fibrin cap* is a homogenous, brightly eosinophilic material appearing on the wall of a peripheral capillary of lobule(ii) Nodular glomerulo sclerosis (Kimmelstiel - Wilson (K. W) lesions** or intercapillaiy glomerulosclerosis) - specific for type I-DMThe nodules are PAS positive and contain lipid and fibrinAs a result of glomerular and arteriolar involvement renal ischaemia occurs leading to tubular atrophy and interstitial fibrosis and grossly small contracted kidney **Important Points* Nephrocalcinosis is seen in - Hyperparathyroidism, Hypercalcemia, Hyperphosphatemia, RTA*. Hyper vitaminosis D, Excessive bone destruction. In metastatic malignancy, Hyperthyroidism. Milk-alkali syndrome and Sarcoidosis Medullary sponge kidney* (Papillary- nephrocalcinosis)* Low and fixed specific gravity of urine is seen in CRF* Most of the infectious causes lead to membranous GN like Hepatitis B & C,syphilis, malaria, leprosy*, filariasis & schistosomiasis, carcinoma of lung* and melanomaGeneChromosomeProteinLocationDiseaseNPHS-119q 13Nephrin*Slipt diaphragmNephrotic syndrome of finish type**NPH-2**1 q25-31PodocinSlipt diaphragmSteroid resistant** nephritic syndrome* Fibrinogen level is increased in Nephrotic syndrome due to increased hepatic synthesis of fibrinogen* The classic and most common HIV associated glomerulopathy is an aggressive form of focal segmental glomerulosclerosis, an entity that is termed HIV associated nephropathy (It was earlier called collapsing glomerulopathy)** shows degeneration of visceral epithelium*** Focal segmental GN - seen in SLE, H.S purpura, SABE, wegner's granulomatosis, PAN, Goodpasteur's syndrome* Low C3 complex GN - Post infections GN, lupus nephritis cryoglobulinemia, Bacterial endocarditis shunt nephritis, membrano proliferative GN, Cresenteric GN, Idiopathic proliferative GN* Most specific and sensitive marker of ANCA is seen in idiopathic cresenteric GN*** Hereditary Nepritls occursin - Alport's syndrome, Fabry's disease, Nail patella syndrome"
+    "cop": 2,
+    "exp": "(Fibrin clot) (677-78-Harsh. Mohan 6th ,1141- Robbiins - Basis of disease 8th)DIABETIC NEPHROPATHYFour types renal lesions1. Diabetic glomerulosclerosis2. Vascular lesions - (Atheroma, Hyaline arteriolosclerosis)**3. Diabetic pyelonephritis (Papillary necrosis (necrotizingpapillitis)**4. Tubular lesions (Armanni- Ebstein lesions)* Earliest manifestation of diabetic nephropathy is microalbuminuria (> 30mg/day, but < 300mg/day)DIABETIC GLOMERULOSCLEROSIS(i) Diffuse glomerulo sclerosis - Most common lesions** thickening of the GBM and diffuse increase in mesangial matrix with mild proliferation of mesangial cells* Capsular hyaline drop is an eosinophilic hyaline thickening of the parietal layer of Bowman's capsule and bulges into the glomerular space* Fibrin cap* is a homogenous, brightly eosinophilic material appearing on the wall of a peripheral capillary of lobule(ii) Nodular glomerulo sclerosis (Kimmelstiel - Wilson (K. W) lesions** or intercapillaiy glomerulosclerosis) - specific for type I-DMThe nodules are PAS positive and contain lipid and fibrinAs a result of glomerular and arteriolar involvement renal ischaemia occurs leading to tubular atrophy and interstitial fibrosis and grossly small contracted kidney **Important Points* Nephrocalcinosis is seen in - Hyperparathyroidism, Hypercalcemia, Hyperphosphatemia, RTA*. Hyper vitaminosis D, Excessive bone destruction. In metastatic malignancy, Hyperthyroidism. Milk-alkali syndrome and Sarcoidosis Medullary sponge kidney* (Papillary- nephrocalcinosis)* Low and fixed specific gravity of urine is seen in CRF* Most of the infectious causes lead to membranous GN like Hepatitis B & C,syphilis, malaria, leprosy*, filariasis & schistosomiasis, carcinoma of lung* and melanomaGeneChromosomeProteinLocationDiseaseNPHS-119q 13Nephrin*Slipt diaphragmNephrotic syndrome of finish type**NPH-2**1 q25-31PodocinSlipt diaphragmSteroid resistant** nephritic syndrome* Fibrinogen level is increased in Nephrotic syndrome due to increased hepatic synthesis of fibrinogen* The classic and most common HIV associated glomerulopathy is an aggressive form of focal segmental glomerulosclerosis, an entity that is termed HIV associated nephropathy (It was earlier called collapsing glomerulopathy)** shows degeneration of visceral epithelium*** Focal segmental GN - seen in SLE, H.S purpura, SABE, wegner's granulomatosis, PAN, Goodpasteur's syndrome* Low C3 complex GN - Post infections GN, lupus nephritis cryoglobulinemia, Bacterial endocarditis shunt nephritis, membrano proliferative GN, Cresenteric GN, Idiopathic proliferative GN* Most specific and sensitive marker of ANCA is seen in idiopathic cresenteric GN*** Hereditary Nepritls occursin - Alport's syndrome, Fabry's disease, Nail patella syndrome",
+    "hint_exp": "🎯 Think of \"is characterized by all EXCEPT\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4fb5645e-30f2-452a-9394-a128086955b9": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"mild haemorrhage will cause\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e7b1a4b6-9202-4edd-9938-8c0aeff65713": {
-    "cop": 4,
-    "exp": "ASD not seen in TOF Ghai essential of pediatrics, eighth edition, p.no:420"
+    "cop": 3,
+    "exp": "ASD not seen in TOF Ghai essential of pediatrics, eighth edition, p.no:420",
+    "hint_exp": "🧩 Your crush solved \"false\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3aad5d3f-0855-45e3-bd5e-8a07a4f3a947": {
-    "cop": 3,
-    "exp": "Isoelectric focusing is based on the isoelectric pH (pH at which a molecule carries no net charge). pH gradients created in the gel using polyampholytes. As there is no net charge, molecule stops moving during electrophoresis if they encounter their pI."
+    "cop": 2,
+    "exp": "Isoelectric focusing is based on the isoelectric pH (pH at which a molecule carries no net charge). pH gradients created in the gel using polyampholytes. As there is no net charge, molecule stops moving during electrophoresis if they encounter their pI.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"ability amino acids proteins\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "495fb1ca-3a28-44ed-99f4-63568834d118": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Person to person transmission"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Person to person transmission",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Brucellosis transmitted following modes\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c46793cf-9ccb-437e-8c4a-2661cea7e1d4": {
-    "cop": 2,
-    "exp": "Ans. Thanatology"
+    "cop": 1,
+    "exp": "Ans. Thanatology",
+    "hint_exp": "🎯 Think of \"death in all its aspects\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a068cc4d-fde4-40fb-9a9a-5ae02e82c76d": {
-    "cop": 4,
-    "exp": "A, B i.e. Macrophage; Dendritic cells; C i.e. Lymphocytes - Genes encoding major histocompatibility complex (MHC) or human leucocyte antigen (HLA) complex (named so because MHC encoded antigens were initially detected on leucocytes) are clustered on small (4 megabase) region on sho arm of chromosome 6Q. It is involved in transplantation reaction & autoimmune diseases. - MHC II are expressed (presented) by antigen presenting cells eg dendritic cells, macrophages, Langerhans cells, B cells and activated T cellsQ."
+    "cop": 3,
+    "exp": "A, B i.e. Macrophage; Dendritic cells; C i.e. Lymphocytes - Genes encoding major histocompatibility complex (MHC) or human leucocyte antigen (HLA) complex (named so because MHC encoded antigens were initially detected on leucocytes) are clustered on small (4 megabase) region on sho arm of chromosome 6Q. It is involved in transplantation reaction & autoimmune diseases. - MHC II are expressed (presented) by antigen presenting cells eg dendritic cells, macrophages, Langerhans cells, B cells and activated T cellsQ.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"presented\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2516cb00-00b4-4c39-82be-93748c76ea92": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Oval mass lined by barium * On barium swallow, leiomyoma may be seen as a discrete round or ovoid submucosal mass that is well outlined by barium. Its borders form slightly obtuse angles with the oesophageal wall.* Oesophageal leiomyoma is a benign smooth-muscle neoplasm of the oesophagus. It is the most common benign tumor of the oesophagus.* They typically involve the mid-to-distal oesophagus."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Oval mass lined by barium * On barium swallow, leiomyoma may be seen as a discrete round or ovoid submucosal mass that is well outlined by barium. Its borders form slightly obtuse angles with the oesophageal wall.* Oesophageal leiomyoma is a benign smooth-muscle neoplasm of the oesophagus. It is the most common benign tumor of the oesophagus.* They typically involve the mid-to-distal oesophagus.",
+    "hint_exp": "🧩 Your crush solved \"barium swallow Leiomyoma shows\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bef315b3-5ebc-40e9-8cbf-745323611b63": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"found in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5c0810f0-2b7a-4838-8418-e3fc91830384": {
-    "cop": 2,
-    "exp": "Growth hormone insensitivity syndrome is also known as Laron dwarfism which is characterized by the receptor anomalies and immunological suppression seen in these patients. Its a type of Autosomal recessive disorder"
+    "cop": 1,
+    "exp": "Growth hormone insensitivity syndrome is also known as Laron dwarfism which is characterized by the receptor anomalies and immunological suppression seen in these patients. Its a type of Autosomal recessive disorder",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Laron dwarfism occurs\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f9f51626-521d-47e7-899f-e554033b528f": {
-    "cop": 3,
-    "exp": "Ans. C i.e. Keratoconus Keratoconus Protrusion of central pa of cornea with thinning, Corneal nerves are visible, Associated features: - Munsen's sign, - Fleischer sign"
+    "cop": 2,
+    "exp": "Ans. C i.e. Keratoconus Keratoconus Protrusion of central pa of cornea with thinning, Corneal nerves are visible, Associated features: - Munsen's sign, - Fleischer sign",
+    "hint_exp": "🎯 Think of \"Munsen sign seen March\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c6df2f9d-ac8e-44a0-af31-48e45e35a1f5": {
-    "cop": 4,
-    "exp": "Causes of mental ill health                                                                            \n\nOrganic conditions → Cerebral atherosclerosis, neoplasm, endocrine diseases, metabolic diseases, chronic diseases (TB, Leprosy).\nHeredity\nSocial-environmental factors → Worries, anxieties, emotional stress, tension, frustration, unhappy marriages, broken home, poverty, industrialization, urbanization, population mobility, cruelty, rejection, neglect, economic insecurity etc."
+    "cop": 3,
+    "exp": "Causes of mental ill health                                                                            \n\nOrganic conditions → Cerebral atherosclerosis, neoplasm, endocrine diseases, metabolic diseases, chronic diseases (TB, Leprosy).\nHeredity\nSocial-environmental factors → Worries, anxieties, emotional stress, tension, frustration, unhappy marriages, broken home, poverty, industrialization, urbanization, population mobility, cruelty, rejection, neglect, economic insecurity etc.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3805832b-42ed-429f-8f4e-452b7d11d2a5": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"month child received doses\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "45a2152d-f705-4e69-8f42-96e6f23c45d6": {
-    "cop": 1,
-    "exp": "Pediatric Airway Anatomy Obligate Nasal Breathers Large Tongue Large Occiput Larynx and Trachea are funnel shaped Vocal Cords slant anteriorly Larynx located higher in neck (at C4 vs. C6 in adults) Narrowest pa of the pediatric airway is at cricoid cailage (until age 5). In adults the narrowest pa is at the glottis opening Glottis Location Different: Premature Babies at C3 Newborns C3-C4 Adults C5 9. sho trachea"
+    "cop": 0,
+    "exp": "Pediatric Airway Anatomy Obligate Nasal Breathers Large Tongue Large Occiput Larynx and Trachea are funnel shaped Vocal Cords slant anteriorly Larynx located higher in neck (at C4 vs. C6 in adults) Narrowest pa of the pediatric airway is at cricoid cailage (until age 5). In adults the narrowest pa is at the glottis opening Glottis Location Different: Premature Babies at C3 Newborns C3-C4 Adults C5 9. sho trachea",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"there higher incidence endobronchial\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "97e1856c-7cd1-4049-bd6e-f01ec49d06d0": {
-    "cop": 4,
-    "exp": "All given options are valid restorative options for restoring a missing tooth."
+    "cop": 3,
+    "exp": "All given options are valid restorative options for restoring a missing tooth.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"restoring the missing teeth\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9802fc1a-1ccf-418f-92fc-d33fba7b575e": {
-    "cop": 1,
-    "exp": "Ans./ Summon"
+    "cop": 0,
+    "exp": "Ans./ Summon",
+    "hint_exp": "🎯 Think of \"Duces tecum\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3af4b2db-3fd1-48ed-98b0-c1b962f8141d": {
-    "cop": 1,
-    "exp": "HYPNOGOGIC HALLUCINATION Hallucination while the person going to sleep * NARCOLEPSY * Cataplexy ( loss of muscle tone) * Hynogogic hallucination * Hynopompic hallucination * Sleep paralysis * Excessive day time sleepiness * Strong emotions can trigger cataplexy * ETIOLOGY======HYPOCRETIN DEFICIENCY in LATERAL HPOTHALAMUS * TREATMENT=====MODAFINIL AND psychostimulants MOST REPEATED ONE WORD NARCOLEPSY HAS CATAPLEXY (sudden loss of tone and falls to sleep) CATATONIA HAS CATALEPSY (abnormal postures) Ref. kaplon and sadock, synopsis of psychiatry, 11 th edition, page no.194"
+    "cop": 0,
+    "exp": "HYPNOGOGIC HALLUCINATION Hallucination while the person going to sleep * NARCOLEPSY * Cataplexy ( loss of muscle tone) * Hynogogic hallucination * Hynopompic hallucination * Sleep paralysis * Excessive day time sleepiness * Strong emotions can trigger cataplexy * ETIOLOGY======HYPOCRETIN DEFICIENCY in LATERAL HPOTHALAMUS * TREATMENT=====MODAFINIL AND psychostimulants MOST REPEATED ONE WORD NARCOLEPSY HAS CATAPLEXY (sudden loss of tone and falls to sleep) CATATONIA HAS CATALEPSY (abnormal postures) Ref. kaplon and sadock, synopsis of psychiatry, 11 th edition, page no.194",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Hypnogogic hallucination\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7653ea62-d4d1-477b-8b8c-52f99b4c0dbc": {
-    "cop": 2,
-    "exp": "Factor V Leiden mutation * Factor V Leiden is an autosomal dominant condition that exhibits incomplete dominance and results in a factor V variant that cannot be as easily degraded by activated Protein C. * The gene that codes the protein is referred to as F5. Mutation of this gene is a single nucleotide polymorphism located on chromosome 1 in exon 10 * As a missense substitution it changes a protein&;s amino acid from arginine to glutamine. ref : robbins 10th ed"
+    "cop": 1,
+    "exp": "Factor V Leiden mutation * Factor V Leiden is an autosomal dominant condition that exhibits incomplete dominance and results in a factor V variant that cannot be as easily degraded by activated Protein C. * The gene that codes the protein is referred to as F5. Mutation of this gene is a single nucleotide polymorphism located on chromosome 1 in exon 10 * As a missense substitution it changes a protein&;s amino acid from arginine to glutamine. ref : robbins 10th ed",
+    "hint_exp": "🧩 Your crush solved \"activated protien resistent disorder\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "21ca0b4b-b0ed-40f4-b7bf-28d091579883": {
-    "cop": 1,
-    "exp": "Answer is A (Increased ACTH and increased Coisol) Cushing's disease refers to increased production of Coisol (T Coisol) by Adrenals secondary to an ACTH producing tumor (1st ACTH) in the pituitary gland. It is thus associated with increased levels of ACTH and Coisol. Only an individual who has (increased coisol due to) an ACTH producing pituitary tumor is defined as having Cushing's disease, whereas Cushing's syndrome refers to all causes of excess coisol' - Harrison Increased urinary catecholamines is a feature of pheochromocvtoma and not Cushing's disease."
+    "cop": 0,
+    "exp": "Answer is A (Increased ACTH and increased Coisol) Cushing's disease refers to increased production of Coisol (T Coisol) by Adrenals secondary to an ACTH producing tumor (1st ACTH) in the pituitary gland. It is thus associated with increased levels of ACTH and Coisol. Only an individual who has (increased coisol due to) an ACTH producing pituitary tumor is defined as having Cushing's disease, whereas Cushing's syndrome refers to all causes of excess coisol' - Harrison Increased urinary catecholamines is a feature of pheochromocvtoma and not Cushing's disease.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Cushing disease associated with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ab82593e-d109-45e4-a067-bfab3a9a6eb5": {
-    "cop": 3,
-    "exp": "Ref: THE ESSENTIALS OF FORENSIC MEDICINE AND TOXICOLOGY- Dr. K.S.NARAYAN REDDY 32 EDITION page no-432 This method determines whether the blood derived from human being or from lower animal. It is an immunological test(serological examination). Principle: Blood serum contains proteins in colloidal suspension ,and when human serum is injected into an animal,the animal become immunised against these proteins and antibodies develop in its blood .If human serum is then brought into contact with this animal serum,the antibodies in the animal serum react with the proteins in the human serum and a visible precipitate forms. The antibodies causing this reaction are known as precipitins and the animal serum is known as antihumam precipitin serum.A rabbit or a fowl is injected with human blood every third day for 3 to 5 injections. after thuis animal is killed and the antiserum is collected. A suitable antiserum should react immmediately or within a minute on the 1:1000 dilution Application of the test: It is a specific protein test, and the reaction demonstrates the presence of albuminous substances obtained from any pa of human body. the origin of skin, flesh,bone or even secretions such as saliva ,milk and semen is determined by this test."
+    "cop": 2,
+    "exp": "Ref: THE ESSENTIALS OF FORENSIC MEDICINE AND TOXICOLOGY- Dr. K.S.NARAYAN REDDY 32 EDITION page no-432 This method determines whether the blood derived from human being or from lower animal. It is an immunological test(serological examination). Principle: Blood serum contains proteins in colloidal suspension ,and when human serum is injected into an animal,the animal become immunised against these proteins and antibodies develop in its blood .If human serum is then brought into contact with this animal serum,the antibodies in the animal serum react with the proteins in the human serum and a visible precipitate forms. The antibodies causing this reaction are known as precipitins and the animal serum is known as antihumam precipitin serum.A rabbit or a fowl is injected with human blood every third day for 3 to 5 injections. after thuis animal is killed and the antiserum is collected. A suitable antiserum should react immmediately or within a minute on the 1:1000 dilution Application of the test: It is a specific protein test, and the reaction demonstrates the presence of albuminous substances obtained from any pa of human body. the origin of skin, flesh,bone or even secretions such as saliva ,milk and semen is determined by this test.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"used to check if blood\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fef4f012-625a-48bf-8eca-18bf5218a1ea": {
-    "cop": 2,
-    "exp": "A variety of topical local anesthetic formulations have been developed to penetrate intact skin. EMLA, which is a eutectic mixture of 2.5% lidocaine base and 2.5% prilocaine base, is widely used for venipuncture, intravenous cannulation, skin grafting, and a range of other uses, including circumcision Ref: Miller's anesthesia-7th ed, Chapter 30."
+    "cop": 1,
+    "exp": "A variety of topical local anesthetic formulations have been developed to penetrate intact skin. EMLA, which is a eutectic mixture of 2.5% lidocaine base and 2.5% prilocaine base, is widely used for venipuncture, intravenous cannulation, skin grafting, and a range of other uses, including circumcision Ref: Miller's anesthesia-7th ed, Chapter 30.",
+    "hint_exp": "🎯 Think of \"EMLA mixture lidocaine\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "880535b8-582b-4f56-a27e-fb8734e60c17": {
-    "cop": 2,
-    "exp": "Cholestatic jaundice caused by erythromycin estolate (and rarely by the stearate) appears to be specifically related to the propionyl ester linkage of the 29 position. Thus, a history of cholestatic jaundice during therapy with oral erythromycin estolate is not an absolute contraindication to intravenous therapy with erythromycin gluceptate or lactobionate. Ref: Aoki F.Y. (2005). Chapter 45. Principles of Antimicrobial Therapy and the Clinical Pharmacology of Antimicrobial Drugs. In Hall J.B., Schmidt G.A., Wood L.H.(Eds), Principles of Critical Care, 3e."
+    "cop": 1,
+    "exp": "Cholestatic jaundice caused by erythromycin estolate (and rarely by the stearate) appears to be specifically related to the propionyl ester linkage of the 29 position. Thus, a history of cholestatic jaundice during therapy with oral erythromycin estolate is not an absolute contraindication to intravenous therapy with erythromycin gluceptate or lactobionate. Ref: Aoki F.Y. (2005). Chapter 45. Principles of Antimicrobial Therapy and the Clinical Pharmacology of Antimicrobial Drugs. In Hall J.B., Schmidt G.A., Wood L.H.(Eds), Principles of Critical Care, 3e.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following most often\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e1ffda65-ced6-4839-a7ef-a5cd24c14496": {
-    "cop": 1,
-    "exp": "Ans. is a, i.e. Biparietal diameterEngagement is said to occur when the largest transverse diameter of fetal head crosses the pelvic inlet.Largest transverse diameter of fetal head is: Biparietal diameter."
+    "cop": 0,
+    "exp": "Ans. is a, i.e. Biparietal diameterEngagement is said to occur when the largest transverse diameter of fetal head crosses the pelvic inlet.Largest transverse diameter of fetal head is: Biparietal diameter.",
+    "hint_exp": "🧩 Your crush solved \"fetal head\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "68b46d75-130d-48e7-907d-201b06391fb5": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"mania\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "08685078-3cab-439c-939b-b4096162c787": {
-    "cop": 4,
-    "exp": "The liver receives blood from the hepatic aery and poal vein and drains its venous blood into the hepatic veins. The liver manufactures red blood cells in the fetus. The liver plays impoant roles in bile production and secretion. The quadrate lobe drains bile into the left hepatic duct, not the right hepatic duct, whereas the caudate lobe drains bile into the right and left hepatic ducts. The gallbladder functions to concentrate and store bile."
+    "cop": 3,
+    "exp": "The liver receives blood from the hepatic aery and poal vein and drains its venous blood into the hepatic veins. The liver manufactures red blood cells in the fetus. The liver plays impoant roles in bile production and secretion. The quadrate lobe drains bile into the left hepatic duct, not the right hepatic duct, whereas the caudate lobe drains bile into the right and left hepatic ducts. The gallbladder functions to concentrate and store bile.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the liver\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f42f4321-030c-4770-8760-1314f5ca14a9": {
-    "cop": 2,
-    "exp": "Ans. (b) Resistance to 3 or more anti-hypertensive drugs including thiazidesRef: Harrison 18th edition, chapter 247* Resistant hypertension refers to patients with blood pressures persistently >140/90 mmHg despite taking three or more antihypertensive agents, including a diuretic, in a reasonable combination and at full doses.* Resistant or difficult-to-control hypertension is more common in patients >60 years than in younger patients.* Resistant hypertension may be related to:# \"Pseudoresistance\" (high office blood pressures and lower home blood pressures), nonadherence to therapy# Identifiable causes of hypertension (including obesity and excessive alcohol intake# Use of any of a number of nonprescription and prescription drugs"
+    "cop": 1,
+    "exp": "Ans. (b) Resistance to 3 or more anti-hypertensive drugs including thiazidesRef: Harrison 18th edition, chapter 247* Resistant hypertension refers to patients with blood pressures persistently >140/90 mmHg despite taking three or more antihypertensive agents, including a diuretic, in a reasonable combination and at full doses.* Resistant or difficult-to-control hypertension is more common in patients >60 years than in younger patients.* Resistant hypertension may be related to:# \"Pseudoresistance\" (high office blood pressures and lower home blood pressures), nonadherence to therapy# Identifiable causes of hypertension (including obesity and excessive alcohol intake# Use of any of a number of nonprescription and prescription drugs",
+    "hint_exp": "🎯 Think of \"defined as\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bb2b5a6e-0bb6-403f-b720-93336ac9a7b6": {
-    "cop": 3,
-    "exp": "Ans. C MedialRef: Clinically Oriented Anatomy by Keith, Moore, 5th Ed i 223* Cremasteric reflex is elicited by lightly stroking the skin on the medial aspect of the superior part of the thigh with an applicator stick or tongue depressor."
+    "cop": 2,
+    "exp": "Ans. C MedialRef: Clinically Oriented Anatomy by Keith, Moore, 5th Ed i 223* Cremasteric reflex is elicited by lightly stroking the skin on the medial aspect of the superior part of the thigh with an applicator stick or tongue depressor.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"thigh skin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0d231101-a29c-4af4-980b-48f3a929cada": {
-    "cop": 2,
-    "exp": "Endrin is an organochloride with the chemical formula C12H8Cl6O. It was primarily used as an insecticide, as well as a rodenticide and pesticide. Commonly used organophosphates are Parathion Malathion Methyl parathion Chlorpyrifos Diazinon Dichlorvos Phosmet Fenitrothion Tetrachlorvinphos Azamethiphos Azinphos-methyl Ref - Krishnan Vij 5th edition pg 532"
+    "cop": 1,
+    "exp": "Endrin is an organochloride with the chemical formula C12H8Cl6O. It was primarily used as an insecticide, as well as a rodenticide and pesticide. Commonly used organophosphates are Parathion Malathion Methyl parathion Chlorpyrifos Diazinon Dichlorvos Phosmet Fenitrothion Tetrachlorvinphos Azamethiphos Azinphos-methyl Ref - Krishnan Vij 5th edition pg 532",
+    "hint_exp": "🧩 Your crush solved \"Organophosphate\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b57df6dc-d532-4bc7-a1b6-eb7c1c3be986": {
-    "cop": 2,
-    "exp": "B i.e. Automatism"
+    "cop": 1,
+    "exp": "B i.e. Automatism",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"schizophrenia\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a70954e2-47db-4a03-9181-e410d87d81a3": {
-    "cop": 4,
-    "exp": "Ans. D. C-reactive protein (CRP) >20.Due to the rapid chondro lytic effect of pus within the joint, pyogenic septic arthritis of the hip in children represents a surgical emergency. It can be difficult to distinguish a septic hip from other causes of hip pain in children. In such cases, whilst clinical suspicion remains of paramount importance, Kocher's diagnostic algorithm is a useful tool. The four diagnostic criteria are non-weight-bearing, ESR >40, WBC >12 and fever. The predicted risk of a septic arthritis varies with the number of positive criteria. The algorithm has been tested retrospectively and prospectively. In the prospective validation study the probabilities were lower:Number of criteria metChance of septic arthritis (original study)Chance of septic arthritis (validation study)13%9.5%240%35%393%73%499.6%93%"
+    "cop": 3,
+    "exp": "Ans. D. C-reactive protein (CRP) >20.Due to the rapid chondro lytic effect of pus within the joint, pyogenic septic arthritis of the hip in children represents a surgical emergency. It can be difficult to distinguish a septic hip from other causes of hip pain in children. In such cases, whilst clinical suspicion remains of paramount importance, Kocher's diagnostic algorithm is a useful tool. The four diagnostic criteria are non-weight-bearing, ESR >40, WBC >12 and fever. The predicted risk of a septic arthritis varies with the number of positive criteria. The algorithm has been tested retrospectively and prospectively. In the prospective validation study the probabilities were lower:Number of criteria metChance of septic arthritis (original study)Chance of septic arthritis (validation study)13%9.5%240%35%393%73%499.6%93%",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e973d53b-29a6-49f8-8962-b7c502e2258e": {
-    "cop": 1,
-    "exp": "Shock is clinically best assessed by urine output. Ultimately, the goal of treatment is to restore cellular and organ perfusion. Ideally, therefore, monitoring of organ perfusion should guide the management of shock. The best measures of organ perfusion and the best monitor of the adequacy of shock therapy remains the urine output."
+    "cop": 0,
+    "exp": "Shock is clinically best assessed by urine output. Ultimately, the goal of treatment is to restore cellular and organ perfusion. Ideally, therefore, monitoring of organ perfusion should guide the management of shock. The best measures of organ perfusion and the best monitor of the adequacy of shock therapy remains the urine output.",
+    "hint_exp": "🎯 Think of \"Shock clinically best assessed\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3d454bb4-8d94-4217-addf-b10076b67e9f": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Endogenous wear tear pigment\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8d9b035d-5728-4198-b467-789b133fe982": {
-    "cop": 3,
-    "exp": "Bladder stone Primary bladder stone- Aka Endemic bladder calculi- Most common type of primary bladder stone - Ammonium urate - other stones- Calcium oxalate. Secondary bladder stone - More common in elderly males due to BPH /Bladder outlet obstruction- Most common type of secondary bladder stone - Uric acid> Struvite- Overall secondary bladder stone - most common Investigations- Investigation of choice- Ultrasound Treatment- For small stones - cystolitholapexy- For Large stones* Electrohydraulic lithotripsy* Suprapubic cystolithotomy"
+    "cop": 2,
+    "exp": "Bladder stone Primary bladder stone- Aka Endemic bladder calculi- Most common type of primary bladder stone - Ammonium urate - other stones- Calcium oxalate. Secondary bladder stone - More common in elderly males due to BPH /Bladder outlet obstruction- Most common type of secondary bladder stone - Uric acid> Struvite- Overall secondary bladder stone - most common Investigations- Investigation of choice- Ultrasound Treatment- For small stones - cystolitholapexy- For Large stones* Electrohydraulic lithotripsy* Suprapubic cystolithotomy",
+    "hint_exp": "🧩 Your crush solved \"commonest bladder stone\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "88d76f55-8b7b-4059-a40f-85a0d96d9891": {
-    "cop": 1,
-    "exp": "Inspiratory neurons are stimulated by proprioception from joints and muscles."
+    "cop": 0,
+    "exp": "Inspiratory neurons are stimulated by proprioception from joints and muscles.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"which receptor\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b7d8b5f3-da6a-493b-ad54-2d8b186cc8ef": {
-    "cop": 3,
-    "exp": "Tests to detect seminal fluid are Florence test, Barberio's test, acid phosphatase test, creatine phosphokinase test, ammonium molybdate test, and glycoprotein P30 test. Ref: Park's Textbook of Preventive and Social Medicine By K. Park, 6th Edition, Pages 7.15, 7.16, 7.26; Concise Textbook of Forensic Medicine and Toxicology By Sharma, 2007, Page 35."
+    "cop": 2,
+    "exp": "Tests to detect seminal fluid are Florence test, Barberio's test, acid phosphatase test, creatine phosphokinase test, ammonium molybdate test, and glycoprotein P30 test. Ref: Park's Textbook of Preventive and Social Medicine By K. Park, 6th Edition, Pages 7.15, 7.16, 7.26; Concise Textbook of Forensic Medicine and Toxicology By Sharma, 2007, Page 35.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"used to detect semen\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a45712ea-8ac3-4141-971a-4f26ad5932b9": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Vestibulocochlear nerve FORAMENSTRUCTURES PASSINGInternal accoustic meatusFacial N.Auditory N.Nervus intermedius(wrisberg) Labyrynthine vessels"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Vestibulocochlear nerve FORAMENSTRUCTURES PASSINGInternal accoustic meatusFacial N.Auditory N.Nervus intermedius(wrisberg) Labyrynthine vessels",
+    "hint_exp": "🎯 Think of \"Facial nerve lies with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a2ef3528-8481-47a9-9c0a-d5b7fb1d6178": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Wife only o According to this act, consent of only women is required (if she is over 18 years and sane); and consent of parents/ guardian is required if she is below 18 years or above 18 years but insane.o Consent of husband is not required.o Abortion cannot be performed on request of husband, if women herself is not willing.o Women need not produce proof of her age, only statement that she is over 18 is accepted."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Wife only o According to this act, consent of only women is required (if she is over 18 years and sane); and consent of parents/ guardian is required if she is below 18 years or above 18 years but insane.o Consent of husband is not required.o Abortion cannot be performed on request of husband, if women herself is not willing.o Women need not produce proof of her age, only statement that she is over 18 is accepted.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"MTP consent\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8beefba9-8360-45d4-b276-64281dba8f8a": {
-    "cop": 3,
-    "exp": "Ans. c. Always activated by c-AMP dependent protein kinaseEpinephrine and norepinephrine (in muscle during activity) or glucagon (in liver when blood glucose level is too low) increase concentration of c-AMP, which inturn activates c-AMP dependent protein kinase (protein kinase a or PICA).Allosteric Control of Phosphorylase occurs throughIn MuscleActivation: Ca2+degc-AMPdeg5'-AMP Inhibition: - ATPdegGlucose-6-phosphateIn LiverActivation: - c-AMPdegInhibition:ATPdegGlucose-6-phosphate Free glucosedeg"
+    "cop": 2,
+    "exp": "Ans. c. Always activated by c-AMP dependent protein kinaseEpinephrine and norepinephrine (in muscle during activity) or glucagon (in liver when blood glucose level is too low) increase concentration of c-AMP, which inturn activates c-AMP dependent protein kinase (protein kinase a or PICA).Allosteric Control of Phosphorylase occurs throughIn MuscleActivation: Ca2+degc-AMPdeg5'-AMP Inhibition: - ATPdegGlucose-6-phosphateIn LiverActivation: - c-AMPdegInhibition:ATPdegGlucose-6-phosphate Free glucosedeg",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dbc47361-12ac-4bdd-907f-1825b20aea58": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Bone marrow aspiration indicated\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "54eab060-3279-4836-a3a4-5d03979ecb0c": {
-    "cop": 1,
-    "exp": "Ans. a (Cell culture). (Ref. Anantanarayan, Microbiology, 6th/pg.406)CULTIVATION OF VIRUSES:Three methods are employed for cultivation of viruses:# Innoculation in animals# Embryonated eggs# Tissue culture:- Organ culture (useful for isolation of some viruses only, that appear highly specific parasite of certain organs)- Explant culture (obsolete)- Cell culture (routinely used)# Primary cell culture# Diploid cell culture# Continuous cell linesThus cell culture is a subtype of tissue culture and viruses grow well on it."
+    "cop": 0,
+    "exp": "Ans. a (Cell culture). (Ref. Anantanarayan, Microbiology, 6th/pg.406)CULTIVATION OF VIRUSES:Three methods are employed for cultivation of viruses:# Innoculation in animals# Embryonated eggs# Tissue culture:- Organ culture (useful for isolation of some viruses only, that appear highly specific parasite of certain organs)- Explant culture (obsolete)- Cell culture (routinely used)# Primary cell culture# Diploid cell culture# Continuous cell linesThus cell culture is a subtype of tissue culture and viruses grow well on it.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Virus grow well\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3a5ab6ee-b083-47d2-a257-71088394c5cf": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"mandibular nerve block\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "65d14bcc-e208-4ef0-85ad-bb50b562afd2": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Equitable distribution o The first key principle in the primary' health care strategy is equity or equitable distribution of health services,o At present health sendees are mainly concentrated in the major towns and cities resulting in inquality of care to the people in rural areas.o Primary health care aims to redress this imbalance by shifting the centre of gravity of the health care system from cities to rural areas and bring these sendees as near people's homes as possible.Principles of primary health care1. Equitable distributionIt means, health sendees must be shared equally by all people irrespective of their ability to pay and all people (urban or rural, rich or poor) have access to health sendees.2 Community' participationThe local community is involved in planning and implementation of health sendees.Primary' health care is thus described as - Health by the people, placing people's health in people hands.Village health guides and trained dais are perfect examples of community participation. They belong to the community they senreIntersectoral coordinationThe primary health care is not provided by health sector alone.It involves all other related sectors of national and community development, in particular agriculture, animal husbandry, food, industry', education, housing, public works, communication and other sectors.Appropriate technology'Appropriate technology is defined as 'technology that is scientifically sound, adaptable to local needs, and acceptable to those who apply it and those for whom it is used, and that can be maintained by the people themselves in keeping with the principles of self reliance with the resources the community' and country can afford.'"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Equitable distribution o The first key principle in the primary' health care strategy is equity or equitable distribution of health services,o At present health sendees are mainly concentrated in the major towns and cities resulting in inquality of care to the people in rural areas.o Primary health care aims to redress this imbalance by shifting the centre of gravity of the health care system from cities to rural areas and bring these sendees as near people's homes as possible.Principles of primary health care1. Equitable distributionIt means, health sendees must be shared equally by all people irrespective of their ability to pay and all people (urban or rural, rich or poor) have access to health sendees.2 Community' participationThe local community is involved in planning and implementation of health sendees.Primary' health care is thus described as - Health by the people, placing people's health in people hands.Village health guides and trained dais are perfect examples of community participation. They belong to the community they senreIntersectoral coordinationThe primary health care is not provided by health sector alone.It involves all other related sectors of national and community development, in particular agriculture, animal husbandry, food, industry', education, housing, public works, communication and other sectors.Appropriate technology'Appropriate technology is defined as 'technology that is scientifically sound, adaptable to local needs, and acceptable to those who apply it and those for whom it is used, and that can be maintained by the people themselves in keeping with the principles of self reliance with the resources the community' and country can afford.'",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"services in rural\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "deb344a8-d32a-406a-8f55-d3786b598d7b": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Dementia"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Dementia",
+    "hint_exp": "🧩 Your crush solved \"HIV\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ea0acfef-43a5-4140-9b1c-a9c23c2ee460": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the diagnosis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "eab30315-68cc-4153-930c-4aa7bb9771c2": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Cross reactivity with endogenous antigeno Various streptococcal components (specially strep. pyogenes) exhibit antigenic cross reaction with different tissues of the human body. The impoant ones are :Streptococcal component Human tissueCapsular hyaluronic acid synol fluidCell wall protein myocardiumGroup A carbohydrate cardiac valvesCytoplasmic membrane antigen vascular intimaPeptidoglycans skin antigenso This antigen cross reactivity is resoponsible for the production of cross reacting antibodies, i.e. antibodies are formed against streptococcal antigens but they damage host tissue antigens because of similarity between streptococcal antigens and human tissue antigens --> antigenic cross reactivity.o Antigenic cross reactivity is responsible for nonsuppurative manifestations, e.g. acute rheumatic carditis."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Cross reactivity with endogenous antigeno Various streptococcal components (specially strep. pyogenes) exhibit antigenic cross reaction with different tissues of the human body. The impoant ones are :Streptococcal component Human tissueCapsular hyaluronic acid synol fluidCell wall protein myocardiumGroup A carbohydrate cardiac valvesCytoplasmic membrane antigen vascular intimaPeptidoglycans skin antigenso This antigen cross reactivity is resoponsible for the production of cross reacting antibodies, i.e. antibodies are formed against streptococcal antigens but they damage host tissue antigens because of similarity between streptococcal antigens and human tissue antigens --> antigenic cross reactivity.o Antigenic cross reactivity is responsible for nonsuppurative manifestations, e.g. acute rheumatic carditis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"acute rheumatic fever\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ac03c0e3-f0e7-4eb9-a953-eccb2fd9d5be": {
-    "cop": 2,
-    "exp": "Wernicke's encephalopathy - Long term use of alcohol lead to thiamine deficiency . Wernicke encephalopathy, caused by vitamin B1 deficiency, is not diagnosed in about 80% of cases. Classical triad Global confusion Ophthalmoplegia - m/c/c 6th nerve palsy Ataxias After thiamine therapy 1st one to improve is ophthalmoplegia followed by global confusion"
+    "cop": 1,
+    "exp": "Wernicke's encephalopathy - Long term use of alcohol lead to thiamine deficiency . Wernicke encephalopathy, caused by vitamin B1 deficiency, is not diagnosed in about 80% of cases. Classical triad Global confusion Ophthalmoplegia - m/c/c 6th nerve palsy Ataxias After thiamine therapy 1st one to improve is ophthalmoplegia followed by global confusion",
+    "hint_exp": "🎯 Think of \"Earliest symptoms showing improvement\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "42ce71f0-6b89-4dda-9f37-059ef3c8098f": {
-    "cop": 1,
-    "exp": "Ans. a (Paraxial mesoderm) (Ref. Human Embryology by IB Singh; 6th/ pg. 46)# Splanchnopleuric mesoderm (from lateral plate mesoderm) forms mesothelial covering of visceral organs;# Intermediate plate mesoderm forms urinary and genital systems, adrenal cortex;# Somites that are derived from paraxial mesoderm form the axial skeleton, voluntary musculature, etc.DERIVATIVES OF THE MESODERMAL GERM LAYERRegions of the epiblast that migrate and ingress through the primitive streak have been mapped and their ultimate fates determined, as appended below:# Cells that ingress through the cranial region of the node become notochord;# Those migrating at lateral edges of node and from cranial end of the streak become paraxial mesoderm:# Cells migrating through the midstreak region become intermediate mesoderm:# Those migrating through the more caudal part of the streak form lateral plate mesoderm: and# Cells migrating through the caudal-most part of the streak contribute to extraembrvonic mesoderm.# Intermediate mesoderm connects paraxial and lateral plate mesoderm.Additional educational point:# Sclerotomes give rise to vertebral arches (dorsal sclerotome), vertebral bodies (ventral sclerotome), base of the skull, costal processes and ultimately ribs (in thoracic region)."
+    "cop": 0,
+    "exp": "Ans. a (Paraxial mesoderm) (Ref. Human Embryology by IB Singh; 6th/ pg. 46)# Splanchnopleuric mesoderm (from lateral plate mesoderm) forms mesothelial covering of visceral organs;# Intermediate plate mesoderm forms urinary and genital systems, adrenal cortex;# Somites that are derived from paraxial mesoderm form the axial skeleton, voluntary musculature, etc.DERIVATIVES OF THE MESODERMAL GERM LAYERRegions of the epiblast that migrate and ingress through the primitive streak have been mapped and their ultimate fates determined, as appended below:# Cells that ingress through the cranial region of the node become notochord;# Those migrating at lateral edges of node and from cranial end of the streak become paraxial mesoderm:# Cells migrating through the midstreak region become intermediate mesoderm:# Those migrating through the more caudal part of the streak form lateral plate mesoderm: and# Cells migrating through the caudal-most part of the streak contribute to extraembrvonic mesoderm.# Intermediate mesoderm connects paraxial and lateral plate mesoderm.Additional educational point:# Sclerotomes give rise to vertebral arches (dorsal sclerotome), vertebral bodies (ventral sclerotome), base of the skull, costal processes and ultimately ribs (in thoracic region).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Somites develop from\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e5b58f45-08de-4167-a911-bb3edda73378": {
-    "cop": 1,
-    "exp": "Ans. A. b-Carotene dioxygenaseCarotene is cleaved by b-carotene dioxygenase of intestinal cells to release 2 moles of retinal which is reduced to retinol."
+    "cop": 0,
+    "exp": "Ans. A. b-Carotene dioxygenaseCarotene is cleaved by b-carotene dioxygenase of intestinal cells to release 2 moles of retinal which is reduced to retinol.",
+    "hint_exp": "🧩 Your crush solved \"Carotene precursor vitamin oxidatively\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

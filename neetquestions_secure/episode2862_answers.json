@@ -1,202 +1,252 @@
 {
   "29455be5-9f71-4137-9876-5babbcc74d06": {
-    "cop": 2,
-    "exp": "(Ref: KDT 6/e p645) Cisapride is a 5HT4 agonist that can block cardiac K+ channels at high concentration. When these are administered with microsomal enzyme inhibitors (like erythromycin or ketoconazole), polymorphic ventricular tachycardia can result. Mosapride and tegaserod are other 5HT4 agonists that are devoid of arrhthmogenic action."
+    "cop": 1,
+    "exp": "(Ref: KDT 6/e p645) Cisapride is a 5HT4 agonist that can block cardiac K+ channels at high concentration. When these are administered with microsomal enzyme inhibitors (like erythromycin or ketoconazole), polymorphic ventricular tachycardia can result. Mosapride and tegaserod are other 5HT4 agonists that are devoid of arrhthmogenic action.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"or ketoconazole\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c3f82fe7-6412-4a0a-b635-0e73b73fe29a": {
-    "cop": 2,
-    "exp": "Ref: BD Chaurasia Human Anatomy vol 2 pg 125,127."
+    "cop": 1,
+    "exp": "Ref: BD Chaurasia Human Anatomy vol 2 pg 125,127.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Hunterian perforator\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b553c2f9-097d-4b73-afa0-1b00ce2ba218": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Serves as source of infection A carrier is defined as \"an infected person or animal that harbours a specific infectious agent in the absence of clinical disease and serves as a potential source of infection\". As a rule carriers are less infectious than cases, but epidemiologically they are more dangerous than cases because they escape recognition, and continuing as they do to live a normal life among the population or comunity, they readily infect the susceptible individuals over a wider area and longer period of time."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Serves as source of infection A carrier is defined as \"an infected person or animal that harbours a specific infectious agent in the absence of clinical disease and serves as a potential source of infection\". As a rule carriers are less infectious than cases, but epidemiologically they are more dangerous than cases because they escape recognition, and continuing as they do to live a normal life among the population or comunity, they readily infect the susceptible individuals over a wider area and longer period of time.",
+    "hint_exp": "🎯 Think of \"carriers\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ed1942b8-05ff-43f6-be31-5d566ed8278f": {
-    "cop": 1,
-    "exp": "The clinical setting of high TSH and T4 with tremors and diarrhea signifies hypehyroidism due to either a TSH secreting pituitary tumor (secondary hypehyroidism) or elevated TRH secretion from hypothalamus (teiary hypehyroidism). But the presence of \"Bi-temporal hemianopia\" localizes the lesion to Pituitary mass compressing the optic chiasma. Hence, the diagnosis is most likely TSH secreting Pituitary Adenoma. Radioiodine or anti-thyroid drugs can be used to control thyrotoxicosis and do urgent MRI to confirm the diagnosis. A combination of trans-sphenoidal surgery, sella irradiation, and octreotide may be required to normalize TSH, because many of these tumors are large and locally invasive at the time of diagnosis."
+    "cop": 0,
+    "exp": "The clinical setting of high TSH and T4 with tremors and diarrhea signifies hypehyroidism due to either a TSH secreting pituitary tumor (secondary hypehyroidism) or elevated TRH secretion from hypothalamus (teiary hypehyroidism). But the presence of \"Bi-temporal hemianopia\" localizes the lesion to Pituitary mass compressing the optic chiasma. Hence, the diagnosis is most likely TSH secreting Pituitary Adenoma. Radioiodine or anti-thyroid drugs can be used to control thyrotoxicosis and do urgent MRI to confirm the diagnosis. A combination of trans-sphenoidal surgery, sella irradiation, and octreotide may be required to normalize TSH, because many of these tumors are large and locally invasive at the time of diagnosis.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the next step of management\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e64287f1-3e7d-4554-9443-762b666d4435": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"accessory spleen\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ba077711-0f25-4b4e-a61a-7b72bc4432c7": {
-    "cop": 2,
-    "exp": "Ans-B Source of the image- Image Description- Close up of trophozoites of E. histolytica showing the nuclear appearance and erythrophagocytosis."
+    "cop": 1,
+    "exp": "Ans-B Source of the image- Image Description- Close up of trophozoites of E. histolytica showing the nuclear appearance and erythrophagocytosis.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year male presented with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "29f5e403-e738-4259-aed8-7f963c7ff7ad": {
-    "cop": 2,
-    "exp": "Ventricular Tachycardia -Independent P waves - lack of coordination between atria - ventricles ECG features of Ventricular tachycardia 1. Premature Ventricular Contractions > 3 consecutive contractions 2. HR > 100 / min 3. Broadening of QRS duration 4. Josephson sign 5. Capture Beats 6. P waves walking through the tachycardia rsR' pattern - RBBB - Aberrancy , not VT ECG - Ventricular tachycardia P waves independent of QRS complexes Fusion and capture beat Josephson sign"
+    "cop": 1,
+    "exp": "Ventricular Tachycardia -Independent P waves - lack of coordination between atria - ventricles ECG features of Ventricular tachycardia 1. Premature Ventricular Contractions > 3 consecutive contractions 2. HR > 100 / min 3. Broadening of QRS duration 4. Josephson sign 5. Capture Beats 6. P waves walking through the tachycardia rsR' pattern - RBBB - Aberrancy , not VT ECG - Ventricular tachycardia P waves independent of QRS complexes Fusion and capture beat Josephson sign",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following features given below\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "da5c6163-8a05-4b20-b128-70925645ee5d": {
-    "cop": 1,
-    "exp": "Diploic veins develop after bih and are not visible before 3 years of life. They fully develop only by 15 years of age. Ref: Freyschmidt's \"Koehler/Zimmer\" Borderlands of Normal and Early Pathologic By Jurgen Freyschmidt, Page 370; Atlas of Vascular Anatomy: An Angiographic Approach By Uflacker, 2nd Edition, Page 71; Tutorials in Endovascular Neurosurgery and Interventional Neuroradiology By James Vincent Byrne, Page 59; Atlas of Neuroradiologic Embryology, Anatomy and Variants By J. Randy Jinkins, Page 388"
+    "cop": 0,
+    "exp": "Diploic veins develop after bih and are not visible before 3 years of life. They fully develop only by 15 years of age. Ref: Freyschmidt's \"Koehler/Zimmer\" Borderlands of Normal and Early Pathologic By Jurgen Freyschmidt, Page 370; Atlas of Vascular Anatomy: An Angiographic Approach By Uflacker, 2nd Edition, Page 71; Tutorials in Endovascular Neurosurgery and Interventional Neuroradiology By James Vincent Byrne, Page 59; Atlas of Neuroradiologic Embryology, Anatomy and Variants By J. Randy Jinkins, Page 388",
+    "hint_exp": "🎯 Think of \"Diploic veins\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "62b5f509-bf5c-4e9a-ae88-60825586ee79": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., 45 XTURNER'S SYNDROME o Turner's syndrome is the most common sex chromosomal disorder in phenotypic females.o Turner's syndrome results from complete or paial loss of one X chromosome (45, X) and is characterised by hypogonadism in phenotypic females Features of Turner syndrome in childreno The most severely affected patients generally present during infancy with edema (owing to lymph stasis) of the dorsum of the hand and foot and sometimes swelling of the nape of the neck.Swelling of the neck is related to markedly distended lymphatic channels, producing so called cystic hygroma. o As these infants develop, the swelling subsides but often leave bilateral neck webbing and persistent looseness of skin on the back of the neck.o Congenital hea disease is also common, paicularly preductal coarctation ofAoa and bicuspid Aoic valve.C. VS abnormalities are most impoant cause of moality in children with Turner's syndrome. Features of Turner's syndrome in Adolescents and Adulto At pubey there is failure to develop normal secondary sex characteristics.o The genitalia remains infantile, breast development is inadequate and there is little pubic hair. Nipples are widely spaced.o Turner syndrome is the single most impoant cause of primary amenorrhoea accounting for approximately 1/3 of the cases.o Sho stature (height rarely exceeds 150 cm).o The mental status of these patients is usually normal but subtle defects in nonverbal, visual spatial information processing have been noted (mental retardation is associated with the presence of extra chromosome not with loss of X chromosome).o About 50% of the patients develop autoantibodies directed to the thyroid gland and upto one half of these patients develop hypothyroidism.o Other features include low posterior hairline, webbing of neck, cubitus valgus, streak ovaries. o Glucose intolerance, obesity and insulin resistance are also seen."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., 45 XTURNER'S SYNDROME o Turner's syndrome is the most common sex chromosomal disorder in phenotypic females.o Turner's syndrome results from complete or paial loss of one X chromosome (45, X) and is characterised by hypogonadism in phenotypic females Features of Turner syndrome in childreno The most severely affected patients generally present during infancy with edema (owing to lymph stasis) of the dorsum of the hand and foot and sometimes swelling of the nape of the neck.Swelling of the neck is related to markedly distended lymphatic channels, producing so called cystic hygroma. o As these infants develop, the swelling subsides but often leave bilateral neck webbing and persistent looseness of skin on the back of the neck.o Congenital hea disease is also common, paicularly preductal coarctation ofAoa and bicuspid Aoic valve.C. VS abnormalities are most impoant cause of moality in children with Turner's syndrome. Features of Turner's syndrome in Adolescents and Adulto At pubey there is failure to develop normal secondary sex characteristics.o The genitalia remains infantile, breast development is inadequate and there is little pubic hair. Nipples are widely spaced.o Turner syndrome is the single most impoant cause of primary amenorrhoea accounting for approximately 1/3 of the cases.o Sho stature (height rarely exceeds 150 cm).o The mental status of these patients is usually normal but subtle defects in nonverbal, visual spatial information processing have been noted (mental retardation is associated with the presence of extra chromosome not with loss of X chromosome).o About 50% of the patients develop autoantibodies directed to the thyroid gland and upto one half of these patients develop hypothyroidism.o Other features include low posterior hairline, webbing of neck, cubitus valgus, streak ovaries. o Glucose intolerance, obesity and insulin resistance are also seen.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"nineteen year female with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d1a3c43d-06d0-461c-b382-ffa8edbd26db": {
-    "cop": 2,
-    "exp": "Auditory Hallucination is Pathognomic of Schizophrenia, but not one among the 4 'A's given by Eugene Bleuler.\nGave 4'A's of Schizophrenia\n\nAutistic behaviour: is characterized by irrational thinking and withdrawn behaviour.\nAmbivalence: Inability to take decision\nAssociation loss or Derailment: There is loss of connection between individual throught process the speech of patient is disorganized.\nAffect Disturbance / Affective Flattening: Emotional disturbances."
+    "cop": 1,
+    "exp": "Auditory Hallucination is Pathognomic of Schizophrenia, but not one among the 4 'A's given by Eugene Bleuler.\nGave 4'A's of Schizophrenia\n\nAutistic behaviour: is characterized by irrational thinking and withdrawn behaviour.\nAmbivalence: Inability to take decision\nAssociation loss or Derailment: There is loss of connection between individual throught process the speech of patient is disorganized.\nAffect Disturbance / Affective Flattening: Emotional disturbances.",
+    "hint_exp": "🧩 Your crush solved \"the following symptom\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5d7a643c-70a9-4d94-bb50-e30b78ba44f3": {
-    "cop": 1,
-    "exp": "ANSWER: (A) H bandREF: Ganong's 22nd ed* The area between two adjacent Z lines is called a sarcomereThe thick filaments, which are about twice the diameter of the thin filaments, are made up of myosin; the thin filaments are made up of actin, tropomyosin and troponinThe thick filaments are lined up to form the A bands, whereas the array of thin filaments forms the less dense I bandsThe lighter H bands in the center of the A bands are the regions where, when the muscle is relaxed, the thin filaments do not overlap the thick filamentsThe Z lines transect the fibrils and connect to the thin filaments. If a transverse section through the A band is examined under the electron microscope, each thick filament is seen to be surrounded by six thin filaments in a regular hexagonal pattern."
+    "cop": 0,
+    "exp": "ANSWER: (A) H bandREF: Ganong's 22nd ed* The area between two adjacent Z lines is called a sarcomereThe thick filaments, which are about twice the diameter of the thin filaments, are made up of myosin; the thin filaments are made up of actin, tropomyosin and troponinThe thick filaments are lined up to form the A bands, whereas the array of thin filaments forms the less dense I bandsThe lighter H bands in the center of the A bands are the regions where, when the muscle is relaxed, the thin filaments do not overlap the thick filamentsThe Z lines transect the fibrils and connect to the thin filaments. If a transverse section through the A band is examined under the electron microscope, each thick filament is seen to be surrounded by six thin filaments in a regular hexagonal pattern.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"filament\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "60d442f7-80bf-4932-8f63-6fa1e65cfb5f": {
-    "cop": 2,
-    "exp": "Since xenon has lower blood gas partition coefficient, it attains higher alveolar concentration."
+    "cop": 1,
+    "exp": "Since xenon has lower blood gas partition coefficient, it attains higher alveolar concentration.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"true except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "cd80d974-91bc-4c0b-b708-089cbee00202": {
-    "cop": 3,
-    "exp": "Oximes These are specific antidotes. The available oxigen are Diacetyl monoxime. 2- pyridine Aldoxime Methiodide Pralidoxime chloride Action: Oximes react with phosphate moiety of organophosphate- AchE complex and get phosphorilated. So AchE is released from the complex and thus reactivated. The oximes decreases the muscarinic, nicotine and CNS effects of organophosphates within 10-40 minutes Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 450"
+    "cop": 2,
+    "exp": "Oximes These are specific antidotes. The available oxigen are Diacetyl monoxime. 2- pyridine Aldoxime Methiodide Pralidoxime chloride Action: Oximes react with phosphate moiety of organophosphate- AchE complex and get phosphorilated. So AchE is released from the complex and thus reactivated. The oximes decreases the muscarinic, nicotine and CNS effects of organophosphates within 10-40 minutes Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 450",
+    "hint_exp": "🎯 Think of \"used as specific antidotes in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2829eab9-74f5-4543-96c0-d7ebb155ee2a": {
-    "cop": 3,
-    "exp": "Deposition of calcium in the tissues occurs in 2 forms."
+    "cop": 2,
+    "exp": "Deposition of calcium in the tissues occurs in 2 forms.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Dystrophic calcification seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5cc2be5e-7872-47a1-bc25-2422609d27a9": {
-    "cop": 1,
-    "exp": "NPU (Net protein Utilisation) is the combination of Biological value & Digestibility, which is 100 for egg, compared to 80 for meat and 75 for milk."
+    "cop": 0,
+    "exp": "NPU (Net protein Utilisation) is the combination of Biological value & Digestibility, which is 100 for egg, compared to 80 for meat and 75 for milk.",
+    "hint_exp": "🧩 Your crush solved \"maximum in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "68eef90a-45b2-4c8e-abdf-5ae3f506adcf": {
-    "cop": 1,
-    "exp": "Recommended guideline for the management of Kawasaki disease in the UK # Establish diagnosis (1) Complete Kawasaki disease (any age) (2) Incomplete Kawasaki (<1 year) # Treatment IVIG 2 g/kg as a single infusion over 12 hours Aspirin 30-50 mg/kg/day in 4 divided doses for 2 weeks (7.5 -- 12.5 mg/kg QDS) Echocardiography and ECG Aspirin 2-5 mg/kg/day when fever settled (disease defervescence) continuing for a minimum of 6 weeks The treatment of choice in Kawasaki disease is intravenous immunglobulins REF: Harrison book of internal medicine 21ST EDITION"
+    "cop": 0,
+    "exp": "Recommended guideline for the management of Kawasaki disease in the UK # Establish diagnosis (1) Complete Kawasaki disease (any age) (2) Incomplete Kawasaki (<1 year) # Treatment IVIG 2 g/kg as a single infusion over 12 hours Aspirin 30-50 mg/kg/day in 4 divided doses for 2 weeks (7.5 -- 12.5 mg/kg QDS) Echocardiography and ECG Aspirin 2-5 mg/kg/day when fever settled (disease defervescence) continuing for a minimum of 6 weeks The treatment of choice in Kawasaki disease is intravenous immunglobulins REF: Harrison book of internal medicine 21ST EDITION",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"choice for Kawasaki Disease\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5c81ec48-6ecd-46ab-ba92-74c6b23c5bf1": {
-    "cop": 1,
-    "exp": "A cantilever can be described as a rigid beam supported only at one end. When force is directed against the unsupported end of the beam (as in this rest placed on a cantilevered pontic), the cantilever can act as a first-class lever. The mechanical advantage in this illustration favors the effort arm."
+    "cop": 0,
+    "exp": "A cantilever can be described as a rigid beam supported only at one end. When force is directed against the unsupported end of the beam (as in this rest placed on a cantilevered pontic), the cantilever can act as a first-class lever. The mechanical advantage in this illustration favors the effort arm.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following arrangement rest placed\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "cb67f17e-ad5c-4241-afec-65f1049717d0": {
-    "cop": 4,
-    "exp": "Ans: d (Meckel's diverticulum)Gasless abdomen on X-ray is found in:* Acute pancreatitis* Annular pancreas* Bowel malrotation* Congenital hypertrophic pyloric stenosis* Congenital diaphragmatic hernia* Duodenal atresia* Mesenteric infarction"
+    "cop": 3,
+    "exp": "Ans: d (Meckel's diverticulum)Gasless abdomen on X-ray is found in:* Acute pancreatitis* Annular pancreas* Bowel malrotation* Congenital hypertrophic pyloric stenosis* Congenital diaphragmatic hernia* Duodenal atresia* Mesenteric infarction",
+    "hint_exp": "🎯 Think of \"Gasless abdomen found except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f2713223-3393-4876-8a91-5f739def950d": {
-    "cop": 4,
-    "exp": "Normal left ventricular ejection fraction ranges from 55% to 70%. It is the measurement of how much blood is pumped out of the left ventricle of the hea in each contraction . It is expressed in percentage. If the EF is below normal value, it can be a sign of hea failure"
+    "cop": 3,
+    "exp": "Normal left ventricular ejection fraction ranges from 55% to 70%. It is the measurement of how much blood is pumped out of the left ventricle of the hea in each contraction . It is expressed in percentage. If the EF is below normal value, it can be a sign of hea failure",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"What normal left ventricular\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0cb34466-f258-4358-97b1-07497732c1c2": {
-    "cop": 1,
-    "exp": "Pleiotropism refers to the phenomenon in which a single mutant allele having widespread effects or expression in different tissues or organ systems. Eg is Marfans syndrome caused by a mutation in fibrillin gene causing multiple manifestations. Penetrance refers to the propoion of individuals with a paicular genotype that express the same phenotype. Penetrance is said to be complete when 100% of mutant individuals express the phenotype. Penetrance is incomplete when some mutant individuals do not express the phenotype. Ref: Tsaic A.C., Manchester D.K., Elias E.R. (2012). Chapter 37. Genetics & Dysmorphology. In W.W. Hay, Jr., M.J. Levin, R.R. Deterding, J.J. Ross, J.M. Sondheimer (Eds), CURRENT Diagnosis & Treatment: Pediatrics, 21e."
+    "cop": 0,
+    "exp": "Pleiotropism refers to the phenomenon in which a single mutant allele having widespread effects or expression in different tissues or organ systems. Eg is Marfans syndrome caused by a mutation in fibrillin gene causing multiple manifestations. Penetrance refers to the propoion of individuals with a paicular genotype that express the same phenotype. Penetrance is said to be complete when 100% of mutant individuals express the phenotype. Penetrance is incomplete when some mutant individuals do not express the phenotype. Ref: Tsaic A.C., Manchester D.K., Elias E.R. (2012). Chapter 37. Genetics & Dysmorphology. In W.W. Hay, Jr., M.J. Levin, R.R. Deterding, J.J. Ross, J.M. Sondheimer (Eds), CURRENT Diagnosis & Treatment: Pediatrics, 21e.",
+    "hint_exp": "🧩 Your crush solved \"Single gene defect causing\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "98a96ba1-d7d8-4c86-b19e-1e7563a040bb": {
-    "cop": 3,
-    "exp": "Restricting unnecessary lymph node dissection reduces the surgical morbidity in early vulval cancer. Lymphatic mapping and sentinel node biopsy (frozen section) before or during surgery help in carrying out adequate surgical procedure with good prognosis. Mapping is done by: Intraoperative intradermal injection of blue dye around the tumour. A detection rate of 100% is repoed. Labelling tissues with radioactive tracer and localization with a hand-held detector. Lymphoscintigraphy has also 100% detection rate. Reference: Shaw's Textbook of Gynaecology 16th edition page no 479"
+    "cop": 2,
+    "exp": "Restricting unnecessary lymph node dissection reduces the surgical morbidity in early vulval cancer. Lymphatic mapping and sentinel node biopsy (frozen section) before or during surgery help in carrying out adequate surgical procedure with good prognosis. Mapping is done by: Intraoperative intradermal injection of blue dye around the tumour. A detection rate of 100% is repoed. Labelling tissues with radioactive tracer and localization with a hand-held detector. Lymphoscintigraphy has also 100% detection rate. Reference: Shaw's Textbook of Gynaecology 16th edition page no 479",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Sentinel biopsy most effective\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "716ed545-2e81-477f-b119-5a657cea4ea2": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 90 dB, 4000Hz Auditory effects of noice Auditory fatigue - 90 dB and 4000 Hz. Deafness - 4000 to 6000 Hz Temporary - Repeated prolonged exposure to 100 dB Permanent> Single exposure to - 160 dB (due to rupture of ear drum) This question is a repeat from NEET 2012-13"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 90 dB, 4000Hz Auditory effects of noice Auditory fatigue - 90 dB and 4000 Hz. Deafness - 4000 to 6000 Hz Temporary - Repeated prolonged exposure to 100 dB Permanent> Single exposure to - 160 dB (due to rupture of ear drum) This question is a repeat from NEET 2012-13",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen at\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9e83a8da-d012-4801-a78e-b221c7c765e9": {
-    "cop": 3,
-    "exp": "Causes of mental health disorders:\nOrganic conditions : Cerebral arteriosclerosis, neoplasma, metabolic diseases, endocrine diseases and chronic diseases (TB, leprosy, epilepsy)\nHeredity : Schizophrenia\nSocio-pathological : Worries, anxiety, emotional stress, tension, frustration, unhappy married life, broken homes, poverty, industrialization, urbanization, cruelty, rejection, neglct, etc."
+    "cop": 2,
+    "exp": "Causes of mental health disorders:\nOrganic conditions : Cerebral arteriosclerosis, neoplasma, metabolic diseases, endocrine diseases and chronic diseases (TB, leprosy, epilepsy)\nHeredity : Schizophrenia\nSocio-pathological : Worries, anxiety, emotional stress, tension, frustration, unhappy married life, broken homes, poverty, industrialization, urbanization, cruelty, rejection, neglct, etc.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b5739add-f790-41f4-af09-48b7b54ba271": {
-    "cop": 3,
-    "exp": "Emphysema is a pathological condition of the lungs marked by an abnormal increase in the size of the air spaces, resulting in labored breathing and an increased susceptibility to infection. It can be caused by irreversible expansion of the alveoli or by the destruction of alveolar walls.Ref: Ganong&;s review of medical physiology, 23ed edition page no: 595"
+    "cop": 2,
+    "exp": "Emphysema is a pathological condition of the lungs marked by an abnormal increase in the size of the air spaces, resulting in labored breathing and an increased susceptibility to infection. It can be caused by irreversible expansion of the alveoli or by the destruction of alveolar walls.Ref: Ganong&;s review of medical physiology, 23ed edition page no: 595",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"emphysema may\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d252e2a6-a874-47c1-8b35-333e414e4367": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"rhinorrhea immediate management\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1abc5e82-c1c4-47b0-9a44-6b7e4d0e3807": {
-    "cop": 1,
-    "exp": "Fructose intolerance is due to deficiency of aldolase-B.Incidence out of 1 is 20,000.It is an autosomal recessive inborn error of metabolism.Fructose-1-phosphate cannot be metabolized.Accumulation of fructose -1-phosphate will inhibit glycogen phosphorylase.Ref: DM Vasudevan, 7th edition, page no: 144"
+    "cop": 0,
+    "exp": "Fructose intolerance is due to deficiency of aldolase-B.Incidence out of 1 is 20,000.It is an autosomal recessive inborn error of metabolism.Fructose-1-phosphate cannot be metabolized.Accumulation of fructose -1-phosphate will inhibit glycogen phosphorylase.Ref: DM Vasudevan, 7th edition, page no: 144",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"due to deficiency of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b45478f6-341b-4c55-8513-e8f0df632f56": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"early cases multiple myeloma\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1cda773f-6d9c-45ed-b267-66f1441399bb": {
-    "cop": 1,
-    "exp": "alcohols,long acting barbiturates,chloral hydrate,lithium,salicylates,bromide,inorganic mercury,quinidine,theophylline,and sodium chlorate are effectively removed by peritoneal dialysis hemodialysis is used in methanol,ethylene glycol,chloral hydrate,lithium,trivalent arsenic,acetaminophen,bromides,phenobarbital,salycylates,flourides,sodium chlorate,digitalis,methaqualone,boric acid,and thiocyanates REF:THE SYNOPSIS OF FORENSIC MEDICINE AND TOXICOLOGY:K S NARAYANA REDDY;PAGE NO 289"
+    "cop": 0,
+    "exp": "alcohols,long acting barbiturates,chloral hydrate,lithium,salicylates,bromide,inorganic mercury,quinidine,theophylline,and sodium chlorate are effectively removed by peritoneal dialysis hemodialysis is used in methanol,ethylene glycol,chloral hydrate,lithium,trivalent arsenic,acetaminophen,bromides,phenobarbital,salycylates,flourides,sodium chlorate,digitalis,methaqualone,boric acid,and thiocyanates REF:THE SYNOPSIS OF FORENSIC MEDICINE AND TOXICOLOGY:K S NARAYANA REDDY;PAGE NO 289",
+    "hint_exp": "🎯 Think of \"Hemodialysis absolutely indicated\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7cc81b8e-21c7-4c78-8109-3805f2e1339f": {
-    "cop": 3,
-    "exp": "Chronic poisoning * Also called as hydrargyrism, mercurialism * Excessive salivation (Ptyalism, Sialorrhea) * Metallic taste * Anorexia * Insomnia * Headache * Gingivitis * Halitosis * Blue line on gums * Lassitude * Visual blurring * Concentric constriction of visual field (tunnel vision) * Mercuria lentis - opacities of the anterior capsule of the lens of eye due to deposition of mercury * Ataxia - reeling gait * Tremors - classical manifestation of chronic mercury poisoning and is referred as \"Danbury tremor\". The tremors are coarse, intentional type, interspersed with jerky movements, initially involving hands. Later it involves lip, tongue, arms and legs. The advanced condition of tremors is called as \"Hatter's shakes\" (because the condition was first described among felt hat workers). In Hatter's shakes, the tremor becomes so severe that daily activities of person are grossly impaired such as shaving, writing, holding cup etc. As the disease progresses, the most severe form of tremor are called as \"Concussio mercurialis\" which means no activity is possible * Mercurial erethism - a classical manifestation of chronic mercury poisoning characterized by cluster of psychiatric symptoms including disturbance inpersonality, abnormal shyness, timidity, loss of self confidence, insomnia, excitability, progressing later into delirium with hallucinations (Mad as hatter). * Colitis * Melanosis coli * Mercury dermatitis - from mercuric sulphide (cinnabar) as red areas of tattoo has been repoed. * Dementia * Renal failure * Acrodynia (Pink disease):-Seen mostly in children and caused by chronic mercury exposure. It causes anorexia, insomnia, profuse sweating, skin rash, redness, vesication and desquamation (peeling) of palm, finger, sole and photophobia.The hands and feet becomes - puffy, pinkish, painful, paraesthetic, perspiring and peeling (remember 6 P's) * Shedding of teeth and ulceration of gums. REF;THE SYNOPSIS OF FORENSIC MEDICINE:KS NARAYANA REDDY;28th EDITION;PAGE NO 307"
+    "cop": 2,
+    "exp": "Chronic poisoning * Also called as hydrargyrism, mercurialism * Excessive salivation (Ptyalism, Sialorrhea) * Metallic taste * Anorexia * Insomnia * Headache * Gingivitis * Halitosis * Blue line on gums * Lassitude * Visual blurring * Concentric constriction of visual field (tunnel vision) * Mercuria lentis - opacities of the anterior capsule of the lens of eye due to deposition of mercury * Ataxia - reeling gait * Tremors - classical manifestation of chronic mercury poisoning and is referred as \"Danbury tremor\". The tremors are coarse, intentional type, interspersed with jerky movements, initially involving hands. Later it involves lip, tongue, arms and legs. The advanced condition of tremors is called as \"Hatter's shakes\" (because the condition was first described among felt hat workers). In Hatter's shakes, the tremor becomes so severe that daily activities of person are grossly impaired such as shaving, writing, holding cup etc. As the disease progresses, the most severe form of tremor are called as \"Concussio mercurialis\" which means no activity is possible * Mercurial erethism - a classical manifestation of chronic mercury poisoning characterized by cluster of psychiatric symptoms including disturbance inpersonality, abnormal shyness, timidity, loss of self confidence, insomnia, excitability, progressing later into delirium with hallucinations (Mad as hatter). * Colitis * Melanosis coli * Mercury dermatitis - from mercuric sulphide (cinnabar) as red areas of tattoo has been repoed. * Dementia * Renal failure * Acrodynia (Pink disease):-Seen mostly in children and caused by chronic mercury exposure. It causes anorexia, insomnia, profuse sweating, skin rash, redness, vesication and desquamation (peeling) of palm, finger, sole and photophobia.The hands and feet becomes - puffy, pinkish, painful, paraesthetic, perspiring and peeling (remember 6 P's) * Shedding of teeth and ulceration of gums. REF;THE SYNOPSIS OF FORENSIC MEDICINE:KS NARAYANA REDDY;28th EDITION;PAGE NO 307",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following heavy metal\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5858f0a6-abb5-4586-b6f6-92e0499495b3": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"following ovarian tumours usually\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8855a692-cca1-4cfc-a827-4850363eaba7": {
-    "cop": 2,
-    "exp": "Extensors of 3rd and 4th fingers are supplied by radial nerve."
+    "cop": 1,
+    "exp": "Extensors of 3rd and 4th fingers are supplied by radial nerve.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"presents with injury medial\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e9157ba5-bbea-411c-9927-cfde7da2af16": {
-    "cop": 4,
-    "exp": "An association has been noted between salicylate therapy and 'Reye's syndrome', a rare form of hepatic encephalopathy seen in children having viral (varicella, influenza) infection. Ref:- kd tripathi; pg num:-197"
+    "cop": 3,
+    "exp": "An association has been noted between salicylate therapy and 'Reye's syndrome', a rare form of hepatic encephalopathy seen in children having viral (varicella, influenza) infection. Ref:- kd tripathi; pg num:-197",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of increased risk of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0280f5c4-60e9-4938-8df1-87a1cd57bb06": {
-    "cop": 2,
-    "exp": "Ans. is 'b i.e., Major regulating factor is parathormone Calcium excretion by kidney Calcium is both filtered and reabsorbed in kidneys but not secreted. Thus renal excretion of kidney is - Renal calcium excretion = Filtered calcium - Calcium reabsorbed Normally, 99% of filtered calcium is reabsorbed in kidney. 1) PCT : Maximum calcium is reabsorbed in PCT. About 65% of filtered calcium is absorbed here. 2) Loop of Henle : About 25-30% of calcium is reabsorbed in loop of Henle (only from thick ascending limb). 3) DCT and collecting tubules : About 4-9% of calcium is reabsorbed in DCT and collecting tubules. Primary controller of renal tubular reabsroption is parathormone. It increases calcium reabsorption in Loop of Henle (thick ascending limb) and distal tubules. Vitamin D (calcitriol) and calcitonin also stimulate calcium absorption in thick ascending limb of loop of Henle and distal tubule, although these hormones are not as impoant quantitatively as PTH in reducing renal excretion."
+    "cop": 1,
+    "exp": "Ans. is 'b i.e., Major regulating factor is parathormone Calcium excretion by kidney Calcium is both filtered and reabsorbed in kidneys but not secreted. Thus renal excretion of kidney is - Renal calcium excretion = Filtered calcium - Calcium reabsorbed Normally, 99% of filtered calcium is reabsorbed in kidney. 1) PCT : Maximum calcium is reabsorbed in PCT. About 65% of filtered calcium is absorbed here. 2) Loop of Henle : About 25-30% of calcium is reabsorbed in loop of Henle (only from thick ascending limb). 3) DCT and collecting tubules : About 4-9% of calcium is reabsorbed in DCT and collecting tubules. Primary controller of renal tubular reabsroption is parathormone. It increases calcium reabsorption in Loop of Henle (thick ascending limb) and distal tubules. Vitamin D (calcitriol) and calcitonin also stimulate calcium absorption in thick ascending limb of loop of Henle and distal tubule, although these hormones are not as impoant quantitatively as PTH in reducing renal excretion.",
+    "hint_exp": "🎯 Think of \"kidney\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "742bc25f-1d53-45cc-ac3e-978568038cab": {
-    "cop": 3,
-    "exp": "→ Orofacial infections may be odontogenic or non-odontogenic in nature.\n→ Majory of odontogenic infections are caused by the endogenous bacteria present in the oral cavity. Eg: Periapical and periodontal infections.\n→ Most of non-odontogenic infections are associated with an underlying medical condition Eg: Non-odontogenic infections of the skin, tonsils, or maxillary sinuses.\n→ Occasionally, infections could develop following an anesthetic injection or a surgical procedure."
+    "cop": 2,
+    "exp": "→ Orofacial infections may be odontogenic or non-odontogenic in nature.\n→ Majory of odontogenic infections are caused by the endogenous bacteria present in the oral cavity. Eg: Periapical and periodontal infections.\n→ Most of non-odontogenic infections are associated with an underlying medical condition Eg: Non-odontogenic infections of the skin, tonsils, or maxillary sinuses.\n→ Occasionally, infections could develop following an anesthetic injection or a surgical procedure.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d1c273a5-bc9c-44b0-bee2-6aa5ff1f0165": {
-    "cop": 3,
-    "exp": "Trisomy 21 may arise fromNon-disjunction of chromosome 21:Most common mode (95%)Risk of recurrence is 1 %Invasive prenatal diagnosis is indicatedPaternal chromosome study not neededTranslocation (or mosaicism)Paternal chromosome study is indicatedRisk of recurrence is highRef: Harrison's 18/e p510, 511, Williams 21/e p944, Ghai 5/e p478, 479"
+    "cop": 2,
+    "exp": "Trisomy 21 may arise fromNon-disjunction of chromosome 21:Most common mode (95%)Risk of recurrence is 1 %Invasive prenatal diagnosis is indicatedPaternal chromosome study not neededTranslocation (or mosaicism)Paternal chromosome study is indicatedRisk of recurrence is highRef: Harrison's 18/e p510, 511, Williams 21/e p944, Ghai 5/e p478, 479",
+    "hint_exp": "🧩 Your crush solved \"Annadurai have month baby\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2820f732-df2e-4a9c-a17d-9a9b950ce99d": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Kimmelstiel Wilson disease\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1142f548-3969-4fb8-82b5-bf646376bbfa": {
-    "cop": 1,
-    "exp": "The main chemoreceptors involved in respiratory feedback are: Central chemoreceptors: These are located on the ventrolateral surface of medulla oblongata and detect changes in the pH of spinal fluid. Ref: guyton and hall textbook of medical physiology 12 edition page number:371,372,373"
+    "cop": 0,
+    "exp": "The main chemoreceptors involved in respiratory feedback are: Central chemoreceptors: These are located on the ventrolateral surface of medulla oblongata and detect changes in the pH of spinal fluid. Ref: guyton and hall textbook of medical physiology 12 edition page number:371,372,373",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"primary direct stimulus excitation\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "079a66af-9f43-42ed-96f1-dca1f4dece14": {
-    "cop": 4,
-    "exp": "Answer is D (Trimetazidine) Trimetazidine is not used in the management of congestive hea failure. Trimetazidine is a novel anti-ischemic agent used for the treatment of coronary conditions like angina. Although it's exact mechanism of action is not known, it is believed to act by improving cellular tolerance to ischemia unlike other conventional antianginal agents. Spironoloactone, Nitrates and Nesritide may all be used in the managed of congestive Hea Failure Nestritide and nitrates are vasodilatory that help CHF by lowering left ventricular tilling pressures (by decreasing preload) Spironolactone is an aldosterone antagonist that helps in CHF by antagonizone tha effects of aldosterone. Drugs Used in Hea Failure Drugs which help in relieving congestive / low output symptoms and restoring cardiac performance * Diuretics - Furosemide Torsemide / Bumetanide / Hydrochlohiaizide / Metazolone * Vasodilators - Nitrates - Nisoprusside - Nesiritide * Inotropes - Digoxin - Dopamine / Dobutamine - Mitrinone - Levasimendan * Vasoconstrictors (to maintain blood pressure) - Dopamine for Hypotension - Epinephrine / Phenylephrine - Vasopressin Drugs which help in arresting / reversing disease progression and prolonging survival ACE Inhibitors - Captopril / Enalapril / Lisinopril / Ramipril etc Angiotension Receptor Blockers - Losaan / Valsaan / Irbesaan etc Beta Blockers - Carvedilol / Bisoprolol / Metoprolol Aldosterone Antagonist - Spironolactone"
+    "cop": 3,
+    "exp": "Answer is D (Trimetazidine) Trimetazidine is not used in the management of congestive hea failure. Trimetazidine is a novel anti-ischemic agent used for the treatment of coronary conditions like angina. Although it's exact mechanism of action is not known, it is believed to act by improving cellular tolerance to ischemia unlike other conventional antianginal agents. Spironoloactone, Nitrates and Nesritide may all be used in the managed of congestive Hea Failure Nestritide and nitrates are vasodilatory that help CHF by lowering left ventricular tilling pressures (by decreasing preload) Spironolactone is an aldosterone antagonist that helps in CHF by antagonizone tha effects of aldosterone. Drugs Used in Hea Failure Drugs which help in relieving congestive / low output symptoms and restoring cardiac performance * Diuretics - Furosemide Torsemide / Bumetanide / Hydrochlohiaizide / Metazolone * Vasodilators - Nitrates - Nisoprusside - Nesiritide * Inotropes - Digoxin - Dopamine / Dobutamine - Mitrinone - Levasimendan * Vasoconstrictors (to maintain blood pressure) - Dopamine for Hypotension - Epinephrine / Phenylephrine - Vasopressin Drugs which help in arresting / reversing disease progression and prolonging survival ACE Inhibitors - Captopril / Enalapril / Lisinopril / Ramipril etc Angiotension Receptor Blockers - Losaan / Valsaan / Irbesaan etc Beta Blockers - Carvedilol / Bisoprolol / Metoprolol Aldosterone Antagonist - Spironolactone",
+    "hint_exp": "🎯 Think of \"following medications used congestive\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0e4693c6-eeb0-49fe-a498-b6682a9f2d52": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"that endotoxins\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f8b3eba6-4e9f-44bc-8627-bce33c68196a": {
-    "cop": 3,
-    "exp": "."
+    "cop": 2,
+    "exp": ".",
+    "hint_exp": "🧩 Your crush solved \"Drug choice intraoperative right\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0c62d424-14ad-454c-bb66-f58dee48a5da": {
-    "cop": 3,
-    "exp": "As the name suggests , mycotic abcesses are caused by fungal infections . However mucous aneurysm is caused due to bacterial infection of aerial wall . The infection weakens the wall and causes aneurysm ."
+    "cop": 2,
+    "exp": "As the name suggests , mycotic abcesses are caused by fungal infections . However mucous aneurysm is caused due to bacterial infection of aerial wall . The infection weakens the wall and causes aneurysm .",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"due to\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8c0aeede-68eb-4400-bec1-bbc383744c1b": {
-    "cop": 1,
-    "exp": "This is a tricky question. Option a, b and c have sulphur. But, only cysteine contains SH group. EXTRA EDGE:- Sulphur containing amino acids: Cysteine Methionine Homocysteine Taurine Sulfhydryl/thiol group-containing amino acids: Cysteine Homocysteine Sulfhydryl/thiol group-containing proteinogenic amino acids: Cysteine"
+    "cop": 0,
+    "exp": "This is a tricky question. Option a, b and c have sulphur. But, only cysteine contains SH group. EXTRA EDGE:- Sulphur containing amino acids: Cysteine Methionine Homocysteine Taurine Sulfhydryl/thiol group-containing amino acids: Cysteine Homocysteine Sulfhydryl/thiol group-containing proteinogenic amino acids: Cysteine",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"present in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8f5b5bec-6266-4577-90a9-2139a34d30d6": {
-    "cop": 1,
-    "exp": "Psammoma Bodies are concentric lamellated calcified structures, said to represent a process of dystrophic calcification. Seen inPapillary carcinoma thyroidPapillary carcinoma (RCC) Serous cystadenoma Meningioma"
+    "cop": 0,
+    "exp": "Psammoma Bodies are concentric lamellated calcified structures, said to represent a process of dystrophic calcification. Seen inPapillary carcinoma thyroidPapillary carcinoma (RCC) Serous cystadenoma Meningioma",
+    "hint_exp": "🎯 Think of \"Psammoma bodies seen following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2c2a7c9d-65e8-403b-a495-7e0973b58afb": {
-    "cop": 3,
-    "exp": "The bronchopulmonary segments are not drained by independent branch of pulmonary vein. The tributaries of the pulmonary vein tend to pass intersegmentally between and around the margins of segments. A bronchopulmonary segment is the area of lung supplied by a segmental bronchus and its accompanying pulmonary aery branch (Option B) and can be resected surgically (Option A). It is the largest division of a lobe. Ref: Gray&;s Anatomy 41st edition Pgno: 960"
+    "cop": 2,
+    "exp": "The bronchopulmonary segments are not drained by independent branch of pulmonary vein. The tributaries of the pulmonary vein tend to pass intersegmentally between and around the margins of segments. A bronchopulmonary segment is the area of lung supplied by a segmental bronchus and its accompanying pulmonary aery branch (Option B) and can be resected surgically (Option A). It is the largest division of a lobe. Ref: Gray&;s Anatomy 41st edition Pgno: 960",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "252ec918-03da-4f57-96c3-9c1f7fc67676": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Cytokeratin o Squamous cell carcinoma is most commonly found in men and is closely correlated with a smoking history. o Histologically, it is characterized by keratinization and intracellular bridges. o Cytokeratin is a marker for keratinizing cells."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Cytokeratin o Squamous cell carcinoma is most commonly found in men and is closely correlated with a smoking history. o Histologically, it is characterized by keratinization and intracellular bridges. o Cytokeratin is a marker for keratinizing cells.",
+    "hint_exp": "🧩 Your crush solved \"the possible marker\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f9f1c0a0-a0c4-4ffb-ab92-ad97081a8349": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"patient with adduction medial\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e9536b39-aed5-4a16-8699-efff723b2f15": {
-    "cop": 3,
-    "exp": "Bronchogenic cysts \n\nBronchogenic cyst is a congenital lung defect, which develops from abnormal lung budding of primitive foregut.\nMost of the bronchogenic cyst arises in the mediastinum, where they are usually located in the mid mediastinum near carina. \nAbout 15% of Bronchogenic cyst also occurs in pulmonary parenchyma.\nWhen located in the lung they are more common in right lung and lower lobe.\nThey are lined by cuboidal or ciliated columnar epithelial cells and are usually filled with mucoid material."
+    "cop": 2,
+    "exp": "Bronchogenic cysts \n\nBronchogenic cyst is a congenital lung defect, which develops from abnormal lung budding of primitive foregut.\nMost of the bronchogenic cyst arises in the mediastinum, where they are usually located in the mid mediastinum near carina. \nAbout 15% of Bronchogenic cyst also occurs in pulmonary parenchyma.\nWhen located in the lung they are more common in right lung and lower lobe.\nThey are lined by cuboidal or ciliated columnar epithelial cells and are usually filled with mucoid material.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Bronchogenic cysts occur commonly\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6a050377-c0c6-45e0-818f-34491239f40e": {
-    "cop": 4,
-    "exp": "Primary pericarditis is uncommon . It most often is due to viral infections although bacteria, fungi, or parasite may also be involved . In most cases , pericarditis is secondary to acute MI , cardiac surgery, radiation to the mediastinum or processes involving other thoracic structure. Uremia is the most common systemic disorder associated with pericarditis. Less common secondary cause include rheumatic fever, SLE and metastatic malignancies Robbins 9 th edition page no. 403"
+    "cop": 3,
+    "exp": "Primary pericarditis is uncommon . It most often is due to viral infections although bacteria, fungi, or parasite may also be involved . In most cases , pericarditis is secondary to acute MI , cardiac surgery, radiation to the mediastinum or processes involving other thoracic structure. Uremia is the most common systemic disorder associated with pericarditis. Less common secondary cause include rheumatic fever, SLE and metastatic malignancies Robbins 9 th edition page no. 403",
+    "hint_exp": "🎯 Think of \"of constrictive pericarditis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8ce106fb-1ef3-452e-aa68-cf8e93ec6de4": {
-    "cop": 2,
-    "exp": "Crizotinib inhibits anaplastic lymphoma kinase (ALK), hence used in ALK mutation positive non small cell carcinoma of lungs."
+    "cop": 1,
+    "exp": "Crizotinib inhibits anaplastic lymphoma kinase (ALK), hence used in ALK mutation positive non small cell carcinoma of lungs.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Crizotinib used treatment\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5b489ff3-1e21-4244-b4d0-00386550d097": {
-    "cop": 1,
-    "exp": "Ans. A. Primary structurePrimary structureIt is the linear sequence of amino acid held together by peptide bonds in its peptide chains. Bond involved in primary structure is Peptide Bond, a type of covalent bond.Secondary StructureConfigurational relationship between residues which are about 3-4 amino Acids apart in linear sequence.The folding of short (3- to 30-residue), contiguous segments of polypeptide into geometrically ordered unitsTertiary structureThe entire three-dimensional conformation of a polypeptide is referred to as tertiary structure.Quaternary structureIf more than one polypeptides aggregate to form one functional protein, the spatial relationship between the polypeptide subunits is referred to as Quaternary structure."
+    "cop": 0,
+    "exp": "Ans. A. Primary structurePrimary structureIt is the linear sequence of amino acid held together by peptide bonds in its peptide chains. Bond involved in primary structure is Peptide Bond, a type of covalent bond.Secondary StructureConfigurational relationship between residues which are about 3-4 amino Acids apart in linear sequence.The folding of short (3- to 30-residue), contiguous segments of polypeptide into geometrically ordered unitsTertiary structureThe entire three-dimensional conformation of a polypeptide is referred to as tertiary structure.Quaternary structureIf more than one polypeptides aggregate to form one functional protein, the spatial relationship between the polypeptide subunits is referred to as Quaternary structure.",
+    "hint_exp": "🧩 Your crush solved \"amino acid\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

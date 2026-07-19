@@ -1,202 +1,252 @@
 {
   "57507999-1098-4825-a7d0-147a3cefdfeb": {
-    "cop": 1,
-    "exp": "Aetiology of contact ulcers is mutli factorial but the most impoant cause is: Voice abuse (faulty production of voice rather than excess use)."
+    "cop": 0,
+    "exp": "Aetiology of contact ulcers is mutli factorial but the most impoant cause is: Voice abuse (faulty production of voice rather than excess use).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"contact ulcer in vocal cords\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "db425fa8-6b74-4c71-867a-dee1278f0d6c": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Extracellular fluid includes except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1ad428ed-4dd6-4375-bb45-eca3a63142a0": {
-    "cop": 2,
-    "exp": "ANSWER: (B) Normal or contractedREF: Sabiston Textbook of Surgery, 18th ed chapter 71Hirschsprung's disease occurs in 1 out of every 5000 live births and is characterized pathologically by absent ganglion cells in the myenteric (Auerbach's) and submucosal (Meissners) plexus. This neurogenic abnormality is associated with muscular spasm of the distal colon and internal anal sphincter resulting in a functional obstruction. Hence, the abnormal bowel is the contracted, distal segment, whereas the normal bowel is the proximal, dilated portion. The area between the dilated and contracted segments is referred to as the transition zone."
+    "cop": 1,
+    "exp": "ANSWER: (B) Normal or contractedREF: Sabiston Textbook of Surgery, 18th ed chapter 71Hirschsprung's disease occurs in 1 out of every 5000 live births and is characterized pathologically by absent ganglion cells in the myenteric (Auerbach's) and submucosal (Meissners) plexus. This neurogenic abnormality is associated with muscular spasm of the distal colon and internal anal sphincter resulting in a functional obstruction. Hence, the abnormal bowel is the contracted, distal segment, whereas the normal bowel is the proximal, dilated portion. The area between the dilated and contracted segments is referred to as the transition zone.",
+    "hint_exp": "🎯 Think of \"hirschsprung disease aganglionic segment\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "99a8748b-7e49-49ad-9f19-b957a84d0eb7": {
-    "cop": 2,
-    "exp": "B i.e. Neurotoxic Ophistoxemia is poisoning by snake venomQ. Belly scales are large and cover the entire breadth of the belly in poisonous snakes. - Viper venom is vasculotoxicQ (Mnemonic V2) and contains hemolysin, cytolysis & thromboplastinQ, which lit coagulation abnormalities. Elapid (ie Cobra, Krait) venom is mainly neurotoxic and rich in cholinesterase & cardiotoxins. Sea snake (Hydrophidae) venom is myotoxic. - Polyvalent Snake Antivenin (PAV) is prepared by hyperimmunizing horse against the 4 common poisonous snakes ie Cobra (Naja Naja), common Krait (Bungarus caerulus), Russel's viper (Daboia russel) and Saw scaled viper (Echis carinata)Q. - Indications for anti venom therapy after snake bite. 1. Rapidly progressive & severe local findingsQ as soft tissue swelling, ecchymosis, petechiae etc. 2. Manifestations of systemic toxicityQ as signs & symptoms of laboratory anormalities."
+    "cop": 1,
+    "exp": "B i.e. Neurotoxic Ophistoxemia is poisoning by snake venomQ. Belly scales are large and cover the entire breadth of the belly in poisonous snakes. - Viper venom is vasculotoxicQ (Mnemonic V2) and contains hemolysin, cytolysis & thromboplastinQ, which lit coagulation abnormalities. Elapid (ie Cobra, Krait) venom is mainly neurotoxic and rich in cholinesterase & cardiotoxins. Sea snake (Hydrophidae) venom is myotoxic. - Polyvalent Snake Antivenin (PAV) is prepared by hyperimmunizing horse against the 4 common poisonous snakes ie Cobra (Naja Naja), common Krait (Bungarus caerulus), Russel's viper (Daboia russel) and Saw scaled viper (Echis carinata)Q. - Indications for anti venom therapy after snake bite. 1. Rapidly progressive & severe local findingsQ as soft tissue swelling, ecchymosis, petechiae etc. 2. Manifestations of systemic toxicityQ as signs & symptoms of laboratory anormalities.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Krait poisoning\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a8fda443-4597-4781-bcd1-404f0d3a5ff3": {
-    "cop": 1,
-    "exp": "Pancreatic Hypersecretion REF: Bailey & love 25th edition page 229, Sabiston Textbook of Surgery, 18th ed chapter 48 \"Extensive Ileal resection causes Gastric Hypersecretion, not pancreatic hypersecretion\" Complications of sho bowel syndrome include peptic ulceration related to gastric hypersecretion, cholelithiasis because of interruption of the enterohepatic cycle of bile salts, and hyperoxaluria as a result of the increased absorption of oxalate in the colon predisposing to renal stones. Some patients with sho bowel syndrome develop a syndrome of slurred speech, ataxia and altered affect. The cause of this syndrome is fermentation of malabsorbed carbohydrates in the colon to D-lactate and absorption of this metabolite. If the distal two thirds of the ileum, including the ileocecal valve, is resected, significant abnormalities of absorption of bile salts and vitamin B12 may occur, resulting in diarrhea and anemia. Treatment necessitates the use of a low carbohydrate diet. Regular parenteral vitamin B12 is required."
+    "cop": 0,
+    "exp": "Pancreatic Hypersecretion REF: Bailey & love 25th edition page 229, Sabiston Textbook of Surgery, 18th ed chapter 48 \"Extensive Ileal resection causes Gastric Hypersecretion, not pancreatic hypersecretion\" Complications of sho bowel syndrome include peptic ulceration related to gastric hypersecretion, cholelithiasis because of interruption of the enterohepatic cycle of bile salts, and hyperoxaluria as a result of the increased absorption of oxalate in the colon predisposing to renal stones. Some patients with sho bowel syndrome develop a syndrome of slurred speech, ataxia and altered affect. The cause of this syndrome is fermentation of malabsorbed carbohydrates in the colon to D-lactate and absorption of this metabolite. If the distal two thirds of the ileum, including the ileocecal valve, is resected, significant abnormalities of absorption of bile salts and vitamin B12 may occur, resulting in diarrhea and anemia. Treatment necessitates the use of a low carbohydrate diet. Regular parenteral vitamin B12 is required.",
+    "hint_exp": "🧩 Your crush solved \"Extensive Ileal resection cause\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "71626ab6-d752-41a0-9ca6-cb8224a0a7cf": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f2a4579d-4866-40e5-a0c2-3028bb92a2be": {
-    "cop": 2,
-    "exp": "FRUITS VITAMIN C CONTENT mg/ 100 g Amla 600 Guava 212 Lime 63 Orange 30 Tomato 27 Ref: Park 21st Edition, Page 573."
+    "cop": 1,
+    "exp": "FRUITS VITAMIN C CONTENT mg/ 100 g Amla 600 Guava 212 Lime 63 Orange 30 Tomato 27 Ref: Park 21st Edition, Page 573.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following highest amount\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d64a3b65-06d0-43ab-a386-b212e40ffb64": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 16 years"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 16 years",
+    "hint_exp": "🎯 Think of \"Rhinoplasty usually done years\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "54efae86-b92b-45c2-a48f-5855401307c0": {
-    "cop": 1,
-    "exp": "Esophageal rings : distal rings are usually associated with episodic solid food dysphagia and are called Schatzki rings. Patients typically present older than 40 years, consistent with an acquired rather than congenital origin. Schatzki ring causes intermittent food impaction, also known as steakhouse syndrome. Symptomatic rings are treated by dilatation. Reference: Harrisons Principles of Internal Medicine, 18th Edition"
+    "cop": 0,
+    "exp": "Esophageal rings : distal rings are usually associated with episodic solid food dysphagia and are called Schatzki rings. Patients typically present older than 40 years, consistent with an acquired rather than congenital origin. Schatzki ring causes intermittent food impaction, also known as steakhouse syndrome. Symptomatic rings are treated by dilatation. Reference: Harrisons Principles of Internal Medicine, 18th Edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following anomaly\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "12e8f9de-4106-48d7-b554-8cb4e9a5c6c3": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Local anaesthetic used antiarrhythmic\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e4c305fb-e63b-4368-822a-45018fa6e670": {
-    "cop": 3,
-    "exp": "Reference :Robbins basic pathology 9th edition page no 104:the antigen presenting cells are Dendritic cells, B cells, Langerhans cells"
+    "cop": 2,
+    "exp": "Reference :Robbins basic pathology 9th edition page no 104:the antigen presenting cells are Dendritic cells, B cells, Langerhans cells",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"antigen presenting cells except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ccbde92b-5824-43eb-8c04-4497fde21c69": {
-    "cop": 1,
-    "exp": "."
+    "cop": 0,
+    "exp": ".",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"side side movement neck\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4d8507e9-02bf-4302-9223-45ce3ee972b1": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"seen in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b2593cba-e1ad-4116-8a6f-c93f72226abd": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"GABA transmission facilitated\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "654dd151-c2f2-4b44-837c-7ac9061c2205": {
-    "cop": 4,
-    "exp": ".both legs+genitalia = 2 x 18 + 1 = 37 each upper extremity 9% of TBSA each lower extremity 18% of TBSA anterior or posterior trunk 18% of TBSA head and neck for 9% perineum for 1% Ref. SRB 5th ed.pg 129"
+    "cop": 3,
+    "exp": ".both legs+genitalia = 2 x 18 + 1 = 37 each upper extremity 9% of TBSA each lower extremity 18% of TBSA anterior or posterior trunk 18% of TBSA head and neck for 9% perineum for 1% Ref. SRB 5th ed.pg 129",
+    "hint_exp": "🧩 Your crush solved \"adult whose both lower\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "afc5e31b-cd4b-43a4-98b9-661a3764855b": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Bone marrow Multiple myeloma Multiple myeloma is a plasma cell neoplasm characterized by involvement of the skeleton at multiple sites.Plasma cells proliferate abnormally and the proliferated plasma cells infiltrate various organs, paicularly bone marrow, but can also spread to lymph nodes and extranodal sites like skin.The proliferation and survival of myeloma cells are dependent on several cytokines, IL-6 is paicularly impoant.The neoplastic plasma cells secrete abnormally large amounts of immunoglobulin.The immunoglobulin secreted by neoplastic plasma cells are quiet different form the immunoglobulin normally present in the blood.The normal immunoglobulin consists of two heavy and two lights chains molecules and the production of both chain is tightly balanced. The immunoglobulin secreted in this condition may be :-Isolated light chain or heavy chain.May be an intact antibody molecule of any heavy chain subclass.May be an altered antibody or fragment."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Bone marrow Multiple myeloma Multiple myeloma is a plasma cell neoplasm characterized by involvement of the skeleton at multiple sites.Plasma cells proliferate abnormally and the proliferated plasma cells infiltrate various organs, paicularly bone marrow, but can also spread to lymph nodes and extranodal sites like skin.The proliferation and survival of myeloma cells are dependent on several cytokines, IL-6 is paicularly impoant.The neoplastic plasma cells secrete abnormally large amounts of immunoglobulin.The immunoglobulin secreted by neoplastic plasma cells are quiet different form the immunoglobulin normally present in the blood.The normal immunoglobulin consists of two heavy and two lights chains molecules and the production of both chain is tightly balanced. The immunoglobulin secreted in this condition may be :-Isolated light chain or heavy chain.May be an intact antibody molecule of any heavy chain subclass.May be an altered antibody or fragment.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Multiple myeloma most common\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a567a903-7170-4880-a92f-c01a9e9180fc": {
-    "cop": 1,
-    "exp": "Osteosarcoma An osteosarcoma (OS) or osteogenic sarcoma (OGS) (or simply bone cancer) is a cancerous tumor in a bone. Specifically, it is an aggressive malignant neoplasm that arises from primitive transformed cells of mesenchymal origin (and thus a sarcoma) and that exhibits osteoblastic differentiation and produces malignant osteoid. Treatment A complete radical, surgical, en bloc resection of the cancer, is the treatment of choice in osteosarcoma. Although about 90% of patients are able to have limb-salvage surgery, complications, paicularly infection, prosthetic loosening and non-union, or local tumor recurrence may cause the need for fuher surgery or amputation. Mifamuide is used after a patient has had surgery to remove the tumor and together with chemotherapy to kill remaining cancer cells to reduce the risk of cancer recurrence. Also, the option to have rotationplasty after the tumor is taken out exists. Patients with osteosarcoma are best managed by a medical oncologist and an ohopedic oncologist experienced in managing sarcomas. Current standard treatment is to use neoadjuvant chemotherapy (chemotherapy given before surgery) followed by surgical resection. The percentage of tumor cell necrosis (cell death) seen in the tumor after surgery gives an idea of the prognosis and also lets the oncologist know if the chemotherapy regimen should be altered after surgery. Standard therapy is a combination of limb-salvage ohopedic surgery when possible (or amputation in some cases) and a combination of high-dose methotrexate with leucovorin rescue, intra-aerial cisplatin, adriamycin, ifosfamide with mesna, BCD (bleomycin, cyclophosphamide, dactinomycin), etoposide, and muramyl tripeptide. Rotationplasty may be used. Ifosfamide can be used as an adjuvant treatment if the necrosis rate is low. Despite the success of chemotherapy for osteosarcoma, it has one of the lowest survival rates for pediatric cancer. The best repoed 10-year survival rate is 92%; the protocol used is an aggressive intra-aerial regimen that individualizes therapy based on aeriographic response. Three-year event-free survival ranges from 50% to 75%, and five-year survival ranges from 60% to 85+% in some studies. Overall, 65-70% patients treated five years ago will be alive today. These survival rates are overall averages and vary greatly depending on the individual necrosis rate. Filgrastim or pegfilgrastim help with white blood cell counts and neutrophil counts. Blood transfusions and epoetin alfa help with anemia. Computational analysis on a panel of Osteosarcoma cell lines identified new shared and specific therapeutic targets (proteomic and genetic) in Osteosarcoma, while phenotypes showed an increased role of tumor microenvironments Ref : Internet sources"
+    "cop": 0,
+    "exp": "Osteosarcoma An osteosarcoma (OS) or osteogenic sarcoma (OGS) (or simply bone cancer) is a cancerous tumor in a bone. Specifically, it is an aggressive malignant neoplasm that arises from primitive transformed cells of mesenchymal origin (and thus a sarcoma) and that exhibits osteoblastic differentiation and produces malignant osteoid. Treatment A complete radical, surgical, en bloc resection of the cancer, is the treatment of choice in osteosarcoma. Although about 90% of patients are able to have limb-salvage surgery, complications, paicularly infection, prosthetic loosening and non-union, or local tumor recurrence may cause the need for fuher surgery or amputation. Mifamuide is used after a patient has had surgery to remove the tumor and together with chemotherapy to kill remaining cancer cells to reduce the risk of cancer recurrence. Also, the option to have rotationplasty after the tumor is taken out exists. Patients with osteosarcoma are best managed by a medical oncologist and an ohopedic oncologist experienced in managing sarcomas. Current standard treatment is to use neoadjuvant chemotherapy (chemotherapy given before surgery) followed by surgical resection. The percentage of tumor cell necrosis (cell death) seen in the tumor after surgery gives an idea of the prognosis and also lets the oncologist know if the chemotherapy regimen should be altered after surgery. Standard therapy is a combination of limb-salvage ohopedic surgery when possible (or amputation in some cases) and a combination of high-dose methotrexate with leucovorin rescue, intra-aerial cisplatin, adriamycin, ifosfamide with mesna, BCD (bleomycin, cyclophosphamide, dactinomycin), etoposide, and muramyl tripeptide. Rotationplasty may be used. Ifosfamide can be used as an adjuvant treatment if the necrosis rate is low. Despite the success of chemotherapy for osteosarcoma, it has one of the lowest survival rates for pediatric cancer. The best repoed 10-year survival rate is 92%; the protocol used is an aggressive intra-aerial regimen that individualizes therapy based on aeriographic response. Three-year event-free survival ranges from 50% to 75%, and five-year survival ranges from 60% to 85+% in some studies. Overall, 65-70% patients treated five years ago will be alive today. These survival rates are overall averages and vary greatly depending on the individual necrosis rate. Filgrastim or pegfilgrastim help with white blood cell counts and neutrophil counts. Blood transfusions and epoetin alfa help with anemia. Computational analysis on a panel of Osteosarcoma cell lines identified new shared and specific therapeutic targets (proteomic and genetic) in Osteosarcoma, while phenotypes showed an increased role of tumor microenvironments Ref : Internet sources",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"which surgery\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2dffe37e-0121-4ae1-9077-e033ba1a6959": {
-    "cop": 3,
-    "exp": "Hypoalbuminemia reduces colloid osmotic pressure leading to activation of RAAS and edema."
+    "cop": 2,
+    "exp": "Hypoalbuminemia reduces colloid osmotic pressure leading to activation of RAAS and edema.",
+    "hint_exp": "🎯 Think of \"nephrotic syndrome\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3e752c13-ac08-4fef-98ca-c79ec3d8d7a6": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Hypercalcemia Tumor lysis syndrome o Caused by destruction of large number of rapidly proliferating neoplastic cells. It frequently leads to ARF o It is characterized by Hypocalcemia Hyperkalemia Lactic acidosis Hyperuricemia Hyperphosphatemia o Most frequently associated with treatment of Burkitt lymphoma CLL ALL Solid tumors"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Hypercalcemia Tumor lysis syndrome o Caused by destruction of large number of rapidly proliferating neoplastic cells. It frequently leads to ARF o It is characterized by Hypocalcemia Hyperkalemia Lactic acidosis Hyperuricemia Hyperphosphatemia o Most frequently associated with treatment of Burkitt lymphoma CLL ALL Solid tumors",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"syndrome all of the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ae5978a4-b2de-4d08-9f4f-a8ac46e8c9a0": {
-    "cop": 4,
-    "exp": "Essentials of medical pharmacology, seventh edition, page no 476 Answer is option 4, onset of analgesia is 30-40min after parenteral administration and 1-2 hours after oral administration. Methadone is a long acting u-receptor. It is rapidly absorbed from gastrointestinal tract. Here all statements are true except 4. Ref ; KATZUNG 13TH ED."
+    "cop": 3,
+    "exp": "Essentials of medical pharmacology, seventh edition, page no 476 Answer is option 4, onset of analgesia is 30-40min after parenteral administration and 1-2 hours after oral administration. Methadone is a long acting u-receptor. It is rapidly absorbed from gastrointestinal tract. Here all statements are true except 4. Ref ; KATZUNG 13TH ED.",
+    "hint_exp": "🧩 Your crush solved \"all EXCEPT\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4344c026-8a8c-420c-903e-8788b0c5c0f1": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"palatal tumor\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "155bdcd6-527a-40f6-b54a-bb6527edb403": {
-    "cop": 2,
-    "exp": "Ans. b. Ectopic pregnancy (Ref: William's Obstetrics 22/e p253, 265)"
+    "cop": 1,
+    "exp": "Ans. b. Ectopic pregnancy (Ref: William's Obstetrics 22/e p253, 265)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"young female with month\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d2520b1e-5c32-4b39-a972-eb41d2492b81": {
-    "cop": 2,
-    "exp": "Maxillary and ethmoid sinuses are large enough to harbor infections from infancy. Frontal sinuses are rarely large enough to harbor infections until the sixth to tenth year of life. Sphenoid sinuses do not become large until about the third to fifth year of life. In general, a \"cold\" lasting longer than 10 to 14 days with fever and facial pain is suggestive of rhinosinusitis. Examination of the nose can reveal pus draining from the middle meatus in maxillary, frontal, or anterior ethmoid sinusitis. Pus in the superior meatus indicates sphenoid or posterior ethmoid sinuses. Diagnosis is on clinical grounds and can be difficult. Positive findings on plain sinus films in a symptomatic child are supportive of sinusitis. CT scans are more sensitive, but are usually reserved for the more complicated cases. The treatment is usually oral antibiotics for 10 to 14 days. Decongestants and antihistamines have not been shown to be helpful or necessary.Brain abscess is unlikely in this patient who demonstrates no neurologic symptoms. A streptococcal throat infection should present with acute onset of sore throat without other signs and symptoms of upper respiratory infection. Sphenoid sinusitis usually does not cause facial pain or drainage from the middle meatus. The child might have a middle-ear infection coincident with a sinusitis, but her lack of ear pain suggests otherwise."
+    "cop": 1,
+    "exp": "Maxillary and ethmoid sinuses are large enough to harbor infections from infancy. Frontal sinuses are rarely large enough to harbor infections until the sixth to tenth year of life. Sphenoid sinuses do not become large until about the third to fifth year of life. In general, a \"cold\" lasting longer than 10 to 14 days with fever and facial pain is suggestive of rhinosinusitis. Examination of the nose can reveal pus draining from the middle meatus in maxillary, frontal, or anterior ethmoid sinusitis. Pus in the superior meatus indicates sphenoid or posterior ethmoid sinuses. Diagnosis is on clinical grounds and can be difficult. Positive findings on plain sinus films in a symptomatic child are supportive of sinusitis. CT scans are more sensitive, but are usually reserved for the more complicated cases. The treatment is usually oral antibiotics for 10 to 14 days. Decongestants and antihistamines have not been shown to be helpful or necessary.Brain abscess is unlikely in this patient who demonstrates no neurologic symptoms. A streptococcal throat infection should present with acute onset of sore throat without other signs and symptoms of upper respiratory infection. Sphenoid sinusitis usually does not cause facial pain or drainage from the middle meatus. The child might have a middle-ear infection coincident with a sinusitis, but her lack of ear pain suggests otherwise.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "17139602-f8ed-401f-80cb-7b1012b707b6": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Turner hypoplasia most commonly\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d5927a30-7651-4008-b1c3-5524e949f5d9": {
-    "cop": 2,
-    "exp": "B i.e. LDL/ HDL ratio"
+    "cop": 1,
+    "exp": "B i.e. LDL/ HDL ratio",
+    "hint_exp": "🧩 Your crush solved \"dyslipidemia\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8753e6ed-8006-4073-a266-cc4d5579312c": {
-    "cop": 3,
-    "exp": "Maternal diabetes mellitus can affect a pregnant woman and her fetus in many ways. The development of preeclampsia or eclampsia is about 4 times as likely as among nondiabetic women. Infection is also more likely not only to occur but to be severe. The incidences of fetal macrosomia or death and of dystocia are increased, and hydramnios is common. The likelihood of postpartum hemorrhage after vaginal delivery and the frequency of cesarean section are both increased in diabetic women. The incidence of fetal genetic disorders such as cystic fibrosis is unaffected by diabetes."
+    "cop": 2,
+    "exp": "Maternal diabetes mellitus can affect a pregnant woman and her fetus in many ways. The development of preeclampsia or eclampsia is about 4 times as likely as among nondiabetic women. Infection is also more likely not only to occur but to be severe. The incidences of fetal macrosomia or death and of dystocia are increased, and hydramnios is common. The likelihood of postpartum hemorrhage after vaginal delivery and the frequency of cesarean section are both increased in diabetic women. The incidence of fetal genetic disorders such as cystic fibrosis is unaffected by diabetes.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following risks\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5f1112ad-c09b-485c-8e1b-234f9f7cbe18": {
-    "cop": 1,
-    "exp": "Low Radial nerve palsy: Injury is before the spiral groove. All muscles supplied by radial nerve are paralysed. Low radial nerve injuries may be of two types:- 1) Type 1: Injury occurs between the spiral groove and elbow joint. Muscles involved is:- Elbow extensors(Triceps,Anconeus) are spared. Wrist, elbow and finger extensors are paralysed. Sensory loss in first web space(on dorsal side). 2)Type 2:-Injury occurs below the elbow joint. Elbow extensors,brachioradialis and wrist extensors(ECRL)are spared. Finger extensors (extensor digitorum,extensor digiti minimi,extensor indicis),ECRB and thumb extensors(extensor pollicis longus & brevis)are paralysed. Sensory loss in the first web space(on dorsal side)."
+    "cop": 0,
+    "exp": "Low Radial nerve palsy: Injury is before the spiral groove. All muscles supplied by radial nerve are paralysed. Low radial nerve injuries may be of two types:- 1) Type 1: Injury occurs between the spiral groove and elbow joint. Muscles involved is:- Elbow extensors(Triceps,Anconeus) are spared. Wrist, elbow and finger extensors are paralysed. Sensory loss in first web space(on dorsal side). 2)Type 2:-Injury occurs below the elbow joint. Elbow extensors,brachioradialis and wrist extensors(ECRL)are spared. Finger extensors (extensor digitorum,extensor digiti minimi,extensor indicis),ECRB and thumb extensors(extensor pollicis longus & brevis)are paralysed. Sensory loss in the first web space(on dorsal side).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Given video shows findings\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d2c03cbd-e9c6-4d1d-8309-ca02ddce965e": {
-    "cop": 3,
-    "exp": "In Krebs cycle, succinyl CoA is conveed to succinate by the enzyme succinate thiokinase. This is the only example of substrate level phosphorylation in the citric acid cycle. Substrate level phosphorylation is the biochemical process whereby ATP is produced from ADP through direct transfer of a high energy phosphoryl group from a reaction substrate to ADP. In glycolysis, substrate level phosphorylation occur during two reactions: Conversion of 1,3 BPG to 3 phosphoglycerate by phosphoglyerate kinase Conversion of phosphoenol pyruvate to pyruvate by pyruvate kinase. Ref: Bender D.A., Mayes P.A. (2011). Chapter 17. The Citric Acid Cycle: The Catabolism of Acetyl-CoA. In D.A. Bender, K.M. Botham, P.A. Weil, P.J. Kennelly, R.K. Murray, V.W. Rodwell (Eds), Harper's Illustrated Biochemistry, 29e."
+    "cop": 2,
+    "exp": "In Krebs cycle, succinyl CoA is conveed to succinate by the enzyme succinate thiokinase. This is the only example of substrate level phosphorylation in the citric acid cycle. Substrate level phosphorylation is the biochemical process whereby ATP is produced from ADP through direct transfer of a high energy phosphoryl group from a reaction substrate to ADP. In glycolysis, substrate level phosphorylation occur during two reactions: Conversion of 1,3 BPG to 3 phosphoglycerate by phosphoglyerate kinase Conversion of phosphoenol pyruvate to pyruvate by pyruvate kinase. Ref: Bender D.A., Mayes P.A. (2011). Chapter 17. The Citric Acid Cycle: The Catabolism of Acetyl-CoA. In D.A. Bender, K.M. Botham, P.A. Weil, P.J. Kennelly, R.K. Murray, V.W. Rodwell (Eds), Harper's Illustrated Biochemistry, 29e.",
+    "hint_exp": "🎯 Think of \"the following reaction\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a2ffdcba-3125-4083-b56d-96188c6ea261": {
-    "cop": 4,
-    "exp": "The classification proposed by the International Lymphoma Study Group for non-Hodgkin's lymphoma is known as REAL classification. By combining morphologic, immunologic, cytogenetic and molecular features this classification proposed 34 biologically well defined lymphoma entities. This classification placed emphasis on the underlying biologic aberration of specific lymphoma subtypes. It has included a much larger range of lymphomas staing with the precursor cells of both B and T lines and also including lymphocytic cells of different zones of the node, like mantle zone and marginal zone. Ref: Malignant Lymphomas, Volume 1 By Michael L, Page 1;Textbook of Pathology By Datta, 2nd Edition, Page 878"
+    "cop": 3,
+    "exp": "The classification proposed by the International Lymphoma Study Group for non-Hodgkin's lymphoma is known as REAL classification. By combining morphologic, immunologic, cytogenetic and molecular features this classification proposed 34 biologically well defined lymphoma entities. This classification placed emphasis on the underlying biologic aberration of specific lymphoma subtypes. It has included a much larger range of lymphomas staing with the precursor cells of both B and T lines and also including lymphocytic cells of different zones of the node, like mantle zone and marginal zone. Ref: Malignant Lymphomas, Volume 1 By Michael L, Page 1;Textbook of Pathology By Datta, 2nd Edition, Page 878",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2a7616fa-c573-49f5-9ef7-82e570c41782": {
-    "cop": 4,
-    "exp": "(D) Demylinating disorder > Multiple sclerosis (MS) is characterized by a triad of inflammation, demyelination, and gliosis (scarring); the course can be relapsing-remitting or progressive. Lesions of MS are typically disseminated in time and location."
+    "cop": 3,
+    "exp": "(D) Demylinating disorder > Multiple sclerosis (MS) is characterized by a triad of inflammation, demyelination, and gliosis (scarring); the course can be relapsing-remitting or progressive. Lesions of MS are typically disseminated in time and location.",
+    "hint_exp": "🧩 Your crush solved \"Multiple Sclerosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dcfe8324-6c0e-4f7c-b090-c7d351290fc5": {
-    "cop": 1,
-    "exp": "(85 dB): Ref: (648-Park 20th)* \"A daily exposure up to 85 dB is about the limit people can tolerate without substantial damage to their hearing\"* Auditory fatigue - appears in the 90 dB region and greatest at 4000 Hz* Deafness - Most temporary hearing loss occurs in frequency range between 4,000 to 6,000 Hz* Repeated or continuous exposure to noise around 100 decibels may result in permanent hearing loss* Exposure to noise above 160dB may rupture the tympanic membrane and cause permanent loss of hearing* Most disturbances to speech communication lies in the 300 - 500 Hz range."
+    "cop": 0,
+    "exp": "(85 dB): Ref: (648-Park 20th)* \"A daily exposure up to 85 dB is about the limit people can tolerate without substantial damage to their hearing\"* Auditory fatigue - appears in the 90 dB region and greatest at 4000 Hz* Deafness - Most temporary hearing loss occurs in frequency range between 4,000 to 6,000 Hz* Repeated or continuous exposure to noise around 100 decibels may result in permanent hearing loss* Exposure to noise above 160dB may rupture the tympanic membrane and cause permanent loss of hearing* Most disturbances to speech communication lies in the 300 - 500 Hz range.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"acceptable noise level\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9455f2d8-e2b1-46a0-821d-46c350c56365": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"metal which conducts electricity\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "eca14ea4-fbcb-4fd2-bcf8-1669b7ebce4f": {
-    "cop": 2,
-    "exp": "Main function of the limbic system is generation of emotions and the responses to those emotions, such as sexual behaviour, feeding behaviour, autonomic response, fear/rage, punishment/reward, memory, learning, vegetative and endocrine functions of hypothalamus."
+    "cop": 1,
+    "exp": "Main function of the limbic system is generation of emotions and the responses to those emotions, such as sexual behaviour, feeding behaviour, autonomic response, fear/rage, punishment/reward, memory, learning, vegetative and endocrine functions of hypothalamus.",
+    "hint_exp": "🎯 Think of \"Functions limbic systema Emotionb\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1ce704d7-b7df-46b3-9f36-44171251b2a1": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 50"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 50",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"According EVINCE fast breathing\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d4eb0fb9-c10d-4ff9-a01c-86d5faabe938": {
-    "cop": 1,
-    "exp": "The solubility of the set cement is highest among the cements (0.4 to 1.5 % wt). They disintegrate in oral fluids. This breakdown is due to hydrolysis of the zinc eugenolate matrix to form zinc hydroxide and eugenol. Solubility is reduced by increasing the powder/liquid (P/L) ratio."
+    "cop": 0,
+    "exp": "The solubility of the set cement is highest among the cements (0.4 to 1.5 % wt). They disintegrate in oral fluids. This breakdown is due to hydrolysis of the zinc eugenolate matrix to form zinc hydroxide and eugenol. Solubility is reduced by increasing the powder/liquid (P/L) ratio.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4b0f7d17-92d0-40fa-9553-c2b0f3ca2cfe": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Metanephros * Kidneys develop from two sources :i) Metanephros (metanephric mesoderm or blastema):# It is the lowest part of nephrogenic cord which is derived from intermediate mesoderm.# It forms the excretory unit of kidney i.e. glomeruls, proximal convoluted tubule, loop ofhenle and distal convoluted tubule.ii) Ureteric bud:# It arises from lower part of mesonephric duct.# It forms collecting part of kidney (pelvis, major calyes, minor calyces, collecting tubules) and ureter."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Metanephros * Kidneys develop from two sources :i) Metanephros (metanephric mesoderm or blastema):# It is the lowest part of nephrogenic cord which is derived from intermediate mesoderm.# It forms the excretory unit of kidney i.e. glomeruls, proximal convoluted tubule, loop ofhenle and distal convoluted tubule.ii) Ureteric bud:# It arises from lower part of mesonephric duct.# It forms collecting part of kidney (pelvis, major calyes, minor calyces, collecting tubules) and ureter.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Secretory part kidney originates\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6d5cacf4-7b23-4bd4-a728-b53659c13655": {
-    "cop": 2,
-    "exp": "ANSWER: (B) RNAREF: Microbiology 24th ed Chapter 7 Microbial GeneticsHybridization of DNAto RNA by Northern blots can provide quantitative information about RNA synthesis. Specific DNA sequences in restriction fragments separated on gels can be revealed by Southern blots, a method that uses hybridization of DNA to DNA. With Western blots, another frequently employed detection technique, antibodies are used to detect cloned genes by binding to their protein products.Remember that there is no such thing called as Eastern blot. All the blotting techniques can be remembered with the Mnemonic: SNOW-DROPS-Southern blotD-DNAN-Nouthem blotR-RNAO-(zero) No Eastern blotO-(zero) No Eastern blotW- Western blotP-Protein"
+    "cop": 1,
+    "exp": "ANSWER: (B) RNAREF: Microbiology 24th ed Chapter 7 Microbial GeneticsHybridization of DNAto RNA by Northern blots can provide quantitative information about RNA synthesis. Specific DNA sequences in restriction fragments separated on gels can be revealed by Southern blots, a method that uses hybridization of DNA to DNA. With Western blots, another frequently employed detection technique, antibodies are used to detect cloned genes by binding to their protein products.Remember that there is no such thing called as Eastern blot. All the blotting techniques can be remembered with the Mnemonic: SNOW-DROPS-Southern blotD-DNAN-Nouthem blotR-RNAO-(zero) No Eastern blotO-(zero) No Eastern blotW- Western blotP-Protein",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"used for seperation of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "05f5a420-6692-422e-a329-529654b548c4": {
-    "cop": 4,
-    "exp": "Ans d: (Ref: ROBBINS 7th edition- 217)Cell mediated or Delayed type hypersensitivity Involve activated T cells. It includes:a) Delayed hypersensitivityMajor mechanism of defense against various intracellular pathogens Characteristic lesion is granuloma -Activated macrophages(epitheliod cells) surrounded by a collar of lymphocytes & giant cellsb) T cell mediated cytotoxicityMechanism: Cytotoxic T cells kill virus infected cells of tumor cells Eg of Type IV HS* Tuberculin test, lepromin test, Frei test, Fairley's test* Typel lepra reaction* Contact dermatitis* Temporal arteritis* Jones mote reaction( cutaneous basophilic HSN)"
+    "cop": 3,
+    "exp": "Ans d: (Ref: ROBBINS 7th edition- 217)Cell mediated or Delayed type hypersensitivity Involve activated T cells. It includes:a) Delayed hypersensitivityMajor mechanism of defense against various intracellular pathogens Characteristic lesion is granuloma -Activated macrophages(epitheliod cells) surrounded by a collar of lymphocytes & giant cellsb) T cell mediated cytotoxicityMechanism: Cytotoxic T cells kill virus infected cells of tumor cells Eg of Type IV HS* Tuberculin test, lepromin test, Frei test, Fairley's test* Typel lepra reaction* Contact dermatitis* Temporal arteritis* Jones mote reaction( cutaneous basophilic HSN)",
+    "hint_exp": "🎯 Think of \"Granuloma formation seen with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dc2c72fe-063b-477b-ad1d-2b00ad251c26": {
-    "cop": 1,
-    "exp": "Corrosive poison: In the case of corrosive acid poisoning stomach wash is contraindicated except phenol. Aspiration of contents can be done by carefully introducing a soft flexible rubber tube. This may prevent perforation of stomach due to retaining the acid in the stomach. In case of concentrated corrosive alkali, no attempt should be made to introduce any tube because of the risk of esophageal perfoation. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 401"
+    "cop": 0,
+    "exp": "Corrosive poison: In the case of corrosive acid poisoning stomach wash is contraindicated except phenol. Aspiration of contents can be done by carefully introducing a soft flexible rubber tube. This may prevent perforation of stomach due to retaining the acid in the stomach. In case of concentrated corrosive alkali, no attempt should be made to introduce any tube because of the risk of esophageal perfoation. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE 401",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"contraindicated in all except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9b120bfc-114f-45e2-89b7-32b7c108c728": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"amino acid residue having\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3dab7a5d-a26b-44d3-bb83-75a355a972cc": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"bactericidal\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "402585e1-2958-4a1b-93f0-95965e4b5c96": {
-    "cop": 2,
-    "exp": "hyper pigmentation, hypotension and hyperkalemia . there is hyponatremia due to sodium lodmss in urine due to aldosterone deficiency ( Harrison 17 pg 2264)"
+    "cop": 1,
+    "exp": "hyper pigmentation, hypotension and hyperkalemia . there is hyponatremia due to sodium lodmss in urine due to aldosterone deficiency ( Harrison 17 pg 2264)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bef470cc-5bf3-4431-8614-023232f6191c": {
-    "cop": 4,
-    "exp": "Ans. is d, i.e. Increased activity of uretersAs discussed previously, during pregnancy - Glomerular filtration rate and renal blood flow increases i.e. option a and b are correct. Amongst option c and d; option d i.e. increased activity of ureters cannot be correct as the main hormone during pregnancy is progesterone which leads to relaxation of the smooth muscles of ureter. Therefore activity of ureters decreases and leads to urinary stasis.Anatomical changes in renal system during pregnancy.Both kidneys enlarge in pregnancy 1 cm.Hydroureter and hydronephrosis occurs due to relaxant effect progesterone (These changes are M/c on right side).Congestion of bladder leading to decreased bladder capacity.To compensate bladder pressure increases and intraurethral pressure increases."
+    "cop": 3,
+    "exp": "Ans. is d, i.e. Increased activity of uretersAs discussed previously, during pregnancy - Glomerular filtration rate and renal blood flow increases i.e. option a and b are correct. Amongst option c and d; option d i.e. increased activity of ureters cannot be correct as the main hormone during pregnancy is progesterone which leads to relaxation of the smooth muscles of ureter. Therefore activity of ureters decreases and leads to urinary stasis.Anatomical changes in renal system during pregnancy.Both kidneys enlarge in pregnancy 1 cm.Hydroureter and hydronephrosis occurs due to relaxant effect progesterone (These changes are M/c on right side).Congestion of bladder leading to decreased bladder capacity.To compensate bladder pressure increases and intraurethral pressure increases.",
+    "hint_exp": "🎯 Think of \"pregnancy except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "170f943c-24a2-4158-ba3b-5a4d70e30a66": {
-    "cop": 4,
-    "exp": "Osteolytic metastasisMost common sites of primary for bone metastasis.* In Males -Prostate > Lung* In female-Breast > Lung* In children-Neuroblastoma Most common cause of osteolytic metastasis.* In Males-Lung Cancer* In females-Breast Cancero Most common cause of osteoblastic metastasis.o Skeletal sites most frequently involvedSpine > proximal femur > pelvis > ribs > sternum > proximal humerus > skullo Lytic expansile metastasis was seen in Renal Cancer, Thyroid Carcinomaso Osteolytic lesions are associated with hypercalcemia and excretion of hydroxyproline-containing peptides.o Metastasis distal to knee and! the elbow is rare and usually arises from primary tumors of the bronchus, Colon or bladder"
+    "cop": 3,
+    "exp": "Osteolytic metastasisMost common sites of primary for bone metastasis.* In Males -Prostate > Lung* In female-Breast > Lung* In children-Neuroblastoma Most common cause of osteolytic metastasis.* In Males-Lung Cancer* In females-Breast Cancero Most common cause of osteoblastic metastasis.o Skeletal sites most frequently involvedSpine > proximal femur > pelvis > ribs > sternum > proximal humerus > skullo Lytic expansile metastasis was seen in Renal Cancer, Thyroid Carcinomaso Osteolytic lesions are associated with hypercalcemia and excretion of hydroxyproline-containing peptides.o Metastasis distal to knee and! the elbow is rare and usually arises from primary tumors of the bronchus, Colon or bladder",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"true Hodgkin lymphoma except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d341d98b-9084-4b57-bb26-fc1a063e0dd3": {
-    "cop": 3,
-    "exp": "Aspergillus shows septate hyphae. Reference: Textbook of Microbiology; Baveja; 4th edition"
+    "cop": 2,
+    "exp": "Aspergillus shows septate hyphae. Reference: Textbook of Microbiology; Baveja; 4th edition",
+    "hint_exp": "🧩 Your crush solved \"not seen in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a25d478b-e65b-4964-a035-2a93d67577b7": {
-    "cop": 2,
-    "exp": "Boutonniere deformity: flexion contracture of PIP joint and extension of DIP jointSwan neck deformity: Hyperextension of PIP joint and flexion at DIP jointZ-deformity: radial detion of the wrist with ulnar detion of fingers(Refer: Mohindra's Fundamentals of Ohopedics, 2nd edition, pg no. 420)"
+    "cop": 1,
+    "exp": "Boutonniere deformity: flexion contracture of PIP joint and extension of DIP jointSwan neck deformity: Hyperextension of PIP joint and flexion at DIP jointZ-deformity: radial detion of the wrist with ulnar detion of fingers(Refer: Mohindra's Fundamentals of Ohopedics, 2nd edition, pg no. 420)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following deformities\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "31e205b9-130e-41fc-a352-cae30f17f29b": {
-    "cop": 4,
-    "exp": "Treatment for renal osteodystrophy includes the drug cinacalcet hydrochloride , and synthetic calcitriol and calcium supplements. Proper diet and exercise can also help . Ref - harrisons internal medicine 20e , medicine.net"
+    "cop": 3,
+    "exp": "Treatment for renal osteodystrophy includes the drug cinacalcet hydrochloride , and synthetic calcitriol and calcium supplements. Proper diet and exercise can also help . Ref - harrisons internal medicine 20e , medicine.net",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Treatment choice Renal osteodystrophy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5268152d-8e09-430b-be9b-95fba13275ce": {
-    "cop": 3,
-    "exp": "Ans. Should be removed"
+    "cop": 2,
+    "exp": "Ans. Should be removed",
+    "hint_exp": "🎯 Think of \"mature uniocular cataract year\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1bc048cf-81c8-4c0a-b659-d9a297f2839e": {
-    "cop": 4,
-    "exp": "Microscopic agglutination test is used for diagnosis of Leptospirosis. History of fever with liver(icterus) and kidney(hematuria) involvement should arouse suspicion for leptospirosis (Weil&;s disease). Serotype-specific tests: Microscopic agglutination test Macroscopic agglutination test WIDAL test is used to screen for typhoid fever Weil Felix reaction is used to diagnose rickettsial fevers Paul Bunnell test is the investigation of choice for infectious mononucleosis. Reference: Ananthanarayan and Paniker&;s Textbook of Microbiology Tenth edition"
+    "cop": 3,
+    "exp": "Microscopic agglutination test is used for diagnosis of Leptospirosis. History of fever with liver(icterus) and kidney(hematuria) involvement should arouse suspicion for leptospirosis (Weil&;s disease). Serotype-specific tests: Microscopic agglutination test Macroscopic agglutination test WIDAL test is used to screen for typhoid fever Weil Felix reaction is used to diagnose rickettsial fevers Paul Bunnell test is the investigation of choice for infectious mononucleosis. Reference: Ananthanarayan and Paniker&;s Textbook of Microbiology Tenth edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"diagnosis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "15c79396-5338-4b0f-b4cd-f2b59a6fc420": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Absorbs light at 450 nanometresCytochrome P450 got its name because it strongly absorbs light at 450 nanometres, which is blue is visible spectrum."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Absorbs light at 450 nanometresCytochrome P450 got its name because it strongly absorbs light at 450 nanometres, which is blue is visible spectrum.",
+    "hint_exp": "🧩 Your crush solved \"name derived from\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

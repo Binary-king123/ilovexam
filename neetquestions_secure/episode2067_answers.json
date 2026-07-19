@@ -1,202 +1,252 @@
 {
   "16f57493-5d59-4672-b089-bbc785e1c04a": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Dental floss\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8646d2c6-9dc7-40ae-b776-e363f85701b2": {
-    "cop": 4,
-    "exp": "% Na reabsorption\nSite\nMain mechanism\n\n\n60 – 70%\nPCT\nNa+ – H+ exchanger\n\n\n20 – 25%\nAscending loop of henle \nNa+ – K+ – 2Cl– symporter\n\n\n10 – 12%\nDCT\nNa+ – Cl+ symporter\n\n\n3 – 4%\nCollecting duct\nENAC channel"
+    "cop": 3,
+    "exp": "% Na reabsorption\nSite\nMain mechanism\n\n\n60 – 70%\nPCT\nNa+ – H+ exchanger\n\n\n20 – 25%\nAscending loop of henle \nNa+ – K+ – 2Cl– symporter\n\n\n10 – 12%\nDCT\nNa+ – Cl+ symporter\n\n\n3 – 4%\nCollecting duct\nENAC channel",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"percentage reabsorbed from ascending\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a56ab022-6105-4698-bd76-c67bec411b03": {
-    "cop": 1,
-    "exp": "Primary TB is a form of disease that develops in a previously unexposed, and therefore unsensitized person. Secondary TB is the pattern of disease that arises in a previously sensitized host. Cavitation occurs in secondary TB. The caseous necrosis occurring in primary TB is conveed into a cavity in secondary TB. Ref: Robbins Pathologic Basis of Disease, 6th Edition, Pages 723-4"
+    "cop": 0,
+    "exp": "Primary TB is a form of disease that develops in a previously unexposed, and therefore unsensitized person. Secondary TB is the pattern of disease that arises in a previously sensitized host. Cavitation occurs in secondary TB. The caseous necrosis occurring in primary TB is conveed into a cavity in secondary TB. Ref: Robbins Pathologic Basis of Disease, 6th Edition, Pages 723-4",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "484ae6e1-70ea-41c9-a610-0c33f4358acb": {
-    "cop": 1,
-    "exp": "Aging of Aicular Cailage causes:a. Decrease in water contentb. Decrease in carbohydrate/protein ratioc. Decrease in chondroitin sulfate (CS)d. Increase in keratin sulfate (KS)e. Increased degradation of glycosaminoglycans"
+    "cop": 0,
+    "exp": "Aging of Aicular Cailage causes:a. Decrease in water contentb. Decrease in carbohydrate/protein ratioc. Decrease in chondroitin sulfate (CS)d. Increase in keratin sulfate (KS)e. Increased degradation of glycosaminoglycans",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"aging on the Aicular cailage\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "abdae334-5223-40ef-8c1c-d46420b3aaaa": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 30 ppm"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 30 ppm",
+    "hint_exp": "🧩 Your crush solved \"Under Prevention Food Adulteration\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7e6ac822-3c26-4a89-a67a-74a7ed140efc": {
-    "cop": 2,
-    "exp": "Fluid entering the early distal tubule is almost hypotonic because sodium and other ions are actively transpoed out of the thick ascending loop of Henle, whereas this poion of the nephron is viually impermeable to water. As water flows up the ascending limb of loop of Henle, solutes are reabsorbed, but this segment is relatively impermeable to water; progressive dilution of the tubular fluid occurs so that the osmolarity decreases to approximately 100 mOsm/L by the time the fluid reaches the early distal tubule. Even during maximal antidiuresis this poion of the renal tubule is relatively impermeable to water and is therefore called the diluting segment of the renal tubule. The descending limb of the loop of Henle is permeable to water: The fluid in the descending limb of the loop of Henle becomes hypeonic as water moves out of the segment into the hypeonic interstitium. Ascending limb of loop of Henle is impermeable to water: While water stays within the tubule, sodium, potassium and chloride are cotranspoed out of the thick segment of the ascending limb. The fluid in the ascending limb therefore becomes more dilute, and when it reaches the top, it is almost always hypotonic to plasma. Even during maximal antidiuresis this poion of the renal tubule is relatively impermeable to water and is therefore called the diluting segment of the renal tubule. Fluid in the distal tubule: Therefore, the fluid that is delivered to the distal tubule is always hypotonic. Progressive dilution of the tubular fluid in ascending limb of loop of henle causes a decrease in osmolarity such that the osmolarity decreases to approximately 100 mOsm/L by the time the fluid reaches the early distal tubule. Formation of a concentrated urine when antidiuretic hormone (ADH) levels are high. The fluid in the descending limb of the loop of henle becomes hypeonic as water moves out of the segment into the hypeonic interstitium. The fluid in the ascending limb of the loop of henle becomes hypotonic as Sodium and other ions move out of the ascending limb. Note that the fluid leaving the loop of Henle and fluid entering the distal tubule is always dilute (hypotonic to the plasma) even in the presence of ADH (100 mOsm/L) The fluid in the presence of ADH becomes concentrated as water is absorbed from the distal tubules and collecting tubules. With high ADH levels, the osmolarity of the urine is about the same as the osmolarity of the renal medullary interstitial fluid in the pailla, which is about 1200 mOsm/L. Ref: Guyton and Hall textbook of medical physiology 25the edition"
+    "cop": 1,
+    "exp": "Fluid entering the early distal tubule is almost hypotonic because sodium and other ions are actively transpoed out of the thick ascending loop of Henle, whereas this poion of the nephron is viually impermeable to water. As water flows up the ascending limb of loop of Henle, solutes are reabsorbed, but this segment is relatively impermeable to water; progressive dilution of the tubular fluid occurs so that the osmolarity decreases to approximately 100 mOsm/L by the time the fluid reaches the early distal tubule. Even during maximal antidiuresis this poion of the renal tubule is relatively impermeable to water and is therefore called the diluting segment of the renal tubule. The descending limb of the loop of Henle is permeable to water: The fluid in the descending limb of the loop of Henle becomes hypeonic as water moves out of the segment into the hypeonic interstitium. Ascending limb of loop of Henle is impermeable to water: While water stays within the tubule, sodium, potassium and chloride are cotranspoed out of the thick segment of the ascending limb. The fluid in the ascending limb therefore becomes more dilute, and when it reaches the top, it is almost always hypotonic to plasma. Even during maximal antidiuresis this poion of the renal tubule is relatively impermeable to water and is therefore called the diluting segment of the renal tubule. Fluid in the distal tubule: Therefore, the fluid that is delivered to the distal tubule is always hypotonic. Progressive dilution of the tubular fluid in ascending limb of loop of henle causes a decrease in osmolarity such that the osmolarity decreases to approximately 100 mOsm/L by the time the fluid reaches the early distal tubule. Formation of a concentrated urine when antidiuretic hormone (ADH) levels are high. The fluid in the descending limb of the loop of henle becomes hypeonic as water moves out of the segment into the hypeonic interstitium. The fluid in the ascending limb of the loop of henle becomes hypotonic as Sodium and other ions move out of the ascending limb. Note that the fluid leaving the loop of Henle and fluid entering the distal tubule is always dilute (hypotonic to the plasma) even in the presence of ADH (100 mOsm/L) The fluid in the presence of ADH becomes concentrated as water is absorbed from the distal tubules and collecting tubules. With high ADH levels, the osmolarity of the urine is about the same as the osmolarity of the renal medullary interstitial fluid in the pailla, which is about 1200 mOsm/L. Ref: Guyton and Hall textbook of medical physiology 25the edition",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "94d670b9-1b9b-4307-a8cc-580d475adc0c": {
-    "cop": 2,
-    "exp": "Less than 2mcg/kg/min: Renal VD 2-10mcg/kg/min: B1 stimulation More than 10: alpha stimulation -VC"
+    "cop": 1,
+    "exp": "Less than 2mcg/kg/min: Renal VD 2-10mcg/kg/min: B1 stimulation More than 10: alpha stimulation -VC",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"dopamine\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c11b0d5a-1caa-4962-b088-c320da94c99b": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"collagen except one\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dd92ab88-9bc9-4e77-93b7-2c47e56469ec": {
-    "cop": 1,
-    "exp": "After coming in contact with antigen presenting cells, CD4+ helper T cells secrete IL-2 and expresses high-affinity receptors for IL-2. IL-2 is a growth factor that acts on these T lymphocytes and stimulates their proliferation, leading to an increase in the number of antigen-specific lymphocytes."
+    "cop": 0,
+    "exp": "After coming in contact with antigen presenting cells, CD4+ helper T cells secrete IL-2 and expresses high-affinity receptors for IL-2. IL-2 is a growth factor that acts on these T lymphocytes and stimulates their proliferation, leading to an increase in the number of antigen-specific lymphocytes.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"following interleukin characteristically produced\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "279946e6-58c6-4ad8-b9ea-9b56f1cb95a6": {
-    "cop": 3,
-    "exp": "- Combined oral contraceptives are absolutely contraindicated in those with Thrombo-embolic disorders. - They are useful in women with anemia, as they decrease the menstrual blood loss. Other Absolute CI of OCPs: Cancer Liver diseases Uterine bleeding Cardiovascular diseases Hyperlipidemia Pregnancy"
+    "cop": 2,
+    "exp": "- Combined oral contraceptives are absolutely contraindicated in those with Thrombo-embolic disorders. - They are useful in women with anemia, as they decrease the menstrual blood loss. Other Absolute CI of OCPs: Cancer Liver diseases Uterine bleeding Cardiovascular diseases Hyperlipidemia Pregnancy",
+    "hint_exp": "🧩 Your crush solved \"Hormonal contraceptives contraindicated women\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d1cb9d00-5632-4b9d-a399-c4282fde2ed8": {
-    "cop": 4,
-    "exp": "Most papillary carcinomas have gain-of-function mutations or rearrangements involving: RET gene NTRK1 receptor tyrosine kinases Serine/threonine kinase BRAF, which is component of MAPK pathway. RAS mutations are seen in follicular carcinoma of thyroid."
+    "cop": 3,
+    "exp": "Most papillary carcinomas have gain-of-function mutations or rearrangements involving: RET gene NTRK1 receptor tyrosine kinases Serine/threonine kinase BRAF, which is component of MAPK pathway. RAS mutations are seen in follicular carcinoma of thyroid.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3cee0905-c2b3-4f32-9ca9-b33fd4fcae6c": {
-    "cop": 4,
-    "exp": "Ans. is 'd' ie Serum calcitoninMCT can be of two types - sporadic and familial (occuring in MEN syn. 2A & 2B and Familial cases without MEN syn.)The familial MTC are more aggressive, multicentric (bilateral) and present at a younger age, therefore high risk cases should be screened for MTC by - detecting RET mutation. The genetic screening tests are supplemented by estimating serum calcitonin levels in the basal state and after stimulation by either calcium or pentagastrin.Prophylactic total thyroidectomy is indicated in RET mutation carriers once the mutation is confirmed."
+    "cop": 3,
+    "exp": "Ans. is 'd' ie Serum calcitoninMCT can be of two types - sporadic and familial (occuring in MEN syn. 2A & 2B and Familial cases without MEN syn.)The familial MTC are more aggressive, multicentric (bilateral) and present at a younger age, therefore high risk cases should be screened for MTC by - detecting RET mutation. The genetic screening tests are supplemented by estimating serum calcitonin levels in the basal state and after stimulation by either calcium or pentagastrin.Prophylactic total thyroidectomy is indicated in RET mutation carriers once the mutation is confirmed.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "feb5176f-de93-4ac0-9045-802c07301de8": {
-    "cop": 1,
-    "exp": "Ans. a. Fomepizole is a competitive inhibitor of aldehyde dehydrogenase (Ref: Reddy 33/e p582, 31/e p387)Fomepizole is a specific inhibitor of alcohol dehydrogenase, not the aldehyde dehydrogenase.Fomepizole:Fomepizole (4-methylpyrazole) is a specific inhibitor of alcohol dehydrogenase- retards methanol metabolismLoading dose is 15 mg/Kg IV followed by 10 mg/kg every 12 hours till serum methanol falls below 20 g/dL, has been found effective and safe.Minimum lethal dose of methanol is 1.25ml/kg body weight:Minimum lethal dose of methanol is 0.3-1.0 gm/kgFormic acid is mainly responsible for toxicity:In methyl alcohol poisoning there is CNS depression, cardiac depression and optic nerve atrophy. These effects are produced due to Formaldehyde and formic acid.The specific toxicity of formic acid is retinal damage.Methanol causes snow field vision:Methanol causes snowfield vision, blurred vision, decreased visual acuity, diplopia and photopia Methyl Alcohol Poisoning* Can be present in contaminated country liquorQ, used to denature ethanol.* Metabolized to formaldehyde and formic acidQ by alcohol and aldehyde dehydrogenase respectively.* Is a CNS depressant and toxicity is mainly due to formic aeidQ.Clinical Presentation:* Symptoms may appear with in an hourQ but are commonly delayed* Nausea, VomitingQ, Dizziness, Headache, Abdomen pain.* Temporary blindness to optic atrophyQ. Convulsions, ComaFatal dose: 60-200 mIFatal period: 24-36 hours, may be delayed for 2-4 daysInvestigation: Serum Methanol and formate levelTreatment:* Gastric lavage (treatment of choice)* NaHCO3 for acidosis and Treatment of seizures* EthanolQ or Fomepizole (4-Methly pyrazole) therapy in:1. Methanol cone. > 6 mmol/L2. Increased anion gap acidosis3. Visual symptomsQ"
+    "cop": 0,
+    "exp": "Ans. a. Fomepizole is a competitive inhibitor of aldehyde dehydrogenase (Ref: Reddy 33/e p582, 31/e p387)Fomepizole is a specific inhibitor of alcohol dehydrogenase, not the aldehyde dehydrogenase.Fomepizole:Fomepizole (4-methylpyrazole) is a specific inhibitor of alcohol dehydrogenase- retards methanol metabolismLoading dose is 15 mg/Kg IV followed by 10 mg/kg every 12 hours till serum methanol falls below 20 g/dL, has been found effective and safe.Minimum lethal dose of methanol is 1.25ml/kg body weight:Minimum lethal dose of methanol is 0.3-1.0 gm/kgFormic acid is mainly responsible for toxicity:In methyl alcohol poisoning there is CNS depression, cardiac depression and optic nerve atrophy. These effects are produced due to Formaldehyde and formic acid.The specific toxicity of formic acid is retinal damage.Methanol causes snow field vision:Methanol causes snowfield vision, blurred vision, decreased visual acuity, diplopia and photopia Methyl Alcohol Poisoning* Can be present in contaminated country liquorQ, used to denature ethanol.* Metabolized to formaldehyde and formic acidQ by alcohol and aldehyde dehydrogenase respectively.* Is a CNS depressant and toxicity is mainly due to formic aeidQ.Clinical Presentation:* Symptoms may appear with in an hourQ but are commonly delayed* Nausea, VomitingQ, Dizziness, Headache, Abdomen pain.* Temporary blindness to optic atrophyQ. Convulsions, ComaFatal dose: 60-200 mIFatal period: 24-36 hours, may be delayed for 2-4 daysInvestigation: Serum Methanol and formate levelTreatment:* Gastric lavage (treatment of choice)* NaHCO3 for acidosis and Treatment of seizures* EthanolQ or Fomepizole (4-Methly pyrazole) therapy in:1. Methanol cone. > 6 mmol/L2. Increased anion gap acidosis3. Visual symptomsQ",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "424d3d0c-72a2-497d-9e7c-af3a00a800bd": {
-    "cop": 4,
-    "exp": "The petrous pa of the temporal bone is pyramid-shaped and is wedged in at the base of the skull between the sphenoid and occipital bones. Directed medially, forward, and a little upward, it presents a base, an apex, three surfaces, and three angles, and houses in its interior, the components of the inner ear . A total of six group of ossification centers appear in the petrous pa during 5th fetal month, and they form the petrous bone at 6th fetal month. The firstly-appeared ossification center is just above the round window, and the second is on the ampulla of anterior semicircular canal. Other ossifications are observed between the cochlea and semicircular canals, on the brim of internal acoustic porus, on the superior surface of the petrous apex, and on the summit of posterior semicircular canal. The ossification of the facial canal stas at 6th fetal month, though the geniculate pa and tympanic pa do not complete until one year old after bih. Even in adults, the facial canal dehiscence are found at more than 10% of cases, mainly locating in the tympanic pa. On the basis of these results, formation of the petrous bone including facial canal and other bony structures was discussed from the viewpoints of the ossification and pre- and postnatal middle ear development Ref - pubmed.com"
+    "cop": 3,
+    "exp": "The petrous pa of the temporal bone is pyramid-shaped and is wedged in at the base of the skull between the sphenoid and occipital bones. Directed medially, forward, and a little upward, it presents a base, an apex, three surfaces, and three angles, and houses in its interior, the components of the inner ear . A total of six group of ossification centers appear in the petrous pa during 5th fetal month, and they form the petrous bone at 6th fetal month. The firstly-appeared ossification center is just above the round window, and the second is on the ampulla of anterior semicircular canal. Other ossifications are observed between the cochlea and semicircular canals, on the brim of internal acoustic porus, on the superior surface of the petrous apex, and on the summit of posterior semicircular canal. The ossification of the facial canal stas at 6th fetal month, though the geniculate pa and tympanic pa do not complete until one year old after bih. Even in adults, the facial canal dehiscence are found at more than 10% of cases, mainly locating in the tympanic pa. On the basis of these results, formation of the petrous bone including facial canal and other bony structures was discussed from the viewpoints of the ossification and pre- and postnatal middle ear development Ref - pubmed.com",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1307d68f-13e1-444f-8671-4961d7af4a67": {
-    "cop": 1,
-    "exp": "o Thalidomide causes constipation and not diarrhoea. REF : katzung pharmacology : 14th ed"
+    "cop": 0,
+    "exp": "o Thalidomide causes constipation and not diarrhoea. REF : katzung pharmacology : 14th ed",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "99dcd0e6-656c-455f-9381-2962ad3ef52d": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the nose\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5a6da3af-8ec5-4169-831c-99b8f1d8f070": {
-    "cop": 4,
-    "exp": "Cyclosporin toxicity is classically alternate fibrosis that is striped fibrosis"
+    "cop": 3,
+    "exp": "Cyclosporin toxicity is classically alternate fibrosis that is striped fibrosis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of kidney\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "cd921543-3fe1-438b-8ba4-0977da4ef532": {
-    "cop": 2,
-    "exp": "In this question :-\n\n\nAge → 85 year\nBlisters on lower body (thigh & trunk)\nNikolsky's sign negative\n\n\nAmongst the given options only pemphigoid (bullous pemphigoid) full fills these criteria."
+    "cop": 1,
+    "exp": "In this question :-\n\n\nAge → 85 year\nBlisters on lower body (thigh & trunk)\nNikolsky's sign negative\n\n\nAmongst the given options only pemphigoid (bullous pemphigoid) full fills these criteria.",
+    "hint_exp": "🎯 Think of \"the\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9c9ac444-68f2-46df-a16a-0b8a74f64609": {
-    "cop": 2,
-    "exp": "The vagus nerve pases through the esophageal opening. Opening Veebral level Pa of diaphragm Structures Transmitted Vena caval Apeure T8 Central tendon Inferior vena cava Right Phrenic nerve Oesophageal Apeure T10 Muscular poion derived from right crus Esophagus Esophageal branch of left gastric aery Left vagus nerve Right vagus nerve Aoic Apeure T12 Osseo-aponeurotic between right & lateral crus Aoa Thoracic duct Azygous vein Ref: Gray&;s Anatomy 41st edition Pgno: 899"
+    "cop": 1,
+    "exp": "The vagus nerve pases through the esophageal opening. Opening Veebral level Pa of diaphragm Structures Transmitted Vena caval Apeure T8 Central tendon Inferior vena cava Right Phrenic nerve Oesophageal Apeure T10 Muscular poion derived from right crus Esophagus Esophageal branch of left gastric aery Left vagus nerve Right vagus nerve Aoic Apeure T12 Osseo-aponeurotic between right & lateral crus Aoa Thoracic duct Azygous vein Ref: Gray&;s Anatomy 41st edition Pgno: 899",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which does pass through\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f26feebf-52e2-4b5b-9edd-f9f9118cf29b": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Rate transmission from infected\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b462ae3d-ae0a-48c1-bb22-f16473fa9326": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the stage\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8b1c6faf-065d-415e-bb0b-1b992d7ab3bf": {
-    "cop": 1,
-    "exp": "Lambe-Eaton syndrome presents with proximal muscle weakness that improves with exercise & is caused by the development of antibodies to presynaptic calcium channels. Myasthenia gravis is autoimmune disease caused by the development of antibodies to postsynaptic acetylcholine receptors.Polymyositis & Dermatomyositis are related disorders that are characterised by an inflammatory process affecting skeletal muscle. In dermatomyositis,characteristic skin changes also occur. Davidson's Medicine-22nd edition,page no:272,1114,1226,1227"
+    "cop": 0,
+    "exp": "Lambe-Eaton syndrome presents with proximal muscle weakness that improves with exercise & is caused by the development of antibodies to presynaptic calcium channels. Myasthenia gravis is autoimmune disease caused by the development of antibodies to postsynaptic acetylcholine receptors.Polymyositis & Dermatomyositis are related disorders that are characterised by an inflammatory process affecting skeletal muscle. In dermatomyositis,characteristic skin changes also occur. Davidson's Medicine-22nd edition,page no:272,1114,1226,1227",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a9874b53-e06e-4e47-834b-d48126628935": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e. MeaslesBoth in active and passive immunisation is given in all of the given options .But the best option is Measles because probably the examiner is asking about diseases in which both active and passive immunisation are given simultaneously.Both active and passive immunisation are given simultaneously in Tetanus, Rabies & Hepatitis B infection but not in measles."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e. MeaslesBoth in active and passive immunisation is given in all of the given options .But the best option is Measles because probably the examiner is asking about diseases in which both active and passive immunisation are given simultaneously.Both active and passive immunisation are given simultaneously in Tetanus, Rabies & Hepatitis B infection but not in measles.",
+    "hint_exp": "🎯 Think of \"Both active passive immunization\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "82745eef-20c7-4e10-9b2b-ff016361ba96": {
-    "cop": 3,
-    "exp": "Listeria shows tumbling motility."
+    "cop": 2,
+    "exp": "Listeria shows tumbling motility.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"following true about Listeria\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2e2fbcce-d909-4239-87bd-80f40dc7a077": {
-    "cop": 1,
-    "exp": "Step 1: Uptake and Phosphorylation of Glucose Glucose is phosphorylated to form glucose-6-phosphate. The reaction is catalysed by the specific enzyme glucokinase in liver cells and by non-specific enzyme hexokinase in liver and extrahepatic tissue. The enzyme splits the ATP into ADP, and the Pi is added to the glucose. Hexokinase is a key glycolytic enzyme. Hexokinase catalyses a regulatory step in glycolysis that is irreversible. Hexokinase, like many other kinases, requires Mg2+ for its activity. Step 2: Isomerization of Glucose-6-Phosphate to Fructose-6-Phosphate Glucose-6-phosphate is isomerised to fructose-6-phosphate by phosphohexose isomerase. This reaction involves an aldose-ketose isomerisastion catalysed by phosphohexose isomerase. There is opening of the glucopyranose ring of glucose-6-phosphate to a linear structure which then changes to the furanose ring structure of fructose-6-phosphate. Step 3: Phosphorylation of F-6-P to Fructose 1,6-Biphosphate Fructose-6-phosphate is fuher phosphorylated to fructose 1,6-bisphosphate. The enzyme is phosphofructokinase-1. It catalyses the transfer of a phosphate group from ATP to fructose-6-phosphate. The reaction is irreversible. One ATP is utilised for phosphorylation. Phosphofructokinase-1 is the key enzyme in glycolysis which regulates breakdown of glucose. Step 4: Cleavage of Fructose 1,6-Biphosphate The 6 carbon fructose-1,6-bisphosphate is cleaved into two 3 carbon units; one glyceraldehyde-3-phosphate (GAP) and another molecule of dihydroxyacetone phosphate (DHAP). The enzyme which catalyses the reaction is aldolase. Since the backward reaction is an aldol condensation, the enzyme is called aldolase. The reaction is reversible. Step 5: Interconversion of the Triose Phosphates GAP is on the direct pathway of glycolysis, whereas DHAP is not. Hence Triose-phosphate isomerase conves DHAP into GAP useful for generating ATP. Thus net result Is that glucose is now cleaved into 2 molecules of glyceraldehyde-3-phosphate. This reaction is rapid and reversible. Step 6: Oxidative phosphorylation of GAP to 1,3-Bisphosphoglycerate The first step in the payoff phase is the oxidation of glyceraldehyde 3-phosphate to 1,3-bisphosphoglycerate. This reaction is catalyzed by glyceraldehyde 3-phosphate dehydrogenase. It is the energy-yielding reaction. Reactions of this type in which an aldehyde group is oxidised to an acid are accompanied by the liberation of large amounts of potentially useful energy. During this reaction, NAD+ is reduced to NADH. This is a reversible reaction. Step 7: Conversion of 1,3-Biphosphoglycerate to 3-Phosphoglycerate The enzyme phosphoglycerate kinase transfers the high-energy phosphoryl group from the carboxyl group of 1,3-bisphosphoglycerate to ADP, forming ATP and 3-phosphoglycerate. This is a unique example where ATP can be produced at substrate level without paicipating in electron transpo chain. This type of reaction where ATP is formed at substrate level is called as Substrate level phosphorylation. Step 8: Conversion of 3-Phosphoglycerate to 2-Phosphoglycerate 3-phosphoglycerate is isomerized to 2-phosphoglycerate by shifting the phosphate group from 3rd to 2nd carbon atom. The enzyme is phosphoglucomutase. This is a readily reversible reaction. Mg2+ is essential for this reaction. Step 9: Dehydration of 2-Phosphoglycerate to Phosphoenolpyruvate 2-phosphoglycerate is conveed to phosphoenolpyruvate by the enzyme enolase. One water molecule is removed. A high energy phosphate bond is produced. The reaction is reversible. Enolase requires Mg++. Step 10: Conversion of Phosphoenol Pyruvate to Pyruvate Phosphoenolpyruvate (PEP) is dephosphorylated to pyruvate, by pyruvate kinase. First PEP is made into a transient intermediary of enol pyruvate; which is spontaneously isomerized into keto pyruvate, the stable form of pyruvate. One mole of ATP is generated during this reaction. This is again an example of substrate level phosphorylation. The pyruvate kinase is a key glycolytic enzyme. This step is irreversible. REF:DM VASUDEVAN TEXTBOOK OF BIOCHEMISTRY,EIGHTH EDITION,PG.NO.,129."
+    "cop": 0,
+    "exp": "Step 1: Uptake and Phosphorylation of Glucose Glucose is phosphorylated to form glucose-6-phosphate. The reaction is catalysed by the specific enzyme glucokinase in liver cells and by non-specific enzyme hexokinase in liver and extrahepatic tissue. The enzyme splits the ATP into ADP, and the Pi is added to the glucose. Hexokinase is a key glycolytic enzyme. Hexokinase catalyses a regulatory step in glycolysis that is irreversible. Hexokinase, like many other kinases, requires Mg2+ for its activity. Step 2: Isomerization of Glucose-6-Phosphate to Fructose-6-Phosphate Glucose-6-phosphate is isomerised to fructose-6-phosphate by phosphohexose isomerase. This reaction involves an aldose-ketose isomerisastion catalysed by phosphohexose isomerase. There is opening of the glucopyranose ring of glucose-6-phosphate to a linear structure which then changes to the furanose ring structure of fructose-6-phosphate. Step 3: Phosphorylation of F-6-P to Fructose 1,6-Biphosphate Fructose-6-phosphate is fuher phosphorylated to fructose 1,6-bisphosphate. The enzyme is phosphofructokinase-1. It catalyses the transfer of a phosphate group from ATP to fructose-6-phosphate. The reaction is irreversible. One ATP is utilised for phosphorylation. Phosphofructokinase-1 is the key enzyme in glycolysis which regulates breakdown of glucose. Step 4: Cleavage of Fructose 1,6-Biphosphate The 6 carbon fructose-1,6-bisphosphate is cleaved into two 3 carbon units; one glyceraldehyde-3-phosphate (GAP) and another molecule of dihydroxyacetone phosphate (DHAP). The enzyme which catalyses the reaction is aldolase. Since the backward reaction is an aldol condensation, the enzyme is called aldolase. The reaction is reversible. Step 5: Interconversion of the Triose Phosphates GAP is on the direct pathway of glycolysis, whereas DHAP is not. Hence Triose-phosphate isomerase conves DHAP into GAP useful for generating ATP. Thus net result Is that glucose is now cleaved into 2 molecules of glyceraldehyde-3-phosphate. This reaction is rapid and reversible. Step 6: Oxidative phosphorylation of GAP to 1,3-Bisphosphoglycerate The first step in the payoff phase is the oxidation of glyceraldehyde 3-phosphate to 1,3-bisphosphoglycerate. This reaction is catalyzed by glyceraldehyde 3-phosphate dehydrogenase. It is the energy-yielding reaction. Reactions of this type in which an aldehyde group is oxidised to an acid are accompanied by the liberation of large amounts of potentially useful energy. During this reaction, NAD+ is reduced to NADH. This is a reversible reaction. Step 7: Conversion of 1,3-Biphosphoglycerate to 3-Phosphoglycerate The enzyme phosphoglycerate kinase transfers the high-energy phosphoryl group from the carboxyl group of 1,3-bisphosphoglycerate to ADP, forming ATP and 3-phosphoglycerate. This is a unique example where ATP can be produced at substrate level without paicipating in electron transpo chain. This type of reaction where ATP is formed at substrate level is called as Substrate level phosphorylation. Step 8: Conversion of 3-Phosphoglycerate to 2-Phosphoglycerate 3-phosphoglycerate is isomerized to 2-phosphoglycerate by shifting the phosphate group from 3rd to 2nd carbon atom. The enzyme is phosphoglucomutase. This is a readily reversible reaction. Mg2+ is essential for this reaction. Step 9: Dehydration of 2-Phosphoglycerate to Phosphoenolpyruvate 2-phosphoglycerate is conveed to phosphoenolpyruvate by the enzyme enolase. One water molecule is removed. A high energy phosphate bond is produced. The reaction is reversible. Enolase requires Mg++. Step 10: Conversion of Phosphoenol Pyruvate to Pyruvate Phosphoenolpyruvate (PEP) is dephosphorylated to pyruvate, by pyruvate kinase. First PEP is made into a transient intermediary of enol pyruvate; which is spontaneously isomerized into keto pyruvate, the stable form of pyruvate. One mole of ATP is generated during this reaction. This is again an example of substrate level phosphorylation. The pyruvate kinase is a key glycolytic enzyme. This step is irreversible. REF:DM VASUDEVAN TEXTBOOK OF BIOCHEMISTRY,EIGHTH EDITION,PG.NO.,129.",
+    "hint_exp": "🧩 Your crush solved \"reaction\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e928d630-611c-4ee6-826b-c614e71bfa75": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Krukenberg tumour Krukenberg Tumor* Accounts for 30-40% of metastatic CAs to the ovary.* Arises in the ovarian stroma and has characteristic mucin-filled signet ring cells.* The primary is most frequently located in the stomach and less commonly in the colon, breast, or biliary tract. Rarely, the cervix and bladder may be the primary site.* They are usually bilateral and discovered when the primary is well advanced and hence survival is very poor.* Treatment of primary carcinoma does not revert to Krukenberg tumor.* The ovaries are enlarged and have a smooth surface.* The shape of the ovary is maintained.* There is no tendency of adhesion and the capsule remains intact.* Cut surface shows waxy consistency with cystic spaces due to degeneration."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Krukenberg tumour Krukenberg Tumor* Accounts for 30-40% of metastatic CAs to the ovary.* Arises in the ovarian stroma and has characteristic mucin-filled signet ring cells.* The primary is most frequently located in the stomach and less commonly in the colon, breast, or biliary tract. Rarely, the cervix and bladder may be the primary site.* They are usually bilateral and discovered when the primary is well advanced and hence survival is very poor.* Treatment of primary carcinoma does not revert to Krukenberg tumor.* The ovaries are enlarged and have a smooth surface.* The shape of the ovary is maintained.* There is no tendency of adhesion and the capsule remains intact.* Cut surface shows waxy consistency with cystic spaces due to degeneration.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"lady with abdominal mass\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c351e464-5059-4833-933e-5e52d7705d32": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following may\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "61cb2fa1-5d97-42a2-881b-33b531a894c0": {
-    "cop": 4,
-    "exp": "Lithium effect on pregnant women: Lithium should not be used during pregnancy, especially in the first trimester, because of possible teratogenicity. It is known to cause Ebstein's anomaly, a cardiac abnormality. It is characterized by apical displacement of the tricuspid valve , often resulting in severe tricuspid regurgitation and marked RA enlargement ."
+    "cop": 3,
+    "exp": "Lithium effect on pregnant women: Lithium should not be used during pregnancy, especially in the first trimester, because of possible teratogenicity. It is known to cause Ebstein's anomaly, a cardiac abnormality. It is characterized by apical displacement of the tricuspid valve , often resulting in severe tricuspid regurgitation and marked RA enlargement .",
+    "hint_exp": "🎯 Think of \"Most common anomaly seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1b1a6ad0-4c5b-46ac-945b-0f6d7a9279d7": {
-    "cop": 1,
-    "exp": "A i.e. Diffuse periosteal reaction"
+    "cop": 0,
+    "exp": "A i.e. Diffuse periosteal reaction",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of scleroderma\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "44071cc0-f8ab-444e-b327-60ac73714496": {
-    "cop": 2,
-    "exp": "Oxytocin increases the force and frequency of uterine contractions. With low doses, full relaxation occurs in between contractions. Ref.Essentials of medical pharmacology TD Tripathi 7th edition page no.329)"
+    "cop": 1,
+    "exp": "Oxytocin increases the force and frequency of uterine contractions. With low doses, full relaxation occurs in between contractions. Ref.Essentials of medical pharmacology TD Tripathi 7th edition page no.329)",
+    "hint_exp": "🧩 Your crush solved \"a full term uterus\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3f165f8c-1d1a-4ea4-b821-6dc60dd5c1a8": {
-    "cop": 3,
-    "exp": "Ans: C (Angel of anterior chamber) Ref: Kanski. Cliniccd Ophthalmology 6th edition: PS- 11Explanation:GONIOSCOPY - To study the angle of the anterior chamber:Structures: From anterior to posteriorS - Schwalbe lineT - trabecular mesh workS - sclera spurC - ciliary bodyUses:Diagnostic - Abnormal angle structure , estimation of the width of the chamber angle.Surgical gonioscopy - While doing goniotomy, laser trabeculoplasty.Types of Lenses:Direct - Gonioprism - Direct view of the angle - KOEPPE LENS.Indirect - Goniomirror - Image of the opposite angle - GGLDMANN, ZEISS, POSNER and SUSSMAN."
+    "cop": 2,
+    "exp": "Ans: C (Angel of anterior chamber) Ref: Kanski. Cliniccd Ophthalmology 6th edition: PS- 11Explanation:GONIOSCOPY - To study the angle of the anterior chamber:Structures: From anterior to posteriorS - Schwalbe lineT - trabecular mesh workS - sclera spurC - ciliary bodyUses:Diagnostic - Abnormal angle structure , estimation of the width of the chamber angle.Surgical gonioscopy - While doing goniotomy, laser trabeculoplasty.Types of Lenses:Direct - Gonioprism - Direct view of the angle - KOEPPE LENS.Indirect - Goniomirror - Image of the opposite angle - GGLDMANN, ZEISS, POSNER and SUSSMAN.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Gonioscopy used study\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "00b377ab-cf14-4f26-85cd-825d3a22e6b0": {
-    "cop": 2,
-    "exp": "Halibut Liver Oil has the maximum natural content of Vitamin A & also it has the richest source of the Vitamin D. Among fruits Ripe Mango & among vegetables carrot have high content of Vitamin A. Vitamin A deficiency causes Xerophthalmia."
+    "cop": 1,
+    "exp": "Halibut Liver Oil has the maximum natural content of Vitamin A & also it has the richest source of the Vitamin D. Among fruits Ripe Mango & among vegetables carrot have high content of Vitamin A. Vitamin A deficiency causes Xerophthalmia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"vitamin A\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "33335c03-729f-4a3d-a611-18b40b0af12c": {
-    "cop": 2,
-    "exp": "The vestibulocochlear nerve consists of two divisions: cochlear and vestibular.Cochlear nerve innervate the organ of Coi and is associated with hearingVestibular nerve innervates the vestibular receptors in the semicircular ducts(kinetic balance) and in the utricle and saccule(for static balance) in the ear.(Ref: Vishram Singh textbook of clinical neuroanatomy second edition pg- 103)"
+    "cop": 1,
+    "exp": "The vestibulocochlear nerve consists of two divisions: cochlear and vestibular.Cochlear nerve innervate the organ of Coi and is associated with hearingVestibular nerve innervates the vestibular receptors in the semicircular ducts(kinetic balance) and in the utricle and saccule(for static balance) in the ear.(Ref: Vishram Singh textbook of clinical neuroanatomy second edition pg- 103)",
+    "hint_exp": "🎯 Think of \"VIII cranial nerve affects\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c7b6750c-2bf1-4fdb-a3b2-6848a36bda9a": {
-    "cop": 2,
-    "exp": "Glucose-alanine cycle- cahill cycle * Alanine also plays a special role in transpoing amino groups to the liver in a nontoxic form, a pathway called the glucose-alanine cycle * In muscle and ceain other tissues that degrade amino acids for fuel, amino groups are collected in the form of glutamate by transamination. * Glutamate can transfer its -amino group to pyruvate, a readily available product of muscle glycolysis, by the action of alanine aminotransferase. ref : vasudevan 7th ed"
+    "cop": 1,
+    "exp": "Glucose-alanine cycle- cahill cycle * Alanine also plays a special role in transpoing amino groups to the liver in a nontoxic form, a pathway called the glucose-alanine cycle * In muscle and ceain other tissues that degrade amino acids for fuel, amino groups are collected in the form of glutamate by transamination. * Glutamate can transfer its -amino group to pyruvate, a readily available product of muscle glycolysis, by the action of alanine aminotransferase. ref : vasudevan 7th ed",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"between\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c84808c4-233e-499a-a3c7-021d441dfe07": {
-    "cop": 3,
-    "exp": "The suprarenal gland receives aeries from three sources: -The superior suprarenal aery arises from the inferior phrenic aery -Middle suprarenal aery arises from the abdominal aoa -Inferior suprarenal aery arises from the renal aery. Hence occlusion of the above said aeries will lead to ischemia of supra renal gands The hepatic, superior mesenteric, inferior mesenteric, and splenic aeries do not supply the suprarenal gland. fig:- blood supply of suprarenal gland"
+    "cop": 2,
+    "exp": "The suprarenal gland receives aeries from three sources: -The superior suprarenal aery arises from the inferior phrenic aery -Middle suprarenal aery arises from the abdominal aoa -Inferior suprarenal aery arises from the renal aery. Hence occlusion of the above said aeries will lead to ischemia of supra renal gands The hepatic, superior mesenteric, inferior mesenteric, and splenic aeries do not supply the suprarenal gland. fig:- blood supply of suprarenal gland",
+    "hint_exp": "🧩 Your crush solved \"suffering from\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ea05cd36-6f99-4dba-94c3-10ed8bb12316": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"choice for neurosyphilis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7669d4e7-e76d-436e-a019-c6b52a03bc40": {
-    "cop": 1,
-    "exp": "DPP-4 inhibitors: Competitive and selective inhibition of DPP-4 which potentiates the action of GLP- 1 and GIP, boosts postprandial insulin release, decreases glucagon secretion and lowers meal-time as well as fasting blood glucose in type 2 diabetics. Eg.: Sitagliptin, Vildagliptin, Saxagliptin, Alogliptin, Linagliptin. Only Linagliptin is safe in renal failure. MC S/E of Gliptins: Nasopharyngitis."
+    "cop": 0,
+    "exp": "DPP-4 inhibitors: Competitive and selective inhibition of DPP-4 which potentiates the action of GLP- 1 and GIP, boosts postprandial insulin release, decreases glucagon secretion and lowers meal-time as well as fasting blood glucose in type 2 diabetics. Eg.: Sitagliptin, Vildagliptin, Saxagliptin, Alogliptin, Linagliptin. Only Linagliptin is safe in renal failure. MC S/E of Gliptins: Nasopharyngitis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"renal failure\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "82b9dfa0-7764-40fe-905d-b59762229778": {
-    "cop": 1,
-    "exp": "The chromosomal composition of complete moles is usually diploid and of paternal origin. About 85 percent are 46,XX with both sets of chromosomes paternal in origin. Termed androgenesis, the ovum is feilized by a haploid sperm, which duplicates its own chromosomes after meiosis. The chromosomes of the ovum are either absent or inactivated. In other complete moles, the chromosomal pattern may be 46,XY due to dispermic feilization. Ref: Cunningham F.G., Leveno K.J., Bloom S.L., Hauth J.C., Rouse D.J., Spong C.Y. (2010). Chapter.11. Gestational Trophoblastic Disease. In F.G. Cunningham, K.J. Leveno, S.L. Bloom, J.C. Hauth, D.J. Rouse, C.Y. Spong (Eds), Williams Obstetrics, 23e."
+    "cop": 0,
+    "exp": "The chromosomal composition of complete moles is usually diploid and of paternal origin. About 85 percent are 46,XX with both sets of chromosomes paternal in origin. Termed androgenesis, the ovum is feilized by a haploid sperm, which duplicates its own chromosomes after meiosis. The chromosomes of the ovum are either absent or inactivated. In other complete moles, the chromosomal pattern may be 46,XY due to dispermic feilization. Ref: Cunningham F.G., Leveno K.J., Bloom S.L., Hauth J.C., Rouse D.J., Spong C.Y. (2010). Chapter.11. Gestational Trophoblastic Disease. In F.G. Cunningham, K.J. Leveno, S.L. Bloom, J.C. Hauth, D.J. Rouse, C.Y. Spong (Eds), Williams Obstetrics, 23e.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6669d23a-23b7-434c-b6ba-71204b4341df": {
-    "cop": 3,
-    "exp": "Posterior pole"
+    "cop": 2,
+    "exp": "Posterior pole",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Sclera thickest\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2de08813-d301-4997-bda0-8b6cba7caaba": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"found in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5a2f7977-ba2a-46fb-bb1f-22f2ada47740": {
-    "cop": 1,
-    "exp": "Medical etiquette is the subject concerned with the conventional laws and customs of couesy which are generally followed between members of the same profession. Accordingly, a doctor should behave with his colleagues as he would like to have them behave with him. He should treat the colleague as he would like to have them behave with him and, therefore, not charge him or members of his family for professional service."
+    "cop": 0,
+    "exp": "Medical etiquette is the subject concerned with the conventional laws and customs of couesy which are generally followed between members of the same profession. Accordingly, a doctor should behave with his colleagues as he would like to have them behave with him. He should treat the colleague as he would like to have them behave with him and, therefore, not charge him or members of his family for professional service.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Medical etiquette best defined\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f1621900-ac3b-4eb1-9deb-53ca4f230dd2": {
-    "cop": 4,
-    "exp": "Parasites detectable in blood smear\n\nPlasmodium spp in RBCs\nToxoplasma- Tachyzoites\nFilarial microfilaria\nTrypanosoma spp.: Trypomastigotes\nLeishmania amastigotes in macrophages\nBabesia- in RBC"
+    "cop": 3,
+    "exp": "Parasites detectable in blood smear\n\nPlasmodium spp in RBCs\nToxoplasma- Tachyzoites\nFilarial microfilaria\nTrypanosoma spp.: Trypomastigotes\nLeishmania amastigotes in macrophages\nBabesia- in RBC",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5a6d1474-6616-4e92-a4d7-7068194907cc": {
-    "cop": 2,
-    "exp": "Ans. is b i.e. Anovulation"
+    "cop": 1,
+    "exp": "Ans. is b i.e. Anovulation",
+    "hint_exp": "🎯 Think of \"Withdrawal bleeding with progesterone\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a6243c0a-18de-4f01-88df-cd9672b80fd9": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"farmer rearing sheep presented\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "25725871-3325-4661-b5ba-8e4dabed591d": {
-    "cop": 3,
-    "exp": "."
+    "cop": 2,
+    "exp": ".",
+    "hint_exp": "🧩 Your crush solved \"acute inflammation\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2b41f722-6a62-4056-9688-12e18da09f5d": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Deaths/1000 live bihs"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Deaths/1000 live bihs",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"expressed in terms of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "21d4ad99-d56b-498d-99de-a5e6fc182067": {
-    "cop": 3,
-    "exp": "Most of the dietary triglycerides are split by pancreatic lipase into FFAs and 2-monoglycerides which are absorbed passively by direct diffusion. Sho chain fatty acids are water-soluble and can be absorbed directly into poal blood. Long chain fatty acids are not water-soluble; they are absorbed into intestinal lymphatics in the form of chylomicrons."
+    "cop": 2,
+    "exp": "Most of the dietary triglycerides are split by pancreatic lipase into FFAs and 2-monoglycerides which are absorbed passively by direct diffusion. Sho chain fatty acids are water-soluble and can be absorbed directly into poal blood. Long chain fatty acids are not water-soluble; they are absorbed into intestinal lymphatics in the form of chylomicrons.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"fatty acids\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f5594686-1e17-4c23-8409-598fdd15d025": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"mantoux\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3417dc87-b31b-4f18-9d4d-b57315bd93db": {
-    "cop": 1,
-    "exp": "Hence, Urea cycle is also called Ornithine cycle.\nNote: Fumarate does not enter the cycle, it is a by product of the cycle."
+    "cop": 0,
+    "exp": "Hence, Urea cycle is also called Ornithine cycle.\nNote: Fumarate does not enter the cycle, it is a by product of the cycle.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which substance enters urea\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c555e8f8-3cd9-4625-bba3-4897bbc0021b": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the most probable diagnosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

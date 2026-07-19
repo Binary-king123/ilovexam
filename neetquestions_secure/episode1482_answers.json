@@ -1,202 +1,252 @@
 {
   "e3fb8bf0-c8df-4e97-8933-8107747958f5": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"following contraceptive except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d00c2f1a-2aba-44d2-aaf0-726f7f53ab59": {
-    "cop": 1,
-    "exp": "Prostate has 3 zones\na) Central zone\nb) Transition zone - BPH\nc) Peripheral zone - Carcinomas."
+    "cop": 0,
+    "exp": "Prostate has 3 zones\na) Central zone\nb) Transition zone - BPH\nc) Peripheral zone - Carcinomas.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"prostate\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "18cf3330-28f1-4c1d-80bc-206377e4b9ba": {
-    "cop": 1,
-    "exp": "Triple Ahrodesis: Fusion of three joints Talonavicular - most difficult to fuse Talocalcaneal Calcaneocuboid Indicated only if there is a strong contraindication to ahroplasty (eg, previous infection) or to salvage a failed ahroplasty Indication: >10 yrs of age for treatment of CTEV"
+    "cop": 0,
+    "exp": "Triple Ahrodesis: Fusion of three joints Talonavicular - most difficult to fuse Talocalcaneal Calcaneocuboid Indicated only if there is a strong contraindication to ahroplasty (eg, previous infection) or to salvage a failed ahroplasty Indication: >10 yrs of age for treatment of CTEV",
+    "hint_exp": "🎯 Think of \"Triple ahrodesis involves\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e011cd66-1e39-489a-863c-04161e368ab9": {
-    "cop": 2,
-    "exp": "The first trick to this question is to determine where the lesion is. The corneal reflex is tested by touching a cotton wisp to the eye. A normal response would be blinking of the ipsilateral eye as well as the contralateral eye (consensual reflex). The afferent limb of the corneal reflex is contained within the ophthalmic division of the ipsilateral ophthalmic nerve (V1), the efferent limb is by both (right and left) facial nerves (VII). This woman had a normal corneal reflex in her right eye, indicating a normal right V1 and right VII. However, she lacked a consensual reflex, indicating an abnormal left VIIth nerve. The next trick to this question is to determine what other signs a lesion in the left VIIth nerve could produce. A lesion in the left VIIth would also produce hyperacusis (increased sensitivity to sound) in the left ear because of paralysis of the stapedius muscle, which ordinarily dampens sound transmission through the middle ear. The absence of a pupillary light reflex of the left eye could be caused either by a lesion of the left optic nerve (CN II; afferent limb) or by a lesion of the left oculomotor nerve (CN III; efferent limb). The inability to abduct the right eye could be caused by a lesion of the right abducens nerve (CN VI), which innervates the lateral rectus muscle. Loss of pain and temperature of the left face could be caused by a lesion of the spinal nucleus of V. This nucleus is located in the medulla, and receives pain and temperature information from the face the trigeminal nerve (CN V). Ref: Rosenga A.J., Novakovic R.L., Frank J.I. (2005). Chapter 67. Coma, Persistent Vegetative State, and Brain Death. In J.B. Hall, G.A. Schmidt, L.D. Wood (Eds),Principles of Critical Care, 3e."
+    "cop": 1,
+    "exp": "The first trick to this question is to determine where the lesion is. The corneal reflex is tested by touching a cotton wisp to the eye. A normal response would be blinking of the ipsilateral eye as well as the contralateral eye (consensual reflex). The afferent limb of the corneal reflex is contained within the ophthalmic division of the ipsilateral ophthalmic nerve (V1), the efferent limb is by both (right and left) facial nerves (VII). This woman had a normal corneal reflex in her right eye, indicating a normal right V1 and right VII. However, she lacked a consensual reflex, indicating an abnormal left VIIth nerve. The next trick to this question is to determine what other signs a lesion in the left VIIth nerve could produce. A lesion in the left VIIth would also produce hyperacusis (increased sensitivity to sound) in the left ear because of paralysis of the stapedius muscle, which ordinarily dampens sound transmission through the middle ear. The absence of a pupillary light reflex of the left eye could be caused either by a lesion of the left optic nerve (CN II; afferent limb) or by a lesion of the left oculomotor nerve (CN III; efferent limb). The inability to abduct the right eye could be caused by a lesion of the right abducens nerve (CN VI), which innervates the lateral rectus muscle. Loss of pain and temperature of the left face could be caused by a lesion of the spinal nucleus of V. This nucleus is located in the medulla, and receives pain and temperature information from the face the trigeminal nerve (CN V). Ref: Rosenga A.J., Novakovic R.L., Frank J.I. (2005). Chapter 67. Coma, Persistent Vegetative State, and Brain Death. In J.B. Hall, G.A. Schmidt, L.D. Wood (Eds),Principles of Critical Care, 3e.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"neurological examination year woman\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7ec43e60-07bb-4423-ba35-800e5f731ab1": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., MitochondriaOrganelle or fractionMarkersMitochondriaInner membrane : - ATP synthase, Succinate dehydrogenaseIntermembrane space : - Creatine kinase, Adenyl kinase.Matrix : - Glutamate dehydrogenase. Pyruvate dehydrogenase, enzymes of TCA cycle & b-oxidation of fatty acidsPlasma membrane5'-ISucleotidase. Adenyl cyclase, Na+K+ ATPaseLysosomeAcid phosphataseGolgi ApparatusGalactosyl transferase, Golgi mannosidase II,Sialyl transferase, GIcNAc transferase IEndoplasmic reticulumGlucose-6-phosphatasePeroxisomeCatalase, Urate (uric acid) oxidaseCytosolLactate dehydrogenaseNucleusDNARibosomeHigh content of RNA"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., MitochondriaOrganelle or fractionMarkersMitochondriaInner membrane : - ATP synthase, Succinate dehydrogenaseIntermembrane space : - Creatine kinase, Adenyl kinase.Matrix : - Glutamate dehydrogenase. Pyruvate dehydrogenase, enzymes of TCA cycle & b-oxidation of fatty acidsPlasma membrane5'-ISucleotidase. Adenyl cyclase, Na+K+ ATPaseLysosomeAcid phosphataseGolgi ApparatusGalactosyl transferase, Golgi mannosidase II,Sialyl transferase, GIcNAc transferase IEndoplasmic reticulumGlucose-6-phosphatasePeroxisomeCatalase, Urate (uric acid) oxidaseCytosolLactate dehydrogenaseNucleusDNARibosomeHigh content of RNA",
+    "hint_exp": "🧩 Your crush solved \"synthetase marker\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3adfe9ee-ed5a-447c-abdf-018cd99d2788": {
-    "cop": 4,
-    "exp": "Many believe that casual contact with patients who are HIV-positive increases the risk of acquiring the disease. This is not the case. It is also clear that homosexual females have a low rate of HIV acquisition. Because a substantial portion of the blood supply in Central African countries is HIV-infected, hospitalization is risky particularly if transfusion is necessary."
+    "cop": 3,
+    "exp": "Many believe that casual contact with patients who are HIV-positive increases the risk of acquiring the disease. This is not the case. It is also clear that homosexual females have a low rate of HIV acquisition. Because a substantial portion of the blood supply in Central African countries is HIV-infected, hospitalization is risky particularly if transfusion is necessary.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"HIV infection\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "81be4c30-3ee6-455f-a624-705666946290": {
-    "cop": 1,
-    "exp": "FEMORAL SHEATH Funnel-shaped sleeve of fascia enclosing upper 3-4cm of femoral vessels. Anterior wall of sheath formed from fascia transversalis Posterior wall formed by fascia iliaca.Inferiorly the sheath merges with the connective tissue around femoral vessels.The femoral sheath is asymmetrical. Its lateral wall is veical, and the medial wall is oblique. Sheath is divided into 3 compaments.1.Lateral/aerial compament: femoral aery and femoral branch of genitofemoral nerve.2.Intermediate/venous compament:femoral vein.3.Medial/lymphatic compament:Also known as femoral canal.Contents:1. Lymph node of Cloquet / Rosenmuller. The lymph node drains glans penis in males and clitoris in females.2. Lymphatics 3. Areolar tissue. {Reference: BDC 6E vol 2 ; pg 47}"
+    "cop": 0,
+    "exp": "FEMORAL SHEATH Funnel-shaped sleeve of fascia enclosing upper 3-4cm of femoral vessels. Anterior wall of sheath formed from fascia transversalis Posterior wall formed by fascia iliaca.Inferiorly the sheath merges with the connective tissue around femoral vessels.The femoral sheath is asymmetrical. Its lateral wall is veical, and the medial wall is oblique. Sheath is divided into 3 compaments.1.Lateral/aerial compament: femoral aery and femoral branch of genitofemoral nerve.2.Intermediate/venous compament:femoral vein.3.Medial/lymphatic compament:Also known as femoral canal.Contents:1. Lymph node of Cloquet / Rosenmuller. The lymph node drains glans penis in males and clitoris in females.2. Lymphatics 3. Areolar tissue. {Reference: BDC 6E vol 2 ; pg 47}",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"inside femoral sheath except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a6b0eccb-845b-4ca8-be8f-4ce9f64f266c": {
-    "cop": 1,
-    "exp": "Uveal Effusion Syndrome (Ciliochoroidal Effusion) \n\nUveal effusion syndrome is an idiopathic disease of the retina and choroid characterized by abnormal accumulation of serous fluid in the outer layer or ciliary body or choroids.\nMain Features of uveal effusion syndrome are:-\n\n1) Structurally abnormal sclera (Thick sclera)\n\nSclera contains high levels of abnormal proteoglycans which bind and trap large volumes of water. Thus the sclera thickens and may secondarily obstruct the choroidal venous drainage.\n\n2)  Abnormal accumulation of serous fluid in the outer layer of the ciliary body and choroids\n\nA detachment of Ciliary body (Exudative) - Ciliochoroidal detachments\nA detachment of Choroid (Exudative) - Ciliochoroidal detachments\n\n\nA detachment of Retina (Exudative)\n\n\nThe absence of inflammation or neoplastic disease (Low-grade inflammation may be seen )\nEyes may be nanopthalmic (small) or hypermetropic\n\n\nPhthisis and hypotonia are usually due to ciliary body shut down from chronic detachment which compromises the blood supply to the ciliary processes.\n\n3)  Mottling of pigment epithelium (Leopard spots) may be seen\n\nUveal effusion syndrome is frequently confused clinically with ring melanoma of the ciliary body/ choroids and metastatic tumors which form an important differential diagnosis of this condition."
+    "cop": 0,
+    "exp": "Uveal Effusion Syndrome (Ciliochoroidal Effusion) \n\nUveal effusion syndrome is an idiopathic disease of the retina and choroid characterized by abnormal accumulation of serous fluid in the outer layer or ciliary body or choroids.\nMain Features of uveal effusion syndrome are:-\n\n1) Structurally abnormal sclera (Thick sclera)\n\nSclera contains high levels of abnormal proteoglycans which bind and trap large volumes of water. Thus the sclera thickens and may secondarily obstruct the choroidal venous drainage.\n\n2)  Abnormal accumulation of serous fluid in the outer layer of the ciliary body and choroids\n\nA detachment of Ciliary body (Exudative) - Ciliochoroidal detachments\nA detachment of Choroid (Exudative) - Ciliochoroidal detachments\n\n\nA detachment of Retina (Exudative)\n\n\nThe absence of inflammation or neoplastic disease (Low-grade inflammation may be seen )\nEyes may be nanopthalmic (small) or hypermetropic\n\n\nPhthisis and hypotonia are usually due to ciliary body shut down from chronic detachment which compromises the blood supply to the ciliary processes.\n\n3)  Mottling of pigment epithelium (Leopard spots) may be seen\n\nUveal effusion syndrome is frequently confused clinically with ring melanoma of the ciliary body/ choroids and metastatic tumors which form an important differential diagnosis of this condition.",
+    "hint_exp": "🎯 Think of \"Uveal effusion syndrome associated\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d1bdbc3d-4548-4ab6-9110-3c82b7f01b4f": {
-    "cop": 2,
-    "exp": "Let’s see each option separately—\nOption ‘a’ is Squamous cell carcinoma is common at squamous columnar junction.\nHistologically Ca cervix is of 2 types."
+    "cop": 1,
+    "exp": "Let’s see each option separately—\nOption ‘a’ is Squamous cell carcinoma is common at squamous columnar junction.\nHistologically Ca cervix is of 2 types.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"cervix\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "eb06a446-ee3f-4d1a-a2f6-b4c24ad39ae3": {
-    "cop": 1,
-    "exp": "Ans. (a) Seasonal affective disorderRef: Principles and Practice of Psychopharmacotherapy by Philip G. Janicaky Stephen R. Marder, Mani N. Pavuluri p.244"
+    "cop": 0,
+    "exp": "Ans. (a) Seasonal affective disorderRef: Principles and Practice of Psychopharmacotherapy by Philip G. Janicaky Stephen R. Marder, Mani N. Pavuluri p.244",
+    "hint_exp": "🧩 Your crush solved \"used for\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "50947a26-35cc-4370-9c2f-a94526bf4f46": {
-    "cop": 2,
-    "exp": "Because the polyps are vascular & friable, they bleed easily upon manipulation. Complete excision of mass is done with diathermy knife & cauterization of base. Dapsone is being tried for treating rhinosporidiosis but with limited success. Russel bodies are not seen in Rhinosporidiosis but are a diagnostic feature of Rhinoscleroma."
+    "cop": 1,
+    "exp": "Because the polyps are vascular & friable, they bleed easily upon manipulation. Complete excision of mass is done with diathermy knife & cauterization of base. Dapsone is being tried for treating rhinosporidiosis but with limited success. Russel bodies are not seen in Rhinosporidiosis but are a diagnostic feature of Rhinoscleroma.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b747e14f-db51-4375-ac19-ffb7ead218fd": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Optic o Trigeminal nerve has 3 motor branches -- Ophthalmic, mandibular, maxillary,o Trigeminal nerve has 4 nuclei:Sensory: Sensory to faceMotor : To temporalis, masseter, tensor tympani, tensor veli palatine, mylohypid, anterior belly digastrics.Mesencephalic nucleus: Unipolar nerve cells in lateral part of grey matter around aqueduct.Spinal nucleus : Extends as far as C2 segment spinal cord."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Optic o Trigeminal nerve has 3 motor branches -- Ophthalmic, mandibular, maxillary,o Trigeminal nerve has 4 nuclei:Sensory: Sensory to faceMotor : To temporalis, masseter, tensor tympani, tensor veli palatine, mylohypid, anterior belly digastrics.Mesencephalic nucleus: Unipolar nerve cells in lateral part of grey matter around aqueduct.Spinal nucleus : Extends as far as C2 segment spinal cord.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "29d158f7-b2ec-48d5-a12e-2bcdfcabeee0": {
-    "cop": 3,
-    "exp": "Galens anastomosis is purely sensory. Branch of internal branch of superior laryngeal nerve communicating with the recurrent laryngeal nerve in the wall of the laryngopharynx supplying sensory fibers to the latter. Ref:- TB of ENT, Hazarika; pg num:- 623"
+    "cop": 2,
+    "exp": "Galens anastomosis is purely sensory. Branch of internal branch of superior laryngeal nerve communicating with the recurrent laryngeal nerve in the wall of the laryngopharynx supplying sensory fibers to the latter. Ref:- TB of ENT, Hazarika; pg num:- 623",
+    "hint_exp": "🎯 Think of \"between SLN and RLN\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "be4e821b-72c5-4a1c-9137-a0d12bf76c88": {
-    "cop": 1,
-    "exp": "azoospermia [Ref: Katzung Pharmacology 10/e p675; Guyton 11/e p1066; KDT 5/e p2911 \"Replacement therapy in men may cause acne, sleep apnea, erythrocytosis, gynecomastia, and azoospermia. Supraphysiologic doses of androgens produce azoospermia and decrease in testicular size, both of which may take months to recover after cessation of therapy.\""
+    "cop": 0,
+    "exp": "azoospermia [Ref: Katzung Pharmacology 10/e p675; Guyton 11/e p1066; KDT 5/e p2911 \"Replacement therapy in men may cause acne, sleep apnea, erythrocytosis, gynecomastia, and azoospermia. Supraphysiologic doses of androgens produce azoospermia and decrease in testicular size, both of which may take months to recover after cessation of therapy.\"",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"given continuous testosterone would\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "515935dd-905c-4978-9d58-03f8fc812f0e": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"a diamond abrasive instrument\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bdb11797-b835-4d58-891f-1e1f0397c2e9": {
-    "cop": 4,
-    "exp": "The auditory fibres are carried in the inferior thalamic radiation which passes through the sublentiform pa of internal capsule. The other fibres passing through the sublentiform pa are temporopontine fibres and thalamotemporal fibres. (Ref: Vishram Singh textbook of clinical neuroanatomy, second edition pg- 167)"
+    "cop": 3,
+    "exp": "The auditory fibres are carried in the inferior thalamic radiation which passes through the sublentiform pa of internal capsule. The other fibres passing through the sublentiform pa are temporopontine fibres and thalamotemporal fibres. (Ref: Vishram Singh textbook of clinical neuroanatomy, second edition pg- 167)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Through which internal capsule\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f7b07ffa-877d-4fc5-ac3c-7e9c7561a307": {
-    "cop": 1,
-    "exp": "Amniocentesis is done during 16th week of pregnancy. Fetal blood sampling is done after 17-18 weeks, chorionic villi during 11-12 weeks of pregnancy, maternal blood AFP during 15-20 weeks. Ref: Textbook of Gynaecology By Dutta, 6th Edition, Page 108; In-Vitro Feilization By Kay Elder, Brian Dale, Yves Menezo, Joyce Harper, John Huntriss, 2010, Page 243; Donald School Textbook of Ultrasound in Obstetrics and Gynecology By Asim Kurjak, 2008, Page 755."
+    "cop": 0,
+    "exp": "Amniocentesis is done during 16th week of pregnancy. Fetal blood sampling is done after 17-18 weeks, chorionic villi during 11-12 weeks of pregnancy, maternal blood AFP during 15-20 weeks. Ref: Textbook of Gynaecology By Dutta, 6th Edition, Page 108; In-Vitro Feilization By Kay Elder, Brian Dale, Yves Menezo, Joyce Harper, John Huntriss, 2010, Page 243; Donald School Textbook of Ultrasound in Obstetrics and Gynecology By Asim Kurjak, 2008, Page 755.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Prenatal diagnosis weeks pregnancy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d66466e3-aeb4-45e0-98ce-8b27a7a76e4c": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"most commonly\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a4500a2a-78fa-456f-aff0-84a0986b6d13": {
-    "cop": 3,
-    "exp": "<p> Corpulence index= Actual weight/Desirable weight. Reference:Park&;s textbook of preventive and social medicine,K.Park,23rd edition,page no:400. <\\p>"
+    "cop": 2,
+    "exp": "<p> Corpulence index= Actual weight/Desirable weight. Reference:Park&;s textbook of preventive and social medicine,K.Park,23rd edition,page no:400. <\\p>",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "163a20d0-1c59-4cfb-b642-bf73aca3fe2d": {
-    "cop": 2,
-    "exp": "Ans. (b) AtelectasisRef: Bailey and Love 26th edition Page 273Post op complications - Respiratory:* MC post operative complications are - Hypoxemia, Hypercarbia and Aspiration in recovery room* Hypoxia reasons:# Upper airway obstruction due to secretion# Laryngeal edema# Recurrent laryngeal nerve injury after thyroid surgery# Hypoventilation related to anesthesia# Atelectasis# Pneumonia# Pulmonary edema of cardiac origin# Pulmonary embolism"
+    "cop": 1,
+    "exp": "Ans. (b) AtelectasisRef: Bailey and Love 26th edition Page 273Post op complications - Respiratory:* MC post operative complications are - Hypoxemia, Hypercarbia and Aspiration in recovery room* Hypoxia reasons:# Upper airway obstruction due to secretion# Laryngeal edema# Recurrent laryngeal nerve injury after thyroid surgery# Hypoventilation related to anesthesia# Atelectasis# Pneumonia# Pulmonary edema of cardiac origin# Pulmonary embolism",
+    "hint_exp": "🧩 Your crush solved \"female post open cholecystectomy\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dc0ba9d1-a4a2-4382-8480-2d880358b5d1": {
-    "cop": 4,
-    "exp": "Thiazide type diuretics cause Hypercalcemia by retaining calcium from excretion whereas loop diuretic increase calcium excretion . Steroids are also used in treatment of Hypercalcemia Ref - pubmed.com"
+    "cop": 3,
+    "exp": "Thiazide type diuretics cause Hypercalcemia by retaining calcium from excretion whereas loop diuretic increase calcium excretion . Steroids are also used in treatment of Hypercalcemia Ref - pubmed.com",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"drugs used treatment idiopathic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "96f9ec6e-cfb0-406e-92d9-c45944294caf": {
-    "cop": 1,
-    "exp": "Wilson-Mikity syndrome is not associated with obesity. Causes of obesity.Endocrine causes: Cushing syndrome; Hypothyroidism; Growth hormone deficiency; Hyperinsulinemia; Hypothalamic dysfunction; Stein-Leventhal syndrome (polycystic ovary); Prader-Willi syndrome; Pseudohypoparathyroidism type I Genetic syndromes: Turner syndrome; Laurence-Moon- Biedl syndrome; Alstrom-Hallgren syndrome Other syndromes: Cohen syndrome; Carpenter syndrome"
+    "cop": 0,
+    "exp": "Wilson-Mikity syndrome is not associated with obesity. Causes of obesity.Endocrine causes: Cushing syndrome; Hypothyroidism; Growth hormone deficiency; Hyperinsulinemia; Hypothalamic dysfunction; Stein-Leventhal syndrome (polycystic ovary); Prader-Willi syndrome; Pseudohypoparathyroidism type I Genetic syndromes: Turner syndrome; Laurence-Moon- Biedl syndrome; Alstrom-Hallgren syndrome Other syndromes: Cohen syndrome; Carpenter syndrome",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which associated with childhood\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "767cc25b-93bc-4e47-9ade-c5555b973789": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"term balanced anaesthesia been\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "92cc1ee7-4daf-4c2c-ae27-c8d5964f7a9a": {
-    "cop": 4,
-    "exp": "Bronchiolitis obliterans is a rare chronic obstructive lung disease characterized by complete obliteration of the small airways following a severe insult. The most common form in children is postinfectious, following a lower airway tract infection commonly with adenovirus. Children with bronchiolitis obliterans usually experience dyspnea, coughing, and exercise intolerance. Chest radiograph abnormalities include evidence of heterogeneous air trapping and airway wall thickening. Ref: Federico M.J., Stillwell P., Deterding R.R., Baker C.D., Balasubramaniam V., Zemanick E.T., Sagel S.D., Halbower A., Burg C.J., Kerby G.S. (2012). Chapter 19. Respiratory Tract & Mediastinum. In W.W. Hay, Jr., M.J. Levin, R.R. Deterding, J.J. Ross, J.M. Sondheimer (Eds), CURRENT Diagnosis & Treatment: Pediatrics, 21e."
+    "cop": 3,
+    "exp": "Bronchiolitis obliterans is a rare chronic obstructive lung disease characterized by complete obliteration of the small airways following a severe insult. The most common form in children is postinfectious, following a lower airway tract infection commonly with adenovirus. Children with bronchiolitis obliterans usually experience dyspnea, coughing, and exercise intolerance. Chest radiograph abnormalities include evidence of heterogeneous air trapping and airway wall thickening. Ref: Federico M.J., Stillwell P., Deterding R.R., Baker C.D., Balasubramaniam V., Zemanick E.T., Sagel S.D., Halbower A., Burg C.J., Kerby G.S. (2012). Chapter 19. Respiratory Tract & Mediastinum. In W.W. Hay, Jr., M.J. Levin, R.R. Deterding, J.J. Ross, J.M. Sondheimer (Eds), CURRENT Diagnosis & Treatment: Pediatrics, 21e.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"month child moderate fever\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "90227b71-9193-4eae-8f76-3d69afc86c76": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Xylitol caloric sweetener inhibits\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cb39f9b0-df35-48f9-a6ec-334df2c6a088": {
-    "cop": 1,
-    "exp": "Answer A. Hodgkin's lymphomaBilateral hilar lymphadenopathy with hypercalcemia and a suppressed parathyroid hormone level is most consistent with Hodgkin's lymphoma, which is associated with unregulated activation of vitamin D."
+    "cop": 0,
+    "exp": "Answer A. Hodgkin's lymphomaBilateral hilar lymphadenopathy with hypercalcemia and a suppressed parathyroid hormone level is most consistent with Hodgkin's lymphoma, which is associated with unregulated activation of vitamin D.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the diagnosis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "63966844-4d23-4209-8e04-edaeeb8a3bd3": {
-    "cop": 1,
-    "exp": "This patient has the classic presentation of gastroesophageal reflux disease (GERD) in association with scleroderma. These patients have the deposition of collagen in the body of the esophagus, as well as the lower esophageal sphincter (LES). This results in the typical pattern of decreased esophageal peristalsis and the reduced ability of the LES to maintain its high pressures between swallowing. These patients are therefore at risk for severe GERD and subsequent complications of peptic stricture and Barrett&;s esophagus. Although there is no corrective therapy to improve esophageal motility or increase LES pressure, aggressive treatment is generally aimed at reducing acid production with the use of high doses of proton pump inhibitors. Neveheless, many of these patients develop the long-term consequences of GERD. Achalasia, in which impaired esophageal peristalsis is often accompanied by a lack of lower esophageal sphincter relaxation."
+    "cop": 0,
+    "exp": "This patient has the classic presentation of gastroesophageal reflux disease (GERD) in association with scleroderma. These patients have the deposition of collagen in the body of the esophagus, as well as the lower esophageal sphincter (LES). This results in the typical pattern of decreased esophageal peristalsis and the reduced ability of the LES to maintain its high pressures between swallowing. These patients are therefore at risk for severe GERD and subsequent complications of peptic stricture and Barrett&;s esophagus. Although there is no corrective therapy to improve esophageal motility or increase LES pressure, aggressive treatment is generally aimed at reducing acid production with the use of high doses of proton pump inhibitors. Neveheless, many of these patients develop the long-term consequences of GERD. Achalasia, in which impaired esophageal peristalsis is often accompanied by a lack of lower esophageal sphincter relaxation.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"this test\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2c90cd68-e6c5-4e31-a4ab-c07778b0143b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"stands\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2fc5c784-d7b1-4c91-8ad0-e3441070b45a": {
-    "cop": 2,
-    "exp": "Vossius ring is the Iris pigments inprinted on the anterior capsule of the lens in shape of Pupil It is due to blunt trauma Refer: Khurana 6th edition page number 430"
+    "cop": 1,
+    "exp": "Vossius ring is the Iris pigments inprinted on the anterior capsule of the lens in shape of Pupil It is due to blunt trauma Refer: Khurana 6th edition page number 430",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen on\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "30f0afaa-d1e0-4072-a8d5-edd8580c87ac": {
-    "cop": 1,
-    "exp": "Chemical mediators of inflammation Cellular mediatorsPreformed mediators in secretory granulesNewly synthesizedHistamineSerotonin Lysosomal enzymes ProstaglandinsLeukotrienesPlatelet-activating factorActivated oxygen species Nitric oxide Cytokines Plasma mediatorsFactor XII activationComplement activationKinin system Coagulation / fibrinolysis system C3aC5aC3bC5b - 9 (Refer: Robbins & Cotran's - Pathologic Basis of Disease, SAE, 1st edition, Vol I-pg no: 82-85)"
+    "cop": 0,
+    "exp": "Chemical mediators of inflammation Cellular mediatorsPreformed mediators in secretory granulesNewly synthesizedHistamineSerotonin Lysosomal enzymes ProstaglandinsLeukotrienesPlatelet-activating factorActivated oxygen species Nitric oxide Cytokines Plasma mediatorsFactor XII activationComplement activationKinin system Coagulation / fibrinolysis system C3aC5aC3bC5b - 9 (Refer: Robbins & Cotran's - Pathologic Basis of Disease, SAE, 1st edition, Vol I-pg no: 82-85)",
+    "hint_exp": "🧩 Your crush solved \"inflammation\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f0ce898a-eeaa-4288-a7c0-ca7cd1940256": {
-    "cop": 1,
-    "exp": "Type of thought disorder clinical condition clang assosiation mania flight of ideas mania prolixity hypomania loosening of assosiation schizophrenia neologism schizophrenia circumstantiality organicity Ref. Kaplon and Sadock, synopsis of psychiatry, 11 th edition, Pg.No.194"
+    "cop": 0,
+    "exp": "Type of thought disorder clinical condition clang assosiation mania flight of ideas mania prolixity hypomania loosening of assosiation schizophrenia neologism schizophrenia circumstantiality organicity Ref. Kaplon and Sadock, synopsis of psychiatry, 11 th edition, Pg.No.194",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a charecterstic of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c6875297-a6c5-4b27-bdec-3409c1fe0a8b": {
-    "cop": 1,
-    "exp": "Ans. (a) Life free of disability* The simplest index of health which incorporates morbidity as well as mortality is Sullivan's Index of Disability-Free Life Expectancy (DFLE)ALSO REMEMBER* Chandler's Index: Hookworm eggs/gm of stool* Standard of living : Income and occupation, standards of housing, sanitation and nutrition, level of provision of health, educational, recreational and other services* Pregnancy rate per HWY: Pearl Index (Failure rate of Contraceptives)"
+    "cop": 0,
+    "exp": "Ans. (a) Life free of disability* The simplest index of health which incorporates morbidity as well as mortality is Sullivan's Index of Disability-Free Life Expectancy (DFLE)ALSO REMEMBER* Chandler's Index: Hookworm eggs/gm of stool* Standard of living : Income and occupation, standards of housing, sanitation and nutrition, level of provision of health, educational, recreational and other services* Pregnancy rate per HWY: Pearl Index (Failure rate of Contraceptives)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Sullivan index indicates\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7786fecd-375f-4a72-bf25-4688e564a42b": {
-    "cop": 1,
-    "exp": "Answer is A (Vitamin A ): Hypercalcemia is associated with Vitamin A intoxication due to increased / high bone turnover and Vitamin D intoxication."
+    "cop": 0,
+    "exp": "Answer is A (Vitamin A ): Hypercalcemia is associated with Vitamin A intoxication due to increased / high bone turnover and Vitamin D intoxication.",
+    "hint_exp": "🎯 Think of \"bone metabolism\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "593c0864-3b3f-4042-81f6-8abcf8e64cac": {
-    "cop": 2,
-    "exp": "Ans-B"
+    "cop": 1,
+    "exp": "Ans-B",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"endometrial svnechea\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a1a623bf-fcac-4894-883c-cd9abfbd085c": {
-    "cop": 2,
-    "exp": "b. Vein of Galen malformationCT angiography shows enhancing rounded lesion at tentorial apex, extending posteriorly & draining into dilated superior sagittal sinus, through dilated straight sinus, suggestive of vein of Galen malformation.The anomaly is actually due to a cerebral arteriovenous fistula of the median prosencephalic vein (a precursor of the vein of Galen) occurring at 6-11 weeks gestation."
+    "cop": 1,
+    "exp": "b. Vein of Galen malformationCT angiography shows enhancing rounded lesion at tentorial apex, extending posteriorly & draining into dilated superior sagittal sinus, through dilated straight sinus, suggestive of vein of Galen malformation.The anomaly is actually due to a cerebral arteriovenous fistula of the median prosencephalic vein (a precursor of the vein of Galen) occurring at 6-11 weeks gestation.",
+    "hint_exp": "🧩 Your crush solved \"the neonate\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5c0a3ba8-c63e-444c-97c6-6c3f41d234b9": {
-    "cop": 3,
-    "exp": "Ans is 'c' i.e., Anterior duodenal ulcers Complications of peptic ulcer1) Gastrointestinal bleeding* Most common complication of peptic ulcer* Bleeding is more common in duodenal ulcers* It is commonly seen in posterior duodenal ulcers because of erosion of gastroduodenal artery.2) Perforation* It is the second most common complication of peptic ulcer disease.* Perforation occurs commonly in the ulcers located in the anterior part of duodenum.* Duodenal ulcers tend to penetrate into pancreas causing pancreatitis.* Gastric ulcers tend to penetrate into left hepatic lobe.3) Gastric outlet obstruction* It is the least common ulcer related complication.* It is commonly associated with duodenal ulcers.* Tea pot stomach is caused due to longitudinal shortening of the gastric ulcer at the lesser curvature of the stomach (It causes the stomach to look like tea pot).* Hourglass stomach is caused due to cicatricial contraction of a saddle shaped ulcer at the lesser curvature.* Most common complication of peptic ulcer is gastro intestinal bleeding.* It is seen with both chronic and acute type of ulcers. Infact, chronic peptic ulcers are the most common cause of haematemesis and malaena."
+    "cop": 2,
+    "exp": "Ans is 'c' i.e., Anterior duodenal ulcers Complications of peptic ulcer1) Gastrointestinal bleeding* Most common complication of peptic ulcer* Bleeding is more common in duodenal ulcers* It is commonly seen in posterior duodenal ulcers because of erosion of gastroduodenal artery.2) Perforation* It is the second most common complication of peptic ulcer disease.* Perforation occurs commonly in the ulcers located in the anterior part of duodenum.* Duodenal ulcers tend to penetrate into pancreas causing pancreatitis.* Gastric ulcers tend to penetrate into left hepatic lobe.3) Gastric outlet obstruction* It is the least common ulcer related complication.* It is commonly associated with duodenal ulcers.* Tea pot stomach is caused due to longitudinal shortening of the gastric ulcer at the lesser curvature of the stomach (It causes the stomach to look like tea pot).* Hourglass stomach is caused due to cicatricial contraction of a saddle shaped ulcer at the lesser curvature.* Most common complication of peptic ulcer is gastro intestinal bleeding.* It is seen with both chronic and acute type of ulcers. Infact, chronic peptic ulcers are the most common cause of haematemesis and malaena.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"which site\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2c31decd-9666-4923-813d-71372610c804": {
-    "cop": 1,
-    "exp": "Answer is 'a' i.e. Apical lobe of lung \"Pancoast's (or superior sulcus tumor) syndrome results from local extension of a tumor growing in the apex of the lung with involvement of the eighth cervical and first and second thoracic nerves, with shoulder pain that characteristically radiates in the ulnar distribution of the arm, often with radiologic destruction of the first and second ribs.\" - Harrison"
+    "cop": 0,
+    "exp": "Answer is 'a' i.e. Apical lobe of lung \"Pancoast's (or superior sulcus tumor) syndrome results from local extension of a tumor growing in the apex of the lung with involvement of the eighth cervical and first and second thoracic nerves, with shoulder pain that characteristically radiates in the ulnar distribution of the arm, often with radiologic destruction of the first and second ribs.\" - Harrison",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Pancoast tumour seen with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8815b6bd-f40c-4a03-8f3c-fcc55f27ebad": {
-    "cop": 1,
-    "exp": "Ans. (A) Spironolactone(Ref: KDT 8/e p635)Important drugs causing gynaecomastia are:D - DigitalisI - IsoniazidS - SpironolactoneC - Cimetidine (and Ketoconazole)O - Oestrogens (and anti-testosterones)"
+    "cop": 0,
+    "exp": "Ans. (A) Spironolactone(Ref: KDT 8/e p635)Important drugs causing gynaecomastia are:D - DigitalisI - IsoniazidS - SpironolactoneC - Cimetidine (and Ketoconazole)O - Oestrogens (and anti-testosterones)",
+    "hint_exp": "🎯 Think of \"Drug causing gynecomastia\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c32d98fa-f871-4e1c-a905-e62fccfd3339": {
-    "cop": 3,
-    "exp": "mu(u) rhythm * 7 - 11 Hz normal waves. Seen during wakefulness and drowsiness. Arises from the Rolandic coex (primary sensorimotor coex) at rest. It can be unilateral, asynchronous and asymmetric."
+    "cop": 2,
+    "exp": "mu(u) rhythm * 7 - 11 Hz normal waves. Seen during wakefulness and drowsiness. Arises from the Rolandic coex (primary sensorimotor coex) at rest. It can be unilateral, asynchronous and asymmetric.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"rhythm arises from\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6df881e8-dbc2-41f6-9fdf-2c7cb087582a": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Zona glomerulosa secretes\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9d1f7662-a625-49cb-8ccd-43d81c677ca3": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"periodontitis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "46d7f0c6-cc40-4a81-888c-945338ffe6ed": {
-    "cop": 1,
-    "exp": "<p> VARICOCELE:- Dilatation and touosity of the pampiniform plexus and so also the testicular veins. Common in tall thin young men. More common on the left side, but often can be bilateral. Etiology:- 1. Absence or incompetent valve at the junction of left testicular vein and left renal vein causing inefficient drainage of blood. 2. Perpendicular entry of the left testicular vein into left renal vein. 3. Idiopathic In left sided renal cell carcinoma, tumor proliferates into left renal vein and blocks the entry of left testicular vein causing varicocoele on left side which is irreducible. Varicocoele causes increased temperature in scrotum which depresses the spermatogenesis and so causes infeility. Types- primary and secondary. Clinical features:- 1. Swelling in the root of the scrotum. 2. Dragging pain in the groin and scrotum 3. Bag of worms feeling 4. Impulse on coughing 5. On lying down, it gets reduced . Bow sign- after holding the varicocele between thumb and fingers , patient is asked to bow. Varicocoele gets reduces the blood flow of testicular vein and pampiniform plexus causing reduction in size. {Reference: SRB&;s manual of surgery, 5th edition , page no. 1076}"
+    "cop": 0,
+    "exp": "<p> VARICOCELE:- Dilatation and touosity of the pampiniform plexus and so also the testicular veins. Common in tall thin young men. More common on the left side, but often can be bilateral. Etiology:- 1. Absence or incompetent valve at the junction of left testicular vein and left renal vein causing inefficient drainage of blood. 2. Perpendicular entry of the left testicular vein into left renal vein. 3. Idiopathic In left sided renal cell carcinoma, tumor proliferates into left renal vein and blocks the entry of left testicular vein causing varicocoele on left side which is irreducible. Varicocoele causes increased temperature in scrotum which depresses the spermatogenesis and so causes infeility. Types- primary and secondary. Clinical features:- 1. Swelling in the root of the scrotum. 2. Dragging pain in the groin and scrotum 3. Bag of worms feeling 4. Impulse on coughing 5. On lying down, it gets reduced . Bow sign- after holding the varicocele between thumb and fingers , patient is asked to bow. Varicocoele gets reduces the blood flow of testicular vein and pampiniform plexus causing reduction in size. {Reference: SRB&;s manual of surgery, 5th edition , page no. 1076}",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6ece0c0e-9a45-4321-bf48-a6347f077a7e": {
-    "cop": 2,
-    "exp": "S1Q3T3 pattern with sinus tachycardia is characterestic of acute pulmonary embolism ie: an s wave in lead I, a Q wave in lead III and an inveed T wave in lead III. These findings are specific but insensitive. and the most common abnormality is T wave inversion in leads V1 to V4. Ref: Harrisons principles of internal medicine, 18th edition, Page: 2172."
+    "cop": 1,
+    "exp": "S1Q3T3 pattern with sinus tachycardia is characterestic of acute pulmonary embolism ie: an s wave in lead I, a Q wave in lead III and an inveed T wave in lead III. These findings are specific but insensitive. and the most common abnormality is T wave inversion in leads V1 to V4. Ref: Harrisons principles of internal medicine, 18th edition, Page: 2172.",
+    "hint_exp": "🎯 Think of \"year presents with severe\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "68dfcaaf-7032-4ad8-995c-567c0f7a869b": {
-    "cop": 4,
-    "exp": "With severe hypercalcemia, the QT interval is markedly shortened. There is a correlation between the length of QT interval and the degree of hypercalcemia."
+    "cop": 3,
+    "exp": "With severe hypercalcemia, the QT interval is markedly shortened. There is a correlation between the length of QT interval and the degree of hypercalcemia.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year woman presents with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "aab19089-ed7f-4313-9d16-b9d2b803a835": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Tragus and crux of helix o Incisura terminal is is the area between the tragus and crus of helix"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Tragus and crux of helix o Incisura terminal is is the area between the tragus and crus of helix",
+    "hint_exp": "🧩 Your crush solved \"Incisura terminalis between\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1b84f9c3-9ca3-4376-9a18-52422e7adbb5": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Propranolol Drugs used for alcohol dependence to prevent relapse are:o Naltrexaneo Nalmefeneo Acamprosateo Disulfiramo Ondansetrono Topiramate"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Propranolol Drugs used for alcohol dependence to prevent relapse are:o Naltrexaneo Nalmefeneo Acamprosateo Disulfiramo Ondansetrono Topiramate",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"following drugs used prevent\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "151f2f05-e688-4cc4-b907-7e8b2e0ca69d": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"minor salivary gland\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3dd43d5a-2e06-4719-84fe-d8720813738c": {
-    "cop": 4,
-    "exp": "Follow up This patient has stage Ib Ca cervix (i.e. clinical lesion confined to cervix). Management of Ca cervix consists of Primary management and Post-op management. Primary Mx of Ib Radical hysterectomy + lymphadenectomy (detailed Mx of Ib described ahead) Post surgical management depends on presence or absence of risk factors. So here this patient has stage Ib Ca cervix - She has undergone total radical hysterectomy, which is the appropriate primary management. Post-op it is found that carcinoma is extending to lower pa of body of uterus. This is the tricky pa of the question. - an extension to uterus is given no consideration in FIGO clinical staging of Ca Cervix. Fuhermore Novak writes - \"After a clinical stage is assigned and treatment has been initiated the stage must not be changed because of subsequent findings of either extended clinical staging or surgical staging\". So a finding of uterus involvement is not going to change the stage or the management. Post op. management (i.e. either follow up, radiotherapy or chemoradiation) is going to be determined by presence or absence of risk factors. In the question, no risk factor has been mentioned (uterine involvement is not a risk factor). So we assume that none are present and hence fuher management would be -> 'follow up' Management of Ca Cervix Primary Management of Note - Radiotherapy can also be used for stages la to Ila if patient is medically inooperable. Trachelectomy or cervicectomy refers to surgical removal of cervix. In radical trachelectomy parametria and vaginal cuff are also excised along with removal of cervix. This is a feility preserving alternative to radical hysterectomy in younger patients with early stage carcinoma. Types of hysterectomy Type I - Simple (extrafascial) hysterectomy routinely done for benign conditions for e.g. fibroid. Type II - (Weheim's or modified radical hysterectomy) In type II along with hysterectomy, medial half of the cardinal and uterosacral ligaments and proximal 1-2 cm of vagina are also removed. Type III - (Meigs radical hysterectomy) It includes removal of most of the uterosacral and cardinal ligaments and the upper one third of the vagina. Both type II & type III hysterectomy includes pelvic lymph node dissection. Type IV - (extended radical hysterectomy) In type IV, the periureteral tissue, superior vesical aery, and as much as 3/4th of vagina in addition are removed. Type V (paial exenteration) - Poions of the distal ureter and bladder are resected. Type IV & V are rarely performed because radiotherapy is more adequate treatment in extensive disease. These factors are seen during histopathological examination of specimens (uterus, cervix, parametria, vaginal cuff, lymph nodes etc.) of radical hysterectomy and lymphadenectomy. Let's also have a revision of Ca Cx staging FIGO Staging of Carcinoma of the Cervix Preinvasive Carcinoma 0 Carcinoma in situ Invasive Carcinoma I Carcinoma is strictly confined to the cervix lA Invasive cancer identified only microscopically. All gross lesions even with superficial invasion are stage lB cancers. Invasion is limited to measured stromal invasion = 5 mm deep and < 7 mm wide. IA1 Measured invasion of stroma <3 mm deep and <7 mm wide IA2 Measured invasion of stroma >3-5 mm deep and <7 mm wide IB Clinical lesions confined to the cervix or microscopic lesions greater than stage IA M1 Clinical lesions <4 cm in size 1B2 Clinical >4 cm in size II Carcinoma extends beyond the cervix but has not extended to the pelvic wall or lower third of the vagina. IIA No obvious parametrial involvement IIB Obvious parametrial involvement III Carcinoma has extended to the pelvic wall. On rectal examination, there is no cancer free space between the tumor and the pelvic wall. The tumor involves the lower third of the vagina. All cases of hydronephrosis or nonfunctioning kidney are included unless known to be due to another cause. IIIA No extension to the pelvic wall IIII3 Extension to the pelvic wall, hydronephrosis, or nonfunctioning kidney IV Carcinoma has extended beyond the true pelvis or has clinically involved the mucosa of the bladder or rectum. Bullous edema does permit a case to be allocated to stage IV. IVA Spread of growth to adjacent organs IVB Spread to distant organs"
+    "cop": 3,
+    "exp": "Follow up This patient has stage Ib Ca cervix (i.e. clinical lesion confined to cervix). Management of Ca cervix consists of Primary management and Post-op management. Primary Mx of Ib Radical hysterectomy + lymphadenectomy (detailed Mx of Ib described ahead) Post surgical management depends on presence or absence of risk factors. So here this patient has stage Ib Ca cervix - She has undergone total radical hysterectomy, which is the appropriate primary management. Post-op it is found that carcinoma is extending to lower pa of body of uterus. This is the tricky pa of the question. - an extension to uterus is given no consideration in FIGO clinical staging of Ca Cervix. Fuhermore Novak writes - \"After a clinical stage is assigned and treatment has been initiated the stage must not be changed because of subsequent findings of either extended clinical staging or surgical staging\". So a finding of uterus involvement is not going to change the stage or the management. Post op. management (i.e. either follow up, radiotherapy or chemoradiation) is going to be determined by presence or absence of risk factors. In the question, no risk factor has been mentioned (uterine involvement is not a risk factor). So we assume that none are present and hence fuher management would be -> 'follow up' Management of Ca Cervix Primary Management of Note - Radiotherapy can also be used for stages la to Ila if patient is medically inooperable. Trachelectomy or cervicectomy refers to surgical removal of cervix. In radical trachelectomy parametria and vaginal cuff are also excised along with removal of cervix. This is a feility preserving alternative to radical hysterectomy in younger patients with early stage carcinoma. Types of hysterectomy Type I - Simple (extrafascial) hysterectomy routinely done for benign conditions for e.g. fibroid. Type II - (Weheim's or modified radical hysterectomy) In type II along with hysterectomy, medial half of the cardinal and uterosacral ligaments and proximal 1-2 cm of vagina are also removed. Type III - (Meigs radical hysterectomy) It includes removal of most of the uterosacral and cardinal ligaments and the upper one third of the vagina. Both type II & type III hysterectomy includes pelvic lymph node dissection. Type IV - (extended radical hysterectomy) In type IV, the periureteral tissue, superior vesical aery, and as much as 3/4th of vagina in addition are removed. Type V (paial exenteration) - Poions of the distal ureter and bladder are resected. Type IV & V are rarely performed because radiotherapy is more adequate treatment in extensive disease. These factors are seen during histopathological examination of specimens (uterus, cervix, parametria, vaginal cuff, lymph nodes etc.) of radical hysterectomy and lymphadenectomy. Let's also have a revision of Ca Cx staging FIGO Staging of Carcinoma of the Cervix Preinvasive Carcinoma 0 Carcinoma in situ Invasive Carcinoma I Carcinoma is strictly confined to the cervix lA Invasive cancer identified only microscopically. All gross lesions even with superficial invasion are stage lB cancers. Invasion is limited to measured stromal invasion = 5 mm deep and < 7 mm wide. IA1 Measured invasion of stroma <3 mm deep and <7 mm wide IA2 Measured invasion of stroma >3-5 mm deep and <7 mm wide IB Clinical lesions confined to the cervix or microscopic lesions greater than stage IA M1 Clinical lesions <4 cm in size 1B2 Clinical >4 cm in size II Carcinoma extends beyond the cervix but has not extended to the pelvic wall or lower third of the vagina. IIA No obvious parametrial involvement IIB Obvious parametrial involvement III Carcinoma has extended to the pelvic wall. On rectal examination, there is no cancer free space between the tumor and the pelvic wall. The tumor involves the lower third of the vagina. All cases of hydronephrosis or nonfunctioning kidney are included unless known to be due to another cause. IIIA No extension to the pelvic wall IIII3 Extension to the pelvic wall, hydronephrosis, or nonfunctioning kidney IV Carcinoma has extended beyond the true pelvis or has clinically involved the mucosa of the bladder or rectum. Bullous edema does permit a case to be allocated to stage IV. IVA Spread of growth to adjacent organs IVB Spread to distant organs",
+    "hint_exp": "🎯 Think of \"management will be\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "423978d5-9dc3-43fc-92e1-1d3ded0c15d0": {
-    "cop": 1,
-    "exp": "Macrophages are a type of white blood cell, of the immune system, that engulfs and digests cellular debris, foreign substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy body cells on its surface in a process called phagocytosis.\nThis large phagocytes are found in essentially all tissues, where they patrol for potential pathogens by amoeboid movement. They take various forms (with various names) throughout the body (e.g., histiocytes, Kupffer cells, alveolar macrophages, microglia, and others), but all are part of the mononuclear phagocyte system. Besides phagocytosis, they play a critical role in nonspecific defence (innate immunity) and also help initiate specific defence mechanisms (adaptive immunity) by recruiting other immune cells such as lymphocytes. For example, they are important as antigen presenters to T cells. In humans, dysfunctional macrophages cause severe diseases such as a chronic granulomatous disease that result in frequent infections."
+    "cop": 0,
+    "exp": "Macrophages are a type of white blood cell, of the immune system, that engulfs and digests cellular debris, foreign substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy body cells on its surface in a process called phagocytosis.\nThis large phagocytes are found in essentially all tissues, where they patrol for potential pathogens by amoeboid movement. They take various forms (with various names) throughout the body (e.g., histiocytes, Kupffer cells, alveolar macrophages, microglia, and others), but all are part of the mononuclear phagocyte system. Besides phagocytosis, they play a critical role in nonspecific defence (innate immunity) and also help initiate specific defence mechanisms (adaptive immunity) by recruiting other immune cells such as lymphocytes. For example, they are important as antigen presenters to T cells. In humans, dysfunctional macrophages cause severe diseases such as a chronic granulomatous disease that result in frequent infections.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following white blood\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d67faf1b-1cd6-4c00-aa5e-efba1a427470": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"derived from the\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

@@ -1,202 +1,252 @@
 {
   "1ede52f9-4206-4a2b-b6de-3a1ee6d340d4": {
-    "cop": 1,
-    "exp": "Ref Robbins 8/e p188;9/e p192 NK cells (belonging to the group of innate lymphoid cells) are defined as large granular lymphocytes (LGL) and constitute the third kind of cells differentiated from the common lymphoid progenitor-generating B and T lymphocytes. NK cells are known to differentiate and mature in the bone marrow, lymph nodes, spleen, tonsils, and thymus, where they then enter into the circulation. NK cells differ from natural killer T cells (NKTs) phenotypically, by origin and by respective effector functions; often, NKT cell activity promotes NK cell activity by secreting interferon gamma. In contrast to NKT cells, NK cells do not express T-cell antigen receptors(TCR) or pan T marker CD3 or surface immunoglobulins (Ig) B cell receptors, but they usually express the surface markers CD16 (FcgRIII) and CD56 in humans"
+    "cop": 0,
+    "exp": "Ref Robbins 8/e p188;9/e p192 NK cells (belonging to the group of innate lymphoid cells) are defined as large granular lymphocytes (LGL) and constitute the third kind of cells differentiated from the common lymphoid progenitor-generating B and T lymphocytes. NK cells are known to differentiate and mature in the bone marrow, lymph nodes, spleen, tonsils, and thymus, where they then enter into the circulation. NK cells differ from natural killer T cells (NKTs) phenotypically, by origin and by respective effector functions; often, NKT cell activity promotes NK cell activity by secreting interferon gamma. In contrast to NKT cells, NK cells do not express T-cell antigen receptors(TCR) or pan T marker CD3 or surface immunoglobulins (Ig) B cell receptors, but they usually express the surface markers CD16 (FcgRIII) and CD56 in humans",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"cells marker\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4764c8f5-e787-4612-a9e6-560700fac197": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"young pregnant woman presents\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "64dfdc51-f84f-492f-be29-08836ade8180": {
-    "cop": 4,
-    "exp": "Vaccine Recommended age of vaccination (1st dose) a. Varicella vaccine 15 months b. MMR vaccine 9 months c. Conjugated typhoid vaccine 9 months d. Pneumococcal polysaccharide vaccine Beyond 2 yrs age - As polysaccharides stimulate B-cells independent of T-cells, the pneumococcal polysaccharide is poorly immunogenic at <2yrs age & immunological memory is low - Hence, it is recommended beyond 2yrs of age."
+    "cop": 3,
+    "exp": "Vaccine Recommended age of vaccination (1st dose) a. Varicella vaccine 15 months b. MMR vaccine 9 months c. Conjugated typhoid vaccine 9 months d. Pneumococcal polysaccharide vaccine Beyond 2 yrs age - As polysaccharides stimulate B-cells independent of T-cells, the pneumococcal polysaccharide is poorly immunogenic at <2yrs age & immunological memory is low - Hence, it is recommended beyond 2yrs of age.",
+    "hint_exp": "🎯 Think of \"two years according to IAP\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fe5c1945-5dc8-4cf2-a86a-947a6e3a3e4f": {
-    "cop": 3,
-    "exp": "<p> IPV /salk polio vaccine. Strains - Mahoney( salk type 1) MEF1( salk type 2) saukett( salk type 3) Inactivated in formaldehyde. Final vaccine mixture contains 40 units of type1, 8 units of type 2, and 32 units of type3. Administration- intramuscular injection or subcutaneous. Should be refrigerated to ensure no loss of potency. Freezing avoided. Either administered alone or in combination with other vaccine antigens including diphtheria,tetanus,whole cell or acellular peussis,Hepatitis B, or Haemophilus influenza type b. Primary/initial course consists of 4 inoculation: first 3doses given at an interval of 1-2 months and 4 th dose 6-12 months after 3 rd dose. First dose given when the infant is 6 weeks old. Additional doses recommended prior to school entry and then every 5 yrs until the age of 18. Alternatively one/two doses of OPV can be safely given as boosters after an initial course of immunisation with inactivated vaccine. Immunity:- induces circulating humoral antibodies(IgM,IgG,IgA). Doesn&;t induce intestinal or local immunity. The circulating antibodies protect the individual against paralytic polio,but do not prevent reinfection of gut by wild viruses. In case of epidemic, IPV is unsustainable because immunity is not rapidly achieved as more than one dose required to induce immunity and injections are to be avoided during epidemic as they are likely to precipitate paralysis. Advantages:- it doesn&;t contain living virus ,so safe to administer : 1. To persons with immunodeficiency diseases. 2. To persons undergoing coicosteroid and radiation therapy. 3. To those over 50 years who are receiving vaccine for first time. 4. During pregnancy. 5. IPV is an alternative to OPV for immunisation of children with HIV infection. No serious adverse effects noticed {Reference: park&;s textbook of preventive and social medicine, 23rd edition, pg no.206 }</p>"
+    "cop": 2,
+    "exp": "<p> IPV /salk polio vaccine. Strains - Mahoney( salk type 1) MEF1( salk type 2) saukett( salk type 3) Inactivated in formaldehyde. Final vaccine mixture contains 40 units of type1, 8 units of type 2, and 32 units of type3. Administration- intramuscular injection or subcutaneous. Should be refrigerated to ensure no loss of potency. Freezing avoided. Either administered alone or in combination with other vaccine antigens including diphtheria,tetanus,whole cell or acellular peussis,Hepatitis B, or Haemophilus influenza type b. Primary/initial course consists of 4 inoculation: first 3doses given at an interval of 1-2 months and 4 th dose 6-12 months after 3 rd dose. First dose given when the infant is 6 weeks old. Additional doses recommended prior to school entry and then every 5 yrs until the age of 18. Alternatively one/two doses of OPV can be safely given as boosters after an initial course of immunisation with inactivated vaccine. Immunity:- induces circulating humoral antibodies(IgM,IgG,IgA). Doesn&;t induce intestinal or local immunity. The circulating antibodies protect the individual against paralytic polio,but do not prevent reinfection of gut by wild viruses. In case of epidemic, IPV is unsustainable because immunity is not rapidly achieved as more than one dose required to induce immunity and injections are to be avoided during epidemic as they are likely to precipitate paralysis. Advantages:- it doesn&;t contain living virus ,so safe to administer : 1. To persons with immunodeficiency diseases. 2. To persons undergoing coicosteroid and radiation therapy. 3. To those over 50 years who are receiving vaccine for first time. 4. During pregnancy. 5. IPV is an alternative to OPV for immunisation of children with HIV infection. No serious adverse effects noticed {Reference: park&;s textbook of preventive and social medicine, 23rd edition, pg no.206 }</p>",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Salk vaccine\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "805b103a-be3b-4411-aca9-f7ce6d3e9b0d": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"used for\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f1b75e4b-7086-4c55-a2d3-0f7bb860dabd": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"one menstrual cycl\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0f03c9c8-4bc4-4d4e-88b7-45ff7442b240": {
-    "cop": 3,
-    "exp": "Ans: c"
+    "cop": 2,
+    "exp": "Ans: c",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"acute gout\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d4f089cc-cd1d-41d7-a574-ba7d291bd488": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"associated with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "10865658-bf23-416e-9338-20571365b4b2": {
-    "cop": 2,
-    "exp": "Duodenal atresia"
+    "cop": 1,
+    "exp": "Duodenal atresia",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3e4f1008-ac01-49aa-921a-9faeaecada16": {
-    "cop": 1,
-    "exp": "Active immunization by vaccination with diphtheria toxoid is the key in preventing diphtheria. . Serum antitoxin concentration of 0.01 IU/mL is usually accepted as the minimum protective level. 0.01 IU/mL is considered to provide basic protection and 0.1 IU/ml is considered to provide complete or total protection."
+    "cop": 0,
+    "exp": "Active immunization by vaccination with diphtheria toxoid is the key in preventing diphtheria. . Serum antitoxin concentration of 0.01 IU/mL is usually accepted as the minimum protective level. 0.01 IU/mL is considered to provide basic protection and 0.1 IU/ml is considered to provide complete or total protection.",
+    "hint_exp": "🧩 Your crush solved \"protective titre antitoxin diphtheria\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "edd41e40-0e97-412f-b84f-7a5f756b46cd": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Lymph node mass Mediastinal masses 1. Anterior mediastinum : - The anterior mediastinum contains the following structures : thymus, lymph nodes, ascending aoa, pulmonary aery, phrenic nerve and thyroid. Thymoma is the most common anterior mediastinal mass. Anterior mediastinal masses include : ? o Thymoma o Aneurysm of ascending aoa o Retrosternal thyroid o Lymphoma o Pericardial cyst o Morgagni hernia o Teratoma germ cell 2. Middle mediastinum : - The middle mediastinum contains the following structures: lymph nodes, trachea, esophagus, azygos vein, Vena cavae, posterior hea and aoic arch. The most common middle mediastinal mass is enlarged lymph nodes (Lymphadenopathy). Middle mediasinal mass include. o Lymph node enlargement o Pericardial cyst o Coronary/pulmonary aneurysm o Bronchogenic cyst o Aoic arch aneurysm o Azygous vein enlargement Note : Though most common middle mediastinal mass is enlarged lymph nodes, In children the most common middle mediastinal mass is duplication cysts (Bronchogenia cyst or esophageal duplication cysts or neuroenteric cysts). 3.Posterior mediastinum : - The posterior mediastinum contains the following structures : Sympathetic ganglic, nerve roots, lymph nodes, parasympathetic chain, thoracic duct, descending thoracic aoa, Small vessels and the veebrae, Most common masses in posterior mediastinum are neurogenic in nature. These can arise from the sympathetic ganglia (e.g., neuroblastoma) or from nerve roots (e.g., Schwannoma or neurofibroma). Posterior mediastinal masses include. o Neurogenic tumor (neuroblastoma, o Lymph node enlargement o Anterior meningocele Schwannoma, neurofibroma) o Neurenteric cyst o Bochdalek hernia o Aneurysm of descending aoa o Overall most common mediastinal masses are neurogenic tumors (20%) followed by thymomas (19%), primary cysts (18%), lymphomas (13%) and germ cell tumors (10%). o Most of the mediastinal masses are located in the anterior mediastinum followed by the posterior (25%) and middle (19%)."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Lymph node mass Mediastinal masses 1. Anterior mediastinum : - The anterior mediastinum contains the following structures : thymus, lymph nodes, ascending aoa, pulmonary aery, phrenic nerve and thyroid. Thymoma is the most common anterior mediastinal mass. Anterior mediastinal masses include : ? o Thymoma o Aneurysm of ascending aoa o Retrosternal thyroid o Lymphoma o Pericardial cyst o Morgagni hernia o Teratoma germ cell 2. Middle mediastinum : - The middle mediastinum contains the following structures: lymph nodes, trachea, esophagus, azygos vein, Vena cavae, posterior hea and aoic arch. The most common middle mediastinal mass is enlarged lymph nodes (Lymphadenopathy). Middle mediasinal mass include. o Lymph node enlargement o Pericardial cyst o Coronary/pulmonary aneurysm o Bronchogenic cyst o Aoic arch aneurysm o Azygous vein enlargement Note : Though most common middle mediastinal mass is enlarged lymph nodes, In children the most common middle mediastinal mass is duplication cysts (Bronchogenia cyst or esophageal duplication cysts or neuroenteric cysts). 3.Posterior mediastinum : - The posterior mediastinum contains the following structures : Sympathetic ganglic, nerve roots, lymph nodes, parasympathetic chain, thoracic duct, descending thoracic aoa, Small vessels and the veebrae, Most common masses in posterior mediastinum are neurogenic in nature. These can arise from the sympathetic ganglia (e.g., neuroblastoma) or from nerve roots (e.g., Schwannoma or neurofibroma). Posterior mediastinal masses include. o Neurogenic tumor (neuroblastoma, o Lymph node enlargement o Anterior meningocele Schwannoma, neurofibroma) o Neurenteric cyst o Bochdalek hernia o Aneurysm of descending aoa o Overall most common mediastinal masses are neurogenic tumors (20%) followed by thymomas (19%), primary cysts (18%), lymphomas (13%) and germ cell tumors (10%). o Most of the mediastinal masses are located in the anterior mediastinum followed by the posterior (25%) and middle (19%).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the middle mediastinum\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e669e96a-faf4-4a2f-b1c7-818f7a914201": {
-    "cop": 2,
-    "exp": "Ans: B (Inferior tibiofibular joint) Ref: Grays Anatomy 40th Ed Pg 101Explanation:SyndesmosisIt is a type of fibrous joint.It may be represented by an interosseous ligament.Such ligament persist throughout lifeSlight movement is possibleExample:Inferior tibio fibular jointInterosseous membranes of the forearm and legLigament flavaFunctionResponsible for integrity of ankle mortisPhysical ExamTest to identify a syndesmosis injury includeExternal rotation testSqueeze testImagingAP and mortise ankle radiographsUsed to evaluate the tibiofibular clear space and tibiofibular overlapTibiofibular clear space shoulde be < 5 mmTibiofibular overlap for AP view >10 mmWeight bearing mortise view is most accurate for diagnosisClinical conditionsHigh ankle sprain & syndesmosis injuryAnkle fracture"
+    "cop": 1,
+    "exp": "Ans: B (Inferior tibiofibular joint) Ref: Grays Anatomy 40th Ed Pg 101Explanation:SyndesmosisIt is a type of fibrous joint.It may be represented by an interosseous ligament.Such ligament persist throughout lifeSlight movement is possibleExample:Inferior tibio fibular jointInterosseous membranes of the forearm and legLigament flavaFunctionResponsible for integrity of ankle mortisPhysical ExamTest to identify a syndesmosis injury includeExternal rotation testSqueeze testImagingAP and mortise ankle radiographsUsed to evaluate the tibiofibular clear space and tibiofibular overlapTibiofibular clear space shoulde be < 5 mmTibiofibular overlap for AP view >10 mmWeight bearing mortise view is most accurate for diagnosisClinical conditionsHigh ankle sprain & syndesmosis injuryAnkle fracture",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following joint\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "473a0285-dde0-449d-8855-ab3296c69476": {
-    "cop": 3,
-    "exp": "\"Plain chest radiography is the mainstay in diagnosis and monitoring progress of pneumonia. CT is used when complications are suspected\"."
+    "cop": 2,
+    "exp": "\"Plain chest radiography is the mainstay in diagnosis and monitoring progress of pneumonia. CT is used when complications are suspected\".",
+    "hint_exp": "🎯 Think of \"year female child developed\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e4974fce-8860-4a84-b63d-caacd143a838": {
-    "cop": 4,
-    "exp": "Increased Alpha 2 macroglobulin is not associated with increased risk of atherosclerotic plaque formation. Ref: Atherosclerosis Risk Factors By James J. Maciejko page 44. Advances in Vascular Medicine By David Abraham page9; Free radicals and diseases: gene expression, cellular metabolism By Tilman Grune page153."
+    "cop": 3,
+    "exp": "Increased Alpha 2 macroglobulin is not associated with increased risk of atherosclerotic plaque formation. Ref: Atherosclerosis Risk Factors By James J. Maciejko page 44. Advances in Vascular Medicine By David Abraham page9; Free radicals and diseases: gene expression, cellular metabolism By Tilman Grune page153.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "58545ed3-b19a-4bde-b285-91044d553fe7": {
-    "cop": 2,
-    "exp": "Principle of: CT :Linear attenuation ofXrays Xray:Xrays (Fluoroscopy also works on the principal of Xrays) MRI: Gyromagnetic propey of H+ USG: Pulse-Echo Principle with Piezoelectric effect PET scan: Annihilation and coincidence imagine, gamma rays -511 key HIDA Scan: Radioisotope scintigraphy, gamma rays."
+    "cop": 1,
+    "exp": "Principle of: CT :Linear attenuation ofXrays Xray:Xrays (Fluoroscopy also works on the principal of Xrays) MRI: Gyromagnetic propey of H+ USG: Pulse-Echo Principle with Piezoelectric effect PET scan: Annihilation and coincidence imagine, gamma rays -511 key HIDA Scan: Radioisotope scintigraphy, gamma rays.",
+    "hint_exp": "🧩 Your crush solved \"Which following investigation work\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e82c8f20-f28e-4f31-9d82-52139baa2ab8": {
-    "cop": 4,
-    "exp": "Root value of Ulnar Nerve - Ventral rami of C8 and T1. It also get fibres of C7 from the ventral root of median nerve. Ref : B D Chaurasia's Human Anatomy , seventh edition , volume 1 , pg. no, 181 Fig Ref : B D Chaurasia's Human Anatomy , seventh edition , volume 1 , pg. no,57 (FIG. 4.14 )"
+    "cop": 3,
+    "exp": "Root value of Ulnar Nerve - Ventral rami of C8 and T1. It also get fibres of C7 from the ventral root of median nerve. Ref : B D Chaurasia's Human Anatomy , seventh edition , volume 1 , pg. no, 181 Fig Ref : B D Chaurasia's Human Anatomy , seventh edition , volume 1 , pg. no,57 (FIG. 4.14 )",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Ulnar nerve root\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a1959809-0e62-4dfb-a2b1-4eeece8e6f51": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Tophi formation in Gout\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f2ba6ebd-d1a4-484c-a176-cf44923bcbb5": {
-    "cop": 2,
-    "exp": "B i.e. Basal cell carcinoma"
+    "cop": 1,
+    "exp": "B i.e. Basal cell carcinoma",
+    "hint_exp": "🎯 Think of \"the eyelids\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "469fe618-3e2f-41bc-9bdb-b07d7dd8288d": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"atherosclerosis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7e7a9cd1-0815-4c3b-a3a2-c48a33294eaf": {
-    "cop": 2,
-    "exp": "B i.e. Hints at serious hea ailment Ventricular Extrasystole/ Premature BeatIn abnormal conditions, the His- Purkinje fibers or the myocardial fibers may discharge spontaneously, that result in a beat that occurs before the expected next normal beat & transiently interrupts the cardiac rhythm. They have bizarrely shaped prolonged QRS Q because of slow spread of impulse from focus to rest of the ventricle- The P wave is usually buried in the QRS complex?- Tendency to be followed by compensatory pauseQ because when the normal impulse (of SA node) reaches ventricle, they are still in the refractory period following depolarization from the ectopic focus. They do not interrupt the regular discharge of SA node (whereas atrial premature beats interrupt normal rhythm) They are not strong enough to produce radial pulse.QVentricular premature beats, in the absence of ischemic hea disease. Is usually benign.Q"
+    "cop": 1,
+    "exp": "B i.e. Hints at serious hea ailment Ventricular Extrasystole/ Premature BeatIn abnormal conditions, the His- Purkinje fibers or the myocardial fibers may discharge spontaneously, that result in a beat that occurs before the expected next normal beat & transiently interrupts the cardiac rhythm. They have bizarrely shaped prolonged QRS Q because of slow spread of impulse from focus to rest of the ventricle- The P wave is usually buried in the QRS complex?- Tendency to be followed by compensatory pauseQ because when the normal impulse (of SA node) reaches ventricle, they are still in the refractory period following depolarization from the ectopic focus. They do not interrupt the regular discharge of SA node (whereas atrial premature beats interrupt normal rhythm) They are not strong enough to produce radial pulse.QVentricular premature beats, in the absence of ischemic hea disease. Is usually benign.Q",
+    "hint_exp": "🧩 Your crush solved \"What true extrasystole ventricle\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "59426eba-73d2-429c-b986-0084980156d0": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Most commonly used retarder\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "15280761-db8a-4d04-8ac0-8b0fc77652cd": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 11 * Eye opens to pain-2* Confused-4* Localizes pain-5 11Glasgow coma scale:Eye opening (E)Best motor response (M)Verbal response (V)Spontaneous - 4To loud voice - 3To pain - 2Nil- 1Obeys - 6Localize - 5Withdraws (flexion) - 4Abnormal flexion - 3PosturingExtension posturing - 2Nil - 1Oriented - 5Confused disoriented - 4Inappropriate words - 3Incomprehensible sounds - 2Nil - 1Score of our patientPrognosis of the patient in coma score 3-4 - 85% chance of dying or remaining vegetativeAbove - Only 5-10 percent likelihood of death or vegetative state and 85% chance of moderate disability"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 11 * Eye opens to pain-2* Confused-4* Localizes pain-5 11Glasgow coma scale:Eye opening (E)Best motor response (M)Verbal response (V)Spontaneous - 4To loud voice - 3To pain - 2Nil- 1Obeys - 6Localize - 5Withdraws (flexion) - 4Abnormal flexion - 3PosturingExtension posturing - 2Nil - 1Oriented - 5Confused disoriented - 4Inappropriate words - 3Incomprehensible sounds - 2Nil - 1Score of our patientPrognosis of the patient in coma score 3-4 - 85% chance of dying or remaining vegetativeAbove - Only 5-10 percent likelihood of death or vegetative state and 85% chance of moderate disability",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"head injured patient opens\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5f95d694-4679-452d-be0d-9263f81cfc3b": {
-    "cop": 2,
-    "exp": "<img src=\" /> Ref Harrison 20th edition pg 567"
+    "cop": 1,
+    "exp": "<img src=\" /> Ref Harrison 20th edition pg 567",
+    "hint_exp": "🎯 Think of \"the following tests\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "940e9689-9351-42b2-bc79-c0d0778b411f": {
-    "cop": 1,
-    "exp": "Ans. (a) Pantaloon HerniaRef: Long case Surgery by RRM* Pantaloon hernia is hernia which has two sacs- One direct and one indirect resembling a Pantaloon."
+    "cop": 0,
+    "exp": "Ans. (a) Pantaloon HerniaRef: Long case Surgery by RRM* Pantaloon hernia is hernia which has two sacs- One direct and one indirect resembling a Pantaloon.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year patient being operated\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ec6cbb6c-b396-47eb-89a2-66beb72bacd8": {
-    "cop": 3,
-    "exp": "1. Complete obstruction of ear canal: 30 dB 2. Perforation of tympanic membrane (It varies and is directly propoional to the size of perforation): 10-40 dB 3. Ossicular interruption with intact drum: 54 dB 4. Ossicular interruption with perforation: 38 dB 5. Malleus fixation: 10-25 dB 6. Closure of oval window: 60 dB Ref: Dhingra 7e pg 31."
+    "cop": 2,
+    "exp": "1. Complete obstruction of ear canal: 30 dB 2. Perforation of tympanic membrane (It varies and is directly propoional to the size of perforation): 10-40 dB 3. Ossicular interruption with intact drum: 54 dB 4. Ossicular interruption with perforation: 38 dB 5. Malleus fixation: 10-25 dB 6. Closure of oval window: 60 dB Ref: Dhingra 7e pg 31.",
+    "hint_exp": "🧩 Your crush solved \"Female with stapedectomy done\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bb58d25a-8f04-4a4b-873b-e1c0110c3150": {
-    "cop": 3,
-    "exp": "Ans: C (Increased dorsiflexion) Ref: Nelson's Textbook of Pediatrics, 19th ed.Explanation:Plantar flexion (cavus) is seen in CTEV, not increased dorsiflexionCongenital Talipes Equinovarus (Clubfoot) CTEVDeformity involving malalignment of the calcaneotalar-navicular complex.Components of this deformity - mnemonic CAVE (cavus, adductus, varus, equinus).Plantar flexion (cavus) of the 1st ray and adduction of the forefoot/midfoot on the hindfoot. The hindfoot is in varus and equinus)Clubfoot is extremely common in patients with myelodysplasia and arthrogryposis.Congenital clubfoot is seen in approximately 1/1,000 births.Etiology is niultifactorial environmental factors in a genetically susceptible host.The risk is approximately 1 in 4 when both a parent and one sibling have clubfeet.It occurs more commonly in males (2:1)Bilateral in 50% of cases.The pathoanatomy involves both ah normal tarsal morphology (plantar and medial deviation of (he head and neck of the talus) and abnormal relationships between the tarsal bones in all three planes.Clinical ManifestationsThe spine should be inspected for signs of occult dysraphism.Examination of the infant clubfoot demonstrates forefoot cavus and adductus and hindfoot varus and equinus.All patients exhibit calf atrophy.Both internal tibial torsion and leg-length discrepancy (shortening of the ipsilateral extremity) may he present.Radiographic EvaluationAnteroposterior and lateral radiographs are recommended, often with the foot held in the maximally corrected position.The navicular hone does not ossify until 3-6 yr of ageA common radiographic finding is ' parallelism\" between lines drawn through the axis of the talus and the calcaneus on the lateral radiograph, indicating hindfoot varus.Many clinicians believe that radiographs arc not required in the evaluation and treatmentTreatmentNonoperative treatment is initiated in all infants and should be started as soon as possible following birth.Techniques have included taping and strapping, manipulation and serial casting, and functional treatment.Historically, a significant percentage of patients treated by manipulation and casting required a surgical release, which was usually performed between 3 and 12 mo of age. Although many feet remain well aligned after surgical releases, a significant percentage of patients have required additional surgery for recurrent or residual deformities.Stiffness remains a concern at long-term follow up.The Ponseti method of clubfoot treatment involves a specific technique for manipulation and serial casting and may be best described as minimally invasive rather than nonoperative.The order of correction follows the mnemonic CAVE. Weekly cast changes are performed, and 3 to 10 casts are typically required.The most difficult deformity to correct is the hindfoot cquinus. for which ~909f of patients require an outpatient percutaneous tenotomy of the heel cord.Following the tenotomy, a long leg cast with the foot in maximal abduction (70 degrees) and dorsiflexion is worn for 3 \\vk; the patient then begins a bracing program.An abduction brace is worn full time for 3 mo and then at nighttime for 3-5 yr.A subset of patients require transfer of the tibialis anterior tendon to the middle cuneiform for recurrence. Although most patients require some form of surgery, the procedures are minimal in comparison with a surgical release, w hich requires capsulotomy of the major joints (and lengthening of the muscles) to reposition the joints in space.Functional treatment, or the French method. involves daily manipulations (supervised by a physical therapist) and splinting with elastic tape, as well as continuous passive motion (machine required) while the baby sleeps.Surgical realignment has a definite role in the management of clubfeet, especially in the minority of congenital clubfeet that have failed nonoperative or minimally invasive methods, and for the neuromuscular and syndromic clubfeet that are characteristically rigid.Common surgical approaches include a release of the involved joints (realign the tarsal bones ), a lengthening of the shortened posteromedial musculotendinous units, and usually pinning of the foot in the corrected position.Triple arthrodesis is reserved as salvage for painful, deformed feet in adolescents and adults."
+    "cop": 2,
+    "exp": "Ans: C (Increased dorsiflexion) Ref: Nelson's Textbook of Pediatrics, 19th ed.Explanation:Plantar flexion (cavus) is seen in CTEV, not increased dorsiflexionCongenital Talipes Equinovarus (Clubfoot) CTEVDeformity involving malalignment of the calcaneotalar-navicular complex.Components of this deformity - mnemonic CAVE (cavus, adductus, varus, equinus).Plantar flexion (cavus) of the 1st ray and adduction of the forefoot/midfoot on the hindfoot. The hindfoot is in varus and equinus)Clubfoot is extremely common in patients with myelodysplasia and arthrogryposis.Congenital clubfoot is seen in approximately 1/1,000 births.Etiology is niultifactorial environmental factors in a genetically susceptible host.The risk is approximately 1 in 4 when both a parent and one sibling have clubfeet.It occurs more commonly in males (2:1)Bilateral in 50% of cases.The pathoanatomy involves both ah normal tarsal morphology (plantar and medial deviation of (he head and neck of the talus) and abnormal relationships between the tarsal bones in all three planes.Clinical ManifestationsThe spine should be inspected for signs of occult dysraphism.Examination of the infant clubfoot demonstrates forefoot cavus and adductus and hindfoot varus and equinus.All patients exhibit calf atrophy.Both internal tibial torsion and leg-length discrepancy (shortening of the ipsilateral extremity) may he present.Radiographic EvaluationAnteroposterior and lateral radiographs are recommended, often with the foot held in the maximally corrected position.The navicular hone does not ossify until 3-6 yr of ageA common radiographic finding is ' parallelism\" between lines drawn through the axis of the talus and the calcaneus on the lateral radiograph, indicating hindfoot varus.Many clinicians believe that radiographs arc not required in the evaluation and treatmentTreatmentNonoperative treatment is initiated in all infants and should be started as soon as possible following birth.Techniques have included taping and strapping, manipulation and serial casting, and functional treatment.Historically, a significant percentage of patients treated by manipulation and casting required a surgical release, which was usually performed between 3 and 12 mo of age. Although many feet remain well aligned after surgical releases, a significant percentage of patients have required additional surgery for recurrent or residual deformities.Stiffness remains a concern at long-term follow up.The Ponseti method of clubfoot treatment involves a specific technique for manipulation and serial casting and may be best described as minimally invasive rather than nonoperative.The order of correction follows the mnemonic CAVE. Weekly cast changes are performed, and 3 to 10 casts are typically required.The most difficult deformity to correct is the hindfoot cquinus. for which ~909f of patients require an outpatient percutaneous tenotomy of the heel cord.Following the tenotomy, a long leg cast with the foot in maximal abduction (70 degrees) and dorsiflexion is worn for 3 \\vk; the patient then begins a bracing program.An abduction brace is worn full time for 3 mo and then at nighttime for 3-5 yr.A subset of patients require transfer of the tibialis anterior tendon to the middle cuneiform for recurrence. Although most patients require some form of surgery, the procedures are minimal in comparison with a surgical release, w hich requires capsulotomy of the major joints (and lengthening of the muscles) to reposition the joints in space.Functional treatment, or the French method. involves daily manipulations (supervised by a physical therapist) and splinting with elastic tape, as well as continuous passive motion (machine required) while the baby sleeps.Surgical realignment has a definite role in the management of clubfeet, especially in the minority of congenital clubfeet that have failed nonoperative or minimally invasive methods, and for the neuromuscular and syndromic clubfeet that are characteristically rigid.Common surgical approaches include a release of the involved joints (realign the tarsal bones ), a lengthening of the shortened posteromedial musculotendinous units, and usually pinning of the foot in the corrected position.Triple arthrodesis is reserved as salvage for painful, deformed feet in adolescents and adults.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"true regarding CTEV except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9bc684e1-bef7-4bee-9043-a0490df553a7": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"twenty year female patient\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ca46205c-334c-4d50-b551-76eabbcdc58c": {
-    "cop": 3,
-    "exp": "All toxigenic strains of Corynebacterium diphtheriae are lysogenic for b-phage carrying the Tox gene, which codes for the toxin molecule. The expression of this gene is controlled by the metabolism of the host bacteria. The greatest amount of toxin is produced by bacteria grown on media containing very low amounts of iron."
+    "cop": 2,
+    "exp": "All toxigenic strains of Corynebacterium diphtheriae are lysogenic for b-phage carrying the Tox gene, which codes for the toxin molecule. The expression of this gene is controlled by the metabolism of the host bacteria. The greatest amount of toxin is produced by bacteria grown on media containing very low amounts of iron.",
+    "hint_exp": "🎯 Think of \"Diphtheria toxin produced only\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "656da4fb-51ff-4e8c-b31b-6aa61ab3e632": {
-    "cop": 3,
-    "exp": "Type I and Type II Schizophrenia: TJ Crow had divided schizophrenia into two subtypes namely, Type I and II schizophrenia. The Type I syndrome is characterised by positive symptoms while the Type II syndrome is predominantly characterised by the presence of negative symptoms. Type I syndrome is supposed to have an acute presentation, good response to medication and a good outcome, while Type II is theorised to be chronic of course, have a poor response to medication and a poor outcome. Crow also described dilated ventricles on CT Scan of Brain in Type II syndrome. Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 61"
+    "cop": 2,
+    "exp": "Type I and Type II Schizophrenia: TJ Crow had divided schizophrenia into two subtypes namely, Type I and II schizophrenia. The Type I syndrome is characterised by positive symptoms while the Type II syndrome is predominantly characterised by the presence of negative symptoms. Type I syndrome is supposed to have an acute presentation, good response to medication and a good outcome, while Type II is theorised to be chronic of course, have a poor response to medication and a poor outcome. Crow also described dilated ventricles on CT Scan of Brain in Type II syndrome. Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 61",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"true about type schizophrenia\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3bfe515d-98c4-43fb-b112-124b2134f658": {
-    "cop": 3,
-    "exp": "Ans. c. Anococcygeal raphe (Ref: BDC 5/e Vot-III/p428; Maingot 11/e p 663)Anorectal ring is a muscular ring present at the anorectal junction. It is formed by the fusion of the Puborectalis, uppermost fibers of external sphincter and the internal sphincter.BDC says 'Anorectal ring is a muscular ring present at the anorectal junction. It is formed by the fusion of the Puborectalis, uppermost fibers of external sphincter and the internal sphincter. It is easily felt by a finger in anal canal. Surgical division of this ring results in rectal incontinence. The ring is less marked anteriorly where the fibers of Puborectalis are absent.'Anorectal ring is formed by fusion of:1. PuborectalisQ (a part of pubococcygeus, which in turn is a part of levator ani)2. Deep (uppermost fibers) external anal sphincterQ3. Internal anal sphincterQAnorectal RingRectal continence depends solely on the anorectal ringQ, and any damage to this ring results in rectal incontinence.The anorectal ring is muscular ring present at the anorectal junctionQ.Anorectal ring is formed by fusion ofPuborectalisQDeep external anal sphincterQInternal anal sphincterQThe Puborectalis muscle appears to be most important muscle for maintaining fecal continenceQ."
+    "cop": 2,
+    "exp": "Ans. c. Anococcygeal raphe (Ref: BDC 5/e Vot-III/p428; Maingot 11/e p 663)Anorectal ring is a muscular ring present at the anorectal junction. It is formed by the fusion of the Puborectalis, uppermost fibers of external sphincter and the internal sphincter.BDC says 'Anorectal ring is a muscular ring present at the anorectal junction. It is formed by the fusion of the Puborectalis, uppermost fibers of external sphincter and the internal sphincter. It is easily felt by a finger in anal canal. Surgical division of this ring results in rectal incontinence. The ring is less marked anteriorly where the fibers of Puborectalis are absent.'Anorectal ring is formed by fusion of:1. PuborectalisQ (a part of pubococcygeus, which in turn is a part of levator ani)2. Deep (uppermost fibers) external anal sphincterQ3. Internal anal sphincterQAnorectal RingRectal continence depends solely on the anorectal ringQ, and any damage to this ring results in rectal incontinence.The anorectal ring is muscular ring present at the anorectal junctionQ.Anorectal ring is formed by fusion ofPuborectalisQDeep external anal sphincterQInternal anal sphincterQThe Puborectalis muscle appears to be most important muscle for maintaining fecal continenceQ.",
+    "hint_exp": "🧩 Your crush solved \"anorectal ring in human beings\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ffc82f40-c65c-44d5-875a-2ae2dd3a8015": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Golden hair seen poisoning\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "72d3aeb7-a3e4-49dc-9cee-befd02b43dc5": {
-    "cop": 2,
-    "exp": "Principal nodes involved in the lymphatic drainage of cervix are the obturator, common iliac, external iliac, internal iliac and the nodes of parametrium. Lymphatics from cervix do not drain into the deep iuguinal lymph nodes.Ref: Obstetrics and Gynaecology By Sarabatnam Arulkumaran, 2011 Edition, Chapter 12, Page 472; Dutta Textbook of Gynaecology, 4th Edition, Page 28; Clinical Target Volumes in Conformal and Intensity Modulated Radiation Therapy, Vincent Gregoire, Page 175."
+    "cop": 1,
+    "exp": "Principal nodes involved in the lymphatic drainage of cervix are the obturator, common iliac, external iliac, internal iliac and the nodes of parametrium. Lymphatics from cervix do not drain into the deep iuguinal lymph nodes.Ref: Obstetrics and Gynaecology By Sarabatnam Arulkumaran, 2011 Edition, Chapter 12, Page 472; Dutta Textbook of Gynaecology, 4th Edition, Page 28; Clinical Target Volumes in Conformal and Intensity Modulated Radiation Therapy, Vincent Gregoire, Page 175.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the cervix\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3506d896-6191-485a-8d74-870a80a09b8c": {
-    "cop": 2,
-    "exp": "Ans. is b' i.e., Safety \"Therapeutic index is the ratio between the toxic dose and the therapeutic dose of a drug, and is used as a measure of the relative safety of the drug for a paicular treatment.\""
+    "cop": 1,
+    "exp": "Ans. is b' i.e., Safety \"Therapeutic index is the ratio between the toxic dose and the therapeutic dose of a drug, and is used as a measure of the relative safety of the drug for a paicular treatment.\"",
+    "hint_exp": "🎯 Think of \"a drug\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c5322038-16e2-4e48-b226-d99e56b22912": {
-    "cop": 1,
-    "exp": "50th percentile"
+    "cop": 0,
+    "exp": "50th percentile",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"growth cha\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6819cbc2-9e16-4a48-9d22-15d90c58f5dc": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Threaded pins used large\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2bbefa15-39e2-4a1c-a85c-070e7184531b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"hearing voices\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ad635494-8800-46a0-929e-5d3ae239fc4b": {
-    "cop": 1,
-    "exp": "Infertility implies apparent failure of a couple to conceive.\nIf a couple fails to achieve pregnancy after 1 year of unprotected and regular intercourse,\nit is an indication to investigate the couple."
+    "cop": 0,
+    "exp": "Infertility implies apparent failure of a couple to conceive.\nIf a couple fails to achieve pregnancy after 1 year of unprotected and regular intercourse,\nit is an indication to investigate the couple.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"sexual cohabitation\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e0499e2c-f3d1-47d4-8387-b6db46512960": {
-    "cop": 4,
-    "exp": "D i.e. Sternocleidomastoid - Diagastric, Omohyoid, Occipitofrontalis, Gastroenemius, and Suspensory muscle of duodenum (i.e., muscle in Ligament of Treitz)Q are all digastric muscles i.e, muscles with two muscle bellies. Mn- \"DOGS\" Sternocleidomastoid muscle has two heads not two belliesQ"
+    "cop": 3,
+    "exp": "D i.e. Sternocleidomastoid - Diagastric, Omohyoid, Occipitofrontalis, Gastroenemius, and Suspensory muscle of duodenum (i.e., muscle in Ligament of Treitz)Q are all digastric muscles i.e, muscles with two muscle bellies. Mn- \"DOGS\" Sternocleidomastoid muscle has two heads not two belliesQ",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a2891693-1ec8-4246-9de0-a84e06e216d9": {
-    "cop": 2,
-    "exp": "Ans. (b) Ductus venosusRef: D.C. Dutta 8th ed. / 36; William's Obstetrics 23rded, Ch: 4* Ductus venosus carries oxygenated blood from placenta and drains into IVC.* Ductus arteriosus is a connection between aorta and pulmonary arteries, thereby bypassing lung. Persistence of ductus arteriosus leads to a congenital heart condition called Patent Ductus Arteriosus.* Foramen ovale is connection between right atrium and left atrium.* Umbilical artery carries deoxygenated blood from fetus to mother.Also KnowImportant vessles and their remnantsDUCTUSVENOSUSLigamentum VenosumDUCTUS ARTERIOSUSLigamentum arteriousmUmbilical ArteriesMedial umbilical arteryLeft umbilical veinLigamentum Teres of Liver"
+    "cop": 1,
+    "exp": "Ans. (b) Ductus venosusRef: D.C. Dutta 8th ed. / 36; William's Obstetrics 23rded, Ch: 4* Ductus venosus carries oxygenated blood from placenta and drains into IVC.* Ductus arteriosus is a connection between aorta and pulmonary arteries, thereby bypassing lung. Persistence of ductus arteriosus leads to a congenital heart condition called Patent Ductus Arteriosus.* Foramen ovale is connection between right atrium and left atrium.* Umbilical artery carries deoxygenated blood from fetus to mother.Also KnowImportant vessles and their remnantsDUCTUSVENOSUSLigamentum VenosumDUCTUS ARTERIOSUSLigamentum arteriousmUmbilical ArteriesMedial umbilical arteryLeft umbilical veinLigamentum Teres of Liver",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Oxygenated blood from placenta\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "29afaa3d-248c-47ee-82f4-fb4e142c2adc": {
-    "cop": 4,
-    "exp": "Ans. D: Schizophrenia Ku Schneider (1959) described symptoms which, though not specific of schizophrenia, were of great help in making a clinical diagnosis of schizophrenia These are popularly known as Schneider's first rank symptoms of schizophrenia (FRS/ SFRS)"
+    "cop": 3,
+    "exp": "Ans. D: Schizophrenia Ku Schneider (1959) described symptoms which, though not specific of schizophrenia, were of great help in making a clinical diagnosis of schizophrenia These are popularly known as Schneider's first rank symptoms of schizophrenia (FRS/ SFRS)",
+    "hint_exp": "🧩 Your crush solved \"Schneider first rank symptoms\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "51ad9999-ddd0-4d93-98eb-f3ba71b9702c": {
-    "cop": 1,
-    "exp": "Classification of Lupus Nephritis (International Society of Nephrology and Renal Pathology Society) Class I: Minimal Mesangial Lupus Nephritis Class II: Mesangial Proliferative Lupus Nephritis Class III: Focal Lupus Nephritis Class IV: Diffuse Lupus Nephritis Class V: Membranous Lupus Nephritis Class VI: Advanced Sclerotic Lupus Nephritis Ref:Harrison,E-18,P-2733."
+    "cop": 0,
+    "exp": "Classification of Lupus Nephritis (International Society of Nephrology and Renal Pathology Society) Class I: Minimal Mesangial Lupus Nephritis Class II: Mesangial Proliferative Lupus Nephritis Class III: Focal Lupus Nephritis Class IV: Diffuse Lupus Nephritis Class V: Membranous Lupus Nephritis Class VI: Advanced Sclerotic Lupus Nephritis Ref:Harrison,E-18,P-2733.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Focal lupus nephritis renal\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c26cc1a9-be7e-4a84-8e2e-fbb7a0e2ec04": {
-    "cop": 4,
-    "exp": "Abciximab is a Fab fragment of the chimeric human-murine monoclonal antibody 7E3. Abciximab binds to the glycoprotein (GP) IIb/IIIa receptor of human platelets and inhibits platelet aggregation by preventing the binding of fibrinogen, von Willebrand factor, and other adhesive molecules Ref Davidson 23rd edition pg 946"
+    "cop": 3,
+    "exp": "Abciximab is a Fab fragment of the chimeric human-murine monoclonal antibody 7E3. Abciximab binds to the glycoprotein (GP) IIb/IIIa receptor of human platelets and inhibits platelet aggregation by preventing the binding of fibrinogen, von Willebrand factor, and other adhesive molecules Ref Davidson 23rd edition pg 946",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b8cfb8ba-96e1-4780-b3b4-c5c320779c7b": {
-    "cop": 3,
-    "exp": "C. i.e. Round ligament of uterus Broad ligament provide no (or very minimal) suppo to uterusQ and round ligament provide weak suppo to uterusQ"
+    "cop": 2,
+    "exp": "C. i.e. Round ligament of uterus Broad ligament provide no (or very minimal) suppo to uterusQ and round ligament provide weak suppo to uterusQ",
+    "hint_exp": "🎯 Think of \"following provide good suppo\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d384f86a-6877-41c7-9454-26d1f93189e9": {
-    "cop": 3,
-    "exp": "Ans. c. 90"
+    "cop": 2,
+    "exp": "Ans. c. 90",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"a normal child\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "94a147fd-2290-451d-bbd1-3d697a57e659": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"patient congenital prolonged syndrome\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f30f0674-e423-4ca5-9dfd-ff40b1099b18": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., The infection reaches the skin through the blood stream . Skin is involved directly over the region adjoining a visceral lesion, such as, in the areas of drainage of liver abscess or colostomy wound, in the sites of ruptured appendicular and peri-colic abscesses. . Extensive necrosis and sloughing of the skin and subcutaneous tissues are caused by the trophozoites of E. histolytica. . Granulomatous ulceration and granulomatous mass may occur in the peri-anal region."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., The infection reaches the skin through the blood stream . Skin is involved directly over the region adjoining a visceral lesion, such as, in the areas of drainage of liver abscess or colostomy wound, in the sites of ruptured appendicular and peri-colic abscesses. . Extensive necrosis and sloughing of the skin and subcutaneous tissues are caused by the trophozoites of E. histolytica. . Granulomatous ulceration and granulomatous mass may occur in the peri-anal region.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"which\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "75467373-bd12-4156-bed6-de2224dc6e41": {
-    "cop": 1,
-    "exp": "Gleason's microscopic grading system which is based on two features:i) Degree of glandular differentiation.ii) The growth pattern of the tumor in relation to the stroma.These features are assessed by low-power examinationof the prostatic tissue. For clinical staging of prostate cancer,The TNM system is considered an international standard. HARSH MOHAN Textbook of pathology 6th edition pg no 720 Gleason score ranges from 2 to 10Q. Gleason score and grading system a. Gleason score is the most commonly used histological grading system for 1 to 5 prostate cancer. b. (The two most predominant histological pattern of the prostate cancer are assigned a Gleason grade ranging from 1-5.) c. The primary grade is assigned to the pattern of cancer that is most commonly observed in the histological slides of the specimen. d. The secondary grade is assigned to the second most commonly observed pattern in the specimen. e. Gleason score is the sum of the two grades. Thus it is also known as Gleason sum\". f. If the entire specimen has only one pattern present, then both the primary and secondary grades are repoed as the same grade. g. As Gleason grades range from 1 to 5, Gleason score thus ranges from 2 to 10. h. i. The Gleason score is used to help evaluate the prognosis of men with prostate cancer. Together with other parameters, the Gleason score is incorporated into a strategy of prostate cancer staging which predicts & prognosis and helps guide therapy. j. A point of impoance is that the primary Gleason grade is most impoant with respect to placing patients in prognostic groups. For example in patients with a Gleason score 7, a Gleason 4+3 is a more aggressive cancer than a Gleason 3+4. Ref: Smith's Urology 16/ep375"
+    "cop": 0,
+    "exp": "Gleason's microscopic grading system which is based on two features:i) Degree of glandular differentiation.ii) The growth pattern of the tumor in relation to the stroma.These features are assessed by low-power examinationof the prostatic tissue. For clinical staging of prostate cancer,The TNM system is considered an international standard. HARSH MOHAN Textbook of pathology 6th edition pg no 720 Gleason score ranges from 2 to 10Q. Gleason score and grading system a. Gleason score is the most commonly used histological grading system for 1 to 5 prostate cancer. b. (The two most predominant histological pattern of the prostate cancer are assigned a Gleason grade ranging from 1-5.) c. The primary grade is assigned to the pattern of cancer that is most commonly observed in the histological slides of the specimen. d. The secondary grade is assigned to the second most commonly observed pattern in the specimen. e. Gleason score is the sum of the two grades. Thus it is also known as Gleason sum\". f. If the entire specimen has only one pattern present, then both the primary and secondary grades are repoed as the same grade. g. As Gleason grades range from 1 to 5, Gleason score thus ranges from 2 to 10. h. i. The Gleason score is used to help evaluate the prognosis of men with prostate cancer. Together with other parameters, the Gleason score is incorporated into a strategy of prostate cancer staging which predicts & prognosis and helps guide therapy. j. A point of impoance is that the primary Gleason grade is most impoant with respect to placing patients in prognostic groups. For example in patients with a Gleason score 7, a Gleason 4+3 is a more aggressive cancer than a Gleason 3+4. Ref: Smith's Urology 16/ep375",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Gleason grading system\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1d769bbd-2cbe-4189-8ea2-ebcecfd91b81": {
-    "cop": 2,
-    "exp": "(b) Atrophic rhinitis(Ref. Scott Brown, 6th ed., 4/8/ 27)Allergic rhinitis is managed by antihistaminics, decongestants and steroid nasal spray.Vasomotor rhinitis is managed by local and systemic decongestants and if required vidian neurectomy.In viral rhinitis only symptomatic treatment is given."
+    "cop": 1,
+    "exp": "(b) Atrophic rhinitis(Ref. Scott Brown, 6th ed., 4/8/ 27)Allergic rhinitis is managed by antihistaminics, decongestants and steroid nasal spray.Vasomotor rhinitis is managed by local and systemic decongestants and if required vidian neurectomy.In viral rhinitis only symptomatic treatment is given.",
+    "hint_exp": "🎯 Think of \"Young operation done JIPMER\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "67971358-d049-406a-b09c-2486de6e3bb5": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a8b1765b-31c2-4eed-91c4-c0dbe8ff68ca": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Phenobarbitone Lignocaine toxicity Lignocaine toxicity occurs with unintended intravascular administration or with administration of excessive dose Toxicity may be observed at 6 ug/ml, but more commonly occur once levels exceed 10 tg/ml. Clinical manifestations 1. CNS manifestations These are the most common manifestations of toxicity. CNS lidocaine toxicity is biphasic Earlier manifestations-are due to CNS excitation e.g. convulsions Subsequent manifestations -are due to CNS depression drowsiness, disorientation, respiratory depression. The cause of biphasic response is Local anaesthetic action first blocks inhibitary CNS pathways-resulting in stimulation Eventually blocks both inhibitory and excitatory pathways- overall CNS depression 2. Cardiovascular manifestations These occur at higher serum concentrations There may be cardiac depression, hypotension, coma, respiratory arrest. Note: lignocaine can precipitate malignant hypehermia Management of toxicity If lignocaine toxicity is suspected, stop the injection immediately. Ensure adequate oxygenation, whether by face mask or by intubation. Anticonvulsants such as benzodiazepines and barbiturates are the drug of choice for seizure control. Succinykholine is sometimes also used to terminate the neuromuscular effects of seizures. If CVS symptoms occur (cardiac depression and hypotension), IVfluid and vasopressor agents may be required. If metabolic acidosis develops, use of sodium bicarbonate can be considered, although, as in other instances of acute metabolic acidosis, this is controversial"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Phenobarbitone Lignocaine toxicity Lignocaine toxicity occurs with unintended intravascular administration or with administration of excessive dose Toxicity may be observed at 6 ug/ml, but more commonly occur once levels exceed 10 tg/ml. Clinical manifestations 1. CNS manifestations These are the most common manifestations of toxicity. CNS lidocaine toxicity is biphasic Earlier manifestations-are due to CNS excitation e.g. convulsions Subsequent manifestations -are due to CNS depression drowsiness, disorientation, respiratory depression. The cause of biphasic response is Local anaesthetic action first blocks inhibitary CNS pathways-resulting in stimulation Eventually blocks both inhibitory and excitatory pathways- overall CNS depression 2. Cardiovascular manifestations These occur at higher serum concentrations There may be cardiac depression, hypotension, coma, respiratory arrest. Note: lignocaine can precipitate malignant hypehermia Management of toxicity If lignocaine toxicity is suspected, stop the injection immediately. Ensure adequate oxygenation, whether by face mask or by intubation. Anticonvulsants such as benzodiazepines and barbiturates are the drug of choice for seizure control. Succinykholine is sometimes also used to terminate the neuromuscular effects of seizures. If CVS symptoms occur (cardiac depression and hypotension), IVfluid and vasopressor agents may be required. If metabolic acidosis develops, use of sodium bicarbonate can be considered, although, as in other instances of acute metabolic acidosis, this is controversial",
+    "hint_exp": "🧩 Your crush solved \"lignocaine toxicity\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

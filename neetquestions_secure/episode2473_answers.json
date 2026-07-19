@@ -1,202 +1,252 @@
 {
   "c4f3a365-d9cf-4aed-aaa6-716e986dcd86": {
-    "cop": 4,
-    "exp": "- Given clinical features suggests the diagnosis of Crohn's disease Discussing options one by one: OPTION 1 : Crypt abscesses & pseudopolyps are seen in ulcerative colitis; not in crohn's disease OPTION 2 : False bacause transmural involvement of intestine is seen in crohn's disease OPTION 3 : Crohn's disease can involve any pa of GIT; but most commonly involved site is ileum OPTION 4 : Stricture & fistula formation is seen in crohn's disease"
+    "cop": 3,
+    "exp": "- Given clinical features suggests the diagnosis of Crohn's disease Discussing options one by one: OPTION 1 : Crypt abscesses & pseudopolyps are seen in ulcerative colitis; not in crohn's disease OPTION 2 : False bacause transmural involvement of intestine is seen in crohn's disease OPTION 3 : Crohn's disease can involve any pa of GIT; but most commonly involved site is ileum OPTION 4 : Stricture & fistula formation is seen in crohn's disease",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "eacd6f8a-4821-4532-b502-9f6584c8b61f": {
-    "cop": 2,
-    "exp": "Salbutamol is a beta2 agonist which relaxes smooth muscles and relieves bronchospasm.Aminophylline is a phosphodiesterase inhibitor that produces bronchodilator effect along with anti-inflammatory effect.Steroids,both oral and inhalational,are also used in asthma because of their anti-inflammatory propey. WHO proposed step wise approach for management of bronchial asthma. Morphine is used in emergency management of acute myocardial infarction. Reference:Harrison's medicine-18th edition,page no:2110."
+    "cop": 1,
+    "exp": "Salbutamol is a beta2 agonist which relaxes smooth muscles and relieves bronchospasm.Aminophylline is a phosphodiesterase inhibitor that produces bronchodilator effect along with anti-inflammatory effect.Steroids,both oral and inhalational,are also used in asthma because of their anti-inflammatory propey. WHO proposed step wise approach for management of bronchial asthma. Morphine is used in emergency management of acute myocardial infarction. Reference:Harrison's medicine-18th edition,page no:2110.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"used bronchial asthma except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f7a1bec4-04ab-4d2d-bacc-a7f7853d0136": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Peyronies disease * Unyielding palpable plaque in penis with erect penis bent, often dramatically, towards the side of the plaque is a feature of peyronies disease.Peyronie's disease* Peyronie's disease is a common cause of deformity of the erect penis.* Hard plaques of fibrosis can usually be palpated in the tunica of one or both corpora cavernosa. The plaques may be calcified.* The presence of the unyielding plaque tissue within the normally elastic wall of the corpus cavernosum causes the erect penis to bend, often dramatically, towards the side of the plaque.* The aetiology is uncertain but it may be a result of past trauma - there is an association with Dupuytren's contracture.* Disease may continue to progress or remit after 3-5 years.* When the deformity of the penis is causing distress, it may be possible to straighten it by placing non- absorbable sutures in the corpus cavernosum opposite the plaque. This reduces the elasticity in this region to balance that caused by the plaque (Nesbitt's operation)."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Peyronies disease * Unyielding palpable plaque in penis with erect penis bent, often dramatically, towards the side of the plaque is a feature of peyronies disease.Peyronie's disease* Peyronie's disease is a common cause of deformity of the erect penis.* Hard plaques of fibrosis can usually be palpated in the tunica of one or both corpora cavernosa. The plaques may be calcified.* The presence of the unyielding plaque tissue within the normally elastic wall of the corpus cavernosum causes the erect penis to bend, often dramatically, towards the side of the plaque.* The aetiology is uncertain but it may be a result of past trauma - there is an association with Dupuytren's contracture.* Disease may continue to progress or remit after 3-5 years.* When the deformity of the penis is causing distress, it may be possible to straighten it by placing non- absorbable sutures in the corpus cavernosum opposite the plaque. This reduces the elasticity in this region to balance that caused by the plaque (Nesbitt's operation).",
+    "hint_exp": "🎯 Think of \"pointing to the side of plaque\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9e17bfdf-9551-4b89-afc0-587ebfa3fb97": {
-    "cop": 2,
-    "exp": "Ans. (b) Vit BRef: K. Park 23rded. 1626* Antioxidants are substances which are both nutrients and non-nutrients.* These anti-oxidants reduce the toxic effects of reactive oxygen species and nitrogen species which are generated during physiological or pathological conditions and result in oxidant damage* Vitamins which acts as antioxidants are remembered as ACE: vitamin A, C and E* Other vitamins which acts as anti-oxidants are: Selenium, Glutathione* Non-nutrient products that also act as anti-oxidants are: Plant phenols, Flavonoids, Coumarins, caffeic, benzyl isothiocyanates, gallic and ellagic acid.* Vitamin B is not an anti-oxidant."
+    "cop": 1,
+    "exp": "Ans. (b) Vit BRef: K. Park 23rded. 1626* Antioxidants are substances which are both nutrients and non-nutrients.* These anti-oxidants reduce the toxic effects of reactive oxygen species and nitrogen species which are generated during physiological or pathological conditions and result in oxidant damage* Vitamins which acts as antioxidants are remembered as ACE: vitamin A, C and E* Other vitamins which acts as anti-oxidants are: Selenium, Glutathione* Non-nutrient products that also act as anti-oxidants are: Plant phenols, Flavonoids, Coumarins, caffeic, benzyl isothiocyanates, gallic and ellagic acid.* Vitamin B is not an anti-oxidant.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following vitamin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f7e1c4b5-3427-414c-bc38-465cc0263b06": {
-    "cop": 4,
-    "exp": "Leopold's Maneuvers are a common and systematic way to determine the position of a fetus inside the woman's uterus; they are named after the gynecologist Christian Gerhard Leopold. The maneuvers consist of four distinct actions, each helping to determine the position of the fetus. The maneuvers are impoant because they help determine the position and presentation of the fetus. Also Know: Fundal grip- First Leopold Lateral grip -Second Leopold Pawlik's grip - Third Leopold Pelvic grip - Fouh Leopold Ref: Textbook of Obstetrics D.C.Dutta 6th Ed Page 79."
+    "cop": 3,
+    "exp": "Leopold's Maneuvers are a common and systematic way to determine the position of a fetus inside the woman's uterus; they are named after the gynecologist Christian Gerhard Leopold. The maneuvers consist of four distinct actions, each helping to determine the position of the fetus. The maneuvers are impoant because they help determine the position and presentation of the fetus. Also Know: Fundal grip- First Leopold Lateral grip -Second Leopold Pawlik's grip - Third Leopold Pelvic grip - Fouh Leopold Ref: Textbook of Obstetrics D.C.Dutta 6th Ed Page 79.",
+    "hint_exp": "🧩 Your crush solved \"Leopold maneuver used\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d1ef2ef1-3c11-4bf9-b1ab-503f1ee6149d": {
-    "cop": 4,
-    "exp": "Starling pointed this out when he stated that the “energy of contraction is proportional to the initial length of the cardiac muscle fiber” (Starling’s law of the heart or the Frank–Starling law ).\nFor the heart, the length of the muscle fibers (ie, the extent of the preload) is proportional to the end-diastolic volume.\nThe relation between ventricular stroke volume and end diastolic volume is called the Frank–Starling curve."
+    "cop": 3,
+    "exp": "Starling pointed this out when he stated that the “energy of contraction is proportional to the initial length of the cardiac muscle fiber” (Starling’s law of the heart or the Frank–Starling law ).\nFor the heart, the length of the muscle fibers (ie, the extent of the preload) is proportional to the end-diastolic volume.\nThe relation between ventricular stroke volume and end diastolic volume is called the Frank–Starling curve.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the heart\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "23685980-763f-474b-96e7-55778846866e": {
-    "cop": 2,
-    "exp": "Thrombosthenin, platelet contractile proteins contract and help in clot retraction 48 hours after injury. the contractile protein of platelets is, responsible for clot retraction , platelet aggregation, and release of ADP and other biologic amines essential to platelet function."
+    "cop": 1,
+    "exp": "Thrombosthenin, platelet contractile proteins contract and help in clot retraction 48 hours after injury. the contractile protein of platelets is, responsible for clot retraction , platelet aggregation, and release of ADP and other biologic amines essential to platelet function.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Thrombosthenin\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "54a43578-d273-41f8-aa80-bda12c100bbb": {
-    "cop": 3,
-    "exp": "Anconeus is supplied by a branch of the radial nerve given off in the Radial/spiral groove. All other muscles given below are contents of the anterior compament of the arm and hence supplied by the musculocutaneous nerve.Reference: Chaurasia; 6th edition"
+    "cop": 2,
+    "exp": "Anconeus is supplied by a branch of the radial nerve given off in the Radial/spiral groove. All other muscles given below are contents of the anterior compament of the arm and hence supplied by the musculocutaneous nerve.Reference: Chaurasia; 6th edition",
+    "hint_exp": "🎯 Think of \"musculocutaneous nerve supplies below\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7dcd6a5a-eb25-42dd-93c6-25364a0911dd": {
-    "cop": 3,
-    "exp": "If there is acute respiratory acidosis, expected compensation is rise of HCO3 by 1 mEq/L for every 10 mm Hg rise of pCO2. In this question change in pCO2 = 60 -40 = 20mmHg Therefore expected elevation in = 2 m Eq. Since the actual HCO3- is close to the calculated HCO3, the diagnosis is respiratory acidosis"
+    "cop": 2,
+    "exp": "If there is acute respiratory acidosis, expected compensation is rise of HCO3 by 1 mEq/L for every 10 mm Hg rise of pCO2. In this question change in pCO2 = 60 -40 = 20mmHg Therefore expected elevation in = 2 m Eq. Since the actual HCO3- is close to the calculated HCO3, the diagnosis is respiratory acidosis",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year with history presents\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4bc0250c-cde0-4628-be28-91b17b63d358": {
-    "cop": 3,
-    "exp": "Ans. C: Celiac sprue Etiology of dermatitis herpetiformis: Gluten sensitive enteropathy is always associated and probably responsible for skin lesions DH: Patients have an associated, usually subclinical gluten sensitive enteropathv More than 90% express HLA-B8/ DRW3 and HLA-DQW2 Direct immunofluorescence microscopy of normal appearing perilesional skin demonstrate granular deposits of IgA DOC (drug of choice): Dapsone"
+    "cop": 2,
+    "exp": "Ans. C: Celiac sprue Etiology of dermatitis herpetiformis: Gluten sensitive enteropathy is always associated and probably responsible for skin lesions DH: Patients have an associated, usually subclinical gluten sensitive enteropathv More than 90% express HLA-B8/ DRW3 and HLA-DQW2 Direct immunofluorescence microscopy of normal appearing perilesional skin demonstrate granular deposits of IgA DOC (drug of choice): Dapsone",
+    "hint_exp": "🧩 Your crush solved \"herpetiformis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "74004862-5e15-4d6d-9c2f-26b70c2b738d": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Propranolol used\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "558b39da-b738-4ec4-be14-7d6e2a632b1f": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"infant with severe dehydration\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1733b848-7e85-4ec8-8d63-122f40683e27": {
-    "cop": 2,
-    "exp": "Ans. B. SaltThe area of distribution of taste sensation is as shown in the following illustration:"
+    "cop": 1,
+    "exp": "Ans. B. SaltThe area of distribution of taste sensation is as shown in the following illustration:",
+    "hint_exp": "🎯 Think of \"the illustration\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0130db6a-eb36-47ba-9eed-75ccb34973fe": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Duchenne muscular dystrophy o DMD, also calledpeudohypertrophic mucular dystrophy, is the most common hereditary> neuromuscular dystrophy. It is an X-linked recessive disorder. It is caused by a mutation in gene responsible for producing dystrophin (a sarcolemmal protein).o The usual age of onset is 3-5 years (does not present at birth or infancy), i.e., disease begin to manifest when child starts walking.o There is progressive muscle weakness affecting proximal muscles of limbs. Child walks clumsily, has difficulty in climbing stairs and the gait is waddling (Trendelenburg). Because of weakness of proximal (thigh) muscles, there is compensatory hypertrophy of distal (calf) muscles. This is called pseudohypertrophy because it is not true hypertrophy of muscles, instead the muscle is replaced by fat and connective tissue. Extraocular muscles are spared.o Other features are scoliosis, epilepsy and mild mental retardation. Patient die in the second decade of life because of respiratory failure and cardiomy opathy. Gower sign is positive, i.e. the child uses hand support to stand from sitting position because of proximal weakenss.o Serum creatinine phosphokinase (CPK) levels are elevated many folds. Histopathology demonstrates diffuse degeneration and muscle fibres of varying size.o Becker's muscular dystrophy is a milder version of Duchenne muscular dystrophy in which dystrophin is not completely absent. It is also X-linked recessive disorder and has less severity than DMD."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Duchenne muscular dystrophy o DMD, also calledpeudohypertrophic mucular dystrophy, is the most common hereditary> neuromuscular dystrophy. It is an X-linked recessive disorder. It is caused by a mutation in gene responsible for producing dystrophin (a sarcolemmal protein).o The usual age of onset is 3-5 years (does not present at birth or infancy), i.e., disease begin to manifest when child starts walking.o There is progressive muscle weakness affecting proximal muscles of limbs. Child walks clumsily, has difficulty in climbing stairs and the gait is waddling (Trendelenburg). Because of weakness of proximal (thigh) muscles, there is compensatory hypertrophy of distal (calf) muscles. This is called pseudohypertrophy because it is not true hypertrophy of muscles, instead the muscle is replaced by fat and connective tissue. Extraocular muscles are spared.o Other features are scoliosis, epilepsy and mild mental retardation. Patient die in the second decade of life because of respiratory failure and cardiomy opathy. Gower sign is positive, i.e. the child uses hand support to stand from sitting position because of proximal weakenss.o Serum creatinine phosphokinase (CPK) levels are elevated many folds. Histopathology demonstrates diffuse degeneration and muscle fibres of varying size.o Becker's muscular dystrophy is a milder version of Duchenne muscular dystrophy in which dystrophin is not completely absent. It is also X-linked recessive disorder and has less severity than DMD.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Dystrophin absent\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e85f06a4-1d8d-4dcc-bd53-83213bb7b71f": {
-    "cop": 4,
-    "exp": "Above image is of Automated External Defibrillator It is advanced, microprocessor-based poable device High specificity and sensitivity in differentiating shockable from nonshockable rhythms. Delivers an electric shock through the chest to the hea Shock can potentially stop an irregular hea beat (arrhythmia) and allow a normal rhythm to resume following sudden cardiac arrest (SCA) Deliver some type of biphasic waveform shock. Compared with monophasic shocks, biphasic shocks deliver energy in two directions with equivalent efficacy at lower energy levels and possibly with less myocardial injury. When using AEDs, one electrode pad is placed beside the upper right sternal border, just below the clavicle, and the other pad is placed just lateral to the left nipple, with the top of the pad a few inches below the axilla"
+    "cop": 3,
+    "exp": "Above image is of Automated External Defibrillator It is advanced, microprocessor-based poable device High specificity and sensitivity in differentiating shockable from nonshockable rhythms. Delivers an electric shock through the chest to the hea Shock can potentially stop an irregular hea beat (arrhythmia) and allow a normal rhythm to resume following sudden cardiac arrest (SCA) Deliver some type of biphasic waveform shock. Compared with monophasic shocks, biphasic shocks deliver energy in two directions with equivalent efficacy at lower energy levels and possibly with less myocardial injury. When using AEDs, one electrode pad is placed beside the upper right sternal border, just below the clavicle, and the other pad is placed just lateral to the left nipple, with the top of the pad a few inches below the axilla",
+    "hint_exp": "🧩 Your crush solved \"Name given device\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "17a08d6f-da02-4c0b-b915-1e1a092d0b37": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., bleeding o Bleeding (most common) and cutaneous necrosis can occur with any oral anticoagulants."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., bleeding o Bleeding (most common) and cutaneous necrosis can occur with any oral anticoagulants.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Most common adverse effect\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "34479e04-471b-495b-97e4-6757b60cb779": {
-    "cop": 1,
-    "exp": "Ans. (a) GGTSerum levels of GGT differ from those of ALP during pregnancy, in which GGT remains normal even during cholestasis in pregnancy. GGT is often increased in alcoholics even without liver disease; in some obese people; and in the presence of high concentrations of therapeutic drugs, such as acetaminophen and phenytoin and carbamazepine (increased up to five times the reference limits), even in the absence of any apparent liver injury. Studies suggest that alcohol induces mitochondrial damage, resulting in the release of mitochondrial AST, which, besides being the predominant form of AST in hepatocytes, has a significantly longer half-life than do extramitochondrial AST and ALT. This frequently results in the disproportionate elevation of AST over ALT, yielding an AST/ALT quotient, also called the DeRitis ratio, of 3-4:1 in alcohol-induced liver disease"
+    "cop": 0,
+    "exp": "Ans. (a) GGTSerum levels of GGT differ from those of ALP during pregnancy, in which GGT remains normal even during cholestasis in pregnancy. GGT is often increased in alcoholics even without liver disease; in some obese people; and in the presence of high concentrations of therapeutic drugs, such as acetaminophen and phenytoin and carbamazepine (increased up to five times the reference limits), even in the absence of any apparent liver injury. Studies suggest that alcohol induces mitochondrial damage, resulting in the release of mitochondrial AST, which, besides being the predominant form of AST in hepatocytes, has a significantly longer half-life than do extramitochondrial AST and ALT. This frequently results in the disproportionate elevation of AST over ALT, yielding an AST/ALT quotient, also called the DeRitis ratio, of 3-4:1 in alcohol-induced liver disease",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"alcoholic hepatitis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6f4e78c6-f0f3-48cf-8866-bc386f99bd89": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Period of communicability Latent period, serial interval and generation time, all are approximate measure of incubation period, i.e., these period can give some idea about incubation period. Latentperiod The period from disease initiation to disease detection. It is used in non-infectious disease as the equivalent of incubation period in infectious disease. Serial interval The gap time between onset of primary case and secondary case. o By collecting information about a whole series of such onset, we get a distribution of secondary cases from which we can guess the incubation period. Generation time o Interval between receipt of infecton by host and maximal infectivity of the host. o Generation time is roughly equal to the incubation period. About option 'b' Communicable period The time during which an infectious agent may be transferred directly or indirectly from an infected person to another person. o The period of communicability has no relation with incubation period, it merely reflects the duration when the infectious agent may be transferred. This may occur during incubation period, during actual illness or during convalsescence. o Generally communicable diseaes are not communicable in incubation period except - measles, Chicken pox, Peussis hepatitis A, i.e., these diseases are communicable during their late incubation period."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Period of communicability Latent period, serial interval and generation time, all are approximate measure of incubation period, i.e., these period can give some idea about incubation period. Latentperiod The period from disease initiation to disease detection. It is used in non-infectious disease as the equivalent of incubation period in infectious disease. Serial interval The gap time between onset of primary case and secondary case. o By collecting information about a whole series of such onset, we get a distribution of secondary cases from which we can guess the incubation period. Generation time o Interval between receipt of infecton by host and maximal infectivity of the host. o Generation time is roughly equal to the incubation period. About option 'b' Communicable period The time during which an infectious agent may be transferred directly or indirectly from an infected person to another person. o The period of communicability has no relation with incubation period, it merely reflects the duration when the infectious agent may be transferred. This may occur during incubation period, during actual illness or during convalsescence. o Generally communicable diseaes are not communicable in incubation period except - measles, Chicken pox, Peussis hepatitis A, i.e., these diseases are communicable during their late incubation period.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8dcb1ecb-a8d2-4a2e-8cfe-0fd7e1fe0685": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"selective agonists often effective\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "77be22b8-c686-412b-b3a6-f89b0a13733e": {
-    "cop": 1,
-    "exp": "- Anopheles stephensi is responsible for malaria in, urban and industrial areas. - this type is found in urban areas, intermediate form in urban and semi-urban localities. Reference : Park's textbook of preventive and social medicine, 23rd edition pg no:256 <\\p>"
+    "cop": 0,
+    "exp": "- Anopheles stephensi is responsible for malaria in, urban and industrial areas. - this type is found in urban areas, intermediate form in urban and semi-urban localities. Reference : Park's textbook of preventive and social medicine, 23rd edition pg no:256 <\\p>",
+    "hint_exp": "🧩 Your crush solved \"urban which Anopheles species\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f0b5d626-4ada-4687-aae9-3d1e4f046194": {
-    "cop": 3,
-    "exp": "Hypoxia oring the production of hemoglobin F both direct effects on globin gene expression, as well as up-regulated production of erythropoietin. Ref: Ganong's Review of Medical Physiology Twenty-Third Edition Page No:526"
+    "cop": 2,
+    "exp": "Hypoxia oring the production of hemoglobin F both direct effects on globin gene expression, as well as up-regulated production of erythropoietin. Ref: Ganong's Review of Medical Physiology Twenty-Third Edition Page No:526",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "98a51798-ef64-4f8d-8573-906b2c11f533": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Barberio's test Tests to detect semen are:A. Chemical tests:1) Microchemical tests : Florence test (produces brown crystals of choline periodide), and barberio's test (produces yellow crystals of spermine picrate by picric acid).2) Enzyme tests: Acid phosphatase (concentration > 10 K.A./ml), creatinine phosphokinase (>400 units) and specific glycoproteins (P30 or MHS-5).3) Ammonium molybdate test: It gives deep deep yellow colour, due to presence of phosphorus.B Microscopic examination:o It is done to demonstrate the presence of spermatozoa in the vaginal fluid or in stain.C. Biological examination:1) Precipitin test: To know the species to which semen belongs.2) Blood group can be known from semen.D. UV light:o Invisible, softned and dry semen stains of the clothes can be rendered distinct by the filtered UV light(AIIMS 09), which produces bluish fluorescence.E. Testes for determination of specific protein component (e.g. LDH isoenzyme):o These are immunoelectrophoresis, gel diffusion precipitation, gel electrophoresis, immunodiffusion, isoelectric focussing and TLC (thin layer chromatography)."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Barberio's test Tests to detect semen are:A. Chemical tests:1) Microchemical tests : Florence test (produces brown crystals of choline periodide), and barberio's test (produces yellow crystals of spermine picrate by picric acid).2) Enzyme tests: Acid phosphatase (concentration > 10 K.A./ml), creatinine phosphokinase (>400 units) and specific glycoproteins (P30 or MHS-5).3) Ammonium molybdate test: It gives deep deep yellow colour, due to presence of phosphorus.B Microscopic examination:o It is done to demonstrate the presence of spermatozoa in the vaginal fluid or in stain.C. Biological examination:1) Precipitin test: To know the species to which semen belongs.2) Blood group can be known from semen.D. UV light:o Invisible, softned and dry semen stains of the clothes can be rendered distinct by the filtered UV light(AIIMS 09), which produces bluish fluorescence.E. Testes for determination of specific protein component (e.g. LDH isoenzyme):o These are immunoelectrophoresis, gel diffusion precipitation, gel electrophoresis, immunodiffusion, isoelectric focussing and TLC (thin layer chromatography).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"can be detected by\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6b34b229-14e6-4577-8a24-9fa3afd2b95a": {
-    "cop": 2,
-    "exp": "MALE’ structures pass through foramen ovale: Mandibular division of trigeminal nerve, Accessory meningeal artery, Lesser petrosal nerve, Emissary vein. \nMiddle meningeal artery passes through foramen spinosum, along with nervus spinosus (branch of mandibular nerve)."
+    "cop": 1,
+    "exp": "MALE’ structures pass through foramen ovale: Mandibular division of trigeminal nerve, Accessory meningeal artery, Lesser petrosal nerve, Emissary vein. \nMiddle meningeal artery passes through foramen spinosum, along with nervus spinosus (branch of mandibular nerve).",
+    "hint_exp": "🎯 Think of \"structures pass through foramen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1194a7a9-a5bf-42d8-aaac-765da82ea0b3": {
-    "cop": 2,
-    "exp": "It is very likely that control of hypertension and excellent glucose control will slow the development and course of renal disease in Type II diabetes mellitus. ACE inhibitors seem to decrease proteinuria and slow progression of renal disease. As renal function deteriorates, limiting dietary protein intake can also be beneficial. Calcium channel blockers have no extra effect beyond their antihypertensive effect."
+    "cop": 1,
+    "exp": "It is very likely that control of hypertension and excellent glucose control will slow the development and course of renal disease in Type II diabetes mellitus. ACE inhibitors seem to decrease proteinuria and slow progression of renal disease. As renal function deteriorates, limiting dietary protein intake can also be beneficial. Calcium channel blockers have no extra effect beyond their antihypertensive effect.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following treatments\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "581ed8d1-4b2e-4f18-8b7a-112c38d6cea9": {
-    "cop": 2,
-    "exp": "Painful"
+    "cop": 1,
+    "exp": "Painful",
+    "hint_exp": "🧩 Your crush solved \"Which true endometriosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6a7a0eb7-1339-4fa5-bc39-cbe749005869": {
-    "cop": 3,
-    "exp": "OSTEOCLASTIC GAINT CELLS ARE SEEN IN ALL THE ABOVE EXCEPT BONYCYST REF : MAHESAWRI 9TH ED"
+    "cop": 2,
+    "exp": "OSTEOCLASTIC GAINT CELLS ARE SEEN IN ALL THE ABOVE EXCEPT BONYCYST REF : MAHESAWRI 9TH ED",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"seen in all except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ed0b0b02-7386-4cf0-b503-669fc5865965": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., 6 monthso Gaze Fixation starts developing in the first month and is completed in 6 months,o Macula is fully developed by 4 - 6 months.o Fusional reflexes, stereopsis and accommodation is well developed by 4 - 6 months,o Cornea attains normal adult diameter by 2 years of age.o Lens grows throughout life."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., 6 monthso Gaze Fixation starts developing in the first month and is completed in 6 months,o Macula is fully developed by 4 - 6 months.o Fusional reflexes, stereopsis and accommodation is well developed by 4 - 6 months,o Cornea attains normal adult diameter by 2 years of age.o Lens grows throughout life.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Gaze fixation takes place\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "cefe4560-9c68-40f4-a6db-70218bbbf1cc": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the treatment of choice\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a8e3ad66-c734-4678-b8d4-950f74c2552d": {
-    "cop": 2,
-    "exp": "5"
+    "cop": 1,
+    "exp": "5",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"many formed turn Beta\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "cc857843-114f-46cd-a89e-decef37635a8": {
-    "cop": 4,
-    "exp": "Answer is D (Bradycardia) : Autonomic neuropathy is associated with tachycardia and not bradycardia."
+    "cop": 3,
+    "exp": "Answer is D (Bradycardia) : Autonomic neuropathy is associated with tachycardia and not bradycardia.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a4d7c6bb-f3a6-4a28-8059-445f994e0cd6": {
-    "cop": 3,
-    "exp": "Ans. C. 800KcalA 4 year old child requires 1300Kcal/day; carbohydrates should provide 60% of the daily calorie requirement or about 780Kcal (800Kcal) daily."
+    "cop": 2,
+    "exp": "Ans. C. 800KcalA 4 year old child requires 1300Kcal/day; carbohydrates should provide 60% of the daily calorie requirement or about 780Kcal (800Kcal) daily.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"his diet\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "289e2fee-4a93-480f-9602-f75d2a42c5e7": {
-    "cop": 3,
-    "exp": "Ans. c. Sta chest compression"
+    "cop": 2,
+    "exp": "Ans. c. Sta chest compression",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"her management\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "627c78e6-ee87-41cf-a017-5d1f0204094f": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Mummery\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "08c5bc05-253c-474f-9ba3-1492c2881d7e": {
-    "cop": 3,
-    "exp": "Ans is 'c' i.e., Cytokeratin o Mass in bronchus in a old chronic smoker suggest bronchogenic carcinoma. The marker of carcinoma, on immunohistochemistry, is cytokeratin."
+    "cop": 2,
+    "exp": "Ans is 'c' i.e., Cytokeratin o Mass in bronchus in a old chronic smoker suggest bronchogenic carcinoma. The marker of carcinoma, on immunohistochemistry, is cytokeratin.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year male smoker presents\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "dea54325-a586-4760-a7af-e386a3aa749c": {
-    "cop": 4,
-    "exp": "Hair cells: are important receptor cells of hearing and transduce sound energy into electrical energy."
+    "cop": 3,
+    "exp": "Hair cells: are important receptor cells of hearing and transduce sound energy into electrical energy.",
+    "hint_exp": "🧩 Your crush solved \"Primary receptor cells hearing\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5486a231-15b9-4402-9889-b329ac2fdb1a": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 2% o The mean systemic availability following an oral dose is less than 2%"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 2% o The mean systemic availability following an oral dose is less than 2%",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Ramelteon\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7f01f085-5044-4e9e-b104-66bc30c0e337": {
-    "cop": 1,
-    "exp": "- Arsenic trioxide can be used for treatment of resistant cases of Acute promyelocytic leukemia (AML M3). MANAGEMENT OF AML: Ara C (Cytosine Arabinoside) Anthracyclines (Doxorubicin) For M3 AML: ATRA (All Trans Retinoic Acid) Arsenic"
+    "cop": 0,
+    "exp": "- Arsenic trioxide can be used for treatment of resistant cases of Acute promyelocytic leukemia (AML M3). MANAGEMENT OF AML: Ara C (Cytosine Arabinoside) Anthracyclines (Doxorubicin) For M3 AML: ATRA (All Trans Retinoic Acid) Arsenic",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Arsenic used management\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "08df91ea-8f75-4c7f-829f-a27589d06b9f": {
-    "cop": 4,
-    "exp": "Vitamin C is used as prophylaxis for Lathyrism"
+    "cop": 3,
+    "exp": "Vitamin C is used as prophylaxis for Lathyrism",
+    "hint_exp": "🎯 Think of \"False among following statement\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3ce9b86b-3424-4818-87bb-4098d2fc4449": {
-    "cop": 3,
-    "exp": "C i.e. Mercury"
+    "cop": 2,
+    "exp": "C i.e. Mercury",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following heavy metal\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "379fefe7-1cf7-4fd5-b162-d308673dd527": {
-    "cop": 1,
-    "exp": "Person with t(9,22) positive-ALL (30% of adult ALL cases) and other Bcr-abl-rearranged leukemias are more likely to have a poor prognosis, but survival rates may rise with treatment consisting of chemotherapy and Bcr-abl tyrosine kinase inhibitors Ref Davidson 23rd edition pg 933"
+    "cop": 0,
+    "exp": "Person with t(9,22) positive-ALL (30% of adult ALL cases) and other Bcr-abl-rearranged leukemias are more likely to have a poor prognosis, but survival rates may rise with treatment consisting of chemotherapy and Bcr-abl tyrosine kinase inhibitors Ref Davidson 23rd edition pg 933",
+    "hint_exp": "🧩 Your crush solved \"ALL\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "34536635-03a4-4d0c-90c6-6ca4818139d2": {
-    "cop": 1,
-    "exp": "Ans. (a) Positive charge(Ref: Ganong, 25th ed/p.677)Positively charged molecules are filtered more readily than negatively charged molecules"
+    "cop": 0,
+    "exp": "Ans. (a) Positive charge(Ref: Ganong, 25th ed/p.677)Positively charged molecules are filtered more readily than negatively charged molecules",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"particles have same diameter\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d175123d-8b50-4663-998d-e89ae12f2669": {
-    "cop": 1,
-    "exp": "The medial meniscus is firmly attached to the medial (tibial) collateral ligament. Damage to the medial collateral ligament often causes concomitant damage to the medial meniscus because of this relationship. The anterior cruciate ligament may be torn when the knee is hyperextended. The lateral meniscus is not attached to the medial collateral ligament but receives muscular attachment to the popliteus muscle. The posterior cruciate ligament also lies outside of the synol cavity and limits hyperflexion of the knee."
+    "cop": 0,
+    "exp": "The medial meniscus is firmly attached to the medial (tibial) collateral ligament. Damage to the medial collateral ligament often causes concomitant damage to the medial meniscus because of this relationship. The anterior cruciate ligament may be torn when the knee is hyperextended. The lateral meniscus is not attached to the medial collateral ligament but receives muscular attachment to the popliteus muscle. The posterior cruciate ligament also lies outside of the synol cavity and limits hyperflexion of the knee.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"ligament\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "021ca48f-c90c-4c9a-b666-d259e613b60e": {
-    "cop": 1,
-    "exp": "Ans. is a, i.e. Perform colposcopy.Management of ASCUSManagement of ASCUS|||Age of female <25 yearsAge of female >=25 years||Repeat pap smear in 1 yearsDo HPV DNA testing (Reflex HPV DNA testing)||If it is abnormalIf positive||Do colposcopyDo colposcopy"
+    "cop": 0,
+    "exp": "Ans. is a, i.e. Perform colposcopy.Management of ASCUSManagement of ASCUS|||Age of female <25 yearsAge of female >=25 years||Repeat pap smear in 1 yearsDo HPV DNA testing (Reflex HPV DNA testing)||If it is abnormalIf positive||Do colposcopyDo colposcopy",
+    "hint_exp": "🎯 Think of \"the next step in management\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a3d5b631-a5a4-407a-9068-c5cbbbb21e0e": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Radiopaque irregularity associated with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "84e7df93-4bac-419e-a139-2934342520ac": {
-    "cop": 4,
-    "exp": "Rhinitis Medicamentosa (RM) The addiction to over the counter decongestant nasal sprays is referred to as \"Rhinitis Medicamentosa\" or \"RM\". As the name implies, RM refers to rhinitis (congestion) caused by medication (medicamentosa). Prolonged use of over-the-counter (OTC) decongestant nasal sprays which contain topical vasoconstrictors such as Oxmetazoline hcl, Phenylephrine hcl and Xylometazoline hcl are known to cause RM."
+    "cop": 3,
+    "exp": "Rhinitis Medicamentosa (RM) The addiction to over the counter decongestant nasal sprays is referred to as \"Rhinitis Medicamentosa\" or \"RM\". As the name implies, RM refers to rhinitis (congestion) caused by medication (medicamentosa). Prolonged use of over-the-counter (OTC) decongestant nasal sprays which contain topical vasoconstrictors such as Oxmetazoline hcl, Phenylephrine hcl and Xylometazoline hcl are known to cause RM.",
+    "hint_exp": "🧩 Your crush solved \"uses nasal drops continuously\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "db51c020-dec6-45fd-b77b-31affae6d145": {
-    "cop": 4,
-    "exp": "Ans. Bitemporal hemianopia"
+    "cop": 3,
+    "exp": "Ans. Bitemporal hemianopia",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Pituitary tumour causes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2bae98e2-70e6-4640-a698-326808c8bda2": {
-    "cop": 1,
-    "exp": "Ans. (a) Airway maintenanceRef: Schwartz 10th 1713* Initial Management of intracranial hypertension includes; airway protection and adequate ventilation"
+    "cop": 0,
+    "exp": "Ans. (a) Airway maintenanceRef: Schwartz 10th 1713* Initial Management of intracranial hypertension includes; airway protection and adequate ventilation",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"First step management raised\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2ca8b7f3-0457-4909-ba83-363b89885d02": {
-    "cop": 3,
-    "exp": "Methotrexate is used for the management of:"
+    "cop": 2,
+    "exp": "Methotrexate is used for the management of:",
+    "hint_exp": "🎯 Think of \"all of these conditions except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f78df8af-4df2-4152-8d4b-d547d9be0213": {
-    "cop": 4,
-    "exp": "Conn syndrome refers specifically to primary hyperaldosteronism due to the presence of an adrenal aldosteronoma (aldosterone-secreting benign adrenal neoplasm or aldosterone producing adenoma (APA)). It is characterised by low renin and high aldosterone levels. Reference : page 780 Davidson's Principles and practice of Medicine 22nd edition"
+    "cop": 3,
+    "exp": "Conn syndrome refers specifically to primary hyperaldosteronism due to the presence of an adrenal aldosteronoma (aldosterone-secreting benign adrenal neoplasm or aldosterone producing adenoma (APA)). It is characterised by low renin and high aldosterone levels. Reference : page 780 Davidson's Principles and practice of Medicine 22nd edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Conn syndrome characterized\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "cf35b9ad-9570-46d3-a19d-7271a236246c": {
-    "cop": 1,
-    "exp": "Ans. A. Scheuermann's diseaseScheuermann's disease is a rare condition that typically affects teenagers. There is abnormal ossification of ring epiphyses of thoracic vertebrae. The deforming forces are greatest at the anterior border of the vertebrae, giving rise to the described wedge-shaped vertebral bodies (i.e. narrower anteriorly). Management depends on the degree of kyphosis and ranges from back strengthening exercises and postural training in those mildly affected to operative correction and fusion in those with severe kyphosis."
+    "cop": 0,
+    "exp": "Ans. A. Scheuermann's diseaseScheuermann's disease is a rare condition that typically affects teenagers. There is abnormal ossification of ring epiphyses of thoracic vertebrae. The deforming forces are greatest at the anterior border of the vertebrae, giving rise to the described wedge-shaped vertebral bodies (i.e. narrower anteriorly). Management depends on the degree of kyphosis and ranges from back strengthening exercises and postural training in those mildly affected to operative correction and fusion in those with severe kyphosis.",
+    "hint_exp": "🧩 Your crush solved \"year girl complains backache\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

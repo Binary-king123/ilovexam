@@ -1,202 +1,252 @@
 {
   "b32b3bde-2c4a-497b-b68d-05e5218fc58a": {
-    "cop": 4,
-    "exp": "In the United States, viral infections are the most common cause of myocarditis, with coxsackieviruses A and B and other enteroviruses accounting for a majority of the cases. Cytomegalovirus (CMV), human immunodeficiency virus (HIV), influenza virus, and others are less common pathogens. Toxoplasma gondii (household cats are the most common vector) also can cause myocarditis, paicularly in immunocompromised persons. Trichinosis is the most common helminthic disease with associated cardiac involvement. (Robbins Basic Pathology,9th edition,pg no.401,402)"
+    "cop": 3,
+    "exp": "In the United States, viral infections are the most common cause of myocarditis, with coxsackieviruses A and B and other enteroviruses accounting for a majority of the cases. Cytomegalovirus (CMV), human immunodeficiency virus (HIV), influenza virus, and others are less common pathogens. Toxoplasma gondii (household cats are the most common vector) also can cause myocarditis, paicularly in immunocompromised persons. Trichinosis is the most common helminthic disease with associated cardiac involvement. (Robbins Basic Pathology,9th edition,pg no.401,402)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"can be\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "141f55ee-884b-4b93-a152-6bb445058c86": {
-    "cop": 2,
-    "exp": "Cinnarizine is an antihistamine with anticholinergic property given for motion sickness & also used in the treatment of vertigo."
+    "cop": 1,
+    "exp": "Cinnarizine is an antihistamine with anticholinergic property given for motion sickness & also used in the treatment of vertigo.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"motion sickness\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f4adcf12-1d8f-42d6-a62f-535e968fa2cc": {
-    "cop": 2,
-    "exp": "Haemophilia is an X-linked recessive disease. These diseases are more common in men than in women.\nAn affected male will not pass the diseases to his sons, but all daughters will be carriers. X-linked recessive diseases are transmitted from carrier women to affected men."
+    "cop": 1,
+    "exp": "Haemophilia is an X-linked recessive disease. These diseases are more common in men than in women.\nAn affected male will not pass the diseases to his sons, but all daughters will be carriers. X-linked recessive diseases are transmitted from carrier women to affected men.",
+    "hint_exp": "🎯 Think of \"year presents genetic counselling\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5bd8826b-95a7-4a8d-a23c-bd35e02c41f3": {
-    "cop": 3,
-    "exp": "<p>The causes of hypocalcemia can be differentiated according to whether serum PTH levels are low (hypoparathyroidism) or high (secondary hyperparathyroidism). Although there are many potential causes of hypocalcemia, impaired PTH or vitamin D production are the most common etiologies . Because PTH is the main defense against hypocalcemia, disorders associated with deficient PTH production or secretion may be associated with profound, life-threatening hypocalcemia. In adults, hypoparathyroidism most commonly results from inadveent damage to all four glands during thyroid or parathyroid gland surgery. Hypoparathyroidism is a cardinal feature of autoimmune endocrinopathies ; rarely, it may be associated with infiltrative diseases such as sarcoidosis. Impaired PTH secretion may be secondary to magnesium deficiency or to activating mutations in the CaSR, which suppress PTH, leading to effects that are opposite to those that occur in FHH. Vitamin D deficiency, impaired 1,25(OH) 2 D production (primarily secondary to renal insufficiency), or vitamin D resistance also cause hypocalcemia. However, the degree of hypocalcemia in these disorders is generally not as severe as that seen with hypoparathyroidism because the parathyroids are capable of mounting a compensatory increase in PTH secretion. Hypocalcemia may also occur in conditions associated with severe tissue injury such as burns, rhabdomyolysis, tumor lysis, or pancreatitis. The cause of hypocalcemia in these settings may include a combination of low albumin, hyperphosphatemia, tissue deposition of calcium, and impaired PTH secretion. \u0002 CLINICAL MANIFESTATIONS Patients with hypocalcemia may be asymptomatic if the decreases in serum calcium are relatively mild and chronic, or they may present with life-threatening complications. Moderate to severe hypocalcemia is associated with paresthesias, usually of the fingers, toes, and circumoral regions, and is caused by increased neuromuscular irritability. On physical examination, a Chvostek's sign (twitching of the circumoral muscles in response to gentle tapping of the facial nerve just anterior to the ear) may be elicited, although it is also present in ~10% of normal individuals. Carpal spasm may be induced by inflation of a blood pressure cuff to 20 mmHg above the patient's systolic blood pressure for 3 min (Trousseau's sign). Severe hypocalcemia can induce seizures, carpopedal spasm, bronchospasm, laryngospasm, and prolongation of the QT interval(harrison 18 pg 362)</p>"
+    "cop": 2,
+    "exp": "<p>The causes of hypocalcemia can be differentiated according to whether serum PTH levels are low (hypoparathyroidism) or high (secondary hyperparathyroidism). Although there are many potential causes of hypocalcemia, impaired PTH or vitamin D production are the most common etiologies . Because PTH is the main defense against hypocalcemia, disorders associated with deficient PTH production or secretion may be associated with profound, life-threatening hypocalcemia. In adults, hypoparathyroidism most commonly results from inadveent damage to all four glands during thyroid or parathyroid gland surgery. Hypoparathyroidism is a cardinal feature of autoimmune endocrinopathies ; rarely, it may be associated with infiltrative diseases such as sarcoidosis. Impaired PTH secretion may be secondary to magnesium deficiency or to activating mutations in the CaSR, which suppress PTH, leading to effects that are opposite to those that occur in FHH. Vitamin D deficiency, impaired 1,25(OH) 2 D production (primarily secondary to renal insufficiency), or vitamin D resistance also cause hypocalcemia. However, the degree of hypocalcemia in these disorders is generally not as severe as that seen with hypoparathyroidism because the parathyroids are capable of mounting a compensatory increase in PTH secretion. Hypocalcemia may also occur in conditions associated with severe tissue injury such as burns, rhabdomyolysis, tumor lysis, or pancreatitis. The cause of hypocalcemia in these settings may include a combination of low albumin, hyperphosphatemia, tissue deposition of calcium, and impaired PTH secretion. \u0002 CLINICAL MANIFESTATIONS Patients with hypocalcemia may be asymptomatic if the decreases in serum calcium are relatively mild and chronic, or they may present with life-threatening complications. Moderate to severe hypocalcemia is associated with paresthesias, usually of the fingers, toes, and circumoral regions, and is caused by increased neuromuscular irritability. On physical examination, a Chvostek's sign (twitching of the circumoral muscles in response to gentle tapping of the facial nerve just anterior to the ear) may be elicited, although it is also present in ~10% of normal individuals. Carpal spasm may be induced by inflation of a blood pressure cuff to 20 mmHg above the patient's systolic blood pressure for 3 min (Trousseau's sign). Severe hypocalcemia can induce seizures, carpopedal spasm, bronchospasm, laryngospasm, and prolongation of the QT interval(harrison 18 pg 362)</p>",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of hypocalcemia\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ebf7f302-6bcc-43c3-9448-35da0ac922cb": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"composition of low osmolar ORS\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4bf1ea81-7e35-4e4d-b2c0-5904a0652cd3": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Anemia Ascariasis o Infections usually remain asymptomatic. o There may be pain, weight loss, diarrea, vomiting, and Anorexia. o Loeffer's syndrome is caused by pulmonary ascariasis --> Fever, cough, dysnea, wheeze, uicaria and eosinophilia."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Anemia Ascariasis o Infections usually remain asymptomatic. o There may be pain, weight loss, diarrea, vomiting, and Anorexia. o Loeffer's syndrome is caused by pulmonary ascariasis --> Fever, cough, dysnea, wheeze, uicaria and eosinophilia.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ded3edb6-27fa-4cc1-ab1d-ea2fbe1baa80": {
-    "cop": 3,
-    "exp": "Ureter is involved in Retro peritoneal fibrosis leading to Hydro Ureteno Nephrosis."
+    "cop": 2,
+    "exp": "Ureter is involved in Retro peritoneal fibrosis leading to Hydro Ureteno Nephrosis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Retroperitoneal fibrosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a54b6e83-c6ca-4088-8c92-17744887ae2f": {
-    "cop": 2,
-    "exp": "Sec 304B Dowry death where the death of a woman is caused by any burn or bodily injury or occurs otherwise than under normal circumstances within 7 years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called dowry death. Ref: TEXTBOOK OF FORENSIC MEDICINE AND TOXICOLOGY KRISHNAN VIJ FIFTH EDITION PAGE 169"
+    "cop": 1,
+    "exp": "Sec 304B Dowry death where the death of a woman is caused by any burn or bodily injury or occurs otherwise than under normal circumstances within 7 years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called dowry death. Ref: TEXTBOOK OF FORENSIC MEDICINE AND TOXICOLOGY KRISHNAN VIJ FIFTH EDITION PAGE 169",
+    "hint_exp": "🎯 Think of \"under\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fd65bbf2-f37a-4829-bcae-3059aa13392c": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 0 to 100 o For each component, the performance of individual counteries is placed on a scale of 0 to 100, where 0 represents an absolutely defined worst performance and 100 represents an absolutely defined best performance. o The composite index is calculated by averaging the three indicators, giving equal weight to each of them. o The resulting PQLI thus also is scaled 0 to 100"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 0 to 100 o For each component, the performance of individual counteries is placed on a scale of 0 to 100, where 0 represents an absolutely defined worst performance and 100 represents an absolutely defined best performance. o The composite index is calculated by averaging the three indicators, giving equal weight to each of them. o The resulting PQLI thus also is scaled 0 to 100",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"PQLI\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e62839f3-e333-4bd2-a6aa-79fcc0631867": {
-    "cop": 4,
-    "exp": "BUERGER'S DISEASE (THROMBOANGITIS OBLITERANS)\n→ Segmental inflammatory disease, affecting small and medium sized arteries in upper and lower extremities.\n→ Inflammatory process involves neighboring veins and nerves.\n→ Definite relationship with smoking.\nHistopathology\n→ Sharply segmental acute and chronic vasculitis of small and medium vessels with thrombosis of lumen, which may undergo organization and recanalization.\n→ Thrombus contains microabsecess\n\nInflammatory process extends to involve neighboring veins and nerves.\nWith time, all three structures (artery, vein and nerve) become incased in fibrous tissue.\n\nClinical Features (RIM)\n→ Characterized by triad of intermittent claudication, Raynaud's phenomenon and migratory superficial vein thrombophlebitis.\n\nTypically seen in young (<40 years), male smokers."
+    "cop": 3,
+    "exp": "BUERGER'S DISEASE (THROMBOANGITIS OBLITERANS)\n→ Segmental inflammatory disease, affecting small and medium sized arteries in upper and lower extremities.\n→ Inflammatory process involves neighboring veins and nerves.\n→ Definite relationship with smoking.\nHistopathology\n→ Sharply segmental acute and chronic vasculitis of small and medium vessels with thrombosis of lumen, which may undergo organization and recanalization.\n→ Thrombus contains microabsecess\n\nInflammatory process extends to involve neighboring veins and nerves.\nWith time, all three structures (artery, vein and nerve) become incased in fibrous tissue.\n\nClinical Features (RIM)\n→ Characterized by triad of intermittent claudication, Raynaud's phenomenon and migratory superficial vein thrombophlebitis.\n\nTypically seen in young (<40 years), male smokers.",
+    "hint_exp": "🧩 Your crush solved \"Buerger Disease\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ac7e51bd-40c0-436f-9588-e55195c922df": {
-    "cop": 2,
-    "exp": "APNEUSTIC BREATHING - long inspiratory spasms (resembles breath holding) CHEYNE-STROKE BREATHING - apnea followed by hyperapnea KUSSMAUL RESPIRATION - increased depth and prolonged inspiration REGULARLY IRREGULAR - seen in meningitis See the attached treasure for fuher details."
+    "cop": 1,
+    "exp": "APNEUSTIC BREATHING - long inspiratory spasms (resembles breath holding) CHEYNE-STROKE BREATHING - apnea followed by hyperapnea KUSSMAUL RESPIRATION - increased depth and prolonged inspiration REGULARLY IRREGULAR - seen in meningitis See the attached treasure for fuher details.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which following prolonged inspiratory\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f4e17b46-9c5e-400f-862c-77e8b81c0fc3": {
-    "cop": 2,
-    "exp": "Ans. (b) Sheep(Ref: Bailey 261e p37-38)Catgut points:* Discovered by John Hunter* Plain catgut is derived from Sheep submucosa of intestine* Plain catgut loses its strength by 50% in 3 days- Complete strength lost by 15 days and absorbed in 60 days* Isopropyl alcohol is used to preserve catgut."
+    "cop": 1,
+    "exp": "Ans. (b) Sheep(Ref: Bailey 261e p37-38)Catgut points:* Discovered by John Hunter* Plain catgut is derived from Sheep submucosa of intestine* Plain catgut loses its strength by 50% in 3 days- Complete strength lost by 15 days and absorbed in 60 days* Isopropyl alcohol is used to preserve catgut.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Catgut prepared from submucosal\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "57d38e2d-413e-4da7-882e-d16864582071": {
-    "cop": 2,
-    "exp": "Nicotin acts on NN and NM receptor which are Ino tropic receptors Diazepam act on GABA-BZD CL channel Complex that mediates entry of chlori Glibenclamide is a sulpforylchloride that act on ACh sensitive K+ channel Insulin act on enzymatic receptors Ref-KDT 7/e p49"
+    "cop": 1,
+    "exp": "Nicotin acts on NN and NM receptor which are Ino tropic receptors Diazepam act on GABA-BZD CL channel Complex that mediates entry of chlori Glibenclamide is a sulpforylchloride that act on ACh sensitive K+ channel Insulin act on enzymatic receptors Ref-KDT 7/e p49",
+    "hint_exp": "🎯 Think of \"following that ionic channels\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "72a270c3-0d5d-4e74-a60f-570828d1ae39": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Grommet surgery Treatment of otitis mediao Following two treatments have been described : -Watchful waitingWatchful waiting is the active monitoring of the condition and hearing in anticipation of spontaneous resolution. Guidlines aimed at both primary care and specialist otolaryngologist broadly agree that a watchful waiting period for about three months is the initial management of children with serous otitis media. Therefore, unless there are also signs of an infection, most health care providers will not treat SOM at first Instead, they will recheck the problem in 2-3 months. This should be coupled with reassurance that doing nothing is as likely as doing something to result in resolution of the SOM and the associated symptoms.SurgerySurgical intervention is recommended when watchful waiting and monitoring of hearing has confirmed failure of resolution of SOM. Following surgical intervention are used commonly : -Myringotomy and aspiration of fluid: -An incision is made in tympanic membrane and fluid aspirated with suction.Grommet (ventilation tube) surgery: - If myringotomy and aspiration combined with medical measures has not helped and fluid recurs, a grommet is inserted to provide continued aeration of middle ear. This is the most common surgical intervention for SOM. Most prefered site of grommet insertion is antero-inferior through circumferential or radial incision.Surgical treatment of causative factor: - Adenoidectomy. tonsillectomy etc.o Medical measures are controversial and involve : -DecongestantsAntiallergic measuresAntibioticsMiddle ear aerationValsalva maneuver, Politzerisation or eustachian tube catheterization, Chewing gum."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Grommet surgery Treatment of otitis mediao Following two treatments have been described : -Watchful waitingWatchful waiting is the active monitoring of the condition and hearing in anticipation of spontaneous resolution. Guidlines aimed at both primary care and specialist otolaryngologist broadly agree that a watchful waiting period for about three months is the initial management of children with serous otitis media. Therefore, unless there are also signs of an infection, most health care providers will not treat SOM at first Instead, they will recheck the problem in 2-3 months. This should be coupled with reassurance that doing nothing is as likely as doing something to result in resolution of the SOM and the associated symptoms.SurgerySurgical intervention is recommended when watchful waiting and monitoring of hearing has confirmed failure of resolution of SOM. Following surgical intervention are used commonly : -Myringotomy and aspiration of fluid: -An incision is made in tympanic membrane and fluid aspirated with suction.Grommet (ventilation tube) surgery: - If myringotomy and aspiration combined with medical measures has not helped and fluid recurs, a grommet is inserted to provide continued aeration of middle ear. This is the most common surgical intervention for SOM. Most prefered site of grommet insertion is antero-inferior through circumferential or radial incision.Surgical treatment of causative factor: - Adenoidectomy. tonsillectomy etc.o Medical measures are controversial and involve : -DecongestantsAntiallergic measuresAntibioticsMiddle ear aerationValsalva maneuver, Politzerisation or eustachian tube catheterization, Chewing gum.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Following preferred treatment Serous\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9f2e4944-c1da-44a0-8bd0-25b6001a7c1d": {
-    "cop": 2,
-    "exp": "Cocaine"
+    "cop": 1,
+    "exp": "Cocaine",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d74fce65-1066-4c1c-aa38-cb43f17903e2": {
-    "cop": 3,
-    "exp": "ANSWER: (C) CPDREF: Dutta 6th ed page 589See previous question for explanation"
+    "cop": 2,
+    "exp": "ANSWER: (C) CPDREF: Dutta 6th ed page 589See previous question for explanation",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Indication caesarean section after\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "12748b22-6121-4458-8e0b-2afa8f20ffe9": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Glycosidase glycopeptide bonds can be hydrolysed by glycosidases.\"A number of endoglycosidases and glycosidases have been effectively employed to split N- and 0- glycosidic bonds in structural investigations\""
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Glycosidase glycopeptide bonds can be hydrolysed by glycosidases.\"A number of endoglycosidases and glycosidases have been effectively employed to split N- and 0- glycosidic bonds in structural investigations\"",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"cleaved by\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "830f6cad-3413-4141-91f2-ba8ca7316d74": {
-    "cop": 2,
-    "exp": "Ref: Harrisons 19th ed. pg. 978* C. diphtheriae is a Gram-positive bacillus that is unencapsulated, nonmotile, and nonsporulating.* The bacteria have a characteristic club-shaped bacillary appearance and typically form clusters of parallel rays, or palisades, that are referred to as \"Chinese characters\""
+    "cop": 1,
+    "exp": "Ref: Harrisons 19th ed. pg. 978* C. diphtheriae is a Gram-positive bacillus that is unencapsulated, nonmotile, and nonsporulating.* The bacteria have a characteristic club-shaped bacillary appearance and typically form clusters of parallel rays, or palisades, that are referred to as \"Chinese characters\"",
+    "hint_exp": "🎯 Think of \"Corynebacterium diphtheria\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1eda9aa0-a7ce-4630-8e11-964a6bafb42d": {
-    "cop": 3,
-    "exp": "Leflunomide is a dihydroorotate dehydrogenase inhibitor. It is one of the disease modifying agent used in rheumatoid ahritis."
+    "cop": 2,
+    "exp": "Leflunomide is a dihydroorotate dehydrogenase inhibitor. It is one of the disease modifying agent used in rheumatoid ahritis.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"thinking about\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "393b6e68-e6d1-40ca-be69-e42862314a87": {
-    "cop": 3,
-    "exp": "Ans. C. Anticholinergic drugs Commonly used medications for extra-pyramidal symptoms are anticholinergic agents such as Benztropine, Diphenhydramine and trihexyphenidyl.Another common course of treatment includes dopamine agonist agents such as pramipexole."
+    "cop": 2,
+    "exp": "Ans. C. Anticholinergic drugs Commonly used medications for extra-pyramidal symptoms are anticholinergic agents such as Benztropine, Diphenhydramine and trihexyphenidyl.Another common course of treatment includes dopamine agonist agents such as pramipexole.",
+    "hint_exp": "🧩 Your crush solved \"treated by\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "51736947-ec09-47f8-bae0-9e1356987e54": {
-    "cop": 4,
-    "exp": "ANSWER: (D) Varicose ulcerREF: SRB manual of surgery by Bhat 2nd ed page 160, Bailey 23rd ed page 239, 249BISGAARD'S REGIMEN OF VARICOSE ULCER: ( Mnemonic: 5Es)Education: Patient education of ulcer dressing and care, Ulcer care by regular cleaning by with povidone iodine, H2O2, Dressing with EUSOL,Elevation: limb elevation to reduce edema, increase venous drainage, to promote ulcer healingExercise: Massage, active and passive exercisesElastic compression: Pressure bandage (crepe bandage), Four layered high pressure compression bandageEvaluation:Note: Antibiotics depending on culture and sensitivity of discharge"
+    "cop": 3,
+    "exp": "ANSWER: (D) Varicose ulcerREF: SRB manual of surgery by Bhat 2nd ed page 160, Bailey 23rd ed page 239, 249BISGAARD'S REGIMEN OF VARICOSE ULCER: ( Mnemonic: 5Es)Education: Patient education of ulcer dressing and care, Ulcer care by regular cleaning by with povidone iodine, H2O2, Dressing with EUSOL,Elevation: limb elevation to reduce edema, increase venous drainage, to promote ulcer healingExercise: Massage, active and passive exercisesElastic compression: Pressure bandage (crepe bandage), Four layered high pressure compression bandageEvaluation:Note: Antibiotics depending on culture and sensitivity of discharge",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"used in treatment of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "622e77df-515e-4d1a-9356-40a90aa6c16b": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Primary prevention * Primordial!primary prevention is the best policy for CHD as well as other non-communicable diseases. It includes following:i) Change in life styleii) Exerciseiii) BP monitoringiv) Dietary modification (prudent diet)v) Salt restriction"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Primary prevention * Primordial!primary prevention is the best policy for CHD as well as other non-communicable diseases. It includes following:i) Change in life styleii) Exerciseiii) BP monitoringiv) Dietary modification (prudent diet)v) Salt restriction",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Dietary modification prevent cardiovascular\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a79b906b-d4fe-463b-b021-6552e14b2850": {
-    "cop": 3,
-    "exp": "Alpha 1A receptors are present on prostatic urethra whereas alpha 1B/1D are present on blood vessels. Drugs blocking both of these (like prazosin, terazosin, doxazosin and alfuzosin) are useful in BHP with hypeension but cause postural hypotension (First dose effect) as an adverse effect due to VENODILATION -hence causing pooling of blood in extremities -decreased venous return causing postaural hypotension. Selective alpha 1A blockers (tamsulosin and silodosin) treat symptoms of BHP without causing postural hypotension. Other drugs causing postural hypotension - ACE inhibitors- Enalapril Sodium nitroprusside."
+    "cop": 2,
+    "exp": "Alpha 1A receptors are present on prostatic urethra whereas alpha 1B/1D are present on blood vessels. Drugs blocking both of these (like prazosin, terazosin, doxazosin and alfuzosin) are useful in BHP with hypeension but cause postural hypotension (First dose effect) as an adverse effect due to VENODILATION -hence causing pooling of blood in extremities -decreased venous return causing postaural hypotension. Selective alpha 1A blockers (tamsulosin and silodosin) treat symptoms of BHP without causing postural hypotension. Other drugs causing postural hypotension - ACE inhibitors- Enalapril Sodium nitroprusside.",
+    "hint_exp": "🎯 Think of \"the following drug\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8b2b6aef-b09f-46e8-a3af-c2955b092e2f": {
-    "cop": 4,
-    "exp": "General pharmacokinetic principles dictates, with ceain exceptions that drug dosing should take into consideration the volume of distribution for administration of the loading dose, and the clearance for the maintenance dose. A drug that is mainly distributed to lean-tissues should have the loading dose calculated on the basis of LBW. If the drug is equally distributed between adipose and lean tissues, dosing should be calculated on the basis of TBW. For maintenance, a drug with similar clearance values in both obese and non-obese individual should have the maintenance dose according to LBW. However the drug whose clearances increase with obesity should have maintenance dose calculated according to TBW."
+    "cop": 3,
+    "exp": "General pharmacokinetic principles dictates, with ceain exceptions that drug dosing should take into consideration the volume of distribution for administration of the loading dose, and the clearance for the maintenance dose. A drug that is mainly distributed to lean-tissues should have the loading dose calculated on the basis of LBW. If the drug is equally distributed between adipose and lean tissues, dosing should be calculated on the basis of TBW. For maintenance, a drug with similar clearance values in both obese and non-obese individual should have the maintenance dose according to LBW. However the drug whose clearances increase with obesity should have maintenance dose calculated according to TBW.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following statements\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f847a093-d8ff-4583-acba-7188f1273155": {
-    "cop": 3,
-    "exp": "This tube of amnion and the structures within it constitutes the umbilical cord.T his cord contains two umbilical aeries and one umbilical vein. REF HUMAN EMBRYOLOGY; Inderbier singh; Tenth edition; Page 67"
+    "cop": 2,
+    "exp": "This tube of amnion and the structures within it constitutes the umbilical cord.T his cord contains two umbilical aeries and one umbilical vein. REF HUMAN EMBRYOLOGY; Inderbier singh; Tenth edition; Page 67",
+    "hint_exp": "🧩 Your crush solved \"Umbilical cord\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "07b99dee-6c7c-4f71-be7c-58a1515c2c87": {
-    "cop": 2,
-    "exp": "b blockers can be used in - HTN/MI Angina Cardiac arrythmias Pheochromocytoma Thyrotoxicosis Migraine Anxiety Essential tremor Glaucoma Hyperophic obstructive cardiomyopathy."
+    "cop": 1,
+    "exp": "b blockers can be used in - HTN/MI Angina Cardiac arrythmias Pheochromocytoma Thyrotoxicosis Migraine Anxiety Essential tremor Glaucoma Hyperophic obstructive cardiomyopathy.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Propanolol useful treatment following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "75b55e78-c586-4fcb-813d-0a6be38fafa0": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Muscle spindleSensory receptors (stretch receptors) for stretch reflex are muscle spindles.Stretch reflex has two principal functions :1) To maintain muscle toneTone is a tendency of a muscle to resist being stretched.Muscle tone is not only impoant for maintaining posture but also facilitates locomotion and makes all voluntary movement smooth.2) To make muscles respond to stretch and releaseStretch reflex makes a muscle respond to stretch by contraction and to release by relaxation.both these responses, which oppose the triggering stimulus, help make voluntary movement smooth and graceful."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Muscle spindleSensory receptors (stretch receptors) for stretch reflex are muscle spindles.Stretch reflex has two principal functions :1) To maintain muscle toneTone is a tendency of a muscle to resist being stretched.Muscle tone is not only impoant for maintaining posture but also facilitates locomotion and makes all voluntary movement smooth.2) To make muscles respond to stretch and releaseStretch reflex makes a muscle respond to stretch by contraction and to release by relaxation.both these responses, which oppose the triggering stimulus, help make voluntary movement smooth and graceful.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"maintained by\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "343308c1-f5a5-472c-8d8e-c291fd68c8fb": {
-    "cop": 4,
-    "exp": "Y - linked inheritence\n\nOnly male to male transmission.\nOnly males are affected."
+    "cop": 3,
+    "exp": "Y - linked inheritence\n\nOnly male to male transmission.\nOnly males are affected.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a3a2c911-cc9a-467b-ae96-dc3276b5a2f6": {
-    "cop": 3,
-    "exp": ". Bile duct obstruction"
+    "cop": 2,
+    "exp": ". Bile duct obstruction",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"serum haptoglobin hemolysis masked\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e8f75487-690a-4d4d-aab0-76a713597b1e": {
-    "cop": 3,
-    "exp": "Troponin is absent in case of smooth muscles but present in skeletal muscles.\n \nMyosin light chain kinase is involved in case of smooth muscle contraction, but not in skeletal muscles."
+    "cop": 2,
+    "exp": "Troponin is absent in case of smooth muscles but present in skeletal muscles.\n \nMyosin light chain kinase is involved in case of smooth muscle contraction, but not in skeletal muscles.",
+    "hint_exp": "🧩 Your crush solved \"difference between skeletal smooth\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ff668440-e9d9-438b-afe6-b787eb3a62a5": {
-    "cop": 4,
-    "exp": "Behcet&;s syndrome The condition has an immunological basis in which severe iridocyclitis characterised by a hypopyon, is associated with evidence of obliterative retinal vasculitis. It is accompanied by ulcerative lesions in the conjunctiva, oral and genital mucosa, together with neurological and aicular manifestations. The syndrome belongs to connective tissue disorders but is of two types: first associated with herpetiform ulcers in the mouth and second with aphthous ulcers. There is a significant association with HLA- B5 antigen. No specific treatment is known. Ref:- Parsons diseases of eye; pg num:-250"
+    "cop": 3,
+    "exp": "Behcet&;s syndrome The condition has an immunological basis in which severe iridocyclitis characterised by a hypopyon, is associated with evidence of obliterative retinal vasculitis. It is accompanied by ulcerative lesions in the conjunctiva, oral and genital mucosa, together with neurological and aicular manifestations. The syndrome belongs to connective tissue disorders but is of two types: first associated with herpetiform ulcers in the mouth and second with aphthous ulcers. There is a significant association with HLA- B5 antigen. No specific treatment is known. Ref:- Parsons diseases of eye; pg num:-250",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"associated with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "18f6cc73-f140-40e5-ad46-1b9b65d85a1a": {
-    "cop": 3,
-    "exp": "Ans. is `c' i.e., Geographical trends An epidemiological hypothesis should specify : - The population The expected outcome The time response relationship The specific cause The dose response relationship"
+    "cop": 2,
+    "exp": "Ans. is `c' i.e., Geographical trends An epidemiological hypothesis should specify : - The population The expected outcome The time response relationship The specific cause The dose response relationship",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"epidemiological hypothesis should specify\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "51390845-78fb-4dd1-b4d1-1bfac598cc4b": {
-    "cop": 4,
-    "exp": "Disease Nucleotide Repeat Gene affected Chromosome Fragile X syndrome CGG FMR1 Sex X chromosome Friedrich ataxia GAA FXN 9 Huntington&;s disease CAG HTT 4 Myotonic dystrophy - type 1 CTG DMPK 19 Reference: GHAI Essential pediatrics, 8th edition"
+    "cop": 3,
+    "exp": "Disease Nucleotide Repeat Gene affected Chromosome Fragile X syndrome CGG FMR1 Sex X chromosome Friedrich ataxia GAA FXN 9 Huntington&;s disease CAG HTT 4 Myotonic dystrophy - type 1 CTG DMPK 19 Reference: GHAI Essential pediatrics, 8th edition",
+    "hint_exp": "🎯 Think of \"following diseases associated with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "540e298f-aadc-46aa-b02a-c9f21cb912b5": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"yellow fever\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "acb89253-84c1-4269-b2bb-6434ab30631a": {
-    "cop": 4,
-    "exp": "o C5-C9 -complement deficiency (MAC) membrane attack complex o Late complement deficiency are prone for recurrents Neisserial infections (meningo & gonococci both) o C1 esterase inhibitor deficiency: leads to Hereditary Angioneurotic edema"
+    "cop": 3,
+    "exp": "o C5-C9 -complement deficiency (MAC) membrane attack complex o Late complement deficiency are prone for recurrents Neisserial infections (meningo & gonococci both) o C1 esterase inhibitor deficiency: leads to Hereditary Angioneurotic edema",
+    "hint_exp": "🧩 Your crush solved \"Meningococcal meningitis seen with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "41522924-6fc3-4b1a-8998-04c257965619": {
-    "cop": 1,
-    "exp": "Ans. a (Posterior cricoarytenoid) (Ref. Diseases of ENT by PL Dhingra 2nd ed., 337)The posterior cricoarytenoid is the only true abductor of the vocal folds and is principally responsible for control of the glottic airway.ActionMusclesAbductor of Vocal cord-Posterior cricoarytenoidAdductor of Vocal cord-Lateral cricoarytenoid, Inter-arytenoid, Cricothyroid, ThyroarytenoidTensor of Vocal cord -Cricothyroid, VocalisOpening of laryngeal inlet -ThyroepiglotticusClosing of laryngeal inlet-Interarytenoid, AryepiglotticusAlso Know:Type of thyroplastyMeaningUseIMedialization of vocal cordCombined (RLN and superior laryngeal N) palsyIILateralization of vocal cordBilateral RLN paralysis to improve airwayIIIShortening of Vocal cordFemale -male voice (For androphonia)IVLengthening of Vocal cordMale -female voice. Also used when vocal cord is lax."
+    "cop": 0,
+    "exp": "Ans. a (Posterior cricoarytenoid) (Ref. Diseases of ENT by PL Dhingra 2nd ed., 337)The posterior cricoarytenoid is the only true abductor of the vocal folds and is principally responsible for control of the glottic airway.ActionMusclesAbductor of Vocal cord-Posterior cricoarytenoidAdductor of Vocal cord-Lateral cricoarytenoid, Inter-arytenoid, Cricothyroid, ThyroarytenoidTensor of Vocal cord -Cricothyroid, VocalisOpening of laryngeal inlet -ThyroepiglotticusClosing of laryngeal inlet-Interarytenoid, AryepiglotticusAlso Know:Type of thyroplastyMeaningUseIMedialization of vocal cordCombined (RLN and superior laryngeal N) palsyIILateralization of vocal cordBilateral RLN paralysis to improve airwayIIIShortening of Vocal cordFemale -male voice (For androphonia)IVLengthening of Vocal cordMale -female voice. Also used when vocal cord is lax.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"vocal cord\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "40750d44-3a83-4b1a-ba3b-74c06e0d7ed4": {
-    "cop": 2,
-    "exp": "Combination chemotherapy is the use of multiple drugs together at the same time rather than a single agent. Use of multiple drugs together has advantage of low toxicity, drugs acting on different phases of cell cycle and reduction in drug resistance.Adjuvant chemotherapy refers to chemotherapy used after operation or completion of course of radiotherapy.Neoadjuvant chemotherapy is use of chemotherapy before surgery or radiotherapy in the hope to shrink the size of tumour to permit better efficacy of radiation or reduce the size of surgical resection. Also it is expected to eradicate micrometastases.NeoadjuvantConcomitantAdjuvantChemotherapyChemotherapyChemotherapyBefore surgeryAt the same timeAfter surgeryor radiotherapyas radiotherapyor radiotherapyConcomitant chemotherapy refers to simultaneous use of chemotherapy with radiotherapy. It is superior to radiotherapy alone in unresectable tumors and the resectable tumors where surgery is refused."
+    "cop": 1,
+    "exp": "Combination chemotherapy is the use of multiple drugs together at the same time rather than a single agent. Use of multiple drugs together has advantage of low toxicity, drugs acting on different phases of cell cycle and reduction in drug resistance.Adjuvant chemotherapy refers to chemotherapy used after operation or completion of course of radiotherapy.Neoadjuvant chemotherapy is use of chemotherapy before surgery or radiotherapy in the hope to shrink the size of tumour to permit better efficacy of radiation or reduce the size of surgical resection. Also it is expected to eradicate micrometastases.NeoadjuvantConcomitantAdjuvantChemotherapyChemotherapyChemotherapyBefore surgeryAt the same timeAfter surgeryor radiotherapyas radiotherapyor radiotherapyConcomitant chemotherapy refers to simultaneous use of chemotherapy with radiotherapy. It is superior to radiotherapy alone in unresectable tumors and the resectable tumors where surgery is refused.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"cancer\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ab0b6c40-698d-47ab-8bf5-e41a05992643": {
-    "cop": 2,
-    "exp": "Ans-B"
+    "cop": 1,
+    "exp": "Ans-B",
+    "hint_exp": "🎯 Think of \"Earliest detected\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3bae2d95-174d-46da-a0db-8061b065d663": {
-    "cop": 1,
-    "exp": "* ANAKSTIC * Also known as OCPD( obsessive compulsive personality disorder) * Perfectionism * Rigidity * Punctuality * indecisiveness * Conscientiousness * excessive attention to detail extreme orderliness in one area of life Ref.Kaplon and Sadock, synopsis of psychiatry, 11 th edition, pg no.744"
+    "cop": 0,
+    "exp": "* ANAKSTIC * Also known as OCPD( obsessive compulsive personality disorder) * Perfectionism * Rigidity * Punctuality * indecisiveness * Conscientiousness * excessive attention to detail extreme orderliness in one area of life Ref.Kaplon and Sadock, synopsis of psychiatry, 11 th edition, pg no.744",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"anakastic personality disorder\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f224158c-6e58-4abb-9194-24a59d59265c": {
-    "cop": 3,
-    "exp": "ANSWER: (C) Beating on both earsREF: Reddy 5th edition page 257See list of corporal punishment in Forensic medicine, June 2010\"Telefona is simultaneous beating of both ears by both palms of hand, which may leads to torn external ear, rupture of tympanic membrane causing pain, bleeding and hearing loss\""
+    "cop": 2,
+    "exp": "ANSWER: (C) Beating on both earsREF: Reddy 5th edition page 257See list of corporal punishment in Forensic medicine, June 2010\"Telefona is simultaneous beating of both ears by both palms of hand, which may leads to torn external ear, rupture of tympanic membrane causing pain, bleeding and hearing loss\"",
+    "hint_exp": "🧩 Your crush solved \"Telefona\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "45d9417f-b7cb-4daf-b5dc-f4893c64bcb5": {
-    "cop": 4,
-    "exp": "Retrolental fibroplasia- Abnormal proliferation of fibrous tissue immediately behind the lens of the eye, leading to blindness. This is mostly due to excessive administration of oxygen in premature babies. Image : Retrolental fibroplasia or Retinopathy of prematurity Reference: GHAI Essential pediatrics, 8th edition"
+    "cop": 3,
+    "exp": "Retrolental fibroplasia- Abnormal proliferation of fibrous tissue immediately behind the lens of the eye, leading to blindness. This is mostly due to excessive administration of oxygen in premature babies. Image : Retrolental fibroplasia or Retinopathy of prematurity Reference: GHAI Essential pediatrics, 8th edition",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"associated with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "06c6e03f-7791-4681-b8d2-916d67763256": {
-    "cop": 2,
-    "exp": "Ans. B. AmitriptylineNicotine replacement therapy (NRT): Five medications have been approved by the U.S. Food and Drug Administration (FDA) deliver nicotine in a form that does not involve the risks of smoking: transdermal nicotine patches, nicotine gum, nicotine lozenges, nicotine spray, and nicotine inhalers. NRTs are meant to be used for a short period of time and should be tapered down to a low dose before stopping. NRTs increase the chance of stopping smoking by 50to60% compared to placebo or to no treatment. There is no side effects reported other than local slight irritation and rarely non-ischemic chest pain.Antidepressants: The antidepressant bupropion is considered a first-line medication for smoking cessation and has been shown in many studies to increase long-term success rates. People who take bupropion should be monitored for any unusual mood changes; bupropion also increases risk of seizures and should not be used in people with a seizure disorder. Varenicline decreases the urge to smoke and reduces withdrawal symptoms and is therefore considered a first-line medication for smoking cessation. A 2016 Cochrane review of 27 studies also found that the number of people stopping smoking with varenicline was higher than with bupropion or NRT. Varenicline more than doubled the chances of quitting compared to placebo and was also as effective as combining two types of NRT."
+    "cop": 1,
+    "exp": "Ans. B. AmitriptylineNicotine replacement therapy (NRT): Five medications have been approved by the U.S. Food and Drug Administration (FDA) deliver nicotine in a form that does not involve the risks of smoking: transdermal nicotine patches, nicotine gum, nicotine lozenges, nicotine spray, and nicotine inhalers. NRTs are meant to be used for a short period of time and should be tapered down to a low dose before stopping. NRTs increase the chance of stopping smoking by 50to60% compared to placebo or to no treatment. There is no side effects reported other than local slight irritation and rarely non-ischemic chest pain.Antidepressants: The antidepressant bupropion is considered a first-line medication for smoking cessation and has been shown in many studies to increase long-term success rates. People who take bupropion should be monitored for any unusual mood changes; bupropion also increases risk of seizures and should not be used in people with a seizure disorder. Varenicline decreases the urge to smoke and reduces withdrawal symptoms and is therefore considered a first-line medication for smoking cessation. A 2016 Cochrane review of 27 studies also found that the number of people stopping smoking with varenicline was higher than with bupropion or NRT. Varenicline more than doubled the chances of quitting compared to placebo and was also as effective as combining two types of NRT.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following drugs used treatment\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "98349575-60ed-4ba8-abbb-d242a9604c4f": {
-    "cop": 2,
-    "exp": "Malignant tumors of the kidney in children are called nephroblastomas (Wilms tumor) and histologically reveal a combination of metanephric blastema, undifferentiated mesenchymal cells, and immature tubule or glomerular formation. Children present with an enlarging abdominal mass that, in contrast to adrenal neuroblastoma, is associated with normal urinary vanillylmandelic acid (VMA) levels. Deletions involving WT1, located on chromosome 11, are associated with the development of Wilms tumor (nephroblastoma). Several syndromes are associated with genetic deletions of WT1 that lead to an increased incidence of Wilms tumor. These include WAGR syndrome (characterized by aniridia, genital abnormalities, and mental retardation) and Denys-Drash syndrome (characterized by gonadal dysgenesis and renal failure). Deletions involving a second Wilms tumor gene (WT2) are associated with Beckwith-Wiedemann syndrome (characterized by hemihyperophy, renal medullary cysts, and adrenal cytomegaly). Reference: Robbins & Cotran Pathologic Basis of Disease, 9edition"
+    "cop": 1,
+    "exp": "Malignant tumors of the kidney in children are called nephroblastomas (Wilms tumor) and histologically reveal a combination of metanephric blastema, undifferentiated mesenchymal cells, and immature tubule or glomerular formation. Children present with an enlarging abdominal mass that, in contrast to adrenal neuroblastoma, is associated with normal urinary vanillylmandelic acid (VMA) levels. Deletions involving WT1, located on chromosome 11, are associated with the development of Wilms tumor (nephroblastoma). Several syndromes are associated with genetic deletions of WT1 that lead to an increased incidence of Wilms tumor. These include WAGR syndrome (characterized by aniridia, genital abnormalities, and mental retardation) and Denys-Drash syndrome (characterized by gonadal dysgenesis and renal failure). Deletions involving a second Wilms tumor gene (WT2) are associated with Beckwith-Wiedemann syndrome (characterized by hemihyperophy, renal medullary cysts, and adrenal cytomegaly). Reference: Robbins & Cotran Pathologic Basis of Disease, 9edition",
+    "hint_exp": "🎯 Think of \"the listed individuals\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "be05cf48-7b04-4340-a001-c3e05bd6cadf": {
-    "cop": 1,
-    "exp": "- All extraocular muscles (all recti, superior oblique & lavatory palpebrae superioris) except inferior oblique arise from apex of orbitQ. Inferior rectus muscle originate from inferior edge of common tendinous ring (annulus of Zinn). It courses anteriorly, laterally and downwards along the orbital floor to inse on sclera anteriorly about 6.5 cm behind the limbusQ. Inferior rectus muscle courses between the eye ball and inferior oblique muscle (which passes beneath i. e. inferior to inferior rectus)Q prior to its inseion. Failure to dissect fascial attachments b/w inferior rectus, inferior oblique and lower rid retractors during IR recession or resection may 1/ eyelid fissure widening or narrowing, respectively."
+    "cop": 0,
+    "exp": "- All extraocular muscles (all recti, superior oblique & lavatory palpebrae superioris) except inferior oblique arise from apex of orbitQ. Inferior rectus muscle originate from inferior edge of common tendinous ring (annulus of Zinn). It courses anteriorly, laterally and downwards along the orbital floor to inse on sclera anteriorly about 6.5 cm behind the limbusQ. Inferior rectus muscle courses between the eye ball and inferior oblique muscle (which passes beneath i. e. inferior to inferior rectus)Q prior to its inseion. Failure to dissect fascial attachments b/w inferior rectus, inferior oblique and lower rid retractors during IR recession or resection may 1/ eyelid fissure widening or narrowing, respectively.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Inferior rectus muscle characteristics\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "72a8eb29-9354-4101-9f2d-00b6ac265185": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"antiarrythmic\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6b456f5e-cd99-4494-8d6a-1e901002dfc3": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Halogen"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Halogen",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"bacteria\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "40d7d13d-98dd-457c-ae41-13d974ea04db": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Club shaped gram positive bacilli Corney bacterium diphtheria Non motile, non-capsulated, club shaped gram positive bacillus. Infect nasopharynx & release exotoxin which cause local inflamation of epithelial surface, formation of membrane (pseudomembrane) and toxemia."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Club shaped gram positive bacilli Corney bacterium diphtheria Non motile, non-capsulated, club shaped gram positive bacillus. Infect nasopharynx & release exotoxin which cause local inflamation of epithelial surface, formation of membrane (pseudomembrane) and toxemia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"year child with pseudomembrane\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ca341e5a-dec1-4744-8825-226bbe7012f4": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "abffe788-98f3-4857-85c1-59b9ab5c290b": {
-    "cop": 1,
-    "exp": "Abrasion collar/ring: Proof of bullet entry wound. Due to spinning motion of bullet. Impoance: Round Abrasion collar - if the bullet hits at right angle to the skin surface. Oval abrasion collar - if the bullet hits at oblique angle to the skin surface Diameter of the entry wound + abrasion collar gives the approximate diameter of the bullet. Grease collar (bullet wipe): A black/gray colored ring is seen lining the entrance wound. Due to the deposition of lubricants, gun oil or lead from the bullet."
+    "cop": 0,
+    "exp": "Abrasion collar/ring: Proof of bullet entry wound. Due to spinning motion of bullet. Impoance: Round Abrasion collar - if the bullet hits at right angle to the skin surface. Oval abrasion collar - if the bullet hits at oblique angle to the skin surface Diameter of the entry wound + abrasion collar gives the approximate diameter of the bullet. Grease collar (bullet wipe): A black/gray colored ring is seen lining the entrance wound. Due to the deposition of lubricants, gun oil or lead from the bullet.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Abrasion collar seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bdb78fbf-61e9-44b2-92b0-3fc07b81e220": {
-    "cop": 4,
-    "exp": "Multiparity is believed to be a risk factor for cervical cancer Women who have had 3 or more full-term pregnancies have an increased risk of developing cervical cancer. Hormonal changes during pregnancy as possibly making women more susceptible to HPV infection or cancer growth. Another thought is that the immune system of pregnant women might be weaker, allowing for HPV infection and increase in cervical dysplasia Resumption of intercourse when the T.Z is regenerating and 'New' after a delivery, is a high susceptible stage for dysplasias to sta"
+    "cop": 3,
+    "exp": "Multiparity is believed to be a risk factor for cervical cancer Women who have had 3 or more full-term pregnancies have an increased risk of developing cervical cancer. Hormonal changes during pregnancy as possibly making women more susceptible to HPV infection or cancer growth. Another thought is that the immune system of pregnant women might be weaker, allowing for HPV infection and increase in cervical dysplasia Resumption of intercourse when the T.Z is regenerating and 'New' after a delivery, is a high susceptible stage for dysplasias to sta",
+    "hint_exp": "🧩 Your crush solved \"EXCEPT\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

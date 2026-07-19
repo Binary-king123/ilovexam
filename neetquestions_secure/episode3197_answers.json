@@ -1,202 +1,252 @@
 {
   "28afff7c-09d2-4f12-89f5-05d54c2ed903": {
-    "cop": 1,
-    "exp": "The sequence of the intron is unique. It always stas with GU and ends with AG Any mutation in these sequences will lead to defective splicing. e.g. b thalassemia."
+    "cop": 0,
+    "exp": "The sequence of the intron is unique. It always stas with GU and ends with AG Any mutation in these sequences will lead to defective splicing. e.g. b thalassemia.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Initiation Termination sequence intron\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3f349172-2f86-4f2c-afa1-a887d2b3963a": {
-    "cop": 4,
-    "exp": "Dyskeratosis congenita is associated with pancytopenia and hypocellular bone marrow. Pancytopenia with hypercellular marrow is seen in: Myelodysplasia Myelofibrosis Hairy cell leukemia Tuberculosis Sarcoidosis Brucellosis PNH Hypocellular Bone marrow +/- Cytopenia: Q fever Legionnaires disease Anorexia nervosa, starvation Mycobacterium"
+    "cop": 3,
+    "exp": "Dyskeratosis congenita is associated with pancytopenia and hypocellular bone marrow. Pancytopenia with hypercellular marrow is seen in: Myelodysplasia Myelofibrosis Hairy cell leukemia Tuberculosis Sarcoidosis Brucellosis PNH Hypocellular Bone marrow +/- Cytopenia: Q fever Legionnaires disease Anorexia nervosa, starvation Mycobacterium",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Pancytopenia with hypercellular marrow\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "40e7a7ab-e8e9-41ac-9a95-6b925897de0e": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"following first sign that\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1684b252-b63c-41e5-bacb-e237992788cf": {
-    "cop": 1,
-    "exp": "Ans. is 'a'i.e., Bacterial vaginosis Clue cells are seen in bacterial vaginosis - Clue cells are vaginal epithelial cells coated with coccobacillary organisms which have granular appearance and indistinct borders, on a wet mount prepared by mixing vaginal secretions with normal saline in a ratio of -1:1. Amsel criteria for the diagnosis of bacterial vaginosis Includes any three of the following four clinical abnormalitiesObjective signs of increased white homogenous vaginal discharge.Vaginal discharge pH of >4.5Liberation of distinct fishy odour (attributable to volatile amines such as trim ethylamine) immediately after vaginal secretions are mixed with a 10% solution of KOHMicroscopic demonstration of clue cells."
+    "cop": 0,
+    "exp": "Ans. is 'a'i.e., Bacterial vaginosis Clue cells are seen in bacterial vaginosis - Clue cells are vaginal epithelial cells coated with coccobacillary organisms which have granular appearance and indistinct borders, on a wet mount prepared by mixing vaginal secretions with normal saline in a ratio of -1:1. Amsel criteria for the diagnosis of bacterial vaginosis Includes any three of the following four clinical abnormalitiesObjective signs of increased white homogenous vaginal discharge.Vaginal discharge pH of >4.5Liberation of distinct fishy odour (attributable to volatile amines such as trim ethylamine) immediately after vaginal secretions are mixed with a 10% solution of KOHMicroscopic demonstration of clue cells.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Clue cell seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9ea4f65a-a4ed-434b-9dfe-508198c902d0": {
-    "cop": 3,
-    "exp": "Papule expanding to erythematous annular lesion with central clearing (erythema migrans) is a feature of lyme's disease caused by Borrelia burgdorferi. Reference: Harrisons Principles of Internal Medicine, 18th Edition, Page 150"
+    "cop": 2,
+    "exp": "Papule expanding to erythematous annular lesion with central clearing (erythema migrans) is a feature of lyme's disease caused by Borrelia burgdorferi. Reference: Harrisons Principles of Internal Medicine, 18th Edition, Page 150",
+    "hint_exp": "🧩 Your crush solved \"the following disease\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "90ec53b8-7704-4f5f-8fb2-ac469061fa77": {
-    "cop": 1,
-    "exp": "Selective estrogen receptor modulators (SEAMs) Tamoxifen citrate Though chemically related to clomiphene, it has complex actions; acts as potent estrogen antagonist in breast carcinoma cells, blood vessels and at some peripheral sites, but as paial agonist in uterus, bone, liver and pituitary. Inhibition of human breast cancer cells, and hot flushes reflect antiestro.e;enic action while the weak estrogen agonistic action manifests as stimulation of endometrial proliferation,lowering of Gn and prolactin levels postmenopausal women as well as improvement in their bone density. Tamoxifen is the standard hormonal treatment of breast cancer in both pre- and post menopausal women, though aromatase inhibitors are gaining prominence. In early cases it is given as postmastectomy adjuvant therapy, while in advanced cases it is a constituent of palliative .treatment. Response rates are high in ER-positive breast carcinomas, but some ER-negative tumours also respond suggesting additional nonhormonal mechanism of action. It is also effective following surgery in cancer of male breast. Based on large epidemiological studies which have shown 45% reduction in the incidence of ER positive breast cancer, it has been approved for primary prophylaxis of breast cancer in high risk women. Recurrence rate in ipsilateral as well as contralateral breasts is reduced by tamoxifen,but benefits of prophylactic therapy beyond 5 years are not proven; outcomes may even be worse. Improvement in bone mass due to antiresorptive effect, and in lipid profile are the other benefits of tamoxifen therapy. ESSENTIALS OF MEDICAL PHARMACOLOGY K.D.TRIPATHI SIXTH EDITION PAGE NO:304"
+    "cop": 0,
+    "exp": "Selective estrogen receptor modulators (SEAMs) Tamoxifen citrate Though chemically related to clomiphene, it has complex actions; acts as potent estrogen antagonist in breast carcinoma cells, blood vessels and at some peripheral sites, but as paial agonist in uterus, bone, liver and pituitary. Inhibition of human breast cancer cells, and hot flushes reflect antiestro.e;enic action while the weak estrogen agonistic action manifests as stimulation of endometrial proliferation,lowering of Gn and prolactin levels postmenopausal women as well as improvement in their bone density. Tamoxifen is the standard hormonal treatment of breast cancer in both pre- and post menopausal women, though aromatase inhibitors are gaining prominence. In early cases it is given as postmastectomy adjuvant therapy, while in advanced cases it is a constituent of palliative .treatment. Response rates are high in ER-positive breast carcinomas, but some ER-negative tumours also respond suggesting additional nonhormonal mechanism of action. It is also effective following surgery in cancer of male breast. Based on large epidemiological studies which have shown 45% reduction in the incidence of ER positive breast cancer, it has been approved for primary prophylaxis of breast cancer in high risk women. Recurrence rate in ipsilateral as well as contralateral breasts is reduced by tamoxifen,but benefits of prophylactic therapy beyond 5 years are not proven; outcomes may even be worse. Improvement in bone mass due to antiresorptive effect, and in lipid profile are the other benefits of tamoxifen therapy. ESSENTIALS OF MEDICAL PHARMACOLOGY K.D.TRIPATHI SIXTH EDITION PAGE NO:304",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following drug\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6fe63051-ad87-46c3-bc03-0de9cb07b620": {
-    "cop": 1,
-    "exp": "Tongue muscles develop from occipital myotomes, so the cranial nerve XII (hypoglossal nerve) supplies all intrinsic and three extrinsic muscles. Only palatoglossus is supplied by the cranial root of accessory through pharyngeal plexus and is developed from mesoderm of the sixth arch.Ref: Chaurasia; Volume 3; 6th edition; Page no: 253"
+    "cop": 0,
+    "exp": "Tongue muscles develop from occipital myotomes, so the cranial nerve XII (hypoglossal nerve) supplies all intrinsic and three extrinsic muscles. Only palatoglossus is supplied by the cranial root of accessory through pharyngeal plexus and is developed from mesoderm of the sixth arch.Ref: Chaurasia; Volume 3; 6th edition; Page no: 253",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following tongue muscle\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e8fe701a-3265-4b23-9dfc-dfad5f9084aa": {
-    "cop": 3,
-    "exp": "ANCA p-ANCA | MPO ANCA Churg strauss syndrome Microscopic polyangiitis c-ANCA | PR3 ANCA Wegener granulomatosis Polyaeritis nodosa: ANCA negative medium vessel vasculitis Deposition of Immune complex: Fibrinoid necrosis (Type 3 HSR) 30% of patient have history of Hep B infection HBsAg + anti-HBs ab. (complex). | Deposition in many organ Sparing of small vessel (LUNGS)"
+    "cop": 2,
+    "exp": "ANCA p-ANCA | MPO ANCA Churg strauss syndrome Microscopic polyangiitis c-ANCA | PR3 ANCA Wegener granulomatosis Polyaeritis nodosa: ANCA negative medium vessel vasculitis Deposition of Immune complex: Fibrinoid necrosis (Type 3 HSR) 30% of patient have history of Hep B infection HBsAg + anti-HBs ab. (complex). | Deposition in many organ Sparing of small vessel (LUNGS)",
+    "hint_exp": "🎯 Think of \"amongst the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6ca05b28-abe1-4faf-8ce2-d215c55616dd": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Crime by a person with mental disease Criminal responsibility of insane is judged by following rules : 1.Mc Naughten rule (legal test or right or wrong test) : It states that an accused person is not legally responsible, if it is clearly proved that at the time of commiting the crime, person was suffering from such a defect of reason from abnormality of mind that he didn't know the nature and quality of act he was doing or that what he was doing was wrong i.e. a person is not responsible if he is not of sound mind. It is accepted in india as law of criminal responsibility and is embodied in section 84 IPC as - \"nothing is an offence which is done by a person, who at the time of doing it, by reason of unsoundness of mind is incapable of knowing the nature of act, or that he is doing what is either wrong or contrary to law\". 2.Doctrine of paial responsibility - If a person is suffering from some weakness or aberration of mind (though not completely insane), he is only paially responsible for his actions, e.g. obsession states or depressions. 3. Durhan rule- Accused is not responsible for the act, if his act resulted from mental disease or defect. 4. Currens rule- A person is not responsible if at the time of committing the crime, he did not have the capacity to regulate his conduct according to the requirements of law, as a result of his mental disease or defect. 5.American law institute test-Insane lacks the capacity to appreciate the wrongfulness of his conduct or to confirm to the requirements of law, therefore he is not responsible for crimes committed. 6.Norwegion system-No defendant considered insane or unconscious at the time of offence, may be punished."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Crime by a person with mental disease Criminal responsibility of insane is judged by following rules : 1.Mc Naughten rule (legal test or right or wrong test) : It states that an accused person is not legally responsible, if it is clearly proved that at the time of commiting the crime, person was suffering from such a defect of reason from abnormality of mind that he didn't know the nature and quality of act he was doing or that what he was doing was wrong i.e. a person is not responsible if he is not of sound mind. It is accepted in india as law of criminal responsibility and is embodied in section 84 IPC as - \"nothing is an offence which is done by a person, who at the time of doing it, by reason of unsoundness of mind is incapable of knowing the nature of act, or that he is doing what is either wrong or contrary to law\". 2.Doctrine of paial responsibility - If a person is suffering from some weakness or aberration of mind (though not completely insane), he is only paially responsible for his actions, e.g. obsession states or depressions. 3. Durhan rule- Accused is not responsible for the act, if his act resulted from mental disease or defect. 4. Currens rule- A person is not responsible if at the time of committing the crime, he did not have the capacity to regulate his conduct according to the requirements of law, as a result of his mental disease or defect. 5.American law institute test-Insane lacks the capacity to appreciate the wrongfulness of his conduct or to confirm to the requirements of law, therefore he is not responsible for crimes committed. 6.Norwegion system-No defendant considered insane or unconscious at the time of offence, may be punished.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Curren rule deals with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f33473ca-e374-4f73-8eee-d8785803b9f7": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"valuable test evaluating caries\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "efbbb1a3-14d0-4ebc-b0f1-809b268a4a76": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Mycobacteria"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Mycobacteria",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the cell wall\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "81624a2c-9c64-4be1-a433-bba4f79e2f25": {
-    "cop": 3,
-    "exp": "Dysgerminoma is germ cell tumor of ovary."
+    "cop": 2,
+    "exp": "Dysgerminoma is germ cell tumor of ovary.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Dysgerminoma\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "38cdb727-8f53-44e3-8e2e-9c37f61e1d71": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"true about keloids\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fb3cb680-0463-4ed0-8373-35009bbdc73d": {
-    "cop": 4,
-    "exp": "Features of diffuse/generalised peritonitisEarlyAbdominal painTendernessGuardingInfrequent bowel soundsTachycardiaFeverLaterAbdominal rigidityAbdominal distensionAbsent bowel soundsCold, clammy extremitiesThready irregular pulseDrawn and anxious face (Hippocratic facies) Ref: Bailey and love 27e pg: 1050"
+    "cop": 3,
+    "exp": "Features of diffuse/generalised peritonitisEarlyAbdominal painTendernessGuardingInfrequent bowel soundsTachycardiaFeverLaterAbdominal rigidityAbdominal distensionAbsent bowel soundsCold, clammy extremitiesThready irregular pulseDrawn and anxious face (Hippocratic facies) Ref: Bailey and love 27e pg: 1050",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"generalized peritonitis except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8b9c2e07-8613-4a28-a3fb-468fbc557b7d": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Doxycycline"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Doxycycline",
+    "hint_exp": "🧩 Your crush solved \"Drug choice treating chylmydia\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "083ed9bf-2777-4d36-9510-ea91388a1ee2": {
-    "cop": 4,
-    "exp": "avoid NMBAs in patients with MG unless absolutely necessary. If NMBAs are necessary, the use of rocuroniumorvecuronium, and then reversal withsugammadex. Myasthenic patients, including those with only ocular MG and those in remission, have a variable, unpredictable response to administration of NMBAs compared with normal patients, as well as a variable response to NMBA reversal, including the possibility of cholinergic crisis. They tend to be resistant to depolarizing NMBAs and very sensitive to nondepolarizing NMBAs. In addition, treatment with anticholinesterase medication affects the degree of relaxation and duration of action of NMBAs. If NMBAs are administered, the degree of neuromuscular blockade should be monitored using a quantitative train-of-four nerve stimulator."
+    "cop": 3,
+    "exp": "avoid NMBAs in patients with MG unless absolutely necessary. If NMBAs are necessary, the use of rocuroniumorvecuronium, and then reversal withsugammadex. Myasthenic patients, including those with only ocular MG and those in remission, have a variable, unpredictable response to administration of NMBAs compared with normal patients, as well as a variable response to NMBA reversal, including the possibility of cholinergic crisis. They tend to be resistant to depolarizing NMBAs and very sensitive to nondepolarizing NMBAs. In addition, treatment with anticholinesterase medication affects the degree of relaxation and duration of action of NMBAs. If NMBAs are administered, the degree of neuromuscular blockade should be monitored using a quantitative train-of-four nerve stimulator.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Relationship between myasthenia gravis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b24581d8-ba24-4188-8dbb-32264432e936": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0619d392-fecf-46b9-bead-37117e67d7d9": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Bezold abscess located\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b9bf0f0a-1933-4a55-8342-258a3c47ff85": {
-    "cop": 1,
-    "exp": "Ans is a i.e Pancytopenia Venous thrombosis. Recurrent aboions and pulmonary hypeension are all seen in case of antiphospholipid syndrome. Antiphospholipid antibody syndrome leads to thrombocytopenia (in 40-50% cases) and hemolytic anemia in 25% cases but leucopenia is not seen in it. Also in causes of pancytopenia - No where is APS mentioned so. it is the best answer. Diagnostic Clinical Criteria for Antiphospholipid Antibody Syndrome : Thrombosis - Venous - Aerial (small vessels). Adverse pregnancy outcome - 3 or more consecutive miscarriages < 10 weeks. - 1 or more fetal deaths > 10 weeks. - 1 or more preterm bihs due to severe pre-eclampsia or IUGR. Indications for Antiphospholipid antibody testing : 3 or more consecutive first trimester losses Unexplained 2nd or 3rd trimester loss Unexplained IUGR Early onset severe pre-eclampsia Unexplained thrombosis Autoimmune connective tissue disease like SLE False positive serological tests for syphilis"
+    "cop": 0,
+    "exp": "Ans is a i.e Pancytopenia Venous thrombosis. Recurrent aboions and pulmonary hypeension are all seen in case of antiphospholipid syndrome. Antiphospholipid antibody syndrome leads to thrombocytopenia (in 40-50% cases) and hemolytic anemia in 25% cases but leucopenia is not seen in it. Also in causes of pancytopenia - No where is APS mentioned so. it is the best answer. Diagnostic Clinical Criteria for Antiphospholipid Antibody Syndrome : Thrombosis - Venous - Aerial (small vessels). Adverse pregnancy outcome - 3 or more consecutive miscarriages < 10 weeks. - 1 or more fetal deaths > 10 weeks. - 1 or more preterm bihs due to severe pre-eclampsia or IUGR. Indications for Antiphospholipid antibody testing : 3 or more consecutive first trimester losses Unexplained 2nd or 3rd trimester loss Unexplained IUGR Early onset severe pre-eclampsia Unexplained thrombosis Autoimmune connective tissue disease like SLE False positive serological tests for syphilis",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Anti phospholipid syndrome associated\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3d60571f-7aed-47c8-99e9-2a4d34a1bc9f": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"a traumatic tooth\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cfd01d47-0c0e-4a04-8d7b-d387eee5b885": {
-    "cop": 2,
-    "exp": "B i.e. Back side"
+    "cop": 1,
+    "exp": "B i.e. Back side",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Spinal cord opened from\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0a8bb762-4b9b-4b51-86f1-a438fabb646b": {
-    "cop": 4,
-    "exp": "D i.e. Petrous temporal"
+    "cop": 3,
+    "exp": "D i.e. Petrous temporal",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Bone present\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "261c29dc-509a-45fb-bb67-b2219394496a": {
-    "cop": 3,
-    "exp": "The presence of a lung mass suggests carcinoma. The small size of the neoplastic cells suggests that the tumor may be small cell carcinoma (oat cell carcinoma). The other possibility on morphologic grounds is lymphoma, but lymphoma can be excluded by the negative LCA study. The oncogene associated with small cell carcinoma of the lung is L-myc. bcl-2 is associated with follicular and undifferentiated lymphomas. erb-2 is associated with carcinomas of the breast, ovary, and stomach. N-myc is associated with neuroblastoma. Ref: Nason K.S., Maddaus M.A., Luketich J.D. (2010). Chapter 19. Chest Wall, Lung, Mediastinum, and Pleura. In F.C. Brunicardi, D.K. Andersen, T.R. Billiar, D.L. Dunn, J.G. Hunter, J.B. Matthews, R.E. Pollock (Eds), Schwaz's Principles of Surgery, 9e."
+    "cop": 2,
+    "exp": "The presence of a lung mass suggests carcinoma. The small size of the neoplastic cells suggests that the tumor may be small cell carcinoma (oat cell carcinoma). The other possibility on morphologic grounds is lymphoma, but lymphoma can be excluded by the negative LCA study. The oncogene associated with small cell carcinoma of the lung is L-myc. bcl-2 is associated with follicular and undifferentiated lymphomas. erb-2 is associated with carcinomas of the breast, ovary, and stomach. N-myc is associated with neuroblastoma. Ref: Nason K.S., Maddaus M.A., Luketich J.D. (2010). Chapter 19. Chest Wall, Lung, Mediastinum, and Pleura. In F.C. Brunicardi, D.K. Andersen, T.R. Billiar, D.L. Dunn, J.G. Hunter, J.B. Matthews, R.E. Pollock (Eds), Schwaz's Principles of Surgery, 9e.",
+    "hint_exp": "🎯 Think of \"tumor\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a2fbc4cc-921b-4e39-94d7-b43b211dc70c": {
-    "cop": 2,
-    "exp": "Ans: b (HSV 2) Ref: Ananathanarayan, 7th ed, p. 474MC involvement of genitourinary system is seen in HSV 2HSV 1 usually causes lesions in and around mouth (above waist)HSV 2 causes lesions over genital area (below waist)Type of Human Herpes viruses (HHV)* HHV 1- Herpes simplex virus type 1* HHV 2- Herpes simplex virus type 2* HHV 3- Varicella zoster virus* HHV 4- Epstein Barr virus* HHV 5- Cytomegalovirus* HHV 6- Human B cell lymphotropic virus* HHV 7- RK virus* HHV 8- Kaposi virusHHV 6 causes exanthem subitum or roseola infantum; also known as 6th diseaseHHV 8 is associated with Kaposi sarcoma and multicentric castleman diseaseNotesRecurrent herpes labialis is MC manifestation of reactivation of heipes simplexHerpes is the most common cause of erythema multiformeHSV infection of fingers is known as herpetic Whitlow- seen in doctors, dentists etcHS V-1 is the MC cause of sporadic encephalitisMC cause of epidemic encephalitis is Arbo virus; Japanese encephalitisMC cause of viral meningitis is enterovirusHSV is the most common cause of lymphocytic meningitis (Mollaret meningitis)PCR for detection of HSV DNA is most sensitive investigation for HSV."
+    "cop": 1,
+    "exp": "Ans: b (HSV 2) Ref: Ananathanarayan, 7th ed, p. 474MC involvement of genitourinary system is seen in HSV 2HSV 1 usually causes lesions in and around mouth (above waist)HSV 2 causes lesions over genital area (below waist)Type of Human Herpes viruses (HHV)* HHV 1- Herpes simplex virus type 1* HHV 2- Herpes simplex virus type 2* HHV 3- Varicella zoster virus* HHV 4- Epstein Barr virus* HHV 5- Cytomegalovirus* HHV 6- Human B cell lymphotropic virus* HHV 7- RK virus* HHV 8- Kaposi virusHHV 6 causes exanthem subitum or roseola infantum; also known as 6th diseaseHHV 8 is associated with Kaposi sarcoma and multicentric castleman diseaseNotesRecurrent herpes labialis is MC manifestation of reactivation of heipes simplexHerpes is the most common cause of erythema multiformeHSV infection of fingers is known as herpetic Whitlow- seen in doctors, dentists etcHS V-1 is the MC cause of sporadic encephalitisMC cause of epidemic encephalitis is Arbo virus; Japanese encephalitisMC cause of viral meningitis is enterovirusHSV is the most common cause of lymphocytic meningitis (Mollaret meningitis)PCR for detection of HSV DNA is most sensitive investigation for HSV.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"genitourinary system\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "402d5fac-d56d-4afc-8e25-23b68ee57eb1": {
-    "cop": 4,
-    "exp": "(Ref: KDT 6/e p398) * Zolpidem, zaleplon and zopiclone are agonists at BZD receptors. * These are hypnotic drugs that lack muscle relaxant and anticonvulsant actions. * These have negligible effect on REM sleep and do not affect sleep architecture."
+    "cop": 3,
+    "exp": "(Ref: KDT 6/e p398) * Zolpidem, zaleplon and zopiclone are agonists at BZD receptors. * These are hypnotic drugs that lack muscle relaxant and anticonvulsant actions. * These have negligible effect on REM sleep and do not affect sleep architecture.",
+    "hint_exp": "🧩 Your crush solved \"Which following hypnotic drugs\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "51597cd3-604a-4a01-bd90-80e1aa7b779f": {
-    "cop": 3,
-    "exp": "Closed circular (B form) DNA with one turn of double helix per 10.5 bp (base pair) is relaxed. An 84 bp segment of a circular DNA in the relaxed state would contain 8 double helical turns or 1 for every 10.5 bp. If one of these turns were removed, there would be 84 bp/7 = 12 bp/turn rather than 10.5 bp/turn in B-DNA. This would result in a thermodynamically strained DNA. \n\n\n\nSo, the strain is a result of the unwinding of DNA double helix in the closed circle.\nThis strain introduced by underwinding is generally accommodated by supercoiling rather than strand separation because coiling the axis of DNA usually requires less energy than breaking the hydrogen bonds. So, supercoiling is a result of underwinding. However, underwinding represent a form of stored energy and makes separation of DNA strands easier.\nLinking number can be defined as a number of times the 2nd strand pierces the surface of the 1st strand which is visualized as a circle. It is defined as positive (+ve) if strands are interwound in right handed helix and (-ve) in left handed helix. So linking number is the number of turns.\nSuperhelical density or specific linking difference (σ) is a measure of a number of turns removed relative to the number present in relaxed DNA. It is independent of the length of the DNA molecule. The negative sign indicates that the change in linking number is due to the underwinding of DNA. So, the supercoiling induced by underwinding is called negative supercoiling. Overwinding results in positive supercoiling.\nTopoisomerase I breaks one of the 2 strands, change the linking number in increments of 1.\nTopoisomerase II breaks both DNA strands and changes the linking number in increments of 2."
+    "cop": 2,
+    "exp": "Closed circular (B form) DNA with one turn of double helix per 10.5 bp (base pair) is relaxed. An 84 bp segment of a circular DNA in the relaxed state would contain 8 double helical turns or 1 for every 10.5 bp. If one of these turns were removed, there would be 84 bp/7 = 12 bp/turn rather than 10.5 bp/turn in B-DNA. This would result in a thermodynamically strained DNA. \n\n\n\nSo, the strain is a result of the unwinding of DNA double helix in the closed circle.\nThis strain introduced by underwinding is generally accommodated by supercoiling rather than strand separation because coiling the axis of DNA usually requires less energy than breaking the hydrogen bonds. So, supercoiling is a result of underwinding. However, underwinding represent a form of stored energy and makes separation of DNA strands easier.\nLinking number can be defined as a number of times the 2nd strand pierces the surface of the 1st strand which is visualized as a circle. It is defined as positive (+ve) if strands are interwound in right handed helix and (-ve) in left handed helix. So linking number is the number of turns.\nSuperhelical density or specific linking difference (σ) is a measure of a number of turns removed relative to the number present in relaxed DNA. It is independent of the length of the DNA molecule. The negative sign indicates that the change in linking number is due to the underwinding of DNA. So, the supercoiling induced by underwinding is called negative supercoiling. Overwinding results in positive supercoiling.\nTopoisomerase I breaks one of the 2 strands, change the linking number in increments of 1.\nTopoisomerase II breaks both DNA strands and changes the linking number in increments of 2.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"DNA supercoiling\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a48c7b1b-22ab-4e5e-96d2-51c76fbd1bcd": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Both sample should be mutually exclusive Chisquare test and fisher's exact test has following assumptions:? Random Sampling of data Data must from contingency table which contains the values that are numbers of subjects observed. The categories defining the rows and columns of contigency table must be mutually exclusive. Subjects are independent. The measurement are independent."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Both sample should be mutually exclusive Chisquare test and fisher's exact test has following assumptions:? Random Sampling of data Data must from contingency table which contains the values that are numbers of subjects observed. The categories defining the rows and columns of contigency table must be mutually exclusive. Subjects are independent. The measurement are independent.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8ebc0608-0fa4-4a0f-a31e-9b0ebd5a7889": {
-    "cop": 4,
-    "exp": "CRISPR - Cas9 involves both homologous and non homologous end joining repair mechanism."
+    "cop": 3,
+    "exp": "CRISPR - Cas9 involves both homologous and non homologous end joining repair mechanism.",
+    "hint_exp": "🎯 Think of \"CRISPR Cas9 mediated gene\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c72b0c5c-f4b5-47ca-bb1f-e56efadbce4d": {
-    "cop": 1,
-    "exp": "ANSWER: (A) AdenomaREF: Blueprints Surgery by Seth J. Karp, James Morris, David I. Soybel Page 85Hyperparathyroidism is the most common cause of surgically correctable hypercalcemia.Primary hyperparathyroidism is a surgical disease and operation is required for the hyperfunctioning gland (A single hyperfunctioning adenoma accounts for approximately 90% cases)Secondary hyperparathyroidism of renal disease is treated medically.Tertiary hyperparathyroidism due to autonomous parathyroid hyperplasia occasionally requires surgery."
+    "cop": 0,
+    "exp": "ANSWER: (A) AdenomaREF: Blueprints Surgery by Seth J. Karp, James Morris, David I. Soybel Page 85Hyperparathyroidism is the most common cause of surgically correctable hypercalcemia.Primary hyperparathyroidism is a surgical disease and operation is required for the hyperfunctioning gland (A single hyperfunctioning adenoma accounts for approximately 90% cases)Secondary hyperparathyroidism of renal disease is treated medically.Tertiary hyperparathyroidism due to autonomous parathyroid hyperplasia occasionally requires surgery.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of hyperparathyroidism\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2ad9f99b-6f4f-4096-9288-5d971f2ec60d": {
-    "cop": 4,
-    "exp": "The majority of coisol is bound to a specific carrier protein, coicosteroid binding globulin (CBG), while smaller amounts are bound nonspecifically to albumin. Few, if any, coisol receptors would be expected in the plasma and transthyretin binds primarily thyroxine."
+    "cop": 3,
+    "exp": "The majority of coisol is bound to a specific carrier protein, coicosteroid binding globulin (CBG), while smaller amounts are bound nonspecifically to albumin. Few, if any, coisol receptors would be expected in the plasma and transthyretin binds primarily thyroxine.",
+    "hint_exp": "🧩 Your crush solved \"coisol in the plasma\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "92e26bd1-8d90-4fd4-a7e4-d1ad6788c389": {
-    "cop": 1,
-    "exp": "In Brown sequard syndrome, a hemisection of the spinal cord results in\n-        Sensory\n\nLoss of Ipsilateral dorsal column sensations- Proprioception, vibration, fine touch, Kinesthesia.​\nLoss of contralateral lateral column sensations- Pain, temperature\n\n-        Motor\n\n Loss of ipsilateral corticospinal action- results in UMNL- Weakness, spasticity, Extensor plantar response."
+    "cop": 0,
+    "exp": "In Brown sequard syndrome, a hemisection of the spinal cord results in\n-        Sensory\n\nLoss of Ipsilateral dorsal column sensations- Proprioception, vibration, fine touch, Kinesthesia.​\nLoss of contralateral lateral column sensations- Pain, temperature\n\n-        Motor\n\n Loss of ipsilateral corticospinal action- results in UMNL- Weakness, spasticity, Extensor plantar response.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Brown sequard syndrome\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1d436b15-2f09-42bc-b085-29571f1a7332": {
-    "cop": 4,
-    "exp": "Ans. d (Dietary fibers). (Ref. KD Tripathi 5th ed. - 614)Spastic constipation/Irritable bowel1st choice laxative:# Dietary fibers# Bulk forming laxative such as Ispaghula, methylcellulose.While Stimulant purgatives like:# Castor oil,# Senna,# Bisacodyl, Phenolphthalein........ are contraindicated."
+    "cop": 3,
+    "exp": "Ans. d (Dietary fibers). (Ref. KD Tripathi 5th ed. - 614)Spastic constipation/Irritable bowel1st choice laxative:# Dietary fibers# Bulk forming laxative such as Ispaghula, methylcellulose.While Stimulant purgatives like:# Castor oil,# Senna,# Bisacodyl, Phenolphthalein........ are contraindicated.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Best treatment irritable bowel\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3dcc08ff-f6d4-4508-beaf-c915d55c4dba": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Minimal change disease caused\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "26ccde97-4054-45d3-a174-624102f6e4b7": {
-    "cop": 1,
-    "exp": "(A) Cryptococcus # Systemic Mycoses Caused by DIMORPHIC FUNGI: Four major systemic mycoses caused by dimorphic fungi -- 1 Blastomycosis, 2. Coccidioidomycosis, 3. Histoplasmosis and 4. Paracoccidioidomycosis"
+    "cop": 0,
+    "exp": "(A) Cryptococcus # Systemic Mycoses Caused by DIMORPHIC FUNGI: Four major systemic mycoses caused by dimorphic fungi -- 1 Blastomycosis, 2. Coccidioidomycosis, 3. Histoplasmosis and 4. Paracoccidioidomycosis",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c106b17a-58a9-491c-94bf-02297bf8c3d0": {
-    "cop": 2,
-    "exp": "Answer is B (Glaucoma): Presence of visual blurring and female sex suggest a diagnosis of glaucoma over cluster headache amongst the options provided. Differential diagnosis are : Female patient (Glaucoma is about four times more common in females while 80% of patients with cluster headache are males) Visual blurring (Visual blurring is a feature of Glaucoma. Cluster headache has ocular features mainly limited to reddening of eye and homolateral lacrimation but vision has not been mentioned as being affected)."
+    "cop": 1,
+    "exp": "Answer is B (Glaucoma): Presence of visual blurring and female sex suggest a diagnosis of glaucoma over cluster headache amongst the options provided. Differential diagnosis are : Female patient (Glaucoma is about four times more common in females while 80% of patients with cluster headache are males) Visual blurring (Visual blurring is a feature of Glaucoma. Cluster headache has ocular features mainly limited to reddening of eye and homolateral lacrimation but vision has not been mentioned as being affected).",
+    "hint_exp": "🧩 Your crush solved \"year Lady Malti unilateral\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "255823bb-2d94-4049-93d8-1d040be2046f": {
-    "cop": 2,
-    "exp": "• ERCP: Diagnostic and therapeutic test of choice for patients with suspected CBD stones\n• CBD stones are classified by point of origin\n• Found in 6–12% of patients with GB stones\n• Retained stones discovered within 2 years of cholecystectomy\n• Recurrent stones detected >2 years following cholecystectomy\n• ERCP: Diagnostic and therapeutic test of choice for patients with suspected CBD stones.\nTreatment\n• Treatment options are ERCP, laparoscopic or open CBD Exploration."
+    "cop": 1,
+    "exp": "• ERCP: Diagnostic and therapeutic test of choice for patients with suspected CBD stones\n• CBD stones are classified by point of origin\n• Found in 6–12% of patients with GB stones\n• Retained stones discovered within 2 years of cholecystectomy\n• Recurrent stones detected >2 years following cholecystectomy\n• ERCP: Diagnostic and therapeutic test of choice for patients with suspected CBD stones.\nTreatment\n• Treatment options are ERCP, laparoscopic or open CBD Exploration.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"CBD stones for most patients\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2e1f798c-5c77-41a6-87bd-c722465b6336": {
-    "cop": 1,
-    "exp": "Ans. (A) Propranolol(Ref: Katzung 10/e p165, 169; KDT 8th/e p158)*Methyldopa is useful in the treatment of mild to moderately severe hypertension. It lowers blood pressure chiefly by reducing peripheral vascular resistance, with a variable reduction in heart rate and cardiac output.*Prazosin and nitroprusside are vasodilators and produce reflex tachycardia instead of causing bradycardia.*Propranolol is a non selective beta blocker and acts mainly by decreasing heart rate."
+    "cop": 0,
+    "exp": "Ans. (A) Propranolol(Ref: Katzung 10/e p165, 169; KDT 8th/e p158)*Methyldopa is useful in the treatment of mild to moderately severe hypertension. It lowers blood pressure chiefly by reducing peripheral vascular resistance, with a variable reduction in heart rate and cardiac output.*Prazosin and nitroprusside are vasodilators and produce reflex tachycardia instead of causing bradycardia.*Propranolol is a non selective beta blocker and acts mainly by decreasing heart rate.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following drug reduces\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b8828355-1ec1-4e82-822f-a2f70026f1ee": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Nightmares Important events occuring during sleepA) Deep sleep/slow wave sleep disorder : - These events occur during stage 3 & 4 of NREM. Important disorders are: -i) Somnambulism (Night walking): - Patient walks during sleep.ii) Sleep terror or night terrors (pavor nocturnus): - The patient suddenly gets up screaming, with autonomic arousal (tachycardia, sweating). Sleep terrors are rarely remembered in the morning (in contrast to night mares). No treatment is required only reassurance is required. However, in severe cases benzodiazepine can be used.iii) Sleep-related enuresis (Nocturnal enuresis/bed wetting): - Repetitive voiding occurs during sleep. First line of treatment is behaviour therapy. If behavioral therapy fails, desmopressin (DOC) and Imipraminecan be used.iv) Bruxism (Teeth grinding)v) Sleep-talking (Somniloquy).B) REM sleep eventsi) Nocturnal penile tumescence: - It is spontaneous occurence of an erection of the penis during sleep. It is a normal phenomenon and occurs for 80-120 minutes per night. Nocturnal penile tumescence can be used to differentiate between psychogenic impotence and organic impotence as nocturnal penile tumescence is preserved in psychogenic impotence but not in organic cause of impotence.ii) Night mares (dream anxiety disorder): - They are characterized by fearful dreams occuring in the last one third of night sleep. The person wakes up frightned and remembers the dream vividly (in contrast to night terror).iii) Narcolepsy: - This is characterized by excessive day time sleep, often disturbed night time sleep and decreased in the REM sleep. Age of onset is between 10-20 years. There is irresistable desire to sleep and bouts of sudden sleep each lasting for 10-30 minutes occuring during day time. In majority of cases narcolepsy is associated with one or more accessory symptoms: -a) Cataplexy: - It is the most common accessory symptom and is characterized by sudden decrease in muscle tone either, local or generalized.b) Hypnagogic hallucination: - Hallucination occuring just before falling asleep. When hallucination occurs just before awakening it is called hyponopompic hallucinations.c) Sleep paralysis (least common)"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Nightmares Important events occuring during sleepA) Deep sleep/slow wave sleep disorder : - These events occur during stage 3 & 4 of NREM. Important disorders are: -i) Somnambulism (Night walking): - Patient walks during sleep.ii) Sleep terror or night terrors (pavor nocturnus): - The patient suddenly gets up screaming, with autonomic arousal (tachycardia, sweating). Sleep terrors are rarely remembered in the morning (in contrast to night mares). No treatment is required only reassurance is required. However, in severe cases benzodiazepine can be used.iii) Sleep-related enuresis (Nocturnal enuresis/bed wetting): - Repetitive voiding occurs during sleep. First line of treatment is behaviour therapy. If behavioral therapy fails, desmopressin (DOC) and Imipraminecan be used.iv) Bruxism (Teeth grinding)v) Sleep-talking (Somniloquy).B) REM sleep eventsi) Nocturnal penile tumescence: - It is spontaneous occurence of an erection of the penis during sleep. It is a normal phenomenon and occurs for 80-120 minutes per night. Nocturnal penile tumescence can be used to differentiate between psychogenic impotence and organic impotence as nocturnal penile tumescence is preserved in psychogenic impotence but not in organic cause of impotence.ii) Night mares (dream anxiety disorder): - They are characterized by fearful dreams occuring in the last one third of night sleep. The person wakes up frightned and remembers the dream vividly (in contrast to night terror).iii) Narcolepsy: - This is characterized by excessive day time sleep, often disturbed night time sleep and decreased in the REM sleep. Age of onset is between 10-20 years. There is irresistable desire to sleep and bouts of sudden sleep each lasting for 10-30 minutes occuring during day time. In majority of cases narcolepsy is associated with one or more accessory symptoms: -a) Cataplexy: - It is the most common accessory symptom and is characterized by sudden decrease in muscle tone either, local or generalized.b) Hypnagogic hallucination: - Hallucination occuring just before falling asleep. When hallucination occurs just before awakening it is called hyponopompic hallucinations.c) Sleep paralysis (least common)",
+    "hint_exp": "🎯 Think of \"person wakes night frightned\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "770b8726-b5c7-4748-9b3e-9438213aae4b": {
-    "cop": 2,
-    "exp": "*ACL- prevents anterior gliding of tibia on femur *PCL- prevents posterior gliding of tibia on femur Ref: spos medicine 4th/e p.83"
+    "cop": 1,
+    "exp": "*ACL- prevents anterior gliding of tibia on femur *PCL- prevents posterior gliding of tibia on femur Ref: spos medicine 4th/e p.83",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"femur on tibia\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1c448ded-2ec1-4c72-a620-25427156b065": {
-    "cop": 1,
-    "exp": "Cyproheptadine and ketanserin are 5HT2 receptor blockers used in the management of carcinoid and related states; cyproheptadine also has H1 receptor blocking effects. Sumatriptan is used in migraine (not for emesis) and exerts its effects on cerebral vasculature via activation of 5HT1D receptors. Ondansetron is the antiemetic, a blocker of 5HT3 receptors. Because serotonin is metabolized by MAO type A (which also metabolizes NE and tyramine), drugs like selegiline have no effects on 5HT levels in the brain. Newer antipsychotic drugs (e.g., olanzapine) are 5HT2 receptor antagonists, so it does not appear likely that inhibition of 5HT reuptake would have value in psychotic disorders such an action may be exacerbatory."
+    "cop": 0,
+    "exp": "Cyproheptadine and ketanserin are 5HT2 receptor blockers used in the management of carcinoid and related states; cyproheptadine also has H1 receptor blocking effects. Sumatriptan is used in migraine (not for emesis) and exerts its effects on cerebral vasculature via activation of 5HT1D receptors. Ondansetron is the antiemetic, a blocker of 5HT3 receptors. Because serotonin is metabolized by MAO type A (which also metabolizes NE and tyramine), drugs like selegiline have no effects on 5HT levels in the brain. Newer antipsychotic drugs (e.g., olanzapine) are 5HT2 receptor antagonists, so it does not appear likely that inhibition of 5HT reuptake would have value in psychotic disorders such an action may be exacerbatory.",
+    "hint_exp": "🧩 Your crush solved \"receptor systems\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b70e6e0b-ac9f-45ea-abdd-de28f49f6f12": {
-    "cop": 1,
-    "exp": "Thenar space communicates with fascial sheath of 1st Lumbrical. Mid palmar space communicates with fascial sheath of 2nd, 3rd & 4th Lumbrical. 2nd space cannot be incised in palmar space infection due to risk of damaging intermediate septum. Infections of  thenar space is drained by incising 1st webspace."
+    "cop": 0,
+    "exp": "Thenar space communicates with fascial sheath of 1st Lumbrical. Mid palmar space communicates with fascial sheath of 2nd, 3rd & 4th Lumbrical. 2nd space cannot be incised in palmar space infection due to risk of damaging intermediate septum. Infections of  thenar space is drained by incising 1st webspace.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"thenar space\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f724987a-0457-4d3b-9b9e-798379b8543f": {
-    "cop": 4,
-    "exp": "GDM risk assessment: should be asceained at the first prenatal visitLow-RiskMember of an ethnic group with a low prevalence of GDMNo known diabetes in first-degree relativesAge <25 yearsWeight normal before pregnancyWeight normal at bihNo history of abnormal glucose metabolismNo history of poor obstetrical outcomeHigh-RiskSevere obesityStrong family history of type 2 diabetesPrevious history of GDM, macrosomic baby, impaired glucose metabolism, or glucosuriaReference: William's obstetrics; 25th edition; Chapter 57; Diabetes"
+    "cop": 3,
+    "exp": "GDM risk assessment: should be asceained at the first prenatal visitLow-RiskMember of an ethnic group with a low prevalence of GDMNo known diabetes in first-degree relativesAge <25 yearsWeight normal before pregnancyWeight normal at bihNo history of abnormal glucose metabolismNo history of poor obstetrical outcomeHigh-RiskSevere obesityStrong family history of type 2 diabetesPrevious history of GDM, macrosomic baby, impaired glucose metabolism, or glucosuriaReference: William's obstetrics; 25th edition; Chapter 57; Diabetes",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "236b655c-ebe6-425e-a8a8-878256d5cf76": {
-    "cop": 1,
-    "exp": "The first priority is to protect women of child bearing age (15 - 34 or 39) years of age\nImmunization strategy to prevent congenital Rubella infection\n\nFirst priority is to protect women of child bearing age (15 - 34 or 39 years)\nNext priority is to vaccinate all children currently 1 - 14 years of age (to intercept transmission)\nNext priority is to vaccinate all children at one year of age (To intercept transmission)\nThe programme would then revert to one of routine universal immunization of all children at age one, preferably using combined Measles - Rubella or MMR vaccines"
+    "cop": 0,
+    "exp": "The first priority is to protect women of child bearing age (15 - 34 or 39) years of age\nImmunization strategy to prevent congenital Rubella infection\n\nFirst priority is to protect women of child bearing age (15 - 34 or 39 years)\nNext priority is to vaccinate all children currently 1 - 14 years of age (to intercept transmission)\nNext priority is to vaccinate all children at one year of age (To intercept transmission)\nThe programme would then revert to one of routine universal immunization of all children at age one, preferably using combined Measles - Rubella or MMR vaccines",
+    "hint_exp": "🎯 Think of \"rubella vaccination\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4afdc2ac-73d6-4f4b-ad50-64d4fec6ab61": {
-    "cop": 1,
-    "exp": "Refer Goodman Gilman 12th/1558. Isoniazid caused euphoria as an adverse effect. This lead to development of structurally similar drugs as antidepressants"
+    "cop": 0,
+    "exp": "Refer Goodman Gilman 12th/1558. Isoniazid caused euphoria as an adverse effect. This lead to development of structurally similar drugs as antidepressants",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following drugs initially\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5baee5ae-09ed-4fe0-9d43-a65fa41f2cba": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Phosphatase test"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Phosphatase test",
+    "hint_exp": "🧩 Your crush solved \"Post pasteurized milk pally\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "06850cf0-57d0-44ae-9761-49087582c270": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e. Bilirubin * In sickle cell disease, chronic hemolysis with its accelerated bilirubin turnover leads to a high incidence of pigment gallstones. They are composed primarily of bilirubin (insoluble bilirubin pigment polymer) and calcium (calcium phosphate) salts that are found in bile."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e. Bilirubin * In sickle cell disease, chronic hemolysis with its accelerated bilirubin turnover leads to a high incidence of pigment gallstones. They are composed primarily of bilirubin (insoluble bilirubin pigment polymer) and calcium (calcium phosphate) salts that are found in bile.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"sickle cell anemia\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "10fb62ba-b220-455a-818e-98c09499f1f1": {
-    "cop": 3,
-    "exp": "filariform larvae- infective form Man acquires infection by walking on barefoot on the contaminated soil. The filariform larvae penetrates the skin coming in contact with soil. (refer pgno:149 baveja 3 rd edition)"
+    "cop": 2,
+    "exp": "filariform larvae- infective form Man acquires infection by walking on barefoot on the contaminated soil. The filariform larvae penetrates the skin coming in contact with soil. (refer pgno:149 baveja 3 rd edition)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following infections nematodes result\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f5019f56-41e1-4363-ada6-dd87c9651c7c": {
-    "cop": 3,
-    "exp": "Placenta pre"
+    "cop": 2,
+    "exp": "Placenta pre",
+    "hint_exp": "🎯 Think of \"McDonald stitch applied following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4d4ef6fe-bda2-41c1-98f1-1b20fa80a0da": {
-    "cop": 3,
-    "exp": "Ans. is `c' i.e., 3000"
+    "cop": 2,
+    "exp": "Ans. is `c' i.e., 3000",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"a hilly\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bf4bdd90-2f72-4c86-82cb-f492ea91d505": {
-    "cop": 3,
-    "exp": "Ans. (c) Fixation of the boneRef Conner Orthopaedic Surgery Page 487Order of Repair of Injury in extremity:* Bone* Tendon (Extensor before Flexors)* Artery (3rd structure is artery)* Nerve* Vein* Skin"
+    "cop": 2,
+    "exp": "Ans. (c) Fixation of the boneRef Conner Orthopaedic Surgery Page 487Order of Repair of Injury in extremity:* Bone* Tendon (Extensor before Flexors)* Artery (3rd structure is artery)* Nerve* Vein* Skin",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

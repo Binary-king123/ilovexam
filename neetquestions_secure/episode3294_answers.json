@@ -1,202 +1,252 @@
 {
   "ec3d575b-b961-43df-a65b-a6f37e944403": {
-    "cop": 2,
-    "exp": "Ans: b (Trisomy 18)Ref: Robbin's Patho, 7thed, p. 177 & 6thed, p. 172"
+    "cop": 1,
+    "exp": "Ans: b (Trisomy 18)Ref: Robbin's Patho, 7thed, p. 177 & 6thed, p. 172",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Edwards syndrome 1986\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1930fcce-3673-4b62-b4b3-d624b195d3f9": {
-    "cop": 2,
-    "exp": "Life-threatening infection in the asplenic patient is attributable to three factors: loss of splenic macrophages, diminished tuftsin production, and loss of the spleen's reticuloendothelial screening function. In the normal host, these three factors work in conce to eliminate opsonized bacteria from the bloodstream. This system is paicularly suited to the removal of encapsulated bacteria, whose polysaccharide coating is a natural defense against opsonization (S. pneumoniae, H. influenzae, Pneumococcus and Neisseria meningitidis are classic examples). Infections with protozoa that invade the red blood cell, such as Babesia microti (transmitted by tick bites), Ehrlichia, and Plasmodium, occur more frequently in splenectomized individuals than in normal hosts. Other potential infectious bacterial sources include group A streptococci, Capnocytophaga canimorsus (transmitted by dog bites), group B streptococci, Enterococcus species, Bacteroides species, Salmonella species, and Baonella species. Ref : Park A.E., Godinez C.D. (2010). Chapter 34. Spleen. In T.R. Billiar, D.L. Dunn (Eds), Schwaz's Principles of Surgery, 9e."
+    "cop": 1,
+    "exp": "Life-threatening infection in the asplenic patient is attributable to three factors: loss of splenic macrophages, diminished tuftsin production, and loss of the spleen's reticuloendothelial screening function. In the normal host, these three factors work in conce to eliminate opsonized bacteria from the bloodstream. This system is paicularly suited to the removal of encapsulated bacteria, whose polysaccharide coating is a natural defense against opsonization (S. pneumoniae, H. influenzae, Pneumococcus and Neisseria meningitidis are classic examples). Infections with protozoa that invade the red blood cell, such as Babesia microti (transmitted by tick bites), Ehrlichia, and Plasmodium, occur more frequently in splenectomized individuals than in normal hosts. Other potential infectious bacterial sources include group A streptococci, Capnocytophaga canimorsus (transmitted by dog bites), group B streptococci, Enterococcus species, Bacteroides species, Salmonella species, and Baonella species. Ref : Park A.E., Godinez C.D. (2010). Chapter 34. Spleen. In T.R. Billiar, D.L. Dunn (Eds), Schwaz's Principles of Surgery, 9e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Post splenectomy following infection\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "13af8c84-681d-4e6c-b50c-81f66b75999e": {
-    "cop": 4,
-    "exp": "Ans. (d) Voluntarily causing hurtRef: The Essentials ofFSM by K.S. Narayan Reddy 31st ed. /270-71Some Important IPC sections and their definitionsINDIAN PENAL CODE:CRIMINAL PROCEDURE CODE:IPC SectionDefinitionSec 82A child under 7 yrs is incapable of committing an offence. Not applicable to railway act.Sec 83A child >7 &< 12 is presumed to be mature enough to be capable of committing an offence.Sec 84Act of a person of unsound mind/McNaughten's ruleSec 85Act of a person who's intoxicated against will.Sec 87A person less than 18 yrs cannot give valid consent to suffer any harm which may result from an act not intended or not known to cause death or grievous hurt. E.g. consent for wrestling contestSec 88 to93Legal protection to medical doctors. Sec 89 - a child < 12 yrs cannot give valid consent to suffer any harm which can occur by an act done in good faith or for itsbenefi t e.g. consent for operationSec 174Police inquestSec 176Magistrate's inquestSec 179Punishment for refusal to answer question by the policeSec 191Definition of perjurySec 193Punishment for perjurySec 197Issuing false certificate (3-7 years of punishment)Sec 201Disappearance of evidence (2 years of punishment)Sec 297Trespassing of burial placeSec 299Definition of Culpable homicideSec 300MurderSec 302Punishment for murder/infanticideSec 304Culpable homicide not amounting to murderSec 304 ACausing death by negligenceSec 304 BDowry death307Attempt to murder308Attempt to culpable homicide309Attempt to suicideSec 317Abandoning of infantsSec 318Concealment of death of childSec 319HurtSec 320Grievous hurtSec 321Voluntarily causing hurtSec 322Voluntarily causing grievous hurtSec 323Punishment for voluntary causing hurtSec 324Punishment for voluntary causing hurt by dangerous weapon/meansSec 325Punishment for voluntarily causing grievous hurtSec 326Punishment for voluntarily causing grievous hurt by a dangerous weapon/meansSec 351AssaultSec 354Assault to outrage the modesty of a woman.Sec 375Definition of rapeSec 376Punishment of rapeSec 377Unnatural sexual offenceSec 497Adultery"
+    "cop": 3,
+    "exp": "Ans. (d) Voluntarily causing hurtRef: The Essentials ofFSM by K.S. Narayan Reddy 31st ed. /270-71Some Important IPC sections and their definitionsINDIAN PENAL CODE:CRIMINAL PROCEDURE CODE:IPC SectionDefinitionSec 82A child under 7 yrs is incapable of committing an offence. Not applicable to railway act.Sec 83A child >7 &< 12 is presumed to be mature enough to be capable of committing an offence.Sec 84Act of a person of unsound mind/McNaughten's ruleSec 85Act of a person who's intoxicated against will.Sec 87A person less than 18 yrs cannot give valid consent to suffer any harm which may result from an act not intended or not known to cause death or grievous hurt. E.g. consent for wrestling contestSec 88 to93Legal protection to medical doctors. Sec 89 - a child < 12 yrs cannot give valid consent to suffer any harm which can occur by an act done in good faith or for itsbenefi t e.g. consent for operationSec 174Police inquestSec 176Magistrate's inquestSec 179Punishment for refusal to answer question by the policeSec 191Definition of perjurySec 193Punishment for perjurySec 197Issuing false certificate (3-7 years of punishment)Sec 201Disappearance of evidence (2 years of punishment)Sec 297Trespassing of burial placeSec 299Definition of Culpable homicideSec 300MurderSec 302Punishment for murder/infanticideSec 304Culpable homicide not amounting to murderSec 304 ACausing death by negligenceSec 304 BDowry death307Attempt to murder308Attempt to culpable homicide309Attempt to suicideSec 317Abandoning of infantsSec 318Concealment of death of childSec 319HurtSec 320Grievous hurtSec 321Voluntarily causing hurtSec 322Voluntarily causing grievous hurtSec 323Punishment for voluntary causing hurtSec 324Punishment for voluntary causing hurt by dangerous weapon/meansSec 325Punishment for voluntarily causing grievous hurtSec 326Punishment for voluntarily causing grievous hurt by a dangerous weapon/meansSec 351AssaultSec 354Assault to outrage the modesty of a woman.Sec 375Definition of rapeSec 376Punishment of rapeSec 377Unnatural sexual offenceSec 497Adultery",
+    "hint_exp": "🎯 Think of \"IPC321\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6965a622-0a35-4954-8c01-59038dfa82a1": {
-    "cop": 3,
-    "exp": "The cathode in an X-ray tube consists of a filament and a focusing cup. \nThe filament is the source of electrons within the X-ray tube. It is a coil of tungsten wire about 2 mm in diameter and 1 cm or less in length. Filaments typically contain about 1% thorium, which greatly increases the release of electrons from the heated wire. The filament is mounted between two stiff support wires that carry an electrical current. These two mounting wires lead through the glass envelope and connect to both the high-voltage and the low-voltage electrical sources. The filament is heated to incandescence by the flow of current from the low-voltage source and emits electrons at a rate proportional to the temperature of the filament.\nReference: White and Pharoah's Oral Radiology Principles and Interpretation 7th edition page no 5"
+    "cop": 2,
+    "exp": "The cathode in an X-ray tube consists of a filament and a focusing cup. \nThe filament is the source of electrons within the X-ray tube. It is a coil of tungsten wire about 2 mm in diameter and 1 cm or less in length. Filaments typically contain about 1% thorium, which greatly increases the release of electrons from the heated wire. The filament is mounted between two stiff support wires that carry an electrical current. These two mounting wires lead through the glass envelope and connect to both the high-voltage and the low-voltage electrical sources. The filament is heated to incandescence by the flow of current from the low-voltage source and emits electrons at a rate proportional to the temperature of the filament.\nReference: White and Pharoah's Oral Radiology Principles and Interpretation 7th edition page no 5",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Diameter length filament with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8681ca2b-ac31-4ea3-a938-df10f7861df1": {
-    "cop": 4,
-    "exp": "Red Leg Disease is a severe, acute, bacterial infection of amphibians.\nIt is termed «Red Leg Disease» because it causes hemorrhages of the leg (often the inner thigh) as a result of septicemia"
+    "cop": 3,
+    "exp": "Red Leg Disease is a severe, acute, bacterial infection of amphibians.\nIt is termed «Red Leg Disease» because it causes hemorrhages of the leg (often the inner thigh) as a result of septicemia",
+    "hint_exp": "🧩 Your crush solved \"disease caused\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "980ed242-c185-42ce-a976-6db034eccf6c": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"closed position can\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b8519c83-e305-4e2a-917a-405d215cb083": {
-    "cop": 2,
-    "exp": "Hydrocution : (immersion syndrome ) Type of atypical drowning Mechanism -sudden dyspnoea and vagal inhibition -->hea stops immediately.( ventricular fibrillation has also been repoed.)"
+    "cop": 1,
+    "exp": "Hydrocution : (immersion syndrome ) Type of atypical drowning Mechanism -sudden dyspnoea and vagal inhibition -->hea stops immediately.( ventricular fibrillation has also been repoed.)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Hydrocution\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f488a5e4-342b-4c58-85e8-b9bd1170f384": {
-    "cop": 1,
-    "exp": "Ans: aRef: Dr Arup Kundu, 3rd ed, p. 414"
+    "cop": 0,
+    "exp": "Ans: aRef: Dr Arup Kundu, 3rd ed, p. 414",
+    "hint_exp": "🎯 Think of \"Hung knee jerk seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a9346599-a297-4383-8c18-0924cd2e5238": {
-    "cop": 1,
-    "exp": "Term ' Vaccine' by louis pasteur\nTerm \"Vaccination\" by edward Jenner."
+    "cop": 0,
+    "exp": "Term ' Vaccine' by louis pasteur\nTerm \"Vaccination\" by edward Jenner.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Term Vaccine coined\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e9db18f7-72cc-4d66-88b8-8b7de7c72abc": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b07f1c0f-3332-4607-9cb5-841027152dd5": {
-    "cop": 2,
-    "exp": "Some areas of the brain lack blood-brain barrier. These are called the circumventricular organs because they surround the ventricular system in the brain. They are supplied by leaky capillaries. These areas are: Area postrema (CTZ is located in this area) Posterior pituitary Subfornical organ (SFO) (a specialized receptor area in diencephalon; angiotensin II acts on it to stimulate thirst) Median eminence (poion of the hypothalamus from which the poal vessels arise) Pineal gland Organum vasculosum laminae terminalis (OVLT) (function similar to SFO)"
+    "cop": 1,
+    "exp": "Some areas of the brain lack blood-brain barrier. These are called the circumventricular organs because they surround the ventricular system in the brain. They are supplied by leaky capillaries. These areas are: Area postrema (CTZ is located in this area) Posterior pituitary Subfornical organ (SFO) (a specialized receptor area in diencephalon; angiotensin II acts on it to stimulate thirst) Median eminence (poion of the hypothalamus from which the poal vessels arise) Pineal gland Organum vasculosum laminae terminalis (OVLT) (function similar to SFO)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Blood brain barrier present\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d16ef448-81b9-458d-adad-122071cfef41": {
-    "cop": 2,
-    "exp": "Ans. B: 100,000 live bihsThe maternal moality rate is the number of maternal deaths due to childbearing per 100,000 live bihs. The crude death rate is the total number of deaths per year per 1000 people.The perinatal moality rate is the sum of neonatal deaths and fetal deaths (stillbihs) per 1000 bihs. The infant moality rate is the number of deaths of children less than 1 year old per 1000 live bihs.The child moality rate is the number of deaths of children less than 5 years old per 1000 live bihs.The standardised moality rate (SMR)- This represents a propoional comparison to the numbers of deaths that would have been expected if the population had been of a standard composition in terms of age, gender, etc.. The age-specific moality rate (ASMR) - This refers to the total number of deaths per year per 1000 people of a given age (e.g. age 62 last bihday)."
+    "cop": 1,
+    "exp": "Ans. B: 100,000 live bihsThe maternal moality rate is the number of maternal deaths due to childbearing per 100,000 live bihs. The crude death rate is the total number of deaths per year per 1000 people.The perinatal moality rate is the sum of neonatal deaths and fetal deaths (stillbihs) per 1000 bihs. The infant moality rate is the number of deaths of children less than 1 year old per 1000 live bihs.The child moality rate is the number of deaths of children less than 5 years old per 1000 live bihs.The standardised moality rate (SMR)- This represents a propoional comparison to the numbers of deaths that would have been expected if the population had been of a standard composition in terms of age, gender, etc.. The age-specific moality rate (ASMR) - This refers to the total number of deaths per year per 1000 people of a given age (e.g. age 62 last bihday).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"maternal moality rate\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6accf761-1294-4a55-b673-3afbe8cd7d6d": {
-    "cop": 3,
-    "exp": "IgE is an 8 S molecule. Resemble IgG structurally. Heat liable - affinity for the surface of tissue cells of the same species. ( homocytotropism) - normal serum contains only traces of IgE ( a few nanograms per ml ) - greatly elevated levels in atopic conditions like asthma, hay fever. Reference : Anathanarayan & paniker's 9th edition, pg no: 98,99 <\\p>"
+    "cop": 2,
+    "exp": "IgE is an 8 S molecule. Resemble IgG structurally. Heat liable - affinity for the surface of tissue cells of the same species. ( homocytotropism) - normal serum contains only traces of IgE ( a few nanograms per ml ) - greatly elevated levels in atopic conditions like asthma, hay fever. Reference : Anathanarayan & paniker's 9th edition, pg no: 98,99 <\\p>",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1ccee488-ced4-47c1-a819-fde6326d52f4": {
-    "cop": 4,
-    "exp": "Valve replacement will ameliorate CCF The question is about carditis in Rheumatic .fever. carditis is one of the major criterias for the diagnosis of Rheumatic fever. Carditis Carditis occur in 50-60% patients with acute Rheumatic fever carditis and resultant chronic rheumatic hea disease are the most serious manifestations of acute rheumatic fever. Rheumatic carditis is characterized by pancarditis with active inflammation of all the three layers of the hea : Myocardium - Pericardium - Endocardium Endocarditis Endocarditis (Valvulitis) which is manifested by one or more cardiac murmurs is universal findinv in rheumatic carditis whereas the presence of pericariditis or myocarditis is variable. Endocarditis or valvular damage is the hallmark of Rheumatic fever, the mitral valve is almost always affected sometimes together with Aoic valve. Serious and long tenn illness is entirely related to valvular hea disease. Pericarditis Pericarditis most commonly causes pericardial effusion which results in pleural friction rub on echocardiography and may occasionally cause pleuritic chest pain. Myocarditis Myocardial involvement is almost never responsible in itself for cardiac failure. Myocarditis perse plays little or any role in the morbidity of rheumatic fever. Evidence for absence of myocarditis playing any role in the morbidity and moality of rheumatic fever is based on the following. - Troponin 7(2-a marker of myocardial damage has been found not to increase during acute rheumatic .fever with carditis indicating absence of significant myocardial damage. - Radionuclide evaluations using antimyosin antibody indicates insignificant myocardial uptake (hence absence of significant damage) in the absence of pericarditis and C.C.F. - Myocardial biopsies during acute rheumatic fever with carditis have .failed to provide information regarding presence of myocarditis because of paucity of myocardial damage. - Echocardiographic evaluation of the left ventricular function indicates that the myocardial contractility (the capacity of myocardium to contract) remains normalQ even in the presence of C.C.F. - Pathological evaluation (biopsy) of the myocardium indicates that the amount of myocardial damage is insufficient to explain the moality. - Surgical replacement of mitral and/or aoic valve during acute rheumatic fever results in rapid control of CCF and decrease in hea size, despite investigational evidence for ongoing active rheumatic .fever. The surgical findings thus indicate that it is the acute hemodynamic overload secondary to valvular regurgitation which is responsible .for CCF."
+    "cop": 3,
+    "exp": "Valve replacement will ameliorate CCF The question is about carditis in Rheumatic .fever. carditis is one of the major criterias for the diagnosis of Rheumatic fever. Carditis Carditis occur in 50-60% patients with acute Rheumatic fever carditis and resultant chronic rheumatic hea disease are the most serious manifestations of acute rheumatic fever. Rheumatic carditis is characterized by pancarditis with active inflammation of all the three layers of the hea : Myocardium - Pericardium - Endocardium Endocarditis Endocarditis (Valvulitis) which is manifested by one or more cardiac murmurs is universal findinv in rheumatic carditis whereas the presence of pericariditis or myocarditis is variable. Endocarditis or valvular damage is the hallmark of Rheumatic fever, the mitral valve is almost always affected sometimes together with Aoic valve. Serious and long tenn illness is entirely related to valvular hea disease. Pericarditis Pericarditis most commonly causes pericardial effusion which results in pleural friction rub on echocardiography and may occasionally cause pleuritic chest pain. Myocarditis Myocardial involvement is almost never responsible in itself for cardiac failure. Myocarditis perse plays little or any role in the morbidity of rheumatic fever. Evidence for absence of myocarditis playing any role in the morbidity and moality of rheumatic fever is based on the following. - Troponin 7(2-a marker of myocardial damage has been found not to increase during acute rheumatic .fever with carditis indicating absence of significant myocardial damage. - Radionuclide evaluations using antimyosin antibody indicates insignificant myocardial uptake (hence absence of significant damage) in the absence of pericarditis and C.C.F. - Myocardial biopsies during acute rheumatic fever with carditis have .failed to provide information regarding presence of myocarditis because of paucity of myocardial damage. - Echocardiographic evaluation of the left ventricular function indicates that the myocardial contractility (the capacity of myocardium to contract) remains normalQ even in the presence of C.C.F. - Pathological evaluation (biopsy) of the myocardium indicates that the amount of myocardial damage is insufficient to explain the moality. - Surgical replacement of mitral and/or aoic valve during acute rheumatic fever results in rapid control of CCF and decrease in hea size, despite investigational evidence for ongoing active rheumatic .fever. The surgical findings thus indicate that it is the acute hemodynamic overload secondary to valvular regurgitation which is responsible .for CCF.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"presents with acute rheumatic\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c50a298a-73cb-4329-b2da-8fccfb440d87": {
-    "cop": 2,
-    "exp": "Ans. B. Median nerveThe 'ape-thumb deformity' is lack of ability to abduct and oppose the thumb due to paralysis of the thenar muscles. It can occur with an injury of the median nerve either at the elbow or the wrist, impairing the thenar muscles and opponents pollicis muscle."
+    "cop": 1,
+    "exp": "Ans. B. Median nerveThe 'ape-thumb deformity' is lack of ability to abduct and oppose the thumb due to paralysis of the thenar muscles. It can occur with an injury of the median nerve either at the elbow or the wrist, impairing the thenar muscles and opponents pollicis muscle.",
+    "hint_exp": "🧩 Your crush solved \"thumb deformity occurs lesion\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "833d0c2f-9e29-4c60-98d0-4b7cedc89b82": {
-    "cop": 4,
-    "exp": "Ans. is`d' i.e. Histogram"
+    "cop": 3,
+    "exp": "Ans. is`d' i.e. Histogram",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a continuous variable\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3b67ac3b-f01c-4870-8ebf-c69c1f59ed2a": {
-    "cop": 4,
-    "exp": "The given clinical history and the stool microscopy showing the egg are suggestive of infection with Hymenolepis nana. It is treated by Praziquantel. Characteristics of Hymenolepis nana eggs: Colorless, non-bile stained Possesses a single shell with an operculum at one end and a knob at the other end. Reference: Paniker&;s Textbook of Medical Parasitology 8th edition"
+    "cop": 3,
+    "exp": "The given clinical history and the stool microscopy showing the egg are suggestive of infection with Hymenolepis nana. It is treated by Praziquantel. Characteristics of Hymenolepis nana eggs: Colorless, non-bile stained Possesses a single shell with an operculum at one end and a knob at the other end. Reference: Paniker&;s Textbook of Medical Parasitology 8th edition",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the treatment\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "afd9d30d-8dd6-4c55-b96b-1de1a5faa7bf": {
-    "cop": 1,
-    "exp": ".The dose of OPV, given at bih, in case of institutional deliveries is-zero dose OPV. ref:park&;s textbook,ed 22,pg no 184"
+    "cop": 0,
+    "exp": ".The dose of OPV, given at bih, in case of institutional deliveries is-zero dose OPV. ref:park&;s textbook,ed 22,pg no 184",
+    "hint_exp": "🎯 Think of \"institutional deliveries\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "405c703b-4ae0-4f07-8da6-c6d919922a82": {
-    "cop": 1,
-    "exp": "Most hereditary ovarian cancers result from germline mutations in the BRCA1 and BRCA2 genes. The mutations are inherited in an autosomal dominant fashion, and therefore a full pedigree analysis (i.e., both maternal and paternal sides of the family history for both breast and ovarian cancer) must be carefully evaluated in all patients with epithelial ovarian cancer, and those withfallopian tube cancer and peritoneal cancer"
+    "cop": 0,
+    "exp": "Most hereditary ovarian cancers result from germline mutations in the BRCA1 and BRCA2 genes. The mutations are inherited in an autosomal dominant fashion, and therefore a full pedigree analysis (i.e., both maternal and paternal sides of the family history for both breast and ovarian cancer) must be carefully evaluated in all patients with epithelial ovarian cancer, and those withfallopian tube cancer and peritoneal cancer",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "60f9950c-8369-41a4-a5d1-593407b95287": {
-    "cop": 4,
-    "exp": "Ans. D: Exotic Exotic diseases are infectious diseases that normally do not occur in the region either because they have never been present there or because they were eradicated and then kept out by government control measures."
+    "cop": 3,
+    "exp": "Ans. D: Exotic Exotic diseases are infectious diseases that normally do not occur in the region either because they have never been present there or because they were eradicated and then kept out by government control measures.",
+    "hint_exp": "🧩 Your crush solved \"Disease usually seen country\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "81bca248-a65b-46c0-972f-096b0b6e2683": {
-    "cop": 2,
-    "exp": "Step 1: Subtract the median from the mean: 70.5 – 80 = -9.5.\nStep 2: Divide by the standard deviation: -28.5 / 19.33 = -1.47. Caution: Pearson's first coefficient of skewness uses the mode. \nTherefore, if the mode is made up of too few pieces of data it won't be a stable measure of central tendency."
+    "cop": 1,
+    "exp": "Step 1: Subtract the median from the mean: 70.5 – 80 = -9.5.\nStep 2: Divide by the standard deviation: -28.5 / 19.33 = -1.47. Caution: Pearson's first coefficient of skewness uses the mode. \nTherefore, if the mode is made up of too few pieces of data it won't be a stable measure of central tendency.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Pearson measure skewness\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "36c117e0-4996-4fde-bfbf-59532711200e": {
-    "cop": 3,
-    "exp": "Ans. c. Develop from lst pharyngeal cleft onlyFirst branchial cleft is the precursor of external auditory canal.Around the sixth week of embryonic life, a series of six tubercles appear around the first branchial cleftBranchial clefts are ectodermal in origin.Pinna develops from 1st and 2nd pharyngeal arch"
+    "cop": 2,
+    "exp": "Ans. c. Develop from lst pharyngeal cleft onlyFirst branchial cleft is the precursor of external auditory canal.Around the sixth week of embryonic life, a series of six tubercles appear around the first branchial cleftBranchial clefts are ectodermal in origin.Pinna develops from 1st and 2nd pharyngeal arch",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following statement\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9415bf43-fc4e-4c19-a9bd-64f25a17f8da": {
-    "cop": 4,
-    "exp": "The pituitary gland is suspended from the floor of the 3 rd ventricle by a stalk called the infundibulum.It secretes somatotropic hormonesAerial supply is by superior and inferior hypophyseal aeries, branches of internal carotid aeryDevelopment from ectoderm.Reference: Textbook of anatomy, Head Neck, and Brain, Vishram Singh, 2nd edition, page no.330-331"
+    "cop": 3,
+    "exp": "The pituitary gland is suspended from the floor of the 3 rd ventricle by a stalk called the infundibulum.It secretes somatotropic hormonesAerial supply is by superior and inferior hypophyseal aeries, branches of internal carotid aeryDevelopment from ectoderm.Reference: Textbook of anatomy, Head Neck, and Brain, Vishram Singh, 2nd edition, page no.330-331",
+    "hint_exp": "🎯 Think of \"the following statement\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1283f898-1e39-4f94-a944-9992e9b187d4": {
-    "cop": 4,
-    "exp": "Cowper"
+    "cop": 3,
+    "exp": "Cowper",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Baholin gland correspond\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1733c556-7505-4b1d-a0de-5fe99a9c61f5": {
-    "cop": 3,
-    "exp": "Achondroplasia :- - an autosomal dominant condition with altered FGFR3 Gene - Most common skeletal dysplasia - It has Rhizomelic Dwarfism(Shoened Proximal Bones) - M/C/C of dispropoionate dwarfism Features includes :- - champagne glass pelvis - tombstone iliac bone - bullet shaped veebra Bowed and sho bones of the legs with square lilac blades and champangne glass pelvis. Achondroplasia."
+    "cop": 2,
+    "exp": "Achondroplasia :- - an autosomal dominant condition with altered FGFR3 Gene - Most common skeletal dysplasia - It has Rhizomelic Dwarfism(Shoened Proximal Bones) - M/C/C of dispropoionate dwarfism Features includes :- - champagne glass pelvis - tombstone iliac bone - bullet shaped veebra Bowed and sho bones of the legs with square lilac blades and champangne glass pelvis. Achondroplasia.",
+    "hint_exp": "🧩 Your crush solved \"of Achondroplasia\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4ef80f34-13a1-4dbd-81ee-3c1308a2a3f3": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Dantrolene sodium o I. V dantroline is the DOC, it acts by preventing the release of calcium from sarcoplasmic reticulum. o Others are for suppoive treatment --> oxygen, cooling, and insulin & dextrose are given for hyperkalemia due to potassium release from contracted muscle."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Dantrolene sodium o I. V dantroline is the DOC, it acts by preventing the release of calcium from sarcoplasmic reticulum. o Others are for suppoive treatment --> oxygen, cooling, and insulin & dextrose are given for hyperkalemia due to potassium release from contracted muscle.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"best treated with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "549b7b52-691b-4e97-baef-cddc6246b02a": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Endodontic implants refers those\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b13ed118-3a57-4be4-8941-2fd6f94aacb7": {
-    "cop": 1,
-    "exp": "Ans. Chloroquine"
+    "cop": 0,
+    "exp": "Ans. Chloroquine",
+    "hint_exp": "🎯 Think of \"Bull lesion seen with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "788830d7-bf7f-471f-a1cd-5023317102d6": {
-    "cop": 1,
-    "exp": "Ans is (a) hypeension is rare Hypeension is present in up to 75% of patients over the age of 20 years with polycystic disease."
+    "cop": 0,
+    "exp": "Ans is (a) hypeension is rare Hypeension is present in up to 75% of patients over the age of 20 years with polycystic disease.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"true except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "220864af-b4d5-4ca5-b9d2-224c6657a3f1": {
-    "cop": 3,
-    "exp": "Garre sclerosing osteomyelitis, or chronic nonsuppurative sclerosing osteomyelitis, is a form of chronic osteomyelitis. Mild inflammation and infection lead to subperiosteal bone deposition. The disease is frequently asymptomatic. The characteristic radiographic appearance is an area of periosteal proliferation surrounded by successive layers of condensed coical bone (arrows), described as an onion skin appearance. REF : MAHESHWARI BOOK 9TH ED"
+    "cop": 2,
+    "exp": "Garre sclerosing osteomyelitis, or chronic nonsuppurative sclerosing osteomyelitis, is a form of chronic osteomyelitis. Mild inflammation and infection lead to subperiosteal bone deposition. The disease is frequently asymptomatic. The characteristic radiographic appearance is an area of periosteal proliferation surrounded by successive layers of condensed coical bone (arrows), described as an onion skin appearance. REF : MAHESHWARI BOOK 9TH ED",
+    "hint_exp": "🧩 Your crush solved \"APatient history years back\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d9fb0593-d3c8-4460-9400-185b73421c82": {
-    "cop": 3,
-    "exp": "The question is asking about the first step of the urea cycle in an indirect way (See Fig). Based on how nitrogen is excreted, animals are divided into 3 categories. Ammoniotelic animals - Animals that excrete ammonia. e.g. Fishes Ureotelic animals - Animals which excrete urea e.g. Mammals including man Uricotelic - Animals that excrete uric aciduric acid. e.g. Birds"
+    "cop": 2,
+    "exp": "The question is asking about the first step of the urea cycle in an indirect way (See Fig). Based on how nitrogen is excreted, animals are divided into 3 categories. Ammoniotelic animals - Animals that excrete ammonia. e.g. Fishes Ureotelic animals - Animals which excrete urea e.g. Mammals including man Uricotelic - Animals that excrete uric aciduric acid. e.g. Birds",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"ureotelic animals carbamoyl group\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5eb15449-88ad-43a7-be7c-4dbb4a7d2f44": {
-    "cop": 4,
-    "exp": "D i.e. Increased cAMPGs-a subunit gain would cause increased adenyl cyclase level - ultimately resulting in increased c-AMP levelQ, (because adenyl cyclase conves ATP to c-AMP)."
+    "cop": 3,
+    "exp": "D i.e. Increased cAMPGs-a subunit gain would cause increased adenyl cyclase level - ultimately resulting in increased c-AMP levelQ, (because adenyl cyclase conves ATP to c-AMP).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"there alfa subunit gain\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f60f74c7-140c-4804-9eec-c07acc2dda91": {
-    "cop": 3,
-    "exp": "Localized rings or constrictions of the uterus develop in association with prolonged obstructed labors. The pathological retraction ring of Bandl is associated with marked stretching and thinning of the lower uterine segment. The ring may be seen clearly as a uterine indentation and signifies impending rupture of the lower uterine segment. Ref: Cunningham F.G., Leveno K.J., Bloom S.L., Hauth J.C., Rouse D.J., Spong C.Y. (2010). Chapter 20. Abnormal Labor. In F.G. Cunningham, K.J. Leveno, S.L. Bloom, J.C. Hauth, D.J. Rouse, C.Y. Spong (Eds), Williams Obstetrics, 23e."
+    "cop": 2,
+    "exp": "Localized rings or constrictions of the uterus develop in association with prolonged obstructed labors. The pathological retraction ring of Bandl is associated with marked stretching and thinning of the lower uterine segment. The ring may be seen clearly as a uterine indentation and signifies impending rupture of the lower uterine segment. Ref: Cunningham F.G., Leveno K.J., Bloom S.L., Hauth J.C., Rouse D.J., Spong C.Y. (2010). Chapter 20. Abnormal Labor. In F.G. Cunningham, K.J. Leveno, S.L. Bloom, J.C. Hauth, D.J. Rouse, C.Y. Spong (Eds), Williams Obstetrics, 23e.",
+    "hint_exp": "🎯 Think of \"seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ce3895e0-a226-4af3-aa30-bde43a713427": {
-    "cop": 1,
-    "exp": "The temporal operculum houses the primary auditory coex. This is co-extensive with the granular area 41 in the transverse temporal gyri. Ref: Gray's anatomy 40th edition, Chapter 21"
+    "cop": 0,
+    "exp": "The temporal operculum houses the primary auditory coex. This is co-extensive with the granular area 41 in the transverse temporal gyri. Ref: Gray's anatomy 40th edition, Chapter 21",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"present in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8621f68c-c511-4fbc-a625-acdb97752f54": {
-    "cop": 2,
-    "exp": "B i.e. Interstitial Lung disease Routine chest CT examinations consists of adjacent 8-10 mm sections through the area of interest. Intravenous contrast medium may be injected when the primary purpose of examination is to show the mediastinum or hilar structures. High resolution CT (HRCT) uses very thin 1-2 mm thick.Q HRCT of lung is designed primarly to diagnose : - BronchiectasisQ - Interstial Lung diseaseQ as fibrosing alveolitis, asbestosis etc. - When lung biopsy is required, HRCT is useful for determining most appropriate area from which biopsy sample should be taken."
+    "cop": 1,
+    "exp": "B i.e. Interstitial Lung disease Routine chest CT examinations consists of adjacent 8-10 mm sections through the area of interest. Intravenous contrast medium may be injected when the primary purpose of examination is to show the mediastinum or hilar structures. High resolution CT (HRCT) uses very thin 1-2 mm thick.Q HRCT of lung is designed primarly to diagnose : - BronchiectasisQ - Interstial Lung diseaseQ as fibrosing alveolitis, asbestosis etc. - When lung biopsy is required, HRCT is useful for determining most appropriate area from which biopsy sample should be taken.",
+    "hint_exp": "🧩 Your crush solved \"the chest\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e8c9beb6-ab62-4739-8a82-a842805cfc3f": {
-    "cop": 2,
-    "exp": "This is a case of cardiac tamponande.\nBecks traid - muffled heart sounds + engorged neck veins + decreased BP"
+    "cop": 1,
+    "exp": "This is a case of cardiac tamponande.\nBecks traid - muffled heart sounds + engorged neck veins + decreased BP",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year with accident comes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e887e5a4-bdad-4e2c-88fe-dcab48de454e": {
-    "cop": 2,
-    "exp": "Reovirus, rotavirus and Colorado tick virus are double-stranded RNA viruses with no envelope DS RNA viruses doesn't have envelope Ref: Baveja 5th ed Pg: 423"
+    "cop": 1,
+    "exp": "Reovirus, rotavirus and Colorado tick virus are double-stranded RNA viruses with no envelope DS RNA viruses doesn't have envelope Ref: Baveja 5th ed Pg: 423",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following virus enveloped virus\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "12380474-99db-470f-a6b6-58fd0a57ef80": {
-    "cop": 1,
-    "exp": "(Refer: AK Khurana Comprehensive Ophthalmology, 6th edition, pg no. 215 - 216)Types of lens dislocations in various disease:Marfan syndrome-superotemporalHomocystinuria-InferonasalWeil-Marchesani syndrome-forward"
+    "cop": 0,
+    "exp": "(Refer: AK Khurana Comprehensive Ophthalmology, 6th edition, pg no. 215 - 216)Types of lens dislocations in various disease:Marfan syndrome-superotemporalHomocystinuria-InferonasalWeil-Marchesani syndrome-forward",
+    "hint_exp": "🎯 Think of \"the lens\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0cbd26cd-4f31-4f61-88d2-ae579e768c4b": {
-    "cop": 1,
-    "exp": "Ans, is 'a' i.e., Sitting o Venous air embolism is a potential hazard whenever the operative site is above the level of patients heart,o The 'sitting' position and its modification \"beach chair\" positions are associated with a greater incidence of venous air embolism."
+    "cop": 0,
+    "exp": "Ans, is 'a' i.e., Sitting o Venous air embolism is a potential hazard whenever the operative site is above the level of patients heart,o The 'sitting' position and its modification \"beach chair\" positions are associated with a greater incidence of venous air embolism.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Venous embolism most common\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "72ae5962-ac24-4260-b63f-d2cab8e1778b": {
-    "cop": 4,
-    "exp": "In PCOS Hyperinsulinemia is seen in 50-70% cases of PCOS Insulin induces LH to cause thecal hyperplasia and secrete androgens Hyperandrogenism lowers the level of hepatic sex hormone binding globulin Metformin treats the root causes, rectifies endocrine and metabolic function, improves feility rate, used as insulin sensitiser It reduces insulin level, delays glucose absorption, liver production of glucose and improves peripheral resistance Metformin do not cause hypoglycemia in a normoglycemic women Ref: SHAW'S TEXTBOOK OFGYNECOLOGY;15 TH EDITION; PG NO: 370"
+    "cop": 3,
+    "exp": "In PCOS Hyperinsulinemia is seen in 50-70% cases of PCOS Insulin induces LH to cause thecal hyperplasia and secrete androgens Hyperandrogenism lowers the level of hepatic sex hormone binding globulin Metformin treats the root causes, rectifies endocrine and metabolic function, improves feility rate, used as insulin sensitiser It reduces insulin level, delays glucose absorption, liver production of glucose and improves peripheral resistance Metformin do not cause hypoglycemia in a normoglycemic women Ref: SHAW'S TEXTBOOK OFGYNECOLOGY;15 TH EDITION; PG NO: 370",
+    "hint_exp": "🧩 Your crush solved \"Regarding PCOS hyperinsulinaemia true\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1869eecc-c16b-4f26-a186-02a7ed306342": {
-    "cop": 4,
-    "exp": "Menstrual regulation & sterilization"
+    "cop": 3,
+    "exp": "Menstrual regulation & sterilization",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"patient with conceived does\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e3d10c31-c616-44ad-8dfd-745087656622": {
-    "cop": 4,
-    "exp": "Postmoem hypostasis is bluish purple or purplish red discolouration which appears under skin in most superficial layers of dermis of dependent pas of body after death due to capillovenous distension. Dr.Narayana Reddys Synopsis of Forensic Medicine and Toxicology 27th edition pg. 76."
+    "cop": 3,
+    "exp": "Postmoem hypostasis is bluish purple or purplish red discolouration which appears under skin in most superficial layers of dermis of dependent pas of body after death due to capillovenous distension. Dr.Narayana Reddys Synopsis of Forensic Medicine and Toxicology 27th edition pg. 76.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"True statement regarding postmoem\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6f66238c-64f9-4d9f-9c44-dedce668d119": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"receptors\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9b15dcea-bc38-4063-b7ff-5fe0e68b545e": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"True about Dressler syndrome\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5dfd3654-148f-4c74-833c-7fbd14d5fc5a": {
-    "cop": 4,
-    "exp": "Reissner's membrane - between Scala vestibuli & Scala media. Basilar membrane - between scala media & Scala tympani Tectorial membrane - covers the hair cells. Stria vascularis gives the endolymph which is ultrafiltrate of blood."
+    "cop": 3,
+    "exp": "Reissner's membrane - between Scala vestibuli & Scala media. Basilar membrane - between scala media & Scala tympani Tectorial membrane - covers the hair cells. Stria vascularis gives the endolymph which is ultrafiltrate of blood.",
+    "hint_exp": "🧩 Your crush solved \"cochlear duct\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "530af69b-ee58-4378-96b9-14c7e47e40ad": {
-    "cop": 3,
-    "exp": "Hallucinogens (Psychotomimetics, psychedelics, psychotogens) are drugs which alter mood, behaviour, thought and perception in a manner similar to that seen in psychosis. These are as: Lysergic acid diethylamide (LSD) Psilocybin Harmine Bufotenin Mescaline (Phenyl alkyl amines) Phencyclidine Lysergic acid amide"
+    "cop": 2,
+    "exp": "Hallucinogens (Psychotomimetics, psychedelics, psychotogens) are drugs which alter mood, behaviour, thought and perception in a manner similar to that seen in psychosis. These are as: Lysergic acid diethylamide (LSD) Psilocybin Harmine Bufotenin Mescaline (Phenyl alkyl amines) Phencyclidine Lysergic acid amide",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d3601d4f-f9a1-453b-8fe6-b6dbf638407f": {
-    "cop": 1,
-    "exp": "It is a local anaesthetic agent (acts by inhibiting Na+ channel in the axonal membrane) that also possesses indirect sympathomimetic activity."
+    "cop": 0,
+    "exp": "It is a local anaesthetic agent (acts by inhibiting Na+ channel in the axonal membrane) that also possesses indirect sympathomimetic activity.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the axonal membrane\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b097bb29-77a6-4f96-b273-58e7aa931a24": {
-    "cop": 3,
-    "exp": "Before the appearance of 1st layer of dentin, ameloblast derive nutrition from dental papilla. After dentin layer formation they receive nutrition from the capillaries of dental sac that surround the outer enamel epithelium."
+    "cop": 2,
+    "exp": "Before the appearance of 1st layer of dentin, ameloblast derive nutrition from dental papilla. After dentin layer formation they receive nutrition from the capillaries of dental sac that surround the outer enamel epithelium.",
+    "hint_exp": "🎯 Think of \"their life cycle\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4b8b79fc-05b1-438c-8c44-c40d7480fc52": {
-    "cop": 2,
-    "exp": "The cell wall antigens include capsular polysaccharide (C-substance), peptidoglycan and lipoteichoic acid (LTA), R and T proteins, and various surface proteins, including M protein, fimbrial proteins, fibronectin-binding proteins (eg, protein F), and cell-bound streptokinase. The C-substance may have a role in increased invasive capacity. The R and T proteins are used as epidemiologic markers and have no known role in virulence. Another virulence factor, C5A peptidase, destroys the chemotactic signals by cleaving the complement component of C5A. M protein, the major virulence factor, is a macromolecule incorporated in fimbriae present on the cell membrane projecting on the bacterial cell wall. It is the primary cause of antigenic shift and antigenic drift among group A streptococci."
+    "cop": 1,
+    "exp": "The cell wall antigens include capsular polysaccharide (C-substance), peptidoglycan and lipoteichoic acid (LTA), R and T proteins, and various surface proteins, including M protein, fimbrial proteins, fibronectin-binding proteins (eg, protein F), and cell-bound streptokinase. The C-substance may have a role in increased invasive capacity. The R and T proteins are used as epidemiologic markers and have no known role in virulence. Another virulence factor, C5A peptidase, destroys the chemotactic signals by cleaving the complement component of C5A. M protein, the major virulence factor, is a macromolecule incorporated in fimbriae present on the cell membrane projecting on the bacterial cell wall. It is the primary cause of antigenic shift and antigenic drift among group A streptococci.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "dbb31952-d6bc-4882-ad5f-ccfb23802240": {
-    "cop": 1,
-    "exp": "Lets see each option one by one\nUrine output\n\n\"Urine output is a quantitative and relatively reliable indicator of organ perfusion. Adequate urine output is 0.5 ml/kg/ h in an adult, lml/kg/h in a child and 2ml/kg/h in an infant less than 1yr. of age.\"\n\nPulse-\n\n\"Although tachycardia may be the earliest sign of hypovolemia, individuals in good physical condition, and particularly trained atheletes with a low resting pulse rate, may manifest only a relative tachycardia, pts on blocking medication may not be able to increase their heart rate. In children, bradycardia or relative bradycardia can occur with severe blood loss. Conversely, hypoxia, pain, apprehension and stimulant drugs  produce a tachycardia\"\n\nB.P. -\n\nHypotension is not a reliable early sign of hypovolemia. in healthy pts.\nBlood volume must decrease by 30 to 40 percent before hypotension occurs.\nYounger pts with good sympathetic tone can maintain systemic blood pressure with severe intravascular deficit untill they are on the verge of cardiac arrest.\n\nCVP\n\nCVP measurement helps in distinguishing b/w cardiogenic shock and hypovolemic shock.\n'A central venous catheter can give information about the relationship b/w intravascular volume and right ventricular function but should not be used to assess either factor independently.\" - Schwartz pretest based on 7/e."
+    "cop": 0,
+    "exp": "Lets see each option one by one\nUrine output\n\n\"Urine output is a quantitative and relatively reliable indicator of organ perfusion. Adequate urine output is 0.5 ml/kg/ h in an adult, lml/kg/h in a child and 2ml/kg/h in an infant less than 1yr. of age.\"\n\nPulse-\n\n\"Although tachycardia may be the earliest sign of hypovolemia, individuals in good physical condition, and particularly trained atheletes with a low resting pulse rate, may manifest only a relative tachycardia, pts on blocking medication may not be able to increase their heart rate. In children, bradycardia or relative bradycardia can occur with severe blood loss. Conversely, hypoxia, pain, apprehension and stimulant drugs  produce a tachycardia\"\n\nB.P. -\n\nHypotension is not a reliable early sign of hypovolemia. in healthy pts.\nBlood volume must decrease by 30 to 40 percent before hypotension occurs.\nYounger pts with good sympathetic tone can maintain systemic blood pressure with severe intravascular deficit untill they are on the verge of cardiac arrest.\n\nCVP\n\nCVP measurement helps in distinguishing b/w cardiogenic shock and hypovolemic shock.\n'A central venous catheter can give information about the relationship b/w intravascular volume and right ventricular function but should not be used to assess either factor independently.\" - Schwartz pretest based on 7/e.",
+    "hint_exp": "🧩 Your crush solved \"a trauma patient\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

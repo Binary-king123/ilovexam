@@ -1,202 +1,252 @@
 {
   "1c04ea56-fd86-4703-bd25-3fa243504f4e": {
-    "cop": 4,
-    "exp": "Low prevalence Repeat form Nov 08 \"In a population with a low prevalence of a paicular disease, it is likely that most of the positive results in a screening program for that disease would be falsely positive.\"- Epidemiology, biostatistics, and preventive medicine By James F. Jekel, David L. Katz, Joann G. Elmore 2/e p120 \"In a high-prevalence population, the absolute number of false-positives is small in comparison with the absolute numbers of true positives. In a low-prevalence population, the absolute number of false-positives is large in comparison with the absolute number of true positives.\" -The basic science of oncology By Ian Tannock 4/e p486, 487 The no. of false positive varies inversely with the prevalence of disease in population. This means that when the same test is applied to two populations with differing prevalence; false positive cases would be more in the population with low prevalence and false positive cases would be low in the population with high prevalence. Also Note: Sensitivity and specificity are characteristic of a paicular test and do not depend on the prevalence of disease in the population being tested. The positive predictive value and the negative predictive value depend on characteristics of both the test (sensitivity and specificity) and the population being tested (prevalence of disease). The positive predictive value is directly propoional to the prevalence. The negative predictive value is inversely propoional to prevalence. As the prevalence of disease declines, the positive predictive value of the test declines and the negative predictive value increases."
+    "cop": 3,
+    "exp": "Low prevalence Repeat form Nov 08 \"In a population with a low prevalence of a paicular disease, it is likely that most of the positive results in a screening program for that disease would be falsely positive.\"- Epidemiology, biostatistics, and preventive medicine By James F. Jekel, David L. Katz, Joann G. Elmore 2/e p120 \"In a high-prevalence population, the absolute number of false-positives is small in comparison with the absolute numbers of true positives. In a low-prevalence population, the absolute number of false-positives is large in comparison with the absolute number of true positives.\" -The basic science of oncology By Ian Tannock 4/e p486, 487 The no. of false positive varies inversely with the prevalence of disease in population. This means that when the same test is applied to two populations with differing prevalence; false positive cases would be more in the population with low prevalence and false positive cases would be low in the population with high prevalence. Also Note: Sensitivity and specificity are characteristic of a paicular test and do not depend on the prevalence of disease in the population being tested. The positive predictive value and the negative predictive value depend on characteristics of both the test (sensitivity and specificity) and the population being tested (prevalence of disease). The positive predictive value is directly propoional to the prevalence. The negative predictive value is inversely propoional to prevalence. As the prevalence of disease declines, the positive predictive value of the test declines and the negative predictive value increases.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"test high false positive\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bfa3f41c-8c76-4678-a46f-783b0eb721c6": {
-    "cop": 2,
-    "exp": "As discussed earlier, 50% myometrial invasion means stage IC, positive peritoneal cytology puts it in stage III-A.\nVaginal metastasis means stage III B cancer and since this is the highest stage.\nTherefore, this patient has endometrial cancer belonging to stage III B."
+    "cop": 1,
+    "exp": "As discussed earlier, 50% myometrial invasion means stage IC, positive peritoneal cytology puts it in stage III-A.\nVaginal metastasis means stage III B cancer and since this is the highest stage.\nTherefore, this patient has endometrial cancer belonging to stage III B.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the stage of disease\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "43e62368-29ae-41f9-814f-c19a43f12f9d": {
-    "cop": 2,
-    "exp": "The Bony Semicircular Canals (canales semicirculares ossei).--The bony semicircular canals are three in number, superior, posterior, and lateral, and are situated above and behind the vestibule. They are unequal in length, compressed from side to side, and each describes the greater pa of a circle. Each measures about 0.8 mm. in diameter, and presents a dilatation at one end, called the ampulla, which measures more than twice the diameter of the tube. They open into the vestibule by five orifices, one of the apeures being common to two of the canals. Ref: Anatomy of the Human Body Henry Gray."
+    "cop": 1,
+    "exp": "The Bony Semicircular Canals (canales semicirculares ossei).--The bony semicircular canals are three in number, superior, posterior, and lateral, and are situated above and behind the vestibule. They are unequal in length, compressed from side to side, and each describes the greater pa of a circle. Each measures about 0.8 mm. in diameter, and presents a dilatation at one end, called the ampulla, which measures more than twice the diameter of the tube. They open into the vestibule by five orifices, one of the apeures being common to two of the canals. Ref: Anatomy of the Human Body Henry Gray.",
+    "hint_exp": "🎯 Think of \"What semicircular canals detect\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1717c102-af26-4cbd-ad46-36f786653ba8": {
-    "cop": 4,
-    "exp": "Ans. D: Index case The index case or primary case is the initial patient in the population of an epidemiological investigation. The index case may indicate the source of the disease, the possible spread, and what reservoir holds the disease in between outbreaks. The index case is the first patient that indicates the existence of an outbreak. Earlier cases may be found and are labeled primary, secondary, teiary, etc. \"Patient Zero\" was used to refer to the index case in the spread of HIV in Noh America."
+    "cop": 3,
+    "exp": "Ans. D: Index case The index case or primary case is the initial patient in the population of an epidemiological investigation. The index case may indicate the source of the disease, the possible spread, and what reservoir holds the disease in between outbreaks. The index case is the first patient that indicates the existence of an outbreak. Earlier cases may be found and are labeled primary, secondary, teiary, etc. \"Patient Zero\" was used to refer to the index case in the spread of HIV in Noh America.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"a disease\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "79a47254-31c6-4002-af99-65303c885ce2": {
-    "cop": 1,
-    "exp": "cocaine bugs is called as Ekbom's syndrome delusion of marital infedility is also called as Othello syndrome Delusion of love is also called as De clerambault syndrome Delusion of Nihilism is also called as Cotards syndrome Ref. kaplon and Sadock, Synopsis of PSychiatry, 11 th edition, Pg.NO.194"
+    "cop": 0,
+    "exp": "cocaine bugs is called as Ekbom's syndrome delusion of marital infedility is also called as Othello syndrome Delusion of love is also called as De clerambault syndrome Delusion of Nihilism is also called as Cotards syndrome Ref. kaplon and Sadock, Synopsis of PSychiatry, 11 th edition, Pg.NO.194",
+    "hint_exp": "🧩 Your crush solved \"called as\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6d92cb3f-9ae6-4ecc-b30a-a116c03d9bf3": {
-    "cop": 2,
-    "exp": "Benign ulcer - Hampton's ulcer.\nMalignant ulcer - Carman's Meniscus sign."
+    "cop": 1,
+    "exp": "Benign ulcer - Hampton's ulcer.\nMalignant ulcer - Carman's Meniscus sign.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"seen in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a932d3a3-dc7b-4a1f-b1de-31a6461163c3": {
-    "cop": 3,
-    "exp": "(C) 95% # Normal distribution: In a normal curve the area between one standard deviation on either side of the mean (x+1s) will include approximately 68% of the values in the distribution> Area between two standard deviations on either side of the mean (x + 2s) will cover most of the values i.e., approximately 95% of the values, and> Area between (x + 3s) will include 99.7% of the values."
+    "cop": 2,
+    "exp": "(C) 95% # Normal distribution: In a normal curve the area between one standard deviation on either side of the mean (x+1s) will include approximately 68% of the values in the distribution> Area between two standard deviations on either side of the mean (x + 2s) will cover most of the values i.e., approximately 95% of the values, and> Area between (x + 3s) will include 99.7% of the values.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"area under normal distribution\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b210ac35-91a6-4969-b6c4-b6c95283884b": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"used AIDS except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "afb4d617-49e7-4899-b2b3-c5eb172a44b5": {
-    "cop": 1,
-    "exp": "Ans. A. Replacement of abnormal gene by normal geneNovel area of therapeuticsIntracellular delivery of genes to generate a therapeutic effect by correcting an existing abnormalityDivided into1. Somatic cell gene therapy: Gene is introduced into somatic cells.2. Germ cell gene therapy (Transgenic animal)"
+    "cop": 0,
+    "exp": "Ans. A. Replacement of abnormal gene by normal geneNovel area of therapeuticsIntracellular delivery of genes to generate a therapeutic effect by correcting an existing abnormalityDivided into1. Somatic cell gene therapy: Gene is introduced into somatic cells.2. Germ cell gene therapy (Transgenic animal)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Purpose gene therapy\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c3087433-d493-45fa-bbf9-c5df9f851979": {
-    "cop": 4,
-    "exp": "Question is repeasted"
+    "cop": 3,
+    "exp": "Question is repeasted",
+    "hint_exp": "🧩 Your crush solved \"an inactivated state by\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dca81aa4-2604-488c-bba6-db99377aafa7": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Osteopetrosis o Osteopetrosis is also known as Marble bone disease or Albers-Schonberg disease.o Paget's disease is known as Osteitis deformans,o Osteogenesis imperfecta is known as Brittle bone disease,o Osteoporosis is known as Fragile bone disease."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Osteopetrosis o Osteopetrosis is also known as Marble bone disease or Albers-Schonberg disease.o Paget's disease is known as Osteitis deformans,o Osteogenesis imperfecta is known as Brittle bone disease,o Osteoporosis is known as Fragile bone disease.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Marble bone disease\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1937a77c-7b42-4e13-9d9e-1c0127cd9263": {
-    "cop": 1,
-    "exp": "Fatty acid synthesis is the creation of fatty acids from acetyl-CoA and malonyl-CoA precursors through action of enzymes called fatty acid synthases. It is an impoant pa of the lipogenesis process, which - together with glycolysis - stands behind creating fats from blood sugar in living organisms.De Novo Synthesis in Humans In humans, fatty acids are formed predominantly in the liver and lactating mammary glands, and, to a lesser extent, the adipose tissue. Ref: Ganong&;s review of medical physiology - 24th edition; page no-26"
+    "cop": 0,
+    "exp": "Fatty acid synthesis is the creation of fatty acids from acetyl-CoA and malonyl-CoA precursors through action of enzymes called fatty acid synthases. It is an impoant pa of the lipogenesis process, which - together with glycolysis - stands behind creating fats from blood sugar in living organisms.De Novo Synthesis in Humans In humans, fatty acids are formed predominantly in the liver and lactating mammary glands, and, to a lesser extent, the adipose tissue. Ref: Ganong&;s review of medical physiology - 24th edition; page no-26",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"maximum synthesized in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "13e46876-2344-440c-af26-5b73722f4931": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following drugs\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "db1c8a79-5c0e-4131-9154-46a9803eadfa": {
-    "cop": 2,
-    "exp": "The injury to ureter occurs at the infundibulopelvic junction on the lateral pelvic wall, in the ureteric canal when the uterine vessels are ligated, near the internal cervical os and near the uterosacral ligamentIt is impoant to identify the ureter during Weheim hysterectomy, broad ligament tumour dissection and ligating internal iliac aeryRef: Shaw&;s Textbook of Gynaecology, 15th edition, page no: 14"
+    "cop": 1,
+    "exp": "The injury to ureter occurs at the infundibulopelvic junction on the lateral pelvic wall, in the ureteric canal when the uterine vessels are ligated, near the internal cervical os and near the uterosacral ligamentIt is impoant to identify the ureter during Weheim hysterectomy, broad ligament tumour dissection and ligating internal iliac aeryRef: Shaw&;s Textbook of Gynaecology, 15th edition, page no: 14",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"site ureteric injury during\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fd08ccb6-2e20-4cb7-9268-8d1e597a8725": {
-    "cop": 3,
-    "exp": "When attention is focused on something, the alpha rhythm is replaced by an irregular 13-30 Hz low-voltage activity, the beta rhythm(Ref: Ganong's Review of Medical Physiology, Twenty-Third Edition)"
+    "cop": 2,
+    "exp": "When attention is focused on something, the alpha rhythm is replaced by an irregular 13-30 Hz low-voltage activity, the beta rhythm(Ref: Ganong's Review of Medical Physiology, Twenty-Third Edition)",
+    "hint_exp": "🧩 Your crush solved \"Beta waves\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d656365e-bc76-4097-b2e3-5e9ff0a66eac": {
-    "cop": 1,
-    "exp": "Pseudoseizure can occur in conversion disorder. Paralysis, blindness and mutism are the most common conversion disorder symptoms. Anaesthesia and paresthesia especially of the extremities are the most common sensory symptoms. Other sensory symptoms includes deafness, blindness and tunnel vision. Motor symptoms associated with it are: abnormal movements, gait disturbance, weakness and paralysis. One gait disturbance seen in this is ataxia abasia, which is a wildly ataxic, staggering gait accompanied by gross, irregular, jerky truncal movements and thrashing and waving arm movements. Ref: Kaplan and Sadock's Concise Textbook of Clinical Psychiatry, 3rd Edition By Benjamin J. Sadock, Page 279"
+    "cop": 0,
+    "exp": "Pseudoseizure can occur in conversion disorder. Paralysis, blindness and mutism are the most common conversion disorder symptoms. Anaesthesia and paresthesia especially of the extremities are the most common sensory symptoms. Other sensory symptoms includes deafness, blindness and tunnel vision. Motor symptoms associated with it are: abnormal movements, gait disturbance, weakness and paralysis. One gait disturbance seen in this is ataxia abasia, which is a wildly ataxic, staggering gait accompanied by gross, irregular, jerky truncal movements and thrashing and waving arm movements. Ref: Kaplan and Sadock's Concise Textbook of Clinical Psychiatry, 3rd Edition By Benjamin J. Sadock, Page 279",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"conversion disorder\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "20a035bb-ad81-4223-aeb0-2932a9aa0bf4": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Metatarsal Fracture of the base of 5th metatarsal (Jones* fracture)* This is a fracture at the base of the 5th metatarsal, caused by the pull exerted by the tendon of the peroneus brevis muscle inserted on it.* Clinically, there is pain, swelling and tenderness at the outer border of the foot, most marked at the base of the 5th metatarsal.* Diagnosis is easily confirmed on X-ray.* Treatment is by a below-knee walking plaster cast for 3 weeks."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Metatarsal Fracture of the base of 5th metatarsal (Jones* fracture)* This is a fracture at the base of the 5th metatarsal, caused by the pull exerted by the tendon of the peroneus brevis muscle inserted on it.* Clinically, there is pain, swelling and tenderness at the outer border of the foot, most marked at the base of the 5th metatarsal.* Diagnosis is easily confirmed on X-ray.* Treatment is by a below-knee walking plaster cast for 3 weeks.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Jones fracture fracture\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "812a9203-68ed-4876-b1f3-c5b7198946f5": {
-    "cop": 2,
-    "exp": "CDC recommendations for H1N1 prophylaxis: NOTE : FOR TREATMENT ; DOSAGE IS BD FOR PROPHYLAXIS ; DOSAGE IS OD Oral oseltamivir for treatment of influenza Age Weight Dose Frequency Duration <1yr 3mg /kg* Twice daily* 5 days* >1yr <15kg 30mg 15-23kg 45mg 23-40kg 60mg >40kg 75mg* Oral oseltamivir for Chemoprophylaxis 3 months-1yr 3mg /kg* once daily* 7 days* >1yr <15kg 30mg 15-23kg 45mg 23-40kg 60mg >40kg 75mg*"
+    "cop": 1,
+    "exp": "CDC recommendations for H1N1 prophylaxis: NOTE : FOR TREATMENT ; DOSAGE IS BD FOR PROPHYLAXIS ; DOSAGE IS OD Oral oseltamivir for treatment of influenza Age Weight Dose Frequency Duration <1yr 3mg /kg* Twice daily* 5 days* >1yr <15kg 30mg 15-23kg 45mg 23-40kg 60mg >40kg 75mg* Oral oseltamivir for Chemoprophylaxis 3 months-1yr 3mg /kg* once daily* 7 days* >1yr <15kg 30mg 15-23kg 45mg 23-40kg 60mg >40kg 75mg*",
+    "hint_exp": "🎯 Think of \"Oseltamivir for infants\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b2b873e8-2647-46c4-b7f8-d77f6d5dfc67": {
-    "cop": 4,
-    "exp": "Primordial Prevalence: It is the prevention of emergence or development of risk factors in countries or population groups in which they have not yet appeared. Eg :. Obesity , Hypeension"
+    "cop": 3,
+    "exp": "Primordial Prevalence: It is the prevention of emergence or development of risk factors in countries or population groups in which they have not yet appeared. Eg :. Obesity , Hypeension",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Primordial prevention\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "917ec66f-5851-464b-9c96-8d679573a7d2": {
-    "cop": 4,
-    "exp": "Ans. D: Weight for height An indicator known as weight-for-height is used to determine whether a child is acutely malnourished or not. The child's weight is compared to the 'normal' weight for that height. Based on this information, the World Health Organisation (WHO) has developed chas known as international standards for expected growth. If a child's weight falls within the range considered normal for his/her height, the child is found to be well-nourished. If the weight is less than the international standards, the child is considered acutely malnourished or wasted. WHO has created cut-off points to indicate the severity of the malnutrition. If a child's weight-for-height is less than -2 z-scores (or standard detions) of normal children, s/he is considered to suffer from moderate acute malnutrition or wasting. If the child's weight-for-height is less than -3 z-scores (standard detions) of normal children s/he suffers from severe acute malnutrition and is considered to be severely wasted. Another measurement used to determine a child's nutritional status is the mid-upper arm circumference (MUAC) measurement. Because MUAC measurements require a simple, colour-coded measuring band rather than weighing scales and height boards, they are often used during crisis situations. Useful for children between six months and five years of age, a MUAC measurement of less than 12.5 cm indicates that a child is suffering from moderate acute malnutrition. If the MUAC measurement is under 11.0 cm, however, the under-five child's life may be in danger as he or she is suffering from severe acute malnutrition. Although no anthropometric measure is a perfect marker of acute malnutrition, in the past, there has been a tendency to view W/H measures as the gold-standard anthropometric measure to diagnose acute malnutrition in emergencies. Discrepancies between MUAC and W/H have therefore been explained by MUAC being a poor indicator of nutritional status. A third way of diagnosing acute malnutrition is by testing for the presence of oedema. Oedema affects a child's appearance, giving him or her a puffy, swollen look in either lower limbs and feet or face. It can be detected by small pits or indentations remaining in the child's lower ankles or feet, after pressing lightly with the thumbs. The presence of oedema in both feet and lower legs is always considered a sign of severe acute malnutrition."
+    "cop": 3,
+    "exp": "Ans. D: Weight for height An indicator known as weight-for-height is used to determine whether a child is acutely malnourished or not. The child's weight is compared to the 'normal' weight for that height. Based on this information, the World Health Organisation (WHO) has developed chas known as international standards for expected growth. If a child's weight falls within the range considered normal for his/her height, the child is found to be well-nourished. If the weight is less than the international standards, the child is considered acutely malnourished or wasted. WHO has created cut-off points to indicate the severity of the malnutrition. If a child's weight-for-height is less than -2 z-scores (or standard detions) of normal children, s/he is considered to suffer from moderate acute malnutrition or wasting. If the child's weight-for-height is less than -3 z-scores (standard detions) of normal children s/he suffers from severe acute malnutrition and is considered to be severely wasted. Another measurement used to determine a child's nutritional status is the mid-upper arm circumference (MUAC) measurement. Because MUAC measurements require a simple, colour-coded measuring band rather than weighing scales and height boards, they are often used during crisis situations. Useful for children between six months and five years of age, a MUAC measurement of less than 12.5 cm indicates that a child is suffering from moderate acute malnutrition. If the MUAC measurement is under 11.0 cm, however, the under-five child's life may be in danger as he or she is suffering from severe acute malnutrition. Although no anthropometric measure is a perfect marker of acute malnutrition, in the past, there has been a tendency to view W/H measures as the gold-standard anthropometric measure to diagnose acute malnutrition in emergencies. Discrepancies between MUAC and W/H have therefore been explained by MUAC being a poor indicator of nutritional status. A third way of diagnosing acute malnutrition is by testing for the presence of oedema. Oedema affects a child's appearance, giving him or her a puffy, swollen look in either lower limbs and feet or face. It can be detected by small pits or indentations remaining in the child's lower ankles or feet, after pressing lightly with the thumbs. The presence of oedema in both feet and lower legs is always considered a sign of severe acute malnutrition.",
+    "hint_exp": "🧩 Your crush solved \"a child\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3a09c531-6b11-46ae-a327-8533391d4066": {
-    "cop": 2,
-    "exp": "Differentiation from the more aggressive pancreatic adenocarcinoma is extremely impoant. Recognition of NF-PETs is imperative because of their respectability and excellent long-term survival compared with their exocrine counterpas.Pancreatic cancerNF-PETsTumour size<5cm>5cmCT scanHypodensityHyperdensityNo calcificationsCalcifications possibleChromogranin ANegativePositiveSomatostatin receptorscintigraphyNegativePositiveRef: Bailey and Love 27e pg: 852"
+    "cop": 1,
+    "exp": "Differentiation from the more aggressive pancreatic adenocarcinoma is extremely impoant. Recognition of NF-PETs is imperative because of their respectability and excellent long-term survival compared with their exocrine counterpas.Pancreatic cancerNF-PETsTumour size<5cm>5cmCT scanHypodensityHyperdensityNo calcificationsCalcifications possibleChromogranin ANegativePositiveSomatostatin receptorscintigraphyNegativePositiveRef: Bailey and Love 27e pg: 852",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"following features pancreatic adenocarcinoma\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "67f17cc6-0f37-48be-b925-e4dd88d5303c": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"primordial cyst\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f1047105-c6d4-46e9-8cba-296ca2c5d343": {
-    "cop": 2,
-    "exp": "BRANCHIAL CYST\n\nIt arises from the remnants of second branchial cleft. Normally, 2nd, 3rd, 4th clefts disappear to form a smooth neck. Persistent 2nd cleft is called as cervical sinus (of His) which eventually gets sequestered to form branchial cyst. \nSix branchial arches with five pharyngeal pouches (endoderm lining) inside and five pharyngeal clefts (ectoderm lining) outside are present. \nSwelling in the neck beneath the anterior border of upper third of the sternomastoid muscle. It is smooth, soft, fluctuant, often transilluminant with a sensation of ‘Half-filled double hot water bottle’.\nIt is equal in both sexes. Even though congenital, it is seen in late adolescents and early 3rd decade.\nIn 3% cases, it is bilateral; it can be familial also.\nUsually painless unless it is infected. \nIt contains cholesterol crystals which is from the lining of mucous membrane which contains sebaceous gland. Cheesy toothpaste like material is typical.\nHistologically, it is lined by squamous epithelium. Occasionally it contains ciliated columnar epithelium. Cyst wall shows plenty of lymphoid tissue. \n\nKey Concept:\nHistologically, it is lined by squamous epithelium. Occasionally it contains ciliated columnar epithelium. Cyst wall shows plenty of lymphoid tissue. Epithelial infusion within lymph node may be the  cause as branchial cyst contains lymphoid tissues in their wall. \nReference: SRB's Manual of Surgery, 5th ed, page no 431"
+    "cop": 1,
+    "exp": "BRANCHIAL CYST\n\nIt arises from the remnants of second branchial cleft. Normally, 2nd, 3rd, 4th clefts disappear to form a smooth neck. Persistent 2nd cleft is called as cervical sinus (of His) which eventually gets sequestered to form branchial cyst. \nSix branchial arches with five pharyngeal pouches (endoderm lining) inside and five pharyngeal clefts (ectoderm lining) outside are present. \nSwelling in the neck beneath the anterior border of upper third of the sternomastoid muscle. It is smooth, soft, fluctuant, often transilluminant with a sensation of ‘Half-filled double hot water bottle’.\nIt is equal in both sexes. Even though congenital, it is seen in late adolescents and early 3rd decade.\nIn 3% cases, it is bilateral; it can be familial also.\nUsually painless unless it is infected. \nIt contains cholesterol crystals which is from the lining of mucous membrane which contains sebaceous gland. Cheesy toothpaste like material is typical.\nHistologically, it is lined by squamous epithelium. Occasionally it contains ciliated columnar epithelium. Cyst wall shows plenty of lymphoid tissue. \n\nKey Concept:\nHistologically, it is lined by squamous epithelium. Occasionally it contains ciliated columnar epithelium. Cyst wall shows plenty of lymphoid tissue. Epithelial infusion within lymph node may be the  cause as branchial cyst contains lymphoid tissues in their wall. \nReference: SRB's Manual of Surgery, 5th ed, page no 431",
+    "hint_exp": "🎯 Think of \"true\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "49bb55e9-c425-478e-9d80-122b0e7cc429": {
-    "cop": 4,
-    "exp": "."
+    "cop": 3,
+    "exp": ".",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"that neurons within them\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3a00ea02-7a68-4107-b853-f7bd01ec811e": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Granulomatous hepatitis seen with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cb43fe47-8958-4bec-9418-95c94a2319fb": {
-    "cop": 1,
-    "exp": "Hairy cell leukemia is a rare, slow-growing cancer of the blood in which your bone marrow makes too many B cells (lymphocytes), a type of white blood cell that fights infection. These excess B cells are abnormal and look \"hairy\" under a microscope."
+    "cop": 0,
+    "exp": "Hairy cell leukemia is a rare, slow-growing cancer of the blood in which your bone marrow makes too many B cells (lymphocytes), a type of white blood cell that fights infection. These excess B cells are abnormal and look \"hairy\" under a microscope.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"spleen Except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bee7f104-bda7-4d33-a299-8bc1ef282bed": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Ezetimibe Classification of antihyperlipidemic drugs* HMG CoA reductase inhibitorsStatins: Lovastatin, Simvstatin, Pravastatin, Atorvastatin, Rosuvastatin* Bile acid sequestrantsResins: Colestipol, Cholestyramine* LPL activator/PPAR a activatorClofibrate, gemfibrozil, fenofibrate.* Sterol absorption inhibitorEzetimibe* Lipolysis and TG synthesis inhibitorNicotinic acid"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Ezetimibe Classification of antihyperlipidemic drugs* HMG CoA reductase inhibitorsStatins: Lovastatin, Simvstatin, Pravastatin, Atorvastatin, Rosuvastatin* Bile acid sequestrantsResins: Colestipol, Cholestyramine* LPL activator/PPAR a activatorClofibrate, gemfibrozil, fenofibrate.* Sterol absorption inhibitorEzetimibe* Lipolysis and TG synthesis inhibitorNicotinic acid",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"a sterol absorption inhibitor\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bbf1fef5-8e8c-4ef6-ae2d-ed865f617f20": {
-    "cop": 2,
-    "exp": "The transpyloric plane, also known as Addison's plane, is an imaginary axial plane Located midway between the jugular notch and superior border of pubic symphysis, at approximately the level of L1 veebral body."
+    "cop": 1,
+    "exp": "The transpyloric plane, also known as Addison's plane, is an imaginary axial plane Located midway between the jugular notch and superior border of pubic symphysis, at approximately the level of L1 veebral body.",
+    "hint_exp": "🎯 Think of \"Structures transpyloric plane include\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6a258e23-b07d-44c9-b930-26af264dddbe": {
-    "cop": 1,
-    "exp": "Metabolic bone disease is caused by excess intake of vitamin -A.Retinoic acid has a role in the regulation of gene expression and differentiation of tissues. All-trans-retinoic acid and 9-cis retinoic acid act like steroid hormones. They bind to nuclear receptors; retinoic acid along with the receptor binds to the response elements of DNA. Retinoic acid receptors (RAR) bind all-trans-retinoic acid, while retinoic x receptors (RXR) bind to 9-cis-retinoic acid. RXRs form dimers with vitamin D-receptor also. This explains why deficiency of vitamin A impairs vitamin D function; when there is lack of 9-cis-retinoic acid to receptor dimers, vitamin D function is not optimal.Ref: DM Vasudevan - Textbook of Biochemistry, 6th edition, page no: 382,383"
+    "cop": 0,
+    "exp": "Metabolic bone disease is caused by excess intake of vitamin -A.Retinoic acid has a role in the regulation of gene expression and differentiation of tissues. All-trans-retinoic acid and 9-cis retinoic acid act like steroid hormones. They bind to nuclear receptors; retinoic acid along with the receptor binds to the response elements of DNA. Retinoic acid receptors (RAR) bind all-trans-retinoic acid, while retinoic x receptors (RXR) bind to 9-cis-retinoic acid. RXRs form dimers with vitamin D-receptor also. This explains why deficiency of vitamin A impairs vitamin D function; when there is lack of 9-cis-retinoic acid to receptor dimers, vitamin D function is not optimal.Ref: DM Vasudevan - Textbook of Biochemistry, 6th edition, page no: 382,383",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which vitamin\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4f4c3a43-5103-4432-b517-dd07b1965558": {
-    "cop": 4,
-    "exp": "Ans is 'd' i.e., All of the above"
+    "cop": 3,
+    "exp": "Ans is 'd' i.e., All of the above",
+    "hint_exp": "🧩 Your crush solved \"Cloudy cornea feature\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "93576219-81d4-4963-bb0f-2be409069003": {
-    "cop": 1,
-    "exp": "IgA nephropathy (nuh-FROP-uh-thee), also known as Berger's disease, is akidney disease that occurs when an antibody called immunoglobulin A(IgA) builds up in your kidneys. This results in local inflammation that, over time, can hamper your kidneys' ability to filter waste from your blood. Refer robbins 9/e"
+    "cop": 0,
+    "exp": "IgA nephropathy (nuh-FROP-uh-thee), also known as Berger's disease, is akidney disease that occurs when an antibody called immunoglobulin A(IgA) builds up in your kidneys. This results in local inflammation that, over time, can hamper your kidneys' ability to filter waste from your blood. Refer robbins 9/e",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the world\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "edf1fec6-8e5a-4790-896b-aaf240415701": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Dow n's syndrome Trisomy 21 is synonymous with down's syndrome and is the most common of the chromosomal disorders o Down's syndrome - Trisomy 21 o Edwards syndrome - Trisomy 18 o Patau syndrome - Trisomy 13 o Kleinfelter syndrome - 47XXY o Turner syndrome - 45 XO"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Dow n's syndrome Trisomy 21 is synonymous with down's syndrome and is the most common of the chromosomal disorders o Down's syndrome - Trisomy 21 o Edwards syndrome - Trisomy 18 o Patau syndrome - Trisomy 13 o Kleinfelter syndrome - 47XXY o Turner syndrome - 45 XO",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Trisomy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "38c0ba30-766b-45f6-8483-61b6ef2a29e2": {
-    "cop": 4,
-    "exp": "Maximum cardiac output during pregnancy is seen in the immediate postpaum period. During this period blood pressure increases by 70% over the prelabour values. Cardiac output gradually increases after 5th week of pregnancy, reaches its peak 40-50% at about 30-34 weeks. Thereafter the cardiac output remains the same till term. During labour cardiac output increases to 50%. Ref: Textbook of Obstetrics By D. C Dutta, 6th Edition, Page 51-56."
+    "cop": 3,
+    "exp": "Maximum cardiac output during pregnancy is seen in the immediate postpaum period. During this period blood pressure increases by 70% over the prelabour values. Cardiac output gradually increases after 5th week of pregnancy, reaches its peak 40-50% at about 30-34 weeks. Thereafter the cardiac output remains the same till term. During labour cardiac output increases to 50%. Ref: Textbook of Obstetrics By D. C Dutta, 6th Edition, Page 51-56.",
+    "hint_exp": "🎯 Think of \"pregnancy\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "af79ea6f-8cc4-46eb-91ed-acc3a1553b64": {
-    "cop": 2,
-    "exp": "Ans. Smoking"
+    "cop": 1,
+    "exp": "Ans. Smoking",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of early onset of cataract\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "aa2987b2-b041-4494-a5f7-f495ac99a13d": {
-    "cop": 3,
-    "exp": "The inferior turbinate is a separate bone, while rest of the turbinates are a part of ethmoidal bone."
+    "cop": 2,
+    "exp": "The inferior turbinate is a separate bone, while rest of the turbinates are a part of ethmoidal bone.",
+    "hint_exp": "🧩 Your crush solved \"Inferior turbinate\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c13abcba-aa84-4fdc-84aa-fc425188924f": {
-    "cop": 3,
-    "exp": "Ans. C: Microalbuminuria Protein urine test/Urine protein/Urine albumin and Albuminuria-measures the amount of proteins commonly albumin, found in a urine sample. This test is most often performed as a screening test for kidney disease. Normally, protein is not appears in urine when a routine dipstick test is performed. Normal values for a random urine sample are approximately 0 to 8 mg/ dL. If higher may be due to diabetic nephropathy. Microalbuminuria test measures for small quantities of protein commonly albumin in the urine sample. The amount of water in urine can vary and affect the concentration of albumin. Thus amount of creatinine is also measured and the result is repoed as the ratio of albumin to creatinine. This test is earliest sensitive test to diagnose diabetic nephropathy as albuminuria is the earliest manifestation of diabetic nephropathy. Abnormal levels of the protein (mostly albumin) in the urine signal the beginning of a condition called microalbuminuria, often noted in diabetic nephropathy. 30 to 300 mgs of albumin in 2 different 24 hour urine samples is diagnosed as microalbuminuria. More than 300 mgs of albumin is diagnosed as albuminuria. BUN (Blood urea nitrogen), Urea nitrogen is formed when protein are breaks down. The normal value will be in the range of 7 - 20 mg/ dl. Higher than normal level may be an indication for kidney disease. Serum creatinine test measures creatinine level in blood. Creatinine is a breakdown product of creatine, an impoant pa of muscle. This test is done to examine kidney function. If kidney function is abnormal, blood has increased level of creatinine, due to decreased excretion of creatinine in the urine. Creatinine levels will vary depends on the person's size and muscle mass. Glomerular Filtration Rate (GFR), which is the best way to find how well the kidney functions. GFR can be calculated from the blood creatinine, age, race, gender and other factors. GFR value is helpful to determine the stage of kidney disease and helps to plan fuher treatment. Ultrasound or CT scan is helpful to find any physical structural abnormalities, that is the kidney is larger or smaller than normal. Kidney biopsy"
+    "cop": 2,
+    "exp": "Ans. C: Microalbuminuria Protein urine test/Urine protein/Urine albumin and Albuminuria-measures the amount of proteins commonly albumin, found in a urine sample. This test is most often performed as a screening test for kidney disease. Normally, protein is not appears in urine when a routine dipstick test is performed. Normal values for a random urine sample are approximately 0 to 8 mg/ dL. If higher may be due to diabetic nephropathy. Microalbuminuria test measures for small quantities of protein commonly albumin in the urine sample. The amount of water in urine can vary and affect the concentration of albumin. Thus amount of creatinine is also measured and the result is repoed as the ratio of albumin to creatinine. This test is earliest sensitive test to diagnose diabetic nephropathy as albuminuria is the earliest manifestation of diabetic nephropathy. Abnormal levels of the protein (mostly albumin) in the urine signal the beginning of a condition called microalbuminuria, often noted in diabetic nephropathy. 30 to 300 mgs of albumin in 2 different 24 hour urine samples is diagnosed as microalbuminuria. More than 300 mgs of albumin is diagnosed as albuminuria. BUN (Blood urea nitrogen), Urea nitrogen is formed when protein are breaks down. The normal value will be in the range of 7 - 20 mg/ dl. Higher than normal level may be an indication for kidney disease. Serum creatinine test measures creatinine level in blood. Creatinine is a breakdown product of creatine, an impoant pa of muscle. This test is done to examine kidney function. If kidney function is abnormal, blood has increased level of creatinine, due to decreased excretion of creatinine in the urine. Creatinine levels will vary depends on the person's size and muscle mass. Glomerular Filtration Rate (GFR), which is the best way to find how well the kidney functions. GFR can be calculated from the blood creatinine, age, race, gender and other factors. GFR value is helpful to determine the stage of kidney disease and helps to plan fuher treatment. Ultrasound or CT scan is helpful to find any physical structural abnormalities, that is the kidney is larger or smaller than normal. Kidney biopsy",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"diagnose diabetic nephropathy earliest\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2ff4f5d6-a390-46ae-925c-29772a8b718b": {
-    "cop": 2,
-    "exp": "The given scenario suggests diagnosis of craniopharyngioma. CRANIOPHARYNGIOMA Derived from Rathke's pouch Presents with signs of increased intracranial pressure, including headache, vomiting, papilledema, and hydrocephalus. Associated with hypopituitarism (90%), diabetes insipidus (10%) & growth retardation (50%) Treatment involves transcranial or transsphenoidal surgical resection followed by postoperative radiation of residual tumor."
+    "cop": 1,
+    "exp": "The given scenario suggests diagnosis of craniopharyngioma. CRANIOPHARYNGIOMA Derived from Rathke's pouch Presents with signs of increased intracranial pressure, including headache, vomiting, papilledema, and hydrocephalus. Associated with hypopituitarism (90%), diabetes insipidus (10%) & growth retardation (50%) Treatment involves transcranial or transsphenoidal surgical resection followed by postoperative radiation of residual tumor.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"grades at school\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ccd8fc83-64e4-4b3b-ab29-33c212a8b2f5": {
-    "cop": 1,
-    "exp": "Answer is A (ASD) Endocarditis is unusual in sites with a small pressure gradient as in ASD ASD is low risk lesion for the development of infective endocarditis and the single best answer amongst the options provided"
+    "cop": 0,
+    "exp": "Answer is A (ASD) Endocarditis is unusual in sites with a small pressure gradient as in ASD ASD is low risk lesion for the development of infective endocarditis and the single best answer amongst the options provided",
+    "hint_exp": "🎯 Think of \"of endocarditis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "aa25e0cb-24b8-40f1-b4db-7be1fcbd071e": {
-    "cop": 3,
-    "exp": "Hysterectomy"
+    "cop": 2,
+    "exp": "Hysterectomy",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"treatment choice Endometrial rCnar9c4i\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a2a10c2b-80b8-4277-bf3a-4578f426f05a": {
-    "cop": 2,
-    "exp": "Low platelets, rise in liver enzymes and rise in S. uric acid are all indications of deteriorating systemic function in hypeension in pregnancy and they all even individually are justifications for induction of labour. Other signs of severity of hypeension in pregnancy are: Diastolic BP >110 Systolic BP > 160 Worsening Proteinuria Headache Visual disturbances Upper Abdominal pain Oliguria Convulsion (eclampsia) Serum creatinine Thrombocytopenia (<100,00/mL) Serum transaminase elevation Pulmonary edema"
+    "cop": 1,
+    "exp": "Low platelets, rise in liver enzymes and rise in S. uric acid are all indications of deteriorating systemic function in hypeension in pregnancy and they all even individually are justifications for induction of labour. Other signs of severity of hypeension in pregnancy are: Diastolic BP >110 Systolic BP > 160 Worsening Proteinuria Headache Visual disturbances Upper Abdominal pain Oliguria Convulsion (eclampsia) Serum creatinine Thrombocytopenia (<100,00/mL) Serum transaminase elevation Pulmonary edema",
+    "hint_exp": "🧩 Your crush solved \"prognostic indicators eclampsia except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f3893fe0-c6d5-4b7b-b984-b434a7e1447d": {
-    "cop": 3,
-    "exp": "Ans. C i.e. Mononeuritis multiplex"
+    "cop": 2,
+    "exp": "Ans. C i.e. Mononeuritis multiplex",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"What indication using systemic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4568ce20-50c9-4baa-ac83-b223128028e9": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Niacin (Vitamin B3) o Tryptophan is oxidized to kynurenine, which is then converted to either niacin (nicotinic acid) or acetyl-CoA. In the reaction alanine is also produced.o Deficiency of tryptophan can cause deficiency of niacin (if also deficient in diet). This can leads to Pallegra: dermatitis, diarrhea and dementia.o For every 60 mg of tryptophan, 1 mg. equivalent of niacin can be generated."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Niacin (Vitamin B3) o Tryptophan is oxidized to kynurenine, which is then converted to either niacin (nicotinic acid) or acetyl-CoA. In the reaction alanine is also produced.o Deficiency of tryptophan can cause deficiency of niacin (if also deficient in diet). This can leads to Pallegra: dermatitis, diarrhea and dementia.o For every 60 mg of tryptophan, 1 mg. equivalent of niacin can be generated.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Vitamin synthesized from tryptophan\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "562784d3-ac0e-4bc7-b97b-52acb0f8e878": {
-    "cop": 4,
-    "exp": "Acute angle closure glaucoma- Severe pain (may be ocular or headache.), decreased visual acuity, patient sees haloes, semi-dilated pupil, hazy cornea"
+    "cop": 3,
+    "exp": "Acute angle closure glaucoma- Severe pain (may be ocular or headache.), decreased visual acuity, patient sees haloes, semi-dilated pupil, hazy cornea",
+    "hint_exp": "🎯 Think of \"year woman presents with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c8ce3e3a-5593-428f-8108-4ad6bb302b24": {
-    "cop": 4,
-    "exp": "IlioFemoral Ligament (of Biglow) is Y shaped, arising from the Anterior Inferior Iliac Spine and the rim of the acetabulum, it spreads obliquely downwards and lateral to attach to the Interochanteric line on the Anterior side of the Femoral Head."
+    "cop": 3,
+    "exp": "IlioFemoral Ligament (of Biglow) is Y shaped, arising from the Anterior Inferior Iliac Spine and the rim of the acetabulum, it spreads obliquely downwards and lateral to attach to the Interochanteric line on the Anterior side of the Femoral Head.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Iliofemoral Ligament arise from\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6faaf42f-3e05-4ddb-a384-341669a153d2": {
-    "cop": 4,
-    "exp": "The two standard mammographic projections are:\nA mediolateral oblique (MLO) view and a craniocaudal (CC) view.\nThe MLO is taken with the X-ray beam directed from superomedial to inferolateral, usually at an angle of 30°-60°.\nThe MLO projection is the only projection in which all the breast tissue can be demonstrated in a single image.\nIn CC view, the X-ray beam travels from superior to inferior. Positioning is achieved by pulling the breast up and forward away from the chest wall, with compression applied from above."
+    "cop": 3,
+    "exp": "The two standard mammographic projections are:\nA mediolateral oblique (MLO) view and a craniocaudal (CC) view.\nThe MLO is taken with the X-ray beam directed from superomedial to inferolateral, usually at an angle of 30°-60°.\nThe MLO projection is the only projection in which all the breast tissue can be demonstrated in a single image.\nIn CC view, the X-ray beam travels from superior to inferior. Positioning is achieved by pulling the breast up and forward away from the chest wall, with compression applied from above.",
+    "hint_exp": "🧩 Your crush solved \"mammography\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "28ae332c-7fc7-47f9-b814-ff4720f2ce49": {
-    "cop": 1,
-    "exp": "Chandler's index is used in epidemiological studies of Ancylostoma duodenale or Necator americanus infection (hookworm disease). By this index, worm loads in different population groups can be compared, and also the degree of reduction of egg output after mass treatment. Chandler's index: Average number of eggs per gram of stools Significance Below 200 Hookworm infection is not of much significance 200-250 May be regarded as potential danger 250-300 Minor public health problem Above 300 Impoant public health problem Ref: Park's Textbook of Social and Preventive Medicine, 19th edition, Page 203."
+    "cop": 0,
+    "exp": "Chandler's index is used in epidemiological studies of Ancylostoma duodenale or Necator americanus infection (hookworm disease). By this index, worm loads in different population groups can be compared, and also the degree of reduction of egg output after mass treatment. Chandler's index: Average number of eggs per gram of stools Significance Below 200 Hookworm infection is not of much significance 200-250 May be regarded as potential danger 250-300 Minor public health problem Above 300 Impoant public health problem Ref: Park's Textbook of Social and Preventive Medicine, 19th edition, Page 203.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following infection\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "af814bd0-100e-430f-b276-37bf807bc0f6": {
-    "cop": 2,
-    "exp": "The most common thyroud carcimoma is papillary carcinoma 75 - 85% of all cases. Option 2 is right. Robbins basic pahology. 7th edition. Chapter Endocrine system. Page no. 1177."
+    "cop": 1,
+    "exp": "The most common thyroud carcimoma is papillary carcinoma 75 - 85% of all cases. Option 2 is right. Robbins basic pahology. 7th edition. Chapter Endocrine system. Page no. 1177.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"carcinoma thyroid\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8d7bae8a-3742-44e2-b3af-22127646cb04": {
-    "cop": 4,
-    "exp": "Albinism is a autosomal recessive condition and histopathology shows normal number of melanocytes, but with decreased melanin production."
+    "cop": 3,
+    "exp": "Albinism is a autosomal recessive condition and histopathology shows normal number of melanocytes, but with decreased melanin production.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8de2707c-02d9-4534-a323-3a7f799de5e5": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Sensory supply region which\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5a26142d-2f82-4f85-95ed-2ac4b4252443": {
-    "cop": 3,
-    "exp": "Rocuronium causes pain on injection. It can be minimized by alkalinizing the solution. Remember, post-operative muscular pain is caused by succinylcholine"
+    "cop": 2,
+    "exp": "Rocuronium causes pain on injection. It can be minimized by alkalinizing the solution. Remember, post-operative muscular pain is caused by succinylcholine",
+    "hint_exp": "🧩 Your crush solved \"pain on injection\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

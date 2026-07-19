@@ -1,202 +1,252 @@
 {
   "9057e17b-32ed-4506-802f-5232a17c01bc": {
-    "cop": 2,
-    "exp": "Ref: Parks 23rd edition pg 139 Specificity is defined as the ability of a test to identify those who do not have the disease, that is \"true negatives\". Ideal screening test should have been 100% specificity."
+    "cop": 1,
+    "exp": "Ref: Parks 23rd edition pg 139 Specificity is defined as the ability of a test to identify those who do not have the disease, that is \"true negatives\". Ideal screening test should have been 100% specificity.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Specificity test means except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "864fea5f-c289-42e3-aef5-5894bfea5acd": {
-    "cop": 3,
-    "exp": "Sticky patches. The substitution of valine for glutamate at position 6 of the b chains of hemoglobin places a nonpolar residue on the outside of hemoglobin S, the version of hemoglobin responsible for sickle-cell anemia.The oxygen affinity and allosteric propeies of hemoglobin are viually unaffected by this change. However, the valine side chain of hemoglobin S interacts with a complementary sticky patch (formed by phenyl-alanine b85 and leucine b88) on another hemoglobin molecule--a patch that is exposed in deoxygenated but not in oxygenated hemoglobin. This mutation is the one that occurs in sickle-cell anemia. This alteration markedly reduces the solubility of the deoxygenated, but not the oxygenated, form of hemoglobin because the hemoglobin molecules interact with one another until a complex forms that is large enough that it cannot be solubilized. This complex precipitates and deforms the cell. Thus, sickling occurs when there is a high concentration of the deoxygenated form of hemoglobin S."
+    "cop": 2,
+    "exp": "Sticky patches. The substitution of valine for glutamate at position 6 of the b chains of hemoglobin places a nonpolar residue on the outside of hemoglobin S, the version of hemoglobin responsible for sickle-cell anemia.The oxygen affinity and allosteric propeies of hemoglobin are viually unaffected by this change. However, the valine side chain of hemoglobin S interacts with a complementary sticky patch (formed by phenyl-alanine b85 and leucine b88) on another hemoglobin molecule--a patch that is exposed in deoxygenated but not in oxygenated hemoglobin. This mutation is the one that occurs in sickle-cell anemia. This alteration markedly reduces the solubility of the deoxygenated, but not the oxygenated, form of hemoglobin because the hemoglobin molecules interact with one another until a complex forms that is large enough that it cannot be solubilized. This complex precipitates and deforms the cell. Thus, sickling occurs when there is a high concentration of the deoxygenated form of hemoglobin S.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d8a17662-3fc5-4b9d-84ba-615a6ae8ee5c": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., HSGPelvic Inflammatory DiseaseIt is the infection and inflammation of the upper genital tracts, typically involving fallopian tubes, ovaries, and surrounding structures.It can cause tubal damage & can lead to infeility (tubal factor). Hence , in this patient, tubes need to evaluated.Hysterosalpingography (HSG) : cavity of the uterus and fallopian tube patency can be checked: As it does not require anesthesia, it is the first-line investigation for checking tubal patency."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., HSGPelvic Inflammatory DiseaseIt is the infection and inflammation of the upper genital tracts, typically involving fallopian tubes, ovaries, and surrounding structures.It can cause tubal damage & can lead to infeility (tubal factor). Hence , in this patient, tubes need to evaluated.Hysterosalpingography (HSG) : cavity of the uterus and fallopian tube patency can be checked: As it does not require anesthesia, it is the first-line investigation for checking tubal patency.",
+    "hint_exp": "🎯 Think of \"years female unable conceive\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6a16f872-4229-4862-80cf-48f5eed58b10": {
-    "cop": 2,
-    "exp": "(B) (Traumatized or sutured nerve) (503,446 Bailey & Love 26th)* Paresthesia in a median nerve distribution is induced or increased by either ''thumping\" the volar aspect of the wrist (Tinel's sign) or pressing the extensor surface of both flexed wrists against each other (Phalen's sign).TestTechniqueSignificanceAlien's testElevate the hand and apply digital pressure on the radial and ulnar arteries to occlude them. Ask the patient to make a fist several times. The tips of the finger should go pale. Release each artery in turn and observe the return of colourTest the adequacy of the blood supply to the hand from the radial and ulnar arteries and the arcade between themTinel's testTap over the nerve of interest. Tingling may indicate nerve compressionIdentifies compression of a peripheral nervePhalen's testPlace the wrist in maximum flexion with the elbows extendedCompression of the medial nerve causes paraesthesiaFroment's signAsk the patient to grip a sheet of paper between the index finger and thumb of both hands. Grip, the paper yourself similarly. Ask the patient to resist as you attempt to pull the paper awayA positive test indicated by flexion of the thumb interphalangeal joint suggests weakness of the adductor pollicis muscle supplied by the ulnar nerve. Recruitment of the median nerve-innervated flexor pollicis brevis explains the thumb posture* Allen's test is useful in evaluating Integrity of palmer arch*** Allen' stest is used to determine whether the patency of the radial or ulnar artery is normal"
+    "cop": 1,
+    "exp": "(B) (Traumatized or sutured nerve) (503,446 Bailey & Love 26th)* Paresthesia in a median nerve distribution is induced or increased by either ''thumping\" the volar aspect of the wrist (Tinel's sign) or pressing the extensor surface of both flexed wrists against each other (Phalen's sign).TestTechniqueSignificanceAlien's testElevate the hand and apply digital pressure on the radial and ulnar arteries to occlude them. Ask the patient to make a fist several times. The tips of the finger should go pale. Release each artery in turn and observe the return of colourTest the adequacy of the blood supply to the hand from the radial and ulnar arteries and the arcade between themTinel's testTap over the nerve of interest. Tingling may indicate nerve compressionIdentifies compression of a peripheral nervePhalen's testPlace the wrist in maximum flexion with the elbows extendedCompression of the medial nerve causes paraesthesiaFroment's signAsk the patient to grip a sheet of paper between the index finger and thumb of both hands. Grip, the paper yourself similarly. Ask the patient to resist as you attempt to pull the paper awayA positive test indicated by flexion of the thumb interphalangeal joint suggests weakness of the adductor pollicis muscle supplied by the ulnar nerve. Recruitment of the median nerve-innervated flexor pollicis brevis explains the thumb posture* Allen's test is useful in evaluating Integrity of palmer arch*** Allen' stest is used to determine whether the patency of the radial or ulnar artery is normal",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"checking the regeneration of\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1a830079-8dc1-4de4-ae7e-9bcd358676e3": {
-    "cop": 2,
-    "exp": "Ref. Textbook of Orthopedics, Ebnezar. Page.654\n \nSTRONTIUM RANELATE \n\nStrontium ranelate block bone resorption and also promotes bone formation\nStrontium ranelate à  block differentiation of osteoclasts à Increases apoptosis and thus inhibiting bone resorption.\nThey also appears to promote bone formation. \n\nTERIPARATIDE \n\nRecombinant form of PTH 1-34, is approved for treatment of osteoporosis.\nTeriparatide stimulates new bone formation,  this new bone appears structurally normal and is associated with a substantial reduction in the incidence of fractures.\nDose - 20 mg subcutaneously daily."
+    "cop": 1,
+    "exp": "Ref. Textbook of Orthopedics, Ebnezar. Page.654\n \nSTRONTIUM RANELATE \n\nStrontium ranelate block bone resorption and also promotes bone formation\nStrontium ranelate à  block differentiation of osteoclasts à Increases apoptosis and thus inhibiting bone resorption.\nThey also appears to promote bone formation. \n\nTERIPARATIDE \n\nRecombinant form of PTH 1-34, is approved for treatment of osteoporosis.\nTeriparatide stimulates new bone formation,  this new bone appears structurally normal and is associated with a substantial reduction in the incidence of fractures.\nDose - 20 mg subcutaneously daily.",
+    "hint_exp": "🧩 Your crush solved \"osteoporosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ced83d87-febe-4ca9-b5c2-282007bb9bbb": {
-    "cop": 3,
-    "exp": "Froment sign (Fig a-normal, b- positive) Seen in ulnar nerve palsy due to action of FPL which is supplied by median nerve. Waenberg sign (c- normal, d- positive) Seen in ulnar nerve palsy and not median nerve palsy so this option is wrong. It is caused by an unopposed action of the ulnar inseion of the extensor digiti minimi(radial nerve innervation). It occurs due to paralysis of the palmar interosseous muscle that abducts the little finger. Only lateral two lumbricals are supplied by median nerve medial two lumbricals are supplied by ulnar nerve."
+    "cop": 2,
+    "exp": "Froment sign (Fig a-normal, b- positive) Seen in ulnar nerve palsy due to action of FPL which is supplied by median nerve. Waenberg sign (c- normal, d- positive) Seen in ulnar nerve palsy and not median nerve palsy so this option is wrong. It is caused by an unopposed action of the ulnar inseion of the extensor digiti minimi(radial nerve innervation). It occurs due to paralysis of the palmar interosseous muscle that abducts the little finger. Only lateral two lumbricals are supplied by median nerve medial two lumbricals are supplied by ulnar nerve.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"nerve injuries among following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ea7e9266-2ec0-4cf0-be34-910969b271a2": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"red cells\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "13fc03fc-0935-47fe-bbb1-9abad03c5998": {
-    "cop": 1,
-    "exp": "Insulin- a protein hormone formed from proinsulin in the beta cells of the pancreatic islets of Langerhans. The major fuel-regulating hormone, it is secreted into the blood in response to a rise in concentration of blood glucose or amino acids. Insulin promotes the storage of glucose and the uptake of amino acids, increases protein and lipid synthesis, and inhibits lipolysis and gluconeogenesis.Ref: Ganong&;s review of medical physiology: 24th edition page no: 431"
+    "cop": 0,
+    "exp": "Insulin- a protein hormone formed from proinsulin in the beta cells of the pancreatic islets of Langerhans. The major fuel-regulating hormone, it is secreted into the blood in response to a rise in concentration of blood glucose or amino acids. Insulin promotes the storage of glucose and the uptake of amino acids, increases protein and lipid synthesis, and inhibits lipolysis and gluconeogenesis.Ref: Ganong&;s review of medical physiology: 24th edition page no: 431",
+    "hint_exp": "🎯 Think of \"hypoglycemia which hormone does\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6bf9e361-6c9d-46c8-bc9c-0bc7675a3077": {
-    "cop": 4,
-    "exp": "Clinical features of glucocoicoid deficiency: Weight loss and myalgia Fever NCNC anaemia, eosinophilia and increased lymphocytes Postural hypotension Hyponatremia Hypoglycaemia Hyponatremia occurs in glucocoicoid deficiency due to loss of feedback inhibition of AVP release. Coisol maintains blood sugar and low coisol explains hypoglycaemia. From the remaining two options the answer is hyperkalemia since it is a known feature of mineralocoicoid deficiency."
+    "cop": 3,
+    "exp": "Clinical features of glucocoicoid deficiency: Weight loss and myalgia Fever NCNC anaemia, eosinophilia and increased lymphocytes Postural hypotension Hyponatremia Hypoglycaemia Hyponatremia occurs in glucocoicoid deficiency due to loss of feedback inhibition of AVP release. Coisol maintains blood sugar and low coisol explains hypoglycaemia. From the remaining two options the answer is hyperkalemia since it is a known feature of mineralocoicoid deficiency.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of glucocoicoid deficiency\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "075c463a-c80b-44c9-bbaa-b82137177b56": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"fluoride in salt\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c337660e-2259-43e7-9864-e2ce6feb6a85": {
-    "cop": 3,
-    "exp": "Given scenario suggests Gaucher disease, in which glucocerebroside in lysosomes seen. Birbeck granules in the cytoplasm- seen in histiocytosis X"
+    "cop": 2,
+    "exp": "Given scenario suggests Gaucher disease, in which glucocerebroside in lysosomes seen. Birbeck granules in the cytoplasm- seen in histiocytosis X",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"these histiocytes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7d7d25fe-4981-40a6-bf4a-ad76f9f7aef7": {
-    "cop": 4,
-    "exp": "Ans:D.)Arginine.NITRIC OXIDE (NO)/ENDOTHELIUM DERIVED RELAXING FACTOR (EDRF)Nitric oxide, a vasodilator is formed by the action of nitric oxide synthase on Arginine. Synthesis:NO is formed by the action of Cytosolic enzyme NO synthase in endothelial & neuronal cells.Substrate: Arginine, O 2 , NADPHCoenzyme: NADPH, FAD, FMN, Heme, tetrahydrobiopterinProduct: Citrulline, NOFeaturesReacts with oxygen & superoxide ? peroxynitrite which decomposes to form highly reactive OH-radicalIt stimulates guanyl cyclase (cGMP)FunctionsRelaxes smooth muscles Prevents platelet aggregationFunctions as neurotransmitter in brainMediates tumoricidal, bactericidal actions of macrophagesInvolved in penile erection; (sildenafil affects this process by inhibiting a cGMP dependent phosphodiesterase)"
+    "cop": 3,
+    "exp": "Ans:D.)Arginine.NITRIC OXIDE (NO)/ENDOTHELIUM DERIVED RELAXING FACTOR (EDRF)Nitric oxide, a vasodilator is formed by the action of nitric oxide synthase on Arginine. Synthesis:NO is formed by the action of Cytosolic enzyme NO synthase in endothelial & neuronal cells.Substrate: Arginine, O 2 , NADPHCoenzyme: NADPH, FAD, FMN, Heme, tetrahydrobiopterinProduct: Citrulline, NOFeaturesReacts with oxygen & superoxide ? peroxynitrite which decomposes to form highly reactive OH-radicalIt stimulates guanyl cyclase (cGMP)FunctionsRelaxes smooth muscles Prevents platelet aggregationFunctions as neurotransmitter in brainMediates tumoricidal, bactericidal actions of macrophagesInvolved in penile erection; (sildenafil affects this process by inhibiting a cGMP dependent phosphodiesterase)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"derived from which amino acid\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "aeb7a3ae-a0cd-4563-ac70-702c3ed603ef": {
-    "cop": 1,
-    "exp": "The vegetations seen in Infective endocarditis begin as small excrescences, mostly solitary which later enlarge and form bulky friable lesions posing greatest risk of systemic emboli.The vegetations seen in SLE (Libman Sack's endocarditis) and Rheumatic Hea disease are verrucous. Ref: Robbin's Basic Pathology, 7th Edition, Pages 380, 381, 134, 376."
+    "cop": 0,
+    "exp": "The vegetations seen in Infective endocarditis begin as small excrescences, mostly solitary which later enlarge and form bulky friable lesions posing greatest risk of systemic emboli.The vegetations seen in SLE (Libman Sack's endocarditis) and Rheumatic Hea disease are verrucous. Ref: Robbin's Basic Pathology, 7th Edition, Pages 380, 381, 134, 376.",
+    "hint_exp": "🎯 Think of \"Which following have most\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1d3e9806-7169-4305-86bb-022ad6ff72c2": {
-    "cop": 2,
-    "exp": "Transposition of Great vessels is a condition characterized by aorta arising from the right ventricle and pulmonary artery from the left ventricle.\nThis results in complete separation of systemic and pulmonary circulation. Since systemic and pulmonary circulations are separate, survival depends on mixing of oxygenated pulmonary blood and deoxygenated systemic blood which can occur:\nAt Atrial level              :                    Through ASD\nAt Ventricle level          :                  Through VSD\nAt Great vessel level     :                 Through Patent ductus arteriosus\nOxygenation is normal in foetus but after birth as ductus arteriosus closes severe hypoxia occurs and in the\nabsence of VS.D, or ASD child presents with cyanosis and tachypnea at birth."
+    "cop": 1,
+    "exp": "Transposition of Great vessels is a condition characterized by aorta arising from the right ventricle and pulmonary artery from the left ventricle.\nThis results in complete separation of systemic and pulmonary circulation. Since systemic and pulmonary circulations are separate, survival depends on mixing of oxygenated pulmonary blood and deoxygenated systemic blood which can occur:\nAt Atrial level              :                    Through ASD\nAt Ventricle level          :                  Through VSD\nAt Great vessel level     :                 Through Patent ductus arteriosus\nOxygenation is normal in foetus but after birth as ductus arteriosus closes severe hypoxia occurs and in the\nabsence of VS.D, or ASD child presents with cyanosis and tachypnea at birth.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of this infant\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "da53bca3-ac52-4949-b3b4-1fa1ebfe47d4": {
-    "cop": 1,
-    "exp": "Percussion is one of the oldest pulp vitality tests used because it requires no armamentarium. Generally, patients who have a tooth sensitive to mastication have already percussed the tooth in question with their own finger tip(s) and informed the dentist which teeth are sensitive. Percussion is an indirect means of testing pulp vitality because teeth that are sensitive to percussion often have existing periapical lesions associated with a necrotic pulp. However, this is not always the case, and false positives can result if the clinician is evaluating a cracked tooth or a ‘‘high’’ restoration. If a crack has developed in the crown of a tooth with a vital pulp, the tooth can still be exquisitely sensitive, because of the crown segments, moving microscopically causes pain due to the movement of fluid in the odontoblastic tubules. The tooth is sensitive to thermal stimuli as the pulp is vital. These mutually exclusive diagnostic findings, pain to percussion/mastication and thermal sensitivity, are pathognomonic for a cracked tooth."
+    "cop": 0,
+    "exp": "Percussion is one of the oldest pulp vitality tests used because it requires no armamentarium. Generally, patients who have a tooth sensitive to mastication have already percussed the tooth in question with their own finger tip(s) and informed the dentist which teeth are sensitive. Percussion is an indirect means of testing pulp vitality because teeth that are sensitive to percussion often have existing periapical lesions associated with a necrotic pulp. However, this is not always the case, and false positives can result if the clinician is evaluating a cracked tooth or a ‘‘high’’ restoration. If a crack has developed in the crown of a tooth with a vital pulp, the tooth can still be exquisitely sensitive, because of the crown segments, moving microscopically causes pain due to the movement of fluid in the odontoblastic tubules. The tooth is sensitive to thermal stimuli as the pulp is vital. These mutually exclusive diagnostic findings, pain to percussion/mastication and thermal sensitivity, are pathognomonic for a cracked tooth.",
+    "hint_exp": "🧩 Your crush solved \"Figure shows Clinician grasping\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fa088419-26fe-443e-8e40-e0882358f270": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year female child developed\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "84541df3-6f57-4934-90a1-3c13fd68377b": {
-    "cop": 2,
-    "exp": "Chorionic villus sampling (CVS) is carried out transcervical between 10-12 weeks and trans-abdominal from 10 weeks to term. Ref:Textbook of Gynecology By D C Dutta, 5th Edition, Page 315"
+    "cop": 1,
+    "exp": "Chorionic villus sampling (CVS) is carried out transcervical between 10-12 weeks and trans-abdominal from 10 weeks to term. Ref:Textbook of Gynecology By D C Dutta, 5th Edition, Page 315",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"prenatal diagnosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c2d02e44-4058-4b35-93ae-20c977d19b29": {
-    "cop": 4,
-    "exp": "Ans. is `d' i.e., Ciprofloxacin Treatment of Typhoid fever o Empirical treatment ---> Ceftriaxone, Azithromycin. o Fully susceptible ---> Ciprofloxacin (First line), Amioxicil lin (second line), Chloramphenicol, Trimethoprim - Sulfamethoxazole. o Multidrug resistant ---> Ciprofloxacin, Ceptriaxone, Azithromycin. o Nalidixic acid resistant --> Ceftriaxone, Azithromycin, high dose ciprofloxacin. Note : For susceptible organism ciprofloxacin is the DOC in typhoid fever. Treatment of carrier o Amoxicillin or ciprofloxacin with or without cholecystectomy."
+    "cop": 3,
+    "exp": "Ans. is `d' i.e., Ciprofloxacin Treatment of Typhoid fever o Empirical treatment ---> Ceftriaxone, Azithromycin. o Fully susceptible ---> Ciprofloxacin (First line), Amioxicil lin (second line), Chloramphenicol, Trimethoprim - Sulfamethoxazole. o Multidrug resistant ---> Ciprofloxacin, Ceptriaxone, Azithromycin. o Nalidixic acid resistant --> Ceftriaxone, Azithromycin, high dose ciprofloxacin. Note : For susceptible organism ciprofloxacin is the DOC in typhoid fever. Treatment of carrier o Amoxicillin or ciprofloxacin with or without cholecystectomy.",
+    "hint_exp": "🎯 Think of \"choice for salmonella typhi\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "095be11a-456d-4824-b5ca-5dd321b7437e": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Ascending colonMesenteries in intestineMesentery properMesentery of small intestine (jejunum and ileum) is fan shaped double layered peritoneal fold which suspends the coils of jejunum and ileum. Mesentery' hasAttached border (root of mesentery)It is 15 cm long and extends from duodenojejunal flexure (on left side of L2) to upper part of right sacroiliac joint. Root of mesenteiy crosses following structures(i) 3rdpart (horizontal part) of duodenum, (ii) abdominal aortat, (iii) IVC, (iv) right ureter, and (v) right psoas major:Free border (intestinal border)It is 6 meters long and is attached to gut forming its visceral peritoneum (serous coat).# Contents of mesentery are(i) Jejunal and ileal branches of superior mensentric vessels; (ii) Autonomic nerve plexuses; (iii) Lymphatics and lymph nodes and (iv) Connective tissue with fat.Transverse mesocolon It connects transverse colon to posterior abdominal wrall and contains middle colic vessels.Mesoappendix It connects the appendix to the ileal mesentery' and contains appendicular vessels.Sigmoid mesocolonIt connects sigmoid colon to posterior pelvic wall and contains sigmoid vessels.Mesorectum : It contains superior rectal vessels (artery' & veins) with their branches, lymphatic vessels and lymph nodes along superior rectal artery', and branches from inferior mesenteric plexus."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Ascending colonMesenteries in intestineMesentery properMesentery of small intestine (jejunum and ileum) is fan shaped double layered peritoneal fold which suspends the coils of jejunum and ileum. Mesentery' hasAttached border (root of mesentery)It is 15 cm long and extends from duodenojejunal flexure (on left side of L2) to upper part of right sacroiliac joint. Root of mesenteiy crosses following structures(i) 3rdpart (horizontal part) of duodenum, (ii) abdominal aortat, (iii) IVC, (iv) right ureter, and (v) right psoas major:Free border (intestinal border)It is 6 meters long and is attached to gut forming its visceral peritoneum (serous coat).# Contents of mesentery are(i) Jejunal and ileal branches of superior mensentric vessels; (ii) Autonomic nerve plexuses; (iii) Lymphatics and lymph nodes and (iv) Connective tissue with fat.Transverse mesocolon It connects transverse colon to posterior abdominal wrall and contains middle colic vessels.Mesoappendix It connects the appendix to the ileal mesentery' and contains appendicular vessels.Sigmoid mesocolonIt connects sigmoid colon to posterior pelvic wall and contains sigmoid vessels.Mesorectum : It contains superior rectal vessels (artery' & veins) with their branches, lymphatic vessels and lymph nodes along superior rectal artery', and branches from inferior mesenteric plexus.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Part colon mesentery\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7317388e-b2ef-412f-8979-221749042964": {
-    "cop": 1,
-    "exp": "Deposition of fibrin There may be inconsistent deposition of fibrin called Rohr's stria at the bottom of the intervillous space and surrounding the fastening villa."
+    "cop": 0,
+    "exp": "Deposition of fibrin There may be inconsistent deposition of fibrin called Rohr's stria at the bottom of the intervillous space and surrounding the fastening villa.",
+    "hint_exp": "🧩 Your crush solved \"the placenta\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f96b7069-35cf-4303-b594-5347bb3d1259": {
-    "cop": 1,
-    "exp": "Ans. (a) Down SyndromeRef: Robbin's pathology 9th ed. /161Autoimmune Thyroiditis is Seen with* Down syndrome* Turner syndrome* Congenital rubella syndrome# Autoimmune thyroiditis is not seen with Marfan's Syndrome.# LouisBarr syndrome is known as ataxia telangiectasia. It characterised by deficiency of IgA with increased incidence of lympho-reticular malignancy.# Edward syndrome is eighteen trisomy which is characterised by clenched hand and overlapping of fingers where the index finger of the neonate overlaps third finger and fifth finger overlaps the fourth finger."
+    "cop": 0,
+    "exp": "Ans. (a) Down SyndromeRef: Robbin's pathology 9th ed. /161Autoimmune Thyroiditis is Seen with* Down syndrome* Turner syndrome* Congenital rubella syndrome# Autoimmune thyroiditis is not seen with Marfan's Syndrome.# LouisBarr syndrome is known as ataxia telangiectasia. It characterised by deficiency of IgA with increased incidence of lympho-reticular malignancy.# Edward syndrome is eighteen trisomy which is characterised by clenched hand and overlapping of fingers where the index finger of the neonate overlaps third finger and fifth finger overlaps the fourth finger.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"is seen with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "670c897d-f1a2-49d1-9da5-3086b20c7dbb": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"dose anti gamma globulin\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "53482d77-0f34-476e-9f95-cc2a01e2292e": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., 5-a reductase inhibitor Finasteride* Competitive inhibitor of enzyme 5 a reductase, which converts testosterone to more active DHT (Di hydro testosterone) which is responsible for majority androgenic actions, including the actions on prostate and hair follicles.* It is relatively selective for 5 a reductase type 2 isoenzyme which predominates in male urogenital tract, and is used in BPH, i.e., Benign prostatic hyperplasia to shrink the prostatic size and increase peak urinary flow rate.* It has also been found effective in male pattern baldness.Adverse effects* Decreased libido, impotence, decreased volume of ejaculate.* Gynecomastia, skin rashes, lip swelling may occur."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., 5-a reductase inhibitor Finasteride* Competitive inhibitor of enzyme 5 a reductase, which converts testosterone to more active DHT (Di hydro testosterone) which is responsible for majority androgenic actions, including the actions on prostate and hair follicles.* It is relatively selective for 5 a reductase type 2 isoenzyme which predominates in male urogenital tract, and is used in BPH, i.e., Benign prostatic hyperplasia to shrink the prostatic size and increase peak urinary flow rate.* It has also been found effective in male pattern baldness.Adverse effects* Decreased libido, impotence, decreased volume of ejaculate.* Gynecomastia, skin rashes, lip swelling may occur.",
+    "hint_exp": "🎯 Think of \"action of finasteride\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2e8d700e-97c9-41be-8487-9a6fe141d495": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"comparison inhaled adrenergic agonists\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1b8de3b4-2f90-4bcc-9178-b57ac50b1565": {
-    "cop": 1,
-    "exp": "TNF -ALPHA INHIBITORS 1.Etanercept: chimeric protein and neutralizes both TNF alpha and TNF beta. Can be used along with methotrexate in rheumatoid ahritis. Also used in ankylosing spondylosis, juvenile ahritis, and plaque psoriasis 2.Infliximab: Monoclonal antibody against TNF alpha.used in refractory rheumatoid ahritis, Crohn's disease, ulcerative colitis, and psoriasis. 3.Adalimumab:fully human recombinant antibody anti TNF alpha. It is less antigenic.use same as infliximab ESSENTIAL OF MEDICAL PHARMACOLOGY: SEVENTH EDITION, KD TRIPATHI, Page 883,884"
+    "cop": 0,
+    "exp": "TNF -ALPHA INHIBITORS 1.Etanercept: chimeric protein and neutralizes both TNF alpha and TNF beta. Can be used along with methotrexate in rheumatoid ahritis. Also used in ankylosing spondylosis, juvenile ahritis, and plaque psoriasis 2.Infliximab: Monoclonal antibody against TNF alpha.used in refractory rheumatoid ahritis, Crohn's disease, ulcerative colitis, and psoriasis. 3.Adalimumab:fully human recombinant antibody anti TNF alpha. It is less antigenic.use same as infliximab ESSENTIAL OF MEDICAL PHARMACOLOGY: SEVENTH EDITION, KD TRIPATHI, Page 883,884",
+    "hint_exp": "🧩 Your crush solved \"antagonists used rheumatoid ahritis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5c95abd8-4312-4131-ae35-25a5999e3515": {
-    "cop": 4,
-    "exp": "Non-diarrheal uses of ORS include:- Maintenance of hydration in postsurgical, postburn and post-trauma patients Heat stroke During changeover from total parenteral nutrition to enteral nutrition."
+    "cop": 3,
+    "exp": "Non-diarrheal uses of ORS include:- Maintenance of hydration in postsurgical, postburn and post-trauma patients Heat stroke During changeover from total parenteral nutrition to enteral nutrition.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"from diarrhea oral rehydration\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d6eaecf2-7d87-49c2-85af-926961cbaae8": {
-    "cop": 2,
-    "exp": "Answer is B (Pulmonary Embolism): D-Dimer test is a sensitive test for detection of DVT and PE. Amongst DVT and PE, the D-Dimer test is less sensitive for DVT than PE * (More sensitive for PE) The sensitivity of the D-Dimer assay is greater than 80% for DVT and greater than 95% for PE. The D-Dimer test is less sensitive for DVT than PE because the DVT thrombus size is smaller-Harrison 17th/1653"
+    "cop": 1,
+    "exp": "Answer is B (Pulmonary Embolism): D-Dimer test is a sensitive test for detection of DVT and PE. Amongst DVT and PE, the D-Dimer test is less sensitive for DVT than PE * (More sensitive for PE) The sensitivity of the D-Dimer assay is greater than 80% for DVT and greater than 95% for PE. The D-Dimer test is less sensitive for DVT than PE because the DVT thrombus size is smaller-Harrison 17th/1653",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the most sensitive test for\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2a8f07f7-abb6-4a7e-9606-7dee4ce72065": {
-    "cop": 1,
-    "exp": "A i.e. Diffusion"
+    "cop": 0,
+    "exp": "A i.e. Diffusion",
+    "hint_exp": "🎯 Think of \"the substances\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "34aa4560-244a-46d2-8f5a-53caef8a0272": {
-    "cop": 1,
-    "exp": "Patients compensate for volume loss in the early stages of hypovolaemia, so an apparently resuscitated patient may still have a significant volume deficit. The aim for immediate resuscitation should he normal measures of pulse, blood pressure and CVP, urine output > 0.5 mI/kg/hour with normal urinary osmolality and sodium concentration. Any metabolic acidosis should be seen to be correcting. There-after, one must try to maintain normovolaemia. This is a continuous process. Critically ill patients may have capillary leak and will therefore have a continuing colloid requirement. Gelatins, being small molecules, are poorly retained and can be replaced by hydroxyethyl starch, plasma or blood at this stage. In sepsis this requirement may be very large . The impoance of blood in immediate resuscitation, the threshold at which one should transfuse urgently (i.e. con-sider using group compatible, uncross-matched blood or even Group 0 blood) and even the target haemoglobin level are controversial. Resuscitation should not be delayed whilst waiting for blood to be grouped; if acute anaemia is secondary to the bleeding resuscitation should be with Group 0 blood or group-compatible blood as it becomes available. Ref:Surgery of baily and love,26th edition."
+    "cop": 0,
+    "exp": "Patients compensate for volume loss in the early stages of hypovolaemia, so an apparently resuscitated patient may still have a significant volume deficit. The aim for immediate resuscitation should he normal measures of pulse, blood pressure and CVP, urine output > 0.5 mI/kg/hour with normal urinary osmolality and sodium concentration. Any metabolic acidosis should be seen to be correcting. There-after, one must try to maintain normovolaemia. This is a continuous process. Critically ill patients may have capillary leak and will therefore have a continuing colloid requirement. Gelatins, being small molecules, are poorly retained and can be replaced by hydroxyethyl starch, plasma or blood at this stage. In sepsis this requirement may be very large . The impoance of blood in immediate resuscitation, the threshold at which one should transfuse urgently (i.e. con-sider using group compatible, uncross-matched blood or even Group 0 blood) and even the target haemoglobin level are controversial. Resuscitation should not be delayed whilst waiting for blood to be grouped; if acute anaemia is secondary to the bleeding resuscitation should be with Group 0 blood or group-compatible blood as it becomes available. Ref:Surgery of baily and love,26th edition.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"between sepsis and trauma\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "eca87e0b-9be6-4b7e-b225-a07f8a86b9d5": {
-    "cop": 1,
-    "exp": "Ref, Harrison pg 76 In immunohistochemistry the alkaline phosphatase is often used as a marker, conjugated to an antibody. The colored product can either be of the NBT/BCIP reaction reveals where the antibody is bound, or can be used in immunofluorescence. The NBT/BCIP reaction is also used for colorimetric/spectrophotometric activity assays of oxidoreductases. One application is in activity stainsin gel electrophoresis, such as with the mitochondrial electron transpo chain complexes. Nitro blue tetrazolium is used in a diagnostic test,paicularly for chronic granulomatous disease and other diseases of phagocyte function. When there is an NADPH oxidase defect, the phagocyte is unable to make reactive oxygen species or radicals required for bacterial killing. As a result, bacteria may thrive within the phagocyte. The higher the blue score, the better the cell is at producing reactive oxygen species."
+    "cop": 0,
+    "exp": "Ref, Harrison pg 76 In immunohistochemistry the alkaline phosphatase is often used as a marker, conjugated to an antibody. The colored product can either be of the NBT/BCIP reaction reveals where the antibody is bound, or can be used in immunofluorescence. The NBT/BCIP reaction is also used for colorimetric/spectrophotometric activity assays of oxidoreductases. One application is in activity stainsin gel electrophoresis, such as with the mitochondrial electron transpo chain complexes. Nitro blue tetrazolium is used in a diagnostic test,paicularly for chronic granulomatous disease and other diseases of phagocyte function. When there is an NADPH oxidase defect, the phagocyte is unable to make reactive oxygen species or radicals required for bacterial killing. As a result, bacteria may thrive within the phagocyte. The higher the blue score, the better the cell is at producing reactive oxygen species.",
+    "hint_exp": "🧩 Your crush solved \"used for\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a15e955c-72e2-4dd6-9c1a-156cb67dc831": {
-    "cop": 1,
-    "exp": "Kallman syndrome Hypothalamic hypogonadism Autosomal dominant/X linked recessive gene Underdeveloped internal and external genitalia, anosmia, maldevelopment of neurons in arcuate nucleus. SHAW'S TEXTBOOK OF GYNAECOLOGY, Pg no:285,15th edition"
+    "cop": 0,
+    "exp": "Kallman syndrome Hypothalamic hypogonadism Autosomal dominant/X linked recessive gene Underdeveloped internal and external genitalia, anosmia, maldevelopment of neurons in arcuate nucleus. SHAW'S TEXTBOOK OF GYNAECOLOGY, Pg no:285,15th edition",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"girl with normal stature\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "004fa4c6-9e35-4569-9142-cc90ad5e50f3": {
-    "cop": 4,
-    "exp": "Strawberry vagina or angry-looking vagina is seen in case of Trichomonas infection."
+    "cop": 3,
+    "exp": "Strawberry vagina or angry-looking vagina is seen in case of Trichomonas infection.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Strawberry vagina seen\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "976aaca0-168c-4982-a397-a271671685d0": {
-    "cop": 3,
-    "exp": "The classic features of digoxin toxicity are nausea, vomiting, abdominal pain, headache, dizziness, confusion, delirium, vision disturbance (blurred or yellow vision). It is also associated with cardiac disturbances including irregular heabeat, ventricular tachycardia, ventricular fibrillation, sinoatrial block and AV block Refer kDT 6/e p498"
+    "cop": 2,
+    "exp": "The classic features of digoxin toxicity are nausea, vomiting, abdominal pain, headache, dizziness, confusion, delirium, vision disturbance (blurred or yellow vision). It is also associated with cardiac disturbances including irregular heabeat, ventricular tachycardia, ventricular fibrillation, sinoatrial block and AV block Refer kDT 6/e p498",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9c6a234c-6287-4808-919b-1ab5cd0181e1": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Graphic representation of radioactivity of kidneys"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Graphic representation of radioactivity of kidneys",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Isotope Renogram\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fcd33380-6f41-4785-a1d9-8ba0f66058c0": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Thromboxane A2 Platete aggregation Platelate mechanism cAMP plays a key role in platelet mechanism- antiaggregatory or aggregatory. High concentration of cAMP inhibit platelet adhesion, aggregation and the release of active substances. Low concentration of cAMP has an opposite effect. cAMP is formed by the action of enzyme adenylate cyclase and degraded by phosphodiesterase. Thromboxane A2 (synthesized in platelets) and ADP inhibit adenylate cyclase - cAMP --) Platelet aggregation and adhesion. Prostacyclin PGI2 (Synthesized in endothelium) stimulates adenylate cyclase cAMP -* antiaggregatory effect Prostacyclin and thromboxane A, are synthesized from prostaglandins that are formed from arachidonic acid by the action of cycloxygenase. Platelet activation Circulating resting platelets do not stick to healthy endothelium or each other. When there is damage to endothelium, constituents of the subendothelial matrix are exposed especially collagen and von willebrand factor. Platelets attach to these matrix constituents and there is simultaneous release of thromboxane - A2 (TXA 2)and adenosine diphosphate. TX.4 2 and ADP are proaggregatory and vasoconstrictor mediators - they promote recruitment of additional platelets. These platelets bind to adhesive proteins like fibrinogen or fibrin and von willebrand factor through surface integrin glycoprotein GP Ila/Illb formation of platelet plug. Injury to the blood vessel 1. Transient vasoconstriction and Platelet adhesion to VWF because of Gp Ib receptor Platelets release aggregating agents like ADP and conformational change in Gp IIb-IIIa receptor Synthesis of thromboxane A2 by platelets (Tx A2 causes vasoconstriction and increase attachment of fibrinogen to the Gp IIb-illa receptor Platelets held together by fibrinogen resulting information of temporary platelet plug Thrombin conves fibrinogen into fibrin and formation of stable platelet plug (platelet hod together by fibrin)"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Thromboxane A2 Platete aggregation Platelate mechanism cAMP plays a key role in platelet mechanism- antiaggregatory or aggregatory. High concentration of cAMP inhibit platelet adhesion, aggregation and the release of active substances. Low concentration of cAMP has an opposite effect. cAMP is formed by the action of enzyme adenylate cyclase and degraded by phosphodiesterase. Thromboxane A2 (synthesized in platelets) and ADP inhibit adenylate cyclase - cAMP --) Platelet aggregation and adhesion. Prostacyclin PGI2 (Synthesized in endothelium) stimulates adenylate cyclase cAMP -* antiaggregatory effect Prostacyclin and thromboxane A, are synthesized from prostaglandins that are formed from arachidonic acid by the action of cycloxygenase. Platelet activation Circulating resting platelets do not stick to healthy endothelium or each other. When there is damage to endothelium, constituents of the subendothelial matrix are exposed especially collagen and von willebrand factor. Platelets attach to these matrix constituents and there is simultaneous release of thromboxane - A2 (TXA 2)and adenosine diphosphate. TX.4 2 and ADP are proaggregatory and vasoconstrictor mediators - they promote recruitment of additional platelets. These platelets bind to adhesive proteins like fibrinogen or fibrin and von willebrand factor through surface integrin glycoprotein GP Ila/Illb formation of platelet plug. Injury to the blood vessel 1. Transient vasoconstriction and Platelet adhesion to VWF because of Gp Ib receptor Platelets release aggregating agents like ADP and conformational change in Gp IIb-IIIa receptor Synthesis of thromboxane A2 by platelets (Tx A2 causes vasoconstriction and increase attachment of fibrinogen to the Gp IIb-illa receptor Platelets held together by fibrinogen resulting information of temporary platelet plug Thrombin conves fibrinogen into fibrin and formation of stable platelet plug (platelet hod together by fibrin)",
+    "hint_exp": "🧩 Your crush solved \"caused by\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "03a72415-9b5d-476d-9ce8-925c3c2cd47b": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Food poisoning occured ingestion\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6059498e-2745-43cf-94fe-db1b4b5f9171": {
-    "cop": 2,
-    "exp": "QT interval 0.40 to 0.43Ref: Ganong's Review of Medical Physiology Twenty-Third Edition Page No:494"
+    "cop": 1,
+    "exp": "QT interval 0.40 to 0.43Ref: Ganong's Review of Medical Physiology Twenty-Third Edition Page No:494",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Normal interval seconds\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8032d37f-cd55-47fc-9d07-e5e26fae8fd1": {
-    "cop": 3,
-    "exp": "Rh-incompatibility"
+    "cop": 2,
+    "exp": "Rh-incompatibility",
+    "hint_exp": "🎯 Think of \"Nonlmmune hydrops foetalis seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a6eec4d9-21da-4301-b8eb-3dc9fe759a93": {
-    "cop": 4,
-    "exp": "In the human brain, the superior cerebellar peduncle (brachium conjunctivum) is a paired structure of white matter that connects the cerebellum to the midbrain. It consists mainly of efferent fibers, the cerebellothalamic tract that runs from a cerebellar hemisphere to the contralateral thalamus, and the cerebellorubral tract that runs from acerebellar hemisphere to the red nucleus. It also contains afferent tracts, most prominent of which is the ventral spinocerebellar tract. Other afferent tracts are the trigeminothalamic fibers, tecto cerebellar fibers, and noradrenergic fibers from the locus coeruleus. The superior peduncle emerges from the upper and medial pas of the white matter of each hemisphere and is placed under cover of the upper pa of the cerebellum.Ref: Ganong&;s review of medical physiology, 23rd edition, Page no:254"
+    "cop": 3,
+    "exp": "In the human brain, the superior cerebellar peduncle (brachium conjunctivum) is a paired structure of white matter that connects the cerebellum to the midbrain. It consists mainly of efferent fibers, the cerebellothalamic tract that runs from a cerebellar hemisphere to the contralateral thalamus, and the cerebellorubral tract that runs from acerebellar hemisphere to the red nucleus. It also contains afferent tracts, most prominent of which is the ventral spinocerebellar tract. Other afferent tracts are the trigeminothalamic fibers, tecto cerebellar fibers, and noradrenergic fibers from the locus coeruleus. The superior peduncle emerges from the upper and medial pas of the white matter of each hemisphere and is placed under cover of the upper pa of the cerebellum.Ref: Ganong&;s review of medical physiology, 23rd edition, Page no:254",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Superior cerebellar peduncle carries\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fb97c56d-5254-4c6a-8de0-604b87387cc7": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Aneurysm The Hunterian Ligature operation is one of the many ligature operations performed for aneurysms, but ligature operations are becoming obsolete now. Other ligature methods are : a) Anel's method c) Wardrop's method b) Brasdor's method d) Antylus' method"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Aneurysm The Hunterian Ligature operation is one of the many ligature operations performed for aneurysms, but ligature operations are becoming obsolete now. Other ligature methods are : a) Anel's method c) Wardrop's method b) Brasdor's method d) Antylus' method",
+    "hint_exp": "🧩 Your crush solved \"performed for\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8af8dcf3-db15-4fd5-94b7-c677e5664aa4": {
-    "cop": 3,
-    "exp": "Hostile witness/ adverse witness ( 154 IEA )- A hostile witness is a witness in a trial who testifies for the opposing pay or a witness who offers adverse testimony to the calling pay during direct examination.- A witness called by the opposing pay is presumed hostile.- A witness called by the direct examiner can be declared hostile by a judge, at the request of the examiner, when the witness' testimony is openly antagonistic or clearly prejudiced to the opposing pay.- A pay examining a hostile witness may question the witness as if in cross-examination, thus permitting the use of leading questions."
+    "cop": 2,
+    "exp": "Hostile witness/ adverse witness ( 154 IEA )- A hostile witness is a witness in a trial who testifies for the opposing pay or a witness who offers adverse testimony to the calling pay during direct examination.- A witness called by the opposing pay is presumed hostile.- A witness called by the direct examiner can be declared hostile by a judge, at the request of the examiner, when the witness' testimony is openly antagonistic or clearly prejudiced to the opposing pay.- A pay examining a hostile witness may question the witness as if in cross-examination, thus permitting the use of leading questions.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Witness trial testifies opposing\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6d643185-dd97-4056-952e-da560e3c85cd": {
-    "cop": 2,
-    "exp": "ASA Grading and Predictive Moality ASA Grade Definition Moality % I Normal healthy individual 0.06 II Mild systemic disease that doesn't limit activity 0.4 III Severe systemic disease that limits activity 4.5 IV Severe systemic disease that is constant threat to life 23 V Moribund, not expected to survive 24 hrs with or without surgery 51"
+    "cop": 1,
+    "exp": "ASA Grading and Predictive Moality ASA Grade Definition Moality % I Normal healthy individual 0.06 II Mild systemic disease that doesn't limit activity 0.4 III Severe systemic disease that limits activity 4.5 IV Severe systemic disease that is constant threat to life 23 V Moribund, not expected to survive 24 hrs with or without surgery 51",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"years patient with uncontrolled\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "44144759-dd0e-431c-9f81-45e5631061ab": {
-    "cop": 1,
-    "exp": "Ans. A: Tick Kyasanur forest disease is a tick-borne viral hemorrhagic fever endemic to South Asia. The disease is caused by a virus belonging to the family flaviviridae, which also includes yellow fever and dengue fever. There are a variety of animals thought to be reservoir hosts for the disease, including porcupines, rats, squirrels, mice and shrews. The vector for disease transmission is Haemaphysalis spinigera, a forest tick. Humans contract infection from the bite of nymphs of the tick. Estimated incubation period is between 3-8 days."
+    "cop": 0,
+    "exp": "Ans. A: Tick Kyasanur forest disease is a tick-borne viral hemorrhagic fever endemic to South Asia. The disease is caused by a virus belonging to the family flaviviridae, which also includes yellow fever and dengue fever. There are a variety of animals thought to be reservoir hosts for the disease, including porcupines, rats, squirrels, mice and shrews. The vector for disease transmission is Haemaphysalis spinigera, a forest tick. Humans contract infection from the bite of nymphs of the tick. Estimated incubation period is between 3-8 days.",
+    "hint_exp": "🎯 Think of \"transmitted March 2010\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f8573361-8c4c-42ef-b54c-987d6c04f643": {
-    "cop": 4,
-    "exp": "Ref: Novak's Gynecology. 14'h ed. Pg 1359. Explanation:The following cases have poor prognosis in endometrial cancer and require pelvic and paraaortic lymph node dissection during surgery.Tumor histology clear cell, serous, squamous, or grade 2-3 endometrioidMyometrial invasion >ViIsthmus-cervix extensionTumor size >2 cmExtrauterine disease"
+    "cop": 3,
+    "exp": "Ref: Novak's Gynecology. 14'h ed. Pg 1359. Explanation:The following cases have poor prognosis in endometrial cancer and require pelvic and paraaortic lymph node dissection during surgery.Tumor histology clear cell, serous, squamous, or grade 2-3 endometrioidMyometrial invasion >ViIsthmus-cervix extensionTumor size >2 cmExtrauterine disease",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Endometrial with poor prognosis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "23970137-e3dd-46f2-b22b-b8e1e622bec3": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Schwannoma cranial nerve site\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d5e69f91-2b40-4a39-bbe7-d2f309a00766": {
-    "cop": 2,
-    "exp": "Viral gastroenteritis:FamilyVirusViral genomeReoviridaeRotavirusdsRNACalciviridaeNorovirus/Norwalk virusSapovirusss(+)RNAAdenoviridaeAdenovirusdsDNAAstroviridaeAstrovirusss(+)RNACoronaviridaeCoronavirusTorovirusss(+)RNAPicornaviridaeAichi virusss(+)RNAPicobirnaviridaePicobirnavirusdsRNAParvoviridaeBocavirusssDNAParamyxoviridaeHendra virusNipah v irusSs(-)RNA(Ref: Ananthanarayan 9th edition, 562)"
+    "cop": 1,
+    "exp": "Viral gastroenteritis:FamilyVirusViral genomeReoviridaeRotavirusdsRNACalciviridaeNorovirus/Norwalk virusSapovirusss(+)RNAAdenoviridaeAdenovirusdsDNAAstroviridaeAstrovirusss(+)RNACoronaviridaeCoronavirusTorovirusss(+)RNAPicornaviridaeAichi virusss(+)RNAPicobirnaviridaePicobirnavirusdsRNAParvoviridaeBocavirusssDNAParamyxoviridaeHendra virusNipah v irusSs(-)RNA(Ref: Ananthanarayan 9th edition, 562)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Norwalk virus\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a97352bd-46d7-4cd4-a14c-6015d82adfbd": {
-    "cop": 1,
-    "exp": "Ans. (A) Mapleson APediatric Breathing Circuits:Type E Mapleson Circuit:It is Ayre's T piece with corrugated tubing.It is a pediatric circuitAs it does not have breathing bag so it is not a complete circuit (It was made complete by attaching a breathing bag by attaching a breathing bagby Jackson & Rees).Type E is basically a circuit only for spontaneous respiration (as it does not contain breathing bag) but can be utilized for controlled ventilation by intermittently occluding the end of expiratory limb"
+    "cop": 0,
+    "exp": "Ans. (A) Mapleson APediatric Breathing Circuits:Type E Mapleson Circuit:It is Ayre's T piece with corrugated tubing.It is a pediatric circuitAs it does not have breathing bag so it is not a complete circuit (It was made complete by attaching a breathing bag by attaching a breathing bagby Jackson & Rees).Type E is basically a circuit only for spontaneous respiration (as it does not contain breathing bag) but can be utilized for controlled ventilation by intermittently occluding the end of expiratory limb",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following circuit\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4e94cbe6-27b9-4a61-ad3e-e4c53c7f1034": {
-    "cop": 3,
-    "exp": "Repeated question"
+    "cop": 2,
+    "exp": "Repeated question",
+    "hint_exp": "🎯 Think of \"gluconeogenesis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e6bb4cb9-9126-44b1-9606-b3dd5866db42": {
-    "cop": 3,
-    "exp": "Definition * Atopic dermatitis is a very common, often chronic (long-lasting) skin disease that affects a large percentage of the world&;s population. It is also called eczema, dermatitis, treatment : # Combination of shod-term treatment to manage flares and longer-term strategies to help control symptoms between flares # Recommend gentle skin care * Tepid baths without washcloths or brushes * Mild soaps * Pat dry * Emollients: petrolatum and moisturizers * Use ointments or thick creams (no watery lotions) * Apply once to twice daily to whole body (within 3 minutes of bathing for optimal occlusion) # Identification and avoidance of triggers and irritants (such as wool and acrylic fabrics) ref : thomas habif 7th ed"
+    "cop": 2,
+    "exp": "Definition * Atopic dermatitis is a very common, often chronic (long-lasting) skin disease that affects a large percentage of the world&;s population. It is also called eczema, dermatitis, treatment : # Combination of shod-term treatment to manage flares and longer-term strategies to help control symptoms between flares # Recommend gentle skin care * Tepid baths without washcloths or brushes * Mild soaps * Pat dry * Emollients: petrolatum and moisturizers * Use ointments or thick creams (no watery lotions) * Apply once to twice daily to whole body (within 3 minutes of bathing for optimal occlusion) # Identification and avoidance of triggers and irritants (such as wool and acrylic fabrics) ref : thomas habif 7th ed",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"patient complaints pruritis creases\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "78bcdea2-9c9e-43ed-9532-8001b519abf8": {
-    "cop": 1,
-    "exp": "In sickle cell crisis bone pain is due to bone infarction. RBC are sticky, so branching blood vessels gets occluded leading to infarction. \"Fish mouth veebra\" seen in sickle cell anemia."
+    "cop": 0,
+    "exp": "In sickle cell crisis bone pain is due to bone infarction. RBC are sticky, so branching blood vessels gets occluded leading to infarction. \"Fish mouth veebra\" seen in sickle cell anemia.",
+    "hint_exp": "🧩 Your crush solved \"sickle cell crisis bone pain\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

@@ -1,202 +1,252 @@
 {
   "cfc9a4fa-7eb0-40be-a8fe-bc05e6dcff93": {
-    "cop": 1,
-    "exp": "Hb-O2 dissociation curve shift to left indicates more affinity of Hb to O2, and thus less delivery of O2 to tissues.\n \nShift to left seen in\n-        Increased pH\n-        Decreased 2,3 DPG, temperature, PCO2\n-        HbF (Fetal)\n \nShift to right seen in\n-        Decreased pH\n-        Increased 2,3DPG, temperature, PCO2\n-        HbS (Sickle cell)"
+    "cop": 0,
+    "exp": "Hb-O2 dissociation curve shift to left indicates more affinity of Hb to O2, and thus less delivery of O2 to tissues.\n \nShift to left seen in\n-        Increased pH\n-        Decreased 2,3 DPG, temperature, PCO2\n-        HbF (Fetal)\n \nShift to right seen in\n-        Decreased pH\n-        Increased 2,3DPG, temperature, PCO2\n-        HbS (Sickle cell)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which following statement true\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "72822ce1-7bdd-4213-a4b7-c1a5695363f9": {
-    "cop": 3,
-    "exp": "During pregnancy, 100 mg iron and 500 mcg FA should be given. REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. PAGE NO - 594"
+    "cop": 2,
+    "exp": "During pregnancy, 100 mg iron and 500 mcg FA should be given. REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. PAGE NO - 594",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"pregrnancy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1be32fcc-0ab6-4a58-8c78-a637b9d28430": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Charcoal 15% + Potassium nitrate 75% + sulphur 10% The classical gun powder is known as black powder, consists of charcol (15%), Sulphur (10%), and potassium nitrate (75%). Depending on fineness, the black gun powder is designated as FG, FFG, FFFG. etc. (F = fineness). Pyrodex is another gun powder with same components, but with different ratios. Black gun powder produces smoke, i.e. It is smoke producing powder. Smokeless powder, in addition to black powder, has nitrocellulose (single base), or nitrocellulose plus nitroglycerine (double base), or nitrocellulose plus nitroglycerine plus nitroguanidine (triple base). Semi smokeless powder has 80% black powder and 20% smokeless powder (nitrocellulose)."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Charcoal 15% + Potassium nitrate 75% + sulphur 10% The classical gun powder is known as black powder, consists of charcol (15%), Sulphur (10%), and potassium nitrate (75%). Depending on fineness, the black gun powder is designated as FG, FFG, FFFG. etc. (F = fineness). Pyrodex is another gun powder with same components, but with different ratios. Black gun powder produces smoke, i.e. It is smoke producing powder. Smokeless powder, in addition to black powder, has nitrocellulose (single base), or nitrocellulose plus nitroglycerine (double base), or nitrocellulose plus nitroglycerine plus nitroguanidine (triple base). Semi smokeless powder has 80% black powder and 20% smokeless powder (nitrocellulose).",
+    "hint_exp": "🎯 Think of \"Black powder composition\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c8772169-4d76-4820-91b2-18f43b81a457": {
-    "cop": 1,
-    "exp": "Fundus findings in degenerative myopia:1A pale tessellated ('tigroid') appearance is due to diffuse attenuation of the RPE with visibility of large choroidal vessels.2Focal chorioretinal atrophy is characterized by the visibility of the larger choroidal vessels and eventually the sclera.3Anomalous optic nerve head which may appear unusually small, large or anomalous with a 'tilted' conformation. Peripapillary chorioretinal atrophy is very common, and in milder cases taking the form of a temporal crescent of thinned or absent RPE exposing the choroid and/or sclera.4'Lacquer cracks' are ruptures in the RPE-Bruch membrane-choriocapillaris complex characterized clinically by fine, irregular, yellow lines, often branching and crisscrossing at the posterior pole. They are present in around 5% of highly myopic eyes and can precede the development of CNV, retinal hemorrhages without CNV, and geographic atrophy. It is thought that the flaw in the RPE barrier constituted by the cracks provides a route through which choriocapillaris tissue can grow.5Lattice degeneration.6Subretinal 'coin' hemorrhages, which may be intermittent, may develop from lacquer cracks in the absence of CNV.7A Fuchs spot is a raised, circular, pigmented lesion at the macula developing after a subretinal hemorrhage has absorbed.8A staphyloma is an ectasia or bulging of the posterior sclera due to focal expansion and thinning. It occurs in about a third of eyes with pathological myopia, and is viually always peripapillary or involves the macula. Staphyloma development can be associated with macular hole formation.Ref: Kanski; 7th edition; Pg. 637"
+    "cop": 0,
+    "exp": "Fundus findings in degenerative myopia:1A pale tessellated ('tigroid') appearance is due to diffuse attenuation of the RPE with visibility of large choroidal vessels.2Focal chorioretinal atrophy is characterized by the visibility of the larger choroidal vessels and eventually the sclera.3Anomalous optic nerve head which may appear unusually small, large or anomalous with a 'tilted' conformation. Peripapillary chorioretinal atrophy is very common, and in milder cases taking the form of a temporal crescent of thinned or absent RPE exposing the choroid and/or sclera.4'Lacquer cracks' are ruptures in the RPE-Bruch membrane-choriocapillaris complex characterized clinically by fine, irregular, yellow lines, often branching and crisscrossing at the posterior pole. They are present in around 5% of highly myopic eyes and can precede the development of CNV, retinal hemorrhages without CNV, and geographic atrophy. It is thought that the flaw in the RPE barrier constituted by the cracks provides a route through which choriocapillaris tissue can grow.5Lattice degeneration.6Subretinal 'coin' hemorrhages, which may be intermittent, may develop from lacquer cracks in the absence of CNV.7A Fuchs spot is a raised, circular, pigmented lesion at the macula developing after a subretinal hemorrhage has absorbed.8A staphyloma is an ectasia or bulging of the posterior sclera due to focal expansion and thinning. It occurs in about a third of eyes with pathological myopia, and is viually always peripapillary or involves the macula. Staphyloma development can be associated with macular hole formation.Ref: Kanski; 7th edition; Pg. 637",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"a myopic patient\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "02243e1a-2cec-4556-b273-ec07208cda06": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., 10 daysIf ovum is not feilized, the corpus luteum stas degenerating around day 24 of cycle (about 10 days after ovulation) and is eventually is replaced by fibrous tissue, forming corpus albicans.Degeneration of corpus luteum is due to decline in level of LH (which is required for maintenance of corpus luteum) and increase in secretion of inhibin by luteal cell itself."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., 10 daysIf ovum is not feilized, the corpus luteum stas degenerating around day 24 of cycle (about 10 days after ovulation) and is eventually is replaced by fibrous tissue, forming corpus albicans.Degeneration of corpus luteum is due to decline in level of LH (which is required for maintenance of corpus luteum) and increase in secretion of inhibin by luteal cell itself.",
+    "hint_exp": "🧩 Your crush solved \"ovulation\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5d0fe05c-3bc1-4732-a472-8e592bedc78d": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., All of above"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., All of above",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"seen in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "173febf1-ce0f-4bff-b74d-0c9f6f1173ff": {
-    "cop": 2,
-    "exp": "IgM is the first immunoglobulin to appear after exposure to an antigen. They are relatively sho lived hence their demonstration in the serum indicates recent infection. Normal level of IgM is 1.2mg/ml. It is also the earliest to be synthesized by fetus beginning by about 20 weeks of age. As it cannot cross the placental barrier its presence in fetus or newborn indicates intrauterine infection. Its detection is therefore useful for diagnosis of congenital infections such as syphilis, rubella, HIV and toxoplasma. IgG is the major immunoglobulin in human serum. It is the only class of immunoglobulins which can cross the placenta. It binds to organisms and enhances their phagocytosis. It paicipates in most immunologic reactions such as complement fixation, precipitation, and neutralisation of toxins and viruses. Ref: Textbook of Microbiology By Surinder Kumar page 138."
+    "cop": 1,
+    "exp": "IgM is the first immunoglobulin to appear after exposure to an antigen. They are relatively sho lived hence their demonstration in the serum indicates recent infection. Normal level of IgM is 1.2mg/ml. It is also the earliest to be synthesized by fetus beginning by about 20 weeks of age. As it cannot cross the placental barrier its presence in fetus or newborn indicates intrauterine infection. Its detection is therefore useful for diagnosis of congenital infections such as syphilis, rubella, HIV and toxoplasma. IgG is the major immunoglobulin in human serum. It is the only class of immunoglobulins which can cross the placenta. It binds to organisms and enhances their phagocytosis. It paicipates in most immunologic reactions such as complement fixation, precipitation, and neutralisation of toxins and viruses. Ref: Textbook of Microbiology By Surinder Kumar page 138.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "674108b9-4267-44db-bccb-483f205c674a": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"upper lip\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "78d51779-e06a-4b5a-8edc-d119dbde5eef": {
-    "cop": 1,
-    "exp": "Lorazepam Management of alcohol intoxicationDrugs used areLorazepam (can worsen the vitals because of C.N.S. depression)Haloperidol (can lower the seizure threshold)Other drugs which may be usedZiprasidoneOlanzapineManagement of alcohol withdrawlAll patients should be given oral multiple vitamin B1including 50-100 mg of thiamine daily for a week.Replace alcohol (CNS depressant) with any other C.N.S. depressant. Benzodiazepenes are commonly used for this purpose and chlordiazepoxide is the drug of choice because of its long half life.Delirium Tremens :?Some recommend, high dose Benzodiazepene while others recommend antipsychotics.Anticonvulsants are not given to control seizures seen in delirium Tremens.Management of alcoholic rehabilitationMainstay of alcoholic rehabilitation involves counselling, education and cognitive approaches. Several medications have also proved beneficial :-Naltrexone (opioid antagonist) ?It blocks opioid receptors and thus decrease the activity in dopamine rich ventral tegrnental reward system or decrease the feeling of pleasure or reward if alcohol is imbibed.Acamprosate ?Widely used in United States and Europe. The drug inhibits the action of NMDA receptors and has been hypothesized to act by decreasing mild symptoms of protracted withdrawl.Disulfiram (ALDH inhibitor)Drinking alcohol, while taking disulfiram, produces a reaction involving an increased pulse, changes in blood pressure, vomiting and diarrhoea. This can be dangerous especially for patients with hea disease, stroke, diabetes mellitus or hypeension.Thus most clinicians reserve this medication for patients who have a clear history of longer term abstinence associated with prior use of disulfiram and for those who might take the drug under the supervision of another individual.Other drugs under investigation for possible use in Alcoholics- Ondansetron (serotonin antagonist)- Topiramate (anticonvulsant)- Ratnonthant (cannabinoid receptor antagonist)"
+    "cop": 0,
+    "exp": "Lorazepam Management of alcohol intoxicationDrugs used areLorazepam (can worsen the vitals because of C.N.S. depression)Haloperidol (can lower the seizure threshold)Other drugs which may be usedZiprasidoneOlanzapineManagement of alcohol withdrawlAll patients should be given oral multiple vitamin B1including 50-100 mg of thiamine daily for a week.Replace alcohol (CNS depressant) with any other C.N.S. depressant. Benzodiazepenes are commonly used for this purpose and chlordiazepoxide is the drug of choice because of its long half life.Delirium Tremens :?Some recommend, high dose Benzodiazepene while others recommend antipsychotics.Anticonvulsants are not given to control seizures seen in delirium Tremens.Management of alcoholic rehabilitationMainstay of alcoholic rehabilitation involves counselling, education and cognitive approaches. Several medications have also proved beneficial :-Naltrexone (opioid antagonist) ?It blocks opioid receptors and thus decrease the activity in dopamine rich ventral tegrnental reward system or decrease the feeling of pleasure or reward if alcohol is imbibed.Acamprosate ?Widely used in United States and Europe. The drug inhibits the action of NMDA receptors and has been hypothesized to act by decreasing mild symptoms of protracted withdrawl.Disulfiram (ALDH inhibitor)Drinking alcohol, while taking disulfiram, produces a reaction involving an increased pulse, changes in blood pressure, vomiting and diarrhoea. This can be dangerous especially for patients with hea disease, stroke, diabetes mellitus or hypeension.Thus most clinicians reserve this medication for patients who have a clear history of longer term abstinence associated with prior use of disulfiram and for those who might take the drug under the supervision of another individual.Other drugs under investigation for possible use in Alcoholics- Ondansetron (serotonin antagonist)- Topiramate (anticonvulsant)- Ratnonthant (cannabinoid receptor antagonist)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"alcohol dependence\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5a7f96e7-8f9e-48b7-a499-0fa0a8b20c6d": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Orchipexy"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Orchipexy",
+    "hint_exp": "🧩 Your crush solved \"on the opposite side\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3cbdfa54-372b-4007-a601-efbcc180adf4": {
-    "cop": 1,
-    "exp": "Hemophilia A and B - X linked recessive disorders. Hemophilia C - Autosomal recessive disorder. X linked recessive disorders SYSTEM DISEASE Musculoskeleton Duchenne Muscular dystrophy Blood Hemophilia A,B Chronic Granulomatous disease G-6-PD deficiency Immune Agammaglobinemia Wiskott-Aldrich Syndrome Metabolic Diabetes Insipidus Lesch-Nyhan Syndrome Nervous Fragile X Syndrome"
+    "cop": 0,
+    "exp": "Hemophilia A and B - X linked recessive disorders. Hemophilia C - Autosomal recessive disorder. X linked recessive disorders SYSTEM DISEASE Musculoskeleton Duchenne Muscular dystrophy Blood Hemophilia A,B Chronic Granulomatous disease G-6-PD deficiency Immune Agammaglobinemia Wiskott-Aldrich Syndrome Metabolic Diabetes Insipidus Lesch-Nyhan Syndrome Nervous Fragile X Syndrome",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Hemophilia associated with which\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6d1a5ac7-2e55-447f-80be-b3a623ae6830": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Fructose 1-6 bisphosphatase Most imp step =Pyruvate carboxylase, Only step at ER= G 6 Phosphatase RLS - F 1-6 Bisphosphatase. o Gluconeogenesis involves glycolysis, the citric acid cycle plus some special reactions. Glycolysis and gluconeogenesis share the same pathway but in opposite direction. Seven reactions of glycolysis are reversible and therefore are used with same enzyme in the synthesis of glucose by gluconeogenesis. However, three of the reactions ofglycolysis are irreversible and must be circumvented by four special reactions which are unique to gluconeogenesis and catalyzed by: i) Pyruvate carboxylase ii) Phosphoenolpyruvate carboxykinase iii) Fructose-1,6-bisphosphatase iv) Glucose-6-phosphatase. o These four enzymes are the key enzymes of gluconeogenesis (or gluconeogenesis enzymes). Among these four, pyruvate carboxylase is a mitocondrial enzyme and other three are cytoplasmic enzymes."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Fructose 1-6 bisphosphatase Most imp step =Pyruvate carboxylase, Only step at ER= G 6 Phosphatase RLS - F 1-6 Bisphosphatase. o Gluconeogenesis involves glycolysis, the citric acid cycle plus some special reactions. Glycolysis and gluconeogenesis share the same pathway but in opposite direction. Seven reactions of glycolysis are reversible and therefore are used with same enzyme in the synthesis of glucose by gluconeogenesis. However, three of the reactions ofglycolysis are irreversible and must be circumvented by four special reactions which are unique to gluconeogenesis and catalyzed by: i) Pyruvate carboxylase ii) Phosphoenolpyruvate carboxykinase iii) Fructose-1,6-bisphosphatase iv) Glucose-6-phosphatase. o These four enzymes are the key enzymes of gluconeogenesis (or gluconeogenesis enzymes). Among these four, pyruvate carboxylase is a mitocondrial enzyme and other three are cytoplasmic enzymes.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Rate limiting enzyme gluconeogenesis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e0550b1a-21d3-452e-94ce-36b5910bfab2": {
-    "cop": 1,
-    "exp": "The most common causes of neonatal meningitis is bacterial infection of the blood, known as bacteremia (specifically group B streptococci (Streptococcus agalactiae), Escherichia coli, and Listeria monocytogenes . Reference: GHAI Essential pediatrics, 8th edition"
+    "cop": 0,
+    "exp": "The most common causes of neonatal meningitis is bacterial infection of the blood, known as bacteremia (specifically group B streptococci (Streptococcus agalactiae), Escherichia coli, and Listeria monocytogenes . Reference: GHAI Essential pediatrics, 8th edition",
+    "hint_exp": "🎯 Think of \"Most common organism causing\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ee31b90b-5445-4b6a-af79-6792157900b8": {
-    "cop": 3,
-    "exp": "Loosening of associations is an example of formal thought disorder, which is a disturbance in the form of thought rather than content of thought. It is a characteristic feature of schizophrenia.Loosening of association refers to lack of connection between the ideas expressed by the patient. The links between ideas may be illogical or they wander from the original theme. In its extreme form, loosening of association leads to totally incoherent thought and speech (word salad).Ref: Psychiatry By John Geddes, 4th edition page 248; Kaplan & Sadock's Comprehensive Textbook of Psychiatry, 9th edition page 924; Psychopathology: History, Diagnosis, and Empirical Foundations By W. Edward Craighead, 2nd edition page 406."
+    "cop": 2,
+    "exp": "Loosening of associations is an example of formal thought disorder, which is a disturbance in the form of thought rather than content of thought. It is a characteristic feature of schizophrenia.Loosening of association refers to lack of connection between the ideas expressed by the patient. The links between ideas may be illogical or they wander from the original theme. In its extreme form, loosening of association leads to totally incoherent thought and speech (word salad).Ref: Psychiatry By John Geddes, 4th edition page 248; Kaplan & Sadock's Comprehensive Textbook of Psychiatry, 9th edition page 924; Psychopathology: History, Diagnosis, and Empirical Foundations By W. Edward Craighead, 2nd edition page 406.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"association\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b26aca0a-381f-487d-ad5c-ea256eae595d": {
-    "cop": 1,
-    "exp": "Ans. a (HPV) (Ref. Bailey and Love 24th ed., 61.6)WART# It is a HPV-induced tumor-like lesion known to spontaneous resolution.# Transmission is by direct or intimate contact, the virus material usually being inoculated through an abrasion.# It is well recognised that patients with immune deficiencies develop widespread resistant warts.# They tend to occur on sites of trauma, such as the beard area, hands, genital region and feet.# Warts are more common in children and young adults.# Plantar warts occur on the sole and are usually multiple.# Curettage and diathermy give excellent results, as does cryotherapy, but the latter is often accompanied by pain.# The irritant 50 per cent podophyllin in liquid paraffin gives good results.# Use of liquid nitrogen is easier and is more effective. Recalcitrant lesions may respond to 585-nm pulsed dye laser.# Venereal warts and moist warts (papillomata acuminata) occur in the genital region.# Orf is caused by the virus that produces pustular dermatitis in sheep.ANAL WARTS# These are usually sexually transmitted, although anoreceptive intercourse is probably not necessary.# Rx: local scissor excision or destruction by some other local method, for example, diathermy or laser.# Less extensive wart infection can be controlled by application of podophyllin.# The wart virus (human papilloma virus) is able to incorporate in the human genome and cancer may develop.# The risk of progression of this intraepithelial neoplasia to invasive anal malignancy is small."
+    "cop": 0,
+    "exp": "Ans. a (HPV) (Ref. Bailey and Love 24th ed., 61.6)WART# It is a HPV-induced tumor-like lesion known to spontaneous resolution.# Transmission is by direct or intimate contact, the virus material usually being inoculated through an abrasion.# It is well recognised that patients with immune deficiencies develop widespread resistant warts.# They tend to occur on sites of trauma, such as the beard area, hands, genital region and feet.# Warts are more common in children and young adults.# Plantar warts occur on the sole and are usually multiple.# Curettage and diathermy give excellent results, as does cryotherapy, but the latter is often accompanied by pain.# The irritant 50 per cent podophyllin in liquid paraffin gives good results.# Use of liquid nitrogen is easier and is more effective. Recalcitrant lesions may respond to 585-nm pulsed dye laser.# Venereal warts and moist warts (papillomata acuminata) occur in the genital region.# Orf is caused by the virus that produces pustular dermatitis in sheep.ANAL WARTS# These are usually sexually transmitted, although anoreceptive intercourse is probably not necessary.# Rx: local scissor excision or destruction by some other local method, for example, diathermy or laser.# Less extensive wart infection can be controlled by application of podophyllin.# The wart virus (human papilloma virus) is able to incorporate in the human genome and cancer may develop.# The risk of progression of this intraepithelial neoplasia to invasive anal malignancy is small.",
+    "hint_exp": "🧩 Your crush solved \"Virus that association with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "69b293d4-b2d5-41ee-bb87-f2b21b1bb194": {
-    "cop": 4,
-    "exp": "D:  A very weak pulse shows that the heart is slowly ceasing to function as a result of pumping too hard.\nA: The patient should not be sent home; close observation is necessary.\nB: This stage is a life-threatening stage as the heart could tire itself out and stop functioning.\nC: An early stage of shock shows a rapid, bounding pulse."
+    "cop": 3,
+    "exp": "D:  A very weak pulse shows that the heart is slowly ceasing to function as a result of pumping too hard.\nA: The patient should not be sent home; close observation is necessary.\nB: This stage is a life-threatening stage as the heart could tire itself out and stop functioning.\nC: An early stage of shock shows a rapid, bounding pulse.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"person comes into your\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e54f486a-4313-41a4-9d1d-1822d73c60c7": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"death in peptic ulcer patients\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3835f6d7-c8bc-474d-bfba-0a24b0b9e322": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Lung cancerObesity increases the risk of following diseases :-Greatly increased risk : NIDDM, gall bladder disease, insulin resistance, dyslipidaemia, sleep apnea and breathlessness.Moderately increased risk : Type-2 DM, hypeension, CHD, osteoahritis (knee), hyperuricemia and gout.Slight increased risk : Cancers (breast, endometrium, colon), PCOD, impaired feility, low back pain, and fetal defects."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Lung cancerObesity increases the risk of following diseases :-Greatly increased risk : NIDDM, gall bladder disease, insulin resistance, dyslipidaemia, sleep apnea and breathlessness.Moderately increased risk : Type-2 DM, hypeension, CHD, osteoahritis (knee), hyperuricemia and gout.Slight increased risk : Cancers (breast, endometrium, colon), PCOD, impaired feility, low back pain, and fetal defects.",
+    "hint_exp": "🎯 Think of \"Obesity predisposes except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5a4dc59a-3894-4b21-94d7-ae15cd65c29a": {
-    "cop": 2,
-    "exp": "Ans. (b) Fetomaternal haemorrhage(Ref: Oski's Pediatrics: Principles & Practice, chapter 66; Dacie 11th/pg 307)APT test for differentiation of fetal & adult (maternal) hemoglobin in stool or vomitusMix 1 volume of sample with 5 volumes of water.Centrifuge mixture and remove clear-pink supernatant solution containing hemoglobin.Mix 1 ml of 1% sodium hydroxide with 4 ml supernatant and observe color change after 2 minutes.#Remains pink: Hemoglobin F#Turns yellow-brown: Hemoglobin A (maternal blood)A common approach to evaluating FMH is the rosette test to screen for the presence of fetal cells followed by the Kleihauer-Betke acid elution method to quantify the magnitude of feto-maternal bleed.The Kleihauer-Betke acid elution method:Quantitative estimate of the volume of FMH based on different solubility properties of HbF&HbA.On a peripheral smear treated with an acidic solution & counterstained, red cells containing acid-soluble HbA appear as pale ghosts compared to deeply red stained red cells containing acid-resistant HbFCan also be used to detect HbF containing cells in p-thalassemia, hereditary persistence of hemoglobin F, sickle cell disease &myelodysplastic syndrome.Increased HbF is also found in congenital red cell aplasia (Blackfan-Diamond syndrome) & congenital aplastic anemia (Fanconianemia), JMML, presence of erythropoietic stress (haemolysis, bleeding, recovery from acute bone marrow failure) and in pregnancy."
+    "cop": 1,
+    "exp": "Ans. (b) Fetomaternal haemorrhage(Ref: Oski's Pediatrics: Principles & Practice, chapter 66; Dacie 11th/pg 307)APT test for differentiation of fetal & adult (maternal) hemoglobin in stool or vomitusMix 1 volume of sample with 5 volumes of water.Centrifuge mixture and remove clear-pink supernatant solution containing hemoglobin.Mix 1 ml of 1% sodium hydroxide with 4 ml supernatant and observe color change after 2 minutes.#Remains pink: Hemoglobin F#Turns yellow-brown: Hemoglobin A (maternal blood)A common approach to evaluating FMH is the rosette test to screen for the presence of fetal cells followed by the Kleihauer-Betke acid elution method to quantify the magnitude of feto-maternal bleed.The Kleihauer-Betke acid elution method:Quantitative estimate of the volume of FMH based on different solubility properties of HbF&HbA.On a peripheral smear treated with an acidic solution & counterstained, red cells containing acid-soluble HbA appear as pale ghosts compared to deeply red stained red cells containing acid-resistant HbFCan also be used to detect HbF containing cells in p-thalassemia, hereditary persistence of hemoglobin F, sickle cell disease &myelodysplastic syndrome.Increased HbF is also found in congenital red cell aplasia (Blackfan-Diamond syndrome) & congenital aplastic anemia (Fanconianemia), JMML, presence of erythropoietic stress (haemolysis, bleeding, recovery from acute bone marrow failure) and in pregnancy.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"done for\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9b493010-e148-4a6a-b26c-0214b693a923": {
-    "cop": 1,
-    "exp": "ICSI can be performed to help this couple have a successful embryo formation in the A In this one sperm is directly injected into mature egg prior to intrauterine transfer of the feilized eggs ICSI should be offered if the semen analysis shows <5 million motile sperm, | or absent motility of sperms. Many abnormal sperms Previous failed IVF Unexplained infeility IVF as well as other A procedures require at least 1,00,000 sperms per oocyte to have good chances of feilisation and with TESA, the number of sperms obtained is much less, good enough for ICSI (Intracytoplasmic Sperm Injection) that requires a single morphologically normal sperm. Hence sperms obtained from TESA are used for ICSI is the single best answer here."
+    "cop": 0,
+    "exp": "ICSI can be performed to help this couple have a successful embryo formation in the A In this one sperm is directly injected into mature egg prior to intrauterine transfer of the feilized eggs ICSI should be offered if the semen analysis shows <5 million motile sperm, | or absent motility of sperms. Many abnormal sperms Previous failed IVF Unexplained infeility IVF as well as other A procedures require at least 1,00,000 sperms per oocyte to have good chances of feilisation and with TESA, the number of sperms obtained is much less, good enough for ICSI (Intracytoplasmic Sperm Injection) that requires a single morphologically normal sperm. Hence sperms obtained from TESA are used for ICSI is the single best answer here.",
+    "hint_exp": "🧩 Your crush solved \"video testicular procedure being\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0a6afecc-fd25-4666-9aa1-6604604a57f7": {
-    "cop": 4,
-    "exp": "Nitisinone is prescribed for infantile tyrosinemia because it decreases production of the substrate (fumarylacetoacetate) for the hydrolase, thus decreasing the velocity of the reaction preventing substrate accumulation."
+    "cop": 3,
+    "exp": "Nitisinone is prescribed for infantile tyrosinemia because it decreases production of the substrate (fumarylacetoacetate) for the hydrolase, thus decreasing the velocity of the reaction preventing substrate accumulation.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"an example of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b3db1611-8fcb-4ef9-99b3-82e5eac51d4d": {
-    "cop": 1,
-    "exp": "A dendritic corneal ulcer is the hallmark sign of HSV infection, accompanied by stromal keratitis in more severe infection. These ulcers may begin as nondescript punctate keratopathies but quickly coalesce to form the familiar branching patterns. Because the virus invades and compromises the epithelial cells surrounding the ulcer, the leading edges (the so-called \"terminal end-bulbs\") will stain with rose bengal or lissamine green. Acyclovir 3% ointment is used as treatment."
+    "cop": 0,
+    "exp": "A dendritic corneal ulcer is the hallmark sign of HSV infection, accompanied by stromal keratitis in more severe infection. These ulcers may begin as nondescript punctate keratopathies but quickly coalesce to form the familiar branching patterns. Because the virus invades and compromises the epithelial cells surrounding the ulcer, the leading edges (the so-called \"terminal end-bulbs\") will stain with rose bengal or lissamine green. Acyclovir 3% ointment is used as treatment.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9996b317-f498-4c47-9890-ca9b2a5d8f99": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Division of labor o Four major works of Durkheim are1) Division of Labor in society.2) Rules of sociological methods.3) Suicide4) Elementary forms of religious life."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Division of labor o Four major works of Durkheim are1) Division of Labor in society.2) Rules of sociological methods.3) Suicide4) Elementary forms of religious life.",
+    "hint_exp": "🎯 Think of \"Durkheim work wras related\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e79ba591-027f-4f27-a282-79150c47c629": {
-    "cop": 1,
-    "exp": "Answer is A (ASD) ASD is the single best answer of exclusion. Cardiac anomalies in congenital rubella are mentioned differently in different books ! We have chosen ASD as the one to be excluded as both GHAI & CPDT mention VSD as a finding is cases of congenital rubella. Neveheless Harrison mentions ASD as well, and so you are on your own, if you wish to differ. The commonest congenital cardiac anomaly is Congenital Rubella is PDA. According to GHAI : PDA > PS> VSD According to CPDT : PDA > PS> VSD According to Harrison : PDA > PS> ASD According to Nelson : PDA > PS (ASD & VSD not mentioned)"
+    "cop": 0,
+    "exp": "Answer is A (ASD) ASD is the single best answer of exclusion. Cardiac anomalies in congenital rubella are mentioned differently in different books ! We have chosen ASD as the one to be excluded as both GHAI & CPDT mention VSD as a finding is cases of congenital rubella. Neveheless Harrison mentions ASD as well, and so you are on your own, if you wish to differ. The commonest congenital cardiac anomaly is Congenital Rubella is PDA. According to GHAI : PDA > PS> VSD According to CPDT : PDA > PS> VSD According to Harrison : PDA > PS> ASD According to Nelson : PDA > PS (ASD & VSD not mentioned)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Congenital Rubella infection\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6731c08c-ef84-4c1e-a5bf-635c272ca9d7": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Acute physiology Chronic Health\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "19e09a43-55bd-4e41-a3c8-929ddf833462": {
-    "cop": 4,
-    "exp": "Ans. (d) Stitch removed at 2 weeksRef: Bailey and Love 27th edition, Page 93* Repair face wounds as early in <24hours* In case of grafting -- Full thickness graft taken from behind ear gives good cosmetic match* Incision is always done parallel to Langer's lines and sutures are made perpendicular to them for cosmetic approximation.* Face sutures are removed on 5th day."
+    "cop": 3,
+    "exp": "Ans. (d) Stitch removed at 2 weeksRef: Bailey and Love 27th edition, Page 93* Repair face wounds as early in <24hours* In case of grafting -- Full thickness graft taken from behind ear gives good cosmetic match* Incision is always done parallel to Langer's lines and sutures are made perpendicular to them for cosmetic approximation.* Face sutures are removed on 5th day.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Lesions Face False statement\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f2e31b0d-af81-48cb-ac6c-9345c5382db2": {
-    "cop": 4,
-    "exp": "(Ref: KDT 6/e p840) Cyclosporine and tacrolimus cause nephrotoxicity as an adverse effect. Sirolimus (rapamycin) results in bone marrow suppression and thus may cause anemia, thrombocytopenia and leukopenia."
+    "cop": 3,
+    "exp": "(Ref: KDT 6/e p840) Cyclosporine and tacrolimus cause nephrotoxicity as an adverse effect. Sirolimus (rapamycin) results in bone marrow suppression and thus may cause anemia, thrombocytopenia and leukopenia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Sirolimus more likely than\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2889f907-c3c0-48e7-a104-f4f06bc46dbf": {
-    "cop": 4,
-    "exp": "Level of cleavage & blistering disorders- IADVL textbook of dermatology, page 1088 Intraepidermal Subcorneal / granular/upper spinous 1. Pemphigus erythematosus 2. Pemphigus foliaceous 3. Subcorneal pustular dermatosis 4. IgA pemphigus subscorneal pustular dermatosus type 5. Bullous congenital icthyosiform erythroderma 6. Staphylococcal scalded skin syndrome 7. Bullous impetigo Spinous layer Hailey hailey disease Spongiosis Herpes simplex and herpes zoster Insect bites Friction blister Supra basal Pemphigus vulgaris and vegetans Paraneoplastic pemphigus Transient acantholytic disorder IgA pemphigus intraepidermal type Sub epidermal Basal keratinocyte vacuolation or lysis Epidermolysis bullosa simplex Erythema multiforme Steven Johnson syndrome/ toxic epidermal necrolysis Fixed drug eruption Bullous lichen planus Basement membrane zone damage Bullous pemphigoid Mucous membrane pemphigoid Pemphigoid gestationis Dermatitis herpitiformis Linear Ig A disease Epidermolysis bullosa junctional and acquisita Porphyria cutanea tarda Bullous lupus erythematosus Dystrophic epidermolysis bullosa"
+    "cop": 3,
+    "exp": "Level of cleavage & blistering disorders- IADVL textbook of dermatology, page 1088 Intraepidermal Subcorneal / granular/upper spinous 1. Pemphigus erythematosus 2. Pemphigus foliaceous 3. Subcorneal pustular dermatosis 4. IgA pemphigus subscorneal pustular dermatosus type 5. Bullous congenital icthyosiform erythroderma 6. Staphylococcal scalded skin syndrome 7. Bullous impetigo Spinous layer Hailey hailey disease Spongiosis Herpes simplex and herpes zoster Insect bites Friction blister Supra basal Pemphigus vulgaris and vegetans Paraneoplastic pemphigus Transient acantholytic disorder IgA pemphigus intraepidermal type Sub epidermal Basal keratinocyte vacuolation or lysis Epidermolysis bullosa simplex Erythema multiforme Steven Johnson syndrome/ toxic epidermal necrolysis Fixed drug eruption Bullous lichen planus Basement membrane zone damage Bullous pemphigoid Mucous membrane pemphigoid Pemphigoid gestationis Dermatitis herpitiformis Linear Ig A disease Epidermolysis bullosa junctional and acquisita Porphyria cutanea tarda Bullous lupus erythematosus Dystrophic epidermolysis bullosa",
+    "hint_exp": "🎯 Think of \"Intraepidermal blisters seen following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fb9f4ae7-5146-4823-830b-0bddc69543ff": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following least ability\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b4a5d449-9209-4fed-94c3-09a7c3ea169b": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., 6-12 weeks * P. rosea is self limiting disease, subsides with 6-12 weeks.Pityriasis rosea* P. rosea is a common scaly disorder, occuring usually in children and young adults (10-35 years). Characterized by round/oval pink brown patches with a superficial, centrifugal scale, distributed over trunk in a Christmas tree pattern. The exact etiology is not known, but it is considered to be a viral disease; Human Herpes virus 6 (HHV 6) and Human Herpes virus 7 (HHV 7) may play a role.Clinical manifestations of P. rosea* The disease starts with an upper respiratory prodrome or a mild flu. After 1-2 weeks, annular erythematous plaque appears on trunk that is referred to as mother patch or herald patch. Over the next 1-2 weeks, fresh patch appear all over the trunk, in a Christmas tree configuration or Fir tree Configuration. The lesions are pinkish in white skin, hence the name rosea. However, on the dark Indian skin the lesions are skin coloured or brown. The most characteristic clue for the diagnosis is the presence of a fine scale at the edge of the lesion referrred to as centrifugal scale or collarette scales or cigarette paper scales. Lesions subside with hyperpigmentation. Trunk is involved predominantly, Sometimes (in 20% of patients) lesions occur predominantly on extremities and neck (inverse pattern).* Hanging curtain sign is seen in patients with pityriasis rosea. When the skin is stretched across long axis of herald patch, the scale is noted to be finer, lighter, and attached to one end, which tends to fold across the line of scratch"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., 6-12 weeks * P. rosea is self limiting disease, subsides with 6-12 weeks.Pityriasis rosea* P. rosea is a common scaly disorder, occuring usually in children and young adults (10-35 years). Characterized by round/oval pink brown patches with a superficial, centrifugal scale, distributed over trunk in a Christmas tree pattern. The exact etiology is not known, but it is considered to be a viral disease; Human Herpes virus 6 (HHV 6) and Human Herpes virus 7 (HHV 7) may play a role.Clinical manifestations of P. rosea* The disease starts with an upper respiratory prodrome or a mild flu. After 1-2 weeks, annular erythematous plaque appears on trunk that is referred to as mother patch or herald patch. Over the next 1-2 weeks, fresh patch appear all over the trunk, in a Christmas tree configuration or Fir tree Configuration. The lesions are pinkish in white skin, hence the name rosea. However, on the dark Indian skin the lesions are skin coloured or brown. The most characteristic clue for the diagnosis is the presence of a fine scale at the edge of the lesion referrred to as centrifugal scale or collarette scales or cigarette paper scales. Lesions subside with hyperpigmentation. Trunk is involved predominantly, Sometimes (in 20% of patients) lesions occur predominantly on extremities and neck (inverse pattern).* Hanging curtain sign is seen in patients with pityriasis rosea. When the skin is stretched across long axis of herald patch, the scale is noted to be finer, lighter, and attached to one end, which tends to fold across the line of scratch",
+    "hint_exp": "🧩 Your crush solved \"rosea clears with in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ccba9258-e5a3-4b2f-8dd8-50164911e229": {
-    "cop": 4,
-    "exp": "Phenol Red Thread test is the test to detect dry eye severity. When in contact with tear film it changes its colour from white to yellow to red. Its main advantage over Schirmertest is: a)It is Less time consuming as compared to schirmer test(15 sec) b)Anaesthesia of cornea is not required c)On the contact of tear strip with the tear it turns red d)Can be done in children easily e)Reflex tearing is minimal f)Differentiates between aqueous deficient & non aqueous deficient eyes"
+    "cop": 3,
+    "exp": "Phenol Red Thread test is the test to detect dry eye severity. When in contact with tear film it changes its colour from white to yellow to red. Its main advantage over Schirmertest is: a)It is Less time consuming as compared to schirmer test(15 sec) b)Anaesthesia of cornea is not required c)On the contact of tear strip with the tear it turns red d)Can be done in children easily e)Reflex tearing is minimal f)Differentiates between aqueous deficient & non aqueous deficient eyes",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Phenol test Methyl thread\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f66dc075-7940-4ab1-aefe-eaca788c77c3": {
-    "cop": 4,
-    "exp": "Ans. Cobalt-60"
+    "cop": 3,
+    "exp": "Ans. Cobalt-60",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following radioisotopes\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "720ad3f8-bd97-46ef-a3d2-956bfcc20fee": {
-    "cop": 4,
-    "exp": "Ans. (d) Morgagnian cataractOption a - In cortical cataract, due to progressive hydration, swelling (increase in AP diameter) of the lens occurs making the anterior chamber shallow.Option b - Increase in the anterior lens capsule curvature with axial lens thickness due to the action of ciliary muscle on zonules.Option c - Weill-Marchesani syndrome is associated with Microspherophakia, (small, spherical lens) leading to increase in AP diameter (the equatorial diameter decreases).Option d - Morgagnian is a type of Hypermature cataract, wherein the cortical material leaks out and is further liquefied, leaving a wrinkled capsule and a Shrunken lens."
+    "cop": 3,
+    "exp": "Ans. (d) Morgagnian cataractOption a - In cortical cataract, due to progressive hydration, swelling (increase in AP diameter) of the lens occurs making the anterior chamber shallow.Option b - Increase in the anterior lens capsule curvature with axial lens thickness due to the action of ciliary muscle on zonules.Option c - Weill-Marchesani syndrome is associated with Microspherophakia, (small, spherical lens) leading to increase in AP diameter (the equatorial diameter decreases).Option d - Morgagnian is a type of Hypermature cataract, wherein the cortical material leaks out and is further liquefied, leaving a wrinkled capsule and a Shrunken lens.",
+    "hint_exp": "🎯 Think of \"the lens\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e3afdb34-2f23-46b1-8c92-7f55457236bd": {
-    "cop": 2,
-    "exp": "Ans- B Narrowing of disc space First clinical sign of TB Spine = Paraspinal muscle spasm First clinical sign of Pott paraplegia = Ankle Clonus > Extensor Plantar > Spasticity First X-ray Sign of Pott spine = Reduction of disc space End result of Pott spine = bony ankylosis Loss of Spinal curvature is a non specific X-ray finding which can happen even after prolonged sitting."
+    "cop": 1,
+    "exp": "Ans- B Narrowing of disc space First clinical sign of TB Spine = Paraspinal muscle spasm First clinical sign of Pott paraplegia = Ankle Clonus > Extensor Plantar > Spasticity First X-ray Sign of Pott spine = Reduction of disc space End result of Pott spine = bony ankylosis Loss of Spinal curvature is a non specific X-ray finding which can happen even after prolonged sitting.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Earliest sign spine\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e21c572c-7641-4ba0-93f8-aca084487f50": {
-    "cop": 2,
-    "exp": "Ans. is `b ' i.e., Cisplatin o Cisplatin is the most common culprit causing chemotherapy induced nausea and vomiting, therefore cisplatin is given as slow i.v. infusion(never bolus) to prevent vomiting."
+    "cop": 1,
+    "exp": "Ans. is `b ' i.e., Cisplatin o Cisplatin is the most common culprit causing chemotherapy induced nausea and vomiting, therefore cisplatin is given as slow i.v. infusion(never bolus) to prevent vomiting.",
+    "hint_exp": "🧩 Your crush solved \"Which following Anti neoplastic\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2d043eeb-a1c2-43c9-acb4-594b6e1c37df": {
-    "cop": 2,
-    "exp": "Aspirin can displace warfarin from protein binding sites elevating the free drug level, leading to prolongation of both bleeding time and prothrombin time. So it should not be used in patients on anticoagulation therapy due to increased risk of bleeding. Other drugs which were found to increase the level of warfarin are: Azapropazone Phenylbutazone Naproxen Mefenamic acid Ibuprofen Ref: Enzyme- and Transpoer-Based Drug-Drug Interactions: Progress and Future Challenges edited by K. Sandy Pang, page 656."
+    "cop": 1,
+    "exp": "Aspirin can displace warfarin from protein binding sites elevating the free drug level, leading to prolongation of both bleeding time and prothrombin time. So it should not be used in patients on anticoagulation therapy due to increased risk of bleeding. Other drugs which were found to increase the level of warfarin are: Azapropazone Phenylbutazone Naproxen Mefenamic acid Ibuprofen Ref: Enzyme- and Transpoer-Based Drug-Drug Interactions: Progress and Future Challenges edited by K. Sandy Pang, page 656.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a patient who\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0a568a27-c005-445f-ab2f-fee777a5790c": {
-    "cop": 3,
-    "exp": "Commonest cause of sudden loss of vision in a diabetic is vitreous hemorrhage Slow loss of vision in a diabetic is due to Cystoid macular edema Neovascular glaucoma"
+    "cop": 2,
+    "exp": "Commonest cause of sudden loss of vision in a diabetic is vitreous hemorrhage Slow loss of vision in a diabetic is due to Cystoid macular edema Neovascular glaucoma",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"vision in a diabetic\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0d519093-8331-441f-8118-45dcb2621092": {
-    "cop": 1,
-    "exp": "Fetal macrosomia Definition: Those infants exceeding the 90th percentile for a given gestational week are usually used as the threshold for macrosomia or large-for-gestational age (LGA) bihweight The primary effect attributed to gestational diabetes is excessive fetal size or macrosomia Maternal hyperglycemia prompts fetal hyperinsulinemia, paicularly during the second half of gestation . This in turn stimulates excessive somatic growth or macrosomia. Except for the brain, most fetal organs are affected by the macrosomia that characterizes the fetus of a diabetic woman. Infants are anthropometrically different from other large-forgestational age (LGA) infants with excessive fat deposition on the shoulders and trunk, which predisposes to shoulder dystocia or cesarean delivery The incidence of macrosomia rises significantly when mean maternal blood glucose concentrations chronically exceed 130 mg/dL Reference: William&;s Obstetrics; 24th edition; Chapter 57"
+    "cop": 0,
+    "exp": "Fetal macrosomia Definition: Those infants exceeding the 90th percentile for a given gestational week are usually used as the threshold for macrosomia or large-for-gestational age (LGA) bihweight The primary effect attributed to gestational diabetes is excessive fetal size or macrosomia Maternal hyperglycemia prompts fetal hyperinsulinemia, paicularly during the second half of gestation . This in turn stimulates excessive somatic growth or macrosomia. Except for the brain, most fetal organs are affected by the macrosomia that characterizes the fetus of a diabetic woman. Infants are anthropometrically different from other large-forgestational age (LGA) infants with excessive fat deposition on the shoulders and trunk, which predisposes to shoulder dystocia or cesarean delivery The incidence of macrosomia rises significantly when mean maternal blood glucose concentrations chronically exceed 130 mg/dL Reference: William&;s Obstetrics; 24th edition; Chapter 57",
+    "hint_exp": "🎯 Think of \"pregnancy\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5f48d90a-b7aa-43dd-8402-ca6ecee6ebc9": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"index used record status\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9783eb08-29c3-4ae5-8587-366082dcd36a": {
-    "cop": 3,
-    "exp": "Despite its reputation as a hallucinogen, sub-anesthetic ketamine does not consistently produce frank hallucinations. 5 - 30 % patients receiving intravenous ketamine has incidence of postoperative delirium and hallucination associated with it. prevention and treatment - intravenous midazolam"
+    "cop": 2,
+    "exp": "Despite its reputation as a hallucinogen, sub-anesthetic ketamine does not consistently produce frank hallucinations. 5 - 30 % patients receiving intravenous ketamine has incidence of postoperative delirium and hallucination associated with it. prevention and treatment - intravenous midazolam",
+    "hint_exp": "🧩 Your crush solved \"features emergence delirium with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8d7fa9d7-af76-416e-a8d9-d6640a839701": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Phlegmon\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "38b22b85-984d-443c-81a8-98d537b2b8e0": {
-    "cop": 4,
-    "exp": "D i.e. Docosahexanoic Acid Most of the naturally occurring unsaturated fatty acids are cis-isomers. Trans-FA do not occur naturally in plants and occurs only in small amounts in animals as ruminant fat (eg butter fat) arising from the action of micro organisms in rumen. Cis isomers are less stable than trans FA.- Trans fatty acids formed during paial hydrogenation or hardening (saturation /deep frying)Q of vegetable oils - a procedure to improve stability or shelf life. Trans - FA increase incidence of coronary hea disease by increasing LDL and decreasing HDLQ.- Linoelic acid is the most impoant essential fatty acid because it serves as the basis for production of other EFAs like arachidonic acid & docosahexanoic acid. Arachidonic acid, a w-6 PUFA is essential as it is a precursor of prostaglandins & leukotrienes.Linoleic acid is the most impoant essential fatty acid, maximally found in Safflower oilQ>Corn oilQ> Sunflower oilQ- Docosahexanoic Acid (DHA; tai, 22:6) which is synthesized from a-linolenic acid or obtained directly from fish oils, is present in high concentrations in retina, cerebral coex, testis & sperm. DHA is paicularly needed for development of brain & retina and is supplied the placenta and milk. Milk is the constant and continuous source of DHA as placenta is not present at all time. Patients with Retinitis pigmentosa are repoed to have low levels of DHA.Plasma membrane contains both saturated & mono or poly unsaturated FA."
+    "cop": 3,
+    "exp": "D i.e. Docosahexanoic Acid Most of the naturally occurring unsaturated fatty acids are cis-isomers. Trans-FA do not occur naturally in plants and occurs only in small amounts in animals as ruminant fat (eg butter fat) arising from the action of micro organisms in rumen. Cis isomers are less stable than trans FA.- Trans fatty acids formed during paial hydrogenation or hardening (saturation /deep frying)Q of vegetable oils - a procedure to improve stability or shelf life. Trans - FA increase incidence of coronary hea disease by increasing LDL and decreasing HDLQ.- Linoelic acid is the most impoant essential fatty acid because it serves as the basis for production of other EFAs like arachidonic acid & docosahexanoic acid. Arachidonic acid, a w-6 PUFA is essential as it is a precursor of prostaglandins & leukotrienes.Linoleic acid is the most impoant essential fatty acid, maximally found in Safflower oilQ>Corn oilQ> Sunflower oilQ- Docosahexanoic Acid (DHA; tai, 22:6) which is synthesized from a-linolenic acid or obtained directly from fish oils, is present in high concentrations in retina, cerebral coex, testis & sperm. DHA is paicularly needed for development of brain & retina and is supplied the placenta and milk. Milk is the constant and continuous source of DHA as placenta is not present at all time. Patients with Retinitis pigmentosa are repoed to have low levels of DHA.Plasma membrane contains both saturated & mono or poly unsaturated FA.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"these fatty acids\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "543f0aeb-eed5-4869-9ac1-884909e1a46c": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Mixed parotid tumour arises\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4f34d9df-b78c-41a2-b43b-9dda2c8affd9": {
-    "cop": 1,
-    "exp": "Ans a Ref: Sheila balakrishna obs, page 157Clinical features of placenta previaSymptomsClassical presentation of painless antepartum haemorrhage. Recurrent initial bleeding is unusually not severeSignsPallor proportionate to amount of bleedingSize of the uterus correspond to period of amenorrhoeaUterus soft, non tenderMalpresentations and floating headFHS heard."
+    "cop": 0,
+    "exp": "Ans a Ref: Sheila balakrishna obs, page 157Clinical features of placenta previaSymptomsClassical presentation of painless antepartum haemorrhage. Recurrent initial bleeding is unusually not severeSignsPallor proportionate to amount of bleedingSize of the uterus correspond to period of amenorrhoeaUterus soft, non tenderMalpresentations and floating headFHS heard.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"will be\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3453950d-ac35-4677-83ea-9b562e94d8e9": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"ADHD\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9e384746-9205-4554-aff1-2c6df103b8ba": {
-    "cop": 2,
-    "exp": "CPS - I is a mitochondrial enzyme and catalyses rate limiting step of Urea Cycle.\nAll the Cytoplasmic enzymes of urea cycle start with letter \"A\"."
+    "cop": 1,
+    "exp": "CPS - I is a mitochondrial enzyme and catalyses rate limiting step of Urea Cycle.\nAll the Cytoplasmic enzymes of urea cycle start with letter \"A\".",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9e879d62-0a47-4443-aa5e-1cd2aad4fbdc": {
-    "cop": 3,
-    "exp": "Propeies of Amyloid Proteins: -Physical Nature of Amyloid: Electron microscopy-- Continuous, non-branching fibrils with a diameter of approximately 7.5 to 10 nm. X-ray crystallography and infrared spectroscopy-- Cross-b-pleated sheet conformation. This conformation is responsible for the distinctive Congo red staining and birefringence of amyloid. -Chemical Nature of Amyloid The AL (amyloid light chain)-excess of the light chains will deposit outside the cell in the form of Amyloid protein.It is seen in Multiple Myeloma patients. The AA (amyloid-associated) type of amyloid fibril protein is derived from unique non-Ig protein made by the liver. b-amyloid protein (Ab)-Seen in Alzheimer disease.(deposition of Ab plaque in the brain,causing damage to the coical neurons lowering the acetylcholine levels ,leading to |Memory."
+    "cop": 2,
+    "exp": "Propeies of Amyloid Proteins: -Physical Nature of Amyloid: Electron microscopy-- Continuous, non-branching fibrils with a diameter of approximately 7.5 to 10 nm. X-ray crystallography and infrared spectroscopy-- Cross-b-pleated sheet conformation. This conformation is responsible for the distinctive Congo red staining and birefringence of amyloid. -Chemical Nature of Amyloid The AL (amyloid light chain)-excess of the light chains will deposit outside the cell in the form of Amyloid protein.It is seen in Multiple Myeloma patients. The AA (amyloid-associated) type of amyloid fibril protein is derived from unique non-Ig protein made by the liver. b-amyloid protein (Ab)-Seen in Alzheimer disease.(deposition of Ab plaque in the brain,causing damage to the coical neurons lowering the acetylcholine levels ,leading to |Memory.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"electron microscopy amyloid characteristically\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d92be5bd-1d67-4ea0-9e60-01fb598ce63e": {
-    "cop": 3,
-    "exp": "Ans. c. Intellectual disabilityRef: First Aid for the Psychiatry Clerkship 4th Ed; Page No-122-23Intellectual disability (ID, intellectual developmental disorder) replaces the term mental retardation (MR) as per US law (Rosas Law), with the intention of decreasing stigmatization.ID is characterized by severely impaired cognitive and adaptive/social functioning.Severity level is currently based on adaptive functioning, indicating degree of support required.A single IQ score does not adequately capture this and is no longer used solely to determine ID severity.CAUSES OF MENTAL RETARDATIONCauseExamplesGenetic*. Down syndrome: Trisomy 21 (1/700 live births)*. Fragile X syndrome: Involves mutation of X chromosome, second most common cause of intellectual disability, M > F*. Others: Phenylketonuria, familial mental retardation, Prader-Willi syndrome, Williams syndrome, Angelman syndrome, tuberous sclerosisPrenatalInfection and toxins (TORCH):*. Toxoplasmosis*. Other (syphilis, AIDS, alcohol/illicit drugs)*. Rubella (German measles)*. Cytomegalovirus (CMV)*. Herpes simplexPerinatalAnoxia, prematurity, birth trauma, meningitis, hyperbilirubinemiaPostnatalHypothyroidism, malnutrition, toxin exposure, trauma, psychosocial CausesEXTRA MILECHARACTERISTIC PHYSICAL FEATURES OF GENETIC SYNDROMESDown syndrome: Epicanthic folds, flat nasal bridge, and palmar creaseFragile X syndrome: Macrocephaly, joint hyperlaxity, and macroorchidism in post pubertal males.Prader-Willi syndrome: Obese, small stature, and almond-shaped eyes.Fragile X syndrome facts and statisticsMost common inherited form of ID2nd most common cause of IDDue to FMR-1 gene mutationMales>femalesDown syndrome facts and statistics1/700 live birthsMost common chromosomal disorderTrisomy 21=3 copies of chromosome 21"
+    "cop": 2,
+    "exp": "Ans. c. Intellectual disabilityRef: First Aid for the Psychiatry Clerkship 4th Ed; Page No-122-23Intellectual disability (ID, intellectual developmental disorder) replaces the term mental retardation (MR) as per US law (Rosas Law), with the intention of decreasing stigmatization.ID is characterized by severely impaired cognitive and adaptive/social functioning.Severity level is currently based on adaptive functioning, indicating degree of support required.A single IQ score does not adequately capture this and is no longer used solely to determine ID severity.CAUSES OF MENTAL RETARDATIONCauseExamplesGenetic*. Down syndrome: Trisomy 21 (1/700 live births)*. Fragile X syndrome: Involves mutation of X chromosome, second most common cause of intellectual disability, M > F*. Others: Phenylketonuria, familial mental retardation, Prader-Willi syndrome, Williams syndrome, Angelman syndrome, tuberous sclerosisPrenatalInfection and toxins (TORCH):*. Toxoplasmosis*. Other (syphilis, AIDS, alcohol/illicit drugs)*. Rubella (German measles)*. Cytomegalovirus (CMV)*. Herpes simplexPerinatalAnoxia, prematurity, birth trauma, meningitis, hyperbilirubinemiaPostnatalHypothyroidism, malnutrition, toxin exposure, trauma, psychosocial CausesEXTRA MILECHARACTERISTIC PHYSICAL FEATURES OF GENETIC SYNDROMESDown syndrome: Epicanthic folds, flat nasal bridge, and palmar creaseFragile X syndrome: Macrocephaly, joint hyperlaxity, and macroorchidism in post pubertal males.Prader-Willi syndrome: Obese, small stature, and almond-shaped eyes.Fragile X syndrome facts and statisticsMost common inherited form of ID2nd most common cause of IDDue to FMR-1 gene mutationMales>femalesDown syndrome facts and statistics1/700 live birthsMost common chromosomal disorderTrisomy 21=3 copies of chromosome 21",
+    "hint_exp": "🎯 Think of \"name mental retardation according\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "79e642b8-e423-4b53-a3d1-57977ea565e4": {
-    "cop": 2,
-    "exp": "Exudation of fluid from venules and capillaries is a key component of the acute inflammatory process. Several mechanisms of increased vascular permeability have been proposed, including formation of interendothelial gaps by contraction of endothelium. This contraction can be caused by mediators such as histamine and leukotrienes. The vessels then become more \"leaky,\" and the fluid leaves the intravascular space to accumulate extravascularly, forming effusions in body cavities or edema within tissues. Arteriolar vasoconstriction is a transient response to injury that helps diminish blood loss. Platelets adhere to damaged endothelium and promote hemostasis. Lymphatic obstruction results in the accumulation of protein-rich lymph and lymphocytes, producing a chylous effusion within a body cavity. After neutrophils reach the site of tissue injury outside of the vascular space, they release lysosomal enzymes that promote liquefaction."
+    "cop": 1,
+    "exp": "Exudation of fluid from venules and capillaries is a key component of the acute inflammatory process. Several mechanisms of increased vascular permeability have been proposed, including formation of interendothelial gaps by contraction of endothelium. This contraction can be caused by mediators such as histamine and leukotrienes. The vessels then become more \"leaky,\" and the fluid leaves the intravascular space to accumulate extravascularly, forming effusions in body cavities or edema within tissues. Arteriolar vasoconstriction is a transient response to injury that helps diminish blood loss. Platelets adhere to damaged endothelium and promote hemostasis. Lymphatic obstruction results in the accumulation of protein-rich lymph and lymphocytes, producing a chylous effusion within a body cavity. After neutrophils reach the site of tissue injury outside of the vascular space, they release lysosomal enzymes that promote liquefaction.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year increasing dyspnea past\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "39c76adb-bf3f-4924-b11a-b47337e88195": {
-    "cop": 2,
-    "exp": "Imperforate hymen: congenital disorder where a hymen without an opening completely obstructs the vaginal outflow. Prevents the drainage of menstrual blood. This results in the accumulation of blood in the vagina leading to hematocolpos. This is visualised as the tense bulge. In long standing cases it can even lead to hematometra. Treatment involves a cruciate incision on the hymen with drainage of hematocolpos/ hematometra"
+    "cop": 1,
+    "exp": "Imperforate hymen: congenital disorder where a hymen without an opening completely obstructs the vaginal outflow. Prevents the drainage of menstrual blood. This results in the accumulation of blood in the vagina leading to hematocolpos. This is visualised as the tense bulge. In long standing cases it can even lead to hematometra. Treatment involves a cruciate incision on the hymen with drainage of hematocolpos/ hematometra",
+    "hint_exp": "🧩 Your crush solved \"year girl came casualty\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

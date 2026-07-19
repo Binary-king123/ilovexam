@@ -1,202 +1,252 @@
 {
   "582ba6ec-4ad2-4166-83f4-ed9643560d45": {
-    "cop": 1,
-    "exp": "<p>Hb electrophoresis helps to confirm beta thalassemia (Hb F increased ,HbA2 increased ). </p><p>Reference :Harsh mohab textbook of pathology sixth edition pg no 322.</p>"
+    "cop": 0,
+    "exp": "<p>Hb electrophoresis helps to confirm beta thalassemia (Hb F increased ,HbA2 increased ). </p><p>Reference :Harsh mohab textbook of pathology sixth edition pg no 322.</p>",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3c2f22cc-ad0f-4898-8ca4-3616fd8bc167": {
-    "cop": 1,
-    "exp": "Pterygium is a degenerative conjunctival fold which encroaches on the cornea in the palpebral area. It must be differentiated from pseudopterygium (an inflammatory fold of conjunctiva encroaching on cornea).Pterygium (L. Pterygion = a wing) is a wing-shaped fold of conjunctiva encroaching upon the cornea from either side within the interpalpebral fissure ref: A K KHURANA OPHTALMOLOGY,E4, Page-80 ref img"
+    "cop": 0,
+    "exp": "Pterygium is a degenerative conjunctival fold which encroaches on the cornea in the palpebral area. It must be differentiated from pseudopterygium (an inflammatory fold of conjunctiva encroaching on cornea).Pterygium (L. Pterygion = a wing) is a wing-shaped fold of conjunctiva encroaching upon the cornea from either side within the interpalpebral fissure ref: A K KHURANA OPHTALMOLOGY,E4, Page-80 ref img",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Conjunctival mucosal overgrowth over\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e7339d15-f4f7-4ecf-8113-ea6272485cbd": {
-    "cop": 1,
-    "exp": "Ovarian hyperstimulation syndrome (OHSS): It is a clinical symptom complex associated with ovarian enlargement resulting from exogenous gonadotropin therapy. Symptoms may include abdominal pain and distension, ascitis, gastrointestinal problems, respiratory compromise, oliguria, hemoconcentration, and thromboembolism. These symptoms may develop during ovulation induction or in early pregnancies that were conceived through exogenous ovarian stimulation. Ref: Hoffman B.L., Schorge J.O., Schaffer J.I., Halvorson L.M., Bradshaw K.D., Cunningham F.G., Calver L.E. (2012). Chapter 20. Treatment of the Infeile Couple. In B.L. Hoffman, J.O. Schorge, J.I. Schaffer, L.M. Halvorson, K.D. Bradshaw, F.G. Cunningham, L.E. Calver (Eds), Williams Gynecology, 2e."
+    "cop": 0,
+    "exp": "Ovarian hyperstimulation syndrome (OHSS): It is a clinical symptom complex associated with ovarian enlargement resulting from exogenous gonadotropin therapy. Symptoms may include abdominal pain and distension, ascitis, gastrointestinal problems, respiratory compromise, oliguria, hemoconcentration, and thromboembolism. These symptoms may develop during ovulation induction or in early pregnancies that were conceived through exogenous ovarian stimulation. Ref: Hoffman B.L., Schorge J.O., Schaffer J.I., Halvorson L.M., Bradshaw K.D., Cunningham F.G., Calver L.E. (2012). Chapter 20. Treatment of the Infeile Couple. In B.L. Hoffman, J.O. Schorge, J.I. Schaffer, L.M. Halvorson, K.D. Bradshaw, F.G. Cunningham, L.E. Calver (Eds), Williams Gynecology, 2e.",
+    "hint_exp": "🎯 Think of \"the MOST common\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3e028cce-7825-488a-9801-9b2851eba6a6": {
-    "cop": 2,
-    "exp": "Ans. b (Para-aortic nodes) (Ref BDC vol. 2 /4th/307)Lymphatics of adrenal/suprarenal gland drain into lateral/para-aortic nodes.Lymphatic Drainage of the Suprarenal Glands# The lymph vessels arise from a plexus deep to the capsule and from one in the medulla.# Most of lymphatics that leave the suprarenal glands end in superior lumbar (lateral aortic) lymph nodes.# The two main lymph node groups of the abdomen are closely related to the aorta. These comprise the pre-aortic and para-aortic groups.# The pre-aortic nodes are arranged around the three ventral branches of the aorta and consequently receive lymph from the territories that are supplied by these branches. This includes most of the gastrointestinal tract, liver, gall bladder, spleen and pancreas. The efferent vessels from the pre-aortic nodes coalesce to form a variable number of intestinal trunks that deliver the lymph to the cistema chyli.# The para-aortic nodes are arranged around the lateral branches of the aorta and drain lymph from their corresponding territories, i.e., the kidneys, adrenal, gonads and abdominal wall, as well as the common iliac nodes. The efferent vessels from the para-aortic nodes coalesce to form a variable number of lumbar trunks which deliver the lymph to the cisterna chyli.# Cisterna chyli: is a lymphatic sac that lies anterior to the bodies of the LI and L2. It is formed by the confluence of the intestinal trunks, the lumbar trunks and lymphatics from the lower thoracic wall. It reseives lymph from the abdomen and lower limbs which is then drained into beginning of L. Brachiocephalic vein.Additional Educational points:Arterial Supply of the Suprarenal Glands1. The aorta (one or more middle suprarenal arteries):2. The inferior phrenic artery (6-8 superior suprarenal arteries);3. The renal artery (one or more inferior suprarenal arteries).Venous Drainage of the Suprarenal Glands# These glands are drained mainly be a single, large suprarenal vein.# The right one drains into the IVC.# The left one joins the left renal vein.# There are also many small veins that accompany the suprarenal arteries.Innervation of the Suprarenal Glands# These glands have a rich innervation from the adjacent coeliac plexus and the greater thoracic splanchnic nerves.# These preganglionic sympathetic fibres pass through the hilum and synapse on cells in the medulla.# The suprarenal cortex receives only a vasomotor nerve supply."
+    "cop": 1,
+    "exp": "Ans. b (Para-aortic nodes) (Ref BDC vol. 2 /4th/307)Lymphatics of adrenal/suprarenal gland drain into lateral/para-aortic nodes.Lymphatic Drainage of the Suprarenal Glands# The lymph vessels arise from a plexus deep to the capsule and from one in the medulla.# Most of lymphatics that leave the suprarenal glands end in superior lumbar (lateral aortic) lymph nodes.# The two main lymph node groups of the abdomen are closely related to the aorta. These comprise the pre-aortic and para-aortic groups.# The pre-aortic nodes are arranged around the three ventral branches of the aorta and consequently receive lymph from the territories that are supplied by these branches. This includes most of the gastrointestinal tract, liver, gall bladder, spleen and pancreas. The efferent vessels from the pre-aortic nodes coalesce to form a variable number of intestinal trunks that deliver the lymph to the cistema chyli.# The para-aortic nodes are arranged around the lateral branches of the aorta and drain lymph from their corresponding territories, i.e., the kidneys, adrenal, gonads and abdominal wall, as well as the common iliac nodes. The efferent vessels from the para-aortic nodes coalesce to form a variable number of lumbar trunks which deliver the lymph to the cisterna chyli.# Cisterna chyli: is a lymphatic sac that lies anterior to the bodies of the LI and L2. It is formed by the confluence of the intestinal trunks, the lumbar trunks and lymphatics from the lower thoracic wall. It reseives lymph from the abdomen and lower limbs which is then drained into beginning of L. Brachiocephalic vein.Additional Educational points:Arterial Supply of the Suprarenal Glands1. The aorta (one or more middle suprarenal arteries):2. The inferior phrenic artery (6-8 superior suprarenal arteries);3. The renal artery (one or more inferior suprarenal arteries).Venous Drainage of the Suprarenal Glands# These glands are drained mainly be a single, large suprarenal vein.# The right one drains into the IVC.# The left one joins the left renal vein.# There are also many small veins that accompany the suprarenal arteries.Innervation of the Suprarenal Glands# These glands have a rich innervation from the adjacent coeliac plexus and the greater thoracic splanchnic nerves.# These preganglionic sympathetic fibres pass through the hilum and synapse on cells in the medulla.# The suprarenal cortex receives only a vasomotor nerve supply.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Lymphatics suprarenal gland drain\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f4623db5-ce8a-4ef7-9757-a577e089590b": {
-    "cop": 4,
-    "exp": "The external laryngeal nerve lies in relation to superior thyroid artery.\nThe recurrent laryngeal nerve lies close to superior laryngeal artery."
+    "cop": 3,
+    "exp": "The external laryngeal nerve lies in relation to superior thyroid artery.\nThe recurrent laryngeal nerve lies close to superior laryngeal artery.",
+    "hint_exp": "🧩 Your crush solved \"Most common nerve injured\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "60c99d7a-f832-4a1a-b1c9-796f9860da16": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Burn caused moist heat\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "aeef69e2-0427-4278-9325-3d03bc73f83c": {
-    "cop": 1,
-    "exp": "Ans- A Ref- Central serous chorioretinopathy is when fluid builds up under the retina. This can distort vision. The fluid leakage comes from a layer of tissue under the retina, called the choroid. There is another layer of cells called the retinal pigment epithelium (RPE). When the RPE doesn't work as it should, fluid builds up under the RPE. As a result, a small detachment forms under the retina, causing vision to become distorted. This image from an OCT scan shows how central serous retinopathy (also called central serous choroidopathy) causes a blister-like swelling in layers of the retina."
+    "cop": 0,
+    "exp": "Ans- A Ref- Central serous chorioretinopathy is when fluid builds up under the retina. This can distort vision. The fluid leakage comes from a layer of tissue under the retina, called the choroid. There is another layer of cells called the retinal pigment epithelium (RPE). When the RPE doesn't work as it should, fluid builds up under the RPE. As a result, a small detachment forms under the retina, causing vision to become distorted. This image from an OCT scan shows how central serous retinopathy (also called central serous choroidopathy) causes a blister-like swelling in layers of the retina.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"central serous retinopathy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "00cb04ae-97ba-4b21-bb5f-786ac9857b93": {
-    "cop": 2,
-    "exp": "Lens being an avascular structure receives its nutrition from the aqueous like glucose salts, etc, by diffusion processRef: Parsons diseases of the eye; Under the heading lens"
+    "cop": 1,
+    "exp": "Lens being an avascular structure receives its nutrition from the aqueous like glucose salts, etc, by diffusion processRef: Parsons diseases of the eye; Under the heading lens",
+    "hint_exp": "🎯 Think of \"Lens derives nutrition from\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e52dcade-6f4e-4d8a-ad21-c15bdcf2acd3": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Falciparum Malaria o It is mainly used for multidrug resistant falciparum malaria."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Falciparum Malaria o It is mainly used for multidrug resistant falciparum malaria.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Halofantrine used\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1ff76bee-8551-43b8-b596-3f84cf1e5cc4": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"nights\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1878b309-9716-427f-b311-f5e5d0ac034b": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Propranolol used following conditions\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "29d47018-26d2-47e0-9d1e-1470d28ec9e4": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"which following enzymes thiamine\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "504b69fd-13d3-4579-80a4-a6637e715040": {
-    "cop": 2,
-    "exp": "After eating a high fat meal, triglycerides are processed by the intestinal mucosal cells. They are assembled in chylomicrons and eventually sent into the circulation for delivery to adipocytes and other cells. Chylomicrons are too large to enter cells, but are degraded while in the circulation by lipoprotein lipase. A defect in this enzyme would result in the accumulation of chylomicrons in the plasma. Albumin-bound free fatty acids (choice A) is incorrect because fatty acids leave the intestine esterified as triglycerides in chylomicrons. HDL is not a carrier of dietary fat from the intestine. LDL would be not be elevated in this patient after a high fat meal. However, VLDL would be elevated if the patient ate a high carbohydrate meal. In this situation, the carbohydrate would be conveed into fat in the liver and sent out into circulation as VLDL. VLDL would be unable to be degraded to LDL and, therefore, would accumulate. Ref: Botham K.M., Mayes P.A. (2011). Chapter 25. Lipid Transpo & Storage. In D.A. Bender, K.M. Botham, P.A. Weil, P.J. Kennelly, R.K. Murray, V.W. Rodwell (Eds), Harper's Illustrated Biochemistry, 29e."
+    "cop": 1,
+    "exp": "After eating a high fat meal, triglycerides are processed by the intestinal mucosal cells. They are assembled in chylomicrons and eventually sent into the circulation for delivery to adipocytes and other cells. Chylomicrons are too large to enter cells, but are degraded while in the circulation by lipoprotein lipase. A defect in this enzyme would result in the accumulation of chylomicrons in the plasma. Albumin-bound free fatty acids (choice A) is incorrect because fatty acids leave the intestine esterified as triglycerides in chylomicrons. HDL is not a carrier of dietary fat from the intestine. LDL would be not be elevated in this patient after a high fat meal. However, VLDL would be elevated if the patient ate a high carbohydrate meal. In this situation, the carbohydrate would be conveed into fat in the liver and sent out into circulation as VLDL. VLDL would be unable to be degraded to LDL and, therefore, would accumulate. Ref: Botham K.M., Mayes P.A. (2011). Chapter 25. Lipid Transpo & Storage. In D.A. Bender, K.M. Botham, P.A. Weil, P.J. Kennelly, R.K. Murray, V.W. Rodwell (Eds), Harper's Illustrated Biochemistry, 29e.",
+    "hint_exp": "🎯 Think of \"year referred specialty clinic\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "16b7dee9-fb45-4bd5-8bb7-c9af6089c51c": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"fastest dental film currently\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "97f216ae-84dc-4897-a3dc-8f4585a8e1cb": {
-    "cop": 3,
-    "exp": "Tinel's sign : It records regeneration of nerve by Tapping on the nerve course from distal to proximal direction, tingling sensation is felt at the sprouting nerve ends till the distal course of the nerve (law of Projection)"
+    "cop": 2,
+    "exp": "Tinel's sign : It records regeneration of nerve by Tapping on the nerve course from distal to proximal direction, tingling sensation is felt at the sprouting nerve ends till the distal course of the nerve (law of Projection)",
+    "hint_exp": "🧩 Your crush solved \"indicative of\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "02eed3c7-c2dc-46b2-9039-6ac4456cb675": {
-    "cop": 2,
-    "exp": "The features of 11 - hydroxylase deficiency in a female are precocious pubey, hypeension, virilization etc. Also know: 1) Hypeension occurs in 17 - hydroxylase and 11 - hydroxylase deficiency 2) Male pseudohermaphroditism occurs in 17 - hydroxylase and 3b-hydroxysteroid dehydrogenase deficiency 3) Female pseudohermaphroditism is seen in 21- hydroxylase and 11- hydroxylase deficiency. Ref: Ganong, Edition 20, Page - 353"
+    "cop": 1,
+    "exp": "The features of 11 - hydroxylase deficiency in a female are precocious pubey, hypeension, virilization etc. Also know: 1) Hypeension occurs in 17 - hydroxylase and 11 - hydroxylase deficiency 2) Male pseudohermaphroditism occurs in 17 - hydroxylase and 3b-hydroxysteroid dehydrogenase deficiency 3) Female pseudohermaphroditism is seen in 21- hydroxylase and 11- hydroxylase deficiency. Ref: Ganong, Edition 20, Page - 353",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"of virilisation and\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3f41c320-2535-4f7a-b0b5-42407e015b8c": {
-    "cop": 3,
-    "exp": "The clinical symptoms, examination with USG findings of thickened pyloric muscle (>3mm) and elongated pyloric canal (>15mm) reveal the diagnosis as CHPS- congenital hyperophic pyloric stenosis. The management image represents surgical pyloromyotomy. Post surgical management - pyloric sphincter dysfunction leads to delivery of hyperosmotic chyme from stomach to small intestine, which it cannot process leading to OSMOTIC DIARRHEA. This is known as DUMPING syndrome and is responsible for the week's later symptoms."
+    "cop": 2,
+    "exp": "The clinical symptoms, examination with USG findings of thickened pyloric muscle (>3mm) and elongated pyloric canal (>15mm) reveal the diagnosis as CHPS- congenital hyperophic pyloric stenosis. The management image represents surgical pyloromyotomy. Post surgical management - pyloric sphincter dysfunction leads to delivery of hyperosmotic chyme from stomach to small intestine, which it cannot process leading to OSMOTIC DIARRHEA. This is known as DUMPING syndrome and is responsible for the week's later symptoms.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the current episode diarrhea\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7f4e055e-a49f-45bc-81b4-adc0a9e45953": {
-    "cop": 1,
-    "exp": "• Herniation of meninges through a defect in the posterior vertebral arches.\n• Spinal cord is usually normal and assumes a normal position in the spinal canal\n• There may be tethering, syringomyelia, or diastematomyelia.\nClinical Features\n• A fluctuant midline mass, that may transilluminate occurs along the vertebral column, in the lower back.\n• Most meningoceles are well covered with skin and pose no threat to the patient.\n• Anterior meningocele: Projects into pelvis through a defect in the sacrum.\n• Symptoms of constipation and bladder dysfunction develop due to the increasing size of the lesion.\nDiagnosis\n• Plain roentgenograms demonstrate a defect.\nTreatment\n• Asymptomatic children with normal neurologic findings and full-thickness skin covering the meningocele may have surgery delayed.\n• Patients with leaking CSF or a thin skin covering should undergo immediate surgical treatment to prevent meningitis."
+    "cop": 0,
+    "exp": "• Herniation of meninges through a defect in the posterior vertebral arches.\n• Spinal cord is usually normal and assumes a normal position in the spinal canal\n• There may be tethering, syringomyelia, or diastematomyelia.\nClinical Features\n• A fluctuant midline mass, that may transilluminate occurs along the vertebral column, in the lower back.\n• Most meningoceles are well covered with skin and pose no threat to the patient.\n• Anterior meningocele: Projects into pelvis through a defect in the sacrum.\n• Symptoms of constipation and bladder dysfunction develop due to the increasing size of the lesion.\nDiagnosis\n• Plain roentgenograms demonstrate a defect.\nTreatment\n• Asymptomatic children with normal neurologic findings and full-thickness skin covering the meningocele may have surgery delayed.\n• Patients with leaking CSF or a thin skin covering should undergo immediate surgical treatment to prevent meningitis.",
+    "hint_exp": "🎯 Think of \"meningocele\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "043dd197-d08f-410a-9e68-e643a52f8c0b": {
-    "cop": 1,
-    "exp": "Pneumocystis jirovecii causes infection Primarily in Rats. Pneumocystis jirovecii (previously P. carinii) is the causative organism of Pneumocystis pneumonia paicularly among immunocompromised hosts. P. jiroveci causes PCP in human with HIV if, their CD4+ cells count below 200/uL."
+    "cop": 0,
+    "exp": "Pneumocystis jirovecii causes infection Primarily in Rats. Pneumocystis jirovecii (previously P. carinii) is the causative organism of Pneumocystis pneumonia paicularly among immunocompromised hosts. P. jiroveci causes PCP in human with HIV if, their CD4+ cells count below 200/uL.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"infection primarily in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b4816029-73d3-4c73-af3a-df1cddbe4fa5": {
-    "cop": 2,
-    "exp": "-under ICDS Scheme, there is an anganwadi worker for a population of 400-800. - anganwadi worker is selected from the community itself - undergoes a training in various aspects of health, nutrition and child development for 4 months. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:903 <\\p>"
+    "cop": 1,
+    "exp": "-under ICDS Scheme, there is an anganwadi worker for a population of 400-800. - anganwadi worker is selected from the community itself - undergoes a training in various aspects of health, nutrition and child development for 4 months. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:903 <\\p>",
+    "hint_exp": "🧩 Your crush solved \"anganwadi worker trained\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0ef38e3e-5f3c-4479-b410-4dd92af8a7eb": {
-    "cop": 2,
-    "exp": "Mycoplasmas lack a rigid cell wall and are bound by a triple-layer unit membrane. For this reason, they are completely resistant to the action of penicillins. Unlike the chlamydiae, they can replicate in cell-free media."
+    "cop": 1,
+    "exp": "Mycoplasmas lack a rigid cell wall and are bound by a triple-layer unit membrane. For this reason, they are completely resistant to the action of penicillins. Unlike the chlamydiae, they can replicate in cell-free media.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"that they\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4f07ac95-23f6-422b-a9ce-6611c5175be9": {
-    "cop": 3,
-    "exp": "Radiological signs are extensive in a form of massive consolidation.E.coli,Klebsiella ,staphylococcus pneumonia have pneumatoceles. Ref : Essential pediatrics,O.P.Ghai,7 th edition,pgno:355"
+    "cop": 2,
+    "exp": "Radiological signs are extensive in a form of massive consolidation.E.coli,Klebsiella ,staphylococcus pneumonia have pneumatoceles. Ref : Essential pediatrics,O.P.Ghai,7 th edition,pgno:355",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Pneumatoceles often develop children\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c65619f0-aeb3-46f1-8b3b-9671a864e084": {
-    "cop": 2,
-    "exp": "Ans- B RIFAMPICIN: 1.most effective anti- tubercular drug 2.Most bactericidal antitubercular drug 3.Only bactericidal drug effective against persisters or dormant bacilli in solid caseous lesson 4.Acts on extracellular as well as intracellular organisms 5.Antitubercular drug causing rapid sputum conversion 6.Antitubercular drug causing orange discoloration of urine ISONIAZID: 1.First effective bactericidal drug used to treat tuberculosis 2.Maybe bacteriostatic at lower concentrations 3.Most toxic antitubercular drug 4.Antitubercular drug first to develop resistance STREPTOMYCIN: 1.Injectable antitubercular drug 2. Antitubercular drug contraindicated in pregnancy 3.Antitubercular drug causing vestibular damage ETHAMBUTOL 1.Antitubercular drug contraindicated in children < 6 years age 2. Antitubercular drug causing Optic neuritis(red-green color blindness)"
+    "cop": 1,
+    "exp": "Ans- B RIFAMPICIN: 1.most effective anti- tubercular drug 2.Most bactericidal antitubercular drug 3.Only bactericidal drug effective against persisters or dormant bacilli in solid caseous lesson 4.Acts on extracellular as well as intracellular organisms 5.Antitubercular drug causing rapid sputum conversion 6.Antitubercular drug causing orange discoloration of urine ISONIAZID: 1.First effective bactericidal drug used to treat tuberculosis 2.Maybe bacteriostatic at lower concentrations 3.Most toxic antitubercular drug 4.Antitubercular drug first to develop resistance STREPTOMYCIN: 1.Injectable antitubercular drug 2. Antitubercular drug contraindicated in pregnancy 3.Antitubercular drug causing vestibular damage ETHAMBUTOL 1.Antitubercular drug contraindicated in children < 6 years age 2. Antitubercular drug causing Optic neuritis(red-green color blindness)",
+    "hint_exp": "🎯 Think of \"following drug penetrates into\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6d072e93-1c1d-4e18-8bae-9a2c9e9ca45a": {
-    "cop": 2,
-    "exp": "MEN type 1 (MEN 1), which is also referred to as Wermer's syndrome, is characterized by the triad of tumors involving the parathyroids, pancreatic islets (gastrinomas, insulinomas, nonfunctioning and PPoma, glucagonoma, VIPoma) and anterior pituitary (prolactinoma, somatotrophinoma, coicotropinoma, nonfunctioning). Reference : page 2335-36 Harrison's Principles of Internal Medicine 19th edition"
+    "cop": 1,
+    "exp": "MEN type 1 (MEN 1), which is also referred to as Wermer's syndrome, is characterized by the triad of tumors involving the parathyroids, pancreatic islets (gastrinomas, insulinomas, nonfunctioning and PPoma, glucagonoma, VIPoma) and anterior pituitary (prolactinoma, somatotrophinoma, coicotropinoma, nonfunctioning). Reference : page 2335-36 Harrison's Principles of Internal Medicine 19th edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Type involves except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fa57122c-520b-4f0b-b527-aba74c9f3cc8": {
-    "cop": 2,
-    "exp": "Pancreatic tissue outside boundaries of the pancreas without anatomic or vascular connections to the pancreas, Also called ectopic pancreas. Ectopic pancreas can be found in submucosa of stomach, duodenum or small intestine, gallbladder, spleen Reference Bailey and love&;s edition 24 page no .1120"
+    "cop": 1,
+    "exp": "Pancreatic tissue outside boundaries of the pancreas without anatomic or vascular connections to the pancreas, Also called ectopic pancreas. Ectopic pancreas can be found in submucosa of stomach, duodenum or small intestine, gallbladder, spleen Reference Bailey and love&;s edition 24 page no .1120",
+    "hint_exp": "🧩 Your crush solved \"stomach\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "abbea89c-f90f-4766-9fe2-a86f05ca5ffd": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e.. Half of the calculated fluid given in initial 8 hrs. o Proper fluid management is critical to survival in a bum patient.o The hypovolemic shock in bum patient is special in the sense that the total body water remains unchanged in a burn patient. The thermal injury leads to a massive fluid shift from intravascular compartment to the extravascular compartment (interstitial -fintacellular) leading to edema formation (in both burned parts and non burned parts of body).o This fluid shift is maximum in the first 24 hrs.o Fluid resuscitation begins with an isotonic crystalloid solution- Ringer's lactate solution (RL) is the preferred solution (Normal saline should be avoided as the volumes required for resuscitation may lead to hyperchloremic metabolic acidosis). The concept behind the continuous fluid resuscitation is that the bum (and/or inhalation injury) drives an inflammatory response that leads to capillary leak; as the plasma leaks into the extravascular space, crystalloid administration would maintain the intravascular volume.The quantity of crystalloid needed for adequate resuscitation is determined by Parkland formula i.e., 4 mL/kg per % of TBS A bum. (Note that a number of formulas exist for calculating fluid needs during burn resuscitation, suggesting that no one formula benefits all patients. Parkland is one of the most commonly used formulas).Half of the calculated fluid is given in first 8 hrs and half in next 16 hrs.o Colloids are given in the next 24 hrs. The reason behind it being the observation that in the initial period, the vascular permeability is so large that even larger protein molecules leak from the capilaries. (But some workers, prefer to use colloids after 8 to 12 hrs, while there are some who use it from the very beginning),o A number of parameters are widely used to assess bum resuscitation, but the most common remain the simple outcomes of blood pressure and urine output. As in any critically ill patimt, the target MAP is 60 mitiHg to ensure optimal end-organ perfusion. Goals for urine output should be 30 mL/h in adults and 1 to 1.5 mL/kg per hour in pediatric patients.o There is no use of diuretics in bum resuscitation.o Children under 20 kg have the additional requirement as they do not have sufficient glycogen stores to maintain an adequate glucose level in response to the inflammatory' response. Specific pediatric formulas have been described, but the simplest approach is to add maintenance IV fluid with glucose supplementation in addition to the calculated resuscitation fluid with lactated Ringer's."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e.. Half of the calculated fluid given in initial 8 hrs. o Proper fluid management is critical to survival in a bum patient.o The hypovolemic shock in bum patient is special in the sense that the total body water remains unchanged in a burn patient. The thermal injury leads to a massive fluid shift from intravascular compartment to the extravascular compartment (interstitial -fintacellular) leading to edema formation (in both burned parts and non burned parts of body).o This fluid shift is maximum in the first 24 hrs.o Fluid resuscitation begins with an isotonic crystalloid solution- Ringer's lactate solution (RL) is the preferred solution (Normal saline should be avoided as the volumes required for resuscitation may lead to hyperchloremic metabolic acidosis). The concept behind the continuous fluid resuscitation is that the bum (and/or inhalation injury) drives an inflammatory response that leads to capillary leak; as the plasma leaks into the extravascular space, crystalloid administration would maintain the intravascular volume.The quantity of crystalloid needed for adequate resuscitation is determined by Parkland formula i.e., 4 mL/kg per % of TBS A bum. (Note that a number of formulas exist for calculating fluid needs during burn resuscitation, suggesting that no one formula benefits all patients. Parkland is one of the most commonly used formulas).Half of the calculated fluid is given in first 8 hrs and half in next 16 hrs.o Colloids are given in the next 24 hrs. The reason behind it being the observation that in the initial period, the vascular permeability is so large that even larger protein molecules leak from the capilaries. (But some workers, prefer to use colloids after 8 to 12 hrs, while there are some who use it from the very beginning),o A number of parameters are widely used to assess bum resuscitation, but the most common remain the simple outcomes of blood pressure and urine output. As in any critically ill patimt, the target MAP is 60 mitiHg to ensure optimal end-organ perfusion. Goals for urine output should be 30 mL/h in adults and 1 to 1.5 mL/kg per hour in pediatric patients.o There is no use of diuretics in bum resuscitation.o Children under 20 kg have the additional requirement as they do not have sufficient glycogen stores to maintain an adequate glucose level in response to the inflammatory' response. Specific pediatric formulas have been described, but the simplest approach is to add maintenance IV fluid with glucose supplementation in addition to the calculated resuscitation fluid with lactated Ringer's.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"True statement about burn\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "36e3cace-10a3-4e77-9d66-76bc1423bd24": {
-    "cop": 4,
-    "exp": "levodopa Drug causing hypeension * Cocaine * MAO Inhibitors * Cyclosporine * Glucocoicoids * Oral contraceptives * Tricyclic antidepressants * NSAID, Rofecoxib * Sympathomimetics Ibuprofen, Naproxen * Clonidine withdrawl * Decongestants (pseuodephedrine) * Erytlu-opoietin Drugs causing hypotension * Theophylline * Adenosine * Morphine * Quinidine * Fosphenytoin * Amiodarone * 1L-2 * Guanethidine * Alphablockers * Beta blockers (i.v.) * Bretylium * Chlorpromazine * Glyceryltrinitrate * Clonidine * Diuretics * Calcium channel blockers"
+    "cop": 3,
+    "exp": "levodopa Drug causing hypeension * Cocaine * MAO Inhibitors * Cyclosporine * Glucocoicoids * Oral contraceptives * Tricyclic antidepressants * NSAID, Rofecoxib * Sympathomimetics Ibuprofen, Naproxen * Clonidine withdrawl * Decongestants (pseuodephedrine) * Erytlu-opoietin Drugs causing hypotension * Theophylline * Adenosine * Morphine * Quinidine * Fosphenytoin * Amiodarone * 1L-2 * Guanethidine * Alphablockers * Beta blockers (i.v.) * Bretylium * Chlorpromazine * Glyceryltrinitrate * Clonidine * Diuretics * Calcium channel blockers",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen with all except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "62d267e2-0b0c-43ef-ae45-f18f67c06cb2": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Histogram"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Histogram",
+    "hint_exp": "🎯 Think of \"studied by\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bf4e3d0f-cafb-4200-8921-beb13c9b3abe": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Preserved contact with reality Psychosis Psychosis is a mental state involving the loss of contact with reality, causing deterioration of normal social functioning. The characteristic features of psychosis are : - Gross impairment in reality testing, i.e., loss of contact with reality. Marked disturbance in personality and behavior with impairment in social, interpersonal and occupational functioning. Marked impairment in judgement. Loss of insight (insight is an assessment of how aware the patient is of their own mental illness). Presence of characteristic symptoms like delusions and hallucinations, these are called psychotic symptoms. The major psychosis are : ? Organic psychotic disorders, e.g., Delirium, substance related psychosis, head trauma. Non-organic psychoses Major psychoses : - Schizophrenia, mood disorders (depression, mania, bipolar). Other psychotic disorders ( third psychosis): - Delusional disorders, acute and transient psychotic disorders, schizoaffective disorder Neurosis Neurosis is a general term referring to mental distress that, unlike psychosis, does not prevent rational thought and daily functioning. Characteristic features are : - Symptoms cause subjective distress to the patient. Insight is present (symptoms are recognised as undesirable). The personality and behaviour are relatively preserved as is the judgement. The contact with reality is preserved. Absence of organic causative factor Impoant neurotic disorders are Anxiety disorders (Panic), Phobia (Phobic anxiety disorder), obsessive compulsive disorder, Dissociative conversion disorder."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Preserved contact with reality Psychosis Psychosis is a mental state involving the loss of contact with reality, causing deterioration of normal social functioning. The characteristic features of psychosis are : - Gross impairment in reality testing, i.e., loss of contact with reality. Marked disturbance in personality and behavior with impairment in social, interpersonal and occupational functioning. Marked impairment in judgement. Loss of insight (insight is an assessment of how aware the patient is of their own mental illness). Presence of characteristic symptoms like delusions and hallucinations, these are called psychotic symptoms. The major psychosis are : ? Organic psychotic disorders, e.g., Delirium, substance related psychosis, head trauma. Non-organic psychoses Major psychoses : - Schizophrenia, mood disorders (depression, mania, bipolar). Other psychotic disorders ( third psychosis): - Delusional disorders, acute and transient psychotic disorders, schizoaffective disorder Neurosis Neurosis is a general term referring to mental distress that, unlike psychosis, does not prevent rational thought and daily functioning. Characteristic features are : - Symptoms cause subjective distress to the patient. Insight is present (symptoms are recognised as undesirable). The personality and behaviour are relatively preserved as is the judgement. The contact with reality is preserved. Absence of organic causative factor Impoant neurotic disorders are Anxiety disorders (Panic), Phobia (Phobic anxiety disorder), obsessive compulsive disorder, Dissociative conversion disorder.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"features of psychosis except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a1307734-9b5e-4700-90d8-c6063fc1cdd4": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Calcaneum Calcaneum is the most commonly fractured tarsal bone In 5-10% of cases fracture is bilateral Most common mechanism of injury is fall from height, often from a ladder, onto one or both heels. The calcaneum is driven up against the talus and is split or crushed. About one fifth of these patients suffer associated injuries of the spine, pelvis or hip. Calcaneal fracture is also known as Voveri fracture' Plain x-rays done for calcaneal fracture include lateral, oblique and axial views. Axial view of calcaneum is also called Hark view. CT is the investigation of choice With severe injuries and especially with bilateral fractures - it is essential to take x-ray the knees, the spine and the pelvis as well."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Calcaneum Calcaneum is the most commonly fractured tarsal bone In 5-10% of cases fracture is bilateral Most common mechanism of injury is fall from height, often from a ladder, onto one or both heels. The calcaneum is driven up against the talus and is split or crushed. About one fifth of these patients suffer associated injuries of the spine, pelvis or hip. Calcaneal fracture is also known as Voveri fracture' Plain x-rays done for calcaneal fracture include lateral, oblique and axial views. Axial view of calcaneum is also called Hark view. CT is the investigation of choice With severe injuries and especially with bilateral fractures - it is essential to take x-ray the knees, the spine and the pelvis as well.",
+    "hint_exp": "🧩 Your crush solved \"Most commonly injured tarsal\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ee1b31b7-e393-4807-890c-072f459f80e2": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 5th metacarpal fracture EponymFractures of Upper limbMontegia fracture dislocationFracture of the proximal third of ulna with radial head dislocation.Galeazzi fracture dislocationFracture of the distal third of the radius with dislocation of the distal radio-ulnar joint.Colie's fractureFracture at cortico-cancellous junction of the distal-end of radius with dorsal tilt.Bennet's fractureOblique intra-art icular fracture of the base of the 1st metacarpal.Night stick fractureIsolated fracture of the shaft of the ulna.Smith's fractureA fracture of distal end of radius at cortico-cancellous junction with ventral tilt and displacements (reverse Colle's fracture).Barton's fractureA vertical, marginal intra-articular fracture of the distal end of radius occurring with volar or dorsal displacement.Chauffeur fractureAn intra-articular oblique fracture of the styloid process of the radiusBoxer's fractureA fracture through the neck of the 5th metacarpal."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 5th metacarpal fracture EponymFractures of Upper limbMontegia fracture dislocationFracture of the proximal third of ulna with radial head dislocation.Galeazzi fracture dislocationFracture of the distal third of the radius with dislocation of the distal radio-ulnar joint.Colie's fractureFracture at cortico-cancellous junction of the distal-end of radius with dorsal tilt.Bennet's fractureOblique intra-art icular fracture of the base of the 1st metacarpal.Night stick fractureIsolated fracture of the shaft of the ulna.Smith's fractureA fracture of distal end of radius at cortico-cancellous junction with ventral tilt and displacements (reverse Colle's fracture).Barton's fractureA vertical, marginal intra-articular fracture of the distal end of radius occurring with volar or dorsal displacement.Chauffeur fractureAn intra-articular oblique fracture of the styloid process of the radiusBoxer's fractureA fracture through the neck of the 5th metacarpal.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Boxer fracture\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "88a1e801-313d-48c8-bdca-4451c6f3a9c2": {
-    "cop": 1,
-    "exp": "Pencillin"
+    "cop": 0,
+    "exp": "Pencillin",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"choice for treponema\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7bbb8f08-2700-4820-94bd-b52d4bf160db": {
-    "cop": 1,
-    "exp": "Ans: a (Pain, temperature & undifferentiated touch)Ref: Ganong, 22nd ed Pg.141Dorsal column transmits:Anterior spinothalamic tract transmits:Fine touchCrude touchVibrationPressureJoint position sense Lateral spinothalamic tract transmits:Cortical sensations:PainTactile localisationTemperatureTwo point discriminationStereognosisSensory inattentionGraphaesthesia"
+    "cop": 0,
+    "exp": "Ans: a (Pain, temperature & undifferentiated touch)Ref: Ganong, 22nd ed Pg.141Dorsal column transmits:Anterior spinothalamic tract transmits:Fine touchCrude touchVibrationPressureJoint position sense Lateral spinothalamic tract transmits:Cortical sensations:PainTactile localisationTemperatureTwo point discriminationStereognosisSensory inattentionGraphaesthesia",
+    "hint_exp": "🎯 Think of \"spinothalamic tract\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9e28d7df-c3b9-479b-874a-b7cef9fa1f91": {
-    "cop": 3,
-    "exp": "The medial fibres of tensor veli palatine are attached to the lateral lamina of the tube and when they contract they help to open the tube lumen. These fibres also called dilator tube muscles. Reference: Dhingra 6th edition."
+    "cop": 2,
+    "exp": "The medial fibres of tensor veli palatine are attached to the lateral lamina of the tube and when they contract they help to open the tube lumen. These fibres also called dilator tube muscles. Reference: Dhingra 6th edition.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "de00ead6-545f-4c86-9b69-97d33f48c9e7": {
-    "cop": 3,
-    "exp": "Presence of white lacy lesions in the oral cavity and proximal nail fold prolonged on to nail bed (pterygium) suggest the diagnosis of lichen planus."
+    "cop": 2,
+    "exp": "Presence of white lacy lesions in the oral cavity and proximal nail fold prolonged on to nail bed (pterygium) suggest the diagnosis of lichen planus.",
+    "hint_exp": "🧩 Your crush solved \"young lady presented with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "968ccd8d-248b-4f2f-b245-fb597e165def": {
-    "cop": 1,
-    "exp": "Postmoem rigidity is first apparent in the smaller muscles eg eyelids and jaw, and then it becomes evident in the remainder. Typically it is seen first in the face, then it progresses to shoulders and and finally in the large muscle groups of the limbs (Nysten's rule). In the initial 30 minutes after death there is no rigidity. Between 30min and 3 hrs after death, rigidity affects the face and eye muscles. By 6hrs rigidity affects all muscle groups and remains so for 24-36 hrs after death. From the time of 24 hr onwards rigidity stas to diminish with muscles becoming flaccid again from the time of around 36 hours. Ref: Oxford Handbook of Forensic Medicine By Tim Squires, page 33."
+    "cop": 0,
+    "exp": "Postmoem rigidity is first apparent in the smaller muscles eg eyelids and jaw, and then it becomes evident in the remainder. Typically it is seen first in the face, then it progresses to shoulders and and finally in the large muscle groups of the limbs (Nysten's rule). In the initial 30 minutes after death there is no rigidity. Between 30min and 3 hrs after death, rigidity affects the face and eye muscles. By 6hrs rigidity affects all muscle groups and remains so for 24-36 hrs after death. From the time of 24 hr onwards rigidity stas to diminish with muscles becoming flaccid again from the time of around 36 hours. Ref: Oxford Handbook of Forensic Medicine By Tim Squires, page 33.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"which of the following organs\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "80f17643-941f-4fd4-aa78-14f8084cf1fc": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Budd Chiari syndrome thrombosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c804ecaf-25a9-433c-bfcf-be3d596c2d4a": {
-    "cop": 3,
-    "exp": "Reference: Harrison's Principles of Internal Medicine; 20th edition; Chapter 335 Chronic Kidney Disease , pg 2112"
+    "cop": 2,
+    "exp": "Reference: Harrison's Principles of Internal Medicine; 20th edition; Chapter 335 Chronic Kidney Disease , pg 2112",
+    "hint_exp": "🎯 Think of \"a patient who\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fdcb8163-fd65-40a7-b2e7-f3017e189ac2": {
-    "cop": 1,
-    "exp": "Placental steroid sufatase deficiency is an X-linked disorder (affects only males) that does not lead to ambiguous genitalia in a female child.\n'Placental steroid suflatase deficiency is a rare X-linked disorder and all affected fetuses are males' William's 22nd/81\nCongenital adrenal hyperplasia is the most common cause of ambiguous genitalia in female child.\nFetal placental aromatase deficiency and WNT-4 gene mutation cause ambiguous genitalia in female child."
+    "cop": 0,
+    "exp": "Placental steroid sufatase deficiency is an X-linked disorder (affects only males) that does not lead to ambiguous genitalia in a female child.\n'Placental steroid suflatase deficiency is a rare X-linked disorder and all affected fetuses are males' William's 22nd/81\nCongenital adrenal hyperplasia is the most common cause of ambiguous genitalia in female child.\nFetal placental aromatase deficiency and WNT-4 gene mutation cause ambiguous genitalia in female child.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "81ae860a-0f78-4870-b8b9-5f54a533b966": {
-    "cop": 2,
-    "exp": "USG is the investigation of choice for molar pregnancies."
+    "cop": 1,
+    "exp": "USG is the investigation of choice for molar pregnancies.",
+    "hint_exp": "🧩 Your crush solved \"Molar pregnancy best diagnosed\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "792fe63e-edec-4623-a6dc-4ca14796de86": {
-    "cop": 1,
-    "exp": "Ans. 1 week"
+    "cop": 0,
+    "exp": "Ans. 1 week",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Minimum time diagnosis manic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d2f83333-6750-429e-9c39-49d49d15f791": {
-    "cop": 4,
-    "exp": "Fatty acid and triacylglycerol synthesis occur in the cytoplasm, but its precursor acetyl CoA is formed in the mitochondrial matrix. Beta oxidation of fatty acid occur in the matrix of the mitochondrion. Beta oxidation begins as soon as fatty acyl CoA appear in the matrix using repeated cycle of 4 steps. With each step fatty acyl CoA is broken down into new fatty acyl CoA shoened by two carbon atoms plus an acetyl CoA. Gluconeogenesis occur in the cytosol but depends on the mitochondrial compament for its staing substrate oxaloacetate. Functional compamentalisation of metabolism: Mitochondria: Beta oxidation of fatty acids Amino acid oxidation TCA cycle Urea cycle Peroxisomes: Oxidation of long chain fatty acids and D amino acids Synthesis of some lipids Cytoplasm: Glycolysis Glycogen generation and storage Fatty acid synthesis Urea cycle Gluconeogenesis Ref: Biochemistry By John W. Pelley, page 81. Biochemistry Primer for Exercise Science, 4E By Peter Tiidus, page 220, Mitochondria in Health and Disease edited by Carolyn D. Berdanier page 27."
+    "cop": 3,
+    "exp": "Fatty acid and triacylglycerol synthesis occur in the cytoplasm, but its precursor acetyl CoA is formed in the mitochondrial matrix. Beta oxidation of fatty acid occur in the matrix of the mitochondrion. Beta oxidation begins as soon as fatty acyl CoA appear in the matrix using repeated cycle of 4 steps. With each step fatty acyl CoA is broken down into new fatty acyl CoA shoened by two carbon atoms plus an acetyl CoA. Gluconeogenesis occur in the cytosol but depends on the mitochondrial compament for its staing substrate oxaloacetate. Functional compamentalisation of metabolism: Mitochondria: Beta oxidation of fatty acids Amino acid oxidation TCA cycle Urea cycle Peroxisomes: Oxidation of long chain fatty acids and D amino acids Synthesis of some lipids Cytoplasm: Glycolysis Glycogen generation and storage Fatty acid synthesis Urea cycle Gluconeogenesis Ref: Biochemistry By John W. Pelley, page 81. Biochemistry Primer for Exercise Science, 4E By Peter Tiidus, page 220, Mitochondria in Health and Disease edited by Carolyn D. Berdanier page 27.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following metabolic process occur\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "16a22945-f67c-4a21-a166-79f922d56219": {
-    "cop": 1,
-    "exp": "Ans: A (Narrow subpubic angle) Ref : Grays Anatomy 40th Ed pg.1329Explanation:All pelvic measurements display individual variation and the values quoted are means from limited surveys.Sexual and racial differences also occur.Many attempts to classify human pelves, especially female.The four most common terms used today are gynaecoid, anthropoid, platypelloid and android.GynaecoidThe gynaecoid pelvis is the traditional Western female pelvis with a heart-shaped brim and the range of measurements quoted above.Anthropoid pelvisAn anthropoid pelvis has a larger midcavity and a wide anteroposterior inlet which is oval in shapeIt is more common in women of African origin and may be associated with a 'high assimilation' pelvis where there is an additional lumbar vertebra.Platypelloid pelvisA platypelloid pelvis is flat and oval from side to side at the brimit is a contracted pelvis that is rarely seen nowadays, having previously been associated with rickets.Android pelvisAn android pelvis has a triangular brim and is the shape of a male pelvis."
+    "cop": 0,
+    "exp": "Ans: A (Narrow subpubic angle) Ref : Grays Anatomy 40th Ed pg.1329Explanation:All pelvic measurements display individual variation and the values quoted are means from limited surveys.Sexual and racial differences also occur.Many attempts to classify human pelves, especially female.The four most common terms used today are gynaecoid, anthropoid, platypelloid and android.GynaecoidThe gynaecoid pelvis is the traditional Western female pelvis with a heart-shaped brim and the range of measurements quoted above.Anthropoid pelvisAn anthropoid pelvis has a larger midcavity and a wide anteroposterior inlet which is oval in shapeIt is more common in women of African origin and may be associated with a 'high assimilation' pelvis where there is an additional lumbar vertebra.Platypelloid pelvisA platypelloid pelvis is flat and oval from side to side at the brimit is a contracted pelvis that is rarely seen nowadays, having previously been associated with rickets.Android pelvisAn android pelvis has a triangular brim and is the shape of a male pelvis.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "62075103-dca3-4de1-8bec-cd92b9c5b3b7": {
-    "cop": 3,
-    "exp": "Fallopian tubes"
+    "cop": 2,
+    "exp": "Fallopian tubes",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"genital tuberculosis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "28f0d37e-ceae-419c-86fb-ad57af6abb6e": {
-    "cop": 1,
-    "exp": "Cardiovascular monitoring Noninvasive Aerial Blood Pressure monitoring methods : Palpation Doppler Auscultation Oscillometry Aerial Tonometry Invasive Aerial Blood Pressure monitoring method Aerial cannulation ( eg : radial, ulnar, femoral ,etc) Pulmonary aery catheterization Central venous catheterization Cardiac output measurement Thermodilution Dye Dilution Pulse Contour Devices Esophageal Doppler Thoracic Bioimpedance Fick Principle Echocardiography Transthoracic echocardiography (TTE) Transesophageal echocardiography (TEE) Capnography : It is Non Cardiovascular monitoring method"
+    "cop": 0,
+    "exp": "Cardiovascular monitoring Noninvasive Aerial Blood Pressure monitoring methods : Palpation Doppler Auscultation Oscillometry Aerial Tonometry Invasive Aerial Blood Pressure monitoring method Aerial cannulation ( eg : radial, ulnar, femoral ,etc) Pulmonary aery catheterization Central venous catheterization Cardiac output measurement Thermodilution Dye Dilution Pulse Contour Devices Esophageal Doppler Thoracic Bioimpedance Fick Principle Echocardiography Transthoracic echocardiography (TTE) Transesophageal echocardiography (TEE) Capnography : It is Non Cardiovascular monitoring method",
+    "hint_exp": "🧩 Your crush solved \"methods Aerial blood pressure\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b862db84-7194-47d1-b313-574c620b216e": {
-    "cop": 1,
-    "exp": "Coccobacllus which have fatidious requirements and grow on complex media such as buffered charcoal,yeast extract (BYCE) agar,with L_cysteine and antibiotic supplements with 5%CO2 at PH_6.9, temperature 35degC and 90% humidity is legionella. Ref: anantnarayan and panikers 10 th edition"
+    "cop": 0,
+    "exp": "Coccobacllus which have fatidious requirements and grow on complex media such as buffered charcoal,yeast extract (BYCE) agar,with L_cysteine and antibiotic supplements with 5%CO2 at PH_6.9, temperature 35degC and 90% humidity is legionella. Ref: anantnarayan and panikers 10 th edition",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"BYCE medium\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "47761127-3ba6-4f47-b49b-dc4fa6481606": {
-    "cop": 2,
-    "exp": "Abnormalities Low ejaculate volume may indicate: Retrograde ejaculation Ejaculatory duct obstruction Incomplete collection Androgen deficiency Azoospermia: Testicular failure Obstruction of vas deferens Absence of fructose: Seminal vesicle agenesis or obstruction"
+    "cop": 1,
+    "exp": "Abnormalities Low ejaculate volume may indicate: Retrograde ejaculation Ejaculatory duct obstruction Incomplete collection Androgen deficiency Azoospermia: Testicular failure Obstruction of vas deferens Absence of fructose: Seminal vesicle agenesis or obstruction",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Fructose absence semen analysis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b1c4bff6-5bc6-4606-8bc2-3775c1929959": {
-    "cop": 2,
-    "exp": "Ans. b (Appendicular mass). (Ref. Bailey & Love, 25th ed., 1215)APPENDICULAR MASS# Following an attack of acute appendicitis infection is sealed off by greater omentum, caecum, terminal ileum, etc resulting in a tender, soft to firm appendicular mass.# Presence of appendicular mass is a contraindication for appendicectomy due to risk of faecal fistulae.# It is treated by Oschner & Sherren's regime, which includes:1. Aspiration with Ryle's tube to give rest to GIT.2. Bowel care (avoid purgatives).3. Charts--temperature, pulse, respiration, diameter of mass.4. Drugs--to cover all organisms.5. Exploratory laparotomy contraindicated.6. Fluid-IV (patient kept nil orally for few days).7. Swinging temperature & increased in size of mass indicate abscess.Criteria for stopping conservative treatment of an appendix mass include A rising pulse rate , Increasing or spreading abdominal pain and Increasing size of the mass"
+    "cop": 1,
+    "exp": "Ans. b (Appendicular mass). (Ref. Bailey & Love, 25th ed., 1215)APPENDICULAR MASS# Following an attack of acute appendicitis infection is sealed off by greater omentum, caecum, terminal ileum, etc resulting in a tender, soft to firm appendicular mass.# Presence of appendicular mass is a contraindication for appendicectomy due to risk of faecal fistulae.# It is treated by Oschner & Sherren's regime, which includes:1. Aspiration with Ryle's tube to give rest to GIT.2. Bowel care (avoid purgatives).3. Charts--temperature, pulse, respiration, diameter of mass.4. Drugs--to cover all organisms.5. Exploratory laparotomy contraindicated.6. Fluid-IV (patient kept nil orally for few days).7. Swinging temperature & increased in size of mass indicate abscess.Criteria for stopping conservative treatment of an appendix mass include A rising pulse rate , Increasing or spreading abdominal pain and Increasing size of the mass",
+    "hint_exp": "🎯 Think of \"for\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b0533019-b11a-49e5-b43b-bbc96dc23fb9": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"patient\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f3598aa2-94b1-4f48-a9fa-f6e0fd87c3e7": {
-    "cop": 3,
-    "exp": "Ans. is c, i.e. Sheehan's syndromeRef: Williams Gynae 1st/ed, p374; Leon Speroff 7th/ed, p438; Jeffcoate 7th/ed, p582-583Here before arriving to any diagnosis lets first see the causes of:Empty Sella:* Congenital incompleteness of the sellar diaphragm.* Secondary to surgery/radiotherapy or infarction of pituitary tumor.* Secondary to infarction and necrosis of pituitary gland.Now from the given causes: either pituitary tumor or Sheehan's syndrome can cause an empty sella on X-ray.Pituitary tumours (micro/macroadenoma) are prolactin secreting tumors and hence, cause galactorrhea (not lactational failure) with amenorrhea and are so, ruled out.So, the obvious answer by exclusion is Sheehan's Syndrome.Sheehan's syndrome:* It is the syndrome which results from ischemic necrosis of most of the anterior pituitaryQ due to spasm in its arterioles occurring at the time of severe hemorrhage or shock, complicating childbirth.Clinical Features: SymptomsQ* Failure of lactation after deliveryQ* Secondary amenorrheaQ* Loss of libidoQ* Increased sensitivity to cold (hvpothyroidism)Q Remember | Amenorrhea With failure to lactate With galactorrhea, headache and blurring of vision| |Think sheehan's syndrome Think prolactinoma"
+    "cop": 2,
+    "exp": "Ans. is c, i.e. Sheehan's syndromeRef: Williams Gynae 1st/ed, p374; Leon Speroff 7th/ed, p438; Jeffcoate 7th/ed, p582-583Here before arriving to any diagnosis lets first see the causes of:Empty Sella:* Congenital incompleteness of the sellar diaphragm.* Secondary to surgery/radiotherapy or infarction of pituitary tumor.* Secondary to infarction and necrosis of pituitary gland.Now from the given causes: either pituitary tumor or Sheehan's syndrome can cause an empty sella on X-ray.Pituitary tumours (micro/macroadenoma) are prolactin secreting tumors and hence, cause galactorrhea (not lactational failure) with amenorrhea and are so, ruled out.So, the obvious answer by exclusion is Sheehan's Syndrome.Sheehan's syndrome:* It is the syndrome which results from ischemic necrosis of most of the anterior pituitaryQ due to spasm in its arterioles occurring at the time of severe hemorrhage or shock, complicating childbirth.Clinical Features: SymptomsQ* Failure of lactation after deliveryQ* Secondary amenorrheaQ* Loss of libidoQ* Increased sensitivity to cold (hvpothyroidism)Q Remember | Amenorrhea With failure to lactate With galactorrhea, headache and blurring of vision| |Think sheehan's syndrome Think prolactinoma",
+    "hint_exp": "🧩 Your crush solved \"two children\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

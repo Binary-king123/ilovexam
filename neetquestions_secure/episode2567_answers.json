@@ -1,202 +1,252 @@
 {
   "2840f457-e1b5-4fa0-b394-8f087720d5c7": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Histogram Histogram* It is graphic display of tubulated frequencies shown as bar.\"Histogram is a representation of a frequency distribution by means of bars whose width represent class and whose areas are proportional to corresponding frequencies\"* In other words, Histogram shows the numbers of cases per unit interval so that the height of each bar is equal to the proportion of total people in the survey who fall in the category. The area under curve represents the total number of cases.* The categories (bars) are usually specified as non-overlapping intervals of some variable.* Categories (bars) must be adjucent.* Intervals are generally of the same size.* For example, the data set of blood cholesterol level of a group (mg/dl) ^ 3, 11, 12, 19, 22, 23, 24, 25, 27, 29, 35, 36, 37, 45, 49.* Information in this data set can be divided into interval & frequencies.InvervalWidthQuantity (frequencies)0-1010110-2010320-3010630-4010440-50102* Histogram will be :"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Histogram Histogram* It is graphic display of tubulated frequencies shown as bar.\"Histogram is a representation of a frequency distribution by means of bars whose width represent class and whose areas are proportional to corresponding frequencies\"* In other words, Histogram shows the numbers of cases per unit interval so that the height of each bar is equal to the proportion of total people in the survey who fall in the category. The area under curve represents the total number of cases.* The categories (bars) are usually specified as non-overlapping intervals of some variable.* Categories (bars) must be adjucent.* Intervals are generally of the same size.* For example, the data set of blood cholesterol level of a group (mg/dl) ^ 3, 11, 12, 19, 22, 23, 24, 25, 27, 29, 35, 36, 37, 45, 49.* Information in this data set can be divided into interval & frequencies.InvervalWidthQuantity (frequencies)0-1010110-2010320-3010630-4010440-50102* Histogram will be :",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which graph shows continuous\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7af7cd9f-9de2-49b2-b340-6f882e7cd946": {
-    "cop": 1,
-    "exp": "Caspases and endonuclease cause chromatin fragmentation in apoptosis. They are inactive, so first they should be activated. Cytochrome &;c&; binds with Apaf-1 and this complex activates caspases. Caspases cause fragmentation of chromatin and also activate endonuclease. About option &;b&; Though Apaf-1 helps in activation of caspases, it has no role in chromatin framentation and It does not have two seprate forms active or inactive. It just forms complex with cytochrome &;C&; to activate caspases. REF: ROBBINS pathology 10th edition"
+    "cop": 0,
+    "exp": "Caspases and endonuclease cause chromatin fragmentation in apoptosis. They are inactive, so first they should be activated. Cytochrome &;c&; binds with Apaf-1 and this complex activates caspases. Caspases cause fragmentation of chromatin and also activate endonuclease. About option &;b&; Though Apaf-1 helps in activation of caspases, it has no role in chromatin framentation and It does not have two seprate forms active or inactive. It just forms complex with cytochrome &;C&; to activate caspases. REF: ROBBINS pathology 10th edition",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which activated nuclear fragmentation\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "da037bfa-a154-4bde-9048-ba2827435f14": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Herd immunity useful\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "751c750b-98cc-4fb5-b92e-97d8ec342581": {
-    "cop": 2,
-    "exp": "Cocci are mostly gram positive except Bacilli are mostly gram negative except -meningococci -gonococci -veilonella -MORAXELLA M- Mycobacrerium A-Anthracis bacillus C-Clostridium species D-Diptheriae cornybacterium o N Nocardia A Actinomycetes L -Listeria D -Diptherioids s"
+    "cop": 1,
+    "exp": "Cocci are mostly gram positive except Bacilli are mostly gram negative except -meningococci -gonococci -veilonella -MORAXELLA M- Mycobacrerium A-Anthracis bacillus C-Clostridium species D-Diptheriae cornybacterium o N Nocardia A Actinomycetes L -Listeria D -Diptherioids s",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c312350c-d939-4f25-9cb9-8224a3ca5d11": {
-    "cop": 1,
-    "exp": "This mechanism involves a feedback loop in which the concentration of NaCl in the tubular fluid is sensed by the macula densa of the juxtaglomerular apparatus and conveed into a signal or signals that affect afferent aeriolar resistance and thus the GFR. When the GFR increases and causes in the tubular fluid at the macula densa to rise, more NaCl enters the macula densa cells. This leads to an increase in the formation and release of ATP and adenosine, a metabolite of ATP, by macula densa cells, which causes vasoconstriction of the afferent aeriole. Vasoconstriction of the afferent aeriole returns the GFR to normal levels."
+    "cop": 0,
+    "exp": "This mechanism involves a feedback loop in which the concentration of NaCl in the tubular fluid is sensed by the macula densa of the juxtaglomerular apparatus and conveed into a signal or signals that affect afferent aeriolar resistance and thus the GFR. When the GFR increases and causes in the tubular fluid at the macula densa to rise, more NaCl enters the macula densa cells. This leads to an increase in the formation and release of ATP and adenosine, a metabolite of ATP, by macula densa cells, which causes vasoconstriction of the afferent aeriole. Vasoconstriction of the afferent aeriole returns the GFR to normal levels.",
+    "hint_exp": "🧩 Your crush solved \"true about macula densa except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "23bf8a6f-4c94-4b26-b740-092c54fe3fca": {
-    "cop": 3,
-    "exp": "Refer the byte \"Ilegal sections\"."
+    "cop": 2,
+    "exp": "Refer the byte \"Ilegal sections\".",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"defined under\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1c745090-82ed-401b-91ed-4e7c83b966fe": {
-    "cop": 4,
-    "exp": "Ans. d. Propylthiouracil Propylthiouracil is the drug of choice for hyperthyroidism during pregnancy.\"ACE inhibitors inhibit the conversion of angiotensin-I to the potent vasoconstrictor angiotensin-II. They can cause severe fetal malformations that include hypocalvaria when given in the second and third trimesters. Because of this, they are not recommended during pregnancy. Angiotensin-receptor blockers act in a similar manner, but instead of blocking the production of angiotensin-II, they inhibit binding to its receptor. They are presumed to have the same fetal effects as ACE inhibitors and are also contraindicated. \"- Goodman and Gilman 12/e p736Antihypertensives to be avoided in Pregnancy (Mnemonic: SAAND)* Sodium nitroprusside* ACE inhibitors0* ARBs* Non-selective beta blockers* Diuretics Drugs in PregnancyAntithyroid drugsAntihypertensive Drugs* Propylthiouracil and methimezole are both antithyroid drug that cross the placenta and can lead to fetal goiter.* Methimazole has been associated with \"cutis aplasia'-, scalp defects, cloanat atresia esophageal atresia and increased maternal side effects.* Because both medications are equally effective the drug of choice for hyperthyroidism in pregnancy is propylthiouracil.* ACE inhibitor e.g. Enalaprif captopril can cause fetal renal tubular dysplasia in the second and third trimesters leading to oligohydramnios, fetal limb contractures, craniofacial deformities and hypoplastic lung development.* Angiotensin II receptor antagonist have been shown to have second and third trimester finding consistent with ACE inhibitors and are not recommended in pregnancy."
+    "cop": 3,
+    "exp": "Ans. d. Propylthiouracil Propylthiouracil is the drug of choice for hyperthyroidism during pregnancy.\"ACE inhibitors inhibit the conversion of angiotensin-I to the potent vasoconstrictor angiotensin-II. They can cause severe fetal malformations that include hypocalvaria when given in the second and third trimesters. Because of this, they are not recommended during pregnancy. Angiotensin-receptor blockers act in a similar manner, but instead of blocking the production of angiotensin-II, they inhibit binding to its receptor. They are presumed to have the same fetal effects as ACE inhibitors and are also contraindicated. \"- Goodman and Gilman 12/e p736Antihypertensives to be avoided in Pregnancy (Mnemonic: SAAND)* Sodium nitroprusside* ACE inhibitors0* ARBs* Non-selective beta blockers* Diuretics Drugs in PregnancyAntithyroid drugsAntihypertensive Drugs* Propylthiouracil and methimezole are both antithyroid drug that cross the placenta and can lead to fetal goiter.* Methimazole has been associated with \"cutis aplasia'-, scalp defects, cloanat atresia esophageal atresia and increased maternal side effects.* Because both medications are equally effective the drug of choice for hyperthyroidism in pregnancy is propylthiouracil.* ACE inhibitor e.g. Enalaprif captopril can cause fetal renal tubular dysplasia in the second and third trimesters leading to oligohydramnios, fetal limb contractures, craniofacial deformities and hypoplastic lung development.* Angiotensin II receptor antagonist have been shown to have second and third trimester finding consistent with ACE inhibitors and are not recommended in pregnancy.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"pregnancy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "32c1cda4-d93d-4a33-a0d8-84abbef121c2": {
-    "cop": 1,
-    "exp": "Ans. is a i.e. 2.5 cm Preterm labour (PTL) : Preterm labour is defined as labour (regular , painful frequent uterine contractions causing progressive effacement and dilatation of cervix) occurring before 37 completed weeks of gestation. \"Risk of preterm bih increases markedly when the cervix is less than 2.5 cms. This measurement has been widely accepted as the threshold to define the risk of premature bih. The possibility of preterm delivery when the cervix is < 25 mm is 17.8%. This risk is significantly greater than the normal risk, and hence these women require additional diagnostic tests and special care.\" Also know : Most common cause of preterm labour is chorioamnionitis. Most common organisms responsible for preterm labour : -- Ureoplasma urealyticum and Gardenerella vaginum causing bacterial vaginosis. Predictors of preterm labour -- Symptoms of Preterm labour -- Uterine contraction > 4 per hour -- Cervical length < 2.5 cm -- Presence of fibronectin in, the cervicovaginal discharge between 24-34 weeks -- Bishop's score > 4 -- Cervical dilatation > 2 cm and effacement 80% -- Vaginal bleeding -- Prior preterm bih. Diagnosis of Preterm labour : Regular uterine contractions with or without pain (at least one in every 10 min). Dilatation (> 2 cm) and effacement (80%) of cervix. Length of cervix (measured by TVS) < 2.5 cm and funneling of internal os. Pelvic pressure, backache and or vaginal discharge or bleeding."
+    "cop": 0,
+    "exp": "Ans. is a i.e. 2.5 cm Preterm labour (PTL) : Preterm labour is defined as labour (regular , painful frequent uterine contractions causing progressive effacement and dilatation of cervix) occurring before 37 completed weeks of gestation. \"Risk of preterm bih increases markedly when the cervix is less than 2.5 cms. This measurement has been widely accepted as the threshold to define the risk of premature bih. The possibility of preterm delivery when the cervix is < 25 mm is 17.8%. This risk is significantly greater than the normal risk, and hence these women require additional diagnostic tests and special care.\" Also know : Most common cause of preterm labour is chorioamnionitis. Most common organisms responsible for preterm labour : -- Ureoplasma urealyticum and Gardenerella vaginum causing bacterial vaginosis. Predictors of preterm labour -- Symptoms of Preterm labour -- Uterine contraction > 4 per hour -- Cervical length < 2.5 cm -- Presence of fibronectin in, the cervicovaginal discharge between 24-34 weeks -- Bishop's score > 4 -- Cervical dilatation > 2 cm and effacement 80% -- Vaginal bleeding -- Prior preterm bih. Diagnosis of Preterm labour : Regular uterine contractions with or without pain (at least one in every 10 min). Dilatation (> 2 cm) and effacement (80%) of cervix. Length of cervix (measured by TVS) < 2.5 cm and funneling of internal os. Pelvic pressure, backache and or vaginal discharge or bleeding.",
+    "hint_exp": "🎯 Think of \"preterm delivery\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4531cb3b-9332-4cea-a512-279a4e392f95": {
-    "cop": 4,
-    "exp": "Simian crease (single transverse palmar crease) is not seen in cystic fibrosis. Simian crease is seen in : Down&;s syndrome Fetal alcohol sydrome Trisomy 13 Cri du chat syndrome Ref: Online resources"
+    "cop": 3,
+    "exp": "Simian crease (single transverse palmar crease) is not seen in cystic fibrosis. Simian crease is seen in : Down&;s syndrome Fetal alcohol sydrome Trisomy 13 Cri du chat syndrome Ref: Online resources",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Simian crease seen\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1bd02fce-51f1-4b83-9bce-b11d0513f150": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Which following drug needs\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "50913ba3-8d72-4736-84e2-9abc5f46010a": {
-    "cop": 1,
-    "exp": "Transition metals like Iron and Copper generate free radicals and increase oxidative stress."
+    "cop": 0,
+    "exp": "Transition metals like Iron and Copper generate free radicals and increase oxidative stress.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "345309fa-85e2-4133-aff8-a65352a85da9": {
-    "cop": 2,
-    "exp": "Blood vessels are derived from mesoderm."
+    "cop": 1,
+    "exp": "Blood vessels are derived from mesoderm.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Retinal blood vessels developed\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5933d065-db0a-4e2d-bc71-69df5d9290aa": {
-    "cop": 2,
-    "exp": "A fiberoptic scope like bronchoscope, the flexible laryngoscope should be sterilized with 2% glutaraldehyde."
+    "cop": 1,
+    "exp": "A fiberoptic scope like bronchoscope, the flexible laryngoscope should be sterilized with 2% glutaraldehyde.",
+    "hint_exp": "🎯 Think of \"best sterilized with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c90a03a1-28ed-4e92-a0a8-70b6d50b6a7e": {
-    "cop": 2,
-    "exp": "Ans. (b) Radio-ulnar jointRef.: BDC 6th ed. vol. I /153-154; Clinically Oriented Anatomy by Keith, Moore, 5th ed/ 865* During Supination radius rotates laterally and palm laces anteriorly* During pronation, radius rotates medially and palm faces posteriorly* This movement takes place around distal radio-ulnar joint."
+    "cop": 1,
+    "exp": "Ans. (b) Radio-ulnar jointRef.: BDC 6th ed. vol. I /153-154; Clinically Oriented Anatomy by Keith, Moore, 5th ed/ 865* During Supination radius rotates laterally and palm laces anteriorly* During pronation, radius rotates medially and palm faces posteriorly* This movement takes place around distal radio-ulnar joint.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"upper limb\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "caf344e7-08af-41c1-9dc8-18a7ae55e215": {
-    "cop": 2,
-    "exp": "Frey's syndrome is aberrant misdirection of Parasympathetic fibres of auriculotemporal nerve- not sympathetic fibres. Frey's syndrome A.K.A gustatory sweating (or) Auriculotemporal syndrome When a parotidectomy is performed if damage is occurred to secretomotor parasympathetic fibres of parotid gland that arises from auriculotemporal nerve. Due to this there is an aberrant cross innervation between secretomotor fibres of parotid gland and sympathetic fibres of sweat glands occurs. Which upon gustatory stimulation makes the patient sweat in the cheek region rather having increased salivation Diagnosis: - Minors Starch Iodine test Management: Anti-perspirant application Inj. Botulinum toxin - Most effective t/t Tympanic neurotomy"
+    "cop": 1,
+    "exp": "Frey's syndrome is aberrant misdirection of Parasympathetic fibres of auriculotemporal nerve- not sympathetic fibres. Frey's syndrome A.K.A gustatory sweating (or) Auriculotemporal syndrome When a parotidectomy is performed if damage is occurred to secretomotor parasympathetic fibres of parotid gland that arises from auriculotemporal nerve. Due to this there is an aberrant cross innervation between secretomotor fibres of parotid gland and sympathetic fibres of sweat glands occurs. Which upon gustatory stimulation makes the patient sweat in the cheek region rather having increased salivation Diagnosis: - Minors Starch Iodine test Management: Anti-perspirant application Inj. Botulinum toxin - Most effective t/t Tympanic neurotomy",
+    "hint_exp": "🧩 Your crush solved \"the following statement\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "60dcb59b-b06f-44e5-af06-bbbd894224c6": {
-    "cop": 2,
-    "exp": "Ans: B (Inferior rectal nerve) Fig: Coronal section through the ischiorectal fossa\"Ilioinguinal nerve, supply the skin of external genitalia & upper part of the medial side of the thigh\"- BDC4th/Vol. II 196Ischioanal Fossa (formerly called ischiorectal fossa)It is somewhat prismatic in shape, with its base directed to the surface of the perineum, and its apex at the line of meeting of the obturator and anal fasciae.Contents of the Ischiorectal fossaIschiorectal pad of fatInferior rectal nerve and vessels.Posterior scrotal / posterior labial nerve and vessels.Pudendal canal and its contentsfpudendal nerve & internal pudendal vessel)Perineal branch of fourth sacral nerve.Perforating cutaneous branch ofS2, S3 nerve"
+    "cop": 1,
+    "exp": "Ans: B (Inferior rectal nerve) Fig: Coronal section through the ischiorectal fossa\"Ilioinguinal nerve, supply the skin of external genitalia & upper part of the medial side of the thigh\"- BDC4th/Vol. II 196Ischioanal Fossa (formerly called ischiorectal fossa)It is somewhat prismatic in shape, with its base directed to the surface of the perineum, and its apex at the line of meeting of the obturator and anal fasciae.Contents of the Ischiorectal fossaIschiorectal pad of fatInferior rectal nerve and vessels.Posterior scrotal / posterior labial nerve and vessels.Pudendal canal and its contentsfpudendal nerve & internal pudendal vessel)Perineal branch of fourth sacral nerve.Perforating cutaneous branch ofS2, S3 nerve",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"During incision drainage ischiorectal\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3de9cd01-929b-4842-863b-ebdba2c4ff3c": {
-    "cop": 4,
-    "exp": "Hemangiomas: These are the most common type of benign liver tumor. They sta in blood vessels. Most of these tumors do not cause symptoms and do not need treatment. Hepatocellular carcinoma is the most common primary malignant tumor of the liver and has a relatively low 5-year survival rate. Fibrolamellar carcinoma (FLC) has conventionally been considered to be a histologic variant of hepatocellular carcinoma (HCC). The liver is the second most commonly involved organ by metastatic disease. Types of metastases (1) Nodular metastases are the most common type and occur with all tumors capable of metastasizing to the liver, including lymphoma. (2) Diffuse metastases most frequently occur with lymphomas. Breast cancer, small cell lung cancer, poorly differentiated GI tumors. Hemangiomas may be mistaken for metastatic tumors and shouldn't be blindly biopsied."
+    "cop": 3,
+    "exp": "Hemangiomas: These are the most common type of benign liver tumor. They sta in blood vessels. Most of these tumors do not cause symptoms and do not need treatment. Hepatocellular carcinoma is the most common primary malignant tumor of the liver and has a relatively low 5-year survival rate. Fibrolamellar carcinoma (FLC) has conventionally been considered to be a histologic variant of hepatocellular carcinoma (HCC). The liver is the second most commonly involved organ by metastatic disease. Types of metastases (1) Nodular metastases are the most common type and occur with all tumors capable of metastasizing to the liver, including lymphoma. (2) Diffuse metastases most frequently occur with lymphomas. Breast cancer, small cell lung cancer, poorly differentiated GI tumors. Hemangiomas may be mistaken for metastatic tumors and shouldn't be blindly biopsied.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"liver\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "45538594-96b4-4c11-bfb3-65f6818b59eb": {
-    "cop": 3,
-    "exp": "The abscesses referred to in this question are amebic abscesses and not pyogenic abscesses as drainage is indicated in every pyogenic abscess.\nThe mainstay of treatment for amebic abscesses is metronidazole which is curative in over 90% of pts. Clinical improvement is seen within 3 days.\n\nAspiration is only recommended for following conditions\n\nfor diagnostic uncertainty\nfor failure to respond to therapy in 3 to 5 days (5 to 7 days according to Maingot's)\nabscesses with high risk to rupture (abscess > 5 cms, left lobe abscess)\npyogenic super infection"
+    "cop": 2,
+    "exp": "The abscesses referred to in this question are amebic abscesses and not pyogenic abscesses as drainage is indicated in every pyogenic abscess.\nThe mainstay of treatment for amebic abscesses is metronidazole which is curative in over 90% of pts. Clinical improvement is seen within 3 days.\n\nAspiration is only recommended for following conditions\n\nfor diagnostic uncertainty\nfor failure to respond to therapy in 3 to 5 days (5 to 7 days according to Maingot's)\nabscesses with high risk to rupture (abscess > 5 cms, left lobe abscess)\npyogenic super infection",
+    "hint_exp": "🎯 Think of \"true about amoebic liver\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6d57ca12-1039-49a8-93ea-6695971c25b1": {
-    "cop": 2,
-    "exp": "Stages of anaesthesia are :- Stage of analgesia (stage 1), stage of delirium or excitement (stage 2), stage of surgical anesthesia (stage 3) and stage of medullary paralysis (stage 4)."
+    "cop": 1,
+    "exp": "Stages of anaesthesia are :- Stage of analgesia (stage 1), stage of delirium or excitement (stage 2), stage of surgical anesthesia (stage 3) and stage of medullary paralysis (stage 4).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"stages anaesthesia except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "61d149c9-819f-4bad-96c0-9c735387b4b4": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"colchicine\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2c60d108-df76-4385-8dcc-7ca74772fdd2": {
-    "cop": 1,
-    "exp": "Ans. Carotid aery"
+    "cop": 0,
+    "exp": "Ans. Carotid aery",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Hanging causes injury JIPMER\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4ba5044b-10f2-4c84-afc9-d53f0855da92": {
-    "cop": 4,
-    "exp": "In true shoulder dystocia,the presentation is cephalic and the head is born ;but the shoulders cannot be delivered by usual methods and there is no other cause for the dystocia (refer pgno:390 sheila textbook of obstetrics 2 nd edition)"
+    "cop": 3,
+    "exp": "In true shoulder dystocia,the presentation is cephalic and the head is born ;but the shoulders cannot be delivered by usual methods and there is no other cause for the dystocia (refer pgno:390 sheila textbook of obstetrics 2 nd edition)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7e27f199-0cec-47a8-9ce9-703718500cbc": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Community' development blocko ICDS was launched on 2nd October 1975 in 33 Community development block.o ICDS programme is a globally recognized community' based early child care programme, which addresses the basic interrelated needs of yound children, expectant and nursing mothers and adolescent girls across the life cycle, in a holistic manner.2. ICDS -Beneficiaries are : 1) Pre-schoolchildren 2) Pregnant mother 3) Lactating mothers 4) Adolescent girlsServices delivered - - Supplementary nutrition - Vit A prophylaxis - Iron & folic acid.Worker - Anganwadi workers (at village level ) each covering a population of 1000.Note:o The Community development block is a rural area earmarked for administration and development in India. The area is administred by a Block Development Officer.o A community development block covers several gram panchayats, local administrative unit at the village level."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Community' development blocko ICDS was launched on 2nd October 1975 in 33 Community development block.o ICDS programme is a globally recognized community' based early child care programme, which addresses the basic interrelated needs of yound children, expectant and nursing mothers and adolescent girls across the life cycle, in a holistic manner.2. ICDS -Beneficiaries are : 1) Pre-schoolchildren 2) Pregnant mother 3) Lactating mothers 4) Adolescent girlsServices delivered - - Supplementary nutrition - Vit A prophylaxis - Iron & folic acid.Worker - Anganwadi workers (at village level ) each covering a population of 1000.Note:o The Community development block is a rural area earmarked for administration and development in India. The area is administred by a Block Development Officer.o A community development block covers several gram panchayats, local administrative unit at the village level.",
+    "hint_exp": "🎯 Think of \"ICDS Launched\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e7e8f0e0-53fe-49cd-ab61-dd9fb632c6c7": {
-    "cop": 4,
-    "exp": "Ans. Blue line in gums"
+    "cop": 3,
+    "exp": "Ans. Blue line in gums",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Arsenic causes except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "85945b1b-0cd8-40e1-af4c-0859360ad50f": {
-    "cop": 3,
-    "exp": "The clinical features in this patient are diagnostic of Wilson's disease. Wilson's disease is an Autosomal recessive disorder caused by mutation in the ATP7B gene. ATP7B protein deficiency impairs biliary copper excretion, resulting in positive copper balance, hepatic copper accumulation, and copper toxicity from oxidant damage. Clinical presentation can be hepatic, neurologic and psychiatric. Hepatic involvement results in hepatitis, cirrhosis, or hepatic decompensation. Neurologic involvement result in dystonia, incoordination and tremor. Psychiatric manifestations include behavioral disturbances, depression, hyperactivity or loss of sexual inhibition. Investigations show low ceruloplasmin, increased free copper levels and KF rings. The gold standard for diagnosis is liver biopsy with quantitative copper assays. ATP 7A gene mutation: Menkes Kinky Hair Syndrome KESHAN Disease: Endemic cardiomyopathy due to selenium deficiency Acrodermatitis Enteropathica: Abnormality in zinc absorption Ref: Harrison's Principles of Internal Medicine, 18th Edition, Pages 3188, 3193 ; APLS : The Pediatric Emergency Medicine Resource By Marianne Gausche-Hill, 4th Edition, Page 118"
+    "cop": 2,
+    "exp": "The clinical features in this patient are diagnostic of Wilson's disease. Wilson's disease is an Autosomal recessive disorder caused by mutation in the ATP7B gene. ATP7B protein deficiency impairs biliary copper excretion, resulting in positive copper balance, hepatic copper accumulation, and copper toxicity from oxidant damage. Clinical presentation can be hepatic, neurologic and psychiatric. Hepatic involvement results in hepatitis, cirrhosis, or hepatic decompensation. Neurologic involvement result in dystonia, incoordination and tremor. Psychiatric manifestations include behavioral disturbances, depression, hyperactivity or loss of sexual inhibition. Investigations show low ceruloplasmin, increased free copper levels and KF rings. The gold standard for diagnosis is liver biopsy with quantitative copper assays. ATP 7A gene mutation: Menkes Kinky Hair Syndrome KESHAN Disease: Endemic cardiomyopathy due to selenium deficiency Acrodermatitis Enteropathica: Abnormality in zinc absorption Ref: Harrison's Principles of Internal Medicine, 18th Edition, Pages 3188, 3193 ; APLS : The Pediatric Emergency Medicine Resource By Marianne Gausche-Hill, 4th Edition, Page 118",
+    "hint_exp": "🧩 Your crush solved \"for this patient\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3ab0094c-8752-40a4-b803-072f12027e9e": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"pitch of the sound\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "83a8e483-3894-4c67-9395-c08f34bec9bf": {
-    "cop": 3,
-    "exp": "Congenital heart lesions in rubella are FDA, PS, VSD, ASD, TOF, AS, and Pulmonary artery hypoplasia."
+    "cop": 2,
+    "exp": "Congenital heart lesions in rubella are FDA, PS, VSD, ASD, TOF, AS, and Pulmonary artery hypoplasia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"rubella\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "71940811-4f15-47e2-8c8d-f1d7a10225f2": {
-    "cop": 4,
-    "exp": "Laboratory fmdings in DIC :         \n\nLow platelet count.\nBlood film shows microangiopathic haemolytic anaemia. There is presence of fragmented R.B.C. due to damage caused by trapping and passage through fibrin thrombi.\nPT, thrombin time, and Activated Partial thromboplastin time all are prolonged.\nPlasma fibrinogen level decreased.\nFibrin degradation product (FDPS) are raised.\nFactor V and factor VIII decreased in concentration."
+    "cop": 3,
+    "exp": "Laboratory fmdings in DIC :         \n\nLow platelet count.\nBlood film shows microangiopathic haemolytic anaemia. There is presence of fragmented R.B.C. due to damage caused by trapping and passage through fibrin thrombi.\nPT, thrombin time, and Activated Partial thromboplastin time all are prolonged.\nPlasma fibrinogen level decreased.\nFibrin degradation product (FDPS) are raised.\nFactor V and factor VIII decreased in concentration.",
+    "hint_exp": "🎯 Think of \"which seen Normal APTTb\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "65975475-7798-42c5-826f-b11bc5a2fac8": {
-    "cop": 3,
-    "exp": "Now in this question: The ions are freely permeable their conductance can be considered as same or simply 1. There is no mention of impermeant ion (negative impermeant protein along with selective permeability of cell membrane is responsible for negative RMP in cells), hence at rest or equilibrium, an electrical neutrality will be established resulting in the potential across membrane to become zero. Thus, Ex + Ey + Ez = 0; i.e; Ez = +80mV"
+    "cop": 2,
+    "exp": "Now in this question: The ions are freely permeable their conductance can be considered as same or simply 1. There is no mention of impermeant ion (negative impermeant protein along with selective permeability of cell membrane is responsible for negative RMP in cells), hence at rest or equilibrium, an electrical neutrality will be established resulting in the potential across membrane to become zero. Thus, Ex + Ey + Ez = 0; i.e; Ez = +80mV",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the value of Z\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f540b47b-38d3-468b-998c-136ebea90a49": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 1978"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 1978",
+    "hint_exp": "🧩 Your crush solved \"Alma frernce held\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "703a0a7b-3fa7-4990-895e-2ccd4a2cf5f1": {
-    "cop": 4,
-    "exp": "Median nerve innervates the thenar muscles and the skin over it. The likely condition is Carpal Tunnel Syndrome."
+    "cop": 3,
+    "exp": "Median nerve innervates the thenar muscles and the skin over it. The likely condition is Carpal Tunnel Syndrome.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a0e0d5a6-af20-420f-84e0-1c1e83f105bf": {
-    "cop": 2,
-    "exp": "Assess the urethral injury by ascending ......... The bulbous urethra may be injured as a result falling astride an object. Urethral contusion may cause a perineal hematoma without urethral disruption. Perineal hematoma usually resolves without complications. Laceration will lead to urinary extravasation. The patient usually has a desire to void, but voiding should not be allowed until assessment of the urethra is complete. No attempt should be made to pass a urethral catheter, but if the patient's bladder is over distended, percutaneous suprapubic cystostomy can be done as a temporary procedure. A urethrogram with instillation of 15 - 20 m1 of contrast material, will demonstrate extravasation and the location of injury. The contused urethra will show no evidence of extravasation. If there is no evidence of extravasation on the urethrogram, a urethral catheter may be passed into the bladder. Extravasation is a contraindication to fuher instrumentation at this time. After the urethrography, the patient with urethral contusion is allowed to void; and if the voiding occurs normally, without pain or bleeding no additional treatment is necessary. If bleeding persists urethral catheter drainage can be done. If urethral laceration is detected on urethrography instrumentation of the urethra should be avoided. A suprapubic cystostomy tube should be inseed (through a small incision in the suprapubic area to expose the dome of the bladder) to allow complete urinary diversion while the urethral laceration heals."
+    "cop": 1,
+    "exp": "Assess the urethral injury by ascending ......... The bulbous urethra may be injured as a result falling astride an object. Urethral contusion may cause a perineal hematoma without urethral disruption. Perineal hematoma usually resolves without complications. Laceration will lead to urinary extravasation. The patient usually has a desire to void, but voiding should not be allowed until assessment of the urethra is complete. No attempt should be made to pass a urethral catheter, but if the patient's bladder is over distended, percutaneous suprapubic cystostomy can be done as a temporary procedure. A urethrogram with instillation of 15 - 20 m1 of contrast material, will demonstrate extravasation and the location of injury. The contused urethra will show no evidence of extravasation. If there is no evidence of extravasation on the urethrogram, a urethral catheter may be passed into the bladder. Extravasation is a contraindication to fuher instrumentation at this time. After the urethrography, the patient with urethral contusion is allowed to void; and if the voiding occurs normally, without pain or bleeding no additional treatment is necessary. If bleeding persists urethral catheter drainage can be done. If urethral laceration is detected on urethrography instrumentation of the urethra should be avoided. A suprapubic cystostomy tube should be inseed (through a small incision in the suprapubic area to expose the dome of the bladder) to allow complete urinary diversion while the urethral laceration heals.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"year engineer presented with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "853123c3-44dd-4f03-9fbd-48bd451142ac": {
-    "cop": 2,
-    "exp": "B i.e. Temperature lower than core body temperature"
+    "cop": 1,
+    "exp": "B i.e. Temperature lower than core body temperature",
+    "hint_exp": "🎯 Think of \"Spermatogenesis occurs\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8b43d94d-691d-4cb3-ad9f-5914664723d9": {
-    "cop": 1,
-    "exp": "In the acute cholecystitis, the patient may have right upper quadrant tenderness that is exacerbated during inspiration by the examiner's right subcostal palpation (Murphy's sign). A positive Murphy's sign suggests acute inflammation and may be associated with a leukocytosis and moderately elevated liver function tests.Ref: Bailey and love 27e pg: 1199"
+    "cop": 0,
+    "exp": "In the acute cholecystitis, the patient may have right upper quadrant tenderness that is exacerbated during inspiration by the examiner's right subcostal palpation (Murphy's sign). A positive Murphy's sign suggests acute inflammation and may be associated with a leukocytosis and moderately elevated liver function tests.Ref: Bailey and love 27e pg: 1199",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "41eede7d-a578-4bab-905a-82a31f4dca0a": {
-    "cop": 1,
-    "exp": "Deep cardiac plexus is situated in front of the bifurcation of trachea B D CHOURASIAS HUMAN ANATOMY UPPER LIMB THORAX VOLUME ,1 SIXTH EDITION, PAGE NO, 267"
+    "cop": 0,
+    "exp": "Deep cardiac plexus is situated in front of the bifurcation of trachea B D CHOURASIAS HUMAN ANATOMY UPPER LIMB THORAX VOLUME ,1 SIXTH EDITION, PAGE NO, 267",
+    "hint_exp": "🧩 Your crush solved \"present at\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dc963574-93dc-4b9d-94ca-3b5b03fde2a5": {
-    "cop": 3,
-    "exp": "Neonates HMD ( Hyaline membrane disease composition:- fibrin ) Respiratory distress syndrome Adults ARDS(Adult respiratory distress syndrome) Usually caused due to damage of endothelial cells Subsequently injury to TYPE 1 and TYPE 2 pneumocytes ARDS:- Characterized by Acute shoness of breath Hypoxemia Diffuse pulmonary infiltrates Diagnosis of ARDS : onset <7 days Non cardiogenic pulmonary edema B/L diffuse infiltrates on chest X-ray Pao2 < 60 mmHg Pao2/Fio2 < 60mmHg Hyaline membrane disease: -Deposition of layer of hyaline proteinaceous material in peripheral airspaces of infants 200-300 (Mild ARDS) 100-200 (Moderate ARDS) < 100 Severe ARDS Causes of RDS: immaturity of lungs (most impoant substrate on which RDS develops) Occurs in about 60% of infants born <28 wks Occurs in 30% of infants born b/w 28-34 wks Fundamental defect in RDS is deficiency of pulmonary surfactant (predominantly dipalmitoyl phosphatidyl choline smaller amounts of phosphatidyl glycerol) Interstitial lung disease: Predominant involvement of interstitium progressing to fibrosis IOC: HRCT chest Radiological pattern: Reticular pattern CT chest: mild lazy ness K/a ground glass opacity"
+    "cop": 2,
+    "exp": "Neonates HMD ( Hyaline membrane disease composition:- fibrin ) Respiratory distress syndrome Adults ARDS(Adult respiratory distress syndrome) Usually caused due to damage of endothelial cells Subsequently injury to TYPE 1 and TYPE 2 pneumocytes ARDS:- Characterized by Acute shoness of breath Hypoxemia Diffuse pulmonary infiltrates Diagnosis of ARDS : onset <7 days Non cardiogenic pulmonary edema B/L diffuse infiltrates on chest X-ray Pao2 < 60 mmHg Pao2/Fio2 < 60mmHg Hyaline membrane disease: -Deposition of layer of hyaline proteinaceous material in peripheral airspaces of infants 200-300 (Mild ARDS) 100-200 (Moderate ARDS) < 100 Severe ARDS Causes of RDS: immaturity of lungs (most impoant substrate on which RDS develops) Occurs in about 60% of infants born <28 wks Occurs in 30% of infants born b/w 28-34 wks Fundamental defect in RDS is deficiency of pulmonary surfactant (predominantly dipalmitoyl phosphatidyl choline smaller amounts of phosphatidyl glycerol) Interstitial lung disease: Predominant involvement of interstitium progressing to fibrosis IOC: HRCT chest Radiological pattern: Reticular pattern CT chest: mild lazy ness K/a ground glass opacity",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following condition\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a59f2c52-c045-40ee-a29b-61e81b4f48ac": {
-    "cop": 1,
-    "exp": "MRI images can be used to quantify accurately ejection fraction, end-systolic and end-diastolic volumes, and cardiac mass with high accuracy, reliability, and reproducibility, and without the need for ionizing radiation. Echocardigraphy is a useful tool and used routinely because it is cheaper, efficacy, poability and wide availability. Although SPECT and ECHO are popular among cardiologists, MRI is shown to be the most accurate investigation for global and regional systolic LV function in normal individuals and patients. Ref: Harrison's principles of internal medicine , 18 th edition : Page , 1847. Cardiovascular Magnetic Resonance Imaging, by Raymond Y. Kwong, Page 269"
+    "cop": 0,
+    "exp": "MRI images can be used to quantify accurately ejection fraction, end-systolic and end-diastolic volumes, and cardiac mass with high accuracy, reliability, and reproducibility, and without the need for ionizing radiation. Echocardigraphy is a useful tool and used routinely because it is cheaper, efficacy, poability and wide availability. Although SPECT and ECHO are popular among cardiologists, MRI is shown to be the most accurate investigation for global and regional systolic LV function in normal individuals and patients. Ref: Harrison's principles of internal medicine , 18 th edition : Page , 1847. Cardiovascular Magnetic Resonance Imaging, by Raymond Y. Kwong, Page 269",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which most accurate investigation\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "87173309-ce4f-445f-8a43-e0e7904214bd": {
-    "cop": 1,
-    "exp": "The Sense of Smell. Smell depends on sensory receptors that respond to airborne chemicals. In humans, these chemoreceptors are located in the olfactory epithelium -- a patch of tissue about the size of a postage stamp located high in the nasal cavity."
+    "cop": 0,
+    "exp": "The Sense of Smell. Smell depends on sensory receptors that respond to airborne chemicals. In humans, these chemoreceptors are located in the olfactory epithelium -- a patch of tissue about the size of a postage stamp located high in the nasal cavity.",
+    "hint_exp": "🎯 Think of \"Odour receptors present\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0effbcf9-8553-478c-94c2-80f74570b979": {
-    "cop": 4,
-    "exp": "Diabetes is diagnosed if,\n\nHbA1c > 6.5% \nFasting Blood Sugar (FBS) ≥ 126 mg/dL \nPost Prandial Blood Sugar (PPBS) ≥ 200 mg/dL \nRBS > 200 with symptoms of hyperglycemia like polyuria, polyphagia and polydipsia."
+    "cop": 3,
+    "exp": "Diabetes is diagnosed if,\n\nHbA1c > 6.5% \nFasting Blood Sugar (FBS) ≥ 126 mg/dL \nPost Prandial Blood Sugar (PPBS) ≥ 200 mg/dL \nRBS > 200 with symptoms of hyperglycemia like polyuria, polyphagia and polydipsia.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Diabetes diagnosed except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f0518b79-bef3-480d-93cd-38156c7b0dc6": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Mandibular processes\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8d0c5200-8dd6-46a8-be47-ec6b6a0c4ce6": {
-    "cop": 4,
-    "exp": "Section 377 IPC defines unnatural sexual offences and lays down punishment for the same."
+    "cop": 3,
+    "exp": "Section 377 IPC defines unnatural sexual offences and lays down punishment for the same.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Section deals with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "baf6b4c2-4eb3-4867-99dc-56ca352ad6cb": {
-    "cop": 1,
-    "exp": "Cells of the ultimobranchial body give rise to the parafollicular or C cells of the thyroid gland. These cells secrete calcitonin, a hormone involved in regulation of the calcium level in the blood.Reference: Krishna Garg Histology; 5th edition; Page no: 230; 232"
+    "cop": 0,
+    "exp": "Cells of the ultimobranchial body give rise to the parafollicular or C cells of the thyroid gland. These cells secrete calcitonin, a hormone involved in regulation of the calcium level in the blood.Reference: Krishna Garg Histology; 5th edition; Page no: 230; 232",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"present in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "59e71f90-c422-433c-bc07-bb9460ebb12c": {
-    "cop": 1,
-    "exp": "Common in females between age group 20-40 yrs. REF: Bolognia text bookmof dermatology, 2nd edition, vol 2 p. 1343 Solar uicaria Common in females in 4th or 5th decade Most cases are idiopathic Uicarial and erythema occur on sun exposed areas and subside within 24 hrs Some cases may develop serious bronchospasm or anaphylaxis"
+    "cop": 0,
+    "exp": "Common in females between age group 20-40 yrs. REF: Bolognia text bookmof dermatology, 2nd edition, vol 2 p. 1343 Solar uicaria Common in females in 4th or 5th decade Most cases are idiopathic Uicarial and erythema occur on sun exposed areas and subside within 24 hrs Some cases may develop serious bronchospasm or anaphylaxis",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "66faa0f4-b3da-433d-9a6f-5a47e9e0b2c6": {
-    "cop": 4,
-    "exp": "Ans. is d i.e., IgM This is a tricky one. Though the predominant antibody in secondary response is IgG, initially there is an immediate brief period dring which IgM is produced before IgG. It must be noted that both IgM and IgG are produced during primary as well as secondary response i) IgM is the predominant antibody in primary response. ii) IgG is the predominant antibody in secondary response. iii) IgM is the first antibody produced in both primary as well as secondary response."
+    "cop": 3,
+    "exp": "Ans. is d i.e., IgM This is a tricky one. Though the predominant antibody in secondary response is IgG, initially there is an immediate brief period dring which IgM is produced before IgG. It must be noted that both IgM and IgG are produced during primary as well as secondary response i) IgM is the predominant antibody in primary response. ii) IgG is the predominant antibody in secondary response. iii) IgM is the first antibody produced in both primary as well as secondary response.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"sudden increase in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "667ecd8f-1f54-4288-8fcc-90fc7d37ab91": {
-    "cop": 3,
-    "exp": "Plocquet's test : The ratio of weight of lung to weight of body changes from 1:70 before respiration to 1:35 after respiration"
+    "cop": 2,
+    "exp": "Plocquet's test : The ratio of weight of lung to weight of body changes from 1:70 before respiration to 1:35 after respiration",
+    "hint_exp": "🧩 Your crush solved \"Respired lung weight compared\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2ec3f481-b939-450f-a747-9c0767ec3ceb": {
-    "cop": 1,
-    "exp": "Even though all the above-mentioned clinical features suggest fat embolism syndrome. It takes at least 48 hours for thromboembolic phenomena to occur Hence, it is not a Fatty embolism So fracture in S.O.F, Breathlessness, Pao2 <60mmHg - all points to ARDS by eliminating other option Fat embolism syndrome: FAT EMBOLISM after fracture S.O.F Mn- Fracture femur shaft + foy-eight hours = Fat embolism Diagnostic criteria for fat embolism-Gurd's Criteria"
+    "cop": 0,
+    "exp": "Even though all the above-mentioned clinical features suggest fat embolism syndrome. It takes at least 48 hours for thromboembolic phenomena to occur Hence, it is not a Fatty embolism So fracture in S.O.F, Breathlessness, Pao2 <60mmHg - all points to ARDS by eliminating other option Fat embolism syndrome: FAT EMBOLISM after fracture S.O.F Mn- Fracture femur shaft + foy-eight hours = Fat embolism Diagnostic criteria for fat embolism-Gurd's Criteria",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Babu years male sustained\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9115d069-0d64-43e3-9f08-9c0f5a026218": {
-    "cop": 4,
-    "exp": "Elevated Scapula (Sprengel deformity) may be associated with Klippel-Feil syndrome, but does not form part of the characteristic triad.\nThe characteristic triad of Klippel-feil syndrome includes a short neck, low hairline and restriction of neck motion."
+    "cop": 3,
+    "exp": "Elevated Scapula (Sprengel deformity) may be associated with Klippel-Feil syndrome, but does not form part of the characteristic triad.\nThe characteristic triad of Klippel-feil syndrome includes a short neck, low hairline and restriction of neck motion.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"characteristic triad Klippel Fell\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "16888462-f657-446b-9bc6-f9d658dc607c": {
-    "cop": 4,
-    "exp": "Elevated IgG4 is a marker of autoimmune pancreatitis. 50-75 patients presents with obstructive jaundice. Steroids are effective in treatment. CT showed diffuse enlargement, focal enlargement and distinct enlargement of the head of the pancreas. MRCP reveals strictures in the bile duct. Ref: Harrisons , Edition 18 , Page - 2644"
+    "cop": 3,
+    "exp": "Elevated IgG4 is a marker of autoimmune pancreatitis. 50-75 patients presents with obstructive jaundice. Steroids are effective in treatment. CT showed diffuse enlargement, focal enlargement and distinct enlargement of the head of the pancreas. MRCP reveals strictures in the bile duct. Ref: Harrisons , Edition 18 , Page - 2644",
+    "hint_exp": "🎯 Think of \"effective in alleting symptoms\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b63f45ba-6614-4ddf-8b9b-fe938bf66187": {
-    "cop": 2,
-    "exp": "Antiemetic effect of Metoclopramide is because of D2 antagonism > 5HT3 antagonism.\nProkinetic effect is due to 5HT4 agonism."
+    "cop": 1,
+    "exp": "Antiemetic effect of Metoclopramide is because of D2 antagonism > 5HT3 antagonism.\nProkinetic effect is due to 5HT4 agonism.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Metoclopromide\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "cc9669b7-988b-45f0-bdb4-0ba4d64eab22": {
-    "cop": 1,
-    "exp": "Dysphagia : - Difficulty in swallowing.\nOdynophagia : - Swallowing causes pain."
+    "cop": 0,
+    "exp": "Dysphagia : - Difficulty in swallowing.\nOdynophagia : - Swallowing causes pain.",
+    "hint_exp": "🧩 Your crush solved \"Odynophagia\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

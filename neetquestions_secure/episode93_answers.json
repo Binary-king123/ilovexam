@@ -1,202 +1,252 @@
 {
   "0dff9055-671f-458e-8eaa-4d92d0ba6577": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"not seen\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c0a15c33-0d57-467f-9c65-766a5fdc9317": {
-    "cop": 2,
-    "exp": "Hydrostatic test/ Raygat's test: Principle: Specific gravity of lung before respiration is 1.04-1.05 and it becomes 0.94-0.95 after respiration. This makes the respired lung to float. Procedure: Dissect out the fetal lungs & Put into a trough of water and observe. Liver is used as control Inference: If they sink--unrespired lung. If they float--remove them from water, cut into small pieces and then squeeze or compress firmly between sponges, and again put into water. If they sink--unrespired lung. If they float--respired lung. Explanation: Floatation observed for second time is because of residual air that remains in the lungs which cannot be squeezed out by pressing, if the fetus has breathed after bih."
+    "cop": 1,
+    "exp": "Hydrostatic test/ Raygat's test: Principle: Specific gravity of lung before respiration is 1.04-1.05 and it becomes 0.94-0.95 after respiration. This makes the respired lung to float. Procedure: Dissect out the fetal lungs & Put into a trough of water and observe. Liver is used as control Inference: If they sink--unrespired lung. If they float--remove them from water, cut into small pieces and then squeeze or compress firmly between sponges, and again put into water. If they sink--unrespired lung. If they float--respired lung. Explanation: Floatation observed for second time is because of residual air that remains in the lungs which cannot be squeezed out by pressing, if the fetus has breathed after bih.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Raygat test based\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2c02e114-541a-4ec5-a4b5-3d14e042736b": {
-    "cop": 3,
-    "exp": "Endothelial cell loss is a known phenomenon of endothelial keratoplasty (including DSAEK).\nI am not sure about the answer as various studies have given different values at a different time (post-operatively).\nFirst read following statements which are supporting my answer:-\n\n\"Current modifications of EK such as DSAEK have shown a significantly higher cell loss at just 6-12 months after DSAEK surgery\".\n\n–Corneal endothelial transplant\n\n\"Reports of endothelial cell loss have been very variable from as high as 50% at 6 months to 26% after 2 years in the Busin series. Other reports suggest that there is no difference between cell loss with a 40% loss at 1 year for both PLK and PK and a recent study comparing endothelial cell loss in historic PK Vs DSAEK or other PLK techniques showed no measurable difference\".\n\n–Cornea & External eye disease\n\n\"The 12-month cell loss for 2 diagnoses (Pseudophakic/aphakic corneal edema and Fush's dystrophy) was comparable, i.e. 41% and 37%.\n\n–Internet\n\n\"One-year endothelial cell loss after DSAEK is 15 - 40% (average 27%)\".\n\n—XXIV Annual Meeting European Eye Bank Association\n\n\"There have been several publications showing endothelial cell loss to be in the range of 24-50% at 12-24 months post DSAEK\". \n\nNow read the statements, which have different values at different post-operative period:\n\n\"The 1, 3, and 5-year endothelial cell losses derived from the models after DSAEK were 56%, 66%, and 73%, respectively and after THPK were 24%, 50% and 64% respectively\". \n\"The 5-year endothelial cell loss after DSEK compared favourably with that measured after penetrating Keratoplasty in the cornea donor study (53% Vs 70%)\".\n\"At 1-year post DSAEK, Bahar et al. published 36% cell loss, Busin et al. reported 24% cell loss; Covert and Koening published 57% and Gorovoy et al. 40%. At 2 years, the rate of endothelial cell loss is between 41% (Price & Price) and 36% (Terry et al). \n\nHowever, amongst the given options, option 'c' fits best in all the data mentioned above."
+    "cop": 2,
+    "exp": "Endothelial cell loss is a known phenomenon of endothelial keratoplasty (including DSAEK).\nI am not sure about the answer as various studies have given different values at a different time (post-operatively).\nFirst read following statements which are supporting my answer:-\n\n\"Current modifications of EK such as DSAEK have shown a significantly higher cell loss at just 6-12 months after DSAEK surgery\".\n\n–Corneal endothelial transplant\n\n\"Reports of endothelial cell loss have been very variable from as high as 50% at 6 months to 26% after 2 years in the Busin series. Other reports suggest that there is no difference between cell loss with a 40% loss at 1 year for both PLK and PK and a recent study comparing endothelial cell loss in historic PK Vs DSAEK or other PLK techniques showed no measurable difference\".\n\n–Cornea & External eye disease\n\n\"The 12-month cell loss for 2 diagnoses (Pseudophakic/aphakic corneal edema and Fush's dystrophy) was comparable, i.e. 41% and 37%.\n\n–Internet\n\n\"One-year endothelial cell loss after DSAEK is 15 - 40% (average 27%)\".\n\n—XXIV Annual Meeting European Eye Bank Association\n\n\"There have been several publications showing endothelial cell loss to be in the range of 24-50% at 12-24 months post DSAEK\". \n\nNow read the statements, which have different values at different post-operative period:\n\n\"The 1, 3, and 5-year endothelial cell losses derived from the models after DSAEK were 56%, 66%, and 73%, respectively and after THPK were 24%, 50% and 64% respectively\". \n\"The 5-year endothelial cell loss after DSEK compared favourably with that measured after penetrating Keratoplasty in the cornea donor study (53% Vs 70%)\".\n\"At 1-year post DSAEK, Bahar et al. published 36% cell loss, Busin et al. reported 24% cell loss; Covert and Koening published 57% and Gorovoy et al. 40%. At 2 years, the rate of endothelial cell loss is between 41% (Price & Price) and 36% (Terry et al). \n\nHowever, amongst the given options, option 'c' fits best in all the data mentioned above.",
+    "hint_exp": "🎯 Think of \"What percentage endothelial cell\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "35ec19f6-5e5d-4a7e-8c23-545321d97d56": {
-    "cop": 3,
-    "exp": "Ans. C i.e. Raised serum alkaline phosphataseScurvyBleeding into skin & joints,Wimberger sign,Pseudoparalysis etc."
+    "cop": 2,
+    "exp": "Ans. C i.e. Raised serum alkaline phosphataseScurvyBleeding into skin & joints,Wimberger sign,Pseudoparalysis etc.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"About scurvy true EXCEPT\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "062fef8a-aafa-46ed-9dc5-4a4ab8392943": {
-    "cop": 1,
-    "exp": "NO is also called as Endothelium Derived Relaxing Factor (EDRF). NO (nitric oxide) is synthesized from arginine by enzyme NOS (Nitric oxide synthase) in the endothelial cells. It requires 5 cofactors:- NADPH FAD FMN Heme and Tetrahydrobiopterin (BH4). The vasodilator - nitroglycerin also enters smooth muscle cells, where its metabolism also leads to the formation of NO. NO synthase :-There are three isoforms of NOS (Nitric oxide synthase) 1. nNOS - neuronal 2. iNOS- inducible 3. eNOS- endothelial EC no. 1 (oxido-reductase) Mono oxygenase (one oxygen is added in substrate) Usually belongs to EC no 4 but NO synthase is an exception."
+    "cop": 0,
+    "exp": "NO is also called as Endothelium Derived Relaxing Factor (EDRF). NO (nitric oxide) is synthesized from arginine by enzyme NOS (Nitric oxide synthase) in the endothelial cells. It requires 5 cofactors:- NADPH FAD FMN Heme and Tetrahydrobiopterin (BH4). The vasodilator - nitroglycerin also enters smooth muscle cells, where its metabolism also leads to the formation of NO. NO synthase :-There are three isoforms of NOS (Nitric oxide synthase) 1. nNOS - neuronal 2. iNOS- inducible 3. eNOS- endothelial EC no. 1 (oxido-reductase) Mono oxygenase (one oxygen is added in substrate) Usually belongs to EC no 4 but NO synthase is an exception.",
+    "hint_exp": "🧩 Your crush solved \"Nitric oxide synthesized from\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "43af16ba-8587-45f1-a166-bc772e57066d": {
-    "cop": 4,
-    "exp": "Lignocaine is used as 5% (heavy) for spinal anaesthesia."
+    "cop": 3,
+    "exp": "Lignocaine is used as 5% (heavy) for spinal anaesthesia.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"used as\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "13b2ef45-5d34-434f-b222-e917e1921288": {
-    "cop": 2,
-    "exp": "B i.e. Adduction , internal rotation and flexion"
+    "cop": 1,
+    "exp": "B i.e. Adduction , internal rotation and flexion",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"hip\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f61ec5c8-8e69-408a-ac50-00d4e5b666a0": {
-    "cop": 3,
-    "exp": "Rheumatoid nodules occur almost exclusively in RF or ACPA positive patients, usually in extensor tendons . Theyare frequently asymptomatic but some may be complicated by ulceration and secondary infection . Ref Davidsons 23e p1023,1024"
+    "cop": 2,
+    "exp": "Rheumatoid nodules occur almost exclusively in RF or ACPA positive patients, usually in extensor tendons . Theyare frequently asymptomatic but some may be complicated by ulceration and secondary infection . Ref Davidsons 23e p1023,1024",
+    "hint_exp": "🎯 Think of \"the following statements\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2c41fd2e-8f64-46b3-9bb8-a33ee60b4a85": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Ranitidine is 5 times more potent than cimetidine o Ranitidine has several desirable features compared to cimetidine:5 times more potent than cimetidine.No antiandrogenic action, does not increase prolactin secretion or spare estradiol from hepatic metabolism - no effect on male sexual function or gynaecomastia.Lesser permeability into brain.Less marked inhibition of hepatic metabolism of other drugs.Overall incidence of side - effects is lower."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Ranitidine is 5 times more potent than cimetidine o Ranitidine has several desirable features compared to cimetidine:5 times more potent than cimetidine.No antiandrogenic action, does not increase prolactin secretion or spare estradiol from hepatic metabolism - no effect on male sexual function or gynaecomastia.Lesser permeability into brain.Less marked inhibition of hepatic metabolism of other drugs.Overall incidence of side - effects is lower.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Difference between rantidine cimetidine\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e560e0c6-fc39-47d8-b789-c953a61efb3e": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Vital layer"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Vital layer",
+    "hint_exp": "🧩 Your crush solved \"slow sand filter element\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "85331ecd-bbaa-4892-8c55-74cd64e10b90": {
-    "cop": 2,
-    "exp": "Above image is of Multiload-375 -- Device is available in a sterilized sealed packet with an applicator. There is no introducer and no plunger. It has 375 mm2 surface area of copper wire wound around its veical stem. Replacement is every 5 years."
+    "cop": 1,
+    "exp": "Above image is of Multiload-375 -- Device is available in a sterilized sealed packet with an applicator. There is no introducer and no plunger. It has 375 mm2 surface area of copper wire wound around its veical stem. Replacement is every 5 years.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Name intrauterine contraceptive device\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "37fe1e93-be97-41aa-837e-392ad0809b2d": {
-    "cop": 3,
-    "exp": "Passive aggression is an immature defense mechanism where a person indirectly expresses anger towards others."
+    "cop": 2,
+    "exp": "Passive aggression is an immature defense mechanism where a person indirectly expresses anger towards others.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"is an example of\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d77edfcc-8984-42cc-97f2-682507eeb943": {
-    "cop": 1,
-    "exp": "(A) Exophthalmos # HORNER'S SYNDROME:> Enophthalmos, Ptosis, Miosis, & Ipsilateral loss of sweating (Anhydrosis)> Malignant pleural effusion often leads to dyspnea.> Pancoast's (or superior sulcus tumor) syndrome results from local extension of a tumor growing in the apex of the lung with involvement of the eighth cervical and first and second thoracic nerves, with shoulder pain that characteristically radiates in the ulnar distribution of the arm, often with radiologic destruction of the first and second ribs.> Often Horner's syndrome & Pancoast's syndrome coexist."
+    "cop": 0,
+    "exp": "(A) Exophthalmos # HORNER'S SYNDROME:> Enophthalmos, Ptosis, Miosis, & Ipsilateral loss of sweating (Anhydrosis)> Malignant pleural effusion often leads to dyspnea.> Pancoast's (or superior sulcus tumor) syndrome results from local extension of a tumor growing in the apex of the lung with involvement of the eighth cervical and first and second thoracic nerves, with shoulder pain that characteristically radiates in the ulnar distribution of the arm, often with radiologic destruction of the first and second ribs.> Often Horner's syndrome & Pancoast's syndrome coexist.",
+    "hint_exp": "🎯 Think of \"feature Horner syndrome\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e9e7b47c-c666-4daa-9f0d-7075b21ed848": {
-    "cop": 2,
-    "exp": "B i.e. Presence of collaterals"
+    "cop": 1,
+    "exp": "B i.e. Presence of collaterals",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"on an angiogram\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1debc3e3-2d02-4055-b2e1-a49d8ea312b5": {
-    "cop": 3,
-    "exp": "Femoral vein lies lateral to sheath of femoral hernia.Femoral sheath - funnel shaped sleeve of fascia enclosing upper 3-4 cm of femoral vessels. The sheath is divided into three compaments by septa- Lateral compament - femoral aery and femoral branch of genitofemoral nerve Intermediate compament- femoral vein Medial compament - Also known as Femoral canal - Contains lymph node of Cloquet Femoral hernia - The femoral canal is an area of potential weakness in the abdominal wall through which abdominal contents may bulge out forming a femoral hernia. It is more common in females. So lateral to femoral canal lies femoral vein."
+    "cop": 2,
+    "exp": "Femoral vein lies lateral to sheath of femoral hernia.Femoral sheath - funnel shaped sleeve of fascia enclosing upper 3-4 cm of femoral vessels. The sheath is divided into three compaments by septa- Lateral compament - femoral aery and femoral branch of genitofemoral nerve Intermediate compament- femoral vein Medial compament - Also known as Femoral canal - Contains lymph node of Cloquet Femoral hernia - The femoral canal is an area of potential weakness in the abdominal wall through which abdominal contents may bulge out forming a femoral hernia. It is more common in females. So lateral to femoral canal lies femoral vein.",
+    "hint_exp": "🧩 Your crush solved \"femoral hernia\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7132274a-faee-4d43-a48b-9c9e9568cc1e": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"reductase inhibitor that been\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ab70d7e7-dac3-4527-be68-8eaff74a6fd7": {
-    "cop": 2,
-    "exp": "Ans. (b) 100mg iron + 500mcg folic acidRef: D.C. Dutta 8th ed. / 241* Adult iron+folic acid tablet given in pregnancy: 1 tab/ day x 100 days* Kids iron+folic acid tablet given: 1 tab/day x 100 days per year- 0 to 5 years of age.Iron and Folic acid tablet content IronFolic acidAdult tab100mg500mcgKids tab (l/5th)20mg100mcg"
+    "cop": 1,
+    "exp": "Ans. (b) 100mg iron + 500mcg folic acidRef: D.C. Dutta 8th ed. / 241* Adult iron+folic acid tablet given in pregnancy: 1 tab/ day x 100 days* Kids iron+folic acid tablet given: 1 tab/day x 100 days per year- 0 to 5 years of age.Iron and Folic acid tablet content IronFolic acidAdult tab100mg500mcgKids tab (l/5th)20mg100mcg",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Iron folic acid supplement\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d0f14d2e-5dc1-4de3-915f-28c6e1e4060d": {
-    "cop": 1,
-    "exp": "Ref Harrison 19 th ed pg 1548 A prominent RV pulsation along the left parasternal region and a blowing holosystolic murmur along the lower left sternal margin, which may be intensified during inspiration (Carvallo's sign) and reduced during expiration or the strain phase of the Valsalva maneuver, are characteristic findings. The murmur of TR may sometimes be confused with that of MR unless attention is paid to its variation during the respiratory cycle and the extent of RV enlarge- ment is appreciated."
+    "cop": 0,
+    "exp": "Ref Harrison 19 th ed pg 1548 A prominent RV pulsation along the left parasternal region and a blowing holosystolic murmur along the lower left sternal margin, which may be intensified during inspiration (Carvallo's sign) and reduced during expiration or the strain phase of the Valsalva maneuver, are characteristic findings. The murmur of TR may sometimes be confused with that of MR unless attention is paid to its variation during the respiratory cycle and the extent of RV enlarge- ment is appreciated.",
+    "hint_exp": "🎯 Think of \"seen in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "67bcc5c3-13c7-4c58-8295-96148dbc9fdb": {
-    "cop": 3,
-    "exp": "The infant probably has esophageal atresia, which is typically caused by posterior detion of the tracheoesophageal septum. Attempts at feeding cause fluid to spill into the trachea, and secondarily cause aspiration pneumonia. Emergent surgical correction is usually required. Bronchogenic cysts are centrally located cysts that are often asymptomatic and may be associated with cysts of other organs. Congenital pulmonary cysts are often multiple and located in the lung periphery without connection to the bronchi; they are vulnerable to infection and rupture complicated by pneumothorax and/or hemoptysis. Pulmonary immaturity produces progressive difficulty in breathing beginning in the first few hours of life. Ref: Thilo E.H., Rosenberg A.A. (2012). Chapter 2. The Newborn Infant. In W.W. Hay, Jr., M.J. Levin, R.R. Deterding, J.J. Ross, J.M. Sondheimer (Eds), CURRENT Diagnosis & Treatment: Pediatrics, 21e."
+    "cop": 2,
+    "exp": "The infant probably has esophageal atresia, which is typically caused by posterior detion of the tracheoesophageal septum. Attempts at feeding cause fluid to spill into the trachea, and secondarily cause aspiration pneumonia. Emergent surgical correction is usually required. Bronchogenic cysts are centrally located cysts that are often asymptomatic and may be associated with cysts of other organs. Congenital pulmonary cysts are often multiple and located in the lung periphery without connection to the bronchi; they are vulnerable to infection and rupture complicated by pneumothorax and/or hemoptysis. Pulmonary immaturity produces progressive difficulty in breathing beginning in the first few hours of life. Ref: Thilo E.H., Rosenberg A.A. (2012). Chapter 2. The Newborn Infant. In W.W. Hay, Jr., M.J. Levin, R.R. Deterding, J.J. Ross, J.M. Sondheimer (Eds), CURRENT Diagnosis & Treatment: Pediatrics, 21e.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following abnormalities\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fa625f89-2e09-42f4-80e4-bfbeb951fd70": {
-    "cop": 1,
-    "exp": "Under the Indira Gandhi National Disability Pension Scheme, amount of monthly pension is Rs. 200 for BPL persons aged between 18 to 59 years with multiple disabilities. Ref: Health policies and programmes in India, D.K. Taneja 11th edition page: 393"
+    "cop": 0,
+    "exp": "Under the Indira Gandhi National Disability Pension Scheme, amount of monthly pension is Rs. 200 for BPL persons aged between 18 to 59 years with multiple disabilities. Ref: Health policies and programmes in India, D.K. Taneja 11th edition page: 393",
+    "hint_exp": "🧩 Your crush solved \"monthly pension\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "77295292-d28a-43fd-a1f8-79d4ddadb539": {
-    "cop": 1,
-    "exp": "Ans. a. HPLC (Ref: Robbins 9/e p180, 319-320 8/e p180-181)Methylation specific PCR, Bisulphite method and ChlP on Chip can detect epigenetic modification but not the HPLC.'Epigenetics is defined as the study of heritable chemical modification of DNA or chromatin that does not alter the DNA sequence itself Examples of such modification include the methylation of DNA, and the methylation and acetylation of histones. Since traditional Sanger sequencing alone cannot detect DNA methylation; other techniques have been developed to uncover these chemical modifications. One common approach is to treat genomic DNA with sodium bisulfite, a chemical that converts unmethylated cytosines to uracil, white methylated cytosines are protected from modification. An assay termed methylation-specific PCR uses two PCR primer sets to analyze single DNA loci: one to detect a DNA sequence with unmethylated cytosines (which are converted to uracils after bisulfite treatment) and the other to detect DNA sequences with methylated cytosines (which remain cytosines after bisulfite treatment).Additional techniques are evolving that provide a genome-wide snapshot of epigenetically altered DNA. These techniques are based on the ability to detect histone modifications such as methylation and acetylation (which, like DNA methylation, are important regulators of gene expression) by using antibodies against specifically modified histones. Such antibodies can be used to pull down bound DNA sequences, a method termed chromatin immunoprecipitation (ChIP). These pulled- down sequences can be amplified and analyzed by hybridizing to microarrays ('ChIP on Chip') or sequencing ('ChIP- Seq') to map epigenetically modified genes throughout the genome. - Robbins 8/e p180 Isolation of cells of the immune response* Use the correct number of cells: 1 x 106 x to 10 x 106* Collect biological replicates of cells* Choose an appropriate control for antibody specificity (knockout or RNAi knockdown)Fragmentation by sonication or MNase treatment* Shear chromatin to a size range of ~ 150-300 bp* Sonicate chromatin extracts for non-histone proteinsSonication conditions should be determined empirically for each cell typeTreat chromatin extracts with MNase for analysis of histone modificationsDo not overdigest chromatinChIP analysis of histone modifications, transcription factors or epigenetic regulators* Select antibody: monoclonal versus polyclonal* Choose reference control (Input or IgG)* Perform ChIP with established protocols* Purify DNALibrary construction* Do end repair and adapter ligation* Perform PCR using primers compatible with sequencing platformAvoid overamplifying DNA Sequencing* Determine sequencing depth on the basis of the prevalence of binding throughout the genome: more sequencing tags may be needed for diffuse signals (such as H3K27me3)* Perform single-end or paired-end sequencingEpigenetic AlterationsEpigenetics is defined as the study of heritable chemical modification of DNA or chromatin that does not alter the DNA sequence itself.Examples of such modification include the methylation of DNA. and the methylation and acetylation of histonesQ.Since traditional Sanger sequencing alone cannot detect DNA methylation, other techniques have been developed to uncover these chemical modifications.One common approach is to treat genomic DNA with sodium bisulfite, a chemical that converts unmethylated cytosines to uracil, while methylated cytosines are protected from modificationQ.An assay termed methylation-specific PCR uses two PCR primer sets to analyze single DNA loci: one to detect a DNA sequence with unmethylated cytosines (which are converted to uracils after bisulfite treatment) and the other to detect DNA sequences with methylated cytosinesQ (which remain cytosines after bisulfite treatment).Additional techniques are evolving that provide a genome-wide snapshot of epigenetically altered DNA.These techniques are based on the ability to detect histone modifications such as methylation and acetylation (which, like DNA methylation, are important regulators of gene expression) by using antibodies against specifically modified histones. Such antibodies can be used to pull down bound DNA sequences, a method termed chromatin immunoprecipitation (ChlP).These pulled-down sequences can be amplified and analyzed by hybridizing to microarrays ('ChlP on Chip') or sequencing ('ChIP-Seq') to map epigenetically modified genes throughout the genome."
+    "cop": 0,
+    "exp": "Ans. a. HPLC (Ref: Robbins 9/e p180, 319-320 8/e p180-181)Methylation specific PCR, Bisulphite method and ChlP on Chip can detect epigenetic modification but not the HPLC.'Epigenetics is defined as the study of heritable chemical modification of DNA or chromatin that does not alter the DNA sequence itself Examples of such modification include the methylation of DNA, and the methylation and acetylation of histones. Since traditional Sanger sequencing alone cannot detect DNA methylation; other techniques have been developed to uncover these chemical modifications. One common approach is to treat genomic DNA with sodium bisulfite, a chemical that converts unmethylated cytosines to uracil, white methylated cytosines are protected from modification. An assay termed methylation-specific PCR uses two PCR primer sets to analyze single DNA loci: one to detect a DNA sequence with unmethylated cytosines (which are converted to uracils after bisulfite treatment) and the other to detect DNA sequences with methylated cytosines (which remain cytosines after bisulfite treatment).Additional techniques are evolving that provide a genome-wide snapshot of epigenetically altered DNA. These techniques are based on the ability to detect histone modifications such as methylation and acetylation (which, like DNA methylation, are important regulators of gene expression) by using antibodies against specifically modified histones. Such antibodies can be used to pull down bound DNA sequences, a method termed chromatin immunoprecipitation (ChIP). These pulled- down sequences can be amplified and analyzed by hybridizing to microarrays ('ChIP on Chip') or sequencing ('ChIP- Seq') to map epigenetically modified genes throughout the genome. - Robbins 8/e p180 Isolation of cells of the immune response* Use the correct number of cells: 1 x 106 x to 10 x 106* Collect biological replicates of cells* Choose an appropriate control for antibody specificity (knockout or RNAi knockdown)Fragmentation by sonication or MNase treatment* Shear chromatin to a size range of ~ 150-300 bp* Sonicate chromatin extracts for non-histone proteinsSonication conditions should be determined empirically for each cell typeTreat chromatin extracts with MNase for analysis of histone modificationsDo not overdigest chromatinChIP analysis of histone modifications, transcription factors or epigenetic regulators* Select antibody: monoclonal versus polyclonal* Choose reference control (Input or IgG)* Perform ChIP with established protocols* Purify DNALibrary construction* Do end repair and adapter ligation* Perform PCR using primers compatible with sequencing platformAvoid overamplifying DNA Sequencing* Determine sequencing depth on the basis of the prevalence of binding throughout the genome: more sequencing tags may be needed for diffuse signals (such as H3K27me3)* Perform single-end or paired-end sequencingEpigenetic AlterationsEpigenetics is defined as the study of heritable chemical modification of DNA or chromatin that does not alter the DNA sequence itself.Examples of such modification include the methylation of DNA. and the methylation and acetylation of histonesQ.Since traditional Sanger sequencing alone cannot detect DNA methylation, other techniques have been developed to uncover these chemical modifications.One common approach is to treat genomic DNA with sodium bisulfite, a chemical that converts unmethylated cytosines to uracil, while methylated cytosines are protected from modificationQ.An assay termed methylation-specific PCR uses two PCR primer sets to analyze single DNA loci: one to detect a DNA sequence with unmethylated cytosines (which are converted to uracils after bisulfite treatment) and the other to detect DNA sequences with methylated cytosinesQ (which remain cytosines after bisulfite treatment).Additional techniques are evolving that provide a genome-wide snapshot of epigenetically altered DNA.These techniques are based on the ability to detect histone modifications such as methylation and acetylation (which, like DNA methylation, are important regulators of gene expression) by using antibodies against specifically modified histones. Such antibodies can be used to pull down bound DNA sequences, a method termed chromatin immunoprecipitation (ChlP).These pulled-down sequences can be amplified and analyzed by hybridizing to microarrays ('ChlP on Chip') or sequencing ('ChIP-Seq') to map epigenetically modified genes throughout the genome.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Epigenetic deals with genetic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "404aed9d-7bb7-4437-aa22-432f9fd368cf": {
-    "cop": 4,
-    "exp": "Ans: d (Angiokeratomas)Ref: IADVL, 3rd ed. vol. 2 pg. 1369- 1371Angiokeratoma corporis diffusum is a manifestation of Fabry's disease. All others are dermatological manifestations of diabetes mellitus.Skin manifestations of diabetis mellitus: Diabetic dermopathy Pigmented pretibial papules Shin spots Necrobiosis lipoidicaClear cell syringoma Diabetic bullae Xanthoma rubeosis"
+    "cop": 3,
+    "exp": "Ans: d (Angiokeratomas)Ref: IADVL, 3rd ed. vol. 2 pg. 1369- 1371Angiokeratoma corporis diffusum is a manifestation of Fabry's disease. All others are dermatological manifestations of diabetes mellitus.Skin manifestations of diabetis mellitus: Diabetic dermopathy Pigmented pretibial papules Shin spots Necrobiosis lipoidicaClear cell syringoma Diabetic bullae Xanthoma rubeosis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"diabetes mellitus\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d8c67c14-63a4-4fb2-b360-b301b0e803ab": {
-    "cop": 2,
-    "exp": "Septate uterus is most common It causes about 25% of spontaneous first trimester aboions 6% second trimester aboions Ref: Shaw Gynecology 17 e pg 72."
+    "cop": 1,
+    "exp": "Septate uterus is most common It causes about 25% of spontaneous first trimester aboions 6% second trimester aboions Ref: Shaw Gynecology 17 e pg 72.",
+    "hint_exp": "🎯 Think of \"the probable diagnosis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "056c803e-5f6e-49c9-b17f-392735994496": {
-    "cop": 2,
-    "exp": "Ref: KD Tripathi, 7th ed. pg. 767* Rifampicin is considered as effective as isoniazid. This agent is active against slow and intermittently dividing bacterium (spurters).* If someone develops resistance to INH, they are most likely to develop resistance to rifampicin as well.* In MDR-TB, there is resistance to INH and rifampicin."
+    "cop": 1,
+    "exp": "Ref: KD Tripathi, 7th ed. pg. 767* Rifampicin is considered as effective as isoniazid. This agent is active against slow and intermittently dividing bacterium (spurters).* If someone develops resistance to INH, they are most likely to develop resistance to rifampicin as well.* In MDR-TB, there is resistance to INH and rifampicin.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"somebody develops resistance patient\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ac8446c1-742b-4dcd-ac1d-026bb92a2538": {
-    "cop": 1,
-    "exp": "Answer- A. Third nerve palsyCauses and associations ofexotropia (Divegent squint)Third nerve palsyCongenitalPrevious strabismus surgeryThyroidophthalmopathyIatrogenic trauma following retinal detachment surgery"
+    "cop": 0,
+    "exp": "Answer- A. Third nerve palsyCauses and associations ofexotropia (Divegent squint)Third nerve palsyCongenitalPrevious strabismus surgeryThyroidophthalmopathyIatrogenic trauma following retinal detachment surgery",
+    "hint_exp": "🧩 Your crush solved \"Exotropia occurs\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "96621723-f722-4e8d-93a1-e62e0a39fed4": {
-    "cop": 1,
-    "exp": "Hemophilus ducreyi causes soft sore/chancroid. Chocolate agar withIsoVitale Xis used for its culture. Infectious causes of urethritis- Neisseria gonorrhoeae Chlamydia trachomatis Trichomonas vaginalis Mycoplasma genitalium Herpes simplex virus Adenovirus"
+    "cop": 0,
+    "exp": "Hemophilus ducreyi causes soft sore/chancroid. Chocolate agar withIsoVitale Xis used for its culture. Infectious causes of urethritis- Neisseria gonorrhoeae Chlamydia trachomatis Trichomonas vaginalis Mycoplasma genitalium Herpes simplex virus Adenovirus",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"in males\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "94eb2c5c-47e3-498b-b844-6d662014c143": {
-    "cop": 4,
-    "exp": "ANSWER: (D) Synovial chondromatosisREF: The Journal of bone and joint surgery: British volume: Volume 71, Pages 549-912, http:// www.springerlink.com/content/17m54n357304205m/Snowstorm knee:Seen in Synovial chondromatosisTraumatic etiologyJoint effusionNumerous brilliant white rice-grain size free bodies in arthroscopy (not radiographically)"
+    "cop": 3,
+    "exp": "ANSWER: (D) Synovial chondromatosisREF: The Journal of bone and joint surgery: British volume: Volume 71, Pages 549-912, http:// www.springerlink.com/content/17m54n357304205m/Snowstorm knee:Seen in Synovial chondromatosisTraumatic etiologyJoint effusionNumerous brilliant white rice-grain size free bodies in arthroscopy (not radiographically)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"seen in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "24c528bb-2715-43d4-aa2c-e723e13eefe1": {
-    "cop": 1,
-    "exp": "Treatment of choice for metastasis is chemotherapy."
+    "cop": 0,
+    "exp": "Treatment of choice for metastasis is chemotherapy.",
+    "hint_exp": "🎯 Think of \"retinoblastoma\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "52960709-acbb-403b-a468-8c74bfede83b": {
-    "cop": 2,
-    "exp": "There are no absolute contraindications for ECT. Earlier, raised intracranial tension and space occupying lesions were considered as absolute contraindications, hence the best answer here is brain tumor."
+    "cop": 1,
+    "exp": "There are no absolute contraindications for ECT. Earlier, raised intracranial tension and space occupying lesions were considered as absolute contraindications, hence the best answer here is brain tumor.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Absolute contraindication\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ca6ac6e2-e13f-438d-a28f-a89716bff6a0": {
-    "cop": 4,
-    "exp": "The various habits of the lips can be divided into following:\n\nLip sucking \nLip thrust\nLip insuﬃciency"
+    "cop": 3,
+    "exp": "The various habits of the lips can be divided into following:\n\nLip sucking \nLip thrust\nLip insuﬃciency",
+    "hint_exp": "🧩 Your crush solved \"various habits lips divided\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fbb3deb9-d186-4fca-a2f6-c683691a77b6": {
-    "cop": 1,
-    "exp": "Nitric acid is a powerful oxidising agent and reacts with organic matter to produce trinitrophenol, liberating nitrogen monoxide (xanthoproteic reaction)."
+    "cop": 0,
+    "exp": "Nitric acid is a powerful oxidising agent and reacts with organic matter to produce trinitrophenol, liberating nitrogen monoxide (xanthoproteic reaction).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"due to the formation of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "336d6710-2c3b-464c-b745-316ef660b7d4": {
-    "cop": 4,
-    "exp": "Paial pressure of CO2 in expired air (PE CO2) - 32 mm Hg Carbon-di-oxide: Paial pressure of CO2 in inspired air (Pi CO2) 0.3 mm Hg Paial pressure of CO2 in alveolar blood (PA CO2) 40 mm Hg Paial pressure of CO2 in expired air (PE CO2) 32 mm Hg."
+    "cop": 3,
+    "exp": "Paial pressure of CO2 in expired air (PE CO2) - 32 mm Hg Carbon-di-oxide: Paial pressure of CO2 in inspired air (Pi CO2) 0.3 mm Hg Paial pressure of CO2 in alveolar blood (PA CO2) 40 mm Hg Paial pressure of CO2 in expired air (PE CO2) 32 mm Hg.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the expired air\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fd3b4865-96ee-4346-b8f8-46f878075362": {
-    "cop": 4,
-    "exp": "S 100"
+    "cop": 3,
+    "exp": "S 100",
+    "hint_exp": "🎯 Think of \"malignant melanoma\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b7a1e9ec-cfa6-451b-bb40-83af2b9e55c9": {
-    "cop": 3,
-    "exp": "The poserior cerebral aery (PCA) does not supply the pons The branches of the posterior cerebral aery are : Coical branches Occipital lobe- Visual coex Temporal lobe- medial and inferolateral surfaces Central branches Thalamus Subthalamus Lentiform nucleus Midbrain Pineal gland Superior and inferior colliculi Medial and lateral geniculate bodies Choroidal branches : Choroid plexus of Lateral ventricle Third ventricle Ref: Snell's Clinical neuroanatomy 8th edition Pgno: 467"
+    "cop": 2,
+    "exp": "The poserior cerebral aery (PCA) does not supply the pons The branches of the posterior cerebral aery are : Coical branches Occipital lobe- Visual coex Temporal lobe- medial and inferolateral surfaces Central branches Thalamus Subthalamus Lentiform nucleus Midbrain Pineal gland Superior and inferior colliculi Medial and lateral geniculate bodies Choroidal branches : Choroid plexus of Lateral ventricle Third ventricle Ref: Snell's Clinical neuroanatomy 8th edition Pgno: 467",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year male patient presented\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a111b250-b7aa-4349-b008-b44985b375df": {
-    "cop": 3,
-    "exp": "FEATURES of ankylosing spondilitis- enthesitis and this ultimately leads to joint ankylosis Both bony as well as fibrous ankylosis occurs in AS Marginal syndesmophytes are seen on X-ray Roos test is used for thoracic outlet syndrome."
+    "cop": 2,
+    "exp": "FEATURES of ankylosing spondilitis- enthesitis and this ultimately leads to joint ankylosis Both bony as well as fibrous ankylosis occurs in AS Marginal syndesmophytes are seen on X-ray Roos test is used for thoracic outlet syndrome.",
+    "hint_exp": "🧩 Your crush solved \"Features Ankylosing spondylitis include\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b00b9bcf-ea36-4896-b68a-43c968c0a12a": {
-    "cop": 4,
-    "exp": "WOOD'S LAMP Hand held device used to diagnose various dermatological conditions. It is a mercury vapour long wave,ultraviolet lamp with an inbuilt wood's filter made of barium silicate with 9% nickel oxide. Opaque to all wavelengths except those between 320 nm and 400 nm with a peak at 365 nm.Flourescence occurs when wood's light is absorbed and radiation of longer wavelengths is emitted.Examination done in dark room. Tinea capitis-greenish fluorescence extent of pigmentation. Epidermal/dermal bacterial infection- pseudomonas infection yellowish-greeen fluorescence diagnosis of prophyria- reddish fluorescence in urine iadvl textbook of dermatology page 109"
+    "cop": 3,
+    "exp": "WOOD'S LAMP Hand held device used to diagnose various dermatological conditions. It is a mercury vapour long wave,ultraviolet lamp with an inbuilt wood's filter made of barium silicate with 9% nickel oxide. Opaque to all wavelengths except those between 320 nm and 400 nm with a peak at 365 nm.Flourescence occurs when wood's light is absorbed and radiation of longer wavelengths is emitted.Examination done in dark room. Tinea capitis-greenish fluorescence extent of pigmentation. Epidermal/dermal bacterial infection- pseudomonas infection yellowish-greeen fluorescence diagnosis of prophyria- reddish fluorescence in urine iadvl textbook of dermatology page 109",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Wood lamp made\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "560baa5c-aee5-47ee-b496-e73dbf07061c": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Ziehl Neelsen Acid fast stainingo After staining with aniline dye, acid fast organisms resist decolourisation with acids,o Method most commonly used is modified Ziehl Neelsen.Smear stained by carbolfuschin|Decolourization by 20% sulphuric acid|Counterstaining by methylene blueAcid fast organismsNon acid fast organismsRetain fiischin (red colour)Take colour of methylene blue (blue colour)Acid fastness depends uponMycolic acid Integrity of cell wall"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Ziehl Neelsen Acid fast stainingo After staining with aniline dye, acid fast organisms resist decolourisation with acids,o Method most commonly used is modified Ziehl Neelsen.Smear stained by carbolfuschin|Decolourization by 20% sulphuric acid|Counterstaining by methylene blueAcid fast organismsNon acid fast organismsRetain fiischin (red colour)Take colour of methylene blue (blue colour)Acid fastness depends uponMycolic acid Integrity of cell wall",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Method used acid fast\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d9e0f6a9-d329-4d53-a29b-6aaecd7b87b0": {
-    "cop": 4,
-    "exp": "WALDEYER'S RING Scattered throughout the pharynx in its subepithelial layer is the lymphoid tissue which is aggregated at places to form masses, collectively called Waldeyer's ring. The masses are: 1. Nasopharyngeal tonsil or the adenoids 2. Palatine tonsils or simply the tonsils 3. Lingual tonsil 4. Tubal tonsils (in fossa of Rosenmuller) 5. Lateral pharyngeal bands 6. Nodules (in posterior pharyngeal wall). Ref:- Dhingra; pg num:-238,239"
+    "cop": 3,
+    "exp": "WALDEYER'S RING Scattered throughout the pharynx in its subepithelial layer is the lymphoid tissue which is aggregated at places to form masses, collectively called Waldeyer's ring. The masses are: 1. Nasopharyngeal tonsil or the adenoids 2. Palatine tonsils or simply the tonsils 3. Lingual tonsil 4. Tubal tonsils (in fossa of Rosenmuller) 5. Lateral pharyngeal bands 6. Nodules (in posterior pharyngeal wall). Ref:- Dhingra; pg num:-238,239",
+    "hint_exp": "🎯 Think of \"components Waldeyer ring\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "36808fb1-0369-42af-8c61-c9fdf99315cd": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5568012e-7fa4-4a54-b893-9539140e661d": {
-    "cop": 1,
-    "exp": "Maize"
+    "cop": 0,
+    "exp": "Maize",
+    "hint_exp": "🧩 Your crush solved \"Lysine deficient\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bda9fc2c-5048-4457-8da6-25ff247f3785": {
-    "cop": 2,
-    "exp": "Hysterectomy"
+    "cop": 1,
+    "exp": "Hysterectomy",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Treatment choice postmenopausal lady\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "865e224d-6ed4-466d-a3f1-3782175cb1d7": {
-    "cop": 4,
-    "exp": "Angiogenesis\no Blood vessels formation in adults is known as angiogenesis or neovascularization. It can occur by two ways:-\n1. Angiogenesis from pre-existing blood vessels\nThe major steps in this process are\ni. Vasodilatation by NO, and VEGF-induced increased permeability of the pre-existing vessel.\nii. Proteolytic degradation of the basement membrane by metalloproteinases (MMPs) and disruption of cell-to-cell contact between endothelial cells by plasminogen activator.\niii. Migration of endothelial cells towards angiogenic stimulus.\niv. Proliferation of endothelial cells, just behind the leading front of migrating cells.\nv. Maturation of endothelial cells.\nvi. Recruitment of periendothelial cells (pericytes and vascular smooth muscle cells) to form the mature cells.\n2. Angiogenesis from endothelial precursor cells (EPCs)\nEPCs can be recruited from the bone marrow into tissues to initiate angiogenesis. Growth factors involved in the process of angiogenesis\no VEGF is the most important growth factor in adult tissues undergoing angiogenesis.\no The most important receptor for VEGF is VEGFR-2, a tyrosine kinase receptor.\no VEGF induces the migration of EPCs in the bone marrow, and enhances the proliferation and differentiation of these cells at sites of angiogenesis.\no FGF 2 can also stimulate endothelial cell proliferation, differentiation and migration.\no Newly formed vessels are fragile and need to become stabilized, which requires the recruitment\nof pericytes and smooth muscle cells (peri-endothelial cells). Angiopoietin 1 and 2 (Ang 1 & 2), PDGF and TGF-fl participate in stabilization process.\nRemember\no VEGF transcription is regulated by the transcription factor HIF, which is induced by hypoxia."
+    "cop": 3,
+    "exp": "Angiogenesis\no Blood vessels formation in adults is known as angiogenesis or neovascularization. It can occur by two ways:-\n1. Angiogenesis from pre-existing blood vessels\nThe major steps in this process are\ni. Vasodilatation by NO, and VEGF-induced increased permeability of the pre-existing vessel.\nii. Proteolytic degradation of the basement membrane by metalloproteinases (MMPs) and disruption of cell-to-cell contact between endothelial cells by plasminogen activator.\niii. Migration of endothelial cells towards angiogenic stimulus.\niv. Proliferation of endothelial cells, just behind the leading front of migrating cells.\nv. Maturation of endothelial cells.\nvi. Recruitment of periendothelial cells (pericytes and vascular smooth muscle cells) to form the mature cells.\n2. Angiogenesis from endothelial precursor cells (EPCs)\nEPCs can be recruited from the bone marrow into tissues to initiate angiogenesis. Growth factors involved in the process of angiogenesis\no VEGF is the most important growth factor in adult tissues undergoing angiogenesis.\no The most important receptor for VEGF is VEGFR-2, a tyrosine kinase receptor.\no VEGF induces the migration of EPCs in the bone marrow, and enhances the proliferation and differentiation of these cells at sites of angiogenesis.\no FGF 2 can also stimulate endothelial cell proliferation, differentiation and migration.\no Newly formed vessels are fragile and need to become stabilized, which requires the recruitment\nof pericytes and smooth muscle cells (peri-endothelial cells). Angiopoietin 1 and 2 (Ang 1 & 2), PDGF and TGF-fl participate in stabilization process.\nRemember\no VEGF transcription is regulated by the transcription factor HIF, which is induced by hypoxia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"During angiogenesis recruitment pericytes\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "582e2447-317b-4a3d-b1fb-d78b8996026c": {
-    "cop": 3,
-    "exp": "(Refer: AK Khurana Comprehensive Ophthalmology, 6th edition, pg no. 384)*Basal cell carcinoma is the commonest malignant tumor to the lids (90%) usually seen in elderly people *It is locally malignant and involves most commonly lower lid (50%) followed by medial canthus (25%), upper lid (10-15%) and outer canthus\"Basal cell carcinoma is seen in the lower lid near the inner canthus usually"
+    "cop": 2,
+    "exp": "(Refer: AK Khurana Comprehensive Ophthalmology, 6th edition, pg no. 384)*Basal cell carcinoma is the commonest malignant tumor to the lids (90%) usually seen in elderly people *It is locally malignant and involves most commonly lower lid (50%) followed by medial canthus (25%), upper lid (10-15%) and outer canthus\"Basal cell carcinoma is seen in the lower lid near the inner canthus usually",
+    "hint_exp": "🎯 Think of \"which pa of the eyelid\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1ea9eb09-a49d-4b71-8574-b62ffc2c7d2e": {
-    "cop": 1,
-    "exp": "- Field instrument to measure bih weight is Salter's Spring balance (kind of sling balance on which child is hung) - Average bih weight = 2.8kg - According to WHO, Low bih weight = < 2.5kg Very Low bih weight = < 1.5 Kg Extremely Low bih weight = < 1 Kg - Bih weight Doubles by 5 months Triples by 12 months Quadruples by 2yrs"
+    "cop": 0,
+    "exp": "- Field instrument to measure bih weight is Salter's Spring balance (kind of sling balance on which child is hung) - Average bih weight = 2.8kg - According to WHO, Low bih weight = < 2.5kg Very Low bih weight = < 1.5 Kg Extremely Low bih weight = < 1 Kg - Bih weight Doubles by 5 months Triples by 12 months Quadruples by 2yrs",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Field instrument used measure\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5be2b87e-b926-442e-849c-61f186610c4a": {
-    "cop": 2,
-    "exp": "Leptospirosis\nLeptospira organisms are found in damp environments and affect people working there, like\n\nStagnant water (sewer workers)\nWet soil (agricultural workers)\nMine workers\n\nInfected person can develop mild febrile illness, headache to jaundice and renal failure. Human acts as an end host of these organisms."
+    "cop": 1,
+    "exp": "Leptospirosis\nLeptospira organisms are found in damp environments and affect people working there, like\n\nStagnant water (sewer workers)\nWet soil (agricultural workers)\nMine workers\n\nInfected person can develop mild febrile illness, headache to jaundice and renal failure. Human acts as an end host of these organisms.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1acbff0e-52ea-4563-976a-f34b6e7bcd7e": {
-    "cop": 1,
-    "exp": "90% of couple who are cohabiting for at least one year with out contraception will have a conception. This is on monthly conception rates of 20 - 25 % in normal young couples attempting pregnancy."
+    "cop": 0,
+    "exp": "90% of couple who are cohabiting for at least one year with out contraception will have a conception. This is on monthly conception rates of 20 - 25 % in normal young couples attempting pregnancy.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"sexual cohabitation\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c3e6d311-90e8-417d-86c1-34c36879ca92": {
-    "cop": 4,
-    "exp": "Immunoglobulins constitute 20 to 25% of total serum proteins. Based on physiochemical and antigenic differences, five classes of immunoglobulins have been recognized: IgG, IgA, IgM, IgD, and IgE.(Ref: Ananthanarayan 9th edition, p93)"
+    "cop": 3,
+    "exp": "Immunoglobulins constitute 20 to 25% of total serum proteins. Based on physiochemical and antigenic differences, five classes of immunoglobulins have been recognized: IgG, IgA, IgM, IgD, and IgE.(Ref: Ananthanarayan 9th edition, p93)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"proteins\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2d4e0e42-cba5-4600-b636-6465edb2f23b": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Perinatal mortality expressed terms\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "563754d0-4aef-4c16-b2ed-ef222d6c6626": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"in an omphalocorle\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d54a7b8c-7eb0-42c7-97a4-4875c99fa08d": {
-    "cop": 4,
-    "exp": "Ans. D: Always pathologicalA hallucination, in the broadest sense of the word, is a perception in the absence of a stimulus.In a stricter sense, hallucinations are defined as perceptions in a conscious and awake state in the absence of external stimuli which have qualities of real perception, in that they are vivid, substantial, and located in external objective space. Hallucinations can occur in any sensory modality -- visual, auditory, olfactory, gustatory, tactile, proprioceptive, equilibrioceptive, nociceptive, thermoceptive and chronoceptive."
+    "cop": 3,
+    "exp": "Ans. D: Always pathologicalA hallucination, in the broadest sense of the word, is a perception in the absence of a stimulus.In a stricter sense, hallucinations are defined as perceptions in a conscious and awake state in the absence of external stimuli which have qualities of real perception, in that they are vivid, substantial, and located in external objective space. Hallucinations can occur in any sensory modality -- visual, auditory, olfactory, gustatory, tactile, proprioceptive, equilibrioceptive, nociceptive, thermoceptive and chronoceptive.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

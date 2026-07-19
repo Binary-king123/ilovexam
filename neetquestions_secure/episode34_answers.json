@@ -1,202 +1,252 @@
 {
   "a32d45ac-63f1-4691-875f-07ef3e9ba287": {
-    "cop": 3,
-    "exp": "Popliteus has an intracapsular origin that arises from lateral surface of lateral condyle of femur and from outer margin of lateral meniscus of knee. It inserts onto the posterior surface of shaft of tibia above the soleal line. Nerve supply: Tibial nerve.\nAction: Unlocking of knee joint by lateral rotation of femur, prior to flexion. It is also an accessory flexor of the knee joint."
+    "cop": 2,
+    "exp": "Popliteus has an intracapsular origin that arises from lateral surface of lateral condyle of femur and from outer margin of lateral meniscus of knee. It inserts onto the posterior surface of shaft of tibia above the soleal line. Nerve supply: Tibial nerve.\nAction: Unlocking of knee joint by lateral rotation of femur, prior to flexion. It is also an accessory flexor of the knee joint.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"true about popliteus except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4e7735c0-2333-41cd-b07a-3321ad59f8f9": {
-    "cop": 4,
-    "exp": "(Ref Goamnan and Gilman, 11/e p575, inotropic drugs are not used for treatment of right sided where the major treatment is diuretics and vasodilators. Milriinone being a phosphodiesterase inhibitor act as an inodilator. Thus, this is the only inotropic drug that should be used in right sided failure due to its ablity to produce vasodilation. It is indicated in right hea failure with pulmonary hypeension."
+    "cop": 3,
+    "exp": "(Ref Goamnan and Gilman, 11/e p575, inotropic drugs are not used for treatment of right sided where the major treatment is diuretics and vasodilators. Milriinone being a phosphodiesterase inhibitor act as an inodilator. Thus, this is the only inotropic drug that should be used in right sided failure due to its ablity to produce vasodilation. It is indicated in right hea failure with pulmonary hypeension.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"use in right hea failure\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d245218a-8c82-4c5a-a9fd-624f78b331d9": {
-    "cop": 3,
-    "exp": "Advantages of neutral sodium fluoride solution-\n1. It is relatively stable when kept in a plastic container and there is no need to prepare a fresh solution for each patient. \n2. The taste is well accepted by patients. \n3. The  solution  is non-irritating  to the gingiva. \n4. It does not cause discoloration of tooth structure. \n5. Once applied to the teeth, the solution is allowed to dry for 3 minutes. Thus the clinician in public health programs can pursue a multiple-chair procedure. \n6. The series of treatments must be repeated only four times in the general age range of 3  to  13, rather than  at annual or semiannual intervals, therefore in a public health program, other groups of children can be treated in theJintervening years. \nDisadvantage of neutral sodium fluoride solution-\n1. The major disadvantage of the use of sodium fluoride is that the patient must make four visits to the dentist within a relatively short period of time."
+    "cop": 2,
+    "exp": "Advantages of neutral sodium fluoride solution-\n1. It is relatively stable when kept in a plastic container and there is no need to prepare a fresh solution for each patient. \n2. The taste is well accepted by patients. \n3. The  solution  is non-irritating  to the gingiva. \n4. It does not cause discoloration of tooth structure. \n5. Once applied to the teeth, the solution is allowed to dry for 3 minutes. Thus the clinician in public health programs can pursue a multiple-chair procedure. \n6. The series of treatments must be repeated only four times in the general age range of 3  to  13, rather than  at annual or semiannual intervals, therefore in a public health program, other groups of children can be treated in theJintervening years. \nDisadvantage of neutral sodium fluoride solution-\n1. The major disadvantage of the use of sodium fluoride is that the patient must make four visits to the dentist within a relatively short period of time.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e9f93c17-5f03-4b8c-becb-ffbc05332f50": {
-    "cop": 1,
-    "exp": "IMIDAZOLES AND TRIAZOLES: These are presently the most extensively used antifungal drugs. Four irnidazoles are entirely topical, while ketoconazole is used both orally and topically. Two triazoles fluconazole and itraconazole have largely replaced ketoconazole for systemic mycosis because of greater efficacy, longer tlh, fewer side effects and drug interactions. The imidazoles and triazoles have broadspectrum antifungal activity covering dermatophytes, Candida, other fungi involved in deep mycosis (except mucor), Nocardia, some grampositive and anaerobic bacteria, e.g. Staph. aureus, Strep. faecal is, Bac. fragilis and Leishmania. The mechanism of action of irnidazoles and triazoles is the same. They inhibit the fungal cytochrome P450 enzyme &;lanosterol l4--demethylase&; and thus impair ergosterol synthesis leading to a cascade of membrane abnormalities in the fungus. The lower host toxicity of triazoles compared to irnidazoles has correlated with their lower affinity for mammalian CYP450 enzymes and lesser propensity to inhibit mammalian sterol synthesis. However, because they are active against ceain bacteria as well (which do not have ergosterol), other mechanisms of action also appear to be involved. Ketoconazole (KTZ): It is the first orally effective broad-spectrum antifungal drug, useful in both dermatophytosis and deep myc osis. The oral absorption of KTZ is facilitated by gastric acidity because it is more soluble at lower pH. Hepatic metabolism is extensive; metabolites are excreted in urine and faeces. Elimination of KTZ is dose dependent: tlh varies from llh to 6 hours. Penetration in CSF is poor: not effective in fungal men ingitis. However, therapeutic concentrations are attained in the skin and vaginal fluid. ESSENTIALS OF MEDICAL PHARMACOLOGY K.D.TRIPATHI SIXTH EDITION PAGE NO:761,762"
+    "cop": 0,
+    "exp": "IMIDAZOLES AND TRIAZOLES: These are presently the most extensively used antifungal drugs. Four irnidazoles are entirely topical, while ketoconazole is used both orally and topically. Two triazoles fluconazole and itraconazole have largely replaced ketoconazole for systemic mycosis because of greater efficacy, longer tlh, fewer side effects and drug interactions. The imidazoles and triazoles have broadspectrum antifungal activity covering dermatophytes, Candida, other fungi involved in deep mycosis (except mucor), Nocardia, some grampositive and anaerobic bacteria, e.g. Staph. aureus, Strep. faecal is, Bac. fragilis and Leishmania. The mechanism of action of irnidazoles and triazoles is the same. They inhibit the fungal cytochrome P450 enzyme &;lanosterol l4--demethylase&; and thus impair ergosterol synthesis leading to a cascade of membrane abnormalities in the fungus. The lower host toxicity of triazoles compared to irnidazoles has correlated with their lower affinity for mammalian CYP450 enzymes and lesser propensity to inhibit mammalian sterol synthesis. However, because they are active against ceain bacteria as well (which do not have ergosterol), other mechanisms of action also appear to be involved. Ketoconazole (KTZ): It is the first orally effective broad-spectrum antifungal drug, useful in both dermatophytosis and deep myc osis. The oral absorption of KTZ is facilitated by gastric acidity because it is more soluble at lower pH. Hepatic metabolism is extensive; metabolites are excreted in urine and faeces. Elimination of KTZ is dose dependent: tlh varies from llh to 6 hours. Penetration in CSF is poor: not effective in fungal men ingitis. However, therapeutic concentrations are attained in the skin and vaginal fluid. ESSENTIALS OF MEDICAL PHARMACOLOGY K.D.TRIPATHI SIXTH EDITION PAGE NO:761,762",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"antimicrobial agent which inhibits\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "30bf8f20-b0ac-465b-9d9f-61f5990b2fd4": {
-    "cop": 2,
-    "exp": "Emblamings may be aerial emblaming and cavity emblaming."
+    "cop": 1,
+    "exp": "Emblamings may be aerial emblaming and cavity emblaming.",
+    "hint_exp": "🧩 Your crush solved \"embalmingr solution\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0acf2241-a277-4c9f-8561-4c7942ff83de": {
-    "cop": 1,
-    "exp": "."
+    "cop": 0,
+    "exp": ".",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Lipids transferred from intestine\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "55f90618-002b-4943-95d2-e6bebee1e018": {
-    "cop": 1,
-    "exp": "Answer is A (Fusion of foot processes of the glomerular epithelial cells):The presence of generalized edema is a 7 year old boy with proteinuria suggests a diagnosis of Nephrotic syndrome. This child is likely to have. Minimal change disease as this is the most common cause of Nephrotic syndrome in children and is associated with normal findings on Light microscopyGeneralized edema May develop Pleural effusion, pulmonary edema, ascitis Patients with minimal change disease characteristically show fusion of foot processes of the glomerular epethelial cells on electron microscopy.Minimal change Disease: ReviewMost common cause of Nephrotic syndrome in children (80% in children; 20% in adults)Peak Age of onset is between 6-8 years of Age (usually < 10 years)Type of onset : InsiduousClinical featuresPeripheral Edema: Presenting FeatureNephrotic syndrome is the typical presentationPeripheral edema is the hallmark of Nephrotic syndrome occurring when serum albumin levels become less than 3g/dlInitially dependent Edema > Generalized edema May develop Pleural effusion, pulmonary edema, ascitisHematuria : 20-30%Hypeension : V. RareRenal failure : Does not usually progress to renal failureLaboratory (Features of Nephrotic syndrome)ProteinuriaHypoalbuminemiaHyperlipidemia/Hyper cholesterolemia (Increased hepatic prduction of lipids)HypercoagulabilityRenal pathology (Biopsy)InvestigationLight microscopy QElectron microscopy QImmunofluorescence QObservationNo abnormality hence the term minimal changeFusion of foot processesAbsence of immunoglobulin or complementPrognosisPrognosis is GoodResponse to steroids is ExcellentDoes not progress to Renal FailureTreatmentsCoicosteroids form the mainstay for treatment of MCD"
+    "cop": 0,
+    "exp": "Answer is A (Fusion of foot processes of the glomerular epithelial cells):The presence of generalized edema is a 7 year old boy with proteinuria suggests a diagnosis of Nephrotic syndrome. This child is likely to have. Minimal change disease as this is the most common cause of Nephrotic syndrome in children and is associated with normal findings on Light microscopyGeneralized edema May develop Pleural effusion, pulmonary edema, ascitis Patients with minimal change disease characteristically show fusion of foot processes of the glomerular epethelial cells on electron microscopy.Minimal change Disease: ReviewMost common cause of Nephrotic syndrome in children (80% in children; 20% in adults)Peak Age of onset is between 6-8 years of Age (usually < 10 years)Type of onset : InsiduousClinical featuresPeripheral Edema: Presenting FeatureNephrotic syndrome is the typical presentationPeripheral edema is the hallmark of Nephrotic syndrome occurring when serum albumin levels become less than 3g/dlInitially dependent Edema > Generalized edema May develop Pleural effusion, pulmonary edema, ascitisHematuria : 20-30%Hypeension : V. RareRenal failure : Does not usually progress to renal failureLaboratory (Features of Nephrotic syndrome)ProteinuriaHypoalbuminemiaHyperlipidemia/Hyper cholesterolemia (Increased hepatic prduction of lipids)HypercoagulabilityRenal pathology (Biopsy)InvestigationLight microscopy QElectron microscopy QImmunofluorescence QObservationNo abnormality hence the term minimal changeFusion of foot processesAbsence of immunoglobulin or complementPrognosisPrognosis is GoodResponse to steroids is ExcellentDoes not progress to Renal FailureTreatmentsCoicosteroids form the mainstay for treatment of MCD",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"most likely to reveal\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "01ad49c6-2d21-4eef-944b-19b294e022c6": {
-    "cop": 2,
-    "exp": "Endothelial cells constitute a large and impoant tissue. They secrete many growth factors and vasoactive substances. The vasoactive substances include prostaglandins and thromboxanes, nitric oxide, and endothelins.Lungs activate angiotensin I to angiotensin II; this reaction is paicularly prominent in the lungsRef: Ganong's Review of Medical Physiology;23rd edition; Page No: 606"
+    "cop": 1,
+    "exp": "Endothelial cells constitute a large and impoant tissue. They secrete many growth factors and vasoactive substances. The vasoactive substances include prostaglandins and thromboxanes, nitric oxide, and endothelins.Lungs activate angiotensin I to angiotensin II; this reaction is paicularly prominent in the lungsRef: Ganong's Review of Medical Physiology;23rd edition; Page No: 606",
+    "hint_exp": "🎯 Think of \"Which synthesized vascular epithelium\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "73f8b2f6-0db0-430f-b323-7152825a669f": {
-    "cop": 2,
-    "exp": "Since the spinal segments involved in knee and ankle jerks are at higher level than the level of lesion, they are preserved.and not lost. Root value of knee reflex is L-2,3 and 4 and for the ankle reflex is S-1 Conus medullary syndrome is lower motor neuron lesion and involves the lower 3 sacral and coccygeal segments Plantar reflex remains flexor in this syndrome since its spinal arc is also above the level of lesion and is unaffected Root value of plantar reflex is S-1,2. Conus medullary syndrome produces saddle anaesthesia in the perineal region as per the dermatomal pattern. Ref: Gray's 39e/p-227"
+    "cop": 1,
+    "exp": "Since the spinal segments involved in knee and ankle jerks are at higher level than the level of lesion, they are preserved.and not lost. Root value of knee reflex is L-2,3 and 4 and for the ankle reflex is S-1 Conus medullary syndrome is lower motor neuron lesion and involves the lower 3 sacral and coccygeal segments Plantar reflex remains flexor in this syndrome since its spinal arc is also above the level of lesion and is unaffected Root value of plantar reflex is S-1,2. Conus medullary syndrome produces saddle anaesthesia in the perineal region as per the dermatomal pattern. Ref: Gray's 39e/p-227",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"conus syndrome except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d26d26a0-70c4-409c-be81-fec5aa637411": {
-    "cop": 1,
-    "exp": "Ans. a. Capnography Capnography is the surest confirmatory sign of correct intubationQ So, the fastest and accurate method to confirm intubation in the above mentioned infant is capnography Capnography Capnography is the continuous measurement of end tidal carbon dioxide (ETCO,) and its waveform. Normal: 32 to 42 mmHe (3 to 4 mmHg less than aerial pCO, which is 35 to 45 mmHg) Principle: Infrared light is absorbed by carbon dioxide Uses of Capnography It is the surest confirmatory sign of correct intubation (esophageal intubation will yield ETCO2=0) Intraoperative displacement of endotracheal tubedeg (ETCO2 will become zero) Diagnosis of malignant hypehermie (ETCO, may rise to more than 100 mm Hg) For detecting obstructions and disconnections of endotracheal tubes (ETCO, will fall) Capnography Uses of Capnography Diagnosing pulmonary embolism by air, fat or thrombus (sudden fall of ETCO2 occurs. It may become zero if embolus is large enough to block total pulmonary circulation) Exhausted sodalime or defective valves of closed circuit will show high ETCO2 values. To control level of hypocapnia during hyperventilation in neurosurgery Indicator of cardiac output. In cardiac arrest ETCO, is zero."
+    "cop": 0,
+    "exp": "Ans. a. Capnography Capnography is the surest confirmatory sign of correct intubationQ So, the fastest and accurate method to confirm intubation in the above mentioned infant is capnography Capnography Capnography is the continuous measurement of end tidal carbon dioxide (ETCO,) and its waveform. Normal: 32 to 42 mmHe (3 to 4 mmHg less than aerial pCO, which is 35 to 45 mmHg) Principle: Infrared light is absorbed by carbon dioxide Uses of Capnography It is the surest confirmatory sign of correct intubation (esophageal intubation will yield ETCO2=0) Intraoperative displacement of endotracheal tubedeg (ETCO2 will become zero) Diagnosis of malignant hypehermie (ETCO, may rise to more than 100 mm Hg) For detecting obstructions and disconnections of endotracheal tubes (ETCO, will fall) Capnography Uses of Capnography Diagnosing pulmonary embolism by air, fat or thrombus (sudden fall of ETCO2 occurs. It may become zero if embolus is large enough to block total pulmonary circulation) Exhausted sodalime or defective valves of closed circuit will show high ETCO2 values. To control level of hypocapnia during hyperventilation in neurosurgery Indicator of cardiac output. In cardiac arrest ETCO, is zero.",
+    "hint_exp": "🧩 Your crush solved \"infant with respiratory distress\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d015b2a6-c776-4b90-9e10-2e2d6daf9d5f": {
-    "cop": 4,
-    "exp": "Mechanisms in the formation of lithogenic (stone-forming) bile. The most impoant is increased biliary secretion of cholesterol. This may occur in association with obesity, the metabolic syndrome, high-caloric and cholesterol-rich diets, or drugs (e.g., clofibrate) and may result from increased activity of hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase. Reference: Harrisons Principles of Internal Medicine, 18th Edition, Page 2617"
+    "cop": 3,
+    "exp": "Mechanisms in the formation of lithogenic (stone-forming) bile. The most impoant is increased biliary secretion of cholesterol. This may occur in association with obesity, the metabolic syndrome, high-caloric and cholesterol-rich diets, or drugs (e.g., clofibrate) and may result from increased activity of hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase. Reference: Harrisons Principles of Internal Medicine, 18th Edition, Page 2617",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"impoant mechanisms formation lithogenic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e912320b-0b7f-4a78-981b-1381655673ea": {
-    "cop": 3,
-    "exp": "Nystagmus can be induced both by cold as well as thermal stimulationCold stimulation causes nystagmus towards opposite side while thermal stimulation causes Nystagmus towards same side. (COWS)In canal paresis either there is a reduced or absent response (causes of U/L canal paresis are-U/L vestibular Schwannoma or vestibular neuritis).B/L absence of caloric nystagmus is seen in case of amminoglycoside ototoxicity or postmeningitis"
+    "cop": 2,
+    "exp": "Nystagmus can be induced both by cold as well as thermal stimulationCold stimulation causes nystagmus towards opposite side while thermal stimulation causes Nystagmus towards same side. (COWS)In canal paresis either there is a reduced or absent response (causes of U/L canal paresis are-U/L vestibular Schwannoma or vestibular neuritis).B/L absence of caloric nystagmus is seen in case of amminoglycoside ototoxicity or postmeningitis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "87476c2f-6674-45ee-b9d3-3db7a7a9069a": {
-    "cop": 4,
-    "exp": "Answer is D (Post necrotic cirrhosis) Liver is typically shrunken in size and not enlarged in post necrotic cirrhosis. Alcoholic hepatitis, NASH, Wilson's disease and Budd chiari syndrome may all present with enlarged liver and hepatocellular dysfunction."
+    "cop": 3,
+    "exp": "Answer is D (Post necrotic cirrhosis) Liver is typically shrunken in size and not enlarged in post necrotic cirrhosis. Alcoholic hepatitis, NASH, Wilson's disease and Budd chiari syndrome may all present with enlarged liver and hepatocellular dysfunction.",
+    "hint_exp": "🎯 Think of \"Enlarged liver with Hepatocellular\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e14342e0-5d78-4346-8f5f-c5363d2a5500": {
-    "cop": 1,
-    "exp": "First I would like to exclude other three options : -\n\n\nAortic aneurysm (option b) and mediastinal lymphadenopathy (option c) cause left sided vocal cord paralysis.\nVocal nodules does not cause vocal cord paralysis. \n\n\nNow we are left with option 'a' only : -\n\n\"Laryngeal carcinoma especially glottic can cause unilateral or bilateral vocal cord paralysis\" ─ Conn's current therapy\n\nSo, answer of this question is laryngeal carcinoma as it can cause unilateral (right or left) or bilateral vocal cord paralysis."
+    "cop": 0,
+    "exp": "First I would like to exclude other three options : -\n\n\nAortic aneurysm (option b) and mediastinal lymphadenopathy (option c) cause left sided vocal cord paralysis.\nVocal nodules does not cause vocal cord paralysis. \n\n\nNow we are left with option 'a' only : -\n\n\"Laryngeal carcinoma especially glottic can cause unilateral or bilateral vocal cord paralysis\" ─ Conn's current therapy\n\nSo, answer of this question is laryngeal carcinoma as it can cause unilateral (right or left) or bilateral vocal cord paralysis.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Right sided vocal cord\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a89f8a22-61dd-4346-a843-b268c502044c": {
-    "cop": 2,
-    "exp": "Ans. (b) Corpus striatum(Ref: Ganong, 25th ed/p.243)The Efferent fibers bundle of the substantia nigra transmits dopamine to corpus striatum"
+    "cop": 1,
+    "exp": "Ans. (b) Corpus striatum(Ref: Ganong, 25th ed/p.243)The Efferent fibers bundle of the substantia nigra transmits dopamine to corpus striatum",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8d55010e-8c36-4486-a693-5027e759e9b6": {
-    "cop": 3,
-    "exp": "C i.e. Ester"
+    "cop": 2,
+    "exp": "C i.e. Ester",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"About lidocaine true except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "db52dd1f-7aad-4ef7-87a8-6b562593b059": {
-    "cop": 1,
-    "exp": "Spores may be seen in unstained preparations as Refractile bodies. The forespore stains intensely but once the spores envelope is laid down the spores does not stain readly. Spores appear as unstained areas in Gram-stained preparations but being more acid fast than the vegetative cells they can be stained by a modification of the Diehl -Nelson technique. Ref: Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 21"
+    "cop": 0,
+    "exp": "Spores may be seen in unstained preparations as Refractile bodies. The forespore stains intensely but once the spores envelope is laid down the spores does not stain readly. Spores appear as unstained areas in Gram-stained preparations but being more acid fast than the vegetative cells they can be stained by a modification of the Diehl -Nelson technique. Ref: Ananthanarayan & paniker's Textbook of Microbiology 9th edition pg no 21",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Acid fast organisms\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6806e3f4-88b1-4014-ab2c-bb77759b2faa": {
-    "cop": 1,
-    "exp": "Uniparental disomy occurs when both chromosomes of a pair or areas from 2 chromosome in any individual have been inherited from a single parent. Maternal uniparental disomy is seen in Leader -Willi syndrome. Paternal uniparental disomy is seen in Angelman syndrome . Reference: Nelson TB of pediatrics pg 412 19th edition."
+    "cop": 0,
+    "exp": "Uniparental disomy occurs when both chromosomes of a pair or areas from 2 chromosome in any individual have been inherited from a single parent. Maternal uniparental disomy is seen in Leader -Willi syndrome. Paternal uniparental disomy is seen in Angelman syndrome . Reference: Nelson TB of pediatrics pg 412 19th edition.",
+    "hint_exp": "🎯 Think of \"seen in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8ac6392a-2271-4587-89a8-6036dab8c4d2": {
-    "cop": 1,
-    "exp": "A i.e. Left gonadal vesselsRoot of mesentery crosses (successively) te ascending (4th) and inferior horizontal (3rd) pas of duodenum, abdominal aoa, IVC, right ureter, right psoas major and right gonadal (testicular/ovarian) vesselQ. It does not cross left ureter, leftgonadal vessels and superior mesenteric vessels."
+    "cop": 0,
+    "exp": "A i.e. Left gonadal vesselsRoot of mesentery crosses (successively) te ascending (4th) and inferior horizontal (3rd) pas of duodenum, abdominal aoa, IVC, right ureter, right psoas major and right gonadal (testicular/ovarian) vesselQ. It does not cross left ureter, leftgonadal vessels and superior mesenteric vessels.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"mesentery small intestine along\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c57fd827-2013-4a34-b244-4948f1d3abc5": {
-    "cop": 2,
-    "exp": "Ans. is 'b'.e., Felypressin"
+    "cop": 1,
+    "exp": "Ans. is 'b'.e., Felypressin",
+    "hint_exp": "🧩 Your crush solved \"LA in Hypeensive pts\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6ee5545a-f23b-4c7c-9bf3-50d07d435cc5": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Congenital syndrome associated with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "85ca8da1-9a77-479a-8436-3f43c5c79cfd": {
-    "cop": 3,
-    "exp": "Station is leading point of Head. Station 0 = Head at level of Ischial spines + means below Ischial spines - means above Ischial spines Numbers like 1 , 2 denote distance in cm below or above Ischial spine"
+    "cop": 2,
+    "exp": "Station is leading point of Head. Station 0 = Head at level of Ischial spines + means below Ischial spines - means above Ischial spines Numbers like 1 , 2 denote distance in cm below or above Ischial spine",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the exact position of head\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f2e050a4-21a3-4316-8df5-e077c84c4187": {
-    "cop": 3,
-    "exp": "Capillary refill is a simple test that assesses how quickly blood returns to the skin after pressure is applied.\nIt is carried out by applying pressure to the pink part of the nail bed of the thumb or big toe in a child and over the sternum or forehead in a young infant for 3 seconds.\nThe capillary refill time is the time from release of pressure to complete return of the pink colour. It should be less than 3 seconds.\nIf it is more than 3 seconds the child may be in shock. Lift the limb slightly above heart level to assess arteriolar capillary refill and not venous stasis.\nThis sign is reliable except when the room temperature is low, as the cold environment can cause a delayed capillary refill.\nIn such a situation check the pulses and decide about shock"
+    "cop": 2,
+    "exp": "Capillary refill is a simple test that assesses how quickly blood returns to the skin after pressure is applied.\nIt is carried out by applying pressure to the pink part of the nail bed of the thumb or big toe in a child and over the sternum or forehead in a young infant for 3 seconds.\nThe capillary refill time is the time from release of pressure to complete return of the pink colour. It should be less than 3 seconds.\nIf it is more than 3 seconds the child may be in shock. Lift the limb slightly above heart level to assess arteriolar capillary refill and not venous stasis.\nThis sign is reliable except when the room temperature is low, as the cold environment can cause a delayed capillary refill.\nIn such a situation check the pulses and decide about shock",
+    "hint_exp": "🎯 Think of \"a child with shock\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8e34ba21-a399-41d8-a07d-2f494ed05902": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"congenital cysts except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e3918480-8802-495e-aa17-aa50e6c170f3": {
-    "cop": 1,
-    "exp": "The lung maturity occurs at 34 weeks of gestation and this is ceified by checking the L:S ratio which should be > 2:1 or appearance of Phosphatidyl glycerol in the amniotic fluid. Maternal administration of coicosteroid is advocated where the pregnancy is less than 34 weeks. This helps in fetal lung maturation so that the incidence of RDS, Intra Ventricular Hemorrhage , Necrotising Enterocolitis , and Patent Ductus Aeriosus are minimized. Respiratory distress of newborn often results in multiple debility in the fetus if not prevented."
+    "cop": 0,
+    "exp": "The lung maturity occurs at 34 weeks of gestation and this is ceified by checking the L:S ratio which should be > 2:1 or appearance of Phosphatidyl glycerol in the amniotic fluid. Maternal administration of coicosteroid is advocated where the pregnancy is less than 34 weeks. This helps in fetal lung maturation so that the incidence of RDS, Intra Ventricular Hemorrhage , Necrotising Enterocolitis , and Patent Ductus Aeriosus are minimized. Respiratory distress of newborn often results in multiple debility in the fetus if not prevented.",
+    "hint_exp": "🧩 Your crush solved \"the following in the newborn\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f47de07e-6e98-41b6-ad78-d81adf7dbbb3": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"contact ulcer in larynx\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6a455c6d-bf8d-4fb9-8458-8a10418744de": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Yolk sac* Embryonic and fetal hematopoiesis occurs in three phases: megaloblastic, hepatic, and myeloid. At each phase of RBC development both the sites of production and the cell composition change.* Sites and stages of fetal erythropoiesis: Primitive erythropoiesis begins in the yolk sac at 2 to 3 weeks after conception. By the end of the first trimester, the liver has become the main erythroid organ. The liver is the primary source of red blood cells during the second trimester, and the bone marrow is the primary source of red blood cells during the last trimester"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Yolk sac* Embryonic and fetal hematopoiesis occurs in three phases: megaloblastic, hepatic, and myeloid. At each phase of RBC development both the sites of production and the cell composition change.* Sites and stages of fetal erythropoiesis: Primitive erythropoiesis begins in the yolk sac at 2 to 3 weeks after conception. By the end of the first trimester, the liver has become the main erythroid organ. The liver is the primary source of red blood cells during the second trimester, and the bone marrow is the primary source of red blood cells during the last trimester",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Initial site production fetus\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ee86b126-91ed-41d4-9331-9ba7abf20155": {
-    "cop": 3,
-    "exp": "C i.e. Alfentanyl"
+    "cop": 2,
+    "exp": "C i.e. Alfentanyl",
+    "hint_exp": "🎯 Think of \"out patient anasthesia\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4b20eac9-8b96-464a-b04b-78934c21345a": {
-    "cop": 3,
-    "exp": "The features of intaepidermal acantholytic blisters coupled with flacid bullae over skin and oral erosions points towards P. vulgaris. The other 3 diseases do now show intraepidermal blistering. They are devoid of mucosal involement. Erythema Multiforme: Target lesion seen on distal extremeties. If mucosa involved it is called as Epidermal Multiforme Major Dermatitis herpetiformis: Extremely pruritic vesicopapules over extensors Pemphigoid: Tense bullae"
+    "cop": 2,
+    "exp": "The features of intaepidermal acantholytic blisters coupled with flacid bullae over skin and oral erosions points towards P. vulgaris. The other 3 diseases do now show intraepidermal blistering. They are devoid of mucosal involement. Erythema Multiforme: Target lesion seen on distal extremeties. If mucosa involved it is called as Epidermal Multiforme Major Dermatitis herpetiformis: Extremely pruritic vesicopapules over extensors Pemphigoid: Tense bullae",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"female flaccid bullae over\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c6902efa-0d40-4220-8d8b-af620342c247": {
-    "cop": 1,
-    "exp": "A i.e. The authority who has conducted inquest in that paicular case"
+    "cop": 0,
+    "exp": "A i.e. The authority who has conducted inquest in that paicular case",
+    "hint_exp": "🧩 Your crush solved \"After postmoem body handed\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0790541e-01e7-497d-8fe7-ae413e607936": {
-    "cop": 1,
-    "exp": "Ans. (a) Absence of oocytes in the ovaries (streak ovaries)(Ref: Robbins 9th/pg 166-167; 8th/pg 165-166)In this question, the patient is presenting with primary amenorrhea and raised FSH, along with short stature(Given Height =58 inches, which is less than 5th percentile of expected at 16 years age). All these features are suggestive of Turner Syndrome.Infertility Q due to rudimentary uterus and streak ovaries is an important feature Q, as ovaries are reduced to atrophic fibrous strands without ova and follicles in Turner syndrome"
+    "cop": 0,
+    "exp": "Ans. (a) Absence of oocytes in the ovaries (streak ovaries)(Ref: Robbins 9th/pg 166-167; 8th/pg 165-166)In this question, the patient is presenting with primary amenorrhea and raised FSH, along with short stature(Given Height =58 inches, which is less than 5th percentile of expected at 16 years age). All these features are suggestive of Turner Syndrome.Infertility Q due to rudimentary uterus and streak ovaries is an important feature Q, as ovaries are reduced to atrophic fibrous strands without ova and follicles in Turner syndrome",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the ovary\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ce41e196-9993-479f-8b5b-690d4f6f3a4d": {
-    "cop": 2,
-    "exp": "Serratia grows in sputum after collection and makes sputum red (pigment production) This condition is pseudohemoptysis."
+    "cop": 1,
+    "exp": "Serratia grows in sputum after collection and makes sputum red (pigment production) This condition is pseudohemoptysis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Pseudohemoptysis caused\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e555f8f1-34db-4673-b7a2-c04d76d229c5": {
-    "cop": 2,
-    "exp": "Ans. B: Congenital syphilis It develop from host immune mechanisms to active infections or antigens within the stromal keratocytes. Diseases known to cause interstitial keratitis include: congenital syphilis, herpes simplex, herpes zoster, Epstein-Barr, tuberculosis and leprosy. Clinical manifestations: superficial stromal scarring, necrotizing stromal keratitis and disciform keratitis. As the inflammation subsides, intracorneal blood vessels will regress and become nonperfused vascular channels, which are known as \"ghost\" vessels. These vessels can be readily visualized using slit lamp biomicroscopy and can become active if inflammation recurs."
+    "cop": 1,
+    "exp": "Ans. B: Congenital syphilis It develop from host immune mechanisms to active infections or antigens within the stromal keratocytes. Diseases known to cause interstitial keratitis include: congenital syphilis, herpes simplex, herpes zoster, Epstein-Barr, tuberculosis and leprosy. Clinical manifestations: superficial stromal scarring, necrotizing stromal keratitis and disciform keratitis. As the inflammation subsides, intracorneal blood vessels will regress and become nonperfused vascular channels, which are known as \"ghost\" vessels. These vessels can be readily visualized using slit lamp biomicroscopy and can become active if inflammation recurs.",
+    "hint_exp": "🎯 Think of \"Interstitial keratitis commonly seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4378cf86-1e36-445e-bad3-dfed51e7fc89": {
-    "cop": 4,
-    "exp": "All four can cause gangrene (Myocardial infarction can cause gangrene by thromboembolism)\nLets see, each option one by one.\n\nRaynauds disease \n\nIs ds of young women* (F:M ratio is 5:1)\ncommonly the upper limbs* are affected specially the fingers (the thumb is generally escaped)\nThe disease is characterized by Raynauds phenomenon* which is a series of attacks of\nLocal syncope → digits become cold and white*\nLocal asphyxia → digits turn blue with burning sensation*\nLocal recovery →digits regain normal colour*\n\n\nPulses remain unaffected* as this is the disease which affects arterioles\nWith the help of points (a) and (b) Raynauds ds can be ruled out.\n\nAtherosclerosis (Senile gangrene)\n\nSeen in elderly people over 50 years of age.\nThus because of age factor we can rule out atherosclerosis.\n\nMyocardial infaction\n\nAge factor again helps in ruling it out as MI is generally seen in elderly, though its incidence is increasing in young, but it cannot be a more common cause than Buerger's disease.\n\nBuerger's (Thromboangitis obliterans)  Usual victims of this ds are young men below 40 yrs of age, who are smokers (ds is not seen in females and nonsmokers).\n\nBuerger ds is the inflammatory reaction in the arterial wall with involvement of the neighbouring vein and nerve, terminating in thrombosis of the artery.\nIt characterstically involves small and medium sized arteries (plantars, tibial and radial artery)\nBoth upper and lower extremities are affected.\nIn lower extremity the ds. occurs beyond the popliteal artery. In upper extremity the ds occurs beyond the brachial art.\nEarly in the course of Buergers ds the superficial veins are involved producing the characterstic migratory, recurrent superficial thrombophlebitis.\nAn imp difference with atheroselerosis is that, atherosclerosis is a disease of large sized arteries, buergers is a ds of small arteries."
+    "cop": 3,
+    "exp": "All four can cause gangrene (Myocardial infarction can cause gangrene by thromboembolism)\nLets see, each option one by one.\n\nRaynauds disease \n\nIs ds of young women* (F:M ratio is 5:1)\ncommonly the upper limbs* are affected specially the fingers (the thumb is generally escaped)\nThe disease is characterized by Raynauds phenomenon* which is a series of attacks of\nLocal syncope → digits become cold and white*\nLocal asphyxia → digits turn blue with burning sensation*\nLocal recovery →digits regain normal colour*\n\n\nPulses remain unaffected* as this is the disease which affects arterioles\nWith the help of points (a) and (b) Raynauds ds can be ruled out.\n\nAtherosclerosis (Senile gangrene)\n\nSeen in elderly people over 50 years of age.\nThus because of age factor we can rule out atherosclerosis.\n\nMyocardial infaction\n\nAge factor again helps in ruling it out as MI is generally seen in elderly, though its incidence is increasing in young, but it cannot be a more common cause than Buerger's disease.\n\nBuerger's (Thromboangitis obliterans)  Usual victims of this ds are young men below 40 yrs of age, who are smokers (ds is not seen in females and nonsmokers).\n\nBuerger ds is the inflammatory reaction in the arterial wall with involvement of the neighbouring vein and nerve, terminating in thrombosis of the artery.\nIt characterstically involves small and medium sized arteries (plantars, tibial and radial artery)\nBoth upper and lower extremities are affected.\nIn lower extremity the ds. occurs beyond the popliteal artery. In upper extremity the ds occurs beyond the brachial art.\nEarly in the course of Buergers ds the superficial veins are involved producing the characterstic migratory, recurrent superficial thrombophlebitis.\nAn imp difference with atheroselerosis is that, atherosclerosis is a disease of large sized arteries, buergers is a ds of small arteries.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Most common cause gangrene\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a8e0c826-eee1-45b4-bf7a-f8e8caf50e67": {
-    "cop": 3,
-    "exp": "Rhabdomyosarcoma It is a highly malignant tumour of the orbit arising from the extraocular muscles. It is the most common primary orbital tumour among children, usually occurring below the age of 15 years (90%). Clinical features: It classically presents as rapidly progressive proptosis of sudden onset in a child of 7-8 years. Massive proptosis due to rhabdomyosarcoma located in the superonasal quadrant (mimmicking acute inflammatory process). The clinical presentation mimics an inflammatory process. The tumour commonly involves the superionasal quadrant; but may invade any pa of the orbit. Ref:- A K KHURANA; pg num:-394"
+    "cop": 2,
+    "exp": "Rhabdomyosarcoma It is a highly malignant tumour of the orbit arising from the extraocular muscles. It is the most common primary orbital tumour among children, usually occurring below the age of 15 years (90%). Clinical features: It classically presents as rapidly progressive proptosis of sudden onset in a child of 7-8 years. Massive proptosis due to rhabdomyosarcoma located in the superonasal quadrant (mimmicking acute inflammatory process). The clinical presentation mimics an inflammatory process. The tumour commonly involves the superionasal quadrant; but may invade any pa of the orbit. Ref:- A K KHURANA; pg num:-394",
+    "hint_exp": "🧩 Your crush solved \"children\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8dba1081-01c3-45b1-b6c0-85b86d299a95": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Very useful for chronic disease CFR is typically used in acute infectious disease e.g. food poisoning, cholera, measles. o Its usefulness in chronic disease is limited, because the period from onset to death is long and variable. CFR is closely related to virulence of agent. o Limitation of CFR is that time period is not specified. o The case fatality rate for the same disease may vary in different epidemics because of changes in host, agent and environment factors. o Case fatality rate is the complement of survival rate. CFR =1 - survival rate CRF will be more if survival rate is less more patients are dying due to disease (i.CFR) or in other words less patients are surviving survival rate)."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Very useful for chronic disease CFR is typically used in acute infectious disease e.g. food poisoning, cholera, measles. o Its usefulness in chronic disease is limited, because the period from onset to death is long and variable. CFR is closely related to virulence of agent. o Limitation of CFR is that time period is not specified. o The case fatality rate for the same disease may vary in different epidemics because of changes in host, agent and environment factors. o Case fatality rate is the complement of survival rate. CFR =1 - survival rate CRF will be more if survival rate is less more patients are dying due to disease (i.CFR) or in other words less patients are surviving survival rate).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"true regarding case fatality\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "63142155-4e5a-4837-9680-ca8afc3622ea": {
-    "cop": 3,
-    "exp": "Ans. 12 mm"
+    "cop": 2,
+    "exp": "Ans. 12 mm",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"naso lacrimal duct\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b6b37b96-384a-415a-ad6a-a66584a7de9c": {
-    "cop": 4,
-    "exp": "Ordinal data is that data which has a meaningful arrangement of order but no valuable data or information can be obtained from the order arrangement. For example in the above question, though the data is arranged as satisfied, very satisfied and dissatisfied no information is obtainable as to what is the difference between satisfied and very satisfied and the difference between very satisfied and dissatisfied and so on. Thus this data is a ordinal data. Ref: High-Yield Bio statistics By Anthony N. Glaser; 3rd Edition; Page 4; Statistics for Management and Economics By Gerald Keller; Pages 13 - 16"
+    "cop": 3,
+    "exp": "Ordinal data is that data which has a meaningful arrangement of order but no valuable data or information can be obtained from the order arrangement. For example in the above question, though the data is arranged as satisfied, very satisfied and dissatisfied no information is obtainable as to what is the difference between satisfied and very satisfied and the difference between very satisfied and dissatisfied and so on. Thus this data is a ordinal data. Ref: High-Yield Bio statistics By Anthony N. Glaser; 3rd Edition; Page 4; Statistics for Management and Economics By Gerald Keller; Pages 13 - 16",
+    "hint_exp": "🎯 Think of \"such information\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "85522213-04c6-4ae7-9336-446cde546851": {
-    "cop": 2,
-    "exp": "Orchidectomy Orchidectomy is performed in advanced disease. In 1941, prostate cancer was shown to be responsive to such treatment by Charles Huggins, the only urologist to win a Nobel Prize. Bilateral orchidectomy, whether total or subcapsular, will eliminate the major source of testosterone production. Ref: Bailey and love 27th edition Pgno : 1474"
+    "cop": 1,
+    "exp": "Orchidectomy Orchidectomy is performed in advanced disease. In 1941, prostate cancer was shown to be responsive to such treatment by Charles Huggins, the only urologist to win a Nobel Prize. Bilateral orchidectomy, whether total or subcapsular, will eliminate the major source of testosterone production. Ref: Bailey and love 27th edition Pgno : 1474",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"done for\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "08f26dfc-5327-4afa-a1f8-0402cc92d178": {
-    "cop": 1,
-    "exp": "Refer Katzung 10/e p 436 Neostigmine is an anti cholinerasterase. It inhibits the breakdown of ACh at the mother end plate This results in increased activity of ACh that causes depolarization of motor end plate by opening Na+channels . It posseses some direct agonistic activating on NM receptors resulting in depolarization"
+    "cop": 0,
+    "exp": "Refer Katzung 10/e p 436 Neostigmine is an anti cholinerasterase. It inhibits the breakdown of ACh at the mother end plate This results in increased activity of ACh that causes depolarization of motor end plate by opening Na+channels . It posseses some direct agonistic activating on NM receptors resulting in depolarization",
+    "hint_exp": "🧩 Your crush solved \"the following mechanism except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "27f0fa7b-5a74-461c-b370-78e870f13914": {
-    "cop": 3,
-    "exp": "Radial nerve injury causes wrist drop. Thumb anaesthesia is due to median nerve injury."
+    "cop": 2,
+    "exp": "Radial nerve injury causes wrist drop. Thumb anaesthesia is due to median nerve injury.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"caused by ulnar nerve injury\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2fe46123-3284-4ee9-8a65-d65a95552163": {
-    "cop": 3,
-    "exp": "Synonymous codons Codons that specify the same amino acids. E.g- GGA, GGG, GGU, and GGC codes for glycine Methionine is coded by AUG only. So, there is no synonymous codon for methionine."
+    "cop": 2,
+    "exp": "Synonymous codons Codons that specify the same amino acids. E.g- GGA, GGG, GGU, and GGC codes for glycine Methionine is coded by AUG only. So, there is no synonymous codon for methionine.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1bebf87f-ec8c-4fe1-829a-ab7afb31ae59": {
-    "cop": 2,
-    "exp": "Ans.(b) Diarrhea* Anion gap :The anion gap is the difference between primary measured cations (sodium Na+ and potassium K+) and the primary measured anions (chloride Cl and bicarbonate HCO3) in serum.* So we take value of sodium and from it subtract the value of chloride and bicarbonate.* Value of Normal anion gap =10 to 12 mmol/LAG calculated as follows: AG = Na+ - (Cl\" + HCO3~)Normal anion gap(Mn: FUSED CAR)Increased anion gap(Mn: MUDPILES)Decreased anion gap(Mn: BPH-M)F- Fistula pancreaticM - MethanolBromide intoxicationU- UreterosigmoidostomyU - UremiaPlasma cell dyscrasiaS- Small bowel fistulaD - DKA/ AKA/ SKA (diabetic/alcoholic/ starvation)HypoalbuminemiaE- Extra chlorideP - Paraldehyde / phenforminMonoclonal proteinD- Diarrhea1 - Iron / INH C- Carbonic anhydraseInhibitor (acetazolamide)L - Lactic acidosis A- Adrenal insufficiencyR- Renal tubular acidosisE - Ethylene glycol S - Salicylates"
+    "cop": 1,
+    "exp": "Ans.(b) Diarrhea* Anion gap :The anion gap is the difference between primary measured cations (sodium Na+ and potassium K+) and the primary measured anions (chloride Cl and bicarbonate HCO3) in serum.* So we take value of sodium and from it subtract the value of chloride and bicarbonate.* Value of Normal anion gap =10 to 12 mmol/LAG calculated as follows: AG = Na+ - (Cl\" + HCO3~)Normal anion gap(Mn: FUSED CAR)Increased anion gap(Mn: MUDPILES)Decreased anion gap(Mn: BPH-M)F- Fistula pancreaticM - MethanolBromide intoxicationU- UreterosigmoidostomyU - UremiaPlasma cell dyscrasiaS- Small bowel fistulaD - DKA/ AKA/ SKA (diabetic/alcoholic/ starvation)HypoalbuminemiaE- Extra chlorideP - Paraldehyde / phenforminMonoclonal proteinD- Diarrhea1 - Iron / INH C- Carbonic anhydraseInhibitor (acetazolamide)L - Lactic acidosis A- Adrenal insufficiencyR- Renal tubular acidosisE - Ethylene glycol S - Salicylates",
+    "hint_exp": "🎯 Think of \"Widened anion caused EXCEPT\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "dc3d4830-90f0-4247-a81b-a91383dd61f4": {
-    "cop": 3,
-    "exp": "ALMA - ATA CONFERENCE: Called for WHO Goal of \"Health for All\" by 2000 India is a signatory Provisions included under Primary Health Care according to Alma Ata conference: E- Essential drugs ; 33-38 essential drugs are included in PHC. Most essential drug is Paracetamol L - Locally endemic disease prevention & control E - Education M - Maternal & child health E - EPI 1978; UIP- 1985 N- Nutrition T - Treatment of common ailments S - Safe water supply & sanitation"
+    "cop": 2,
+    "exp": "ALMA - ATA CONFERENCE: Called for WHO Goal of \"Health for All\" by 2000 India is a signatory Provisions included under Primary Health Care according to Alma Ata conference: E- Essential drugs ; 33-38 essential drugs are included in PHC. Most essential drug is Paracetamol L - Locally endemic disease prevention & control E - Education M - Maternal & child health E - EPI 1978; UIP- 1985 N- Nutrition T - Treatment of common ailments S - Safe water supply & sanitation",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following provisions\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "009ad99c-6912-431b-a13e-cc9cdde03953": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"seen in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b326349f-be05-4904-ad6e-b661620f54e8": {
-    "cop": 1,
-    "exp": "ref : ak khurana 7th ed"
+    "cop": 0,
+    "exp": "ref : ak khurana 7th ed",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8a26ae07-2a40-4081-95a7-e0b7a0f776bf": {
-    "cop": 3,
-    "exp": "(C) (IV - Methergin) (142 - Dutta 7th)Methergin 0.2 mg IM (Intramuscular) to the mother within one minute of delivery of the babyOyxtocin may be given with crowning of the head, with delivery of the anterior shoulder of the baby or after the delivery of the placenta.Components of Active Management of Third stage of Labour (WHO)* Administration of uterotonic (oxytocin/Ergometrine) soon after birth of baby* Delayed cord clamping and cutting* Controlled Cord traction for delivery of placenta* Uterine massageCurrent evidence show that delayed cord clamping is beneficial for baby, immediate cord clamping has been shown to increase the incidence of iron deficiency anemia for premature and LBW babies immediate cord clamping can also increase the risk of intraventricular haemorrhage and late onset sepsis"
+    "cop": 2,
+    "exp": "(C) (IV - Methergin) (142 - Dutta 7th)Methergin 0.2 mg IM (Intramuscular) to the mother within one minute of delivery of the babyOyxtocin may be given with crowning of the head, with delivery of the anterior shoulder of the baby or after the delivery of the placenta.Components of Active Management of Third stage of Labour (WHO)* Administration of uterotonic (oxytocin/Ergometrine) soon after birth of baby* Delayed cord clamping and cutting* Controlled Cord traction for delivery of placenta* Uterine massageCurrent evidence show that delayed cord clamping is beneficial for baby, immediate cord clamping has been shown to increase the incidence of iron deficiency anemia for premature and LBW babies immediate cord clamping can also increase the risk of intraventricular haemorrhage and late onset sepsis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"third stage of labour\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "360e78bf-2f2e-4809-a4d7-151c0e2ca47b": {
-    "cop": 4,
-    "exp": "Congenital dacryocystitis [Ref: Khurana 4/e,p 369, 447; Parson's 20/e, p 530-531 Repeat from May07 Causes of impaired vision in childhood Anatomical classification Whole globe: microphthalmos, anophthalmos, phthisis bulbi, atrophic bulbi Cornea: scar, anterior staphyloma, dystrophy Lens: cataract, dislocation, aphakia Uvea: aniridia, coloboma, uveitis Retina: retinopathy of prematurity, retinal dystrophy, retinal detachment, vasculitis Glaucoma: buphthalmos Optic nerve optic atrophy, hypoplasia Other: coical blindness, amblyopia Aetiological classification Hereditary: chromosomal disorders, single-gene defects Intrauterine: congenital rubella, foetal alcohol syndrome Perinatal: ophthalmia neonatorum, retinopathy of prematurity, bih trauma Childhood: vitamin A deficiency, measles, trauma Unclassified: impossible to determine the underlying cause Congenital dacryocystitis (also k/a dacryocystitis neonatorum) is an inflammation of the lacrimal sac occurring in newborn infants, and thus also known as dacryocystitis neonatorum it is d/t stasis of secretion in the lacrimal following congenital blockage in the nasolacrimal duct. congenital dacryocystis presents as - epiphora, usually developing after 7 days of bih, followed by copious mucopurulent discharge from the eyes - swelling on the sac area It may be complicated by - recurrent conjunctivitis - acute on chronic dacryocistitis - lacrimal abscess & fistula formation"
+    "cop": 3,
+    "exp": "Congenital dacryocystitis [Ref: Khurana 4/e,p 369, 447; Parson's 20/e, p 530-531 Repeat from May07 Causes of impaired vision in childhood Anatomical classification Whole globe: microphthalmos, anophthalmos, phthisis bulbi, atrophic bulbi Cornea: scar, anterior staphyloma, dystrophy Lens: cataract, dislocation, aphakia Uvea: aniridia, coloboma, uveitis Retina: retinopathy of prematurity, retinal dystrophy, retinal detachment, vasculitis Glaucoma: buphthalmos Optic nerve optic atrophy, hypoplasia Other: coical blindness, amblyopia Aetiological classification Hereditary: chromosomal disorders, single-gene defects Intrauterine: congenital rubella, foetal alcohol syndrome Perinatal: ophthalmia neonatorum, retinopathy of prematurity, bih trauma Childhood: vitamin A deficiency, measles, trauma Unclassified: impossible to determine the underlying cause Congenital dacryocystitis (also k/a dacryocystitis neonatorum) is an inflammation of the lacrimal sac occurring in newborn infants, and thus also known as dacryocystitis neonatorum it is d/t stasis of secretion in the lacrimal following congenital blockage in the nasolacrimal duct. congenital dacryocystis presents as - epiphora, usually developing after 7 days of bih, followed by copious mucopurulent discharge from the eyes - swelling on the sac area It may be complicated by - recurrent conjunctivitis - acute on chronic dacryocistitis - lacrimal abscess & fistula formation",
+    "hint_exp": "🎯 Think of \"common\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e43c0165-438a-48b2-93ca-da859d41f5b6": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Aztreonam"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Aztreonam",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Effective common gram negative\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "16c7ae2d-b8d1-4c34-9c66-05487bec8c50": {
-    "cop": 2,
-    "exp": "In TTTS, recipient twin has circulatory overload, hyper volemia and heart failure."
+    "cop": 1,
+    "exp": "In TTTS, recipient twin has circulatory overload, hyper volemia and heart failure.",
+    "hint_exp": "🧩 Your crush solved \"transfusion syndrome\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

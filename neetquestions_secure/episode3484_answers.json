@@ -1,202 +1,252 @@
 {
   "a2cf9ac2-cb4a-4b47-889c-c1a3b1d95d27": {
-    "cop": 1,
-    "exp": "ANSWER: (A) Neo cortexREF: Ganong's 22nd edition page 203Repeat from June 2011\"The lateral corticospinal tract is concerned with skilled movements\"See APPENDIX-15 for detailsOrigin: primary motor cortex (30%), premotor and supplementary motor area (30%) and somatosensory areas posterior to central sulcus (40%)It passes through posterior limb ofg internal capsule and then forms the pyramid of medulla Lateral corticospinal tractVentral corticospinal tract* 80% fibres cross in medulla to opposite side to form lateral corticospinal tract* Concerned with skilled movements and end directly on motor neurons in humans* Uncrossed fibres form ventral corticospinal tract* Don't cross until it reaches level of musclesGiant cells of betz are the originating cells of the tract located in primary motor cortex."
+    "cop": 0,
+    "exp": "ANSWER: (A) Neo cortexREF: Ganong's 22nd edition page 203Repeat from June 2011\"The lateral corticospinal tract is concerned with skilled movements\"See APPENDIX-15 for detailsOrigin: primary motor cortex (30%), premotor and supplementary motor area (30%) and somatosensory areas posterior to central sulcus (40%)It passes through posterior limb ofg internal capsule and then forms the pyramid of medulla Lateral corticospinal tractVentral corticospinal tract* 80% fibres cross in medulla to opposite side to form lateral corticospinal tract* Concerned with skilled movements and end directly on motor neurons in humans* Uncrossed fibres form ventral corticospinal tract* Don't cross until it reaches level of musclesGiant cells of betz are the originating cells of the tract located in primary motor cortex.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"First centre that activated\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ba580b38-d60b-4acf-aabc-91a79668b598": {
-    "cop": 3,
-    "exp": "Congenital rubella syndrome\n\n Maternal viremia associated with rubella infection during pregnancy may result in infection of the\n\nplacenta and fetus.\n\n The most important factor in the pathogenicity of rubella virus for the fetus is the gestational age at the time\n\nof infection.\n“In general, the earlier in pregnancy infection occurs, the greater the damage to the fetus. Maximum damage to the fetus occurs when infection is acquired in the first trimester of pregnancy”.\n\n Fetus infected in the twentieth week may have isolated deafness.\n Clinical manifestations\n\nThe classical triad of congenital rubella consists of cataract, deafness and congenital heart diseases.\n\n Laboratory diagnosis\n Isolation of virus in cell cultures of throat samples, urine or other secretions.\n\nNormally, maternal rubella antibodies in the form of IgG is transferred to infants and is gradually last over a period of 6 months. Persistent beyond 1 year in an un vaccinated child suggests the diagnosis of congenital rubella.\nPresence of Ig M antibodies is diagnostic.\nPCR for rubella RNA"
+    "cop": 2,
+    "exp": "Congenital rubella syndrome\n\n Maternal viremia associated with rubella infection during pregnancy may result in infection of the\n\nplacenta and fetus.\n\n The most important factor in the pathogenicity of rubella virus for the fetus is the gestational age at the time\n\nof infection.\n“In general, the earlier in pregnancy infection occurs, the greater the damage to the fetus. Maximum damage to the fetus occurs when infection is acquired in the first trimester of pregnancy”.\n\n Fetus infected in the twentieth week may have isolated deafness.\n Clinical manifestations\n\nThe classical triad of congenital rubella consists of cataract, deafness and congenital heart diseases.\n\n Laboratory diagnosis\n Isolation of virus in cell cultures of throat samples, urine or other secretions.\n\nNormally, maternal rubella antibodies in the form of IgG is transferred to infants and is gradually last over a period of 6 months. Persistent beyond 1 year in an un vaccinated child suggests the diagnosis of congenital rubella.\nPresence of Ig M antibodies is diagnostic.\nPCR for rubella RNA",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"congenital rubella\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "00ef4002-1b87-4440-b150-7bd29f0523be": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Klebsiella pneumoniae(Ref: Ananthanarayan, 9th/e, p. 280 and 8th/e, p. 278)\"Klebsiella pneumoniae is also known as Friedlander's bacillus or Bacillus mucosus capsulatus.\"(Karl Friedlander, 1847-1887, German bacteriologist) - who helped discover the bacterial cause of pneumonia in 1882."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Klebsiella pneumoniae(Ref: Ananthanarayan, 9th/e, p. 280 and 8th/e, p. 278)\"Klebsiella pneumoniae is also known as Friedlander's bacillus or Bacillus mucosus capsulatus.\"(Karl Friedlander, 1847-1887, German bacteriologist) - who helped discover the bacterial cause of pneumonia in 1882.",
+    "hint_exp": "🎯 Think of \"Friedlanders bacillus also known\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "98467279-563e-401e-a5ee-f2eb56977197": {
-    "cop": 2,
-    "exp": "In self tonometry patient himself measures the intraocular pressure. The dynamic contour tonometer represents a potentially new technology for non-invasive and direct intraocular pressure (IOP) measurement, and has been proposed to accurately measure the true IOP irrespective of the corneal thickness. The Perkins tonometer is a type of poable applanation tonometer, which may be useful in children, anesthetised patients who need to lie flat, or patients unable to co-operate with a sitting slit lampexamination, that yields clinical results comparable to the Goldmann. Rebound tonometers determine intraocular pressure by bouncing a small plastic tipped metal probe against the cornea. The device uses an induction coil to magnetise the probe and fire it against the cornea. As the probe bounces against the cornea and back into the device, it creates an induction current from which the intraocular pressure is calculated. The device is simple and easy to use and self-use versions are available. It is poable, does not require the use of eye drops and is paicularly suitable for children and non-cooperative patients. The image above shows rebound tonometer. Diaton tonometer is a handheld device measuring IOP through the eyelid and over the sclera with no contact to the cornea & causing no discomfo to the patient.The pen-like tonometer diaton measures IOP within seconds without the need for anesthesia or sterilization."
+    "cop": 1,
+    "exp": "In self tonometry patient himself measures the intraocular pressure. The dynamic contour tonometer represents a potentially new technology for non-invasive and direct intraocular pressure (IOP) measurement, and has been proposed to accurately measure the true IOP irrespective of the corneal thickness. The Perkins tonometer is a type of poable applanation tonometer, which may be useful in children, anesthetised patients who need to lie flat, or patients unable to co-operate with a sitting slit lampexamination, that yields clinical results comparable to the Goldmann. Rebound tonometers determine intraocular pressure by bouncing a small plastic tipped metal probe against the cornea. The device uses an induction coil to magnetise the probe and fire it against the cornea. As the probe bounces against the cornea and back into the device, it creates an induction current from which the intraocular pressure is calculated. The device is simple and easy to use and self-use versions are available. It is poable, does not require the use of eye drops and is paicularly suitable for children and non-cooperative patients. The image above shows rebound tonometer. Diaton tonometer is a handheld device measuring IOP through the eyelid and over the sclera with no contact to the cornea & causing no discomfo to the patient.The pen-like tonometer diaton measures IOP within seconds without the need for anesthesia or sterilization.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"self tonometry\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "750649ed-92b2-4aba-b42c-de7b7e6a71a1": {
-    "cop": 2,
-    "exp": "Endothelial cells that line the inside of blood cells could release a substance that relaxes smooth muscle (endothelial-derived relaxing factor, EDRF). CLINICAL BOX 5-7 Common Drugs That Act on Smooth Muscle Overexcitation of smooth muscle in the airways, such as that observed during an asthma attack, can lead to bronchoconstriction. Inhalers that deliver drugs to the conducting airway are commonly used to offset this smooth muscle bronchoconstriction, as well as other symptoms in the asthmatic airways. The rapid effects of drugs in inhalers are related to smooth muscle relaxation. Rapid response inhaler drugs (eg, Ventolin, albuterol, sambuterol) frequently target b-adrenergic receptors in the airway smooth muscle to elicit a relaxation. Although these b-adrenergic receptor agonists targeting the smooth muscle do not treat all symptoms associated with asthma (eg, inflammation and increased mucus), they act rapidly and frequently allow for sufficient opening of the conducting airway to restore airflow and thus allow for other treatments to reduce airway obstruction. Smooth muscle is also a target for drugs developed to increase blood flow. As discussed in the text, NO is a natural signaling molecule that relaxes smooth muscle by raising cyclic guanosine monophosphate (cGMP). This signaling pathway is naturally downregulated by the action of phosphodiesterase (PDE), which transforms cGMP into a non-signaling form, GMP. The drugs sildenafil, tadalafil, and vardenafil are all specific inhibitors of PDE V, an isoform found mainly in the smooth muscle in the corpus cavernosum of the penis (see Chapters 25 and 32). Thus, oral administration of these drugs can block the action of PDE V, increasing blood flow in a very limited region in the body and offsetting erectile dysfunction. EDRF was later identified as the gaseous second messenger molecule, nitric oxide (NO).Ref: Ganong&;s Review of medical physiology 25th edition. Page: 117"
+    "cop": 1,
+    "exp": "Endothelial cells that line the inside of blood cells could release a substance that relaxes smooth muscle (endothelial-derived relaxing factor, EDRF). CLINICAL BOX 5-7 Common Drugs That Act on Smooth Muscle Overexcitation of smooth muscle in the airways, such as that observed during an asthma attack, can lead to bronchoconstriction. Inhalers that deliver drugs to the conducting airway are commonly used to offset this smooth muscle bronchoconstriction, as well as other symptoms in the asthmatic airways. The rapid effects of drugs in inhalers are related to smooth muscle relaxation. Rapid response inhaler drugs (eg, Ventolin, albuterol, sambuterol) frequently target b-adrenergic receptors in the airway smooth muscle to elicit a relaxation. Although these b-adrenergic receptor agonists targeting the smooth muscle do not treat all symptoms associated with asthma (eg, inflammation and increased mucus), they act rapidly and frequently allow for sufficient opening of the conducting airway to restore airflow and thus allow for other treatments to reduce airway obstruction. Smooth muscle is also a target for drugs developed to increase blood flow. As discussed in the text, NO is a natural signaling molecule that relaxes smooth muscle by raising cyclic guanosine monophosphate (cGMP). This signaling pathway is naturally downregulated by the action of phosphodiesterase (PDE), which transforms cGMP into a non-signaling form, GMP. The drugs sildenafil, tadalafil, and vardenafil are all specific inhibitors of PDE V, an isoform found mainly in the smooth muscle in the corpus cavernosum of the penis (see Chapters 25 and 32). Thus, oral administration of these drugs can block the action of PDE V, increasing blood flow in a very limited region in the body and offsetting erectile dysfunction. EDRF was later identified as the gaseous second messenger molecule, nitric oxide (NO).Ref: Ganong&;s Review of medical physiology 25th edition. Page: 117",
+    "hint_exp": "🧩 Your crush solved \"EDRF\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "03dc96e9-7d18-4c12-b32e-6b187b42effa": {
-    "cop": 3,
-    "exp": "Ans. Is 'c' i.e. In early morning \" Genitourinary tuberculosisGenitourinary tuberculosis accounts for about 15% of all extrapulmonary cases.Local symptoms predominate-Urinary frequency (MC) dysuria hematuria and flank pain are common presentations.Urinalysis gives abnormal results in 90% of cases, revealing pyuria and hematuria. The documentation of culture-negative pyuria in acidic urine raises the suspicion of tuberculosis.An IVP helps in diagnosis calcifications & ureteral strictures are suggestive findings.Culture of three morning urine specimens yields a definitive in nearly 90% of cases.\" -Harrison"
+    "cop": 2,
+    "exp": "Ans. Is 'c' i.e. In early morning \" Genitourinary tuberculosisGenitourinary tuberculosis accounts for about 15% of all extrapulmonary cases.Local symptoms predominate-Urinary frequency (MC) dysuria hematuria and flank pain are common presentations.Urinalysis gives abnormal results in 90% of cases, revealing pyuria and hematuria. The documentation of culture-negative pyuria in acidic urine raises the suspicion of tuberculosis.An IVP helps in diagnosis calcifications & ureteral strictures are suggestive findings.Culture of three morning urine specimens yields a definitive in nearly 90% of cases.\" -Harrison",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Collection urine sample patient\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5c6dbd4b-16eb-4f62-9026-01581579e57d": {
-    "cop": 3,
-    "exp": "Refer the byte \"Legal sections\"."
+    "cop": 2,
+    "exp": "Refer the byte \"Legal sections\".",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"person responsible crime even\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "57278879-fdd8-4dea-807f-9381d47b643d": {
-    "cop": 3,
-    "exp": "The function of MHC molecules is to display peptide fragments of protein antigens for recognition by antigen specific T cells."
+    "cop": 2,
+    "exp": "The function of MHC molecules is to display peptide fragments of protein antigens for recognition by antigen specific T cells.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4310536a-4999-4b66-8153-03b59f923953": {
-    "cop": 4,
-    "exp": "Circumstances in which non invasive positive pressure ventilation should be changed to invasive ventilation Resp arrest Rr > 35/min Sev dyspnea with use of accessory muscles and possibly paradoxical breathing Life threatening hypoxemia PaO2 <40 mm hg Or PaO2/FiO2 <200 Sev acidosis (pH <7.25 ) and hyperapnia (PaCO2 >60 mm hg ) Hypersomnolence , impaired mental status Cardiovascular complication Failure of non invasive positive pressure ventilation Other circumstances (e.g metabolic abnormalities ,sepsis , pneumonia , pulmonary embolism , barotrauma, massive pleural effusion )"
+    "cop": 3,
+    "exp": "Circumstances in which non invasive positive pressure ventilation should be changed to invasive ventilation Resp arrest Rr > 35/min Sev dyspnea with use of accessory muscles and possibly paradoxical breathing Life threatening hypoxemia PaO2 <40 mm hg Or PaO2/FiO2 <200 Sev acidosis (pH <7.25 ) and hyperapnia (PaCO2 >60 mm hg ) Hypersomnolence , impaired mental status Cardiovascular complication Failure of non invasive positive pressure ventilation Other circumstances (e.g metabolic abnormalities ,sepsis , pneumonia , pulmonary embolism , barotrauma, massive pleural effusion )",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following circumstances trigger\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d6b1e86f-51e4-4743-9c52-a73fbb6ec419": {
-    "cop": 2,
-    "exp": "Ans. Back of cornea"
+    "cop": 1,
+    "exp": "Ans. Back of cornea",
+    "hint_exp": "🧩 Your crush solved \"Krukenberg spindle seen patients\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "08ce32ba-c4dd-44e3-85ca-1bb081e29b46": {
-    "cop": 1,
-    "exp": "Schick test, method for determining susceptibility to diphtheria; it laid the basis for inoculation against the disease. A minute amount of diphtheria toxin is injected into the skin of the forearm. \nRedness at the site of injection after three days indicates a positive reaction (absence of circulating antibody) or a false positive reaction (hypersensitivity to the toxin). \nA positive reaction can be distinguished by use of a control injection of the same amount of heated toxin (toxoid) into the other forearm."
+    "cop": 0,
+    "exp": "Schick test, method for determining susceptibility to diphtheria; it laid the basis for inoculation against the disease. A minute amount of diphtheria toxin is injected into the skin of the forearm. \nRedness at the site of injection after three days indicates a positive reaction (absence of circulating antibody) or a false positive reaction (hypersensitivity to the toxin). \nA positive reaction can be distinguished by use of a control injection of the same amount of heated toxin (toxoid) into the other forearm.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"diphtheria carriers\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9f112726-22f0-4ed3-b626-65884607e276": {
-    "cop": 1,
-    "exp": "Ans. (a) Wait and watch In hepatitis B, among previously healthy adult who present with clinically apparent acute hepatitis recovery ocurs in 99% therefore, antiviral therapy is not likely to improve the rate of recovery and is not required. In this case also patient is viually asymptomatic, so no treatment is required."
+    "cop": 0,
+    "exp": "Ans. (a) Wait and watch In hepatitis B, among previously healthy adult who present with clinically apparent acute hepatitis recovery ocurs in 99% therefore, antiviral therapy is not likely to improve the rate of recovery and is not required. In this case also patient is viually asymptomatic, so no treatment is required.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the next line of management\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bb02f6d6-386c-4f1c-a24d-6c03ed639cb0": {
-    "cop": 2,
-    "exp": "Munro micro abscesses are seen in psoriasis it is the collection of neutrophils in stratum corneum. IADVLtextbook of dermatology page 1041"
+    "cop": 1,
+    "exp": "Munro micro abscesses are seen in psoriasis it is the collection of neutrophils in stratum corneum. IADVLtextbook of dermatology page 1041",
+    "hint_exp": "🎯 Think of \"seen in\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1695ff53-84da-48c5-82ec-721fa47c4596": {
-    "cop": 2,
-    "exp": "• Approximately 5-10% of testicular tumors may be associated with hydroceles."
+    "cop": 1,
+    "exp": "• Approximately 5-10% of testicular tumors may be associated with hydroceles.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"tumor\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3d417287-b0ee-4389-8635-b2c222cfcc22": {
-    "cop": 4,
-    "exp": "Hysteroscopy is best for diagnosing lesions within the uterine cavity Also: Abnormal Uterine Bleeding Oligomenorrhea amenorrhea, Recurrent Pregnancy loss Endometrial carcinoma, Un-explained infeility Suspected anomalies Missing IUCDs Diagnosing intra uterine submucous fibroids, Polyps, adhesions Septums etc."
+    "cop": 3,
+    "exp": "Hysteroscopy is best for diagnosing lesions within the uterine cavity Also: Abnormal Uterine Bleeding Oligomenorrhea amenorrhea, Recurrent Pregnancy loss Endometrial carcinoma, Un-explained infeility Suspected anomalies Missing IUCDs Diagnosing intra uterine submucous fibroids, Polyps, adhesions Septums etc.",
+    "hint_exp": "🧩 Your crush solved \"Upon Hysteroscopy which following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "15d2a5ae-cc38-4d27-9f5c-48419f3c20fe": {
-    "cop": 1,
-    "exp": "First let me exclude the other options :\n\n\nMTP joint involvement is not seen in OA.\nDIP joint involvement is not seen in RA.\nIn pseudogout, large joints like knee, ankle are involved. Small joint are not involved.\n\n\nNow we are left with psoriatic arthritis. In Psoriatic arthritis any pattern of joint involvement can be seen."
+    "cop": 0,
+    "exp": "First let me exclude the other options :\n\n\nMTP joint involvement is not seen in OA.\nDIP joint involvement is not seen in RA.\nIn pseudogout, large joints like knee, ankle are involved. Small joint are not involved.\n\n\nNow we are left with psoriatic arthritis. In Psoriatic arthritis any pattern of joint involvement can be seen.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year male develops involvements\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "177c83b4-2ff9-498e-97ff-353a1dcb137a": {
-    "cop": 3,
-    "exp": "Food poisoning is of three types: INFECTIVE TYPE: In this type, multiplication of bacteria occurs in vivo when infective doses of microorganisms are ingested with food. Incubation period is generally 8 to 24 hours. The typical example of this type of food poisoning is by Salmonella typhimurium, S. Enteritidis, S. Heidelberg, S. Indiana, S. Newpo, S. Dublin, Vibrio parahaemolyticus, Campylobacter jejuni. TOXIC TYPE: The disease follows ingestion of food with preformed toxin. Incubation period is sho (2 to 6 hours). Eg: Staphylococcus aureus, Bacillus cereus, Clostridium botulinum. INFECTIVE-TOXIC TYPE: In this type, bacteria release the toxin in the bowel. The incubation period is 6 to 12 hours. Eg: Clostridium perfringens ETEC produce a heat-stable enterotoxin (ST) or a heat labile (LT) Cholera toxin, like enterotoxin or both. Toxin production alone may not lead to illness. The organism must initially be able to adhere to the mucosal surface of the epithelial cells of the small intestine. This adhesion is usually mediated by fimbriae that bind to specific receptors in the intestinal cell membrane. These adhesions are called colonization factor antigens (CFAs). Ref: Textbook of Microbiology by Surinder Kumar; Page-701"
+    "cop": 2,
+    "exp": "Food poisoning is of three types: INFECTIVE TYPE: In this type, multiplication of bacteria occurs in vivo when infective doses of microorganisms are ingested with food. Incubation period is generally 8 to 24 hours. The typical example of this type of food poisoning is by Salmonella typhimurium, S. Enteritidis, S. Heidelberg, S. Indiana, S. Newpo, S. Dublin, Vibrio parahaemolyticus, Campylobacter jejuni. TOXIC TYPE: The disease follows ingestion of food with preformed toxin. Incubation period is sho (2 to 6 hours). Eg: Staphylococcus aureus, Bacillus cereus, Clostridium botulinum. INFECTIVE-TOXIC TYPE: In this type, bacteria release the toxin in the bowel. The incubation period is 6 to 12 hours. Eg: Clostridium perfringens ETEC produce a heat-stable enterotoxin (ST) or a heat labile (LT) Cholera toxin, like enterotoxin or both. Toxin production alone may not lead to illness. The organism must initially be able to adhere to the mucosal surface of the epithelial cells of the small intestine. This adhesion is usually mediated by fimbriae that bind to specific receptors in the intestinal cell membrane. These adhesions are called colonization factor antigens (CFAs). Ref: Textbook of Microbiology by Surinder Kumar; Page-701",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Preformed toxin impoant food\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "76009247-07bb-43b4-9b1d-0b7c96dfea39": {
-    "cop": 4,
-    "exp": "The patient described in the question presents with a classic history for abruption-that is, the sudden onset of abdominal pain accompanied by bleeding. Physical examination reveals a firm, tender uterus with frequent contractions, which confirms the diagnosis. The fact that a clot forms within 4 min suggests that coagulopathy is not present. Because abruption is often accompanied by hemorrhaging, it is important that appropriate fluids (i.e., lactated Ringer solution and whole blood) be administered immediately to stabilize the mother's circulation. Cesarean section may be necessary in the case of a severe abruption, but only when fetal distress is evident or delivery is unlikely to be accomplished vaginally Internal monitoring equipment should provide an early warning that the fetus is compromised. The internal uterine catheter provides pressure recordings, which are important if oxytocin stimulation is necessary. Generally, however, patients with abruptio placentae are contracting vigorously and do not need oxytocin."
+    "cop": 3,
+    "exp": "The patient described in the question presents with a classic history for abruption-that is, the sudden onset of abdominal pain accompanied by bleeding. Physical examination reveals a firm, tender uterus with frequent contractions, which confirms the diagnosis. The fact that a clot forms within 4 min suggests that coagulopathy is not present. Because abruption is often accompanied by hemorrhaging, it is important that appropriate fluids (i.e., lactated Ringer solution and whole blood) be administered immediately to stabilize the mother's circulation. Cesarean section may be necessary in the case of a severe abruption, but only when fetal distress is evident or delivery is unlikely to be accomplished vaginally Internal monitoring equipment should provide an early warning that the fetus is compromised. The internal uterine catheter provides pressure recordings, which are important if oxytocin stimulation is necessary. Generally, however, patients with abruptio placentae are contracting vigorously and do not need oxytocin.",
+    "hint_exp": "🎯 Think of \"clotting\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0bb9317b-b4ad-4ced-8f2d-e2136299a51d": {
-    "cop": 3,
-    "exp": "Hemoglobin from RBC undergo metabolism and produces bilirubin and biliverdin. This, in turn, conveed into urobilinogen and stercobilinogen.This urobilin and stercobilin are responsible for giving colour to urine and stool respectively.During obstructive jaundice absence of this stercobilin leads to clay colored urine(Ref: Vasudevan, textbook of biochemistry)"
+    "cop": 2,
+    "exp": "Hemoglobin from RBC undergo metabolism and produces bilirubin and biliverdin. This, in turn, conveed into urobilinogen and stercobilinogen.This urobilin and stercobilin are responsible for giving colour to urine and stool respectively.During obstructive jaundice absence of this stercobilin leads to clay colored urine(Ref: Vasudevan, textbook of biochemistry)",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"stool\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7665c3cd-b3c5-4f45-b7cf-1b351388ed2d": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Swelling thyroid gland that\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "bc64d45b-9f5a-4cc9-9421-02bf0735edfc": {
-    "cop": 1,
-    "exp": "Ans. Children"
+    "cop": 0,
+    "exp": "Ans. Children",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Pond fractures common\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fc5984fb-b7f4-48fb-878b-92894508fb2a": {
-    "cop": 2,
-    "exp": "Roll number is an identity in the class ; Hence it is an example of nominal variable OTHER EXAMPLES NOMINAL VARIABLES ORDINAL VARIABLES METRIC ABO blood grouping Rh Types of anemia Sex - male/ female etc TNM staging of cancer Hypeension classification Severity of anemia Weight Height Hb Blood sugar levels Serum cholesterol levels BMI Pulse rate Kelvin temperatures"
+    "cop": 1,
+    "exp": "Roll number is an identity in the class ; Hence it is an example of nominal variable OTHER EXAMPLES NOMINAL VARIABLES ORDINAL VARIABLES METRIC ABO blood grouping Rh Types of anemia Sex - male/ female etc TNM staging of cancer Hypeension classification Severity of anemia Weight Height Hb Blood sugar levels Serum cholesterol levels BMI Pulse rate Kelvin temperatures",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "061d0e46-3678-419c-ba60-b404f563e272": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ccb94910-2d21-4679-99d5-dd7a1f1bb8f1": {
-    "cop": 2,
-    "exp": "District tuberculosis centre (DTC) is the nucleus of DTP\nThe function of DTC is to plan, organize and implement the DTP in the entire district, in association with general Health services.\nWhen DTP activities (Sputum microscopy, chest X-ray, Anti-TB treatment) are introduced in an organized manner in a peripheral health institution (PHI), it is considered to be implemented PHI.\nIt is important that only such PHIs are selected for implementation of the programme, which are under the charge of qualified Medical officers."
+    "cop": 1,
+    "exp": "District tuberculosis centre (DTC) is the nucleus of DTP\nThe function of DTC is to plan, organize and implement the DTP in the entire district, in association with general Health services.\nWhen DTP activities (Sputum microscopy, chest X-ray, Anti-TB treatment) are introduced in an organized manner in a peripheral health institution (PHI), it is considered to be implemented PHI.\nIt is important that only such PHIs are selected for implementation of the programme, which are under the charge of qualified Medical officers.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Under national programme called\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a0b0e5bd-f2ba-4214-8b2e-7ea78f44fb43": {
-    "cop": 1,
-    "exp": "Ref:Parks 23rd edition pg 60 Incidence = (no. of new cases of specific disease during a given time period / Population at-risk during that period) x1000 Incidence rate = (22/165000)x10,00000 = 133.3 per 10lakh"
+    "cop": 0,
+    "exp": "Ref:Parks 23rd edition pg 60 Incidence = (no. of new cases of specific disease during a given time period / Population at-risk during that period) x1000 Incidence rate = (22/165000)x10,00000 = 133.3 per 10lakh",
+    "hint_exp": "🧩 Your crush solved \"From 2007 30th June\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a5f8b7de-ff51-4af4-b772-2e8d89ddc716": {
-    "cop": 4,
-    "exp": "The lingual surface of the epiglottis and valleculae are in the oropharynx. The glottis comprises the vocal cords and the anterior and posterior cornmissures. Subglottis is a small area extending from the lower border of the cricoids to the under surface of the vocal cords"
+    "cop": 3,
+    "exp": "The lingual surface of the epiglottis and valleculae are in the oropharynx. The glottis comprises the vocal cords and the anterior and posterior cornmissures. Subglottis is a small area extending from the lower border of the cricoids to the under surface of the vocal cords",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"following constitute supraglottic cancer\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "1bd5d0ae-ac90-4a00-8d52-a88b18faaf9f": {
-    "cop": 2,
-    "exp": "Calcium oxalate stones - 60% Phosphate stones( hydroxyapatite and brushite) - 22% Uric acid stones -7 % ,struvite 7%.Cystine stones - 2% Reference : Campbell and Walsh urology 11th edition , chapter 51 , pg no 1181"
+    "cop": 1,
+    "exp": "Calcium oxalate stones - 60% Phosphate stones( hydroxyapatite and brushite) - 22% Uric acid stones -7 % ,struvite 7%.Cystine stones - 2% Reference : Campbell and Walsh urology 11th edition , chapter 51 , pg no 1181",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Most common renal stone\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "af7c25ee-05ad-4202-82a1-a3387bbeced3": {
-    "cop": 4,
-    "exp": "(Braunwald, 15/e, p 1478.) Of the organisms listed, only anaerobic infection is likely to cause a necrotizing process. Type III pneumococci have been repoed to cause cavitary disease, but this is unusual. The location of the infiltrate suggests aspiration, also making anaerobic infection most likely. The superior segment of the right lower lobe is the one most likely to develop aspiration pneumonia."
+    "cop": 3,
+    "exp": "(Braunwald, 15/e, p 1478.) Of the organisms listed, only anaerobic infection is likely to cause a necrotizing process. Type III pneumococci have been repoed to cause cavitary disease, but this is unusual. The location of the infiltrate suggests aspiration, also making anaerobic infection most likely. The superior segment of the right lower lobe is the one most likely to develop aspiration pneumonia.",
+    "hint_exp": "🎯 Think of \"year alcoholic develops cough\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "398a9955-3983-48cb-84bf-098f6a2bf585": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Omental bursa BDC writes - \"The posterior surface of the stomach is related to structures forming the stomach bed, all of which are separated from the stomach by the cavity of the lesser sac.\" Thus an ulcer on the posterior wall of stomach would perforate into the lesser sac. Also remember Most perforated ulcers are located on the anterior wall. The moality rate for perforated gastric ulcer is higher than that for duodenal ulcer. This is generally due to the gastric ulcer patients' more advanced age, increased medical comorbidities, delay in seeking medical attention, and the larger size of gastric ulcers."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Omental bursa BDC writes - \"The posterior surface of the stomach is related to structures forming the stomach bed, all of which are separated from the stomach by the cavity of the lesser sac.\" Thus an ulcer on the posterior wall of stomach would perforate into the lesser sac. Also remember Most perforated ulcers are located on the anterior wall. The moality rate for perforated gastric ulcer is higher than that for duodenal ulcer. This is generally due to the gastric ulcer patients' more advanced age, increased medical comorbidities, delay in seeking medical attention, and the larger size of gastric ulcers.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the stomach\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7f7b700d-0f77-4357-8f06-c5ed513991b0": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Erythromycin The older agents used for the treatment of typhoid were : Chloramphenicol Ampicilin Trimethoprim Sulfamethoxazole Beta lactam Parenteral - Ceftriaxone Orall - Cefixime These drugs are not used nowdays because of widespread resistance. o Nowdays the drug of choice for Typhoid all over the world is a \"Fluroquinolone\" (Ciprofloxacin, ofloxacin). An impoant point to remember High level of fluoroquinolone resistance (ciprofloxacin) have been repoed from India and other pas of South East Asia in S. paratyphi and S.typhi infection. Nalidixic acid resistant S.typhi (NARST) have decreased ciprofloxacin sensitivity and are less effectively treated with fluoroquinolones. The fluroquinolones should not be used as first line treatment for typhoid fevers in patients from India and other pas of South Asia with high rates of fluroquinolone resistance unless antibiotic susceptibility data demonstrates fluoroquinolone or nalidixic acid sensitivity."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Erythromycin The older agents used for the treatment of typhoid were : Chloramphenicol Ampicilin Trimethoprim Sulfamethoxazole Beta lactam Parenteral - Ceftriaxone Orall - Cefixime These drugs are not used nowdays because of widespread resistance. o Nowdays the drug of choice for Typhoid all over the world is a \"Fluroquinolone\" (Ciprofloxacin, ofloxacin). An impoant point to remember High level of fluoroquinolone resistance (ciprofloxacin) have been repoed from India and other pas of South East Asia in S. paratyphi and S.typhi infection. Nalidixic acid resistant S.typhi (NARST) have decreased ciprofloxacin sensitivity and are less effectively treated with fluoroquinolones. The fluroquinolones should not be used as first line treatment for typhoid fevers in patients from India and other pas of South Asia with high rates of fluroquinolone resistance unless antibiotic susceptibility data demonstrates fluoroquinolone or nalidixic acid sensitivity.",
+    "hint_exp": "🧩 Your crush solved \"treated by all except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "70caa4e0-f3a0-4a03-a94c-9f4018334a5c": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Repoing of case Every case of AFP in any child under 15 years should be repoed. The number of AFP cases repoed each year is used as an indicator of a country's ability to detect polio, even in countries where the disease no longer occurs."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Repoing of case Every case of AFP in any child under 15 years should be repoed. The number of AFP cases repoed each year is used as an indicator of a country's ability to detect polio, even in countries where the disease no longer occurs.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"After finding case next\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "8063ef05-61ab-44c3-9b18-5772d74782d8": {
-    "cop": 2,
-    "exp": "Wegener's granulomatosis is a necro-inflammatory lesion having 4 components granulomas of the upper respiratory tract, granulomas of the lungs, systemic vasculitis (page 403) and focal necrotizing glomerulonephritis. Ref: Harsh Mohan textbook of pathology 6th edition page 495."
+    "cop": 1,
+    "exp": "Wegener's granulomatosis is a necro-inflammatory lesion having 4 components granulomas of the upper respiratory tract, granulomas of the lungs, systemic vasculitis (page 403) and focal necrotizing glomerulonephritis. Ref: Harsh Mohan textbook of pathology 6th edition page 495.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"on renal biopsy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b5fca8e5-d540-4a39-8fd3-97c40caf5042": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., All of the above o There are two types of antioxidant systems :-Enzymatic antioxidant systemThis includeCatalaseSuperoxide dismutase (SOD)Glutathione peroxidaseNon-enzymatic antioxidant systemThis is further subdivided intoVitamins : Vitamin E, Vitamin A & beta carotene. Vitamin C.Minerals : Selenium, Copper, Zinc, ManganeseTissue proteins : Transferrin, ferritin, lactoferrin, ceruloplasminAmino acids : Glutathione, Cysteine"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., All of the above o There are two types of antioxidant systems :-Enzymatic antioxidant systemThis includeCatalaseSuperoxide dismutase (SOD)Glutathione peroxidaseNon-enzymatic antioxidant systemThis is further subdivided intoVitamins : Vitamin E, Vitamin A & beta carotene. Vitamin C.Minerals : Selenium, Copper, Zinc, ManganeseTissue proteins : Transferrin, ferritin, lactoferrin, ceruloplasminAmino acids : Glutathione, Cysteine",
+    "hint_exp": "🎯 Think of \"Antioxidant vitamin\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e8feda1a-023f-44db-a08b-4b88f832f99a": {
-    "cop": 3,
-    "exp": "PRINGLE's Maneuver Aka Total Inflow Occlusion Clamping in foramen of Winslow and we occlude the Poal triad. It controls bleeding from Poal Vein and Hepatic Aery. Bleeding is effectively controlled from Poal Vein as compared to Hepatic Aery. It doesn't control bleeding from IVC and Hepatic Vein"
+    "cop": 2,
+    "exp": "PRINGLE's Maneuver Aka Total Inflow Occlusion Clamping in foramen of Winslow and we occlude the Poal triad. It controls bleeding from Poal Vein and Hepatic Aery. Bleeding is effectively controlled from Poal Vein as compared to Hepatic Aery. It doesn't control bleeding from IVC and Hepatic Vein",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"True about Pringles maneuver\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "af573d25-64d5-4512-b553-4bf1b2944b2f": {
-    "cop": 1,
-    "exp": "Ans. is `a' i.e., Lachman ACL injury ACL is the most commonly injured ligament of knee. Most common mechanism of injury is twisting (medial rotation) with valgus injury on semiflexed knee. Often with this mechanism MCL and medial meniscus are also injured. This triple injury of ACL , MCL and medial meniscus is called O'Donghue triad. Isolated ACL can also be injured by hyperextension injury. Tests for ACL injury Following tests are used for ACL injury : - Lachman's test Pivot shift test Flexion-rotation drawer test Anterior drawer test Jerk test Loose's test Lachman's test is the most sensitive test for anterior cruciate ligament tears. It is done with the knee flexed at 20 degrees. So it can be done in acute as well as chronic injuries. (because in acute cases with hemahrosis more flexion is usually not possible so performing anterior drawer test is difficult)."
+    "cop": 0,
+    "exp": "Ans. is `a' i.e., Lachman ACL injury ACL is the most commonly injured ligament of knee. Most common mechanism of injury is twisting (medial rotation) with valgus injury on semiflexed knee. Often with this mechanism MCL and medial meniscus are also injured. This triple injury of ACL , MCL and medial meniscus is called O'Donghue triad. Isolated ACL can also be injured by hyperextension injury. Tests for ACL injury Following tests are used for ACL injury : - Lachman's test Pivot shift test Flexion-rotation drawer test Anterior drawer test Jerk test Loose's test Lachman's test is the most sensitive test for anterior cruciate ligament tears. It is done with the knee flexed at 20 degrees. So it can be done in acute as well as chronic injuries. (because in acute cases with hemahrosis more flexion is usually not possible so performing anterior drawer test is difficult).",
+    "hint_exp": "🧩 Your crush solved \"ACL injury\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e747fd38-74e9-4270-883d-a32d8dfe4778": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Binds to receptor and causes opposite action o Receptors are specific binding site with functional correlate,o In relation to action through receptors, two terms are important.i) AffinityAbility of the drug to combine with the receptor.It determines the concentration of drug required to form a significant number of drug-receptor complexes.ii) Intrinsic activity (efficacy)Ability' of the drug to activate (induce a conformational change) in the receptor.Based on their intrinsic activity drugs may be divided in to :AgonistAntagonistPartial agonistInverse agonist----Have both affinity and maximal intrinsic activity.Have affinity' but no intrinsic activity.Have affinity and submaximal intrinsic activity'.Have affinity but opposite intrinsic activity' ie intrinsic activity with a minus sign. AgonistAntagonistPartial AgonistInverse Agonist----Affinity + Intrinsic Activity +Affinity + Intrinsic Activity 0Affinity - Intrinsic Activity 1/2 +Affinity' + Intrinsic Activity -"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Binds to receptor and causes opposite action o Receptors are specific binding site with functional correlate,o In relation to action through receptors, two terms are important.i) AffinityAbility of the drug to combine with the receptor.It determines the concentration of drug required to form a significant number of drug-receptor complexes.ii) Intrinsic activity (efficacy)Ability' of the drug to activate (induce a conformational change) in the receptor.Based on their intrinsic activity drugs may be divided in to :AgonistAntagonistPartial agonistInverse agonist----Have both affinity and maximal intrinsic activity.Have affinity' but no intrinsic activity.Have affinity and submaximal intrinsic activity'.Have affinity but opposite intrinsic activity' ie intrinsic activity with a minus sign. AgonistAntagonistPartial AgonistInverse Agonist----Affinity + Intrinsic Activity +Affinity + Intrinsic Activity 0Affinity - Intrinsic Activity 1/2 +Affinity' + Intrinsic Activity -",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"True statement regarding inverse\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "65da6574-27a0-4e7c-9053-e74314f6e594": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Fibers most susceptible hypoxia\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "eacf31dc-3e08-45b2-8114-b7daad2bc9c4": {
-    "cop": 1,
-    "exp": "Arginase the final enzyme of urea cycle is a hydrolase i.e. it uses water to break the bond in arginine It breaks arginine into urea and ornithine Urea is transpoed to kidneys from liver blood and then excreted in urine"
+    "cop": 0,
+    "exp": "Arginase the final enzyme of urea cycle is a hydrolase i.e. it uses water to break the bond in arginine It breaks arginine into urea and ornithine Urea is transpoed to kidneys from liver blood and then excreted in urine",
+    "hint_exp": "🎯 Think of \"urea cycle hydrolysis occurs\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3ebd752f-6b6f-49ee-a354-ff4f868d5669": {
-    "cop": 1,
-    "exp": "(Oxidised LDL) (499-Robbins-Pathologic basis of disease 8th)Accumulation of lipoproteins mainly LDL and its oxidized forms in the vessel wall OXIDIZED-LDL1. In ingested by macrophages through scavenger receptors distinct from the LDL receptor thus forming foam cells2. Increases monocytes accumulation in lesions3. Stimulates release of growth factors and cytokines4. Is cytotoxic to endothelial cells and smooth muscle cells5. Can induce endothelial cell dysfunctionPathogenic events in Atherosclerosis* Endothelial Injury - | vascular permeability leukocyte adhesion and thrombosis* Accumulation of lipoproteins (Mainly LDL and its oxidized forms) in the vessel wall* Monocyte adhesion to the endothelium - followed by migration into the intima and transformation into macrophages and foam cells* Plaelet adhesion* Factor release from activated platelets, macrophages and vascular wall-cells, inducing smooth muscle cell recruitment either from the media or from circulating precursors* Smooth muscle cell proliferation and ECMproduction* Lipid accumulation both extracellulary and within cells (macrophages and smooth muscle cells)Apo - B- 100 is responsible for the recognition of LDL receptor sites* Most important function of LDL is to supply cholesterol to this extrahepatic tissues. The LDL particles bind to the specific receptor pits (Identified as glycoprotein) on the cell membraneDeficiency of LDL receptors is observed in Type Ila hvperbetalipoproteinemia this disorder is associated with a very high risk of atherosclerosis (particularly coronary artery)IMPORTANT POINTS* Most common of ascending aortic aneurysm - cystic medial necrosis* Most common cause of descending aortic aneurysm and aneurysm aortic arch - Atherosclerosis.* Raised serum level of lipoprotein (a) is a predictor of Atherosclerosis (coronary and cerebro vascular disease)* In atherosclerosis, LDL is present in the LDL monocyte* In atherosclerosis, Increased LDL in monocytes- macrophages due to- LDL receptors on the macrophages* Most common cause of peripheral limb ischaemia in India is Atherosclerosis* Best predictor for future risk of cardiovascular events is hs CRP* Test for reversible cardiac ischemia is - Thallium scan* Most common change in atherosclerotic vessel is - Dystrophic calcification"
+    "cop": 0,
+    "exp": "(Oxidised LDL) (499-Robbins-Pathologic basis of disease 8th)Accumulation of lipoproteins mainly LDL and its oxidized forms in the vessel wall OXIDIZED-LDL1. In ingested by macrophages through scavenger receptors distinct from the LDL receptor thus forming foam cells2. Increases monocytes accumulation in lesions3. Stimulates release of growth factors and cytokines4. Is cytotoxic to endothelial cells and smooth muscle cells5. Can induce endothelial cell dysfunctionPathogenic events in Atherosclerosis* Endothelial Injury - | vascular permeability leukocyte adhesion and thrombosis* Accumulation of lipoproteins (Mainly LDL and its oxidized forms) in the vessel wall* Monocyte adhesion to the endothelium - followed by migration into the intima and transformation into macrophages and foam cells* Plaelet adhesion* Factor release from activated platelets, macrophages and vascular wall-cells, inducing smooth muscle cell recruitment either from the media or from circulating precursors* Smooth muscle cell proliferation and ECMproduction* Lipid accumulation both extracellulary and within cells (macrophages and smooth muscle cells)Apo - B- 100 is responsible for the recognition of LDL receptor sites* Most important function of LDL is to supply cholesterol to this extrahepatic tissues. The LDL particles bind to the specific receptor pits (Identified as glycoprotein) on the cell membraneDeficiency of LDL receptors is observed in Type Ila hvperbetalipoproteinemia this disorder is associated with a very high risk of atherosclerosis (particularly coronary artery)IMPORTANT POINTS* Most common of ascending aortic aneurysm - cystic medial necrosis* Most common cause of descending aortic aneurysm and aneurysm aortic arch - Atherosclerosis.* Raised serum level of lipoprotein (a) is a predictor of Atherosclerosis (coronary and cerebro vascular disease)* In atherosclerosis, LDL is present in the LDL monocyte* In atherosclerosis, Increased LDL in monocytes- macrophages due to- LDL receptors on the macrophages* Most common cause of peripheral limb ischaemia in India is Atherosclerosis* Best predictor for future risk of cardiovascular events is hs CRP* Test for reversible cardiac ischemia is - Thallium scan* Most common change in atherosclerotic vessel is - Dystrophic calcification",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"atherosclerosis in the form of\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8a82bdd3-f4ab-4997-970a-7c6d7bc1b3e2": {
-    "cop": 1,
-    "exp": "Ref: Katzung's, 14th ed. pg. 1089* This medication is used to treat symptoms caused by too much stomach acid such as heartburn, upset stomach, or indigestion.* It is an antacid that works by lowering the amount of acid in the stomach.* It can also be used in renal osteodystrophy with hyperphosphatemia, hypocalcemia and osteoporosis like conditions.* It can cause metabolic alkalosis (Milk-alkali syndrome)"
+    "cop": 0,
+    "exp": "Ref: Katzung's, 14th ed. pg. 1089* This medication is used to treat symptoms caused by too much stomach acid such as heartburn, upset stomach, or indigestion.* It is an antacid that works by lowering the amount of acid in the stomach.* It can also be used in renal osteodystrophy with hyperphosphatemia, hypocalcemia and osteoporosis like conditions.* It can cause metabolic alkalosis (Milk-alkali syndrome)",
+    "hint_exp": "🧩 Your crush solved \"used for\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "41615fb6-dd78-43be-96df-ec3200037422": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Preoccupation with fear of a serious illness Hypochondriasis* The primary feature of hypochondriasis is persistent preoccupation with excessive fear of a serious (e.g., cancer) or incurable (e.g., AIDS) disease, which is based on person's own interpretation of physical symptoms or sensation, i.e., misinterpretation of physical symptoms or sensations, for example an occasional change in heart rate will lead a person with hypochondriasis to fear of heart disease.* Therefore, Hypochondriasis is abnormal preoccupation about normal body function i.e., body functioning is normal but patient thinks it as abnormal.* The preoccupation with the presence of a feared illness persists in spite of normal medical assessment and investigations. Patient goes from one doctor to another for a consultation.* People with hypochondriasis are able to acknowledge that their fears are unrealistic (insight is present), but this intellectual realization is not enough to reduce their anxiety.* Two important facts differentiate hypochondriasis from somatization disorder : -i) Patient with hypochondriasis is preoccupied with illness, on the other hand patient with somatization disorder is occupied with symptoms.ii) Hypochondriasis patient is preoccupied with one illness (usually) while patient with somatization disorder has many (at least 8 or more) symptoms.Other options* Preoccupation with multiple symptoms - Somatization disorder* Maintaining sick role - Factitious disorder (Munchausen syndrome)* Intentional production of false or exaggerated physical symptoms - Malingering"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Preoccupation with fear of a serious illness Hypochondriasis* The primary feature of hypochondriasis is persistent preoccupation with excessive fear of a serious (e.g., cancer) or incurable (e.g., AIDS) disease, which is based on person's own interpretation of physical symptoms or sensation, i.e., misinterpretation of physical symptoms or sensations, for example an occasional change in heart rate will lead a person with hypochondriasis to fear of heart disease.* Therefore, Hypochondriasis is abnormal preoccupation about normal body function i.e., body functioning is normal but patient thinks it as abnormal.* The preoccupation with the presence of a feared illness persists in spite of normal medical assessment and investigations. Patient goes from one doctor to another for a consultation.* People with hypochondriasis are able to acknowledge that their fears are unrealistic (insight is present), but this intellectual realization is not enough to reduce their anxiety.* Two important facts differentiate hypochondriasis from somatization disorder : -i) Patient with hypochondriasis is preoccupied with illness, on the other hand patient with somatization disorder is occupied with symptoms.ii) Hypochondriasis patient is preoccupied with one illness (usually) while patient with somatization disorder has many (at least 8 or more) symptoms.Other options* Preoccupation with multiple symptoms - Somatization disorder* Maintaining sick role - Factitious disorder (Munchausen syndrome)* Intentional production of false or exaggerated physical symptoms - Malingering",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Hypochondriasis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "603e722d-84ba-48cd-bf64-508a3a9cbacb": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 1900"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 1900",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Daily energy requirment reference\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7b9d946f-bcff-4c3a-b0aa-b771ab860a07": {
-    "cop": 4,
-    "exp": "Transient tachypnea of the newborn is a respiratory problem that can be seen in the newborn sholy after delivery. It is caused by retained fetal lung fluid due to impaired clearance mechanisms. It is the most common cause of respiratory distress in term neonates. Ref : essential paediatrics op ghai 9edition Pg no : 210"
+    "cop": 3,
+    "exp": "Transient tachypnea of the newborn is a respiratory problem that can be seen in the newborn sholy after delivery. It is caused by retained fetal lung fluid due to impaired clearance mechanisms. It is the most common cause of respiratory distress in term neonates. Ref : essential paediatrics op ghai 9edition Pg no : 210",
+    "hint_exp": "🎯 Think of \"the most common\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c7378582-71f3-4766-927d-9778bfec4b62": {
-    "cop": 2,
-    "exp": "Eye at bih Anteroposterior diameter of eyeball is about 16.5 mm Corneal diameter is about 10 mm Anterior chamber is shallow and angle is narrow Pupil is small and doesnot dilate fully. Lens is spherical at bih Retina is fully differentiated at bih. Macula differentiates 4-6 months after bih Myelination of optic nerve fibres has reached the lamina cribrosa Refractive status. Newborn is usually hypermetropic by +2 to +3 D Orbit is more divergent(50o) as compared to adult (45o) Lacrimal gland is still underdeveloped and tears are not secreted. Reference: A.K.Khurana; 6th edition; Page no:13"
+    "cop": 1,
+    "exp": "Eye at bih Anteroposterior diameter of eyeball is about 16.5 mm Corneal diameter is about 10 mm Anterior chamber is shallow and angle is narrow Pupil is small and doesnot dilate fully. Lens is spherical at bih Retina is fully differentiated at bih. Macula differentiates 4-6 months after bih Myelination of optic nerve fibres has reached the lamina cribrosa Refractive status. Newborn is usually hypermetropic by +2 to +3 D Orbit is more divergent(50o) as compared to adult (45o) Lacrimal gland is still underdeveloped and tears are not secreted. Reference: A.K.Khurana; 6th edition; Page no:13",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"newborn\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5efb693b-0d9f-411e-bbcb-50ac2af7ba9d": {
-    "cop": 1,
-    "exp": "The first urge to void is felt at a bladder volume of about 150 mL, and a marked sense of fullness at about 400 mL The suppression of urge after initial experience is a manifestation of the law of Laplace. This law states that the pressure in a spherical viscus is equal to twice the wall tension divided by the radius. In the case of the bladder, the tension increases as the organ fill, but so does the radius. Therefore, the pressure increase is slight until the organ is relatively full. Ref: Ganong &;s review of medical physiology, 23rd edition, page no: 661"
+    "cop": 0,
+    "exp": "The first urge to void is felt at a bladder volume of about 150 mL, and a marked sense of fullness at about 400 mL The suppression of urge after initial experience is a manifestation of the law of Laplace. This law states that the pressure in a spherical viscus is equal to twice the wall tension divided by the radius. In the case of the bladder, the tension increases as the organ fill, but so does the radius. Therefore, the pressure increase is slight until the organ is relatively full. Ref: Ganong &;s review of medical physiology, 23rd edition, page no: 661",
+    "hint_exp": "🧩 Your crush solved \"urine in bladder\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b4aa8ec3-8465-480a-98fa-b431725aff83": {
-    "cop": 4,
-    "exp": "Frontal lobe syndrome : \n\nEuphoria \nImpaired recent memory\nFlight of ideas\nAttention deficit"
+    "cop": 3,
+    "exp": "Frontal lobe syndrome : \n\nEuphoria \nImpaired recent memory\nFlight of ideas\nAttention deficit",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Frontal lobe syndrome involves\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3ad5ad31-40d7-4ac8-b985-e675f5a574da": {
-    "cop": 1,
-    "exp": "Uterine contractions: Palpable when intensity exceeds 10 mm Hg Painful when exceeds 15 mm Hg"
+    "cop": 0,
+    "exp": "Uterine contractions: Palpable when intensity exceeds 10 mm Hg Painful when exceeds 15 mm Hg",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"more than\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c608ba1e-f15d-48d2-bae1-80841dfdeaa2": {
-    "cop": 2,
-    "exp": "Treatment of post operative shivering involves oxygen administration to prevent hypoxia, active warming and use of drugs. Pethidine at a minimum dose of 0.35mg/kg is the most effective opioid in the treatment of post anaesthetic shivering. Fentanyl, Aalfentanil and Doxapram at a dose of 0.2mg/kg is also effective. Ref: Textbook of Anesthesia for Postgraduates By T. K. Agasti, Page 387; Fundamentals of Anaesthesia By Ted Lin, 2nd Edition, Pages 70-71."
+    "cop": 1,
+    "exp": "Treatment of post operative shivering involves oxygen administration to prevent hypoxia, active warming and use of drugs. Pethidine at a minimum dose of 0.35mg/kg is the most effective opioid in the treatment of post anaesthetic shivering. Fentanyl, Aalfentanil and Doxapram at a dose of 0.2mg/kg is also effective. Ref: Textbook of Anesthesia for Postgraduates By T. K. Agasti, Page 387; Fundamentals of Anaesthesia By Ted Lin, 2nd Edition, Pages 70-71.",
+    "hint_exp": "🎯 Think of \"the following agents\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f6d42ad0-e944-4b75-a4f1-4cd1d279ceaf": {
-    "cop": 3,
-    "exp": "Activated 2% alkaline glutaraldehyde is used for decontaminating flexible endoscopes.\nAdvantages\n\n Relatively non-corrosive\n Will kill spores with prolonged exposure (3- 10 hours). \n\nDisadvantages\nToxic. Irritant. \nPossible alternatives:\n\n Ortho-phthalaldehyde (OPA) peracetic acid.\n Chlorine dioxide (ClO2) products (such as Tristel).\n Super-oxidized water (Sterilox).\n\nAdvantages of these newer agents are - rapidly sporicidal, mycobactericidal and viricidal. BUT remember - No agent is clearly superior to the others and a thorough assessment needs to be performed before an alternative agent is chosen."
+    "cop": 2,
+    "exp": "Activated 2% alkaline glutaraldehyde is used for decontaminating flexible endoscopes.\nAdvantages\n\n Relatively non-corrosive\n Will kill spores with prolonged exposure (3- 10 hours). \n\nDisadvantages\nToxic. Irritant. \nPossible alternatives:\n\n Ortho-phthalaldehyde (OPA) peracetic acid.\n Chlorine dioxide (ClO2) products (such as Tristel).\n Super-oxidized water (Sterilox).\n\nAdvantages of these newer agents are - rapidly sporicidal, mycobactericidal and viricidal. BUT remember - No agent is clearly superior to the others and a thorough assessment needs to be performed before an alternative agent is chosen.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"endoscopes\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2c64f6f2-f5c6-4996-b807-fc177c990926": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

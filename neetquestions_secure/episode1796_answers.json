@@ -1,202 +1,252 @@
 {
   "bdbbbad2-bc39-4c62-9de3-ab9dbdc4cdb5": {
-    "cop": 2,
-    "exp": "Modified Bishop scoring in detail\n\n\n\nScore\nDilatation (cm)\nLength of cervix \nStation\nCervical consistency\nCervical position\n\n\n0\n0\n2cm\n-2\nFirm\nPosterior\n\n\n1\n1cm\n1cm\n-1\nSoft\nMidposition\n\n\n2\n> 2cm\n< 0.5 cm\n0\nSoft and stretchable\nAnterior"
+    "cop": 1,
+    "exp": "Modified Bishop scoring in detail\n\n\n\nScore\nDilatation (cm)\nLength of cervix \nStation\nCervical consistency\nCervical position\n\n\n0\n0\n2cm\n-2\nFirm\nPosterior\n\n\n1\n1cm\n1cm\n-1\nSoft\nMidposition\n\n\n2\n> 2cm\n< 0.5 cm\n0\nSoft and stretchable\nAnterior",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"cervix\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bdf7dae6-1861-4ea8-87b5-ba0f6f64f459": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Ligandin Bilirubin metabolism Bilirubin is the end product of heme degradation. The heme is derived from - i) Senescent erythrocytes by mononuclear phagocytic system in the spleen, liver and bone marrow (major source). ii) Turnover of hemoproteins (e.g. cytochrome p.450). Heme is oxidized to biliverdin by heme oxygenase. Biliverdin is then reduced to bilirubin by biliverdin reductase. Bilirubin is transpoed to liver in bound form with albumin. Bilirubin is transferred to hepatocytes where it is bound to ligandin. There is carrier mediated uptake of bilirubin in the liver. This bilirubin is conjugated with glucuronic acid by UDP glucuronyl transferase (UGT1A1) to from conjugated bilirubin (bilirubin glucronides). Conjugated bilirubin is excreted into bile. Most of the conjugated bilirubin is deconjugated and degraded to urobilinogen. The most of the urobilinogen is excreted in the feces."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Ligandin Bilirubin metabolism Bilirubin is the end product of heme degradation. The heme is derived from - i) Senescent erythrocytes by mononuclear phagocytic system in the spleen, liver and bone marrow (major source). ii) Turnover of hemoproteins (e.g. cytochrome p.450). Heme is oxidized to biliverdin by heme oxygenase. Biliverdin is then reduced to bilirubin by biliverdin reductase. Bilirubin is transpoed to liver in bound form with albumin. Bilirubin is transferred to hepatocytes where it is bound to ligandin. There is carrier mediated uptake of bilirubin in the liver. This bilirubin is conjugated with glucuronic acid by UDP glucuronyl transferase (UGT1A1) to from conjugated bilirubin (bilirubin glucronides). Conjugated bilirubin is excreted into bile. Most of the conjugated bilirubin is deconjugated and degraded to urobilinogen. The most of the urobilinogen is excreted in the feces.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"bound inside hepatocyte to\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0a365f5e-571e-48b9-bdf5-323191e5a0b3": {
-    "cop": 4,
-    "exp": "Disciform keratitisPathogenesis: It is due to the delayed hypersensitivity reaction to the HSV antigen. There occurs low-grade stromal inflammation and damage to the underlying endothelium. Endothelial damage results in corneal edema due to imbibation of aqueous humor. Signs:Focal disc-shaped patch of stromal edema without necrosis,Folds in Descemet's membrane,Keratic precipitates, Ring of stromal infiltrate (Wessley immune ring) may be present surrounding stromal edema. It signifies the junction between viral antigen and host antibody,Corneal sensations are diminished,Intraocular pressure (IOP) may be raised despite only mild anterior uveitis. In severe cases, anterior uveitis may be markedImpoant note: During active stage, diminished corneal sensations and keratic precipitates are the differentiating points from other causes of stromaledema. Herpes simplex infection is a common cause of corneal sensory loss, 8 although less severe than in keratitis caused by reactivation of varicella-zoster virus. The decrease in corneal sensitivity to mechanical stimulation in HSV keratitis patients is propoional to the number of recurrent episodes Ref: Khurana; Comprehensive Ophthalmology; 4th edition; Page no: 103"
+    "cop": 3,
+    "exp": "Disciform keratitisPathogenesis: It is due to the delayed hypersensitivity reaction to the HSV antigen. There occurs low-grade stromal inflammation and damage to the underlying endothelium. Endothelial damage results in corneal edema due to imbibation of aqueous humor. Signs:Focal disc-shaped patch of stromal edema without necrosis,Folds in Descemet's membrane,Keratic precipitates, Ring of stromal infiltrate (Wessley immune ring) may be present surrounding stromal edema. It signifies the junction between viral antigen and host antibody,Corneal sensations are diminished,Intraocular pressure (IOP) may be raised despite only mild anterior uveitis. In severe cases, anterior uveitis may be markedImpoant note: During active stage, diminished corneal sensations and keratic precipitates are the differentiating points from other causes of stromaledema. Herpes simplex infection is a common cause of corneal sensory loss, 8 although less severe than in keratitis caused by reactivation of varicella-zoster virus. The decrease in corneal sensitivity to mechanical stimulation in HSV keratitis patients is propoional to the number of recurrent episodes Ref: Khurana; Comprehensive Ophthalmology; 4th edition; Page no: 103",
+    "hint_exp": "🎯 Think of \"the following infection\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "01e5a34b-18d9-4aa9-9954-9b54e0b09eca": {
-    "cop": 2,
-    "exp": "Prepatellar's bursitis is called \"housemaids knee\" or miner's kneePrepatellar bursitisIt is a common cause of swelling and pain above the patellaIt is due to inflammation of the prepatellar bursa.This structure is a superficial bursa with a thin synol lining located between the skin and the patella.The bursa develops within the first years of life as a result of mechanical pressure and friction, and it serves the purpose of reducing friction on underlying structures and allowing maximal range of motion in the knee.Aseptic prepatellar bursitis is commonly caused by repetitive work in a kneeling position, hence the name \"housemaid's knee\".Infrapatellar bursitis/clergyman's kneeIt is the inflammation of the infrapatellar bursa, which is located just below the patella.It is often called \"clergyman's knee\" due to its historical frequency amongst clergyman, who injured the bursa by kneeling on hard surfaces during prayer."
+    "cop": 1,
+    "exp": "Prepatellar's bursitis is called \"housemaids knee\" or miner's kneePrepatellar bursitisIt is a common cause of swelling and pain above the patellaIt is due to inflammation of the prepatellar bursa.This structure is a superficial bursa with a thin synol lining located between the skin and the patella.The bursa develops within the first years of life as a result of mechanical pressure and friction, and it serves the purpose of reducing friction on underlying structures and allowing maximal range of motion in the knee.Aseptic prepatellar bursitis is commonly caused by repetitive work in a kneeling position, hence the name \"housemaid's knee\".Infrapatellar bursitis/clergyman's kneeIt is the inflammation of the infrapatellar bursa, which is located just below the patella.It is often called \"clergyman's knee\" due to its historical frequency amongst clergyman, who injured the bursa by kneeling on hard surfaces during prayer.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Housemaid knee inflammation\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "761696e2-e7ed-4940-a4c8-7f2203b2c289": {
-    "cop": 1,
-    "exp": "Posterior pituitaryThe posterior lobe of the pituitary gland; the neurohypophysis.A preparation of animal posterior pituitary having the pharmacological actions of its hormones, oxytocin, and vasopressin; used mainly as an antidiuretic in the treatment of diabetes insipidus and as a vasoconstrictor.Ref: Ganong&;s review of medical physiology; 24th edition; page no:-311"
+    "cop": 0,
+    "exp": "Posterior pituitaryThe posterior lobe of the pituitary gland; the neurohypophysis.A preparation of animal posterior pituitary having the pharmacological actions of its hormones, oxytocin, and vasopressin; used mainly as an antidiuretic in the treatment of diabetes insipidus and as a vasoconstrictor.Ref: Ganong&;s review of medical physiology; 24th edition; page no:-311",
+    "hint_exp": "🧩 Your crush solved \"milk secretion\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "a2f6fcac-e254-4ef2-9023-7ac3908f2d75": {
-    "cop": 2,
-    "exp": ".* Once the area granulates well, in 3 weeks usually, split skin grafting is done (SSG, Thiersch graft). * For wider area MESH split skin graft is used. * If there is eschar, escharotomy is required to prevent compression of vessels. * In ceain areas like face and ear, full thickness graft (Wolfe graft) or flap is required. ref:SRB;s manual of surgery,ed 3,pg no 112"
+    "cop": 1,
+    "exp": ".* Once the area granulates well, in 3 weeks usually, split skin grafting is done (SSG, Thiersch graft). * For wider area MESH split skin graft is used. * If there is eschar, escharotomy is required to prevent compression of vessels. * In ceain areas like face and ear, full thickness graft (Wolfe graft) or flap is required. ref:SRB;s manual of surgery,ed 3,pg no 112",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Split skin grafts young\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f7a660c2-823c-4c46-85b7-5eef27348a74": {
-    "cop": 1,
-    "exp": "A;Threatened aboion"
+    "cop": 0,
+    "exp": "A;Threatened aboion",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of which aboion\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "914581c0-b18a-4819-a7a6-e5a8c39b4ba1": {
-    "cop": 4,
-    "exp": "Ans is 'd' i.e., Chronic interstitial nephritis with VUR o This child is having: (i) Elevated BP (Hypeension) (ii) Elevated BUN (90) and Creatinine (5.3) -*ARE (iii) 15-20 Pus cells --> Pyuria (iv) No hematura (1-2 RBC) ---> for microscopic hematuria to be significant, 5-10 RBCs/j.iL of urine are required (v) Minimal proteinuria (1 +) o Post-infective glomerulonephritis and idiopathic RPGN have significant hematuria as they present as nephritic syndrome. So, these options are ruled out. o Accelerated hypeension with ARF cannot explain the presence of pyuria. So, this option is alos excluded. o Now we are left with option d. vesicoureteric reflux in children may cause chronic interstitial rephritis. Chronic interstitial nephritis may have all the features given in the question: (i) Hypeension is common ARF may occur in VUR (iii) Pyuria is common due to recurrent infection Proteinuria in chronic interstitial disease is mild ("
+    "cop": 3,
+    "exp": "Ans is 'd' i.e., Chronic interstitial nephritis with VUR o This child is having: (i) Elevated BP (Hypeension) (ii) Elevated BUN (90) and Creatinine (5.3) -*ARE (iii) 15-20 Pus cells --> Pyuria (iv) No hematura (1-2 RBC) ---> for microscopic hematuria to be significant, 5-10 RBCs/j.iL of urine are required (v) Minimal proteinuria (1 +) o Post-infective glomerulonephritis and idiopathic RPGN have significant hematuria as they present as nephritic syndrome. So, these options are ruled out. o Accelerated hypeension with ARF cannot explain the presence of pyuria. So, this option is alos excluded. o Now we are left with option d. vesicoureteric reflux in children may cause chronic interstitial rephritis. Chronic interstitial nephritis may have all the features given in the question: (i) Hypeension is common ARF may occur in VUR (iii) Pyuria is common due to recurrent infection Proteinuria in chronic interstitial disease is mild (",
+    "hint_exp": "🎯 Think of \"child with urea creatinine\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "98c6939e-a07a-4b7a-8c30-b2ba787ce531": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., VII"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., VII",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"CSOM\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c9602a5f-5ff3-43d5-9e6b-fcd0a2075206": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"made carbon free\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d757adcb-11ba-4212-91ca-32648c86c2fe": {
-    "cop": 3,
-    "exp": "Ref Robbins 9/e p1032 8/e p 1050 Granulosa cell tumor : The most common ovarian tumor That is composed of cells,that stains positively with inhibin The tumor cells may Secrete oestrogen and causes precocious sexual development in girls.Or increase the risk of endometrial hyperplasia and carcinoma in women Less commonly granulosa tumor cells may produce androgen and produce masculinization"
+    "cop": 2,
+    "exp": "Ref Robbins 9/e p1032 8/e p 1050 Granulosa cell tumor : The most common ovarian tumor That is composed of cells,that stains positively with inhibin The tumor cells may Secrete oestrogen and causes precocious sexual development in girls.Or increase the risk of endometrial hyperplasia and carcinoma in women Less commonly granulosa tumor cells may produce androgen and produce masculinization",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the follow up of patient\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "895811e9-c559-4a89-a460-728625ab765f": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following paranasal sinuses drain\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6ef217cc-4b4a-4b8e-9021-a2af86018151": {
-    "cop": 2,
-    "exp": "Cisapride, mosapride, renzapride, prucalopride and tegaserod are 5-HT4 agonistic drugs with no action on D2 receptors (no antiemetic propey). These drugs increase whole GI motility including colon. Cisapride was previously used for the treatment of GERD but it has been withdrawn in some countries due to its QT prolonging action. It is metabolized by CYP 3A4 and therefore should not be administered with microsomal enzyme inhibitors like ketoconazole and erythromycin (increased chances of Torsades' de pointes, an arrhythmia with QT prolongation). Mosapride and renzapride do not prolong QT interval."
+    "cop": 1,
+    "exp": "Cisapride, mosapride, renzapride, prucalopride and tegaserod are 5-HT4 agonistic drugs with no action on D2 receptors (no antiemetic propey). These drugs increase whole GI motility including colon. Cisapride was previously used for the treatment of GERD but it has been withdrawn in some countries due to its QT prolonging action. It is metabolized by CYP 3A4 and therefore should not be administered with microsomal enzyme inhibitors like ketoconazole and erythromycin (increased chances of Torsades' de pointes, an arrhythmia with QT prolongation). Mosapride and renzapride do not prolong QT interval.",
+    "hint_exp": "🎯 Think of \"GERD in this patient\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "2e010e74-aeb5-4577-a063-347be39637d1": {
-    "cop": 4,
-    "exp": "A ligature applied to the neck within 2 hours will produce a ligature mark. Features of Postmoem hanging : A person may be murdered, and the dead body suspended to simulate suicide. Findings suggestive of postmoem hanging : A ligature applied to the neck within two hours of death will produce a ligature mark. Signs of dragging to the place of suspension. When a dead body is suspended, the rope is usually tied first around the neck, and then around the beam, branch of a tree, etc. The beam shows evidence of the rope having moved from below upwards as the body has been pulled up. In true suicidal hanging, the rope moves from above downwards. Fibres from the rope may be found on the hands of the victim in suicidal hanging, but not in case of postmoem hanging."
+    "cop": 3,
+    "exp": "A ligature applied to the neck within 2 hours will produce a ligature mark. Features of Postmoem hanging : A person may be murdered, and the dead body suspended to simulate suicide. Findings suggestive of postmoem hanging : A ligature applied to the neck within two hours of death will produce a ligature mark. Signs of dragging to the place of suspension. When a dead body is suspended, the rope is usually tied first around the neck, and then around the beam, branch of a tree, etc. The beam shows evidence of the rope having moved from below upwards as the body has been pulled up. In true suicidal hanging, the rope moves from above downwards. Fibres from the rope may be found on the hands of the victim in suicidal hanging, but not in case of postmoem hanging.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"case Postmoem hanging ligature\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "628538b2-2b31-48b3-8f3f-e797fb8e6c34": {
-    "cop": 2,
-    "exp": "* Internal iliac aery arises at the bifurcation of the common iliac, aery, Opposite the lumbosacral joint (L5/S1 interveebral disc) Division Branch Posterior Iliac aery * Superior gluteal aery * Iliolumbar aery * Lateral sacral aeries Anterior Iliac Aery- about 8 branches * Obturator aery (occasionally from inferior epigastric aery) * Inferior gluteal aery * Umbilical aery, which later persist as superior vesical aery (remaining aery becomes medial umbilical ligament). * Uterine aery (females) or deferential aery (males) Vaginal aery (females, can also arise from uterine aery) or inferior vesical aery (males) * Middle rectal aery * Internal pudendal aery * Aery of the perineum * Accessory obturator aery: The obturator aery sometimes arises from the main stem or from the posterior trunk of the internal iliac, or it may spring from the superior gluteal aery; occasionally it arises from the external iliac"
+    "cop": 1,
+    "exp": "* Internal iliac aery arises at the bifurcation of the common iliac, aery, Opposite the lumbosacral joint (L5/S1 interveebral disc) Division Branch Posterior Iliac aery * Superior gluteal aery * Iliolumbar aery * Lateral sacral aeries Anterior Iliac Aery- about 8 branches * Obturator aery (occasionally from inferior epigastric aery) * Inferior gluteal aery * Umbilical aery, which later persist as superior vesical aery (remaining aery becomes medial umbilical ligament). * Uterine aery (females) or deferential aery (males) Vaginal aery (females, can also arise from uterine aery) or inferior vesical aery (males) * Middle rectal aery * Internal pudendal aery * Aery of the perineum * Accessory obturator aery: The obturator aery sometimes arises from the main stem or from the posterior trunk of the internal iliac, or it may spring from the superior gluteal aery; occasionally it arises from the external iliac",
+    "hint_exp": "🧩 Your crush solved \"internal iliac aery\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "73ea4809-8ee4-4590-bc18-5e101ee75278": {
-    "cop": 2,
-    "exp": "B i.e. Interstitial Keratitis"
+    "cop": 1,
+    "exp": "B i.e. Interstitial Keratitis",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"secondary syphilis all\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a5e5f115-f950-4df5-bf51-7266fafe7201": {
-    "cop": 1,
-    "exp": "The phenomenon referred to as genomic imprinting leads to phenotypic expression of a gene depending on parenteral origin. Genomic imprinting: epigenetic process, that selectively inactivates either the maternal or paternal allele. These defects include Beckwith-Wiedemann syndrome Silver Russell syndrome Angelman syndrome Prader willi syndrome Uniparental disomy: This refers to the situation in which two copies of a chromosome come from the same parent, instead of one from each parent. Eg., Angelman syndrome and Prader Willi syndrome Prader-Willi syndrome AngelMan Syndrome Deletions (70% cases) Deletion of paternal genes after maternal gene silencing Deletion of maternal genes after paternal gene silencing Uniparental disomy (UPD) (30%) UPD of maternal chromosome 15 UPD of parenteral chromosome 15 Mosaicism: Describes an individual cell or tissue that contains >2 cell lines derived from a single zygote as a result of mitotic non-disjunction Ref: Nelson textbook of pediatrics 21st edition Pgno: 649"
+    "cop": 0,
+    "exp": "The phenomenon referred to as genomic imprinting leads to phenotypic expression of a gene depending on parenteral origin. Genomic imprinting: epigenetic process, that selectively inactivates either the maternal or paternal allele. These defects include Beckwith-Wiedemann syndrome Silver Russell syndrome Angelman syndrome Prader willi syndrome Uniparental disomy: This refers to the situation in which two copies of a chromosome come from the same parent, instead of one from each parent. Eg., Angelman syndrome and Prader Willi syndrome Prader-Willi syndrome AngelMan Syndrome Deletions (70% cases) Deletion of paternal genes after maternal gene silencing Deletion of maternal genes after paternal gene silencing Uniparental disomy (UPD) (30%) UPD of maternal chromosome 15 UPD of parenteral chromosome 15 Mosaicism: Describes an individual cell or tissue that contains >2 cell lines derived from a single zygote as a result of mitotic non-disjunction Ref: Nelson textbook of pediatrics 21st edition Pgno: 649",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"origin\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bedba1a3-2fcd-4437-8d47-53501e8204f3": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Tympanic membrane\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "061681a3-426e-4fc3-89f8-e98b562a2a4f": {
-    "cop": 2,
-    "exp": "Keratic precipitates (KPs) on posterior surface of cornea are pathognomonic of the involvement of ciliary body in the inflammation.\nEarliest sign of anterior uveitis → aqueous flare.\nPathognomonic sign → Keratic precipitate"
+    "cop": 1,
+    "exp": "Keratic precipitates (KPs) on posterior surface of cornea are pathognomonic of the involvement of ciliary body in the inflammation.\nEarliest sign of anterior uveitis → aqueous flare.\nPathognomonic sign → Keratic precipitate",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Acute Iridocyclitis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e008f460-1726-4aa2-b14d-5210b003abec": {
-    "cop": 1,
-    "exp": "The probable diagnosis is Polyaeritis nodosa Polyaeritis nodosa has a peak incidence between the ages of 40 and 50, with a male-to-female ratio of 2 : 1. The annual incidence is about 2/1 000 000. Hepatitis B is an impoant risk factor and the incidence is 10 times higher in the Inuit of Alaska, in whom hepatitis B infection is endemic. Presentation is with fever, myalgia, ahralgia and weight loss, in combination with manifestations of multisystem disease. The most common skin lesions are palpable purpura , ulceration, infarction and livedo reticularis . Pathological changes comprise necrotising inflammation and vessel occlusion, and in 70% of patients aeritis of the vasa nervorum leads to neuropathy, which is typically symmetrical and affects both sensory and motor function. Severe hypeension and/or renal impairment may occur due to multiple renal infarctions but glomerulonephritis is rare (in contrast to microscopic polyangiitis). The diagnosis is confirmed by conventional or magnetic resonance angiography, which shows multiple aneurysms and smooth narrowing of mesenteric, hepatic or renal systems, or by muscle or sural nerve biopsy, which reveals the histological changes described above. Treatment is with high-dose glucocoicoids and immunosuppressants, as described for ANCA-associated vasculitis . Ref - Davidsons 23e p1042"
+    "cop": 0,
+    "exp": "The probable diagnosis is Polyaeritis nodosa Polyaeritis nodosa has a peak incidence between the ages of 40 and 50, with a male-to-female ratio of 2 : 1. The annual incidence is about 2/1 000 000. Hepatitis B is an impoant risk factor and the incidence is 10 times higher in the Inuit of Alaska, in whom hepatitis B infection is endemic. Presentation is with fever, myalgia, ahralgia and weight loss, in combination with manifestations of multisystem disease. The most common skin lesions are palpable purpura , ulceration, infarction and livedo reticularis . Pathological changes comprise necrotising inflammation and vessel occlusion, and in 70% of patients aeritis of the vasa nervorum leads to neuropathy, which is typically symmetrical and affects both sensory and motor function. Severe hypeension and/or renal impairment may occur due to multiple renal infarctions but glomerulonephritis is rare (in contrast to microscopic polyangiitis). The diagnosis is confirmed by conventional or magnetic resonance angiography, which shows multiple aneurysms and smooth narrowing of mesenteric, hepatic or renal systems, or by muscle or sural nerve biopsy, which reveals the histological changes described above. Treatment is with high-dose glucocoicoids and immunosuppressants, as described for ANCA-associated vasculitis . Ref - Davidsons 23e p1042",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "72e797f7-efa6-4d82-ac89-bfb2f745949e": {
-    "cop": 2,
-    "exp": "Ans. B i.e. Posterior dislocation of hip joint Hip dislocation MC type: Posterior dislocation Attitude of limb in posterior dislocation: - Flexion, - Adduction, - Internal rotation Dislocation, which can be felt of per rectal examination: Central fracture dislocation"
+    "cop": 1,
+    "exp": "Ans. B i.e. Posterior dislocation of hip joint Hip dislocation MC type: Posterior dislocation Attitude of limb in posterior dislocation: - Flexion, - Adduction, - Internal rotation Dislocation, which can be felt of per rectal examination: Central fracture dislocation",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Flexion adduction internal rotation\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0dd30a04-54d9-42dd-b417-4f114c189726": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Tache noir If the eye lids are open for a few hours after death, a film of cell debris and mucous forms two yellow triangles on the sclera on either side of the iris , which become brown and then black called tache noir withing 3 - 4 hours."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Tache noir If the eye lids are open for a few hours after death, a film of cell debris and mucous forms two yellow triangles on the sclera on either side of the iris , which become brown and then black called tache noir withing 3 - 4 hours.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"few hours after death\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2a54f486-fdab-4d33-a6ea-35501eb7f5e5": {
-    "cop": 1,
-    "exp": "Putrefaction is arrested below 0°C and above 48°C as the activity of microorganism stops.\nPutrefaction is facilitated by free access of air, moisture and optimum temperature (10°C-45°C), so decomposition is fast in shallow damp, marshy graves in bodies without clothes and coffin."
+    "cop": 0,
+    "exp": "Putrefaction is arrested below 0°C and above 48°C as the activity of microorganism stops.\nPutrefaction is facilitated by free access of air, moisture and optimum temperature (10°C-45°C), so decomposition is fast in shallow damp, marshy graves in bodies without clothes and coffin.",
+    "hint_exp": "🎯 Think of \"Putrefaction facilitated following except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "82e6a0b8-3ab5-4372-b354-4da580355850": {
-    "cop": 3,
-    "exp": "Verapamil is a phenylalkalamine group of calcium channel blockers. All others mentioned in options are dihydropyridines. They are used in HTN, angina, Peripheral vascular disorders. REF.Essentials of Pharmacology KD Tripathi 8th ed."
+    "cop": 2,
+    "exp": "Verapamil is a phenylalkalamine group of calcium channel blockers. All others mentioned in options are dihydropyridines. They are used in HTN, angina, Peripheral vascular disorders. REF.Essentials of Pharmacology KD Tripathi 8th ed.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"dihydropyridines except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7f3bc856-0284-4faa-837f-64de7d88b0d2": {
-    "cop": 1,
-    "exp": "Different books have given different dose for IM route."
+    "cop": 0,
+    "exp": "Different books have given different dose for IM route.",
+    "hint_exp": "🧩 Your crush solved \"ketamine by IM route\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9ff62b15-3f4f-4ce3-8c4a-84c5db3276d3": {
-    "cop": 2,
-    "exp": "Garland triad, also known as the 1-2-3 sign or Pawnbrokers sign, is a lymph node enlargement pattern which has been described in Sarcoidosis: Right paratracheal nodes; Right hilar nodes and Left hilar nodes. Hilar lymphadenopathy is symmetrical and usually massive."
+    "cop": 1,
+    "exp": "Garland triad, also known as the 1-2-3 sign or Pawnbrokers sign, is a lymph node enlargement pattern which has been described in Sarcoidosis: Right paratracheal nodes; Right hilar nodes and Left hilar nodes. Hilar lymphadenopathy is symmetrical and usually massive.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"seen in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "75b49daa-8f9c-4800-8139-6da91c4e553a": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"GnRH analogue given following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "055cefac-a1d8-4189-8e00-7189fc5bf833": {
-    "cop": 3,
-    "exp": "A tipped occlusal plane will result in a shunting effect and loss of stability. That is, if the occlusal plane is lower in the molar area, there will be a tendency for the upper denture to be displaced posteriorly and the lower denture to be displaced anteriorly."
+    "cop": 2,
+    "exp": "A tipped occlusal plane will result in a shunting effect and loss of stability. That is, if the occlusal plane is lower in the molar area, there will be a tendency for the upper denture to be displaced posteriorly and the lower denture to be displaced anteriorly.",
+    "hint_exp": "🎯 Think of \"Shunting effect occurs complete\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0141f430-ae99-427e-b0c0-02db86fb2670": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"hour Avulsed tooth best\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "60da7ac6-e28f-4f3a-82d8-fa979b9fe001": {
-    "cop": 3,
-    "exp": "Harrison's textbook of internal medicine 17th edition . *Most impoant viruses causing the sporadic cases of encephalitis in immunocompetent adults are herpes viruses (HSV,VZV,EBV)."
+    "cop": 2,
+    "exp": "Harrison's textbook of internal medicine 17th edition . *Most impoant viruses causing the sporadic cases of encephalitis in immunocompetent adults are herpes viruses (HSV,VZV,EBV).",
+    "hint_exp": "🧩 Your crush solved \"of viral meningoencephalitis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "1a53ad53-23e3-4ba3-91e1-616301063bdd": {
-    "cop": 3,
-    "exp": "Neisseria meningitidis is a gram-negative pathogen that causes 20% of meningitis cases, the second most common cause of the disease. Bacteremia produced by this organism (meningococcemia) is characterized by high fever, hemorrhagic rashes (petechiae) often culminating in disseminated intravascular coagulation, and circulatory collapse (Waterhouse-Friderichsen syndrome). Meningitis is the most common complication of meningococcemia. The endotoxin (lipopolysaccharide) associated with the outer membrane of the cell wall of this organism is responsible for these symptoms. Capsular polysaccharides and outer membrane proteins are useful antigenic markers for the classification of this organism but do not contribute to the development of septicemic shock. Ref: Ray C.G., Ryan K.J. (2010). Chapter 30. Neisseria. In C.G. Ray, K.J. Ryan (Eds),Sherris Medical Microbiology, 5e."
+    "cop": 2,
+    "exp": "Neisseria meningitidis is a gram-negative pathogen that causes 20% of meningitis cases, the second most common cause of the disease. Bacteremia produced by this organism (meningococcemia) is characterized by high fever, hemorrhagic rashes (petechiae) often culminating in disseminated intravascular coagulation, and circulatory collapse (Waterhouse-Friderichsen syndrome). Meningitis is the most common complication of meningococcemia. The endotoxin (lipopolysaccharide) associated with the outer membrane of the cell wall of this organism is responsible for these symptoms. Capsular polysaccharides and outer membrane proteins are useful antigenic markers for the classification of this organism but do not contribute to the development of septicemic shock. Ref: Ray C.G., Ryan K.J. (2010). Chapter 30. Neisseria. In C.G. Ray, K.J. Ryan (Eds),Sherris Medical Microbiology, 5e.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"most likely candidate responsible\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b44c8ced-84d3-4ed2-a7d7-994375ab7107": {
-    "cop": 1,
-    "exp": "The stimulus for the corpus luteum to continue its function of progesterone production is LH. This stops after the 10th day of its formation in the absence of pregnancy. As the corpus luteum involutes, the levels of estrogen and progesterone falls and leads to a withdrawl bleed due to absence of progesterone that was suppoing the estrogen primed endometrium. Once pregnancy ensues , the hCG made from the syncytiotrophoblast is the stimulator for continuous corpus luteum function till around 12th week of gestation after which the placenta takes over the function of pregnancy maintenance."
+    "cop": 0,
+    "exp": "The stimulus for the corpus luteum to continue its function of progesterone production is LH. This stops after the 10th day of its formation in the absence of pregnancy. As the corpus luteum involutes, the levels of estrogen and progesterone falls and leads to a withdrawl bleed due to absence of progesterone that was suppoing the estrogen primed endometrium. Once pregnancy ensues , the hCG made from the syncytiotrophoblast is the stimulator for continuous corpus luteum function till around 12th week of gestation after which the placenta takes over the function of pregnancy maintenance.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"can\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ad7af5a5-8676-47f7-847f-6f3a32c58ee4": {
-    "cop": 2,
-    "exp": "Peripheral blood pictureBone marrow picture1.Macrocytosis (| MCV, MCH. Normal MCHC)2.Peripheral smearMacroovalocytes Few nucleated RBCsEvidence of dyserythropoiesis like--Basophilic stippling-Cabot ring-Howell- Jolly bodies3.| Hb4.| Hematocrit 5.Reticulocyte count - Normal or mild decrease6.White cells- Leucopenia7.Hypersegmented neutrophils/ Macropolycytes- First manifestation 8.| Platelets9.Pancytopenia (10-20%)Lab investigations:10.Serum iron, ferritin - | in pure VitB12/ Folate defect11.Serum bilirubin & LDH |- due to hemolytic component12.Schillings test: Used to assess status of intrinsic factor (IF) & Vit B12 to distinguish pernicious anemia from other causes of Vit.B12 deficiency.1.Moderate- marked hypercellularity2.Erythroid hyperplasia3.M:E ratio reversal4.Ehropoiesis- Megaloblastic5.Giant metamyelocytes6.Mildly reduced megakaryocytes7.BM iron moderately increased in pure Vit B12/ Folate defects.(Ref: Harrison 18/e p866, 17/e p645-646, Tejinder Singh 2/e p54-61)"
+    "cop": 1,
+    "exp": "Peripheral blood pictureBone marrow picture1.Macrocytosis (| MCV, MCH. Normal MCHC)2.Peripheral smearMacroovalocytes Few nucleated RBCsEvidence of dyserythropoiesis like--Basophilic stippling-Cabot ring-Howell- Jolly bodies3.| Hb4.| Hematocrit 5.Reticulocyte count - Normal or mild decrease6.White cells- Leucopenia7.Hypersegmented neutrophils/ Macropolycytes- First manifestation 8.| Platelets9.Pancytopenia (10-20%)Lab investigations:10.Serum iron, ferritin - | in pure VitB12/ Folate defect11.Serum bilirubin & LDH |- due to hemolytic component12.Schillings test: Used to assess status of intrinsic factor (IF) & Vit B12 to distinguish pernicious anemia from other causes of Vit.B12 deficiency.1.Moderate- marked hypercellularity2.Erythroid hyperplasia3.M:E ratio reversal4.Ehropoiesis- Megaloblastic5.Giant metamyelocytes6.Mildly reduced megakaryocytes7.BM iron moderately increased in pure Vit B12/ Folate defects.(Ref: Harrison 18/e p866, 17/e p645-646, Tejinder Singh 2/e p54-61)",
+    "hint_exp": "🎯 Think of \"megaloblastic anemia\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "207ff261-d7a2-495c-a2cb-75979c43268b": {
-    "cop": 4,
-    "exp": "Ans. is 'd'' i.e., All of the above Causes of facial paralysis Central :- Brain abscess, pontine glioma, Polio, multiple sclerosis Intracranial pa (cerebellopontine angle) :- Acoustic neuroma, meningioma, congenital cholesteatoma, metastatic carcinoma, meningitis Intratemporal pa :- Idiopathic :- Bell's palsy, Melkersson's syndrome Infections :- ASOM, CSOM, Herpes zoster oticus, malignant otitis externa Trauma :- Surgical (mastoidectomy, stapedectomy), accidental (fractures of temporal bone) Neoplasms :- Malignancies of external and middle ear, glomus jugular, facial nerve neuroma, metastasis (from breast, lung etc). Extracranial pa :- Malignancies or surgery or injury to parotid gland Systemic diseases :- Diabetes, hypothyroidism, uremia, PAN, Sarcoidosis (Heerfordt's syndrome), leprosy, leukaemia, demyelinating disease"
+    "cop": 3,
+    "exp": "Ans. is 'd'' i.e., All of the above Causes of facial paralysis Central :- Brain abscess, pontine glioma, Polio, multiple sclerosis Intracranial pa (cerebellopontine angle) :- Acoustic neuroma, meningioma, congenital cholesteatoma, metastatic carcinoma, meningitis Intratemporal pa :- Idiopathic :- Bell's palsy, Melkersson's syndrome Infections :- ASOM, CSOM, Herpes zoster oticus, malignant otitis externa Trauma :- Surgical (mastoidectomy, stapedectomy), accidental (fractures of temporal bone) Neoplasms :- Malignancies of external and middle ear, glomus jugular, facial nerve neuroma, metastasis (from breast, lung etc). Extracranial pa :- Malignancies or surgery or injury to parotid gland Systemic diseases :- Diabetes, hypothyroidism, uremia, PAN, Sarcoidosis (Heerfordt's syndrome), leprosy, leukaemia, demyelinating disease",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Facial nerve palsy caused\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "076fb9b6-f502-400a-abad-a87cce2f279c": {
-    "cop": 3,
-    "exp": "Sudden painful loss of vision * Acute congestive glaucomas (primary or secondary) * Acute iridocyclitis * Chemical injuries to the eyeball * Mechanical injuries to the eyeball Optic neuritis Reference : Ophthalmopalgy khurana 6th edition page 494"
+    "cop": 2,
+    "exp": "Sudden painful loss of vision * Acute congestive glaucomas (primary or secondary) * Acute iridocyclitis * Chemical injuries to the eyeball * Mechanical injuries to the eyeball Optic neuritis Reference : Ophthalmopalgy khurana 6th edition page 494",
+    "hint_exp": "🧩 Your crush solved \"vision\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ebc65e94-a2ca-4748-9865-c7e9170628ed": {
-    "cop": 4,
-    "exp": "D i.e. All"
+    "cop": 3,
+    "exp": "D i.e. All",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Dying declaration recieved\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "37ec19e8-8eb3-4bcd-a004-a3e57312d565": {
-    "cop": 1,
-    "exp": "Ans- (a) Disseminated Intravascular coagulationRef: Robbin's pathology 9th ed. /317-18, 612, 663* Acute promyelocytic leukemia (APL) is characterized by more severe hemorrhagic phenomena than those of other acute leukemias.* The hemorrhagic diathesis results from disseminated intravascular coagulation.* About 40 percent of patients with APL have a chromosomal abnormality with translocation from the long arm of 17 to 15 (t 15q;17q)* The patient may present with massive ecchymoses, hematuria, epistaxis, or meno-metrorrhagia."
+    "cop": 0,
+    "exp": "Ans- (a) Disseminated Intravascular coagulationRef: Robbin's pathology 9th ed. /317-18, 612, 663* Acute promyelocytic leukemia (APL) is characterized by more severe hemorrhagic phenomena than those of other acute leukemias.* The hemorrhagic diathesis results from disseminated intravascular coagulation.* About 40 percent of patients with APL have a chromosomal abnormality with translocation from the long arm of 17 to 15 (t 15q;17q)* The patient may present with massive ecchymoses, hematuria, epistaxis, or meno-metrorrhagia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Acute Promyelocytic Leukemia\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a0d180e6-c924-49e5-aeb8-924cd6bccd24": {
-    "cop": 1,
-    "exp": "Ans. (a) IohexolRef: Shackelford, 7th Edition, Page 86Contrasts to detect leak and perforation:Two contrasts are commonly used to detect perforation* Barium* Water soluble contrasts:# Low osmolar: Iohexol, Metrizamide# High Osmolar: Diatrazoate (Gastrograffin)* High osmolar Gastrograffin (Diatrozoate meglumine): has more chances of pulmonary edema than low osmolar contrasts like Iohexol (Omnipaque) and metrizamide (Amnipaque).In conclusion:* Best to diagnose perforations - High density Barium* Safest in usage: Low osmolar Water soluble contrasts like Iohexol and Metrizamide"
+    "cop": 0,
+    "exp": "Ans. (a) IohexolRef: Shackelford, 7th Edition, Page 86Contrasts to detect leak and perforation:Two contrasts are commonly used to detect perforation* Barium* Water soluble contrasts:# Low osmolar: Iohexol, Metrizamide# High Osmolar: Diatrazoate (Gastrograffin)* High osmolar Gastrograffin (Diatrozoate meglumine): has more chances of pulmonary edema than low osmolar contrasts like Iohexol (Omnipaque) and metrizamide (Amnipaque).In conclusion:* Best to diagnose perforations - High density Barium* Safest in usage: Low osmolar Water soluble contrasts like Iohexol and Metrizamide",
+    "hint_exp": "🎯 Think of \"esophageal perforation\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bab0f7d3-b70f-4054-922c-5bff49ddc1bb": {
-    "cop": 3,
-    "exp": "In Multiple Myeloma, On X-ray lytic lesions are seen. Bone scan is normal. Level of alkaline phosphate in the blood is normal, (despite extensive bone involvement). Generalize body pain is the commonest presentation. Hypercalcemia raised ESR, Anemia, are the features. Raised b2 microglobulin is a poor prognostic feature."
+    "cop": 2,
+    "exp": "In Multiple Myeloma, On X-ray lytic lesions are seen. Bone scan is normal. Level of alkaline phosphate in the blood is normal, (despite extensive bone involvement). Generalize body pain is the commonest presentation. Hypercalcemia raised ESR, Anemia, are the features. Raised b2 microglobulin is a poor prognostic feature.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following statements\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4a2deedf-8979-45fb-95fa-37b911b0eeae": {
-    "cop": 2,
-    "exp": "karl Pearson formula for reconstruction of stature from dried long bones. Male female Stature 81.306 + 1.880F 72.884 + 1.945F Stature 70.641 + 2.894H 71.475 + 2.754 H Stature 78.664 + 2.376T 74.774 + 2.353T Stature 89.925 + 3.271R 81.224 + 3.343R F is femur, H is humerus, T is tibia, R is radius. The measurements are in centimeters. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE NO 96"
+    "cop": 1,
+    "exp": "karl Pearson formula for reconstruction of stature from dried long bones. Male female Stature 81.306 + 1.880F 72.884 + 1.945F Stature 70.641 + 2.894H 71.475 + 2.754 H Stature 78.664 + 2.376T 74.774 + 2.353T Stature 89.925 + 3.271R 81.224 + 3.343R F is femur, H is humerus, T is tibia, R is radius. The measurements are in centimeters. Ref: FORENSIC MEDICINE AND TOXICOLOGY Dr PC IGNATIUS THIRD EDITION PAGE NO 96",
+    "hint_exp": "🧩 Your crush solved \"used for calculating\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f485c4d9-08e9-4d5d-867a-68e3cc9f2d21": {
-    "cop": 4,
-    "exp": "Lichenification is seen in Stratum malpighii (stratum Spinosum along with stratum basale) LICHENIFICATION- Thickening of the epidermis (and to some extent also of the dermis) in response to prolonged rubbing. It is a secondary skin hyperophy ; thick, leathery skin, giving the skin a leathery bark-like appearance. It is a common consequence of atopic dermatitis;eczema and other pruritic disorders. Associated with acanthosis( thickening of stratum spinosum)"
+    "cop": 3,
+    "exp": "Lichenification is seen in Stratum malpighii (stratum Spinosum along with stratum basale) LICHENIFICATION- Thickening of the epidermis (and to some extent also of the dermis) in response to prolonged rubbing. It is a secondary skin hyperophy ; thick, leathery skin, giving the skin a leathery bark-like appearance. It is a common consequence of atopic dermatitis;eczema and other pruritic disorders. Associated with acanthosis( thickening of stratum spinosum)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Lichenification occurs which layer\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "78de7629-2df8-4800-8451-e01720f2310e": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., E. coli O157/H7EHEC (Enterohemorrhagic E. coliA/erocytotoxin producing E coli) - produces verotoxin (VT) whose major target is vascular endothelial cells - Hemolytic uremic syndrome (HUS), Hemorrhagic colitis - ."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., E. coli O157/H7EHEC (Enterohemorrhagic E. coliA/erocytotoxin producing E coli) - produces verotoxin (VT) whose major target is vascular endothelial cells - Hemolytic uremic syndrome (HUS), Hemorrhagic colitis - .",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"infant brought emergency room\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "360d12e9-e134-4e24-8509-8eebb3deb80d": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Lack of temporal association It is the presence of temporal association (not lack or absence) that forms a criteria for causal relationship. Criteria that suggest causal relationship (Bradford Hill's criteria) o Likehood of a causal relationship is increased by the presence of the following criteria. 1) Temporal association 2) Strength of association 3) Specificity of association 4) Consistency of association 5) Biological plausibility 6) Coherence of association o Hill's criteria (sometimes also known as 'Surgeon general's Criteria' of causal association): in epidemiology are Analogous to Koch Postulates (of causal association between a microbe and disease) in microbiology."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Lack of temporal association It is the presence of temporal association (not lack or absence) that forms a criteria for causal relationship. Criteria that suggest causal relationship (Bradford Hill's criteria) o Likehood of a causal relationship is increased by the presence of the following criteria. 1) Temporal association 2) Strength of association 3) Specificity of association 4) Consistency of association 5) Biological plausibility 6) Coherence of association o Hill's criteria (sometimes also known as 'Surgeon general's Criteria' of causal association): in epidemiology are Analogous to Koch Postulates (of causal association between a microbe and disease) in microbiology.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "38c945f4-9680-449f-a56c-3ea5a975f5a1": {
-    "cop": 4,
-    "exp": "Inappropriate laughter is a feature of Angelman syndrome."
+    "cop": 3,
+    "exp": "Inappropriate laughter is a feature of Angelman syndrome.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "de7ee8a9-b042-4cd8-87f4-f4e02d2969e3": {
-    "cop": 1,
-    "exp": "Respiratory alkalosis - intracellular shift Na+ K+ PO4 2- inside Respiratory acidosis - shift of Na+ K+ PO4 2- outside Therefore K+ | ans. is (A)"
+    "cop": 0,
+    "exp": "Respiratory alkalosis - intracellular shift Na+ K+ PO4 2- inside Respiratory acidosis - shift of Na+ K+ PO4 2- outside Therefore K+ | ans. is (A)",
+    "hint_exp": "🧩 Your crush solved \"acid imbalance\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "62487962-df1c-483e-8f89-5c34d5b10169": {
-    "cop": 3,
-    "exp": "Shouldice repair is a method of hernia repair in which the inguinal floor is strengthened by just approximation of tissue using non-absorbable sutures. No mesh is used.\n\n\nManagement of Groin hernias (mainly inguinal hernia)  \nThere are 2 objectives of t/t :\nTreatment of the hernial sac\nIn Indirect hernias, the sac is dissected free from the cord structures and cremastric fibres. The sac is opened and the herniated contents are reduced. Then the sac is ligated at the internal inguinal ring. Alternatively the hernial sac may be invaginated back into the abdomen without ligation.\nDirect sacs are usually too broad based for ligation and should not be opened but instead are simply inverted into the peritoneal cavity.\nInguinal floor reconstruction\n\nManagement of the hernial sac is sufficient for children and young adults, but some method of reconstruction (repair or strengthening) of the inguinal floor is necessary for all adult hernias to prevent recurrence.\n3 broad categories of repair are available\n\n\nPrimary tissue repair\nAnterior tension-free mesh repairs\nPreperitoneal repairs - open & the laparoscopic approach\n\na) Primary tissue repair\n\nIn this method, the post wall of inguinal canal is strengthened by just approximation of tissues with sutures. There is no use of any prosthetic material.\nPrimary repairs without mesh were the mainstay of hernia surgery for decades. The advantages are simplicity of the repair and absence of any foreign body in the groin. Disadvantages include higher recurrence rates due to tension on the repair and a slower return to unrestricted physical activity. Consequently, tension free mesh repairs have now become the dominant method of inguinal hernia repair.\nCommonly performed primary tissue repairs are\n\n\nBassini repair\nHalsted repair\nMcVay (Cooper ligament) repair\nShouldice repair\nDarn repair\n\n\nDarn repair gets its name from the way a long nylon suture repeatedly passed between the tissues to create a weave that one might consider similar to mesh.\n\nAnterior tension-free mesh repair\nRecognizing that tension in a repair is the principal cause of recurrence, current practices in hernia management employ a synthetic mesh prosthesis to bridge the defect\n\nRecurrence rate is quite low with these techniques\nCommon employed techniques are\n\n Lichtenstein repair\nIn Lichtenstein repair a piece of polypropylene mesh is used to reconstruct the inguinal floor.\n\nThe mesh is sutured to the abdominal fascia.\nRecurrence rate is quite low\n\nPatch and plug technique\nIn this method, a plug of the mesh is inserted into the hernial defect (i.e. an internal ring in an Indirect hernia) and sutured in place. Then another piece of mesh is placed over the inguinal floor which may or may not be sutured to the fascia.\nLaparoscopic and Preperitoneal repairs\n\nThe laparoscopic hernia repair is based on the technique of 'Stoppa', who used an open preperitoneal approach to reduce the hernia and placed a large piece of mesh to cover the entire inguinal floor and myopectineal orifice. Preperitoneal hernia repairs may also be performed without mesh, but its rarely used now.\nIn Laparoscopic hernia repair, the preperitoneal space is reached by either transabdominal laparoscopy (TAPP) or by a totally extraperitoneal repair (TEP)\nBoth techniques are similar in actual repair but differ in the manner by which the preperitoneal space is accessed.\n\nTAPP (Trans-abdominal pre-peritoneal)\n\nin the TAPP repair, the peritoneal space is entered by conventional laparoscopy and then the preperitoneum overlying the inguinal floor is dissected away as a flap.\n\nTEP (totally extraperitoneal repair)\n\nin TEP repair the preperitoneal space is accessed without entering the peritoneal cavity.\n\nChoice of Anesthesia\n\n\nHere there is a difference of opinion b/w Schwartz Surgery (8/e, p 1368) & Washington Manual of Surgery (4/e, p 511)\n\nAccording to the Washington Manual of Surgery\n\nlocal anaesthesia is the preferred anaesthetic for elective open repair.\nLaparoscopic hernia repair has been carried out under local or regional anaesthesia, but is more commonly done under General anaesthesia.\n\nAccording to Schwartz Surgery\n\nGeneral anaesthesia is the preferred choice for open as well as laparoscopic repair."
+    "cop": 2,
+    "exp": "Shouldice repair is a method of hernia repair in which the inguinal floor is strengthened by just approximation of tissue using non-absorbable sutures. No mesh is used.\n\n\nManagement of Groin hernias (mainly inguinal hernia)  \nThere are 2 objectives of t/t :\nTreatment of the hernial sac\nIn Indirect hernias, the sac is dissected free from the cord structures and cremastric fibres. The sac is opened and the herniated contents are reduced. Then the sac is ligated at the internal inguinal ring. Alternatively the hernial sac may be invaginated back into the abdomen without ligation.\nDirect sacs are usually too broad based for ligation and should not be opened but instead are simply inverted into the peritoneal cavity.\nInguinal floor reconstruction\n\nManagement of the hernial sac is sufficient for children and young adults, but some method of reconstruction (repair or strengthening) of the inguinal floor is necessary for all adult hernias to prevent recurrence.\n3 broad categories of repair are available\n\n\nPrimary tissue repair\nAnterior tension-free mesh repairs\nPreperitoneal repairs - open & the laparoscopic approach\n\na) Primary tissue repair\n\nIn this method, the post wall of inguinal canal is strengthened by just approximation of tissues with sutures. There is no use of any prosthetic material.\nPrimary repairs without mesh were the mainstay of hernia surgery for decades. The advantages are simplicity of the repair and absence of any foreign body in the groin. Disadvantages include higher recurrence rates due to tension on the repair and a slower return to unrestricted physical activity. Consequently, tension free mesh repairs have now become the dominant method of inguinal hernia repair.\nCommonly performed primary tissue repairs are\n\n\nBassini repair\nHalsted repair\nMcVay (Cooper ligament) repair\nShouldice repair\nDarn repair\n\n\nDarn repair gets its name from the way a long nylon suture repeatedly passed between the tissues to create a weave that one might consider similar to mesh.\n\nAnterior tension-free mesh repair\nRecognizing that tension in a repair is the principal cause of recurrence, current practices in hernia management employ a synthetic mesh prosthesis to bridge the defect\n\nRecurrence rate is quite low with these techniques\nCommon employed techniques are\n\n Lichtenstein repair\nIn Lichtenstein repair a piece of polypropylene mesh is used to reconstruct the inguinal floor.\n\nThe mesh is sutured to the abdominal fascia.\nRecurrence rate is quite low\n\nPatch and plug technique\nIn this method, a plug of the mesh is inserted into the hernial defect (i.e. an internal ring in an Indirect hernia) and sutured in place. Then another piece of mesh is placed over the inguinal floor which may or may not be sutured to the fascia.\nLaparoscopic and Preperitoneal repairs\n\nThe laparoscopic hernia repair is based on the technique of 'Stoppa', who used an open preperitoneal approach to reduce the hernia and placed a large piece of mesh to cover the entire inguinal floor and myopectineal orifice. Preperitoneal hernia repairs may also be performed without mesh, but its rarely used now.\nIn Laparoscopic hernia repair, the preperitoneal space is reached by either transabdominal laparoscopy (TAPP) or by a totally extraperitoneal repair (TEP)\nBoth techniques are similar in actual repair but differ in the manner by which the preperitoneal space is accessed.\n\nTAPP (Trans-abdominal pre-peritoneal)\n\nin the TAPP repair, the peritoneal space is entered by conventional laparoscopy and then the preperitoneum overlying the inguinal floor is dissected away as a flap.\n\nTEP (totally extraperitoneal repair)\n\nin TEP repair the preperitoneal space is accessed without entering the peritoneal cavity.\n\nChoice of Anesthesia\n\n\nHere there is a difference of opinion b/w Schwartz Surgery (8/e, p 1368) & Washington Manual of Surgery (4/e, p 511)\n\nAccording to the Washington Manual of Surgery\n\nlocal anaesthesia is the preferred anaesthetic for elective open repair.\nLaparoscopic hernia repair has been carried out under local or regional anaesthesia, but is more commonly done under General anaesthesia.\n\nAccording to Schwartz Surgery\n\nGeneral anaesthesia is the preferred choice for open as well as laparoscopic repair.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following statements\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "003f6a21-f5ad-4697-a276-a93c5eabf0b0": {
-    "cop": 1,
-    "exp": "A i.e. Type I Hypersensitivity"
+    "cop": 0,
+    "exp": "A i.e. Type I Hypersensitivity",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Spring catarrah\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5c647448-6a0d-4688-b365-f01a5f51022c": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0f25489f-99ec-49a2-8579-db63afa1c4e3": {
-    "cop": 4,
-    "exp": "Ans. D. All of the aboveAGORAPHOBIA* Irrational & undue phobia of a particular situation is known as agoraphobia.* This is an example of irrational fear of situation.* It is commonest type of phobia encountered in clinical practice.* Women outnumber men in suffering agoraphobias* It is characterized by irrational fear of being in places away from familiar setting of homes.* Although it was earlier thought to be a fear of open spaces only now it includes fear of open space, public places, crowded places, any other place where there is no escape from public view.* In fact, patient is afraid of all the places or situation from where escape may be difficult or help may not be available if he suddenly develops embarrassing or incapacitating symptoms.* These embarrassing or incapacitating symptoms are the classical symptoms of public phobia.* A full-blown panic attack may occur (agoraphobia with panic disorder) or only a few symptoms like dizziness or tachycardia may occur (agoraphobia without panic disorder)."
+    "cop": 3,
+    "exp": "Ans. D. All of the aboveAGORAPHOBIA* Irrational & undue phobia of a particular situation is known as agoraphobia.* This is an example of irrational fear of situation.* It is commonest type of phobia encountered in clinical practice.* Women outnumber men in suffering agoraphobias* It is characterized by irrational fear of being in places away from familiar setting of homes.* Although it was earlier thought to be a fear of open spaces only now it includes fear of open space, public places, crowded places, any other place where there is no escape from public view.* In fact, patient is afraid of all the places or situation from where escape may be difficult or help may not be available if he suddenly develops embarrassing or incapacitating symptoms.* These embarrassing or incapacitating symptoms are the classical symptoms of public phobia.* A full-blown panic attack may occur (agoraphobia with panic disorder) or only a few symptoms like dizziness or tachycardia may occur (agoraphobia without panic disorder).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following situation\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "14a395b1-8908-4912-a97f-0afb68b80841": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"K2SO4 agar agar\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

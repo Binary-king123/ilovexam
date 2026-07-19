@@ -1,202 +1,252 @@
 {
   "1fc227ee-4656-4023-989c-64480ec6e191": {
-    "cop": 1,
-    "exp": "Ans. A. 3-Hz spike-and-waves. (Ref. H - 17th/pg. 2498-2500, 2504-2505; 444).Harrison's 17th/pg. 2549.......\"The electrophysiologic hallmark of typical absence seizures is a generalized, symmetric, 3-Hz spike-and-wave discharge that begins and ends suddenly, superimposed on a normal EEG background\"Absence Seizures (Petit Mai)# \"The electrophysiologic hallmark of typical absence seizures is a generalized, symmetric, 3-Hz spike-and-wave discharge that begins and ends suddenly, superimposed on a normal EEG background\".# Periods of spike- and-wave discharges lasting more than a few seconds usually correlate with clinical signs, but the EEG often shows many more brief bursts of abnormal cortical activity than were suspected clinically.# Hyperventilation tends to provoke the electrographic discharges and even seizures and is used during EEG.# The episodic generalized spike-wave activity that occurs during and between seizures in patients with typical absence epilepsy contrasts with focal interictal epileptiform discharges or ictal patterns found in patients with complex partial seizures.Atypical Absence Seizures# have features that deviate both clinically and electrophysiologically from typical absence seizures.# For example, the lapse of consciousness is usually of longer duration and less abrupt in onset and cessation, and the seizure is accompanied by more obvious motor signs that may include focal or lateralizing features.# The EEG shows a generalized, slow spike-and-wave pattern with a frequency of <2-5/s, as well as other abnormal activity.Complex Partial Seizures# The routine interictal (i.e., between seizures) EEG in patients with complex partial seizures is often normal or may show brief discharges termed epileptiform spikes, or sharp waves.# Since complex partial seizures can arise from the medial temporal lobe or inferior frontal lobe, i.e., regions distant from the scalp, the EEG recorded during the seizure may be nonlocalizing.Generalized, Tonic-Clonic Seizures (Grand Mai)# The EEG during the tonic phase of the seizure shows a progressive increase in generalized low-voltage fast activity, followed by generalized high-amplitude, polyspike discharges.# In the clonic phase, the high-amplitude activity is typically interrupted by slow waves to create a spike-and-wave pattern. The postictal EEG shows diffuse slowing that gradually recovers as the patient awakens.Atonic Seizures# Atonic seizures are characterized by sudden loss of postural muscle tone lasting 1-2 s. Consciousness is briefly impaired, but there is usually no postictal confusion.# A very brief seizure may cause only a quick head drop or nodding movement, while a longer seizure will cause the patient to collapse. This can be extremely dangerous, since there is a substantial risk of direct head injury with the fall.# The EEG shows brief, generalized spike-and-wave discharges followed immediately by diffuse slow waves that correlate with the loss of muscle tone.Myoclonic Seizures# Myoclonus is a sudden and brief muscle contraction that may involve one part of the body or the entire body.# A normal, common physiologic form of myoclonus is the sudden jerking movement observed while falling asleep. Pathologic myoclonus is most commonly seen in association with metabolic disorders, degenerative CNS diseases, or anoxic brain injury.# Although the distinction from other forms of myoclonus is imprecise, myoclonic seizures are considered to be true epileptic events since they are caused by cortical (versus subcortical or spinal) dysfunction.# The EEG may show bilaterally synchronous spike-and-wave discharges synchronized with the myoclonus, although these can be obscured by movement artifact.LENNOX-GASTAUT SYNDROMELennox-Gastaut syndrome occurs in children and is defined by the following triad:1) multiple seizure types (usually including generalized tonic-clonic, atonic, and atypical absence seizures);2) an EEG showing slow (<3 Hz) spike-and-wave discharges and a variety of other ab- normalities; and3) impaired cognitive function in most but not all cases.Partial (focal) seizuresAffect one area of the brain. Most commonly originate in medial temporal lobe. Often preceded by seizure aura; can secondarily generalize. Types:# Simple partial (consciousness intact)-- motor, sensory, autonomic, psychic# Complex partial (impaired consciousness).Generalized seizuresDiffuse. Types:# Absence (petit mal)--3 Hz, no postictal confusion, blank stare# Myoclonic--quick, repetitive jerks# Tonic-clonic (grand mal)--alternating stiffening and movement# Tonic--stiffening# Atonic--\"drop\" seizures (fails to floor); commonly mistaken for faintingAdditional Educational points:EEG:# NORMAL:- The frequencies most brain waves range from are 0.5-500 Hz; imp categories are-* Alpha waves - 8-13 Hz* Beta waves - Greater than 13 Hz* Theta waves - 3.5-7.5 Hz* Delta waves - 3 Hz or less- In normal awake adults lying quietly with the eyes closed, an 8- to 13-Hz alpha rhythm is seen posteriorly in the EEG, intermixed with a variable amount of generalized faster (beta) activity (>13 Hz); the alpha rhythm is attenuated when the eyes are opened. During drowsiness, the alpha rhythm is also attenuated; with light sleep, slower activity in the theta (4-7 Hz) and delta (<4 Hz) ranges becomes more conspicuous.Some more Specific diagnostic patterns of EEG: PatternDiagnostic ofComments1Periodic lateralizing epileptiform discharges (PLEDs)acute focal cerebral insult like HSVif bilateral diagnostic of HSV2Periodic high voltage with 4-15 secs separation with accompanying body jerks, no change with painful stimulation.Pathognomoic of SSPEd/d is PCP overdose3Myoclonic jerks with bilateral sharp wave 1.5-2 / secs (early = slowing; later=triphasic).Creutzfeldt Jakob diseaseMay resemble PLEDs, but contrary to them in CJD are not reactive to painful stimuli.4Triphasic wavesMay be seen in hepatic enceph, postanoxia, hyponatremiaNot a specific pattern"
+    "cop": 0,
+    "exp": "Ans. A. 3-Hz spike-and-waves. (Ref. H - 17th/pg. 2498-2500, 2504-2505; 444).Harrison's 17th/pg. 2549.......\"The electrophysiologic hallmark of typical absence seizures is a generalized, symmetric, 3-Hz spike-and-wave discharge that begins and ends suddenly, superimposed on a normal EEG background\"Absence Seizures (Petit Mai)# \"The electrophysiologic hallmark of typical absence seizures is a generalized, symmetric, 3-Hz spike-and-wave discharge that begins and ends suddenly, superimposed on a normal EEG background\".# Periods of spike- and-wave discharges lasting more than a few seconds usually correlate with clinical signs, but the EEG often shows many more brief bursts of abnormal cortical activity than were suspected clinically.# Hyperventilation tends to provoke the electrographic discharges and even seizures and is used during EEG.# The episodic generalized spike-wave activity that occurs during and between seizures in patients with typical absence epilepsy contrasts with focal interictal epileptiform discharges or ictal patterns found in patients with complex partial seizures.Atypical Absence Seizures# have features that deviate both clinically and electrophysiologically from typical absence seizures.# For example, the lapse of consciousness is usually of longer duration and less abrupt in onset and cessation, and the seizure is accompanied by more obvious motor signs that may include focal or lateralizing features.# The EEG shows a generalized, slow spike-and-wave pattern with a frequency of <2-5/s, as well as other abnormal activity.Complex Partial Seizures# The routine interictal (i.e., between seizures) EEG in patients with complex partial seizures is often normal or may show brief discharges termed epileptiform spikes, or sharp waves.# Since complex partial seizures can arise from the medial temporal lobe or inferior frontal lobe, i.e., regions distant from the scalp, the EEG recorded during the seizure may be nonlocalizing.Generalized, Tonic-Clonic Seizures (Grand Mai)# The EEG during the tonic phase of the seizure shows a progressive increase in generalized low-voltage fast activity, followed by generalized high-amplitude, polyspike discharges.# In the clonic phase, the high-amplitude activity is typically interrupted by slow waves to create a spike-and-wave pattern. The postictal EEG shows diffuse slowing that gradually recovers as the patient awakens.Atonic Seizures# Atonic seizures are characterized by sudden loss of postural muscle tone lasting 1-2 s. Consciousness is briefly impaired, but there is usually no postictal confusion.# A very brief seizure may cause only a quick head drop or nodding movement, while a longer seizure will cause the patient to collapse. This can be extremely dangerous, since there is a substantial risk of direct head injury with the fall.# The EEG shows brief, generalized spike-and-wave discharges followed immediately by diffuse slow waves that correlate with the loss of muscle tone.Myoclonic Seizures# Myoclonus is a sudden and brief muscle contraction that may involve one part of the body or the entire body.# A normal, common physiologic form of myoclonus is the sudden jerking movement observed while falling asleep. Pathologic myoclonus is most commonly seen in association with metabolic disorders, degenerative CNS diseases, or anoxic brain injury.# Although the distinction from other forms of myoclonus is imprecise, myoclonic seizures are considered to be true epileptic events since they are caused by cortical (versus subcortical or spinal) dysfunction.# The EEG may show bilaterally synchronous spike-and-wave discharges synchronized with the myoclonus, although these can be obscured by movement artifact.LENNOX-GASTAUT SYNDROMELennox-Gastaut syndrome occurs in children and is defined by the following triad:1) multiple seizure types (usually including generalized tonic-clonic, atonic, and atypical absence seizures);2) an EEG showing slow (<3 Hz) spike-and-wave discharges and a variety of other ab- normalities; and3) impaired cognitive function in most but not all cases.Partial (focal) seizuresAffect one area of the brain. Most commonly originate in medial temporal lobe. Often preceded by seizure aura; can secondarily generalize. Types:# Simple partial (consciousness intact)-- motor, sensory, autonomic, psychic# Complex partial (impaired consciousness).Generalized seizuresDiffuse. Types:# Absence (petit mal)--3 Hz, no postictal confusion, blank stare# Myoclonic--quick, repetitive jerks# Tonic-clonic (grand mal)--alternating stiffening and movement# Tonic--stiffening# Atonic--\"drop\" seizures (fails to floor); commonly mistaken for faintingAdditional Educational points:EEG:# NORMAL:- The frequencies most brain waves range from are 0.5-500 Hz; imp categories are-* Alpha waves - 8-13 Hz* Beta waves - Greater than 13 Hz* Theta waves - 3.5-7.5 Hz* Delta waves - 3 Hz or less- In normal awake adults lying quietly with the eyes closed, an 8- to 13-Hz alpha rhythm is seen posteriorly in the EEG, intermixed with a variable amount of generalized faster (beta) activity (>13 Hz); the alpha rhythm is attenuated when the eyes are opened. During drowsiness, the alpha rhythm is also attenuated; with light sleep, slower activity in the theta (4-7 Hz) and delta (<4 Hz) ranges becomes more conspicuous.Some more Specific diagnostic patterns of EEG: PatternDiagnostic ofComments1Periodic lateralizing epileptiform discharges (PLEDs)acute focal cerebral insult like HSVif bilateral diagnostic of HSV2Periodic high voltage with 4-15 secs separation with accompanying body jerks, no change with painful stimulation.Pathognomoic of SSPEd/d is PCP overdose3Myoclonic jerks with bilateral sharp wave 1.5-2 / secs (early = slowing; later=triphasic).Creutzfeldt Jakob diseaseMay resemble PLEDs, but contrary to them in CJD are not reactive to painful stimuli.4Triphasic wavesMay be seen in hepatic enceph, postanoxia, hyponatremiaNot a specific pattern",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Absence seizures\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4836a244-f913-4e6a-8acf-85d18596a110": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"gypsum products\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1247de1a-3416-4982-95b1-f8fb1ae57864": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Alpha Ig G y (gamma)Ig Aa (alpha)IgM 1.1 (mu)Ig D(delta)Ig E e (epsilon)"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Alpha Ig G y (gamma)Ig Aa (alpha)IgM 1.1 (mu)Ig D(delta)Ig E e (epsilon)",
+    "hint_exp": "🎯 Think of \"of IgA\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7b61e2ac-631e-4dee-9c76-12354e06826e": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., C.R.L* GA in the first trimester is usually calculated from the fetal crown-rump length (CRL). This is the longest demonstrable length of the embryo or fetus, excluding the limbs and the yolk sac.* The GA estimate has a 95% confidence interval of plus or minus 6 days, and it is most accurate between 7 and 10 weeks' amenorrhea.* Fetal biometry in the second trimester can yield acceptably accurate estimates of GA from 12 to approximately 22 weeks of amenorrhea. The best parameters are the biparietal diameter (BPD) and the head circumference (HC)."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., C.R.L* GA in the first trimester is usually calculated from the fetal crown-rump length (CRL). This is the longest demonstrable length of the embryo or fetus, excluding the limbs and the yolk sac.* The GA estimate has a 95% confidence interval of plus or minus 6 days, and it is most accurate between 7 and 10 weeks' amenorrhea.* Fetal biometry in the second trimester can yield acceptably accurate estimates of GA from 12 to approximately 22 weeks of amenorrhea. The best parameters are the biparietal diameter (BPD) and the head circumference (HC).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"first trimeseter\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d35c4164-0b37-4328-8ad2-26a1330ce926": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"bishop score all\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f6e1239e-1158-44ec-8744-494ea331fe27": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., CD1a o The presence of Birbeck granules in the cytoplasm of tumor cells is characteristic of Langerhans cell histiocytosis. o As Birbeck granules are not seen in all tumor cells by election microscopy the detection of S-100 and CD1a expression by immunohistochemical techniques aids in the diagnosis. o Other immunohistochemical markers of Langerhans cell histiocytosis are HLA-DR, Langerin (CD 207), and CD 68."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., CD1a o The presence of Birbeck granules in the cytoplasm of tumor cells is characteristic of Langerhans cell histiocytosis. o As Birbeck granules are not seen in all tumor cells by election microscopy the detection of S-100 and CD1a expression by immunohistochemical techniques aids in the diagnosis. o Other immunohistochemical markers of Langerhans cell histiocytosis are HLA-DR, Langerin (CD 207), and CD 68.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year child presents with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "88aa5e97-4114-42e4-8916-3f416cf91c76": {
-    "cop": 1,
-    "exp": "5 days"
+    "cop": 0,
+    "exp": "5 days",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Lochia rubra seen\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a8c9dd23-923e-4600-89ec-d697b06c0259": {
-    "cop": 4,
-    "exp": "CPD"
+    "cop": 3,
+    "exp": "CPD",
+    "hint_exp": "🎯 Think of \"the fetus\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a0ec95d2-f77b-4aa4-8655-74f8e328b12f": {
-    "cop": 1,
-    "exp": "Multiple pus lakes and erythematous skin changes in pregnancy suggests the diagnosis of Impetigo herpetiformis (generalized pustular psoriasis of pregnancy or pustular dermatoses of pregnancy).\nImpetigo herpetiformis can usually be successfully treated with topical and systemic corticosteroids."
+    "cop": 0,
+    "exp": "Multiple pus lakes and erythematous skin changes in pregnancy suggests the diagnosis of Impetigo herpetiformis (generalized pustular psoriasis of pregnancy or pustular dermatoses of pregnancy).\nImpetigo herpetiformis can usually be successfully treated with topical and systemic corticosteroids.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"primigravida female presented with\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "386066d8-9dbb-41ea-b6fb-99137f2e5884": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"used to fabricate\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d6d043dd-88a9-4ce0-9119-bd41d8c5b003": {
-    "cop": 1,
-    "exp": "Nyctalopia(Night blindness) is the earliest symptom of vitamin A deficiency Loss of sensitivity to green light(500nm) is the earliest sign of vitamin A deficiency Up to the level of Stage 2, the manifestations are reversible if treated with vitamin A supplements. However, active conjunctival xerosis and Bitot's spots begin to resolve within 2--5 days after supplementation. Most will disappear within 2 weeks, although a significant propoion of temporal lesions may persist in shrunken form and may therefore not be completely reversible. Reference: Harpers illustrated biochemistry 30th edition"
+    "cop": 0,
+    "exp": "Nyctalopia(Night blindness) is the earliest symptom of vitamin A deficiency Loss of sensitivity to green light(500nm) is the earliest sign of vitamin A deficiency Up to the level of Stage 2, the manifestations are reversible if treated with vitamin A supplements. However, active conjunctival xerosis and Bitot's spots begin to resolve within 2--5 days after supplementation. Most will disappear within 2 weeks, although a significant propoion of temporal lesions may persist in shrunken form and may therefore not be completely reversible. Reference: Harpers illustrated biochemistry 30th edition",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"due to deficiency of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2a0ef973-680c-4abd-8126-d86152d48110": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Commonly involved muscle face\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b3e39eac-83a2-43c7-9e95-ee9bcc62a2d8": {
-    "cop": 4,
-    "exp": "The greater curvature is supplied by the right gastroepiploic aery which is the direct branch from the gastroduodenal aery .Right gastroepiploic aery runs between the layer of the greater omentum, anastomosing with the left gastro epiploic aery, a branch from the splenic aery. The gastroduodenal aery arises from the common hepatic aery of the celiac trunk. ref - BDC VOl2 pg277"
+    "cop": 3,
+    "exp": "The greater curvature is supplied by the right gastroepiploic aery which is the direct branch from the gastroduodenal aery .Right gastroepiploic aery runs between the layer of the greater omentum, anastomosing with the left gastro epiploic aery, a branch from the splenic aery. The gastroduodenal aery arises from the common hepatic aery of the celiac trunk. ref - BDC VOl2 pg277",
+    "hint_exp": "🎯 Think of \"the following aeries\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "90bc95c0-c99a-4f0d-b2e1-9504cbcf4ad8": {
-    "cop": 1,
-    "exp": "Upper two intercostal nerves also supply the upper limb,third to sixth supply only the thoracic wall.so they are called typical intetcostal nerves. . B D CHAURASIA&;S HUMAN ANATOMY UPPER LIMB THORAX-VOLUME-1 SIXTH EDITION Page no:217"
+    "cop": 0,
+    "exp": "Upper two intercostal nerves also supply the upper limb,third to sixth supply only the thoracic wall.so they are called typical intetcostal nerves. . B D CHAURASIA&;S HUMAN ANATOMY UPPER LIMB THORAX-VOLUME-1 SIXTH EDITION Page no:217",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"typical intercostal nerves except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "96b8fa94-2560-4da9-a33c-bbd31b305e6f": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "cc313bf4-7fe0-453f-a4bf-b4c9cadaaa03": {
-    "cop": 2,
-    "exp": "B i.e. Hypercarbia"
+    "cop": 1,
+    "exp": "B i.e. Hypercarbia",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Oxygen dissociation curve shift\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "35c42ab5-4871-41c6-b8e4-525b5455c074": {
-    "cop": 4,
-    "exp": "Ans. D i.e. Vitamin A"
+    "cop": 3,
+    "exp": "Ans. D i.e. Vitamin A",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Xerosis Xerophthalmia deficiency March\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "bf2a6243-f3a0-4f5d-b4e4-0426a82f2170": {
-    "cop": 1,
-    "exp": "The pathophysiology of acute respiratory distress syndrome involves fluid accumulation in the lungs not explained by hea failure (noncardiogenic pulmonary edema). Of these, the pathology most associated with ARDS is DAD, which is characterized by a diffuse inflammation of lung tissue. Ref Harrison20th edition pg 1059"
+    "cop": 0,
+    "exp": "The pathophysiology of acute respiratory distress syndrome involves fluid accumulation in the lungs not explained by hea failure (noncardiogenic pulmonary edema). Of these, the pathology most associated with ARDS is DAD, which is characterized by a diffuse inflammation of lung tissue. Ref Harrison20th edition pg 1059",
+    "hint_exp": "🎯 Think of \"SARS true\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "594e9879-4136-4a35-9d60-1d6ce767de75": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"brought emergency case head\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5eb70c74-e19c-401f-8072-3467835dfd1d": {
-    "cop": 1,
-    "exp": "Koebner phenomenon is typically seen in psoriasis. The kind of injury eliciting the phenomenon is usually mechanical, but ultraviolet light or allergic damage to the skin may be provocative. Koebner phenomenon can also occur in lichen planus, lichen nitidus, keratosis follicularis, and pemphigoid. The Koebner phenomenon has been used to study early skin changes in these diseases."
+    "cop": 0,
+    "exp": "Koebner phenomenon is typically seen in psoriasis. The kind of injury eliciting the phenomenon is usually mechanical, but ultraviolet light or allergic damage to the skin may be provocative. Koebner phenomenon can also occur in lichen planus, lichen nitidus, keratosis follicularis, and pemphigoid. The Koebner phenomenon has been used to study early skin changes in these diseases.",
+    "hint_exp": "🧩 Your crush solved \"year develops lesions sites\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e33afb78-e313-4c88-9bae-672d0cb0b6af": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Delusion of persecution Persecutory delusions (paranoid)* This is the most common type of delusion. The patient feels that he is being persecuted against.* There is false belief that one is being harmed, threatened, cheated, poisoned, harassed or spied on or is a victim of conspiracy to damage his reputation.* The supposed persecutor of the patient may be people in the environment (e.g., members of family, neighbors, former friend) or may be political or religious groups.* These delusions occur in schizophrenia (especially paranoid, severe affective disorders (sever mania or severe depression), and organic brain syndrome.* Delusion of persecution may occur in the context of primary delusional experiences, auditory hallucinations, bodily hallucinations or experiences of passivity."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Delusion of persecution Persecutory delusions (paranoid)* This is the most common type of delusion. The patient feels that he is being persecuted against.* There is false belief that one is being harmed, threatened, cheated, poisoned, harassed or spied on or is a victim of conspiracy to damage his reputation.* The supposed persecutor of the patient may be people in the environment (e.g., members of family, neighbors, former friend) or may be political or religious groups.* These delusions occur in schizophrenia (especially paranoid, severe affective disorders (sever mania or severe depression), and organic brain syndrome.* Delusion of persecution may occur in the context of primary delusional experiences, auditory hallucinations, bodily hallucinations or experiences of passivity.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"can be due to\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "bc3df9cd-8f28-4710-beb7-8861adc974be": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Assists Extension of elbow Anconeus* Anconeus originates on the posterior surface of the lateral epicondyle of the humerus and inserts distally on the posterior surface of the ulna.* Anconeus is innervated by a branch of the radial nerve* Its role in elbow extension is trivial in humans. It assists in extension of the elbow, where the triceps brachii is the principal agonist, and supports the elbow in full extension.* It also prevents the elbow joint capsule being pinched in the olecranon fossa during extension of the elbow."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Assists Extension of elbow Anconeus* Anconeus originates on the posterior surface of the lateral epicondyle of the humerus and inserts distally on the posterior surface of the ulna.* Anconeus is innervated by a branch of the radial nerve* Its role in elbow extension is trivial in humans. It assists in extension of the elbow, where the triceps brachii is the principal agonist, and supports the elbow in full extension.* It also prevents the elbow joint capsule being pinched in the olecranon fossa during extension of the elbow.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the action of anconeus\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c0a59a14-c6a5-4b79-8d3f-0d1a3cfc59f8": {
-    "cop": 1,
-    "exp": "Radiotherapy is to be staed within 10 days. Delay in staing radiotherapy for Wilms tumour can result in an increase in relapse rate"
+    "cop": 0,
+    "exp": "Radiotherapy is to be staed within 10 days. Delay in staing radiotherapy for Wilms tumour can result in an increase in relapse rate",
+    "hint_exp": "🎯 Think of \"Wilms tumour after surgery\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f3b15c6b-8898-4054-90a5-dac0ebfc0a54": {
-    "cop": 4,
-    "exp": "Rich sources are amla (Indian gooseberry) (700 mg/ 100 g), guava (300 mg/100 g), lime, lemon and green leafy vegetables."
+    "cop": 3,
+    "exp": "Rich sources are amla (Indian gooseberry) (700 mg/ 100 g), guava (300 mg/100 g), lime, lemon and green leafy vegetables.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"carnivores\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "cadfefa2-e0f4-4d86-83a7-bf2174c0189b": {
-    "cop": 4,
-    "exp": "Answer is D (Wegener's granulomatosis) Pulmonary Eosinophilia Extrinsic eosinophilic syndromes: Loeffler syndrome DRESS syndrome: The Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) syndrome Parasitic infections Schistosomiasis TPE: Tropical Pulmonary Eosinophilia. Bronchocentric granulomatosis Fungal causes: Allergic bronchopulmonary aspergillosis (ABPA) Strongyloidiasis Intrinsic pulmonary eosinophilic syndromes: Chronic eosinophilic pneumonia Idiopathic hypereosinophilic syndrome Churg-Strauss syndrome Eosinophilic granuloma (pulmonary histiocytosis X or Langerhans cell granulomatosis)."
+    "cop": 3,
+    "exp": "Answer is D (Wegener's granulomatosis) Pulmonary Eosinophilia Extrinsic eosinophilic syndromes: Loeffler syndrome DRESS syndrome: The Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) syndrome Parasitic infections Schistosomiasis TPE: Tropical Pulmonary Eosinophilia. Bronchocentric granulomatosis Fungal causes: Allergic bronchopulmonary aspergillosis (ABPA) Strongyloidiasis Intrinsic pulmonary eosinophilic syndromes: Chronic eosinophilic pneumonia Idiopathic hypereosinophilic syndrome Churg-Strauss syndrome Eosinophilic granuloma (pulmonary histiocytosis X or Langerhans cell granulomatosis).",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "779fffb3-03b6-47d3-a768-04468d89bea0": {
-    "cop": 4,
-    "exp": "Halothane and sevoflurane have smooth induction, so these are preferred agents for anesthesia in children."
+    "cop": 3,
+    "exp": "Halothane and sevoflurane have smooth induction, so these are preferred agents for anesthesia in children.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Anaesthetic that smooth induction\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "16dcef57-5ea0-42c5-b6a5-2a05f5a82973": {
-    "cop": 2,
-    "exp": "Ans. Posterior coex"
+    "cop": 1,
+    "exp": "Ans. Posterior coex",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Rosette shaped cataract most\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "54bb4634-9ad5-436b-b71d-3f13ea03984f": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"of low birth weight\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0703d8a5-b36e-47bc-bc0a-a7a1c07bd563": {
-    "cop": 2,
-    "exp": "Answer is B (Acute myeloid leukemia) The myeloproliferative disorders are characterized pathophysiologically by clonal expression of a multipotent hematopoitic progenitor cell with the overproduction of one or more of the formed elements of Blood. These disorders may transform into acute leukemia naturally or as a consequence of mutagenic treatment. Myeloproliferative disorders classically include: - Polycythemia veraQ - Idiopathic myelofibrosisQ - Essential thrombocytosisQ - Chronic myeloid leukemiaQ"
+    "cop": 1,
+    "exp": "Answer is B (Acute myeloid leukemia) The myeloproliferative disorders are characterized pathophysiologically by clonal expression of a multipotent hematopoitic progenitor cell with the overproduction of one or more of the formed elements of Blood. These disorders may transform into acute leukemia naturally or as a consequence of mutagenic treatment. Myeloproliferative disorders classically include: - Polycythemia veraQ - Idiopathic myelofibrosisQ - Essential thrombocytosisQ - Chronic myeloid leukemiaQ",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "92806ae8-047a-4bef-915c-80407f45bb3f": {
-    "cop": 2,
-    "exp": "Juxtamedullary nephron one whose proximal convoluted tubule is close to the coicomedullary border and whose loop of Henle extends deep into the renal medulla. Ref: Ganong's review of medical physiology; 24th edition; page no; 674 Ref of img:"
+    "cop": 1,
+    "exp": "Juxtamedullary nephron one whose proximal convoluted tubule is close to the coicomedullary border and whose loop of Henle extends deep into the renal medulla. Ref: Ganong's review of medical physiology; 24th edition; page no; 674 Ref of img:",
+    "hint_exp": "🧩 Your crush solved \"comparison coical nephron juxtamedullary\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d636665b-1cf5-4942-bf5b-757f978bbb7c": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Increases bone resorptionParatharmoneParatharmone is 84 aminoacid polypeptide hormone secreted from parathyroid glands.Its secretion is regulated by plasma Ca++ concentration -- fall in Ca++ concentration increases the secretion of paratharmone.ActionsPTH increases resorption of calcium from bone - most prominant action.PTH increases calcium reabsorption from distal tubules of kidney.PTH decreases phophate reabsorption from proximal tubules of kidney.PTH has no direct effect on calcium absorption from intestine but increases it indirectly by enhancing the formation of calcitriol by activating loc-hydroxylose.PTH decreases calcium level in milk, saliva, and ocular lens -- may be responsible for development of cataract in hypothyroidism.Drugs related to paratharmone CinacalcentIt activates the Ca++ sensing receptor (CaR) in parathyroid glands and blocks PTH secretion.It is indicated in secondary hyperparathyroidism due to renal disease and in parathyroid tumor.TeriparatideThis is recombinant preparation of 1-34 residues of amino terminal of human PTH.It is used in osteoporosis.The effect is faster and more marked than that produced by estrogen and bisphosphonates.Teriparatide in the only agent which stimulates bone formation whereas estrogen and biphosphonate only check bone resorption."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Increases bone resorptionParatharmoneParatharmone is 84 aminoacid polypeptide hormone secreted from parathyroid glands.Its secretion is regulated by plasma Ca++ concentration -- fall in Ca++ concentration increases the secretion of paratharmone.ActionsPTH increases resorption of calcium from bone - most prominant action.PTH increases calcium reabsorption from distal tubules of kidney.PTH decreases phophate reabsorption from proximal tubules of kidney.PTH has no direct effect on calcium absorption from intestine but increases it indirectly by enhancing the formation of calcitriol by activating loc-hydroxylose.PTH decreases calcium level in milk, saliva, and ocular lens -- may be responsible for development of cataract in hypothyroidism.Drugs related to paratharmone CinacalcentIt activates the Ca++ sensing receptor (CaR) in parathyroid glands and blocks PTH secretion.It is indicated in secondary hyperparathyroidism due to renal disease and in parathyroid tumor.TeriparatideThis is recombinant preparation of 1-34 residues of amino terminal of human PTH.It is used in osteoporosis.The effect is faster and more marked than that produced by estrogen and bisphosphonates.Teriparatide in the only agent which stimulates bone formation whereas estrogen and biphosphonate only check bone resorption.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Parathyroid hormone\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "73dad467-568c-44a4-b7ce-a5bb0c1fcfe7": {
-    "cop": 2,
-    "exp": "\"Window period\" of HIV is immediately after the acquisition of infection, during which serology may be negative. This period typically lasts from 3 weeks to 3 months. Non-serologic tests can be employed to cover this period. Tests to detect HIV during window period: p24 antigen testing, nucleic acid testing."
+    "cop": 1,
+    "exp": "\"Window period\" of HIV is immediately after the acquisition of infection, during which serology may be negative. This period typically lasts from 3 weeks to 3 months. Non-serologic tests can be employed to cover this period. Tests to detect HIV during window period: p24 antigen testing, nucleic acid testing.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"a case of HIV infection\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ef8a4d06-e697-49fc-ab2b-6cf5a2903b78": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Ketone bodyBiochemical tests used to detect abnormal constituents of urineAbnormal constituentTestReducing SugarBenedict's testMonosaccharideBarfoed's testFructoseSeliwanoff s test/ Foulger's testGalactoseMucic acid testKetone bodyRothera's test (acetoacetate and acetone)Gerhatrdt's test (Acetoacetate)BloodBenzidene testProteinSulphosalicylic acid testAlbuminHeat coagulation testBile saltHay's testBile pigmentFouchet's test"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Ketone bodyBiochemical tests used to detect abnormal constituents of urineAbnormal constituentTestReducing SugarBenedict's testMonosaccharideBarfoed's testFructoseSeliwanoff s test/ Foulger's testGalactoseMucic acid testKetone bodyRothera's test (acetoacetate and acetone)Gerhatrdt's test (Acetoacetate)BloodBenzidene testProteinSulphosalicylic acid testAlbuminHeat coagulation testBile saltHay's testBile pigmentFouchet's test",
+    "hint_exp": "🎯 Think of \"Rothera test used detection\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e881e720-520f-49eb-8d28-797054974b0f": {
-    "cop": 1,
-    "exp": "Inveed papilloma is most commonly seen in men in the age group of 40- 70 than women. It arises from the lateral wall of the nose in the middle meatus and is almost always unilateral. Human papilloma virus is thought to be responsible for this condition. Wider external surgical approaches may be required for tumour extending to the frontal sinus or orbit. Recurrence can occur. Ref: Textbook of diseases of ENT; PL Dhingra; 7th edition, pg no. 227"
+    "cop": 0,
+    "exp": "Inveed papilloma is most commonly seen in men in the age group of 40- 70 than women. It arises from the lateral wall of the nose in the middle meatus and is almost always unilateral. Human papilloma virus is thought to be responsible for this condition. Wider external surgical approaches may be required for tumour extending to the frontal sinus or orbit. Recurrence can occur. Ref: Textbook of diseases of ENT; PL Dhingra; 7th edition, pg no. 227",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ab6dd736-548a-4fc7-8ba9-ef3a3f66a7d3": {
-    "cop": 1,
-    "exp": "The superficial inguinal nodes drain superficial perineal structures, including the superolateral uterine body near attachment of the round ligament, skin of the perineum (including the vulva), and the introitus of the vagina inferior to the hymen. The internal iliac nodes drain the middle and upper vagina, cervix, and body of the uterus. The lumbar/lateral aortic lymph nodes drain the ovaries. The axillary lymph nodes drain the upper limb and chest wall, including the breast."
+    "cop": 0,
+    "exp": "The superficial inguinal nodes drain superficial perineal structures, including the superolateral uterine body near attachment of the round ligament, skin of the perineum (including the vulva), and the introitus of the vagina inferior to the hymen. The internal iliac nodes drain the middle and upper vagina, cervix, and body of the uterus. The lumbar/lateral aortic lymph nodes drain the ovaries. The axillary lymph nodes drain the upper limb and chest wall, including the breast.",
+    "hint_exp": "🧩 Your crush solved \"tumor spread\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "56e58eb1-e150-44d4-8254-1c9d2c58bb76": {
-    "cop": 2,
-    "exp": "Ans. b. Cytoplasmic membrane"
+    "cop": 1,
+    "exp": "Ans. b. Cytoplasmic membrane",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"always present in bacteria\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2f5548d6-f07a-4d42-b745-1fae42b61fcd": {
-    "cop": 1,
-    "exp": "Ans. (a) RanulaRanula is a pseudocyst that is associated with mucus extravasation into the surrounding soft tissues. These lesions occur as the result of trauma or obstruction to the salivary gland excretory duct and spillage of mucin into the surrounding soft tissues."
+    "cop": 0,
+    "exp": "Ans. (a) RanulaRanula is a pseudocyst that is associated with mucus extravasation into the surrounding soft tissues. These lesions occur as the result of trauma or obstruction to the salivary gland excretory duct and spillage of mucin into the surrounding soft tissues.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of the patient\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2d6df48d-cd66-40d7-9ad9-7b6d7081cb40": {
-    "cop": 1,
-    "exp": "(Vas deference) (1403-LB) (1377-B &L 25,h)* The testis develops from the genital fold medial to the mesonephros (Wolffian body)* The Wolffian duct becomes the epididymis and vas deferensDevelopment of genitourinary System:Embryonic structureStructure developing in MALEStructure developing in FEMALEGenital tuberclePenis (C. cavernosa)ClitorisUrethral foldsPenile urethra (C. spongiosa)Labia minoraGenital swellingScrotumLabia majoraGubemaculumGubemaculums testisLigament of ovaryRound ligament of uterus Genital glandsTestisOvary (genital ridge)Germinal cordsSeminiferous tubulesPfluger's tubeMesonephric duct (Wolffian duct)Epididymis, Vas deferens and seminal vesicles Ejaculatory ductsAppendix epididymidisDuct of epoophoron Gartner's duct vesicular appendageUreter, renal pelvis etc Trigonal structure**Ureter, renal pelvis, et^ Trigonal structuresMullerian duct (Paramesonephric duct)Appendix testisProstatic utricleUterine tubes, Uterus, Vagina (upper four- fifths)Muller's tubercleVeromontanumSite of hymenSinovaginal bulb from urogenital sinusPart of prostatic utricleLower one-fifth of vaginaJunction of sinovaginal bulb and urogenital sinusDisappears normally (remnants probably from posterior urethral valves)HymenUrogenital sinusVentral and pelvic partUrinary bladder (except the trigone)Supramontanel part of prostatic urethraUrinary bladder (except the trigone) whole urethraPhallic or urethral portionInframontanal part of prostatic urethra Membranous urethraVaginal vestibules"
+    "cop": 0,
+    "exp": "(Vas deference) (1403-LB) (1377-B &L 25,h)* The testis develops from the genital fold medial to the mesonephros (Wolffian body)* The Wolffian duct becomes the epididymis and vas deferensDevelopment of genitourinary System:Embryonic structureStructure developing in MALEStructure developing in FEMALEGenital tuberclePenis (C. cavernosa)ClitorisUrethral foldsPenile urethra (C. spongiosa)Labia minoraGenital swellingScrotumLabia majoraGubemaculumGubemaculums testisLigament of ovaryRound ligament of uterus Genital glandsTestisOvary (genital ridge)Germinal cordsSeminiferous tubulesPfluger's tubeMesonephric duct (Wolffian duct)Epididymis, Vas deferens and seminal vesicles Ejaculatory ductsAppendix epididymidisDuct of epoophoron Gartner's duct vesicular appendageUreter, renal pelvis etc Trigonal structure**Ureter, renal pelvis, et^ Trigonal structuresMullerian duct (Paramesonephric duct)Appendix testisProstatic utricleUterine tubes, Uterus, Vagina (upper four- fifths)Muller's tubercleVeromontanumSite of hymenSinovaginal bulb from urogenital sinusPart of prostatic utricleLower one-fifth of vaginaJunction of sinovaginal bulb and urogenital sinusDisappears normally (remnants probably from posterior urethral valves)HymenUrogenital sinusVentral and pelvic partUrinary bladder (except the trigone)Supramontanel part of prostatic urethraUrinary bladder (except the trigone) whole urethraPhallic or urethral portionInframontanal part of prostatic urethra Membranous urethraVaginal vestibules",
+    "hint_exp": "🎯 Think of \"Wolffian duct give rise\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5a0ad250-0d45-403f-8e36-69453cc7eb8e": {
-    "cop": 4,
-    "exp": "Some cases of Retinoblastoma have been documented to be associated with microphthalmous Refer khurana 6/e 303"
+    "cop": 3,
+    "exp": "Some cases of Retinoblastoma have been documented to be associated with microphthalmous Refer khurana 6/e 303",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Retinoblastoma present with except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "faa24615-bfcf-41ae-99b1-73f2723fae20": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the rectum which\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "894cc268-e158-47cf-adde-22ceba000fb1": {
-    "cop": 3,
-    "exp": "Pepsin and most of the other digestive enzymes belong to IUBMB Enzyme class IV (Hydrolases)\nRefer the byte \"IUBMB Classification of Enzymes\""
+    "cop": 2,
+    "exp": "Pepsin and most of the other digestive enzymes belong to IUBMB Enzyme class IV (Hydrolases)\nRefer the byte \"IUBMB Classification of Enzymes\"",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"which class of enzymes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "4a09b4b3-daff-4df2-ba10-86900a9883fc": {
-    "cop": 4,
-    "exp": "The treatment of steroid-sensitive tumors includes the removal or antagonism of hormones promoting tumor growth and the administration of hormones inhibiting tumor growth. Prostate cancer is treated with estrogens, such as diethylstilbestrol; antiandrogens, such as flutamide; and gonadotropin-releasing hormone agonists (leuprolide and goserelin). When administered continuously in the form of long-acting injectables or implants, the releasing hormone agonists inhibit the release of gonadotropins, resulting in decreased testosterone production. Tamoxifen is an antiestrogen with paial agonist activity that is used in treating estrogen-sensitive breast cancer."
+    "cop": 3,
+    "exp": "The treatment of steroid-sensitive tumors includes the removal or antagonism of hormones promoting tumor growth and the administration of hormones inhibiting tumor growth. Prostate cancer is treated with estrogens, such as diethylstilbestrol; antiandrogens, such as flutamide; and gonadotropin-releasing hormone agonists (leuprolide and goserelin). When administered continuously in the form of long-acting injectables or implants, the releasing hormone agonists inhibit the release of gonadotropins, resulting in decreased testosterone production. Tamoxifen is an antiestrogen with paial agonist activity that is used in treating estrogen-sensitive breast cancer.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following agents\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a4e15dbe-cb79-45e8-b105-d6d81e5075ec": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Bisphosphonates\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fa000526-bf0b-4223-9257-ff892ad2552d": {
-    "cop": 1,
-    "exp": "Ans. (a) Acute angle branching with septate hyphae - AspergillusMucor- Broad base with obtuse branchingAspergillus- Acute branching, Septate hyphae with narrow base"
+    "cop": 0,
+    "exp": "Ans. (a) Acute angle branching with septate hyphae - AspergillusMucor- Broad base with obtuse branchingAspergillus- Acute branching, Septate hyphae with narrow base",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"for fungus\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "82efde63-f2a7-4f29-a966-cd0eb254283f": {
-    "cop": 3,
-    "exp": "(C) (Polycystic kidney) (617- Ghai 8th)Wilm's tumor is not associated with polycystic kidney disease.Wilm's tumor is associated with three distinct syndromes.WAGR syndromeBeckwithQ Wiedemann syndromeDenys-Drash syndrome* Wilm's tumor* Aniridia* Genital abnormalities* Mental Retardation* Enlargement of body organs* Hemihypertrophy* Renal medullary cysts* Adrenal cytomegaly; Abnoraml large cells adrenal cortex* Gonadal dysgenesis (Male pseudo-hermaphrodite)* Nephropathy leading to Renal failureMore about wilm's tumor (also k/a Nephroblastoma):* Wilm's tumor is the most common renal neoplasm & 2nd most common malignant abdominal tumor, in children (Most common abdominal malignant tumor is neuroblastoma)* Peak indidence is between 2 and 5yrs of age.* 5-10% are bilateral; either both kidneys are involved simultaneously (synchronous) or one after the other (metachronous)Clinical features of W.T.- Abdominal mass (most common presenting feature)- Abdominal pain- Vomiting- Hematuria- HypertensionTreatmentHigh cure rates of 80-90% can be achieved with multimodality treatment using surgery, chemotherapy & radiotherapy.Surgical resection is done in all stages followed by chemotherapy (stage I & II) or chemotherapy* radiotherapy (stage III, IV, V).Pre op chemotherapy is given in inoperable & bilateral.Chemotherapeutic agents used are Vincristine, Dactinomycin & cyclophosphamide.* The most important determinants of prognosis is wilm's tumour is Histology and stages of disease* The treatmet of choice for stage Iwilm's tumor is Transperitoneal Radical Nephrectomy (Radical Nephroureterectomy) followed by chemotherapy with or without radiotherapy depending on tumor histology* Surgery is very important in the treatment of all stages of wilm's tumor to provide local control and prevent metastatis spread* Radical nephrouretectomy is recommended in all patientsFeaturesNeuroblastomaWilm's tumorCommon tumorMC intra-abdominal solid tumor in childrenMC renal tumor in childrenAt the time of DiagnosisAlready metastasis in greater then 50% of patientsGenerally confined to the kidneyEncassement of aortaCharacteristicUncommonLung metastasisRareCommonCalcificationCommonRare"
+    "cop": 2,
+    "exp": "(C) (Polycystic kidney) (617- Ghai 8th)Wilm's tumor is not associated with polycystic kidney disease.Wilm's tumor is associated with three distinct syndromes.WAGR syndromeBeckwithQ Wiedemann syndromeDenys-Drash syndrome* Wilm's tumor* Aniridia* Genital abnormalities* Mental Retardation* Enlargement of body organs* Hemihypertrophy* Renal medullary cysts* Adrenal cytomegaly; Abnoraml large cells adrenal cortex* Gonadal dysgenesis (Male pseudo-hermaphrodite)* Nephropathy leading to Renal failureMore about wilm's tumor (also k/a Nephroblastoma):* Wilm's tumor is the most common renal neoplasm & 2nd most common malignant abdominal tumor, in children (Most common abdominal malignant tumor is neuroblastoma)* Peak indidence is between 2 and 5yrs of age.* 5-10% are bilateral; either both kidneys are involved simultaneously (synchronous) or one after the other (metachronous)Clinical features of W.T.- Abdominal mass (most common presenting feature)- Abdominal pain- Vomiting- Hematuria- HypertensionTreatmentHigh cure rates of 80-90% can be achieved with multimodality treatment using surgery, chemotherapy & radiotherapy.Surgical resection is done in all stages followed by chemotherapy (stage I & II) or chemotherapy* radiotherapy (stage III, IV, V).Pre op chemotherapy is given in inoperable & bilateral.Chemotherapeutic agents used are Vincristine, Dactinomycin & cyclophosphamide.* The most important determinants of prognosis is wilm's tumour is Histology and stages of disease* The treatmet of choice for stage Iwilm's tumor is Transperitoneal Radical Nephrectomy (Radical Nephroureterectomy) followed by chemotherapy with or without radiotherapy depending on tumor histology* Surgery is very important in the treatment of all stages of wilm's tumor to provide local control and prevent metastatis spread* Radical nephrouretectomy is recommended in all patientsFeaturesNeuroblastomaWilm's tumorCommon tumorMC intra-abdominal solid tumor in childrenMC renal tumor in childrenAt the time of DiagnosisAlready metastasis in greater then 50% of patientsGenerally confined to the kidneyEncassement of aortaCharacteristicUncommonLung metastasisRareCommonCalcificationCommonRare",
+    "hint_exp": "🧩 Your crush solved \"Wilm tumour associated with\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d65eb210-7494-49f2-93cc-392fdf406a9a": {
-    "cop": 2,
-    "exp": "Salbutamol (Albuterol):- A highly selective b2 agonist when inhaled from pressurized metered dose inhaler (pMDI) produces bronchodilatation within 5 min and the action lasts for 2-4 hours(sho acting,fast acting),therefore used to abo and terminate attacks of asthma, but is not suitable for round-the-clock prophylaxis. side effects:- Muscle tremors are the dose related side effect. Palpitation, restlessness, nervousness, throat irritation and ankle edema can also occur. Hypokalaemia is a possible complication. Formoterol, Salmeterol are long acting B2 agonists, formoterol is fast acting compared to Salmeterol. Ref:- kd tripathi; pg num:- 223"
+    "cop": 1,
+    "exp": "Salbutamol (Albuterol):- A highly selective b2 agonist when inhaled from pressurized metered dose inhaler (pMDI) produces bronchodilatation within 5 min and the action lasts for 2-4 hours(sho acting,fast acting),therefore used to abo and terminate attacks of asthma, but is not suitable for round-the-clock prophylaxis. side effects:- Muscle tremors are the dose related side effect. Palpitation, restlessness, nervousness, throat irritation and ankle edema can also occur. Hypokalaemia is a possible complication. Formoterol, Salmeterol are long acting B2 agonists, formoterol is fast acting compared to Salmeterol. Ref:- kd tripathi; pg num:- 223",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"fastest acting inhaled bronchodilator\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "32110c5e-4af4-4cb1-b56b-0646e3d3994b": {
-    "cop": 2,
-    "exp": "To be termed as cured a patient who was initially smear positive and completed treatment, should have a negative smear result on at least 2 occasions of which one should be at treatment completion. A patient is branded as treatment complete if he was either sputum negative to begin with or sputum positive and completed the treatment but with no or only one negative smear during continuation and none at the end of treatment. Ref: Park, Edition 21, Page 167"
+    "cop": 1,
+    "exp": "To be termed as cured a patient who was initially smear positive and completed treatment, should have a negative smear result on at least 2 occasions of which one should be at treatment completion. A patient is branded as treatment complete if he was either sputum negative to begin with or sputum positive and completed the treatment but with no or only one negative smear during continuation and none at the end of treatment. Ref: Park, Edition 21, Page 167",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"DOTS provider patient completed\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "57a85818-242d-4333-a410-627a67d77918": {
-    "cop": 4,
-    "exp": "ATP synthase is marker enzyme for mitochondria.\n5' nucleotidase is marker enzyme for plasma membrane.\nCatalase and urate oxidase is marker enzyme for peroxidase.\nGlucose-6-phosphatase is marker enzyme for Endoplasmic reticulum."
+    "cop": 3,
+    "exp": "ATP synthase is marker enzyme for mitochondria.\n5' nucleotidase is marker enzyme for plasma membrane.\nCatalase and urate oxidase is marker enzyme for peroxidase.\nGlucose-6-phosphatase is marker enzyme for Endoplasmic reticulum.",
+    "hint_exp": "🎯 Think of \"Endoplasmic reticulum\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0790bf89-2246-4000-968d-7a12ed34bf90": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Shigella flexneri Triple sugar iron agari) Fermentation of dextrose (glucose), lactose and sucrose.ii) Production of H2S.* It is recommended for differentiation of enteric gram negative bacilli from clinical specimens, dairy samples and food products.* Contents of the medium arei) Enzymatic digest of casein and animal tissue.ii) Yeast enriched peptone.iii) Three sugars: Dextrose (glucose), lactose and sucrose.iv) Ferric ammonium citrate.v) Sodium chloride.vi) Sodium thiosulfate.vii) Phenol red.viii) Agar.* When carbohydrates are fermented, acid production is detected by the phenol red indicator, which is yellow in acid and red in alkaline conditions.* Sodium thiosulfate is reduced to hydrogen sulfide (H2S) and H2S reacts with an iron salt yielding typical black iron sulfide. Ferric ammonium citrate is hydrogen sulfide indicator.Results* Two areas of tube are examined : (i) Butt of the tube, and (ii) Slant of the tube.* An alkaline slant (red)- acid butt (yellow) indicates fermentation of dextrose (glucose) only - red /yellow. Examples are Proteus mirabilis, salmonella thyphimurium and shigella flexneri.* An acid slant (yellow) - acid butt (yellow) indicates fermentations of dextrose (glucose), lactose and/or sucrose - yellow/yellow. Example is E coli.* An alkaline slant (red) - alkaline butt (red) indicates no fermentation (non-fermenter) red/red. Example is Pseudomonas aeruginosa.* An alkaline precipitate in butt indicates H2S production. It is produced by Proteus mirabilis and Salmonella typhimurium.OrganismSlantButtGasH2SE coliAcidAcid+-Proteus mirabilisAlkalineAcid-+Pseudomonas aeruginosaAlkalineAlkaline--Salmonella typhimuriumAlkalineAcid+/-+Shigella flexneriAlkalineAcid+"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Shigella flexneri Triple sugar iron agari) Fermentation of dextrose (glucose), lactose and sucrose.ii) Production of H2S.* It is recommended for differentiation of enteric gram negative bacilli from clinical specimens, dairy samples and food products.* Contents of the medium arei) Enzymatic digest of casein and animal tissue.ii) Yeast enriched peptone.iii) Three sugars: Dextrose (glucose), lactose and sucrose.iv) Ferric ammonium citrate.v) Sodium chloride.vi) Sodium thiosulfate.vii) Phenol red.viii) Agar.* When carbohydrates are fermented, acid production is detected by the phenol red indicator, which is yellow in acid and red in alkaline conditions.* Sodium thiosulfate is reduced to hydrogen sulfide (H2S) and H2S reacts with an iron salt yielding typical black iron sulfide. Ferric ammonium citrate is hydrogen sulfide indicator.Results* Two areas of tube are examined : (i) Butt of the tube, and (ii) Slant of the tube.* An alkaline slant (red)- acid butt (yellow) indicates fermentation of dextrose (glucose) only - red /yellow. Examples are Proteus mirabilis, salmonella thyphimurium and shigella flexneri.* An acid slant (yellow) - acid butt (yellow) indicates fermentations of dextrose (glucose), lactose and/or sucrose - yellow/yellow. Example is E coli.* An alkaline slant (red) - alkaline butt (red) indicates no fermentation (non-fermenter) red/red. Example is Pseudomonas aeruginosa.* An alkaline precipitate in butt indicates H2S production. It is produced by Proteus mirabilis and Salmonella typhimurium.OrganismSlantButtGasH2SE coliAcidAcid+-Proteus mirabilisAlkalineAcid-+Pseudomonas aeruginosaAlkalineAlkaline--Salmonella typhimuriumAlkalineAcid+/-+Shigella flexneriAlkalineAcid+",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Triple sugar iron agar\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8187f1bd-1e49-4b9f-9827-2da4770e1819": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"age keratinisation of gingiva\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

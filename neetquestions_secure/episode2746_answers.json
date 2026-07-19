@@ -1,202 +1,252 @@
 {
   "d602f2fd-c211-4aa1-8c53-b8bf3102a780": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following EXCEPT\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ec8069f4-4009-4099-bc14-760c074e034c": {
-    "cop": 1,
-    "exp": "The various strains used for Mumps include Jeryl-Lynn, RIT-4385, Leningrad-3, L-Zagreb and Urabe strains."
+    "cop": 0,
+    "exp": "The various strains used for Mumps include Jeryl-Lynn, RIT-4385, Leningrad-3, L-Zagreb and Urabe strains.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"used in Mumps vaccine\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fa001515-731c-4728-a729-dc229544b089": {
-    "cop": 3,
-    "exp": "Ans.'c' Loss of taste sensation of the affected side of tongue"
+    "cop": 2,
+    "exp": "Ans.'c' Loss of taste sensation of the affected side of tongue",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "18281eec-ca92-43cc-8470-b731f542e383": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Reassure the mother that nothing is abnormal o Loss of weight in the first few days of bih is a normal phenomenon. A new born loses upto 10% of his body weight in the first few days of bih. He regains his bih weight by the age of 10 days. o The golden yellow color of the stool is perfectly normal. \" The number colour and consistency ofstools may vary greatly in the same infant and between infants of similar age. The color of the stool has little significance except for the presence of blood or absence of bilirubin products.\""
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Reassure the mother that nothing is abnormal o Loss of weight in the first few days of bih is a normal phenomenon. A new born loses upto 10% of his body weight in the first few days of bih. He regains his bih weight by the age of 10 days. o The golden yellow color of the stool is perfectly normal. \" The number colour and consistency ofstools may vary greatly in the same infant and between infants of similar age. The color of the stool has little significance except for the presence of blood or absence of bilirubin products.\"",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"full term baby exclusively\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "75268eda-b5cd-4bd6-a637-0832c511c1a7": {
-    "cop": 2,
-    "exp": "Nasopharyngeal cancer can cause conductive deafness (eustachian tube blockage,) ipsilateral temporoparietal neuralgia (involvement of CN V) and palatal paralysis (CN X) collectively called Trotters triad."
+    "cop": 1,
+    "exp": "Nasopharyngeal cancer can cause conductive deafness (eustachian tube blockage,) ipsilateral temporoparietal neuralgia (involvement of CN V) and palatal paralysis (CN X) collectively called Trotters triad.",
+    "hint_exp": "🧩 Your crush solved \"Trotter triad includes except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9a742b70-29c0-4e47-a294-0f2e483ae822": {
-    "cop": 2,
-    "exp": "(B) tricuspid incompetence # Tricuspid regurgitation causes the v wave to be more prominent; when tricuspid regurgitation becomes severe, the combination of a prominent v wave and obliteration of the x descent results in a single large positive systolic wave.> After the v wave peaks, the right atrial pressure falls because of the decreased bulging of the tricuspid valve into the right atrium as right ventricular pressure declines and tricuspid valve opens# Jugular venous pulse> Normal: 3 +ve pulse waves -a, c and v 2 -ve pulse waves -x and y> 'a'wave: Due to right atrial contraction Synchronous with carotid artery pulse> Absent'a'wave : Atrial fibrillation> Diminished 'a' wave: Tachycardia Prolonged PR interval> 'a' Wave Fused with (c' Wave: Supra ventricular tachycardia> Large 'a' Waves : Pulmonary hypertension Pulmonary stenosis Tricuspid stenosis Tricuspid atresia AV dissociation> Cannon Waves (Giant 'a' Waves) : Complete heart block when right atrium occasionally contracts against closed tricuspid valve Ventricular tachycardia Ectopic beats> Regular 'a' Waves : AV junctional rhythm 10AV block 2 : 1 AV block Atrial tachycardia> Irregular 'a' Waves: Premature systoles: Atrial Ventricular AV junctional Complete AV dissociation: Complete AV block AV junctional tachycardia Ventricular tachycardia Atrial flutter> Non-conducted 'a' waves: Atrial tachycardia Atrial flutter with block> 'c' Wave : Produced by Impact of carotid artery to jugular vein Retrograde transmission of positive wave in right atrium (by ventricular systole and bulging of tricuspid valve into right atrium). Carotid artefact Systolic bulging of tricuspid valve into RA> V Wave: Absent 'x' wave: Constrictive pericarditis Restrictive cardiomyopathy ASD (sometimes)> v Wave : during ventricle contraction caused by atrial filling and occurs with and just after carotid pulse.# Large V Waves: Tricuspid regurgitation ASD Anomalous pulmonary venous drainage, Right sided heart failure> 'y' Wave: Slow Descent y Wave : Tricuspid stenosis Sharp Descent y Wave : Constrictive pericarditis Rapid Descent y wave : Constrictive pericarditis (Friedreich's sign) Severe heart failure Tricuspid regurgitation"
+    "cop": 1,
+    "exp": "(B) tricuspid incompetence # Tricuspid regurgitation causes the v wave to be more prominent; when tricuspid regurgitation becomes severe, the combination of a prominent v wave and obliteration of the x descent results in a single large positive systolic wave.> After the v wave peaks, the right atrial pressure falls because of the decreased bulging of the tricuspid valve into the right atrium as right ventricular pressure declines and tricuspid valve opens# Jugular venous pulse> Normal: 3 +ve pulse waves -a, c and v 2 -ve pulse waves -x and y> 'a'wave: Due to right atrial contraction Synchronous with carotid artery pulse> Absent'a'wave : Atrial fibrillation> Diminished 'a' wave: Tachycardia Prolonged PR interval> 'a' Wave Fused with (c' Wave: Supra ventricular tachycardia> Large 'a' Waves : Pulmonary hypertension Pulmonary stenosis Tricuspid stenosis Tricuspid atresia AV dissociation> Cannon Waves (Giant 'a' Waves) : Complete heart block when right atrium occasionally contracts against closed tricuspid valve Ventricular tachycardia Ectopic beats> Regular 'a' Waves : AV junctional rhythm 10AV block 2 : 1 AV block Atrial tachycardia> Irregular 'a' Waves: Premature systoles: Atrial Ventricular AV junctional Complete AV dissociation: Complete AV block AV junctional tachycardia Ventricular tachycardia Atrial flutter> Non-conducted 'a' waves: Atrial tachycardia Atrial flutter with block> 'c' Wave : Produced by Impact of carotid artery to jugular vein Retrograde transmission of positive wave in right atrium (by ventricular systole and bulging of tricuspid valve into right atrium). Carotid artefact Systolic bulging of tricuspid valve into RA> V Wave: Absent 'x' wave: Constrictive pericarditis Restrictive cardiomyopathy ASD (sometimes)> v Wave : during ventricle contraction caused by atrial filling and occurs with and just after carotid pulse.# Large V Waves: Tricuspid regurgitation ASD Anomalous pulmonary venous drainage, Right sided heart failure> 'y' Wave: Slow Descent y Wave : Tricuspid stenosis Sharp Descent y Wave : Constrictive pericarditis Rapid Descent y wave : Constrictive pericarditis (Friedreich's sign) Severe heart failure Tricuspid regurgitation",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the jugular venous pulse\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "97994586-7537-4811-8372-d9b518cd7a3f": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Eustachian tube There are small fat bodies located infermedial to Eustachian tube. These are called Ostmann fat pads. They are impoant in normal closure of eustachian tube and preventing transmission of nasopharyngeal pressure to middle ear. These fat pads are absent in Patulous tube syndrome."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Eustachian tube There are small fat bodies located infermedial to Eustachian tube. These are called Ostmann fat pads. They are impoant in normal closure of eustachian tube and preventing transmission of nasopharyngeal pressure to middle ear. These fat pads are absent in Patulous tube syndrome.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"related to\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a4ecd111-0f17-49cc-94fc-2be6e5002d12": {
-    "cop": 3,
-    "exp": "Delirium tremens =Most severe alcohol withdrawal syndrome. =Clinical features: Clouding of consciousness with disorientation to time and place Poor attention and distractibility Visual hallucination and illusions which are often vivid and very frightening Autonomic disturbances like tachycardia, fever, hypeension, sweating and pupillary dilatation Psychomotor agitation and ataxia =Drug of choice is benzodiazepines like diazepam."
+    "cop": 2,
+    "exp": "Delirium tremens =Most severe alcohol withdrawal syndrome. =Clinical features: Clouding of consciousness with disorientation to time and place Poor attention and distractibility Visual hallucination and illusions which are often vivid and very frightening Autonomic disturbances like tachycardia, fever, hypeension, sweating and pupillary dilatation Psychomotor agitation and ataxia =Drug of choice is benzodiazepines like diazepam.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8b981e65-c4eb-40df-82ea-ccc9ab42ddfa": {
-    "cop": 1,
-    "exp": "Malignant hypehermia is a genetic(autosomal dominant) hypermetabolic muscle disease. Malignant hypehermia is a genetic disorder; there is a defect in the gene that codes for the protein ryanodine receptor (RyR) in skeletal muscle. Ryanodine receptor is a Ca2+-release channel present in the membrane of L-tubule of skeletal muscle. When it couples with dihydropyridine receptor (DHPR)from T Tubules , there is release of Ca2+ into the sarcoplasm, initiating muscle contraction.So Increased Ca++ transpo L-type calcium channels in T-tubules leads to malignant hypehermia DHPR is an L-type voltage-sensitive Ca2+ channel. Rarely inhalational anaesthetics can cause A malignant hypehermia manifesting as muscle rigidity, sweating and masseteric spasm"
+    "cop": 0,
+    "exp": "Malignant hypehermia is a genetic(autosomal dominant) hypermetabolic muscle disease. Malignant hypehermia is a genetic disorder; there is a defect in the gene that codes for the protein ryanodine receptor (RyR) in skeletal muscle. Ryanodine receptor is a Ca2+-release channel present in the membrane of L-tubule of skeletal muscle. When it couples with dihydropyridine receptor (DHPR)from T Tubules , there is release of Ca2+ into the sarcoplasm, initiating muscle contraction.So Increased Ca++ transpo L-type calcium channels in T-tubules leads to malignant hypehermia DHPR is an L-type voltage-sensitive Ca2+ channel. Rarely inhalational anaesthetics can cause A malignant hypehermia manifesting as muscle rigidity, sweating and masseteric spasm",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fc2b0ae2-099b-42b7-8b3e-a67783e951cd": {
-    "cop": 4,
-    "exp": "Clinical Features Epileptic Seizures Dissociative Convulsions (Hysterical Fits) 1. Attack pattern Stereotyped, known clinical patterns Absence of any established clinical pattern. Purposive body movements occur 2. Place of occurrence Anywhere Usually indoors or at safe places 3. Warning Both prodrome and aura are stereotyped Variable 4. Time of day Anytime. Can occur during sleep Never occur during sleep 5. Tongue bite Usually present Usually absent. Cheek and lip bite may be present 6. Incontinence of urine and faeces Can occur Very rare 7. Injury Can occur Very rare. If occurs, it is minor or may be accidental 8. Speech No verbalisation during the seizure Verbalisation may occur during the fit 9. Duration Usually about 30-70 sec. (Sho) 20-800 sec. (Prolonged) 10. Head-turning Unilateral Side to side turning 11. Eye gaze Staring, if eyes are open Avoidant gaze 12. Amnesia Complete Paial 13. Neurological signs Present, e.g. up-going plantars Absent 14. Post-ictal confusion Present Absent 15. Stress Present in 25% Present much more often 16. EEG - Inter-ictal - Ictal Usually abnormal; Abnormal Usually normal Normal 17. Serum prolactin Increased in post-ictal period (15-20 minutes after seizure; returns back to normal in 1 hour) Usually normal Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 101"
+    "cop": 3,
+    "exp": "Clinical Features Epileptic Seizures Dissociative Convulsions (Hysterical Fits) 1. Attack pattern Stereotyped, known clinical patterns Absence of any established clinical pattern. Purposive body movements occur 2. Place of occurrence Anywhere Usually indoors or at safe places 3. Warning Both prodrome and aura are stereotyped Variable 4. Time of day Anytime. Can occur during sleep Never occur during sleep 5. Tongue bite Usually present Usually absent. Cheek and lip bite may be present 6. Incontinence of urine and faeces Can occur Very rare 7. Injury Can occur Very rare. If occurs, it is minor or may be accidental 8. Speech No verbalisation during the seizure Verbalisation may occur during the fit 9. Duration Usually about 30-70 sec. (Sho) 20-800 sec. (Prolonged) 10. Head-turning Unilateral Side to side turning 11. Eye gaze Staring, if eyes are open Avoidant gaze 12. Amnesia Complete Paial 13. Neurological signs Present, e.g. up-going plantars Absent 14. Post-ictal confusion Present Absent 15. Stress Present in 25% Present much more often 16. EEG - Inter-ictal - Ictal Usually abnormal; Abnormal Usually normal Normal 17. Serum prolactin Increased in post-ictal period (15-20 minutes after seizure; returns back to normal in 1 hour) Usually normal Ref: A Sho Textbook of Psychiatry, Niraj Ahuja, 7th Edition, pg. no. 101",
+    "hint_exp": "🧩 Your crush solved \"Differentiation hysterical from epileptic\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ed096d98-a6fb-41d4-ab87-ba0c15784d35": {
-    "cop": 4,
-    "exp": "In industrialized and urbanized communities, there is less marked distinction between the functions of men and women. The young wife in India nowadays brings not only dowry but a professional or semi-professional education and she seeks a professional career. The steady enlargement of the freedom of wives and even children in the family is leading towards a \"communal family\" where all members play a pa in its management. Ref: Park; 23rd ed; Pg 684"
+    "cop": 3,
+    "exp": "In industrialized and urbanized communities, there is less marked distinction between the functions of men and women. The young wife in India nowadays brings not only dowry but a professional or semi-professional education and she seeks a professional career. The steady enlargement of the freedom of wives and even children in the family is leading towards a \"communal family\" where all members play a pa in its management. Ref: Park; 23rd ed; Pg 684",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"its members\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3b705312-8da6-4318-ab2d-35a3817dcfb2": {
-    "cop": 4,
-    "exp": "The nurse must monitor for adequate urinary output, changes in mental status, and vital sign stability because these factors are directly influenced by fluid replacement therapy.\n\nOption A: Urinary output should be monitored because an effective fluid replacement therapy is manifested by adequate urine output.\nOption B: Fluid replacement therapy affects the mental status of the patient directly.\nOption C: Vital sign stability could be achieved through an effective fluid replacement therapy"
+    "cop": 3,
+    "exp": "The nurse must monitor for adequate urinary output, changes in mental status, and vital sign stability because these factors are directly influenced by fluid replacement therapy.\n\nOption A: Urinary output should be monitored because an effective fluid replacement therapy is manifested by adequate urine output.\nOption B: Fluid replacement therapy affects the mental status of the patient directly.\nOption C: Vital sign stability could be achieved through an effective fluid replacement therapy",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Patients receiving fluid replacement\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fa61a74e-5b64-4f97-a4b8-af7a6eabe2eb": {
-    "cop": 1,
-    "exp": "Uretrosigmoidostomy and pancreatic fistula causes non anion gap metabolic acidosis, whereas renal failure causes high anion gap acidosis. (Ref: Harrison's principles of internal medicine,19E pg 320)"
+    "cop": 0,
+    "exp": "Uretrosigmoidostomy and pancreatic fistula causes non anion gap metabolic acidosis, whereas renal failure causes high anion gap acidosis. (Ref: Harrison's principles of internal medicine,19E pg 320)",
+    "hint_exp": "🎯 Think of \"Which following doesn cause\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "af0ee6ea-1b22-4953-a951-3a1968b9a0bc": {
-    "cop": 3,
-    "exp": "How frequently processing solutions are replaced depends primarily on the rate of use of the solutions but also on the size of tanks, whether a cover is used, and the temperature of the solutions. In most offices, the solutions should be changed weekly or every other week. The results of the step-wedge test help determine the proper frequency.\nReference: White and Pharoah's Oral Radiology Principles and Interpretation 7th edition page no 251"
+    "cop": 2,
+    "exp": "How frequently processing solutions are replaced depends primarily on the rate of use of the solutions but also on the size of tanks, whether a cover is used, and the temperature of the solutions. In most offices, the solutions should be changed weekly or every other week. The results of the step-wedge test help determine the proper frequency.\nReference: White and Pharoah's Oral Radiology Principles and Interpretation 7th edition page no 251",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"step wedge phantom used\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "102e8138-4ce4-47ec-8ff4-974dc20a3d60": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"probe great value identification\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e3eaf501-68b2-43e7-a1cf-bffee4588380": {
-    "cop": 4,
-    "exp": "Expanded New Ballard Score (EBNS)- assess gestational age of a neonate. It includes physical characteristics: skin of the baby sole crease ear cailage breast nodule"
+    "cop": 3,
+    "exp": "Expanded New Ballard Score (EBNS)- assess gestational age of a neonate. It includes physical characteristics: skin of the baby sole crease ear cailage breast nodule",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f35da5fd-5e58-449d-9b02-955a4962f8f2": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"following cross plasma membrane\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3774af95-d966-4305-bc47-411be1995ba4": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the gingival basement membrane\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e2c01d6d-1a09-4a8f-b29f-4daf391cf90b": {
-    "cop": 2,
-    "exp": "Ans. is. 'b' i.e., Acute appendicits Scoring system for Acute Appendicitis: Alvarado Score:* The diagnosis of appendicitis is based primarily on clinical history and physical examination assisted by blood counts. A number of clinical and laboratory based scoring systems have been devised to assist diagnosis.The most widely used scoring system is Alvarado score.Alvarado scoring systemSymptomsScoreMigratory right iliac fossa pain1Nausea / Vomiting1Anorexia 1SignsTenderness in right iliac fossa2Rebound tenderness in right iliac fossa1Elevated temperature1Laboratory findingsLeucocytosis Shift to the left of neutrophils Total10* The sum of all the scores are calculated for each patient and based on the results patients can be divided into three groups.i) Aggregate score 7-10: Strongly predictive of appendicitisii) Aggregate score 5-6: Equivocaliii) Aggregate score 1-4: Appendicitis can be ruled out.* In equivocal cases CT and Ultrasound can help in making the diagnosis."
+    "cop": 1,
+    "exp": "Ans. is. 'b' i.e., Acute appendicits Scoring system for Acute Appendicitis: Alvarado Score:* The diagnosis of appendicitis is based primarily on clinical history and physical examination assisted by blood counts. A number of clinical and laboratory based scoring systems have been devised to assist diagnosis.The most widely used scoring system is Alvarado score.Alvarado scoring systemSymptomsScoreMigratory right iliac fossa pain1Nausea / Vomiting1Anorexia 1SignsTenderness in right iliac fossa2Rebound tenderness in right iliac fossa1Elevated temperature1Laboratory findingsLeucocytosis Shift to the left of neutrophils Total10* The sum of all the scores are calculated for each patient and based on the results patients can be divided into three groups.i) Aggregate score 7-10: Strongly predictive of appendicitisii) Aggregate score 5-6: Equivocaliii) Aggregate score 1-4: Appendicitis can be ruled out.* In equivocal cases CT and Ultrasound can help in making the diagnosis.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Alvarado score used\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b9666d21-5786-48a7-bf93-4851d4a08096": {
-    "cop": 2,
-    "exp": "154. Ans. b (Madox wing test) (Ref. Parson Diseases of Eye, 19th/445; Khurana ophthalmology 3rd ed., 300, 311)The-deviation in near, vision is .conveniently tested by. the Maddox wing test, The patient looks through the two slit holes in the eyepieces of instrument. The fields exposed to each eye are separated bya adiaphragm in such a way that they glide tangentially into each other. The right eye sees a white arrow pointing vertically upowards and a red arrow poting to left, while the left eye sees a horizontal roq of figures in white and a vertical row in red. The arrow pointing to the horizontal row of figures and arrow pointing the vertical row should both be at zero; any deviation indicates an esso Or exophoria or a hyperphoria, the amount of which can be read on the scale.DIAGNOSIS OF HETEROPHORIA/LATENT STRABISMUS# Diagnosis of heterophoria/latent strabismus depends on the abolishing fusion so that, with its control, the eyes assume their position of rest.# Several Tests are Available for Assessing This:- Cover test- Madox rod test:# The rod is held in front of the eyes, image of highest point close to eye becomes dissimilar and fusion becomes dissociated.# Tests performance at 6 meter and 35 cm distance.- Maddox wing test (amount of phoria for near - at a distance of 33 cm) can be measured.- Prism vergence test- SynaoptophoreSwinging flash light test# It is performed when relative afferent pathway defect is suspected in one eye (unilateral optic nerve lesion with good vision).# To perform this test, a bright flashlight is shone on to one pupil and constriction is noted.# Then the flash light is quickly moved to swinging to and fro of flashlight is repeated several times while observing the papillary response.# Normally, both pupils constrict equally and the pupil to which light is transferred remains tightly constricted. In the presence of relative afferent pathway defect in one eye, the afferent pupil will dilate when the flash light is moved from the normal eye to the abnormal eye.# This response is called 'Marcus Gunn pupil' or a relative afferent papillary defect (RAPD).# It is the earliest indication of optic nerve disease even in the presence of normal visual acuity.Diplopia Charting# It is indicated in patients complaining of confusion or double vision. In it patient is asked to wear red and green diplopia charting glasses.# Red glass being in front of the right eye and green in front of the left.# Then in a semi-dark room he is shown a fine linear light from distance of 4 ft and asked to comment about the images in primary position and in other positions of gaze. Patient tells about the position and separation of the two images in different fields.Also know:Besides the actual measurement of the deviation in latent strabismus, the strength of the muscles involved should also be tested by forcing them to a maximum effort against prism - prism vergence tests."
+    "cop": 1,
+    "exp": "154. Ans. b (Madox wing test) (Ref. Parson Diseases of Eye, 19th/445; Khurana ophthalmology 3rd ed., 300, 311)The-deviation in near, vision is .conveniently tested by. the Maddox wing test, The patient looks through the two slit holes in the eyepieces of instrument. The fields exposed to each eye are separated bya adiaphragm in such a way that they glide tangentially into each other. The right eye sees a white arrow pointing vertically upowards and a red arrow poting to left, while the left eye sees a horizontal roq of figures in white and a vertical row in red. The arrow pointing to the horizontal row of figures and arrow pointing the vertical row should both be at zero; any deviation indicates an esso Or exophoria or a hyperphoria, the amount of which can be read on the scale.DIAGNOSIS OF HETEROPHORIA/LATENT STRABISMUS# Diagnosis of heterophoria/latent strabismus depends on the abolishing fusion so that, with its control, the eyes assume their position of rest.# Several Tests are Available for Assessing This:- Cover test- Madox rod test:# The rod is held in front of the eyes, image of highest point close to eye becomes dissimilar and fusion becomes dissociated.# Tests performance at 6 meter and 35 cm distance.- Maddox wing test (amount of phoria for near - at a distance of 33 cm) can be measured.- Prism vergence test- SynaoptophoreSwinging flash light test# It is performed when relative afferent pathway defect is suspected in one eye (unilateral optic nerve lesion with good vision).# To perform this test, a bright flashlight is shone on to one pupil and constriction is noted.# Then the flash light is quickly moved to swinging to and fro of flashlight is repeated several times while observing the papillary response.# Normally, both pupils constrict equally and the pupil to which light is transferred remains tightly constricted. In the presence of relative afferent pathway defect in one eye, the afferent pupil will dilate when the flash light is moved from the normal eye to the abnormal eye.# This response is called 'Marcus Gunn pupil' or a relative afferent papillary defect (RAPD).# It is the earliest indication of optic nerve disease even in the presence of normal visual acuity.Diplopia Charting# It is indicated in patients complaining of confusion or double vision. In it patient is asked to wear red and green diplopia charting glasses.# Red glass being in front of the right eye and green in front of the left.# Then in a semi-dark room he is shown a fine linear light from distance of 4 ft and asked to comment about the images in primary position and in other positions of gaze. Patient tells about the position and separation of the two images in different fields.Also know:Besides the actual measurement of the deviation in latent strabismus, the strength of the muscles involved should also be tested by forcing them to a maximum effort against prism - prism vergence tests.",
+    "hint_exp": "🧩 Your crush solved \"near vision\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "777e7219-6ca8-494c-8dc1-1387292056fe": {
-    "cop": 3,
-    "exp": "Section 304A in The Indian Penal Code Causing death by negligence: Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. Ref - Krishnan Vij 5th edition 206"
+    "cop": 2,
+    "exp": "Section 304A in The Indian Penal Code Causing death by negligence: Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. Ref - Krishnan Vij 5th edition 206",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"punishable under\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a233a9c7-ff38-4af2-9572-37dd9bc54003": {
-    "cop": 3,
-    "exp": "Mondor's disease/ String phlebitis is a variant of thrombophlebitis that involves the superficial veins of the anterior chest wall and breast. Presents with acute pain in the lateral aspect of the breast or the anterior chest wall.Benign, self-limited disorder is not indicative of a cancer Treatment- use of anti-inflammatory medications\\ and application of warm compresses"
+    "cop": 2,
+    "exp": "Mondor's disease/ String phlebitis is a variant of thrombophlebitis that involves the superficial veins of the anterior chest wall and breast. Presents with acute pain in the lateral aspect of the breast or the anterior chest wall.Benign, self-limited disorder is not indicative of a cancer Treatment- use of anti-inflammatory medications\\ and application of warm compresses",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Mondor disease True RELATED\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6d9fc696-f78d-4df0-816a-3c4f0431ec24": {
-    "cop": 3,
-    "exp": "The numbers included in the names of the devices refer to the surface area (in sq.mm) of the copper on the device. Metallic copper has a strong anti-feility effect.Park 23e pg: 496"
+    "cop": 2,
+    "exp": "The numbers included in the names of the devices refer to the surface area (in sq.mm) of the copper on the device. Metallic copper has a strong anti-feility effect.Park 23e pg: 496",
+    "hint_exp": "🎯 Think of \"380A represents\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e96d8a87-ffe8-4396-bea3-a2ec803151a9": {
-    "cop": 1,
-    "exp": "Answer-A. Skull bonesThe most frequently identified sites of metaststic involvement in children with retinoblastoma include skull bones, distal bones, brain, spinal cord, lymph nodes and abdominal viscera."
+    "cop": 0,
+    "exp": "Answer-A. Skull bonesThe most frequently identified sites of metaststic involvement in children with retinoblastoma include skull bones, distal bones, brain, spinal cord, lymph nodes and abdominal viscera.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"retinoblastoma\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ae5b03d8-e66b-44db-93eb-38f56d7231bc": {
-    "cop": 3,
-    "exp": "Ans. is c i.e. Termination of pregnancy"
+    "cop": 2,
+    "exp": "Ans. is c i.e. Termination of pregnancy",
+    "hint_exp": "🧩 Your crush solved \"engaged and uterus\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "099da5d2-69f0-49b9-90a0-1138984c54cc": {
-    "cop": 3,
-    "exp": "Amiodarone has wide spectrum of antiarrhythmic actions. It acts by all the four mechanisms: blockade of Na+ channels blockade of b receptors blockade of K+ channels blockade of Ca2+channels. Timolol is a b blocker. Therefore, common action of these two drugs is inhibition of b-receptors."
+    "cop": 2,
+    "exp": "Amiodarone has wide spectrum of antiarrhythmic actions. It acts by all the four mechanisms: blockade of Na+ channels blockade of b receptors blockade of K+ channels blockade of Ca2+channels. Timolol is a b blocker. Therefore, common action of these two drugs is inhibition of b-receptors.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"both timolol and amiodarone\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c801e87a-70ad-4858-92d7-0e6df6cbcb4c": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Tetanus Source & reservoir are same - Tetanus spores survive in soil (reservoir) and a person acquires infection directly from soil (source). So, soil acts as reservoir as well as source.Source & reservoir different - In typhoid, bacillus survives and multiplies inside human cases or carriers (act as reservoir), but immediate source of infection is feces or urine of patients, or contaminated food, water or milk (act as source)."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Tetanus Source & reservoir are same - Tetanus spores survive in soil (reservoir) and a person acquires infection directly from soil (source). So, soil acts as reservoir as well as source.Source & reservoir different - In typhoid, bacillus survives and multiplies inside human cases or carriers (act as reservoir), but immediate source of infection is feces or urine of patients, or contaminated food, water or milk (act as source).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Source reservoir same which\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ff0ee5b5-7d98-4353-8ba4-622709e6699c": {
-    "cop": 1,
-    "exp": "Suapensory ligament extends from posterior lacrimal crests to lateral tubercle. The Anterioposterior stability to the eyeball is provided by the tenons capsule of facia bulbi"
+    "cop": 0,
+    "exp": "Suapensory ligament extends from posterior lacrimal crests to lateral tubercle. The Anterioposterior stability to the eyeball is provided by the tenons capsule of facia bulbi",
+    "hint_exp": "🎯 Think of \"the eyeball\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c1e9089d-b227-4a67-a9e6-5834e344849f": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Acute Pancreatitis"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Acute Pancreatitis",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"patient admitted with severe\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "283f952f-c578-48d3-ab85-a3ef6d14c6db": {
-    "cop": 1,
-    "exp": "Familial adenomatous polyposis Familial adenomatous polyposis (FAP) is defined clinically by the presence of more than 100 colorectal adenomas, but is also characterised by duodenal adenomas and multiple extraintestinal manifestations. Over 80% of cases come from patients with a positive family history. The remainder arise as a result of new mutations in the adenomatous polyposis coli (APC) gene on the sho arm of chromosome 5. FAP is inherited as an autosomal dominant condition and is consequently equally likely in men and women. The lifetime risk of colorectal cancer is 100% in patients with FAP. FAP can also be associated with benign mesodermal tumours such as desmoid tumours and osteomas. Epidermoid cysts can also occur (Gardner's syndrome); desmoid tumours in the abdomen spread locally to involve the intestinal mesentery and, although non-metastasising, they may become unresectable. Up to 50% of patients with FAP have congenital hyperophy of the retinal pigment epithelium (CHRPE), which can be used to screen affected families if genetic testing is unavailable. CLINICAL FEATURES Polyps are usually visible on sigmoidoscopy by the age of 15 years and will almost always be visible by the age of 30 years. Carcinoma of the large bowel develops 10-20 years after the onset of the polyposis. If there are no adenomas by the age of 30 years, FAP is unlikely. If the diagnosis is made duringadolescence, surgery is usually deferred to the age of 17 or 18 years unless symptoms develop. Malignant change is rare before the age of 20 years. Examination of blood relatives, including cousins, nephews and nieces, is essential; a family tree should be constructed and a register of affected families maintained. Referral to a medical geneticist is essential. If over 100 adenomas are present at colonoscopy, the diagnosis can be made confidently Ref: Bailey and love 27th edition Pgno : 1259"
+    "cop": 0,
+    "exp": "Familial adenomatous polyposis Familial adenomatous polyposis (FAP) is defined clinically by the presence of more than 100 colorectal adenomas, but is also characterised by duodenal adenomas and multiple extraintestinal manifestations. Over 80% of cases come from patients with a positive family history. The remainder arise as a result of new mutations in the adenomatous polyposis coli (APC) gene on the sho arm of chromosome 5. FAP is inherited as an autosomal dominant condition and is consequently equally likely in men and women. The lifetime risk of colorectal cancer is 100% in patients with FAP. FAP can also be associated with benign mesodermal tumours such as desmoid tumours and osteomas. Epidermoid cysts can also occur (Gardner's syndrome); desmoid tumours in the abdomen spread locally to involve the intestinal mesentery and, although non-metastasising, they may become unresectable. Up to 50% of patients with FAP have congenital hyperophy of the retinal pigment epithelium (CHRPE), which can be used to screen affected families if genetic testing is unavailable. CLINICAL FEATURES Polyps are usually visible on sigmoidoscopy by the age of 15 years and will almost always be visible by the age of 30 years. Carcinoma of the large bowel develops 10-20 years after the onset of the polyposis. If there are no adenomas by the age of 30 years, FAP is unlikely. If the diagnosis is made duringadolescence, surgery is usually deferred to the age of 17 or 18 years unless symptoms develop. Malignant change is rare before the age of 20 years. Examination of blood relatives, including cousins, nephews and nieces, is essential; a family tree should be constructed and a register of affected families maintained. Referral to a medical geneticist is essential. If over 100 adenomas are present at colonoscopy, the diagnosis can be made confidently Ref: Bailey and love 27th edition Pgno : 1259",
+    "hint_exp": "🧩 Your crush solved \"progression into cancer\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "da2e4838-5ff2-488d-aec2-1fcc15c880f6": {
-    "cop": 3,
-    "exp": "An influenza refers to a large group of different influenza virus that primarly affect birds. The vast majority of an influenza viruses donot infect humans. However an H5N1 is a strain with pandemic potential, since it might ultimately adapt in to a strain that is contagious among human.As this has not occured it cannot become an epidemic.Founately H5N1 virus doesn&;t jump from birds to humans of spread readily and sustainably among humans. Reference; Park&;s Textbook of preventive and social medicine, 24th edition.Pg no. 166"
+    "cop": 2,
+    "exp": "An influenza refers to a large group of different influenza virus that primarly affect birds. The vast majority of an influenza viruses donot infect humans. However an H5N1 is a strain with pandemic potential, since it might ultimately adapt in to a strain that is contagious among human.As this has not occured it cannot become an epidemic.Founately H5N1 virus doesn&;t jump from birds to humans of spread readily and sustainably among humans. Reference; Park&;s Textbook of preventive and social medicine, 24th edition.Pg no. 166",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"this\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c30b3631-8bf2-46da-9a52-ce3aca75ace6": {
-    "cop": 2,
-    "exp": "Fetal urine"
+    "cop": 1,
+    "exp": "Fetal urine",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"major contribution amniotic fluid\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c2d37f9b-bd0c-4780-8b03-db2a762642df": {
-    "cop": 3,
-    "exp": "Risk Factors or Gonococcal carriage and potential upper reproductive tract infection that merit screening are: Age <= 24 years, Prior or current STDs, New or multiple sexual paners, A paner with other concurrent paners, A paner with an STD, Lack of barrier protection in those without a monogamous relationship, Commercial sex worker, Drug abuse."
+    "cop": 2,
+    "exp": "Risk Factors or Gonococcal carriage and potential upper reproductive tract infection that merit screening are: Age <= 24 years, Prior or current STDs, New or multiple sexual paners, A paner with other concurrent paners, A paner with an STD, Lack of barrier protection in those without a monogamous relationship, Commercial sex worker, Drug abuse.",
+    "hint_exp": "🎯 Think of \"Gonorrhea\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9ade2a77-cb0f-4b60-9506-889092173c75": {
-    "cop": 1,
-    "exp": "Body plethysmography During pulmonary function testing, lung volumes are usually measured by the spirometer. But ceain lung volumes e.g., RV, FRC and TLC cannot be measured by spirometer because they include the volume of the gas left in the lung (i.e., this air cannot come out of the lung, however.forcefully one may expire). Two techniques are commonly used to measure the lung volumes. - Helium dilution method. - Body plethysmography. Helium dilution method In the helium dilution method, the subject repeatedly breathes in and out from a reservoir with a known volume of gas containing a trace amount of helium. The helium is diluted by the gas previously present in the lungs and very little is absorbed into the pulmonary circulation. From knowledge of the reservoir volume and the initial and final helium concentrations, the volume of the gas present in the lungs can he calculated. The helium dilution method may underestimate the volume of gas in lungs if there are slowly communicating airspaces such as bullae. In this situation, lung volumes can be measured more accurately with a body plethysmography a sealed box in which patient sits while panting against a closed mouthpiece. Because there is no airflow into or out of the plethysmography the pressure changes in the thorax during panting cause compression and rarefaction of gas in the lungs and simultaneous rarefaction and compression of gas in the plethysmograph. By measuring the pressure changes in the plethysmograph and at the mouthpiece the volume of gas in the thorax can he calculated using Boyle's law."
+    "cop": 0,
+    "exp": "Body plethysmography During pulmonary function testing, lung volumes are usually measured by the spirometer. But ceain lung volumes e.g., RV, FRC and TLC cannot be measured by spirometer because they include the volume of the gas left in the lung (i.e., this air cannot come out of the lung, however.forcefully one may expire). Two techniques are commonly used to measure the lung volumes. - Helium dilution method. - Body plethysmography. Helium dilution method In the helium dilution method, the subject repeatedly breathes in and out from a reservoir with a known volume of gas containing a trace amount of helium. The helium is diluted by the gas previously present in the lungs and very little is absorbed into the pulmonary circulation. From knowledge of the reservoir volume and the initial and final helium concentrations, the volume of the gas present in the lungs can he calculated. The helium dilution method may underestimate the volume of gas in lungs if there are slowly communicating airspaces such as bullae. In this situation, lung volumes can be measured more accurately with a body plethysmography a sealed box in which patient sits while panting against a closed mouthpiece. Because there is no airflow into or out of the plethysmography the pressure changes in the thorax during panting cause compression and rarefaction of gas in the lungs and simultaneous rarefaction and compression of gas in the plethysmograph. By measuring the pressure changes in the plethysmograph and at the mouthpiece the volume of gas in the thorax can he calculated using Boyle's law.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"emphysematous patient with hullous\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b399bbbc-825f-4371-a223-38b42d608efd": {
-    "cop": 1,
-    "exp": "Ethambutol causesRed Green Color Blindness (Optic Neuritis) Initially reversible, later irreversible Avoided in children. Adverse effects of other first line antitubercular drugs: Pyrazinamide :- Hyperuricemia Rifampicin :- Hepatotoxic, Discoloration of secretion Isoniazid :- Hepatotoxic, Peripheral Neuropathy"
+    "cop": 0,
+    "exp": "Ethambutol causesRed Green Color Blindness (Optic Neuritis) Initially reversible, later irreversible Avoided in children. Adverse effects of other first line antitubercular drugs: Pyrazinamide :- Hyperuricemia Rifampicin :- Hepatotoxic, Discoloration of secretion Isoniazid :- Hepatotoxic, Peripheral Neuropathy",
+    "hint_exp": "🧩 Your crush solved \"adverse effects of Eye\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6c58ac8e-a0bb-4240-ac85-36adb8eb9e28": {
-    "cop": 2,
-    "exp": "5-fluorouracil is acted upon by dihydropyrimidine dehydrogenase - Deficiency - accumulation of 5-FU - toxicity."
+    "cop": 1,
+    "exp": "5-fluorouracil is acted upon by dihydropyrimidine dehydrogenase - Deficiency - accumulation of 5-FU - toxicity.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"which of the following enzyme\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "18719546-2b3b-4ac2-af06-69d2d0b4ed43": {
-    "cop": 4,
-    "exp": "\"Waves occur 3-4 times per minute in the stomach. In the small intestine, there is an average of 12 BER cycles/min in the proximal jejunum, declining to 8/min in the distal ileum. The frequency of the wave increases along the colon, from about 2/min at the ileocecal valve to 6/min at the sigmoid.\""
+    "cop": 3,
+    "exp": "\"Waves occur 3-4 times per minute in the stomach. In the small intestine, there is an average of 12 BER cycles/min in the proximal jejunum, declining to 8/min in the distal ileum. The frequency of the wave increases along the colon, from about 2/min at the ileocecal valve to 6/min at the sigmoid.\"",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following pas of GIT\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d26102e7-844b-4669-8d7c-b3c349df5510": {
-    "cop": 4,
-    "exp": "Vital capacity Amount of air that can be exhaled with maximum effo after maximum inspiration (ERV + TV + IRV); used to assess strength of thoracic muscles as well as pulmonary function. Around 4700mlRef: Ganong review of medical physiology 23rd edition Page no: 593"
+    "cop": 3,
+    "exp": "Vital capacity Amount of air that can be exhaled with maximum effo after maximum inspiration (ERV + TV + IRV); used to assess strength of thoracic muscles as well as pulmonary function. Around 4700mlRef: Ganong review of medical physiology 23rd edition Page no: 593",
+    "hint_exp": "🎯 Think of \"an adult\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "600d918c-7cbb-4a0a-875d-005b10c4007a": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., 4.75% Finance of ESI scheme The scheme is run by contribution by employees and employers and grants from central and state governments - Employers contribution - 4.75% of total wages bills Employee contribution - 1.75% of total wages bills The state government's share of expenditure on medical care is 1/8 of total cost of medical care. The ESI corporations share of expenditure on medical care is 78 of total cost of medical care. Note - Employees getting daily wages of below Rs 50 are exempted from payment contribution."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., 4.75% Finance of ESI scheme The scheme is run by contribution by employees and employers and grants from central and state governments - Employers contribution - 4.75% of total wages bills Employee contribution - 1.75% of total wages bills The state government's share of expenditure on medical care is 1/8 of total cost of medical care. The ESI corporations share of expenditure on medical care is 78 of total cost of medical care. Note - Employees getting daily wages of below Rs 50 are exempted from payment contribution.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"progamme central state Govt\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d318e7ea-6bee-409f-ad0a-bc7e4190359b": {
-    "cop": 2,
-    "exp": "The drug of choice for shigella is ciprofloxacin. Shigella is usually resistant to ampicillin and cotrimoxazole. Ref: Park 21st edition, page 204."
+    "cop": 1,
+    "exp": "The drug of choice for shigella is ciprofloxacin. Shigella is usually resistant to ampicillin and cotrimoxazole. Ref: Park 21st edition, page 204.",
+    "hint_exp": "🧩 Your crush solved \"dysentery due to shigella\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ed6585c0-0c3e-41f5-88b8-1e9d1864c82d": {
-    "cop": 1,
-    "exp": "Sarcoidosis and Vogt - Koyanagi - Harada's disease cause granulomatous uveitis.\nBechet's disease, Psoriasis and Fuch's heterochromic iridocyclitis cause non-granulomatous uveitis."
+    "cop": 0,
+    "exp": "Sarcoidosis and Vogt - Koyanagi - Harada's disease cause granulomatous uveitis.\nBechet's disease, Psoriasis and Fuch's heterochromic iridocyclitis cause non-granulomatous uveitis.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Granulomatous uveitis seen Vogt\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "95eb1749-6e0d-4056-a8b9-8d4c6a5a7c05": {
-    "cop": 4,
-    "exp": "organic amnesia and the amnestic syndrome. .The amnestic syndrome is characterized by disorientation paicularly in time, impairment of immediate recall, loss of recent memory, retroactive loss of remote memory of varying extent and a tendency to confabulation. Ref Harrison20th edition pg 2776"
+    "cop": 3,
+    "exp": "organic amnesia and the amnestic syndrome. .The amnestic syndrome is characterized by disorientation paicularly in time, impairment of immediate recall, loss of recent memory, retroactive loss of remote memory of varying extent and a tendency to confabulation. Ref Harrison20th edition pg 2776",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of organic amnestic syndrome\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c903d218-c14b-487d-838e-e6d3fcd4fbad": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Radioactive iodine Thyroid storm is a life threatening exacerbation of thyrotoxicosis. Radioactive iodine is itself a precipitating cause of thyrotoxic crisis. Management is described in previous question. Lugol's iodine is 5% iodine in 10% Potassium iodide solution."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Radioactive iodine Thyroid storm is a life threatening exacerbation of thyrotoxicosis. Radioactive iodine is itself a precipitating cause of thyrotoxic crisis. Management is described in previous question. Lugol's iodine is 5% iodine in 10% Potassium iodide solution.",
+    "hint_exp": "🎯 Think of \"thyroid storm\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "beaaa977-224f-4f60-a90b-b2b3347409ac": {
-    "cop": 2,
-    "exp": "Endothelial Cells Synthesize Prostacyclin & Other Compounds That Affect Clotting & ThrombosisThe endothelial cells in the walls of blood vessels make impoant contributions to the overall regulation of hemostasis and thrombosis.these cells synthesize the prostanoid prostacyclin (PGI2), a potent inhibitor of platelet aggregation.Prostacyclin acts by stimulating the activity of adenylyl cyclase in the surface membranes of platelets its G protein-coupled receptor.The resulting increase of intraplatelet cAMP opposes the increase in the level of intracellular Ca2+ produced by IP3 and thus inhibits platelet activation.Reference: Harper biochemistry30th edition page no 720"
+    "cop": 1,
+    "exp": "Endothelial Cells Synthesize Prostacyclin & Other Compounds That Affect Clotting & ThrombosisThe endothelial cells in the walls of blood vessels make impoant contributions to the overall regulation of hemostasis and thrombosis.these cells synthesize the prostanoid prostacyclin (PGI2), a potent inhibitor of platelet aggregation.Prostacyclin acts by stimulating the activity of adenylyl cyclase in the surface membranes of platelets its G protein-coupled receptor.The resulting increase of intraplatelet cAMP opposes the increase in the level of intracellular Ca2+ produced by IP3 and thus inhibits platelet activation.Reference: Harper biochemistry30th edition page no 720",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d99eecb2-2dd5-4f3e-910b-14217b820e80": {
-    "cop": 2,
-    "exp": "Ans. (b) 1921Ref: Internet SourceThe year 1921 is a \"year of the great divide\" in the demographic history of India when mortality started to decline leading to acceleration in the rate of population growth. During the next three decades (1921-51) the rate of population growth continued at a level of over one per cent per annum. It is going increasingly since then. Hence the year 1921 is rightly called the demographic divide or year of great divide.Impact of economic growth in an economy will generally have the following impact on the population:* High birth rate and High death rate -Leads to low population growth (under-developed economy)* High birth rate and Low death rate -Leads to High population growth (developing economy)* Low birth rate and Low death rate -Leads to Low population growth (developed economy)* In countries where children are regarded as assets, the rate of birth will be high, however due to low economic growth the health services will be poorer leading to high death rates also. E.g. India* Once the country achieves certain level of economic growth over a period of time, the health services would become accessible to people, which would lead to high rate of birth and low rate of death.* Once a good level of economic growth and literacy rate is achieved, the people will tend to have less children, leading to low rate of birth and low rate of death."
+    "cop": 1,
+    "exp": "Ans. (b) 1921Ref: Internet SourceThe year 1921 is a \"year of the great divide\" in the demographic history of India when mortality started to decline leading to acceleration in the rate of population growth. During the next three decades (1921-51) the rate of population growth continued at a level of over one per cent per annum. It is going increasingly since then. Hence the year 1921 is rightly called the demographic divide or year of great divide.Impact of economic growth in an economy will generally have the following impact on the population:* High birth rate and High death rate -Leads to low population growth (under-developed economy)* High birth rate and Low death rate -Leads to High population growth (developing economy)* Low birth rate and Low death rate -Leads to Low population growth (developed economy)* In countries where children are regarded as assets, the rate of birth will be high, however due to low economic growth the health services will be poorer leading to high death rates also. E.g. India* Once the country achieves certain level of economic growth over a period of time, the health services would become accessible to people, which would lead to high rate of birth and low rate of death.* Once a good level of economic growth and literacy rate is achieved, the people will tend to have less children, leading to low rate of birth and low rate of death.",
+    "hint_exp": "🧩 Your crush solved \"Important great divide year\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c1b5cdfe-b924-4f48-81aa-93f8f9e83b08": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Cetrizine Impoant facts about anhistaminics Loratidine, desloratidine, ebastine and mizolastine are amongst the longest acting antihistaminic (duration of action 24 hrs). All second generation antihistaminics are metabolized to active products except cetrizine and mizolastine. Loratidine has least CNS depression action. Acrivastine is the shoest acting antihistaminic. Olopatodine is a recently approved topical HI-antihistaminic used as nasal spray for seasonal allergic rhinitis."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Cetrizine Impoant facts about anhistaminics Loratidine, desloratidine, ebastine and mizolastine are amongst the longest acting antihistaminic (duration of action 24 hrs). All second generation antihistaminics are metabolized to active products except cetrizine and mizolastine. Loratidine has least CNS depression action. Acrivastine is the shoest acting antihistaminic. Olopatodine is a recently approved topical HI-antihistaminic used as nasal spray for seasonal allergic rhinitis.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which second generation antihistaminic\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3c85b4c3-99ef-4142-9aab-fd6f3be868e9": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"positive but deep tendon jerks\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "526383c0-71a6-4672-b508-6a2a311fb7d6": {
-    "cop": 4,
-    "exp": "Sirolimus is a non-nephrotoxic -mTOR inhibitor with a long half-life of 62 hours. It was the first mTOR inhibitor to be developed in solid organ transplantation as it inhibits cell proliferation ."
+    "cop": 3,
+    "exp": "Sirolimus is a non-nephrotoxic -mTOR inhibitor with a long half-life of 62 hours. It was the first mTOR inhibitor to be developed in solid organ transplantation as it inhibits cell proliferation .",
+    "hint_exp": "🎯 Think of \"the following drug does not\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d5a287a6-816d-4959-a06c-07e7c1b87389": {
-    "cop": 4,
-    "exp": "- Image given in question is showing Gum hyperophy - common feature of M4, M5 subtype of AML OTHER ASSOCIATIONS: - DIC - M3 subtype AML - Chloromas - M2 subtype AML OTHER CLINICAL FEATURES OF AML : Pallor, fatigue, petechiae/purpura , bleeding, infection, fever, bone-pain Lymphadenopathy, hepatosplenomegaly in >60% pts"
+    "cop": 3,
+    "exp": "- Image given in question is showing Gum hyperophy - common feature of M4, M5 subtype of AML OTHER ASSOCIATIONS: - DIC - M3 subtype AML - Chloromas - M2 subtype AML OTHER CLINICAL FEATURES OF AML : Pallor, fatigue, petechiae/purpura , bleeding, infection, fever, bone-pain Lymphadenopathy, hepatosplenomegaly in >60% pts",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following haematological malignancies\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "041bd78f-92de-40b6-bfb9-11567b29e02c": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"abrasion\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

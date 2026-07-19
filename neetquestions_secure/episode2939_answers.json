@@ -1,202 +1,252 @@
 {
   "9e2701d6-7cb3-4de1-b02a-0299a14549bd": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"cells\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "dc7e0492-3cd5-450d-b6b6-8a77bdcdb883": {
-    "cop": 2,
-    "exp": "- Vein of Galen causes Obstructive or Non-communicating hydrocephalus. Causes: COMMUNICATING HYDROCEPHALUS NON-COMMUNICATING HYDROCEPHALUS C - Choroid plexus papilloma A - Achondroplasia M - Meningeal malignancy or metastasis P - Post hemorrhagic M - Mass lesion (ICSOL) A - Abscess A - Aqueductal stenosis A - Arnold Chiari malformation D - Dandy walker malformations H - Hematoma I - Infections (Toxoplasma, mumps, Neurocysticercosis) V - Vein of Galen malformations"
+    "cop": 1,
+    "exp": "- Vein of Galen causes Obstructive or Non-communicating hydrocephalus. Causes: COMMUNICATING HYDROCEPHALUS NON-COMMUNICATING HYDROCEPHALUS C - Choroid plexus papilloma A - Achondroplasia M - Meningeal malignancy or metastasis P - Post hemorrhagic M - Mass lesion (ICSOL) A - Abscess A - Aqueductal stenosis A - Arnold Chiari malformation D - Dandy walker malformations H - Hematoma I - Infections (Toxoplasma, mumps, Neurocysticercosis) V - Vein of Galen malformations",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fe2ee608-63a6-4893-b86a-9a6d8bcf74cd": {
-    "cop": 1,
-    "exp": "Ans. a. Cysteamine (Ref: Harrison 19/e p1868, 1871, 18/e p3221; Smith 17/e p249-254; Campbell 10th/1296-1302: Bailey 25/e p1295-1300)Patient with cystinuria with multiple renal stones should be treated with increase urine volume (high fluid intake), alkalinization of urine Penicillamine and tiopronin.Cystinuria (AR)Inheritance: Autosomal recessiveQMolecular defect: Shared dibasic cystine transporter SLC3A1, SLC7A9QTissue manifesting transport defect: Proximal renal tubule, jejunal mucosaQIndividual substrate: COLA (Cystine, Ornithine, Lysine, Arginine)QClinical features: Cystine nephrolithiasisQTreatment:Increase urine volumeQ (high fluid intake)Alkalinization of urineQPenicillamineQ and tiopronin undergoes sulfhydryl-disulphide exchange with cystine to form mixed disulphides, since these disulphides are much soluble than cystine, pharmacologic therapy can prevent and promote dissolution of calculi.In the given image, which shows enveloped or bipyramidal crystals are seen in calcium oxalate (dihydrate) stones.Calcium oxalateCalcium oxalate monohydrateBrushiteEnveloped or bipyramidalQDumbbell or hourglassQNeedle shapedQ StruviteUric acidCystineCoffin lidQMultifaceted, irregular plates or rosettesHexagonal or benzene ringQTypes of Renal CalculiCalcium oxalate:MC type of kidney stone (85%)QRisk factors are hypercalciuria, hypercalcemia, hyperoxaluriaHave hard, small & jagged surfaceUric acid stones:5-10 % of all kidney stones, MC radiolucent urinary calculiQ, formed in acidic urinePatients with uric acid stones may have gout, myeloproliferative disorders or Lesch-Nehan syndrome (hyperuricemia)Uric Acid Stones ManagementCornerstone of treatment: Low purine diet hydration & alkalization of urineQAllopurinolQ (Inhibits conversion of hypoxanthine & xanthine to uric add)AcetazolamideQ (may be added if urine pH is <6.5)Struvite stones (Infection stones):Composed of calcium, ammonium, magnesium phosphate (Triple phosphate stones)QTend to grow in alkaline urineQ, especially with Proteus infection and fill whole of the PCS. forming staghorn calculiyQFormed in high urinary concentration of ammoniaMore common in womenQ (increased susceptibility for UTI)Most of the stag horn calculi are silentQ & cause progressive destruction of renal parenchymaQ.Increased tendency to form struvite calculi is seen in: Foreign body in the urinary' tract (Foley's catheter) & Neurogenic bladderQ /Bladder dysfunction/Bladder outlet obstructionStruvite stones ManagementComplete stone removal +Treatment of a metabolic abnormality' + Correction of any anatomic abnormalities contributing to stasisPCNL+ESWL (best treatment option)QAntibiotics to prevent stone recurrences or growth after operative procedureAcetohydroxamic acid (irreversible inhibitor of urease)Q decreases likelihood of precipitationLow calcium, low phosphorus diet.Upto 50% of patient have stone recurrences or UTI over 10 years follow upCystine:Extremely hard stone, formed in acidic urineRelatively resistant to fragmentation by ESWLOccur in cystinuria with typical \"ground glass\" appearance with a round smooth outlineQTypical benzene or hexagonal cystine crystalsQ in urine.Cystine Stones ManagementStone removalTo lower cystine concentration in urine (Low methionine diet & alkalization)QCystine complexing agents: D- PenicillamineQ & Alpha-mercaptopropionylglycine (MPG)QXanthine:Seen in xanthinuria, radioluscentQStones are smooth, brick red colored, round & show lamination on cross sectionQ.Management: High fluid intake (most effective therapy) & AllopurinolQIndinavir:A protease inhibitor used in AIDS patients, resulting in radioluscent calculiQ in 6% patients.Silicate: Associated with long term use of antacids containing silicaQTriamterene: Antihypertensive medication, leading to radioluscentQ stones"
+    "cop": 0,
+    "exp": "Ans. a. Cysteamine (Ref: Harrison 19/e p1868, 1871, 18/e p3221; Smith 17/e p249-254; Campbell 10th/1296-1302: Bailey 25/e p1295-1300)Patient with cystinuria with multiple renal stones should be treated with increase urine volume (high fluid intake), alkalinization of urine Penicillamine and tiopronin.Cystinuria (AR)Inheritance: Autosomal recessiveQMolecular defect: Shared dibasic cystine transporter SLC3A1, SLC7A9QTissue manifesting transport defect: Proximal renal tubule, jejunal mucosaQIndividual substrate: COLA (Cystine, Ornithine, Lysine, Arginine)QClinical features: Cystine nephrolithiasisQTreatment:Increase urine volumeQ (high fluid intake)Alkalinization of urineQPenicillamineQ and tiopronin undergoes sulfhydryl-disulphide exchange with cystine to form mixed disulphides, since these disulphides are much soluble than cystine, pharmacologic therapy can prevent and promote dissolution of calculi.In the given image, which shows enveloped or bipyramidal crystals are seen in calcium oxalate (dihydrate) stones.Calcium oxalateCalcium oxalate monohydrateBrushiteEnveloped or bipyramidalQDumbbell or hourglassQNeedle shapedQ StruviteUric acidCystineCoffin lidQMultifaceted, irregular plates or rosettesHexagonal or benzene ringQTypes of Renal CalculiCalcium oxalate:MC type of kidney stone (85%)QRisk factors are hypercalciuria, hypercalcemia, hyperoxaluriaHave hard, small & jagged surfaceUric acid stones:5-10 % of all kidney stones, MC radiolucent urinary calculiQ, formed in acidic urinePatients with uric acid stones may have gout, myeloproliferative disorders or Lesch-Nehan syndrome (hyperuricemia)Uric Acid Stones ManagementCornerstone of treatment: Low purine diet hydration & alkalization of urineQAllopurinolQ (Inhibits conversion of hypoxanthine & xanthine to uric add)AcetazolamideQ (may be added if urine pH is <6.5)Struvite stones (Infection stones):Composed of calcium, ammonium, magnesium phosphate (Triple phosphate stones)QTend to grow in alkaline urineQ, especially with Proteus infection and fill whole of the PCS. forming staghorn calculiyQFormed in high urinary concentration of ammoniaMore common in womenQ (increased susceptibility for UTI)Most of the stag horn calculi are silentQ & cause progressive destruction of renal parenchymaQ.Increased tendency to form struvite calculi is seen in: Foreign body in the urinary' tract (Foley's catheter) & Neurogenic bladderQ /Bladder dysfunction/Bladder outlet obstructionStruvite stones ManagementComplete stone removal +Treatment of a metabolic abnormality' + Correction of any anatomic abnormalities contributing to stasisPCNL+ESWL (best treatment option)QAntibiotics to prevent stone recurrences or growth after operative procedureAcetohydroxamic acid (irreversible inhibitor of urease)Q decreases likelihood of precipitationLow calcium, low phosphorus diet.Upto 50% of patient have stone recurrences or UTI over 10 years follow upCystine:Extremely hard stone, formed in acidic urineRelatively resistant to fragmentation by ESWLOccur in cystinuria with typical \"ground glass\" appearance with a round smooth outlineQTypical benzene or hexagonal cystine crystalsQ in urine.Cystine Stones ManagementStone removalTo lower cystine concentration in urine (Low methionine diet & alkalization)QCystine complexing agents: D- PenicillamineQ & Alpha-mercaptopropionylglycine (MPG)QXanthine:Seen in xanthinuria, radioluscentQStones are smooth, brick red colored, round & show lamination on cross sectionQ.Management: High fluid intake (most effective therapy) & AllopurinolQIndinavir:A protease inhibitor used in AIDS patients, resulting in radioluscent calculiQ in 6% patients.Silicate: Associated with long term use of antacids containing silicaQTriamterene: Antihypertensive medication, leading to radioluscentQ stones",
+    "hint_exp": "🎯 Think of \"indicated patient with cystinuria\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "92bce9d9-1384-4619-8a97-b1cd1c2ec49a": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d4e9be1d-fbed-489f-9db1-7f7e04788988": {
-    "cop": 2,
-    "exp": "B i.e. Glycolysis Mallate shuttle is a system by which reducing equivalents (NADH) produced in glycolysisQ are transferred from cytosol to mitochondria to yield energy. NADH produced in the glycolysisQ, is extramitochondrial where as the electron transpo chain, where NADH has to be oxidized to NAD+ is in the mitochondria (Oxidation of 1 NADH yields 3 ATP/2.5 ATP). NADH is impermeable to mitochondrial membrane, so to enable transfer of NADH inside mitochondria Shuttle system is utilized."
+    "cop": 1,
+    "exp": "B i.e. Glycolysis Mallate shuttle is a system by which reducing equivalents (NADH) produced in glycolysisQ are transferred from cytosol to mitochondria to yield energy. NADH produced in the glycolysisQ, is extramitochondrial where as the electron transpo chain, where NADH has to be oxidized to NAD+ is in the mitochondria (Oxidation of 1 NADH yields 3 ATP/2.5 ATP). NADH is impermeable to mitochondrial membrane, so to enable transfer of NADH inside mitochondria Shuttle system is utilized.",
+    "hint_exp": "🧩 Your crush solved \"Malate shuttle impoant\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "105fa9cb-7e24-453e-ad81-c7baee5e2a4e": {
-    "cop": 4,
-    "exp": "Brow presentation"
+    "cop": 3,
+    "exp": "Brow presentation",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Forceps applied following except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6bb1c78d-d3f6-4401-ab86-ee4aefd83b8b": {
-    "cop": 1,
-    "exp": "As per IMNCI classification, child has no pneumonia. Antibiotics are not recommended in the management. The child is given symptomatic management. The mother is advised to give home care. Ref: Park 21st edition, page 160-161."
+    "cop": 0,
+    "exp": "As per IMNCI classification, child has no pneumonia. Antibiotics are not recommended in the management. The child is given symptomatic management. The mother is advised to give home care. Ref: Park 21st edition, page 160-161.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"respiratory rate\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "058c1cdf-c1d2-41fb-8405-064e33573208": {
-    "cop": 4,
-    "exp": "People with Auto immune thyroiditis are at an increased risk of development of other auto immune diseases : -endocrine :type 1 diabetes,auto immune adrenalitis -neurons endocrine :SLE,myasthenia gravis,Sjogrens syndrome. (Ref:ROBBINS text book of pathology)"
+    "cop": 3,
+    "exp": "People with Auto immune thyroiditis are at an increased risk of development of other auto immune diseases : -endocrine :type 1 diabetes,auto immune adrenalitis -neurons endocrine :SLE,myasthenia gravis,Sjogrens syndrome. (Ref:ROBBINS text book of pathology)",
+    "hint_exp": "🎯 Think of \"is associated with all except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "830a4f51-9252-45dd-ad9c-1106241281c3": {
-    "cop": 1,
-    "exp": "The Golgi organ (also called Golgi tendon organ, GTO, tendon organ, neurotendinous organ or neurotendinous spindle) is a proprioceptive sensory receptor organ that senses changes in muscle tension. It lies at the origins and inseion of skeletal muscle fibers into the tendons of skeletal muscle. It provides the sensory component of the Golgi tendon reflex."
+    "cop": 0,
+    "exp": "The Golgi organ (also called Golgi tendon organ, GTO, tendon organ, neurotendinous organ or neurotendinous spindle) is a proprioceptive sensory receptor organ that senses changes in muscle tension. It lies at the origins and inseion of skeletal muscle fibers into the tendons of skeletal muscle. It provides the sensory component of the Golgi tendon reflex.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Number Golgi tendon organs\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "580fecbd-ef6b-4552-bf33-7dd8c6264172": {
-    "cop": 2,
-    "exp": "Ans. (b) Fundus ExaminationOption a - Optic disc can be examined by the Direct ophthalmoscope, but it is one part of the fundus view Option b - Ophthalmoscopy is a clinical examination of the posterior segment of the eye/ Fundus examination. (Fundus is a view of the inner lining of the eye made up of the Sensory Retina, the Retinal Pigment Epithelium, Bruch's Membrane, and the Choroid).Option c - Cornea may be examined, but the role is no more than of a torch.Option d - Gonioscopy is done for it."
+    "cop": 1,
+    "exp": "Ans. (b) Fundus ExaminationOption a - Optic disc can be examined by the Direct ophthalmoscope, but it is one part of the fundus view Option b - Ophthalmoscopy is a clinical examination of the posterior segment of the eye/ Fundus examination. (Fundus is a view of the inner lining of the eye made up of the Sensory Retina, the Retinal Pigment Epithelium, Bruch's Membrane, and the Choroid).Option c - Cornea may be examined, but the role is no more than of a torch.Option d - Gonioscopy is done for it.",
+    "hint_exp": "🧩 Your crush solved \"used for\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4a944a07-1733-4423-8ed0-39778495c5ec": {
-    "cop": 1,
-    "exp": "Pyrrolizidine"
+    "cop": 0,
+    "exp": "Pyrrolizidine",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Endemic ascitis associated with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "79eeda9f-67ab-4f37-901d-2bb52604dce9": {
-    "cop": 2,
-    "exp": "Ref: R. Alagappan Manual for Medicine 4th Edition pg no:184 Cardiac Enzymes a. CPK-MB: This cardiac isoenzyme stas rising within 4-6 hrs after development of acute MI, peaks during the 2nd day (4 fold rise) and disappears in 2-3 days. Other causes of total CK elevation: 1. Skeletal diseases - Polymyositis, Muscle dys- trophy, Myopathies 2. Electrical cardioversion 3. Skeletal muscle damage - trauma, convulsions, immobilisation 4. Hypothyroidism 5. Stroke 6. Surgery b. AST: Stas rising on the 1st day, peaks in 2-3 days (3 fold rise) and disappears by 3rd day. c. LDH1: Stas rising by second day, peaks around 3- 4 days ( 3 fold rise) and disappears in 10 days. d. Troponin T: Cardiac troponin T is a regulatory contractile protein not normally found in blood. Its detection in the circulation has been shown to be a sensitive and specific marker for myocardial cell damage. Troponin T and I reach a reliable diagnostic level in plasma by 12-16 hrs, maximal activity by 24-32 hrs, returns to normal in 10-12 days. Troponin I : 0-0.4 ng/ml Troponin T: 0-0.1 ng/ml Cardiac troponins are detected in the serum by using monoclonal antibodies. These antibodies have negligible cross reactivity to skeletal muscle. Cardiac troponins I and T sta to rise within 3-4 hours after myocardial infarction and remain raised for 4-10 days"
+    "cop": 1,
+    "exp": "Ref: R. Alagappan Manual for Medicine 4th Edition pg no:184 Cardiac Enzymes a. CPK-MB: This cardiac isoenzyme stas rising within 4-6 hrs after development of acute MI, peaks during the 2nd day (4 fold rise) and disappears in 2-3 days. Other causes of total CK elevation: 1. Skeletal diseases - Polymyositis, Muscle dys- trophy, Myopathies 2. Electrical cardioversion 3. Skeletal muscle damage - trauma, convulsions, immobilisation 4. Hypothyroidism 5. Stroke 6. Surgery b. AST: Stas rising on the 1st day, peaks in 2-3 days (3 fold rise) and disappears by 3rd day. c. LDH1: Stas rising by second day, peaks around 3- 4 days ( 3 fold rise) and disappears in 10 days. d. Troponin T: Cardiac troponin T is a regulatory contractile protein not normally found in blood. Its detection in the circulation has been shown to be a sensitive and specific marker for myocardial cell damage. Troponin T and I reach a reliable diagnostic level in plasma by 12-16 hrs, maximal activity by 24-32 hrs, returns to normal in 10-12 days. Troponin I : 0-0.4 ng/ml Troponin T: 0-0.1 ng/ml Cardiac troponins are detected in the serum by using monoclonal antibodies. These antibodies have negligible cross reactivity to skeletal muscle. Cardiac troponins I and T sta to rise within 3-4 hours after myocardial infarction and remain raised for 4-10 days",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"CK which\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "57294138-eaf7-4182-b596-06340e0fc2d3": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Chepuwa Physical toure Toure is defined as deliberate, systemic or wanton infliction of physical or mental suffering by one or more persons acting alone or on the orders of any authority, to force a person to yield information, to make a confession or for any other reason. Toure may be physical or psychological. Impoant methods of physical toure are :? 1. Beating : Beating may be of following types ? Falanga (Falolka/Baatinada) : Beating of soles of feet with blunt object. Telefono : Simultaneous beating of both ears with palms. Quirofana : Beating on abdomen while upper half of body lying unsuppoed on table. 2. Electric : Electric toure may be - Piacana : Placing electric wires in vagina, mouth, anus or over nipples and testis. Black slave : Heated metal skewer inseed into anus. 3. Near suffocation : These are - Dry submarine : Plastic bag covering head and face. Wet submarine (Labaneva/Latina/Pileta): Forced immersion of victim's head in water, often contaminated with urine or vomit or blood. 4. Suspension : Suspension may be - La-Bandera : By wrist. Mercelago : By ankles. 5. Forced posture : It may be ? Planton : Prolonged standing. Cabellete (Saw horse) : Forced struddling of a bar. Parrot's perch (Jack/paude Grava) : Head down by a horizontal pole placed under knees, with the wrists bound to the ankles. Chepuwa : Tight clamping of thighs or legs with bamboo, and the tourer may press two sides of clamps with his legs or may stand on two sides of clamps (practiced on Bhutanese refugees in Nepal)."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Chepuwa Physical toure Toure is defined as deliberate, systemic or wanton infliction of physical or mental suffering by one or more persons acting alone or on the orders of any authority, to force a person to yield information, to make a confession or for any other reason. Toure may be physical or psychological. Impoant methods of physical toure are :? 1. Beating : Beating may be of following types ? Falanga (Falolka/Baatinada) : Beating of soles of feet with blunt object. Telefono : Simultaneous beating of both ears with palms. Quirofana : Beating on abdomen while upper half of body lying unsuppoed on table. 2. Electric : Electric toure may be - Piacana : Placing electric wires in vagina, mouth, anus or over nipples and testis. Black slave : Heated metal skewer inseed into anus. 3. Near suffocation : These are - Dry submarine : Plastic bag covering head and face. Wet submarine (Labaneva/Latina/Pileta): Forced immersion of victim's head in water, often contaminated with urine or vomit or blood. 4. Suspension : Suspension may be - La-Bandera : By wrist. Mercelago : By ankles. 5. Forced posture : It may be ? Planton : Prolonged standing. Cabellete (Saw horse) : Forced struddling of a bar. Parrot's perch (Jack/paude Grava) : Head down by a horizontal pole placed under knees, with the wrists bound to the ankles. Chepuwa : Tight clamping of thighs or legs with bamboo, and the tourer may press two sides of clamps with his legs or may stand on two sides of clamps (practiced on Bhutanese refugees in Nepal).",
+    "hint_exp": "🎯 Think of \"which legs or thighs\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "df780446-c1af-41fe-b764-7adea56188ec": {
-    "cop": 1,
-    "exp": "Ans. (a) HydrochlorthiazideRef KDT 6th. / 274Drugs causing glucose intolerance (hyperglycemia)* Glucocorticoids* Thiazides* Phenytoin* Pentamidine* Diazoxide* b blockers (non selective)* Protease inhibitors* b-IFN* Clozapine* b adrenergic agonist* Thyroid hormone* Nicotinic acidNote:* Sulfonylureas are oral hypoglycemic agents. They causes hypoglycemia.* ACE inhibitors also causes hypoglycemia.* Other agents causing hypoglycemia: Quinine, Pentamidine, Octreotide, Insulin."
+    "cop": 0,
+    "exp": "Ans. (a) HydrochlorthiazideRef KDT 6th. / 274Drugs causing glucose intolerance (hyperglycemia)* Glucocorticoids* Thiazides* Phenytoin* Pentamidine* Diazoxide* b blockers (non selective)* Protease inhibitors* b-IFN* Clozapine* b adrenergic agonist* Thyroid hormone* Nicotinic acidNote:* Sulfonylureas are oral hypoglycemic agents. They causes hypoglycemia.* ACE inhibitors also causes hypoglycemia.* Other agents causing hypoglycemia: Quinine, Pentamidine, Octreotide, Insulin.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Drug that leads glucose\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "29453d28-2599-4599-88df-b949ec0b8102": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. Heavy chain * There are five immunoglobulin classes (isotypes) of antibody molecules found in serum: IgG, IgM, IgA, IgE and IgD. They are distinguished by the type of heavy chain they contain.* IgG molecules possess heavy chains known as g-chains; IgMs have m-chains; IgAs have a-chains; IgEs have e-chains; and IgDs have d-chains. The variation in heavy chain polypeptides allows each immunoglobulin class to function in a different type of immune response or during a different stage of the body's defense."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. Heavy chain * There are five immunoglobulin classes (isotypes) of antibody molecules found in serum: IgG, IgM, IgA, IgE and IgD. They are distinguished by the type of heavy chain they contain.* IgG molecules possess heavy chains known as g-chains; IgMs have m-chains; IgAs have a-chains; IgEs have e-chains; and IgDs have d-chains. The variation in heavy chain polypeptides allows each immunoglobulin class to function in a different type of immune response or during a different stage of the body's defense.",
+    "hint_exp": "🧩 Your crush solved \"the class of immunoglobulin\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3b3567b9-8fa8-4a86-9c58-aa8b898058ac": {
-    "cop": 2,
-    "exp": "The epiglottis is a leaf-shaped elastic cailage situated behind the root of the tongue."
+    "cop": 1,
+    "exp": "The epiglottis is a leaf-shaped elastic cailage situated behind the root of the tongue.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"A is\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5ee15522-88f0-4888-92c0-0c45b7a649e2": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Endogenous opioids Question is straight and simple. Among the given options, only endogenous opioids are analgesic. Other three are pain producings substances. \"The effects of acupuncture are mediated paly by the endogenous opioid system\" Key concept in health phychology. Needling during acupuncture activates high threshold receptors and/or their afferents (A-delta and C). These generates segmental and extrasegmental modulation of nociceptive inputs. The mechanisms of pain relief are :- i) Activation of descending pain inhibitory pathways. ii) Release of endogenous opioids. iii) Positive feedback neural circuitry in the mesolimbic region of the brain. Acupuncture also affects autonomic nervous system."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Endogenous opioids Question is straight and simple. Among the given options, only endogenous opioids are analgesic. Other three are pain producings substances. \"The effects of acupuncture are mediated paly by the endogenous opioid system\" Key concept in health phychology. Needling during acupuncture activates high threshold receptors and/or their afferents (A-delta and C). These generates segmental and extrasegmental modulation of nociceptive inputs. The mechanisms of pain relief are :- i) Activation of descending pain inhibitory pathways. ii) Release of endogenous opioids. iii) Positive feedback neural circuitry in the mesolimbic region of the brain. Acupuncture also affects autonomic nervous system.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"relief in acupuncture\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a27573cc-b861-4320-a0a7-061125f69421": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"year male presents with\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0c4dfc19-1332-4360-977d-66bb64f08f53": {
-    "cop": 4,
-    "exp": "Ans is option 4 It is a case of MEN type 2A i.e. Medullary Ca of thyroid, pheochromocytoma, hyperparathyroidism Before surgery of medullary Ca of thyroid these patients should be screened for pheochromocytoma Screening for pheochromocytoma consists of measurement of urinary free Catecholamines and its metabolites such as metanephrines and vanillyl mandelic acid. If not done then over production of Catecholamines by pheochromocytoma may cause swings in blood pressure and arrhythmia.. Ref Harrison 17/e p 2361 Love and Bailey 24/e p 802 819"
+    "cop": 3,
+    "exp": "Ans is option 4 It is a case of MEN type 2A i.e. Medullary Ca of thyroid, pheochromocytoma, hyperparathyroidism Before surgery of medullary Ca of thyroid these patients should be screened for pheochromocytoma Screening for pheochromocytoma consists of measurement of urinary free Catecholamines and its metabolites such as metanephrines and vanillyl mandelic acid. If not done then over production of Catecholamines by pheochromocytoma may cause swings in blood pressure and arrhythmia.. Ref Harrison 17/e p 2361 Love and Bailey 24/e p 802 819",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year young woman recurrent\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "26a37962-5db2-4559-9c18-036fe484a080": {
-    "cop": 1,
-    "exp": "(A) Pseudomonas # Pseudomonas aeruginosa uses its type IV pili for twitching motility on surfaces. The ability of pili from Pseudomonas aeruginosa K (PAK) to act as an adhesin to human respiratory epithelial cells> Bacteria from the genus Spirillum have unusual types of flagella. It was originally thought that these bacteria had an individual flagellum on each end of their cells. It is now known that they have a cluster on each end, composed of about 75 individual flagella. It is the motion of these that causes the organisms to move in their characteristic corkscrew fashion.> Salmonella is a genus of rod-shaped, Gram-negative, non-spore-forming, predominantly motile enterobacteria with diameters around 0.7 to 1.5 pm, lengths from 2 to 5 pm, and flagella which grade in all directions (i.e. peritrichous).> Shigella sonnei is a non-motile, nonspore-forming, facultative anaerobic Gram-negative bacterium."
+    "cop": 0,
+    "exp": "(A) Pseudomonas # Pseudomonas aeruginosa uses its type IV pili for twitching motility on surfaces. The ability of pili from Pseudomonas aeruginosa K (PAK) to act as an adhesin to human respiratory epithelial cells> Bacteria from the genus Spirillum have unusual types of flagella. It was originally thought that these bacteria had an individual flagellum on each end of their cells. It is now known that they have a cluster on each end, composed of about 75 individual flagella. It is the motion of these that causes the organisms to move in their characteristic corkscrew fashion.> Salmonella is a genus of rod-shaped, Gram-negative, non-spore-forming, predominantly motile enterobacteria with diameters around 0.7 to 1.5 pm, lengths from 2 to 5 pm, and flagella which grade in all directions (i.e. peritrichous).> Shigella sonnei is a non-motile, nonspore-forming, facultative anaerobic Gram-negative bacterium.",
+    "hint_exp": "🧩 Your crush solved \"twitching motility on surfaces\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "951fd832-2a19-4e8e-a5c0-34fa0e765e53": {
-    "cop": 4,
-    "exp": "D i.e. Mature cataract in age group of 30-45 years ICCE is contraindicated in < 40 year age due to strong zonules. Q"
+    "cop": 3,
+    "exp": "D i.e. Mature cataract in age group of 30-45 years ICCE is contraindicated in < 40 year age due to strong zonules. Q",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"indications intracapsular cataract extraction\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "84e381a7-6255-44b1-b615-ab1fceda8e64": {
-    "cop": 1,
-    "exp": "functioning as natural ulcer protective by enhancing gastric mucus and HCO3 production as well as by improving mucosal circulation ESSENTIALS OF MEDICAL PHARMACOLOGY SEVENTH EDITION KD TRIPATHI PG NO.186"
+    "cop": 0,
+    "exp": "functioning as natural ulcer protective by enhancing gastric mucus and HCO3 production as well as by improving mucosal circulation ESSENTIALS OF MEDICAL PHARMACOLOGY SEVENTH EDITION KD TRIPATHI PG NO.186",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following agents\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ee443458-f0e7-4532-9141-a7fd81dff52c": {
-    "cop": 1,
-    "exp": "(A) 13 # RETINOBLASTOMA is a proliferation of neural cells which have failed to evolve normally.> Tumour is confined to infants and very young children and is frequently congenital> Retinoblastoma is directly associated with a genetic abnormality--deletions or mutation of the ql4 band of chromosome 13> Growth consists chiefly of small round cells with large nuclei resembling the cells of the nuclear layers of the retina.> Child is usually brought to the surgeon on account of a peculiar yellow reflex from the pupil, sometimes called leucocoria or 'amaurotic cat's eye> Clinically a cauliflower-like mass arising from the retina is seen extending into the vitreous> Calcification occurs in 75% of cases and is almost pathognomonic of retinoblastoma> X-rays can demonstrate calcification within the tumour, but a computerized tomography scan is more sensitive, as it also delineates the tumour and extension, if any, more thoroughly.> Treatment of small tumours is by local modalities such as cryotherapy for anterior lesions, photocoagulation for posterior ones, brachytherapy with 60Co or 1251 can also be used.> Treatment options for large tumours are Enucleation of the eye, External beam radiation therapy.> External beam radiotherapy confines the radiation to the affected sectors of the posterior segment of the globe and thus avoids damage to the lens and surrounding retina.> Prognosis of retinoblastoma, if untreated, is always bad, and the patient invariably dies.> Prognosis is fair if extraocular extension is avoided."
+    "cop": 0,
+    "exp": "(A) 13 # RETINOBLASTOMA is a proliferation of neural cells which have failed to evolve normally.> Tumour is confined to infants and very young children and is frequently congenital> Retinoblastoma is directly associated with a genetic abnormality--deletions or mutation of the ql4 band of chromosome 13> Growth consists chiefly of small round cells with large nuclei resembling the cells of the nuclear layers of the retina.> Child is usually brought to the surgeon on account of a peculiar yellow reflex from the pupil, sometimes called leucocoria or 'amaurotic cat's eye> Clinically a cauliflower-like mass arising from the retina is seen extending into the vitreous> Calcification occurs in 75% of cases and is almost pathognomonic of retinoblastoma> X-rays can demonstrate calcification within the tumour, but a computerized tomography scan is more sensitive, as it also delineates the tumour and extension, if any, more thoroughly.> Treatment of small tumours is by local modalities such as cryotherapy for anterior lesions, photocoagulation for posterior ones, brachytherapy with 60Co or 1251 can also be used.> Treatment options for large tumours are Enucleation of the eye, External beam radiation therapy.> External beam radiotherapy confines the radiation to the affected sectors of the posterior segment of the globe and thus avoids damage to the lens and surrounding retina.> Prognosis of retinoblastoma, if untreated, is always bad, and the patient invariably dies.> Prognosis is fair if extraocular extension is avoided.",
+    "hint_exp": "🎯 Think of \"Retinoblastoma associated with which\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "7bdcf08f-775e-4ad7-b1f8-a6928b40c8c8": {
-    "cop": 1,
-    "exp": "TYPES OF BIOLOGICAL INDICATORS : BIOLOGICAL INDICATORS contain the bacterial spores used for monitoring. The spores used are Geobacillus stearothermophilus (for testing steam or chemical vapor sterilization) or Bacillus subtilis (for testing dry-heat or ethylene oxide gas sterilization). Currently, no BIs are available for routine testing of liquid chemical sterilants or disinfectants. Demonstrating the death of bacterial spores provides the main guarantee of sterilization, because it assess the process directly using live resistant microorganisms. Using bacterial spores to monitor the sterilization process is referred to as biologic monitoring (or spore-testing) and the bacterial spores used for monitoring the sterilization process are referred to as biologic indicators (BIs). REF : ANANTHANARYANA 9TH ED"
+    "cop": 0,
+    "exp": "TYPES OF BIOLOGICAL INDICATORS : BIOLOGICAL INDICATORS contain the bacterial spores used for monitoring. The spores used are Geobacillus stearothermophilus (for testing steam or chemical vapor sterilization) or Bacillus subtilis (for testing dry-heat or ethylene oxide gas sterilization). Currently, no BIs are available for routine testing of liquid chemical sterilants or disinfectants. Demonstrating the death of bacterial spores provides the main guarantee of sterilization, because it assess the process directly using live resistant microorganisms. Using bacterial spores to monitor the sterilization process is referred to as biologic monitoring (or spore-testing) and the bacterial spores used for monitoring the sterilization process are referred to as biologic indicators (BIs). REF : ANANTHANARYANA 9TH ED",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"assessed by using\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "890e6715-85ff-4ec9-8293-6bac11b71397": {
-    "cop": 1,
-    "exp": "Ans. (a) 6 monthsRef: Bailey and Love 26th edition. Page 638Timing of surgery of each type of Cleft is given by Delaire sequence:* Unilateral cleft lip alone - One operation at 5-6 months* Bilateral cleft lip - One operation at 4-5 months* Soft palate only - One operation at 6 months* Soft and Hard Palate Only - as Two operations (Soft palate at 6 months and Hard palate at 15-18 months)* Combined Cleft lip and Palate (Unilateral or Bilateral): Two operations (Cleft lip and Soft palate at 5-6 months. Hard Palate at 15-18 months)"
+    "cop": 0,
+    "exp": "Ans. (a) 6 monthsRef: Bailey and Love 26th edition. Page 638Timing of surgery of each type of Cleft is given by Delaire sequence:* Unilateral cleft lip alone - One operation at 5-6 months* Bilateral cleft lip - One operation at 4-5 months* Soft palate only - One operation at 6 months* Soft and Hard Palate Only - as Two operations (Soft palate at 6 months and Hard palate at 15-18 months)* Combined Cleft lip and Palate (Unilateral or Bilateral): Two operations (Cleft lip and Soft palate at 5-6 months. Hard Palate at 15-18 months)",
+    "hint_exp": "🧩 Your crush solved \"Cleft repair minimum repair\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "978c504e-857e-4989-a4e8-5fc6d4ef02b0": {
-    "cop": 4,
-    "exp": "The marked muscle is Teres minor. It is supplied by Axillary nerve which also supplies deltoid."
+    "cop": 3,
+    "exp": "The marked muscle is Teres minor. It is supplied by Axillary nerve which also supplies deltoid.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"nerve supplying muscle marked\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "7f3f82ab-ba93-4758-a536-dd5769d00ef2": {
-    "cop": 3,
-    "exp": "White infarcts occur with aerial occlusions in solid organs with end-aerial circulations (e.g., hea, spleen, and kidney), and where tissue density limits the seepage of blood from adjoining patent vascular beds. Infarcts tend to be wedge-shaped, with the occluded vessel at the apex and the organ periphery forming the base ; when the base is a serosal surface, there is often an overlying fibrinous exudate. The margins of acute infarcts typically are indistinct and slightly hemorrhagic; with time, the edges become better defined by a narrow rim of hyperemia attributable to inflammation. ( Robbins Basic Pathology, 9 th edition, page 92)"
+    "cop": 2,
+    "exp": "White infarcts occur with aerial occlusions in solid organs with end-aerial circulations (e.g., hea, spleen, and kidney), and where tissue density limits the seepage of blood from adjoining patent vascular beds. Infarcts tend to be wedge-shaped, with the occluded vessel at the apex and the organ periphery forming the base ; when the base is a serosal surface, there is often an overlying fibrinous exudate. The margins of acute infarcts typically are indistinct and slightly hemorrhagic; with time, the edges become better defined by a narrow rim of hyperemia attributable to inflammation. ( Robbins Basic Pathology, 9 th edition, page 92)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"White infact seen\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "24ed7d03-80b7-4f6c-bbbb-3176d7f58cee": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"uniform staining reaction morphology\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "87ed8950-c72d-4b7a-91ee-cc9e52edb060": {
-    "cop": 1,
-    "exp": "Ans:A.)Folic Acid.ONE CARBON GENERATION AND UTILIZATION"
+    "cop": 0,
+    "exp": "Ans:A.)Folic Acid.ONE CARBON GENERATION AND UTILIZATION",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Vitamin involved carbon metabolism\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4268e485-541d-4b3e-9f1b-06a80442eecb": {
-    "cop": 2,
-    "exp": "Two molecules of cysteine make cysteine (cys-cys) or dithio b, b-a amino propionic acid. The SS linkage is called as disulfide bridge. Ref: Textbook of medical biochemistry, MN Chatterji, 8th edition, page no: 78"
+    "cop": 1,
+    "exp": "Two molecules of cysteine make cysteine (cys-cys) or dithio b, b-a amino propionic acid. The SS linkage is called as disulfide bridge. Ref: Textbook of medical biochemistry, MN Chatterji, 8th edition, page no: 78",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "92004bd9-d985-4894-88d3-36fe2d5f622c": {
-    "cop": 3,
-    "exp": "Enamel spindle-\n\nDiameter (2μ)\nExtended odontoblast processes in enamel\nPerpendicular (right angle) to dentin\nDDT (Dark – Dehydrated – Transmitted light)"
+    "cop": 2,
+    "exp": "Enamel spindle-\n\nDiameter (2μ)\nExtended odontoblast processes in enamel\nPerpendicular (right angle) to dentin\nDDT (Dark – Dehydrated – Transmitted light)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"enamel spindle\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "987a39e1-b55a-4bb5-89c4-45c362e3168e": {
-    "cop": 2,
-    "exp": "Underlying posterior urethral valve (PUV) may be responsible for poor urinary stream that can be diagnosed on USG abdomen"
+    "cop": 1,
+    "exp": "Underlying posterior urethral valve (PUV) may be responsible for poor urinary stream that can be diagnosed on USG abdomen",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"choice for evaluation\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2b168aaf-ab61-487b-a051-2e1580c59b4c": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Acute reversible pulpitis treated\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bcfb4ebf-78aa-49ed-84d1-f10d36b75887": {
-    "cop": 3,
-    "exp": "Ref Harrison 19 th ed pg 1594 Because of cardiac troponins are elevated for prolonged periods an episode of recurrent ischemia after four days would be more readily diagnosed with a marker that remains elevated in blood more briefly such as CK-MB which returns to normal levels by 72 hours ."
+    "cop": 2,
+    "exp": "Ref Harrison 19 th ed pg 1594 Because of cardiac troponins are elevated for prolonged periods an episode of recurrent ischemia after four days would be more readily diagnosed with a marker that remains elevated in blood more briefly such as CK-MB which returns to normal levels by 72 hours .",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Troponin preferable diagnosis acute\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a26ac716-8ca1-435e-9d38-c888b17acba3": {
-    "cop": 1,
-    "exp": "The lateral rectus is supplied by the VIth cranial or abducent nerve (LR6). The remaining five extraocular muscles; superior, inferior and medial recti; inferior oblique and levator palpebrae superioris are all supplied by the Illrd cranial or oculomotor nerve. Ref: BD Chaurasia's HUMAN ANATOMY, Volume 3, 4th edition."
+    "cop": 0,
+    "exp": "The lateral rectus is supplied by the VIth cranial or abducent nerve (LR6). The remaining five extraocular muscles; superior, inferior and medial recti; inferior oblique and levator palpebrae superioris are all supplied by the Illrd cranial or oculomotor nerve. Ref: BD Chaurasia's HUMAN ANATOMY, Volume 3, 4th edition.",
+    "hint_exp": "🧩 Your crush solved \"the following except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9503ef96-fed4-4ec6-bca9-fea54738e0cc": {
-    "cop": 3,
-    "exp": "Decerebrate rigidity is characterised by adducted arms and extended elbow"
+    "cop": 2,
+    "exp": "Decerebrate rigidity is characterised by adducted arms and extended elbow",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"characterised by all except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3dea4b89-62f8-4737-bc81-a99ff91a1c93": {
-    "cop": 4,
-    "exp": "Menstrual regulation"
+    "cop": 3,
+    "exp": "Menstrual regulation",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following methods\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2ec889c7-100a-42e0-92fd-54b3fa386e92": {
-    "cop": 3,
-    "exp": "Answer is C (Decreased after load) Hepatojugular reflux results from an increase in preload and afterload to the right atrium and ventricle (and not by a decrease in after load). Hepatojugular reflux is a characteristic feature of Right ventricular, failure. Tricuspid regurgitation and Puhnonic stenosis are both causes of right ventricular failure and may hence produce a positive hepatojugular reflux."
+    "cop": 2,
+    "exp": "Answer is C (Decreased after load) Hepatojugular reflux results from an increase in preload and afterload to the right atrium and ventricle (and not by a decrease in after load). Hepatojugular reflux is a characteristic feature of Right ventricular, failure. Tricuspid regurgitation and Puhnonic stenosis are both causes of right ventricular failure and may hence produce a positive hepatojugular reflux.",
+    "hint_exp": "🎯 Think of \"Positive hepatojugular reflux found\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "345e8802-a06f-49b3-93fa-37605d21c5c5": {
-    "cop": 1,
-    "exp": "- People who are heterozygous to sickle cell trait (HbS) are protective against plasmodium falciparum,. - In this condition, parasites grow poorly/die d/tlow oxygen concentrations. Conditions providing protection against malaria G6PD deficiency Thalassemia Sickle cell disease Absence of DUFFY antigen Pyruvate kinase deficiency HbC"
+    "cop": 0,
+    "exp": "- People who are heterozygous to sickle cell trait (HbS) are protective against plasmodium falciparum,. - In this condition, parasites grow poorly/die d/tlow oxygen concentrations. Conditions providing protection against malaria G6PD deficiency Thalassemia Sickle cell disease Absence of DUFFY antigen Pyruvate kinase deficiency HbC",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Person having heterozygous sickle\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "386941ef-bda5-4736-ae51-c0a974d572e1": {
-    "cop": 4,
-    "exp": "Phentolamine is an a blocker whereas propranolol is a b blocker. So, phentolamine will block those actions which are mediated by a receptors .i.e. contraction of radial smooth muscle in the iris."
+    "cop": 3,
+    "exp": "Phentolamine is an a blocker whereas propranolol is a b blocker. So, phentolamine will block those actions which are mediated by a receptors .i.e. contraction of radial smooth muscle in the iris.",
+    "hint_exp": "🧩 Your crush solved \"Which following effects adrenaline\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "289d7753-1125-4168-9d49-2d97ee920387": {
-    "cop": 1,
-    "exp": "The exact etiology of otosclerosis is not known. In otosclerosis family history/heredity plays an important role. About 50% of patients of otosclerosis have a positive family history.\n\nIt is an automosal dominant conditionQ\nShows incomplete penetranceQ and variable expressionQ\n\nAlso Remember:      It may be associated with Vander Hoeve syndrome"
+    "cop": 0,
+    "exp": "The exact etiology of otosclerosis is not known. In otosclerosis family history/heredity plays an important role. About 50% of patients of otosclerosis have a positive family history.\n\nIt is an automosal dominant conditionQ\nShows incomplete penetranceQ and variable expressionQ\n\nAlso Remember:      It may be associated with Vander Hoeve syndrome",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Otospongiosis inherited\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "36177d28-52fe-4e57-8984-dcd38090eada": {
-    "cop": 2,
-    "exp": "Disease Primary defect Secondary defect DiGeorge Syndrome (Thymic Hypoplasia) 22q11 deletion Failure of development of 3rd & 4th pharyngeal pouches T-cell defect Tetany Congenital defects of hea and great vessels Mucocutaneous candidiasis"
+    "cop": 1,
+    "exp": "Disease Primary defect Secondary defect DiGeorge Syndrome (Thymic Hypoplasia) 22q11 deletion Failure of development of 3rd & 4th pharyngeal pouches T-cell defect Tetany Congenital defects of hea and great vessels Mucocutaneous candidiasis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c16c13a0-6357-4f27-987e-8a2360805941": {
-    "cop": 3,
-    "exp": "Tetrology of fallot characterized by right ventricular outflow obstruction( pulmonary stenosis),right ventricular hyperophy,VSD,aoa that override the VSD. Ref : Ghai essential of pediatrics, 8th edition, p.no:420 ; Harrison principals of internal medicine,19th edition,p.no:1526"
+    "cop": 2,
+    "exp": "Tetrology of fallot characterized by right ventricular outflow obstruction( pulmonary stenosis),right ventricular hyperophy,VSD,aoa that override the VSD. Ref : Ghai essential of pediatrics, 8th edition, p.no:420 ; Harrison principals of internal medicine,19th edition,p.no:1526",
+    "hint_exp": "🎯 Think of \"following features true tetralogy\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6623a060-a216-4a6b-a61a-06dee1954c4f": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e.. Nyaya Sabha"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e.. Nyaya Sabha",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Panchayati includes except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5a4a5f22-13c4-4b8d-a694-eed0424b0cb4": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Vitamin E o Recently the cytotoxic effect of Vitamin Eon human lymphocytes in vitro at high concentrations has been repoed. This being so, caution should he exercised against the mega-dose counsuption of Vtamin E in clinical practice."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Vitamin E o Recently the cytotoxic effect of Vitamin Eon human lymphocytes in vitro at high concentrations has been repoed. This being so, caution should he exercised against the mega-dose counsuption of Vtamin E in clinical practice.",
+    "hint_exp": "🧩 Your crush solved \"which following cytotoxic effect\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "559b2820-a2fb-4c3d-8aef-7628555dba31": {
-    "cop": 1,
-    "exp": "M' Fadyean's reaction: When blood films containing anthrax bacilli are stained with polychrome methylene blue for a few seconds and examined under a Microscope, amorphous purplish material is noticed around the bacilli. This represents the capsular material and is characteristic of the anthrax bacilli. Reference: Textbook of Microbiology; Anathanarayan and panicker's; 10th edition; Page no: 251"
+    "cop": 0,
+    "exp": "M' Fadyean's reaction: When blood films containing anthrax bacilli are stained with polychrome methylene blue for a few seconds and examined under a Microscope, amorphous purplish material is noticed around the bacilli. This represents the capsular material and is characteristic of the anthrax bacilli. Reference: Textbook of Microbiology; Anathanarayan and panicker's; 10th edition; Page no: 251",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "09914272-475e-41b5-9c43-3ec50b67b057": {
-    "cop": 4,
-    "exp": "Stapedius muscle - derivative of 2nd phyrangel arch Supplied by Fcaial nerve (nerve to stapedius) which is also 2nd phyrangeal arch derivative Aery of 2nd phyrageal arch - stapedial aery Origin of stapedius- from pyramidal eminence and inseed into neck of stapes. Function- stapedial Reflex / Acoustic reflex- when loud sounds (above 90 db ) are perceived -stapedial muscle contracts -stapes pulled back"
+    "cop": 3,
+    "exp": "Stapedius muscle - derivative of 2nd phyrangel arch Supplied by Fcaial nerve (nerve to stapedius) which is also 2nd phyrangeal arch derivative Aery of 2nd phyrageal arch - stapedial aery Origin of stapedius- from pyramidal eminence and inseed into neck of stapes. Function- stapedial Reflex / Acoustic reflex- when loud sounds (above 90 db ) are perceived -stapedial muscle contracts -stapes pulled back",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"innervated by\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9d1c6c02-25e2-4c7c-b954-875e2ef1bd04": {
-    "cop": 3,
-    "exp": "Asthenospermia or poor sperm motility is due to missing dynein arms, which is the basic defect of Kaagener's syndrome. It is a ciliopathic, autosomal recessive genetic disorder. Around 90% of individuals with kaagener's have ultrastructural defects affecting protein(s) in the outer and/or innerdynein arms. Triad consist of:- - situs inversus - chronic sinusitis - bronchiectasis."
+    "cop": 2,
+    "exp": "Asthenospermia or poor sperm motility is due to missing dynein arms, which is the basic defect of Kaagener's syndrome. It is a ciliopathic, autosomal recessive genetic disorder. Around 90% of individuals with kaagener's have ultrastructural defects affecting protein(s) in the outer and/or innerdynein arms. Triad consist of:- - situs inversus - chronic sinusitis - bronchiectasis.",
+    "hint_exp": "🎯 Think of \"Kaagener syndrome\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4604d1e5-6b0a-43de-b1cb-dacaa9d4433f": {
-    "cop": 1,
-    "exp": ".point source epidemics ,here the eriod of exposure is only brief,and simultaneous ,the resultant cases will develop within one incubation period of the disease.the curve has usually one peak.the epidemic curve rises and falls rapidly, with no secondary waves.and it tends to be explosive. ref:park&;s textbook,ed 22,pg no 62"
+    "cop": 0,
+    "exp": ".point source epidemics ,here the eriod of exposure is only brief,and simultaneous ,the resultant cases will develop within one incubation period of the disease.the curve has usually one peak.the epidemic curve rises and falls rapidly, with no secondary waves.and it tends to be explosive. ref:park&;s textbook,ed 22,pg no 62",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"point source epidemic\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0c885a69-b3b3-4b89-aa0a-aeee421de060": {
-    "cop": 3,
-    "exp": "Sinovaginal bulbREF: Gray's anatomy 39th ed p-1385, Blueprints Obstetrics and Gynecology by Tamara L. Callahan, Aaron B. Caughey Page 140,Pediatric and adolescent gynecology by Marc R. Laufer, Donald Peter Goldstein Page 337See APPENDIX-5 for \"Adult derivatives and vestigial remains of embryonic urogenital structures\" Repeated in June 2011 andDecember 2011The sinovaginal bulb originates from urogenital sinus.Distally sinovaginal bulb and proximally overgrowth of Mullerian duct at Mullerian tubercle results in formation of vaginal plate which on canalization forms upper and lower vagina respectively.The first and second poions of Mullerian duct forms the fimbriae and the fallopian tubes while distal segment forms the uterus and upper vagina.Distal most poion of sinovaginal bulb forms the Hymen."
+    "cop": 2,
+    "exp": "Sinovaginal bulbREF: Gray's anatomy 39th ed p-1385, Blueprints Obstetrics and Gynecology by Tamara L. Callahan, Aaron B. Caughey Page 140,Pediatric and adolescent gynecology by Marc R. Laufer, Donald Peter Goldstein Page 337See APPENDIX-5 for \"Adult derivatives and vestigial remains of embryonic urogenital structures\" Repeated in June 2011 andDecember 2011The sinovaginal bulb originates from urogenital sinus.Distally sinovaginal bulb and proximally overgrowth of Mullerian duct at Mullerian tubercle results in formation of vaginal plate which on canalization forms upper and lower vagina respectively.The first and second poions of Mullerian duct forms the fimbriae and the fallopian tubes while distal segment forms the uterus and upper vagina.Distal most poion of sinovaginal bulb forms the Hymen.",
+    "hint_exp": "🧩 Your crush solved \"vagina\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

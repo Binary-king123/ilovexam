@@ -1,202 +1,252 @@
 {
   "ae6256c5-17c2-44a4-ae5d-a121761e799a": {
-    "cop": 2,
-    "exp": "Ans. B. NAD.a. Members of Hemophilus require for one or more of the accessory factors: X & V in bloodb. Factor X is heme whereas factor V is NAD/NADP.c. The V factor (NAD) is trapped in the RBC's in blood agar. Hence, on blood agar, Hemophilus influenzae shows poor growth.d. By heating blood agar, V factor is released into the medium."
+    "cop": 1,
+    "exp": "Ans. B. NAD.a. Members of Hemophilus require for one or more of the accessory factors: X & V in bloodb. Factor X is heme whereas factor V is NAD/NADP.c. The V factor (NAD) is trapped in the RBC's in blood agar. Hence, on blood agar, Hemophilus influenzae shows poor growth.d. By heating blood agar, V factor is released into the medium.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"sheep erythrocytes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cb8c9624-36be-4799-b339-42108aad99b7": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Staphylococcus aureus differs from\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "65dd0cd1-0160-43bc-aab8-84472503492d": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"School water fluoridation considered\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "deeb1b2a-1d81-4651-b7c4-fb242fd29055": {
-    "cop": 2,
-    "exp": "B i.e. Vibration and Proprioception In anterior spinal aery syndrome all spinal cord function (motor, sensory and autonomic) are lost below the level of lesion with the striking exception of retained vibration and position senseQ."
+    "cop": 1,
+    "exp": "B i.e. Vibration and Proprioception In anterior spinal aery syndrome all spinal cord function (motor, sensory and autonomic) are lost below the level of lesion with the striking exception of retained vibration and position senseQ.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"lesion of anterior spinal aery\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6f761f29-c37b-4ead-9fc0-461a3d24b0a5": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Decreased standard error Also Know: o Greater the standard detion (a), greater will be the standard error (SE), especially in small samples o SE can be minimized by reducing SD: By taking a large sample o SE is measure of variability of sample summaries: SE. is the SD of sample means Uses of standard error of mean (SE.) in large samples: i) To work out limits of desired confidence within which population mean would lie. ii) To determine if sample is drawn from a known population or not iii) To find SE of difference between 2 means (to know if difference is real and statistically significant) iv) To calculate sample size (within desired confidence limits)"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Decreased standard error Also Know: o Greater the standard detion (a), greater will be the standard error (SE), especially in small samples o SE can be minimized by reducing SD: By taking a large sample o SE is measure of variability of sample summaries: SE. is the SD of sample means Uses of standard error of mean (SE.) in large samples: i) To work out limits of desired confidence within which population mean would lie. ii) To determine if sample is drawn from a known population or not iii) To find SE of difference between 2 means (to know if difference is real and statistically significant) iv) To calculate sample size (within desired confidence limits)",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "12396d04-3754-45fe-b18b-fbe79c9f644f": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"phenylketonuria\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e904a0b0-167e-442e-9adc-136b9e7ed1e4": {
-    "cop": 1,
-    "exp": "In anaemic hypoxia, a reduction in hemoglobin concentration of the blood is accompanied by a corresponding decline in the O2-carrying capacity of the blood. Although the PaO2 is normal in anemic hypoxia, the absolute quantity of O2 transpoed per unit volume of blood is diminished. As the anemic blood passes through the capillaries and the usual quantity of O2 is removed from it, the PO2 and saturation in the venous blood decline to a greater extent than normal. Must Know: Classification of hypoxia: Hypoxic hypoxia, in which the PO2 of the aerial blood is reduced. Anemic hypoxia, in which the aerial PO2 is normal but the amount of hemoglobin available to carry O2 is reduced. Ischemic or stagnant hypoxia, in which the blood flow to a tissue is so low that adequate O2 is not delivered to it despite a normal PO2 and hemoglobin concentration. Histotoxic hypoxia, in which the amount of O2 delivered to a tissue is adequate but, because of the action of a toxic agent, the tissue cells cannot make use of the O2 supplied to them. Ref: Loscalzo J. (2012). Chapter 35. Hypoxia and Cyanosis. In D.L. Longo, A.S. Fauci, D.L. Kasper, S.L. Hauser, J.L. Jameson, J. Loscalzo (Eds), Harrison's Principles of Internal Medicine, 18e."
+    "cop": 0,
+    "exp": "In anaemic hypoxia, a reduction in hemoglobin concentration of the blood is accompanied by a corresponding decline in the O2-carrying capacity of the blood. Although the PaO2 is normal in anemic hypoxia, the absolute quantity of O2 transpoed per unit volume of blood is diminished. As the anemic blood passes through the capillaries and the usual quantity of O2 is removed from it, the PO2 and saturation in the venous blood decline to a greater extent than normal. Must Know: Classification of hypoxia: Hypoxic hypoxia, in which the PO2 of the aerial blood is reduced. Anemic hypoxia, in which the aerial PO2 is normal but the amount of hemoglobin available to carry O2 is reduced. Ischemic or stagnant hypoxia, in which the blood flow to a tissue is so low that adequate O2 is not delivered to it despite a normal PO2 and hemoglobin concentration. Histotoxic hypoxia, in which the amount of O2 delivered to a tissue is adequate but, because of the action of a toxic agent, the tissue cells cannot make use of the O2 supplied to them. Ref: Loscalzo J. (2012). Chapter 35. Hypoxia and Cyanosis. In D.L. Longo, A.S. Fauci, D.L. Kasper, S.L. Hauser, J.L. Jameson, J. Loscalzo (Eds), Harrison's Principles of Internal Medicine, 18e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following type hypoxia\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "299e592b-0896-43e8-b3a8-0af508e0d942": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Lead * Lead is the most common agent used in modern constructions (Room design) to offer radiation shielding.* Computed tomography is a special type of x-ray procedure. A1 the precautions are same as X-rays."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Lead * Lead is the most common agent used in modern constructions (Room design) to offer radiation shielding.* Computed tomography is a special type of x-ray procedure. A1 the precautions are same as X-rays.",
+    "hint_exp": "🎯 Think of \"CT scan rooms\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "38292b3a-46cf-44a6-80b4-9b9f2392abbe": {
-    "cop": 3,
-    "exp": "C i.e. Radioactivity"
+    "cop": 2,
+    "exp": "C i.e. Radioactivity",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Curie unit\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1a893494-f967-4b01-8929-f82dfba4d20c": {
-    "cop": 3,
-    "exp": "ANTERIOR COMPAMENT( leg):- Muscles:- 1. Tibialis anterior 2. Extensor hallucis longus 3. Extensor digitorum longus 4. Peroneus teius. Aery:anterior tibial aery.The blood supply of anterior compament is reinforced by the perforating branch of peroneal aery. Nerve:-Deep peroneal nerve. Muscle action:- 1. Tibialis anterior-Dorsiflexor of foot,inveor of foot,keeps leg veical while walking on uneven ground, maintain medial longitudinal arch of foot. 2. EHL:- Dorsiflexor of foot,extends metatarsophalangeal and interphalangeal joint of big toe. 3. EDL:- Dorsiflexor of foot,extends metatarsophalangeal ,proximal and distal interphalangeal joint of 2nd-5th toe. 4. Peroneus teius-Dorsiflexor and eveor of foot. 5. Extensor digitorum longus-medial tendon known as the extensor hallucis brevis,extends metatarsophalangeal joint of big toe.The other three lateral tendon extends the metatarsophalangeal and interphalangeal joints of 2 nd 3 rd and 4 th toe paicularly in dorsiflexed foot. Peroneus longus is muscle of lateral compament. {Reference: BDC 6E}"
+    "cop": 2,
+    "exp": "ANTERIOR COMPAMENT( leg):- Muscles:- 1. Tibialis anterior 2. Extensor hallucis longus 3. Extensor digitorum longus 4. Peroneus teius. Aery:anterior tibial aery.The blood supply of anterior compament is reinforced by the perforating branch of peroneal aery. Nerve:-Deep peroneal nerve. Muscle action:- 1. Tibialis anterior-Dorsiflexor of foot,inveor of foot,keeps leg veical while walking on uneven ground, maintain medial longitudinal arch of foot. 2. EHL:- Dorsiflexor of foot,extends metatarsophalangeal and interphalangeal joint of big toe. 3. EDL:- Dorsiflexor of foot,extends metatarsophalangeal ,proximal and distal interphalangeal joint of 2nd-5th toe. 4. Peroneus teius-Dorsiflexor and eveor of foot. 5. Extensor digitorum longus-medial tendon known as the extensor hallucis brevis,extends metatarsophalangeal joint of big toe.The other three lateral tendon extends the metatarsophalangeal and interphalangeal joints of 2 nd 3 rd and 4 th toe paicularly in dorsiflexed foot. Peroneus longus is muscle of lateral compament. {Reference: BDC 6E}",
+    "hint_exp": "🧩 Your crush solved \"leg except\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3ab37e31-e873-495d-9b92-845631a2f1e3": {
-    "cop": 3,
-    "exp": "Ans. C. Pharmacokinetic antagonista. Rifampicin is an enzyme inducer of CY3A4 and ritonavir is metabolized by CYP3A4.b. Thus rifampicin can antagonize ritonavir by inducing its metabolism; known as pharmacokinetic antagonism."
+    "cop": 2,
+    "exp": "Ans. C. Pharmacokinetic antagonista. Rifampicin is an enzyme inducer of CY3A4 and ritonavir is metabolized by CYP3A4.b. Thus rifampicin can antagonize ritonavir by inducing its metabolism; known as pharmacokinetic antagonism.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"and ritonavir\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cc7358ba-723e-4ad1-85eb-144da27a2729": {
-    "cop": 1,
-    "exp": "Pityriasis versicolor or Tinea versicolor is a superficial infection of the skin caused by Malassezia furfur (Pityrosporum orbiculare). -Drugs for T. versicolor - Topical - Selenium sulfide, salicylic acid, solution containing sulfur, terbinafine cream. Oral - Ketoconazole. Tinea corporis: Oral terbinafine or itraconazole are the drugs of choice for treatment. The antifungal drugs recommended depends upon the type of candidiasis: Cutaneous candidiasis or oral thrush - drug of choice is topical azole Esophageal and vulvovaginal candidiasis - drug of choice is oral fluconazole Disseminated candidiasis - drug of choice is Amphotericin B"
+    "cop": 0,
+    "exp": "Pityriasis versicolor or Tinea versicolor is a superficial infection of the skin caused by Malassezia furfur (Pityrosporum orbiculare). -Drugs for T. versicolor - Topical - Selenium sulfide, salicylic acid, solution containing sulfur, terbinafine cream. Oral - Ketoconazole. Tinea corporis: Oral terbinafine or itraconazole are the drugs of choice for treatment. The antifungal drugs recommended depends upon the type of candidiasis: Cutaneous candidiasis or oral thrush - drug of choice is topical azole Esophageal and vulvovaginal candidiasis - drug of choice is oral fluconazole Disseminated candidiasis - drug of choice is Amphotericin B",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Selenium sulfide indicated treating\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0373f6be-501e-4180-9f29-b1b5d69d5c61": {
-    "cop": 3,
-    "exp": "NASOPHARYNGEAL CANCER On the basis of histology, as seen on light microscopy, WHO has lately reclassified epithelial growths into three types:- Ref:- Dhingra; pg num:-250"
+    "cop": 2,
+    "exp": "NASOPHARYNGEAL CANCER On the basis of histology, as seen on light microscopy, WHO has lately reclassified epithelial growths into three types:- Ref:- Dhingra; pg num:-250",
+    "hint_exp": "🎯 Think of \"Undifferentiated carcinoma nasopharynx belongs\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b789a07e-8270-4615-ad26-51f22e0c69b5": {
-    "cop": 4,
-    "exp": "* Fetal scalp blood testing is a technique during labor to confirm whether the oxygenation is sufficient.* Two constituents are tested by this method they are pH and lactate , both being indicators of acid base homeostasis.Normal values should be pH >7.25. * acidemia is <7.21 Reference: GHAI Essential pediatrics, 8th edition"
+    "cop": 3,
+    "exp": "* Fetal scalp blood testing is a technique during labor to confirm whether the oxygenation is sufficient.* Two constituents are tested by this method they are pH and lactate , both being indicators of acid base homeostasis.Normal values should be pH >7.25. * acidemia is <7.21 Reference: GHAI Essential pediatrics, 8th edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Fetal scalp pH\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fcc8ded9-9f28-4686-b345-aafd8e9e75e0": {
-    "cop": 1,
-    "exp": "Intermediate cell ptedominance in a vaginal cytology may be seen in pregnancy. refer page no 381 of Shaw's text book of gynaecology,16 th edition."
+    "cop": 0,
+    "exp": "Intermediate cell ptedominance in a vaginal cytology may be seen in pregnancy. refer page no 381 of Shaw's text book of gynaecology,16 th edition.",
+    "hint_exp": "🧩 Your crush solved \"Intermediate cell predominance vaginal\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8e04295b-d6b7-4555-8a5e-1817b7b1699e": {
-    "cop": 1,
-    "exp": "Ans: A (Preserved postural reflexes) Ref: Harrison's Principles of Internal Medicine. 18th edition. 2012. Chapter 372. (Table 372-3)Explanation:Clinical Features of Parkinson's DiseaseCardinalFeaturesOther Motor FeaturesNonmotorFeaturesBradykinesiaRest tremorRigidityGait disturbance/posturalinstabilityMicrographiaMasked facies (hypomimia equalizeReduced eye blinkSoft voice (hypophonia)DysphagiaFreezingAnosmiaSensory disturbances (e.g., pain)Mood disorders (e.g.t depression)SleepdisturbancesAutonomicdisturbancesOrthostatichypotensionGastrointestinaldisturbances GemtourinaldisturbancesSexual dysfunctionCognitiveimpairment/Dementia"
+    "cop": 0,
+    "exp": "Ans: A (Preserved postural reflexes) Ref: Harrison's Principles of Internal Medicine. 18th edition. 2012. Chapter 372. (Table 372-3)Explanation:Clinical Features of Parkinson's DiseaseCardinalFeaturesOther Motor FeaturesNonmotorFeaturesBradykinesiaRest tremorRigidityGait disturbance/posturalinstabilityMicrographiaMasked facies (hypomimia equalizeReduced eye blinkSoft voice (hypophonia)DysphagiaFreezingAnosmiaSensory disturbances (e.g., pain)Mood disorders (e.g.t depression)SleepdisturbancesAutonomicdisturbancesOrthostatichypotensionGastrointestinaldisturbances GemtourinaldisturbancesSexual dysfunctionCognitiveimpairment/Dementia",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "aac2a5a1-5833-4468-a693-e9f0bb286cad": {
-    "cop": 2,
-    "exp": "Ans. is `b' i.e., Feco-oral Virus Modes of transmission 1) Hepatitis A 2) Hepatitis B 3) Hepatitis C 4) Hepatitis D 5) Hepatitis E Feco-oral Percutaneous, perinatal, sexual Percutaneous Percutaneous, perinatal, sexual Feco-oral"
+    "cop": 1,
+    "exp": "Ans. is `b' i.e., Feco-oral Virus Modes of transmission 1) Hepatitis A 2) Hepatitis B 3) Hepatitis C 4) Hepatitis D 5) Hepatitis E Feco-oral Percutaneous, perinatal, sexual Percutaneous Percutaneous, perinatal, sexual Feco-oral",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"spread of Hepatitis E\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e78ca5b2-891d-4c9f-bb97-c3ca1184f270": {
-    "cop": 1,
-    "exp": "Ans: A (Kala-azar) \"Napier's Aldehyde test & Chopra's antimony test are nonspecific serum test for Leishmaniasis''-Panikar Parasitology 7th/58"
+    "cop": 0,
+    "exp": "Ans: A (Kala-azar) \"Napier's Aldehyde test & Chopra's antimony test are nonspecific serum test for Leishmaniasis''-Panikar Parasitology 7th/58",
+    "hint_exp": "🎯 Think of \"Napier Aldehyde test done\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e7cdc684-55a6-49df-ab03-f503707c6eb4": {
-    "cop": 1,
-    "exp": "SVTs are the most common symptomatic arrhythmias in all children including neonates.SVTs usually haveRate > 200 beats/minuteNormal or narrow (<0.07 sec, A wide QRS > 0.07 sec ours the diagnosis of ventricular tachycardia).Ventricular complexes on the surface ECG."
+    "cop": 0,
+    "exp": "SVTs are the most common symptomatic arrhythmias in all children including neonates.SVTs usually haveRate > 200 beats/minuteNormal or narrow (<0.07 sec, A wide QRS > 0.07 sec ours the diagnosis of ventricular tachycardia).Ventricular complexes on the surface ECG.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"will be\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "78578129-96b8-4771-b765-1d2abc5d4594": {
-    "cop": 1,
-    "exp": "Sources of Nitrogen in urea are ammonia and aspartate."
+    "cop": 0,
+    "exp": "Sources of Nitrogen in urea are ammonia and aspartate.",
+    "hint_exp": "🧩 Your crush solved \"the nitrogen in urea cycle\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7a841c0a-0bb9-4338-916a-858938bd4c11": {
-    "cop": 1,
-    "exp": "Scurvy is due to vit c def Ref Harrison 20th edition pg 89"
+    "cop": 0,
+    "exp": "Scurvy is due to vit c def Ref Harrison 20th edition pg 89",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Disease which deficiency\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a39850df-19c0-4476-8ced-0e938b1593bc": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Crown completion deciduous Maxillary\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7b7821b3-0c0d-4939-b290-4afeeb439149": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"What reagent used Horrock\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d9d09b4d-5e64-4378-be8f-ee990efe362e": {
-    "cop": 3,
-    "exp": "Rising sun appearance is seen when a glomus tumour arises from the floor of the middle ear in otoscopy. Sometimes, the tympanic membrane appears bluish and maybe bulging. Ref: Dhingra 7th edition pg. 121"
+    "cop": 2,
+    "exp": "Rising sun appearance is seen when a glomus tumour arises from the floor of the middle ear in otoscopy. Sometimes, the tympanic membrane appears bluish and maybe bulging. Ref: Dhingra 7th edition pg. 121",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4845a5af-fb57-446c-aaa7-823241f5e27a": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Streptococcus mutans produces adhesive\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "44fe61fe-d45a-4810-b10c-0d6aafbc886c": {
-    "cop": 3,
-    "exp": "Paraneoplastic syndromes are signs or symptoms that occur as a result of organ or tissue damage at locations remote from the site of the primary tumor or metastases. Paraneoplastic syndromes associated with lung cancer can impair various organ functions and include neurologic, endocrine, dermatologic, rheumatologic, hematologic, and ophthalmological syndromes, as well as glomerulopathy and coagulopathy (Trousseau's syndrome). The histological type of lung cancer is generally dependent on the associated syndrome, the two most common of which are humoral hypercalcemia of malignancy in squamous cell carcinoma and the syndrome of inappropriate antidiuretic hormone secretion in small cell lung cancer. The symptoms often precede the diagnosis of the associated lung cancer, especially when the symptoms are neurologic or dermatologic. The proposed mechanisms of paraneoplastic processes include the aberrant release of humoral mediators, such as hormones and hormone-like peptides, cytokines, and antibodies. Treating the underlying cancer is generally the most effective therapy for paraneoplastic syndromes, and treatment soon after symptom onset appears to offer the best potential for symptom improvement. In this aicle, we review the diagnosis, potential mechanisms, and treatments of a wide variety of paraneoplastic syndromes associated with lung cancer."
+    "cop": 2,
+    "exp": "Paraneoplastic syndromes are signs or symptoms that occur as a result of organ or tissue damage at locations remote from the site of the primary tumor or metastases. Paraneoplastic syndromes associated with lung cancer can impair various organ functions and include neurologic, endocrine, dermatologic, rheumatologic, hematologic, and ophthalmological syndromes, as well as glomerulopathy and coagulopathy (Trousseau's syndrome). The histological type of lung cancer is generally dependent on the associated syndrome, the two most common of which are humoral hypercalcemia of malignancy in squamous cell carcinoma and the syndrome of inappropriate antidiuretic hormone secretion in small cell lung cancer. The symptoms often precede the diagnosis of the associated lung cancer, especially when the symptoms are neurologic or dermatologic. The proposed mechanisms of paraneoplastic processes include the aberrant release of humoral mediators, such as hormones and hormone-like peptides, cytokines, and antibodies. Treating the underlying cancer is generally the most effective therapy for paraneoplastic syndromes, and treatment soon after symptom onset appears to offer the best potential for symptom improvement. In this aicle, we review the diagnosis, potential mechanisms, and treatments of a wide variety of paraneoplastic syndromes associated with lung cancer.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Most common paraneoplastic syndrome\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "69e7fd61-896f-4f49-8789-d98edd9b47b3": {
-    "cop": 1,
-    "exp": "Platelets has two impoant source- RDP - -old blood (slow )- PRP -(high) Platelets 20- 24deg C (agitation) 3-5 days 1 unit/10kg BW DISADVANTAGES - Platelets of multiple donors - recipient sensitized SDP - -donor only given platelets 6-8 RDP | Alloimmunization Leucodepletion not required stored at room temp"
+    "cop": 0,
+    "exp": "Platelets has two impoant source- RDP - -old blood (slow )- PRP -(high) Platelets 20- 24deg C (agitation) 3-5 days 1 unit/10kg BW DISADVANTAGES - Platelets of multiple donors - recipient sensitized SDP - -donor only given platelets 6-8 RDP | Alloimmunization Leucodepletion not required stored at room temp",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "99487a93-c324-457d-bf80-0fa93eba8408": {
-    "cop": 3,
-    "exp": "Please note: Exposure to bats or birds H. capsulatum Exposure to birds Chlamydia psittaci Exposure to rabbits Francisella tularensis Exposure to sheep, goats, paurient cats Coxiella burnetii Ref: Harrison, E-18, P-2133"
+    "cop": 2,
+    "exp": "Please note: Exposure to bats or birds H. capsulatum Exposure to birds Chlamydia psittaci Exposure to rabbits Francisella tularensis Exposure to sheep, goats, paurient cats Coxiella burnetii Ref: Harrison, E-18, P-2133",
+    "hint_exp": "🎯 Think of \"pathogen causing pneumonia patients\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ec5bf77f-a9a2-4e8b-b1ee-aa154f435b33": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"used for\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "28b0c4f9-b2a4-4cc3-8e8b-f1dd4771c82d": {
-    "cop": 1,
-    "exp": "Up to 18% of humeral shaft fracture is an associated radial nerve palsy, but may occur more commonly in distal third fractures. Radial nerve is commonly at risk if the fracture is at the junction of mid and distal thirds of the humeral shaft and paicularly if fracture is associated with lateral displacement of distal fragment At this point the radial nerve emerges from the spiral groove and is tethered as it pierces the intermuscular septum; It cannot yeild to the lateral displacement of the distal fragment, and is therefore frequently damaged; ref : maheswari 9th ed"
+    "cop": 0,
+    "exp": "Up to 18% of humeral shaft fracture is an associated radial nerve palsy, but may occur more commonly in distal third fractures. Radial nerve is commonly at risk if the fracture is at the junction of mid and distal thirds of the humeral shaft and paicularly if fracture is associated with lateral displacement of distal fragment At this point the radial nerve emerges from the spiral groove and is tethered as it pierces the intermuscular septum; It cannot yeild to the lateral displacement of the distal fragment, and is therefore frequently damaged; ref : maheswari 9th ed",
+    "hint_exp": "🧩 Your crush solved \"the Humerus\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7ea3b07a-cf75-4751-b45c-9e255c993921": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Methionine Supplementary action of proteinso Cereals are deficient in essential amino acid Lysine & threonine,o Pulses are deficient in essential amino acid Methionine.o So if cereals are eaten with pulses, their proteins complement each other & provide a more balanced and complete protein intake.FoodDeficiencyCerealsWheatMaizePulsesSoyabeanLysine & threonineLysine & threonineTryptophan & lysineMethionine & cysteineMethionine"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Methionine Supplementary action of proteinso Cereals are deficient in essential amino acid Lysine & threonine,o Pulses are deficient in essential amino acid Methionine.o So if cereals are eaten with pulses, their proteins complement each other & provide a more balanced and complete protein intake.FoodDeficiencyCerealsWheatMaizePulsesSoyabeanLysine & threonineLysine & threonineTryptophan & lysineMethionine & cysteineMethionine",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"deficient in\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d58a6f69-4d09-4f2d-84c1-4758fbde48f8": {
-    "cop": 2,
-    "exp": "Injuries of the menisci (semilunar cartilages) are common in men under the age of 45 years.\nA tear is usually caused by a twisting force with the knee setniflexed or flexed."
+    "cop": 1,
+    "exp": "Injuries of the menisci (semilunar cartilages) are common in men under the age of 45 years.\nA tear is usually caused by a twisting force with the knee setniflexed or flexed.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"injury\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fecc5657-7f87-4374-932c-efa417e751bf": {
-    "cop": 1,
-    "exp": "Focal myocardial necrosis and inflammatory cell infiltration caused by high circulating levels of catecholamines are seen in about 50% of patients who die with pheochromocytoma. Hypertension can further impair left ventricular function."
+    "cop": 0,
+    "exp": "Focal myocardial necrosis and inflammatory cell infiltration caused by high circulating levels of catecholamines are seen in about 50% of patients who die with pheochromocytoma. Hypertension can further impair left ventricular function.",
+    "hint_exp": "🎯 Think of \"secondary\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "cee53dc6-ca71-4a09-983d-157dfb6497ae": {
-    "cop": 4,
-    "exp": "The clinical history is of hirsutism and development of virilisation process due to changes in voice. Virilisation indicates ovarian or adrenal source of DHEAS. Hormonal evaluation of testosterone and DHEAS hence becomes logical. Family history is impoant as in some families' hirsutism can be seen. USG for ovary evaluation is an insensitive test for diagnosis as polycystic ovaries can be found without any androgen excess or females can have androgen excess while ovaries are normal."
+    "cop": 3,
+    "exp": "The clinical history is of hirsutism and development of virilisation process due to changes in voice. Virilisation indicates ovarian or adrenal source of DHEAS. Hormonal evaluation of testosterone and DHEAS hence becomes logical. Family history is impoant as in some families' hirsutism can be seen. USG for ovary evaluation is an insensitive test for diagnosis as polycystic ovaries can be found without any androgen excess or females can have androgen excess while ovaries are normal.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"year woman developed increased\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9d54fe59-bf6f-4703-be4a-43ab60d745fa": {
-    "cop": 2,
-    "exp": "B i.e. Capillary rupture with extra vasation blood & ligature mark"
+    "cop": 1,
+    "exp": "B i.e. Capillary rupture with extra vasation blood & ligature mark",
+    "hint_exp": "🧩 Your crush solved \"Antemoem bruise differentiated from\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c6f88f1f-7e28-4d18-8752-f3025411a90c": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Most specific investigation disseminated\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c8a559c9-54ba-4df6-9540-22929bc653fe": {
-    "cop": 2,
-    "exp": "Ans. Blood"
+    "cop": 1,
+    "exp": "Ans. Blood",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Benzidine test done detect\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "000eb62e-2d6a-4d33-bfdd-356f7f9334f1": {
-    "cop": 2,
-    "exp": "Medulloblastoma spread through CSF and frequently metastasizes to different locations in the brain and spine.\nExtraneural metastasis to the rest of the body is rare.\nMedulloblastoma is an infratentorial tumor and occurs exclusively in the cerebellum.\n\nMedulloblastoma\n\nMedulloblastoma is an infratentorial tumor.\nThe tumour occurs predominantly in children and exclusively in the cerebellum.\nTumour metastasizes through the CSF to the distant sites as bones or bone marrow.\nRadiotherapy improves the survival in children. Craniospinal irradiation (CS1) is given and reduced the recurrence from CSF dissemination.\nThe tumour should be surgically excised.\nThe bad prognostic factors of the medulloblastoma are age < 3yrs, CSF dissemination, and extent of resection."
+    "cop": 1,
+    "exp": "Medulloblastoma spread through CSF and frequently metastasizes to different locations in the brain and spine.\nExtraneural metastasis to the rest of the body is rare.\nMedulloblastoma is an infratentorial tumor and occurs exclusively in the cerebellum.\n\nMedulloblastoma\n\nMedulloblastoma is an infratentorial tumor.\nThe tumour occurs predominantly in children and exclusively in the cerebellum.\nTumour metastasizes through the CSF to the distant sites as bones or bone marrow.\nRadiotherapy improves the survival in children. Craniospinal irradiation (CS1) is given and reduced the recurrence from CSF dissemination.\nThe tumour should be surgically excised.\nThe bad prognostic factors of the medulloblastoma are age < 3yrs, CSF dissemination, and extent of resection.",
+    "hint_exp": "🎯 Think of \"Medulloblastoma most common metastasis\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c83499a6-e82d-4325-b7d5-2525f77ce6da": {
-    "cop": 3,
-    "exp": "Krabbe's disease is a rare autosomal recessive neuro degenerative disorder. It is not associated with a cherry red spot. Ref: Pediatric Retina: Medical and Surgical Approaches By Mary Elizabeth Hanett, 2005, Page 84; Pediatric Pathology, Volume 2 By J. Thomas Stocker, Louis P. Dehner, 2001, Page 427."
+    "cop": 2,
+    "exp": "Krabbe's disease is a rare autosomal recessive neuro degenerative disorder. It is not associated with a cherry red spot. Ref: Pediatric Retina: Medical and Surgical Approaches By Mary Elizabeth Hanett, 2005, Page 84; Pediatric Pathology, Volume 2 By J. Thomas Stocker, Louis P. Dehner, 2001, Page 427.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Cherry spot seen following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e7beefe0-3e60-42f2-90e1-0ee368ae6a9e": {
-    "cop": 4,
-    "exp": "*Radiological features of bone are: Rarefaction of bones, salt pepper skull, loss of lamina dura, sun- periosteal resorption of bone, multiple cysts, Browns tumor and collapse of veebrae with biconvex disc. Brown tumour * The brown tumor is a bone lesion that arises in settings of excess osteoclast activity, such as hyperparathyroidism. * It is not a true neoplasm, as the term \"tumor\" suggests; however, it may mimic a true neoplasm. * Brown tumours are radiolucent on x-ray. Brown tumours consist of fibrous tissue, woven bone and suppoing vasculature, but no matrix. * The osteoclasts consume the trabecular bone that osteoblasts lay down and this front of reparative bone deposition followed by additional resorption can expand beyond the usual shape of the bone, involving the periosteum thus causing bone pain. * The characteristic brown coloration results from hemosiderin deposition into the osteolytic cysts. * Hemosiderin deposition is not a distinctive feature of brown tumors; it may also be seen giant cell tumors of the bone Ref: Text books of Essential in Ohopaedics maheswari 9th ed p.1129"
+    "cop": 3,
+    "exp": "*Radiological features of bone are: Rarefaction of bones, salt pepper skull, loss of lamina dura, sun- periosteal resorption of bone, multiple cysts, Browns tumor and collapse of veebrae with biconvex disc. Brown tumour * The brown tumor is a bone lesion that arises in settings of excess osteoclast activity, such as hyperparathyroidism. * It is not a true neoplasm, as the term \"tumor\" suggests; however, it may mimic a true neoplasm. * Brown tumours are radiolucent on x-ray. Brown tumours consist of fibrous tissue, woven bone and suppoing vasculature, but no matrix. * The osteoclasts consume the trabecular bone that osteoblasts lay down and this front of reparative bone deposition followed by additional resorption can expand beyond the usual shape of the bone, involving the periosteum thus causing bone pain. * The characteristic brown coloration results from hemosiderin deposition into the osteolytic cysts. * Hemosiderin deposition is not a distinctive feature of brown tumors; it may also be seen giant cell tumors of the bone Ref: Text books of Essential in Ohopaedics maheswari 9th ed p.1129",
+    "hint_exp": "🧩 Your crush solved \"Hyperparathyroidism will lead which\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "db3d2269-3ab1-439a-96f6-255428892db5": {
-    "cop": 3,
-    "exp": "Ans. C: Both of the aboveThe modern era in the classification of mental diseases began towards the end of the 18th century during the French Revolution with the concepts and humane practices of figures such as Philippe Pinel (1745-1826).William Cullen (1710-90) tried to subsume under the heading of 'neurosis' all forms of mental disorder including such conditions as tetanus, epilepsy, vesania, and a rough description of psychosis, but his concepts soon proved over-inclusive. The term 'psychosis' was first formulated by Ernst von Feuchtersleben (1806-49) in his Principles of Medical Psychology. At present, there are two major classifications in Psychiatry, namely ICD-10 (1992) and DSM-V(2013)"
+    "cop": 2,
+    "exp": "Ans. C: Both of the aboveThe modern era in the classification of mental diseases began towards the end of the 18th century during the French Revolution with the concepts and humane practices of figures such as Philippe Pinel (1745-1826).William Cullen (1710-90) tried to subsume under the heading of 'neurosis' all forms of mental disorder including such conditions as tetanus, epilepsy, vesania, and a rough description of psychosis, but his concepts soon proved over-inclusive. The term 'psychosis' was first formulated by Ernst von Feuchtersleben (1806-49) in his Principles of Medical Psychology. At present, there are two major classifications in Psychiatry, namely ICD-10 (1992) and DSM-V(2013)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"psychiatric illness\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "dc58911e-544a-4b75-81be-088c2c6c6b78": {
-    "cop": 1,
-    "exp": "Characteristics of Opioid Withdrawal: SymptomsSignsRegular withdrawal Craving for opioidsPupillary dilationRestlessness, irritabilitySweatingIncreased sensitivity toPiloerection (\"gooseflesh\")PainTachycardiaNausea, crampsVomiting, diarrheaMuscle achesIncreased blood pressureDysphoric moodYawningInsomnia, anxietyFeverProtracted withdrawal AnxietyCyclic changes in weightInsomniaPupil size, respiratoryDrug cravingCenter sensitivity Ref: O'Brien C.P. (2011). Chapter 24. Drug Addiction. In L.L. Brunton, B.A. Chabner, B.C. Knollmann (Eds), Goodman & Gilman's The Pharmacological Basis of Therapeutics, 12e."
+    "cop": 0,
+    "exp": "Characteristics of Opioid Withdrawal: SymptomsSignsRegular withdrawal Craving for opioidsPupillary dilationRestlessness, irritabilitySweatingIncreased sensitivity toPiloerection (\"gooseflesh\")PainTachycardiaNausea, crampsVomiting, diarrheaMuscle achesIncreased blood pressureDysphoric moodYawningInsomnia, anxietyFeverProtracted withdrawal AnxietyCyclic changes in weightInsomniaPupil size, respiratoryDrug cravingCenter sensitivity Ref: O'Brien C.P. (2011). Chapter 24. Drug Addiction. In L.L. Brunton, B.A. Chabner, B.C. Knollmann (Eds), Goodman & Gilman's The Pharmacological Basis of Therapeutics, 12e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Child presents with sweating\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b84fdfce-6080-47ca-ab7b-9d38f8e89853": {
-    "cop": 1,
-    "exp": "Myasthenia gravis leads to muscle weakness from loss of motor endplate function. This disorder is caused by an antibody-mediated loss of acetylcholine receptors at neuromuscular junctions. Edrophonium inhibits cholinesterase to improve synaptic transmission. The anti-Jo-1 antibody is present in polymyositis. Sjogren syndrome does not cause muscle weakness with use. Myopathic diseases such as muscular dystrophies are accompanied by increased levels of serum creatine kinase. Generalized muscle weakness with type II muscle fiber atrophy occurs in glucocorticoid excess. Parasitic infection with Trichinella spiralis can lead to eosinophilia."
+    "cop": 0,
+    "exp": "Myasthenia gravis leads to muscle weakness from loss of motor endplate function. This disorder is caused by an antibody-mediated loss of acetylcholine receptors at neuromuscular junctions. Edrophonium inhibits cholinesterase to improve synaptic transmission. The anti-Jo-1 antibody is present in polymyositis. Sjogren syndrome does not cause muscle weakness with use. Myopathic diseases such as muscular dystrophies are accompanied by increased levels of serum creatine kinase. Generalized muscle weakness with type II muscle fiber atrophy occurs in glucocorticoid excess. Parasitic infection with Trichinella spiralis can lead to eosinophilia.",
+    "hint_exp": "🎯 Think of \"this patient\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b72eb571-7c87-40ea-922d-8537fd30b075": {
-    "cop": 4,
-    "exp": "Good pasture syndrome is due to Type II hypersensitivity reaction."
+    "cop": 3,
+    "exp": "Good pasture syndrome is due to Type II hypersensitivity reaction.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0b2d3130-6570-4fd9-9450-781d5b387295": {
-    "cop": 3,
-    "exp": "Pseudomonas Resistant to many common antiseptics like quaternary ammonium compounds, chloroxylenol and hexachlorophene. Indeed selective media have been devised incorporating Dettol or cetrimide. Skirrow's medium is selective for Campylobacter. Regan Lowe medium is selective for Bordetella peussis. Ashdown's medium is selective for Burkholderia pseudomallei."
+    "cop": 2,
+    "exp": "Pseudomonas Resistant to many common antiseptics like quaternary ammonium compounds, chloroxylenol and hexachlorophene. Indeed selective media have been devised incorporating Dettol or cetrimide. Skirrow's medium is selective for Campylobacter. Regan Lowe medium is selective for Bordetella peussis. Ashdown's medium is selective for Burkholderia pseudomallei.",
+    "hint_exp": "🧩 Your crush solved \"Selective medium Pseudomonas\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "fbc104c5-1a74-4eca-ab5b-76993e3094d1": {
-    "cop": 3,
-    "exp": "Ans: C (Hookworm infestation) Ref: Textbook of Preventive and Social Medicine, K Park.20th edition, page no. 2/5Explanation:Chandler's endemic index - Hookworm InfestationEndemic index - Chandler worked out an index on the basis of average number of hookworm eggs per gram of faeces for the entire community, as below:Average number of eggs per gram of stools :Below 200 - Hook worm infection is not of much significance200 - 250 - May be regarded as potential danger250 - 300 - Minor public health problem Above 300 - Important public health problemChandler's index is still used in epidemiological studies of hookworm disease and also to assess the benefit of mass deworming program."
+    "cop": 2,
+    "exp": "Ans: C (Hookworm infestation) Ref: Textbook of Preventive and Social Medicine, K Park.20th edition, page no. 2/5Explanation:Chandler's endemic index - Hookworm InfestationEndemic index - Chandler worked out an index on the basis of average number of hookworm eggs per gram of faeces for the entire community, as below:Average number of eggs per gram of stools :Below 200 - Hook worm infection is not of much significance200 - 250 - May be regarded as potential danger250 - 300 - Minor public health problem Above 300 - Important public health problemChandler's index is still used in epidemiological studies of hookworm disease and also to assess the benefit of mass deworming program.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Chandler endemic index used\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9f1eb96e-766d-4965-9ce0-bb9e0bc7f3be": {
-    "cop": 2,
-    "exp": "H2O2 formed \n\nA modified form of [β -oxidation is found in peroxisomes and leads to formation of acetyl CoA and Hp, (instead of FADH, which is formed in mitochondrial [β -oxidation).\nThe system facilitates oxidation of very long chain fatty acids."
+    "cop": 1,
+    "exp": "H2O2 formed \n\nA modified form of [β -oxidation is found in peroxisomes and leads to formation of acetyl CoA and Hp, (instead of FADH, which is formed in mitochondrial [β -oxidation).\nThe system facilitates oxidation of very long chain fatty acids.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"peroxisome\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5e49223c-56ac-419d-9eb2-da0d6cc1e280": {
-    "cop": 1,
-    "exp": "Atracurium The unique feature of atracurium is inactivation in plasma by spontaneous nonenzymatic degradation (Hofman elimination) in addition to that by alkaline ester hydrolysisConsequently, its duration of action is not altered in patients with hepatic/renal insufficiency or hyperdynamic circulation - Preferred muscle relaxant for such patients as well as for neonates and the elderlyAtracurium is metabolized to laudanosine that is responsible for seizuresIt can cause histamine release - Hypotension & bronchoconstriction(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no.216)"
+    "cop": 0,
+    "exp": "Atracurium The unique feature of atracurium is inactivation in plasma by spontaneous nonenzymatic degradation (Hofman elimination) in addition to that by alkaline ester hydrolysisConsequently, its duration of action is not altered in patients with hepatic/renal insufficiency or hyperdynamic circulation - Preferred muscle relaxant for such patients as well as for neonates and the elderlyAtracurium is metabolized to laudanosine that is responsible for seizuresIt can cause histamine release - Hypotension & bronchoconstriction(Refer: Morgan and Mikhail's Clinical Anaesthesiology, 5th edition, pg no.216)",
+    "hint_exp": "🎯 Think of \"a toxic metabolite of\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5988f19f-a71a-4927-affb-6fa0aa31be36": {
-    "cop": 4,
-    "exp": "Ans. Red"
+    "cop": 3,
+    "exp": "Ans. Red",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"films least sensitive which\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "7f294c78-afc7-4417-b536-ed65dd059d1f": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., % of institutional deliveries Monitoring and Evaluation of ASHA's workGovernment of India has set up following indicators for monitoring ASHA (41).1. Process IndicatorsNumber of ASHAs selected by due processNumber of ASHAs trained; and% of ASH As attending review meeting after one year2.Outcome Indicators% of newborn who were weighed and families counseled.% of children with diarrhoea who received ORS.% of deliveries with skilled assistance.% of institutional deliveries.% of JSY claims made to ASHA% of completely immunized in 12 to 23 months age group.% of unmet need for spacing contraception among BPL.% of fever cases who received chloroquine with in first week in a malaria endemic area.3.Impact IndicatorsIMRChild malnutrition ratesNumber of cases of TB/leprosy detected as compared to previous year."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., % of institutional deliveries Monitoring and Evaluation of ASHA's workGovernment of India has set up following indicators for monitoring ASHA (41).1. Process IndicatorsNumber of ASHAs selected by due processNumber of ASHAs trained; and% of ASH As attending review meeting after one year2.Outcome Indicators% of newborn who were weighed and families counseled.% of children with diarrhoea who received ORS.% of deliveries with skilled assistance.% of institutional deliveries.% of JSY claims made to ASHA% of completely immunized in 12 to 23 months age group.% of unmet need for spacing contraception among BPL.% of fever cases who received chloroquine with in first week in a malaria endemic area.3.Impact IndicatorsIMRChild malnutrition ratesNumber of cases of TB/leprosy detected as compared to previous year.",
+    "hint_exp": "🧩 Your crush solved \"Outcome indicator ASHA\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

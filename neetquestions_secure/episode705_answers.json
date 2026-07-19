@@ -1,202 +1,252 @@
 {
   "e59ae24a-cbd1-4b6f-a4b3-0d39b7d53d8f": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Chest shows miliary mottling\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "be89d768-3183-474b-b55f-17a313cecd4f": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Hyponatremia"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Hyponatremia",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Poorly controlled diabetes with\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "544a8f7d-3f6d-41e0-9ea1-ab8f788aeefb": {
-    "cop": 2,
-    "exp": "(b) Bilateral abductor paralysis(Ref. Current Diagnosis & Treatment Otolaryngology, Lalwani, 3rd ed., 478; Scott Brown, 8th ed., Vol 2; 336)In bilateral abductor paralysis or B/L RLN palsy presentation is stridor because of which it is also known as life threatening palsy.In bilateral adductor paralysis, i.e. B/L complete paralysis, there will be aspiration bronchopneumonias but the presentation will not be acute life threatening in comparison to stridor in B/L RLN palsy.The remaining two options are not life threatening"
+    "cop": 1,
+    "exp": "(b) Bilateral abductor paralysis(Ref. Current Diagnosis & Treatment Otolaryngology, Lalwani, 3rd ed., 478; Scott Brown, 8th ed., Vol 2; 336)In bilateral abductor paralysis or B/L RLN palsy presentation is stridor because of which it is also known as life threatening palsy.In bilateral adductor paralysis, i.e. B/L complete paralysis, there will be aspiration bronchopneumonias but the presentation will not be acute life threatening in comparison to stridor in B/L RLN palsy.The remaining two options are not life threatening",
+    "hint_exp": "🎯 Think of \"vocal cord\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9f17aaa1-838f-4347-8ac3-da73cbf57a13": {
-    "cop": 2,
-    "exp": "Embolic aerial occlusion presents with pain, pallor, paresthesia, paralysis and loss of pulsation. Reference Bailey and love, 27th edition, page 955"
+    "cop": 1,
+    "exp": "Embolic aerial occlusion presents with pain, pallor, paresthesia, paralysis and loss of pulsation. Reference Bailey and love, 27th edition, page 955",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Acute aerial embolus lower\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "bf263601-4c68-4521-897f-5d3beb975391": {
-    "cop": 3,
-    "exp": "Primary resistance form is obtained through use of a preparation design that conserves as much healthy tooth structure as possible. \nTransitions between the walls of the preparation (i.e., the internal line angles) are slightly rounded so as to limit stress concentration in these areas, which increases tooth resistance to fracture. Rounding of external angles within the tooth preparation (e.g., axiopulpal line angles) limits the likelihood of stress concentration in the corresponding intaglio surface of restorative materials, which increases resistance to fracture of the restorative material. The relatively horizontal pulpal and gingival walls, prepared perpendicular to the tooth’s long axis, help the restoration resist occlusal forces and limit the likelihood of tooth fracture from wedging effects caused by opposing cusps.\nNote : Occlusal convergence is a retention form.\nReference: Sturdevant operative dentistry 7th EDITION, Page No:127"
+    "cop": 2,
+    "exp": "Primary resistance form is obtained through use of a preparation design that conserves as much healthy tooth structure as possible. \nTransitions between the walls of the preparation (i.e., the internal line angles) are slightly rounded so as to limit stress concentration in these areas, which increases tooth resistance to fracture. Rounding of external angles within the tooth preparation (e.g., axiopulpal line angles) limits the likelihood of stress concentration in the corresponding intaglio surface of restorative materials, which increases resistance to fracture of the restorative material. The relatively horizontal pulpal and gingival walls, prepared perpendicular to the tooth’s long axis, help the restoration resist occlusal forces and limit the likelihood of tooth fracture from wedging effects caused by opposing cusps.\nNote : Occlusal convergence is a retention form.\nReference: Sturdevant operative dentistry 7th EDITION, Page No:127",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8af61358-6be7-4c6a-9f12-5052ff1d345c": {
-    "cop": 2,
-    "exp": "Emergency needle decompressionis carried out on the affected side by placing an 18-gauge needle into the hemithorax at the mid-clavicular line in the 2nd anterior intercostal space. This relieves the tension created within the thorax. It does not treat the pneumothorax; subsequent chest tube inseion is required. Tube thoracostomy (chest tube inseion) and underwater seal drainage are the mainstays of treatment for spontaneous pneumothorax."
+    "cop": 1,
+    "exp": "Emergency needle decompressionis carried out on the affected side by placing an 18-gauge needle into the hemithorax at the mid-clavicular line in the 2nd anterior intercostal space. This relieves the tension created within the thorax. It does not treat the pneumothorax; subsequent chest tube inseion is required. Tube thoracostomy (chest tube inseion) and underwater seal drainage are the mainstays of treatment for spontaneous pneumothorax.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"tension pneumothorax\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2fb3363e-2611-4f6a-bdd5-c5a565c2f09f": {
-    "cop": 2,
-    "exp": "Greater superificial petrosal nerve joins the deep petrosal nerve to form the nerve of pterygoid canal or also called as Vidian nerve.\nVidian nerve reaches pterygopalatine ganglion to supply the lacrimal gland and mucous glands of nose, palate and pharynx.\n\nArnold nerve: It is a branch of cranial nerve X which carries fibers that supply sensory innervation to the ear canal\nJacobson nerve: It is a branch of cranial nerve IX that runs along the promontory of the middle ear supplying sensation and parasympathetic fibers to the parotid gland."
+    "cop": 1,
+    "exp": "Greater superificial petrosal nerve joins the deep petrosal nerve to form the nerve of pterygoid canal or also called as Vidian nerve.\nVidian nerve reaches pterygopalatine ganglion to supply the lacrimal gland and mucous glands of nose, palate and pharynx.\n\nArnold nerve: It is a branch of cranial nerve X which carries fibers that supply sensory innervation to the ear canal\nJacobson nerve: It is a branch of cranial nerve IX that runs along the promontory of the middle ear supplying sensation and parasympathetic fibers to the parotid gland.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the pterygoid canal\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8e2ab874-e7b0-43a6-86f8-5b4545163841": {
-    "cop": 1,
-    "exp": "Corneal Reshaping precedures such as Photorefractive keratectomy (PRK) and Laser Assisted in Situ Keratomileusis (LASIK) are performed by lasers in the ultraviolet wavelength of 193 nm to 213 nm. The most commonly used laster for such procedures is the Argon Fluride Excimer Laser (ArF) with a length of 193 nm."
+    "cop": 0,
+    "exp": "Corneal Reshaping precedures such as Photorefractive keratectomy (PRK) and Laser Assisted in Situ Keratomileusis (LASIK) are performed by lasers in the ultraviolet wavelength of 193 nm to 213 nm. The most commonly used laster for such procedures is the Argon Fluride Excimer Laser (ArF) with a length of 193 nm.",
+    "hint_exp": "🎯 Think of \"refractive surgery\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "57b93b5d-d772-4416-8c5c-ba48f86b0a82": {
-    "cop": 3,
-    "exp": ". Germ line mosaicism"
+    "cop": 2,
+    "exp": ". Germ line mosaicism",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"inheritance\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c379659b-5e7c-442a-b349-fa4951e0dd99": {
-    "cop": 2,
-    "exp": "Ans. (b) Epithelioid cell(Ref: Anderson 10th ed pg 583)Macrophages (also known as histiocytes) are the cells that define a granulomaThe macrophages in granulomas are often referred to as \"epithelioid\"Epithelioid macrophages differ from ordinary macrophages in that they have elongated nuclei that often resemble the sole of a slipper or shoe.These changes are thought to be a consequence of \"activation\" of the macrophage by the offending antigen."
+    "cop": 1,
+    "exp": "Ans. (b) Epithelioid cell(Ref: Anderson 10th ed pg 583)Macrophages (also known as histiocytes) are the cells that define a granulomaThe macrophages in granulomas are often referred to as \"epithelioid\"Epithelioid macrophages differ from ordinary macrophages in that they have elongated nuclei that often resemble the sole of a slipper or shoe.These changes are thought to be a consequence of \"activation\" of the macrophage by the offending antigen.",
+    "hint_exp": "🧩 Your crush solved \"granuloma\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "770bc4d9-4695-4113-ac7b-533831d71d08": {
-    "cop": 1,
-    "exp": "A i.e. Schizophrenia"
+    "cop": 0,
+    "exp": "A i.e. Schizophrenia",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Dementia seen except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c4fca4c4-bb88-4ce2-b927-c6e97efe4954": {
-    "cop": 1,
-    "exp": "Ans. (a) Optic nerve glioma(Ref: Robbins 9th/pg 298)NF1 patients have increased risk of Meningioma Q, Pheochromocytoma Q & Wilm's Tumor QMost common tumor in NF1 is optic nerve glioma QMost common Leukemia in NF1 is JMML Q (Juvenile Myelomonocytic Leukemia)"
+    "cop": 0,
+    "exp": "Ans. (a) Optic nerve glioma(Ref: Robbins 9th/pg 298)NF1 patients have increased risk of Meningioma Q, Pheochromocytoma Q & Wilm's Tumor QMost common tumor in NF1 is optic nerve glioma QMost common Leukemia in NF1 is JMML Q (Juvenile Myelomonocytic Leukemia)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which most common tumor\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "fde00866-c07b-4772-87fb-da61a024756f": {
-    "cop": 1,
-    "exp": "Genetic defect in Bater syndrome is located in the thick ascending limb of the loop of Henle. Bater&;s syndrome: Resembles Loop diuretics Inheritance: Autosomal recessive disorder Pathophysiology: Resembles Loop diuretics Genetic defect involving the transpoer&;s in the thick ascending limb of the loop of henle. Defects in Na+-K-2Cl cotranspoer, K or Cl channels result in lack of concentrating ability Clinical presentation: History of polyuria and polydypsia Hypokalemic metabolic alkaosis without Hypeension Presents early in life, often with sensineural deafness , traingular facies with drooping mouth and large eyes and pinnae, and renal failure. Laboratory Data: Chloride resistant Metabolic Alkalosis and Hypokalemia Normal serum magnesium Increased Urinary Calcium Excretion Ref: Harrisons 19th edition"
+    "cop": 0,
+    "exp": "Genetic defect in Bater syndrome is located in the thick ascending limb of the loop of Henle. Bater&;s syndrome: Resembles Loop diuretics Inheritance: Autosomal recessive disorder Pathophysiology: Resembles Loop diuretics Genetic defect involving the transpoer&;s in the thick ascending limb of the loop of henle. Defects in Na+-K-2Cl cotranspoer, K or Cl channels result in lack of concentrating ability Clinical presentation: History of polyuria and polydypsia Hypokalemic metabolic alkaosis without Hypeension Presents early in life, often with sensineural deafness , traingular facies with drooping mouth and large eyes and pinnae, and renal failure. Laboratory Data: Chloride resistant Metabolic Alkalosis and Hypokalemia Normal serum magnesium Increased Urinary Calcium Excretion Ref: Harrisons 19th edition",
+    "hint_exp": "🎯 Think of \"following statements about Bater\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d8ad6ca7-02e0-451f-abb6-c32398b6342b": {
-    "cop": 4,
-    "exp": "Opisthorchis viverrini Among the options provided only opisthorchis viverrini has smaller than 100 pm i.e. they are < 30 pm in size Organism Clinical features Eggs * Adults live in small intestine of the Diagnosis is by definitive host operculated eggs Echino.storuin * Inflammation and ulceration of small in faeces ileocaxnum intestine may cause diarrhoea Size of the eggs \"(intestinal with blood and abdominal pain are 80-140 by fluke)\" * Acquired by eating raw or undercooked snails, clams, fish containing 58 x 90 pin Metacercariae larvae * Fasciola gigantica * Caused by ingestion of metacercaria Eggs are large \"(liver. fluke)\" lave 130-150um * The adults live in the biliary tract of the liver by 60-90 pm * It is caused by the ingestion of uncooked aquatic plants - Causes dyspepsia, anorexia, nausea, vomiting, abdominal pains, sometimes hepatomegaly and hepatic tenderness Opisthorcis * Liver fluke that inhabite the bile ducts 30 x .12 }dm in Viverrini of fish eating animals size \"(liverfluke)\" * Caused by ingestion of raw or * Undercooked freshwater fish * Abdominal discomfo gas and * Fatigue are typical * It is associated with cancer of bile duct Gastmdiscoides * Large fluke of pig and human Egg size is Hollings * Caused by ingestion of vegetation found in contaminated water 130 + 60 x ion * Can also be transmitted after eating infected fish that has not been cooled properly or at all * Humans are an accidental host because the patients can survive without the existence of man. However snail is necessary in the development of parasite."
+    "cop": 3,
+    "exp": "Opisthorchis viverrini Among the options provided only opisthorchis viverrini has smaller than 100 pm i.e. they are < 30 pm in size Organism Clinical features Eggs * Adults live in small intestine of the Diagnosis is by definitive host operculated eggs Echino.storuin * Inflammation and ulceration of small in faeces ileocaxnum intestine may cause diarrhoea Size of the eggs \"(intestinal with blood and abdominal pain are 80-140 by fluke)\" * Acquired by eating raw or undercooked snails, clams, fish containing 58 x 90 pin Metacercariae larvae * Fasciola gigantica * Caused by ingestion of metacercaria Eggs are large \"(liver. fluke)\" lave 130-150um * The adults live in the biliary tract of the liver by 60-90 pm * It is caused by the ingestion of uncooked aquatic plants - Causes dyspepsia, anorexia, nausea, vomiting, abdominal pains, sometimes hepatomegaly and hepatic tenderness Opisthorcis * Liver fluke that inhabite the bile ducts 30 x .12 }dm in Viverrini of fish eating animals size \"(liverfluke)\" * Caused by ingestion of raw or * Undercooked freshwater fish * Abdominal discomfo gas and * Fatigue are typical * It is associated with cancer of bile duct Gastmdiscoides * Large fluke of pig and human Egg size is Hollings * Caused by ingestion of vegetation found in contaminated water 130 + 60 x ion * Can also be transmitted after eating infected fish that has not been cooled properly or at all * Humans are an accidental host because the patients can survive without the existence of man. However snail is necessary in the development of parasite.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"not the\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ad27321f-d8fd-4a03-8c71-41a92aad4827": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"causative organism rheumatic heart\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "4b6bf619-3e79-4863-b1fa-ec2b29560fab": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e.,MCLo Injuries from lateral side of knee causes valgus stress, resulting in injury to medial collateral ligament,o Conversely, injury' from medial side of knee causes varus stress and injury to lateral collateral ligament."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e.,MCLo Injuries from lateral side of knee causes valgus stress, resulting in injury to medial collateral ligament,o Conversely, injury' from medial side of knee causes varus stress and injury to lateral collateral ligament.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"knee\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a02b6cd3-27c6-4635-a1d8-ef0e9e2cdba4": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Propofol Anesthetics in porphyriaSafeUnsafe (should not be used)* Propofol* Benzodiazepines* Opioids (other than pentazocine)- morphine, codeine, pethidine, fentanyl, alfentanyl, naloxone* Lidocaine, Bupivacaine* Muscle relaxants* Neostagmine, atropine, glycopyrrolate* Aspirin, indomethacin, naproxen* Halothane, N2O, isoflurane* Barbiturate (thiopentone)* Etomidate* Pentazocine* Ropivacaine"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Propofol Anesthetics in porphyriaSafeUnsafe (should not be used)* Propofol* Benzodiazepines* Opioids (other than pentazocine)- morphine, codeine, pethidine, fentanyl, alfentanyl, naloxone* Lidocaine, Bupivacaine* Muscle relaxants* Neostagmine, atropine, glycopyrrolate* Aspirin, indomethacin, naproxen* Halothane, N2O, isoflurane* Barbiturate (thiopentone)* Etomidate* Pentazocine* Ropivacaine",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"porphyria patient\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3ba8c250-efc2-499c-9e59-730856133882": {
-    "cop": 1,
-    "exp": "SLE"
+    "cop": 0,
+    "exp": "SLE",
+    "hint_exp": "🎯 Think of \"glomeruli\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "a34c8179-877c-44af-85e2-e7e765997532": {
-    "cop": 1,
-    "exp": "Each wave is relatively weak at the outset but becomes strong when it reaches the poion of the basilar membrane that has a natural resonant frequency equal to the respective sound frequency. At this point, the basilar membrane can vibrate back and foh with such ease that the energy in the wave is dissipated. Consequently, the wave dies at this point and fails to travel the remaining distance along the basilar membrane.Thus, a high-frequency sound wave travels only a sho distance along the basilar membrane before it reaches its resonant point and dies, a medium-frequency sound wave travels about halfway and then dies, and a very low-frequency sound wave travels the entire distance along the membrane.Ref: Guyton; 13th edition; Chapter 53 The Sense of Hearing; Page no: 675"
+    "cop": 0,
+    "exp": "Each wave is relatively weak at the outset but becomes strong when it reaches the poion of the basilar membrane that has a natural resonant frequency equal to the respective sound frequency. At this point, the basilar membrane can vibrate back and foh with such ease that the energy in the wave is dissipated. Consequently, the wave dies at this point and fails to travel the remaining distance along the basilar membrane.Thus, a high-frequency sound wave travels only a sho distance along the basilar membrane before it reaches its resonant point and dies, a medium-frequency sound wave travels about halfway and then dies, and a very low-frequency sound wave travels the entire distance along the membrane.Ref: Guyton; 13th edition; Chapter 53 The Sense of Hearing; Page no: 675",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which location along basilar\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "884e5cc6-f51f-4423-af5d-69c86ab8699e": {
-    "cop": 4,
-    "exp": "Hypoventilation leads to hypoxic hypoxia where both arterial oxygen content and PO2 is low."
+    "cop": 3,
+    "exp": "Hypoventilation leads to hypoxic hypoxia where both arterial oxygen content and PO2 is low.",
+    "hint_exp": "🧩 Your crush solved \"arterial oxygen tension\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3adbfc20-de3c-4f5c-a466-b4880dd4374b": {
-    "cop": 2,
-    "exp": "Hoffbauer cells are the tissue macrophages of placenta"
+    "cop": 1,
+    "exp": "Hoffbauer cells are the tissue macrophages of placenta",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"tissue macrophages of\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c35df83a-c3c8-4520-9819-5ad370bfb26b": {
-    "cop": 4,
-    "exp": "On laryngoscopy, cherry red epiglottis is seen in Acute epiglottitis."
+    "cop": 3,
+    "exp": "On laryngoscopy, cherry red epiglottis is seen in Acute epiglottitis.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"is seen in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "34116017-1171-4fc1-a78a-36bdac0de233": {
-    "cop": 4,
-    "exp": "EGF, IGF-1, TGF stimulates the growth of leiomyoma either directly or estrogen GnRH analogues reduces 50%-80% of myoma size when used for 6months Pregnancy rate following myomectomy is 40-60% Recurrence and persistance following myomectomy is 30-50% D.C.DUTTA'S TEXTBOOK OF GYNECOLOGY,Pg no:272,281,282,6th edition *Intramural fibroid : endometrial sampling next step of management"
+    "cop": 3,
+    "exp": "EGF, IGF-1, TGF stimulates the growth of leiomyoma either directly or estrogen GnRH analogues reduces 50%-80% of myoma size when used for 6months Pregnancy rate following myomectomy is 40-60% Recurrence and persistance following myomectomy is 30-50% D.C.DUTTA'S TEXTBOOK OF GYNECOLOGY,Pg no:272,281,282,6th edition *Intramural fibroid : endometrial sampling next step of management",
+    "hint_exp": "🎯 Think of \"Concerning fibroids\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e6b28b47-db83-421f-88f7-f5addf4d3ed6": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"bordetella pertussis except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "563e914d-17fb-4f5a-96bf-ec2f2d9feac3": {
-    "cop": 2,
-    "exp": "S. pneumoniae colonizes the nasopharynx of 5-10% of healthy adults and up to 20-40% of children. The source of pneumococcal meningitis is either direct extension from middle ear or sinus infections, or via seeding from a bacteremia. In the latter circumstance, bacteremia from pneumonia would be more likely than from infective endocarditis."
+    "cop": 1,
+    "exp": "S. pneumoniae colonizes the nasopharynx of 5-10% of healthy adults and up to 20-40% of children. The source of pneumococcal meningitis is either direct extension from middle ear or sinus infections, or via seeding from a bacteremia. In the latter circumstance, bacteremia from pneumonia would be more likely than from infective endocarditis.",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f02e7c2d-7fc2-4fe1-acc9-3807608911b0": {
-    "cop": 2,
-    "exp": "DeformityOsteotomyCubitus varusLateral closing wedge osteotomy, Medial opening wedge osteotomyCubitus valgusMedial closing wedge osteotomy, Lateral opening wedge osteotomy (Refer: Mohindra's Fundamentals of Ohopedics, 2nd edition, pg no. 81)"
+    "cop": 1,
+    "exp": "DeformityOsteotomyCubitus varusLateral closing wedge osteotomy, Medial opening wedge osteotomyCubitus valgusMedial closing wedge osteotomy, Lateral opening wedge osteotomy (Refer: Mohindra's Fundamentals of Ohopedics, 2nd edition, pg no. 81)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"cubitus varus\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c973dfbe-00f0-4c20-87fa-7e5723a7ad80": {
-    "cop": 2,
-    "exp": "Description: Anopheles mosquito: Causes malaria and filaria Breeding habitat: Clean water Eggs laid singly with boat-shaped lateral floats Larvae have no Siphon tube; rest parallel to the undersurface of water Pupae have a broad and sho siphon tube Adults are inclined at an angle to the surface and with spotted wings Can fly 3-5 km Sophisticated mosquitoes Park's Textbook of Preventive and Social Medicine, 25th edition, Page No. 831"
+    "cop": 1,
+    "exp": "Description: Anopheles mosquito: Causes malaria and filaria Breeding habitat: Clean water Eggs laid singly with boat-shaped lateral floats Larvae have no Siphon tube; rest parallel to the undersurface of water Pupae have a broad and sho siphon tube Adults are inclined at an angle to the surface and with spotted wings Can fly 3-5 km Sophisticated mosquitoes Park's Textbook of Preventive and Social Medicine, 25th edition, Page No. 831",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of Anopheles\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a4dab156-b547-47c3-aa70-e89821931589": {
-    "cop": 1,
-    "exp": "Pegvaliase is a drug approved for the treatment of phenylketonuria. Chemically, it is a pegylated derivative of the enzyme phenylalanine ammonia-lyase that metabolizes phenylalanine to reduce its blood levels."
+    "cop": 0,
+    "exp": "Pegvaliase is a drug approved for the treatment of phenylketonuria. Chemically, it is a pegylated derivative of the enzyme phenylalanine ammonia-lyase that metabolizes phenylalanine to reduce its blood levels.",
+    "hint_exp": "🎯 Think of \"Pegvaliase approved 2018\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "0a2c9fd6-6e45-4c98-9ce8-b21eae7795f1": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Arnold nerve Nerve supply of pinna (auricle) and external auditory canal1) Pinna (auricle)# Lateral surface:- Great auricular nerve (C2, C3), auricular branch of vagus (Arnold's nerve), facialnerve, auriculotemporal nerve-# Medial surface:- Great auricular nerve, auricular branch of vagus (ArnokTs nerve), facialnerve, lesser occipital nerve.2) External auditory canal# Anterior wall and roof:- auriculotemporal nerve.# Posterior wall and floor:- auricular branch of vagus. Posterior wall (not floor) also receives sensory fibresfrom facial nerve through auricular branch of vagus, therefore hypoesthesia of posterior meatal wall is seen in facial nerve injury - 'Hitzelberger's sign'."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Arnold nerve Nerve supply of pinna (auricle) and external auditory canal1) Pinna (auricle)# Lateral surface:- Great auricular nerve (C2, C3), auricular branch of vagus (Arnold's nerve), facialnerve, auriculotemporal nerve-# Medial surface:- Great auricular nerve, auricular branch of vagus (ArnokTs nerve), facialnerve, lesser occipital nerve.2) External auditory canal# Anterior wall and roof:- auriculotemporal nerve.# Posterior wall and floor:- auricular branch of vagus. Posterior wall (not floor) also receives sensory fibresfrom facial nerve through auricular branch of vagus, therefore hypoesthesia of posterior meatal wall is seen in facial nerve injury - 'Hitzelberger's sign'.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"external auditory canal\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "189f8539-8f5b-4683-a7c1-89948e7b4db4": {
-    "cop": 1,
-    "exp": "Ans. Increased transit time"
+    "cop": 0,
+    "exp": "Ans. Increased transit time",
+    "hint_exp": "🧩 Your crush solved \"finding small intestinal malabsorption\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e8f5a449-04e5-4c50-bb35-aadfcdecbbd9": {
-    "cop": 2,
-    "exp": "Forearm fractures DescriptionBaon's fracture Intra-aicular fracture of the distal aicular surface of radius Bennet's fracture dislocation Oblique intra-aicular fracture of base of the first metacarpal with subluxation of trapezia-metacarpal joint Buckle/Torus fracture Occurs near metaphysis in the distal forearm in children Chauffer's fractureFracture of radius just above the styloid process caused by a backward jerk of staing handle of car Colle's fractureFracture at the coicocalcaneal junction of distal end of radius Essex lopresti's fractureComminuted fracture of radial head with distal radio-ulnar joint subluxation Galezzi's fractureFracture of the distal third of radius with dislocation of distal radioulnar joint Hume's fracture High monteggia fractureMonteggia's fracture Fracture of proximal third of ulna with dislocation of the head of radius Moore's fracture Fracture of distal end of the radius with luxation of distal end of ulna Night stick fracture Isolated transverse fracture of shaft of ulna Piedmont's fractureClosed fracture of radius at the junction of middle and distal thirds and no association with ulnar fractureSmith's fractureReverse of Colle&;s fracture(Refer: Mohindra's Fundamentals of Ohopedics, 2nd edition, pg no. 87, 88)"
+    "cop": 1,
+    "exp": "Forearm fractures DescriptionBaon's fracture Intra-aicular fracture of the distal aicular surface of radius Bennet's fracture dislocation Oblique intra-aicular fracture of base of the first metacarpal with subluxation of trapezia-metacarpal joint Buckle/Torus fracture Occurs near metaphysis in the distal forearm in children Chauffer's fractureFracture of radius just above the styloid process caused by a backward jerk of staing handle of car Colle's fractureFracture at the coicocalcaneal junction of distal end of radius Essex lopresti's fractureComminuted fracture of radial head with distal radio-ulnar joint subluxation Galezzi's fractureFracture of the distal third of radius with dislocation of distal radioulnar joint Hume's fracture High monteggia fractureMonteggia's fracture Fracture of proximal third of ulna with dislocation of the head of radius Moore's fracture Fracture of distal end of the radius with luxation of distal end of ulna Night stick fracture Isolated transverse fracture of shaft of ulna Piedmont's fractureClosed fracture of radius at the junction of middle and distal thirds and no association with ulnar fractureSmith's fractureReverse of Colle&;s fracture(Refer: Mohindra's Fundamentals of Ohopedics, 2nd edition, pg no. 87, 88)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Baon fracture\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f88bac99-d0f2-4a04-8f83-9c8d2bb02dc8": {
-    "cop": 2,
-    "exp": "Ans. B Acoustic neuroma - Progressive unilateral sensorineural hearing loss often accompanied by tinnitus is the presenting symptoms in majority of cases Imbalance or unsteadiness, True veigo is seldom seen *V cranial nerve is the earliest nerve to be involve rest VII, IX, X cranial nerve also commonly involved XI, XII, III, IV, VI are affected when tumor is very large Brain stem, cerebellar involvement an ICT symptoms also occurs. **The presence of bilateral vestibular schwannomas is diagnostic of neurofibromatosis type 2."
+    "cop": 1,
+    "exp": "Ans. B Acoustic neuroma - Progressive unilateral sensorineural hearing loss often accompanied by tinnitus is the presenting symptoms in majority of cases Imbalance or unsteadiness, True veigo is seldom seen *V cranial nerve is the earliest nerve to be involve rest VII, IX, X cranial nerve also commonly involved XI, XII, III, IV, VI are affected when tumor is very large Brain stem, cerebellar involvement an ICT symptoms also occurs. **The presence of bilateral vestibular schwannomas is diagnostic of neurofibromatosis type 2.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"acoustic neuroma\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "83a167cb-0f83-4974-bb67-748d0c6226bd": {
-    "cop": 4,
-    "exp": "Ans. D i.e. Molluscum contagiosum"
+    "cop": 3,
+    "exp": "Ans. D i.e. Molluscum contagiosum",
+    "hint_exp": "🎯 Think of \"Shiny pearly white hemispherical\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "46829ca0-70ec-4a6f-aebd-fd6e1a2a9820": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Stratum spinosum o First know about the layers of skin A. Epidermis (from superficial to deep) - Stratum corneum (Horny layer) Stratum granulosum (granular cells layer) Stratum spinosum (Prickle cell layer) Stratum basale (Basal cell layer) B. Dermis Papillary dermis Reticular dermis o Pemphigus is characterized by acantholysis. Acantholysis is separation of epidermal cells from one another. This separation occurs due to antibodies (IgG) against the intercellular substances. Acantholysis occurs in different layers of epidermis in different types of pemphigus. o Pemphigus vulgaris and -----> Acantholysis occur in between basal cells and cells of prickle cell layer (Stratum pemphigus vegetans spinosum). Some books also state that acantholysis occurs in suprabasal layer. Suprabasal layer is most probably, stratum spinosum as it is seen above basal layer. Pemphigus foliaceous and -----> Acantholysis occurs in stratum granulosum. pemphigus erythematous So, Stratum spinosum is involved in pemphigus vulgaris and pemphigus vegetans and stratum granulosum is involved in pemphigus foliaceous and pemphigus erythematosus. But, the answer should be stratum spinosum, as pemphigus vulgaris is the most common type of pemphigus and most probably they have asked about it."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Stratum spinosum o First know about the layers of skin A. Epidermis (from superficial to deep) - Stratum corneum (Horny layer) Stratum granulosum (granular cells layer) Stratum spinosum (Prickle cell layer) Stratum basale (Basal cell layer) B. Dermis Papillary dermis Reticular dermis o Pemphigus is characterized by acantholysis. Acantholysis is separation of epidermal cells from one another. This separation occurs due to antibodies (IgG) against the intercellular substances. Acantholysis occurs in different layers of epidermis in different types of pemphigus. o Pemphigus vulgaris and -----> Acantholysis occur in between basal cells and cells of prickle cell layer (Stratum pemphigus vegetans spinosum). Some books also state that acantholysis occurs in suprabasal layer. Suprabasal layer is most probably, stratum spinosum as it is seen above basal layer. Pemphigus foliaceous and -----> Acantholysis occurs in stratum granulosum. pemphigus erythematous So, Stratum spinosum is involved in pemphigus vulgaris and pemphigus vegetans and stratum granulosum is involved in pemphigus foliaceous and pemphigus erythematosus. But, the answer should be stratum spinosum, as pemphigus vulgaris is the most common type of pemphigus and most probably they have asked about it.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Pemphigus\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "8893f4aa-2ce0-4469-8431-173fedf3a8cd": {
-    "cop": 3,
-    "exp": "-Daily total requirement of Iodine in : Adult person : 150 mcg Pregnant women : 250 mcg During lactation: 220-290 mcg - Lifetime requirement of iodine: 5 grams."
+    "cop": 2,
+    "exp": "-Daily total requirement of Iodine in : Adult person : 150 mcg Pregnant women : 250 mcg During lactation: 220-290 mcg - Lifetime requirement of iodine: 5 grams.",
+    "hint_exp": "🧩 Your crush solved \"iodine by an adult person\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d28c0f4f-3150-4b52-bbea-6a48e9ea0843": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Antigen presenting cells Langerhans cells are dendritic cells They acts as antigen presenting cells."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Antigen presenting cells Langerhans cells are dendritic cells They acts as antigen presenting cells.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Langerhan cells\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "630a0703-84fa-493b-8e30-ac9eb17424d0": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Middle meatus In dacryocystorhinostomy, medial wall of the lacrimal sac is connected to lateral nasal wall at middle meatus"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Middle meatus In dacryocystorhinostomy, medial wall of the lacrimal sac is connected to lateral nasal wall at middle meatus",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"orbit involved\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "cbdcc901-e1de-4c1a-8a41-cf5fdb42fae0": {
-    "cop": 3,
-    "exp": "Ans. C: Anencephaly There are well-recognised risk factors, such as diabetes, fetal macrosomia,post maturity, multiparity, anencephaly, fetal ascites and maternal obesity, but it is often difficult to predict. A number of obstetrical maneuvers are sequentially performed in attempt to facilitate delivery at this point,including : Gaskin maneuver involves moving the mother to an all fours position with the back arched, widening the pelvic outlet. McRobe's maneuver; Woods' screw maneuver which leads to turning the anterior shoulder to the posterior and vice versa. Jacquemier's maneuver, or delivery of the posterior shoulder first, in which the forearm and hand are identified in the bih canal, and gently pulled. More drastic maneuvers include Zavanelli's maneuver involves pushing the fetal head back in with performing a cesarean section. Intentional clavicular fracture, which reduces the diameter of the shoulder girdle that requires to pass through the bih canal. Symphisiotomy, which makes the opening of the bih canal laxer by breaking the connective tissue between the two pubes bones facilitating the passage of the shoulders. Don'ts in shoulder dystocia: Do not give traction over baby's head Do not apply fundal pressure."
+    "cop": 2,
+    "exp": "Ans. C: Anencephaly There are well-recognised risk factors, such as diabetes, fetal macrosomia,post maturity, multiparity, anencephaly, fetal ascites and maternal obesity, but it is often difficult to predict. A number of obstetrical maneuvers are sequentially performed in attempt to facilitate delivery at this point,including : Gaskin maneuver involves moving the mother to an all fours position with the back arched, widening the pelvic outlet. McRobe's maneuver; Woods' screw maneuver which leads to turning the anterior shoulder to the posterior and vice versa. Jacquemier's maneuver, or delivery of the posterior shoulder first, in which the forearm and hand are identified in the bih canal, and gently pulled. More drastic maneuvers include Zavanelli's maneuver involves pushing the fetal head back in with performing a cesarean section. Intentional clavicular fracture, which reduces the diameter of the shoulder girdle that requires to pass through the bih canal. Symphisiotomy, which makes the opening of the bih canal laxer by breaking the connective tissue between the two pubes bones facilitating the passage of the shoulders. Don'ts in shoulder dystocia: Do not give traction over baby's head Do not apply fundal pressure.",
+    "hint_exp": "🎯 Think of \"Shoulder dystocia seen predominantly\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d9138e83-54da-47dc-9e0b-2e9432702091": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following cardiovascular conditions\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "97e3a1c1-3461-4fd8-9f65-fd1d9eb7d414": {
-    "cop": 4,
-    "exp": "Ans. D. All of the above. (Ref. Walter and Miller's Textbook of Radiotherapy 7th/Ch. 33)Craniospinal irradiation is used for patients who have, or are at risk for, disseminated disease throughout the CNS that is not sufficiently responsive to chemotherapy (typically methotrexate). This includes:# Embryonal CNS malignancies (medulloblastoma, PNET, atypical teratoid/rhabdoid tumour)# Intracranial germ cell tumour with evidence of distant CNS metastases.# Epenedymoma with evidence of distant CNS metastases or CSF involvement- Craniospinal radiation is central to the management of medulloblastoma. Depending upon the age and the use of chemotherapy, cranio-spinal irradiation (CSI) of 25 to 35 Gy and boost radiation to the posterior fossa to a total dose of 50-55Gy over 6-7 weeks is the standard of care.- Post operative radiotherapy (localised fields to a dose of 54 Gy/30) is required in selected cases with residual cerebellar astrocytoma particularly in the brain stem. Chemotherapy is generally not indicated in these tumours.- In germinomas, Radiotherapy directed toward the craniospinal axis or tumor site alone at decreased dose levels is effective.Tumours with high propensity for neuraxis dissemination include :# medulloblastoma, intracranial germ cell tumour, primary CNS lymphoma and undifferentiated round cell tumours such as ependymoblastoma and PNET."
+    "cop": 3,
+    "exp": "Ans. D. All of the above. (Ref. Walter and Miller's Textbook of Radiotherapy 7th/Ch. 33)Craniospinal irradiation is used for patients who have, or are at risk for, disseminated disease throughout the CNS that is not sufficiently responsive to chemotherapy (typically methotrexate). This includes:# Embryonal CNS malignancies (medulloblastoma, PNET, atypical teratoid/rhabdoid tumour)# Intracranial germ cell tumour with evidence of distant CNS metastases.# Epenedymoma with evidence of distant CNS metastases or CSF involvement- Craniospinal radiation is central to the management of medulloblastoma. Depending upon the age and the use of chemotherapy, cranio-spinal irradiation (CSI) of 25 to 35 Gy and boost radiation to the posterior fossa to a total dose of 50-55Gy over 6-7 weeks is the standard of care.- Post operative radiotherapy (localised fields to a dose of 54 Gy/30) is required in selected cases with residual cerebellar astrocytoma particularly in the brain stem. Chemotherapy is generally not indicated in these tumours.- In germinomas, Radiotherapy directed toward the craniospinal axis or tumor site alone at decreased dose levels is effective.Tumours with high propensity for neuraxis dissemination include :# medulloblastoma, intracranial germ cell tumour, primary CNS lymphoma and undifferentiated round cell tumours such as ependymoblastoma and PNET.",
+    "hint_exp": "🧩 Your crush solved \"useful in treatment of\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ee76e51e-964d-41d2-85b7-b99116d7f5ae": {
-    "cop": 2,
-    "exp": "Ans. B. Aplastic anaemia is a recognized complicationa. Iron may indeed precipitate Haemolysis and this is a not uncommon presenting feature. The mechanism may be due to increased output of complement sensitive reticulocytes following iron treatment in patients with marginal iron balance.b. Aplastic anaemia may supervene but there is no association with chronic granulocytic leukaemia.c. The Ham's acidified serum test is positive in PNH but the Hess test is not commonly abnormal unless thrombocytopenia occurs due to progressive aplasia. Splenomegaly is unusual."
+    "cop": 1,
+    "exp": "Ans. B. Aplastic anaemia is a recognized complicationa. Iron may indeed precipitate Haemolysis and this is a not uncommon presenting feature. The mechanism may be due to increased output of complement sensitive reticulocytes following iron treatment in patients with marginal iron balance.b. Aplastic anaemia may supervene but there is no association with chronic granulocytic leukaemia.c. The Ham's acidified serum test is positive in PNH but the Hess test is not commonly abnormal unless thrombocytopenia occurs due to progressive aplasia. Splenomegaly is unusual.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a patient with PNH\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5f61d732-83eb-47c8-9e2a-ad15a50705c0": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., 50% At bih, the average height of a child is 50 cm. During first year height increases about 50% of bih height (25 cm)."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., 50% At bih, the average height of a child is 50 cm. During first year height increases about 50% of bih height (25 cm).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"height in first year\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "9752d83c-ad9c-4329-8d15-af863f97d4a0": {
-    "cop": 1,
-    "exp": "Approximately 60% of the blood supply to the supraduodenal bile duct originates from the pancreaticoduodenal and retroduodenal aeries, whereas 38% of the blood supply originates from the right hepatic aery and cystic duct aery and 2 percent is non-axial."
+    "cop": 0,
+    "exp": "Approximately 60% of the blood supply to the supraduodenal bile duct originates from the pancreaticoduodenal and retroduodenal aeries, whereas 38% of the blood supply originates from the right hepatic aery and cystic duct aery and 2 percent is non-axial.",
+    "hint_exp": "🎯 Think of \"from vessels\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c19bb086-b954-44ab-8a08-3fa754cc030c": {
-    "cop": 4,
-    "exp": "D i.e. Angle closure glaucoma Angle closure glaucoma is a cause of painful, not painless loss of visionS2"
+    "cop": 3,
+    "exp": "D i.e. Angle closure glaucoma Angle closure glaucoma is a cause of painful, not painless loss of visionS2",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"seen in all except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c2b4448b-9014-4895-8ee3-384ff4860d67": {
-    "cop": 4,
-    "exp": "Ans. D. -71.7mVBy substituting in the Nernst equationEi-Eo=61/-1xlog10120/8=-61x1.176=-71.7mV inside the cell.Note that for Cl-, the value for z (valence) is -1"
+    "cop": 3,
+    "exp": "Ans. D. -71.7mVBy substituting in the Nernst equationEi-Eo=61/-1xlog10120/8=-61x1.176=-71.7mV inside the cell.Note that for Cl-, the value for z (valence) is -1",
+    "hint_exp": "🧩 Your crush solved \"equilibrium concentrations inside outside\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "27b04b21-d938-4093-b7ac-457abfd68e86": {
-    "cop": 4,
-    "exp": "Tensile strength of wound increase as days goes on. Maximum tensile strength is 60 - 80% of normal, but never becomes normal."
+    "cop": 3,
+    "exp": "Tensile strength of wound increase as days goes on. Maximum tensile strength is 60 - 80% of normal, but never becomes normal.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"wound become normal after\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "47b16362-ef14-4c31-99d9-5bcba9e9a736": {
-    "cop": 4,
-    "exp": "Primary bacterial peritonitis (PBP) occurs most commonly in conjunction with cirrhosis Other conditions which may cause PBP are Metastatic malignant disease, Postnecrotic cirrhosis, Chronic active hepatitis, Acute viral hepatitis, Congestive hea failure, Systemic lupus erythematosus Lymphedema No underlying disease Ref: Harrison, E-18, P-1080."
+    "cop": 3,
+    "exp": "Primary bacterial peritonitis (PBP) occurs most commonly in conjunction with cirrhosis Other conditions which may cause PBP are Metastatic malignant disease, Postnecrotic cirrhosis, Chronic active hepatitis, Acute viral hepatitis, Congestive hea failure, Systemic lupus erythematosus Lymphedema No underlying disease Ref: Harrison, E-18, P-1080.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Primary bacterial peritonitis repoed\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "0190864d-2c51-4274-9efa-30e2e14fec54": {
-    "cop": 4,
-    "exp": "Glomerular nodules may be either the Kimmelstiel-Wilson nodules of diabetes mellitus or may be composed of amyloid. An amyloid origin can be confirmed by staining with Congo red, which causes the nodules to stain red with ordinary light but exhibit a distinctive \"apple-green\" birefringence when viewed with polarized light. The most common type of amyloid (type AA) is due to deposition of altered immunoglobulin light chains and is seen in diseases with chronic antigenic stimulation, such as tuberculosis. Acute urinary tract infection is an infection of too sho a duration to cause amyloidosis. Diabetes mellitus is associated with glomerular nodules called Kimmelstiel-Wilson nodules, but these will not show apple-green birefringence when viewed with polarized light. Sarcoidosis typically involves the lymph nodes, lungs, spleen, and to a lesser extent, the skin and eye. It is unrelated to amyloidosis. Ref: Wyatt C., Butterwoh IV J.F., Moos P.J., Mackey D.C., Brown T.G. (2008). Chapter 3. Pathology of the Immune System. In C. Wyatt, J.F. Butterwoh IV, P.J. Moos, D.C. Mackey, T.G. Brown (Eds), Pathology: The Big Picture."
+    "cop": 3,
+    "exp": "Glomerular nodules may be either the Kimmelstiel-Wilson nodules of diabetes mellitus or may be composed of amyloid. An amyloid origin can be confirmed by staining with Congo red, which causes the nodules to stain red with ordinary light but exhibit a distinctive \"apple-green\" birefringence when viewed with polarized light. The most common type of amyloid (type AA) is due to deposition of altered immunoglobulin light chains and is seen in diseases with chronic antigenic stimulation, such as tuberculosis. Acute urinary tract infection is an infection of too sho a duration to cause amyloidosis. Diabetes mellitus is associated with glomerular nodules called Kimmelstiel-Wilson nodules, but these will not show apple-green birefringence when viewed with polarized light. Sarcoidosis typically involves the lymph nodes, lungs, spleen, and to a lesser extent, the skin and eye. It is unrelated to amyloidosis. Ref: Wyatt C., Butterwoh IV J.F., Moos P.J., Mackey D.C., Brown T.G. (2008). Chapter 3. Pathology of the Immune System. In C. Wyatt, J.F. Butterwoh IV, P.J. Moos, D.C. Mackey, T.G. Brown (Eds), Pathology: The Big Picture.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fe355b73-5c9a-4d13-861f-ffafc9cb31af": {
-    "cop": 1,
-    "exp": "Chancroid: caused by Hemophilus ducreyi Incubation period is 4 to 7 days Azithromycin is drug of choice Ref: Park 21st edition, page 305."
+    "cop": 0,
+    "exp": "Chancroid: caused by Hemophilus ducreyi Incubation period is 4 to 7 days Azithromycin is drug of choice Ref: Park 21st edition, page 305.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"chancroid\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "b7c21fa6-a572-42f2-879c-c3b24db4b65a": {
-    "cop": 4,
-    "exp": "Desflurane is the most pungent of the inhalational agent and, if administered face mark can cause coughing, salvation, breath holding and laryngospasm. Thus it is not used for induction. Sevoflurane and halothane both have good smell thus both good for induction. Sevoflurane not only good smell ,low blood gas solubility so fast speed of induction thus agent of choice for induction."
+    "cop": 3,
+    "exp": "Desflurane is the most pungent of the inhalational agent and, if administered face mark can cause coughing, salvation, breath holding and laryngospasm. Thus it is not used for induction. Sevoflurane and halothane both have good smell thus both good for induction. Sevoflurane not only good smell ,low blood gas solubility so fast speed of induction thus agent of choice for induction.",
+    "hint_exp": "🧩 Your crush solved \"the following can\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

@@ -1,202 +1,252 @@
 {
   "f0d388bc-2123-4156-8c96-9136953ba48e": {
-    "cop": 1,
-    "exp": "(a) Nerve decompression(Ref. Scott Brown, 6th ed., 1404)In sudden onset complete palsy following fracture (which is the common presentation) early exploration and decompression of facial nerve or nerve repair should be carried out.Delayed onset palsy, which might be because of surrounding edema, should be treated with steroids and watchful waiting."
+    "cop": 0,
+    "exp": "(a) Nerve decompression(Ref. Scott Brown, 6th ed., 1404)In sudden onset complete palsy following fracture (which is the common presentation) early exploration and decompression of facial nerve or nerve repair should be carried out.Delayed onset palsy, which might be because of surrounding edema, should be treated with steroids and watchful waiting.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Treatment choice temporal bone\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "054a80b8-9617-4251-9b54-47a7e1ed1ec7": {
-    "cop": 1,
-    "exp": "In hemoglobin electrophoresis, various types of hemoglobin move at varying speed.\nIn Sickle cell trait (heterozygous state), there are two types of hemoglobin : - HbS (40%) and HbA (60%). So, on electrophoresis, two different bands are produced.\nIn homozygous state, almost all hemoglobin is HbS. So, a single band is produced.\n\nLaboratory findings of sickle cell anemia\n\nModerate to severe anemia.\nPeripheral smear will show\nSickle cells\nTarget cells\nHowell-Jolly bodies because of autosplenctomy.\nA positive sickling test with a reducing substance like sodium metabisulfite."
+    "cop": 0,
+    "exp": "In hemoglobin electrophoresis, various types of hemoglobin move at varying speed.\nIn Sickle cell trait (heterozygous state), there are two types of hemoglobin : - HbS (40%) and HbA (60%). So, on electrophoresis, two different bands are produced.\nIn homozygous state, almost all hemoglobin is HbS. So, a single band is produced.\n\nLaboratory findings of sickle cell anemia\n\nModerate to severe anemia.\nPeripheral smear will show\nSickle cells\nTarget cells\nHowell-Jolly bodies because of autosplenctomy.\nA positive sickling test with a reducing substance like sodium metabisulfite.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"sickle cell trait number\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3b2f768b-6af1-44c0-b4cd-057dd34cedeb": {
-    "cop": 4,
-    "exp": "Ans. (D) Subarachnoid hemorrhage(Ref: Katzung 13th/e p202)Nimodipine is a cerebroselective calcium channel blocker indicated in subarachnoid hemorrhage."
+    "cop": 3,
+    "exp": "Ans. (D) Subarachnoid hemorrhage(Ref: Katzung 13th/e p202)Nimodipine is a cerebroselective calcium channel blocker indicated in subarachnoid hemorrhage.",
+    "hint_exp": "🎯 Think of \"Nimodipine given\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e26173c7-21c2-41e7-a74f-fdfde5b1a3db": {
-    "cop": 2,
-    "exp": "Obliques makes an angle of 51° to optical axis."
+    "cop": 1,
+    "exp": "Obliques makes an angle of 51° to optical axis.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Muscle which makes angle\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "28bef401-b47f-4b76-99aa-99c9f68e415a": {
-    "cop": 2,
-    "exp": "Ans. (b) CollagenRef: Robbin's 8th ed ch:3"
+    "cop": 1,
+    "exp": "Ans. (b) CollagenRef: Robbin's 8th ed ch:3",
+    "hint_exp": "🧩 Your crush solved \"due to defect in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0d82804b-868e-43c6-820b-16fa1ce68b4b": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"a RPD\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ba8eb5fb-5946-40c0-9c4b-19c65de67289": {
-    "cop": 3,
-    "exp": "Progestase"
+    "cop": 2,
+    "exp": "Progestase",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"ectopic pregnancy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7ea6d7a6-133a-4460-9e46-424f30d5aa9e": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"children\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b7e3e8c9-a426-4170-a436-a430cc771888": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"toxicity\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "9ac1a4b2-e583-4d9d-a499-68a1f32fa3ba": {
-    "cop": 1,
-    "exp": "Diseases associated with Multiple Endocrine Neoplasia (MEN) II a are: ? Medullary thyroid carcinoma ? Pheochromocytoma ? Parathyroid hyperplasia or adenoma Pituitary tumor is not a feature of MEN II syndrome. It is featured only in MEN I. Ref: Harrison's Principle of Internal Medicine, 16th Edition, Pages 2231-2234"
+    "cop": 0,
+    "exp": "Diseases associated with Multiple Endocrine Neoplasia (MEN) II a are: ? Medullary thyroid carcinoma ? Pheochromocytoma ? Parathyroid hyperplasia or adenoma Pituitary tumor is not a feature of MEN II syndrome. It is featured only in MEN I. Ref: Harrison's Principle of Internal Medicine, 16th Edition, Pages 2231-2234",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6b1de9aa-03fd-48f8-a733-c81c6223241f": {
-    "cop": 1,
-    "exp": "In pediatric incidence - 1 in 15000 in adult incidence 1 in 45000"
+    "cop": 0,
+    "exp": "In pediatric incidence - 1 in 15000 in adult incidence 1 in 45000",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"What incidence malignant hypehermia\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e871de86-dae0-473b-b25a-576ada94f68c": {
-    "cop": 1,
-    "exp": "A Kelly hemostat is passed from distal ulna to proximal radius at a 21° angle to the shaft to replicate the fibers of the central band.\nInjury to the interosseous membrane of the forearm typically occurs in conjunction with disruption of the radial head and the distal radioulnar joint."
+    "cop": 0,
+    "exp": "A Kelly hemostat is passed from distal ulna to proximal radius at a 21° angle to the shaft to replicate the fibers of the central band.\nInjury to the interosseous membrane of the forearm typically occurs in conjunction with disruption of the radial head and the distal radioulnar joint.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"upper limb\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7928b2fb-f756-462d-8291-47074cd73c3a": {
-    "cop": 4,
-    "exp": "Pyridoxal phosphate (PLP), coenzyme form of vitamin B6 is the prosthetic group of all aminotransferases. During transamination, PLP serves as a \"carrier\" of amino groups. An enzyme-bound Schiff base is formed between the keto group of enzyme-bound PLP and the a-amino group of an a-amino acid."
+    "cop": 3,
+    "exp": "Pyridoxal phosphate (PLP), coenzyme form of vitamin B6 is the prosthetic group of all aminotransferases. During transamination, PLP serves as a \"carrier\" of amino groups. An enzyme-bound Schiff base is formed between the keto group of enzyme-bound PLP and the a-amino group of an a-amino acid.",
+    "hint_exp": "🎯 Think of \"the activity of transaminases\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "8130fa36-4eab-4679-bb02-bb148c3d7f3a": {
-    "cop": 2,
-    "exp": "Cocaine is sympathomimetic agent."
+    "cop": 1,
+    "exp": "Cocaine is sympathomimetic agent.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"a vasoconstrictor\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "72019258-5045-41d8-b141-896bf0078ede": {
-    "cop": 3,
-    "exp": "Ans. (c) Human Parvovirus B19.The picture shows slapped cheeks appearance which can be confirmed serologically by demonstrating B19 specific IgM on an acute serum sample.Image source- style=\"font-family: Times New Roman, Times, serif\">"
+    "cop": 2,
+    "exp": "Ans. (c) Human Parvovirus B19.The picture shows slapped cheeks appearance which can be confirmed serologically by demonstrating B19 specific IgM on an acute serum sample.Image source- style=\"font-family: Times New Roman, Times, serif\">",
+    "hint_exp": "🧩 Your crush solved \"caused by\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "18a420fa-2f40-45ab-9ec6-e6ccf9981303": {
-    "cop": 3,
-    "exp": "C i.e. Thumb printing"
+    "cop": 2,
+    "exp": "C i.e. Thumb printing",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"of ischemic colitis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "18736e56-ff2c-437a-8894-ffd6527cb0dc": {
-    "cop": 2,
-    "exp": "Alpha-1 antitrypsin deficiency is an autosomal recessive disease marked by abnormally low serum levels of alpha1 AT enzyme resulting in panacinar emphysema.(ref Robbins 9/e p675-676)"
+    "cop": 1,
+    "exp": "Alpha-1 antitrypsin deficiency is an autosomal recessive disease marked by abnormally low serum levels of alpha1 AT enzyme resulting in panacinar emphysema.(ref Robbins 9/e p675-676)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"True about alpha antitrypsin\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "7d8876aa-da72-4dda-8dcb-98265a57bb9d": {
-    "cop": 2,
-    "exp": "(Ref: KDT 6/e p741, Daptomvcin is a newer antibiotic that acts by causing depolarization.of bacterial cell membranes. It is effective in MRSA, VRSA and even streptogramin resistant SA infections as well as VRE infections. It can cause myopathy in patients taking statins."
+    "cop": 1,
+    "exp": "(Ref: KDT 6/e p741, Daptomvcin is a newer antibiotic that acts by causing depolarization.of bacterial cell membranes. It is effective in MRSA, VRSA and even streptogramin resistant SA infections as well as VRE infections. It can cause myopathy in patients taking statins.",
+    "hint_exp": "🎯 Think of \"This drug depolarizer cell\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "10228438-c3c1-4186-ac2a-e0db5f9fa3d8": {
-    "cop": 1,
-    "exp": "Ans: a (Acne) Ref: Tripathi, 6th ed, p. 852; Katzung, 10th ed, p. 1000BENZOYL PEROXIDEBenzoyl peroxide is an effective topical agent in the treatment of acne vulgaris. It penetrates the stratum comeum or follicular openings unchanged and is converted metabolically to benzoic acid within the epidermis and dermis.RETINOIC ACID & DERIVATIVESRetinoic acid, also known as tretinoin or all-trans-retmoic acid, is the acid form of vitamin A. It is an effective topical treatment for acne vulgaris. The most common adverse effects of topical retinoic acid are erythema and dryness that occur in the first few weeks of useAdapalene is a derivative of naphthoic acid that resembles retinoic acid in structure and effects. It is applied as a 0.1 % gel once daily.. Adapalene is less irritating than tretinoin and is most effective in patients with mild to moderate acne vulgaris.Tazarotene is an acetylenic retinoid that is available as a 0.1 % gel and cream for the treatment of mild to moderately severe facial acne. Topical tazarotene should be used by women of childbearing age only after contraceptive counseling. It is recommended that tazarotene should not be used by pregnant women.ISOTRETINOINIsotretinoin is a synthetic retinoid currently restricted to the treatment of severe cystic acne that is recalcitrant to standard therapies. Most patients with cystic acne respond to 1-2 mg/kg, given orally in two divided doses daily for 4-5 months Common adverse effects resemble hypervitaminosis A and include dryness and itching of the skin and mucous membranes. Teratogenicity is a significant risk in patients taking isotretinoin.AZELAICACIDAzelaic acid is a straight-chain saturated dicarboxylic acid that has been demonstrated to be effective in the treatment of acne vulgaris and acne rosacea."
+    "cop": 0,
+    "exp": "Ans: a (Acne) Ref: Tripathi, 6th ed, p. 852; Katzung, 10th ed, p. 1000BENZOYL PEROXIDEBenzoyl peroxide is an effective topical agent in the treatment of acne vulgaris. It penetrates the stratum comeum or follicular openings unchanged and is converted metabolically to benzoic acid within the epidermis and dermis.RETINOIC ACID & DERIVATIVESRetinoic acid, also known as tretinoin or all-trans-retmoic acid, is the acid form of vitamin A. It is an effective topical treatment for acne vulgaris. The most common adverse effects of topical retinoic acid are erythema and dryness that occur in the first few weeks of useAdapalene is a derivative of naphthoic acid that resembles retinoic acid in structure and effects. It is applied as a 0.1 % gel once daily.. Adapalene is less irritating than tretinoin and is most effective in patients with mild to moderate acne vulgaris.Tazarotene is an acetylenic retinoid that is available as a 0.1 % gel and cream for the treatment of mild to moderately severe facial acne. Topical tazarotene should be used by women of childbearing age only after contraceptive counseling. It is recommended that tazarotene should not be used by pregnant women.ISOTRETINOINIsotretinoin is a synthetic retinoid currently restricted to the treatment of severe cystic acne that is recalcitrant to standard therapies. Most patients with cystic acne respond to 1-2 mg/kg, given orally in two divided doses daily for 4-5 months Common adverse effects resemble hypervitaminosis A and include dryness and itching of the skin and mucous membranes. Teratogenicity is a significant risk in patients taking isotretinoin.AZELAICACIDAzelaic acid is a straight-chain saturated dicarboxylic acid that has been demonstrated to be effective in the treatment of acne vulgaris and acne rosacea.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Benzoyl peroxide effective\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "6e595549-2f49-4011-bebe-866363c6d11f": {
-    "cop": 3,
-    "exp": "Fetuses with trisomy 21 and other chromosomal anomalies often have excess fluid in the subcutaneous tissue behind the fetalSonographically, this appears as an echolucent fluid collection between the soft tissue over the cervical spine and an echogenic line representing the skin edge. This fluid space is called the nuchal translucency (NT).The lucency is thought to represent mesenchymal edema and is often associated with distended jugular lymphatics.The prevailing theory suggests an alteration in lymphangiogenesis and delayed lymphatic development. Other possible etiologies include cardiac failure and abnormal extracellular matrix, but these do not explain the localized and transient nature of the NT. Most likely, the etiology is a complex interaction of factors.NT normally increases with advancing gestational age, and therefore the measurement is compared to crown-rump length (CRL). A thin NT is seen in most normal fetuses.An NT greater than 95% for CRL is considered thickened. An NT greater than 99% does not change significantly with CRL and is approximately 3.5 mm(Ref: Diagnostic Ultrasound by Carol M. Rumack, Stephanie R. Wilson, J. William Charboneau, and Deborah Levine,4thed, page 1190)"
+    "cop": 2,
+    "exp": "Fetuses with trisomy 21 and other chromosomal anomalies often have excess fluid in the subcutaneous tissue behind the fetalSonographically, this appears as an echolucent fluid collection between the soft tissue over the cervical spine and an echogenic line representing the skin edge. This fluid space is called the nuchal translucency (NT).The lucency is thought to represent mesenchymal edema and is often associated with distended jugular lymphatics.The prevailing theory suggests an alteration in lymphangiogenesis and delayed lymphatic development. Other possible etiologies include cardiac failure and abnormal extracellular matrix, but these do not explain the localized and transient nature of the NT. Most likely, the etiology is a complex interaction of factors.NT normally increases with advancing gestational age, and therefore the measurement is compared to crown-rump length (CRL). A thin NT is seen in most normal fetuses.An NT greater than 95% for CRL is considered thickened. An NT greater than 99% does not change significantly with CRL and is approximately 3.5 mm(Ref: Diagnostic Ultrasound by Carol M. Rumack, Stephanie R. Wilson, J. William Charboneau, and Deborah Levine,4thed, page 1190)",
+    "hint_exp": "🧩 Your crush solved \"used in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "22a9ce24-2ca5-4aa2-82df-a529bb62786e": {
-    "cop": 1,
-    "exp": "A i.e. AtractylosideElectron transpo in complex IV - Cytochrome c oxidase (Cytochrome a, a3) is inhibited by cyanide (CN-), carbon monoxide (CO), hydrogen sulfide (H2S) and azideQ.Brown adipose tissue is the specialized mammalian tissue in which fuel oxidation serves not to produce ATP but to generate heatQ. (i.e. oxidation is not coupled with phosphorylation). This uncoupling of oxidative phosphorylation is due to presence of thermogenin (or UCP1/uncoupling protein 1) a natural physiological uncoupler. So brown fat is used for heat generation (not ATP production) in new born and during hibernation in animals.2-4-Dinitophenol, dicoumarol (vitamin K analogue), calcium, CCCP (Chloro carbonyl cyanide phenyl hydrazone), FCCP (trifluoro carbonyl cyanide phenyl hydrazone),- valinomycin, aspirin are synthetic uncouplers.Atractyloside (glycoside) inhibits oxidative phosphorylation (i.e. ATP synthesis) by blocking transpoers (translocases) responsible for movement of ADP (into) & ATP (out) across the inner mitochondrial membraneQ. Whereas oligomycin binds to ATP synthase (Fdeg domain so name stas with 0) closing the proton channel and blocking the flow of protonsQ."
+    "cop": 0,
+    "exp": "A i.e. AtractylosideElectron transpo in complex IV - Cytochrome c oxidase (Cytochrome a, a3) is inhibited by cyanide (CN-), carbon monoxide (CO), hydrogen sulfide (H2S) and azideQ.Brown adipose tissue is the specialized mammalian tissue in which fuel oxidation serves not to produce ATP but to generate heatQ. (i.e. oxidation is not coupled with phosphorylation). This uncoupling of oxidative phosphorylation is due to presence of thermogenin (or UCP1/uncoupling protein 1) a natural physiological uncoupler. So brown fat is used for heat generation (not ATP production) in new born and during hibernation in animals.2-4-Dinitophenol, dicoumarol (vitamin K analogue), calcium, CCCP (Chloro carbonyl cyanide phenyl hydrazone), FCCP (trifluoro carbonyl cyanide phenyl hydrazone),- valinomycin, aspirin are synthetic uncouplers.Atractyloside (glycoside) inhibits oxidative phosphorylation (i.e. ATP synthesis) by blocking transpoers (translocases) responsible for movement of ADP (into) & ATP (out) across the inner mitochondrial membraneQ. Whereas oligomycin binds to ATP synthase (Fdeg domain so name stas with 0) closing the proton channel and blocking the flow of protonsQ.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which following prevent formation\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "afbda723-0010-481a-907e-1ae746535448": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., ADP Platelets contain two specific types of granules : ? Alpha granule - Contains fibrinogen, fibronectin, factors V & VIII, PDGF, TGF-b and platelet factor 4. Dens bodies or Sgranules -Contain ADP, Ca+2, histamine, serotonine, and epinephrine."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., ADP Platelets contain two specific types of granules : ? Alpha granule - Contains fibrinogen, fibronectin, factors V & VIII, PDGF, TGF-b and platelet factor 4. Dens bodies or Sgranules -Contain ADP, Ca+2, histamine, serotonine, and epinephrine.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"platelates contain all except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1a278347-a3a8-47e0-9cca-0806cd172476": {
-    "cop": 4,
-    "exp": "Inability to metabolise galactose occurs in galactosemia which may be caused by deficiency of galactose-1-phosphate uridyl transferase,UDP-Galactose-4-Epirnerase and galactokinase.\nOut of three, most common is Galactose =1-phosphate uridyl transferase deficiency."
+    "cop": 3,
+    "exp": "Inability to metabolise galactose occurs in galactosemia which may be caused by deficiency of galactose-1-phosphate uridyl transferase,UDP-Galactose-4-Epirnerase and galactokinase.\nOut of three, most common is Galactose =1-phosphate uridyl transferase deficiency.",
+    "hint_exp": "🎯 Think of \"True regarding galactosemia\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e759ad48-6635-49c8-8946-d4a2a431588e": {
-    "cop": 2,
-    "exp": "Keratoconjunctivitis sicca is deficiency of the aqeous layer of tear film REF:Khurana 6th edition page number 366"
+    "cop": 1,
+    "exp": "Keratoconjunctivitis sicca is deficiency of the aqeous layer of tear film REF:Khurana 6th edition page number 366",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"absent in\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d7f51168-1955-4876-bf5d-6b8a007dc8f5": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"Carotid body\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "68b5ffd7-98ce-4e67-a2b0-ccc67f53a001": {
-    "cop": 2,
-    "exp": "B i.e. Tranylcypromine"
+    "cop": 1,
+    "exp": "B i.e. Tranylcypromine",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"patient antidepressant therapy developed\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c539dc9b-6c88-4f94-93d4-b609b4c5c174": {
-    "cop": 1,
-    "exp": "Red Category Contain Contaminated, recyclable waste; plastic /rubber waste Disposal method - Autoclaving, Microwaving, hydroclaving, F/b destruction & shredding Final mechanism of Disposal - Road making Extra Edge: Plastic covers which are used to pack foley's catheter etc are not considered as biomedical waste. It is general waste & is disposed through black bag"
+    "cop": 0,
+    "exp": "Red Category Contain Contaminated, recyclable waste; plastic /rubber waste Disposal method - Autoclaving, Microwaving, hydroclaving, F/b destruction & shredding Final mechanism of Disposal - Road making Extra Edge: Plastic covers which are used to pack foley's catheter etc are not considered as biomedical waste. It is general waste & is disposed through black bag",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Recycling tubing recyclable catheters\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "4d242d1c-9c5e-4825-9e84-0ca6c216beac": {
-    "cop": 2,
-    "exp": "Answer- B. Secondary HyperparathyroidismIn CRF there is secondary hyperparathyroidism which causes pathological fracture."
+    "cop": 1,
+    "exp": "Answer- B. Secondary HyperparathyroidismIn CRF there is secondary hyperparathyroidism which causes pathological fracture.",
+    "hint_exp": "🎯 Think of \"year male known case\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "99150f39-f92d-4b62-89c7-f97041c4b09e": {
-    "cop": 3,
-    "exp": "Following conversion to glycine, catalyzed by serine hydroxymethyltransferase, serine catabolism merges with that of glycine. Ref: Harper 28th edition, chapter 29."
+    "cop": 2,
+    "exp": "Following conversion to glycine, catalyzed by serine hydroxymethyltransferase, serine catabolism merges with that of glycine. Ref: Harper 28th edition, chapter 29.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"conveed to which amino acid\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d165fad9-9be8-427d-9cad-a7c7aefddb45": {
-    "cop": 3,
-    "exp": "Gluteus maximus and Tensor fascia lata has their insertion on Iliotibial tract."
+    "cop": 2,
+    "exp": "Gluteus maximus and Tensor fascia lata has their insertion on Iliotibial tract.",
+    "hint_exp": "🧩 Your crush solved \"Iliotibial tract\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "95000cbc-958b-41e8-a3fa-15edf0dd1076": {
-    "cop": 2,
-    "exp": "Finasteride is a competitive inhibitor of the enzyme 5alpha-reductase which conves testosterone into more active DHT responsible for androgen action in many tissues. finasteride, dutasteride- used for prostate cancer and BPH (Ref.Essentials of medical pharmacology TD Tripathi 7th edition page no.302)"
+    "cop": 1,
+    "exp": "Finasteride is a competitive inhibitor of the enzyme 5alpha-reductase which conves testosterone into more active DHT responsible for androgen action in many tissues. finasteride, dutasteride- used for prostate cancer and BPH (Ref.Essentials of medical pharmacology TD Tripathi 7th edition page no.302)",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Finasteride acts blocking\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "37e12b3d-8acc-4f11-823e-02397b6ea3e0": {
-    "cop": 1,
-    "exp": "Side Effects. Headache, nausea, vomiting, constipation, dizziness, feeling of spinning, drowsiness, trouble sleeping, or nervousness may occur. If any of these effects persist or worsen, tell your doctor or pharmacist promptly. Phenytoin may cause swelling and bleeding of the gums Ref: KD Tripathi 8th ed."
+    "cop": 0,
+    "exp": "Side Effects. Headache, nausea, vomiting, constipation, dizziness, feeling of spinning, drowsiness, trouble sleeping, or nervousness may occur. If any of these effects persist or worsen, tell your doctor or pharmacist promptly. Phenytoin may cause swelling and bleeding of the gums Ref: KD Tripathi 8th ed.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "85cb2cc1-f749-4999-aa2f-5fb3f9e313dc": {
-    "cop": 4,
-    "exp": "Ans. D. Glucose-6-phosphatase. (Ref. Harper Biochemistry 26th /pg.152; Table 19-2; H-18th/Table 362-1)Features of Glycogen Storage Diseases and Galactose and Fructose Disorders.Type/ Common NameBasic DefectCommentsLiver GlycogenosesDisorders with hepatomegaly and hypoglycemiala/von GierkeGlucose-6-phosphataseGrowth retardation, enlarged liver and kidney, Severe fasting hypoglycemia, elevated blood lactate, cholesterol, triglycerides, and uric acid, glycogen in liver.Common, severe hypoglycemia, Complications in adulthood include hepatic adenomas, hepatic carcinoma, renal failure.Rx: Autosomal recessive. Treatment: frequent oral glucose/cornstarch; avoidance of fructose and galactose.IbGlucose-6-phosphate translocaseAs for la, with additional findings of neutropenia and neutrophil dysfunction. 10% of type I.IIIa/Cori or ForbesLiver and muscle debranching enzyme (alpha 1-6-glucosidase)Childhood: Hepatomegaly, growth retardation, muscle weakness, hypoglycemia, hyperlipidemia, elevated liver transaminases; liver symptoms improve with ageAdulthood: muscle atrophy and weakness; onset: third to fourth decades; variable cardiomyopathy. Milder form of typel Gycogen storage disorder with normal blood lactate levels; Autosomal recessive. Gluconeogenesis is intact. Hepatic adenomas, liver cirrhosis, and hepatoma can occurVI/HersLiver phosphorylaseHepatomegaly, variable hypoglycemia, hyperlipidemia and ketosis; symptoms may improve with age. Rare, often a \"benign\" -glycogenosis, severe cases being recognizedIX/phosphorylase kinase deficiencyLiver phosphorylase kinase a subunitAs for VI. Common, X-linked, typically less severe than autosomal forms; clinical variability within and between subtypes; severe cases being recognizedO/glycogen synthase deficiencyGlycogen synthaseFasting hypoglycemia and ketosis, elevated lactic acid and hyperglycemia after glucose load. Decreased glycogen storesXI/ Fanconi-BickelGlucose transporter-2Failure to thrive, rickets, hepatomegaly, proximal renal tubular dysfunction, impaired glucose and galactose utilization. Rare, consanguinity in 70%Disorders with liver cirrhosisIV/AndersenBranching enzymeFailure to thrive, hypotonia, hepatomegaly, splenomegaly, progressive liver cirrhosis and failure (death usually before fifth year); some without progression. One of the rarer glycogenoses; other neuromuscular variants existMuscle GlycogenosesGlycogen storage disoredre type V/McArdleMuscle glycogen phosphorylase (Myophosphorylase)Exercise intolerance; Disorders with muscle-energy impairment , male predominance.| glycogen in muscle, but cannot break it down, leading to painful muscle cramps, myoglobinuria (red urine) with strenuous exercise, and arrhythmia from electrolyte abnormalities. Autosomal recessive. McArdle = Muscle.Vll/TaruiPhosphofructokinase-M subunitAs for type V, with additional findings of a compensated hemolysis. Prevalent in Ashkenazi Jews and Japanese.Phosphoglycerate kinase deficiencyPhosphoglycerate kinaseAs for type V, with additional findings of a hemolytic anemia and CNS dysfunction. Rare, X-linkedPhosphoglycerate mutase deficiencyPhosphoglycerate mutase-M subunitAs for type V. Rare; most patients are African AmericanLactate dehydrogenase deficiencyLactic acid dehydrogenase-M subunitAs for type V, with additional findings of erythematous skin eruption and uterine stiffness resulting in childbirth difficulty in femaleFructose 1, 6-bisphosphate aldolase A deficiencyFructose 1, 6-bisphosphate aldolase AAs for type V, with additional finding of hemolytic anemiaPyruvate kinase deficiencyPyruvate kinase-muscle isozymeMuscle cramps and/or fixed muscle weaknessMuscle phosphorylase kinase deficiencyMuscle-specific phosphorylase kinaseAs for type V, some patients may have. Rare, autosomal recessive muscle weakness and atrophyb-enolase deficiencyMuscle b-enolaseExercise intoleranceDisorders with progressive skeletal myopathy and/or cardiomyopathyII/PompeLysosomal acid alpha1, 4-glucosidase (acid maltase)Infantile: hypotonia, muscle weakness, cardiac enlargement and failure, fatal early; Juvenile and adult: progressive skeletal muscle weakness and atrophy, proximal muscle and respiratory muscle are seriously affected. Autosomal Recessive. Heart, liver as well as muscle affected.Cardiac phosphorylase kinase deficiencyCardiac-specific phosphorylase kinaseSevere cardiomyopathy and early heart failure. Very rare diseaseGalactosemia with uridyl transferase deficiencyGalactose 1-phosphate uridyl transferaseVomiting, hepatomegaly, jaundice, cataracts, amino aciduria, failure to thrive. Long-term complications exist despite early diagnosis and treatmentGalactokinase deficiencyGalactokinaseCataractsUridine diphosphate galactose 4-epimerase deficiencyUridine diphosphate galactose 4-epimeraseSimilar to transferase deficiency with additional findings of hypotonia and nerve deafnessEssential fructosuriaFructokinaseAsymptomatic, positive urine reducing substance. BenignHereditary fructose intoleranceFructose 1-6 bisphosphate aldolase BVomiting, lethargy, failure to thrive, hepatic failure. Prognosis good with early diagnosis and fructose restrictionFructose 1, 6-diphosphatase deficiencyFructose 1, 6-diphosphataseEpisodic hypoglycemia and lactic acidosis"
+    "cop": 3,
+    "exp": "Ans. D. Glucose-6-phosphatase. (Ref. Harper Biochemistry 26th /pg.152; Table 19-2; H-18th/Table 362-1)Features of Glycogen Storage Diseases and Galactose and Fructose Disorders.Type/ Common NameBasic DefectCommentsLiver GlycogenosesDisorders with hepatomegaly and hypoglycemiala/von GierkeGlucose-6-phosphataseGrowth retardation, enlarged liver and kidney, Severe fasting hypoglycemia, elevated blood lactate, cholesterol, triglycerides, and uric acid, glycogen in liver.Common, severe hypoglycemia, Complications in adulthood include hepatic adenomas, hepatic carcinoma, renal failure.Rx: Autosomal recessive. Treatment: frequent oral glucose/cornstarch; avoidance of fructose and galactose.IbGlucose-6-phosphate translocaseAs for la, with additional findings of neutropenia and neutrophil dysfunction. 10% of type I.IIIa/Cori or ForbesLiver and muscle debranching enzyme (alpha 1-6-glucosidase)Childhood: Hepatomegaly, growth retardation, muscle weakness, hypoglycemia, hyperlipidemia, elevated liver transaminases; liver symptoms improve with ageAdulthood: muscle atrophy and weakness; onset: third to fourth decades; variable cardiomyopathy. Milder form of typel Gycogen storage disorder with normal blood lactate levels; Autosomal recessive. Gluconeogenesis is intact. Hepatic adenomas, liver cirrhosis, and hepatoma can occurVI/HersLiver phosphorylaseHepatomegaly, variable hypoglycemia, hyperlipidemia and ketosis; symptoms may improve with age. Rare, often a \"benign\" -glycogenosis, severe cases being recognizedIX/phosphorylase kinase deficiencyLiver phosphorylase kinase a subunitAs for VI. Common, X-linked, typically less severe than autosomal forms; clinical variability within and between subtypes; severe cases being recognizedO/glycogen synthase deficiencyGlycogen synthaseFasting hypoglycemia and ketosis, elevated lactic acid and hyperglycemia after glucose load. Decreased glycogen storesXI/ Fanconi-BickelGlucose transporter-2Failure to thrive, rickets, hepatomegaly, proximal renal tubular dysfunction, impaired glucose and galactose utilization. Rare, consanguinity in 70%Disorders with liver cirrhosisIV/AndersenBranching enzymeFailure to thrive, hypotonia, hepatomegaly, splenomegaly, progressive liver cirrhosis and failure (death usually before fifth year); some without progression. One of the rarer glycogenoses; other neuromuscular variants existMuscle GlycogenosesGlycogen storage disoredre type V/McArdleMuscle glycogen phosphorylase (Myophosphorylase)Exercise intolerance; Disorders with muscle-energy impairment , male predominance.| glycogen in muscle, but cannot break it down, leading to painful muscle cramps, myoglobinuria (red urine) with strenuous exercise, and arrhythmia from electrolyte abnormalities. Autosomal recessive. McArdle = Muscle.Vll/TaruiPhosphofructokinase-M subunitAs for type V, with additional findings of a compensated hemolysis. Prevalent in Ashkenazi Jews and Japanese.Phosphoglycerate kinase deficiencyPhosphoglycerate kinaseAs for type V, with additional findings of a hemolytic anemia and CNS dysfunction. Rare, X-linkedPhosphoglycerate mutase deficiencyPhosphoglycerate mutase-M subunitAs for type V. Rare; most patients are African AmericanLactate dehydrogenase deficiencyLactic acid dehydrogenase-M subunitAs for type V, with additional findings of erythematous skin eruption and uterine stiffness resulting in childbirth difficulty in femaleFructose 1, 6-bisphosphate aldolase A deficiencyFructose 1, 6-bisphosphate aldolase AAs for type V, with additional finding of hemolytic anemiaPyruvate kinase deficiencyPyruvate kinase-muscle isozymeMuscle cramps and/or fixed muscle weaknessMuscle phosphorylase kinase deficiencyMuscle-specific phosphorylase kinaseAs for type V, some patients may have. Rare, autosomal recessive muscle weakness and atrophyb-enolase deficiencyMuscle b-enolaseExercise intoleranceDisorders with progressive skeletal myopathy and/or cardiomyopathyII/PompeLysosomal acid alpha1, 4-glucosidase (acid maltase)Infantile: hypotonia, muscle weakness, cardiac enlargement and failure, fatal early; Juvenile and adult: progressive skeletal muscle weakness and atrophy, proximal muscle and respiratory muscle are seriously affected. Autosomal Recessive. Heart, liver as well as muscle affected.Cardiac phosphorylase kinase deficiencyCardiac-specific phosphorylase kinaseSevere cardiomyopathy and early heart failure. Very rare diseaseGalactosemia with uridyl transferase deficiencyGalactose 1-phosphate uridyl transferaseVomiting, hepatomegaly, jaundice, cataracts, amino aciduria, failure to thrive. Long-term complications exist despite early diagnosis and treatmentGalactokinase deficiencyGalactokinaseCataractsUridine diphosphate galactose 4-epimerase deficiencyUridine diphosphate galactose 4-epimeraseSimilar to transferase deficiency with additional findings of hypotonia and nerve deafnessEssential fructosuriaFructokinaseAsymptomatic, positive urine reducing substance. BenignHereditary fructose intoleranceFructose 1-6 bisphosphate aldolase BVomiting, lethargy, failure to thrive, hepatic failure. Prognosis good with early diagnosis and fructose restrictionFructose 1, 6-diphosphatase deficiencyFructose 1, 6-diphosphataseEpisodic hypoglycemia and lactic acidosis",
+    "hint_exp": "🎯 Think of \"Enzyme deficient Gierke disease\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "504cf790-b6e8-4de8-9ae9-541c2e8b0cf9": {
-    "cop": 3,
-    "exp": "Abdominal pa of esophagus is supplied by the left gastric aery and left inferior phrenic aeryInferior thyroid aery supplies the cervical pa Bronchial aeries and descending thoracic aoa supplies the thoracic pa Venous drainage of the esophagus:The cervical pa drains into the inferior thyroid veins.The thoracic pa drains into the azygos and hemiazygos veins.Abdominal pa is drained by left gastric vein a tributary of poal vein. The veins of the lower thoracic pa are systemic therefore there is a potential poosystemic anastomosis between the two sets of veins at the lower end of esophagus in the submucosa.Ref: Clinical Anatomy: (a Problem Solving Approach) By Kulkarni page 288."
+    "cop": 2,
+    "exp": "Abdominal pa of esophagus is supplied by the left gastric aery and left inferior phrenic aeryInferior thyroid aery supplies the cervical pa Bronchial aeries and descending thoracic aoa supplies the thoracic pa Venous drainage of the esophagus:The cervical pa drains into the inferior thyroid veins.The thoracic pa drains into the azygos and hemiazygos veins.Abdominal pa is drained by left gastric vein a tributary of poal vein. The veins of the lower thoracic pa are systemic therefore there is a potential poosystemic anastomosis between the two sets of veins at the lower end of esophagus in the submucosa.Ref: Clinical Anatomy: (a Problem Solving Approach) By Kulkarni page 288.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"different pas esophagus\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "baa3921a-b9a3-4668-a42d-62ea0cc432fa": {
-    "cop": 2,
-    "exp": "Ans. is b and d i.e. Required when baby is Rh +ve & Mother Rh-ve; and Can be given up to 1 month of age of baby Postpaum prophylaxis If baby is Rh positive and mother Rh negative, 300 pg of Anti D immunoglobulin (IgG) is given to the mother and not infant (provided maternal antibody screening is negative) therefore Option '12' is correct and Option 'a' is incorrect. Post paum prophylaxis is best given within 72 hours after delivery but it can be given till 28 days after delivery Option 'd is correct. \"Although Rh lgG generally should be given within 72 hours after delivery, it has shown to be effective in preventing l'oimrritinization if given uoto 28 days after delivery\" COGDT 10/e, p 284 Anti D immunoglobulin is not helpful in case of ABO incompatibility. Also Know : Role of post paum prophylaxis : Anti D immunoglobulin given post paum binds to antigen sites on the fetal red cells so that these cells cannot mount an immune response and thus prevent future sensitisation and next pregnancy. If after delivery. mother's ICT is positive or fetus has a positive direct coomb's test, it means that the mother is already immunized. In such cases, there is no point in giving anti D."
+    "cop": 1,
+    "exp": "Ans. is b and d i.e. Required when baby is Rh +ve & Mother Rh-ve; and Can be given up to 1 month of age of baby Postpaum prophylaxis If baby is Rh positive and mother Rh negative, 300 pg of Anti D immunoglobulin (IgG) is given to the mother and not infant (provided maternal antibody screening is negative) therefore Option '12' is correct and Option 'a' is incorrect. Post paum prophylaxis is best given within 72 hours after delivery but it can be given till 28 days after delivery Option 'd is correct. \"Although Rh lgG generally should be given within 72 hours after delivery, it has shown to be effective in preventing l'oimrritinization if given uoto 28 days after delivery\" COGDT 10/e, p 284 Anti D immunoglobulin is not helpful in case of ABO incompatibility. Also Know : Role of post paum prophylaxis : Anti D immunoglobulin given post paum binds to antigen sites on the fetal red cells so that these cells cannot mount an immune response and thus prevent future sensitisation and next pregnancy. If after delivery. mother's ICT is positive or fetus has a positive direct coomb's test, it means that the mother is already immunized. In such cases, there is no point in giving anti D.",
+    "hint_exp": "🧩 Your crush solved \"prevention of Rh\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f7c072c0-e73a-46f4-b19d-d9f6f5380cfa": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Hepatitis B Indian Academy of Pediatrics (IAP) Vaccination schedule 1. BCG From bih to 2 weeks 2. OPV At bih, 6, 10, 14 weeks, 15-18 months and 5 years 3. DPT 6, 10, 14 weeks, 15-18 months and 5 years 4. Hepatitis B Bih, 6, 14 weeks or bih, 1 and 6 months or 6, 10 and 14 weeks 5. HIB 6, 10 and 14 weeks, 15-18 months 6. Measles 9 months + 7. MMR 15-18 months 8. typhoid 2 years + (revaccination at 3 years later) 9. TT 10 and 16 years 10. 2 doses of TT Pregnant women"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Hepatitis B Indian Academy of Pediatrics (IAP) Vaccination schedule 1. BCG From bih to 2 weeks 2. OPV At bih, 6, 10, 14 weeks, 15-18 months and 5 years 3. DPT 6, 10, 14 weeks, 15-18 months and 5 years 4. Hepatitis B Bih, 6, 14 weeks or bih, 1 and 6 months or 6, 10 and 14 weeks 5. HIB 6, 10 and 14 weeks, 15-18 months 6. Measles 9 months + 7. MMR 15-18 months 8. typhoid 2 years + (revaccination at 3 years later) 9. TT 10 and 16 years 10. 2 doses of TT Pregnant women",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"National immunization programme involved\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "51c81747-e434-4e20-9854-208a54bf78f3": {
-    "cop": 4,
-    "exp": "Height-for-age (or length-for-age for children <2 yr) is a measure of linear growth, and a deficit represents the cumulative impact of adverse events, usually in the first 1,000 days from conception, that result in stunting, or chronic malnutrition. A low height-for-age typically reflects socioeconomic disadvantage. A low weight-for-height, or wasting, usually indicates acute malnutrition. Conversely, a high weight-for-height indicates overweight. Weight-for-age is the most commonly used index of nutritional status, although a low value has limited clinical significance as it does not differentiate between wasting and stunting. Weight-for-age has the advantage of being somewhat easier to measure than indices that require height measurements. In humanitarian emergencies and some field settings, mid-upper arm circumference is used for screening wasted children ."
+    "cop": 3,
+    "exp": "Height-for-age (or length-for-age for children <2 yr) is a measure of linear growth, and a deficit represents the cumulative impact of adverse events, usually in the first 1,000 days from conception, that result in stunting, or chronic malnutrition. A low height-for-age typically reflects socioeconomic disadvantage. A low weight-for-height, or wasting, usually indicates acute malnutrition. Conversely, a high weight-for-height indicates overweight. Weight-for-age is the most commonly used index of nutritional status, although a low value has limited clinical significance as it does not differentiate between wasting and stunting. Weight-for-age has the advantage of being somewhat easier to measure than indices that require height measurements. In humanitarian emergencies and some field settings, mid-upper arm circumference is used for screening wasted children .",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"best growth indicator patients\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b5d8e495-b59e-4b0a-895e-15f7b71a982c": {
-    "cop": 2,
-    "exp": "Subscapular aery is the largest branch of the axillary aery, arising from its third pa. It runs along the lower border of the subscapularis to terminate near the inferior angle of the scapula. It supplies the latissimus dorsi and the serratus anterior. The Subscapular aery gives off a large branch, the circumflex scapular aery, which is larger than the continuation of the main aery. Ref : B D Chaurasia's Human Anatomy, seventh edition , volume 1, pg. no., 53."
+    "cop": 1,
+    "exp": "Subscapular aery is the largest branch of the axillary aery, arising from its third pa. It runs along the lower border of the subscapularis to terminate near the inferior angle of the scapula. It supplies the latissimus dorsi and the serratus anterior. The Subscapular aery gives off a large branch, the circumflex scapular aery, which is larger than the continuation of the main aery. Ref : B D Chaurasia's Human Anatomy, seventh edition , volume 1, pg. no., 53.",
+    "hint_exp": "🎯 Think of \"a branch of\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "af7eee54-6694-4180-b51a-9ee152d2a125": {
-    "cop": 4,
-    "exp": "30 mm Hg"
+    "cop": 3,
+    "exp": "30 mm Hg",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"labour\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d6486554-f494-4cbd-8875-0d59b746c0e8": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Tetrology of fallot Radiological findings of TQFi) Boot shaped heart (Coeur en Sabot)ii) Normal sized heart (no cardiomegaly)iii) Pulmonary oligemiaiv)Right aortic arch (in 25% cases)."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Tetrology of fallot Radiological findings of TQFi) Boot shaped heart (Coeur en Sabot)ii) Normal sized heart (no cardiomegaly)iii) Pulmonary oligemiaiv)Right aortic arch (in 25% cases).",
+    "hint_exp": "🧩 Your crush solved \"Boot shaped heart chest\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "dee9f9a6-9aef-4a03-8b33-c43d2ad85c7b": {
-    "cop": 1,
-    "exp": "1)Bilateral dense - cataract requires early surgery (i.e. by 6 weeks of age Q) to prevent the development of stimulus deprivation amblyopia 2)Bilateral paial- cataract may not require surgery until later if at all, in cases of doubt, it may be prudent to defer surgery monitor lens opacity, and visual function and intervene later if vision deteriorates. 3)Unilateral dense - cataract merits urgent surgery (within days Q) followed by aggressive anti-amblyopia therapyIt the cataract is detected after 16 weeks of age then surgery can be delayed little because amblyopia is refractory 4)Paial unilateral - cataract can usually be observed or treated non surgically with pupillary dilatation and possibly pa-time contra lateral occlusion to prevent amblyopia \"The critical period of developing the fixation reflexes in both unilateral and bilateral visual deprivation disorders is between 2 and 4 month of age, any cataract dense enough to impair vision must be dealt with before this age and the earliest possible time is preferred"
+    "cop": 0,
+    "exp": "1)Bilateral dense - cataract requires early surgery (i.e. by 6 weeks of age Q) to prevent the development of stimulus deprivation amblyopia 2)Bilateral paial- cataract may not require surgery until later if at all, in cases of doubt, it may be prudent to defer surgery monitor lens opacity, and visual function and intervene later if vision deteriorates. 3)Unilateral dense - cataract merits urgent surgery (within days Q) followed by aggressive anti-amblyopia therapyIt the cataract is detected after 16 weeks of age then surgery can be delayed little because amblyopia is refractory 4)Paial unilateral - cataract can usually be observed or treated non surgically with pupillary dilatation and possibly pa-time contra lateral occlusion to prevent amblyopia \"The critical period of developing the fixation reflexes in both unilateral and bilateral visual deprivation disorders is between 2 and 4 month of age, any cataract dense enough to impair vision must be dealt with before this age and the earliest possible time is preferred",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"child congenital cataract involving\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f2c84e7f-2430-4f6a-9f1e-5e8bc12ccdda": {
-    "cop": 3,
-    "exp": "Ans. is'c' i.e., 1-2 cm[Ref: Fitzpatrick Vh/e p. 1153)"
+    "cop": 2,
+    "exp": "Ans. is'c' i.e., 1-2 cm[Ref: Fitzpatrick Vh/e p. 1153)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"case primary melanoma depth\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "5565f9c6-cf4d-4e51-a431-5452c4582a9e": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b902692b-ac6c-4e4e-aee4-36e775c26e85": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Chylomicrons Transport of dietary lipidso It is the transport of lipid from intestine to liveno Chylomicrons transport the dietry lipid front intestine to liver1'.o In diet the major lipids are triglyceride and cholesterol.o Cholesterol is absorbed as such in proximal small intestine and is esterified to cholesteryl ester (ChE). Triglycerides are hydrolysed by lipases to glycerol and fatty acids which are absorbed in intestine,o Inside intestinal cells triglyceride is synthesized by fatty acids. Chylomicrons are synthesized in the small intestine that contain triglyceride, cholesteryl ester, cholesterol, phosphlipids, and apoprotein B-48 (apo B-48) and apo-A.o These chylomicrons are secreted in the intestinal lymph and reach the systemic circulation via thoracic duct,o In the circulation apo E and apo C are transfered to chylomicrons by HDL, so now chylomicrons contain apo A, apo B-48, apo- E, & apo-C.o In the circulation, triglycerides of chylomicrons are hydrolysed by lipoprotein lipase (LPL) present on endothelial cells of vessels of skeletal muscles, adipose tissue and heart, but not in liver.o The released fatty acids are utilized locally by these tissues.o Adipose tissue uses these fatty acids to restore them as TGs and heart and skeletal muscle use them as source of energy.o Thus, function of chylomicrons is to transport exogenous (dietryjtriglyceride0 to adipose tissue (for storage), heart (for energy) and muscle (for energy').o The chylomicron particle progressively shrinks in size by action of LPL and, cholesterol, phospholipids, apo-A and apo C are transferred to HDL, creating chylomicron remnants that contains more cholesterol, less triglycerides, apo-E & apo B-48.o Chylomicron remnants are removed by liver by the LDL receptors that require apo-E as ligand.o VLDL carries endogenous triglycerides (triglycerides from liver to extrahepatic tissues).o Chylomicrons carry exogenous (dietiy) triglycerides to extrahepatic tissues and remaining triglyceride to liver through chylomicron remnants.Transport of lipidso There are two pathways of lipid transport in the body -1. Transport of dietry lipid (Exogenous pathway)o It is the transport of lipid from intestine to liver.o Chylomicrons transport the dietry lipid from intestine to liverr.o In diet the major lipids are triglyceride and cholesterol.o Cholesterol is absorbed as such in proximal small intestine and is esterified to cholestery! ester (ChE). Triglycerides are hydrolysed by lipases to glycerol and fatty acids which are absorbed in intestine.o Inside intestinal cells triglyceride is synthesized by fatty acids. Chylomicrons are synthesized in the small intestine that contain triglyceride, cholesteryl ester, cholesterol, phosphlipids, and apoprotein B-48 (apo B-48) and apo-A.o These chylomicrons are secreted in the intestinal lymph and reach the systemic circulation via thoracic duct.o In the circulation apo E and apo C are transfered to chylomicrons by HDL, so now chylomicrons contain apo A, apo B-48, apo- E, & apo-C.o In the circulation, triglycerides of chylomicrons are hydrolysed by lipoprotein lipase (LPL) present on endothelial cells of vessels of skeletal muscles, adipose tissue and heart, but not in liver.o The released fatty acids are utilized locally by these tissues.o Adipose tissue uses these fatty acids to restore them as TGs and heart and skeletal muscle use them as source of energy.o Thus, function of chylomicrons is to transport exogenous (dietry)triglyceriderto adipose tissue (for storage), heart (for energy) and muscle (for energy).o The chylomicron particle progressively shrinks in size by action of LPL and, cholesterol, phospholipids, apo-A and apo C are transferred to HDL, creating chylomicron remnants that contains more cholesterol, less triglycerides, apo-E & apo B-48.o Chylomicron remnants are removed by liver bv the LDL receptors that require apo-E as ligand.2. Transport of Hepatic lipids (Endogenous pathway)o VLDL is synthesized in liver that contains high triglyceride, ChE, cholesterol, phospholipid and Apo B-100. (VLDL particles resemble chylomicrones in composition except that VLDL contains Apo B-100 instead of Apo B-48).o VLDL particles are secreted in the plasma and as with chylomicron, Apo E and Apo C are transferred from HDL to VLDL. Now VLDL contains Apo B-100, Apo E and Apo C.o In plasma, triglycerides of VLDL are hydrolysed by same lipoprotein lipase (see above) and apo C is transferred to HDL and the remmants are called IDL.o 40-60% of IDL is removed by liver via LDL receptor mediated endocytosis, this process require Apo E which acts as ligand for LDL receptors.o Remaining IDL is remodeled by hepatic lipase which hydrolyzes more triglyceride to form LDL that contains maximum cholesterol.o 70% of LDL is removed by liver via LDL receptor and 30% is utilized by peripheral tissues as a source of cholesterol."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Chylomicrons Transport of dietary lipidso It is the transport of lipid from intestine to liveno Chylomicrons transport the dietry lipid front intestine to liver1'.o In diet the major lipids are triglyceride and cholesterol.o Cholesterol is absorbed as such in proximal small intestine and is esterified to cholesteryl ester (ChE). Triglycerides are hydrolysed by lipases to glycerol and fatty acids which are absorbed in intestine,o Inside intestinal cells triglyceride is synthesized by fatty acids. Chylomicrons are synthesized in the small intestine that contain triglyceride, cholesteryl ester, cholesterol, phosphlipids, and apoprotein B-48 (apo B-48) and apo-A.o These chylomicrons are secreted in the intestinal lymph and reach the systemic circulation via thoracic duct,o In the circulation apo E and apo C are transfered to chylomicrons by HDL, so now chylomicrons contain apo A, apo B-48, apo- E, & apo-C.o In the circulation, triglycerides of chylomicrons are hydrolysed by lipoprotein lipase (LPL) present on endothelial cells of vessels of skeletal muscles, adipose tissue and heart, but not in liver.o The released fatty acids are utilized locally by these tissues.o Adipose tissue uses these fatty acids to restore them as TGs and heart and skeletal muscle use them as source of energy.o Thus, function of chylomicrons is to transport exogenous (dietryjtriglyceride0 to adipose tissue (for storage), heart (for energy) and muscle (for energy').o The chylomicron particle progressively shrinks in size by action of LPL and, cholesterol, phospholipids, apo-A and apo C are transferred to HDL, creating chylomicron remnants that contains more cholesterol, less triglycerides, apo-E & apo B-48.o Chylomicron remnants are removed by liver by the LDL receptors that require apo-E as ligand.o VLDL carries endogenous triglycerides (triglycerides from liver to extrahepatic tissues).o Chylomicrons carry exogenous (dietiy) triglycerides to extrahepatic tissues and remaining triglyceride to liver through chylomicron remnants.Transport of lipidso There are two pathways of lipid transport in the body -1. Transport of dietry lipid (Exogenous pathway)o It is the transport of lipid from intestine to liver.o Chylomicrons transport the dietry lipid from intestine to liverr.o In diet the major lipids are triglyceride and cholesterol.o Cholesterol is absorbed as such in proximal small intestine and is esterified to cholestery! ester (ChE). Triglycerides are hydrolysed by lipases to glycerol and fatty acids which are absorbed in intestine.o Inside intestinal cells triglyceride is synthesized by fatty acids. Chylomicrons are synthesized in the small intestine that contain triglyceride, cholesteryl ester, cholesterol, phosphlipids, and apoprotein B-48 (apo B-48) and apo-A.o These chylomicrons are secreted in the intestinal lymph and reach the systemic circulation via thoracic duct.o In the circulation apo E and apo C are transfered to chylomicrons by HDL, so now chylomicrons contain apo A, apo B-48, apo- E, & apo-C.o In the circulation, triglycerides of chylomicrons are hydrolysed by lipoprotein lipase (LPL) present on endothelial cells of vessels of skeletal muscles, adipose tissue and heart, but not in liver.o The released fatty acids are utilized locally by these tissues.o Adipose tissue uses these fatty acids to restore them as TGs and heart and skeletal muscle use them as source of energy.o Thus, function of chylomicrons is to transport exogenous (dietry)triglyceriderto adipose tissue (for storage), heart (for energy) and muscle (for energy).o The chylomicron particle progressively shrinks in size by action of LPL and, cholesterol, phospholipids, apo-A and apo C are transferred to HDL, creating chylomicron remnants that contains more cholesterol, less triglycerides, apo-E & apo B-48.o Chylomicron remnants are removed by liver bv the LDL receptors that require apo-E as ligand.2. Transport of Hepatic lipids (Endogenous pathway)o VLDL is synthesized in liver that contains high triglyceride, ChE, cholesterol, phospholipid and Apo B-100. (VLDL particles resemble chylomicrones in composition except that VLDL contains Apo B-100 instead of Apo B-48).o VLDL particles are secreted in the plasma and as with chylomicron, Apo E and Apo C are transferred from HDL to VLDL. Now VLDL contains Apo B-100, Apo E and Apo C.o In plasma, triglycerides of VLDL are hydrolysed by same lipoprotein lipase (see above) and apo C is transferred to HDL and the remmants are called IDL.o 40-60% of IDL is removed by liver via LDL receptor mediated endocytosis, this process require Apo E which acts as ligand for LDL receptors.o Remaining IDL is remodeled by hepatic lipase which hydrolyzes more triglyceride to form LDL that contains maximum cholesterol.o 70% of LDL is removed by liver via LDL receptor and 30% is utilized by peripheral tissues as a source of cholesterol.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"dietary fats transmitted from\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fd2d76fb-3244-4e3a-be00-6d648fa0e07b": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"young patient develops high\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b4fd8e1a-d453-4f29-a3d7-d0db37084816": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Coho study In case control study we proceed from effect to cause by taking history. It is possible to take history of exposure of multiple risk factors - multiple risk factors can be identified for a single disease. In coho study we sta by exposing the study coho to a paicular risk factor and then follow up the coho for the occurence of disease. So, several possible outcomes related to exposure can be studied simultaneously - we can study the association of the suspected factor with many other disease in addition to the one under study. Case control study - can identify multiple risk factors. Coho study - can identify multiple outcome (disease)."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Coho study In case control study we proceed from effect to cause by taking history. It is possible to take history of exposure of multiple risk factors - multiple risk factors can be identified for a single disease. In coho study we sta by exposing the study coho to a paicular risk factor and then follow up the coho for the occurence of disease. So, several possible outcomes related to exposure can be studied simultaneously - we can study the association of the suspected factor with many other disease in addition to the one under study. Case control study - can identify multiple risk factors. Coho study - can identify multiple outcome (disease).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Type study risk factor\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2e9c73ca-c7f8-4d62-bd6f-c73af5399688": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"child with increased conjugated\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3cfa7a37-95ec-4c66-937d-14c375721d05": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"does not involve\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "98d40fb3-c1d8-4719-98aa-bb14cabc2067": {
-    "cop": 2,
-    "exp": "Ref Robbins 9/e p73 An exudate is any fluid that filters from the circulatory system into lesions or areas of inflammation. It can be a pus-like or clear fluid. When an injury occurs, leaving skin exposed, it leaks out of the blood vessels and into nearby tissues. The fluid is composed of serum, fibrin, and white blood cells. Exudate may ooze from cuts or from areas of infection or inflammation Because of presence of pus exudate consists of large amount of proteins....so Less amount of protein statement is wrong"
+    "cop": 1,
+    "exp": "Ref Robbins 9/e p73 An exudate is any fluid that filters from the circulatory system into lesions or areas of inflammation. It can be a pus-like or clear fluid. When an injury occurs, leaving skin exposed, it leaks out of the blood vessels and into nearby tissues. The fluid is composed of serum, fibrin, and white blood cells. Exudate may ooze from cuts or from areas of infection or inflammation Because of presence of pus exudate consists of large amount of proteins....so Less amount of protein statement is wrong",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"true about exudate except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ca1da0e7-c20a-4143-9cc4-46c986b44df2": {
-    "cop": 3,
-    "exp": "Anterior Circumflex humeral aery and posterior Circumflex humeral aery are branches from 3rd pa of axillary aery . These two anastomose around the surgical neck of humerus . Posterior Circumflex humeral aery runs along with axillary nerve and passes through the quadrangular intermuscular space . B D Chaurasia 7th edition Page no : 53"
+    "cop": 2,
+    "exp": "Anterior Circumflex humeral aery and posterior Circumflex humeral aery are branches from 3rd pa of axillary aery . These two anastomose around the surgical neck of humerus . Posterior Circumflex humeral aery runs along with axillary nerve and passes through the quadrangular intermuscular space . B D Chaurasia 7th edition Page no : 53",
+    "hint_exp": "🧩 Your crush solved \"around surgical neck humerus\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

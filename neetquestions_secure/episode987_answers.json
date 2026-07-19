@@ -1,202 +1,252 @@
 {
   "9f932c57-e263-4a9b-aafd-5154ee5a0e46": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Endogenous depression"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Endogenous depression",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Major psychosis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "53bfd89c-11d8-4968-98e4-23bfd8fd364f": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 8 * Odds ratio is cross product of entries in the table.* So, it is very important to make a correct table construct -i) History of exposure (risk factor) is arranged on left column (row).ii) Disease is arranged on the top -a) Cases in middle column (row)b) Controls in right column (row) Disease Present (cases)Absent (controls)Exposure presentabExposure absentcdTotala + cb + dComing to question* Cases# Total cases = 35# Among these smokers = 33 (a)# Non smokers = 35 - 33 = 2 (c)* Controls# Total = 82# Smokers = 55 (b)# Non smokers = 82 - 55 = 27 (d)This data can be arranged - Lung cancerPresent (cases)Absent (controls)Smoking present3355(a)(b)Smoking absent227(c)(d)Total35(a + c)82(b + d) Odds ratio ==ad----bc =33 x 27--------55 x 2= 8.1"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 8 * Odds ratio is cross product of entries in the table.* So, it is very important to make a correct table construct -i) History of exposure (risk factor) is arranged on left column (row).ii) Disease is arranged on the top -a) Cases in middle column (row)b) Controls in right column (row) Disease Present (cases)Absent (controls)Exposure presentabExposure absentcdTotala + cb + dComing to question* Cases# Total cases = 35# Among these smokers = 33 (a)# Non smokers = 35 - 33 = 2 (c)* Controls# Total = 82# Smokers = 55 (b)# Non smokers = 82 - 55 = 27 (d)This data can be arranged - Lung cancerPresent (cases)Absent (controls)Smoking present3355(a)(b)Smoking absent227(c)(d)Total35(a + c)82(b + d) Odds ratio ==ad----bc =33 x 27--------55 x 2= 8.1",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"study there were cases\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "afce75c7-60dd-4c27-b160-89a36c16064e": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Treatment Thimble bladder Anti\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "de969264-5a5e-4162-ac1e-58789d86581e": {
-    "cop": 2,
-    "exp": "Ans. is b i.e. 1000 IU/m1 PhCG level (MiU/mi) Structure visible TVS/TAS * 1000 - 1200 Gestational sac TVS * 6000 Gestational Sac TAS * 7000 Yolk sac TAS * 11000 Embryo TAS"
+    "cop": 1,
+    "exp": "Ans. is b i.e. 1000 IU/m1 PhCG level (MiU/mi) Structure visible TVS/TAS * 1000 - 1200 Gestational sac TVS * 6000 Gestational Sac TAS * 7000 Yolk sac TAS * 11000 Embryo TAS",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"what level that normal\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "65db3b04-f7b1-4a81-bb5f-dfa4f7c3c344": {
-    "cop": 2,
-    "exp": "Amongst the given options only IFN-a is used."
+    "cop": 1,
+    "exp": "Amongst the given options only IFN-a is used.",
+    "hint_exp": "🧩 Your crush solved \"Treatment choice years children\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "637a0869-2c0d-4c63-b6c9-15701fc6f4eb": {
-    "cop": 4,
-    "exp": "D i.e. Galactose"
+    "cop": 3,
+    "exp": "D i.e. Galactose",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"days after child becomes\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e7659cf4-358c-4cd3-ab9b-075362746532": {
-    "cop": 1,
-    "exp": "Otosclerosis mostly involves females, has a positive family history and causes slow progressive bilateral hearing loss. Audiogram is characterized by Carhart's notch--a dip in bone conduction at 2000 Hz.Carhart's notch is loss of bone conduction in audiogram. It is a feature of otosclerosis. Loss is5 dB in 500 Hz10 dB in 1000 Hz15 dB in 2000 Hz5 dB in 4000 HzCarhart's notch. Note dip at 2 kHz in bone conduction"
+    "cop": 0,
+    "exp": "Otosclerosis mostly involves females, has a positive family history and causes slow progressive bilateral hearing loss. Audiogram is characterized by Carhart's notch--a dip in bone conduction at 2000 Hz.Carhart's notch is loss of bone conduction in audiogram. It is a feature of otosclerosis. Loss is5 dB in 500 Hz10 dB in 1000 Hz15 dB in 2000 Hz5 dB in 4000 HzCarhart's notch. Note dip at 2 kHz in bone conduction",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the most likely diagnosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1ae44e56-cfc6-4e36-9870-96b64ec57231": {
-    "cop": 3,
-    "exp": "In mycosis fungoides, T cells characteristically form bandlike aggregates within the superficial dermis and invade the epidermis as single cells and small clusters (Pautrier microabscesses)."
+    "cop": 2,
+    "exp": "In mycosis fungoides, T cells characteristically form bandlike aggregates within the superficial dermis and invade the epidermis as single cells and small clusters (Pautrier microabscesses).",
+    "hint_exp": "🎯 Think of \"a histological feature of\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "3be53765-0c2c-4a74-817e-4a3240d042e4": {
-    "cop": 1,
-    "exp": "Respiratory infections are the most common infections caused by P. aeruginosa. Chest radiographs may show bilateral pneumonia, often with nodular densities with or without cavities. Necrotizing pneumonia has also been seen Ref: Harrison, E-18, P-1268"
+    "cop": 0,
+    "exp": "Respiratory infections are the most common infections caused by P. aeruginosa. Chest radiographs may show bilateral pneumonia, often with nodular densities with or without cavities. Necrotizing pneumonia has also been seen Ref: Harrison, E-18, P-1268",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Most common infection caused\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a093694e-febc-4cf2-8643-b0930d676bef": {
-    "cop": 3,
-    "exp": "Clinical deficiency of vitamin K has usually been associated with some defect in absorption from the gastrointestinal tract. Since the introduction of the broadspectrum antibiotics, it has become possible to greatly reduce the bacterial content of the intestine and, as a consequence, to decrease the amount of vitamin K produced, leading to hemorrhagic diathesis. Ref: Biochemistry by U. Satyanarayana 3rd edition Pgno : 129"
+    "cop": 2,
+    "exp": "Clinical deficiency of vitamin K has usually been associated with some defect in absorption from the gastrointestinal tract. Since the introduction of the broadspectrum antibiotics, it has become possible to greatly reduce the bacterial content of the intestine and, as a consequence, to decrease the amount of vitamin K produced, leading to hemorrhagic diathesis. Ref: Biochemistry by U. Satyanarayana 3rd edition Pgno : 129",
+    "hint_exp": "🧩 Your crush solved \"the following vitamin\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "179b2c24-87bc-4ec1-891a-a24452a6ed62": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Androgen receptors"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Androgen receptors",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Bicalutamide specific inhibitor\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "3af20bd8-044c-403f-95e4-cf0d2f944ac8": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Candida Individuals with DM have a greater frequency and severity of infection. The reasons for this include incompletely defined abnormalities in cell-mediated immunity and phagocyte function associated with hyperglycemia, as well as diminished vascularization. Hyperglycemia aids the colonization and growth of a variety of organisms (candida and other fungal species)."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Candida Individuals with DM have a greater frequency and severity of infection. The reasons for this include incompletely defined abnormalities in cell-mediated immunity and phagocyte function associated with hyperglycemia, as well as diminished vascularization. Hyperglycemia aids the colonization and growth of a variety of organisms (candida and other fungal species).",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"diabetes mellitus\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ea88b8d5-32c8-4d26-8123-fbdc386b36c8": {
-    "cop": 2,
-    "exp": "HIV is spread only by 4 modes:sexual contact with infected persons,by blood and blood products and from infected mother to babies. REF:ANANTHANARAYAN AND PANIKER'S TEXTBOOK OF MICROBIOLOGY 9TH EDITION PAGE NO-582"
+    "cop": 1,
+    "exp": "HIV is spread only by 4 modes:sexual contact with infected persons,by blood and blood products and from infected mother to babies. REF:ANANTHANARAYAN AND PANIKER'S TEXTBOOK OF MICROBIOLOGY 9TH EDITION PAGE NO-582",
+    "hint_exp": "🎯 Think of \"AIDS transmitted\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "e98353fb-6994-41ac-8d78-83b9e8867276": {
-    "cop": 4,
-    "exp": "Target lesions- Iris lesions: these are pathognomic of erythema multiforme. commonly found on the extremities especially hands. there are three zones of color change: 1. central dark or sometimes blistered area 2.surrounded by pale odematous zone 3.inturn rimmed by another zone of odema IADVL textbook of dermatology, principles of clinical diagnosis,page 106."
+    "cop": 3,
+    "exp": "Target lesions- Iris lesions: these are pathognomic of erythema multiforme. commonly found on the extremities especially hands. there are three zones of color change: 1. central dark or sometimes blistered area 2.surrounded by pale odematous zone 3.inturn rimmed by another zone of odema IADVL textbook of dermatology, principles of clinical diagnosis,page 106.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"characteristic of\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f45139c3-9908-4f4d-a762-a5dd078d603c": {
-    "cop": 2,
-    "exp": "Ans: (b) MivacuriumRef: KDt 6th ed. / 343* Shortest acting non-depolarizing muscle relaxant: Mivacurium* Shortest acting depolarizing muscle relaxant: Sch* Overall shortest acting muscle relaxant: Sch.* Shortest acting local anaesthetic: chlorprocaineClassification of Muscle RelaxantsNeuro Muscular Blocking agentDepolarizing (Non- competitive) M.R.Non-depolarizing (Competitive) M.R.Suxamethonium/succinyl choline/ ScolineDecamethoniumAll others, For eg: Gallamine,D-tubocurarine, Atracurium,Mevacurium/ Vecuronium/Pancuronium/Rocuronium"
+    "cop": 1,
+    "exp": "Ans: (b) MivacuriumRef: KDt 6th ed. / 343* Shortest acting non-depolarizing muscle relaxant: Mivacurium* Shortest acting depolarizing muscle relaxant: Sch* Overall shortest acting muscle relaxant: Sch.* Shortest acting local anaesthetic: chlorprocaineClassification of Muscle RelaxantsNeuro Muscular Blocking agentDepolarizing (Non- competitive) M.R.Non-depolarizing (Competitive) M.R.Suxamethonium/succinyl choline/ ScolineDecamethoniumAll others, For eg: Gallamine,D-tubocurarine, Atracurium,Mevacurium/ Vecuronium/Pancuronium/Rocuronium",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "99f4054f-de69-4e58-b62f-e425bc11d30c": {
-    "cop": 3,
-    "exp": "Ref-Katzung 10/920 Pentostatin and cilastatin are not statins i.e. these do not act by inhibiting HMG-CoA reductase. Pentostatin acts by inhibiting adenosine deaminase. It is used for the treatment of hairy cell leukemia. Drug of choice for hairy cell leukemia is cladribine."
+    "cop": 2,
+    "exp": "Ref-Katzung 10/920 Pentostatin and cilastatin are not statins i.e. these do not act by inhibiting HMG-CoA reductase. Pentostatin acts by inhibiting adenosine deaminase. It is used for the treatment of hairy cell leukemia. Drug of choice for hairy cell leukemia is cladribine.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"acts by inhibiting\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ce15c81c-2229-4e62-895d-275c1994fba5": {
-    "cop": 4,
-    "exp": "Post-pubey"
+    "cop": 3,
+    "exp": "Post-pubey",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Physiological amenorrhea presentin except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "13935914-29e8-4b4b-9cd9-e125fc7e395e": {
-    "cop": 2,
-    "exp": "B i.e. Waterston Cooley's shunt"
+    "cop": 1,
+    "exp": "B i.e. Waterston Cooley's shunt",
+    "hint_exp": "🎯 Think of \"Following cause notching except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "03de04ce-4148-4a4a-bc97-5080c94a780a": {
-    "cop": 2,
-    "exp": "Ans. Neuro-paralytic symptoms"
+    "cop": 1,
+    "exp": "Ans. Neuro-paralytic symptoms",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Most characteristic feature elapidae\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1c514df8-c965-4485-9bd6-6430b14368b5": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Low pH of the stomach o Saliva contains amylase (salivary amylase or ptyalin), which hydrolyzes starch into disaccharide maltose and a mixture of oligosaccharides. o Its action is very short- lasting because it is inactivated by acidic gastric pH (< 3) shortly after entering the stomach. Salivary amylase optimally active at pH of around 6.9 (6.5 - 7). o It is inactive at a pH below 4.5."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Low pH of the stomach o Saliva contains amylase (salivary amylase or ptyalin), which hydrolyzes starch into disaccharide maltose and a mixture of oligosaccharides. o Its action is very short- lasting because it is inactivated by acidic gastric pH (< 3) shortly after entering the stomach. Salivary amylase optimally active at pH of around 6.9 (6.5 - 7). o It is inactive at a pH below 4.5.",
+    "hint_exp": "🧩 Your crush solved \"Salivary amylase Inactivated\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "b9def665-04ed-4319-98e8-995c71c0e64e": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., Hepatocytes Ketone bodies are synthesized by liver and are utilized by extrahepatic tissues like hea, muscles, renal coex and brain (in starvation). Liver cannot utilize ketone bodies because it lacks enzyme succinyl-CoA-acetoacetate CoA transferase, which is required for the activation of ketone bodies. The first reaction in use of ketone bodies is activation of acetoacetate. CoA-transferase Succinyl CoA + acetoacetate ___________________ Acetoacetyl CoA + succinate"
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., Hepatocytes Ketone bodies are synthesized by liver and are utilized by extrahepatic tissues like hea, muscles, renal coex and brain (in starvation). Liver cannot utilize ketone bodies because it lacks enzyme succinyl-CoA-acetoacetate CoA transferase, which is required for the activation of ketone bodies. The first reaction in use of ketone bodies is activation of acetoacetate. CoA-transferase Succinyl CoA + acetoacetate ___________________ Acetoacetyl CoA + succinate",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"used by all except\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "dfac2287-c223-4350-9d4a-7cbca498a29b": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., 2.6"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., 2.6",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Toxic dose lithium\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "1e6286d1-9b0e-4703-bf67-272a9ba0544e": {
-    "cop": 3,
-    "exp": "Ans. is 'c' ST segment elevation (Ref Harrison, 16/e, p 1450 (15/e, p1388), Schamroth 6/e, p40)."
+    "cop": 2,
+    "exp": "Ans. is 'c' ST segment elevation (Ref Harrison, 16/e, p 1450 (15/e, p1388), Schamroth 6/e, p40).",
+    "hint_exp": "🎯 Think of \"What diagnostic fresh myocardial\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6d44f6a2-ceb4-4a71-8e8b-09acbf54fa32": {
-    "cop": 2,
-    "exp": "Ringer lactate is preferred agent for resuscitation for the initial 24 hours Nasogastric intubation is done to decrease the risk of emesis and possible aspiration (as paralytic ileus develops in the patients of burn) Dextran is a colloid and can be used after 24 hours however, albumin is the preferred and most widely used colloid Ref: Sabiston 20th edition Pgno :514"
+    "cop": 1,
+    "exp": "Ringer lactate is preferred agent for resuscitation for the initial 24 hours Nasogastric intubation is done to decrease the risk of emesis and possible aspiration (as paralytic ileus develops in the patients of burn) Dextran is a colloid and can be used after 24 hours however, albumin is the preferred and most widely used colloid Ref: Sabiston 20th edition Pgno :514",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the fluid of choice in burns\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3e87bf2f-7b8d-4458-a525-4a6a19d96573": {
-    "cop": 1,
-    "exp": "Centriacinar emphysema\n\nDestruction and enlargement of the central or proximal parts of acinus with sparing of distal alveoli.\nMost common type emphysema.\nUpper lobe and apices are predominant involvement.\nCommonly seen in heavy smokers and chronic bronchitis."
+    "cop": 0,
+    "exp": "Centriacinar emphysema\n\nDestruction and enlargement of the central or proximal parts of acinus with sparing of distal alveoli.\nMost common type emphysema.\nUpper lobe and apices are predominant involvement.\nCommonly seen in heavy smokers and chronic bronchitis.",
+    "hint_exp": "🧩 Your crush solved \"emphysema\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7e15ce26-233b-466f-b652-66fbe5c3db97": {
-    "cop": 2,
-    "exp": "\"The level of bifurcation of the trachea varies from the lower third of the fouh to the middle of the seventh thoracic veebrae. The average position is at the level of the lower third of the fifth thoracic veebra.Ref: PL Dhingra, Diseases of Ear, Nose & Throat, 7th edition, pg no. 319"
+    "cop": 1,
+    "exp": "\"The level of bifurcation of the trachea varies from the lower third of the fouh to the middle of the seventh thoracic veebrae. The average position is at the level of the lower third of the fifth thoracic veebra.Ref: PL Dhingra, Diseases of Ear, Nose & Throat, 7th edition, pg no. 319",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"trachea\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "6db12a7f-fb1c-4f8b-bc81-d36cc85a2a67": {
-    "cop": 4,
-    "exp": "Wegener's granulomatosis involves small vessels"
+    "cop": 3,
+    "exp": "Wegener's granulomatosis involves small vessels",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which characteristic Wegener granulomatosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "70183274-aba8-44a0-a35f-203ce3971c8f": {
-    "cop": 2,
-    "exp": ". (B) Beta endorphin # ANTERIOR PITUITARY secretes & synthesizes Corticotropins: Cleaved from the precursorpropriomelanocortin protein, and include Adrenocorticotropic hormone (ACTH), and Beta-endorphin, and melanocyte-stimulating hormone are released under the influence of hypothalamic corticotropin-releasing hormone (CRH)> b-Endorphin is an endogenous opioid neuropeptide found in the neurons of both the central and peripheral nervous system. One of five endorphins found in humans, the others of which include a-endorphin, Y-endorphin, a-neoendorphin, and b-neoendorphin. Agonist of the opioid receptors, & it serves as an endogenous ligand of the p-opioid receptor, the same receptor to which the chemicals extracted from opium, such as morphine, have their analgesic properties (indeed, the m-opioid receptor was named based on its most renowned ligand, morphine).> Adrenocorticotropic hormone (ACTH), or Corticotropin is a polypeptide tropic hormone produced and secreted by the anterior pituitary gland. Important component of the hypothalamic-pituitary-adrenal axis and is often produced in response to biological stress (along with its precursor corticotropin-releasing hormone from the hypothalamus). Principal effects are increased production and release of cortisol by the cortex of the adrenal gland. ACTH is also related to the circadian rhythm in many organisms.> a-Melanocyte-stimulating hormone (a-MSH) is an endogenous peptide hormone and neuropeptide of the melanocortin family, with a tridecapeptide structure and a-MSH is a non-selective full agonist of the melanocortin receptors MC1. Most important of the melanocyte-stimulating hormones (MSHs) (also known as melanotropins) in stimulating melanogenes s, a process that in mammals (including humans) is responsible for pigmentation primarily of the hair and skin. Plays a role in feeding behavior, energy homeostasis, sexual activity, and protection against ischemia and reperfusion injury.> Human beta-melanocyte-stimulating hormone (h beta MSH) does not normally exist in humans but was merely an artifactually generated 22-amino acid peptide corresponding to a lipotropin (LPH) fragment (residues 35-56)."
+    "cop": 1,
+    "exp": ". (B) Beta endorphin # ANTERIOR PITUITARY secretes & synthesizes Corticotropins: Cleaved from the precursorpropriomelanocortin protein, and include Adrenocorticotropic hormone (ACTH), and Beta-endorphin, and melanocyte-stimulating hormone are released under the influence of hypothalamic corticotropin-releasing hormone (CRH)> b-Endorphin is an endogenous opioid neuropeptide found in the neurons of both the central and peripheral nervous system. One of five endorphins found in humans, the others of which include a-endorphin, Y-endorphin, a-neoendorphin, and b-neoendorphin. Agonist of the opioid receptors, & it serves as an endogenous ligand of the p-opioid receptor, the same receptor to which the chemicals extracted from opium, such as morphine, have their analgesic properties (indeed, the m-opioid receptor was named based on its most renowned ligand, morphine).> Adrenocorticotropic hormone (ACTH), or Corticotropin is a polypeptide tropic hormone produced and secreted by the anterior pituitary gland. Important component of the hypothalamic-pituitary-adrenal axis and is often produced in response to biological stress (along with its precursor corticotropin-releasing hormone from the hypothalamus). Principal effects are increased production and release of cortisol by the cortex of the adrenal gland. ACTH is also related to the circadian rhythm in many organisms.> a-Melanocyte-stimulating hormone (a-MSH) is an endogenous peptide hormone and neuropeptide of the melanocortin family, with a tridecapeptide structure and a-MSH is a non-selective full agonist of the melanocortin receptors MC1. Most important of the melanocyte-stimulating hormones (MSHs) (also known as melanotropins) in stimulating melanogenes s, a process that in mammals (including humans) is responsible for pigmentation primarily of the hair and skin. Plays a role in feeding behavior, energy homeostasis, sexual activity, and protection against ischemia and reperfusion injury.> Human beta-melanocyte-stimulating hormone (h beta MSH) does not normally exist in humans but was merely an artifactually generated 22-amino acid peptide corresponding to a lipotropin (LPH) fragment (residues 35-56).",
+    "hint_exp": "🎯 Think of \"an Opioid peptide\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "41c9dbb9-4da2-4520-a20b-6223f49ee0a5": {
-    "cop": 1,
-    "exp": "TECOVIRIMAT: a. Used for treatment of Small pox (In bioterror attacks) b. Orally administered c. Binds to envelop virus P37 and inhibits extracellular viral forms d. Inhibits transmission"
+    "cop": 0,
+    "exp": "TECOVIRIMAT: a. Used for treatment of Small pox (In bioterror attacks) b. Orally administered c. Binds to envelop virus P37 and inhibits extracellular viral forms d. Inhibits transmission",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"used for against which virus\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d6bb8938-27a0-4fed-930a-8f5ee71de81d": {
-    "cop": 3,
-    "exp": "Refer Robbins page no 843"
+    "cop": 2,
+    "exp": "Refer Robbins page no 843",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "f0307b27-e64d-48ad-b41d-aaafd19ecf01": {
-    "cop": 3,
-    "exp": "Ans. is c i.e. Karyotyping Well friends even if you do not know the answer, you can easily derive it, as the question specifically asks for an investigation before the next pregnancy. Out of the options provided only karyotyping is of value prior to next pregnancy, the remaining three being of significance during the antenatal period of next pregnancy (for detection of fetal affection with Down's syndrome)."
+    "cop": 2,
+    "exp": "Ans. is c i.e. Karyotyping Well friends even if you do not know the answer, you can easily derive it, as the question specifically asks for an investigation before the next pregnancy. Out of the options provided only karyotyping is of value prior to next pregnancy, the remaining three being of significance during the antenatal period of next pregnancy (for detection of fetal affection with Down's syndrome).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Annadurai have month baby\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "62a0f0e1-b048-4abc-b3df-ebf1d80208d8": {
-    "cop": 4,
-    "exp": "Type 'A' behavior is expressed in three major symptoms; (1) Time urgency (time pressure), (2) Free-floating hostility, (3) Competitiveness."
+    "cop": 3,
+    "exp": "Type 'A' behavior is expressed in three major symptoms; (1) Time urgency (time pressure), (2) Free-floating hostility, (3) Competitiveness.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"False regarding type personality\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d1275490-9da3-4c0c-bc9f-a9855915b863": {
-    "cop": 3,
-    "exp": "Astigmatism:- Definition:- When the rays are focused at different points due to unequal refraction in different meridians. With the Rule Astigmatism:- * Veical meridian is more curved than the horizontal meridian * Eg : Normal eyes (0.25 D), pterygium * 90deg axis >>>> 180deg axis (+ lens at 90deg/- lens at 180deg) Against the Rule Astigmatism:- * When the horizontal meridian is more curved than the veical meridian * 180deg>>>>90deg axis (- lens at 90deg /+ lens at 180deg) * Eg: Post op astigmatism -suture related Oblique Astigmatism :- * The two principal meridias are at right angles to each other ; but not the veical and horizontal meridian like 45deg and 135deg Bioblique Astigmatism:- * The two principal meridias are not at right angles and also not the veical and horizontal meridia.eg : 30deg & 100deg Reference :- Parson's Diseases of the eye 22nd edition; page:- 53,76"
+    "cop": 2,
+    "exp": "Astigmatism:- Definition:- When the rays are focused at different points due to unequal refraction in different meridians. With the Rule Astigmatism:- * Veical meridian is more curved than the horizontal meridian * Eg : Normal eyes (0.25 D), pterygium * 90deg axis >>>> 180deg axis (+ lens at 90deg/- lens at 180deg) Against the Rule Astigmatism:- * When the horizontal meridian is more curved than the veical meridian * 180deg>>>>90deg axis (- lens at 90deg /+ lens at 180deg) * Eg: Post op astigmatism -suture related Oblique Astigmatism :- * The two principal meridias are at right angles to each other ; but not the veical and horizontal meridian like 45deg and 135deg Bioblique Astigmatism:- * The two principal meridias are not at right angles and also not the veical and horizontal meridia.eg : 30deg & 100deg Reference :- Parson's Diseases of the eye 22nd edition; page:- 53,76",
+    "hint_exp": "🎯 Think of \"Against the Rule astigmatism\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1d4e4ca7-c36f-4429-a2be-4c5f103f051e": {
-    "cop": 3,
-    "exp": "Ans. C. H.pylori It is now widely accepted that infection with H. pylori is the most impoant factor in the development of peptic ulceration followed by NSAID ingestion. Helicobacter pylori is a Gram-negative, microaerophilic bacterium that can inhabit various areas of the stomach and duodenum. It causes a chronic low-level inflammation of the stomach lining and is strongly linked to the development of duodenal and gastric ulcers and stomach cancer. Over 80% of individuals infected with the bacterium are asymptomatic. The most reliable method for detecting H. pylori infection is a biopsy check during endoscopy with a rapid urease test, histological examination, and microbial culture. The standard first-line therapy is a one week \"triple therapy\""
+    "cop": 2,
+    "exp": "Ans. C. H.pylori It is now widely accepted that infection with H. pylori is the most impoant factor in the development of peptic ulceration followed by NSAID ingestion. Helicobacter pylori is a Gram-negative, microaerophilic bacterium that can inhabit various areas of the stomach and duodenum. It causes a chronic low-level inflammation of the stomach lining and is strongly linked to the development of duodenal and gastric ulcers and stomach cancer. Over 80% of individuals infected with the bacterium are asymptomatic. The most reliable method for detecting H. pylori infection is a biopsy check during endoscopy with a rapid urease test, histological examination, and microbial culture. The standard first-line therapy is a one week \"triple therapy\"",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Commonest cause peptic ulcer\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2e136b6e-af1f-4795-bcdd-b43d60321de6": {
-    "cop": 3,
-    "exp": "Pityriasis Rosea is a self limiting papulosquamous dermatoses of unknown aetiology characterised by Herald patch, annular plaque with peripheral collarette of scales on the trunk and secondary lesions arranged in Christmas tree/fir tree appearance. Treatment is usually symptomatic. It resolves in about 8-10 weeks. Ref: Illustrated Synopsis of Dermatology and STD's By Neena Khanna, Pages 50-51"
+    "cop": 2,
+    "exp": "Pityriasis Rosea is a self limiting papulosquamous dermatoses of unknown aetiology characterised by Herald patch, annular plaque with peripheral collarette of scales on the trunk and secondary lesions arranged in Christmas tree/fir tree appearance. Treatment is usually symptomatic. It resolves in about 8-10 weeks. Ref: Illustrated Synopsis of Dermatology and STD's By Neena Khanna, Pages 50-51",
+    "hint_exp": "🧩 Your crush solved \"the most probable diagnosis\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "89fbaa75-86e2-46e3-8af3-c28c2161a3b8": {
-    "cop": 1,
-    "exp": "The celiac plexus lies on the anterolateral surface of Aoa."
+    "cop": 0,
+    "exp": "The celiac plexus lies on the anterolateral surface of Aoa.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"celiac plexus\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f151dab7-7520-459c-bffe-796c19f5c155": {
-    "cop": 1,
-    "exp": "Cementodentinal junction is considered as a pure histological landmark for termination of cleaning/shaping and obturation."
+    "cop": 0,
+    "exp": "Cementodentinal junction is considered as a pure histological landmark for termination of cleaning/shaping and obturation.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "33cf6281-d066-4bcf-8299-b14025aff9cf": {
-    "cop": 2,
-    "exp": "Ans. (b) Protein capsule plays an impoant role in pathogenecity Capsule is made up of polysaccharide (not protein) Antigenic determinants of Hemophilus Capsular polysaccharide Outer membrane proteins Lipooligsaccharide Major determinant Basis of classification (types a to f) Type b capsular polysachharide contain pentose sugar (ribose) other types have hexose sugar OMP and LOS subtyping is of epidemiological value"
+    "cop": 1,
+    "exp": "Ans. (b) Protein capsule plays an impoant role in pathogenecity Capsule is made up of polysaccharide (not protein) Antigenic determinants of Hemophilus Capsular polysaccharide Outer membrane proteins Lipooligsaccharide Major determinant Basis of classification (types a to f) Type b capsular polysachharide contain pentose sugar (ribose) other types have hexose sugar OMP and LOS subtyping is of epidemiological value",
+    "hint_exp": "🎯 Think of \"False about influenzae\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c2d792e2-a62a-49da-89ea-ee0832060575": {
-    "cop": 2,
-    "exp": "Role of Aminotransferases in the diagnosis of Hepatitis.\n\nSerum aminotransferases are sensitive markers of liver cell injury such as occurring in hepatitis but they are not specific for liver injury. They are also present in heart, skeletal muscle, brain.\nSerum aminotransferases show a variable increase during the prodromal phase of acute viral hepatitis, however, the acute level of these enzymes does not correlate well with the degree of liver cell damage.\nAbout choice, C Harrison states \" The diagnosis of acute hepatitis A is made by demonstrating anti-HAV of the IgM class\".\nIgG anti-HAV is not used for diagnosis of the acute phase of HAV because its level remains elevated for an indefinite period of time."
+    "cop": 1,
+    "exp": "Role of Aminotransferases in the diagnosis of Hepatitis.\n\nSerum aminotransferases are sensitive markers of liver cell injury such as occurring in hepatitis but they are not specific for liver injury. They are also present in heart, skeletal muscle, brain.\nSerum aminotransferases show a variable increase during the prodromal phase of acute viral hepatitis, however, the acute level of these enzymes does not correlate well with the degree of liver cell damage.\nAbout choice, C Harrison states \" The diagnosis of acute hepatitis A is made by demonstrating anti-HAV of the IgM class\".\nIgG anti-HAV is not used for diagnosis of the acute phase of HAV because its level remains elevated for an indefinite period of time.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "0aa232f6-2f77-4420-850c-08f7a5bde173": {
-    "cop": 2,
-    "exp": "Heparin is present in the luminal surface of vascular endothelium it acts as an anticoagulation by the following mechanism: Prevent conversion of prothrombin to thrombin Inhibit the action of thrombin Facilitate the action of antithrombin III Ref: Medical Physiology Indu Khurana 2015 edition, Page No:159 It is also used as intravenous anticoagulant. Dose-0.5 to 1mg/kg of bodyweight. Action lasts for 1.5 to 4 hrs Injected heparin is destroyed by an enzyme in blood called heparinase"
+    "cop": 1,
+    "exp": "Heparin is present in the luminal surface of vascular endothelium it acts as an anticoagulation by the following mechanism: Prevent conversion of prothrombin to thrombin Inhibit the action of thrombin Facilitate the action of antithrombin III Ref: Medical Physiology Indu Khurana 2015 edition, Page No:159 It is also used as intravenous anticoagulant. Dose-0.5 to 1mg/kg of bodyweight. Action lasts for 1.5 to 4 hrs Injected heparin is destroyed by an enzyme in blood called heparinase",
+    "hint_exp": "🧩 Your crush solved \"activity\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "74b055ce-2cec-497c-b50e-0a12ec5583ae": {
-    "cop": 1,
-    "exp": "A i.e. Ability to make valid will Testamentary capacity is the mental"
+    "cop": 0,
+    "exp": "A i.e. Ability to make valid will Testamentary capacity is the mental",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Testamentary capacity refers\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "ed25195e-fe69-4f87-a16a-8dbd5db49f76": {
-    "cop": 3,
-    "exp": "Kawasaki disease is an acute febrile, usually self-limited illness of infancy and childhood (80% of patients are 4years old or younger); it is associated with an aeritis affecting large to medium-sized, and even small vessels. Its clinical significance stems primarily from a predilection for coronary aery involvement that can cause aneurysms that rupture or thrombose, resulting in acute myocardial infarctions."
+    "cop": 2,
+    "exp": "Kawasaki disease is an acute febrile, usually self-limited illness of infancy and childhood (80% of patients are 4years old or younger); it is associated with an aeritis affecting large to medium-sized, and even small vessels. Its clinical significance stems primarily from a predilection for coronary aery involvement that can cause aneurysms that rupture or thrombose, resulting in acute myocardial infarctions.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6addce68-f046-4baa-b703-801769fa8073": {
-    "cop": 4,
-    "exp": "Mueller's syndrome is a sign of successful stellate ganglion block in which there is warmth of the face and injection of the tympanic membrane. Other signs of successful stellate ganglion block include: Horner's syndrome lacrimation flushing of conjunctiva and sclera increase in skin temperature engorged veins of the arm flushing of cheek, face, neck and arm anhidrosis of the face and neck stuffiness of the nostril Complications of stellate ganglion block include: perforation of oesophagus pneumothorax cardiac arrest mediastinitis intercostal neuralgia ref : willey 9th ed"
+    "cop": 3,
+    "exp": "Mueller's syndrome is a sign of successful stellate ganglion block in which there is warmth of the face and injection of the tympanic membrane. Other signs of successful stellate ganglion block include: Horner's syndrome lacrimation flushing of conjunctiva and sclera increase in skin temperature engorged veins of the arm flushing of cheek, face, neck and arm anhidrosis of the face and neck stuffiness of the nostril Complications of stellate ganglion block include: perforation of oesophagus pneumothorax cardiac arrest mediastinitis intercostal neuralgia ref : willey 9th ed",
+    "hint_exp": "🎯 Think of \"stellate ganglion block\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "89f2df30-5245-4d5a-9d94-45fc135a843f": {
-    "cop": 1,
-    "exp": "Ans. (a) Radical prostatectomyBailey 26th Edition, Page 1355* Radical prostatectomy is only suitable for localized disease (T1 and T2) and should be carried out only in men with a life expectancy of > 10 years."
+    "cop": 0,
+    "exp": "Ans. (a) Radical prostatectomyBailey 26th Edition, Page 1355* Radical prostatectomy is only suitable for localized disease (T1 and T2) and should be carried out only in men with a life expectancy of > 10 years.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"limited to the capsule and it\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "44e10770-eea8-4f80-af82-b744ade02c5b": {
-    "cop": 4,
-    "exp": "The kidneys become larger, its size increase by 1.5 cm. Dilatation of the renal calyces and ureters can be striking. This is due to progesterone-induced relaxation of the muscularis. An impoant consequence of these physiological changes is an increased risk of upper urinary infection. Pregnancy induced intrarenal vasodilatation--both afferent and efferent resistance decreases--leads to increased effective renal plasma flow and glomerular filtration. Hydroureter- right side>left as pregnant uterus is usually dextrorotated and it compresses right ureter on pelvic brim."
+    "cop": 3,
+    "exp": "The kidneys become larger, its size increase by 1.5 cm. Dilatation of the renal calyces and ureters can be striking. This is due to progesterone-induced relaxation of the muscularis. An impoant consequence of these physiological changes is an increased risk of upper urinary infection. Pregnancy induced intrarenal vasodilatation--both afferent and efferent resistance decreases--leads to increased effective renal plasma flow and glomerular filtration. Hydroureter- right side>left as pregnant uterus is usually dextrorotated and it compresses right ureter on pelvic brim.",
+    "hint_exp": "🧩 Your crush solved \"FALSE\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "0b7a0740-66fc-44a3-9fd4-366ea055e1f1": {
-    "cop": 3,
-    "exp": "Mother with pregnancy with previous affected child of CAH are given Dexamethosome as soon as pregnancy is diagnosed. This supresses secretion of steroids by fetal adrenal gland and prevents CAH in this schild."
+    "cop": 2,
+    "exp": "Mother with pregnancy with previous affected child of CAH are given Dexamethosome as soon as pregnancy is diagnosed. This supresses secretion of steroids by fetal adrenal gland and prevents CAH in this schild.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"CAH in this child\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f7f2b498-1fce-4f8f-9ef8-feb8de14f844": {
-    "cop": 4,
-    "exp": "D i.e. Lacunar ligament"
+    "cop": 3,
+    "exp": "D i.e. Lacunar ligament",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"inguinal canal bounded posteriorly\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6b3bfe1c-ff7f-4e83-b463-de99df345343": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Back pressure porosity avoided\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "bb956290-4668-488c-a488-b817a1e1db5d": {
-    "cop": 1,
-    "exp": "Verres needle is used for creation of a pneumoperitoneum in closed method.Although this method is fast and relatively safe, there is a small but significant potential for intestinal or vascular injury on introduction of the needleRef: Bailey and Love 27e pg: 108"
+    "cop": 0,
+    "exp": "Verres needle is used for creation of a pneumoperitoneum in closed method.Although this method is fast and relatively safe, there is a small but significant potential for intestinal or vascular injury on introduction of the needleRef: Bailey and Love 27e pg: 108",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"used for\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "a6c7afb1-c6d3-4d60-a387-df23f60fc16e": {
-    "cop": 1,
-    "exp": "Ans. a. Enalapril (Ref: Goodman and Gilman 12/e pe p736)Enalapril is not given in pregnancy.\"ACE inhibitors inhibit the conversion of angiotensin-I to the potent vasoconstrictor angiotensin-II. They can cause severe fetal malformations that include hypocalvaria when given in the second and third trimesters. Because of this, they are not recommended during pregnancy. Angiotensin-receptor blockers act in a similar manner but instead of blocking the production of angiotensin-II, they inhibit binding to its receptor. They are presumed to have the same fetal effects as ACE inhibitors and are also contraindicated.\" - Goodman and Gilman 12/e pe p736Antihypertensives to be avoided in Pregnancy (Mnemonic: SAAND)Sodium nitroprussideQACE inhibitorsQARBsQNon-selective beta blockersQDiureticsQ"
+    "cop": 0,
+    "exp": "Ans. a. Enalapril (Ref: Goodman and Gilman 12/e pe p736)Enalapril is not given in pregnancy.\"ACE inhibitors inhibit the conversion of angiotensin-I to the potent vasoconstrictor angiotensin-II. They can cause severe fetal malformations that include hypocalvaria when given in the second and third trimesters. Because of this, they are not recommended during pregnancy. Angiotensin-receptor blockers act in a similar manner but instead of blocking the production of angiotensin-II, they inhibit binding to its receptor. They are presumed to have the same fetal effects as ACE inhibitors and are also contraindicated.\" - Goodman and Gilman 12/e pe p736Antihypertensives to be avoided in Pregnancy (Mnemonic: SAAND)Sodium nitroprussideQACE inhibitorsQARBsQNon-selective beta blockersQDiureticsQ",
+    "hint_exp": "🧩 Your crush solved \"not given in pregnancy\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

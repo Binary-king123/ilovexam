@@ -1,202 +1,252 @@
 {
   "188b333b-7cb1-4e2b-bd71-9d01ae3b8ea1": {
-    "cop": 2,
-    "exp": "These are developmental stages of tooth.\nHistodifferentiation occurs in early bell stage white morphodifferentiation occurs in advanced bell stage."
+    "cop": 1,
+    "exp": "These are developmental stages of tooth.\nHistodifferentiation occurs in early bell stage white morphodifferentiation occurs in advanced bell stage.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Early Bell stage differ\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2387d250-b1b8-4a4f-af07-8cb53bbdf2e3": {
-    "cop": 1,
-    "exp": "Shigella accounts for majority of cases of dysentry."
+    "cop": 0,
+    "exp": "Shigella accounts for majority of cases of dysentry.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of dysentery\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "50b3a058-8bf0-42c9-aa35-596d594b00de": {
-    "cop": 2,
-    "exp": "Ans. b (Dichorionicity) (Ref. Dutta Obst 6th1209; William's 22nd/ Table 39-3; p. 929)UNBALANCED INTERTWIN TRANSFUSION# - unbalanced intertwin transfusion through vascular anastomoses between the two circulations of monochorionic twins# ACUTE = Twin-embolization syndrome# CHRONIC = Twin-twin transfusion syndrome# REVERSE = Acardiac twinning- Monochorionic twins have a significantly greater risk of abortion than dichorionic twins (& the \"vanishing Twin\").- Acardiac twin or Twin reversed-arterial-perfusion (TRAP) sequence is a rare (1 in 35,000 births) but serious complication of monochorionic, monozygotic multiple gestation.- Monozygotic twins (33%): same sex + identical genotype(1) Perinatal mortality 2.5 times greater than for dizygotic twins(2) Fetal anomalies 3-7 times higher than in dizygotic twins / singletons (often only affecting one twin): anencephaly, hydrocephalus, holoprosencephaly, cloacal exstrophy, VATER syndrome, sirenomelia, sacrococcygeal teratomaDichorionic Diamniotic Twins (30%)# = separation at two-cell stage (= blastomere) approximately 60 hours / < 4 days after fertilization# 2 separate fused/unfused placentas# membrane >2 mm due to 2 separate chorionic sacs + 2 separate amniotic sacs (92% accurate for dichorionic diamniotic twins)# sign = triangular projection of placental tissue insinuated between layers of intertwin membraneMonochorionic Diamniotic Twins (69-80%)# = separation in blastocyst stage between 4th and 7th day after fertilization (chorion already developed and separated from embryo)# 2 separate amniotic sacs in single chorionic sac# Common monochorionic placenta has vascular communications in 100%Cx:(1) Twin-twin transfusion syndrome(2) Twin embolization syndrome = DIC in surviving twin from transfer of thromboplastin; 17% morbidity / mortality of survivor after fetal death of twin(3) Acardiac parabiotic twinMonochorionic Monoamniotic Twins (1%)# = division of embryonic disk between 8th and 12th day after fertilization (amniotic cavity already developed) common amniotic + chorionic sac, no separating membraneDays after FertilizationEmbryologic EventCleavage Chorionresults in Amnion1-2Cell divisions - moruladi~di~3-4Chorionic differentiation 6Blastocyst implants in endometriummono'\"di~8Amnionic differentiationmono'\"mono'\">13Division of embryonic diskmono'\"mono'\"# Entanglement of cords (the only definitive positive sonographic sign of monoamnionicity)Cx: double perinatal mortality up to 45%(1) Entangled umbilical cord (70%)(2) True knot of cord(3) Conjoined twins (umbilical cord with >3 vessels, shared fetal organs, continuous fetal skin contour)Prognosis: 40% survival rateDizygotic Twins (2/3)# = FRATERNAL TWINS# fertilization of two ova by two separate spermatozoa during two simultaneous ovulations (occurring either in both ovaries or in one ovary)# superfetation = fertilization of two ova by two separate spermatozoa during two subsequent ovulations (frequency unknown)# superfecundation = two ova fertilized by two different fathers (very rare)# Incidence: 1:80 to 1:90 births# Predisposing factors:- Advanced maternal age (increased up to age 35): reduced gonadal-hypothalamic feedback with increase of FSH levels- Ovulation-inducing agents (multiple pregnancies in 6-17% with clomiphene, in 18-53% with Pergonal)- Maternal history of twinning (3 times as frequent compared with normal population)- Increased parity- Maternal obesity- Race with inherited predisposition for multiple ovulations (Blacks > Whites > Asians) different phenotypes; same/ opposite sex always dichorionic diamnioticOverview of the incidence of twin pregnancy Zygosity & corresponding twin-specific complicationsTwin-Specific Complication (percent)Type of TwinningTwinsFetal Growth RestrictionPreterm DeliveryPlacental Vascular AnastomosisPerinatal MortalityDizygotic802540010-12Monozygotic204050 15-18Diamnionic/ dichorionic6-73040018-20Diamnionic/ monochorionic13-14506010030-40Monoamnionic/ monochorionic< 14060-7080-9058-60Conjoined0.002-0.008--70-8010070-90TWIN-TO-TWIN TRANSFUSION SYNDROME# In this syndrome, blood is transfused from a donor twin to its recipient sibling such that the donor becomes anemic and its growth may be restricted, whereas the recipient becomes polycythemic and may develop circulatory overload manifesting as hydrops.# The donor twin is pale, and its recipient sibling is plethoric.# Similarly, one portion of the placenta often appears pale compared with the rest of the placenta.# Complications: The neonatal period may be complicated by circulatory overload with:- Heart failure- Occlusive thrombosis.- Polycythemia may lead to severe hyperbilirubinemia and kemicterus."
+    "cop": 1,
+    "exp": "Ans. b (Dichorionicity) (Ref. Dutta Obst 6th1209; William's 22nd/ Table 39-3; p. 929)UNBALANCED INTERTWIN TRANSFUSION# - unbalanced intertwin transfusion through vascular anastomoses between the two circulations of monochorionic twins# ACUTE = Twin-embolization syndrome# CHRONIC = Twin-twin transfusion syndrome# REVERSE = Acardiac twinning- Monochorionic twins have a significantly greater risk of abortion than dichorionic twins (& the \"vanishing Twin\").- Acardiac twin or Twin reversed-arterial-perfusion (TRAP) sequence is a rare (1 in 35,000 births) but serious complication of monochorionic, monozygotic multiple gestation.- Monozygotic twins (33%): same sex + identical genotype(1) Perinatal mortality 2.5 times greater than for dizygotic twins(2) Fetal anomalies 3-7 times higher than in dizygotic twins / singletons (often only affecting one twin): anencephaly, hydrocephalus, holoprosencephaly, cloacal exstrophy, VATER syndrome, sirenomelia, sacrococcygeal teratomaDichorionic Diamniotic Twins (30%)# = separation at two-cell stage (= blastomere) approximately 60 hours / < 4 days after fertilization# 2 separate fused/unfused placentas# membrane >2 mm due to 2 separate chorionic sacs + 2 separate amniotic sacs (92% accurate for dichorionic diamniotic twins)# sign = triangular projection of placental tissue insinuated between layers of intertwin membraneMonochorionic Diamniotic Twins (69-80%)# = separation in blastocyst stage between 4th and 7th day after fertilization (chorion already developed and separated from embryo)# 2 separate amniotic sacs in single chorionic sac# Common monochorionic placenta has vascular communications in 100%Cx:(1) Twin-twin transfusion syndrome(2) Twin embolization syndrome = DIC in surviving twin from transfer of thromboplastin; 17% morbidity / mortality of survivor after fetal death of twin(3) Acardiac parabiotic twinMonochorionic Monoamniotic Twins (1%)# = division of embryonic disk between 8th and 12th day after fertilization (amniotic cavity already developed) common amniotic + chorionic sac, no separating membraneDays after FertilizationEmbryologic EventCleavage Chorionresults in Amnion1-2Cell divisions - moruladi~di~3-4Chorionic differentiation 6Blastocyst implants in endometriummono'\"di~8Amnionic differentiationmono'\"mono'\">13Division of embryonic diskmono'\"mono'\"# Entanglement of cords (the only definitive positive sonographic sign of monoamnionicity)Cx: double perinatal mortality up to 45%(1) Entangled umbilical cord (70%)(2) True knot of cord(3) Conjoined twins (umbilical cord with >3 vessels, shared fetal organs, continuous fetal skin contour)Prognosis: 40% survival rateDizygotic Twins (2/3)# = FRATERNAL TWINS# fertilization of two ova by two separate spermatozoa during two simultaneous ovulations (occurring either in both ovaries or in one ovary)# superfetation = fertilization of two ova by two separate spermatozoa during two subsequent ovulations (frequency unknown)# superfecundation = two ova fertilized by two different fathers (very rare)# Incidence: 1:80 to 1:90 births# Predisposing factors:- Advanced maternal age (increased up to age 35): reduced gonadal-hypothalamic feedback with increase of FSH levels- Ovulation-inducing agents (multiple pregnancies in 6-17% with clomiphene, in 18-53% with Pergonal)- Maternal history of twinning (3 times as frequent compared with normal population)- Increased parity- Maternal obesity- Race with inherited predisposition for multiple ovulations (Blacks > Whites > Asians) different phenotypes; same/ opposite sex always dichorionic diamnioticOverview of the incidence of twin pregnancy Zygosity & corresponding twin-specific complicationsTwin-Specific Complication (percent)Type of TwinningTwinsFetal Growth RestrictionPreterm DeliveryPlacental Vascular AnastomosisPerinatal MortalityDizygotic802540010-12Monozygotic204050 15-18Diamnionic/ dichorionic6-73040018-20Diamnionic/ monochorionic13-14506010030-40Monoamnionic/ monochorionic< 14060-7080-9058-60Conjoined0.002-0.008--70-8010070-90TWIN-TO-TWIN TRANSFUSION SYNDROME# In this syndrome, blood is transfused from a donor twin to its recipient sibling such that the donor becomes anemic and its growth may be restricted, whereas the recipient becomes polycythemic and may develop circulatory overload manifesting as hydrops.# The donor twin is pale, and its recipient sibling is plethoric.# Similarly, one portion of the placenta often appears pale compared with the rest of the placenta.# Complications: The neonatal period may be complicated by circulatory overload with:- Heart failure- Occlusive thrombosis.- Polycythemia may lead to severe hyperbilirubinemia and kemicterus.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "380e3330-8b5e-4a37-9221-e08f03c8910b": {
-    "cop": 4,
-    "exp": "Ans. D: Cimetidine Triple therapy is considered to be the standard treatment for children. A proton pump inhibitor combined with two antibiotics has been shown to be very effective in clearing H pylori from the stomach. The current recommendation is treatment with amoxicillin, clarithromycin, and a proton pump inhibitor (lansoprazole) for 2 weeks."
+    "cop": 3,
+    "exp": "Ans. D: Cimetidine Triple therapy is considered to be the standard treatment for children. A proton pump inhibitor combined with two antibiotics has been shown to be very effective in clearing H pylori from the stomach. The current recommendation is treatment with amoxicillin, clarithromycin, and a proton pump inhibitor (lansoprazole) for 2 weeks.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following drug\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "28508037-0ac6-4993-835b-9ffc47e3edda": {
-    "cop": 1,
-    "exp": "Bezold abscess can occur following acute coalescent mastoiditis when pus breaks through the thin medial side of the tip of the mastoid and present as a swelling in the upper pa of the neck. (Ref: Textbook of diseases of ENT, PL Dhingra, 7th edition, pg no. 87)"
+    "cop": 0,
+    "exp": "Bezold abscess can occur following acute coalescent mastoiditis when pus breaks through the thin medial side of the tip of the mastoid and present as a swelling in the upper pa of the neck. (Ref: Textbook of diseases of ENT, PL Dhingra, 7th edition, pg no. 87)",
+    "hint_exp": "🧩 Your crush solved \"involved in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "89264b22-452f-47dd-839a-c1340fb61b16": {
-    "cop": 4,
-    "exp": "Tuberculosis represents infection with Mycobacterium tuberculosis, although atypical mycobacterial infections may mimic it. The Ghon complex includes parenchymal consolidation and enlargement of ipsilateral hilar lymph nodes and is often accompanied by a pleural effusion None of the other choices feature acid-fast organisms"
+    "cop": 3,
+    "exp": "Tuberculosis represents infection with Mycobacterium tuberculosis, although atypical mycobacterial infections may mimic it. The Ghon complex includes parenchymal consolidation and enlargement of ipsilateral hilar lymph nodes and is often accompanied by a pleural effusion None of the other choices feature acid-fast organisms",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c1be576d-84ed-4a29-805a-a5d850bb01ac": {
-    "cop": 2,
-    "exp": "Conversion of glucose to glucose-6-phosphate is a method by which glucose is trapped inside the cell. Later it is diverted to many different pathways depending upon energy state of the cell."
+    "cop": 1,
+    "exp": "Conversion of glucose to glucose-6-phosphate is a method by which glucose is trapped inside the cell. Later it is diverted to many different pathways depending upon energy state of the cell.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which metabolite involved glycolysis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "d841c33f-a66a-4345-849e-aac95ad8b7df": {
-    "cop": 4,
-    "exp": "DrugIndicationDosageHow to useAdverse effectsAnticholinergic:ScopolamineSea and travel sicknessTransdermal 1.5 mg/patchPrevention: 6-8 hours before exposure Effective for 72 hours.Dry eyes, mouth, mydriasis with light sensitivity Rare: Glaucoma, cataract, dermatitis, unilateral mydriasisAntihistamines:Cinnarizine + DimenhydrinateVertigoCinnarizine 20 mgDimenhydrinate 40 mgAcute treatment only TDS for 4 weeksDrowsiness, headache, Rare: Urinary retention, paresthesia, amnesia, sweating, tinnitusDimenhydrinate* Nausea and vomiting* Motion sickness50-100 mg OD Cl < 3 years dose reduced in childrenPrevention: 0.5-1 hours before start of travelSomnolence, drowsinessDiphenhydramineNausea, vomiting, sleep disturbances50 mg/day Cl < 18 yearsShort-term therapy: 30 minutes before sleepAddiction, tolerance development, drowsiness, muscle weaknessPromethazineNausea and vomiting20-30 mg starting dose Can be given in children >2 years of ageReserve drugSedation, anticholinergic side effects"
+    "cop": 3,
+    "exp": "DrugIndicationDosageHow to useAdverse effectsAnticholinergic:ScopolamineSea and travel sicknessTransdermal 1.5 mg/patchPrevention: 6-8 hours before exposure Effective for 72 hours.Dry eyes, mouth, mydriasis with light sensitivity Rare: Glaucoma, cataract, dermatitis, unilateral mydriasisAntihistamines:Cinnarizine + DimenhydrinateVertigoCinnarizine 20 mgDimenhydrinate 40 mgAcute treatment only TDS for 4 weeksDrowsiness, headache, Rare: Urinary retention, paresthesia, amnesia, sweating, tinnitusDimenhydrinate* Nausea and vomiting* Motion sickness50-100 mg OD Cl < 3 years dose reduced in childrenPrevention: 0.5-1 hours before start of travelSomnolence, drowsinessDiphenhydramineNausea, vomiting, sleep disturbances50 mg/day Cl < 18 yearsShort-term therapy: 30 minutes before sleepAddiction, tolerance development, drowsiness, muscle weaknessPromethazineNausea and vomiting20-30 mg starting dose Can be given in children >2 years of ageReserve drugSedation, anticholinergic side effects",
+    "hint_exp": "🎯 Think of \"him\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "6da1f305-76d6-43ab-90dc-a59985809216": {
-    "cop": 1,
-    "exp": "Zona occludens = tight junction, Macula adherens = desmosome The intercalated disks are composed of a fascia adherens that is responsible for end-to-end cell anchoring of actin filaments to one another and no tight junctions are present. Between the myofibers, the macula adherens (or desmosome) binds the cells and is responsible for anchoring the intermediate filament cytoskeletal proteins, vimentin, and desmin. Gj = Gap junction; Ds = Desmosome; Fa = Fascia adherens"
+    "cop": 0,
+    "exp": "Zona occludens = tight junction, Macula adherens = desmosome The intercalated disks are composed of a fascia adherens that is responsible for end-to-end cell anchoring of actin filaments to one another and no tight junctions are present. Between the myofibers, the macula adherens (or desmosome) binds the cells and is responsible for anchoring the intermediate filament cytoskeletal proteins, vimentin, and desmin. Gj = Gap junction; Ds = Desmosome; Fa = Fascia adherens",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Intercalated disc except\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2b3af7e0-7a5e-4d68-ab30-a3b49e874489": {
-    "cop": 3,
-    "exp": "Repeat question"
+    "cop": 2,
+    "exp": "Repeat question",
+    "hint_exp": "🧩 Your crush solved \"Tonsillectomy injections should aoided\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "424f3e4f-7bf5-495e-851e-433889e33b63": {
-    "cop": 4,
-    "exp": "Steady state is achieved when rate of administration is equal to rate of elimination Three impoant points to remember: Steady state is achieved within 4-5 half lives Dosing rate (dose per unit time) determines the average plasma concentration obtained at steady state. Frequency - drug when given intermittently, concentration will vary around baseline - peak and trough are obtained Longer interval - difference between peak and trough is more Lesser the interval - difference between peak and trough is less"
+    "cop": 3,
+    "exp": "Steady state is achieved when rate of administration is equal to rate of elimination Three impoant points to remember: Steady state is achieved within 4-5 half lives Dosing rate (dose per unit time) determines the average plasma concentration obtained at steady state. Frequency - drug when given intermittently, concentration will vary around baseline - peak and trough are obtained Longer interval - difference between peak and trough is more Lesser the interval - difference between peak and trough is less",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following statements\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f5f5641a-350e-442e-ade4-e8ef468dfb17": {
-    "cop": 1,
-    "exp": "Ref. API Textbook of Medicine. Pg. 798\n \nLactate dehydrogenase, tetrameric enzyme with 4 subunits,\n\n4 Subunits with 2 isoforms - H isoform (Heart) & M isoform (Muscle)\nHeart & RBCs - LDH-1 (4H);\nReticuloendothelial system - LDH-2 (3H1M)\nLungs - LDH-3 (2H2M)\nKidneys, placenta, & pancreas - LDH-4 (1H3M)\nLiver & striated muscle - LDH-5 (4M)\n\nFlipping effect\n\nUsually LDH 2 in predominant in serum & LDH 1 is predominant in heart\nHigher levels of LDH 1 than LDH 2 (Flipped pattern) is suggestive of myocardial infarction"
+    "cop": 0,
+    "exp": "Ref. API Textbook of Medicine. Pg. 798\n \nLactate dehydrogenase, tetrameric enzyme with 4 subunits,\n\n4 Subunits with 2 isoforms - H isoform (Heart) & M isoform (Muscle)\nHeart & RBCs - LDH-1 (4H);\nReticuloendothelial system - LDH-2 (3H1M)\nLungs - LDH-3 (2H2M)\nKidneys, placenta, & pancreas - LDH-4 (1H3M)\nLiver & striated muscle - LDH-5 (4M)\n\nFlipping effect\n\nUsually LDH 2 in predominant in serum & LDH 1 is predominant in heart\nHigher levels of LDH 1 than LDH 2 (Flipped pattern) is suggestive of myocardial infarction",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Flipping effect\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "146744ec-a7ee-4394-8afe-0fe9eaf43342": {
-    "cop": 2,
-    "exp": "Oligohydramnios can cause a number of serious problems in the infant, including constraint deformities (such as clubfoot) and pulmonary hypoplasia, as shown in the photograph which shows essentially no long development. These infants have usually experienced intrauterine growth retardation and frequently have an associated serious renal abnormality. Ultrasound of the kidneys is important to rule out renal involvement as a cause of the oligohydramnios. None of the other testing would be expected to identify an etiology for the oligohydramnios and pulmonary hypoplasia, although this child's ultimate clinical course might necessitate additional testing. The finding of bilateral renal agenesis is termed Potter sequence."
+    "cop": 1,
+    "exp": "Oligohydramnios can cause a number of serious problems in the infant, including constraint deformities (such as clubfoot) and pulmonary hypoplasia, as shown in the photograph which shows essentially no long development. These infants have usually experienced intrauterine growth retardation and frequently have an associated serious renal abnormality. Ultrasound of the kidneys is important to rule out renal involvement as a cause of the oligohydramnios. None of the other testing would be expected to identify an etiology for the oligohydramnios and pulmonary hypoplasia, although this child's ultimate clinical course might necessitate additional testing. The finding of bilateral renal agenesis is termed Potter sequence.",
+    "hint_exp": "🎯 Think of \"infant\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1096ffa0-a82d-40ff-8bba-ed409ff0225d": {
-    "cop": 2,
-    "exp": "ANSWER: (B) Ascending limbREF: Goodman Gillman pharmacology 11th ed page 482See APPENDIX-14 below for \"RENAL PHYSIOLOGY\"Loop diuretics inhibit the activity of the Na+-- K+--2C1- symporter in the TAL (thick ascending limb) of the loop of Henle, hence, their designation as loop diuretics.DIURETICSITE OF ACTIONMECHANISM OF ACTIONCarbonic anhy- drase inhibitorsProximal convovulted tubules* Inhibit both the membrane-bound and cytoplasmic forms of carbonic anhy- draseLoop diureticsAscending limb of loop of henle* Na-K-2C1 Transporter inhibitor* Weak carbonic anhydrase inhibitor* Redistribution of renal blood flowEthacrinic acidAscending limb of loop of henle* Na-K-2C1 Transporter inhibitorThiazideEarly distal tubule* Na-Ci symporter inhibitorSpirinolactoneInterstitial side of distal tubule or collecting duct* Binds to intracellular mineralocorticoid receptorTriamterene and amiliorideLuminal side of distal tubule or collecting duct* Blocks luminal Na channels APPENDIX - 14 Renal Physiology:SubstanceDescriptionProximal TubuleLoop of HenleDistal TubuleCollectingDuctGlucoseIf glucose is not reabsorbed by the kidney, it appears in the urine, in a condition known as glucosuria. This is associated with diabetes mellitus.Reabsorption (almost 100%) via sodium- glucose transport proteins (apical) and GLUT (basolateral). Oligopeptides, proteins, and amino acidsAll are reabsorbed nearly completely.reabsorption UreaRegulation of osmolality. Varies with ADHreabsorption (50%) via passive transportsecretion reabsorption in medullary collecting ductsSodiumUses Na-H antiport, Na-glucose symport. sodium ion channels {minor}reabsorption (65%, isosmotic)reabsorption (25%o, thick ascending, Na-K-2C1 symporter)reabsorption (5%, sodium- chloride symporter)reabsorption (5%, principal cells),stimulated byaldosterone via ENaCChlorideUsually follows sodium. Active (transcellular) and passive (paracellular)reabsorptionreabsorption (thin ascending, thick ascending,Na-K-2C1symporter)reabsorption(sodium-chloridesymporter) WaterUses aquaporin water channels. See also diuretic.absorbed osmotically along w'ith solutesreabsorption(descending) reabsorption (regulated by ADH, via arginine vasopressin receptor 2)BicarbonateHelps maintain acid- base balance.Reabsorption (80-90%)reabsorption(thickascending) reabsorption (intercalated cells, via band 3 and pendrin)ProtonsUses vacuolar H+ATPase secretion(intercalatedcells)PotassiumVaries upon dietary needs.Reabsorption (65%)reabsorption (20%, thick ascending, Na-K-2C1 symporter) secretion (common, via Na+/K+- ATPase, increased by aldosterone), or reabsorption (rare, hydrogen potassium ATPase)CalciumUses calcium ATPase,sodium-calciumexchangerreabsorptionreabsorption (thick ascending) via passive transport MagnesiumCalcium and magnesium compete, and an excess of one can lead to excretion of the other.reabsorptionreabsorption(thickascending)reabsorption PhosphateExcreted as titratable acid.Reabsorption (85%) via sodium/phosphate cotransporter. Inhibited by parathyroid hormone. Carboxylate Reabsorption (100%) via carboxylate transporters."
+    "cop": 1,
+    "exp": "ANSWER: (B) Ascending limbREF: Goodman Gillman pharmacology 11th ed page 482See APPENDIX-14 below for \"RENAL PHYSIOLOGY\"Loop diuretics inhibit the activity of the Na+-- K+--2C1- symporter in the TAL (thick ascending limb) of the loop of Henle, hence, their designation as loop diuretics.DIURETICSITE OF ACTIONMECHANISM OF ACTIONCarbonic anhy- drase inhibitorsProximal convovulted tubules* Inhibit both the membrane-bound and cytoplasmic forms of carbonic anhy- draseLoop diureticsAscending limb of loop of henle* Na-K-2C1 Transporter inhibitor* Weak carbonic anhydrase inhibitor* Redistribution of renal blood flowEthacrinic acidAscending limb of loop of henle* Na-K-2C1 Transporter inhibitorThiazideEarly distal tubule* Na-Ci symporter inhibitorSpirinolactoneInterstitial side of distal tubule or collecting duct* Binds to intracellular mineralocorticoid receptorTriamterene and amiliorideLuminal side of distal tubule or collecting duct* Blocks luminal Na channels APPENDIX - 14 Renal Physiology:SubstanceDescriptionProximal TubuleLoop of HenleDistal TubuleCollectingDuctGlucoseIf glucose is not reabsorbed by the kidney, it appears in the urine, in a condition known as glucosuria. This is associated with diabetes mellitus.Reabsorption (almost 100%) via sodium- glucose transport proteins (apical) and GLUT (basolateral). Oligopeptides, proteins, and amino acidsAll are reabsorbed nearly completely.reabsorption UreaRegulation of osmolality. Varies with ADHreabsorption (50%) via passive transportsecretion reabsorption in medullary collecting ductsSodiumUses Na-H antiport, Na-glucose symport. sodium ion channels {minor}reabsorption (65%, isosmotic)reabsorption (25%o, thick ascending, Na-K-2C1 symporter)reabsorption (5%, sodium- chloride symporter)reabsorption (5%, principal cells),stimulated byaldosterone via ENaCChlorideUsually follows sodium. Active (transcellular) and passive (paracellular)reabsorptionreabsorption (thin ascending, thick ascending,Na-K-2C1symporter)reabsorption(sodium-chloridesymporter) WaterUses aquaporin water channels. See also diuretic.absorbed osmotically along w'ith solutesreabsorption(descending) reabsorption (regulated by ADH, via arginine vasopressin receptor 2)BicarbonateHelps maintain acid- base balance.Reabsorption (80-90%)reabsorption(thickascending) reabsorption (intercalated cells, via band 3 and pendrin)ProtonsUses vacuolar H+ATPase secretion(intercalatedcells)PotassiumVaries upon dietary needs.Reabsorption (65%)reabsorption (20%, thick ascending, Na-K-2C1 symporter) secretion (common, via Na+/K+- ATPase, increased by aldosterone), or reabsorption (rare, hydrogen potassium ATPase)CalciumUses calcium ATPase,sodium-calciumexchangerreabsorptionreabsorption (thick ascending) via passive transport MagnesiumCalcium and magnesium compete, and an excess of one can lead to excretion of the other.reabsorptionreabsorption(thickascending)reabsorption PhosphateExcreted as titratable acid.Reabsorption (85%) via sodium/phosphate cotransporter. Inhibited by parathyroid hormone. Carboxylate Reabsorption (100%) via carboxylate transporters.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Loop diuretics acts\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "87dac018-196c-4b11-88fe-e9059f1a2f52": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"following type fracture\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "7aeabe17-322a-4915-91ba-e1808e652f14": {
-    "cop": 4,
-    "exp": "Clinical features comprise those due to cholestasis itself, those due to secondary infection (cholangitis) and those of the underlying condition. Obstruction of the bile duct drainage due to blockage of the extrahepatic biliary tree is characteristically associated with pale stools and dark urine.  \n \nPruritus may be a dominant feature and can be accompanied by skin excoriations. Peripheral stigmata of chronic liver disease are absent. If the gallbladder is palpable, the jaundice is unlikely to be caused by biliary obstruction due to gallstones, probably because a chronically inflamed, stone-containing gallbladder cannot readily dilate. This is Courvoisier’s Law, and suggests that jaundice is due to a malignant biliary obstruction (e.g. pancreatic cancer). Cholangitis is characterised by ‘Charcot’s triad’ of jaundice, right upper quadrant pain and fever. Cholestatic jaundice is characterised by a relatively greater elevation of ALP and GGT than the aminotransferases.  \n \nKey Concept:\nCholestatic jaundice is associated with predominantly conjugated hyperbilirubinemia. There is minimal biochemical changes in parenchymal liver damage."
+    "cop": 3,
+    "exp": "Clinical features comprise those due to cholestasis itself, those due to secondary infection (cholangitis) and those of the underlying condition. Obstruction of the bile duct drainage due to blockage of the extrahepatic biliary tree is characteristically associated with pale stools and dark urine.  \n \nPruritus may be a dominant feature and can be accompanied by skin excoriations. Peripheral stigmata of chronic liver disease are absent. If the gallbladder is palpable, the jaundice is unlikely to be caused by biliary obstruction due to gallstones, probably because a chronically inflamed, stone-containing gallbladder cannot readily dilate. This is Courvoisier’s Law, and suggests that jaundice is due to a malignant biliary obstruction (e.g. pancreatic cancer). Cholangitis is characterised by ‘Charcot’s triad’ of jaundice, right upper quadrant pain and fever. Cholestatic jaundice is characterised by a relatively greater elevation of ALP and GGT than the aminotransferases.  \n \nKey Concept:\nCholestatic jaundice is associated with predominantly conjugated hyperbilirubinemia. There is minimal biochemical changes in parenchymal liver damage.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Cholestatic jaundice associated with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b8ce7bff-177c-4154-99f3-190ff3052efa": {
-    "cop": 1,
-    "exp": "Ans. Sunflower cataract"
+    "cop": 0,
+    "exp": "Ans. Sunflower cataract",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"type cataract seen Wilson\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "f1341226-8a04-4ad6-ae2c-7519a13eea84": {
-    "cop": 4,
-    "exp": "Methyldopa is a centrally acting sympathetic drug. They stimulate vasomotor Centre and decreases blood pressure. They do not have a teratogenic effect. Hydralazine and magnesium are also safe for HTN and eclampsia during pregnancy (REF. Essential of medical pharmacology KD TRIPATHI 8th Edition)"
+    "cop": 3,
+    "exp": "Methyldopa is a centrally acting sympathetic drug. They stimulate vasomotor Centre and decreases blood pressure. They do not have a teratogenic effect. Hydralazine and magnesium are also safe for HTN and eclampsia during pregnancy (REF. Essential of medical pharmacology KD TRIPATHI 8th Edition)",
+    "hint_exp": "🎯 Think of \"Drug choice pregnancy induced\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "33fdd88a-be5d-4b5b-98e5-9d83a3102f53": {
-    "cop": 2,
-    "exp": "Clostridia are Gram positive, obligate anaerobes , spore forming (bulging) bacilli. All are motile by peritrichous flagellae except Cl.perfringens and Cl.tetani type VI. Motility - 'stately' They are noncapsulated except C. perfringens and C. butyricum."
+    "cop": 1,
+    "exp": "Clostridia are Gram positive, obligate anaerobes , spore forming (bulging) bacilli. All are motile by peritrichous flagellae except Cl.perfringens and Cl.tetani type VI. Motility - 'stately' They are noncapsulated except C. perfringens and C. butyricum.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2042a6e8-0d64-4310-b239-774717998fe6": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"the following may\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "69d94491-ff7d-47ff-b9b3-ca81972c6dfb": {
-    "cop": 3,
-    "exp": "Voiding cystourethrography is the best method to visualize posterior urethra.\nRemember,\nUrethra can be imaged radiographically in two ways. \n\nAnterograde techniques → Best for visualization of posterior urethra.\n\n(This is done along with voiding cystourethrography or with voiding following excretory urography)\n\nRetrograde technique → Best for examining the anterior (penile) urethra \n\n​(Contrast is injected through tip of urethra)."
+    "cop": 2,
+    "exp": "Voiding cystourethrography is the best method to visualize posterior urethra.\nRemember,\nUrethra can be imaged radiographically in two ways. \n\nAnterograde techniques → Best for visualization of posterior urethra.\n\n(This is done along with voiding cystourethrography or with voiding following excretory urography)\n\nRetrograde technique → Best for examining the anterior (penile) urethra \n\n​(Contrast is injected through tip of urethra).",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"posterior urethra best visualized\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b905b127-f27a-40f1-bce9-02d0248f30c2": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"What gitter cells\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "da3716b6-019d-4d4d-8af1-22b586ce11e0": {
-    "cop": 1,
-    "exp": "Two strategies are used to reduce selection bias: allocation concealment and randomization. The ideal strategy to eliminate selection bias is randomization."
+    "cop": 0,
+    "exp": "Two strategies are used to reduce selection bias: allocation concealment and randomization. The ideal strategy to eliminate selection bias is randomization.",
+    "hint_exp": "🎯 Think of \"the following procedures\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "49d48c5f-d8e4-4f4e-bbb3-1e8aaf1f4910": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Haemophilus influenza o Acute bacterial rhinitis is most commonly seen among children, but adult may develop the condition after nasal trauma, viral upper respiratory tract infection, or surgery,o The clinical presentation of acute bacterial rhinitis may be identical to that of common cold,o Most common causative organisms include S. pneumoniae, H. influenzae and Moraxella Catarrhalis.o Note: Overall, most common cause of infective rhinitis is viral infection (viral rhinitis)."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Haemophilus influenza o Acute bacterial rhinitis is most commonly seen among children, but adult may develop the condition after nasal trauma, viral upper respiratory tract infection, or surgery,o The clinical presentation of acute bacterial rhinitis may be identical to that of common cold,o Most common causative organisms include S. pneumoniae, H. influenzae and Moraxella Catarrhalis.o Note: Overall, most common cause of infective rhinitis is viral infection (viral rhinitis).",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"most common bacterial\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e72e93eb-2087-4240-9ae4-1fdec6788ced": {
-    "cop": 4,
-    "exp": "3 histological types of Bladder cancer are seen transitional cell ca -90% squamous cell ca -5~10% adenocarcinoma - 2%"
+    "cop": 3,
+    "exp": "3 histological types of Bladder cancer are seen transitional cell ca -90% squamous cell ca -5~10% adenocarcinoma - 2%",
+    "hint_exp": "🧩 Your crush solved \"urinary bladder\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "35063c4b-1cd6-4cba-b6a8-639b8ca1f050": {
-    "cop": 2,
-    "exp": "Judgment refers to the person's capacity to make good decisions and act on them. Other question for test judgement includes \"what will he do if he sees a stamped envelope on a sidewalk?\" Reference: Kaplan & Sadock's Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry, 11th Edition, page 203."
+    "cop": 1,
+    "exp": "Judgment refers to the person's capacity to make good decisions and act on them. Other question for test judgement includes \"what will he do if he sees a stamped envelope on a sidewalk?\" Reference: Kaplan & Sadock's Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry, 11th Edition, page 203.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"being tested in that person\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "c8095764-57d1-42ee-b747-a626978a633e": {
-    "cop": 1,
-    "exp": "Prevention of perinatal TB If the mother has active disease, ATT should be staed for motherNeonate should be given INH prophylaxis till mother is sputum negative or at least 6 monthsRoutine BCG vaccinationSeparation of mother and neonate is not required and breastfeeding should be continued.(Refer: Nelson's Textbook of Pediatrics, SAE, 1st edition, pg no. 1454)"
+    "cop": 0,
+    "exp": "Prevention of perinatal TB If the mother has active disease, ATT should be staed for motherNeonate should be given INH prophylaxis till mother is sputum negative or at least 6 monthsRoutine BCG vaccinationSeparation of mother and neonate is not required and breastfeeding should be continued.(Refer: Nelson's Textbook of Pediatrics, SAE, 1st edition, pg no. 1454)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"infant\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "af9e25aa-ea82-4cc1-af53-92044b10af70": {
-    "cop": 4,
-    "exp": "D i.e. Purkinje system"
+    "cop": 3,
+    "exp": "D i.e. Purkinje system",
+    "hint_exp": "🎯 Think of \"Highest conduction rate observed\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "66826173-202a-4317-bb0c-764871bf8617": {
-    "cop": 4,
-    "exp": "Severe combined immunodeficiency disease(SCID) Characterized by failure to thrive and increased susceptibility to bacterial, fungal, and viral infections. Laboratory studies reveal decreased numbers of both B cells and T cells and deficiency of immunoglobulins. The treatment of choice is bone marrow (or other sources of hematopoietic stem cells) transplantation and is based on maturation of donor lymphoid progenitor cells"
+    "cop": 3,
+    "exp": "Severe combined immunodeficiency disease(SCID) Characterized by failure to thrive and increased susceptibility to bacterial, fungal, and viral infections. Laboratory studies reveal decreased numbers of both B cells and T cells and deficiency of immunoglobulins. The treatment of choice is bone marrow (or other sources of hematopoietic stem cells) transplantation and is based on maturation of donor lymphoid progenitor cells",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"of the clinical improvement\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "c880e919-3605-4405-88d9-56b16ee1eedd": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Cells which are not able to expres MHC I Null cells (Large granular lymphocytes) o Null cells are called so because they lack features of surface markers of both B and T lymphocytes. o The account for 5 to 10% of peripheral blood lymphocytes. o They are also called \"large granular lymphocytes (LGL)\" as they contain large azurophilic cytoplasmic granules. o They express Surface receptors for the Fe poion of IgG (CD-16) NCAM-I (CD56) o They proliferate in response to IL-2 o Many LGL express some lineage marker paicularly CD-8, CD-2. o LGLs arise in both bone marrow and thymic microenvironment. o Members of this group are : I. Antibody dependent cytotoxic cells (ADCC) o ADCC possess surface receptors for the Fc pa of Ig. o Capable of lysing or killing target cells sensitized with IgG. 2. Natural killer cells (NK Cells) Possess spontaneous cytotoxicity towards various target cells : - (i) Virus infected cells (ii) Malignant cells (iii) Transplanted foreign cells Cytotoxicity is not antibody dependent or MHC restricted o Activity is nonimmune as it does not require sensitization by prior antigenic contact. They have CD-56 and CD-16 on their surface o 1L-2 acts as a growth factor o Natural killer cell activity is augmented by interferon. o They release perforin which causes transmembrane pores through which TNF-I3 enters the cell and induce apoptosis. o NK cells are activated to LAK cells in the presence of IL-2 o Usually CD-3 negative but subset of NK cells are CD-3 positive called NK/T cells. o NK cells secrete TNF-a, GMCSF, perforin, IL-4. o NK cells do not kill normal cells. Why is it so? lets see : ? The NK cells express activating and inhibiting receptors. The functional activity of the NK cells is regulated by a balance between signal from these receptors. MHC class I molecules has inhibiting signal on NK cells and normal cell are not killed because inhibiting signals from normal MHC class I molecules overside activating signals. The ability of NK cells to kill target cells is inversly related to target cell expression of MHC class I molecule. If virus infection or neoplastic transformation reduces the expression of MHC I, inhibitory signals are interrupted and lysis of target cells occur. 3. Lymphokine activated killer (LAK) cells o These are NK - cells treated with IL-2 o Kill tumor cells more efficiently than unstimulated NK cents."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Cells which are not able to expres MHC I Null cells (Large granular lymphocytes) o Null cells are called so because they lack features of surface markers of both B and T lymphocytes. o The account for 5 to 10% of peripheral blood lymphocytes. o They are also called \"large granular lymphocytes (LGL)\" as they contain large azurophilic cytoplasmic granules. o They express Surface receptors for the Fe poion of IgG (CD-16) NCAM-I (CD56) o They proliferate in response to IL-2 o Many LGL express some lineage marker paicularly CD-8, CD-2. o LGLs arise in both bone marrow and thymic microenvironment. o Members of this group are : I. Antibody dependent cytotoxic cells (ADCC) o ADCC possess surface receptors for the Fc pa of Ig. o Capable of lysing or killing target cells sensitized with IgG. 2. Natural killer cells (NK Cells) Possess spontaneous cytotoxicity towards various target cells : - (i) Virus infected cells (ii) Malignant cells (iii) Transplanted foreign cells Cytotoxicity is not antibody dependent or MHC restricted o Activity is nonimmune as it does not require sensitization by prior antigenic contact. They have CD-56 and CD-16 on their surface o 1L-2 acts as a growth factor o Natural killer cell activity is augmented by interferon. o They release perforin which causes transmembrane pores through which TNF-I3 enters the cell and induce apoptosis. o NK cells are activated to LAK cells in the presence of IL-2 o Usually CD-3 negative but subset of NK cells are CD-3 positive called NK/T cells. o NK cells secrete TNF-a, GMCSF, perforin, IL-4. o NK cells do not kill normal cells. Why is it so? lets see : ? The NK cells express activating and inhibiting receptors. The functional activity of the NK cells is regulated by a balance between signal from these receptors. MHC class I molecules has inhibiting signal on NK cells and normal cell are not killed because inhibiting signals from normal MHC class I molecules overside activating signals. The ability of NK cells to kill target cells is inversly related to target cell expression of MHC class I molecule. If virus infection or neoplastic transformation reduces the expression of MHC I, inhibitory signals are interrupted and lysis of target cells occur. 3. Lymphokine activated killer (LAK) cells o These are NK - cells treated with IL-2 o Kill tumor cells more efficiently than unstimulated NK cents.",
+    "hint_exp": "🧩 Your crush solved \"Natural killer cells attacks\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "beabbb09-7044-4d6e-9d78-2d1027f10fb4": {
-    "cop": 2,
-    "exp": "An unexposed film, when processed, shows some density. This appearance is caused by the inherent density of the base and added tint and the development of a few unexposed silver halide crystals. This minimal density is called base plus fog and typically is 0.2 to 0.3. Radiographic density is influenced by exposure and the thickness and density of the subject.\nImage receptors in Oral and Maxillofacial Radiology, pg -16, White and Pharoah, 7th ed, pg- 75"
+    "cop": 1,
+    "exp": "An unexposed film, when processed, shows some density. This appearance is caused by the inherent density of the base and added tint and the development of a few unexposed silver halide crystals. This minimal density is called base plus fog and typically is 0.2 to 0.3. Radiographic density is influenced by exposure and the thickness and density of the subject.\nImage receptors in Oral and Maxillofacial Radiology, pg -16, White and Pharoah, 7th ed, pg- 75",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"gross fog typically\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a5853ff4-faca-4c27-a0ce-384c5f5cb20f": {
-    "cop": 1,
-    "exp": "OSTEOCLASTOMA (GIANT CELL TUMOUR) Giant cell tumour (GCT) is a common bone tumour with variable growth potential. Though generally classified as benign*, it tends to recur after local removal. The tumour is seen commonly in the age group of 20-40 years i.e., after epiphyseal fusion. The bones affected commonly are those around the knee i.e., lower-end of the femur and upper-end of the tibia. Lower-end of the radius is another common site. The tumour is located at the epiphysis**. It often reaches almost up to the joint surface. Common presenting complaints are swelling and vague pain Reference: Maheshwari; Essential Ohopaedics; Page no: 237"
+    "cop": 0,
+    "exp": "OSTEOCLASTOMA (GIANT CELL TUMOUR) Giant cell tumour (GCT) is a common bone tumour with variable growth potential. Though generally classified as benign*, it tends to recur after local removal. The tumour is seen commonly in the age group of 20-40 years i.e., after epiphyseal fusion. The bones affected commonly are those around the knee i.e., lower-end of the femur and upper-end of the tibia. Lower-end of the radius is another common site. The tumour is located at the epiphysis**. It often reaches almost up to the joint surface. Common presenting complaints are swelling and vague pain Reference: Maheshwari; Essential Ohopaedics; Page no: 237",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"bone\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a52eeaa1-9ef4-43af-abed-aa071d9b2017": {
-    "cop": 4,
-    "exp": "Ans. is 'd' i.e., IV CLINICAL TRAILSo Before a new drug comes to the market, it is extensively tested in animals and invitro studies for safety and efficacy. It the drug is found to be promising in these studies, an application called USD (Investigational New Drug) is filed with United States food and drug administration (FDA), which is main regulatory authority. If the permission is granted, then drug is tested in humans. This testing is called clinical trial. These are divided into four phases.Phase 1 or Human Pharmacology and safetyo The drug is tested in normal human volunteers,o As the drug is not tested in the patients, efficacy can not be determined.o This is mainly for toxicity (safety) and pharmacokinetic studies.o This is first in human study.o Number of subjects -20-40Phase 2 or Therapeutic exploration and dose rangingo This is first in patient studyo Both efficacy and safety can be determined.o This phase is tested in small number of patients :early phase - 20 - 200 patients (single blind)late phase -50 - 300 patients (double blind)o This may be blinded or open label study.Phase 3 or therapeutic confirmationo The drug is tested in large number of patient (500-300) at several centers to include patient with different genetic make up.o This is done to generalize the results of the study to variable genetic and ethnic group,o It is designed to minimise error in information gathered in phase 1 and 2.o Generally this are randomized doubled blind trials,o Both efficacy and safety are determined.o If the drug is found to be safe and effective in these trials, then another application is filed with FDA (New Drug Application or DNA) to market the drug,o If approval is granted, the drug is marketed.Phase 4 (Post - licensing phase field trial)o This is post marketing surveillance of a drug to know the rare adverse effects or those occuring with prolonged use of the drug,o Ethical clearance is not required.o Uncommon/ldiosyncrotic adverse effects, or those that occur only after long term use and unsuspected drug interactions are detected at this stage.o Further therapeutic trials involving special groups like children, elderly, pregnantdactating women, patients with renal/hepatic disease, etc. (which are generally excluded during clinical trials) may be undertaken at this stage."
+    "cop": 3,
+    "exp": "Ans. is 'd' i.e., IV CLINICAL TRAILSo Before a new drug comes to the market, it is extensively tested in animals and invitro studies for safety and efficacy. It the drug is found to be promising in these studies, an application called USD (Investigational New Drug) is filed with United States food and drug administration (FDA), which is main regulatory authority. If the permission is granted, then drug is tested in humans. This testing is called clinical trial. These are divided into four phases.Phase 1 or Human Pharmacology and safetyo The drug is tested in normal human volunteers,o As the drug is not tested in the patients, efficacy can not be determined.o This is mainly for toxicity (safety) and pharmacokinetic studies.o This is first in human study.o Number of subjects -20-40Phase 2 or Therapeutic exploration and dose rangingo This is first in patient studyo Both efficacy and safety can be determined.o This phase is tested in small number of patients :early phase - 20 - 200 patients (single blind)late phase -50 - 300 patients (double blind)o This may be blinded or open label study.Phase 3 or therapeutic confirmationo The drug is tested in large number of patient (500-300) at several centers to include patient with different genetic make up.o This is done to generalize the results of the study to variable genetic and ethnic group,o It is designed to minimise error in information gathered in phase 1 and 2.o Generally this are randomized doubled blind trials,o Both efficacy and safety are determined.o If the drug is found to be safe and effective in these trials, then another application is filed with FDA (New Drug Application or DNA) to market the drug,o If approval is granted, the drug is marketed.Phase 4 (Post - licensing phase field trial)o This is post marketing surveillance of a drug to know the rare adverse effects or those occuring with prolonged use of the drug,o Ethical clearance is not required.o Uncommon/ldiosyncrotic adverse effects, or those that occur only after long term use and unsuspected drug interactions are detected at this stage.o Further therapeutic trials involving special groups like children, elderly, pregnantdactating women, patients with renal/hepatic disease, etc. (which are generally excluded during clinical trials) may be undertaken at this stage.",
+    "hint_exp": "🎯 Think of \"Post marketing surveillance included\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "19805d41-898f-4939-af90-143920fe3723": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"ringer lactate\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "5887ec6a-60ee-4f25-8deb-08e9e81a6e1e": {
-    "cop": 4,
-    "exp": "Ref: HL Sharma 3rd ed pg no:173 dopamine acts on D1, D2, Beta1, alpha1 alpha action is seen at high doses. It doesn't act on beta 2 or beta 3 receptors"
+    "cop": 3,
+    "exp": "Ref: HL Sharma 3rd ed pg no:173 dopamine acts on D1, D2, Beta1, alpha1 alpha action is seen at high doses. It doesn't act on beta 2 or beta 3 receptors",
+    "hint_exp": "🧩 Your crush solved \"the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "35672da8-f669-45db-98cb-ce2bbec59f59": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Phosphorous emits\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "d2879d7c-968d-4f4a-8719-28ad1d4592ab": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Velopharyngeal insufficiency o Velopharyngeal insufficiency may occur after adenoidectomyo This causes hypernasality of voice.o It is due to incomplete closure of nasopharynx - abnormal physiological separation of oropharynx from nasopharynx"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Velopharyngeal insufficiency o Velopharyngeal insufficiency may occur after adenoidectomyo This causes hypernasality of voice.o It is due to incomplete closure of nasopharynx - abnormal physiological separation of oropharynx from nasopharynx",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Speech problem after adenoidectomy\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "10068978-aedc-42b7-b6a1-038d525d53ed": {
-    "cop": 2,
-    "exp": "In SDS-PAGE the separation of molecules depends mainly on their molecular size.\nTherefore, SDS-PAGE is commonly used for molecular weight determination."
+    "cop": 1,
+    "exp": "In SDS-PAGE the separation of molecules depends mainly on their molecular size.\nTherefore, SDS-PAGE is commonly used for molecular weight determination.",
+    "hint_exp": "🎯 Think of \"PAGE Sodium Dodecyl Sulfate\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1b57f3a4-bde6-4f6e-8a92-ffd1c3e9af03": {
-    "cop": 2,
-    "exp": "The visceral surface of the spleen is related to the fundus of the stomach, the anterior surface of the left kidney, the splenic flexure of the colon and the tail of the pancreas"
+    "cop": 1,
+    "exp": "The visceral surface of the spleen is related to the fundus of the stomach, the anterior surface of the left kidney, the splenic flexure of the colon and the tail of the pancreas",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"following forms visceral relations\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4535faab-119b-43a2-84a1-f9b429d50526": {
-    "cop": 4,
-    "exp": "Aqueous drainage does not occur through sclera. Aqueous drainage occurs following routes: Trabecular meshwork (90 %): Aqueous flows through trabeculum into Schlemn canal & then episcleral veins. Uveoscleral outflow (10 %). Iris - Minor. - Normal out flow facility of aqueous 'C' = 0.22 uL/min/mm of Hg(0.22-0.28 uL/min/mmHg.) - Drainage depends on IOP. EXTRA EDGE: - Aqueous humor is produced by Non-pigmented epithelium of Pars plicata at rate of 2.5 uL/min - Its production slows down during sleeping & increases in early morning."
+    "cop": 3,
+    "exp": "Aqueous drainage does not occur through sclera. Aqueous drainage occurs following routes: Trabecular meshwork (90 %): Aqueous flows through trabeculum into Schlemn canal & then episcleral veins. Uveoscleral outflow (10 %). Iris - Minor. - Normal out flow facility of aqueous 'C' = 0.22 uL/min/mm of Hg(0.22-0.28 uL/min/mmHg.) - Drainage depends on IOP. EXTRA EDGE: - Aqueous humor is produced by Non-pigmented epithelium of Pars plicata at rate of 2.5 uL/min - Its production slows down during sleeping & increases in early morning.",
+    "hint_exp": "🧩 Your crush solved \"Aqueous drains through following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d260f14f-43de-45fe-bfa7-b7df5751a865": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Pectoralis minor"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Pectoralis minor",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Which following muscle action\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a18bda22-7600-44ca-9f2c-ef994bb08d26": {
-    "cop": 1,
-    "exp": "Ref: Robbin's Pathology, 9th ed. pg. 598-99* The over production of light chains of IgG is the most common abnormality in multiple myeloma. In Waldenstrom cryoglobulinemia, IgM is overproduced.* Most common presentation of multiple myeloma is anemia >bone pain.* Least common presentation of multiple myeloma is hyperviscosity* Investigation of choice for multiple myeloma is bone marrow biopsy* Screening test for multiple myeloma is serum electrophoresis showing M spike* Most common cause of death in multiple myeloma is infections* Most common cause of kidney damage in multiple myeloma is hypercalcemia."
+    "cop": 0,
+    "exp": "Ref: Robbin's Pathology, 9th ed. pg. 598-99* The over production of light chains of IgG is the most common abnormality in multiple myeloma. In Waldenstrom cryoglobulinemia, IgM is overproduced.* Most common presentation of multiple myeloma is anemia >bone pain.* Least common presentation of multiple myeloma is hyperviscosity* Investigation of choice for multiple myeloma is bone marrow biopsy* Screening test for multiple myeloma is serum electrophoresis showing M spike* Most common cause of death in multiple myeloma is infections* Most common cause of kidney damage in multiple myeloma is hypercalcemia.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"multiple myeloma\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "05c5220a-ea70-49ec-b300-6ba4299a8255": {
-    "cop": 1,
-    "exp": "Boggy swelling with easily pluckable hair suggests the diagnosis of keroin type of Tinea capitis."
+    "cop": 0,
+    "exp": "Boggy swelling with easily pluckable hair suggests the diagnosis of keroin type of Tinea capitis.",
+    "hint_exp": "🎯 Think of \"year presents with boggy\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "453a79c1-7d12-430b-80c1-8df7904adfb4": {
-    "cop": 4,
-    "exp": "D i.e. Pseudostratified"
+    "cop": 3,
+    "exp": "D i.e. Pseudostratified",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Olfactory epithelium\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "11400922-5174-402a-a2f8-c62779be56da": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"this patient\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9af7d880-6295-4064-a273-742adf2cf594": {
-    "cop": 3,
-    "exp": "C. i.e X- linked icthyosis nigra Icthyosis nigra is X-linked recessive disease affecting only males and presenting with large, adherent, generalized, brown to black scales encroaching flexures along with cryptorchidismQ. Skin biopsy shows hyperkeratosis with hyper granulosis and steroid sulfatase deficiencyQ."
+    "cop": 2,
+    "exp": "C. i.e X- linked icthyosis nigra Icthyosis nigra is X-linked recessive disease affecting only males and presenting with large, adherent, generalized, brown to black scales encroaching flexures along with cryptorchidismQ. Skin biopsy shows hyperkeratosis with hyper granulosis and steroid sulfatase deficiencyQ.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"male child with cryptorchidism\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "fd4fb030-2aeb-4658-99fa-4e8debb1246a": {
-    "cop": 4,
-    "exp": "Ans. (d) Vibrio cholera.* The following picture shows presence of Vibrio cholera in gram Stain. Notice that the Long arrow points to a curved gram-negative rod. Arrowhead points to a flagellum at one end of a curved gram-negative rod.Image source- style=\"font-family: Times New Roman, Times, serif\">"
+    "cop": 3,
+    "exp": "Ans. (d) Vibrio cholera.* The following picture shows presence of Vibrio cholera in gram Stain. Notice that the Long arrow points to a curved gram-negative rod. Arrowhead points to a flagellum at one end of a curved gram-negative rod.Image source- style=\"font-family: Times New Roman, Times, serif\">",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"shows which bacteria\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "2d929b70-cf9a-40f4-945a-4ee7323a74c2": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Sodium valproate o Most of the anticonvulsants are enzyme inducers except valproate which is an inhibitor. Note : Valprate is an enzyme inhibitor overall but it induces metabolism of carbamazepine: \"Valproate and carbamazepine induce each other;s metabolism\""
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Sodium valproate o Most of the anticonvulsants are enzyme inducers except valproate which is an inhibitor. Note : Valprate is an enzyme inhibitor overall but it induces metabolism of carbamazepine: \"Valproate and carbamazepine induce each other;s metabolism\"",
+    "hint_exp": "🎯 Think of \"antiepileptic drug which does\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "09cd14b2-8077-494c-ab3f-d03b8b758d2d": {
-    "cop": 4,
-    "exp": "3% normal saline REF: Fluids & electrolytes by By Lippincott Williams & Wilkins page 264 Isotonic Hypeonic Hypotonic Dextrose 5% in water 5% dextrose in half normal saline 0.45% normal saline 0.9% normal saline (NaC1) 5% dextrose in normal saline Ringer lactate Dextrose 10% in water"
+    "cop": 3,
+    "exp": "3% normal saline REF: Fluids & electrolytes by By Lippincott Williams & Wilkins page 264 Isotonic Hypeonic Hypotonic Dextrose 5% in water 5% dextrose in half normal saline 0.45% normal saline 0.9% normal saline (NaC1) 5% dextrose in normal saline Ringer lactate Dextrose 10% in water",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4afa320e-f945-4ea1-8701-79474839995f": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"seen in which of the following\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

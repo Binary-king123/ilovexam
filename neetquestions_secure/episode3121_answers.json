@@ -1,202 +1,252 @@
 {
   "4d8a8eba-8ddc-4adf-9546-56ae2ad89ae4": {
-    "cop": 2,
-    "exp": "."
+    "cop": 1,
+    "exp": ".",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"myasthenia gravis\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "9d0842b2-c2a6-418a-94ad-776a34b8d641": {
-    "cop": 1,
-    "exp": "It is an acute inflammatory condition confined to supraglottic structures i.e, epiglottis, aryepiglottic folds and arytenoids. There is marked oedema of these structures which may obstruct the airway. Aetiology It is a serious condition and affects children of 2-7 years of age but can also affect adults. Haemophilus influenzae B is the most common organism responsible for this condition in children. (Ref: Textbook of diseases of ENT, PL Dhingra, 7th edition, pg no. 327)"
+    "cop": 0,
+    "exp": "It is an acute inflammatory condition confined to supraglottic structures i.e, epiglottis, aryepiglottic folds and arytenoids. There is marked oedema of these structures which may obstruct the airway. Aetiology It is a serious condition and affects children of 2-7 years of age but can also affect adults. Haemophilus influenzae B is the most common organism responsible for this condition in children. (Ref: Textbook of diseases of ENT, PL Dhingra, 7th edition, pg no. 327)",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"of acute epiglottitis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3e102cdb-6579-4949-bd20-0cc3b300d4e7": {
-    "cop": 4,
-    "exp": "Incised like or incised looking laceration: blunt force on areas where the skin is close to bone, and the subcutaneous tissues are scanty, may produce a wound which by linear splitting of the tissue, may look like incised wound.\nEg: shin, scalp, eyebrows, cheek (zygomatic bone), lower jaw, iliac crest, knee & perineum."
+    "cop": 3,
+    "exp": "Incised like or incised looking laceration: blunt force on areas where the skin is close to bone, and the subcutaneous tissues are scanty, may produce a wound which by linear splitting of the tissue, may look like incised wound.\nEg: shin, scalp, eyebrows, cheek (zygomatic bone), lower jaw, iliac crest, knee & perineum.",
+    "hint_exp": "🎯 Think of \"incised looking laceration seen\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "72328133-cc10-4163-8b0a-3ec360e2a231": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"amalgam restoration\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "22c195f0-dc16-47f0-be1b-4a79a657bb9a": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Autosomal recessive Wilson's disease is an autosomal recessive disorder. Note Most of the metabolic disorders are autosomal recessive except :? Hunter syndrome, Fabry's disease, ocular,albinism, Lesch Nyhan syndrome X-linked recessive. Familial hypercholesterolemia, acute intermittent porphyria --> Autosomal dominant"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Autosomal recessive Wilson's disease is an autosomal recessive disorder. Note Most of the metabolic disorders are autosomal recessive except :? Hunter syndrome, Fabry's disease, ocular,albinism, Lesch Nyhan syndrome X-linked recessive. Familial hypercholesterolemia, acute intermittent porphyria --> Autosomal dominant",
+    "hint_exp": "🧩 Your crush solved \"Type inheritance Wilson disease\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e5022430-072e-4642-bb39-c756998637bc": {
-    "cop": 4,
-    "exp": "Since chemotherapy is generally most effective in killing rapidly dividing cells, the rapidly dividing cells of a fresh surgical wound should be in jeopardy when chemotherapy is given in the early postoperative period. Each of the phases of normal wound healing is theoretically at risk from one or another class of chemotherapeutic agents. Immediately following wounding, inflammation and vascular permeability lead to fibrin deposition and polymorphonuclear neutrophil (PMN), monocyte, and platelet influx. Macrophages are attracted by the activated complement system. By the fourth day the proliferative phase begins, and for the next 20 days fibroblasts produce mucopolysaccharides and collagen. Cross-linking of the collagen fibers then continues for several months in the maturation phase. It seems logical to delay antineoplastic agents for 10-14 days unless there are compelling clinical indications (e.g., superior vena cava syndrome) for more urgent treatment. Administration of folinic acid simultaneously with methotrexate normalizes wound healing. Extravasation of chemotherapeutic agents during intravenous administration may result in severe ulceration and sloughing. The nature of the injury is largely related to the nucleic-acid binding characteristics of the agent. Those agents that do not bind to tissue nucleic acid (vincristine, vinblastine, nitrogen mustard, BCNU, 5-FU) generally cause only local damage from the immediate injury. These substances are quickly metabolized or inactivated, and usual patterns of wound healing can be expected. On the other hand, agents that bind the nucleic acid (doxorubicin, dactinomycin, mitomycin C, mithramycin, and daunorubicin) cause not only immediate toxic reaction in the tissues but, unless excised, continuing and progressive tissue damage. Though some authors have reported success with elevation and ice packs, most recommend surgical excision if there is severe pain, any sign of early necrosis, or significant blistering."
+    "cop": 3,
+    "exp": "Since chemotherapy is generally most effective in killing rapidly dividing cells, the rapidly dividing cells of a fresh surgical wound should be in jeopardy when chemotherapy is given in the early postoperative period. Each of the phases of normal wound healing is theoretically at risk from one or another class of chemotherapeutic agents. Immediately following wounding, inflammation and vascular permeability lead to fibrin deposition and polymorphonuclear neutrophil (PMN), monocyte, and platelet influx. Macrophages are attracted by the activated complement system. By the fourth day the proliferative phase begins, and for the next 20 days fibroblasts produce mucopolysaccharides and collagen. Cross-linking of the collagen fibers then continues for several months in the maturation phase. It seems logical to delay antineoplastic agents for 10-14 days unless there are compelling clinical indications (e.g., superior vena cava syndrome) for more urgent treatment. Administration of folinic acid simultaneously with methotrexate normalizes wound healing. Extravasation of chemotherapeutic agents during intravenous administration may result in severe ulceration and sloughing. The nature of the injury is largely related to the nucleic-acid binding characteristics of the agent. Those agents that do not bind to tissue nucleic acid (vincristine, vinblastine, nitrogen mustard, BCNU, 5-FU) generally cause only local damage from the immediate injury. These substances are quickly metabolized or inactivated, and usual patterns of wound healing can be expected. On the other hand, agents that bind the nucleic acid (doxorubicin, dactinomycin, mitomycin C, mithramycin, and daunorubicin) cause not only immediate toxic reaction in the tissues but, unless excised, continuing and progressive tissue damage. Though some authors have reported success with elevation and ice packs, most recommend surgical excision if there is severe pain, any sign of early necrosis, or significant blistering.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "a52d221b-d2fa-4394-949a-853b2a5224d3": {
-    "cop": 4,
-    "exp": "A.L.S presents with following clinical features: Weakness of extremities Fasciculation of tongue Decreased tone i.e Hypotonia Normal higher mental functions No eye involvement-->No ptosis Bulbar palsy : 9 /10 / 12th nerve palsy No bladder / Bowel involvement Most common cause for death in motor neuron disease is respiratory failure"
+    "cop": 3,
+    "exp": "A.L.S presents with following clinical features: Weakness of extremities Fasciculation of tongue Decreased tone i.e Hypotonia Normal higher mental functions No eye involvement-->No ptosis Bulbar palsy : 9 /10 / 12th nerve palsy No bladder / Bowel involvement Most common cause for death in motor neuron disease is respiratory failure",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "ea189dcf-5748-4788-912a-8043a0fa4cda": {
-    "cop": 1,
-    "exp": "Priority groups for rubella vaccination in India:\n1st PRIORITY:\n15 – 49 years reproductive age group females\n2nd priority: All children 1 – 14 years age\n3rd priority: Routine universal immunization of all children aged 1"
+    "cop": 0,
+    "exp": "Priority groups for rubella vaccination in India:\n1st PRIORITY:\n15 – 49 years reproductive age group females\n2nd priority: All children 1 – 14 years age\n3rd priority: Routine universal immunization of all children aged 1",
+    "hint_exp": "🎯 Think of \"rubella\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "1aab26fe-8cb8-4c65-b3b3-bd2126cfc3b1": {
-    "cop": 3,
-    "exp": "Ans is 'c' i.e., Criminal aboionIn criminal aboion death may occur from shock, hemorrhage, air or fat embolism and sepsis. When poisonous substances have been administered death may supervene from their effects.DIC and cerebral damage may follow when aboion is induced by intrachorionic injection of hypeonic saline and glucose after 12th week."
+    "cop": 2,
+    "exp": "Ans is 'c' i.e., Criminal aboionIn criminal aboion death may occur from shock, hemorrhage, air or fat embolism and sepsis. When poisonous substances have been administered death may supervene from their effects.DIC and cerebral damage may follow when aboion is induced by intrachorionic injection of hypeonic saline and glucose after 12th week.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"which method of aboion\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "d313c041-099c-45d6-a3c3-e99110aa9b63": {
-    "cop": 4,
-    "exp": "In a normal healthy person physiological dead space almost equals anatomic dead space. Therefore the ratio is 1:1. In some respiratory disorders with non functioning alveoli the physiologic dead space may be ten times the anatomic dead space. Anatomic dead space refers to volume of air present in the conducting zone of respiratory passage i.e from nose to terminal bronchioles. It contains 150ml of air. Alveolar dead space refers to volume of air present in those alveoli which do not take pa in gas exchange. Normally, all the alveoli take pa in gas exchange but in some lung diseases some alveoli does not take pa in gas exchange. Physiologic dead space refers to total dead space which includes both anatomic and alveolar. Ref: Essentials Of Medical Physiology By Khurana PAGE 245."
+    "cop": 3,
+    "exp": "In a normal healthy person physiological dead space almost equals anatomic dead space. Therefore the ratio is 1:1. In some respiratory disorders with non functioning alveoli the physiologic dead space may be ten times the anatomic dead space. Anatomic dead space refers to volume of air present in the conducting zone of respiratory passage i.e from nose to terminal bronchioles. It contains 150ml of air. Alveolar dead space refers to volume of air present in those alveoli which do not take pa in gas exchange. Normally, all the alveoli take pa in gas exchange but in some lung diseases some alveoli does not take pa in gas exchange. Physiologic dead space refers to total dead space which includes both anatomic and alveolar. Ref: Essentials Of Medical Physiology By Khurana PAGE 245.",
+    "hint_exp": "🧩 Your crush solved \"normal adult ratio physiological\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5491f985-cbbb-4a31-904f-cf88362f55bb": {
-    "cop": 2,
-    "exp": "Ans. The infestation is acquired by eating the undercooked meat of intermediate host containing cyst of the parasite"
+    "cop": 1,
+    "exp": "Ans. The infestation is acquired by eating the undercooked meat of intermediate host containing cyst of the parasite",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Recurrent toxoplasmic retinochoroiditis true\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "29072a54-5f14-47b9-a82a-4bd6c7f0bc23": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"acute apical abscess can be\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a2e4b618-4ef8-47d2-9a45-351d01ad5da5": {
-    "cop": 4,
-    "exp": "Ans. D: Right atriumCentral venous pressure denotes pressure in the great veins at their entrance into the right atrium and averages 4.6 mm Hg.Pressure in larger veins outside thorax:5.5 mm Hg Pressure in the venules:12-18 mm Hg"
+    "cop": 3,
+    "exp": "Ans. D: Right atriumCentral venous pressure denotes pressure in the great veins at their entrance into the right atrium and averages 4.6 mm Hg.Pressure in larger veins outside thorax:5.5 mm Hg Pressure in the venules:12-18 mm Hg",
+    "hint_exp": "🎯 Think of \"denotes pressure September 2005\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "c4311019-97d1-43d8-b1c1-ebfe1182259c": {
-    "cop": 1,
-    "exp": "Following clues in this question suggest the diagnosis of seborrheic dermatitis.\n\ti) Severe dandraff\n\tii)   Greasy yellow scales\n\tiii) Scalp involvement"
+    "cop": 0,
+    "exp": "Following clues in this question suggest the diagnosis of seborrheic dermatitis.\n\ti) Severe dandraff\n\tii)   Greasy yellow scales\n\tiii) Scalp involvement",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"adult presenting with severe\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e42c7dc3-d354-43ed-af2b-f93708db8fdd": {
-    "cop": 2,
-    "exp": "Ans. B: Munro's micro-abscesses, parakeratosis, and epidermal hyperplasia Psoriasis is a common, relapsing chronic inflammatory condition affecting about 1.5-3% of the world's population, causing significant morbidity. The presence of a well-defined margin and a silvery white scale, over a glossy homogenous membrane, is clinically diagnostic of psoriasis. The successive removal of the psoriatic scales usually reveals an underlying, smooth, glossy red membrane with multiple bleeding points where thin suprapapillary epithelium is torn off (Auspitz's sign). When the scaling is not evident, it can be induced by light tangential scratching with the edge of glass slide (Grattage). Psoriasis often involves nails, scalp, mucosae, and joints, as well. Parakeratosis (nuclei retained in the horny layer), dilated blood vessels, regular epidermal hyperplasia (regular acanthosis), and presence of Munro microabscess and/or Kogoj's abscess have been described to be the most constant or characteristic histopathological features in skin biospy of psoriasis. Similarly, spongiosis, irregular epidermal hyperplasia, and absence of Munro micro and Kogoj's abscess have been found consistently in psoriasiform dermatitis Moreover, the \"diagnostic\" histopathological findings of psoriasis, namely, Kogoj's spongiform pustules and Munro microabscess, can also be seen in dermatophytoses, candida infection, and others."
+    "cop": 1,
+    "exp": "Ans. B: Munro's micro-abscesses, parakeratosis, and epidermal hyperplasia Psoriasis is a common, relapsing chronic inflammatory condition affecting about 1.5-3% of the world's population, causing significant morbidity. The presence of a well-defined margin and a silvery white scale, over a glossy homogenous membrane, is clinically diagnostic of psoriasis. The successive removal of the psoriatic scales usually reveals an underlying, smooth, glossy red membrane with multiple bleeding points where thin suprapapillary epithelium is torn off (Auspitz's sign). When the scaling is not evident, it can be induced by light tangential scratching with the edge of glass slide (Grattage). Psoriasis often involves nails, scalp, mucosae, and joints, as well. Parakeratosis (nuclei retained in the horny layer), dilated blood vessels, regular epidermal hyperplasia (regular acanthosis), and presence of Munro microabscess and/or Kogoj's abscess have been described to be the most constant or characteristic histopathological features in skin biospy of psoriasis. Similarly, spongiosis, irregular epidermal hyperplasia, and absence of Munro micro and Kogoj's abscess have been found consistently in psoriasiform dermatitis Moreover, the \"diagnostic\" histopathological findings of psoriasis, namely, Kogoj's spongiform pustules and Munro microabscess, can also be seen in dermatophytoses, candida infection, and others.",
+    "hint_exp": "🧩 Your crush solved \"the following features\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "ff47a7e7-1f7b-4506-af72-6ae41e198e36": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Epithelial cells + fibrin+macrophage o Regardless of the cause, the classical histological picture of RPGN is characterized by the presence of crescents in most of the glomerulio So. RPGN is also known as crescentic glomerulonephritis.Crescent formationo Despite the wide variety of diseases that causes RPGN, all types of RPGN are characterized by glomerular injury and the formation of crescents.o Severe injury and GBM rupture leads to the leakage of plasma proteins through the GBM.o Of these proteins, fibrin is thought to contribute most strongly to crescent formation,o Parietal epithelial cells lining the bowman capsule respond to the leaked fibrin and proliferate,o Infiltrating white blood cells such as monocytes and macrophages also proliferate.o These proliferating cells surround and compress the glomerulus, forming a crescent - shaped scar that is readily visible on light microscopy of a renal biopsy.Renal features in RPGNCrescent formation - crescents are forms by -a) Cells-Parietal epithelial cells + WBCs (monocytes and macrophages)b) Fibrin strands- are prominent between the cellular layers in the crescents.Rupture of GBMSubepithelial deposits in type II RPGNLinear deposits in the GBM in type I RPGN."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Epithelial cells + fibrin+macrophage o Regardless of the cause, the classical histological picture of RPGN is characterized by the presence of crescents in most of the glomerulio So. RPGN is also known as crescentic glomerulonephritis.Crescent formationo Despite the wide variety of diseases that causes RPGN, all types of RPGN are characterized by glomerular injury and the formation of crescents.o Severe injury and GBM rupture leads to the leakage of plasma proteins through the GBM.o Of these proteins, fibrin is thought to contribute most strongly to crescent formation,o Parietal epithelial cells lining the bowman capsule respond to the leaked fibrin and proliferate,o Infiltrating white blood cells such as monocytes and macrophages also proliferate.o These proliferating cells surround and compress the glomerulus, forming a crescent - shaped scar that is readily visible on light microscopy of a renal biopsy.Renal features in RPGNCrescent formation - crescents are forms by -a) Cells-Parietal epithelial cells + WBCs (monocytes and macrophages)b) Fibrin strands- are prominent between the cellular layers in the crescents.Rupture of GBMSubepithelial deposits in type II RPGNLinear deposits in the GBM in type I RPGN.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Crescents derived from\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "f9a6d88e-62c1-4428-93ee-b1b2deda8153": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., NK cells"
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., NK cells",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Phagocytosis done\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "65992890-f0e5-4a4a-9c1c-88ac0380a937": {
-    "cop": 1,
-    "exp": "Bile salts are the most important cholerectic or the substance that increases bile secretion. Cholecystokinin (CCK) is the most important cholagogue or substance that increases the contraction."
+    "cop": 0,
+    "exp": "Bile salts are the most important cholerectic or the substance that increases bile secretion. Cholecystokinin (CCK) is the most important cholagogue or substance that increases the contraction.",
+    "hint_exp": "🎯 Think of \"gall bladder\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "04f89d65-3a69-48bf-a367-47442c892bd4": {
-    "cop": 4,
-    "exp": "Bielschowsky staining is done for the detection of myelin. The Bielschowsky technique is a silver staining method used in histochemistry for the visualization of nerve fibers, including multipolar interneurons in the cerebellum. Ref ganong's review of medical physiology 25e"
+    "cop": 3,
+    "exp": "Bielschowsky staining is done for the detection of myelin. The Bielschowsky technique is a silver staining method used in histochemistry for the visualization of nerve fibers, including multipolar interneurons in the cerebellum. Ref ganong's review of medical physiology 25e",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"is stained by\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "84a8c61e-ef82-44b9-ace4-31ecb5804312": {
-    "cop": 1,
-    "exp": "Ans. (a) Clonorchis sinensis"
+    "cop": 0,
+    "exp": "Ans. (a) Clonorchis sinensis",
+    "hint_exp": "🧩 Your crush solved \"Organism causing biliary tract\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "3da2f9f0-435a-4c2e-865a-760890bd8ad6": {
-    "cop": 2,
-    "exp": "Health is a state of complete physical, mental and social well being and not merely an absence of disease or infirmity."
+    "cop": 1,
+    "exp": "Health is a state of complete physical, mental and social well being and not merely an absence of disease or infirmity.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following dimensions\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "0fae236f-20a4-4a56-89b9-6a3a3c3a6895": {
-    "cop": 3,
-    "exp": "Ans. c (Osteoid osteoma). (Ref. Maheshwari, Orthopaedics, 3rd ed., 214; Refer to above Q.)OSTEIOD OSTEOMA# The most common benign osteoid-forming tumor is the osteoid osteoma, accounting for 10% of all benign bone umors.# It is more common in males than in females, with a peak incidence in the second decade of life.# The proximal femur is the most common site.# Dull aching pain is the most frequent symptom.# Symptoms are relieved with (NSAIDs) secondary to a high concentration of prostaglandins in the nidus.# Osteoid osteoma may have a unique pathogenic nerve supply as well, a unique finding among bone tumors.# The characteristic radiographic feature of the osteoid osteoma is the central lytic nidus that measures up to 1 cm in diameter. In the common cortical lesion, an extensive reactive sclerosis is evident, creating a fusiform bulge on the bone surface.# Technetium-MDP bone scans are invariably positive (Double density sign).# A CT scan is helpful to better anatomically locate the lesion in preoperative planning.# Nidus in osteoid osteoma is diagnostic (well seen on CT).# In the spine, the typical location for an osteoid osteoma is in the posterior elements, such as the lamina or pedicle. The lumbar spine is most commonly involved.# Rx:- Intralesional resection via the so-called burr-down technique is generally preferred over en bloc resection.- CT-guided radiofrequencv ablation (RFA) is reported as an effective, less invasive method of treating osteoid osteoma.* This method employs probes with high-frequency alternating current to induce ionic agitation and frictional heat to cause tumor necrosis.RFA is used extensively as a less invasive treatment modality with similar success rate as surgical excision."
+    "cop": 2,
+    "exp": "Ans. c (Osteoid osteoma). (Ref. Maheshwari, Orthopaedics, 3rd ed., 214; Refer to above Q.)OSTEIOD OSTEOMA# The most common benign osteoid-forming tumor is the osteoid osteoma, accounting for 10% of all benign bone umors.# It is more common in males than in females, with a peak incidence in the second decade of life.# The proximal femur is the most common site.# Dull aching pain is the most frequent symptom.# Symptoms are relieved with (NSAIDs) secondary to a high concentration of prostaglandins in the nidus.# Osteoid osteoma may have a unique pathogenic nerve supply as well, a unique finding among bone tumors.# The characteristic radiographic feature of the osteoid osteoma is the central lytic nidus that measures up to 1 cm in diameter. In the common cortical lesion, an extensive reactive sclerosis is evident, creating a fusiform bulge on the bone surface.# Technetium-MDP bone scans are invariably positive (Double density sign).# A CT scan is helpful to better anatomically locate the lesion in preoperative planning.# Nidus in osteoid osteoma is diagnostic (well seen on CT).# In the spine, the typical location for an osteoid osteoma is in the posterior elements, such as the lamina or pedicle. The lumbar spine is most commonly involved.# Rx:- Intralesional resection via the so-called burr-down technique is generally preferred over en bloc resection.- CT-guided radiofrequencv ablation (RFA) is reported as an effective, less invasive method of treating osteoid osteoma.* This method employs probes with high-frequency alternating current to induce ionic agitation and frictional heat to cause tumor necrosis.RFA is used extensively as a less invasive treatment modality with similar success rate as surgical excision.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"young years complains pain\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "6bd8c0fb-2d7b-42d2-9406-f14dec740dc2": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., 1977 National population policy was fuher modified and re-announced in 1977. In this new policy, what was reinforced was education and health. The latter component of the reformulated policy included the general as well as maternal and child heath both. A voluntary family planning was also introduced here on."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., 1977 National population policy was fuher modified and re-announced in 1977. In this new policy, what was reinforced was education and health. The latter component of the reformulated policy included the general as well as maternal and child heath both. A voluntary family planning was also introduced here on.",
+    "hint_exp": "🎯 Think of \"Family planning became voluntary\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5d8ebef0-852a-4d72-9305-880cb58315a3": {
-    "cop": 2,
-    "exp": "Hydrolases does not belong to oxidoreductase family. Oxidoreductases are enzymes which catalyse the transfer of electrons from one molecule (reductant) to another molecule (oxidant). It plays a major role in biodegradation pathways. Enzymes present in oxidoreductase family are oxygenase, reductase, dehydrogenase and peroxidase. Ref: Microorganisms in Environmental Management: Microbes and Environment By T. Satyanarayana, Bhavdish Narain Johri, Anil Prakash, Page 233; Biochemical Engineering By Gummadi, Page 89"
+    "cop": 1,
+    "exp": "Hydrolases does not belong to oxidoreductase family. Oxidoreductases are enzymes which catalyse the transfer of electrons from one molecule (reductant) to another molecule (oxidant). It plays a major role in biodegradation pathways. Enzymes present in oxidoreductase family are oxygenase, reductase, dehydrogenase and peroxidase. Ref: Microorganisms in Environmental Management: Microbes and Environment By T. Satyanarayana, Bhavdish Narain Johri, Anil Prakash, Page 233; Biochemical Engineering By Gummadi, Page 89",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following enzymes\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3ba709c2-bf4a-4547-86ea-570e7b005a53": {
-    "cop": 4,
-    "exp": "In Train of four, four successive stimuli of 0.2sec are applied over 2sec,between two stimuli, the gap is 0.5sec as 4stimuli are applied at a constant interval in 2sec."
+    "cop": 3,
+    "exp": "In Train of four, four successive stimuli of 0.2sec are applied over 2sec,between two stimuli, the gap is 0.5sec as 4stimuli are applied at a constant interval in 2sec.",
+    "hint_exp": "🧩 Your crush solved \"What time given train\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "d14e3940-0d45-4fb0-a4fa-3cb56c9c6877": {
-    "cop": 3,
-    "exp": "Some guides have given option 'b' as the answer. But you make it clear in your mind that though ophthalmoplegic migraine is more commonly associated with 3rd nerve palsy, according to definition all three nerves can be involved.\n\"Ophthalmoplegic migrain or episodic ophthalmoplegia is characterized by recurrent attacks of headache associated with paralysis of the third, fourth, and sixth cranial nerves. The incidence of involvement of the third cranial nerve is the most common\".\n— E. Ahmed."
+    "cop": 2,
+    "exp": "Some guides have given option 'b' as the answer. But you make it clear in your mind that though ophthalmoplegic migraine is more commonly associated with 3rd nerve palsy, according to definition all three nerves can be involved.\n\"Ophthalmoplegic migrain or episodic ophthalmoplegia is characterized by recurrent attacks of headache associated with paralysis of the third, fourth, and sixth cranial nerves. The incidence of involvement of the third cranial nerve is the most common\".\n— E. Ahmed.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Ophthalmoplegic migraine means\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "5770cdc9-ec88-47c5-b35e-e7949ae03250": {
-    "cop": 4,
-    "exp": "The Median The median is an average of a different kind, which does not depend upon the total and number of items. To obtain the median, the data is first arranged in an ascending or descending order of magnitude, and then the value of the middle observation is located, which is called the median. Ref : Park 23rd edition Pgno : 847"
+    "cop": 3,
+    "exp": "The Median The median is an average of a different kind, which does not depend upon the total and number of items. To obtain the median, the data is first arranged in an ascending or descending order of magnitude, and then the value of the middle observation is located, which is called the median. Ref : Park 23rd edition Pgno : 847",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3c6e8b15-c6f7-49fd-939c-8d6e9944baa0": {
-    "cop": 1,
-    "exp": "In acute renal failure- metastatic deposition of calcium phosphates can lead to Hypocalcemia AKI -associated Hypocalcemia may also arise from derangements in vitamin D -parathyroid hormone -fibroblast growth factor 23 axis. Other electrolyte disturbances are hyponatremia ,hyperkalemia,hyperphosphatemia Hematologic complications of AKI include anemia and bleeding Direct hematologic effects from aki related uremia include decreased erythropoiesis and platelet dysfunction. Ref Harrison20th edition pg 299"
+    "cop": 0,
+    "exp": "In acute renal failure- metastatic deposition of calcium phosphates can lead to Hypocalcemia AKI -associated Hypocalcemia may also arise from derangements in vitamin D -parathyroid hormone -fibroblast growth factor 23 axis. Other electrolyte disturbances are hyponatremia ,hyperkalemia,hyperphosphatemia Hematologic complications of AKI include anemia and bleeding Direct hematologic effects from aki related uremia include decreased erythropoiesis and platelet dysfunction. Ref Harrison20th edition pg 299",
+    "hint_exp": "🎯 Think of \"Oliguric phase renal failure\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b6eb0702-d154-4cfd-b992-72ed5ec15fe8": {
-    "cop": 1,
-    "exp": "Ans. (a) Lung(Ref: Robbins 9th/pg 129; 8th/pg 128)A. Red infarct- Lung, Ovary, IntestineB. White infact - kidney, heart, spleen and brainLiver infarctions are rare because of liver's dual blood supply. Its infarction is described as dichotomic, i.e. it can show overlap between red to white infarct."
+    "cop": 0,
+    "exp": "Ans. (a) Lung(Ref: Robbins 9th/pg 129; 8th/pg 128)A. Red infarct- Lung, Ovary, IntestineB. White infact - kidney, heart, spleen and brainLiver infarctions are rare because of liver's dual blood supply. Its infarction is described as dichotomic, i.e. it can show overlap between red to white infarct.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"White infarcts seen following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "882bf2fb-3e7a-4b77-ad31-32f02cbcad86": {
-    "cop": 4,
-    "exp": "Ans. D. All of the above. (Ref. Paul's anaesthesia 5th/pg. Table 24-1)Factors That May Change End-Tidal Co2 (ETC02) During AnesthesiaIncreases in ETCO2Decreases in ETCO21. Hyperthermia1. Hypothermia2. Sepsis2. Hypothyroidism3. Malignant Hyperthermia3. Hyperventilation4. Shivering4. Hypoperfusion5. Hyperthyroidism5. Pulmonary embolism6. Hypoventilation 7. Rebreathing"
+    "cop": 3,
+    "exp": "Ans. D. All of the above. (Ref. Paul's anaesthesia 5th/pg. Table 24-1)Factors That May Change End-Tidal Co2 (ETC02) During AnesthesiaIncreases in ETCO2Decreases in ETCO21. Hyperthermia1. Hypothermia2. Sepsis2. Hypothyroidism3. Malignant Hyperthermia3. Hyperventilation4. Shivering4. Hypoperfusion5. Hyperthyroidism5. Pulmonary embolism6. Hypoventilation 7. Rebreathing",
+    "hint_exp": "🧩 Your crush solved \"Which following result sudden\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "c449b5a0-1a63-4dff-b49f-cc8dd45afdf6": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Pontic design anterior should\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "38be5f2c-c3dd-4f16-96f3-c1720e0dde93": {
-    "cop": 2,
-    "exp": "Hypercapnia stimulates the peripheral chemoreceptors."
+    "cop": 1,
+    "exp": "Hypercapnia stimulates the peripheral chemoreceptors.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Which following does stimulate\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a821ca01-08f9-4ee7-883f-906e43138abe": {
-    "cop": 1,
-    "exp": "This procedure involves puncturing the medial wall of maxillary sinus in the region of inferior meatus and irrigating the sinus. Antral Puncture- Ref- Dhingra, 6th edition, page 408."
+    "cop": 0,
+    "exp": "This procedure involves puncturing the medial wall of maxillary sinus in the region of inferior meatus and irrigating the sinus. Antral Puncture- Ref- Dhingra, 6th edition, page 408.",
+    "hint_exp": "🎯 Think of \"through\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b2cc695e-7ea2-408f-8def-98241d15f7fd": {
-    "cop": 2,
-    "exp": "Patients of ocular myasthenia gravis will have ocular symptoms in form of diplopia and ptosis. Hence CNS causes of oculomotor nerve compression must be ruled out using MRI head. Spirometry would not be useful as chest muscle weakness is a feature of generalised M. Gravis. Anti- MUSK antibody is found in cases of ocular MG. Ice pack test is a non- invasive test for diagnosis where application of ice pack to eyes reduces the ptosis and weakness."
+    "cop": 1,
+    "exp": "Patients of ocular myasthenia gravis will have ocular symptoms in form of diplopia and ptosis. Hence CNS causes of oculomotor nerve compression must be ruled out using MRI head. Spirometry would not be useful as chest muscle weakness is a feature of generalised M. Gravis. Anti- MUSK antibody is found in cases of ocular MG. Ice pack test is a non- invasive test for diagnosis where application of ice pack to eyes reduces the ptosis and weakness.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Which following tests shall\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "4bd577c0-eb1c-48a1-86fd-70f03f00c6cb": {
-    "cop": 4,
-    "exp": "Coisol has cytoplasmic receptor Ref-KDT 6/e p280"
+    "cop": 3,
+    "exp": "Coisol has cytoplasmic receptor Ref-KDT 6/e p280",
+    "hint_exp": "🧩 Your crush solved \"Which following cytoplasmic receptor\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "5b832520-8872-428b-8fa9-add5bb873a11": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Scalds Dry heat (e.g. flame) Simple burns (or burns).Moist heat - Scalds."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Scalds Dry heat (e.g. flame) Simple burns (or burns).Moist heat - Scalds.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Moist burn refers\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "58f8725c-280f-49f9-a1f9-6ab54b913c36": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Subclinical cases seen except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "3f0fdaa8-6357-438b-a70d-239e6c4399a1": {
-    "cop": 3,
-    "exp": "Ans: c (Both) Ref: Vasudevan Sreekumari, 4th ed, p. 168; Lippincott, p. 253The first two reactions of urea cycle occur in mitochondria and the remaining 6 steps occur in cytosol.Citrulline enters cytoplasm and ornithine returns to mitochondria to combine with carbamoyl phos phate.* Mitochondrial enzymes are:1) CPS-I2) OTCCPS-II is a cytoplasmic enzyme.1) Used for pyramidine synthesis2) Uses glutamine for synthesis of carbamoyl Po4 instead of ammonia.Most important points about urea cycle defects:Features:Hyperammonaemia| blood glutamine|BUN.Symptoms:Lethargy, vomiting, hyperventilation, coma, respiratory failure.Causes: This can be due to defeciency of any enzyme in urea cycle, but mainly due to:a) CPS defeciency (No increase in uracil / orotic acid)b) OTC defeciency (Uracil and orotic acid level | in blood)"
+    "cop": 2,
+    "exp": "Ans: c (Both) Ref: Vasudevan Sreekumari, 4th ed, p. 168; Lippincott, p. 253The first two reactions of urea cycle occur in mitochondria and the remaining 6 steps occur in cytosol.Citrulline enters cytoplasm and ornithine returns to mitochondria to combine with carbamoyl phos phate.* Mitochondrial enzymes are:1) CPS-I2) OTCCPS-II is a cytoplasmic enzyme.1) Used for pyramidine synthesis2) Uses glutamine for synthesis of carbamoyl Po4 instead of ammonia.Most important points about urea cycle defects:Features:Hyperammonaemia| blood glutamine|BUN.Symptoms:Lethargy, vomiting, hyperventilation, coma, respiratory failure.Causes: This can be due to defeciency of any enzyme in urea cycle, but mainly due to:a) CPS defeciency (No increase in uracil / orotic acid)b) OTC defeciency (Uracil and orotic acid level | in blood)",
+    "hint_exp": "🎯 Think of \"Urea cycle occurs\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4e7b371a-8daf-4e2b-8486-a9b506391878": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Bronchial asthma o Characteristic histological findings and sputum findings in asthma are1) Curschmann's spirals: Whorls of shed epithelium in mucus plug.2) Charcot-leyden crystals: Collection of crystalloids made up of eosinophilic protein.3) Creola bodies: Ciliated columnar cells sloughed from bronchial mucosa."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Bronchial asthma o Characteristic histological findings and sputum findings in asthma are1) Curschmann's spirals: Whorls of shed epithelium in mucus plug.2) Charcot-leyden crystals: Collection of crystalloids made up of eosinophilic protein.3) Creola bodies: Ciliated columnar cells sloughed from bronchial mucosa.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Charcot laden crystals found\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f5de462f-7dbc-4775-9131-928ab4196d24": {
-    "cop": 4,
-    "exp": "No explanation provided."
+    "cop": 3,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"mercury in the human body\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "12f1a353-296e-4c6e-a40f-c15512da12bd": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Increased dopaminergic activity o Dopamine hypothesis is the most accepted hypothesis for schizophrenia. There is hyperactivity of dopaminergic system. This hypothesis is supported by: 1) Amphetamine and cocaine which release dopamine in central synapses induce schizophrenia like symptoms; and 2) Antipsychotic drugs control the schizophrenic symptoms by blockingdopamine (D2) receptors. However, the dipamine hypothesis has been questioned also as Homo vanillic acid (HVA the principal metabolite of dopamine) is not elevated and prolactin level is not decreased (Dopamine has inhibitory action on prolactin release).o Other neurotransmitters involved are : - Increased serotonin, Decreased GABA, variable change (Increased or decreased) glutamate, and increased norepinephrine."
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Increased dopaminergic activity o Dopamine hypothesis is the most accepted hypothesis for schizophrenia. There is hyperactivity of dopaminergic system. This hypothesis is supported by: 1) Amphetamine and cocaine which release dopamine in central synapses induce schizophrenia like symptoms; and 2) Antipsychotic drugs control the schizophrenic symptoms by blockingdopamine (D2) receptors. However, the dipamine hypothesis has been questioned also as Homo vanillic acid (HVA the principal metabolite of dopamine) is not elevated and prolactin level is not decreased (Dopamine has inhibitory action on prolactin release).o Other neurotransmitters involved are : - Increased serotonin, Decreased GABA, variable change (Increased or decreased) glutamate, and increased norepinephrine.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"Schizophrenia results with\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cfb73c68-444e-47f4-aa48-fd1e2f8e3d08": {
-    "cop": 1,
-    "exp": "Ans. a (Heart). (Ref. Ganong, Physiology, 21st ed., 557)Circulation through organs:Liver:Largest share of systemic cardiac output.Kidney:Highest blood flow per gram of tissue.Heart:Large arteriovenous 02 difference. HEARTWorkO2 usage(ml/100 g/min)Pulse rate(/min)CO (L/min)Stroke vol (ml)A-VO2 diff (ml/dl) Rest267646.41004.3 Educational points: # Cardiac output# 5000 ml /min# Cardiac reserve# 300 to 400 per cent.# Kidney perfusion# 1000 ml/min (20 % of CO)# Plasma flow in kidneys# 600 ml/min# GFR# 120 ml/min (20%-filtr. fraction)# Final urine# 2000 ml/24 hours, i.e. 1.4 ml/min.Resting Blood Flow and O2 Consumption of Various Organs in a 63-kg Adult Man with a mean Arterial blood pressure of 90 mm Hg and an O2 Consumption of 250 mL/min. AV Oxygen Difference (mL/L)Oxygen ConsumptionResistance (R units)Percentage of TotalBlood flowRegionMass (kg)mL/minmL/100g/ min mL/minmL/100/ minAbsoluteper kgCardiac outputOxygen consumptionLiver2.6150057.734512.03.69.427.820.4Kidneys0.31260420.014186.04.31.323.37.2Brain1.475054.062463.37.210.113.918.4Skin3.646212.825120.311.742.18.64.8Sleletal musle31.08402.760500.26.4198.415.620.0Heart0.3250184.0114299.721.46.44.711.6Rest of body23.83361.4129440.216.1383.26.217.6Whole body63.054008.6462500.41.063.0100.0100.0Cardiac Output and Regional Blood Flow in a Sedentary Man Quiet StandingExerciseCardiac output5900 mL/min24,000 mL/minBlood flow to:Heart2501000Brain750750Active skeletal muscle65020,850Inactive skeletal muscle650300Skin500500Kidney, liver, gastrointestinal tract, etc.3100600"
+    "cop": 0,
+    "exp": "Ans. a (Heart). (Ref. Ganong, Physiology, 21st ed., 557)Circulation through organs:Liver:Largest share of systemic cardiac output.Kidney:Highest blood flow per gram of tissue.Heart:Large arteriovenous 02 difference. HEARTWorkO2 usage(ml/100 g/min)Pulse rate(/min)CO (L/min)Stroke vol (ml)A-VO2 diff (ml/dl) Rest267646.41004.3 Educational points: # Cardiac output# 5000 ml /min# Cardiac reserve# 300 to 400 per cent.# Kidney perfusion# 1000 ml/min (20 % of CO)# Plasma flow in kidneys# 600 ml/min# GFR# 120 ml/min (20%-filtr. fraction)# Final urine# 2000 ml/24 hours, i.e. 1.4 ml/min.Resting Blood Flow and O2 Consumption of Various Organs in a 63-kg Adult Man with a mean Arterial blood pressure of 90 mm Hg and an O2 Consumption of 250 mL/min. AV Oxygen Difference (mL/L)Oxygen ConsumptionResistance (R units)Percentage of TotalBlood flowRegionMass (kg)mL/minmL/100g/ min mL/minmL/100/ minAbsoluteper kgCardiac outputOxygen consumptionLiver2.6150057.734512.03.69.427.820.4Kidneys0.31260420.014186.04.31.323.37.2Brain1.475054.062463.37.210.113.918.4Skin3.646212.825120.311.742.18.64.8Sleletal musle31.08402.760500.26.4198.415.620.0Heart0.3250184.0114299.721.46.44.711.6Rest of body23.83361.4129440.216.1383.26.217.6Whole body63.054008.6462500.41.063.0100.0100.0Cardiac Output and Regional Blood Flow in a Sedentary Man Quiet StandingExerciseCardiac output5900 mL/min24,000 mL/minBlood flow to:Heart2501000Brain750750Active skeletal muscle65020,850Inactive skeletal muscle650300Skin500500Kidney, liver, gastrointestinal tract, etc.3100600",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"oxygen content\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "a8914160-1772-4abe-8a3a-ebb44753e6ea": {
-    "cop": 1,
-    "exp": "Pathophysiology Hepatic encephalopathy is thought to be due to a disturbance of brain function provoked by circulating neurotoxins that are normally metabolised by the liver. Accordingly, most affected patients have evidence of liver failure and poosystemic shunting of blood, but the balance between these varies from individual to individual. Some degree of liver failure is a key factor, as poosystemic shunting of blood alone hardly ever causes encephalopathy. The 'neurotoxins' causing encephalopathy are unknown but are thought to be mainly nitrogenous substances produced in the gut, at least in pa by bacterial action. These substances are normally metabolised by the healthy liver and excluded from the systemic circulation. Ammonia has traditionally been considered an impoant factor. Recent interest has focused on g-aminobutyric acid (GABA) as a mediator, along with octopamine, amino acids, mercaptans and fatty acids that can act as neurotransmitters. The brain in cirrhosis may also be sensitised to other factors, such as drugs that can precipitate hepatic encephalopathy . Disruption of the function of the blood-brain barrier is a feature of acute hepatic failure and may lead to cerebral oedema.Hepatic encephalopathy may be aggravated during hyperkalemia . Ref Davidson edition23rd pg865"
+    "cop": 0,
+    "exp": "Pathophysiology Hepatic encephalopathy is thought to be due to a disturbance of brain function provoked by circulating neurotoxins that are normally metabolised by the liver. Accordingly, most affected patients have evidence of liver failure and poosystemic shunting of blood, but the balance between these varies from individual to individual. Some degree of liver failure is a key factor, as poosystemic shunting of blood alone hardly ever causes encephalopathy. The 'neurotoxins' causing encephalopathy are unknown but are thought to be mainly nitrogenous substances produced in the gut, at least in pa by bacterial action. These substances are normally metabolised by the healthy liver and excluded from the systemic circulation. Ammonia has traditionally been considered an impoant factor. Recent interest has focused on g-aminobutyric acid (GABA) as a mediator, along with octopamine, amino acids, mercaptans and fatty acids that can act as neurotransmitters. The brain in cirrhosis may also be sensitised to other factors, such as drugs that can precipitate hepatic encephalopathy . Disruption of the function of the blood-brain barrier is a feature of acute hepatic failure and may lead to cerebral oedema.Hepatic encephalopathy may be aggravated during hyperkalemia . Ref Davidson edition23rd pg865",
+    "hint_exp": "🎯 Think of \"aggravated by all except\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b1b6c389-88f5-47af-ae1f-abed49d42e1c": {
-    "cop": 2,
-    "exp": "B. i.e. (Otic ganglion) (737- BDC-3 4th)* Parasympathetic secretomotor fibres from the inferior salivary nucleus of the 9th nerve supply the parotid gland. The nerve fibres pass to the otic ganglion via the tympanic branch of the 9th nerve and lesser petrosal nerve* Parotid duct (stenson duct) opens into the opposite the crown of the upper second molar tooth *** Structure within the parotid gland - from lateral to medial are facial nerve, retromandibular vein, external carotid artery, lymph node*** Taste fibres are the peripheral processes of the cells in the geniculate ganglion (712-Snell 8th)* Ciliary Ganglion - is a parasympathetic ganglion situated in the posterior part of the orbit and supply the sphincter pupillae and the ciliary muscle"
+    "cop": 1,
+    "exp": "B. i.e. (Otic ganglion) (737- BDC-3 4th)* Parasympathetic secretomotor fibres from the inferior salivary nucleus of the 9th nerve supply the parotid gland. The nerve fibres pass to the otic ganglion via the tympanic branch of the 9th nerve and lesser petrosal nerve* Parotid duct (stenson duct) opens into the opposite the crown of the upper second molar tooth *** Structure within the parotid gland - from lateral to medial are facial nerve, retromandibular vein, external carotid artery, lymph node*** Taste fibres are the peripheral processes of the cells in the geniculate ganglion (712-Snell 8th)* Ciliary Ganglion - is a parasympathetic ganglion situated in the posterior part of the orbit and supply the sphincter pupillae and the ciliary muscle",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"secretomotor fibre parotid gland\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "beb93ca1-f73a-4268-b854-1d3962f6c20c": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"characteristically seen in\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6897c15a-e00a-41a3-a942-bb148a93acec": {
-    "cop": 2,
-    "exp": "Dislocations are usually posterior, and occasionally anterior, or central through the acetabulum. Posterior dislocation: Hip is flexed, adducted, and internally rotated, and leg is shoened. Anterior dislocation: Hip is flexed, abducted, and externally rotated, and leg is shoened. Central dislocation: Trochanter is displaced medially. One may be able to feel the head of femur rectally. There is no shoening."
+    "cop": 1,
+    "exp": "Dislocations are usually posterior, and occasionally anterior, or central through the acetabulum. Posterior dislocation: Hip is flexed, adducted, and internally rotated, and leg is shoened. Anterior dislocation: Hip is flexed, abducted, and externally rotated, and leg is shoened. Central dislocation: Trochanter is displaced medially. One may be able to feel the head of femur rectally. There is no shoening.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"hip\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "cc654b3f-130b-4a03-a930-645aea8043b9": {
-    "cop": 4,
-    "exp": "Aromatic amino acids (phenylalanine, tryptophan, and tyrosine) absorb UV light at a maximum of 280 nm because the pi electrons in their aromatic rings can absorb photons. That is because benzene, the core of a phenyl group, absorbs UV light as well. Amino acids do not absorb visible light and thus are colorless. However, tyrosine, phenylalanine, and especially tryptophan absorb high-wavelength (250-290 nm) ultraviolet light. Because it absorbs ultraviolet light about ten times more efficiently than phenylalanine or tyrosine, tryptophan makes the major contribution to the ability of most proteins to absorb light in the region of 280 nm. Ref: Kennelly P.J., Rodwell V.W. (2011). Chapter 3. Amino Acids & Peptides. In D.A. Bender, K.M. Botham, P.A. Weil, P.J. Kennelly, R.K. Murray, V.W. Rodwell (Eds),Harper's Illustrated Biochemistry, 29e."
+    "cop": 3,
+    "exp": "Aromatic amino acids (phenylalanine, tryptophan, and tyrosine) absorb UV light at a maximum of 280 nm because the pi electrons in their aromatic rings can absorb photons. That is because benzene, the core of a phenyl group, absorbs UV light as well. Amino acids do not absorb visible light and thus are colorless. However, tyrosine, phenylalanine, and especially tryptophan absorb high-wavelength (250-290 nm) ultraviolet light. Because it absorbs ultraviolet light about ten times more efficiently than phenylalanine or tyrosine, tryptophan makes the major contribution to the ability of most proteins to absorb light in the region of 280 nm. Ref: Kennelly P.J., Rodwell V.W. (2011). Chapter 3. Amino Acids & Peptides. In D.A. Bender, K.M. Botham, P.A. Weil, P.J. Kennelly, R.K. Murray, V.W. Rodwell (Eds),Harper's Illustrated Biochemistry, 29e.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Replacing alanine which amino\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "94fb2a13-5325-442c-8c5b-c7fa3eca67aa": {
-    "cop": 2,
-    "exp": "Epiblast cells give rise to several structure 1. Primordial germ cells by end of 2nd week. 2. Endoderm - by 3rd week 3. Mesoderm 4. Ectoderm 5. neural crest cells by IIIrd week. The most characteristic event occurring during the third week of gestation is gastrulation, the process that establishes all three germ layers (Ectoderm, mesoderm, endoderm) in the embryo. Gastrulation begins with formation of the primitive streak on the surface of epiblast. (by End of 2nd week) Epiblast gives us all three germ layers. Notochord is a derivative of mesoderm."
+    "cop": 1,
+    "exp": "Epiblast cells give rise to several structure 1. Primordial germ cells by end of 2nd week. 2. Endoderm - by 3rd week 3. Mesoderm 4. Ectoderm 5. neural crest cells by IIIrd week. The most characteristic event occurring during the third week of gestation is gastrulation, the process that establishes all three germ layers (Ectoderm, mesoderm, endoderm) in the embryo. Gastrulation begins with formation of the primitive streak on the surface of epiblast. (by End of 2nd week) Epiblast gives us all three germ layers. Notochord is a derivative of mesoderm.",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "77070cff-f53a-49d4-81dd-99bc34808034": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Membranous GN Nephrotic syndrome accompanying membranous glomerulopathy and ceain carcinomas are the most common cause of RVT. Remember o Most common cause of RVT in adult nephrotic syndrome due to membranous glomerulonephritis. o Most common cause of RVT in children ---> nephrotic syndrome due to minimal change disease. o Most common cause of RVT in newborns and infants Asphyxia, dehydration, shock and sepsis."
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Membranous GN Nephrotic syndrome accompanying membranous glomerulopathy and ceain carcinomas are the most common cause of RVT. Remember o Most common cause of RVT in adult nephrotic syndrome due to membranous glomerulonephritis. o Most common cause of RVT in children ---> nephrotic syndrome due to minimal change disease. o Most common cause of RVT in newborns and infants Asphyxia, dehydration, shock and sepsis.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"thrombosis\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ffde72d3-8118-44e4-b28d-67b3f3cb99e5": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🧩 Your crush solved \"True about asthma Increasing\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }

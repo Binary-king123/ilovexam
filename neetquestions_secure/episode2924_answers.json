@@ -1,202 +1,252 @@
 {
   "654b7e4c-79ba-43e0-be84-829530be91a7": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"time duration taken periodontal\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e230c701-4e8e-4f9a-b1d1-8b7a011dbc7c": {
-    "cop": 2,
-    "exp": "Electromyography is most sensitive test for diagnosing myasthenia gravis"
+    "cop": 1,
+    "exp": "Electromyography is most sensitive test for diagnosing myasthenia gravis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"diagnosis of myasthenia gravis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "47f77c12-a2c3-41b9-a930-c75b3a768691": {
-    "cop": 1,
-    "exp": "FOLIC ACID India has not yet adopted recommendation of foification of all wheat products in India with folic acid Preconceptionally given for prevention of neural tube defects It is present in leafy vegetables spinach, paneer Requirement perday in pregnancy is 500 mcg Ref: Park 25th edition Pgno : 658"
+    "cop": 0,
+    "exp": "FOLIC ACID India has not yet adopted recommendation of foification of all wheat products in India with folic acid Preconceptionally given for prevention of neural tube defects It is present in leafy vegetables spinach, paneer Requirement perday in pregnancy is 500 mcg Ref: Park 25th edition Pgno : 658",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "f33d84d8-970b-497c-9da0-8edfba3f1276": {
-    "cop": 4,
-    "exp": "This patient has osteomyelitis due to a cat bite that penetrated the periosteum. Whenever you see dog or cat bites in a question stem, consider Pasteurella multocida as a primary cause of wound infection. This organism is a sho, encapsulated, gram-negative rod demonstrating bipolar staining. Rapidly arising cellulitis is paicularly indicative of this organism. Brucella melitensis is a small, acapsular, gram-negative rod that causes brucellosis (undulant fever) and is associated with contact with goats or sheep. Brucella abous and Brucella suis are variants associated with contact with cows and pigs, respectively. The organisms enter the body through the skin or through contaminated dairy products, such as unpasteurized impoed goat's milk or cheeses. Eikenella corrodens is commonly found in human bites. It is a gram-negative rod that is pa of the normal flora of the human mouth. Francisella tularensis is a small, pleomorphic, gram-negative rod that causes tularemia (rabbit fever). It occurs most commonly in rural areas. Ref: Ray C.G., Ryan K.J. (2010). Chapter 36. Plague and Other Bacterial Zoonotic Diseases. In C.G. Ray, K.J. Ryan (Eds), Sherris Medical Microbiology, 5e."
+    "cop": 3,
+    "exp": "This patient has osteomyelitis due to a cat bite that penetrated the periosteum. Whenever you see dog or cat bites in a question stem, consider Pasteurella multocida as a primary cause of wound infection. This organism is a sho, encapsulated, gram-negative rod demonstrating bipolar staining. Rapidly arising cellulitis is paicularly indicative of this organism. Brucella melitensis is a small, acapsular, gram-negative rod that causes brucellosis (undulant fever) and is associated with contact with goats or sheep. Brucella abous and Brucella suis are variants associated with contact with cows and pigs, respectively. The organisms enter the body through the skin or through contaminated dairy products, such as unpasteurized impoed goat's milk or cheeses. Eikenella corrodens is commonly found in human bites. It is a gram-negative rod that is pa of the normal flora of the human mouth. Francisella tularensis is a small, pleomorphic, gram-negative rod that causes tularemia (rabbit fever). It occurs most commonly in rural areas. Ref: Ray C.G., Ryan K.J. (2010). Chapter 36. Plague and Other Bacterial Zoonotic Diseases. In C.G. Ray, K.J. Ryan (Eds), Sherris Medical Microbiology, 5e.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the bone culture\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "44611ebb-d48e-48e4-bbf8-263c92c117ec": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e., Acidic Ph o With an average intake of 1000 mg of calcium its net intestinal absorption is only 150-250 mg/day. o Calcium is absorbed mainly in the duodenum and Jejunum (proximal intestine)0 by an active transport mechanism regulated by 1,25 (OH)2 D3 (calcitriol) Q. o Parathormone indirectly promotes absorption of calcium0 by increasing the renal synthesis of 1,25 (OH) 2 D3.Dietary lactose, proteins0and an acidic environment promote calcium absorption Q.. o On the other hand, phytates, phosphates, oxalates, tetracycline and and alkaline environment impair calcium absorption Q. o Calcium is transported across the brush border of intestinal epithelial cells via channels known as transient receptor potential vantioid type 6 (TRPV6) and binds to an intracellular protein known as catbindin. o Calbindin sequesters the absorbed calcium so that it does not disturb the epithelial signaling process that involve calcium. o The absorbed Ca+2 is thereby delivered to the basolateral membrane of the epithelial cells, from where it can be transported into the blood stream by either a Sodium/Calcium exchanger (NCX1) or a calcium-dependent ATPase."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e., Acidic Ph o With an average intake of 1000 mg of calcium its net intestinal absorption is only 150-250 mg/day. o Calcium is absorbed mainly in the duodenum and Jejunum (proximal intestine)0 by an active transport mechanism regulated by 1,25 (OH)2 D3 (calcitriol) Q. o Parathormone indirectly promotes absorption of calcium0 by increasing the renal synthesis of 1,25 (OH) 2 D3.Dietary lactose, proteins0and an acidic environment promote calcium absorption Q.. o On the other hand, phytates, phosphates, oxalates, tetracycline and and alkaline environment impair calcium absorption Q. o Calcium is transported across the brush border of intestinal epithelial cells via channels known as transient receptor potential vantioid type 6 (TRPV6) and binds to an intracellular protein known as catbindin. o Calbindin sequesters the absorbed calcium so that it does not disturb the epithelial signaling process that involve calcium. o The absorbed Ca+2 is thereby delivered to the basolateral membrane of the epithelial cells, from where it can be transported into the blood stream by either a Sodium/Calcium exchanger (NCX1) or a calcium-dependent ATPase.",
+    "hint_exp": "🧩 Your crush solved \"Calcium absorption increased\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e425e97e-1405-467b-97fa-b28c2d869252": {
-    "cop": 1,
-    "exp": "Slit lamp examination of the lens of the eye in a case of complicated cataract shows bread crumbs like appearance and a characteristic rainbow display of colours which replaces the normal achromatic sheen (polychromatic lustre). Complicated cataract results from a disturbance of nutrition of the lens due to inflammatory or degenerative disease of other pas of the eye, such as iridocyclitis, ciliary body tumors, choroiditis, degenerative myopia, anterior segment ischemia, retinitis pigmentosa or retinal detachment. Ref: Parsons' Diseases of the Eye By Ramanjit Sihota & Radhika Tandon 21st edn page 262"
+    "cop": 0,
+    "exp": "Slit lamp examination of the lens of the eye in a case of complicated cataract shows bread crumbs like appearance and a characteristic rainbow display of colours which replaces the normal achromatic sheen (polychromatic lustre). Complicated cataract results from a disturbance of nutrition of the lens due to inflammatory or degenerative disease of other pas of the eye, such as iridocyclitis, ciliary body tumors, choroiditis, degenerative myopia, anterior segment ischemia, retinitis pigmentosa or retinal detachment. Ref: Parsons' Diseases of the Eye By Ramanjit Sihota & Radhika Tandon 21st edn page 262",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the eye\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e3e1ea74-5d33-4094-9d82-4fd8a320bd55": {
-    "cop": 3,
-    "exp": "The lens derives its nutrients from the aqueous humor and the vitreous body . Ref - sciencedirect.com"
+    "cop": 2,
+    "exp": "The lens derives its nutrients from the aqueous humor and the vitreous body . Ref - sciencedirect.com",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"Lens derives nutrition from\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8a6743b5-d6aa-4783-9ce6-8c728b7c0d92": {
-    "cop": 3,
-    "exp": "Ans. is 'c' i.e., Atrial Flutter with Fixed Block The absence of any discernible P waves on ECG together with the presence of Saw Tooth Flutter wave in inferior leads (Leads II, III and AVF) strongly suggests a diagnosis of Atrial Flutter. The presence of a regular rhythm suggests a Fixed Block. Atrial flutter is characterized by rapid atrial rate. The ventricular rate varies depending upon the degree of A. block. The rhythm originates in one atrial focus, resulting from circuit reentry mechanism. On the ECG P waves lose their normal appearance due to the rapid atrial rate. The waves blend together in a sawtooth configuration called flutter waves (the hallmark characteristic of rhythm). The patient develops a regular atrial rhythm. This variation is the ventricular response is irregular Saw tooth P waves (regular atrial rhythm) Irregular Regular ventricular ventricular rhythm rhythm Atrial flutter with variable block Atrial flutter with fixed block"
+    "cop": 2,
+    "exp": "Ans. is 'c' i.e., Atrial Flutter with Fixed Block The absence of any discernible P waves on ECG together with the presence of Saw Tooth Flutter wave in inferior leads (Leads II, III and AVF) strongly suggests a diagnosis of Atrial Flutter. The presence of a regular rhythm suggests a Fixed Block. Atrial flutter is characterized by rapid atrial rate. The ventricular rate varies depending upon the degree of A. block. The rhythm originates in one atrial focus, resulting from circuit reentry mechanism. On the ECG P waves lose their normal appearance due to the rapid atrial rate. The waves blend together in a sawtooth configuration called flutter waves (the hallmark characteristic of rhythm). The patient develops a regular atrial rhythm. This variation is the ventricular response is irregular Saw tooth P waves (regular atrial rhythm) Irregular Regular ventricular ventricular rhythm rhythm Atrial flutter with variable block Atrial flutter with fixed block",
+    "hint_exp": "🎯 Think of \"the following\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "b46398da-cb13-4c4e-b8fe-a41bd352d535": {
-    "cop": 1,
-    "exp": "Radium REF: Encyclopedia of environmental science - page 299 As radium decays or disintegrates, it forms Radon gas (eah's only naturally produced radioactive gas), which can enter homes, buildings, and wells and if not ventilated may cause Radiation sickness."
+    "cop": 0,
+    "exp": "Radium REF: Encyclopedia of environmental science - page 299 As radium decays or disintegrates, it forms Radon gas (eah's only naturally produced radioactive gas), which can enter homes, buildings, and wells and if not ventilated may cause Radiation sickness.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"gaseous form\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "f91648c5-ba84-4b75-8e79-03628caa2509": {
-    "cop": 2,
-    "exp": "CSF is a clear, colorless and slightly alkaline fluid which is almost cell-free.In an adult, the total volume of CSF is about 150 ml, out of which only 30 ml is in the ventricular system and the remainder is in the subarachnoid space.(Ref : Vishram Singh textbook of clinical neuroanatomy second edition pg 194)"
+    "cop": 1,
+    "exp": "CSF is a clear, colorless and slightly alkaline fluid which is almost cell-free.In an adult, the total volume of CSF is about 150 ml, out of which only 30 ml is in the ventricular system and the remainder is in the subarachnoid space.(Ref : Vishram Singh textbook of clinical neuroanatomy second edition pg 194)",
+    "hint_exp": "🧩 Your crush solved \"CSF\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "8652ea1a-8909-488c-afbf-d9b43a807afe": {
-    "cop": 1,
-    "exp": "No explanation provided."
+    "cop": 0,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"dental amalgam\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "947b42f5-16ca-45b1-8182-f5230a187d20": {
-    "cop": 2,
-    "exp": "Ans. b. Siuin Siuins have been implicated in influencing a wide range of cellular processes like aging, transcription, apoptosis, inflammation and stress resistance, as well as energy efficiency and aleness during low-calorie situations. Siuins can also control circadian clocks and mitochondrial biogenesis. `Circulating levels of natriuretic peptides are useful adjunctive tools in the diagnosis of patients with HE Both B-type natriuretic peptide (BNP) and N-terminal pro-BNP, which are released from the failing hea, are relatively sensitive markers for the presence of HF with depressed EF,. they also are elevated in HF patients with a preserved EF, albeit to a lesser degree. However, it is hi )ant to recognize that natriuretic peptide levels increase with age and renal impairment, are more elevated in women, and can be elevated in right HF from any cause. Levels can be falsely low in obese patients and may normalize in some patients after appropriate treatment. Other biomarkers, such as troponin T and I, C-reactive protein, TNF receptors, and uric acid, may be elevated in HF and provide impoant prognostic information. Serial measurements of one or more biomarkers ultimately may help guide therapy in HF, but they are not currently recommended for this purpose.' Biomarkers in Hea Failure Circulating levels of natriuretic peptides are useful adjunctive tools in the diagnosis of patients with HF Both B-type natriuretic peptide (BNP) and N-terminal pro-BNP, which are released from the failing hea, are relatively sensitive markers for the presence of HF with depressed EF; they also are elevated in HF patients with a preserved EF, albeit to a lesser degreeQ However it is impoant to recognize that natriuretic peptide levels increase with age and renal impairment are more in women, and can be elevated in right HF from any cause. Levels can be falsely low in obese patients and may normalize in some patients after appropriate treatment Other biomarkers, such as troponin T and I, C-reactive protein, TNF receptors, and uric acid, may be elevated in HF and provide impoant prognostic informationQ."
+    "cop": 1,
+    "exp": "Ans. b. Siuin Siuins have been implicated in influencing a wide range of cellular processes like aging, transcription, apoptosis, inflammation and stress resistance, as well as energy efficiency and aleness during low-calorie situations. Siuins can also control circadian clocks and mitochondrial biogenesis. `Circulating levels of natriuretic peptides are useful adjunctive tools in the diagnosis of patients with HE Both B-type natriuretic peptide (BNP) and N-terminal pro-BNP, which are released from the failing hea, are relatively sensitive markers for the presence of HF with depressed EF,. they also are elevated in HF patients with a preserved EF, albeit to a lesser degree. However, it is hi )ant to recognize that natriuretic peptide levels increase with age and renal impairment, are more elevated in women, and can be elevated in right HF from any cause. Levels can be falsely low in obese patients and may normalize in some patients after appropriate treatment. Other biomarkers, such as troponin T and I, C-reactive protein, TNF receptors, and uric acid, may be elevated in HF and provide impoant prognostic information. Serial measurements of one or more biomarkers ultimately may help guide therapy in HF, but they are not currently recommended for this purpose.' Biomarkers in Hea Failure Circulating levels of natriuretic peptides are useful adjunctive tools in the diagnosis of patients with HF Both B-type natriuretic peptide (BNP) and N-terminal pro-BNP, which are released from the failing hea, are relatively sensitive markers for the presence of HF with depressed EF; they also are elevated in HF patients with a preserved EF, albeit to a lesser degreeQ However it is impoant to recognize that natriuretic peptide levels increase with age and renal impairment are more in women, and can be elevated in right HF from any cause. Levels can be falsely low in obese patients and may normalize in some patients after appropriate treatment Other biomarkers, such as troponin T and I, C-reactive protein, TNF receptors, and uric acid, may be elevated in HF and provide impoant prognostic informationQ.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the following\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "b39935ec-d16d-4706-a237-c481831885e4": {
-    "cop": 1,
-    "exp": "Answer- A. Hirschsprung's diseaseSurgery in Hirschsprung's discase aims to remove the aganglionic segment and'pull-through'ganglionic bowel to the anus (e.9. Swenson, Duhamel, Soave and transanal procedures) and can be done in a single stage or in several stages after first establishing a proximal stoma in normally innervated bowel."
+    "cop": 0,
+    "exp": "Answer- A. Hirschsprung's diseaseSurgery in Hirschsprung's discase aims to remove the aganglionic segment and'pull-through'ganglionic bowel to the anus (e.9. Swenson, Duhamel, Soave and transanal procedures) and can be done in a single stage or in several stages after first establishing a proximal stoma in normally innervated bowel.",
+    "hint_exp": "🎯 Think of \"done for\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "9c235e27-25b4-4f1d-8be4-3b152fa6f0c3": {
-    "cop": 2,
-    "exp": "1 ml of 7.5% sodium bicarbonate provides:- 0.9 meq bicarbonate"
+    "cop": 1,
+    "exp": "1 ml of 7.5% sodium bicarbonate provides:- 0.9 meq bicarbonate",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"sodium bicarbonate provides\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "ab977835-26e3-474f-bf37-3280e1ccb5f5": {
-    "cop": 1,
-    "exp": "Age of the baby- 7 months Baby can sit in tripod position by 6 months. Bi dexterous approach by 5th month. Monosyllables by 6th month. Stranger anxiety by 7th month"
+    "cop": 0,
+    "exp": "Age of the baby- 7 months Baby can sit in tripod position by 6 months. Bi dexterous approach by 5th month. Monosyllables by 6th month. Stranger anxiety by 7th month",
+    "hint_exp": "🧩 Your crush solved \"baby with tripod position\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "6452013a-4efd-4111-a30f-9e8ba969a250": {
-    "cop": 3,
-    "exp": "Spalding sign is a radiological sign depicting the loss of alignment and overriding of the bones of the cranial vault, which occur due to the shrinkage of the cerebrum following the death of the fetus. The sign appears early if the fetus has a veex rather than a breech presentation. This sign is seen in Maceration. Ref: The Essentials of Forensic Medicine And Toxicology by Dr. K. S. Narayan Reddy 27th edition; Pages 151;323; 382-3."
+    "cop": 2,
+    "exp": "Spalding sign is a radiological sign depicting the loss of alignment and overriding of the bones of the cranial vault, which occur due to the shrinkage of the cerebrum following the death of the fetus. The sign appears early if the fetus has a veex rather than a breech presentation. This sign is seen in Maceration. Ref: The Essentials of Forensic Medicine And Toxicology by Dr. K. S. Narayan Reddy 27th edition; Pages 151;323; 382-3.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "e6fcfe69-c45e-4b6f-b509-c1a31234c074": {
-    "cop": 1,
-    "exp": "White focal retinitis with overlying vitreous inflammation (\"headlight in the fog\") is seen in Toxoplasmosis"
+    "cop": 0,
+    "exp": "White focal retinitis with overlying vitreous inflammation (\"headlight in the fog\") is seen in Toxoplasmosis",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"fog appearance in retina\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "8a620825-f7bb-4acb-86b6-dbb49e0ec531": {
-    "cop": 3,
-    "exp": "Maximal tolerance dose (TD50/5) of liver is 40 Gy. Ref: X. Allen Li (2011), Chapter 20, \"Adaptive Radiation Therapy for Liver Cancer\", In the Book, \"Adaptive Radiation Therapy\", USA, Page 317 ; Clinical Radiation Oncology By Gunderson and Tepper, Page 715"
+    "cop": 2,
+    "exp": "Maximal tolerance dose (TD50/5) of liver is 40 Gy. Ref: X. Allen Li (2011), Chapter 20, \"Adaptive Radiation Therapy for Liver Cancer\", In the Book, \"Adaptive Radiation Therapy\", USA, Page 317 ; Clinical Radiation Oncology By Gunderson and Tepper, Page 715",
+    "hint_exp": "🎯 Think of \"whole liver\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "fc46ec62-2a92-4c0d-96d7-15ca4e2df585": {
-    "cop": 1,
-    "exp": "High energy compounds are:-\n\n\nPhosphate compounds:- Nucleotides (ATP, GTP, UTP, UDP-glucose), creatinine phosphate, arginine phosphate, 1, 3-bisphosphoglycerate, phosphoenolpyruvate, inorganic pyrophosphate, carbamoyl phosphate, aminoacyl adenylate (aminoacyl AMP).\nSulfur  compounds :- CoA derivatives (acetyl CoA, succinyl CoA, fatty acyl CoA, HMG CoA), S-adenosyl methionine (SAM), adenosine phosphosulfate."
+    "cop": 0,
+    "exp": "High energy compounds are:-\n\n\nPhosphate compounds:- Nucleotides (ATP, GTP, UTP, UDP-glucose), creatinine phosphate, arginine phosphate, 1, 3-bisphosphoglycerate, phosphoenolpyruvate, inorganic pyrophosphate, carbamoyl phosphate, aminoacyl adenylate (aminoacyl AMP).\nSulfur  compounds :- CoA derivatives (acetyl CoA, succinyl CoA, fatty acyl CoA, HMG CoA), S-adenosyl methionine (SAM), adenosine phosphosulfate.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"the following\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "2818cffe-5afb-4441-9d71-d568633345b2": {
-    "cop": 1,
-    "exp": "Pili: hair like structures several micrometers long. Acts as a virulence factor by promoting attachment to host cells and inhibiting phagocytosis. Pili are composed of repeating peptide subunits consisting of conserved and variable regions. Pili undergo antigenic and phase variations. Reference: Textbook of Microbiology; Anathanarayan and panicker's; 10th edition; Page no: 234"
+    "cop": 0,
+    "exp": "Pili: hair like structures several micrometers long. Acts as a virulence factor by promoting attachment to host cells and inhibiting phagocytosis. Pili are composed of repeating peptide subunits consisting of conserved and variable regions. Pili undergo antigenic and phase variations. Reference: Textbook of Microbiology; Anathanarayan and panicker's; 10th edition; Page no: 234",
+    "hint_exp": "🧩 Your crush solved \"gonococci\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "30d1de6c-af88-4f65-866c-f5140e4948f8": {
-    "cop": 1,
-    "exp": "Ans. is a, i.e. Breast cancerRef: Journal of head and neck oncology 2011Orbital metastasis occurs in 2to3% of cancers. Metastasis of breast cancer accounts for majority of ocular and orbital metastasis."
+    "cop": 0,
+    "exp": "Ans. is a, i.e. Breast cancerRef: Journal of head and neck oncology 2011Orbital metastasis occurs in 2to3% of cancers. Metastasis of breast cancer accounts for majority of ocular and orbital metastasis.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following most commonly\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "efab281a-1a5f-4d29-b230-6ddcb01d6616": {
-    "cop": 4,
-    "exp": "A i.e. 5'--> 3' exonuclease activity; B i.e. 5'-* 3' Polymerase activity; C i.e. 3'-* 5' exonuclease activity;"
+    "cop": 3,
+    "exp": "A i.e. 5'--> 3' exonuclease activity; B i.e. 5'-* 3' Polymerase activity; C i.e. 3'-* 5' exonuclease activity;",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"polymerase have\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "74de009c-4441-44a5-acec-0d212bde4594": {
-    "cop": 2,
-    "exp": "Taenia solium – Causative agent of CYSTICERCOSIS.\n→ Deﬁnitive host = Adult worm lives in jejunum of man.\n\nIntermediate host = Pig\nInfected stage for pig = Eggs containing hexacanth larvae, so eggs are infective for both man & pig.\n\nInfective stage for man:\n\nPork’s ﬂesh containing cysticercus cellulosae larvae or bladder worm.\nAlso by eggs either by ingestion in water/vegetables\nAutoinfection by ﬁngers contaminated with  eggs from perianal skin or feces and retrograde peristalsis."
+    "cop": 1,
+    "exp": "Taenia solium – Causative agent of CYSTICERCOSIS.\n→ Deﬁnitive host = Adult worm lives in jejunum of man.\n\nIntermediate host = Pig\nInfected stage for pig = Eggs containing hexacanth larvae, so eggs are infective for both man & pig.\n\nInfective stage for man:\n\nPork’s ﬂesh containing cysticercus cellulosae larvae or bladder worm.\nAlso by eggs either by ingestion in water/vegetables\nAutoinfection by ﬁngers contaminated with  eggs from perianal skin or feces and retrograde peristalsis.",
+    "hint_exp": "🎯 Think of \"uncooked pork\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "d3b51fcd-76cd-47f8-b598-c5ecc8a6ffaa": {
-    "cop": 1,
-    "exp": "An autosomal dominant disorder if present in the parents will always express itself phenotypically. So it is not possible for normal parents to have an child affected with an autosomal dominant disorder. Reference: GHAI Essential pediatrics, 8th edition"
+    "cop": 0,
+    "exp": "An autosomal dominant disorder if present in the parents will always express itself phenotypically. So it is not possible for normal parents to have an child affected with an autosomal dominant disorder. Reference: GHAI Essential pediatrics, 8th edition",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"effected male infant born\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "1795a9e0-2cd0-477c-9cdb-754a3d057a73": {
-    "cop": 3,
-    "exp": "Ref-KDT 6/e p143 Propranolol is used for controlling the performance anxiety, major manifestation of which are due to increase the sympathetic activity (tachycardia, palpilpalpit etc)"
+    "cop": 2,
+    "exp": "Ref-KDT 6/e p143 Propranolol is used for controlling the performance anxiety, major manifestation of which are due to increase the sympathetic activity (tachycardia, palpilpalpit etc)",
+    "hint_exp": "🧩 Your crush solved \"Propranolol selective Beta blocker\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "e28f1d92-f00c-43cf-b64f-45e34883a452": {
-    "cop": 1,
-    "exp": "Amygdala is considered as window of limbic system Ref: guyton and hall textbook of medical physiology 12 edition page number: 826,827,828"
+    "cop": 0,
+    "exp": "Amygdala is considered as window of limbic system Ref: guyton and hall textbook of medical physiology 12 edition page number: 826,827,828",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"limbic system\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "b48e6b59-a3e3-4e33-8db9-515f531870bb": {
-    "cop": 2,
-    "exp": "PERVASIVE DEVELOPMENTAL DISORDERS (AUTISM SPECTRUM DISORDER):- These are group of neurodevelopmental or neurobehavioral disorders, which are characterized by disturbance of social interaction, abnormalities of communication and restricted behaviors. Autism (Childhood autism, autistic disorder):- It is a neurodevelopmental disorder (neurobehavioral disorder) with a strong genetic basis. The onset is before the age of 3 years. Chromosome 7,2,4,15 and 19 have been found to contribute to the disorder. Fragile X syndrome, tuberous sclerosis, congenital rubella and phenylketonuria are associated with autism and are found with high frequency in children with autistic disorders. Around 70% of children with autism have comorbid mental retardation. The prevalence of perinatal insults like bih asphyxia has also been found to be higher in children with autism. symptoms:- * Impairment in social interaction: The patients with autism have impaired reciprocal social skills. As infants they have poor eye contact, lack social smile and anticipatory posture (the posture which the kid assumes when he wants to be picked up). They may have poor attachment to their parents and other impoant persons and may not acknowledge their presence (e.g. they won't come running to meet when the father returns to home after office). However, if the routine of these children is disturbed (e.g. if someone rearranges the furniture in their room), they may show excessive reaction. When they grow up, they may have difficulty in making friends and getting into a romantic relationship. * Impairment of communication and language: These children usually have significant delay in language milestones, whereas the motor milestones are usually normally achieved. The patients also have development of abnormal language such as difficulty in making sentences properly (aiculation difficulties) and pronoun reversals (using \"me\" instead of \"you\"). * Restricted, repetitive and stereotyped behavior: The activities and play of these children tend to be repetitive and boring. They may show stereotyped behaviors like hand wringing, spinning and banging. These children are quite resistant to changes and may become extremely upset if their routines are disturbed (e.g. bathing routine is changed or furnitures are rearranged in the room). These restrictive behaviors usually result from a lack of imagination and creativity. Apa from these three characteristic features, the patients with autism also have abnormal responses to stimuli. They may have a higher threshold for pain and may show intense interest in some sounds (like that of a ticking watch) and may totally ignore other sounds. They may also have self destructive behaviors like head banging, biting , scratching, etc. Precocious skills or islets of precocity: Some individuals with autism may have skills in ceain areas, which are much higher than their normal peers. For example, hyperlexia (early ability to ready very well), extremely good remote memory or calculating ability, etc. Treatment:- Educational interventions such as a structured classroom teaching along with use of behavioral therapy is the recommended treatment. The role of medications is limited. Atypical antipsychotics such as risperidone and aripiprazole have been used to reduce aggressive and self injurious behavior. Ref:- Psychiatry by Sandeep Govil; pg num:- 248"
+    "cop": 1,
+    "exp": "PERVASIVE DEVELOPMENTAL DISORDERS (AUTISM SPECTRUM DISORDER):- These are group of neurodevelopmental or neurobehavioral disorders, which are characterized by disturbance of social interaction, abnormalities of communication and restricted behaviors. Autism (Childhood autism, autistic disorder):- It is a neurodevelopmental disorder (neurobehavioral disorder) with a strong genetic basis. The onset is before the age of 3 years. Chromosome 7,2,4,15 and 19 have been found to contribute to the disorder. Fragile X syndrome, tuberous sclerosis, congenital rubella and phenylketonuria are associated with autism and are found with high frequency in children with autistic disorders. Around 70% of children with autism have comorbid mental retardation. The prevalence of perinatal insults like bih asphyxia has also been found to be higher in children with autism. symptoms:- * Impairment in social interaction: The patients with autism have impaired reciprocal social skills. As infants they have poor eye contact, lack social smile and anticipatory posture (the posture which the kid assumes when he wants to be picked up). They may have poor attachment to their parents and other impoant persons and may not acknowledge their presence (e.g. they won't come running to meet when the father returns to home after office). However, if the routine of these children is disturbed (e.g. if someone rearranges the furniture in their room), they may show excessive reaction. When they grow up, they may have difficulty in making friends and getting into a romantic relationship. * Impairment of communication and language: These children usually have significant delay in language milestones, whereas the motor milestones are usually normally achieved. The patients also have development of abnormal language such as difficulty in making sentences properly (aiculation difficulties) and pronoun reversals (using \"me\" instead of \"you\"). * Restricted, repetitive and stereotyped behavior: The activities and play of these children tend to be repetitive and boring. They may show stereotyped behaviors like hand wringing, spinning and banging. These children are quite resistant to changes and may become extremely upset if their routines are disturbed (e.g. bathing routine is changed or furnitures are rearranged in the room). These restrictive behaviors usually result from a lack of imagination and creativity. Apa from these three characteristic features, the patients with autism also have abnormal responses to stimuli. They may have a higher threshold for pain and may show intense interest in some sounds (like that of a ticking watch) and may totally ignore other sounds. They may also have self destructive behaviors like head banging, biting , scratching, etc. Precocious skills or islets of precocity: Some individuals with autism may have skills in ceain areas, which are much higher than their normal peers. For example, hyperlexia (early ability to ready very well), extremely good remote memory or calculating ability, etc. Treatment:- Educational interventions such as a structured classroom teaching along with use of behavioral therapy is the recommended treatment. The role of medications is limited. Atypical antipsychotics such as risperidone and aripiprazole have been used to reduce aggressive and self injurious behavior. Ref:- Psychiatry by Sandeep Govil; pg num:- 248",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"the diagnosis\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "64a31111-b539-43e0-b3a5-e5fd62cdfef3": {
-    "cop": 2,
-    "exp": "In elliptical incision, length to width ratio should be 3:1. PRINCIPLES OF SUTURING & ANASTOMOSES Each suture should be separated by a gap that is twice the thickness of the skinQ. When knots are cut sho, the free ends or 'ears' should be left at least 1-2 mm longQ. This is paicularly impoant with monofilament non-absorbablesQ. It has been suggested by Jenkins that a suture length to wound length ratio of 4:1 indicates the optimum size of tissue bites and of suture spacingQ. Anastomosis of vessels was pioneered by CarrelQ. Elliptical incisions must be at least 3 times of the width for the wound to heal without tension (Length to width ratio: 3:1Q)"
+    "cop": 1,
+    "exp": "In elliptical incision, length to width ratio should be 3:1. PRINCIPLES OF SUTURING & ANASTOMOSES Each suture should be separated by a gap that is twice the thickness of the skinQ. When knots are cut sho, the free ends or 'ears' should be left at least 1-2 mm longQ. This is paicularly impoant with monofilament non-absorbablesQ. It has been suggested by Jenkins that a suture length to wound length ratio of 4:1 indicates the optimum size of tissue bites and of suture spacingQ. Anastomosis of vessels was pioneered by CarrelQ. Elliptical incisions must be at least 3 times of the width for the wound to heal without tension (Length to width ratio: 3:1Q)",
+    "hint_exp": "🎯 Think of \"elliptical incision length width\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "ac5c4d7d-2e19-4caa-bff0-425096eb0311": {
-    "cop": 3,
-    "exp": "The three polyunsaturated fatty acids (PUFAs), namely, linoleic acid, linolenic acid, and arachidonic acid are called essential fatty acids.They are called essential fatty acids because human beings require these fatty acids but cannot synthesize them.Humans lack the enzymes to introduce double bonds at carbon atom beyond C9 in the fatty acid chain.Hence, human cannot synthesize linolenic acid and linolenic acid having double bonds beyond C9.Arachidonic acid can be synthesized from linoleic acid. Therefore, in deficiency of linoleic acid, arachidonic acid also becomes essential fatty acids.Therefore linoleic acid is the most impoant essential fatty acid as it serves as a basis for the production of other EFA."
+    "cop": 2,
+    "exp": "The three polyunsaturated fatty acids (PUFAs), namely, linoleic acid, linolenic acid, and arachidonic acid are called essential fatty acids.They are called essential fatty acids because human beings require these fatty acids but cannot synthesize them.Humans lack the enzymes to introduce double bonds at carbon atom beyond C9 in the fatty acid chain.Hence, human cannot synthesize linolenic acid and linolenic acid having double bonds beyond C9.Arachidonic acid can be synthesized from linoleic acid. Therefore, in deficiency of linoleic acid, arachidonic acid also becomes essential fatty acids.Therefore linoleic acid is the most impoant essential fatty acid as it serves as a basis for the production of other EFA.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Essential fatty acid\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "e0f89d99-2bee-4ab0-8add-91a5718a3c75": {
-    "cop": 2,
-    "exp": "Ans. (b) Mumps cause"
+    "cop": 1,
+    "exp": "Ans. (b) Mumps cause",
+    "hint_exp": "🧩 Your crush solved \"true\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "9dd25089-136c-4ad1-b4c9-fb569d9a8b32": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "db040c7b-ff18-41fe-8c9b-087753f81ce1": {
-    "cop": 3,
-    "exp": "Family planning is not a component of RCH-II. REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. PAGE NO - 411"
+    "cop": 2,
+    "exp": "Family planning is not a component of RCH-II. REF. PARK'S TEXTBOOK OF PREVENTIVE AND SOCIAL MEDICAL 21ST EDITION. PAGE NO - 411",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"major strategies except\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "c0585522-e10a-4946-a966-e97629cb96f4": {
-    "cop": 3,
-    "exp": "No explanation provided."
+    "cop": 2,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"disposed in which container\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "5d392dcd-94fc-4a41-b1d3-943e30dcd28f": {
-    "cop": 2,
-    "exp": "- human anatomical wastes are treated by incineration. - wastes types not to be incinerated are; pressurized gas container or radiographic wastes. plastics sealed ampules wastes with mercury or cadmium content. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:791,793 <\\p>"
+    "cop": 1,
+    "exp": "- human anatomical wastes are treated by incineration. - wastes types not to be incinerated are; pressurized gas container or radiographic wastes. plastics sealed ampules wastes with mercury or cadmium content. Reference : Park's textbook of preventive and social medicine, 23rd edition, pg no:791,793 <\\p>",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Incineration done\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "3e69ed0a-8ebf-4f37-aef0-eea28884493f": {
-    "cop": 4,
-    "exp": "Ans. D i.e. Hemolytic anemia"
+    "cop": 3,
+    "exp": "Ans. D i.e. Hemolytic anemia",
+    "hint_exp": "🧩 Your crush solved \"K administered to a newborn\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "2b4a5e63-4133-47d1-9aa8-380642854e2b": {
-    "cop": 3,
-    "exp": "Gastrointestinal stromal malignancy arises from interstitial cells of Cajal. These are submucosal tumors that are slow growing. Small lesions are found incidentally, but has the capacity to ulcerate and cause impressive bleeding. Large lesions can cause symptoms of weight loss, abdominal pain, fullness, early satiety, and bleeding. Two thirds of these tumors occur in the stomach. Epithelial cell stromal GIST is the most common cell type arising in the stomach, and cellular spindle type is the next most common. Almost all gastrointestinal stromal malignancy express c-KIT (CD117) or the related PDGFRA, as well as CD34. Ref: Schwaz's Principles of Surgery, 9e chapter 26, By Daniel T. Dempsey."
+    "cop": 2,
+    "exp": "Gastrointestinal stromal malignancy arises from interstitial cells of Cajal. These are submucosal tumors that are slow growing. Small lesions are found incidentally, but has the capacity to ulcerate and cause impressive bleeding. Large lesions can cause symptoms of weight loss, abdominal pain, fullness, early satiety, and bleeding. Two thirds of these tumors occur in the stomach. Epithelial cell stromal GIST is the most common cell type arising in the stomach, and cellular spindle type is the next most common. Almost all gastrointestinal stromal malignancy express c-KIT (CD117) or the related PDGFRA, as well as CD34. Ref: Schwaz's Principles of Surgery, 9e chapter 26, By Daniel T. Dempsey.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"the following type of cell\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "af805a1c-7599-44f4-922d-3ea99157c40c": {
-    "cop": 4,
-    "exp": "Topoisomers are DNA form that differ in linking number Linking number Number of times one strand of DNA has to be passed through the other strand to separate both the strands completely. Its an integer for a closed circular DNA. Topoisomers are DNA forms that differ in their linking number. Topoisomerases are the enzymes which can change the linking number of DNA. Histones H2A, H2B, H3 and H4 are known as the core histones, while histones H1/H5 are known as the linker histones"
+    "cop": 3,
+    "exp": "Topoisomers are DNA form that differ in linking number Linking number Number of times one strand of DNA has to be passed through the other strand to separate both the strands completely. Its an integer for a closed circular DNA. Topoisomers are DNA forms that differ in their linking number. Topoisomerases are the enzymes which can change the linking number of DNA. Histones H2A, H2B, H3 and H4 are known as the core histones, while histones H1/H5 are known as the linker histones",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"DNA form that differ in\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "11901991-5685-4421-bfc8-bb106b9cddb7": {
-    "cop": 3,
-    "exp": "C i.e. Increases gastric emptyingExplanation:The Main Actions of GLP-1 are:Stimulate insulin secretion (i.e., to act as an incretin hormone). Limits postprandialInhibit glucagon secretion. glucose excursionsInhibits gastrointestinal motility and secretion.Thus, acts as an \"enterogastrone\" and a part of the \"ileal brake\" mechanism.(GLP-1 decreases gastrointestinal motility via direct inhibitory effects on muscle and also inhibits postprandial acid secretion).GLP-1 also appears to be a physiological regulator of appetite and food intake.It induces satiety, reduces food intake hence leading to reduced weight gain.Recent discovery: (b) is able to promote p-cell mass expansion.Hence, the correct option would be option (c).The properties of GLP-1 described above, including glucose-dependent stimulation of insulin secretion and expansion of [3-cell mass, coupled with the inhibition of glucagon secretion and food intake, suggest that it would greatly complement current [3-cell therapies.Also Note:Synthesis of GLP:Formed in L cells of lower GIT.Secreted as Preproglucagon.Human preproglucagon: Found in pancreatic A cells, in L cells in the lower gastrointestinal tract and brain.It is the product of a single mRNA, but it is processed differently in different tissues.Pancreatic A cells: Processed to glucagon, major proglucagon fragment (MPGF) and residual glicentin-related polypeptide (GRPP).Intestinal L cells: Processed to glicentin, glucagon-like polypeptides 1 and 2 (GLP-1 and GLP-2), residual glicentin-related polypeptide (GRPP) and some oxyntomodulin is also formed.Levels of GLP rise after food intake. Principally sugars and fats release GLP."
+    "cop": 2,
+    "exp": "C i.e. Increases gastric emptyingExplanation:The Main Actions of GLP-1 are:Stimulate insulin secretion (i.e., to act as an incretin hormone). Limits postprandialInhibit glucagon secretion. glucose excursionsInhibits gastrointestinal motility and secretion.Thus, acts as an \"enterogastrone\" and a part of the \"ileal brake\" mechanism.(GLP-1 decreases gastrointestinal motility via direct inhibitory effects on muscle and also inhibits postprandial acid secretion).GLP-1 also appears to be a physiological regulator of appetite and food intake.It induces satiety, reduces food intake hence leading to reduced weight gain.Recent discovery: (b) is able to promote p-cell mass expansion.Hence, the correct option would be option (c).The properties of GLP-1 described above, including glucose-dependent stimulation of insulin secretion and expansion of [3-cell mass, coupled with the inhibition of glucagon secretion and food intake, suggest that it would greatly complement current [3-cell therapies.Also Note:Synthesis of GLP:Formed in L cells of lower GIT.Secreted as Preproglucagon.Human preproglucagon: Found in pancreatic A cells, in L cells in the lower gastrointestinal tract and brain.It is the product of a single mRNA, but it is processed differently in different tissues.Pancreatic A cells: Processed to glucagon, major proglucagon fragment (MPGF) and residual glicentin-related polypeptide (GRPP).Intestinal L cells: Processed to glicentin, glucagon-like polypeptides 1 and 2 (GLP-1 and GLP-2), residual glicentin-related polypeptide (GRPP) and some oxyntomodulin is also formed.Levels of GLP rise after food intake. Principally sugars and fats release GLP.",
+    "hint_exp": "🎯 Think of \"GLP\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "4003db67-988b-4875-a6db-c241edf0b13a": {
-    "cop": 1,
-    "exp": "Ans. is 'a' i.e. Quantitative data of a group of patients Statistical data are of two typesQualitativeQuantitativeQualitative data is one in which the size or magnitude of the characteristic or attribute cannot be measured.there is only one variable i.e. the number of persons and not the characteristic or attribute persons with the same charactersitic are counted to form specific groups or classes. eg: male/female, black/white, urban/suburban/rural, vaccinated/not vaccinated, treated/not treated.as seen in the example the attribute or characteristic, vaccinated/not vaccinated cannot be measured. Only the frequency of persons vaccinated or not vaccinated varies.Qualitative data are represented in Nominal or Ordinal scale.Quantitative data is one in which the characteristic or attribute is variable. It has a magnitude that can be measured. eg. : height, weight, temperature, blood pressure, pulse ratehere there are two variables, both the characteristic i.e. height or weight and frequency of persons. quantitative data are represented on Interval or Ratio scales.The statistical details presented, for easy viewing and understanding, in the form of tables, graphs and diagrams.Quantitative data can be presented through following graphs :Histogram Frequency polygon Frequency curve Line chart or graph Scatter or dot diagramQualitative data can be represented through following diagrams :Bar diagramPie or sector diagramPictogramMap diagram or spot map."
+    "cop": 0,
+    "exp": "Ans. is 'a' i.e. Quantitative data of a group of patients Statistical data are of two typesQualitativeQuantitativeQualitative data is one in which the size or magnitude of the characteristic or attribute cannot be measured.there is only one variable i.e. the number of persons and not the characteristic or attribute persons with the same charactersitic are counted to form specific groups or classes. eg: male/female, black/white, urban/suburban/rural, vaccinated/not vaccinated, treated/not treated.as seen in the example the attribute or characteristic, vaccinated/not vaccinated cannot be measured. Only the frequency of persons vaccinated or not vaccinated varies.Qualitative data are represented in Nominal or Ordinal scale.Quantitative data is one in which the characteristic or attribute is variable. It has a magnitude that can be measured. eg. : height, weight, temperature, blood pressure, pulse ratehere there are two variables, both the characteristic i.e. height or weight and frequency of persons. quantitative data are represented on Interval or Ratio scales.The statistical details presented, for easy viewing and understanding, in the form of tables, graphs and diagrams.Quantitative data can be presented through following graphs :Histogram Frequency polygon Frequency curve Line chart or graph Scatter or dot diagramQualitative data can be represented through following diagrams :Bar diagramPie or sector diagramPictogramMap diagram or spot map.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Histogram used describe\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "fea2bf74-f097-4e61-9d39-bb5843aaf85d": {
-    "cop": 1,
-    "exp": "Ans. Fungal corneal ulcer"
+    "cop": 0,
+    "exp": "Ans. Fungal corneal ulcer",
+    "hint_exp": "🧩 Your crush solved \"Satellite lesions cornea seen\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "479fc664-b3cd-4f2b-b077-d5b291c60ddd": {
-    "cop": 2,
-    "exp": "A health worker (MPW-male) must visit all houses in his area once every fonight (2 weeks) to look for any fever case in last 15 days. If a case of fever is found then a slide of such case is prepared at his home and sent to PHC for fuher analysis. EXTRA EDGE: Active case detection (ACD): Done in rural areas with blood smears collected by MPWs/ANM during fonightly house visits. Passive case detection (PCD): Done in fever cases repoing to peripheral health volunteers/ ASHAs, at sub-centres, malaria clinic, CHC & other secondary, teiary level health institutions that patients visit for treatment. ASHA & other volunteer workers provide diagnostic services by RDTs ; at PHCs by examination of blood smears."
+    "cop": 1,
+    "exp": "A health worker (MPW-male) must visit all houses in his area once every fonight (2 weeks) to look for any fever case in last 15 days. If a case of fever is found then a slide of such case is prepared at his home and sent to PHC for fuher analysis. EXTRA EDGE: Active case detection (ACD): Done in rural areas with blood smears collected by MPWs/ANM during fonightly house visits. Passive case detection (PCD): Done in fever cases repoing to peripheral health volunteers/ ASHAs, at sub-centres, malaria clinic, CHC & other secondary, teiary level health institutions that patients visit for treatment. ASHA & other volunteer workers provide diagnostic services by RDTs ; at PHCs by examination of blood smears.",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"his\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "33e9dc6c-da56-4dd1-ab7c-e977f42d641c": {
-    "cop": 1,
-    "exp": "(a) Voice therapy and PPI(Ref. Cummings, 6th ed., 906; Scott Brown, 8th ed., Vol 3; 951; 984)Initial management of vocal nodule is conservative by advising voice rest and speech therapy. Pharyngo-laryngeal reflux of acid is a common aggravating cause of most of the laryngeal pathologies, so PPI also will benefit this singer.Microlaryngeal excision with knife or LASER is done in persistent nodules despite speech therapyVocal cord stripping is done in keratosis laryngis/ leukoplakia and Reinke's oedema."
+    "cop": 0,
+    "exp": "(a) Voice therapy and PPI(Ref. Cummings, 6th ed., 906; Scott Brown, 8th ed., Vol 3; 951; 984)Initial management of vocal nodule is conservative by advising voice rest and speech therapy. Pharyngo-laryngeal reflux of acid is a common aggravating cause of most of the laryngeal pathologies, so PPI also will benefit this singer.Microlaryngeal excision with knife or LASER is done in persistent nodules despite speech therapyVocal cord stripping is done in keratosis laryngis/ leukoplakia and Reinke's oedema.",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"lady singer with singer\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "325bbb66-2f48-47fc-a334-37ee5353a27d": {
-    "cop": 2,
-    "exp": "Low bih weight (LBW): Bih weight less than 2500grams (2.5 kg) . It includes both pre-term (<37 weeks POG) and full-term (>37 weeks POG) babies. Prevelence of LBW: 15% (World); 18% (India); If cutoff for LBW is reduced to 2.0 kg, expected prevelence of LBW inn India will be 5.5% LBW is regardless of gestational age. Depending on the population, the percentage of LBW be based on measurements of atleast 500 babies. Goal for LBW in National Health Policy 1983: Reduce LBW to <10% by 2000. Ref: Park 22th edition Pgno: 495"
+    "cop": 1,
+    "exp": "Low bih weight (LBW): Bih weight less than 2500grams (2.5 kg) . It includes both pre-term (<37 weeks POG) and full-term (>37 weeks POG) babies. Prevelence of LBW: 15% (World); 18% (India); If cutoff for LBW is reduced to 2.0 kg, expected prevelence of LBW inn India will be 5.5% LBW is regardless of gestational age. Depending on the population, the percentage of LBW be based on measurements of atleast 500 babies. Goal for LBW in National Health Policy 1983: Reduce LBW to <10% by 2000. Ref: Park 22th edition Pgno: 495",
+    "hint_exp": "🎯 Think of \"LBW of babies\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "37919cae-87be-4b41-9495-4bc6e4dfb652": {
-    "cop": 1,
-    "exp": "Ans. A. Does not have the enzyme glucose-6-phosphataseThe liver has the enzyme glucose-6- phosphatase, but muscle does not. Consequently, muscle is incapable of releasing glucose from glucose 6- phosphate. Glucose undergoes reactions other than glycolysis. Both liver and muscle have glucose-1- phosphatase and glycogen phosphorylase enzymes. The synthesis of glucose, called gluconeogenesis, is carried out mostly in the liver and, to some extent, in the kidneys."
+    "cop": 0,
+    "exp": "Ans. A. Does not have the enzyme glucose-6-phosphataseThe liver has the enzyme glucose-6- phosphatase, but muscle does not. Consequently, muscle is incapable of releasing glucose from glucose 6- phosphate. Glucose undergoes reactions other than glycolysis. Both liver and muscle have glucose-1- phosphatase and glycogen phosphorylase enzymes. The synthesis of glucose, called gluconeogenesis, is carried out mostly in the liver and, to some extent, in the kidneys.",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Both liver muscle contain\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "43c1f8fd-6224-42f6-b826-15df423b2615": {
-    "cop": 4,
-    "exp": "Correction of the primary cause is the initial treatment of choice in gynecomastia. Indications for surgical treatment of gynecomastia includes: gynecomastia persisting for long duration, psychologic or cosmetic problems, continued growth, tenderness or suspicion of malignancy. Surgical treatment of choice in such cases includes simple liposuction with minimal glandular resection through a periareolar incision as necessary. Subcutaneous mastectomy is not the initial surgical approach. Ref: Harrison's Principles of Internal Medicine, 16th Edition. Page 2192; R Alagappan, Manual Of Practical Medicine, 3rd Edition, Page 602"
+    "cop": 3,
+    "exp": "Correction of the primary cause is the initial treatment of choice in gynecomastia. Indications for surgical treatment of gynecomastia includes: gynecomastia persisting for long duration, psychologic or cosmetic problems, continued growth, tenderness or suspicion of malignancy. Surgical treatment of choice in such cases includes simple liposuction with minimal glandular resection through a periareolar incision as necessary. Subcutaneous mastectomy is not the initial surgical approach. Ref: Harrison's Principles of Internal Medicine, 16th Edition. Page 2192; R Alagappan, Manual Of Practical Medicine, 3rd Edition, Page 602",
+    "hint_exp": "🧩 Your crush solved \"Gynecomastia\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   },
   "70706eff-a80b-4ada-ab31-ea8b440aa406": {
-    "cop": 2,
-    "exp": "Ans. is 'b' i.e., Reiter's syndrome Occurrence of Arthritis and conjunctivitis following urinary tract infection suggests the diagnosis of Reiter's syndrome.Reiter's syndrome refers to the triad ofReactive arthritisConjunctivitisUrethritisBut this term has fallen out of favour particularly following recent revelations of Reiter's involvement in war crimes during World War II. Now the term Reactive arthritis is used to describe this condition.Features of Reactive arthritisAsymmetric, oligo articular inflammatory arthritis of lower extremities.Arthritis most commonly affects the knees and the ankles. cultures of synovium and synovial fluid are sterile therefore the term reactive arthritis.Enthesitis (plantar fascia inserts onto the inferior aspect of calcaneus, this produces heel pain)Dactylitis (usually in the form of sausage toes).Associated with antecedent genitourinary and gastro- intestinal infections. Genitourinary infections with chlamydia trachomatis and gastrointestinal infections with shigella, salmonella and yersinia species is common.Axial skeleton involvement characterized by unilateral sacroiliitis. This is seen in 20% cases.Extraarticular involvement which includes -Conjunctivitis Anterior uveitis Oral ulcer Circulate balanitisKeratoderma blennorrhagicum (papulosquamous rash of soles and palms)Laboratory diagnosis -Mild anemiaModest LeucocytosisModerate to marked thrombocytosisElevated E.S.R.* Also know * Criteria for the diagnosis of Bechet's diseaseClinical featureDefinitionRecurrent oral ulcerationMinor aphthous, major aphthous or herpetiform ulcerations observed by physical or patient that recurred at least three times over a 12 month period.Plus two of the following criteria'sRecurrent genital ulcerationAphthous ulceration or scarring observed by patient or physician.Ocular lesionsAnterior uveitis, posterior uveitis or cells in vitreous on slit lamp examination, or retinal vasculitis observed by ophthalmologistSkin lesions"
+    "cop": 1,
+    "exp": "Ans. is 'b' i.e., Reiter's syndrome Occurrence of Arthritis and conjunctivitis following urinary tract infection suggests the diagnosis of Reiter's syndrome.Reiter's syndrome refers to the triad ofReactive arthritisConjunctivitisUrethritisBut this term has fallen out of favour particularly following recent revelations of Reiter's involvement in war crimes during World War II. Now the term Reactive arthritis is used to describe this condition.Features of Reactive arthritisAsymmetric, oligo articular inflammatory arthritis of lower extremities.Arthritis most commonly affects the knees and the ankles. cultures of synovium and synovial fluid are sterile therefore the term reactive arthritis.Enthesitis (plantar fascia inserts onto the inferior aspect of calcaneus, this produces heel pain)Dactylitis (usually in the form of sausage toes).Associated with antecedent genitourinary and gastro- intestinal infections. Genitourinary infections with chlamydia trachomatis and gastrointestinal infections with shigella, salmonella and yersinia species is common.Axial skeleton involvement characterized by unilateral sacroiliitis. This is seen in 20% cases.Extraarticular involvement which includes -Conjunctivitis Anterior uveitis Oral ulcer Circulate balanitisKeratoderma blennorrhagicum (papulosquamous rash of soles and palms)Laboratory diagnosis -Mild anemiaModest LeucocytosisModerate to marked thrombocytosisElevated E.S.R.* Also know * Criteria for the diagnosis of Bechet's diseaseClinical featureDefinitionRecurrent oral ulcerationMinor aphthous, major aphthous or herpetiform ulcerations observed by physical or patient that recurred at least three times over a 12 month period.Plus two of the following criteria'sRecurrent genital ulcerationAphthous ulceration or scarring observed by patient or physician.Ocular lesionsAnterior uveitis, posterior uveitis or cells in vitreous on slit lamp examination, or retinal vasculitis observed by ophthalmologistSkin lesions",
+    "hint_exp": "💡 Story Hint: Your crush once explained this concept — \"year male burning micturition\" — using a real-life example so vivid you'd never forget it. That clarity is yours now. The answer is locked in memory like their smile."
   },
   "2147fa11-4f93-4e70-b2c9-3374de3bf3d2": {
-    "cop": 2,
-    "exp": "Most common type of ASD is ostium secundum. Ref : Ghai essential of pediatrics, eighth edition, p.no:413"
+    "cop": 1,
+    "exp": "Most common type of ASD is ostium secundum. Ref : Ghai essential of pediatrics, eighth edition, p.no:413",
+    "hint_exp": "📚 Remember: Your crush aced this question about \"atrial septal defect\" without hesitation. \"It's about connecting the dots,\" they said. You have all the dots. Connect them."
   },
   "e531575e-3f0d-4989-a9a3-3787ca114e1c": {
-    "cop": 2,
-    "exp": "No explanation provided."
+    "cop": 1,
+    "exp": null,
+    "hint_exp": "🎯 Think of \"Scrotum analogus\" as your crush's secret weapon on every MCQ paper. They always get it right. Now so will you."
   },
   "be5d52a1-3b18-407b-b7d9-5a92f3cf213a": {
-    "cop": 4,
-    "exp": "VitaminA"
+    "cop": 3,
+    "exp": "VitaminA",
+    "hint_exp": "🌟 Mnemonic: Your crush compared \"Vitamin which prevents Oxidation\" to something so everyday and relatable that it clicked instantly. That click is contagious. Feel it now."
   },
   "06fb51f0-a506-406b-bc9f-5d3ce17d0290": {
-    "cop": 3,
-    "exp": "Parkland formula calculates the fluid to be replaced in the first 24 hours by the following formulatotal percentage body surface area x weight (kg) x 4 = volume (mL). Half this volume is given in the first 8 hours and the second half is given in the subsequent 16 hours.So 40*60*4 = 9600 half of that in first 8 hrs ie; 4800 ml.Fluid in parkland formula is Ringer lactateBailey and Love 26th edition pg: 392"
+    "cop": 2,
+    "exp": "Parkland formula calculates the fluid to be replaced in the first 24 hours by the following formulatotal percentage body surface area x weight (kg) x 4 = volume (mL). Half this volume is given in the first 8 hours and the second half is given in the subsequent 16 hours.So 40*60*4 = 9600 half of that in first 8 hrs ie; 4800 ml.Fluid in parkland formula is Ringer lactateBailey and Love 26th edition pg: 392",
+    "hint_exp": "🧩 Your crush solved \"60Kg with burns what\" like a puzzle — methodically, confidently, and with a smile. That's your approach too. Piece by piece. Always right."
   }
 }
