@@ -1,0 +1,514 @@
+{
+  "test": [
+    {
+      "question": "Who is considered the father of Human Geography?",
+      "options": ["Eratosthenes", "Carl Ritter", "Ptolemy", "Humboldt"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a sub-field of Human Geography?",
+      "options": ["Geomorphology", "Climatology", "Population Geography", "Oceanography"],
+      "correct": 2
+    },
+    {
+      "question": "Human Geography studies the relationship between:",
+      "options": ["Land and water", "Humans and nature", "Mountains and rivers", "Weather and soil"],
+      "correct": 1
+    },
+    {
+      "question": "Which approach studies geography through regions?",
+      "options": ["Systematic", "Regional", "Quantitative", "Qualitative"],
+      "correct": 1
+    },
+    {
+      "question": "Which is NOT a branch of Human Geography?",
+      "options": ["Economic Geography", "Political Geography", "Urban Geography", "Soil Geography"],
+      "correct": 3
+    },
+    {
+      "question": "Which factor does NOT influence population distribution?",
+      "options": ["Climate", "Soil", "Tides", "Relief"],
+      "correct": 2
+    },
+    {
+      "question": "In Human Geography, the term 'demography' refers to:",
+      "options": ["Culture", "Migration", "Population study", "Urbanization"],
+      "correct": 2
+    },
+    {
+      "question": "Which state has the highest population in India (as per latest census)?",
+      "options": ["Uttar Pradesh", "Maharashtra", "Bihar", "West Bengal"],
+      "correct": 0
+    },
+    {
+      "question": "The average number of persons per square kilometer is called:",
+      "options": ["Population growth", "Population density", "Population explosion", "Population mobility"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an example of push factor in migration?",
+      "options": ["Better job", "Good education", "Flood", "Healthcare"],
+      "correct": 2
+    },
+    {
+      "question": "Which state in India has the lowest population density?",
+      "options": ["Goa", "Sikkim", "Arunachal Pradesh", "Nagaland"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the most urbanized state in India?",
+      "options": ["Tamil Nadu", "Kerala", "Maharashtra", "Goa"],
+      "correct": 3
+    },
+    {
+      "question": "India's rank in the world in terms of population is:",
+      "options": ["1st", "2nd", "3rd", "4th"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is NOT a factor of human development?",
+      "options": ["Income", "Life expectancy", "Literacy", "Temperature"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a renewable resource?",
+      "options": ["Petroleum", "Coal", "Solar energy", "Natural gas"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is NOT an agricultural region in India?",
+      "options": ["Wheat region", "Rice region", "Cotton region", "Silicon region"],
+      "correct": 3
+    },
+    {
+      "question": "Which crop is known as 'golden fiber'?",
+      "options": ["Cotton", "Wheat", "Jute", "Rice"],
+      "correct": 2
+    },
+    {
+      "question": "Which mineral is known as 'brown gold'?",
+      "options": ["Lignite", "Bauxite", "Iron ore", "Copper"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is a major iron ore producing state?",
+      "options": ["Punjab", "Kerala", "Odisha", "Gujarat"],
+      "correct": 2
+    },
+    {
+      "question": "Which city is known as the 'Silicon Valley of India'?",
+      "options": ["Mumbai", "Chennai", "Hyderabad", "Bengaluru"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these sectors contributes the most to India's GDP?",
+      "options": ["Agriculture", "Industry", "Services", "Forestry"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is NOT a feature of industrial location?",
+      "options": ["Raw material", "Power", "Culture", "Transport"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these rivers is most polluted in India?",
+      "options": ["Ganga", "Godavari", "Narmada", "Kaveri"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is a man-made resource?",
+      "options": ["Coal", "Air", "Plastic", "Water"],
+      "correct": 2
+    },
+    {
+      "question": "Which country is the largest trading partner of India (as of recent years)?",
+      "options": ["USA", "China", "UAE", "Germany"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is a traditional tribal economic activity?",
+      "options": ["Fishing", "Hunting", "Weaving", "Agribusiness"],
+      "correct": 1
+    },
+    {
+      "question": "Which Indian state has the highest literacy rate?",
+      "options": ["Tamil Nadu", "Kerala", "Punjab", "Maharashtra"],
+      "correct": 1
+    },
+    {
+      "question": "Which city in India has the busiest port?",
+      "options": ["Mumbai", "Kolkata", "Chennai", "Kochi"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not part of the 'Golden Quadrilateral'?",
+      "options": ["Delhi", "Mumbai", "Hyderabad", "Chennai"],
+      "correct": 2
+    },
+    {
+      "question": "Which project is linked with linking rivers in India?",
+      "options": ["Jal Jeevan Mission", "Namami Gange", "Ken-Betwa Link", "Ganga Action Plan"],
+      "correct": 2
+    },
+    {
+      "question": "Which map shows temperature or rainfall distribution?",
+      "options": ["Political map", "Thematic map", "Topographic map", "Cadastral map"],
+      "correct": 1
+    },
+    {
+      "question": "Which color represents high altitude on a map?",
+      "options": ["Blue", "Green", "Yellow", "Brown"],
+      "correct": 3
+    },
+    {
+      "question": "What does a topographic map show?",
+      "options": ["Weather", "Relief and features", "Rainfall", "Population"],
+      "correct": 1
+    },
+    {
+      "question": "Which scale shows more detail?",
+      "options": ["Small scale", "Large scale", "Verbal scale", "Linear scale"],
+      "correct": 1
+    },
+    {
+      "question": "The direction to the top of a map is usually:",
+      "options": ["South", "North", "East", "West"],
+      "correct": 1
+    },
+    {
+      "question": "Which instrument is used to measure direction on a map?",
+      "options": ["Barometer", "Thermometer", "Compass", "Altimeter"],
+      "correct": 2
+    },
+    {
+      "question": "Which method is used to show population density on a map?",
+      "options": ["Dots", "Contours", "Choropleth", "Isobars"],
+      "correct": 2
+    },
+    {
+      "question": "Which symbol on a map represents a railway line?",
+      "options": ["Broken line", "Solid black line", "Dashed red line", "Thick blue line"],
+      "correct": 0
+    },
+    {
+      "question": "Which map feature helps calculate real distances?",
+      "options": ["Legend", "Title", "Scale", "Index"],
+      "correct": 2
+    },
+    {
+      "question": "Which projection preserves shape but distorts area?",
+      "options": ["Equal-area", "Conformal", "Azimuthal", "Cylindrical"],
+      "correct": 1
+    },
+    {
+      "question": "A map with scale 1:50,000 is a:",
+      "options": ["Large scale map", "Small scale map", "Sketch", "Atlas"],
+      "correct": 0
+    },
+    {
+      "question": "Contour lines that are close together show:",
+      "options": ["Flat land", "Steep slope", "River valley", "Plateau"],
+      "correct": 1
+    },
+    {
+      "question": "Which direction is opposite to Northwest?",
+      "options": ["Southeast", "Southwest", "Northeast", "East"],
+      "correct": 0
+    },
+    {
+      "question": "Which tool is used to find elevation on a map?",
+      "options": ["Legend", "Scale", "Contour lines", "Compass"],
+      "correct": 2
+    },
+    {
+      "question": "Thematic maps are useful for showing:",
+      "options": ["Roads", "Relief", "Population density", "Boundaries"],
+      "correct": 2
+    },
+    {
+      "question": "Which is NOT a conventional symbol?",
+      "options": ["Triangle for mountain", "Circle for village", "Star for capital", "Rectangle for river"],
+      "correct": 3
+    },
+    {
+      "question": "Which technique is best to represent distribution of crops?",
+      "options": ["Dot method", "Choropleth", "Pie chart", "Isoline"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following maps would be used in a survey?",
+      "options": ["Weather map", "Thematic map", "Cadastral map", "Wall map"],
+      "correct": 2
+    },
+    {
+      "question": "Which type of scale is written as 1cm = 5km?",
+      "options": ["Ratio scale", "Linear scale", "Verbal scale", "Graphical scale"],
+      "correct": 2
+    },
+    {
+      "question": "A legend on a map explains:",
+      "options": ["Scale", "Direction", "Symbols used", "Area"],
+      "correct": 2
+    },
+    
+    
+    {
+      "question": "Which geographer proposed the concept of 'Possibilism' in Human Geography?",
+      "options": ["Friedrich Ratzel", "Paul Vidal de la Blache", "Carl Sauer", "Griffith Taylor"],
+      "correct": 1
+    },
+    {
+      "question": "The 'Limits to Growth' model published by the Club of Rome primarily critiques:",
+      "options": ["Agricultural sustainability", "Overpopulation", "Economic liberalization", "Resource overexploitation"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following best explains the term 'Space-Time Compression'?",
+      "options": [
+        "Geographical shrinking due to tectonic movement",
+        "Reduction in perceived distance due to technology",
+        "Time zone adjustments for globalization",
+        "Standardization of time scales globally"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which concept is most closely associated with Edward Ullman?",
+      "options": ["Complementarity", "Possibilism", "Functional Region", "Cultural Ecology"],
+      "correct": 0
+    },
+    {
+      "question": "Which migration theory is based on economic push-pull forces?",
+      "options": ["Zelinsky's model", "Lee’s Migration Theory", "Gravity Model", "Ravenstein’s Laws"],
+      "correct": 1
+    },
+    {
+      "question": "Which state exhibits the highest net in-migration in India according to Census 2011?",
+      "options": ["Delhi", "Maharashtra", "Karnataka", "Gujarat"],
+      "correct": 0
+    },
+    {
+      "question": "According to Human Development Report 2020, India's HDI rank was:",
+      "options": ["129", "131", "144", "115"],
+      "correct": 1
+    },
+    {
+      "question": "Which pair of states represents contrasting fertility rates in India?",
+      "options": ["Uttar Pradesh and Bihar", "Kerala and Uttar Pradesh", "Tamil Nadu and Karnataka", "Punjab and Haryana"],
+      "correct": 1
+    },
+    {
+      "question": "Which river is most affected by the problem of eutrophication in India?",
+      "options": ["Yamuna", "Krishna", "Brahmaputra", "Ganga"],
+      "correct": 0
+    },
+    {
+      "question": "Which economic model explains core-periphery relationships in development geography?",
+      "options": ["Von Thünen's Model", "World Systems Theory", "Demographic Transition", "Rank-Size Rule"],
+      "correct": 1
+    },
+    {
+      "question": "Which Indian scheme aims at doubling farmers’ income?",
+      "options": ["PMFBY", "PMKSY", "PM-AASHA", "PM-KISAN"],
+      "correct": 2
+    },
+    {
+      "question": "Which type of industries form the base of India’s Industrial triangle (Mumbai-Pune-Nashik)?",
+      "options": ["Agro-based", "IT & Service", "Automobile & Petrochemical", "Heavy Engineering"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a true statement about India's natural gas distribution?",
+      "options": [
+        "Mainly found in Rajasthan",
+        "Largely offshore in Bombay High and KG Basin",
+        "Mostly imported from Africa",
+        "Occurs in the Deccan Plateau"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The Inland Waterways Authority of India manages which major project?",
+      "options": ["Sagarmala", "Bharatmala", "NW-1 Ganga Waterway", "Golden Quadrilateral"],
+      "correct": 2
+    },
+    {
+      "question": "The IT Corridor in India that stretches from Bengaluru to Chennai is part of:",
+      "options": ["Digital India Mission", "Software Technology Parks", "Tech Expressway", "Silicon Triangle"],
+      "correct": 1
+    },
+    {
+      "question": "The lowest sex ratio in India is recorded in which union territory?",
+      "options": ["Dadra & Nagar Haveli", "Lakshadweep", "Daman and Diu", "Chandigarh"],
+      "correct": 2
+    },
+    {
+      "question": "Which region is most prone to 'riverine floods' due to Brahmaputra?",
+      "options": ["Assam Valley", "Terai Region", "Sundarbans", "Kosi Basin"],
+      "correct": 0
+    },
+    {
+      "question": "Which Indian city is considered the most sustainable according to the Ease of Living Index?",
+      "options": ["Pune", "Bangalore", "Mumbai", "Chandigarh"],
+      "correct": 3
+    },
+    {
+      "question": "Which crop zone does not fit into the cropping patterns of India?",
+      "options": ["Rice-Wheat zone", "Cotton-Jowar zone", "Barley-Pulses zone", "Wheat-Maize zone"],
+      "correct": 3
+    },
+    {
+      "question": "Which among the following is not a part of the smart cities mission?",
+      "options": ["Command and Control Centres", "Digital Literacy", "Water Supply Management", "Intelligent Transport System"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a high-resolution satellite used for resource mapping in India?",
+      "options": ["INSAT", "IRS-1C", "GSAT-6", "EDUSAT"],
+      "correct": 1
+    },
+    {
+      "question": "Which term defines the representation of 3D terrain on a 2D map?",
+      "options": ["Relief sketching", "Contour representation", "Choropleth mapping", "Cartographic interpolation"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a distortion in Mercator Projection?",
+      "options": ["Area", "Shape", "Direction", "Distance"],
+      "correct": 0
+    },
+    {
+      "question": "Which type of map is best suited for showing rural land ownership?",
+      "options": ["Topographic", "Cadastral", "Thematic", "Atlas"],
+      "correct": 1
+    },
+    {
+      "question": "Which symbol would typically represent a permanent well in SOI topographic maps?",
+      "options": ["Square with dot", "Triangle", "Circle with cross", "Solid black dot"],
+      "correct": 0
+    },
+    {
+      "question": "In a topographic map, blue color generally denotes:",
+      "options": ["Water features", "Roads", "Railways", "Urban area"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these techniques uses elevation data to model land surface digitally?",
+      "options": ["Choropleth", "DEM", "GPS", "GIS"],
+      "correct": 1
+    },
+    {
+      "question": "Which feature will appear highest in a contour map?",
+      "options": ["Hillock", "River valley", "Saddle", "Spur"],
+      "correct": 0
+    },
+    {
+      "question": "Isopleth maps are useful for showing:",
+      "options": ["Discontinuous data", "Elevation zones", "Climatic elements", "Urban density"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is NOT an advantage of large-scale maps?",
+      "options": ["Detailed information", "Greater accuracy", "Covers large area", "Precise plotting"],
+      "correct": 2
+    },
+    {
+      "question": "Which remote sensing sensor is most useful for land cover classification?",
+      "options": ["LIDAR", "Panchromatic", "Multispectral", "Thermal"],
+      "correct": 2
+    },
+    {
+      "question": "Which statement about GIS is false?",
+      "options": [
+        "It can store spatial data",
+        "It analyzes tabular data only",
+        "It allows layering of maps",
+        "It is used in urban planning"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which line divides drainage basins on a topographic map?",
+      "options": ["Spur", "Ridge", "Water divide", "Saddle"],
+      "correct": 2
+    },
+    {
+      "question": "The scale 1:10,000 is considered:",
+      "options": ["Large-scale", "Medium-scale", "Small-scale", "No scale"],
+      "correct": 0
+    },
+    {
+      "question": "Which among the following is an example of a dynamic map?",
+      "options": ["Topographic map", "Web-based Google Map", "Relief map", "Weather atlas"],
+      "correct": 1
+    },
+    {
+      "question": "Which term is used for measuring angular direction on a map?",
+      "options": ["Bearing", "Gradient", "Aspect", "Slope"],
+      "correct": 0
+    },
+    {
+      "question": "The best method to represent uneven population distribution is:",
+      "options": ["Bar graph", "Dot map", "Isopleth map", "Flow map"],
+      "correct": 1
+    },
+    {
+      "question": "Which method is preferred to show forest area percentage?",
+      "options": ["Isoline", "Pie chart", "Histogram", "Flow diagram"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following elements helps in orientation of a map?",
+      "options": ["Grid", "North line", "Key", "Contour"],
+      "correct": 1
+    },
+    {
+      "question": "Which agency is responsible for mapping India at large scales?",
+      "options": ["Survey of India", "NRSC", "DRDO", "CSIR"],
+      "correct": 0
+    },
+    {
+      "question": "The elevation of a river in a topographic sheet is shown by:",
+      "options": ["Benchmark", "Contour interval", "Spot height", "Blue line"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these would NOT be found on a 1:50,000 topographic sheet?",
+      "options": ["Contours", "Railways", "Population data", "Rivers"],
+      "correct": 2
+    },
+    {
+      "question": "The difference between two contour lines represents:",
+      "options": ["Slope", "Aspect", "Relief", "Vertical interval"],
+      "correct": 3
+    },
+    {
+      "question": "Which type of thematic map would best show wind patterns?",
+      "options": ["Choropleth", "Isoline", "Flow-line", "Dot map"],
+      "correct": 2
+    },
+    {
+      "question": "Which map element defines the ratio of distance on map to ground?",
+      "options": ["Legend", "Scale", "Grid", "Orientation"],
+      "correct": 1
+    },
+    {
+      "question": "Which Indian remote sensing satellite provides night-time imaging?",
+      "options": ["Cartosat-2", "RISAT-2", "INSAT-3D", "GSAT-6"],
+      "correct": 1
+    },
+    {
+      "question": "The formula for calculating actual ground distance from map is:",
+      "options": ["Map distance × Scale", "Scale ÷ Map distance", "Map distance ÷ Scale", "Map distance × Inverse Scale"],
+      "correct": 0
+    },
+    {
+      "question": "Which mapping technique is used in depicting mineral resources across India?",
+      "options": ["Topographic mapping", "Thematic mapping", "GIS mapping", "Cadastral mapping"],
+      "correct": 1
+    }
+  
+
+
+  ]
+}

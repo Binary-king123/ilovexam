@@ -1,0 +1,474 @@
+{
+  "test": [
+    {
+      "question": "The equilibrium constant for the reaction H₂(g) + I₂(g) ⇌ 2HI(g) is expressed as:",
+      "options": [
+        "[HI]² / ([H₂][I₂])",
+        "[H₂][I₂] / [HI]²",
+        "[HI] / ([H₂][I₂])",
+        "([H₂][I₂])² / [HI]"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If Q < K for a reaction, the reaction will:",
+      "options": [
+        "Be at equilibrium",
+        "Proceed in forward direction",
+        "Proceed in backward direction",
+        "Stop"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The value of equilibrium constant is affected by:",
+      "options": [
+        "Catalyst",
+        "Initial concentration",
+        "Temperature",
+        "Pressure"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is true at equilibrium?",
+      "options": [
+        "Rate of forward = rate of reverse reaction",
+        "Reactants are completely converted",
+        "Concentration of products is zero",
+        "ΔG > 0"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following affects both rate and equilibrium?",
+      "options": [
+        "Concentration",
+        "Catalyst",
+        "Pressure",
+        "Temperature"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "The Le Chatelier’s principle is used to predict:",
+      "options": [
+        "Direction of a reaction",
+        "Rate of reaction",
+        "Heat released",
+        "Catalyst used"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In a homogeneous equilibrium, all reactants and products are in:",
+      "options": [
+        "Different phases",
+        "Gaseous state only",
+        "Same phase",
+        "Solid state only"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "For the reaction N₂ + 3H₂ ⇌ 2NH₃, increasing pressure will:",
+      "options": [
+        "Shift equilibrium forward",
+        "Shift backward",
+        "Have no effect",
+        "Stop the reaction"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The unit of equilibrium constant Kp depends on:",
+      "options": [
+        "Number of moles of gases",
+        "Concentration",
+        "Catalyst",
+        "Enthalpy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the equilibrium constant for the reverse reaction if forward K = 10?",
+      "options": [
+        "10",
+        "1/10",
+        "100",
+        "Cannot be determined"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "At equilibrium, ΔG is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Infinite"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kp and Kc are related as:",
+      "options": [
+        "Kp = Kc(RT)^Δn",
+        "Kc = Kp(RT)^Δn",
+        "Kp = Kc / (RT)^Δn",
+        "Kp = 1/Kc"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not included in the expression of K?",
+      "options": [
+        "Gases",
+        "Aqueous solutions",
+        "Liquids",
+        "Solids"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "If a catalyst is added to a reversible reaction:",
+      "options": [
+        "Equilibrium is attained faster",
+        "Equilibrium position changes",
+        "Equilibrium constant changes",
+        "ΔH increases"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The addition of inert gas at constant pressure to a gaseous reaction mixture will:",
+      "options": [
+        "Shift equilibrium forward",
+        "Shift backward",
+        "No effect",
+        "Decrease pressure"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If K is very large, the reaction is:",
+      "options": [
+        "Backward",
+        "Forward",
+        "Not feasible",
+        "At equilibrium"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The ionic product of water at 25°C is:",
+      "options": [
+        "1 × 10⁻¹⁴",
+        "7 × 10⁻¹",
+        "1 × 10⁻⁷",
+        "1 × 10⁻¹²"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Buffer solutions resist changes in:",
+      "options": [
+        "Temperature",
+        "pH",
+        "Concentration",
+        "Pressure"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A strong acid has:",
+      "options": [
+        "High pKa",
+        "Low Ka",
+        "High Ka",
+        "Low ionization"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "pH of a neutral solution at 25°C is:",
+      "options": [
+        "1",
+        "14",
+        "7",
+        "0"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a Lewis base?",
+      "options": [
+        "BF₃",
+        "NH₃",
+        "H⁺",
+        "AlCl₃"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Conjugate base of H₂CO₃ is:",
+      "options": [
+        "CO₃²⁻",
+        "HCO₃⁻",
+        "OH⁻",
+        "H₃O⁺"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "pOH of a solution having [OH⁻] = 10⁻⁴ M is:",
+      "options": [
+        "10",
+        "4",
+        "7",
+        "14"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In equilibrium expression, pure solids and liquids are:",
+      "options": [
+        "Included",
+        "Excluded",
+        "Doubled",
+        "Halved"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Le Chatelier’s principle does not apply to:",
+      "options": [
+        "Pressure change",
+        "Volume change",
+        "Addition of catalyst",
+        "Concentration change"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "An increase in temperature for endothermic reaction causes:",
+      "options": [
+        "Shift to reactants",
+        "No shift",
+        "Shift to products",
+        "Decrease in K"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Equilibrium constant has no unit when:",
+      "options": [
+        "Δn = 0",
+        "Δn = 1",
+        "Δn = 2",
+        "Δn = -1"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following acts as a buffer?",
+      "options": [
+        "NaOH",
+        "CH₃COOH + CH₃COONa",
+        "HCl",
+        "NaCl"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Conjugate acid of NH₃ is:",
+      "options": [
+        "NH₂⁻",
+        "NH₄⁺",
+        "N₂H₄",
+        "NH₃⁺"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The equilibrium constant of a reaction is 1. What is ΔG°?",
+      "options": [
+        "< 0",
+        "> 0",
+        "0",
+        "Infinity"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The Ka value for weak acid is:",
+      "options": [
+        "Close to 1",
+        "Greater than 1",
+        "Less than 1",
+        "Equal to 10"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a Bronsted base?",
+      "options": [
+        "HCl",
+        "NaOH",
+        "NH₃",
+        "H₂O"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which factor changes the numerical value of Kc?",
+      "options": [
+        "Volume",
+        "Temperature",
+        "Catalyst",
+        "Pressure"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A buffer works best when pH is equal to:",
+      "options": [
+        "pKa",
+        "7",
+        "14",
+        "0"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A reaction has K = 10⁻⁵, then:",
+      "options": [
+        "Products dominate",
+        "Reactants dominate",
+        "At equilibrium",
+        "Cannot be said"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a basic buffer?",
+      "options": [
+        "NH₃ + NH₄Cl",
+        "HCl + NaCl",
+        "NaOH + NaCl",
+        "HNO₃ + NH₄NO₃"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ka × Kb =",
+      "options": [
+        "Kw",
+        "Kp",
+        "1",
+        "Kc"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kw increases with:",
+      "options": [
+        "Decrease in temperature",
+        "Increase in temperature",
+        "Addition of salt",
+        "Pressure"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "When K >> 1, the reaction proceeds:",
+      "options": [
+        "Very little",
+        "Nearly to completion",
+        "Not at all",
+        "In backward direction"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If pH = 3, [H⁺] is:",
+      "options": [
+        "10⁻³ M",
+        "10⁻⁶ M",
+        "10³ M",
+        "10⁻¹ M"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is pH of 0.01 M HCl?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Concentration of H⁺ and OH⁻ in neutral water is:",
+      "options": [
+        "10⁻¹ M",
+        "10⁻⁷ M",
+        "10⁻⁴ M",
+        "10⁻¹⁴ M"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Conjugate base of H₂O is:",
+      "options": [
+        "OH⁻",
+        "H₃O⁺",
+        "H₂O⁺",
+        "O²⁻"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A weak acid and its salt forms:",
+      "options": [
+        "Acidic buffer",
+        "Basic buffer",
+        "Neutral solution",
+        "No buffer"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "pH + pOH =",
+      "options": [
+        "7",
+        "10",
+        "14",
+        "0"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Reaction quotient is denoted by:",
+      "options": [
+        "K",
+        "Q",
+        "R",
+        "ΔG"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Equilibrium is dynamic because:",
+      "options": [
+        "No change in concentration",
+        "No net change but reaction continues",
+        "Reactants disappear completely",
+        "Only forward reaction occurs"
+      ],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "test": [
+    {
+      "question": "What is the sum of the interior angles of a triangle?",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correct": 1
+    },
+    {
+      "question": "A triangle has angles measuring 35° and 65°. What is the measure of the third angle?",
+      "options": ["80°", "90°", "100°", "70°"],
+      "correct": 0
+    },
+    {
+      "question": "A right triangle has one angle of 90° and another of 45°. What is the measure of the third angle?",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correct": 1
+    },
+    {
+      "question": "What is the area of a triangle with a base of 10 and height of 6?",
+      "options": ["30", "60", "40", "20"],
+      "correct": 0
+    },
+    {
+      "question": "What is the circumference of a circle with radius 7? (Use π = 3.14)",
+      "options": ["21.98", "43.96", "14", "49"],
+      "correct": 1
+    },
+    {
+      "question": "If two angles of a triangle measure 50° and 60°, what type of triangle is it?",
+      "options": ["Acute", "Right", "Obtuse", "Equilateral"],
+      "correct": 0
+    },
+    {
+      "question": "A rectangle has a length of 12 and width of 5. What is its area?",
+      "options": ["60", "30", "34", "17"],
+      "correct": 0
+    },
+    {
+      "question": "What is the measure of one interior angle in a regular pentagon?",
+      "options": ["90°", "108°", "120°", "135°"],
+      "correct": 1
+    },
+    {
+      "question": "What is the volume of a cube with side length 3?",
+      "options": ["9", "18", "27", "36"],
+      "correct": 2
+    },
+    {
+      "question": "In a right triangle, sin(θ) = 3/5. What is cos(θ)?",
+      "options": ["4/5", "3/4", "5/3", "√2/2"],
+      "correct": 0
+    },
+    {
+      "question": "The hypotenuse of a right triangle is 13, and one leg is 5. What is the length of the other leg?",
+      "options": ["10", "12", "8", "6"],
+      "correct": 1
+    },
+    {
+      "question": "What is the area of a circle with diameter 10? (Use π = 3.14)",
+      "options": ["25", "50", "78.5", "100"],
+      "correct": 2
+    },
+    {
+      "question": "Which formula represents the Pythagorean Theorem?",
+      "options": ["a² + b² = c²", "a + b = c", "2a + 2b = P", "A = bh/2"],
+      "correct": 0
+    },
+    {
+      "question": "What is the perimeter of a square with side length 8?",
+      "options": ["16", "32", "64", "24"],
+      "correct": 1
+    },
+    {
+      "question": "If the radius of a circle is doubled, its area becomes:",
+      "options": ["Twice as large", "Three times as large", "Four times as large", "Half as large"],
+      "correct": 2
+    },
+    {
+      "question": "A straight angle measures:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correct": 1
+    },
+    {
+      "question": "The diagonals of a square:",
+      "options": ["Are perpendicular", "Are equal", "Bisect each other", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "What is the volume of a cylinder with radius 3 and height 4? (Use π = 3.14)",
+      "options": ["113.04", "37.68", "75.36", "90"],
+      "correct": 0
+    },
+    {
+      "question": "If a = 3 and b = 4, what is the hypotenuse of the triangle?",
+      "options": ["5", "6", "7", "8"],
+      "correct": 0
+    },
+    {
+      "question": "How many degrees are in the sum of the angles of a hexagon?",
+      "options": ["360°", "540°", "720°", "900°"],
+      "correct": 2
+    },
+    {
+      "question": "Which trigonometric ratio represents opposite/hypotenuse?",
+      "options": ["cos", "tan", "sin", "cot"],
+      "correct": 2
+    },
+    {
+      "question": "What is the surface area of a cube with side length 5?",
+      "options": ["25", "75", "100", "150"],
+      "correct": 3
+    },
+    {
+      "question": "If angle A and angle B are complementary and angle A is 35°, what is angle B?",
+      "options": ["45°", "50°", "55°", "65°"],
+      "correct": 2
+    },
+    {
+      "question": "A triangle has sides of length 3, 4, and 5. What type of triangle is it?",
+      "options": ["Acute", "Right", "Obtuse", "Equilateral"],
+      "correct": 1
+    },
+    {
+      "question": "What is the height of a triangle with area 24 and base 8?",
+      "options": ["3", "4", "5", "6"],
+      "correct": 3
+    },
+
+    {
+      "question": "What is the area of an equilateral triangle with side length 6?",
+      "options": ["18√3", "9√3", "36√3", "12√3"],
+      "correct": 1
+    },
+    {
+      "question": "In a circle, a central angle of 60° cuts off an arc of length 4π. What is the radius of the circle?",
+      "options": ["6", "8", "12", "24"],
+      "correct": 3
+    },
+    {
+      "question": "If a triangle has sides 6, 8, and 10, what is the triangle's area?",
+      "options": ["24", "36", "48", "60"],
+      "correct": 2
+    },
+    {
+      "question": "What is the length of the diagonal of a rectangle with sides 5 and 12?",
+      "options": ["11", "12", "13", "14"],
+      "correct": 2
+    },
+    {
+      "question": "If tan(θ) = 3/4, what is sin(θ)?",
+      "options": ["3/5", "4/5", "5/3", "5/4"],
+      "correct": 0
+    },
+    {
+      "question": "Find the height of a cone with volume 100π and radius 5.",
+      "options": ["10", "12", "15", "24"],
+      "correct": 0
+    },
+    {
+      "question": "A circle has area 36π. What is its circumference?",
+      "options": ["6π", "12π", "18π", "24π"],
+      "correct": 2
+    },
+    {
+      "question": "What is the apothem of a regular hexagon with side 10?",
+      "options": ["5√3", "10√3", "15√3", "6√3"],
+      "correct": 0
+    },
+    {
+      "question": "In triangle ABC, angle C is a right angle, and sin A = 3/5. What is cos B?",
+      "options": ["4/5", "3/5", "1/5", "2/5"],
+      "correct": 0
+    },
+    {
+      "question": "Find the length of an arc of a circle with radius 10 and central angle 72°.",
+      "options": ["2π", "3π", "4π", "5π"],
+      "correct": 3
+    },
+    {
+      "question": "A sector of a circle has an area of 25π and central angle 90°. What is the radius?",
+      "options": ["5", "10", "15", "20"],
+      "correct": 1
+    },
+    {
+      "question": "What is the volume of a sphere with radius 3? (Use π = 3.14)",
+      "options": ["113.04", "100", "90.12", "80.12"],
+      "correct": 0
+    },
+    {
+      "question": "The sides of a triangle are 5, 12, and 13. What is its area?",
+      "options": ["30", "40", "60", "78"],
+      "correct": 1
+    },
+    {
+      "question": "If sin θ = 0.6, and θ is acute, what is cos θ?",
+      "options": ["0.4", "0.6", "0.8", "1"],
+      "correct": 2
+    },
+    {
+      "question": "In a 30-60-90 triangle, if the hypotenuse is 10, what is the length of the shorter leg?",
+      "options": ["5", "5√3", "10", "3"],
+      "correct": 0
+    },
+    {
+      "question": "What is the length of the longer leg in a 30-60-90 triangle with hypotenuse 12?",
+      "options": ["6", "6√3", "12", "12√3"],
+      "correct": 1
+    },
+    {
+      "question": "What is the diagonal of a square with side length 8?",
+      "options": ["8", "8√2", "16", "16√2"],
+      "correct": 1
+    },
+    {
+      "question": "What is the height of an equilateral triangle with side 10?",
+      "options": ["5", "5√3", "10", "10√3"],
+      "correct": 1
+    },
+    {
+      "question": "A trapezoid has bases 10 and 6, and height 4. What is its area?",
+      "options": ["16", "24", "32", "36"],
+      "correct": 1
+    },
+    {
+      "question": "If a triangle has sides 7, 24, and 25, what is the triangle's area?",
+      "options": ["70", "84", "90", "96"],
+      "correct": 1
+    },
+    {
+      "question": "The radius of a cone is 3 and height is 4. What is its volume?",
+      "options": ["12π", "18π", "24π", "36π"],
+      "correct": 0
+    },
+    {
+      "question": "Find the lateral surface area of a cylinder with radius 5 and height 10.",
+      "options": ["100π", "150π", "200π", "250π"],
+      "correct": 2
+    },
+    {
+      "question": "In triangle ABC, angle C = 90°, and tan A = 1. What is angle A?",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correct": 1
+    },
+    {
+      "question": "A circular sector has radius 6 and arc length 3π. What is its central angle?",
+      "options": ["30°", "60°", "90°", "120°"],
+      "correct": 1
+    },
+    {
+      "question": "If the radius of a sphere is doubled, how does its volume change?",
+      "options": ["Doubles", "Triples", "Quadruples", "Multiplies by 8"],
+      "correct": 3
+    }
+  ]
+}

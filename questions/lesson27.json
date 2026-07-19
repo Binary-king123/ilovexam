@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "The nucleus of an atom is composed of:",
+      "options": ["Electrons and protons", "Protons and neutrons", "Neutrons and electrons", "Only protons"],
+      "correct": 1
+    },
+    {
+      "question": "The unit of nuclear radius is:",
+      "options": ["Meter", "Angstrom", "Fermi", "Nanometer"],
+      "correct": 2
+    },
+    {
+      "question": "Binding energy per nucleon is maximum for:",
+      "options": ["Hydrogen", "Uranium", "Iron", "Helium"],
+      "correct": 2
+    },
+    {
+      "question": "Mass number is defined as the total number of:",
+      "options": ["Electrons", "Protons", "Neutrons", "Protons and neutrons"],
+      "correct": 3
+    },
+    {
+      "question": "Which particle is emitted in beta-minus decay?",
+      "options": ["Electron", "Neutrino", "Positron", "Proton"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following has the highest penetration power?",
+      "options": ["Alpha particles", "Beta particles", "Gamma rays", "Neutrons"],
+      "correct": 2
+    },
+    {
+      "question": "The radius of a nucleus varies with mass number A as:",
+      "options": ["A", "A^2", "A^3", "A^(1/3)"],
+      "correct": 3
+    },
+    {
+      "question": "In nuclear fission, energy is released due to:",
+      "options": ["Conversion of mass into energy", "Electromagnetic radiation", "Friction", "Chemical reaction"],
+      "correct": 0
+    },
+    {
+      "question": "In radioactive decay, which quantity remains constant?",
+      "options": ["Mass", "Activity", "Half-life", "Decay constant"],
+      "correct": 3
+    },
+    {
+      "question": "The half-life of a radioactive element is the time in which:",
+      "options": ["Half of the original nuclei decay", "All nuclei decay", "Rate of decay becomes zero", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "Which one is a beta emitter?",
+      "options": ["Carbon-14", "Uranium-238", "Radium-226", "Thorium-232"],
+      "correct": 0
+    },
+    {
+      "question": "The rest mass energy of a proton is approximately:",
+      "options": ["0.511 MeV", "1.67 MeV", "938 MeV", "1836 MeV"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not conserved in nuclear reaction?",
+      "options": ["Mass", "Energy", "Momentum", "Charge"],
+      "correct": 0
+    },
+    {
+      "question": "1 amu (atomic mass unit) is approximately equal to:",
+      "options": ["1.6×10^-27 kg", "1.67×10^-27 kg", "9.1×10^-31 kg", "1.73×10^-27 kg"],
+      "correct": 1
+    },
+    {
+      "question": "The binding energy of a nucleus is:",
+      "options": ["Always positive", "Always negative", "Zero", "Depends on atomic number"],
+      "correct": 0
+    },
+    {
+      "question": "Which reaction is responsible for the sun’s energy?",
+      "options": ["Nuclear fission", "Nuclear fusion", "Chemical reaction", "Alpha decay"],
+      "correct": 1
+    },
+    {
+      "question": "The value of 1 eV in joules is approximately:",
+      "options": ["1.6×10^-19 J", "1.6×10^-9 J", "3.2×10^-19 J", "9.1×10^-31 J"],
+      "correct": 0
+    },
+    {
+      "question": "In an alpha decay, the atomic number decreases by:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a stable isotope?",
+      "options": ["U-235", "C-14", "Fe-56", "Ra-226"],
+      "correct": 2
+    },
+    {
+      "question": "During gamma emission, the nucleus:",
+      "options": ["Loses protons", "Gains neutrons", "Loses energy only", "Changes its atomic number"],
+      "correct": 2
+    },
+    {
+      "question": "Which particle has no charge and nearly same mass as proton?",
+      "options": ["Electron", "Neutron", "Alpha", "Positron"],
+      "correct": 1
+    },
+    {
+      "question": "A neutron decays into:",
+      "options": ["Electron + proton + antineutrino", "Proton + neutrino", "Electron + positron", "Proton only"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following particles is emitted in alpha decay?",
+      "options": ["Proton", "Electron", "Helium nucleus", "Neutrino"],
+      "correct": 2
+    },
+    {
+      "question": "What is the approximate binding energy per nucleon for iron (Fe-56)?",
+      "options": ["2 MeV", "8.8 MeV", "15 MeV", "0.5 MeV"],
+      "correct": 1
+    },
+    {
+      "question": "Nuclear fission is used in:",
+      "options": ["Power plants", "Stars", "Sun", "Cyclotron"],
+      "correct": 0
+    },
+    {
+      "question": "Which element has the smallest binding energy per nucleon?",
+      "options": ["Hydrogen", "Helium", "Uranium", "Iron"],
+      "correct": 0
+    },
+    {
+      "question": "The half-life of a substance is 10 days. The fraction remaining after 30 days is:",
+      "options": ["1/2", "1/3", "1/4", "1/8"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following radiation is not deflected by electric or magnetic field?",
+      "options": ["Alpha", "Beta", "Gamma", "All are deflected"],
+      "correct": 2
+    },
+    {
+      "question": "Which isotope is used in carbon dating?",
+      "options": ["C-12", "C-14", "C-13", "C-11"],
+      "correct": 1
+    },
+    {
+      "question": "In fusion reaction, two nuclei:",
+      "options": ["Combine", "Break", "Form electron", "Emit beta rays"],
+      "correct": 0
+    },
+    {
+      "question": "Which force binds nucleons together?",
+      "options": ["Gravitational", "Electrostatic", "Nuclear force", "Magnetic force"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a heavy nucleus?",
+      "options": ["Iron", "Hydrogen", "Uranium", "Carbon"],
+      "correct": 2
+    },
+    {
+      "question": "Radioactivity was discovered by:",
+      "options": ["Rutherford", "Marie Curie", "Henri Becquerel", "Dalton"],
+      "correct": 2
+    },
+    {
+      "question": "The product of decay constant and half-life is:",
+      "options": ["ln(2)", "1", "2", "e"],
+      "correct": 0
+    },
+    {
+      "question": "The number of atoms left after n half-lives is:",
+      "options": ["N₀/2n", "N₀×2^n", "N₀/2^n", "N₀×n"],
+      "correct": 2
+    },
+    {
+      "question": "Which nuclear reaction is used in atom bomb?",
+      "options": ["Fusion", "Alpha decay", "Fission", "Beta decay"],
+      "correct": 2
+    },
+    {
+      "question": "A radioactive sample decays to 1/16th in 4 hours. Its half-life is:",
+      "options": ["15 min", "30 min", "1 hour", "2 hours"],
+      "correct": 3
+    },
+    {
+      "question": "1 curie is equal to:",
+      "options": ["3.7 × 10¹⁰ disintegrations/s", "3.7 × 10⁶ Bq", "1 decay/s", "10⁶ atoms"],
+      "correct": 0
+    },
+    {
+      "question": "Radioactive decay is a:",
+      "options": ["Chemical process", "Biological process", "Nuclear process", "Magnetic process"],
+      "correct": 2
+    },
+    {
+      "question": "Mass defect is the difference between:",
+      "options": ["Neutron and proton mass", "Atomic and nuclear mass", "Mass of nucleus and nucleons", "Isotope and isobar"],
+      "correct": 2
+    },
+    {
+      "question": "Which radiation has the highest ionizing power?",
+      "options": ["Alpha", "Beta", "Gamma", "X-ray"],
+      "correct": 0
+    },
+    {
+      "question": "Gamma radiation is:",
+      "options": ["Helium nuclei", "Electrons", "Electromagnetic waves", "Protons"],
+      "correct": 2
+    },
+    {
+      "question": "Decay constant has the unit of:",
+      "options": ["s", "s⁻¹", "kg", "m"],
+      "correct": 1
+    },
+    {
+      "question": "The total energy released in fission of one U-235 atom is approximately:",
+      "options": ["200 MeV", "2 MeV", "20 MeV", "100 MeV"],
+      "correct": 0
+    },
+    {
+      "question": "Nuclear fusion occurs at:",
+      "options": ["Low pressure", "High pressure and temperature", "Room temperature", "Vacuum"],
+      "correct": 1
+    },
+    {
+      "question": "Which is more dangerous biologically?",
+      "options": ["Alpha rays", "Beta rays", "Gamma rays", "All equal"],
+      "correct": 2
+    },
+    {
+      "question": "What is a nuclear reactor used for?",
+      "options": ["Generate heat", "Produce electricity", "Fission chain reaction", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Activity of a radioactive sample is measured in:",
+      "options": ["Becquerel", "Tesla", "Kelvin", "Rutherford"],
+      "correct": 0
+    },
+    {
+      "question": "What is the Q-value of a nuclear reaction?",
+      "options": ["Energy absorbed", "Mass loss", "Energy released", "Change in pressure"],
+      "correct": 2
+    }
+  ]
+}

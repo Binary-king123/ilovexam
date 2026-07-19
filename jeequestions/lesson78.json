@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The derivative of a function gives the:",
+      "options": ["Area under the curve", "Slope of the curve", "Volume under surface", "Average value"],
+      "correct": 1
+    },
+    {
+      "question": "If f '(x) > 0 for all x in an interval, then f(x) is:",
+      "options": ["Increasing", "Decreasing", "Constant", "Oscillating"],
+      "correct": 0
+    },
+    {
+      "question": "A function has local maxima at x = a if:",
+      "options": ["f '(a) = 0 and f ''(a) < 0", "f '(a) = 0 and f ''(a) > 0", "f '(a) ≠ 0", "f ''(a) = 0"],
+      "correct": 0
+    },
+    {
+      "question": "The slope of the normal to a curve is:",
+      "options": ["Equal to derivative", "Negative reciprocal of derivative", "Second derivative", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "The rate of change of displacement is:",
+      "options": ["Velocity", "Acceleration", "Force", "Jerk"],
+      "correct": 0
+    },
+    {
+      "question": "If a function is decreasing, then its derivative is:",
+      "options": ["Positive", "Negative", "Zero", "Undefined"],
+      "correct": 1
+    },
+    {
+      "question": "The maximum value of f(x) = -x² + 4x + 1 occurs at:",
+      "options": ["x = 1", "x = 2", "x = -2", "x = 0"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) has a minimum at x = a, then:",
+      "options": ["f '(a) > 0", "f '(a) = 0, f ''(a) > 0", "f ''(a) < 0", "f '(a) = 0, f ''(a) < 0"],
+      "correct": 1
+    },
+    {
+      "question": "The tangent to the curve y = x² at x = 2 is:",
+      "options": ["y = 4x", "y = 4x - 4", "y = 4x + 4", "y = 2x + 4"],
+      "correct": 1
+    },
+    {
+      "question": "The maximum or minimum value of a function occurs at:",
+      "options": ["Endpoints", "Points of inflection", "Critical points", "Intercepts"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is used to find increasing/decreasing nature?",
+      "options": ["First derivative", "Second derivative", "Integral", "Limit"],
+      "correct": 0
+    },
+    {
+      "question": "Which test is used to confirm nature of critical points?",
+      "options": ["L'Hôpital's Rule", "First derivative test", "Mean Value Theorem", "Intermediate Value Theorem"],
+      "correct": 1
+    },
+    {
+      "question": "The acceleration is the:",
+      "options": ["First derivative of velocity", "Second derivative of displacement", "Both", "None"],
+      "correct": 2
+    },
+    {
+      "question": "A function has a point of inflection where:",
+      "options": ["f ''(x) = 0 and sign changes", "f '(x) = 0", "f ''(x) > 0", "f ''(x) < 0"],
+      "correct": 0
+    },
+    {
+      "question": "For y = sin(x), the slope at x = π/4 is:",
+      "options": ["1", "√2/2", "cos(π/4)", "sin(π/4)"],
+      "correct": 2
+    },
+    {
+      "question": "Normal to a curve is perpendicular to:",
+      "options": ["Curve", "Axis", "Tangent", "Chord"],
+      "correct": 2
+    },
+    {
+      "question": "The condition for two curves to be orthogonal is:",
+      "options": ["Product of slopes = -1", "Sum of slopes = 0", "Equal slopes", "Parallel tangents"],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of y = tan(x) is:",
+      "options": ["sec²x", "cosec²x", "secx", "tanx"],
+      "correct": 0
+    },
+    {
+      "question": "The point of local minimum of y = x³ − 3x + 1 is:",
+      "options": ["x = 0", "x = 1", "x = -1", "None"],
+      "correct": 3
+    },
+    {
+      "question": "The tangent line to y = x³ at x = 1 has slope:",
+      "options": ["3", "1", "0", "3x²"],
+      "correct": 0
+    },
+    {
+      "question": "The value of derivative at maxima or minima is:",
+      "options": ["Always 0", "Always 1", "Always > 0", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The second derivative is useful for:",
+      "options": ["Finding slope", "Finding max/min", "Testing concavity", "Both 2 and 3"],
+      "correct": 3
+    },
+    {
+      "question": "If f '(x) changes sign from +ve to −ve at x = a, then f(x) has:",
+      "options": ["Minimum", "Maximum", "Point of inflection", "No extremum"],
+      "correct": 1
+    },
+    {
+      "question": "If the tangent to a curve at (1,1) is y = 2x - 1, then dy/dx at x=1 is:",
+      "options": ["2", "1", "3", "0"],
+      "correct": 0
+    },
+    {
+      "question": "The function y = x⁴ has:",
+      "options": ["Local min at x = 0", "Local max at x = 0", "No extremum", "Saddle point"],
+      "correct": 0
+    },
+    {
+      "question": "The function f(x) = |x| is:",
+      "options": ["Differentiable everywhere", "Not differentiable at x = 0", "Not continuous at x = 0", "None"],
+      "correct": 1
+    },
+    {
+      "question": "If y = ln(x), then dy/dx =",
+      "options": ["x", "1/x", "ln(x)", "e^x"],
+      "correct": 1
+    },
+    {
+      "question": "The function f(x) = 3x³ − 9x has a local minimum at:",
+      "options": ["x = -1", "x = 1", "x = 0", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The slope of the curve y = 1/x at x = 1 is:",
+      "options": ["-1", "1", "0", "-2"],
+      "correct": 0
+    },
+    {
+      "question": "The function y = x⁵ has:",
+      "options": ["Local min", "Local max", "Point of inflection at x = 0", "None"],
+      "correct": 2
+    },
+    {
+      "question": "If y = x^n, then dy/dx =",
+      "options": ["x^(n-1)", "n x^(n-1)", "n x", "x^n log x"],
+      "correct": 1
+    },
+    {
+      "question": "The maximum of sin x occurs at:",
+      "options": ["x = π/2", "x = 0", "x = π", "x = 2π"],
+      "correct": 0
+    },
+    {
+      "question": "What is the slope of the curve y = ln(x² + 1) at x = 0?",
+      "options": ["0", "1", "2", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = e^x, then slope at x = 1 is:",
+      "options": ["e", "1", "0", "2"],
+      "correct": 0
+    },
+    {
+      "question": "Rate of change of area of a square with respect to side is:",
+      "options": ["s", "2s", "s²", "4s"],
+      "correct": 0
+    },
+    {
+      "question": "If dy/dx = 0 for all x, then y is:",
+      "options": ["Increasing", "Decreasing", "Constant", "Not defined"],
+      "correct": 2
+    },
+    {
+      "question": "The maximum value of y = sin x + cos x is:",
+      "options": ["1", "√2", "2", "0"],
+      "correct": 1
+    },
+    {
+      "question": "The derivative of a constant is:",
+      "options": ["1", "0", "Undefined", "Same constant"],
+      "correct": 1
+    },
+    {
+      "question": "If y = tan⁻¹(x), then dy/dx =",
+      "options": ["1/(1+x²)", "1/x", "sec²x", "log x"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = x³ − 6x² + 12x − 5, then f '(x) = 0 at x =",
+      "options": ["1", "2", "3", "None"],
+      "correct": 1
+    },
+    {
+      "question": "To find the tangent to a curve, we need:",
+      "options": ["First derivative", "Second derivative", "Integral", "Limit"],
+      "correct": 0
+    },
+    {
+      "question": "dy/dx = 2x + 1 represents:",
+      "options": ["Linear function", "Slope function", "Velocity", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "Slope of normal at x = a to y = x² is:",
+      "options": ["-2a", "1/(2a)", "-1/(2a)", "2a"],
+      "correct": 2
+    },
+    {
+      "question": "For maximum profit, marginal revenue equals:",
+      "options": ["Marginal cost", "Average cost", "Total cost", "Profit"],
+      "correct": 0
+    },
+    {
+      "question": "The function f(x) = |x| is:",
+      "options": ["Differentiable at x = 0", "Continuous at x = 0", "Not defined at x = 0", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The concavity of a graph is tested by:",
+      "options": ["First derivative", "Second derivative", "Third derivative", "Limit"],
+      "correct": 1
+    },
+    {
+      "question": "The function f(x) = x⁴ + 2x² has:",
+      "options": ["Minimum at x = 0", "Maximum at x = 0", "No extremum", "Saddle point"],
+      "correct": 0
+    },
+    {
+      "question": "Which derivative indicates the rate of acceleration?",
+      "options": ["Velocity", "Jerk", "Snap", "Displacement"],
+      "correct": 1
+    }
+  ]
+}

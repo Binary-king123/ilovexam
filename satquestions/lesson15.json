@@ -1,0 +1,578 @@
+{
+  "test": [
+    {
+      "question": "In the passage below, carefully consider how clarity and concision can improve expression:\n\nModern cities, as a result of multiple converging factors such as technological advancement, population growth, and economic shifts, have experienced changes that are both multifaceted and complex in nature. These changes, while varying in degree from city to city, have often led to significant infrastructural transformations, urban sprawl, and evolving societal dynamics.\n\nWhich revision of the underlined sentence best maintains the intended meaning while improving concision?\n\n'changes that are both multifaceted and complex in nature'",
+      "options": [
+        "multifaceted and complex",
+        "both diverse and multifaceted in their nature",
+        "that are multilayered and extremely intricate",
+        "of many layers and complexities in nature"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The following passage discusses innovation in education:\n\nWhile traditional classrooms remain a staple, more institutions are gravitating toward hybrid models that combine online and in-person instruction. These models, according to recent studies, offer increased flexibility, personalized learning paths, and the ability for students to engage with content at their own pace. **However, despite the benefits, yet some educators remain skeptical of the long-term efficacy of such formats.**\n\nWhich of the following best replaces the underlined portion to improve grammar and clarity?",
+      "options": [
+        "However, despite the benefits, yet",
+        "However, some educators remain skeptical",
+        "Yet, despite of the benefits,",
+        "Despite however the benefits,"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Read the excerpt from a research-based essay:\n\nThe Arctic is warming four times faster than the global average, leading to disruptions in ecosystems, indigenous communities’ livelihoods, and global weather patterns. Melting permafrost, in particular, releases methane—a greenhouse gas far more potent than carbon dioxide—posing an alarming threat. Scientists argue that these effects are not only regional but global in scale.\n\nWhere would the following sentence be most logically placed in the paragraph?\n\n'Such rapid environmental shifts underscore the urgent need for coordinated international climate policies.'",
+      "options": [
+        "After the first sentence",
+        "After the second sentence",
+        "After the third sentence",
+        "It should be the first sentence of the paragraph"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Consider the following excerpt:\n\nIn recent years, the importance of mental health has gained considerable attention across media platforms, in legislative chambers, and within educational institutions. A growing number of schools have begun incorporating mindfulness exercises, stress management workshops, and counseling access into their curricula. This shift is seen as an acknowledgment that academic success cannot be divorced from emotional well-being. **To illustrate, schools believe it is necessary that students who are mentally healthy do perform better in exams.**\n\nWhich revision most effectively improves sentence clarity and grammar?",
+      "options": [
+        "For example, mentally healthy students are more likely to perform well in exams.",
+        "Schools think that students, who are healthy in mental health, will be more successful.",
+        "To illustrate, mental health is good for students who get higher marks.",
+        "It is the belief of educators that students mentally healthy achieve academic success."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Read the following excerpt from a formal report:\n\nSolar energy adoption has increased dramatically in the past decade. This growth can be attributed to a combination of falling panel prices, government subsidies, and public awareness campaigns. **There is an increase in households installing solar panels, which shows a trend that is currently continuing to rise.**\n\nWhich version of the underlined sentence most effectively improves precision and eliminates redundancy?",
+      "options": [
+        "More households are installing solar panels, and the trend continues to grow.",
+        "An increasing number of households are adopting solar panels, a trend that persists.",
+        "There are more solar panels being installed now and still increasing.",
+        "Solar panel installation is increasing, and is going up in trend."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In the context of a proposal about urban green spaces:\n\nGreen spaces in urban areas—such as parks, green rooftops, and community gardens—not only enhance aesthetic appeal but also improve air quality, reduce heat island effects, and foster social cohesion. **Not to mention that they make neighborhoods prettier and cooler places to be.**\n\nWhich revision best improves formal tone and precision?",
+      "options": [
+        "They make areas nicer and better to live in.",
+        "They make neighborhoods look great and feel cool.",
+        "They improve the attractiveness and comfort of urban environments.",
+        "Not to mention, they are really beneficial for cities."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "In an excerpt on sustainable architecture:\n\nDesigning buildings with sustainability in mind has become not just a trend but a necessity. Eco-friendly materials, energy-efficient designs, and waste reduction methods are at the forefront of modern architectural projects. **Therefore, architects think it’s important to do good for the environment when they build things.**\n\nWhich version of the sentence best maintains formal tone and improves clarity?",
+      "options": [
+        "So, architects think building with the Earth in mind is important.",
+        "Architects believe environmental responsibility is integral to modern construction.",
+        "Thus, building things that help nature is what architects aim for.",
+        "Therefore, doing good for the environment is the main goal."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Read the following sentence:\n\n**The policy requires employees submit reports on a weekly basis, ensuring transparency and accountability in all departments.**\n\nWhich revision best improves sentence structure and correctness?",
+      "options": [
+        "employees submit reports weekly",
+        "employees to submit reports on a weekly basis",
+        "employees submitting reports weekly",
+        "employees should be submitting reports on a weekly basis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In the following excerpt, consider the best placement for a transition sentence:\n\n[1] Renewable energy sources like solar and wind power have seen rapid global adoption. [2] These sources are more environmentally friendly and increasingly cost-effective. [3] They also contribute to energy independence for many nations.\n\nWhich sentence would best serve as a transition between [1] and [2]?\n\n'This shift toward clean energy is driven by both ecological concerns and economic incentives.'",
+      "options": [
+        "Before sentence [1]",
+        "After sentence [1]",
+        "After sentence [2]",
+        "After sentence [3]"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In the following context, choose the best revision:\n\n**Each of the new interns have received access to the company’s internal knowledge base and communication platforms.**\n\nWhich revision best corrects the error in subject-verb agreement?",
+      "options": [
+        "Each of the new interns has received access",
+        "Each of the new interns were given access",
+        "Each of the new intern has gotten access",
+        "Each of the new interns are receiving access"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In the passage on workplace culture:\n\nCompanies increasingly emphasize collaboration and innovation to remain competitive. Teams are encouraged to brainstorm freely and take calculated risks. **But sometimes, they push the idea of 'teamwork' to the point that nobody feels responsible for mistakes.**\n\nWhich version best improves tone and maintains formal academic style?",
+      "options": [
+        "But sometimes teamwork is overemphasized and accountability suffers.",
+        "However, they sometimes go overboard with teamwork so no one takes blame.",
+        "But teams feel free to mess up because they brainstorm too much.",
+        "Yet, teamwork becomes excessive, and mistakes get ignored."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "From a literature critique:\n\nThe protagonist’s journey is interwoven with vivid symbolism and recurring motifs of rebirth. The narrative range spans internal monologues and sweeping panoramas of landscapes. **It’s like he’s always thinking but also always walking through endless fields and things.**\n\nWhich revision best enhances clarity and literary tone?",
+      "options": [
+        "The protagonist reflects deeply while traversing open landscapes.",
+        "He’s always thinking and walking through fields and stuff.",
+        "The protagonist walks and thinks in endless grassy places.",
+        "He thinks and also walks through large fields that go on forever."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In a scientific-methods essay:\n\nResearchers employ both quantitative and qualitative methods to triangulate data. Surveys produce numerical trends while interviews yield in-depth perspectives on behavior. **So, by combining both, they can get a more complete view of what's happening.**\n\nWhich revision most effectively maintains formal tone and precision?",
+      "options": [
+        "Combining both approaches provides a comprehensive understanding of the phenomena.",
+        "By using both, they can see everything clearly.",
+        "Thus, they can see more of what's happening overall.",
+        "So, using both methods gives them more information."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose best verb placement:\n\n**The committee postponed making the final decision until more information became available.**",
+      "options": [
+        "The committee postponed making the decision final until more information became available.",
+        "The committee postponed the final decision until more information became available.",
+        "Postponed final decision was done by the committee until more information became available.",
+        "The committee postponed it until final decision more information became available."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Identify the best revision for redundancy:\n\n**In the month of December, many people attend holiday parties and celebrations.**",
+      "options": [
+        "In December, many people attend holiday celebrations.",
+        "During December, a lot of people attend holiday parties and celebrations.",
+        "In the month of December, many people go to parties and celebrations.",
+        "Many people attend holiday celebrations in December."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Fix the pronoun-antecedent agreement:\n\n**Every student turned in their assignment on time.**",
+      "options": [
+        "Each student turned in his or her assignment on time.",
+        "Every student turned in its assignment on time.",
+        "Students turned in their assignment on time.",
+        "Every student turned in their assignment on time."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the best version to improve mood and tone:\n\n**The room was dark and dingy, and everyone felt a bit gross.**",
+      "options": [
+        "The room was dark and dank, creating discomfort among all present.",
+        "The room was dark and dingy, making people feel gross.",
+        "Everyone felt gross because the room was dark and dingy.",
+        "The room’s darkness made people feel a bit gross."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the clearest punctuated sentence:\n\n**Walking through the gallery I saw paintings sculptures and photographs that evoked strong emotions.**",
+      "options": [
+        "Walking through the gallery, I saw paintings, sculptures, and photographs that evoked strong emotions.",
+        "Walking through the gallery I saw paintings sculptures and photographs that evoked strong emotions.",
+        "Walking through the gallery I saw paintings, sculptures and photographs that evoked strong emotions.",
+        "Walking, through the gallery I saw paintings, sculptures, and photographs that evoked strong emotions."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Determine correct subordinating conjunction usage:\n\n**___ the options were limited, the team devised an innovative solution.**",
+      "options": [
+        "Since",
+        "While",
+        "Although",
+        "If"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Choose the best sentence to avoid split infinitive:\n\n**They decided to quickly analyze the data before the meeting.**",
+      "options": [
+        "They decided to analyze the data quickly before the meeting.",
+        "They decided quickly to analyze the data before the meeting.",
+        "Quickly analyzing the data was their decision before the meeting.",
+        "They quickly decided to analyze the data before the meeting."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Fix mixed metaphors:\n\n**We need to hit the ground running so we can take this task by storm.**",
+      "options": [
+        "We need to hit the ground running so we can tackle this task immediately.",
+        "We need to hit the ground running and take this task by storm.",
+        "We need to tackle this task immediately and take it by storm.",
+        "We need to jump right in and tackle this task immediately."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Determine best sentence for academic tone:\n\n**The data shows that participants who slept less did way worse than others.**",
+      "options": [
+        "The data indicate that participants with shorter sleep durations underperformed relative to others.",
+        "The data shows participants who slept less did worse.",
+        "Participants who slept less did way worse according to data.",
+        "Data shows participants with less sleep performed poorly."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the version that improves coherence:\n\n**World War I ended in 1918. The assassination of Archduke Ferdinand happened in 1914.**",
+      "options": [
+        "The assassination of Archduke Ferdinand in 1914 led to World War I, which ended in 1918.",
+        "World War I ended in 1918 and the assassination happened earlier in 1914.",
+        "World War I ended in 1918. In 1914, Ferdinand was assassinated.",
+        "In 1914, Archduke Ferdinand was assassinated; World War I ended in 1918."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Identify the proper revision for clarity:\n\n**It is important that each person complete the evaluation before they submit the form.**",
+      "options": [
+        "Each person must complete the evaluation before submitting the form.",
+        "It is important that each person completes the evaluation before they submit the form.",
+        "Each person should complete the evaluation before they submit the form.",
+        "People complete the evaluation before submitting the form."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Select the best active voice replacement:\n\n**The solution was discovered through extensive experimentation by the team.**",
+      "options": [
+        "The team discovered the solution through extensive experimentation.",
+        "Through experimentation, the solution was discovered by the team.",
+        "The team, through experiments, the solution discovered.",
+        "Through extensive experimentation, the team discovered the solution."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Revise for formal tone:\n\n**We need to make sure this report is super clear before sending it out.**",
+      "options": [
+        "We need to ensure this report is clear before distribution.",
+        "We need to make sure this report is super clear before sending it out.",
+        "We must guarantee this report’s clarity before dissemination.",
+        "We’ve gotta make the report clear before sending it."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Fix modifier placement:\n\n**After completing her shift, the dinner smelled delightful.**",
+      "options": [
+        "After completing her shift, she smelled the delightful dinner.",
+        "The dinner smelled delightful after she completed her shift.",
+        "She completed her shift and smelled the delightful dinner after.",
+        "After completing her shift the dinner smelled delightful."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Choose the most precise noun usage:\n\n**The company’s new initiative is basically a way to help customers with better service options.**",
+      "options": [
+        "The company’s new initiative offers customers improved service options.",
+        "The company’s new initiative is basically a way to help customers with better service options.",
+        "The initiative helps customers by basically giving them better options.",
+        "The initiative is a way for the company to give improved customer service."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Determine logical sentence order:\n\n[1] Many students struggle with time management. [2] Scheduling tools and prioritization techniques can help organize tasks. [3] Teachers often require assignments on tight deadlines. [4] Addressing time management is critical for academic success.\n\nWhere should sentence [2] go?",
+      "options": [
+        "Before sentence [1]",
+        "Between [1] and [3]",
+        "Between [3] and [4]",
+        "After sentence [4]"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Select the best revision for conciseness and clarity:\n\n**At this point in time, the organization’s primary goal is to improve community engagement.**",
+      "options": [
+        "Currently, the organization’s primary goal is to improve community engagement.",
+        "At this point in time, the organization wants to improve community engagement.",
+        "The organization’s current main goal is to improve community engagement.",
+        "Now, the organization aims to improve community engagement."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which version improves parallelism and formality:\n\n**The job includes conducting research, writing reports, and you must present findings.**",
+      "options": [
+        "The job includes conducting research, writing reports, and presenting findings.",
+        "The job includes conducting research, writing reports, and you must present findings.",
+        "The job comprises research, reports writing, and presentation of findings.",
+        "You must conduct research, write reports, and you must present findings."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the best revision to avoid mixed conditional and future tense:\n\n**If you will attend the workshop, you should bring a notebook.**",
+      "options": [
+        "If you attend the workshop, bring a notebook.",
+        "If you will attend the workshop, you should have brought a notebook.",
+        "If attending the workshop, you should bring a notebook.",
+        "If you attended the workshop, you should have brought a notebook."
+      ],
+      "correct": 0
+    }
+  ,
+    {
+      "question": "In the following excerpt from a policy article:\n\nThe proposal outlined by the ministry emphasized cost reduction and efficiency. **They said the plans would save money, and the ideas weren’t bad at all.**\n\nWhich revision most effectively improves the sentence’s precision and formal tone?",
+      "options": [
+        "They said the ideas were okay and would help cut costs.",
+        "Officials claimed the measures were reasonable and might save funds.",
+        "The ministry argued that the proposed strategies would reduce expenses and improve operations.",
+        "People agreed that the plans were fine and wouldn’t be too expensive."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "In a college application essay:\n\nI had worked all summer to raise funds for the robotics club. **Eventually, we got some of the stuff we needed.**\n\nWhich version improves precision and tone appropriate for a formal personal statement?",
+      "options": [
+        "Eventually, we got some of the stuff we needed.",
+        "Eventually, we got a few of the important items.",
+        "Eventually, we obtained several essential components for the project.",
+        "Eventually, we got what we were looking for."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Determine the best version to correct the dangling modifier:\n\n**After reviewing the data thoroughly, the conclusion was clear to the researcher.**",
+      "options": [
+        "After reviewing the data thoroughly, the researcher found the conclusion clear.",
+        "After reviewing the data thoroughly, the conclusion made sense.",
+        "Having reviewed the data, it was clear what the conclusion was.",
+        "The researcher found the conclusion clear after a thorough data review."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the sentence that maintains proper verb tense consistency:\n\n**He completed the experiment yesterday and reports his findings this morning.**",
+      "options": [
+        "He completes the experiment yesterday and reported today.",
+        "He completed the experiment yesterday and reported his findings this morning.",
+        "He had completed the experiment and reports his findings today.",
+        "He completes the experiment and reported his findings."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Choose the clearest and most logical sentence order:\n\n[1] The effects of climate change have become increasingly evident in recent years.\n[2] Rising temperatures and extreme weather events are now more common.\n[3] As a result, global initiatives to address these issues have gained momentum.\n[4] Some people still believe that climate change is not real.\n\nWhich is the most logical placement of sentence [4]?",
+      "options": [
+        "Before sentence [1]",
+        "After sentence [1]",
+        "After sentence [3]",
+        "Remove sentence [4] completely"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Identify the sentence with correct pronoun reference:\n\n**When Olivia spoke to Sarah about her college application, she said it was almost done.**",
+      "options": [
+        "Olivia told Sarah that her college application was almost done.",
+        "Olivia’s application was almost done, according to her conversation with Sarah.",
+        "Olivia said Sarah’s application was almost complete.",
+        "She said her application was done in a chat with Sarah."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Determine which version best eliminates wordiness:\n\n**In light of the fact that the team had already made the decision, there was no reason to continue discussing the issue.**",
+      "options": [
+        "The decision being already made, discussion was not needed.",
+        "Since the team had already decided, continued discussion was unnecessary.",
+        "The team decided it, so they didn’t need to talk more.",
+        "There was no point because they already made up their minds."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which transition best maintains coherence in the passage?\n\nThe artist’s early works emphasized vibrant colors and natural light. **However**, her later paintings focused on abstraction and emotional complexity.",
+      "options": [
+        "However",
+        "As a result",
+        "Similarly",
+        "For example"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Identify the sentence with correct parallel structure:\n\n**The job requires managing schedules, preparing reports, and to attend meetings.**",
+      "options": [
+        "and attending meetings",
+        "and attend meetings",
+        "and to be in meetings",
+        "and for attending meetings"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Select the best revision for clarity:\n\n**Because it was raining and cold, and there were too many people, the concert was canceled.**",
+      "options": [
+        "The concert was canceled because it was raining, cold, and crowded.",
+        "Rain, cold, and people led to the concert’s cancelation.",
+        "Too many people and the cold caused a canceled concert.",
+        "It was canceled due to the rain and because too many showed up."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Fix the modifier error:\n\n**Running down the hill, the tree came into view.**",
+      "options": [
+        "The tree appeared as I ran down the hill.",
+        "Running down the hill, I saw the tree come into view.",
+        "I came into view of the tree while running down the hill.",
+        "As I ran, the tree came into view."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Choose the best replacement for tone consistency:\n\n**The company’s stock tanked big time last year.**",
+      "options": [
+        "The company’s stock dropped a lot last year.",
+        "The company’s stock dropped significantly last year.",
+        "The company’s stock saw a big hit last year.",
+        "The stock kind of went down last year."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Determine the best punctuation:\n\n**She had one goal to win the championship.**",
+      "options": [
+        "She had one goal: to win the championship.",
+        "She had one goal, to win the championship.",
+        "She had one goal to win the championship.",
+        "She had one goal—to win the championship"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the correct usage of commas:\n\n**The committee approved the budget proposed new timelines and established guidelines.**",
+      "options": [
+        "approved the budget proposed, new timelines and established guidelines.",
+        "approved the budget, proposed new timelines, and established guidelines.",
+        "approved the budget, proposed new timelines and, established guidelines.",
+        "approved the budget proposed new, timelines and established, guidelines."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which revision improves clarity and conciseness?\n\n**In order to be able to access the system, users must first login.**",
+      "options": [
+        "Users must login to be able to access the system.",
+        "In order to access the system, users must login.",
+        "For accessing the system, one must first login.",
+        "Accessing the system can be done after login."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Select the clearest sentence for an academic tone:\n\n**So, the report was kind of confusing and didn’t make much sense to readers.**",
+      "options": [
+        "The report was somewhat unclear and lacked coherence.",
+        "The report was messy and confused readers.",
+        "It made no sense and confused everyone.",
+        "It was kind of messed up and confusing."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Fix the subject-verb agreement:\n\n**The team of researchers are planning to present their findings next week.**",
+      "options": [
+        "The team of researchers is planning to present",
+        "The team are planning to present",
+        "The researchers is planning to present",
+        "The researchers are planning to present"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which version best maintains consistency in point of view?\n\n**When a student studies hard, you usually do well.**",
+      "options": [
+        "When a student studies hard, they usually do well.",
+        "If you study hard, one will do well.",
+        "When students study, one does well.",
+        "When a student studies hard, we usually do well."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Select the clearest, most grammatically correct sentence:\n\n**There is many ways in which students can prepare for exams.**",
+      "options": [
+        "There is many ways to prepare for exams.",
+        "There are many ways students prepare for exams.",
+        "There are many ways in which students can prepare for exams.",
+        "There be many ways for exams preparation."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Choose the clearest use of active voice:\n\n**The decision was made by the committee to approve the policy.**",
+      "options": [
+        "The committee approved the policy.",
+        "The policy was approved by the committee’s decision.",
+        "The policy got approved by them.",
+        "The decision to approve was made."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Determine the best sentence structure:\n\n**I was walking, I saw a bird, it flew away.**",
+      "options": [
+        "I was walking and saw a bird. It flew away.",
+        "When I walked, I see a bird, it flies away.",
+        "I walked and a bird was flying and I saw it.",
+        "Seeing a bird while I walk, it flew away."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the best placement of the underlined sentence:\n\n**[Underlined] The author’s purpose was to reveal the contradiction between public values and private interests.**\n\nContext:\n[1] The novel centers on a wealthy protagonist who publicly supports charity while privately exploiting others.\n[2] This irony is embedded in nearly every scene.\n[3] The writing uses subtle cues to critique the elite.\n\nWhere should the underlined sentence be placed?",
+      "options": [
+        "Before sentence [1]",
+        "After sentence [1]",
+        "After sentence [2]",
+        "After sentence [3]"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which version improves sentence cohesion and clarity?\n\n**It was late. She left. The party was over. Everyone was gone.**",
+      "options": [
+        "The party was over, everyone gone, so she left late.",
+        "She left late because the party had ended and everyone else had gone.",
+        "She gone after it was late and people left too.",
+        "It was late, and she had been going to leave too."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which sentence avoids redundancy?\n\n**The company plans to make a new innovation that is novel and original.**",
+      "options": [
+        "The company plans to innovate something new.",
+        "The company plans a novel new innovation.",
+        "The company is planning to innovate an original idea.",
+        "The company plans a new innovation."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Identify the most logical conclusion sentence:\n\nPassage:\nThe research findings emphasized the importance of sleep for cognitive function. Subjects deprived of adequate rest performed significantly worse on memory tasks.\n\nWhich sentence best concludes the paragraph?",
+      "options": [
+        "So, don’t forget to sleep a lot!",
+        "That’s why sleep is super important.",
+        "This underscores the value of prioritizing sleep for academic and professional success.",
+        "Sleep matters, so sleep now!"
+      ],
+      "correct": 2
+    }
+  
+  
+
+  ]
+}

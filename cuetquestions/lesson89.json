@@ -1,0 +1,515 @@
+{
+  "test": [
+    {
+      "question": "Choose the correct synonym for: 'Eloquent'",
+      "options": ["Silent", "Fluent", "Angry", "Shy"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the correct antonym for: 'Vivid'",
+      "options": ["Bright", "Clear", "Dull", "Visible"],
+      "correct": 2
+    },
+    {
+      "question": "Identify the error: She don't like chocolate much.",
+      "options": ["She", "don't", "like", "chocolate much"],
+      "correct": 1
+    },
+    {
+      "question": "Fill in the blank: The teacher insisted ______ discipline in the class.",
+      "options": ["on", "in", "with", "by"],
+      "correct": 0
+    },
+    {
+      "question": "Choose the most appropriate synonym for: 'Impeccable'",
+      "options": ["Flawed", "Faultless", "Ordinary", "Unpleasant"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the correctly rearranged sentence: A. often B. we C. do D. mistakes",
+      "options": ["B A D C", "C B D A", "B C D A", "B D A C"],
+      "correct": 2
+    },
+    {
+      "question": "Reading Comprehension: What is the main idea of a factual passage?",
+      "options": ["To entertain", "To narrate events", "To inform", "To express feelings"],
+      "correct": 2
+    },
+    {
+      "question": "Reading Comprehension (Literary): A character is described as having 'a heart of stone'. This implies:",
+      "options": ["Emotionless", "Kind-hearted", "Joyful", "Fragile"],
+      "correct": 0
+    },
+    {
+      "question": "Fill in the blank: He is afraid ______ heights.",
+      "options": ["in", "at", "of", "on"],
+      "correct": 2
+    },
+    {
+      "question": "Error Spotting: The child was enough intelligent to pass the exam.",
+      "options": ["The child", "was", "enough intelligent", "to pass"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the best rearrangement: A. in India B. agriculture C. plays a vital D. role",
+      "options": ["B A C D", "C D B A", "B C D A", "A B D C"],
+      "correct": 2
+    },
+    {
+      "question": "Find the correct antonym of 'Scarce'",
+      "options": ["Rare", "Plentiful", "Hard", "Limited"],
+      "correct": 1
+    },
+    {
+      "question": "Select the word that best fits the blank: The magician ______ the audience with his tricks.",
+      "options": ["bewitched", "disagreed", "disapproved", "confused"],
+      "correct": 0
+    },
+    {
+      "question": "Choose the error part: She is working here since three months.",
+      "options": ["She is", "working here", "since", "three months"],
+      "correct": 2
+    },
+    {
+      "question": "Rearrange: A. behind the curtain B. someone C. I thought D. was hiding",
+      "options": ["C B D A", "D A C B", "B D C A", "A C B D"],
+      "correct": 0
+    },
+    {
+      "question": "Reading (Factual): The purpose of headings and subheadings in a passage is to:",
+      "options": ["Decorate the text", "Increase length", "Organize content", "Provide keywords"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the correct form: Neither of the boys ______ qualified.",
+      "options": ["are", "have", "is", "were"],
+      "correct": 2
+    },
+    {
+      "question": "Find the synonym for 'Benevolent':",
+      "options": ["Kind", "Cunning", "Aggressive", "Cruel"],
+      "correct": 0
+    },
+    {
+      "question": "Choose the antonym for 'Reluctant':",
+      "options": ["Hesitant", "Unwilling", "Eager", "Careful"],
+      "correct": 2
+    },
+    {
+      "question": "Spot the error: I have visited London last year.",
+      "options": ["I have", "visited", "London", "last year"],
+      "correct": 0
+    },
+    {
+      "question": "Fill in the blank: He made a mistake, ______ he apologized.",
+      "options": ["so", "because", "but", "although"],
+      "correct": 0
+    },
+    {
+      "question": "Rearrange: A. you B. Are C. a doctor D. sure",
+      "options": ["B A D C", "B D A C", "A D C B", "B A C D"],
+      "correct": 3
+    },
+    {
+      "question": "Which literary device is used: 'The wind whispered through the trees'?",
+      "options": ["Metaphor", "Personification", "Alliteration", "Irony"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the correct synonym for 'Pristine':",
+      "options": ["Dirty", "Ancient", "Pure", "Used"],
+      "correct": 2
+    },
+    {
+      "question": "Error Spotting: The news are very depressing today.",
+      "options": ["The", "news", "are", "very depressing"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the best fit: He will arrive ______ Monday morning.",
+      "options": ["at", "on", "in", "by"],
+      "correct": 1
+    },
+    {
+      "question": "Reading (Factual): Which of the following is a primary purpose of a newspaper editorial?",
+      "options": ["To inform", "To entertain", "To persuade", "To instruct"],
+      "correct": 2
+    },
+    {
+      "question": "Identify the correct passive form: They completed the project.",
+      "options": ["The project is completed", "The project has been completed", "The project was completed", "The project will be completed"],
+      "correct": 2
+    },
+    {
+      "question": "Fill in the blank: She prefers coffee ______ tea.",
+      "options": ["than", "from", "to", "over"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the synonym of 'Scrutiny':",
+      "options": ["Ignorance", "Examination", "Glance", "Avoidance"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the antonym of 'Hostile':",
+      "options": ["Unfriendly", "Amicable", "Aggressive", "Distant"],
+      "correct": 1
+    },
+    {
+      "question": "Error Spotting: She is the most tallest girl in class.",
+      "options": ["She is", "the most", "tallest girl", "in class"],
+      "correct": 2
+    },
+    {
+      "question": "Fill in the blank: The principal congratulated the students ______ their success.",
+      "options": ["for", "on", "of", "with"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the best rearrangement: A. rains B. heavily C. during D. monsoon",
+      "options": ["C D A B", "D C B A", "A D C B", "C A D B"],
+      "correct": 0
+    },
+    {
+      "question": "Identify the figure of speech: 'Life is a rollercoaster.'",
+      "options": ["Simile", "Metaphor", "Irony", "Hyperbole"],
+      "correct": 1
+    },
+    {
+      "question": "Reading (Literary): A poem that evokes strong emotions is likely using:",
+      "options": ["Pathos", "Logos", "Ethos", "Rhetoric"],
+      "correct": 0
+    },
+    {
+      "question": "Fill in the blank: He is better ______ Mathematics than I am.",
+      "options": ["with", "in", "at", "on"],
+      "correct": 2
+    },
+    {
+      "question": "Error Spotting: Neither the boys nor their teacher have arrived.",
+      "options": ["Neither", "the boys", "nor their teacher", "have arrived"],
+      "correct": 3
+    },
+    {
+      "question": "Rearrange: A. visited B. we C. during summer D. Kashmir",
+      "options": ["B A D C", "B C A D", "A D B C", "B A C D"],
+      "correct": 3
+    },
+    {
+      "question": "Reading (Factual): What is the tone of a report that sticks strictly to data?",
+      "options": ["Descriptive", "Persuasive", "Objective", "Emotional"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is NOT a helping verb?",
+      "options": ["Can", "Have", "Go", "Will"],
+      "correct": 2
+    },
+    {
+      "question": "Fill in the blank: She is known ______ her honesty.",
+      "options": ["by", "for", "with", "to"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the antonym of 'Abundant':",
+      "options": ["Plentiful", "Scarce", "Lavish", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Spot the error: He said that he will help me.",
+      "options": ["He said", "that", "he will", "help me"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following uses the correct tense?",
+      "options": ["She gone to school", "She is go to school", "She goes to school", "She going school"],
+      "correct": 2
+    },
+    {
+      "question": "Rearrange: A. and rainforests B. Amazon river C. flows through D. dense",
+      "options": ["B C A D", "C B D A", "B C D A", "D A C B"],
+      "correct": 2
+    },
+    {
+      "question": "Reading (Literary): If a poem ends with a twist, it most likely uses:",
+      "options": ["Irony", "Hyperbole", "Foreshadowing", "Imagery"],
+      "correct": 0
+    },
+    {
+      "question": "Fill in the blank: ______ of the two options is better?",
+      "options": ["What", "Who", "Which", "Where"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the correct reported speech: He said, 'I am tired.'",
+      "options": ["He said that he is tired", "He said he was tired", "He said that he was tired", "He told he is tired"],
+      "correct": 2
+    },
+    {
+      "question": "Select the word that best completes the sentence: The scientist was praised for her ______ approach to problem-solving.",
+      "options": ["methodical", "casual", "reckless", "impatient"],
+      "correct": 0
+    },
+    {
+      "question": "Spot the error: The report, as well as the documents, have been submitted.",
+      "options": ["The report", "as well as", "the documents", "have been submitted"],
+      "correct": 3
+    },
+    {
+      "question": "Choose the antonym of: 'Pragmatic'",
+      "options": ["Practical", "Idealistic", "Logical", "Sensational"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following sentences uses parallel structure correctly?",
+      "options": [
+        "She likes dancing, to swim, and bikes.",
+        "She likes dancing, swimming, and biking.",
+        "She likes to dance, swim, and biking.",
+        "She likes dance, swimming, and bike."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Identify the figure of speech: 'The silence was so loud it pierced my ears.'",
+      "options": ["Hyperbole", "Irony", "Metaphor", "Personification"],
+      "correct": 0
+    },
+    {
+      "question": "Rearrange: A. hardly B. when C. had she stepped out D. it began to rain",
+      "options": ["A C B D", "B A C D", "C A D B", "A D C B"],
+      "correct": 0
+    },
+    {
+      "question": "Choose the correct usage: 'Scarcely ______ the train arrived when it began to rain.'",
+      "options": ["had", "has", "did", "have"],
+      "correct": 0
+    },
+    {
+      "question": "Fill in the blank: He was not only talented ______ also humble.",
+      "options": ["and", "but", "but also", "as well"],
+      "correct": 2
+    },
+    {
+      "question": "Which best defines 'ambivalent'?",
+      "options": ["Unconcerned", "Indecisive", "Hostile", "Focused"],
+      "correct": 1
+    },
+    {
+      "question": "Reading Comprehension (Literary): What literary device is used when a story begins in the middle of action?",
+      "options": ["Flashback", "Foreshadowing", "In media res", "Prologue"],
+      "correct": 2
+    },
+    {
+      "question": "Spot the error: The team has not and probably never will win a championship.",
+      "options": ["The team", "has not", "never will", "win a championship"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the antonym for 'Opaque':",
+      "options": ["Dull", "Transparent", "Blurry", "Misty"],
+      "correct": 1
+    },
+    {
+      "question": "Fill in the blank: I objected ______ his tone during the meeting.",
+      "options": ["on", "to", "at", "for"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the correct indirect speech: She said, “Why are you late today?”",
+      "options": [
+        "She asked why I was late today.",
+        "She asked why I was late that day.",
+        "She asked why was I late that day.",
+        "She asked me why am I late."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Rearrange: A. to be read B. the book C. was too boring D. by anyone",
+      "options": ["B C A D", "C B D A", "B D A C", "A B C D"],
+      "correct": 0
+    },
+    {
+      "question": "Which sentence contains a dangling modifier?",
+      "options": [
+        "Hiking the trail, the birds chirped loudly.",
+        "The birds chirped while we hiked the trail.",
+        "We saw many birds while hiking.",
+        "While we hiked, birds flew overhead."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Choose the correct word: The novel is replete ______ historical references.",
+      "options": ["of", "by", "with", "for"],
+      "correct": 2
+    },
+    {
+      "question": "Identify the tone: 'The author critiques modern consumerism with subtle sarcasm and irony.'",
+      "options": ["Joyful", "Optimistic", "Satirical", "Neutral"],
+      "correct": 2
+    },
+    {
+      "question": "Which option contains an oxymoron?",
+      "options": ["Open secret", "Big tree", "Cold ice", "Free gift"],
+      "correct": 0
+    },
+    {
+      "question": "Fill in the blank: The director demanded that he ______ present on time.",
+      "options": ["is", "be", "was", "has been"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the best meaning of 'ubiquitous':",
+      "options": ["Rare", "Widespread", "Limited", "Invisible"],
+      "correct": 1
+    },
+    {
+      "question": "Spot the error: Neither of the girls have submitted their assignments.",
+      "options": ["Neither", "of the girls", "have submitted", "their assignments"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the correctly punctuated sentence:",
+      "options": [
+        "However I like tea, not coffee.",
+        "However, I like tea not coffee.",
+        "However, I like tea, not coffee.",
+        "However I like tea not coffee."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Rearrange: A. meaningful B. communication C. is essential D. in relationships",
+      "options": ["C A B D", "C B A D", "B C D A", "D A C B"],
+      "correct": 1
+    },
+    {
+      "question": "Which best expresses the meaning of 'ephemeral'?",
+      "options": ["Everlasting", "Temporary", "Fleeting", "Monotonous"],
+      "correct": 2
+    },
+    {
+      "question": "Reading (Factual): In a factual passage, data is typically supported by:",
+      "options": ["Rhyme", "Evidence", "Suspense", "Dialogue"],
+      "correct": 1
+    },
+    {
+      "question": "Fill in the blank: No sooner had she entered ______ the lights went off.",
+      "options": ["when", "then", "than", "that"],
+      "correct": 2
+    },
+    {
+      "question": "Spot the error: He is more smarter than his brother.",
+      "options": ["He is", "more smarter", "than", "his brother"],
+      "correct": 1
+    },
+    {
+      "question": "Rearrange: A. many challenges B. the scientist C. during her research D. faced",
+      "options": ["B D A C", "D C B A", "B C D A", "C D A B"],
+      "correct": 0
+    },
+    {
+      "question": "What does the idiom 'burning the midnight oil' mean?",
+      "options": ["Using candles", "Working late", "Getting angry", "Being careless"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the best replacement: 'He gave me an advice.'",
+      "options": [
+        "He gave me a suggestion.",
+        "He gave me some advice.",
+        "He gave me an advise.",
+        "He gave advice to me."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What tone best describes: 'Despite all odds, she triumphed with grace and courage'?",
+      "options": ["Cynical", "Inspirational", "Sarcastic", "Indifferent"],
+      "correct": 1
+    },
+    {
+      "question": "Which is an example of anaphora?",
+      "options": [
+        "He came, he saw, he conquered.",
+        "All that glitters is not gold.",
+        "To err is human; to forgive, divine.",
+        "Ask not what your country can do for you..."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Spot the error: The audience was clapping their hands enthusiastically.",
+      "options": ["The audience", "was clapping", "their hands", "enthusiastically"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the word with correct connotation in academic writing:",
+      "options": ["Cool", "Negative", "Significant", "Weird"],
+      "correct": 2
+    },
+    {
+      "question": "Fill in the blank: The judge declared him guilty, ______ he had no prior record.",
+      "options": ["despite", "though", "since", "unless"],
+      "correct": 0
+    },
+    {
+      "question": "Rearrange: A. is a basic B. education C. of every citizen D. right",
+      "options": ["B A D C", "B D A C", "D B A C", "A D B C"],
+      "correct": 0
+    },
+    {
+      "question": "Which is the correct word form? She spoke very ______ in the debate.",
+      "options": ["artistic", "articulate", "articulately", "articulated"],
+      "correct": 2
+    },
+    {
+      "question": "What does the phrase 'silver lining' in a cloud mean?",
+      "options": ["Storm is near", "Bad news", "Hope in adversity", "Snowy weather"],
+      "correct": 2
+    },
+    {
+      "question": "Which is an example of euphemism?",
+      "options": ["He passed away", "He died", "He was murdered", "He vanished"],
+      "correct": 0
+    },
+    {
+      "question": "Spot the error: He did not knew about the change in schedule.",
+      "options": ["He did", "not knew", "about the change", "in schedule"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the word opposite in meaning to 'lucid':",
+      "options": ["Clear", "Confusing", "Transparent", "Logical"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the word that best completes the analogy: Book is to Reading as Fork is to ______",
+      "options": ["Writing", "Drawing", "Eating", "Cooking"],
+      "correct": 2
+    },
+    {
+      "question": "Identify the tone: 'He sulked in a corner, ignored by the world he once commanded.'",
+      "options": ["Nostalgic", "Melancholic", "Uplifting", "Inspiring"],
+      "correct": 1
+    },
+    {
+      "question": "Which best explains 'semantic drift' in language?",
+      "options": [
+        "The grammatical change in sentence structure",
+        "The change in meaning of words over time",
+        "Borrowing of foreign words",
+        "Errors in spelling due to dialect"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Fill in the blank: Little ______ done to address the issue seriously.",
+      "options": ["was", "were", "has", "have"],
+      "correct": 0
+    }
+  
+  ]
+}

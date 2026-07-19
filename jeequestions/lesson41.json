@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "The branch of chemistry that deals with carbon compounds is called:",
+      "options": ["Inorganic chemistry", "Physical chemistry", "Organic chemistry", "Analytical chemistry"],
+      "correct": 2
+    },
+    {
+      "question": "The IUPAC name of CH₃–CH₂–OH is:",
+      "options": ["Ethanol", "Ethyl alcohol", "Methanol", "Propanol"],
+      "correct": 0
+    },
+    {
+      "question": "The general formula of alkanes is:",
+      "options": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙH₂ₙ₊₁"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a functional group?",
+      "options": ["–OH", "–NH₂", "–COOH", "–CH₃"],
+      "correct": 3
+    },
+    {
+      "question": "Which shows a homologous series?",
+      "options": ["CH₄, C₂H₆, C₃H₈", "C₂H₄, C₂H₂, CH₄", "C₂H₆O, C₃H₆O, C₄H₈O₂", "CH₃COOH, C₂H₅OH, C₃H₆"],
+      "correct": 0
+    },
+    {
+      "question": "Isomerism in butane is:",
+      "options": ["Structural", "Optical", "Geometrical", "All of these"],
+      "correct": 0
+    },
+    {
+      "question": "Tautomerism involves:",
+      "options": ["Functional isomers", "Resonance", "Interconversion of keto and enol forms", "Allotropes"],
+      "correct": 2
+    },
+    {
+      "question": "Which technique is used for separation of mixtures based on boiling point?",
+      "options": ["Filtration", "Crystallization", "Distillation", "Sublimation"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is most acidic?",
+      "options": ["CH₄", "CH₃OH", "CH₃COOH", "CH₃NH₂"],
+      "correct": 2
+    },
+    {
+      "question": "Which reagent is used for detection of nitrogen in Lassaigne’s test?",
+      "options": ["FeSO₄", "AgNO₃", "NaOH", "CuSO₄"],
+      "correct": 0
+    },
+    {
+      "question": "The functional group –CHO is called:",
+      "options": ["Ketone", "Aldehyde", "Alcohol", "Carboxylic acid"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a nucleophile?",
+      "options": ["H⁺", "Cl⁻", "AlCl₃", "BF₃"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has sp² hybridization?",
+      "options": ["Ethane", "Ethene", "Ethyne", "Methane"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following does not show chain isomerism?",
+      "options": ["C₄H₁₀", "C₅H₁₂", "C₃H₈", "C₆H₁₄"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is an electrophile?",
+      "options": ["NH₃", "H₂O", "BF₃", "OH⁻"],
+      "correct": 2
+    },
+    {
+      "question": "Hybridization of carbon in CH₄ is:",
+      "options": ["sp", "sp²", "sp³", "sp³d"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not an organic compound?",
+      "options": ["CH₃COOH", "CCl₄", "CH₄", "C₆H₆"],
+      "correct": 1
+    },
+    {
+      "question": "Which separation technique is used for coloured substances?",
+      "options": ["Distillation", "Sublimation", "Chromatography", "Crystallization"],
+      "correct": 2
+    },
+    {
+      "question": "Empirical formula of a compound gives:",
+      "options": ["Actual number of atoms", "Molecular formula", "Simplest whole number ratio", "Structure"],
+      "correct": 2
+    },
+    {
+      "question": "Resonance involves:",
+      "options": ["Shifting of nuclei", "Movement of electrons", "Ionization", "Hybrid orbitals"],
+      "correct": 1
+    },
+    {
+      "question": "Toluene is also known as:",
+      "options": ["Phenol", "Methylbenzene", "Benzoic acid", "Benzyl alcohol"],
+      "correct": 1
+    },
+    {
+      "question": "Which rule helps in writing IUPAC names?",
+      "options": ["Hund’s rule", "Aufbau principle", "Zaitsev rule", "Longest chain rule"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following will not show position isomerism?",
+      "options": ["C₂H₆", "C₃H₇OH", "C₄H₈", "C₅H₁₀O"],
+      "correct": 0
+    },
+    {
+      "question": "In a saturated hydrocarbon, the type of bond is:",
+      "options": ["Single", "Double", "Triple", "Aromatic"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following shows geometrical isomerism?",
+      "options": ["But-2-ene", "Butane", "Ethane", "Cyclohexane"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a hydrocarbon?",
+      "options": ["C₂H₆", "C₂H₅OH", "C₂H₂", "CH₄"],
+      "correct": 1
+    },
+    {
+      "question": "Which technique is used to separate a volatile solid from non-volatile impurities?",
+      "options": ["Sublimation", "Distillation", "Crystallization", "Filtration"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following gives effervescence with NaHCO₃?",
+      "options": ["Alcohol", "Aldehyde", "Carboxylic acid", "Ether"],
+      "correct": 2
+    },
+    {
+      "question": "Molecular formula of benzene is:",
+      "options": ["C₆H₆", "C₅H₁₂", "C₇H₈", "C₆H₁₂"],
+      "correct": 0
+    },
+    {
+      "question": "Which compound has all three types of bonds: σ, π, and coordinate?",
+      "options": ["NH₃", "CH₄", "C₂H₂", "NH₄⁺"],
+      "correct": 3
+    },
+    {
+      "question": "Which is the first step in Lassaigne’s test?",
+      "options": ["Boiling", "Extraction", "Fusion with sodium", "Neutralization"],
+      "correct": 2
+    },
+    {
+      "question": "A compound with same molecular formula but different structure is called:",
+      "options": ["Isotope", "Isomer", "Allotrope", "Homologue"],
+      "correct": 1
+    },
+    {
+      "question": "Which element is not detected by Lassaigne’s test?",
+      "options": ["Nitrogen", "Sulphur", "Halogens", "Carbon"],
+      "correct": 3
+    },
+    {
+      "question": "Which is the parent chain in IUPAC naming?",
+      "options": ["Shortest", "Longest continuous", "Highly branched", "With most substituents"],
+      "correct": 1
+    },
+    {
+      "question": "Which ion gives a green flame in flame test?",
+      "options": ["Cu²⁺", "Ba²⁺", "Ni²⁺", "Fe²⁺"],
+      "correct": 0
+    },
+    {
+      "question": "Which species is a free radical?",
+      "options": ["CH₃⁺", "CH₃⁻", "CH₃•", "CH₄"],
+      "correct": 2
+    },
+    {
+      "question": "Molecular formula and empirical formula of benzene are:",
+      "options": ["Same", "Different", "Opposite", "Not related"],
+      "correct": 1
+    },
+    {
+      "question": "The valency of carbon is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is least reactive?",
+      "options": ["Alkene", "Alkyne", "Alkane", "Alcohol"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an electrophile?",
+      "options": ["H₂O", "NH₃", "NO₂⁺", "OH⁻"],
+      "correct": 2
+    },
+    {
+      "question": "Which technique separates compounds based on polarity?",
+      "options": ["Chromatography", "Sublimation", "Distillation", "Evaporation"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is aromatic?",
+      "options": ["Cyclohexane", "Benzene", "Hexene", "Hexyne"],
+      "correct": 1
+    },
+    {
+      "question": "The formula of acetic acid is:",
+      "options": ["CH₃OH", "CH₃COOH", "C₂H₅OH", "CH₄"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following compounds can show resonance?",
+      "options": ["C₂H₆", "CH₄", "CH₃COOH", "C₂H₂"],
+      "correct": 2
+    },
+    {
+      "question": "Which gives a silver mirror with Tollen’s reagent?",
+      "options": ["Alcohol", "Aldehyde", "Ketone", "Ester"],
+      "correct": 1
+    },
+    {
+      "question": "A homologous series differs by:",
+      "options": ["CH₄", "CH₂", "CH₃", "OH⁻"],
+      "correct": 1
+    },
+    {
+      "question": "Which functional group is present in formaldehyde?",
+      "options": ["Ketone", "Alcohol", "Aldehyde", "Ester"],
+      "correct": 2
+    },
+    {
+      "question": "Which compound is used as an anaesthetic?",
+      "options": ["Ethanol", "Chloroform", "Methane", "Benzene"],
+      "correct": 1
+    },
+    {
+      "question": "The term ‘functional group’ means:",
+      "options": ["Alkyl chain", "Active site", "Reactive group", "Substituent"],
+      "correct": 2
+    }
+  ]
+}

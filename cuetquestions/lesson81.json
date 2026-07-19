@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "A differential equation is an equation involving:",
+      "options": ["Algebraic terms only", "Derivatives of a function", "Only constants", "Matrices"],
+      "correct": 1
+    },
+    {
+      "question": "The order of the differential equation d²y/dx² + dy/dx = x is:",
+      "options": ["1", "2", "3", "0"],
+      "correct": 1
+    },
+    {
+      "question": "The degree of d²y/dx² + (dy/dx)³ = 0 is:",
+      "options": ["1", "2", "3", "Undefined"],
+      "correct": 2
+    },
+    {
+      "question": "The general solution of a differential equation contains:",
+      "options": ["Only constants", "Only functions", "Arbitrary constants", "No constants"],
+      "correct": 2
+    },
+    {
+      "question": "The solution of dy/dx = 0 is:",
+      "options": ["y = c", "x = c", "y = x", "y = x²"],
+      "correct": 0
+    },
+    {
+      "question": "A differential equation is linear if the dependent variable and its derivatives are:",
+      "options": ["Raised to any power", "Multiplied together", "Of first degree only", "Trigonometric"],
+      "correct": 2
+    },
+    {
+      "question": "The differential equation dy/dx = ky represents:",
+      "options": ["Exponential growth/decay", "Logarithmic", "Trigonometric", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A solution without arbitrary constants is called:",
+      "options": ["General solution", "Particular solution", "Singular solution", "Implicit solution"],
+      "correct": 1
+    },
+    {
+      "question": "The solution of dy/dx = x is:",
+      "options": ["y = x + C", "y = x² + C", "y = x²/2 + C", "y = x³ + C"],
+      "correct": 2
+    },
+    {
+      "question": "If dy/dx = y, the solution is:",
+      "options": ["y = x + C", "y = e^x", "y = Ce^x", "y = ln x"],
+      "correct": 2
+    },
+    {
+      "question": "The method of separation of variables is used when:",
+      "options": ["x and y are mixed", "Variables are separable", "Differential is exact", "All of the above"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a linear differential equation?",
+      "options": ["dy/dx + y = sin(x)", "dy/dx = y²", "dy/dx = e^y", "dy/dx = x·y"],
+      "correct": 0
+    },
+    {
+      "question": "The integrating factor for dy/dx + y = e^x is:",
+      "options": ["e^x", "x", "1", "e^(−x)"],
+      "correct": 0
+    },
+    {
+      "question": "If dy/dx = (x² + y²)/(2xy), then the equation is:",
+      "options": ["Linear", "Homogeneous", "Exact", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Order of dy/dx + d²y/dx² + d³y/dx³ = 0 is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "The solution of dy/dx = e^x is:",
+      "options": ["y = e^x + C", "y = Ce^x", "y = x·e^x", "y = ln(x)"],
+      "correct": 0
+    },
+    {
+      "question": "If dy/dx = y/x, then the general solution is:",
+      "options": ["y = x", "y = Cx", "y = x + C", "y = ln(x)"],
+      "correct": 1
+    },
+    {
+      "question": "Differential equations are used in:",
+      "options": ["Biology", "Physics", "Economics", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which is the solution of dy/dx = x/y?",
+      "options": ["y² = x² + C", "y = x²", "x = y² + C", "y = √x"],
+      "correct": 0
+    },
+    {
+      "question": "dy/dx = cos(x) ⇒ y = ?",
+      "options": ["sin(x) + C", "cos(x) + C", "tan(x) + C", "e^x + C"],
+      "correct": 0
+    },
+    {
+      "question": "dy/dx = sec²x, then y = ?",
+      "options": ["tan(x) + C", "sec(x) + C", "cot(x) + C", "−tan(x) + C"],
+      "correct": 0
+    },
+    {
+      "question": "If y = e^(2x), then dy/dx = ?",
+      "options": ["e^(2x)", "2e^(2x)", "e^x", "ln(2x)"],
+      "correct": 1
+    },
+    {
+      "question": "In dy/dx = f(x), y is:",
+      "options": ["Independent", "Dependent", "Both", "None"],
+      "correct": 1
+    },
+    {
+      "question": "In dy/dx = y·tan(x), the solution is:",
+      "options": ["y = C·sec(x)", "y = C·cos(x)", "y = sin(x)", "y = x"],
+      "correct": 0
+    },
+    {
+      "question": "Which type of equation is dy/dx + y = e^x?",
+      "options": ["Linear", "Non-linear", "Exact", "Homogeneous"],
+      "correct": 0
+    },
+    {
+      "question": "The number of arbitrary constants in general solution equals the:",
+      "options": ["Order", "Degree", "Power of x", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Solution of dy/dx = 1/x is:",
+      "options": ["y = x", "y = 1/x", "y = ln|x| + C", "y = e^x"],
+      "correct": 2
+    },
+    {
+      "question": "The general solution of dy/dx = 3x² is:",
+      "options": ["x³ + C", "x² + C", "x³/3 + C", "3x² + C"],
+      "correct": 0
+    },
+    {
+      "question": "dy/dx = x sin(x), the solution is:",
+      "options": ["y = −x cos(x)", "y = x cos(x)", "y = ∫x sin(x) dx", "None"],
+      "correct": 2
+    },
+    {
+      "question": "If dy/dx = f(x)/g(y), the method used is:",
+      "options": ["Integration by parts", "Substitution", "Separation of variables", "Linear equation"],
+      "correct": 2
+    },
+    {
+      "question": "The solution of dy/dx = 0.5y is of the form:",
+      "options": ["y = Ce^x", "y = Cx", "y = Ce^(0.5x)", "None"],
+      "correct": 2
+    },
+    {
+      "question": "An equation involving only derivatives of y with respect to x is:",
+      "options": ["Differential equation", "Algebraic", "Polynomial", "Transcendental"],
+      "correct": 0
+    },
+    {
+      "question": "If y'' + y = 0, then solution is:",
+      "options": ["C sin(x) + D cos(x)", "C e^x", "C x²", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The function y = x³ + 3x + 2 is solution of:",
+      "options": ["dy/dx = 3x² + 3", "dy/dx = 3x²", "dy/dx = x", "dy/dx = x³"],
+      "correct": 0
+    },
+    {
+      "question": "Solution of dy/dx = e^(−x) is:",
+      "options": ["−e^(−x) + C", "e^x + C", "x", "None"],
+      "correct": 0
+    },
+    {
+      "question": "dy/dx = ln(x), solution is:",
+      "options": ["x ln(x) − x + C", "e^x + C", "ln(x) + C", "None"],
+      "correct": 0
+    },
+    {
+      "question": "dy/dx = y/x is homogeneous of degree:",
+      "options": ["0", "1", "2", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "dy/dx = (x + y)/(x − y) is solved by substitution:",
+      "options": ["y = vx", "x = vy", "y = ux", "All of these"],
+      "correct": 0
+    },
+    {
+      "question": "If dy/dx + Py = Q is linear, then I.F. is:",
+      "options": ["e^(∫P dx)", "∫P dx", "P/Q", "None"],
+      "correct": 0
+    },
+    {
+      "question": "dy/dx = tan(x), solution is:",
+      "options": ["−ln|cos x| + C", "sin(x)", "cos(x)", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a first-order differential equation?",
+      "options": ["dy/dx = x + y", "d²y/dx² = x", "d³y/dx³ = 1", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If a differential equation is not exact, we make it exact using:",
+      "options": ["Algebra", "Integrating factor", "Partial fractions", "Differentiation"],
+      "correct": 1
+    },
+    {
+      "question": "dy/dx = (x² + y²)/xy is of which type?",
+      "options": ["Linear", "Homogeneous", "Exact", "None"],
+      "correct": 1
+    },
+    {
+      "question": "General solution of dy/dx = −y is:",
+      "options": ["y = Ce^(−x)", "y = x²", "y = x + C", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a method to solve differential equations?",
+      "options": ["Separation of variables", "Partial fractions", "Homogeneous substitution", "Exact methods"],
+      "correct": 1
+    },
+    {
+      "question": "dy/dx = sin(x) + cos(x) implies y = ?",
+      "options": ["−cos(x) + sin(x) + C", "−sin(x) − cos(x)", "tan(x) + C", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The general solution of a differential equation is also called:",
+      "options": ["Exact", "Implicit", "Primitive", "All of these"],
+      "correct": 2
+    },
+    {
+      "question": "If dy/dx = x⁴, then y = ?",
+      "options": ["x⁵/5 + C", "x⁴ + C", "4x³ + C", "None"],
+      "correct": 0
+    }
+  ]
+}

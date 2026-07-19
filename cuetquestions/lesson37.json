@@ -1,0 +1,239 @@
+{
+  "organic_chemistry_basic_principles_techniques": [
+    {
+      "question": "Which is the hybridization of carbon in methane (CH₄)?",
+      "options": ["sp", "sp²", "sp³", "sp³d"],
+      "correct": 2
+    },
+    {
+      "question": "The IUPAC name of CH₃–CH₂–OH is:",
+      "options": ["Methanol", "Ethanol", "Propane", "Ethene"],
+      "correct": 1
+    },
+    {
+      "question": "Which bond is most polar?",
+      "options": ["C–H", "C–F", "C–C", "C–Cl"],
+      "correct": 1
+    },
+    {
+      "question": "Markovnikov’s rule applies to:",
+      "options": ["Halogenation", "Hydration", "Hydrogenation", "Oxidation"],
+      "correct": 1
+    },
+    {
+      "question": "The reaction of alkene with HBr in presence of peroxide follows:",
+      "options": ["Markovnikov rule", "Anti-Markovnikov rule", "Oxymercuration", "Hydrogenation"],
+      "correct": 1
+    },
+    {
+      "question": "Which reagent is used for bromination of alkenes?",
+      "options": ["Br₂/CCl₄", "Cl₂/H₂O", "H₂/Pt", "KMnO₄"],
+      "correct": 0
+    },
+    {
+      "question": "Which compound shows cis–trans isomerism?",
+      "options": ["CH₃CH₂CH₃", "CH₂=CH₂", "CH₃–CH=CH–CH₃", "CH₃–C≡CH"],
+      "correct": 2
+    },
+    {
+      "question": "Which technique separates compounds based on polarity?",
+      "options": ["Distillation", "Chromatography", "Filtration", "Sublimation"],
+      "correct": 1
+    },
+    {
+      "question": "Which indicator is used in acid–base titration of weak acid vs strong base?",
+      "options": ["Methyl orange", "Phenolphthalein", "Bromothymol blue", "Litmus"],
+      "correct": 1
+    },
+    {
+      "question": "SN1 reaction rate depends on:",
+      "options": ["Substrate only", "Nucleophile only", "Both", "Temperature only"],
+      "correct": 0
+    },
+    {
+      "question": "In SN2 reactions, the product has:",
+      "options": ["Retention of configuration", "Racemization", "Inversion", "No change"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a nucleophile?",
+      "options": ["H⁺", "Cl⁻", "NO₂⁺", "BH₃"],
+      "correct": 1
+    },
+    {
+      "question": "Carbocation stability order is:",
+      "options": ["3° > 2° > 1° > methyl", "1° > 2° > 3° > methyl", "methyl > 1° > 2° > 3°", "All equal"],
+      "correct": 0
+    },
+    {
+      "question": "Which reagent is used for dehydration of alcohol to alkene?",
+      "options": ["H₂/Pt", "H₂SO₄ (conc)", "NaBH₄", "KMnO₄"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound is aromatic?",
+      "options": ["Cyclohexane", "Benzene", "Cyclopentadiene", "Cyclooctatetraene"],
+      "correct": 1
+    },
+    {
+      "question": "Which reagent stops oxidation of primary alcohol to acid?",
+      "options": ["PCC", "KMnO₄", "CrO₃", "H₂O₂"],
+      "correct": 0
+    },
+    {
+      "question": "In IR spectroscopy, OH group shows a band around:",
+      "options": ["1700 cm⁻¹", "3400 cm⁻¹", "2100 cm⁻¹", "3000 cm⁻¹"],
+      "correct": 1
+    },
+    {
+      "question": "Which technique separates liquids with different boiling points?",
+      "options": ["Distillation", "Chromatography", "Centrifugation", "Precipitation"],
+      "correct": 0
+    },
+    {
+      "question": "UV absorption in conjugated dienes is due to:",
+      "options": ["σ→σ*", "n→σ*", "π→π*", "n→π*"],
+      "correct": 2
+    },
+    {
+      "question": "Tollen’s reagent gives silver mirror with:",
+      "options": ["Ketones", "Aldehydes", "Esters", "Alkenes"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a weak acid catalyst for esterification?",
+      "options": ["HCl", "H₂SO₄", "H⁺", "H₃O⁺"],
+      "correct": 1
+    },
+    {
+      "question": "The molecular formula C₂H₄O₂ has how many structural isomers?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Rate of SN2 reaction is:",
+      "options": ["k[substrate]", "k[nucleophile]", "k[substrate][nucleophile]", "k"],
+      "correct": 2
+    },
+    {
+      "question": "Aromatic compounds undergo:",
+      "options": ["Addition reactions readily", "Substitution reactions", "Polymerization easily", "No reaction"],
+      "correct": 1
+    },
+    {
+      "question": "The Rf value in TLC depends on:",
+      "options": ["Polarity", "Boiling point", "Molar mass", "Melting point"],
+      "correct": 0
+    },
+    {
+      "question": "Which reagent is used for oxidation of alkenes to diols?",
+      "options": ["O₃", "OsO₄", "KMnO₄", "H₂/Pt"],
+      "correct": 2
+    },
+    {
+      "question": "Marking names in IUPAC: suffix for alcohol is:",
+      "options": ["-ol", "-al", "-one", "-ene"],
+      "correct": 0
+    },
+    {
+      "question": "Which is an electrophile?",
+      "options": ["Br₂", "OH⁻", "NH₃", "CH₃⁻"],
+      "correct": 0
+    },
+    {
+      "question": "Which solvent is non-polar?",
+      "options": ["Ethanol", "Water", "Hexane", "Acetone"],
+      "correct": 2
+    },
+    {
+      "question": "Which reaction uses acetic anhydride?",
+      "options": ["Esterification", "Hydrogenation", "Halogenation", "Hydration"],
+      "correct": 0
+    },
+    {
+      "question": "In NMR, TMS is used as:",
+      "options": ["Solvent", "Standard", "Reagent", "Catalyst"],
+      "correct": 1
+    },
+    {
+      "question": "Which method distinguishes optical isomers?",
+      "options": ["TLC", "Polarimetry", "pH meter", "Mass spec"],
+      "correct": 1
+    },
+    {
+      "question": "Which base is strongest among G2 elements in organic labs?",
+      "options": ["KOH", "NaOH", "LiOH", "Mg(OH)₂"],
+      "correct": 0
+    },
+    {
+      "question": "Which reaction yields geminal diol?",
+      "options": ["Addition of H₂O to aldehyde", "Dehydration", "Esterification", "Substitution"],
+      "correct": 0
+    },
+    {
+      "question": "Which compound shows optical activity?",
+      "options": ["2‑Butanol", "2‑Butene", "Butane", "1‑Butene"],
+      "correct": 0
+    },
+    {
+      "question": "Wittig reaction converts carbonyl to:",
+      "options": ["Alcohol", "Alkene", "Alkyne", "Carboxylic acid"],
+      "correct": 1
+    },
+    {
+      "question": "Which method separates colored and colorless substances?",
+      "options": ["Column chromatography", "TLC", "HPLC", "All"],
+      "correct": 3
+    },
+    {
+      "question": "Which type of spectroscopy analyzes functional groups?",
+      "options": ["NMR", "IR", "UV‑Vis", "Mass spec"],
+      "correct": 1
+    },
+    {
+      "question": "Which is nucleophilic addition to carbonyls?",
+      "options": ["CN⁻ attack on aldehyde", "Br₂ addition to alkene", "H₂ addition to alkene", "OH⁻ addition to alkane"],
+      "correct": 0
+    },
+    {
+      "question": "Catalytic hydrogenation uses:",
+      "options": ["Pt or Pd", "KMnO₄", "OsO₄", "HCl"],
+      "correct": 0
+    },
+    {
+      "question": "Which has highest boiling point?",
+      "options": ["Methane", "Ethanol", "Hexane", "Ethene"],
+      "correct": 1
+    },
+    {
+      "question": "Benzoin condensation produces:",
+      "options": ["Diketone", "Hydroxy ketone", "Alcohol", "Amide"],
+      "correct": 1
+    },
+    {
+      "question": "Which reagent halogenates benzene?",
+      "options": ["Br₂/FeBr₃", "Br₂/H₂O", "Cl₂/H₂O", "Cl₂/NaOH"],
+      "correct": 0
+    },
+    {
+      "question": "The major product of nitration of benzene is:",
+      "options": ["Nitrobenzene", "Aniline", "Benzaldehyde", "Phenol"],
+      "correct": 0
+    },
+    {
+      "question": "In acid–base extraction, organic layer is:",
+      "options": ["Polar layer", "Aqueous layer", "Non‑polar layer", "Ionic layer"],
+      "correct": 2
+    },
+    {
+      "question": "Which reagent converts alcohol to alkyl halide?",
+      "options": ["PCl₅", "KMnO₄", "H₂/Pt", "H₂SO₄"],
+      "correct": 0
+    },
+    {
+      "question": "Which technique measures molecular weight?",
+      "options": ["Mass spectrometry", "IR spectroscopy", "NMR spectroscopy", "TLC"],
+      "correct": 0
+    }
+  ]
+}

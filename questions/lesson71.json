@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "The site of glycolysis is:",
+      "options": ["Mitochondria", "Cytoplasm", "Chloroplast", "Nucleus"],
+      "correct": 1
+    },
+    {
+      "question": "Which is the end product of glycolysis?",
+      "options": ["Pyruvate", "Acetyl CoA", "Lactic acid", "Ethanol"],
+      "correct": 0
+    },
+    {
+      "question": "Link reaction connects glycolysis to:",
+      "options": ["ETC", "TCA cycle", "Fermentation", "Calvin cycle"],
+      "correct": 1
+    },
+    {
+      "question": "Which cycle occurs in the mitochondrial matrix?",
+      "options": ["Calvin", "Glycolysis", "TCA", "Gluconeogenesis"],
+      "correct": 2
+    },
+    {
+      "question": "How many ATP molecules are produced by complete oxidation of one glucose molecule?",
+      "options": ["2", "18", "30", "38"],
+      "correct": 3
+    },
+    {
+      "question": "Which enzyme converts pyruvate to acetyl CoA?",
+      "options": ["Hexokinase", "Rubisco", "Pyruvate dehydrogenase", "LDH"],
+      "correct": 2
+    },
+    {
+      "question": "The common pathway for aerobic and anaerobic respiration is:",
+      "options": ["TCA cycle", "Fermentation", "Glycolysis", "ETC"],
+      "correct": 2
+    },
+    {
+      "question": "Oxygen acts as the terminal electron acceptor in:",
+      "options": ["Glycolysis", "TCA cycle", "Fermentation", "Electron transport chain"],
+      "correct": 3
+    },
+    {
+      "question": "R.Q. for carbohydrates is:",
+      "options": ["<1", ">1", "0", "1"],
+      "correct": 3
+    },
+    {
+      "question": "Fermentation occurs in absence of:",
+      "options": ["Glucose", "Enzymes", "Oxygen", "Water"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following produces the most ATP?",
+      "options": ["Glycolysis", "TCA cycle", "Fermentation", "ETC"],
+      "correct": 3
+    },
+    {
+      "question": "The net gain of ATP in anaerobic respiration is:",
+      "options": ["2", "4", "8", "38"],
+      "correct": 0
+    },
+    {
+      "question": "Which molecule enters the TCA cycle?",
+      "options": ["Pyruvate", "Acetyl CoA", "Lactate", "Ethanol"],
+      "correct": 1
+    },
+    {
+      "question": "The first stable compound in TCA cycle is:",
+      "options": ["Citrate", "Fumarate", "Malate", "Succinyl CoA"],
+      "correct": 0
+    },
+    {
+      "question": "FADH₂ produces how many ATPs?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "The enzyme succinate dehydrogenase is located in:",
+      "options": ["Cytosol", "Inner mitochondrial membrane", "Stroma", "Ribosome"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a product of aerobic respiration?",
+      "options": ["CO₂", "Water", "Lactic acid", "ATP"],
+      "correct": 2
+    },
+    {
+      "question": "The electron transport chain is located in:",
+      "options": ["Matrix", "Inner mitochondrial membrane", "Outer mitochondrial membrane", "Cytoplasm"],
+      "correct": 1
+    },
+    {
+      "question": "In fermentation, pyruvate is converted into:",
+      "options": ["CO₂ and water", "Lactic acid or ethanol", "Acetyl CoA", "ATP"],
+      "correct": 1
+    },
+    {
+      "question": "Cyanide inhibits:",
+      "options": ["Glycolysis", "Fermentation", "ETC", "TCA cycle"],
+      "correct": 2
+    },
+    {
+      "question": "R.Q. of fats is:",
+      "options": ["1", "<1", ">1", "0"],
+      "correct": 1
+    },
+    {
+      "question": "Respiratory quotient (RQ) is calculated by:",
+      "options": ["O₂ evolved / CO₂ consumed", "CO₂ consumed / O₂ evolved", "CO₂ evolved / O₂ consumed", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a 6-carbon compound in TCA cycle?",
+      "options": ["Oxaloacetate", "Citrate", "Malate", "Fumarate"],
+      "correct": 1
+    },
+    {
+      "question": "Enzyme hexokinase catalyzes the conversion of:",
+      "options": ["Glucose to pyruvate", "Glucose to glucose-6-phosphate", "Fructose to glucose", "Glucose to ATP"],
+      "correct": 1
+    },
+    {
+      "question": "Oxidative phosphorylation results in the formation of:",
+      "options": ["ATP", "NADH", "FADH₂", "CO₂"],
+      "correct": 0
+    },
+    {
+      "question": "The function of cytochromes in ETC is:",
+      "options": ["CO₂ fixation", "O₂ binding", "Electron transfer", "ATP hydrolysis"],
+      "correct": 2
+    },
+    {
+      "question": "Which compound is formed at the end of glycolysis?",
+      "options": ["Ethanol", "Acetyl CoA", "Pyruvic acid", "Lactic acid"],
+      "correct": 2
+    },
+    {
+      "question": "Which process occurs in both aerobic and anaerobic organisms?",
+      "options": ["TCA cycle", "Glycolysis", "ETC", "Oxidative phosphorylation"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a decarboxylation step?",
+      "options": ["PEP to pyruvate", "Pyruvate to acetyl CoA", "Glucose to G6P", "Fumarate to malate"],
+      "correct": 1
+    },
+    {
+      "question": "Which step in respiration does not release ATP?",
+      "options": ["Glycolysis", "Link reaction", "TCA cycle", "ETC"],
+      "correct": 1
+    },
+    {
+      "question": "Malate is converted to oxaloacetate by:",
+      "options": ["Dehydrogenase", "Synthase", "Isomerase", "Kinase"],
+      "correct": 0
+    },
+    {
+      "question": "How many NADH molecules are produced per glucose in glycolysis?",
+      "options": ["2", "4", "6", "8"],
+      "correct": 0
+    },
+    {
+      "question": "ATP synthase is found in:",
+      "options": ["Mitochondrial outer membrane", "Thylakoid membrane", "Cristae", "Matrix"],
+      "correct": 2
+    },
+    {
+      "question": "Decarboxylation of pyruvate yields:",
+      "options": ["Lactate", "Ethanol", "Acetyl CoA", "PEP"],
+      "correct": 2
+    },
+    {
+      "question": "Fermentation in yeast produces:",
+      "options": ["Lactic acid", "Alcohol and CO₂", "Acetic acid", "Acetyl CoA"],
+      "correct": 1
+    },
+    {
+      "question": "Which yields maximum ATP per molecule?",
+      "options": ["Protein", "Carbohydrate", "Fat", "Alcohol"],
+      "correct": 2
+    },
+    {
+      "question": "How many turns of TCA cycle per glucose?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Which TCA intermediate is also part of gluconeogenesis?",
+      "options": ["Citrate", "Succinyl CoA", "Oxaloacetate", "Fumarate"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the final hydrogen acceptor in aerobic respiration?",
+      "options": ["Cytochrome", "NAD⁺", "FAD", "Oxygen"],
+      "correct": 3
+    },
+    {
+      "question": "Respiration in plants is:",
+      "options": ["Exothermic", "Endothermic", "Photochemical", "Anaerobic"],
+      "correct": 0
+    },
+    {
+      "question": "NADH from glycolysis enters mitochondria via:",
+      "options": ["Direct passage", "Malate shuttle", "ETC", "Calvin cycle"],
+      "correct": 1
+    },
+    {
+      "question": "R.Q. is <1 when the substrate is:",
+      "options": ["Carbohydrate", "Fat", "Organic acid", "Protein"],
+      "correct": 1
+    },
+    {
+      "question": "R.Q. >1 occurs in:",
+      "options": ["Fat oxidation", "Carbohydrate metabolism", "Anaerobic respiration", "Organic acid oxidation"],
+      "correct": 3
+    },
+    {
+      "question": "ATP produced per NADH in ETC is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "First step of glycolysis is catalyzed by:",
+      "options": ["Pyruvate kinase", "Enolase", "Hexokinase", "Isomerase"],
+      "correct": 2
+    },
+    {
+      "question": "Total number of NADH molecules from 1 glucose during aerobic respiration:",
+      "options": ["4", "6", "8", "10"],
+      "correct": 3
+    },
+    {
+      "question": "How many ATP equivalents are obtained from 1 FADH₂?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Chemiosmotic theory is related to:",
+      "options": ["Krebs cycle", "Photosynthesis", "ATP synthesis", "Fermentation"],
+      "correct": 2
+    },
+    {
+      "question": "Substrate-level phosphorylation occurs in:",
+      "options": ["Glycolysis and TCA", "ETC", "Fermentation only", "None"],
+      "correct": 0
+    }
+  ]
+}

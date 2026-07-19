@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "If the ratio of apples to oranges is 3:5, how many apples are there in a basket of 40 fruits?",
+      "options": ["12", "15", "18", "20"],
+      "correct": 1
+    },
+    {
+      "question": "If 4 pens cost $6, how much do 10 pens cost at the same rate?",
+      "options": ["$10", "$12", "$15", "$16"],
+      "correct": 2
+    },
+    {
+      "question": "What is 25% of 160?",
+      "options": ["30", "35", "40", "45"],
+      "correct": 2
+    },
+    {
+      "question": "If 60 is 75% of a number, what is that number?",
+      "options": ["70", "75", "80", "90"],
+      "correct": 2
+    },
+    {
+      "question": "A jacket originally priced at $120 is discounted by 25%. What is the sale price?",
+      "options": ["$85", "$90", "$95", "$100"],
+      "correct": 1
+    },
+    {
+      "question": "In a class, the ratio of boys to girls is 2:3. If there are 20 girls, how many boys are there?",
+      "options": ["10", "12", "13", "15"],
+      "correct": 3
+    },
+    {
+      "question": "A number increased by 20% becomes 144. What was the original number?",
+      "options": ["110", "115", "120", "125"],
+      "correct": 2
+    },
+    {
+      "question": "If a $200 product is discounted 30%, what is the final price?",
+      "options": ["$130", "$140", "$150", "$160"],
+      "correct": 1
+    },
+    {
+      "question": "5 out of 20 students failed a test. What percentage of students passed?",
+      "options": ["25%", "50%", "60%", "75%"],
+      "correct": 3
+    },
+    {
+      "question": "The price of a shirt increased from $80 to $100. What was the percent increase?",
+      "options": ["20%", "25%", "30%", "35%"],
+      "correct": 1
+    },
+    {
+      "question": "A recipe requires flour and sugar in a 2:5 ratio. If there are 10 cups of sugar, how much flour is needed?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2
+    },
+    {
+      "question": "If 15 is 60% of a number, what is the number?",
+      "options": ["20", "25", "30", "35"],
+      "correct": 1
+    },
+    {
+      "question": "What number is 80% of 50?",
+      "options": ["35", "40", "45", "50"],
+      "correct": 1
+    },
+    {
+      "question": "A $50 item is on sale for $40. What is the discount percentage?",
+      "options": ["10%", "15%", "20%", "25%"],
+      "correct": 2
+    },
+    {
+      "question": "If 4 shirts cost $28, what is the cost of 9 shirts?",
+      "options": ["$56", "$63", "$72", "$78"],
+      "correct": 1
+    },
+    {
+      "question": "A map scale shows 1 inch = 5 miles. What distance is represented by 3.2 inches?",
+      "options": ["15", "16", "17", "18"],
+      "correct": 1
+    },
+    {
+      "question": "A student scored 36 out of 60 on a test. What percentage did they get?",
+      "options": ["50%", "55%", "60%", "65%"],
+      "correct": 2
+    },
+    {
+      "question": "A mixture contains ingredients in a 2:3:5 ratio. If the total is 100 ml, how much is the second ingredient?",
+      "options": ["20", "30", "25", "50"],
+      "correct": 1
+    },
+    {
+      "question": "What percent of 150 is 45?",
+      "options": ["20%", "25%", "30%", "35%"],
+      "correct": 2
+    },
+    {
+      "question": "If the ratio of red balls to total balls is 3:8, what percent are red?",
+      "options": ["35%", "37.5%", "40%", "45%"],
+      "correct": 1
+    },
+    {
+      "question": "You save $18 on a $60 purchase. What percentage is saved?",
+      "options": ["25%", "30%", "35%", "40%"],
+      "correct": 1
+    },
+    {
+      "question": "What is 15% of 80?",
+      "options": ["10", "12", "14", "16"],
+      "correct": 1
+    },
+    {
+      "question": "If 3 books cost $27, what is the cost of 5 books?",
+      "options": ["$45", "$47", "$48", "$50"],
+      "correct": 0
+    },
+    {
+      "question": "A quantity increases from 120 to 150. What is the percent increase?",
+      "options": ["20%", "25%", "30%", "35%"],
+      "correct": 0
+    },
+    {
+      "question": "If 10% of a number is 12, what is the number?",
+      "options": ["100", "110", "120", "130"],
+      "correct": 2
+    },
+    {
+      "question": "A $150 item is sold at 20% discount, and then 10% tax is added. What is the final price?",
+      "options": ["$132", "$135", "$138", "$140"],
+      "correct": 2
+    },
+    {
+      "question": "If the ratio of boys to girls is 5:7 and there are 60 students in total, how many girls are there?",
+      "options": ["25", "30", "35", "40"],
+      "correct": 2
+    },
+    {
+      "question": "An item is marked up by 40% and then discounted by 25%. What is the net percent change?",
+      "options": ["0%", "5%", "10%", "15%"],
+      "correct": 3
+    },
+    {
+      "question": "If 60 is 30% of x, what is 20% of x?",
+      "options": ["30", "40", "50", "60"],
+      "correct": 1
+    },
+    {
+      "question": "A solution is made by mixing water and alcohol in a ratio 4:1. If the solution is 750 ml, how much alcohol is present?",
+      "options": ["120", "130", "140", "150"],
+      "correct": 3
+    },
+    {
+      "question": "A car’s value depreciates by 20% in the first year and 10% in the second year. If the original price is $20,000, what is its value after 2 years?",
+      "options": ["$14,400", "$15,200", "$16,000", "$17,000"],
+      "correct": 1
+    },
+    {
+      "question": "If x:y = 2:5 and y:z = 3:4, what is the ratio x:z?",
+      "options": ["6:20", "2:4", "6:5", "2:3"],
+      "correct": 0
+    },
+    {
+      "question": "What is the percentage increase from 40 to 60?",
+      "options": ["30%", "40%", "50%", "60%"],
+      "correct": 2
+    },
+    {
+      "question": "A recipe requires ingredients in the ratio 2:3:4. If the total amount is 90 grams, how much is the largest portion?",
+      "options": ["30", "36", "40", "45"],
+      "correct": 0
+    },
+    {
+      "question": "A student answered 85% of 80 questions correctly. How many were incorrect?",
+      "options": ["10", "12", "14", "16"],
+      "correct": 1
+    },
+    {
+      "question": "If a population increases by 10% annually, what will be the population after 2 years if it starts at 1,000?",
+      "options": ["1,100", "1,200", "1,210", "1,220"],
+      "correct": 2
+    },
+    {
+      "question": "A's salary is 25% more than B’s. If B earns $3200, how much does A earn?",
+      "options": ["$4000", "$4100", "$4200", "$4300"],
+      "correct": 2
+    },
+    {
+      "question": "A number is increased by 25% and then decreased by 20%. What is the net change?",
+      "options": ["5% increase", "5% decrease", "0%", "10% increase"],
+      "correct": 0
+    },
+    {
+      "question": "If a bag contains red, blue, and green marbles in the ratio 2:3:5, what percent of marbles are blue?",
+      "options": ["20%", "30%", "40%", "50%"],
+      "correct": 1
+    },
+    {
+      "question": "What is 12.5% of 320?",
+      "options": ["35", "40", "45", "50"],
+      "correct": 1
+    },
+    {
+      "question": "A train covers 120 miles in 2 hours. At this rate, how far will it travel in 3.5 hours?",
+      "options": ["180", "200", "210", "220"],
+      "correct": 2
+    },
+    {
+      "question": "If x is 20% more than y, and y = 80, what is x?",
+      "options": ["90", "96", "100", "105"],
+      "correct": 1
+    },
+    {
+      "question": "A fruit mix is made in the ratio 5:2:3 for apples:bananas:oranges. What percent of the mix is bananas?",
+      "options": ["10%", "15%", "20%", "25%"],
+      "correct": 2
+    },
+    {
+      "question": "A man gives 20% of his salary to charity. If he gives $600, what is his total salary?",
+      "options": ["$2500", "$2800", "$3000", "$3200"],
+      "correct": 2
+    },
+    {
+      "question": "A $100 item is discounted 20% and then taxed 10%. What is the final cost?",
+      "options": ["$88", "$90", "$92", "$96"],
+      "correct": 2
+    },
+    {
+      "question": "If the ratio of men to women is 3:4 and there are 84 people in total, how many women are there?",
+      "options": ["36", "48", "56", "60"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is equal to 40% of 75?",
+      "options": ["25", "30", "35", "40"],
+      "correct": 1
+    },
+    {
+      "question": "If the sale price is 80% of the original and the item costs $64, what was the original price?",
+      "options": ["70", "75", "80", "85"],
+      "correct": 2
+    },
+    {
+      "question": "A student scores 72 marks out of 90. What is the percentage?",
+      "options": ["75%", "78%", "80%", "82%"],
+      "correct": 2
+    },
+    {
+      "question": "If 18 is 60% of x, what is x?",
+      "options": ["28", "30", "32", "34"],
+      "correct": 1
+    }
+  ]
+}

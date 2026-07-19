@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The term 'biodiversity' was popularized by:",
+      "options": ["Edward Wilson", "Ernst Mayr", "Charles Darwin", "Robert Brown"],
+      "correct": 0
+    },
+    {
+      "question": "India is one of the ____ mega biodiversity countries of the world.",
+      "options": ["8", "10", "12", "17"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following has the highest species diversity?",
+      "options": ["Temperate forests", "Tundra", "Tropical rainforests", "Coniferous forests"],
+      "correct": 2
+    },
+    {
+      "question": "What is alpha diversity?",
+      "options": ["Diversity between communities", "Diversity within a community", "Global diversity", "Species richness of a continent"],
+      "correct": 1
+    },
+    {
+      "question": "According to IUCN, species facing extremely high risk of extinction in the immediate future are:",
+      "options": ["Endangered", "Vulnerable", "Critically Endangered", "Extinct"],
+      "correct": 2
+    },
+    {
+      "question": "Which region in India is considered a biodiversity hotspot?",
+      "options": ["Thar Desert", "Western Ghats", "Sundarbans", "Gangetic Plains"],
+      "correct": 1
+    },
+    {
+      "question": "The current rate of biodiversity loss is mainly due to:",
+      "options": ["Pollution", "Climate change", "Habitat destruction", "Volcanoes"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has been declared as the 'World Heritage Site' by UNESCO for its biodiversity?",
+      "options": ["Kaziranga", "Sundarbans", "Nilgiris", "Western Ghats"],
+      "correct": 3
+    },
+    {
+      "question": "Sacred groves are important for:",
+      "options": ["Agriculture", "Tourism", "Biodiversity conservation", "Spiritual rituals only"],
+      "correct": 2
+    },
+    {
+      "question": "Hotspots of biodiversity were identified by:",
+      "options": ["E.O. Wilson", "Norman Myers", "Robert Whittaker", "Humboldt"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a biodiversity hotspot in India?",
+      "options": ["Indo-Burma", "Sundarbans", "Himalayas", "Western Ghats"],
+      "correct": 1
+    },
+    {
+      "question": "Red Data Book contains data of:",
+      "options": ["Medicinal plants", "Endangered species", "Extinct volcanoes", "Hotspot locations"],
+      "correct": 1
+    },
+    {
+      "question": "In situ conservation includes:",
+      "options": ["Gene banks", "Zoos", "Botanical gardens", "Biosphere reserves"],
+      "correct": 3
+    },
+    {
+      "question": "Ex situ conservation includes:",
+      "options": ["Wildlife sanctuaries", "National parks", "Seed banks", "Biosphere reserves"],
+      "correct": 2
+    },
+    {
+      "question": "What percent of total species are estimated to be present in tropical rainforests?",
+      "options": ["20%", "40%", "50%", "70%"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an example of a critically endangered species?",
+      "options": ["Tiger", "Great Indian Bustard", "Indian elephant", "Indian cobra"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a keystone species?",
+      "options": ["Frog", "Tiger", "Deer", "Vulture"],
+      "correct": 1
+    },
+    {
+      "question": "Which biome has the least biodiversity?",
+      "options": ["Desert", "Tropical forest", "Temperate forest", "Grassland"],
+      "correct": 0
+    },
+    {
+      "question": "What is the full form of IUCN?",
+      "options": ["International Union for Conservation of Nature", "Indian Union for Conserving Nature", "International Union of Climate and Nature", "International Understanding of Climate and Nature"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a major cause for loss of biodiversity?",
+      "options": ["Habitat loss", "Overexploitation", "Pollution", "Photosynthesis"],
+      "correct": 3
+    },
+    {
+      "question": "Which is the largest category of organisms described so far?",
+      "options": ["Mammals", "Birds", "Insects", "Fungi"],
+      "correct": 2
+    },
+    {
+      "question": "Biological diversity Act in India was passed in the year:",
+      "options": ["1992", "2000", "2002", "2005"],
+      "correct": 2
+    },
+    {
+      "question": "Which national park is famous for the one-horned rhinoceros?",
+      "options": ["Sundarbans", "Periyar", "Kaziranga", "Gir"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following species are endemic to India?",
+      "options": ["Red panda", "Snow leopard", "Nilgiri tahr", "Cheetah"],
+      "correct": 2
+    },
+    {
+      "question": "Which category in IUCN includes species that are not threatened now but likely to be so in future?",
+      "options": ["Endangered", "Vulnerable", "Near threatened", "Extinct"],
+      "correct": 2
+    },
+    {
+      "question": "Bioprospecting is:",
+      "options": ["Searching valuable genetic resources", "Destroying forests", "Hunting animals", "Conserving fossils"],
+      "correct": 0
+    },
+    {
+      "question": "Which country has the largest number of species?",
+      "options": ["India", "Brazil", "USA", "China"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a use of biodiversity?",
+      "options": ["Ecosystem stability", "Source of drugs", "Aesthetic value", "Nuclear energy production"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is NOT part of India's biosphere reserves?",
+      "options": ["Nanda Devi", "Nilgiri", "Dachigam", "Sundarbans"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the richest taxonomic group in biodiversity?",
+      "options": ["Plants", "Vertebrates", "Insects", "Fungi"],
+      "correct": 2
+    },
+    {
+      "question": "Who gave the concept of species-area relationship?",
+      "options": ["Humboldt", "Wallace", "Linnaeus", "Odum"],
+      "correct": 0
+    },
+    {
+      "question": "The graph of species-area relationship is:",
+      "options": ["Linear", "Exponential", "Rectangular hyperbola", "Sigmoid"],
+      "correct": 2
+    },
+    {
+      "question": "Which group of vertebrates is most threatened?",
+      "options": ["Birds", "Amphibians", "Reptiles", "Mammals"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a biodiversity-rich zone in India?",
+      "options": ["Indo-Gangetic plain", "Western Ghats", "Deccan Plateau", "Eastern Rajasthan"],
+      "correct": 1
+    },
+    {
+      "question": "Species which are confined to a particular region and not found elsewhere are:",
+      "options": ["Endangered", "Endemic", "Rare", "Exotic"],
+      "correct": 1
+    },
+    {
+      "question": "Botanical Gardens are involved in:",
+      "options": ["In situ conservation", "Ex situ conservation", "Reforestation", "Fossil preservation"],
+      "correct": 1
+    },
+    {
+      "question": "Cryopreservation involves conservation at:",
+      "options": ["0°C", "Room temperature", "−196°C", "−20°C"],
+      "correct": 2
+    },
+    {
+      "question": "Which species is extinct from India?",
+      "options": ["Cheetah", "Lion", "Tiger", "Leopard"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following promotes biodiversity conservation?",
+      "options": ["Deforestation", "Monoculture", "Sacred groves", "Urbanization"],
+      "correct": 2
+    },
+    {
+      "question": "The term ‘endemic species’ refers to:",
+      "options": ["Alien species", "Locally extinct species", "Species restricted to a particular area", "Common species"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is an example of an alien invasive species in India?",
+      "options": ["Parthenium", "Bamboo", "Neem", "Mango"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a method of ex-situ conservation?",
+      "options": ["National park", "Zoo", "Sacred forest", "Wildlife sanctuary"],
+      "correct": 1
+    },
+    {
+      "question": "Which act governs wildlife protection in India?",
+      "options": ["Biodiversity Act", "Wildlife Protection Act", "Environment Act", "Indian Forest Act"],
+      "correct": 1
+    },
+    {
+      "question": "Biological diversity includes:",
+      "options": ["Species diversity", "Genetic diversity", "Ecosystem diversity", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which is an ecosystem service provided by biodiversity?",
+      "options": ["Air pollution", "Water purification", "Soil erosion", "Greenhouse effect"],
+      "correct": 1
+    },
+    {
+      "question": "What is the major cause of biodiversity loss globally?",
+      "options": ["Habitat destruction", "Flood", "Overpopulation", "Soil erosion"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these does not support biodiversity?",
+      "options": ["Agroforestry", "Monoculture", "Mixed cropping", "Sacred groves"],
+      "correct": 1
+    },
+    {
+      "question": "Extinction of a species means:",
+      "options": ["Endangered", "No reproduction", "Disappearance from earth", "Decline in population"],
+      "correct": 2
+    }
+  ]
+}

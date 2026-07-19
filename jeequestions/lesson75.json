@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "If A is a 3×2 matrix and B is a 2×3 matrix, then AB is of order:",
+      "options": ["3×3", "2×2", "2×3", "3×2"],
+      "correct": 0
+    },
+    {
+      "question": "A square matrix A is said to be symmetric if:",
+      "options": ["A = A⁻¹", "A = A'", "A = −A'", "AA' = I"],
+      "correct": 1
+    },
+    {
+      "question": "If A = [2 0; 0 2], then A is:",
+      "options": ["Diagonal matrix", "Scalar matrix", "Identity matrix", "Skew-symmetric matrix"],
+      "correct": 1
+    },
+    {
+      "question": "The transpose of a matrix A is denoted by:",
+      "options": ["A*", "A'", "A⁻¹", "det(A)"],
+      "correct": 1
+    },
+    {
+      "question": "If A is a skew-symmetric matrix, then A' = ?",
+      "options": ["−A", "A", "A⁻¹", "A²"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following matrices is symmetric?",
+      "options": ["[1 2; 2 1]", "[0 1; −1 0]", "[1 0; 0 −1]", "[2 3; 4 5]"],
+      "correct": 0
+    },
+    {
+      "question": "The inverse of a matrix A exists only if:",
+      "options": ["A is symmetric", "A is square and |A| ≠ 0", "A is diagonal", "A is triangular"],
+      "correct": 1
+    },
+    {
+      "question": "If A and B are matrices such that AB is defined, then:",
+      "options": ["Columns of A = Rows of B", "Rows of A = Columns of B", "Columns of A = Columns of B", "Rows of A = Rows of B"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not defined for matrices?",
+      "options": ["Addition", "Multiplication", "Division", "Subtraction"],
+      "correct": 2
+    },
+    {
+      "question": "If A = [1 2; 3 4], then trace(A) is:",
+      "options": ["4", "5", "6", "7"],
+      "correct": 1
+    },
+    {
+      "question": "Identity matrix is always:",
+      "options": ["Skew-symmetric", "Diagonal", "Symmetric", "Both (b) and (c)"],
+      "correct": 3
+    },
+    {
+      "question": "If A is a 2×2 matrix such that A² = I, then A⁻¹ = ?",
+      "options": ["A", "−A", "0", "I"],
+      "correct": 0
+    },
+    {
+      "question": "The determinant of an identity matrix is:",
+      "options": ["0", "1", "2", "Undefined"],
+      "correct": 1
+    },
+    {
+      "question": "The product of a matrix with its transpose is:",
+      "options": ["Always symmetric", "Always skew-symmetric", "Zero", "Not defined"],
+      "correct": 0
+    },
+    {
+      "question": "Which matrix is both symmetric and skew-symmetric?",
+      "options": ["Identity matrix", "Null matrix", "Diagonal matrix", "None"],
+      "correct": 1
+    },
+    {
+      "question": "If A = [a_ij] is a matrix such that a_ij = i + j, then A is:",
+      "options": ["Diagonal", "Skew-symmetric", "Symmetric", "Scalar"],
+      "correct": 2
+    },
+    {
+      "question": "Matrix A = [a b; c d] is singular if:",
+      "options": ["ad − bc = 0", "ad − bc ≠ 0", "a = d", "a = b = c = d"],
+      "correct": 0
+    },
+    {
+      "question": "If A is an n×n matrix and A⁻¹ exists, then A is called:",
+      "options": ["Singular", "Invertible", "Zero", "Skew"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a scalar matrix?",
+      "options": ["[2 0; 0 2]", "[2 1; 1 2]", "[2 0; 0 3]", "[1 0; 0 −1]"],
+      "correct": 0
+    },
+    {
+      "question": "The inverse of a diagonal matrix is:",
+      "options": ["Diagonal matrix", "Symmetric", "Skew-symmetric", "Identity"],
+      "correct": 0
+    },
+    {
+      "question": "Matrix multiplication is:",
+      "options": ["Commutative", "Associative", "Distributive over addition", "Both (b) and (c)"],
+      "correct": 3
+    },
+    {
+      "question": "If A is 3×2 and B is 2×1, then the order of AB is:",
+      "options": ["3×1", "2×2", "2×1", "3×2"],
+      "correct": 0
+    },
+    {
+      "question": "A matrix with all elements zero is called:",
+      "options": ["Null matrix", "Zero matrix", "Both", "Unit matrix"],
+      "correct": 2
+    },
+    {
+      "question": "Matrix A is said to be diagonal if:",
+      "options": ["All elements are zero", "Only diagonal elements are non-zero", "All diagonal elements are zero", "None of these"],
+      "correct": 1
+    },
+    {
+      "question": "A matrix is skew-symmetric if:",
+      "options": ["A = A'", "A' = −A", "A = −A", "A = 0"],
+      "correct": 1
+    },
+    {
+      "question": "The transpose of the product of two matrices is:",
+      "options": ["A'B'", "(AB)' = A'B'", "(AB)' = B'A'", "(AB)' = BA"],
+      "correct": 2
+    },
+    {
+      "question": "If A is a symmetric matrix, then A' = ?",
+      "options": ["−A", "A", "0", "I"],
+      "correct": 1
+    },
+    {
+      "question": "The determinant of a 2×2 matrix [a b; c d] is:",
+      "options": ["ad + bc", "ad − bc", "ab − cd", "a + d"],
+      "correct": 1
+    },
+    {
+      "question": "Trace of a matrix is the:",
+      "options": ["Sum of elements", "Product of elements", "Sum of diagonal elements", "Sum of row elements"],
+      "correct": 2
+    },
+    {
+      "question": "Which matrix is not symmetric?",
+      "options": ["[1 0; 0 1]", "[2 3; 3 2]", "[1 2; 2 −1]", "[1 2; 3 4]"],
+      "correct": 3
+    },
+    {
+      "question": "A diagonal matrix is also:",
+      "options": ["Symmetric", "Skew-symmetric", "Scalar", "Null"],
+      "correct": 0
+    },
+    {
+      "question": "A matrix in which all diagonal elements are 1 and other elements are 0 is called:",
+      "options": ["Null matrix", "Unit matrix", "Diagonal matrix", "None"],
+      "correct": 1
+    },
+    {
+      "question": "If A is a 2×2 matrix with det(A) ≠ 0, then A is:",
+      "options": ["Singular", "Invertible", "Skew", "Symmetric"],
+      "correct": 1
+    },
+    {
+      "question": "If A = [1 2; 3 4], then A' = ?",
+      "options": ["[1 2; 3 4]", "[1 3; 2 4]", "[1 2; 4 3]", "[1 4; 3 2]"],
+      "correct": 1
+    },
+    {
+      "question": "If A is symmetric, then A + A' is:",
+      "options": ["Symmetric", "Skew-symmetric", "Diagonal", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If A = A', then matrix A is:",
+      "options": ["Symmetric", "Skew-symmetric", "Null", "Identity"],
+      "correct": 0
+    },
+    {
+      "question": "If A is skew-symmetric, then diagonal elements are:",
+      "options": ["Zero", "One", "Same", "Different"],
+      "correct": 0
+    },
+    {
+      "question": "The identity matrix of order 3 is:",
+      "options": [
+        "[1 0 0; 0 1 0; 0 0 1]",
+        "[1 1 1; 1 1 1; 1 1 1]",
+        "[0 0 0; 0 0 0; 0 0 0]",
+        "[1 0 0; 1 1 0; 0 0 1]"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Matrix A = [a_ij] is diagonal if:",
+      "options": ["a_ij = 0 for i ≠ j", "a_ij = 0 for i = j", "a_ij = i + j", "a_ij = 1"],
+      "correct": 0
+    },
+    {
+      "question": "The product of a matrix and its inverse is:",
+      "options": ["0", "I", "−A", "A"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a square matrix?",
+      "options": ["2×3", "3×2", "4×4", "2×1"],
+      "correct": 2
+    },
+    {
+      "question": "A matrix is singular if:",
+      "options": ["|A| = 0", "|A| ≠ 0", "A = A'", "A is symmetric"],
+      "correct": 0
+    },
+    {
+      "question": "If A² = I, then A⁻¹ = ?",
+      "options": ["A", "−A", "I", "0"],
+      "correct": 0
+    },
+    {
+      "question": "Matrix multiplication is not:",
+      "options": ["Associative", "Commutative", "Distributive", "Defined"],
+      "correct": 1
+    },
+    {
+      "question": "If AB = BA = I, then:",
+      "options": ["A = B", "B = A⁻¹", "B = 0", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Inverse of a matrix exists if:",
+      "options": ["|A| ≠ 0", "|A| = 0", "A is symmetric", "A is diagonal"],
+      "correct": 0
+    },
+    {
+      "question": "Which matrix has same number of rows and columns?",
+      "options": ["Rectangular", "Square", "Null", "Row matrix"],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "thermodynamics": [
+    {
+      "question": "Which of the following is a state function?",
+      "options": ["Work", "Heat", "Internal Energy", "Path"],
+      "correct": 2
+    },
+    {
+      "question": "The first law of thermodynamics is a restatement of the law of:",
+      "options": ["Conservation of energy", "Conservation of mass", "Conservation of momentum", "Entropy"],
+      "correct": 0
+    },
+    {
+      "question": "For an adiabatic process, q is:",
+      "options": ["Positive", "Negative", "Zero", "Infinity"],
+      "correct": 2
+    },
+    {
+      "question": "Enthalpy is equal to:",
+      "options": ["U + PV", "U - PV", "PV - U", "U"],
+      "correct": 0
+    },
+    {
+      "question": "Work done in an isothermal reversible expansion of an ideal gas is:",
+      "options": ["Zero", "nRTln(Vf/Vi)", "-nRTln(Vf/Vi)", "nRΔT"],
+      "correct": 2
+    },
+    {
+      "question": "In a cyclic process, the change in internal energy is:",
+      "options": ["Maximum", "Zero", "Minimum", "Positive"],
+      "correct": 1
+    },
+    {
+      "question": "The SI unit of entropy is:",
+      "options": ["J", "kJ", "J/K", "kJ/mol"],
+      "correct": 2
+    },
+    {
+      "question": "The second law of thermodynamics deals with:",
+      "options": ["Heat transfer", "Entropy", "Internal energy", "Volume change"],
+      "correct": 1
+    },
+    {
+      "question": "Which thermodynamic process occurs at constant pressure?",
+      "options": ["Isochoric", "Isobaric", "Adiabatic", "Isothermal"],
+      "correct": 1
+    },
+    {
+      "question": "In an isochoric process, the work done is:",
+      "options": ["Maximum", "Zero", "Minimum", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "The internal energy of an ideal gas depends on:",
+      "options": ["Pressure only", "Volume only", "Temperature only", "Both pressure and volume"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a thermodynamic function?",
+      "options": ["Internal energy", "Heat", "Gibbs free energy", "Enthalpy"],
+      "correct": 1
+    },
+    {
+      "question": "The value of ΔH – ΔU is equal to:",
+      "options": ["ΔnRT", "ΔnR", "ΔT", "PΔV"],
+      "correct": 0
+    },
+    {
+      "question": "A spontaneous process is one in which:",
+      "options": ["ΔG < 0", "ΔG > 0", "ΔS = 0", "ΔH = 0"],
+      "correct": 0
+    },
+    {
+      "question": "For an exothermic process, ΔH is:",
+      "options": ["Positive", "Zero", "Negative", "Infinite"],
+      "correct": 2
+    },
+    {
+      "question": "The amount of heat required to raise the temperature of 1 mole of a substance by 1 K is:",
+      "options": ["Enthalpy", "Entropy", "Heat capacity", "Internal energy"],
+      "correct": 2
+    },
+    {
+      "question": "For a reversible process, the entropy change of the universe is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "correct": 2
+    },
+    {
+      "question": "ΔG = 0 indicates:",
+      "options": ["Spontaneous process", "Non-spontaneous process", "Equilibrium", "Impossible process"],
+      "correct": 2
+    },
+    {
+      "question": "In thermodynamics, work done by the system is taken as:",
+      "options": ["Positive", "Negative", "Zero", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Entropy is a measure of:",
+      "options": ["Order", "Disorder", "Energy", "Temperature"],
+      "correct": 1
+    },
+    {
+      "question": "The enthalpy change at constant pressure is equal to:",
+      "options": ["Work done", "Heat absorbed", "Change in volume", "Change in temperature"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an intensive property?",
+      "options": ["Volume", "Mass", "Temperature", "Enthalpy"],
+      "correct": 2
+    },
+    {
+      "question": "A process is isothermal if:",
+      "options": ["Temperature is constant", "Pressure is constant", "Volume is constant", "Entropy is constant"],
+      "correct": 0
+    },
+    {
+      "question": "When ΔH is positive and ΔS is negative, the reaction is:",
+      "options": ["Spontaneous", "Always spontaneous", "Non-spontaneous", "Equilibrium"],
+      "correct": 2
+    },
+    {
+      "question": "Which equation is correct?",
+      "options": ["ΔG = ΔH – TΔS", "ΔH = ΔG + TΔS", "ΔS = ΔG – ΔH/T", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "The third law of thermodynamics states:",
+      "options": ["Entropy of perfect crystal is zero at 0 K", "Energy is conserved", "Entropy increases", "Work is maximum"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is correct for a spontaneous process?",
+      "options": ["ΔG = 0", "ΔS = 0", "ΔG < 0", "ΔH = 0"],
+      "correct": 2
+    },
+    {
+      "question": "If a gas expands isothermally, the internal energy:",
+      "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+      "correct": 2
+    },
+    {
+      "question": "Which law helps in defining absolute entropy?",
+      "options": ["First", "Second", "Third", "Zeroth"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not path dependent?",
+      "options": ["Work", "Heat", "Internal energy", "All of these"],
+      "correct": 2
+    },
+    {
+      "question": "The maximum work is obtained in a process which is:",
+      "options": ["Irreversible", "Spontaneous", "Reversible", "Adiabatic"],
+      "correct": 2
+    },
+    {
+      "question": "Which property indicates spontaneity of a reaction?",
+      "options": ["ΔH", "ΔS", "ΔG", "W"],
+      "correct": 2
+    },
+    {
+      "question": "ΔG for a non-spontaneous process is:",
+      "options": ["Negative", "Zero", "Positive", "Infinite"],
+      "correct": 2
+    },
+    {
+      "question": "A process is adiabatic if:",
+      "options": ["ΔT = 0", "Δq = 0", "ΔW = 0", "ΔH = 0"],
+      "correct": 1
+    },
+    {
+      "question": "Standard enthalpy change of formation of an element is:",
+      "options": ["1", "0", "Positive", "Negative"],
+      "correct": 1
+    },
+    {
+      "question": "If ΔG = -200 J/mol and ΔS = 40 J/mol·K, then ΔH at 300 K is:",
+      "options": ["-32000 J/mol", "-8000 J/mol", "-2000 J/mol", "2000 J/mol"],
+      "correct": 2
+    },
+    {
+      "question": "For an ideal gas undergoing isothermal expansion, the internal energy change is:",
+      "options": ["Positive", "Negative", "Zero", "Cannot be determined"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following increases in an exothermic reaction?",
+      "options": ["System energy", "Enthalpy", "Surroundings temperature", "Entropy of system"],
+      "correct": 2
+    },
+    {
+      "question": "In an adiabatic expansion, the temperature:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correct": 1
+    },
+    {
+      "question": "Zeroth law of thermodynamics defines:",
+      "options": ["Energy", "Temperature", "Heat", "Work"],
+      "correct": 1
+    },
+    {
+      "question": "A coffee cup calorimeter is an example of:",
+      "options": ["Closed system", "Open system", "Isolated system", "Adiabatic system"],
+      "correct": 0
+    },
+    {
+      "question": "In an exothermic reaction:",
+      "options": ["ΔH < 0", "ΔH > 0", "ΔS < 0", "ΔG > 0"],
+      "correct": 0
+    },
+    {
+      "question": "For an irreversible process, the entropy change of the universe is:",
+      "options": ["Negative", "Positive", "Zero", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following processes is not thermodynamically possible?",
+      "options": ["ΔG < 0", "ΔS > 0", "ΔG = 0", "ΔG > 0 and spontaneous"],
+      "correct": 3
+    },
+    {
+      "question": "The heat absorbed at constant pressure is equal to:",
+      "options": ["ΔH", "ΔU", "qv", "w"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "options": ["Enthalpy is path dependent", "Work is a state function", "Entropy is an extensive property", "Gibbs free energy is intensive"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not correct for an ideal gas?",
+      "options": ["ΔU = nCvΔT", "W = -PΔV (at constant P)", "q = 0 for adiabatic", "U depends on volume"],
+      "correct": 3
+    },
+    {
+      "question": "ΔH is less than ΔU when:",
+      "options": ["Gas expands", "Gas contracts", "Δn < 0", "Δn > 0"],
+      "correct": 2
+    },
+    {
+      "question": "In exothermic reaction, products are:",
+      "options": ["Higher in energy", "Lower in energy", "Same energy as reactants", "Unstable"],
+      "correct": 1
+    },
+    {
+      "question": "In which case is ΔU = ΔH?",
+      "options": ["Isobaric", "Isochoric", "Isothermal", "Adiabatic"],
+      "correct": 1
+    }
+  ]
+}

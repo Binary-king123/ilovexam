@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which gas is primarily responsible for acid rain?",
+      "options": ["CO₂", "NO₂", "SO₂", "CH₄"],
+      "correct": 2
+    },
+    {
+      "question": "The ozone layer is present in which layer of the atmosphere?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"],
+      "correct": 1
+    },
+    {
+      "question": "Which pollutant is responsible for photochemical smog?",
+      "options": ["O₂", "CO₂", "NO₂", "CFCs"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a greenhouse gas?",
+      "options": ["O₂", "N₂", "CO₂", "He"],
+      "correct": 2
+    },
+    {
+      "question": "Which metal is responsible for Minamata disease?",
+      "options": ["Lead", "Arsenic", "Mercury", "Cadmium"],
+      "correct": 2
+    },
+    {
+      "question": "What is the main cause of eutrophication?",
+      "options": ["Oil spills", "Thermal pollution", "Fertilizer runoff", "Heavy metals"],
+      "correct": 2
+    },
+    {
+      "question": "Which compound is used in green chemistry as an alternative to traditional solvents?",
+      "options": ["Benzene", "Toluene", "Water", "Carbon tetrachloride"],
+      "correct": 2
+    },
+    {
+      "question": "Which oxide is not a greenhouse gas?",
+      "options": ["Carbon dioxide", "Nitrous oxide", "Sulphur dioxide", "Methane"],
+      "correct": 2
+    },
+    {
+      "question": "Which substance is responsible for depletion of ozone layer?",
+      "options": ["Methane", "CO₂", "CFCs", "NO"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following causes blue baby syndrome?",
+      "options": ["NO₂", "Nitrates in water", "Lead", "Mercury"],
+      "correct": 1
+    },
+    {
+      "question": "Which pollutant causes the Taj Mahal to turn yellow?",
+      "options": ["Carbon monoxide", "Sulphur dioxide", "Ozone", "Methane"],
+      "correct": 1
+    },
+    {
+      "question": "What is BOD in environmental chemistry?",
+      "options": ["Biological oxygen demand", "Basic oxygen discharge", "Biochemical oxidation duration", "Bulk oxygen demand"],
+      "correct": 0
+    },
+    {
+      "question": "Photochemical smog is rich in:",
+      "options": ["SO₂", "PAN", "H₂S", "CO"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following gases does not contribute to acid rain?",
+      "options": ["SO₂", "NO₂", "CO₂", "CH₄"],
+      "correct": 3
+    },
+    {
+      "question": "What is the full form of PAN?",
+      "options": ["Peroxyacetic Nitrate", "Peroxyacetyl Nitrate", "Polyalkene Nitrate", "Phenylacetic Nitrate"],
+      "correct": 1
+    },
+    {
+      "question": "The main source of carbon monoxide in urban areas is:",
+      "options": ["Burning forests", "Agriculture", "Automobiles", "Factories"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a biodegradable pollutant?",
+      "options": ["Plastic", "Detergents", "Radioactive waste", "Sewage"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is not a primary pollutant?",
+      "options": ["CO", "SO₂", "PAN", "NO"],
+      "correct": 2
+    },
+    {
+      "question": "Green chemistry involves:",
+      "options": ["Use of toxic solvents", "Use of non-renewable resources", "Minimizing waste", "Increasing energy consumption"],
+      "correct": 2
+    },
+    {
+      "question": "Which gas causes suffocation and is highly poisonous?",
+      "options": ["CO₂", "CO", "SO₂", "CH₄"],
+      "correct": 1
+    },
+    {
+      "question": "Which method is used to remove particulate pollutants from air?",
+      "options": ["Electrostatic precipitator", "Catalytic converter", "Incineration", "Chlorination"],
+      "correct": 0
+    },
+    {
+      "question": "Which chemical is used in water purification?",
+      "options": ["CO₂", "Chlorine", "Ozone", "Hydrogen"],
+      "correct": 1
+    },
+    {
+      "question": "What is the pH range of acid rain?",
+      "options": ["7–8", "5.6–7", "4–5.6", "2–3"],
+      "correct": 2
+    },
+    {
+      "question": "Which act regulates water pollution in India?",
+      "options": ["Air Act", "Forest Act", "Water Act 1974", "Environment Protection Act"],
+      "correct": 2
+    },
+    {
+      "question": "Which chemical is responsible for smog formation?",
+      "options": ["Methane", "PAN", "Water vapor", "SO₃"],
+      "correct": 1
+    },
+    {
+      "question": "DDT is a type of:",
+      "options": ["Pesticide", "Fertilizer", "Green chemical", "Plastic"],
+      "correct": 0
+    },
+    {
+      "question": "What is the maximum permissible limit of fluoride in drinking water?",
+      "options": ["0.5 ppm", "1.0 ppm", "1.5 ppm", "2.0 ppm"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a non-degradable pollutant?",
+      "options": ["DDT", "Sewage", "Vegetable waste", "Animal dung"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following causes ozone depletion?",
+      "options": ["Methane", "Nitrogen dioxide", "CFCs", "Carbon monoxide"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the correct order of BOD in polluted water?",
+      "options": ["Pure < River < Polluted", "Polluted < Pure < River", "River < Pure < Polluted", "Pure < Polluted < River"],
+      "correct": 0
+    },
+    {
+      "question": "Which technique is green for synthesis?",
+      "options": ["Using benzene as solvent", "High energy heating", "Using microwave heating", "Using toxic catalyst"],
+      "correct": 2
+    },
+    {
+      "question": "Which metal causes Itai-Itai disease?",
+      "options": ["Lead", "Cadmium", "Mercury", "Arsenic"],
+      "correct": 1
+    },
+    {
+      "question": "Which chemical causes greenhouse effect most effectively?",
+      "options": ["CO₂", "CFC", "CH₄", "N₂O"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not associated with green chemistry?",
+      "options": ["Waste prevention", "Use of renewable feedstock", "Designing hazardous products", "Atom economy"],
+      "correct": 2
+    },
+    {
+      "question": "Fluoride in excess causes:",
+      "options": ["Blue baby syndrome", "Skin cancer", "Dental fluorosis", "Jaundice"],
+      "correct": 2
+    },
+    {
+      "question": "Which unit is used to measure BOD?",
+      "options": ["ppm", "mol/L", "mg/L", "mL/min"],
+      "correct": 2
+    },
+    {
+      "question": "Which layer protects us from harmful UV radiation?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Ionosphere"],
+      "correct": 1
+    },
+    {
+      "question": "The main pollutant from vehicle exhaust is:",
+      "options": ["CO", "SO₂", "CH₄", "NH₃"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following causes thermal pollution?",
+      "options": ["Hot water discharge", "Detergents", "Oil spills", "Pesticides"],
+      "correct": 0
+    },
+    {
+      "question": "Ozone hole refers to:",
+      "options": ["Increase in ozone", "Depletion of ozone", "Thinning of troposphere", "Disappearance of CO₂"],
+      "correct": 1
+    },
+    {
+      "question": "Which pollutant is most responsible for global warming?",
+      "options": ["CFCs", "CO₂", "CO", "SO₂"],
+      "correct": 1
+    },
+    {
+      "question": "Which gas causes acid rain along with NO₂?",
+      "options": ["O₃", "SO₂", "CO", "CH₄"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a greenhouse gas?",
+      "options": ["CO₂", "H₂O vapor", "O₃", "O₂"],
+      "correct": 3
+    },
+    {
+      "question": "The presence of which substance in water indicates organic pollution?",
+      "options": ["Chlorine", "Ammonia", "BOD", "Calcium"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following methods is best for sewage treatment?",
+      "options": ["Biological treatment", "Physical filtration", "Osmosis", "Incineration"],
+      "correct": 0
+    },
+    {
+      "question": "Smog is formed due to interaction of sunlight with:",
+      "options": ["SO₂", "NOx and hydrocarbons", "CO and CO₂", "O₂ and H₂O"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a secondary pollutant?",
+      "options": ["CO", "SO₂", "PAN", "NO"],
+      "correct": 2
+    },
+    {
+      "question": "Which gas has highest global warming potential (GWP)?",
+      "options": ["CO₂", "CH₄", "N₂O", "CFC-12"],
+      "correct": 3
+    },
+    {
+      "question": "Ozone is formed in the upper atmosphere by:",
+      "options": ["Lightning", "Sunlight and oxygen", "Acid rain", "Volcanoes"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following gases does not contribute to photochemical smog?",
+      "options": ["NOx", "Ozone", "Hydrocarbons", "SO₂"],
+      "correct": 3
+    }
+  ]
+}

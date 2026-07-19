@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "The master gland of the human endocrine system is:",
+      "options": ["Thyroid", "Pancreas", "Pituitary", "Adrenal"],
+      "correct": 2
+    },
+    {
+      "question": "Which gland secretes insulin?",
+      "options": ["Liver", "Pancreas", "Thyroid", "Pituitary"],
+      "correct": 1
+    },
+    {
+      "question": "Thyroxine is rich in which element?",
+      "options": ["Iron", "Iodine", "Calcium", "Phosphorus"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone regulates basal metabolic rate?",
+      "options": ["Insulin", "Thyroxine", "Adrenaline", "Cortisol"],
+      "correct": 1
+    },
+    {
+      "question": "Fight or flight response is caused by:",
+      "options": ["Cortisol", "Thyroxine", "Adrenaline", "Insulin"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone controls blood calcium level?",
+      "options": ["Calcitonin", "Thyroxine", "Insulin", "Aldosterone"],
+      "correct": 0
+    },
+    {
+      "question": "Diabetes insipidus is caused by deficiency of:",
+      "options": ["Insulin", "Glucagon", "ADH", "TSH"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone is secreted by alpha cells of pancreas?",
+      "options": ["Insulin", "Glucagon", "Somatostatin", "Gastrin"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a steroid hormone?",
+      "options": ["Aldosterone", "Estrogen", "Testosterone", "Insulin"],
+      "correct": 3
+    },
+    {
+      "question": "The hormone that induces milk ejection is:",
+      "options": ["Prolactin", "Estrogen", "Oxytocin", "FSH"],
+      "correct": 2
+    },
+    {
+      "question": "Which gland is both exocrine and endocrine?",
+      "options": ["Thyroid", "Pituitary", "Pancreas", "Adrenal"],
+      "correct": 2
+    },
+    {
+      "question": "Cushing’s syndrome is caused by over secretion of:",
+      "options": ["Adrenaline", "Thyroxine", "Cortisol", "Insulin"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone increases blood glucose levels?",
+      "options": ["Insulin", "Glucagon", "Calcitonin", "ADH"],
+      "correct": 1
+    },
+    {
+      "question": "Hyposecretion of thyroxine in children causes:",
+      "options": ["Myxedema", "Cretinism", "Acromegaly", "Addison’s disease"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone is responsible for uterine contractions during childbirth?",
+      "options": ["Prolactin", "Oxytocin", "Estrogen", "Relaxin"],
+      "correct": 1
+    },
+    {
+      "question": "Which gland secretes melatonin?",
+      "options": ["Thyroid", "Pineal", "Pituitary", "Pancreas"],
+      "correct": 1
+    },
+    {
+      "question": "Parathyroid hormone increases:",
+      "options": ["Blood calcium", "Blood potassium", "Blood glucose", "Blood sodium"],
+      "correct": 0
+    },
+    {
+      "question": "Hormone secreted by corpus luteum is:",
+      "options": ["Estrogen", "Progesterone", "FSH", "LH"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a peptide hormone?",
+      "options": ["Estrogen", "Insulin", "Testosterone", "Cortisol"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone causes reabsorption of water in kidneys?",
+      "options": ["Oxytocin", "Aldosterone", "ADH", "Renin"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone regulates female secondary sexual characteristics?",
+      "options": ["FSH", "Estrogen", "Progesterone", "LH"],
+      "correct": 1
+    },
+    {
+      "question": "Graves’ disease is associated with:",
+      "options": ["Hyperthyroidism", "Hypothyroidism", "Hypopituitarism", "Hypoglycemia"],
+      "correct": 0
+    },
+    {
+      "question": "Addison’s disease is due to deficiency of:",
+      "options": ["Insulin", "Cortisol", "Aldosterone", "Both 2 and 3"],
+      "correct": 3
+    },
+    {
+      "question": "Which hormone maintains pregnancy?",
+      "options": ["Estrogen", "Progesterone", "FSH", "LH"],
+      "correct": 1
+    },
+    {
+      "question": "Oversecretion of growth hormone in adults causes:",
+      "options": ["Dwarfism", "Gigantism", "Cretinism", "Acromegaly"],
+      "correct": 3
+    },
+    {
+      "question": "Which hormone helps in absorption of calcium from intestine?",
+      "options": ["Calcitonin", "PTH", "Vitamin D", "Insulin"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a tropic hormone?",
+      "options": ["Insulin", "FSH", "Estrogen", "Progesterone"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone regulates circadian rhythm?",
+      "options": ["Melatonin", "Thyroxine", "Estrogen", "Prolactin"],
+      "correct": 0
+    },
+    {
+      "question": "Hormone that stimulates sperm production is:",
+      "options": ["LH", "FSH", "Testosterone", "Estrogen"],
+      "correct": 1
+    },
+    {
+      "question": "Thymosin is secreted by:",
+      "options": ["Thymus", "Thyroid", "Adrenal", "Pituitary"],
+      "correct": 0
+    },
+    {
+      "question": "Which hormone regulates Na⁺ and K⁺ balance?",
+      "options": ["ADH", "Aldosterone", "Cortisol", "Epinephrine"],
+      "correct": 1
+    },
+    {
+      "question": "Hormone involved in milk production is:",
+      "options": ["FSH", "LH", "Prolactin", "Oxytocin"],
+      "correct": 2
+    },
+    {
+      "question": "FSH is secreted from:",
+      "options": ["Posterior pituitary", "Anterior pituitary", "Adrenal cortex", "Pineal gland"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone decreases blood calcium?",
+      "options": ["Parathormone", "Calcitonin", "Aldosterone", "Thyroxine"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a mineralocorticoid?",
+      "options": ["Aldosterone", "Cortisol", "Androgen", "Estrogen"],
+      "correct": 0
+    },
+    {
+      "question": "Gonadotropins are secreted by:",
+      "options": ["Thyroid", "Pancreas", "Pituitary", "Adrenal"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not a function of hypothalamus?",
+      "options": ["Hunger", "Temperature", "Reflexes", "Water balance"],
+      "correct": 2
+    },
+    {
+      "question": "Cortisol is secreted by:",
+      "options": ["Adrenal cortex", "Adrenal medulla", "Thyroid", "Pancreas"],
+      "correct": 0
+    },
+    {
+      "question": "Which endocrine gland is located in neck?",
+      "options": ["Pituitary", "Thymus", "Thyroid", "Adrenal"],
+      "correct": 2
+    },
+    {
+      "question": "Insulin acts by:",
+      "options": ["Decreasing blood glucose", "Increasing blood glucose", "Breaking glycogen", "Stimulating gluconeogenesis"],
+      "correct": 0
+    },
+    {
+      "question": "Which hormone is called emergency hormone?",
+      "options": ["Insulin", "Glucagon", "Adrenaline", "Cortisol"],
+      "correct": 2
+    },
+    {
+      "question": "Which endocrine gland degenerates in adults?",
+      "options": ["Thyroid", "Thymus", "Pituitary", "Adrenal"],
+      "correct": 1
+    },
+    {
+      "question": "Beta cells of pancreas secrete:",
+      "options": ["Glucagon", "Somatostatin", "Insulin", "Pancreatic juice"],
+      "correct": 2
+    },
+    {
+      "question": "Hormones act at:",
+      "options": ["All cells", "Target cells", "Blood cells", "Nerve cells"],
+      "correct": 1
+    },
+    {
+      "question": "Hormones are transported through:",
+      "options": ["Lymph", "Blood", "Nerves", "Skin"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone promotes gluconeogenesis?",
+      "options": ["Cortisol", "Insulin", "Calcitonin", "Estrogen"],
+      "correct": 0
+    },
+    {
+      "question": "Target organ of LH in males is:",
+      "options": ["Seminiferous tubules", "Leydig cells", "Sertoli cells", "Prostate gland"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone is produced in response to low blood pressure?",
+      "options": ["Insulin", "Aldosterone", "Renin", "Thyroxine"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone maintains corpus luteum?",
+      "options": ["LH", "FSH", "hCG", "Estrogen"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone is anti-inflammatory?",
+      "options": ["Estrogen", "Cortisol", "Progesterone", "Testosterone"],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "test": [
+    {
+      "question": "The solution set of the inequality x − 3 < 5 is:",
+      "options": ["x < 8", "x > 8", "x < −8", "x > −8"],
+      "correct": 0
+    },
+    {
+      "question": "The solution of the inequality 2x − 1 > 3 is:",
+      "options": ["x > 2", "x < 2", "x = 2", "x > 1"],
+      "correct": 0
+    },
+    {
+      "question": "The inequality x² − 4 < 0 has solution:",
+      "options": ["−2 < x < 2", "x > 2", "x < −2", "All x"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a linear inequality?",
+      "options": ["x + y ≤ 5", "2x − 3y > 1", "x² + y < 10", "x − y ≥ −3"],
+      "correct": 2
+    },
+    {
+      "question": "Graph of the inequality x ≥ 2 is:",
+      "options": ["A vertical line at x=2 with shaded region on right", "A vertical line at x=2 with shaded region on left", "Horizontal line", "Parabola"],
+      "correct": 0
+    },
+    {
+      "question": "The solution of −3x + 2 ≤ 11 is:",
+      "options": ["x ≥ −3", "x ≤ −3", "x ≤ 3", "x > 3"],
+      "correct": 1
+    },
+    {
+      "question": "The inequality x < 4 is represented on number line by:",
+      "options": ["Open circle at 4 and arrow to left", "Closed circle at 4 and arrow to right", "Open circle at 4 and arrow to right", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If x > 3 and x < 5, then the solution is:",
+      "options": ["3 < x < 5", "x > 5", "x < 3", "x = 4"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a valid inequality for x = 2?",
+      "options": ["x ≤ 3", "x > 3", "x < 1", "x ≥ 5"],
+      "correct": 0
+    },
+    {
+      "question": "Multiplying both sides of an inequality by a negative number:",
+      "options": ["Reverses the inequality", "Keeps the inequality same", "Has no effect", "Changes it to equality"],
+      "correct": 0
+    },
+    {
+      "question": "The solution of 2x − 3 ≤ 5x + 6 is:",
+      "options": ["x ≥ −3", "x ≤ −3", "x ≥ 3", "x ≤ 3"],
+      "correct": 1
+    },
+    {
+      "question": "The solution of the inequality 3x + 1 < 2x + 5 is:",
+      "options": ["x < 4", "x > 4", "x = 4", "x > 5"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a solution of 2x + 3 < 9?",
+      "options": ["x = 2", "x = 1", "x = 4", "x = 0"],
+      "correct": 2
+    },
+    {
+      "question": "x ∈ (−∞, 3] represents:",
+      "options": ["x ≤ 3", "x ≥ 3", "x > 3", "x < 3"],
+      "correct": 0
+    },
+    {
+      "question": "Solution set of x − 5 ≥ 0 is:",
+      "options": ["x ≥ 5", "x ≤ 5", "x > 5", "x < 5"],
+      "correct": 0
+    },
+    {
+      "question": "If −x < 3, then x is:",
+      "options": ["x > −3", "x < −3", "x = 3", "x = −3"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is true?",
+      "options": ["If a > b and b > c, then a > c", "If a > b and b < c, then a < c", "If a < b and b > c, then a > c", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The inequality x + y ≤ 10 represents a:",
+      "options": ["Half-plane", "Line", "Curve", "Point"],
+      "correct": 0
+    },
+    {
+      "question": "The boundary line of inequality x + y ≤ 4 is:",
+      "options": ["x + y = 4", "x − y = 4", "x + y > 4", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The solution of x − 2 > 5 or x + 1 < 3 is:",
+      "options": ["x > 7 or x < 2", "x < 7 or x > 2", "x > 3 and x < 2", "x < −2"],
+      "correct": 0
+    },
+    {
+      "question": "Solution set of −3x + 5 ≥ 2 is:",
+      "options": ["x ≤ 1", "x ≥ 1", "x ≤ −1", "x ≥ −1"],
+      "correct": 0
+    },
+    {
+      "question": "The number line representation of x ≥ −2 is:",
+      "options": ["Closed dot on −2 and arrow to right", "Open dot on −2 and arrow to left", "Closed dot on 2 and arrow to left", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If x + y = 2 is the boundary of the solution set, then which side satisfies x + y < 2?",
+      "options": ["Below the line", "Above the line", "On the line", "Both sides"],
+      "correct": 0
+    },
+    {
+      "question": "Inequality 4x + 5y ≤ 20 represents a region bounded by:",
+      "options": ["Line 4x + 5y = 20 and below it", "Line 4x + 5y = 20 and above it", "Line x = 5", "Line y = 4"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a strict inequality?",
+      "options": ["x < 5", "x ≤ 5", "x ≥ 5", "x = 5"],
+      "correct": 0
+    },
+    {
+      "question": "If x ∈ [2, 5), then:",
+      "options": ["2 ≤ x < 5", "x > 5", "x < 2", "x ≥ 5"],
+      "correct": 0
+    },
+    {
+      "question": "The inequality x² + 1 < 0 has:",
+      "options": ["No real solution", "One solution", "Two solutions", "All real x"],
+      "correct": 0
+    },
+    {
+      "question": "Which one is true about x² − 1 > 0?",
+      "options": ["x < −1 or x > 1", "x ∈ (−1, 1)", "x = 0", "x = 1"],
+      "correct": 0
+    },
+    {
+      "question": "To graph x − y > 0, we draw the line:",
+      "options": ["x − y = 0 and shade above", "x − y = 0 and shade below", "x + y = 0", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Set of values satisfying 2 < x < 5 is:",
+      "options": ["Open interval", "Closed interval", "Half-open", "Universal"],
+      "correct": 0
+    },
+    {
+      "question": "x ∈ (a, ∞) implies:",
+      "options": ["x > a", "x < a", "x = a", "x = ∞"],
+      "correct": 0
+    },
+    {
+      "question": "If x + 3 ≥ 0, then solution is:",
+      "options": ["x ≥ −3", "x ≤ −3", "x > −3", "x < −3"],
+      "correct": 0
+    },
+    {
+      "question": "Inequality x − 5 ≤ 2x + 1 becomes:",
+      "options": ["x ≥ −6", "x ≤ −6", "x ≥ 6", "x ≤ 6"],
+      "correct": 1
+    },
+    {
+      "question": "Inequality 3x − 4 ≥ x + 6 becomes:",
+      "options": ["x ≥ 5", "x ≤ 5", "x > 5", "x = 5"],
+      "correct": 0
+    },
+    {
+      "question": "x ∈ (−∞, ∞) means:",
+      "options": ["All real numbers", "Positive numbers only", "Negative numbers only", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Intersection of x < 2 and x > 1 is:",
+      "options": ["1 < x < 2", "x < 1", "x > 2", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Union of x < 0 and x > 2 is:",
+      "options": ["x ∈ (−∞, 0) ∪ (2, ∞)", "x ∈ (0, 2)", "x ∈ [0, 2]", "x ∈ (−2, 2)"],
+      "correct": 0
+    },
+    {
+      "question": "If 5x − 2 < 3x + 4, then x:",
+      "options": ["x < 3", "x > 3", "x = 3", "x < −3"],
+      "correct": 0
+    },
+    {
+      "question": "Graph of y ≤ 2 is:",
+      "options": ["Horizontal line at y = 2 with shading below", "Above line", "Vertical line", "Parabola"],
+      "correct": 0
+    },
+    {
+      "question": "The expression |x − 1| < 2 gives:",
+      "options": ["−1 < x < 3", "x < −1", "x > 3", "x ∈ (−2, 2)"],
+      "correct": 0
+    },
+    {
+      "question": "For which values of x is 1/x > 0?",
+      "options": ["x > 0", "x < 0", "x = 0", "x = 1"],
+      "correct": 0
+    },
+    {
+      "question": "Which inequality has no solution?",
+      "options": ["x < x − 1", "x ≥ x", "x > x", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following represents solution set of x ∈ ℝ such that x² − 9 ≥ 0?",
+      "options": ["x ≤ −3 or x ≥ 3", "x ≥ −3 and x ≤ 3", "x = 0", "−3 < x < 3"],
+      "correct": 0
+    },
+    {
+      "question": "Inequality x² < 0 has:",
+      "options": ["No solution", "1 solution", "All real x", "x = 0"],
+      "correct": 0
+    },
+    {
+      "question": "The solution of |x + 3| ≥ 5 is:",
+      "options": ["x ≤ −8 or x ≥ 2", "x ≥ −8 and x ≤ 2", "x = −8", "x = 2"],
+      "correct": 0
+    },
+    {
+      "question": "If x² + 4x + 3 > 0, then x lies in:",
+      "options": ["x < −3 or x > −1", "−3 < x < −1", "x > 3", "x < −1"],
+      "correct": 0
+    },
+    {
+      "question": "Set of all real numbers satisfying |2x − 1| ≤ 3 is:",
+      "options": ["−1 ≤ x ≤ 2", "x > 2", "x < −1", "x = 1"],
+      "correct": 0
+    }
+  ]
+}

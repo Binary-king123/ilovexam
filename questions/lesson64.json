@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Which of the following tissues covers the external surface of the body?",
+      "options": ["Muscular", "Connective", "Epithelial", "Nervous"],
+      "correct": 2
+    },
+    {
+      "question": "Which connective tissue connects muscles to bones?",
+      "options": ["Ligament", "Cartilage", "Areolar tissue", "Tendon"],
+      "correct": 3
+    },
+    {
+      "question": "Striated muscles are:",
+      "options": ["Involuntary and branched", "Voluntary and unbranched", "Involuntary and unbranched", "Voluntary and branched"],
+      "correct": 1
+    },
+    {
+      "question": "Simple epithelium is primarily involved in:",
+      "options": ["Protection", "Secretion and absorption", "Support", "Transport"],
+      "correct": 1
+    },
+    {
+      "question": "Which animal has a true coelom and metameric segmentation?",
+      "options": ["Ascaris", "Pheretima", "Hydra", "Fasciola"],
+      "correct": 1
+    },
+    {
+      "question": "Which connective tissue acts as a shock absorber and insulator?",
+      "options": ["Areolar tissue", "Adipose tissue", "Ligament", "Tendon"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a voluntary muscle?",
+      "options": ["Smooth muscle", "Cardiac muscle", "Skeletal muscle", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Which epithelial tissue lines blood vessels?",
+      "options": ["Columnar", "Squamous", "Cuboidal", "Ciliated"],
+      "correct": 1
+    },
+    {
+      "question": "Which cells are responsible for transmitting nerve impulses?",
+      "options": ["Glial cells", "Neurons", "Epithelial cells", "Muscle fibers"],
+      "correct": 1
+    },
+    {
+      "question": "The connective tissue found in bone is:",
+      "options": ["Areolar", "Cartilage", "Osseous", "Adipose"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is an example of cuboidal epithelium function?",
+      "options": ["Filtration in kidney", "Secretion in thyroid gland", "Lining trachea", "Lining intestine"],
+      "correct": 1
+    },
+    {
+      "question": "Earthworm excretes through:",
+      "options": ["Flame cells", "Malpighian tubules", "Nephridia", "Green glands"],
+      "correct": 2
+    },
+    {
+      "question": "Setae in earthworm help in:",
+      "options": ["Feeding", "Respiration", "Locomotion", "Excretion"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a connective tissue?",
+      "options": ["Cartilage", "Blood", "Bone", "Muscle"],
+      "correct": 3
+    },
+    {
+      "question": "Which type of muscle is found in the walls of internal organs?",
+      "options": ["Skeletal", "Cardiac", "Smooth", "Striated"],
+      "correct": 2
+    },
+    {
+      "question": "Which connective tissue joins bone to bone?",
+      "options": ["Tendon", "Ligament", "Cartilage", "Adipose"],
+      "correct": 1
+    },
+    {
+      "question": "Which muscle tissue is uninucleated and involuntary?",
+      "options": ["Skeletal", "Smooth", "Cardiac", "All"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following secretes collagen?",
+      "options": ["Macrophages", "Fibroblasts", "Mast cells", "Adipocytes"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following exhibits closed blood circulation?",
+      "options": ["Cockroach", "Earthworm", "Frog", "Hydra"],
+      "correct": 1
+    },
+    {
+      "question": "Which segment of earthworm has genital openings?",
+      "options": ["14 and 15", "18 and 19", "17 and 19", "9 and 10"],
+      "correct": 0
+    },
+    {
+      "question": "Pheretima shows which type of respiration?",
+      "options": ["Cutaneous", "Tracheal", "Pulmonary", "Buccal"],
+      "correct": 0
+    },
+    {
+      "question": "Malpighian tubules are excretory organs in:",
+      "options": ["Earthworm", "Frog", "Cockroach", "Pheretima"],
+      "correct": 2
+    },
+    {
+      "question": "Body cavity of cockroach is filled with:",
+      "options": ["Coelomic fluid", "Haemocoel", "Water", "Air"],
+      "correct": 1
+    },
+    {
+      "question": "Which part of cockroach stores sperm in females?",
+      "options": ["Spermatheca", "Oviduct", "Vagina", "Uterus"],
+      "correct": 0
+    },
+    {
+      "question": "In cockroach, wings are attached to:",
+      "options": ["Prothorax", "Mesothorax and metathorax", "Abdomen", "Head"],
+      "correct": 1
+    },
+    {
+      "question": "Which segment in cockroach bears the genital pore in females?",
+      "options": ["8th", "7th", "10th", "5th"],
+      "correct": 0
+    },
+    {
+      "question": "Blood of cockroach is:",
+      "options": ["Red", "Green", "Colorless", "Blue"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is absent in cockroach?",
+      "options": ["Antennae", "Trachea", "Nephridia", "Malpighian tubules"],
+      "correct": 2
+    },
+    {
+      "question": "Which segment in cockroach contains the anal cerci?",
+      "options": ["9th", "10th", "11th", "12th"],
+      "correct": 1
+    },
+    {
+      "question": "Fertilization in frog is:",
+      "options": ["Internal", "External", "Both", "Asexual"],
+      "correct": 1
+    },
+    {
+      "question": "Frog respires through which organ in water?",
+      "options": ["Lungs", "Gills", "Skin", "Mouth"],
+      "correct": 2
+    },
+    {
+      "question": "Which gland is found only in male frog?",
+      "options": ["Adrenal", "Thyroid", "Pancreas", "Bidder’s canal"],
+      "correct": 3
+    },
+    {
+      "question": "Which chamber of frog heart pumps oxygenated blood to body?",
+      "options": ["Right atrium", "Left atrium", "Truncus arteriosus", "Ventricle"],
+      "correct": 3
+    },
+    {
+      "question": "In frogs, the cloaca is a common chamber for:",
+      "options": ["Only excretion", "Only reproduction", "Excretion and reproduction", "Digestive, urinary, and reproductive tracts"],
+      "correct": 3
+    },
+    {
+      "question": "Which part of the frog's brain is responsible for balance?",
+      "options": ["Cerebrum", "Medulla", "Olfactory lobe", "Cerebellum"],
+      "correct": 3
+    },
+    {
+      "question": "In which structure is food stored temporarily in cockroach?",
+      "options": ["Crop", "Gizzard", "Hepatic caeca", "Oesophagus"],
+      "correct": 0
+    },
+    {
+      "question": "Typhlosole in earthworm helps in:",
+      "options": ["Excretion", "Digestion", "Reproduction", "Absorption"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following has jointed appendages?",
+      "options": ["Pheretima", "Frog", "Cockroach", "Ascaris"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these secretes digestive enzymes in cockroach?",
+      "options": ["Malpighian tubules", "Hepatic caeca", "Salivary glands", "Crop"],
+      "correct": 1
+    },
+    {
+      "question": "The blood of earthworm contains:",
+      "options": ["Hemoglobin in RBCs", "Hemocyanin", "Hemoglobin dissolved in plasma", "No respiratory pigment"],
+      "correct": 2
+    },
+    {
+      "question": "Which organ of frog is both excretory and osmoregulatory?",
+      "options": ["Skin", "Kidney", "Lungs", "Urinary bladder"],
+      "correct": 1
+    },
+    {
+      "question": "The body wall of earthworm consists of:",
+      "options": ["2 layers", "3 layers", "4 layers", "5 layers"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is the exoskeletal structure in cockroach?",
+      "options": ["Endoskeleton", "Chitinous cuticle", "Vertebral column", "Calcareous plates"],
+      "correct": 1
+    },
+    {
+      "question": "Which feature is common to all vertebrates?",
+      "options": ["Hair", "Lungs", "Notochord", "Wings"],
+      "correct": 2
+    },
+    {
+      "question": "Which muscles show intercalated discs?",
+      "options": ["Smooth", "Skeletal", "Cardiac", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The characteristic of cuboidal epithelium is:",
+      "options": ["Flat cells", "Ciliated cells", "Box-shaped cells", "Column-like cells"],
+      "correct": 2
+    },
+    {
+      "question": "Nephridia are absent in:",
+      "options": ["Earthworm", "Frog", "Cockroach", "Planaria"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is ectodermal in origin?",
+      "options": ["Muscles", "Liver", "Epidermis", "Heart"],
+      "correct": 2
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a primary alcohol?",
+      "options": ["Isopropanol", "Ethanol", "Tert-butanol", "2-Butanol"],
+      "correct": 1
+    },
+    {
+      "question": "Phenol is more acidic than alcohol due to:",
+      "options": ["Inductive effect", "Resonance stabilization of phenoxide ion", "Presence of -OH group", "Hydrogen bonding"],
+      "correct": 1
+    },
+    {
+      "question": "IUPAC name of CH3CH2OH is:",
+      "options": ["Methyl alcohol", "Ethanol", "Ethyl alcohol", "Propanol"],
+      "correct": 1
+    },
+    {
+      "question": "Lucas test is used to distinguish between:",
+      "options": ["Aldehydes and Ketones", "Primary, secondary and tertiary alcohols", "Phenol and alcohol", "Alkanes and alkenes"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is most acidic?",
+      "options": ["Ethanol", "Phenol", "Methanol", "Isopropyl alcohol"],
+      "correct": 1
+    },
+    {
+      "question": "Williamson’s synthesis is used for preparation of:",
+      "options": ["Alcohols", "Phenols", "Ethers", "Aldehydes"],
+      "correct": 2
+    },
+    {
+      "question": "Which alcohol does not give turbidity with Lucas reagent at room temperature?",
+      "options": ["1° alcohol", "2° alcohol", "3° alcohol", "All give turbidity"],
+      "correct": 0
+    },
+    {
+      "question": "Phenol reacts with NaOH to form:",
+      "options": ["Sodium alcoholate", "Sodium phenoxide", "Phenyl oxide", "Phenol oxide"],
+      "correct": 1
+    },
+    {
+      "question": "Ethers can be cleaved by:",
+      "options": ["Conc. H2SO4", "Dil. HCl", "HI", "NaOH"],
+      "correct": 2
+    },
+    {
+      "question": "Anisole is:",
+      "options": ["C6H5OH", "C6H5CH3", "C6H5OCH3", "C6H5CHO"],
+      "correct": 2
+    },
+    {
+      "question": "Which gives a positive iodoform test?",
+      "options": ["Methanol", "Ethanol", "Phenol", "Propanol"],
+      "correct": 1
+    },
+    {
+      "question": "Reimer–Tiemann reaction is used for preparation of:",
+      "options": ["Aniline", "Salicylaldehyde", "Benzoic acid", "Acetophenone"],
+      "correct": 1
+    },
+    {
+      "question": "Boiling point of ethanol is higher than ether due to:",
+      "options": ["Dipole interaction", "Van der Waals force", "Hydrogen bonding", "Covalent bonding"],
+      "correct": 2
+    },
+    {
+      "question": "Phenol turns blue litmus paper:",
+      "options": ["Blue", "Red", "Green", "No change"],
+      "correct": 1
+    },
+    {
+      "question": "The product formed when phenol reacts with bromine water is:",
+      "options": ["o-Bromophenol", "p-Bromophenol", "2,4,6-Tribromophenol", "No reaction"],
+      "correct": 2
+    },
+    {
+      "question": "C–O–C group is present in:",
+      "options": ["Alcohol", "Ether", "Phenol", "Aldehyde"],
+      "correct": 1
+    },
+    {
+      "question": "Which reagent is used in Williamson's synthesis?",
+      "options": ["Grignard reagent", "Sodium alkoxide", "NaBH4", "Tollens reagent"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has the highest boiling point?",
+      "options": ["Methanol", "Ethanol", "Dimethyl ether", "Acetone"],
+      "correct": 1
+    },
+    {
+      "question": "Which alcohol on oxidation gives acetone?",
+      "options": ["Methanol", "Ethanol", "Isopropyl alcohol", "Tert-butyl alcohol"],
+      "correct": 2
+    },
+    {
+      "question": "Which alcohol is tertiary?",
+      "options": ["CH3CH2CH2OH", "CH3CHOHCH3", "(CH3)3COH", "CH3OH"],
+      "correct": 2
+    },
+    {
+      "question": "Phenol reacts with sodium to form:",
+      "options": ["Hydrogen", "Water", "Oxygen", "Chlorine"],
+      "correct": 0
+    },
+    {
+      "question": "Ortho and para positions in phenol are activated due to:",
+      "options": ["Inductive effect", "Hyperconjugation", "Resonance effect", "Steric effect"],
+      "correct": 2
+    },
+    {
+      "question": "Cresol is:",
+      "options": ["Hydroxybenzaldehyde", "Methylphenol", "Chlorophenol", "Dihydroxybenzene"],
+      "correct": 1
+    },
+    {
+      "question": "Phenol on reaction with conc. HNO3 gives:",
+      "options": ["Nitrobenzene", "2-Nitrophenol", "Trinitrophenol", "m-Nitrophenol"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not an alcohol?",
+      "options": ["CH3CH2OH", "CH3OH", "C6H5OH", "CH3COOH"],
+      "correct": 3
+    },
+    {
+      "question": "Ether cleavage with HI gives:",
+      "options": ["Alcohol and halide", "Alcohol only", "Alkene", "Aldehyde"],
+      "correct": 0
+    },
+    {
+      "question": "Diethyl ether on reaction with HI gives:",
+      "options": ["C2H5OH and C2H5I", "Only alcohol", "Only iodide", "Aldehyde"],
+      "correct": 0
+    },
+    {
+      "question": "Phenol does not react with:",
+      "options": ["Br2", "NaOH", "Na", "Fehling’s solution"],
+      "correct": 3
+    },
+    {
+      "question": "Electrophilic substitution in phenol occurs at:",
+      "options": ["Meta position", "Ortho and para positions", "Only ortho", "Only para"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an ether?",
+      "options": ["CH3OH", "CH3OCH3", "C2H5OH", "C2H5Cl"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is used as solvent?",
+      "options": ["Diethyl ether", "Chloroform", "Acetone", "Aniline"],
+      "correct": 0
+    },
+    {
+      "question": "Phenol reacts with neutral FeCl3 to give:",
+      "options": ["Red color", "Blue-violet color", "Green color", "No color"],
+      "correct": 2
+    },
+    {
+      "question": "Alcohols are generally prepared in lab from:",
+      "options": ["Alkanes", "Alkenes", "Aldehydes", "Ketones"],
+      "correct": 1
+    },
+    {
+      "question": "Which reaction gives phenol from benzene?",
+      "options": ["Dow’s process", "Wurtz reaction", "Cannizzaro reaction", "Kolbe's reaction"],
+      "correct": 0
+    },
+    {
+      "question": "Which is least soluble in water?",
+      "options": ["Ethanol", "Methanol", "Phenol", "Butanol"],
+      "correct": 3
+    },
+    {
+      "question": "Phenol reacts with chloroform and NaOH to give:",
+      "options": ["Benzyl alcohol", "Salicylaldehyde", "Acetophenone", "Benzoic acid"],
+      "correct": 1
+    },
+    {
+      "question": "Kolbe’s reaction gives:",
+      "options": ["Salicylic acid", "Phenol", "Benzoic acid", "Aniline"],
+      "correct": 0
+    },
+    {
+      "question": "Which is most reactive in SN2?",
+      "options": ["1° alcohol", "2° alcohol", "3° alcohol", "Phenol"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following has lowest boiling point?",
+      "options": ["Methanol", "Ethanol", "Butanol", "Diethyl ether"],
+      "correct": 3
+    },
+    {
+      "question": "Ethers are relatively unreactive because:",
+      "options": ["No H bonding", "C–O bond is strong", "Inert lone pair", "Stable structure"],
+      "correct": 1
+    },
+    {
+      "question": "Ethanol is industrially prepared by:",
+      "options": ["Hydration of ethene", "Fermentation", "Oxidation of ethane", "Wurtz reaction"],
+      "correct": 1
+    },
+    {
+      "question": "Which test distinguishes alcohol from phenol?",
+      "options": ["FeCl3 test", "Tollen’s test", "Lucas test", "Iodoform test"],
+      "correct": 0
+    },
+    {
+      "question": "Boiling point order: phenol, methanol, ethanol",
+      "options": ["Phenol > ethanol > methanol", "Methanol > ethanol > phenol", "Ethanol > phenol > methanol", "Ethanol > methanol > phenol"],
+      "correct": 0
+    },
+    {
+      "question": "An ether is named using:",
+      "options": ["Longest carbon chain", "Alphabetical order", "Alkoxyalkane system", "IUPAC alkyl rules"],
+      "correct": 2
+    },
+    {
+      "question": "Phenol is prepared from benzene using:",
+      "options": ["HNO3", "SO3", "NaOH", "H2O2"],
+      "correct": 2
+    },
+    {
+      "question": "Which gives Williamson ether synthesis product?",
+      "options": ["CH3ONa + CH3Br", "CH3OH + CH3OH", "CH3CH2OH + CH3Br", "CH3OH + NaBr"],
+      "correct": 0
+    },
+    {
+      "question": "Electrophile in Kolbe’s reaction is:",
+      "options": ["COOH⁻", "CO₂", "OH⁻", "HCO₃⁻"],
+      "correct": 1
+    },
+    {
+      "question": "Salicylic acid is formed in:",
+      "options": ["Dow’s reaction", "Kolbe’s reaction", "Cannizzaro reaction", "Haloform reaction"],
+      "correct": 1
+    }
+  ]
+}

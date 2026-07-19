@@ -1,0 +1,255 @@
+{
+  "test": [
+    {
+      "question": "Solve: 2^x = 8",
+      "options": ["2", "3", "4", "5"],
+      "correct": 1
+    },
+    {
+      "question": "If 3^x = 27, what is x?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2
+    },
+    {
+      "question": "What value of x satisfies the equation √x = 7?",
+      "options": ["36", "42", "49", "56"],
+      "correct": 2
+    },
+    {
+      "question": "Solve: √(x + 9) = 6",
+      "options": ["27", "35", "36", "45"],
+      "correct": 0
+    },
+    {
+      "question": "If √x = 10, then x =",
+      "options": ["10", "20", "100", "1000"],
+      "correct": 2
+    },
+    {
+      "question": "What is x if 5^x = 25?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Solve for x: 10^x = 1000",
+      "options": ["2", "3", "4", "5"],
+      "correct": 1
+    },
+    {
+      "question": "Which value satisfies √(x - 1) = 4?",
+      "options": ["15", "16", "17", "18"],
+      "correct": 2
+    },
+    {
+      "question": "If x^2 = 81, then x =",
+      "options": ["9", "±9", "-9", "8"],
+      "correct": 1
+    },
+    {
+      "question": "What is x if √(2x) = 6?",
+      "options": ["12", "16", "18", "36"],
+      "correct": 2
+    },
+    {
+      "question": "Solve: 2^(x + 1) = 16",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2
+    },
+    {
+      "question": "If √(x + 4) = 5, what is x?",
+      "options": ["21", "20", "25", "30"],
+      "correct": 1
+    },
+    {
+      "question": "Solve: 3^x = 9",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "What value of x satisfies √(x + 1) = 3?",
+      "options": ["6", "7", "8", "9"],
+      "correct": 1
+    },
+    {
+      "question": "If √x = 3, then x =",
+      "options": ["3", "6", "9", "12"],
+      "correct": 2
+    },
+    {
+      "question": "Solve: x^(1/2) = 4",
+      "options": ["8", "12", "16", "20"],
+      "correct": 2
+    },
+    {
+      "question": "If x^(1/2) = 5, what is x?",
+      "options": ["10", "20", "25", "30"],
+      "correct": 2
+    },
+    {
+      "question": "What is x in 4^x = 64?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2
+    },
+    {
+      "question": "If √(3x) = 9, find x.",
+      "options": ["27", "30", "33", "36"],
+      "correct": 0
+    },
+    {
+      "question": "Solve: 2^x = 2^5",
+      "options": ["3", "4", "5", "6"],
+      "correct": 2
+    },
+    {
+      "question": "If √(x - 5) = 2, what is x?",
+      "options": ["6", "7", "8", "9"],
+      "correct": 2
+    },
+    {
+      "question": "Solve for x: 3^(x - 1) = 9",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "If √x = 11, then x =",
+      "options": ["111", "121", "131", "141"],
+      "correct": 1
+    },
+    {
+      "question": "What is x if √(x + 6) = 8?",
+      "options": ["58", "60", "62", "64"],
+      "correct": 1
+    },
+    {
+      "question": "Solve: 2x^2 = 72",
+      "options": ["x = ±6", "x = 6", "x = ±4", "x = 4"],
+      "correct": 0
+    },
+
+    {
+      "question": "Solve: 3^(2x) = 81",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2
+    },
+    {
+      "question": "What value of x satisfies: 2^(x + 2) = 32?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 1
+    },
+    {
+      "question": "Solve: √(x^2 + 4x + 4) = x + 2",
+      "options": ["0", "1", "x ≠ 0", "All real x"],
+      "correct": 3
+    },
+    {
+      "question": "If 2^(x+1) = 8, what is x?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Solve for x: √(x + 3) - √(x - 2) = 1",
+      "options": ["3", "4", "5", "6"],
+      "correct": 3
+    },
+    {
+      "question": "If 3^(x-2) = 1/9, what is x?",
+      "options": ["0", "1", "2", "3"],
+      "correct": 0
+    },
+    {
+      "question": "What is x if √(2x + 3) = 5?",
+      "options": ["8", "9", "10", "11"],
+      "correct": 0
+    },
+    {
+      "question": "Solve: 4^(x+1) = 64",
+      "options": ["2", "3", "4", "5"],
+      "correct": 1
+    },
+    {
+      "question": "If √(x + 5) = x - 1, find x.",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2
+    },
+    {
+      "question": "Solve for x: 9^(x/2) = 27",
+      "options": ["2", "3", "4", "5"],
+      "correct": 0
+    },
+    {
+      "question": "If 5^(x - 1) = 1/25, then x =",
+      "options": ["-1", "0", "1", "2"],
+      "correct": 0
+    },
+    {
+      "question": "Solve: √(x^2 - 6x + 9) = |x - 3|",
+      "options": ["Always true", "Only if x ≥ 3", "Only if x ≤ 3", "Never true"],
+      "correct": 0
+    },
+    {
+      "question": "What is x if √(x^2) = x?",
+      "options": ["Only positive x", "All x", "Only x ≥ 0", "Only x = 0"],
+      "correct": 2
+    },
+    {
+      "question": "Solve: √(x + 2) + √(x - 1) = 5",
+      "options": ["x = 2", "x = 4", "x = 5", "x = 6"],
+      "correct": 3
+    },
+    {
+      "question": "If 4^(x - 1) = 8, then x is:",
+      "options": ["1.5", "2", "2.5", "3"],
+      "correct": 2
+    },
+    {
+      "question": "Solve: 2^(x + 2) = 2^x * 4",
+      "options": ["0", "1", "2", "3"],
+      "correct": 2
+    },
+    {
+      "question": "If √(3x - 2) = x, what is x?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "What value of x satisfies 5^(2x) = 125?",
+      "options": ["1", "1.5", "2", "2.5"],
+      "correct": 1
+    },
+    {
+      "question": "Solve: √(x^2 - 2x + 1) = 3",
+      "options": ["x = 2 or 4", "x = 4", "x = -2 or 4", "x = 2 or 1"],
+      "correct": 3
+    },
+    {
+      "question": "If √(2x + 1) = 3, find x.",
+      "options": ["3", "4", "5", "6"],
+      "correct": 1
+    },
+    {
+      "question": "Solve for x: 3^x = 1/27",
+      "options": ["-1", "-2", "-3", "-4"],
+      "correct": 2
+    },
+    {
+      "question": "If √(x^2 - 9) = x - 3, then x = ?",
+      "options": ["3", "6", "All x ≥ 3", "x = ±3"],
+      "correct": 2
+    },
+    {
+      "question": "Solve: 2^(x+1) = 2x",
+      "options": ["1", "2", "3", "No solution"],
+      "correct": 3
+    },
+    {
+      "question": "What is the solution of 4^x = 8?",
+      "options": ["1.5", "2", "2.5", "3"],
+      "correct": 0
+    },
+    {
+      "question": "If √(x^2 + 6x + 9) = x + 3, then x is:",
+      "options": ["x ≥ -3", "x > -3", "All real x", "Only x = -3"],
+      "correct": 0
+    }
+  ]
+}

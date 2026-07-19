@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which of the following structures is not part of the stamen?",
+      "options": ["Anther", "Filament", "Pollen sac", "Stigma"],
+      "correct": 3
+    },
+    {
+      "question": "What is the function of the tapetum in anther?",
+      "options": ["Protection", "Pollen development", "Dehiscence", "Support"],
+      "correct": 1
+    },
+    {
+      "question": "How many microspore mother cells are typically found in each pollen sac?",
+      "options": ["2", "4", "8", "Many"],
+      "correct": 1
+    },
+    {
+      "question": "What is the ploidy of the functional megaspore?",
+      "options": ["Diploid", "Triploid", "Haploid", "Tetraploid"],
+      "correct": 2
+    },
+    {
+      "question": "Synergids are located:",
+      "options": ["In the chalazal end", "In the micropylar end", "In the middle of embryo sac", "Outside the ovule"],
+      "correct": 1
+    },
+    {
+      "question": "What is the product of meiosis in microsporogenesis?",
+      "options": ["Pollen grain", "Microspore mother cell", "Microspore", "Megaspore"],
+      "correct": 2
+    },
+    {
+      "question": "The embryo sac in angiosperms is:",
+      "options": ["3-celled", "5-celled", "7-celled, 8-nucleate", "8-celled, 7-nucleate"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is responsible for pollen grain wall formation?",
+      "options": ["Endothecium", "Middle layers", "Tapetum", "Epidermis"],
+      "correct": 2
+    },
+    {
+      "question": "Double fertilization is:",
+      "options": ["Fusion of two sperms with one egg", "Fusion of male gametes with two different cells", "Fusion of two zygotes", "Fusion of gametes and endosperm"],
+      "correct": 1
+    },
+    {
+      "question": "Endosperm in angiosperms is usually:",
+      "options": ["Haploid", "Diploid", "Triploid", "Tetraploid"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following develops into seed after fertilization?",
+      "options": ["Ovary", "Ovule", "Stigma", "Anther"],
+      "correct": 1
+    },
+    {
+      "question": "Pollination by bats is called:",
+      "options": ["Hydrophily", "Chiropterophily", "Entomophily", "Anemophily"],
+      "correct": 1
+    },
+    {
+      "question": "The outermost layer of pollen grain wall is called:",
+      "options": ["Intine", "Exine", "Epidermis", "Cuticle"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone is involved in the ripening of ovary into fruit?",
+      "options": ["Auxin", "Gibberellin", "Cytokinin", "Ethylene"],
+      "correct": 0
+    },
+    {
+      "question": "Which structure guides the pollen tube toward the egg cell?",
+      "options": ["Antipodal", "Synergids", "Central cell", "Polar nuclei"],
+      "correct": 1
+    },
+    {
+      "question": "Pollen grains in most angiosperms are:",
+      "options": ["Diploid", "Haploid", "Triploid", "Tetraploid"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a common example of a wind-pollinated plant?",
+      "options": ["Pea", "Wheat", "Rose", "Papaya"],
+      "correct": 1
+    },
+    {
+      "question": "The process of fusion of male gamete with egg is called:",
+      "options": ["Syngamy", "Triple fusion", "Fertilization", "Karyogamy"],
+      "correct": 0
+    },
+    {
+      "question": "Exine of pollen grain is made up of:",
+      "options": ["Lignin", "Cutin", "Cellulose", "Sporopollenin"],
+      "correct": 3
+    },
+    {
+      "question": "Formation of fruit without fertilization is called:",
+      "options": ["Apomixis", "Parthenocarpy", "Polyembryony", "Parthenogenesis"],
+      "correct": 1
+    },
+    {
+      "question": "How many cells and nuclei are there in a mature embryo sac?",
+      "options": ["7 cells, 8 nuclei", "8 cells, 7 nuclei", "6 cells, 8 nuclei", "7 cells, 7 nuclei"],
+      "correct": 0
+    },
+    {
+      "question": "Pollination involving transfer of pollen from one flower to another on the same plant is called:",
+      "options": ["Autogamy", "Geitonogamy", "Xenogamy", "Cleistogamy"],
+      "correct": 1
+    },
+    {
+      "question": "Which plant shows cleistogamy?",
+      "options": ["Wheat", "Orchid", "Pea", "Viola"],
+      "correct": 3
+    },
+    {
+      "question": "Viability of pollen is longest in:",
+      "options": ["Wheat", "Rice", "Rosaceae", "Legumes"],
+      "correct": 2
+    },
+    {
+      "question": "What is the role of antipodals in embryo sac?",
+      "options": ["Nourishment", "Unknown", "Fusion", "Secretion"],
+      "correct": 1
+    },
+    {
+      "question": "Fertilized ovary develops into:",
+      "options": ["Seed", "Ovule", "Fruit", "Embryo"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is not a method of artificial hybridization?",
+      "options": ["Bagging", "Emasculation", "Irradiation", "Dusting"],
+      "correct": 2
+    },
+    {
+      "question": "In angiosperms, triple fusion leads to formation of:",
+      "options": ["Zygote", "Embryo", "Seed coat", "Endosperm"],
+      "correct": 3
+    },
+    {
+      "question": "Fusion of sperm with two polar nuclei is called:",
+      "options": ["Syngamy", "Double fertilization", "Triple fusion", "Fertilization"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is diploid?",
+      "options": ["Zygote", "Pollen grain", "Sperm", "Synergid"],
+      "correct": 0
+    },
+    {
+      "question": "Fruit without seeds is known as:",
+      "options": ["Apomictic fruit", "Sterile fruit", "Parthenocarpic fruit", "Endospermic fruit"],
+      "correct": 2
+    },
+    {
+      "question": "The functional megaspore develops into:",
+      "options": ["Pollen sac", "Nucellus", "Embryo sac", "Endosperm"],
+      "correct": 2
+    },
+    {
+      "question": "In which layer of anther does dehiscence occur?",
+      "options": ["Tapetum", "Middle layer", "Endothecium", "Epidermis"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of the ovule becomes the seed coat?",
+      "options": ["Nucellus", "Integument", "Chalaza", "Embryo sac"],
+      "correct": 1
+    },
+    {
+      "question": "Which type of pollination requires genetically different plants?",
+      "options": ["Autogamy", "Geitonogamy", "Xenogamy", "Cleistogamy"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not involved in double fertilization?",
+      "options": ["Synergid", "Egg", "Sperm", "Polar nuclei"],
+      "correct": 0
+    },
+    {
+      "question": "Pollen tube enters the embryo sac through:",
+      "options": ["Chalaza", "Funicle", "Micropyle", "Integuments"],
+      "correct": 2
+    },
+    {
+      "question": "Ovule is attached to the placenta by:",
+      "options": ["Funicle", "Nucellus", "Chalaza", "Integument"],
+      "correct": 0
+    },
+    {
+      "question": "What helps in the nourishment of developing pollen grains?",
+      "options": ["Endothecium", "Tapetum", "Epidermis", "Middle layers"],
+      "correct": 1
+    },
+    {
+      "question": "Which term refers to pollen transfer between flowers of two different plants?",
+      "options": ["Autogamy", "Geitonogamy", "Xenogamy", "Apomixis"],
+      "correct": 2
+    },
+    {
+      "question": "Seedless fruits are obtained through:",
+      "options": ["Parthenocarpy", "Double fertilization", "Pollination", "Meiosis"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not a post-fertilization change?",
+      "options": ["Ovule → Seed", "Ovary → Fruit", "Style → Embryo", "Zygote → Embryo"],
+      "correct": 2
+    },
+    {
+      "question": "Polyembryony is commonly seen in:",
+      "options": ["Rice", "Groundnut", "Citrus", "Pea"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is NOT true about exine?",
+      "options": ["Made of sporopollenin", "Highly resistant", "Dissolves in acid", "Has germ pore"],
+      "correct": 2
+    },
+    {
+      "question": "The male gametes in angiosperms are formed in:",
+      "options": ["Anther", "Pollen grain", "Pollen tube", "Ovule"],
+      "correct": 2
+    },
+    {
+      "question": "What triggers the germination of pollen grain on stigma?",
+      "options": ["Style length", "Chemicals on stigma", "Light", "Temperature"],
+      "correct": 1
+    },
+    {
+      "question": "Emasculation is done to:",
+      "options": ["Remove female parts", "Remove male parts", "Attract pollinators", "Prevent growth"],
+      "correct": 1
+    },
+    {
+      "question": "Apomixis leads to formation of:",
+      "options": ["Genetically identical seeds", "Triploid endosperm", "No seeds", "Different offspring"],
+      "correct": 0
+    },
+    {
+      "question": "Micropyle is an opening in the ovule through which:",
+      "options": ["Nutrients enter", "Pollen tube enters", "Water enters", "Seed emerges"],
+      "correct": 1
+    }
+  ]
+}

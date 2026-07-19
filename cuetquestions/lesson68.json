@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The negation of 'All birds can fly' is:",
+      "options": ["Some birds cannot fly", "No birds can fly", "Birds always fly", "None fly"],
+      "correct": 0
+    },
+    {
+      "question": "If p: 'It is raining', then ~p is:",
+      "options": ["It is raining", "It is not raining", "It may rain", "It is cloudy"],
+      "correct": 1
+    },
+    {
+      "question": "The compound statement 'p ∧ q' is true when:",
+      "options": ["p is true, q is false", "Both are true", "Both are false", "p is false, q is true"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a tautology?",
+      "options": ["p ∧ ~p", "p ∨ ~p", "~(p ∧ ~p)", "p → ~p"],
+      "correct": 1
+    },
+    {
+      "question": "A contradiction is a statement which is:",
+      "options": ["Always true", "Always false", "Sometimes true", "Depends on p"],
+      "correct": 1
+    },
+    {
+      "question": "Which is logically equivalent to p → q?",
+      "options": ["~p ∨ q", "p ∨ q", "~q → ~p", "q → p"],
+      "correct": 0
+    },
+    {
+      "question": "The converse of 'If p then q' is:",
+      "options": ["q → p", "p → q", "~p → ~q", "~q → ~p"],
+      "correct": 0
+    },
+    {
+      "question": "The contrapositive of p → q is:",
+      "options": ["q → p", "~q → ~p", "~p → ~q", "p ∧ q"],
+      "correct": 1
+    },
+    {
+      "question": "The statement 'x ∈ R such that x² = -1' is:",
+      "options": ["True", "False", "Tautology", "Implication"],
+      "correct": 1
+    },
+    {
+      "question": "Which is the negation of 'x > 5'?",
+      "options": ["x ≤ 5", "x ≥ 5", "x ≠ 5", "x < 5"],
+      "correct": 0
+    },
+    {
+      "question": "'If x is even, then x² is even' is a:",
+      "options": ["Converse", "Implication", "Contrapositive", "Tautology"],
+      "correct": 1
+    },
+    {
+      "question": "Negation of 'x is a prime or x is even' is:",
+      "options": ["x is not prime and not even", "x is prime and even", "x is neither prime nor even", "x is odd"],
+      "correct": 0
+    },
+    {
+      "question": "'p ∨ q' is false only when:",
+      "options": ["Both true", "Both false", "p true, q false", "p false, q true"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a valid logical equivalence?",
+      "options": ["p → q ≡ ~p ∨ q", "p ∧ q ≡ ~p ∨ ~q", "p ∨ q ≡ ~p ∧ ~q", "p ↔ q ≡ p ∧ ~q"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a compound statement?",
+      "options": ["x is a prime", "5 is odd", "x > 0 and x² < 4", "π is irrational"],
+      "correct": 2
+    },
+    {
+      "question": "Which logical operation corresponds to 'and'?",
+      "options": ["∨", "∧", "→", "↔"],
+      "correct": 1
+    },
+    {
+      "question": "Which operation corresponds to 'or'?",
+      "options": ["→", "∧", "∨", "~"],
+      "correct": 2
+    },
+    {
+      "question": "The truth value of (p ∨ ~p) is:",
+      "options": ["True", "False", "Depends on p", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Statement 'p ↔ q' is true when:",
+      "options": ["Both are true", "One is false", "p true, q false", "Both have same truth value"],
+      "correct": 3
+    },
+    {
+      "question": "Which is a logical tautology?",
+      "options": ["p ∧ ~p", "p ∨ ~p", "p → ~p", "~p ∧ p"],
+      "correct": 1
+    },
+    {
+      "question": "If p is true and q is false, p → q is:",
+      "options": ["True", "False", "Can’t say", "None"],
+      "correct": 1
+    },
+    {
+      "question": "If both p and q are true, then p ∨ q is:",
+      "options": ["True", "False", "Depends", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The negation of p ∧ q is:",
+      "options": ["~p ∧ ~q", "~p ∨ ~q", "p ∨ ~q", "p ∧ ~q"],
+      "correct": 1
+    },
+    {
+      "question": "A proposition is:",
+      "options": ["Any sentence", "Declarative statement with definite truth value", "Question", "Command"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not a proposition?",
+      "options": ["What is your name?", "5 is a prime", "Sun rises in East", "2+2 = 4"],
+      "correct": 0
+    },
+    {
+      "question": "Truth table has how many rows for 2 statements?",
+      "options": ["2", "4", "8", "16"],
+      "correct": 1
+    },
+    {
+      "question": "p ∧ (q ∨ r) is equivalent to:",
+      "options": ["(p ∧ q) ∨ (p ∧ r)", "p ∨ q ∨ r", "(p ∨ q) ∧ r", "p ∧ q ∧ r"],
+      "correct": 0
+    },
+    {
+      "question": "Implication is false when:",
+      "options": ["p true, q false", "p false, q false", "p false, q true", "both true"],
+      "correct": 0
+    },
+    {
+      "question": "Which is converse of 'If it rains, roads are wet'?",
+      "options": ["If roads are wet, it rains", "If it doesn’t rain, roads aren’t wet", "If roads are wet, it didn’t rain", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not a logical operation?",
+      "options": ["AND", "OR", "IF-THEN", "PLUS"],
+      "correct": 3
+    },
+    {
+      "question": "Truth value of contradiction is always:",
+      "options": ["True", "False", "May vary", "Can’t say"],
+      "correct": 1
+    },
+    {
+      "question": "Which pair is logically equivalent?",
+      "options": ["p → q and ~q → ~p", "p → q and q → p", "~p ∨ q and p ∧ q", "~p ∧ ~q and p ∨ q"],
+      "correct": 0
+    },
+    {
+      "question": "Negation of (p → q) is:",
+      "options": ["p ∧ ~q", "~p ∨ q", "~p ∧ q", "p ∨ q"],
+      "correct": 0
+    },
+    {
+      "question": "A tautology's truth table has:",
+      "options": ["All T", "All F", "T and F", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If p: 'Sky is blue', then ~p is:",
+      "options": ["Sky is not blue", "Sky is always blue", "Sky is clear", "Sky is black"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is NOT a connective?",
+      "options": ["→", "∧", "~", "="],
+      "correct": 3
+    },
+    {
+      "question": "Which is logically equivalent to p ↔ q?",
+      "options": ["(p → q) ∧ (q → p)", "(p ∨ q) ∧ (p ∧ q)", "p ∧ q", "~p ∨ q"],
+      "correct": 0
+    },
+    {
+      "question": "Number of rows in truth table for 3 variables:",
+      "options": ["4", "6", "8", "10"],
+      "correct": 2
+    },
+    {
+      "question": "Disjunction is represented by:",
+      "options": ["∧", "∨", "→", "↔"],
+      "correct": 1
+    },
+    {
+      "question": "A biconditional statement is true when:",
+      "options": ["p and q are true", "p and q are false", "p and q are same", "Always"],
+      "correct": 2
+    },
+    {
+      "question": "The expression (p ∨ q) ∧ (~p) simplifies to:",
+      "options": ["q", "~p", "p", "p ∨ ~q"],
+      "correct": 0
+    },
+    {
+      "question": "If p is false and q is true, then p → q is:",
+      "options": ["True", "False", "Undefined", "Cannot say"],
+      "correct": 0
+    },
+    {
+      "question": "Which is the identity law in logic?",
+      "options": ["p ∨ F = p", "p ∧ T = p", "p ∨ T = T", "Both 1 and 2"],
+      "correct": 3
+    },
+    {
+      "question": "Which is an example of implication?",
+      "options": ["p → q", "p ∧ q", "p ∨ q", "p ↔ q"],
+      "correct": 0
+    },
+    {
+      "question": "Double negation law: ~~p ≡",
+      "options": ["p", "~p", "F", "T"],
+      "correct": 0
+    },
+    {
+      "question": "Which one is a valid proposition?",
+      "options": ["What is your name?", "Go there!", "7 is prime", "Wow!"],
+      "correct": 2
+    },
+    {
+      "question": "Truth value of 'Sun rises in west' is:",
+      "options": ["True", "False", "Undefined", "Assumption"],
+      "correct": 1
+    },
+    {
+      "question": "Which law is used in (p ∧ T) ≡ p?",
+      "options": ["Domination", "Identity", "Negation", "Distributive"],
+      "correct": 1
+    }
+  ]
+}

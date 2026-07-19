@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="alternate icon" href="favicon.png" type="image/png" />
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>How It Works | I Love Exams</title>
+  
+  <meta name="theme-color" content="#003366"/>
+
+  <!-- Bootstrap + AOS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css"/>
+
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; background:#f8f9fa; overflow-x:hidden; }
+
+    header { 
+      background:#003366; color:white; padding:1rem; text-align:center; font-weight:bold; 
+    }
+
+    .hero-section {
+      background: linear-gradient(to right, #003366, #00509E);
+      color:white;
+      text-align:center;
+      padding:4rem 1.5rem;
+    }
+    .hero-section h1 { font-size:2.5rem; font-weight:bold; }
+    .hero-section p { max-width:700px; margin:auto; margin-top:1rem; font-size:1.1rem; }
+
+    /* Timeline Section */
+    .timeline-container {
+      position: relative;
+      max-width: 1200px;
+      margin: 4rem auto;
+      padding: 0 2rem;
+    }
+    .timeline-container::before {
+      content: '';
+      position: absolute;
+      width: 5px;
+      background: #00509E;
+      top: 0;
+      bottom: 0;
+      left: 50%;
+      margin-left: -2.5px;
+      z-index: 0;
+    }
+    .timeline-item {
+      padding: 2rem 1rem;
+      position: relative;
+      width: 50%;
+    }
+    .timeline-item .timeline-content {
+      background: white;
+      border-radius: 12px;
+      padding: 1.5rem;
+      box-shadow: 0 3px 15px rgba(0,0,0,0.08);
+      position: relative;
+      z-index: 1;
+      transition:0.3s;
+    }
+    .timeline-item .timeline-content:hover { transform: translateY(-5px); }
+    .timeline-item .icon {
+      font-size: 2rem;
+      color: #00509E;
+      margin-bottom: .5rem;
+    }
+    .timeline-item h4 { font-weight:bold; }
+    .timeline-item p { font-size:0.95rem; color:#555; }
+
+    /* Positioning Left & Right */
+    .timeline-item.left { left: 0; text-align: right; }
+    .timeline-item.right { left: 50%; }
+    .timeline-item.left::before,
+    .timeline-item.right::before {
+      content: '';
+      position: absolute;
+      top: 25px;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #00509E;
+      z-index: 2;
+    }
+    .timeline-item.left::before { right: -10px; }
+    .timeline-item.right::before { left: -10px; }
+
+    /* Responsive */
+    @media(max-width: 768px){
+      .timeline-container::before { left: 20px; }
+      .timeline-item { width: 100%; padding-left: 50px; text-align:left; }
+      .timeline-item.left, .timeline-item.right { left: 0; }
+      .timeline-item.left::before, .timeline-item.right::before { left: 10px; }
+    }
+
+    footer {
+      background:#003366; color:white; text-align:center; padding:1rem; margin-top:3rem;
+    }
+  </style>
+</head>
+<body>
+  <header data-aos="fade-down">
+    <i class="bi bi-heart-fill text-danger"></i> ILovexams – How It Works
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section" data-aos="fade-up">
+    <h1>How It Works</h1>
+    <p>
+      Experience a seamless exam simulation from login to result.
+      We built our platform to be simple, secure, and effective for all competitive exam aspirants.
+    </p>
+  </section>
+
+  <!-- Timeline Section -->
+  <section class="timeline-container">
+
+    <!-- Step 1 -->
+    <div class="timeline-item left" data-aos="fade-right">
+      <div class="timeline-content">
+        <div class="icon"><i class="bi bi-person-check"></i></div>
+        <h4>1.  Start</h4>
+        <p>Enter your name to begin. The platform instantly switches to secure fullscreen exam mode.</p>
+      </div>
+    </div>
+
+    <!-- Step 2 -->
+    <div class="timeline-item right" data-aos="fade-left">
+      <div class="timeline-content">
+        <div class="icon"><i class="bi bi-journal-check"></i></div>
+        <h4>2. Attempt Questions</h4>
+        <p>Answer with simple taps/clicks. Navigate freely, mark for review, or clear answers anytime.</p>
+      </div>
+    </div>
+
+    <!-- Step 3 -->
+    <div class="timeline-item left" data-aos="fade-right">
+      <div class="timeline-content">
+        <div class="icon"><i class="bi bi-alarm"></i></div>
+        <h4>3. Smart Timer</h4>
+        <p>Stay exam-ready with a countdown timer and 5-minute alerts to mimic real exam stress.</p>
+      </div>
+    </div>
+
+    <!-- Step 4 -->
+    <div class="timeline-item right" data-aos="fade-left">
+      <div class="timeline-content">
+        <div class="icon"><i class="bi bi-bar-chart-line"></i></div>
+        <h4>4. Instant Result</h4>
+        <p>Get your score immediately after submission with detailed analysis and accuracy metrics.</p>
+      </div>
+    </div>
+
+    <!-- Step 5 -->
+    <div class="timeline-item left" data-aos="fade-right">
+      <div class="timeline-content">
+        <div class="icon"><i class="bi bi-shield-lock"></i></div>
+        <h4>5. Secure & Anti-Cheat</h4>
+        <p>We prevent tab switches, screenshots, and shortcuts, ensuring an authentic exam environment.</p>
+      </div>
+    </div>
+
+  </section>
+
+  <footer data-aos="fade-up">
+    © 2025 I Love Exams | All Rights Reserved
+  </footer>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <script>AOS.init({ duration:800, once:true });</script>
+</body>
+</html>

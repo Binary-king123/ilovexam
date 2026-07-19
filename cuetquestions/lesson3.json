@@ -1,0 +1,294 @@
+{
+  "test": [
+    {
+      "question": "A particle is said to be in motion in a plane if it:",
+      "options": [
+        "Moves in a straight line only",
+        "Has changing direction in two dimensions",
+        "Is under gravity",
+        "Remains at rest"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a vector?",
+      "options": ["Velocity", "Displacement", "Speed", "Acceleration"],
+      "correct": 2
+    },
+    {
+      "question": "Projectile motion is a combination of:",
+      "options": [
+        "Uniform motion and uniform acceleration",
+        "Uniform acceleration in all directions",
+        "Circular and linear motion",
+        "Only linear motion"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The maximum range of a projectile for a given initial velocity is at an angle of:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correct": 1
+    },
+    {
+      "question": "The horizontal component of velocity in projectile motion:",
+      "options": [
+        "Increases with time",
+        "Remains constant",
+        "Decreases with time",
+        "Is always zero"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Time of flight of a projectile is given by:",
+      "options": [
+        "(2u sinθ)/g",
+        "(u sinθ)/g",
+        "(2u cosθ)/g",
+        "(u cosθ)/g"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The path of a projectile is:",
+      "options": ["Linear", "Parabolic", "Circular", "Elliptical"],
+      "correct": 1
+    },
+    {
+      "question": "At the highest point of projectile motion, the vertical component of velocity is:",
+      "options": ["u sinθ", "u cosθ", "Zero", "Equal to g"],
+      "correct": 2
+    },
+    {
+      "question": "Unit vector has:",
+      "options": ["Magnitude greater than 1", "Magnitude less than 1", "Magnitude 1", "No direction"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a scalar quantity?",
+      "options": ["Displacement", "Acceleration", "Speed", "Force"],
+      "correct": 2
+    },
+    {
+      "question": "Dot product of two vectors is zero when they are:",
+      "options": ["Parallel", "Equal", "Perpendicular", "None"],
+      "correct": 2
+    },
+    {
+      "question": "In uniform circular motion, the acceleration is:",
+      "options": ["Zero", "Constant in direction", "Centripetal", "Tangential"],
+      "correct": 2
+    },
+    {
+      "question": "Vector addition is commutative because:",
+      "options": [
+        "A + B = B + A",
+        "A – B = B – A",
+        "A × B = B × A",
+        "Magnitude only matters"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The angle between two perpendicular vectors is:",
+      "options": ["0°", "180°", "90°", "360°"],
+      "correct": 2
+    },
+    {
+      "question": "If a vector has zero magnitude, its direction is:",
+      "options": ["Undefined", "Along x-axis", "Along y-axis", "Along z-axis"],
+      "correct": 0
+    },
+    {
+      "question": "Cross product of two parallel vectors is:",
+      "options": ["Maximum", "Minimum", "Zero", "Undefined"],
+      "correct": 2
+    },
+    {
+      "question": "The resultant of two vectors is maximum when the angle between them is:",
+      "options": ["0°", "90°", "180°", "60°"],
+      "correct": 0
+    },
+    {
+      "question": "Projectile launched at 60° has the same range as one launched at:",
+      "options": ["45°", "30°", "90°", "15°"],
+      "correct": 1
+    },
+    {
+      "question": "Displacement is a vector whose magnitude equals:",
+      "options": [
+        "Total distance",
+        "Shortest path between initial and final positions",
+        "Area under velocity-time graph",
+        "Sum of path lengths"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Relative velocity is the velocity of one object with respect to:",
+      "options": ["Earth", "Sun", "Another object", "Origin"],
+      "correct": 2
+    },
+    {
+      "question": "For maximum height in projectile motion, angle of projection is:",
+      "options": ["30°", "45°", "90°", "60°"],
+      "correct": 2
+    },
+    {
+      "question": "If R is the range and H is the maximum height of a projectile, then R/H is:",
+      "options": [
+        "cot²θ",
+        "tan²θ",
+        "4cotθ",
+        "4cot²θ"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Acceleration in projectile motion is always directed:",
+      "options": [
+        "Along velocity",
+        "Horizontally",
+        "Vertically downward",
+        "Along displacement"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A projectile hits the ground at the same level. The time of flight depends on:",
+      "options": ["Horizontal velocity", "Vertical velocity", "Range", "Mass"],
+      "correct": 1
+    },
+    {
+      "question": "Horizontal range is maximum when angle of projection is:",
+      "options": ["90°", "60°", "30°", "45°"],
+      "correct": 3
+    },
+    {
+      "question": "In a vector triangle, if vectors form a closed triangle, their resultant is:",
+      "options": ["Maximum", "Minimum", "Zero", "Unity"],
+      "correct": 2
+    },
+    {
+      "question": "In vector subtraction A – B, we add:",
+      "options": ["A and B", "A and –B", "–A and –B", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Direction of velocity in circular motion is:",
+      "options": ["Radial", "Constant", "Tangential", "Opposite to acceleration"],
+      "correct": 2
+    },
+    {
+      "question": "If a body is thrown at an angle to the horizontal, its motion is:",
+      "options": ["Linear", "Rotational", "Projectile", "Circular"],
+      "correct": 2
+    },
+    {
+      "question": "Magnitude of vector A = 3i + 4j is:",
+      "options": ["5", "7", "1", "25"],
+      "correct": 0
+    },
+    {
+      "question": "If two vectors are equal in magnitude and opposite in direction, their resultant is:",
+      "options": ["Maximum", "Equal to any vector", "Zero", "Undefined"],
+      "correct": 2
+    },
+    {
+      "question": "Which vector has a direction but no magnitude?",
+      "options": ["Unit vector", "Null vector", "Zero vector", "Resultant vector"],
+      "correct": 2
+    },
+    {
+      "question": "Unit of angular velocity is:",
+      "options": ["rad/s", "m/s", "rad", "s"],
+      "correct": 0
+    },
+    {
+      "question": "Two equal vectors inclined at 120° have resultant of magnitude:",
+      "options": ["Equal to either", "Greater", "Less", "Zero"],
+      "correct": 2
+    },
+    {
+      "question": "Velocity vector and acceleration vector are perpendicular when:",
+      "options": ["Speed increases", "Speed decreases", "Speed constant", "Motion is oscillatory"],
+      "correct": 2
+    },
+    {
+      "question": "A particle projected horizontally from a height h will hit the ground in time:",
+      "options": [
+        "√(2h/g)",
+        "h/2g",
+        "2h/g",
+        "u/g"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The formula for range R of a projectile is:",
+      "options": ["(u² sin2θ)/g", "(u² cos2θ)/g", "(u² sin²θ)/2g", "(2u sinθ)/g"],
+      "correct": 0
+    },
+    {
+      "question": "A stone is thrown horizontally. What is its initial vertical velocity?",
+      "options": ["0", "g", "u", "u sinθ"],
+      "correct": 0
+    },
+    {
+      "question": "Which pair has the same dimension?",
+      "options": ["Velocity and displacement", "Displacement and acceleration", "Angular velocity and frequency", "Velocity and acceleration"],
+      "correct": 2
+    },
+    {
+      "question": "Dot product of perpendicular vectors is:",
+      "options": ["Maximum", "Zero", "Minimum", "Equal to product of magnitudes"],
+      "correct": 1
+    },
+    {
+      "question": "Cross product of two vectors gives:",
+      "options": ["A scalar", "A vector", "Zero always", "Directionless quantity"],
+      "correct": 1
+    },
+    {
+      "question": "Resultant of two vectors at 90° is:",
+      "options": ["A + B", "√(A² + B²)", "A – B", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "A particle under uniform circular motion has:",
+      "options": ["Constant speed and variable direction", "Variable speed", "Constant velocity", "Constant acceleration"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is false about vector addition?",
+      "options": ["It is commutative", "It is associative", "It depends on order", "It is geometrically represented"],
+      "correct": 2
+    },
+    {
+      "question": "For projectile motion, horizontal motion is:",
+      "options": ["Uniformly accelerated", "Retarded", "Uniform", "Vertical"],
+      "correct": 2
+    },
+    {
+      "question": "Angle between velocity and acceleration in projectile at highest point is:",
+      "options": ["0°", "90°", "180°", "45°"],
+      "correct": 1
+    },
+    {
+      "question": "In vector addition, which law is followed?",
+      "options": ["Newton’s law", "Triangle law", "Coulomb's law", "Snell's law"],
+      "correct": 1
+    },
+    {
+      "question": "A body under projectile motion moves in:",
+      "options": ["One dimension", "Two dimensions", "Three dimensions", "No dimension"],
+      "correct": 1
+    },
+    {
+      "question": "If angle of projection is 90°, the range is:",
+      "options": ["Maximum", "Minimum", "Zero", "Infinite"],
+      "correct": 2
+    }
+  ]
+}

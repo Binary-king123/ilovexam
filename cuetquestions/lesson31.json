@@ -1,0 +1,249 @@
+{
+  "structure_of_atom": [
+    {
+      "question": "Who discovered the nucleus of the atom?",
+      "options": ["Thomson", "Bohr", "Rutherford", "Chadwick"],
+      "correct": 2
+    },
+    {
+      "question": "Which particle was discovered by J.J. Thomson?",
+      "options": ["Electron", "Proton", "Neutron", "Positron"],
+      "correct": 0
+    },
+    {
+      "question": "Neutron was discovered by:",
+      "options": ["Thomson", "Rutherford", "Chadwick", "Goldstein"],
+      "correct": 2
+    },
+    {
+      "question": "The charge of an electron is:",
+      "options": ["+1.6 × 10⁻¹⁹ C", "-1.6 × 10⁻¹⁹ C", "+9.1 × 10⁻³¹ kg", "-9.1 × 10⁻³¹ kg"],
+      "correct": 1
+    },
+    {
+      "question": "Which quantum number defines the shape of an orbital?",
+      "options": ["Principal (n)", "Azimuthal (l)", "Magnetic (m)", "Spin (s)"],
+      "correct": 1
+    },
+    {
+      "question": "What is the maximum number of electrons in an orbital?",
+      "options": ["2", "4", "6", "8"],
+      "correct": 0
+    },
+    {
+      "question": "An s-orbital is:",
+      "options": ["Dumbbell-shaped", "Spherical", "Elliptical", "Planar"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a correct set of quantum numbers for an electron in 3p orbital?",
+      "options": ["n=3, l=0, m=0", "n=3, l=1, m=0", "n=3, l=2, m=1", "n=3, l=1, m=3"],
+      "correct": 1
+    },
+    {
+      "question": "Which rule explains that electrons occupy degenerate orbitals singly before pairing?",
+      "options": ["Aufbau principle", "Pauli exclusion principle", "Hund’s rule", "Bohr’s postulate"],
+      "correct": 2
+    },
+    {
+      "question": "What is the maximum number of electrons that can be accommodated in the n=2 shell?",
+      "options": ["2", "8", "6", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Who proposed the quantization of angular momentum?",
+      "options": ["Bohr", "Planck", "Heisenberg", "Rutherford"],
+      "correct": 0
+    },
+    {
+      "question": "The number of radial nodes in 3s orbital is:",
+      "options": ["0", "1", "2", "3"],
+      "correct": 2
+    },
+    {
+      "question": "Which quantum number determines the energy of an electron in hydrogen atom?",
+      "options": ["n", "l", "m", "s"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a possible value for azimuthal quantum number (l) when n=3?",
+      "options": ["0", "1", "2", "3"],
+      "correct": 3
+    },
+    {
+      "question": "Heisenberg’s uncertainty principle states that:",
+      "options": ["Energy and mass cannot be known accurately", "Velocity and acceleration cannot be known accurately", "Position and momentum cannot be known simultaneously", "Electron and proton cannot be in same shell"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following orbitals is not possible?",
+      "options": ["1s", "2s", "3f", "4d"],
+      "correct": 2
+    },
+    {
+      "question": "The wavelength of a particle is given by:",
+      "options": ["Bohr’s equation", "Planck’s law", "de Broglie relation", "Schrödinger equation"],
+      "correct": 2
+    },
+    {
+      "question": "What is the energy of the first Bohr orbit of hydrogen atom?",
+      "options": ["-13.6 eV", "0 eV", "+13.6 eV", "-6.8 eV"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following transitions produces the highest energy photon?",
+      "options": ["n=3 to n=2", "n=4 to n=2", "n=2 to n=1", "n=3 to n=1"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is diamagnetic?",
+      "options": ["O₂", "C", "Be", "Na"],
+      "correct": 2
+    },
+    {
+      "question": "Total number of orbitals in third shell (n=3) is:",
+      "options": ["3", "9", "6", "4"],
+      "correct": 1
+    },
+    {
+      "question": "The magnetic quantum number (m) specifies:",
+      "options": ["Spin of electron", "Energy of orbital", "Orientation of orbital", "Size of orbital"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has the lowest energy?",
+      "options": ["3s", "3p", "3d", "4s"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following elements has the electron configuration 1s² 2s² 2p⁶ 3s² 3p¹?",
+      "options": ["Mg", "Al", "Na", "Si"],
+      "correct": 1
+    },
+    {
+      "question": "The spin quantum number (s) for an electron can have values:",
+      "options": ["+1 and -1", "+1 and 0", "+1/2 and -1/2", "Only +1/2"],
+      "correct": 2
+    },
+    {
+      "question": "Which series in hydrogen spectrum lies in the visible region?",
+      "options": ["Lyman", "Balmer", "Paschen", "Brackett"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following represents an excited state?",
+      "options": ["1s² 2s²", "1s² 2s¹ 2p¹", "1s² 2s² 2p⁶", "1s²"],
+      "correct": 1
+    },
+    {
+      "question": "Which orbital has no angular nodes?",
+      "options": ["1s", "2s", "2p", "3p"],
+      "correct": 0
+    },
+    {
+      "question": "The first shell (K-shell) can hold a maximum of:",
+      "options": ["2 electrons", "4 electrons", "6 electrons", "8 electrons"],
+      "correct": 0
+    },
+    {
+      "question": "Rutherford’s model failed because it couldn't explain:",
+      "options": ["Mass of atom", "Volume of atom", "Stability of atom", "Nature of nucleus"],
+      "correct": 2
+    },
+    {
+      "question": "According to Bohr’s theory, angular momentum is quantized as:",
+      "options": ["nh", "nh/2π", "2πnh", "n²h"],
+      "correct": 1
+    },
+    {
+      "question": "The angular momentum of an electron in nth orbit is:",
+      "options": ["nh", "nh/π", "nh/2π", "n²h"],
+      "correct": 2
+    },
+    {
+      "question": "Total number of nodes in 4p orbital is:",
+      "options": ["0", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "Number of unpaired electrons in ground state of nitrogen is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "In multi-electron atoms, the order of energy of orbitals is given by:",
+      "options": ["(n+l) rule", "Only n", "Only l", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The ionization energy of hydrogen is:",
+      "options": ["13.6 J", "13.6 kJ", "13.6 eV", "13.6 cal"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a valid orbital designation?",
+      "options": ["2s", "3d", "4f", "5g"],
+      "correct": 3
+    },
+    {
+      "question": "Electrons in an atom are arranged in:",
+      "options": ["Shells", "Nucleus", "Ions", "Valency"],
+      "correct": 0
+    },
+    {
+      "question": "Number of angular nodes in 4d orbital is:",
+      "options": ["0", "1", "2", "3"],
+      "correct": 2
+    },
+    {
+      "question": "The maximum number of electrons in 4th shell is:",
+      "options": ["16", "18", "32", "8"],
+      "correct": 2
+    },
+    {
+      "question": "Which orbital is spherical in shape?",
+      "options": ["s", "p", "d", "f"],
+      "correct": 0
+    },
+    {
+      "question": "Which element has a completely filled 2p subshell?",
+      "options": ["Oxygen", "Carbon", "Neon", "Fluorine"],
+      "correct": 2
+    },
+    {
+      "question": "The value of Planck's constant (h) is:",
+      "options": ["6.626×10⁻³⁴ J·s", "3.00×10⁸ m/s", "1.6×10⁻¹⁹ C", "9.1×10⁻³¹ kg"],
+      "correct": 0
+    },
+    {
+      "question": "An orbital can have how many electrons at max?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is the correct symbol for an isotope of carbon with 6 protons and 8 neutrons?",
+      "options": ["C-14", "C-12", "C-6", "C-8"],
+      "correct": 0
+    },
+    {
+      "question": "Which model explains quantized orbits of electrons?",
+      "options": ["Thomson's", "Bohr's", "Rutherford's", "Quantum Mechanical"],
+      "correct": 1
+    },
+    {
+      "question": "Who proposed the uncertainty principle?",
+      "options": ["Bohr", "Schrödinger", "Heisenberg", "Rutherford"],
+      "correct": 2
+    },
+    {
+      "question": "Which orbital has the highest number of nodes?",
+      "options": ["1s", "2s", "3p", "4d"],
+      "correct": 3
+    },
+    {
+      "question": "Which orbital corresponds to n=2, l=1?",
+      "options": ["2s", "2p", "3s", "3p"],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "redox_reactions": [
+    {
+      "question": "In the redox reaction, oxidation number of an element:",
+      "options": ["Increases during oxidation", "Decreases during oxidation", "Remains unchanged", "Fluctuates randomly"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following acts as an oxidizing agent?",
+      "options": ["KMnO₄", "H₂", "Zn", "Na"],
+      "correct": 0
+    },
+    {
+      "question": "In the reaction Zn + Cu²⁺ → Zn²⁺ + Cu, Zn is:",
+      "options": ["Oxidized", "Reduced", "Catalyst", "Spectator"],
+      "correct": 0
+    },
+    {
+      "question": "The change in oxidation number in reduction:",
+      "options": ["Increases", "Decreases", "Remains same", "Reverses"],
+      "correct": 1
+    },
+    {
+      "question": "Electrons are gained by:",
+      "options": ["Oxidizing agent", "Reducing agent", "Solvent", "Salt"],
+      "correct": 0
+    },
+    {
+      "question": "In the electrochemical cell, cathode is where:",
+      "options": ["Oxidation occurs", "Reduction occurs", "No reaction", "Both occur"],
+      "correct": 1
+    },
+    {
+      "question": "Which represents a redox reaction?",
+      "options": ["HCl + NaOH → NaCl + H₂O", "Zn + 2HCl → ZnCl₂ + H₂", "AgNO₃ + NaCl → AgCl + NaNO₃", "BaCl₂ + H₂SO₄ → BaSO₄ + 2HCl"],
+      "correct": 1
+    },
+    {
+      "question": "In half-reaction method, MnO₄⁻ in acidic medium is reduced to:",
+      "options": ["Mn²⁺", "MnO₂", "MnO₄²⁻", "Mn"],
+      "correct": 0
+    },
+    {
+      "question": "Which species is reduced in the reaction: 2Fe³⁺ + Sn²⁺ → 2Fe²⁺ + Sn⁴⁺?",
+      "options": ["Fe³⁺", "Sn²⁺", "Fe²⁺", "Sn⁴⁺"],
+      "correct": 0
+    },
+    {
+      "question": "Oxidation involves:",
+      "options": ["Loss of electrons", "Gain of electrons", "Gain of protons", "Loss of neutrons"],
+      "correct": 0
+    },
+    {
+      "question": "Reducing agent in the reaction is:",
+      "options": ["One that gets oxidized", "One that gets reduced", "One that remains unchanged", "One that is inert"],
+      "correct": 0
+    },
+    {
+      "question": "The term redox stands for:",
+      "options": ["Reduction–oxidation", "Reduction–oxygen", "Reagent–oxidation", "Reactive–oxide"],
+      "correct": 0
+    },
+    {
+      "question": "In basic medium, permanganate ion is typically reduced to:",
+      "options": ["MnO₂", "Mn²⁺", "MnO₄²⁻", "MnO₃⁻"],
+      "correct": 0
+    },
+    {
+      "question": "In balancing redox reactions, which is added in acidic medium?",
+      "options": ["H₂O and H⁺", "OH⁻ and H₂O", "O₂ and H₂", "Na⁺ and Cl⁻"],
+      "correct": 0
+    },
+    {
+      "question": "Which metal displaces silver from AgNO₃ solution?",
+      "options": ["Cu", "Ag", "Pt", "Au"],
+      "correct": 0
+    },
+    {
+      "question": "In the cell Zn|Zn²⁺||Cu²⁺|Cu, standard electrode potential is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "correct": 0
+    },
+    {
+      "question": "Galvanic cell converts:",
+      "options": ["Chemical energy to electrical energy", "Electrical to chemical", "Thermal to mechanical", "Mechanical to chemical"],
+      "correct": 0
+    },
+    {
+      "question": "Which electrode is positive in a galvanic cell?",
+      "options": ["Cathode", "Anode", "Salt bridge", "Voltmeter"],
+      "correct": 0
+    },
+    {
+      "question": "During discharge, the sign of electrode potentials:",
+      "options": ["Reverses", "Remains same", "Increases", "Decreases"],
+      "correct": 0
+    },
+    {
+      "question": "Cell notation Anode|Cathode is:",
+      "options": ["Zn|Zn²⁺||Cu²⁺|Cu", "Cu|Cu²⁺||Zn²⁺|Zn", "Zn²⁺|Zn||Cu|Cu²⁺", "Cu²⁺|Cu||Zn|Zn²⁺"],
+      "correct": 0
+    },
+    {
+      "question": "Electrolytic cell uses:",
+      "options": ["External electric energy", "Spontaneous redox", "Solar energy", "Mechanical energy"],
+      "correct": 0
+    },
+    {
+      "question": "Which are electrons acceptors in reduction?",
+      "options": ["Oxidizing agents", "Reducing agents", "Solvents", "Inert gases"],
+      "correct": 0
+    },
+    {
+      "question": "In redox titration involving KMnO₄, the end point shows:",
+      "options": ["Pink color persists", "Colorless", "Blue", "Green"],
+      "correct": 0
+    },
+    {
+      "question": "In a redox titration with I₂, the indicator is:",
+      "options": ["Starch", "Litmus", "Phenolphthalein", "Methyl orange"],
+      "correct": 0
+    },
+    {
+      "question": "E°cell = E°cathode – E°anode according to:",
+      "options": ["Nernst equation", "Arrhenius equation", "van ’t Hoff equation", "Henderson–Hasselbalch"],
+      "correct": 0
+    },
+    {
+      "question": "The Nernst equation relates:",
+      "options": ["Cell potential and concentrations", "Cell potential and temperature only", "Equilibrium and rate", "EEG and MRI"],
+      "correct": 0
+    },
+    {
+      "question": "Oxidizing strength increases with more positive:",
+      "options": ["Reduction potential", "Ionization energy", "Atomic radius", "Bond energy"],
+      "correct": 0
+    },
+    {
+      "question": "In simple cell, electrode potential depends on:",
+      "options": ["Concentration of ions", "Amount of metal", "Temperature only", "Volume only"],
+      "correct": 0
+    },
+    {
+      "question": "Primary batteries:",
+      "options": ["Are non-rechargeable", "Are rechargeable", "Use steam power", "Are solar cells"],
+      "correct": 0
+    },
+    {
+      "question": "Which is used in dry cells?",
+      "options": ["Zn–MnO₂", "Pb–acid", "Ni–Cd", "Li–ion"],
+      "correct": 0
+    },
+    {
+      "question": "Corrosion is:",
+      "options": ["A redox process", "An acid–base reaction", "A precipitation", "Neutralization"],
+      "correct": 0
+    },
+    {
+      "question": "Rusting of iron involves:",
+      "options": ["Fe oxidation to Fe²⁺", "Fe²⁺ reduces", "H₂ generation", "Cl₂ reduction"],
+      "correct": 0
+    },
+    {
+      "question": "Electrochemical series arranges metals according to:",
+      "options": ["Standard reduction potentials", "Atomic mass", "Density", "Boiling point"],
+      "correct": 0
+    },
+    {
+      "question": "Cathodic protection prevents corrosion by:",
+      "options": ["Making metal cathode", "Making metal anode", "Changing pH only", "Heating metal"],
+      "correct": 0
+    },
+    {
+      "question": "Which metal protects iron sacrificially?",
+      "options": ["Zn", "Ag", "Au", "Cu"],
+      "correct": 0
+    },
+    {
+      "question": "Faraday’s laws relate:",
+      "options": ["Charge passed to mass deposited", "Voltage to resistance", "Temperature to pressure", "Current to time only"],
+      "correct": 0
+    },
+    {
+      "question": "In electrolytic refining, impure metal:",
+      "options": ["Anode", "Cathode", "Electrolyte", "Inert electrode"],
+      "correct": 0
+    },
+    {
+      "question": "Which reduces H₂O₂?",
+      "options": ["KI", "KMnO₄", "K₂Cr₂O₇", "H₂SO₄"],
+      "correct": 0
+    },
+    {
+      "question": "In chemical cell, oxidation occurs at:",
+      "options": ["Anode", "Cathode", "Salt bridge", "Voltmeter"],
+      "correct": 0
+    },
+    {
+      "question": "Standard hydrogen electrode potential is:",
+      "options": ["0.00 V", "0.34 V", "1.36 V", "-0.76 V"],
+      "correct": 0
+    },
+    {
+      "question": "Which metal is least likely to corrode?",
+      "options": ["Au", "Fe", "Mg", "Zn"],
+      "correct": 0
+    },
+    {
+      "question": "In self‑discharge of batteries, redox occurs:",
+      "options": ["Unintentionally", "Intentionally", "Only on recharge", "Only when fully charged"],
+      "correct": 0
+    },
+    {
+      "question": "In Daniell cell, Zn is:",
+      "options": ["Anode", "Cathode", "Salt bridge", "Electrolyte"],
+      "correct": 0
+    },
+    {
+      "question": "Which process occurs at inert electrode?",
+      "options": ["Electron transfer", "Solution reaction", "No redox", "Boiling"],
+      "correct": 0
+    },
+    {
+      "question": "Electrolysis of molten NaCl produces:",
+      "options": ["Na and Cl₂", "NaOH", "H₂ and Cl₂", "NaClO₃"],
+      "correct": 0
+    },
+    {
+      "question": "Molten alumina electrolysis gives:",
+      "options": ["Al and O₂", "Al and CO₂", "Al₂O₃", "AlCl₃"],
+      "correct": 0
+    },
+    {
+      "question": "In redox reaction, total electrons lost =",
+      "options": ["Total electrons gained", "Half electrons gained", "Zero", "Double ions"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a redox indicator?",
+      "options": ["Potassium dichromate", "Phenolphthalein", "Methyl orange", "Litmus"],
+      "correct": 0
+    }
+  ]
+}

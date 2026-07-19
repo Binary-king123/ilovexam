@@ -1,0 +1,259 @@
+{
+  "test": [
+    {
+      "question": "Drugs that are used to bring down body temperature during fever are called:",
+      "options": ["Analgesics", "Antipyretics", "Antibiotics", "Antacids"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an antacid?",
+      "options": ["Paracetamol", "Ranitidine", "Aspirin", "Sulphadiazine"],
+      "correct": 1
+    },
+    {
+      "question": "The class of drugs used to relieve pain is:",
+      "options": ["Antiseptics", "Antibiotics", "Analgesics", "Antacids"],
+      "correct": 2
+    },
+    {
+      "question": "Penicillin was discovered by:",
+      "options": ["Alexander Fleming", "Louis Pasteur", "Marie Curie", "Edward Jenner"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a disinfectant?",
+      "options": ["Chlorine water (1%)", "Phenol (0.2%)", "Iodine (2%)", "Tincture of iodine"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following acts as a food preservative?",
+      "options": ["Paracetamol", "BHA", "Isoniazid", "Cetrimide"],
+      "correct": 1
+    },
+    {
+      "question": "Which is an example of a non-narcotic analgesic?",
+      "options": ["Morphine", "Codeine", "Paracetamol", "Heroin"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is used as an artificial sweetener?",
+      "options": ["Sodium benzoate", "Saccharin", "Aspartame", "Both 2 and 3"],
+      "correct": 3
+    },
+    {
+      "question": "Which compound is used in the treatment of tuberculosis?",
+      "options": ["Penicillin", "Isoniazid", "Paracetamol", "Ampicillin"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a broad-spectrum antibiotic?",
+      "options": ["Penicillin G", "Chloramphenicol", "Streptomycin", "Cephalexin"],
+      "correct": 1
+    },
+    {
+      "question": "A substance that kills or stops the growth of microorganisms is called:",
+      "options": ["Antiseptic", "Disinfectant", "Antibiotic", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which drug is used to reduce anxiety and stress?",
+      "options": ["Barbiturates", "Antacids", "Antibiotics", "Analgesics"],
+      "correct": 0
+    },
+    {
+      "question": "Which sweetening agent is unstable at cooking temperature?",
+      "options": ["Saccharin", "Aspartame", "Sucralose", "Alitame"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following acts as a tranquillizer?",
+      "options": ["Norepinephrine", "Chlordiazepoxide", "Penicillin", "Streptomycin"],
+      "correct": 1
+    },
+    {
+      "question": "Antiseptics are used on:",
+      "options": ["Living tissues", "Non-living surfaces", "Both", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is used as a preservative in pickles?",
+      "options": ["Acetic acid", "Citric acid", "Benzoic acid", "Formic acid"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a non-biodegradable sweetener?",
+      "options": ["Saccharin", "Aspartame", "Sucralose", "Alitame"],
+      "correct": 0
+    },
+    {
+      "question": "Sodium benzoate is used as:",
+      "options": ["Antibiotic", "Preservative", "Analgesic", "Tranquilizer"],
+      "correct": 1
+    },
+    {
+      "question": "The term chemotherapy was coined by:",
+      "options": ["Ehrlich", "Pasteur", "Fleming", "Lavoisier"],
+      "correct": 0
+    },
+    {
+      "question": "Antacids function by:",
+      "options": ["Inhibiting pepsin", "Neutralizing excess acid", "Killing H. pylori", "Increasing acid production"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a bactericidal antibiotic?",
+      "options": ["Tetracycline", "Chloramphenicol", "Ofloxacin", "Erythromycin"],
+      "correct": 2
+    },
+    {
+      "question": "Which drug is used to treat depression?",
+      "options": ["Antipyretic", "Analgesic", "Antidepressant", "Antibiotic"],
+      "correct": 2
+    },
+    {
+      "question": "The active ingredient in Dettol is:",
+      "options": ["Phenol", "Chloroxylenol", "Iodine", "Alcohol"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a narcotic drug?",
+      "options": ["Morphine", "Aspirin", "Paracetamol", "Ampicillin"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following acts as a corrosion inhibitor?",
+      "options": ["Saccharin", "Sodium benzoate", "BHT", "Tolytriazole"],
+      "correct": 3
+    },
+    {
+      "question": "Which sweetener is 600 times sweeter than cane sugar?",
+      "options": ["Aspartame", "Saccharin", "Sucralose", "Alitame"],
+      "correct": 2
+    },
+    {
+      "question": "Zantac is a drug used for:",
+      "options": ["Depression", "Anxiety", "Acidity", "Infection"],
+      "correct": 2
+    },
+    {
+      "question": "Tranquillizers affect:",
+      "options": ["Digestive system", "Circulatory system", "Central nervous system", "Excretory system"],
+      "correct": 2
+    },
+    {
+      "question": "The antibiotic which inhibits bacterial protein synthesis is:",
+      "options": ["Penicillin", "Streptomycin", "Tetracycline", "Erythromycin"],
+      "correct": 2
+    },
+    {
+      "question": "The drug that inhibits enzyme HIV protease is:",
+      "options": ["AZT", "Nevirapine", "Saquinavir", "Zidovudine"],
+      "correct": 2
+    },
+    {
+      "question": "Which compound is used to prevent rancidity in food?",
+      "options": ["Citric acid", "BHA", "Tocopherol", "Benzoic acid"],
+      "correct": 1
+    },
+    {
+      "question": "Sodium bicarbonate acts as an antacid by:",
+      "options": ["Blocking receptors", "Neutralizing acid", "Increasing acid secretion", "Killing bacteria"],
+      "correct": 1
+    },
+    {
+      "question": "Antiseptics and disinfectants differ in:",
+      "options": ["Strength and usage", "Chemical structure", "Color", "Origin"],
+      "correct": 0
+    },
+    {
+      "question": "The artificial sweetener which is a dipeptide is:",
+      "options": ["Saccharin", "Aspartame", "Sucralose", "Alitame"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound is used in cold creams?",
+      "options": ["Boric acid", "Zinc oxide", "Benzoic acid", "Lanolin"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is NOT an antiseptic?",
+      "options": ["Iodine", "Alcohol", "Phenol", "Penicillin"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following antibiotics inhibits cell wall synthesis?",
+      "options": ["Penicillin", "Tetracycline", "Erythromycin", "Chloramphenicol"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is used to enhance shelf life of food?",
+      "options": ["Preservative", "Sweetener", "Emulsifier", "Colorant"],
+      "correct": 0
+    },
+    {
+      "question": "The first antibiotic discovered was:",
+      "options": ["Penicillin", "Tetracycline", "Chloramphenicol", "Streptomycin"],
+      "correct": 0
+    },
+    {
+      "question": "Disinfectants are used on:",
+      "options": ["Living tissues", "Instruments", "Wounds", "Skin"],
+      "correct": 1
+    },
+    {
+      "question": "Which one is used as local anesthetic?",
+      "options": ["Procaine", "Ampicillin", "Saccharin", "Paracetamol"],
+      "correct": 0
+    },
+    {
+      "question": "Sucralose is derived from:",
+      "options": ["Sucrose", "Glucose", "Fructose", "Maltose"],
+      "correct": 0
+    },
+    {
+      "question": "Which one is used to treat leprosy?",
+      "options": ["Chloramphenicol", "Rifampicin", "Penicillin", "Isoniazid"],
+      "correct": 1
+    },
+    {
+      "question": "Alitame is how many times sweeter than cane sugar?",
+      "options": ["200", "600", "2000", "100"],
+      "correct": 2
+    },
+    {
+      "question": "Tincture of iodine is iodine dissolved in:",
+      "options": ["Ether", "Water", "Alcohol", "Chloroform"],
+      "correct": 2
+    },
+    {
+      "question": "The antibiotic effective against both Gram-positive and Gram-negative bacteria is:",
+      "options": ["Streptomycin", "Chloramphenicol", "Penicillin G", "Ampicillin"],
+      "correct": 1
+    },
+    {
+      "question": "Bithional is added to soaps to act as:",
+      "options": ["Preservative", "Fragrance", "Antiseptic", "Detergent"],
+      "correct": 2
+    },
+    {
+      "question": "Antibiotics that inhibit growth without killing are:",
+      "options": ["Bactericidal", "Bacteriostatic", "Antiseptics", "Disinfectants"],
+      "correct": 1
+    },
+    {
+      "question": "Iodine solution acts as:",
+      "options": ["Antiseptic", "Antacid", "Analgesic", "Tranquillizer"],
+      "correct": 0
+    },
+    {
+      "question": "Which compound is used to control pH in soft drinks?",
+      "options": ["Citric acid", "Benzoic acid", "Tartaric acid", "Acetic acid"],
+      "correct": 0
+    },
+    {
+      "question": "Drugs used to inhibit the growth of cancer cells are called:",
+      "options": ["Antipyretics", "Analgesics", "Antiseptics", "Anticancer drugs"],
+      "correct": 3
+    }
+  ]
+}

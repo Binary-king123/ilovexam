@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The principal value of sin⁻¹(1/2) is:",
+      "options": ["π/6", "5π/6", "π/3", "π/2"],
+      "correct": 0
+    },
+    {
+      "question": "The domain of cos⁻¹(x) is:",
+      "options": ["(−∞, ∞)", "[−1, 1]", "[0, π]", "[−π, π]"],
+      "correct": 1
+    },
+    {
+      "question": "tan⁻¹(1) + tan⁻¹(2) + tan⁻¹(3) equals:",
+      "options": ["π", "π/2", "0", "π/4"],
+      "correct": 0
+    },
+    {
+      "question": "The range of sin⁻¹(x) is:",
+      "options": ["[0, π]", "[−π/2, π/2]", "[−1, 1]", "[−π, π]"],
+      "correct": 1
+    },
+    {
+      "question": "cos⁻¹(−1/2) = ?",
+      "options": ["2π/3", "π/6", "5π/6", "π/3"],
+      "correct": 0
+    },
+    {
+      "question": "sin⁻¹(−x) = ?",
+      "options": ["−sin⁻¹(x)", "sin⁻¹(x)", "π − sin⁻¹(x)", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "The principal value of tan⁻¹(√3) is:",
+      "options": ["π/6", "π/4", "π/3", "0"],
+      "correct": 2
+    },
+    {
+      "question": "cos⁻¹(x) + sin⁻¹(x) equals:",
+      "options": ["π", "π/2", "0", "Undefined"],
+      "correct": 1
+    },
+    {
+      "question": "The value of sin⁻¹(−1) is:",
+      "options": ["−π/2", "π/2", "π", "0"],
+      "correct": 0
+    },
+    {
+      "question": "If tan⁻¹(x) + tan⁻¹(y) = π/4, then:",
+      "options": ["x + y = 1", "x + y = xy", "(x + y)/(1 − xy) = 1", "(x + y)/(1 − xy) = tan(π/4)"],
+      "correct": 3
+    },
+    {
+      "question": "cot⁻¹(1) is:",
+      "options": ["π/4", "π/2", "0", "π"],
+      "correct": 0
+    },
+    {
+      "question": "The value of cos⁻¹(1) is:",
+      "options": ["0", "π", "π/2", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "sec⁻¹(2) is equal to:",
+      "options": ["π/3", "π/6", "π/4", "cos⁻¹(1/2)"],
+      "correct": 3
+    },
+    {
+      "question": "cosec⁻¹(−1) = ?",
+      "options": ["−π/2", "π/2", "−π/4", "−π"],
+      "correct": 0
+    },
+    {
+      "question": "tan⁻¹(−x) equals:",
+      "options": ["−tan⁻¹(x)", "tan⁻¹(x)", "π − tan⁻¹(x)", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "cos⁻¹(0) equals:",
+      "options": ["π/2", "0", "π", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "If sin⁻¹(x) = θ, then sin(θ) = ?",
+      "options": ["x", "−x", "1", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "Range of tan⁻¹(x) is:",
+      "options": ["(−π/2, π/2)", "[−π/2, π/2]", "[0, π]", "(−∞, ∞)"],
+      "correct": 0
+    },
+    {
+      "question": "cos(cos⁻¹(1/2)) = ?",
+      "options": ["1", "1/2", "π/3", "Undefined"],
+      "correct": 1
+    },
+    {
+      "question": "sin(sin⁻¹(−1/2)) = ?",
+      "options": ["−1/2", "1/2", "0", "1"],
+      "correct": 0
+    },
+    {
+      "question": "If x = sin⁻¹(3/5), then sin(x) = ?",
+      "options": ["3/5", "4/5", "5/3", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "tan(tan⁻¹(−1)) = ?",
+      "options": ["−1", "1", "0", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "If sin⁻¹x = cos⁻¹y, then:",
+      "options": ["x + y = 1", "x = y", "x² + y² = 1", "x = −y"],
+      "correct": 2
+    },
+    {
+      "question": "cot⁻¹(−1) is equal to:",
+      "options": ["3π/4", "π/4", "−π/4", "−3π/4"],
+      "correct": 0
+    },
+    {
+      "question": "If tan⁻¹a + tan⁻¹b = π/4, then (a + b)/(1 − ab) = ?",
+      "options": ["0", "1", "2", "π/4"],
+      "correct": 1
+    },
+    {
+      "question": "If sin⁻¹(x) = π/6, then x = ?",
+      "options": ["1/2", "√3/2", "1", "−1/2"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is undefined?",
+      "options": ["tan⁻¹(∞)", "sec⁻¹(0.5)", "sin⁻¹(0)", "cos⁻¹(1)"],
+      "correct": 1
+    },
+    {
+      "question": "cos⁻¹(cos(π/4)) = ?",
+      "options": ["π/4", "−π/4", "3π/4", "π"],
+      "correct": 0
+    },
+    {
+      "question": "sin⁻¹(1) + sin⁻¹(1/2) = ?",
+      "options": ["π/2", "5π/6", "2π/3", "None"],
+      "correct": 1
+    },
+    {
+      "question": "If tan⁻¹(x) = π/6, then x = ?",
+      "options": ["1/√3", "√3", "1", "1/2"],
+      "correct": 0
+    },
+    {
+      "question": "cos⁻¹(−√3/2) = ?",
+      "options": ["5π/6", "π/6", "π/3", "2π/3"],
+      "correct": 3
+    },
+    {
+      "question": "cosec⁻¹(2) = ?",
+      "options": ["π/6", "π/3", "sin⁻¹(1/2)", "Undefined"],
+      "correct": 2
+    },
+    {
+      "question": "If cos⁻¹(x) = θ, then cos(θ) = ?",
+      "options": ["1", "x", "−x", "0"],
+      "correct": 1
+    },
+    {
+      "question": "sec⁻¹(1) = ?",
+      "options": ["0", "π", "π/2", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "The function y = sin⁻¹x is:",
+      "options": ["Even", "Odd", "Periodic", "Constant"],
+      "correct": 1
+    },
+    {
+      "question": "Principal value of cosec⁻¹(−1) is:",
+      "options": ["−π/2", "π/2", "π", "−π"],
+      "correct": 0
+    },
+    {
+      "question": "tan(tan⁻¹(x)) = ?",
+      "options": ["x", "−x", "π", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "sin⁻¹(sin(2π/3)) = ?",
+      "options": ["2π/3", "π/3", "π/2", "π − 2π/3"],
+      "correct": 3
+    },
+    {
+      "question": "Which identity is true for all x in domain of sin⁻¹?",
+      "options": ["sin⁻¹(−x) = −sin⁻¹(x)", "sin⁻¹(−x) = sin⁻¹(x)", "sin⁻¹(−x) = π + sin⁻¹(x)", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Range of cot⁻¹(x) is:",
+      "options": ["(0, π)", "[0, π]", "[−π, π]", "(−∞, ∞)"],
+      "correct": 0
+    },
+    {
+      "question": "Inverse of sin(x) is defined for x ∈:",
+      "options": ["R", "[−1, 1]", "[0, π]", "[−π/2, π/2]"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an odd function?",
+      "options": ["cos⁻¹x", "sin⁻¹x", "tan⁻¹x", "sec⁻¹x"],
+      "correct": 2
+    },
+    {
+      "question": "The graph of y = sin⁻¹x is symmetric about:",
+      "options": ["x-axis", "y-axis", "origin", "y = x"],
+      "correct": 3
+    },
+    {
+      "question": "cot(cot⁻¹x) equals:",
+      "options": ["x", "−x", "1/x", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "Principal value branch of sec⁻¹(x) is:",
+      "options": ["[0, π]", "[0, π] excluding π/2", "[−π/2, π/2]", "None"],
+      "correct": 1
+    },
+    {
+      "question": "sin⁻¹(0.6) is approximately:",
+      "options": ["0.6435", "0.927", "0.5", "0.84"],
+      "correct": 0
+    },
+    {
+      "question": "cos⁻¹(0.5) in degrees is:",
+      "options": ["60°", "30°", "45°", "90°"],
+      "correct": 0
+    },
+    {
+      "question": "If sin⁻¹(x) = y, then x belongs to:",
+      "options": ["[−1, 1]", "[0, 1]", "[−π, π]", "[−π/2, π/2]"],
+      "correct": 0
+    }
+  ]
+}

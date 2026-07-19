@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The structural and functional unit of the nervous system is:",
+      "options": ["Axon", "Neuron", "Dendrite", "Synapse"],
+      "correct": 1
+    },
+    {
+      "question": "Which part of the brain controls balance and posture?",
+      "options": ["Cerebrum", "Medulla", "Cerebellum", "Pons"],
+      "correct": 2
+    },
+    {
+      "question": "Node of Ranvier is found in:",
+      "options": ["Non-myelinated neurons", "Myelinated neurons", "Motor neurons only", "Sensory neurons only"],
+      "correct": 1
+    },
+    {
+      "question": "Synapse is the junction between:",
+      "options": ["Two neurons", "Neuron and muscle", "Neuron and gland", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which ion enters the axon during depolarization?",
+      "options": ["K⁺", "Na⁺", "Cl⁻", "Ca²⁺"],
+      "correct": 1
+    },
+    {
+      "question": "The outermost meninge is:",
+      "options": ["Pia mater", "Arachnoid", "Dura mater", "Choroid"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of the brain regulates heartbeat and respiration?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Thalamus"],
+      "correct": 2
+    },
+    {
+      "question": "The gap between two neurons is called:",
+      "options": ["Axon hillock", "Synapse", "Dendrite", "Neurolemma"],
+      "correct": 1
+    },
+    {
+      "question": "Cerebrospinal fluid is secreted by:",
+      "options": ["Meninges", "Corpus callosum", "Choroid plexus", "Pineal gland"],
+      "correct": 2
+    },
+    {
+      "question": "Which part connects the two cerebral hemispheres?",
+      "options": ["Corpus callosum", "Medulla", "Pons", "Cerebellum"],
+      "correct": 0
+    },
+    {
+      "question": "A reflex action is controlled by:",
+      "options": ["Brain", "Spinal cord", "Cerebellum", "Medulla"],
+      "correct": 1
+    },
+    {
+      "question": "Which division of the autonomic nervous system is responsible for 'fight or flight'?",
+      "options": ["Central", "Parasympathetic", "Sympathetic", "Somatic"],
+      "correct": 2
+    },
+    {
+      "question": "Which lobe of the brain is associated with vision?",
+      "options": ["Frontal", "Temporal", "Parietal", "Occipital"],
+      "correct": 3
+    },
+    {
+      "question": "Which part of the neuron receives impulses?",
+      "options": ["Axon", "Dendrites", "Node of Ranvier", "Myelin sheath"],
+      "correct": 1
+    },
+    {
+      "question": "Myelin sheath is rich in:",
+      "options": ["Proteins", "Lipids", "Carbohydrates", "Vitamins"],
+      "correct": 1
+    },
+    {
+      "question": "Neurotransmitter at neuromuscular junction is:",
+      "options": ["Dopamine", "Adrenaline", "Acetylcholine", "GABA"],
+      "correct": 2
+    },
+    {
+      "question": "The function of optic nerve is:",
+      "options": ["Hearing", "Smell", "Taste", "Vision"],
+      "correct": 3
+    },
+    {
+      "question": "Which brain part acts as relay center for sensory impulses?",
+      "options": ["Thalamus", "Hypothalamus", "Cerebellum", "Pons"],
+      "correct": 0
+    },
+    {
+      "question": "The gray matter of spinal cord is:",
+      "options": ["Outer", "Inner", "Middle", "Absent"],
+      "correct": 1
+    },
+    {
+      "question": "Which ion is involved in release of neurotransmitters?",
+      "options": ["Na⁺", "K⁺", "Cl⁻", "Ca²⁺"],
+      "correct": 3
+    },
+    {
+      "question": "Which cranial nerve is the longest?",
+      "options": ["Optic", "Olfactory", "Vagus", "Trigeminal"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of the neuron transmits impulses away from the cell body?",
+      "options": ["Dendrite", "Axon", "Nissl body", "Neuroglia"],
+      "correct": 1
+    },
+    {
+      "question": "Neurons that carry impulses from receptors to CNS are:",
+      "options": ["Efferent", "Interneurons", "Afferent", "Motor neurons"],
+      "correct": 2
+    },
+    {
+      "question": "Which layer of meninges is in direct contact with brain?",
+      "options": ["Arachnoid", "Dura mater", "Pia mater", "Choroid"],
+      "correct": 2
+    },
+    {
+      "question": "The brain is protected by:",
+      "options": ["Skull", "Vertebrae", "Ribs", "Sternum"],
+      "correct": 0
+    },
+    {
+      "question": "Which region of brain regulates body temperature?",
+      "options": ["Cerebrum", "Hypothalamus", "Thalamus", "Cerebellum"],
+      "correct": 1
+    },
+    {
+      "question": "Reflex arc consists of:",
+      "options": ["Receptor and effector", "Receptor, sensory neuron, CNS, motor neuron, effector", "CNS and effector only", "Brain and spinal cord"],
+      "correct": 1
+    },
+    {
+      "question": "Resting membrane potential is about:",
+      "options": ["+70 mV", "−70 mV", "+90 mV", "−90 mV"],
+      "correct": 1
+    },
+    {
+      "question": "Action potential is generated when:",
+      "options": ["Na⁺ rushes in", "K⁺ rushes out", "Ca²⁺ enters", "Na⁺ exits"],
+      "correct": 0
+    },
+    {
+      "question": "Nissl granules are found in:",
+      "options": ["Axon", "Dendrites", "Cell body", "Myelin sheath"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of brain controls hunger and thirst?",
+      "options": ["Cerebellum", "Thalamus", "Hypothalamus", "Medulla"],
+      "correct": 2
+    },
+    {
+      "question": "The retina contains:",
+      "options": ["Rods and cones", "Lens and iris", "Cornea and sclera", "Ciliary body"],
+      "correct": 0
+    },
+    {
+      "question": "Blind spot in eye has:",
+      "options": ["Rods only", "Cones only", "Both rods and cones", "No photoreceptors"],
+      "correct": 3
+    },
+    {
+      "question": "Which part of ear maintains body equilibrium?",
+      "options": ["Pinna", "Cochlea", "Semicircular canals", "Tympanum"],
+      "correct": 2
+    },
+    {
+      "question": "The light-sensitive pigment in rod cells is:",
+      "options": ["Iodopsin", "Opsin", "Rhodopsin", "Melanin"],
+      "correct": 2
+    },
+    {
+      "question": "Neuroglial cells are:",
+      "options": ["Conductive", "Supportive", "Secretory", "Sensory"],
+      "correct": 1
+    },
+    {
+      "question": "Impulse conduction is faster in:",
+      "options": ["Unmyelinated axon", "Myelinated axon", "Dendrite", "Synapse"],
+      "correct": 1
+    },
+    {
+      "question": "The part of brain concerned with intelligence and memory is:",
+      "options": ["Medulla", "Cerebellum", "Cerebrum", "Pons"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of brain is involved in emotion and motivation?",
+      "options": ["Frontal lobe", "Limbic system", "Occipital lobe", "Cerebellum"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a neurotransmitter?",
+      "options": ["Insulin", "Acetylcholine", "Hemoglobin", "Keratin"],
+      "correct": 1
+    },
+    {
+      "question": "Impulse jumps from one node to another in:",
+      "options": ["Unmyelinated neuron", "Gray matter", "White matter", "Saltatory conduction"],
+      "correct": 3
+    },
+    {
+      "question": "Photoreceptors are present in:",
+      "options": ["Cornea", "Lens", "Retina", "Iris"],
+      "correct": 2
+    },
+    {
+      "question": "The auditory ossicles are:",
+      "options": ["Malleus, incus, stapes", "Cochlea, sacculus, utriculus", "Tympanum, anvil, hammer", "Pinna, cochlea, stapes"],
+      "correct": 0
+    },
+    {
+      "question": "The cranial nerve related to smell is:",
+      "options": ["Optic", "Olfactory", "Facial", "Vagus"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a mixed cranial nerve?",
+      "options": ["Olfactory", "Optic", "Facial", "Accessory"],
+      "correct": 2
+    },
+    {
+      "question": "Which division controls involuntary actions?",
+      "options": ["Somatic", "CNS", "PNS", "ANS"],
+      "correct": 3
+    },
+    {
+      "question": "The fovea is responsible for:",
+      "options": ["Peripheral vision", "Night vision", "Sharp central vision", "Blind spot"],
+      "correct": 2
+    },
+    {
+      "question": "Cones are sensitive to:",
+      "options": ["Dim light", "Color", "Temperature", "Infrared"],
+      "correct": 1
+    }
+  ]
+}

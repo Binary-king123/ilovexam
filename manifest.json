@@ -1,0 +1,22 @@
+﻿{
+  "name": "jee 2027 Mock Test",
+  "short_name": "NEET Mock",
+  "start_url": "jee_ui.html",
+  "display": "standalone",
+  "background_color": "#003366",
+  "theme_color": "#003366",
+  "orientation": "portrait",
+  "description": "NEET & JEE mock test platform with offline support and anti-cheating features.",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

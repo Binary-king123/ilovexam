@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Centre of mass of a system lies at the point where:",
+      "options": [
+        "Maximum mass is concentrated",
+        "The system can be balanced",
+        "No force acts",
+        "Gravitational force is zero"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The SI unit of torque is:",
+      "options": ["Nm", "N/m", "Nm²", "N/s"],
+      "correct": 0
+    },
+    {
+      "question": "Moment of inertia is a measure of:",
+      "options": ["Torque", "Angular displacement", "Rotational inertia", "Linear momentum"],
+      "correct": 2
+    },
+    {
+      "question": "Moment of inertia of a solid sphere about its diameter is:",
+      "options": ["(2/5)MR²", "(1/2)MR²", "(3/5)MR²", "(2/3)MR²"],
+      "correct": 0
+    },
+    {
+      "question": "Rotational analog of mass is:",
+      "options": ["Angular velocity", "Torque", "Moment of inertia", "Angular momentum"],
+      "correct": 2
+    },
+    {
+      "question": "Angular momentum is conserved when:",
+      "options": ["Torque is zero", "Force is zero", "Mass is constant", "Energy is zero"],
+      "correct": 0
+    },
+    {
+      "question": "Torque is the rotational analog of:",
+      "options": ["Velocity", "Acceleration", "Force", "Momentum"],
+      "correct": 2
+    },
+    {
+      "question": "Unit of angular momentum is:",
+      "options": ["kg m/s", "kg m²/s", "Nm", "kg m/s²"],
+      "correct": 1
+    },
+    {
+      "question": "If net external torque on a system is zero, then:",
+      "options": ["Linear momentum is constant", "Angular velocity is constant", "Angular momentum is conserved", "Kinetic energy is zero"],
+      "correct": 2
+    },
+    {
+      "question": "Centre of mass of two particles lies closer to:",
+      "options": ["Lighter mass", "Heavier mass", "Mid-point", "It does not exist"],
+      "correct": 1
+    },
+    {
+      "question": "Moment of inertia depends on:",
+      "options": ["Mass", "Distribution of mass", "Axis of rotation", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The rotational kinetic energy of a body is given by:",
+      "options": ["½Iω", "Iω²", "½Iω²", "I/ω"],
+      "correct": 2
+    },
+    {
+      "question": "Angular velocity is defined as:",
+      "options": ["θ/t", "dθ/dt", "ω/t", "t/θ"],
+      "correct": 1
+    },
+    {
+      "question": "Moment of inertia of a ring about its diameter is:",
+      "options": ["MR²", "½MR²", "⅓MR²", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "Dimension of torque is same as:",
+      "options": ["Energy", "Power", "Momentum", "Angular velocity"],
+      "correct": 0
+    },
+    {
+      "question": "Angular momentum of a rotating body is:",
+      "options": ["Iω", "Iα", "mvr", "½Iω²"],
+      "correct": 0
+    },
+    {
+      "question": "Which quantity is conserved in absence of external torque?",
+      "options": ["Force", "Torque", "Angular momentum", "Moment of inertia"],
+      "correct": 2
+    },
+    {
+      "question": "A rolling object possesses:",
+      "options": ["Only rotational kinetic energy", "Only translational kinetic energy", "Both rotational and translational KE", "No kinetic energy"],
+      "correct": 2
+    },
+    {
+      "question": "Rotational motion is produced by:",
+      "options": ["Force", "Torque", "Angular velocity", "Impulse"],
+      "correct": 1
+    },
+    {
+      "question": "The point at which whole mass of body can be assumed to be concentrated is:",
+      "options": ["Centroid", "Centre of gravity", "Centre of mass", "Geometrical centre"],
+      "correct": 2
+    },
+    {
+      "question": "When a disc rolls without slipping, then:",
+      "options": ["v = Rω", "v < Rω", "v > Rω", "v = 2Rω"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following has the maximum moment of inertia?",
+      "options": ["Solid sphere", "Ring", "Disc", "Hollow sphere"],
+      "correct": 1
+    },
+    {
+      "question": "The unit of moment of inertia in SI system is:",
+      "options": ["kg m²", "kg m/s²", "Nm", "kg m/s"],
+      "correct": 0
+    },
+    {
+      "question": "A flywheel stores energy in the form of:",
+      "options": ["Potential energy", "Thermal energy", "Rotational kinetic energy", "Chemical energy"],
+      "correct": 2
+    },
+    {
+      "question": "In pure rolling, the point of contact with ground has:",
+      "options": ["Maximum velocity", "Zero velocity", "Angular velocity", "Acceleration"],
+      "correct": 1
+    },
+    {
+      "question": "Torque is defined as:",
+      "options": ["r × F", "F × r", "F/r", "Fr"],
+      "correct": 0
+    },
+    {
+      "question": "Angular acceleration is defined as:",
+      "options": ["dω/dt", "dθ/dt", "ω/t", "θ/t²"],
+      "correct": 0
+    },
+    {
+      "question": "Moment of inertia of a thin rod about perpendicular axis through center is:",
+      "options": ["(1/3)ML²", "(1/12)ML²", "(1/2)ML²", "ML²"],
+      "correct": 1
+    },
+    {
+      "question": "Which statement is true for a rigid body?",
+      "options": ["Distance between any two particles remains constant", "It deforms on applying force", "Only linear motion", "Only rotational motion"],
+      "correct": 0
+    },
+    {
+      "question": "The rotational analog of Newton's second law is:",
+      "options": ["τ = Iα", "τ = Iω", "τ = Iθ", "F = ma"],
+      "correct": 0
+    },
+    {
+      "question": "Precession is related to:",
+      "options": ["Linear momentum", "Angular velocity", "Torque", "Angular momentum"],
+      "correct": 3
+    },
+    {
+      "question": "If radius of gyration is K and mass is M, then moment of inertia is:",
+      "options": ["MK²", "K²/M", "M/K²", "½MK²"],
+      "correct": 0
+    },
+    {
+      "question": "A wheel rotating with constant angular velocity has:",
+      "options": ["Zero angular acceleration", "Zero torque", "Increasing KE", "Both 1 and 2"],
+      "correct": 3
+    },
+    {
+      "question": "In rotational motion, angular displacement is analogous to:",
+      "options": ["Velocity", "Distance", "Displacement", "Acceleration"],
+      "correct": 2
+    },
+    {
+      "question": "Moment of inertia of disc about an axis passing through center and perpendicular to plane is:",
+      "options": ["½MR²", "MR²", "⅓MR²", "2MR²"],
+      "correct": 0
+    },
+    {
+      "question": "If torque is constant, angular momentum:",
+      "options": ["Increases linearly", "Decreases linearly", "Constant", "Zero"],
+      "correct": 0
+    },
+    {
+      "question": "Angular velocity vector is always along:",
+      "options": ["Tangential direction", "Normal to plane of rotation", "Along radius", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Moment of inertia of a body does not depend on:",
+      "options": ["Axis of rotation", "Shape", "Mass", "Linear speed"],
+      "correct": 3
+    },
+    {
+      "question": "If no external force acts, the center of mass of a system:",
+      "options": ["Remains at rest", "Accelerates", "Moves with constant velocity", "Oscillates"],
+      "correct": 2
+    },
+    {
+      "question": "In rotational motion, linear velocity v is related to angular velocity ω by:",
+      "options": ["v = ωr", "v = r/ω", "v = ω/r", "v = ω²r"],
+      "correct": 0
+    },
+    {
+      "question": "Which parameter is not required to find torque?",
+      "options": ["Force", "Radius vector", "Angle between force and radius", "Mass"],
+      "correct": 3
+    },
+    {
+      "question": "Angular acceleration is produced by:",
+      "options": ["Force", "Torque", "Displacement", "Momentum"],
+      "correct": 1
+    },
+    {
+      "question": "A ring, disc, and sphere roll down an incline. Which reaches first?",
+      "options": ["Ring", "Disc", "Sphere", "All simultaneously"],
+      "correct": 2
+    },
+    {
+      "question": "Kinetic energy of a rolling object is:",
+      "options": ["Only rotational", "Only translational", "Sum of both", "Zero"],
+      "correct": 2
+    },
+    {
+      "question": "The direction of torque vector is given by:",
+      "options": ["Right-hand rule", "Left-hand rule", "Cross product", "Dot product"],
+      "correct": 0
+    },
+    {
+      "question": "Radius of gyration has the unit of:",
+      "options": ["m", "kg", "kg·m²", "s"],
+      "correct": 0
+    },
+    {
+      "question": "A flywheel is an example of:",
+      "options": ["Translational system", "Rotational system", "Linear system", "Oscillatory system"],
+      "correct": 1
+    },
+    {
+      "question": "Parallel axis theorem is used to calculate:",
+      "options": ["Kinetic energy", "Torque", "Moment of inertia", "Angular velocity"],
+      "correct": 2
+    },
+    {
+      "question": "If angular momentum is L and moment of inertia is I, then angular velocity is:",
+      "options": ["L/I", "I/L", "LI", "L²/I"],
+      "correct": 0
+    }
+  ]
+}

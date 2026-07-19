@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which plant hormone is known as the 'stress hormone'?",
+      "options": ["Auxin", "Cytokinin", "Abscisic acid", "Gibberellin"],
+      "correct": 2
+    },
+    {
+      "question": "The growth of a plant throughout its life is called:",
+      "options": ["Differentiation", "Development", "Plasticity", "Indeterminate growth"],
+      "correct": 3
+    },
+    {
+      "question": "Apical dominance is caused by which hormone?",
+      "options": ["Ethylene", "Cytokinin", "Auxin", "Gibberellin"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone promotes seed germination?",
+      "options": ["ABA", "IAA", "GA", "Ethylene"],
+      "correct": 2
+    },
+    {
+      "question": "Photoperiodism is the response of plants to:",
+      "options": ["Light intensity", "Light quality", "Length of day/night", "Temperature"],
+      "correct": 2
+    },
+    {
+      "question": "The universal plant growth curve is:",
+      "options": ["J-shaped", "Bell-shaped", "S-shaped", "Rectangular"],
+      "correct": 2
+    },
+    {
+      "question": "Gibberellins cause elongation of:",
+      "options": ["Roots", "Leaves", "Internodes", "Stem apex"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a synthetic auxin?",
+      "options": ["NAA", "GA₃", "Zeatin", "ABA"],
+      "correct": 0
+    },
+    {
+      "question": "Which hormone promotes fruit ripening?",
+      "options": ["Auxin", "Gibberellin", "Cytokinin", "Ethylene"],
+      "correct": 3
+    },
+    {
+      "question": "Cytokinins are primarily responsible for:",
+      "options": ["Cell elongation", "Cell division", "Stomatal closure", "Fruit ripening"],
+      "correct": 1
+    },
+    {
+      "question": "Bolting is promoted by:",
+      "options": ["ABA", "Cytokinin", "Gibberellin", "Ethylene"],
+      "correct": 2
+    },
+    {
+      "question": "Vernalization is related to:",
+      "options": ["Flowering", "Fruit ripening", "Dormancy", "Photoperiodism"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following hormones is gaseous?",
+      "options": ["Gibberellin", "Ethylene", "Cytokinin", "ABA"],
+      "correct": 1
+    },
+    {
+      "question": "The hormone promoting abscission is:",
+      "options": ["Auxin", "Cytokinin", "Gibberellin", "Abscisic acid"],
+      "correct": 3
+    },
+    {
+      "question": "Which hormone breaks seed dormancy?",
+      "options": ["ABA", "GA₃", "IAA", "Zeatin"],
+      "correct": 1
+    },
+    {
+      "question": "Dedifferentiation is:",
+      "options": ["Formation of mature cells", "Formation of new organs", "Regaining division ability", "Death of cells"],
+      "correct": 2
+    },
+    {
+      "question": "During which phase is the rate of growth maximum?",
+      "options": ["Lag phase", "Log phase", "Stationary phase", "Decline phase"],
+      "correct": 1
+    },
+    {
+      "question": "Which one is a long-day plant?",
+      "options": ["Sunflower", "Rice", "Wheat", "Soybean"],
+      "correct": 2
+    },
+    {
+      "question": "Auxin was first isolated from:",
+      "options": ["Root tips", "Coleoptile tips", "Apical bud", "Flower"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone helps in cell elongation and apical dominance?",
+      "options": ["GA", "Cytokinin", "Auxin", "Ethylene"],
+      "correct": 2
+    },
+    {
+      "question": "ABA is also known as:",
+      "options": ["Ripening hormone", "Stress hormone", "Dormancy hormone", "Both 2 and 3"],
+      "correct": 3
+    },
+    {
+      "question": "Which hormone induces parthenocarpy?",
+      "options": ["Auxin", "Cytokinin", "ABA", "Ethylene"],
+      "correct": 0
+    },
+    {
+      "question": "Zeatin is a type of:",
+      "options": ["Auxin", "Gibberellin", "Cytokinin", "Ethylene"],
+      "correct": 2
+    },
+    {
+      "question": "Ethylene action is antagonistic to:",
+      "options": ["Auxin", "Gibberellin", "ABA", "Cytokinin"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone promotes senescence?",
+      "options": ["Auxin", "Gibberellin", "ABA", "Cytokinin"],
+      "correct": 2
+    },
+    {
+      "question": "The term 'growth hormone' in plants refers to:",
+      "options": ["ABA", "Auxin", "Ethylene", "Zeatin"],
+      "correct": 1
+    },
+    {
+      "question": "Which is used to delay senescence in leafy vegetables?",
+      "options": ["Auxin", "Cytokinin", "Gibberellin", "Ethylene"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone is required for fruit ripening?",
+      "options": ["Auxin", "Ethylene", "Cytokinin", "Gibberellin"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone promotes seed dormancy?",
+      "options": ["ABA", "GA", "IAA", "Zeatin"],
+      "correct": 0
+    },
+    {
+      "question": "Short-day plants flower when:",
+      "options": ["Night is shorter than critical", "Day is shorter than critical", "Day is longer than night", "Light is continuous"],
+      "correct": 1
+    },
+    {
+      "question": "Removal of apical bud results in:",
+      "options": ["Inhibition of growth", "Lateral branch development", "Root death", "Increased ABA"],
+      "correct": 1
+    },
+    {
+      "question": "Hormone that stimulates lateral bud growth:",
+      "options": ["Cytokinin", "Auxin", "Ethylene", "ABA"],
+      "correct": 0
+    },
+    {
+      "question": "Florigen is believed to be:",
+      "options": ["Auxin", "Gibberellin", "Cytokinin", "A flowering hormone"],
+      "correct": 3
+    },
+    {
+      "question": "The first plant hormone discovered was:",
+      "options": ["Auxin", "Gibberellin", "Cytokinin", "Ethylene"],
+      "correct": 0
+    },
+    {
+      "question": "Which is used to promote fruit setting without fertilization?",
+      "options": ["Gibberellin", "Cytokinin", "ABA", "Ethylene"],
+      "correct": 0
+    },
+    {
+      "question": "Thermo-sensitive flowering is called:",
+      "options": ["Photoperiodism", "Vernalization", "Thermotropism", "Thermonasty"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone inhibits seed germination?",
+      "options": ["Gibberellin", "Auxin", "ABA", "Cytokinin"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone increases during water stress?",
+      "options": ["Auxin", "Gibberellin", "ABA", "Cytokinin"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is NOT a natural plant growth regulator?",
+      "options": ["IAA", "ABA", "NAA", "GA"],
+      "correct": 2
+    },
+    {
+      "question": "The ability of plant cells to regenerate is:",
+      "options": ["Differentiation", "Totipotency", "Redifferentiation", "Plasticity"],
+      "correct": 1
+    },
+    {
+      "question": "Which growth phase shows plateau?",
+      "options": ["Lag", "Log", "Stationary", "Decline"],
+      "correct": 2
+    },
+    {
+      "question": "Senescence is delayed by:",
+      "options": ["Cytokinin", "Ethylene", "ABA", "Gibberellin"],
+      "correct": 0
+    },
+    {
+      "question": "Ethylene is synthesized from:",
+      "options": ["Tryptophan", "Methionine", "Arginine", "Phenylalanine"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a growth inhibitor?",
+      "options": ["IAA", "GA", "ABA", "Zeatin"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone controls root initiation?",
+      "options": ["GA", "Cytokinin", "IAA", "Ethylene"],
+      "correct": 2
+    },
+    {
+      "question": "Photoperiodism was first discovered by:",
+      "options": ["Garner and Allard", "Darwin", "Went", "Bonner"],
+      "correct": 0
+    },
+    {
+      "question": "The most common naturally occurring auxin is:",
+      "options": ["NAA", "2,4-D", "IAA", "IBA"],
+      "correct": 2
+    },
+    {
+      "question": "Who isolated gibberellin?",
+      "options": ["Darwin", "Went", "Kurosawa", "Skoog"],
+      "correct": 2
+    },
+    {
+      "question": "Growth in length is due to activity of:",
+      "options": ["Lateral meristem", "Apical meristem", "Intercalary meristem", "Cork cambium"],
+      "correct": 1
+    },
+    {
+      "question": "Cell enlargement requires:",
+      "options": ["Cell division", "Water uptake", "Light", "Photoperiod"],
+      "correct": 1
+    }
+  ]
+}

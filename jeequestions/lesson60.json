@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The value of i⁴ is:",
+      "options": ["1", "-1", "i", "0"],
+      "correct": 0
+    },
+    {
+      "question": "The square of the imaginary unit i is:",
+      "options": ["-1", "0", "1", "i"],
+      "correct": 0
+    },
+    {
+      "question": "The conjugate of the complex number z = 3 + 4i is:",
+      "options": ["3 - 4i", "3 + 4i", "-3 + 4i", "-3 - 4i"],
+      "correct": 0
+    },
+    {
+      "question": "The modulus of z = 1 + i is:",
+      "options": ["√2", "1", "2", "i√2"],
+      "correct": 0
+    },
+    {
+      "question": "Let z = a + ib. Then Re(z) is:",
+      "options": ["a", "b", "ib", "a + b"],
+      "correct": 0
+    },
+    {
+      "question": "The value of (1 - i)² is:",
+      "options": ["-2i", "2i", "2", "-2"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is purely imaginary?",
+      "options": ["5i", "2 + 3i", "4", "-3 + i"],
+      "correct": 0
+    },
+    {
+      "question": "If z = 3 + 4i, then |z|² is:",
+      "options": ["25", "7", "5", "1"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following represents a complex number?",
+      "options": ["3 + 2i", "i", "−5", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Let z = a + ib, then arg(z) equals:",
+      "options": ["tan⁻¹(b/a)", "a/b", "ab", "a² + b²"],
+      "correct": 0
+    },
+    {
+      "question": "If z₁ = a + ib and z₂ = c + id, then z₁ + z₂ =",
+      "options": ["(a + c) + i(b + d)", "(a − c) + i(b − d)", "ac + bd", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Multiplicative inverse of 1 + i is:",
+      "options": ["(1 − i)/2", "(1 + i)/2", "−i", "1 − i"],
+      "correct": 0
+    },
+    {
+      "question": "The complex number −i lies on the:",
+      "options": ["Negative imaginary axis", "Positive imaginary axis", "Positive real axis", "Negative real axis"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following numbers is not a solution to x² + 1 = 0?",
+      "options": ["i", "−i", "1", "All are solutions"],
+      "correct": 2
+    },
+    {
+      "question": "If z = 2 + 3i and w = 1 − 2i, then zw = ?",
+      "options": ["8 − i", "7 + 4i", "8 + i", "7 − 4i"],
+      "correct": 2
+    },
+    {
+      "question": "The value of i⁵ is:",
+      "options": ["i", "−1", "−i", "1"],
+      "correct": 0
+    },
+    {
+      "question": "If |z| = 1, then z lies on:",
+      "options": ["Unit circle", "Real axis", "Imaginary axis", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The number of distinct solutions of x² + x + 1 = 0 in complex numbers is:",
+      "options": ["2", "0", "1", "∞"],
+      "correct": 0
+    },
+    {
+      "question": "If α and β are roots of ax² + bx + c = 0, then α + β equals:",
+      "options": ["−b/a", "b/a", "−c/a", "c/a"],
+      "correct": 0
+    },
+    {
+      "question": "Discriminant of a quadratic equation ax² + bx + c = 0 is:",
+      "options": ["b² − 4ac", "a² − 4bc", "c² − 4ab", "b² + 4ac"],
+      "correct": 0
+    },
+    {
+      "question": "Roots of the quadratic equation x² − 4x + 5 = 0 are:",
+      "options": ["2 ± i", "2 ± √5", "1 ± 2i", "Real and equal"],
+      "correct": 0
+    },
+    {
+      "question": "A quadratic equation has imaginary roots if:",
+      "options": ["D < 0", "D = 0", "D > 0", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The quadratic equation x² + 4x + 4 = 0 has:",
+      "options": ["Real and equal roots", "Real and unequal", "Imaginary roots", "Complex roots"],
+      "correct": 0
+    },
+    {
+      "question": "If one root is 3 + 2i, the other is:",
+      "options": ["3 − 2i", "−3 − 2i", "−3 + 2i", "2 + 3i"],
+      "correct": 0
+    },
+    {
+      "question": "The quadratic equation whose roots are reciprocal of 2 and 3 is:",
+      "options": ["3x² − 5x + 2 = 0", "x² − 5x + 6 = 0", "x² − 5x + 1 = 0", "2x² − 5x + 3 = 0"],
+      "correct": 0
+    },
+    {
+      "question": "If the product of roots is 1, the equation is:",
+      "options": ["x² − (sum)x + 1 = 0", "x² − 1 = 0", "x − 1 = 0", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Roots of ax² + bx + c = 0 are purely imaginary if:",
+      "options": ["b = 0 and ac < 0", "b² < 4ac", "c = 0", "a = 0"],
+      "correct": 0
+    },
+    {
+      "question": "If z = a + ib and conjugate(z) = a − ib, then z + conjugate(z) =",
+      "options": ["2a", "2b", "a", "0"],
+      "correct": 0
+    },
+    {
+      "question": "Let z = 3 + 4i. Then the principal argument of z is:",
+      "options": ["tan⁻¹(4/3)", "tan⁻¹(3/4)", "π/2", "0"],
+      "correct": 0
+    },
+    {
+      "question": "i³ equals:",
+      "options": ["−i", "1", "−1", "i"],
+      "correct": 0
+    },
+    {
+      "question": "The value of (1 + i)³ is:",
+      "options": ["−2 + 2i", "2 + 2i", "−2 − 2i", "2 − 2i"],
+      "correct": 0
+    },
+    {
+      "question": "A complex number whose real part is zero is called:",
+      "options": ["Purely imaginary", "Real", "Irrational", "Conjugate"],
+      "correct": 0
+    },
+    {
+      "question": "The number 0 + 0i is:",
+      "options": ["Real", "Imaginary", "Complex", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "If a quadratic equation has a repeated root, then D equals:",
+      "options": ["0", "1", "−1", "Not defined"],
+      "correct": 0
+    },
+    {
+      "question": "Let z = 2 − 3i. Then |z| is:",
+      "options": ["√13", "5", "1", "7"],
+      "correct": 0
+    },
+    {
+      "question": "If z = x + iy and |z| = 1, then z lies on:",
+      "options": ["Unit circle", "Real axis", "Imaginary axis", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a property of complex numbers?",
+      "options": ["Commutativity of addition", "Associativity of multiplication", "Ordering", "Distributive"],
+      "correct": 2
+    },
+    {
+      "question": "If z = 3 − 4i, then 1/z =",
+      "options": ["(3 + 4i)/25", "(4 + 3i)/25", "3 + 4i", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Roots of the equation x² + 6x + 10 = 0 are:",
+      "options": ["−3 ± i", "3 ± i", "−3 ± 2i", "3 ± 2i"],
+      "correct": 0
+    },
+    {
+      "question": "The set of all complex numbers is denoted by:",
+      "options": ["ℂ", "ℝ", "ℕ", "ℤ"],
+      "correct": 0
+    },
+    {
+      "question": "If x² + px + q = 0 has roots α, β, then αβ =",
+      "options": ["q", "−p", "p/q", "q/p"],
+      "correct": 0
+    },
+    {
+      "question": "The roots of x² + x + 1 = 0 are:",
+      "options": ["−1/2 ± (√3/2)i", "1 ± i", "−1 ± √2", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The conjugate of i is:",
+      "options": ["−i", "i", "1", "−1"],
+      "correct": 0
+    },
+    {
+      "question": "i⁶ equals:",
+      "options": ["−1", "1", "i", "−i"],
+      "correct": 1
+    },
+    {
+      "question": "The roots of the quadratic equation are real if:",
+      "options": ["D ≥ 0", "D < 0", "D = 0", "a = 0"],
+      "correct": 0
+    },
+    {
+      "question": "Quadratic equation always has:",
+      "options": ["Two roots", "One root", "No root", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If z = a + ib lies on the real axis, then:",
+      "options": ["b = 0", "a = 0", "a = b", "a = −b"],
+      "correct": 0
+    },
+    {
+      "question": "A quadratic equation has complex roots if:",
+      "options": ["Discriminant is negative", "Discriminant is positive", "a = 0", "b = 0"],
+      "correct": 0
+    }
+  ]
+}

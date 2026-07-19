@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Which protein is responsible for muscle contraction?",
+      "options": ["Keratin", "Myosin", "Elastin", "Collagen"],
+      "correct": 1
+    },
+    {
+      "question": "The functional unit of muscle is:",
+      "options": ["Sarcomere", "Myofibril", "Fascicle", "Muscle fiber"],
+      "correct": 0
+    },
+    {
+      "question": "Which mineral is essential for muscle contraction?",
+      "options": ["Sodium", "Potassium", "Calcium", "Magnesium"],
+      "correct": 2
+    },
+    {
+      "question": "Tetanus is a condition of:",
+      "options": ["Relaxed muscle", "Partial contraction", "Sustained contraction", "Muscle fatigue"],
+      "correct": 2
+    },
+    {
+      "question": "The contractile proteins in muscle are:",
+      "options": ["Myosin and actin", "Troponin and tropomyosin", "Actin and collagen", "Tubulin and actin"],
+      "correct": 0
+    },
+    {
+      "question": "The sliding filament theory was proposed by:",
+      "options": ["Andrew and Huxley", "Watson and Crick", "Krebs and Calvin", "Sanger and Fleming"],
+      "correct": 0
+    },
+    {
+      "question": "A-band of sarcomere contains:",
+      "options": ["Only actin", "Only myosin", "Both actin and myosin", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Which joint allows movement in all directions?",
+      "options": ["Hinge joint", "Pivot joint", "Ball and socket joint", "Gliding joint"],
+      "correct": 2
+    },
+    {
+      "question": "The knee joint is an example of:",
+      "options": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Saddle joint"],
+      "correct": 0
+    },
+    {
+      "question": "The point of contact between a motor neuron and muscle fiber is:",
+      "options": ["Neuromuscular junction", "Synapse", "Sarcomere", "Dendrite"],
+      "correct": 0
+    },
+    {
+      "question": "The largest bone in the human body is:",
+      "options": ["Humerus", "Tibia", "Femur", "Radius"],
+      "correct": 2
+    },
+    {
+      "question": "Vertebral column has how many cervical vertebrae?",
+      "options": ["7", "5", "12", "6"],
+      "correct": 0
+    },
+    {
+      "question": "The first cervical vertebra is called:",
+      "options": ["Axis", "Atlas", "Sacrum", "Coccyx"],
+      "correct": 1
+    },
+    {
+      "question": "The smallest muscle in the human body is:",
+      "options": ["Stapedius", "Masseter", "Sartorius", "Gluteus minimus"],
+      "correct": 0
+    },
+    {
+      "question": "ATP is required for:",
+      "options": ["Muscle relaxation", "Muscle contraction", "Calcium storage", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "Troponin covers the binding site on:",
+      "options": ["Myosin", "Tropomyosin", "Actin", "ATPase"],
+      "correct": 2
+    },
+    {
+      "question": "Skeletal muscle is also called:",
+      "options": ["Involuntary muscle", "Cardiac muscle", "Striated muscle", "Smooth muscle"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is NOT part of axial skeleton?",
+      "options": ["Skull", "Ribs", "Sternum", "Femur"],
+      "correct": 3
+    },
+    {
+      "question": "Which joint is present between atlas and axis?",
+      "options": ["Ball and socket", "Hinge", "Pivot", "Saddle"],
+      "correct": 2
+    },
+    {
+      "question": "The number of ribs in human body is:",
+      "options": ["10 pairs", "11 pairs", "12 pairs", "13 pairs"],
+      "correct": 2
+    },
+    {
+      "question": "Actin is a:",
+      "options": ["Thick filament", "Thin filament", "Elastic filament", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The contractile unit between two Z-lines is:",
+      "options": ["Myofibril", "Sarcomere", "Sarcolemma", "Sarcosome"],
+      "correct": 1
+    },
+    {
+      "question": "The wrist joint is a:",
+      "options": ["Saddle joint", "Pivot joint", "Gliding joint", "Ball and socket joint"],
+      "correct": 2
+    },
+    {
+      "question": "Calcium binds to which protein during muscle contraction?",
+      "options": ["Myosin", "Actin", "Troponin", "Tropomyosin"],
+      "correct": 2
+    },
+    {
+      "question": "The skull is connected to the vertebral column by:",
+      "options": ["Occipital condyles", "Atlas", "Axis", "Mandible"],
+      "correct": 0
+    },
+    {
+      "question": "Sternum is a type of:",
+      "options": ["Long bone", "Flat bone", "Irregular bone", "Sesamoid bone"],
+      "correct": 1
+    },
+    {
+      "question": "Intervertebral discs are composed of:",
+      "options": ["Bone", "Fibrocartilage", "Ligament", "Muscle"],
+      "correct": 1
+    },
+    {
+      "question": "The bone that does not articulate with any other bone is:",
+      "options": ["Hyoid", "Mandible", "Clavicle", "Scapula"],
+      "correct": 0
+    },
+    {
+      "question": "Which type of muscle is found in the wall of internal organs?",
+      "options": ["Cardiac", "Skeletal", "Smooth", "All of these"],
+      "correct": 2
+    },
+    {
+      "question": "Which muscle shows both striations and involuntary control?",
+      "options": ["Skeletal", "Cardiac", "Smooth", "Diaphragm"],
+      "correct": 1
+    },
+    {
+      "question": "Which protein hydrolyzes ATP during contraction?",
+      "options": ["Actin", "Tropomyosin", "Myosin", "Troponin"],
+      "correct": 2
+    },
+    {
+      "question": "The pelvic girdle is formed by:",
+      "options": ["Ilium, ischium, pubis", "Femur, tibia, fibula", "Scapula, clavicle", "Ulna, radius, humerus"],
+      "correct": 0
+    },
+    {
+      "question": "A synovial joint contains:",
+      "options": ["Bone marrow", "Synovial fluid", "Ligaments only", "Cartilage only"],
+      "correct": 1
+    },
+    {
+      "question": "Osteoporosis is caused due to deficiency of:",
+      "options": ["Iron", "Calcium", "Potassium", "Vitamin A"],
+      "correct": 1
+    },
+    {
+      "question": "A group of muscle fibers surrounded by perimysium is:",
+      "options": ["Sarcomere", "Fascicle", "Myofibril", "Bundle"],
+      "correct": 1
+    },
+    {
+      "question": "Which disorder is characterized by inflammation of joints?",
+      "options": ["Myasthenia gravis", "Osteoarthritis", "Tetany", "Gout"],
+      "correct": 1
+    },
+    {
+      "question": "Sartorius is a:",
+      "options": ["Flat bone", "Long bone", "Longest muscle", "Smallest bone"],
+      "correct": 2
+    },
+    {
+      "question": "T-tubules help in:",
+      "options": ["Protein synthesis", "Calcium storage", "Spreading impulse", "Relaxation"],
+      "correct": 2
+    },
+    {
+      "question": "Which structure connects muscle to bone?",
+      "options": ["Ligament", "Tendon", "Cartilage", "Joint capsule"],
+      "correct": 1
+    },
+    {
+      "question": "Which structure is not present in smooth muscles?",
+      "options": ["Myosin", "Actin", "Sarcomere", "Tropomyosin"],
+      "correct": 2
+    },
+    {
+      "question": "The region where actin and myosin filaments overlap is:",
+      "options": ["I band", "A band", "Z line", "M line"],
+      "correct": 1
+    },
+    {
+      "question": "Muscle fatigue is due to accumulation of:",
+      "options": ["Lactic acid", "ATP", "Calcium", "Oxygen"],
+      "correct": 0
+    },
+    {
+      "question": "Which bone is not a part of the appendicular skeleton?",
+      "options": ["Femur", "Radius", "Humerus", "Sternum"],
+      "correct": 3
+    },
+    {
+      "question": "Myasthenia gravis is an:",
+      "options": ["Endocrine disorder", "Autoimmune disorder", "Infectious disease", "Metabolic disorder"],
+      "correct": 1
+    },
+    {
+      "question": "Which bone forms the elbow joint along with humerus?",
+      "options": ["Femur", "Radius", "Ulna", "Tibia"],
+      "correct": 2
+    },
+    {
+      "question": "The rib cage consists of:",
+      "options": ["10 ribs", "11 ribs", "12 ribs", "13 ribs"],
+      "correct": 2
+    },
+    {
+      "question": "Which bone is present in lower leg?",
+      "options": ["Femur", "Fibula", "Ulna", "Radius"],
+      "correct": 1
+    },
+    {
+      "question": "The epiphysis is the:",
+      "options": ["Middle of long bone", "Outer layer", "End part of long bone", "Joint capsule"],
+      "correct": 2
+    }
+  ]
+}

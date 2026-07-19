@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "How many 3-digit numbers can be formed using digits 1 to 9 without repetition?",
+      "options": ["504", "720", "648", "729"],
+      "correct": 0
+    },
+    {
+      "question": "In how many ways can 5 books be arranged on a shelf?",
+      "options": ["120", "60", "100", "125"],
+      "correct": 0
+    },
+    {
+      "question": "How many 4-letter words can be formed using the letters of the word ‘MATH’?",
+      "options": ["24", "12", "36", "48"],
+      "correct": 0
+    },
+    {
+      "question": "The number of permutations of n distinct things taken r at a time is:",
+      "options": ["nPr", "nCr", "n! / r!", "n! × r!"],
+      "correct": 0
+    },
+    {
+      "question": "nPr is equal to:",
+      "options": ["n! / (n−r)!", "n! / r!", "r! / n!", "(n−r)! / n!"],
+      "correct": 0
+    },
+    {
+      "question": "The number of ways to choose 3 balls from 5 is:",
+      "options": ["10", "15", "20", "25"],
+      "correct": 0
+    },
+    {
+      "question": "If nP3 = 60, then n is:",
+      "options": ["5", "6", "4", "3"],
+      "correct": 0
+    },
+    {
+      "question": "The number of permutations of the word ‘APPLE’ is:",
+      "options": ["60", "120", "240", "30"],
+      "correct": 0
+    },
+    {
+      "question": "How many 4-digit numbers can be formed from digits 1–6 without repetition?",
+      "options": ["360", "216", "1296", "625"],
+      "correct": 0
+    },
+    {
+      "question": "nCr is equal to:",
+      "options": ["n! / (r!(n−r)!)", "n! / r!", "r! / n!", "n! × r!"],
+      "correct": 0
+    },
+    {
+      "question": "How many ways can you choose 2 items from 4?",
+      "options": ["6", "8", "12", "4"],
+      "correct": 0
+    },
+    {
+      "question": "Which is greater: nCr or nPr?",
+      "options": ["nPr", "nCr", "Equal", "Depends on r"],
+      "correct": 0
+    },
+    {
+      "question": "If nCr = nC(n−r), this property is known as:",
+      "options": ["Symmetry property", "Addition property", "Multiplication rule", "Permutation identity"],
+      "correct": 0
+    },
+    {
+      "question": "How many different words can be formed from ‘LEVEL’?",
+      "options": ["60", "30", "20", "40"],
+      "correct": 0
+    },
+    {
+      "question": "The number of combinations of 10 items taken 0 at a time is:",
+      "options": ["1", "10", "0", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The value of 6P3 is:",
+      "options": ["120", "60", "20", "6"],
+      "correct": 0
+    },
+    {
+      "question": "The value of 7C2 is:",
+      "options": ["21", "14", "42", "28"],
+      "correct": 0
+    },
+    {
+      "question": "How many ways can a team of 3 be chosen from 5 players?",
+      "options": ["10", "15", "5", "20"],
+      "correct": 0
+    },
+    {
+      "question": "In how many ways can letters of the word 'BANANA' be arranged?",
+      "options": ["60", "120", "720", "60"],
+      "correct": 0
+    },
+    {
+      "question": "What is 8C3?",
+      "options": ["56", "84", "120", "35"],
+      "correct": 0
+    },
+    {
+      "question": "What is the value of 5C2?",
+      "options": ["10", "20", "30", "40"],
+      "correct": 0
+    },
+    {
+      "question": "How many diagonals does a hexagon have?",
+      "options": ["9", "15", "12", "18"],
+      "correct": 0
+    },
+    {
+      "question": "What is 10P0?",
+      "options": ["1", "10", "0", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "From a group of 6 boys and 4 girls, how many committees of 3 can be formed with at least 1 girl?",
+      "options": ["80", "84", "100", "96"],
+      "correct": 0
+    },
+    {
+      "question": "How many ways can 4 persons be seated on 6 chairs?",
+      "options": ["360", "720", "120", "24"],
+      "correct": 0
+    },
+    {
+      "question": "If 8C3 = x, then x is:",
+      "options": ["56", "70", "80", "64"],
+      "correct": 0
+    },
+    {
+      "question": "How many 3-digit numbers can be formed from 1, 2, 3, 4, 5 if repetition is allowed?",
+      "options": ["125", "100", "120", "150"],
+      "correct": 0
+    },
+    {
+      "question": "In how many ways can the letters of 'SUCCESS' be arranged?",
+      "options": ["420", "5040", "630", "2520"],
+      "correct": 0
+    },
+    {
+      "question": "Which formula represents the addition rule of counting?",
+      "options": ["n(A ∪ B) = n(A) + n(B) − n(A ∩ B)", "nPr = n! / (n−r)!", "nCr = n! / (r!(n−r)!)", "None"],
+      "correct": 0
+    },
+    {
+      "question": "In how many ways can you select 2 boys from 5?",
+      "options": ["10", "20", "30", "5"],
+      "correct": 0
+    },
+    {
+      "question": "How many 5-digit numbers can be formed using digits 1 to 5 with no repetition?",
+      "options": ["120", "100", "60", "240"],
+      "correct": 0
+    },
+    {
+      "question": "How many ways to form a committee of 4 from 7 people?",
+      "options": ["35", "210", "120", "70"],
+      "correct": 0
+    },
+    {
+      "question": "How many ways can 3 men and 2 women be chosen from 5 men and 4 women?",
+      "options": ["60", "80", "100", "120"],
+      "correct": 0
+    },
+    {
+      "question": "Which identity is always true for combinations?",
+      "options": ["nC0 = 1", "nCn = 0", "nCn = 1", "Both A and C"],
+      "correct": 3
+    },
+    {
+      "question": "What is 9C1?",
+      "options": ["9", "1", "8", "10"],
+      "correct": 0
+    },
+    {
+      "question": "If nC2 = 28, what is n?",
+      "options": ["8", "7", "9", "10"],
+      "correct": 2
+    },
+    {
+      "question": "Number of ways to divide 6 students into 2 equal groups of 3 each:",
+      "options": ["10", "20", "15", "5"],
+      "correct": 2
+    },
+    {
+      "question": "nC1 equals:",
+      "options": ["n", "1", "0", "n−1"],
+      "correct": 0
+    },
+    {
+      "question": "What is 10C2?",
+      "options": ["45", "55", "60", "50"],
+      "correct": 0
+    },
+    {
+      "question": "How many ways can 5 people be seated in a row?",
+      "options": ["120", "60", "100", "150"],
+      "correct": 0
+    },
+    {
+      "question": "How many ways to arrange letters of ‘TAT’?",
+      "options": ["3", "6", "4", "2"],
+      "correct": 0
+    },
+    {
+      "question": "In how many ways can 3 boys and 3 girls sit alternately?",
+      "options": ["144", "720", "36", "120"],
+      "correct": 0
+    },
+    {
+      "question": "Number of circular permutations of 5 objects:",
+      "options": ["24", "120", "60", "20"],
+      "correct": 0
+    },
+    {
+      "question": "What is the sum of all nCr for r = 0 to n?",
+      "options": ["2^n", "n!", "n", "2n"],
+      "correct": 0
+    },
+    {
+      "question": "What is the value of 0C0?",
+      "options": ["1", "0", "Undefined", "Infinity"],
+      "correct": 0
+    },
+    {
+      "question": "In how many ways can 3 girls be selected out of 7?",
+      "options": ["35", "21", "20", "28"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is true?",
+      "options": ["nCr = nC(n−r)", "nCr = nPr", "nPr = nCr", "nCr = rCn"],
+      "correct": 0
+    },
+    {
+      "question": "The value of 4P2 is:",
+      "options": ["12", "8", "6", "24"],
+      "correct": 0
+    },
+    {
+      "question": "The value of 5C3 is equal to:",
+      "options": ["10", "20", "5", "15"],
+      "correct": 0
+    },
+    {
+      "question": "What is the number of ways to choose r objects from n identical objects?",
+      "options": ["1", "n", "r", "n−r"],
+      "correct": 0
+    }
+  ]
+}

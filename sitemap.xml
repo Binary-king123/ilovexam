@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 1. Your homepage -->
+  <url>
+    <loc>https://ilovexams.com/</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilovexams.com/homr.html</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- 2. NEET page -->
+  <url>
+    <loc>https://ilovexams.com/neet.html</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+
+  <!-- 3. JEE page -->
+  <url>
+    <loc>https://ilovexams.com/jee.html</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- 4. CUET page -->
+  <url>
+    <loc>https://ilovexams.com/cuet.html</loc>
+    <lastmod>2025-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  
+  <!-- 4. SAT page -->
+  <url>
+    <loc>https://ilovexams.com/sat.html</loc>
+    <lastmod>2025-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- 4. SE page -->
+  <url>
+    <loc>https://ilovexams.com/se.html</loc>
+    <lastmod>2025-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://ilovexams.com/av_test.html</loc>
+    <lastmod>2025-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+</urlset>

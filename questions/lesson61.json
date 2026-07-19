@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a diploblastic organism?",
+      "options": ["Ascaris", "Hydra", "Earthworm", "Frog"],
+      "correct": 1
+    },
+    {
+      "question": "Which phylum includes organisms with a water vascular system?",
+      "options": ["Arthropoda", "Mollusca", "Echinodermata", "Annelida"],
+      "correct": 2
+    },
+    {
+      "question": "Which one of the following is an acoelomate animal?",
+      "options": ["Roundworm", "Flatworm", "Earthworm", "Leech"],
+      "correct": 1
+    },
+    {
+      "question": "The body of sponges is supported by:",
+      "options": ["Cartilage", "Calcium carbonate or silica spicules", "Chitin", "Keratin"],
+      "correct": 1
+    },
+    {
+      "question": "Notochord is present in:",
+      "options": ["All vertebrates", "All invertebrates", "All chordates", "Only fishes"],
+      "correct": 2
+    },
+    {
+      "question": "Which phylum has jointed appendages?",
+      "options": ["Mollusca", "Arthropoda", "Annelida", "Echinodermata"],
+      "correct": 1
+    },
+    {
+      "question": "Which class of animals is exclusively marine and radially symmetrical?",
+      "options": ["Arthropoda", "Echinodermata", "Mollusca", "Annelida"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following animals is pseudocoelomate?",
+      "options": ["Earthworm", "Tapeworm", "Ascaris", "Leech"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following exhibits metameric segmentation?",
+      "options": ["Roundworm", "Earthworm", "Hydra", "Snail"],
+      "correct": 1
+    },
+    {
+      "question": "In which of the following is the circulatory system open?",
+      "options": ["Annelida", "Arthropoda", "Chordata", "Platyhelminthes"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not a feature of chordates?",
+      "options": ["Notochord", "Dorsal nerve cord", "Pharyngeal slits", "Open circulation"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these organisms has a canal system?",
+      "options": ["Earthworm", "Hydra", "Leucosolenia", "Ascaris"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a jawed vertebrate?",
+      "options": ["Shark", "Ray", "Lamprey", "Lizard"],
+      "correct": 2
+    },
+    {
+      "question": "Comb plates are found in:",
+      "options": ["Cnidarians", "Ctenophores", "Annelids", "Sponges"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has bilateral symmetry?",
+      "options": ["Echinoderm", "Hydra", "Frog", "Aurelia"],
+      "correct": 2
+    },
+    {
+      "question": "Which one of the following is a monotreme?",
+      "options": ["Kangaroo", "Whale", "Bat", "Platypus"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following has a true coelom derived from mesoderm?",
+      "options": ["Ascaris", "Tapeworm", "Earthworm", "Hydra"],
+      "correct": 2
+    },
+    {
+      "question": "The excretory structure in earthworm is:",
+      "options": ["Malpighian tubules", "Green glands", "Flame cells", "Nephridia"],
+      "correct": 3
+    },
+    {
+      "question": "Exoskeleton in Arthropods is made of:",
+      "options": ["Cellulose", "Chitin", "Collagen", "Keratin"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a feature of mammals?",
+      "options": ["Mammary glands", "Hair", "Lay eggs only", "Diaphragm"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following animals is triploblastic but lacks a true body cavity?",
+      "options": ["Hydra", "Fasciola", "Earthworm", "Cockroach"],
+      "correct": 1
+    },
+    {
+      "question": "Which phylum includes flatworms?",
+      "options": ["Annelida", "Nematoda", "Platyhelminthes", "Echinodermata"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a characteristic of reptiles?",
+      "options": ["External fertilization", "Moist skin", "Scales", "Gills"],
+      "correct": 2
+    },
+    {
+      "question": "Which structure helps in locomotion in Paramecium?",
+      "options": ["Flagella", "Pseudopodia", "Cilia", "Tentacles"],
+      "correct": 2
+    },
+    {
+      "question": "Which one of the following is a hermaphrodite?",
+      "options": ["Frog", "Cockroach", "Earthworm", "Mosquito"],
+      "correct": 2
+    },
+    {
+      "question": "Which vertebrate class is completely poikilothermic?",
+      "options": ["Mammalia", "Reptilia", "Aves", "Amphibia"],
+      "correct": 3
+    },
+    {
+      "question": "The largest phylum in Animalia is:",
+      "options": ["Chordata", "Arthropoda", "Annelida", "Mollusca"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a mollusc?",
+      "options": ["Octopus", "Earthworm", "Crab", "Leech"],
+      "correct": 0
+    },
+    {
+      "question": "Which animal has radial symmetry as adult and bilateral as larva?",
+      "options": ["Mollusc", "Annelid", "Echinoderm", "Cnidarian"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these are jawless vertebrates?",
+      "options": ["Sharks", "Lampreys", "Frogs", "Salamanders"],
+      "correct": 1
+    },
+    {
+      "question": "Which class of vertebrates has a 4-chambered heart?",
+      "options": ["Pisces", "Amphibia", "Reptilia", "Aves"],
+      "correct": 3
+    },
+    {
+      "question": "Which animal has a hydrostatic skeleton?",
+      "options": ["Starfish", "Earthworm", "Snail", "Spider"],
+      "correct": 1
+    },
+    {
+      "question": "Cnidocytes are found in:",
+      "options": ["Porifera", "Cnidaria", "Ctenophora", "Platyhelminthes"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following are exclusively marine?",
+      "options": ["Annelida", "Arthropoda", "Ctenophora", "Nematoda"],
+      "correct": 2
+    },
+    {
+      "question": "In which phylum is the body segmented both externally and internally?",
+      "options": ["Nematoda", "Platyhelminthes", "Annelida", "Mollusca"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following animals is ovoviviparous?",
+      "options": ["Frog", "Dogfish", "Whale", "Bird"],
+      "correct": 1
+    },
+    {
+      "question": "The excretory organs of insects are:",
+      "options": ["Green glands", "Nephridia", "Malpighian tubules", "Kidneys"],
+      "correct": 2
+    },
+    {
+      "question": "Which group includes animals without a notochord?",
+      "options": ["Urochordata", "Cephalochordata", "Vertebrata", "Hemichordata"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a characteristic of amphibians?",
+      "options": ["Scales", "Gills as adults", "Moist skin", "Hair"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a connecting link between Annelida and Arthropoda?",
+      "options": ["Nereis", "Peripatus", "Pheretima", "Limulus"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is not a placental mammal?",
+      "options": ["Kangaroo", "Elephant", "Dog", "Whale"],
+      "correct": 0
+    },
+    {
+      "question": "What is the function of flame cells?",
+      "options": ["Excretion", "Circulation", "Reproduction", "Locomotion"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following phyla is asymmetrical?",
+      "options": ["Porifera", "Cnidaria", "Platyhelminthes", "Annelida"],
+      "correct": 0
+    },
+    {
+      "question": "In which of these animals is a true coelom absent?",
+      "options": ["Earthworm", "Ascaris", "Cockroach", "Leech"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is the first phylum to show bilateral symmetry?",
+      "options": ["Porifera", "Cnidaria", "Platyhelminthes", "Echinodermata"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a function of the water vascular system?",
+      "options": ["Locomotion", "Food capture", "Excretion", "Respiration"],
+      "correct": 2
+    },
+    {
+      "question": "Which group of vertebrates lays cleidoic eggs?",
+      "options": ["Amphibians", "Reptiles", "Mammals", "Fish"],
+      "correct": 1
+    },
+    {
+      "question": "Which animal possesses both gills and lungs during its life cycle?",
+      "options": ["Fish", "Frog", "Bird", "Lizard"],
+      "correct": 1
+    },
+    {
+      "question": "Which one of the following lacks a notochord in the adult stage?",
+      "options": ["Urochordata", "Cephalochordata", "Vertebrata", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a feature of mammals?",
+      "options": ["Scales", "Cloaca", "Milk-producing glands", "Moist skin"],
+      "correct": 2
+    }
+  ]
+}

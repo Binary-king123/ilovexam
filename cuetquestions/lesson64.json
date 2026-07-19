@@ -1,0 +1,234 @@
+{
+  "test": [
+    {
+      "question": "What is the general equation of a straight line?",
+      "options": ["ax + by + c = 0", "x^2 + y^2 = r^2", "y = ax^2 + bx + c", "x + y^2 = 0"],
+      "correct": 0
+    },
+    {
+      "question": "What is the slope of the line 3x − 2y + 6 = 0?",
+      "options": ["3/2", "−3/2", "2/3", "−2/3"],
+      "correct": 0
+    },
+    {
+      "question": "The equation y = mx + c represents:",
+      "options": ["Straight line", "Circle", "Parabola", "Ellipse"],
+      "correct": 0
+    },
+    {
+      "question": "What is the slope of the x-axis?",
+      "options": ["0", "1", "Undefined", "Infinity"],
+      "correct": 0
+    },
+    {
+      "question": "What is the slope of the y-axis?",
+      "options": ["Undefined", "0", "1", "Infinity"],
+      "correct": 0
+    },
+    {
+      "question": "Find the slope of the line passing through (1, 2) and (3, 6)",
+      "options": ["2", "3", "4", "1"],
+      "correct": 0
+    },
+    {
+      "question": "Two lines are perpendicular if the product of their slopes is:",
+      "options": ["−1", "1", "0", "Infinity"],
+      "correct": 0
+    },
+    {
+      "question": "Find the angle between the lines with slopes m1 and m2:",
+      "options": ["tanθ = |(m1−m2)/(1+m1m2)|", "tanθ = (m1+m2)/(1−m1m2)", "tanθ = (m1m2)/(m1+m2)", "tanθ = m1−m2"],
+      "correct": 0
+    },
+    {
+      "question": "What is the intercept form of a straight line?",
+      "options": ["x/a + y/b = 1", "y = mx + c", "ax + by + c = 0", "x^2 + y^2 = r^2"],
+      "correct": 0
+    },
+    {
+      "question": "The normal form of a line is:",
+      "options": ["x cosα + y sinα = p", "y = mx + c", "ax + by = c", "x/a + y/b = 1"],
+      "correct": 0
+    },
+    {
+      "question": "If a line passes through (0, 0) and has slope m, its equation is:",
+      "options": ["y = mx", "y = m + x", "y = m/x", "x = my"],
+      "correct": 0
+    },
+    {
+      "question": "What is the equation of the line parallel to x-axis and passing through (3, 4)?",
+      "options": ["y = 4", "x = 3", "y = x + 1", "y = x"],
+      "correct": 0
+    },
+    {
+      "question": "If a line makes angle 45° with x-axis, its slope is:",
+      "options": ["1", "0", "−1", "√3"],
+      "correct": 0
+    },
+    {
+      "question": "What is the condition for two lines to be parallel?",
+      "options": ["Slopes are equal", "Slopes are negative reciprocals", "Intersect at origin", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Equation of a line passing through (2, 3) and slope 4 is:",
+      "options": ["y − 3 = 4(x − 2)", "y = 4x + 3", "x − 2 = 4(y − 3)", "y = 3x + 2"],
+      "correct": 0
+    },
+    {
+      "question": "What is the slope of the line 4y − 3x = 7?",
+      "options": ["3/4", "4/3", "−3/4", "−4/3"],
+      "correct": 2
+    },
+    {
+      "question": "What is the distance of point (3, 4) from the line 3x + 4y = 10?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "The line x − y + 2 = 0 is parallel to:",
+      "options": ["x − y = 0", "x + y = 0", "y = x + 2", "x = y"],
+      "correct": 0
+    },
+    {
+      "question": "If the distance of a point (x₁, y₁) from the line ax + by + c = 0 is d, then d is:",
+      "options": ["|ax₁ + by₁ + c| / √(a² + b²)", "ax₁ + by₁ + c", "|x₁ − x₂|", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The point of intersection of x + y = 3 and x − y = 1 is:",
+      "options": ["(2, 1)", "(1, 2)", "(3, 0)", "(0, 3)"],
+      "correct": 0
+    },
+    {
+      "question": "Equation of a line perpendicular to x + y = 4 and passing through (1, 2) is:",
+      "options": ["x − y = −1", "x + y = 3", "2x − y = 0", "x − y = 1"],
+      "correct": 3
+    },
+    {
+      "question": "The point (h, k) lies on the line 2x + 3y = 12 if:",
+      "options": ["2h + 3k = 12", "2k + 3h = 12", "h + k = 12", "2h − 3k = 12"],
+      "correct": 0
+    },
+    {
+      "question": "The angle between two perpendicular lines is:",
+      "options": ["90°", "0°", "180°", "45°"],
+      "correct": 0
+    },
+    {
+      "question": "Which form of line equation is easiest for graph plotting?",
+      "options": ["Slope-intercept form", "General form", "Normal form", "Intercept form"],
+      "correct": 0
+    },
+    {
+      "question": "A line making angle 90° with x-axis is:",
+      "options": ["Vertical", "Horizontal", "Inclined 45°", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Equation of line with slope m and y-intercept c is:",
+      "options": ["y = mx + c", "x = my + c", "x = y + c", "y = c"],
+      "correct": 0
+    },
+    {
+      "question": "If m1 and m2 are slopes of two lines, angle θ between them is given by:",
+      "options": ["tanθ = |(m1 − m2)/(1 + m1m2)|", "tanθ = (m1m2)/(1 − m1m2)", "tanθ = m1/m2", "tanθ = m2/m1"],
+      "correct": 0
+    },
+    {
+      "question": "A line perpendicular to y = −x + 2 has slope:",
+      "options": ["1", "−1", "0", "2"],
+      "correct": 0
+    },
+    {
+      "question": "A line parallel to y = 2x + 3 and passing through (1, 2) is:",
+      "options": ["y − 2 = 2(x − 1)", "y − 1 = 2(x − 2)", "y = 2x", "x = 2y"],
+      "correct": 0
+    },
+    {
+      "question": "Slope of the line joining (−2, 3) and (4, −1) is:",
+      "options": ["−2/3", "−2/5", "−2/6", "−4/3"],
+      "correct": 1
+    },
+    {
+      "question": "Find the slope of line 5x + 2y − 3 = 0:",
+      "options": ["−5/2", "−2/5", "2/5", "5/2"],
+      "correct": 0
+    },
+    {
+      "question": "Equation of x-axis is:",
+      "options": ["y = 0", "x = 0", "y = x", "x + y = 0"],
+      "correct": 0
+    },
+    {
+      "question": "Equation of y-axis is:",
+      "options": ["x = 0", "y = 0", "x + y = 0", "y = x"],
+      "correct": 0
+    },
+    {
+      "question": "The line y = 3 is:",
+      "options": ["Parallel to x-axis", "Parallel to y-axis", "Diagonal", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The line x = 3 is:",
+      "options": ["Parallel to y-axis", "Parallel to x-axis", "Inclined", "Diagonal"],
+      "correct": 0
+    },
+    {
+      "question": "If m = tanθ, what does θ represent?",
+      "options": ["Angle with x-axis", "Angle with y-axis", "Slope", "Intercept"],
+      "correct": 0
+    },
+    {
+      "question": "A line perpendicular to line y = 0 is:",
+      "options": ["x = c", "y = c", "x = y", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A line passes through origin and has slope −3. Its equation is:",
+      "options": ["y = −3x", "y = 3x", "x = −3y", "x = 3y"],
+      "correct": 0
+    },
+    {
+      "question": "Two lines are perpendicular if product of their slopes is:",
+      "options": ["−1", "0", "1", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "If slope of line is m, angle with x-axis is:",
+      "options": ["tan⁻¹m", "tan m", "cos⁻¹m", "sin⁻¹m"],
+      "correct": 0
+    },
+    {
+      "question": "The line 2x − 3y = 6 intersects y-axis at:",
+      "options": ["(0, −2)", "(0, 2)", "(3, 0)", "(−3, 0)"],
+      "correct": 0
+    },
+    {
+      "question": "Point of intersection of x = 1 and y = 2 is:",
+      "options": ["(1, 2)", "(2, 1)", "(0, 0)", "(1, 1)"],
+      "correct": 0
+    },
+    {
+      "question": "What is the slope of line perpendicular to slope 1/2?",
+      "options": ["−2", "2", "−1/2", "1/2"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a general form of a line?",
+      "options": ["ax + by + c = 0", "x² + y² = r²", "x = y²", "y = x²"],
+      "correct": 0
+    },
+    {
+      "question": "In normal form x cosα + y sinα = p, p is:",
+      "options": ["Perpendicular from origin", "Slope", "Intercept", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If the angle between two lines is 90°, their slopes are:",
+      "options": ["Negative reciprocals", "Equal", "0", "1"],
+      "correct": 0
+    }
+  ]
+}

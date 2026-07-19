@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a characteristic property of d-block elements?",
+      "options": ["Low melting points", "Form coloured compounds", "High reactivity like alkali metals", "Do not form complex ions"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following elements has the electronic configuration [Ar] 3d5 4s1?",
+      "options": ["Fe", "Mn", "Cr", "Co"],
+      "correct": 2
+    },
+    {
+      "question": "Which transition element shows maximum number of oxidation states?",
+      "options": ["Fe", "Cr", "Mn", "V"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a lanthanoid element?",
+      "options": ["U", "La", "Lu", "Ce"],
+      "correct": 3
+    },
+    {
+      "question": "The most common oxidation state of copper is:",
+      "options": ["+1", "+2", "+3", "0"],
+      "correct": 1
+    },
+    {
+      "question": "Which element is used in making powerful magnets?",
+      "options": ["Nd", "Ce", "La", "Th"],
+      "correct": 0
+    },
+    {
+      "question": "Which property is responsible for the catalytic activity of transition metals?",
+      "options": ["High atomic mass", "Variable oxidation states", "Low density", "Non-metallic character"],
+      "correct": 1
+    },
+    {
+      "question": "Which ion is colourless?",
+      "options": ["Cu²⁺", "Fe³⁺", "Sc³⁺", "Ni²⁺"],
+      "correct": 2
+    },
+    {
+      "question": "Zirconium and Hafnium show similar properties due to:",
+      "options": ["Lanthanide contraction", "Similar size", "Same oxidation states", "Same group"],
+      "correct": 0
+    },
+    {
+      "question": "Which transition metal is liquid at room temperature?",
+      "options": ["Hg", "Ag", "Cu", "Zn"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a typical property of d-block elements?",
+      "options": ["High melting point", "Good conductors", "Form coloured ions", "Low density"],
+      "correct": 3
+    },
+    {
+      "question": "Which oxidation state is not exhibited by Mn?",
+      "options": ["+2", "+4", "+6", "+8"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a non-radioactive lanthanoid?",
+      "options": ["Th", "Ce", "U", "Pm"],
+      "correct": 1
+    },
+    {
+      "question": "Which d-block element is used in photography?",
+      "options": ["Fe", "Ag", "Cu", "Ni"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an actinoid?",
+      "options": ["Nd", "Dy", "U", "Ce"],
+      "correct": 2
+    },
+    {
+      "question": "Actinoids show greater range of oxidation states than lanthanoids due to:",
+      "options": ["Greater size", "5f orbitals being more exposed", "Lower atomic number", "Higher density"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following transition metals is the best conductor of electricity?",
+      "options": ["Fe", "Zn", "Cu", "Co"],
+      "correct": 2
+    },
+    {
+      "question": "Lanthanide contraction is responsible for:",
+      "options": ["Similar size of Zr and Hf", "High atomic radius", "Low melting point", "Basic nature"],
+      "correct": 0
+    },
+    {
+      "question": "What is the oxidation state of Fe in Fe₂O₃?",
+      "options": ["+2", "+3", "+6", "0"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following does not show variable oxidation states?",
+      "options": ["Fe", "Cu", "Zn", "Mn"],
+      "correct": 2
+    },
+    {
+      "question": "Which transition element is used in stainless steel?",
+      "options": ["Zn", "Ni", "Co", "Cr"],
+      "correct": 3
+    },
+    {
+      "question": "Which transition metal ion is green in colour?",
+      "options": ["Cu²⁺", "Ni²⁺", "Fe³⁺", "Cr³⁺"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is most stable oxidation state for actinoids?",
+      "options": ["+2", "+3", "+4", "+6"],
+      "correct": 1
+    },
+    {
+      "question": "Lanthanoids mostly show +3 oxidation state because:",
+      "options": ["It gives noble gas configuration", "It is stable", "f-orbitals are buried", "They are non-reactive"],
+      "correct": 2
+    },
+    {
+      "question": "Which compound is purple in colour?",
+      "options": ["KMnO₄", "CuSO₄", "NiCl₂", "Cr₂O₃"],
+      "correct": 0
+    },
+    {
+      "question": "Which is used as catalyst in the Haber process?",
+      "options": ["Ni", "Fe", "Cu", "Mn"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following ions is colorless?",
+      "options": ["Mn²⁺", "Fe²⁺", "Sc³⁺", "Cu²⁺"],
+      "correct": 2
+    },
+    {
+      "question": "Which element is used in nuclear reactors?",
+      "options": ["Uranium", "Cerium", "Thorium", "Neptunium"],
+      "correct": 0
+    },
+    {
+      "question": "The color of Cr₂O₇²⁻ ion is:",
+      "options": ["Green", "Orange", "Blue", "Pink"],
+      "correct": 1
+    },
+    {
+      "question": "Which element among the following is least reactive?",
+      "options": ["Zn", "Fe", "Cu", "Mn"],
+      "correct": 2
+    },
+    {
+      "question": "Which d-block element is not considered a transition metal?",
+      "options": ["Fe", "Ni", "Zn", "Cu"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is paramagnetic?",
+      "options": ["Cu⁺", "Zn²⁺", "Ti³⁺", "Sc³⁺"],
+      "correct": 2
+    },
+    {
+      "question": "Which element is called 'Platinum of the Poor'?",
+      "options": ["Nickel", "Palladium", "Rhodium", "Silver"],
+      "correct": 0
+    },
+    {
+      "question": "The +3 oxidation state is common in:",
+      "options": ["Lanthanoids", "Actinoids", "Transition metals", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "Which transition element is used in galvanization?",
+      "options": ["Fe", "Zn", "Ni", "Cu"],
+      "correct": 1
+    },
+    {
+      "question": "Which ion gives pink solution?",
+      "options": ["Cu²⁺", "Cr³⁺", "Co²⁺", "Ni²⁺"],
+      "correct": 2
+    },
+    {
+      "question": "The actinoid series includes:",
+      "options": ["Z=57 to 71", "Z=89 to 103", "Z=21 to 30", "Z=38 to 48"],
+      "correct": 1
+    },
+    {
+      "question": "Transition elements are good catalysts due to:",
+      "options": ["Large atomic size", "Variable oxidation states", "High density", "High boiling point"],
+      "correct": 1
+    },
+    {
+      "question": "Which actinoid is used as fuel in nuclear reactors?",
+      "options": ["Ce", "Th", "U", "Pu"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following forms green salt?",
+      "options": ["NiCl₂", "FeCl₃", "CuSO₄", "FeSO₄"],
+      "correct": 3
+    },
+    {
+      "question": "Which element shows maximum number of oxidation states in actinoid series?",
+      "options": ["Th", "U", "Np", "Pu"],
+      "correct": 2
+    },
+    {
+      "question": "What is the oxidation state of Mn in KMnO₄?",
+      "options": ["+2", "+4", "+6", "+7"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is not a f-block element?",
+      "options": ["U", "Ce", "Fe", "Th"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a lanthanoid?",
+      "options": ["Ce", "Gd", "Er", "Np"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following elements is called a rare earth element?",
+      "options": ["Sc", "Y", "La", "Dy"],
+      "correct": 3
+    },
+    {
+      "question": "The color of hydrated Cu²⁺ ion is:",
+      "options": ["Colorless", "Green", "Blue", "Pink"],
+      "correct": 2
+    },
+    {
+      "question": "Which transition metal forms a green complex with ammonia?",
+      "options": ["Cr", "Ni", "Fe", "Co"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not true for d-block elements?",
+      "options": ["They show variable oxidation states", "They form coloured compounds", "They are not good catalysts", "They have high melting points"],
+      "correct": 2
+    },
+    {
+      "question": "Which ion is used in detection of nitrate radical?",
+      "options": ["Fe²⁺", "Fe³⁺", "Cu²⁺", "Mn²⁺"],
+      "correct": 1
+    },
+    {
+      "question": "Which element has the general configuration [Xe]4f⁶5d⁰6s²?",
+      "options": ["Sm", "Dy", "Nd", "Tb"],
+      "correct": 0
+    }
+  ]
+}

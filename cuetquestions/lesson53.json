@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a functional group for aldehydes?",
+      "options": ["–OH", "–COOH", "–CHO", "–CO–"],
+      "correct": 2
+    },
+    {
+      "question": "Formaldehyde is the common name for:",
+      "options": ["Methanal", "Ethanol", "Propanone", "Methanoic acid"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a ketone?",
+      "options": ["CH3CHO", "CH3COCH3", "HCOOH", "CH3OH"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound gives positive Fehling’s test?",
+      "options": ["CH3CHO", "CH3COCH3", "C6H5CHO", "HCOOH"],
+      "correct": 0
+    },
+    {
+      "question": "The IUPAC name of acetone is:",
+      "options": ["Propanol", "Propanone", "Ethanone", "Butanone"],
+      "correct": 1
+    },
+    {
+      "question": "Which test distinguishes aldehydes from ketones?",
+      "options": ["Tollen’s test", "Iodoform test", "Lucas test", "Bromine water"],
+      "correct": 0
+    },
+    {
+      "question": "Benedict’s reagent gives a red precipitate with:",
+      "options": ["Ketones", "Aldehydes", "Alcohols", "Carboxylic acids"],
+      "correct": 1
+    },
+    {
+      "question": "Carboxylic acids show which type of acid-base behavior?",
+      "options": ["Strong acid", "Weak base", "Weak acid", "Strong base"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is most acidic?",
+      "options": ["Acetic acid", "Formic acid", "Propanoic acid", "Benzoic acid"],
+      "correct": 1
+    },
+    {
+      "question": "Which reaction converts aldehydes into alcohols?",
+      "options": ["Oxidation", "Reduction", "Hydrolysis", "Dehydration"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound gives a positive iodoform test?",
+      "options": ["Methanol", "Ethanol", "Formaldehyde", "Acetic acid"],
+      "correct": 1
+    },
+    {
+      "question": "Aldol condensation requires:",
+      "options": ["Acid medium", "Base medium", "Neutral medium", "Dry conditions"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is the formula for benzoic acid?",
+      "options": ["C6H5CH3", "C6H5CHO", "C6H5COOH", "C6H5OH"],
+      "correct": 2
+    },
+    {
+      "question": "Ethanoic acid reacts with sodium to give:",
+      "options": ["Ethanol", "Sodium acetate and hydrogen", "Sodium chloride", "Acetone"],
+      "correct": 1
+    },
+    {
+      "question": "Oxidation of primary alcohol gives:",
+      "options": ["Ketone", "Aldehyde", "Carboxylic acid", "Ester"],
+      "correct": 2
+    },
+    {
+      "question": "Cannizzaro reaction occurs with:",
+      "options": ["Aldehydes without α-hydrogen", "Ketones", "Alcohols", "Acids"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is used in Tollen’s reagent?",
+      "options": ["AgNO3 + NH3", "CuSO4", "KMnO4", "FeCl3"],
+      "correct": 0
+    },
+    {
+      "question": "Acidic strength of carboxylic acid is due to:",
+      "options": ["Presence of –OH", "Resonance stabilization of carboxylate ion", "Hydrogen bonding", "Inductive effect"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound forms ester on reaction with alcohol?",
+      "options": ["Aldehyde", "Ketone", "Carboxylic acid", "Phenol"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following shows tautomerism?",
+      "options": ["Aldehyde", "Ketone", "Both A and B", "Carboxylic acid"],
+      "correct": 2
+    },
+    {
+      "question": "Which compound is formed in aldol condensation of acetaldehyde?",
+      "options": ["CH3COCH3", "CH3CH(OH)CH2CHO", "CH3CHOHCH2COOH", "CH3CH=CHCHO"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following does not give Tollen's test?",
+      "options": ["Formaldehyde", "Benzaldehyde", "Acetophenone", "Acetaldehyde"],
+      "correct": 2
+    },
+    {
+      "question": "Acid anhydride is formed from:",
+      "options": ["Alcohol", "Aldehyde", "Carboxylic acid", "Ester"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is reduced to alcohol by LiAlH4?",
+      "options": ["Ketone", "Aldehyde", "Carboxylic acid", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following compounds gives effervescence with NaHCO3?",
+      "options": ["Alcohol", "Phenol", "Aldehyde", "Carboxylic acid"],
+      "correct": 3
+    },
+    {
+      "question": "The product of Rosenmund reduction of acid chloride is:",
+      "options": ["Alcohol", "Aldehyde", "Acid", "Ketone"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following gives a fruity smell?",
+      "options": ["Ester", "Aldehyde", "Ketone", "Alcohol"],
+      "correct": 0
+    },
+    {
+      "question": "Which reagent is used in Clemmensen reduction?",
+      "options": ["Zn-Hg/HCl", "NaBH4", "LiAlH4", "H2/Pd"],
+      "correct": 0
+    },
+    {
+      "question": "Oxidation of aldehyde gives:",
+      "options": ["Alcohol", "Ketone", "Acid", "Alkene"],
+      "correct": 2
+    },
+    {
+      "question": "The hybridization of carbon in carbonyl group is:",
+      "options": ["sp", "sp2", "sp3", "sp3d"],
+      "correct": 1
+    },
+    {
+      "question": "In the carbonyl group, the bond angle is approximately:",
+      "options": ["109°", "120°", "90°", "150°"],
+      "correct": 1
+    },
+    {
+      "question": "IUPAC name of CH3COCH3 is:",
+      "options": ["Propanal", "Propanone", "Butanone", "Ethanone"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an α,β-unsaturated aldehyde?",
+      "options": ["Propanal", "Acrolein", "Butanone", "Acetaldehyde"],
+      "correct": 1
+    },
+    {
+      "question": "Carboxylic acids can be prepared by oxidation of:",
+      "options": ["Alcohols", "Aldehydes", "Both A and B", "Ketones"],
+      "correct": 2
+    },
+    {
+      "question": "The presence of which group increases acidity in benzoic acid?",
+      "options": ["–NO2", "–CH3", "–OH", "–OCH3"],
+      "correct": 0
+    },
+    {
+      "question": "Which does not undergo aldol condensation?",
+      "options": ["Methanal", "Ethanol", "Propanal", "Butanal"],
+      "correct": 0
+    },
+    {
+      "question": "Which is more reactive in nucleophilic addition?",
+      "options": ["Aldehyde", "Ketone", "Carboxylic acid", "Alcohol"],
+      "correct": 0
+    },
+    {
+      "question": "Reagent used in Etard reaction is:",
+      "options": ["CrO3", "KMnO4", "Chromyl chloride", "K2Cr2O7"],
+      "correct": 2
+    },
+    {
+      "question": "Which gives benzoic acid on oxidation?",
+      "options": ["Toluene", "Phenol", "Benzaldehyde", "Aniline"],
+      "correct": 0
+    },
+    {
+      "question": "Ketones are oxidized with strong oxidants to give:",
+      "options": ["Alcohols", "Acids", "Aldehydes", "Alkanes"],
+      "correct": 1
+    },
+    {
+      "question": "Which acid is present in vinegar?",
+      "options": ["Formic acid", "Acetic acid", "Propanoic acid", "Oxalic acid"],
+      "correct": 1
+    },
+    {
+      "question": "Which has lowest boiling point?",
+      "options": ["Methanoic acid", "Acetic acid", "Propanoic acid", "Butanoic acid"],
+      "correct": 0
+    },
+    {
+      "question": "The product of Hell–Volhard–Zelinsky reaction is:",
+      "options": ["α-Haloketone", "α-Haloaldehyde", "α-Haloacid", "α-Haloester"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is least acidic?",
+      "options": ["Formic acid", "Acetic acid", "Phenol", "Benzoic acid"],
+      "correct": 2
+    },
+    {
+      "question": "Which test is used to detect the presence of carbonyl group?",
+      "options": ["2,4-DNP test", "Fehling’s test", "Tollen’s test", "Baeyer’s test"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is the IUPAC name of HCOOH?",
+      "options": ["Methanoic acid", "Formic acid", "Ethanedioic acid", "Ethanoic acid"],
+      "correct": 0
+    },
+    {
+      "question": "Which compound forms acetal with alcohol?",
+      "options": ["Alcohol", "Carboxylic acid", "Aldehyde", "Ketone"],
+      "correct": 2
+    },
+    {
+      "question": "Oxidation of acetaldehyde gives:",
+      "options": ["Methanoic acid", "Acetic acid", "Formaldehyde", "Acetone"],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a functional unit of nature?",
+      "options": ["Community", "Ecosystem", "Population", "Biome"],
+      "correct": 1
+    },
+    {
+      "question": "In an ecosystem, energy flow is always:",
+      "options": ["Unidirectional", "Bidirectional", "Cyclic", "Irregular"],
+      "correct": 0
+    },
+    {
+      "question": "Decomposers break down complex organic matter into:",
+      "options": ["Inorganic substances", "Simple sugars", "Lipids", "DNA"],
+      "correct": 0
+    },
+    {
+      "question": "In a food chain, the top carnivore represents:",
+      "options": ["First trophic level", "Second trophic level", "Third trophic level", "Fourth trophic level"],
+      "correct": 3
+    },
+    {
+      "question": "10% law of energy transfer was given by:",
+      "options": ["Tansley", "Lindeman", "Odum", "Rivet"],
+      "correct": 1
+    },
+    {
+      "question": "Primary producers in aquatic ecosystems are mainly:",
+      "options": ["Phytoplankton", "Zooplankton", "Fungi", "Fish"],
+      "correct": 0
+    },
+    {
+      "question": "Standing crop refers to:",
+      "options": ["Total biomass at a given time", "Primary productivity", "Secondary productivity", "Trophic level"],
+      "correct": 0
+    },
+    {
+      "question": "The rate of production of organic matter during photosynthesis is called:",
+      "options": ["Gross primary productivity", "Net productivity", "Respiration rate", "Secondary productivity"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not an abiotic component of ecosystem?",
+      "options": ["Water", "Temperature", "Bacteria", "Soil"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a pioneer species in primary succession?",
+      "options": ["Mosses", "Lichens", "Herbs", "Shrubs"],
+      "correct": 1
+    },
+    {
+      "question": "Secondary succession takes place on:",
+      "options": ["Bare rock", "New lava", "Abandoned farmland", "Sand dunes"],
+      "correct": 2
+    },
+    {
+      "question": "An example of detritivore is:",
+      "options": ["Earthworm", "Cow", "Deer", "Tiger"],
+      "correct": 0
+    },
+    {
+      "question": "Which one of the following has the least number of individuals in a food chain?",
+      "options": ["Producers", "Primary consumers", "Secondary consumers", "Top carnivores"],
+      "correct": 3
+    },
+    {
+      "question": "Ecological pyramids represent:",
+      "options": ["Energy flow", "Biotic interactions", "Habitat", "Food preference"],
+      "correct": 0
+    },
+    {
+      "question": "Which pyramid is always upright?",
+      "options": ["Pyramid of number", "Pyramid of biomass", "Pyramid of energy", "None of these"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a gaseous cycle?",
+      "options": ["Carbon", "Nitrogen", "Phosphorus", "Oxygen"],
+      "correct": 2
+    },
+    {
+      "question": "Climax community is:",
+      "options": ["Final stable community", "Early stage of succession", "Community with no organisms", "Always forest"],
+      "correct": 0
+    },
+    {
+      "question": "Primary productivity depends on:",
+      "options": ["Water", "Temperature", "Light", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Net primary productivity equals:",
+      "options": ["GPP + R", "GPP - R", "GPP × R", "GPP ÷ R"],
+      "correct": 1
+    },
+    {
+      "question": "What is the sequence of energy flow?",
+      "options": ["Producer → Decomposer → Consumer", "Producer → Consumer → Decomposer", "Consumer → Producer → Decomposer", "Decomposer → Producer → Consumer"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following are autotrophs?",
+      "options": ["Zooplankton", "Phytoplankton", "Bacteria", "Fungi"],
+      "correct": 1
+    },
+    {
+      "question": "Which ecosystem has highest productivity?",
+      "options": ["Desert", "Grassland", "Coral reef", "Tundra"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following pyramid is inverted in aquatic ecosystem?",
+      "options": ["Pyramid of number", "Pyramid of energy", "Pyramid of biomass", "All of these"],
+      "correct": 2
+    },
+    {
+      "question": "Ecological succession is driven by:",
+      "options": ["Biotic factors only", "Abiotic factors only", "Both", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The pyramid of energy is always upright because:",
+      "options": ["Energy is lost at each level", "Energy is gained at each level", "Energy is constant", "Energy is recycled"],
+      "correct": 0
+    },
+    {
+      "question": "Who coined the term ecosystem?",
+      "options": ["Odum", "Lindeman", "Tansley", "Darwin"],
+      "correct": 2
+    },
+    {
+      "question": "Food web is:",
+      "options": ["Linear food chain", "Complex interlinking of food chains", "Producer-only diagram", "Decomposer-only system"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a heterotroph?",
+      "options": ["Green plant", "Phytoplankton", "Fungus", "Algae"],
+      "correct": 2
+    },
+    {
+      "question": "Detritus food chain begins with:",
+      "options": ["Producers", "Dead organic matter", "Primary consumers", "Microbes"],
+      "correct": 1
+    },
+    {
+      "question": "Energy flow in ecosystem follows:",
+      "options": ["Law of conservation of energy", "10% law", "Both of these", "None of these"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the correct order in ecological succession?",
+      "options": ["Pioneer → Climax", "Climax → Pioneer", "Annuals → Lichens", "Shrubs → Lichens"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a function of ecosystem?",
+      "options": ["Energy flow", "Nutrient cycling", "Pollution", "Productivity"],
+      "correct": 2
+    },
+    {
+      "question": "In pond ecosystem, producers are mainly:",
+      "options": ["Fungi", "Phytoplankton", "Algae", "Zooplankton"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not a consumer?",
+      "options": ["Herbivore", "Carnivore", "Omnivore", "Algae"],
+      "correct": 3
+    },
+    {
+      "question": "What is the primary source of energy for ecosystem?",
+      "options": ["ATP", "Glucose", "Sunlight", "Nutrients"],
+      "correct": 2
+    },
+    {
+      "question": "Climax vegetation in xerarch succession is:",
+      "options": ["Grass", "Forest", "Algae", "Lichen"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following ecosystem is man-made?",
+      "options": ["Forest", "Desert", "Garden", "Lake"],
+      "correct": 2
+    },
+    {
+      "question": "A stable ecosystem has:",
+      "options": ["Low productivity", "Simple food chains", "High biodiversity", "No decomposers"],
+      "correct": 2
+    },
+    {
+      "question": "Most productive natural ecosystem is:",
+      "options": ["Coral reef", "Desert", "Tundra", "Grassland"],
+      "correct": 0
+    },
+    {
+      "question": "Biomass refers to:",
+      "options": ["Inorganic mass", "Living matter mass", "Dead matter mass", "Water content"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a natural ecosystem?",
+      "options": ["Zoo", "Pond", "Garden", "Crop field"],
+      "correct": 1
+    },
+    {
+      "question": "Secondary productivity is the rate of formation of:",
+      "options": ["Organic matter by producers", "Organic matter by consumers", "Inorganic matter", "Energy from sunlight"],
+      "correct": 1
+    },
+    {
+      "question": "Energy used by plants in respiration is:",
+      "options": ["GPP", "NPP", "R", "Biomass"],
+      "correct": 2
+    },
+    {
+      "question": "An inverted pyramid of number is found in:",
+      "options": ["Grassland", "Pond", "Forest", "Ocean"],
+      "correct": 2
+    },
+    {
+      "question": "Flow of nutrients in an ecosystem is:",
+      "options": ["Cyclic", "Unidirectional", "None", "Random"],
+      "correct": 0
+    },
+    {
+      "question": "Which component is involved in nutrient cycling?",
+      "options": ["Producers", "Decomposers", "Consumers", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The percentage of energy transferred from one trophic level to the next is:",
+      "options": ["100%", "50%", "10%", "5%"],
+      "correct": 2
+    },
+    {
+      "question": "Sere is a:",
+      "options": ["Stage in succession", "Trophic level", "Energy pyramid", "Food web"],
+      "correct": 0
+    },
+    {
+      "question": "Hydrosere is succession in:",
+      "options": ["Dry area", "Water body", "Forest", "Soil"],
+      "correct": 1
+    },
+    {
+      "question": "Top carnivore is usually found at which trophic level?",
+      "options": ["First", "Second", "Third", "Fourth"],
+      "correct": 3
+    }
+  ]
+}

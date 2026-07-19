@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "The SI unit of electric charge is:",
+      "options": ["Coulomb", "Volt", "Ampere", "Farad"],
+      "correct": 0
+    },
+    {
+      "question": "The charge on an electron is:",
+      "options": ["1.6 × 10⁻¹⁹ C", "1.6 × 10¹⁹ C", "9.1 × 10⁻³¹ C", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "Like charges:",
+      "options": ["Attract", "Repel", "Do nothing", "Become neutral"],
+      "correct": 1
+    },
+    {
+      "question": "Coulomb’s law is applicable to:",
+      "options": ["Stationary charges only", "Moving charges only", "Both", "Neither"],
+      "correct": 0
+    },
+    {
+      "question": "Coulomb’s constant (k) in vacuum is approximately:",
+      "options": ["9 × 10⁹ Nm²/C²", "9 × 10⁻⁹ Nm²/C²", "1 × 10⁹ Nm²/C²", "1 × 10⁻⁹ Nm²/C²"],
+      "correct": 0
+    },
+    {
+      "question": "The force between two charges decreases if:",
+      "options": ["Charges increase", "Distance increases", "Distance decreases", "Charges are equal"],
+      "correct": 1
+    },
+    {
+      "question": "Electric field is a:",
+      "options": ["Scalar", "Vector", "Tensor", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The direction of electric field is:",
+      "options": ["Toward positive charge", "Toward negative charge", "From positive to negative", "Circular"],
+      "correct": 2
+    },
+    {
+      "question": "The electric field due to a point charge is:",
+      "options": ["Uniform", "Constant", "Inversely proportional to r²", "Directly proportional to r"],
+      "correct": 2
+    },
+    {
+      "question": "Electric lines of force never:",
+      "options": ["Start from negative charge", "End on positive charge", "Intersect", "Form closed loops"],
+      "correct": 2
+    },
+    {
+      "question": "The number of electric field lines originating from a charge is proportional to:",
+      "options": ["Square of the charge", "Inverse of charge", "Magnitude of charge", "Charge density"],
+      "correct": 2
+    },
+    {
+      "question": "A charge is placed at the center of a cube. The electric flux through any face is:",
+      "options": ["Zero", "q/ε₀", "q/2ε₀", "q/6ε₀"],
+      "correct": 3
+    },
+    {
+      "question": "Electric flux is a:",
+      "options": ["Scalar", "Vector", "Tensor", "None"],
+      "correct": 0
+    },
+    {
+      "question": "SI unit of electric field is:",
+      "options": ["N/m", "V/m", "N/C", "C/N"],
+      "correct": 2
+    },
+    {
+      "question": "A test charge is used to measure:",
+      "options": ["Electric potential", "Electric field", "Charge density", "Force"],
+      "correct": 1
+    },
+    {
+      "question": "Gauss’s law relates electric flux to:",
+      "options": ["Electric field", "Electric potential", "Enclosed charge", "Electric force"],
+      "correct": 2
+    },
+    {
+      "question": "Net electric flux through a closed surface with no charge inside is:",
+      "options": ["Zero", "Maximum", "Minimum", "Infinite"],
+      "correct": 0
+    },
+    {
+      "question": "The force between two charges in a medium is less because of:",
+      "options": ["Dielectric constant > 1", "Lower permeability", "High field lines", "Conduction"],
+      "correct": 0
+    },
+    {
+      "question": "The electric field at the surface of a conductor is:",
+      "options": ["Zero", "Maximum", "Normal to the surface", "Tangential"],
+      "correct": 2
+    },
+    {
+      "question": "Charge on a conductor resides:",
+      "options": ["Inside", "On the surface", "At the center", "Evenly distributed throughout"],
+      "correct": 1
+    },
+    {
+      "question": "A charged body attracts uncharged paper bits due to:",
+      "options": ["Induction", "Conduction", "Radiation", "Reflection"],
+      "correct": 0
+    },
+    {
+      "question": "Two equal positive charges are placed at a distance apart. The electric field at the midpoint is:",
+      "options": ["Zero", "Maximum", "Negative", "Infinite"],
+      "correct": 0
+    },
+    {
+      "question": "The principle of conservation of charge means:",
+      "options": ["Charge can be created", "Charge is never destroyed", "Net charge is constant", "All of the above"],
+      "correct": 2
+    },
+    {
+      "question": "Quantization of charge means:",
+      "options": ["Charge is discrete", "Charge is continuous", "Charge is infinite", "Charge is conserved"],
+      "correct": 0
+    },
+    {
+      "question": "Electric field inside a conductor is:",
+      "options": ["Non-zero", "Zero", "Infinite", "None"],
+      "correct": 1
+    },
+    {
+      "question": "In SI units, ε₀ (permittivity of free space) has units of:",
+      "options": ["C/Nm", "C²/Nm²", "Nm²/C²", "F/m"],
+      "correct": 3
+    },
+    {
+      "question": "Which instrument is used to detect electric charge?",
+      "options": ["Ammeter", "Voltmeter", "Electroscope", "Galvanometer"],
+      "correct": 2
+    },
+    {
+      "question": "Two charges +q and –q are placed at a distance. Their electric dipole moment is:",
+      "options": ["q × r", "q/r", "q/r²", "qr²"],
+      "correct": 0
+    },
+    {
+      "question": "Electric field at axial point of a dipole is proportional to:",
+      "options": ["1/r", "1/r²", "1/r³", "1/r⁴"],
+      "correct": 2
+    },
+    {
+      "question": "The electric dipole moment is a:",
+      "options": ["Scalar", "Vector", "Tensor", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Electric flux through a closed surface depends on:",
+      "options": ["Shape", "Area", "Enclosed charge", "Medium only"],
+      "correct": 2
+    },
+    {
+      "question": "Work done in moving a charge on an equipotential surface is:",
+      "options": ["Maximum", "Zero", "Minimum", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Field lines for positive point charge are:",
+      "options": ["Inward", "Outward", "Circular", "Helical"],
+      "correct": 1
+    },
+    {
+      "question": "If a charge is doubled, electric field at a point:",
+      "options": ["Halves", "Remains same", "Becomes double", "Becomes four times"],
+      "correct": 2
+    },
+    {
+      "question": "Coulomb’s law is valid for:",
+      "options": ["Point charges", "Charges in motion", "Very large charges", "Only in conductors"],
+      "correct": 0
+    },
+    {
+      "question": "The electric field at the center of a uniformly charged ring is:",
+      "options": ["Zero", "Maximum", "Minimum", "Equal to kq/r²"],
+      "correct": 0
+    },
+    {
+      "question": "The angle between electric field and equipotential surface is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a vector quantity?",
+      "options": ["Electric field", "Electric force", "Electric potential", "Electric dipole moment"],
+      "correct": 2
+    },
+    {
+      "question": "If electric field is uniform, electric flux through cube is:",
+      "options": ["0", "Maximum", "Minimum", "Infinite"],
+      "correct": 0
+    },
+    {
+      "question": "An electric dipole in a uniform electric field experiences:",
+      "options": ["Force only", "Torque only", "Torque and zero net force", "No effect"],
+      "correct": 2
+    },
+    {
+      "question": "Unit of electric dipole moment is:",
+      "options": ["Cm", "C/m", "C/m²", "C·m"],
+      "correct": 3
+    },
+    {
+      "question": "Electric field intensity at a point is equal to:",
+      "options": ["Force per unit charge", "Charge per unit force", "Charge per unit area", "Potential per unit charge"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is dimensionless?",
+      "options": ["Dielectric constant", "Electric field", "Charge", "Flux"],
+      "correct": 0
+    },
+    {
+      "question": "The direction of torque on a dipole is:",
+      "options": ["Along dipole moment", "Along electric field", "Perpendicular to both", "Zero"],
+      "correct": 2
+    },
+    {
+      "question": "Electric field due to infinite line charge varies as:",
+      "options": ["1/r", "1/r²", "r", "constant"],
+      "correct": 0
+    },
+    {
+      "question": "A point charge is kept inside a conductor. The field inside is:",
+      "options": ["Uniform", "Zero", "Infinite", "Maximum"],
+      "correct": 1
+    },
+    {
+      "question": "Electric field inside a charged spherical shell is:",
+      "options": ["Maximum", "Zero", "Uniform", "Variable"],
+      "correct": 1
+    },
+    {
+      "question": "A uniformly charged sphere behaves like a point charge:",
+      "options": ["Inside", "Outside", "At center", "Everywhere"],
+      "correct": 1
+    },
+    {
+      "question": "Total charge enclosed by a Gaussian surface is zero. The field at the surface is:",
+      "options": ["Zero everywhere", "Zero at some points", "Maximum", "Infinite"],
+      "correct": 1
+    }
+  ]
+}

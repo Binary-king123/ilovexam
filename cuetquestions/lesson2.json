@@ -1,0 +1,269 @@
+{
+  "test": [
+    {
+      "question": "Which of the following quantities can be zero for a moving body?",
+      "options": ["Displacement", "Distance", "Speed", "Velocity"],
+      "correct": 0
+    },
+    {
+      "question": "The slope of a displacement-time graph represents:",
+      "options": ["Acceleration", "Velocity", "Displacement", "Jerk"],
+      "correct": 1
+    },
+    {
+      "question": "A body moves with constant acceleration. Which of the following is true?",
+      "options": [
+        "Velocity is constant",
+        "Displacement is zero",
+        "Change in velocity is uniform",
+        "Speed is zero"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Area under velocity-time graph gives:",
+      "options": ["Speed", "Acceleration", "Displacement", "Distance only"],
+      "correct": 2
+    },
+    {
+      "question": "A particle starts from rest. Its displacement is proportional to square of time. Then:",
+      "options": [
+        "Velocity is constant",
+        "Acceleration is constant",
+        "Velocity is proportional to time",
+        "Acceleration decreases with time"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If a car is moving with uniform velocity, its acceleration is:",
+      "options": ["Zero", "Increasing", "Decreasing", "Constant but not zero"],
+      "correct": 0
+    },
+    {
+      "question": "A body is thrown vertically upward with speed u. The time to reach maximum height is:",
+      "options": ["u/g", "g/u", "u^2/g", "g^2/u"],
+      "correct": 0
+    },
+    {
+      "question": "A body falls freely from rest. Its velocity after t seconds is:",
+      "options": ["gt", "g/t", "2gt", "gt^2"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following graphs is not possible for a moving body?",
+      "options": ["Distance-time straight line", "Velocity-time curved", "Distance-time decreasing", "Acceleration-time constant"],
+      "correct": 2
+    },
+    {
+      "question": "A ball thrown upwards returns to ground. Its acceleration during motion is:",
+      "options": ["Zero", "9.8 m/s² upward", "9.8 m/s² downward", "Variable"],
+      "correct": 2
+    },
+    {
+      "question": "Which quantity does not change with direction?",
+      "options": ["Displacement", "Velocity", "Speed", "Acceleration"],
+      "correct": 2
+    },
+    {
+      "question": "A particle is moving in a straight line with uniform acceleration. Which of the following is correct?",
+      "options": ["v = u + at", "s = vt", "s = ut", "v = at^2"],
+      "correct": 0
+    },
+    {
+      "question": "A car accelerates uniformly from 20 m/s to 40 m/s in 5 seconds. Acceleration is:",
+      "options": ["2 m/s²", "4 m/s²", "6 m/s²", "10 m/s²"],
+      "correct": 0
+    },
+    {
+      "question": "What is the distance travelled by a body in nth second of motion under constant acceleration?",
+      "options": [
+        "u + (a/2)(2n - 1)",
+        "u + an",
+        "u + at",
+        "u(n - 1) + (1/2)an^2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If a particle is decelerating, then:",
+      "options": ["Velocity increases", "Acceleration is positive", "Acceleration is negative", "Displacement is zero"],
+      "correct": 2
+    },
+    {
+      "question": "A particle is moving with uniform acceleration. The velocity after time t is given by:",
+      "options": ["u + at", "u - at", "ut + ½at²", "at²"],
+      "correct": 0
+    },
+    {
+      "question": "The units of acceleration are:",
+      "options": ["m/s", "m/s²", "m²/s", "m²/s²"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following quantities is scalar?",
+      "options": ["Displacement", "Acceleration", "Velocity", "Speed"],
+      "correct": 3
+    },
+    {
+      "question": "A body thrown vertically upward has:",
+      "options": ["Negative velocity, negative acceleration", "Positive velocity, negative acceleration", "Negative velocity, positive acceleration", "Positive velocity, positive acceleration"],
+      "correct": 1
+    },
+    {
+      "question": "Instantaneous speed is defined as:",
+      "options": [
+        "Total distance/total time",
+        "Rate of change of displacement",
+        "Speed at a particular instant",
+        "Average speed between two points"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If acceleration is zero, then the velocity-time graph is:",
+      "options": ["A straight line passing through origin", "A parabola", "A horizontal line", "A vertical line"],
+      "correct": 2
+    },
+    {
+      "question": "The acceleration of a freely falling body is:",
+      "options": ["0", "9.8 m/s²", "-9.8 m/s²", "g^2"],
+      "correct": 1
+    },
+    {
+      "question": "If velocity is constant, then displacement-time graph is:",
+      "options": ["Parabola", "Straight line with zero slope", "Straight line with constant slope", "Horizontal line"],
+      "correct": 2
+    },
+    {
+      "question": "A car moves with a velocity of 20 m/s and comes to rest in 10 seconds. Acceleration is:",
+      "options": ["-2 m/s²", "2 m/s²", "-0.5 m/s²", "0"],
+      "correct": 0
+    },
+    {
+      "question": "Displacement can be:",
+      "options": ["Only positive", "Only negative", "Zero or negative", "Positive, negative or zero"],
+      "correct": 3
+    },
+    {
+      "question": "The SI unit of displacement is:",
+      "options": ["m/s", "m/s²", "m", "cm"],
+      "correct": 2
+    },
+    {
+      "question": "When a body is thrown vertically upward, its velocity at the highest point is:",
+      "options": ["Maximum", "Minimum", "Zero", "Infinite"],
+      "correct": 2
+    },
+    {
+      "question": "Distance covered by a uniformly accelerated body in nth second is:",
+      "options": ["u + (1/2)at²", "u + a(n - 1/2)", "u + (a/2)(2n - 1)", "u(n - 1) + ½an"],
+      "correct": 2
+    },
+    {
+      "question": "If a particle moves with constant acceleration, its velocity-time graph is:",
+      "options": ["Curved", "Horizontal", "Straight line", "Exponential"],
+      "correct": 2
+    },
+    {
+      "question": "What is the dimension of velocity?",
+      "options": ["[LT^-1]", "[L^2T^-2]", "[LT^2]", "[L^0T^-1]"],
+      "correct": 0
+    },
+    {
+      "question": "If acceleration is constant, then:",
+      "options": ["Velocity is constant", "Velocity is increasing linearly", "Velocity is zero", "Displacement is constant"],
+      "correct": 1
+    },
+    {
+      "question": "When a particle returns to the same point, its displacement is:",
+      "options": ["Zero", "Equal to distance", "Negative", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If velocity is changing, then the body is said to be:",
+      "options": ["At rest", "In uniform motion", "In accelerated motion", "Having zero acceleration"],
+      "correct": 2
+    },
+    {
+      "question": "Average speed is always:",
+      "options": ["Equal to average velocity", "Less than average velocity", "Greater than or equal to average velocity", "Zero"],
+      "correct": 2
+    },
+    {
+      "question": "A body starts from rest. What is its initial velocity?",
+      "options": ["1", "0", "∞", "g"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following quantities can be negative?",
+      "options": ["Speed", "Distance", "Velocity", "Time"],
+      "correct": 2
+    },
+    {
+      "question": "The quantity that gives both magnitude and direction is:",
+      "options": ["Scalar", "Vector", "Speed", "Distance"],
+      "correct": 1
+    },
+    {
+      "question": "A velocity-time graph parallel to time axis shows:",
+      "options": ["Zero acceleration", "Constant acceleration", "Zero velocity", "Retardation"],
+      "correct": 0
+    },
+    {
+      "question": "When the slope of a displacement-time graph is increasing, it shows:",
+      "options": ["Increasing speed", "Decreasing speed", "Uniform speed", "Zero acceleration"],
+      "correct": 0
+    },
+    {
+      "question": "Retardation means:",
+      "options": ["Positive acceleration", "Increasing velocity", "Decreasing velocity", "Uniform velocity"],
+      "correct": 2
+    },
+    {
+      "question": "If a particle moves with zero acceleration:",
+      "options": ["Velocity is zero", "Velocity is constant", "Velocity is increasing", "Displacement is zero"],
+      "correct": 1
+    },
+    {
+      "question": "The area under an acceleration-time graph represents:",
+      "options": ["Velocity", "Displacement", "Distance", "Jerk"],
+      "correct": 0
+    },
+    {
+      "question": "For a freely falling body, displacement is proportional to:",
+      "options": ["t", "t^2", "1/t", "t^3"],
+      "correct": 1
+    },
+    {
+      "question": "A body is moving with uniform acceleration. The distance covered in nth second is:",
+      "options": [
+        "u + ½a(2n - 1)",
+        "u(n - 1) + at",
+        "u(n - 1) + ½a(n² - 1)",
+        "½a(2n - 1)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The SI unit of acceleration is:",
+      "options": ["m", "m/s", "m/s²", "s²/m"],
+      "correct": 2
+    },
+    {
+      "question": "A body covers 10 m in 1st second, 20 m in 2nd, 30 m in 3rd. What is the nature of motion?",
+      "options": ["Uniform", "Non-uniform", "Accelerated", "Retarded"],
+      "correct": 2
+    },
+    {
+      "question": "A body moves in a straight line with increasing velocity. Its acceleration is:",
+      "options": ["Positive", "Negative", "Zero", "Variable"],
+      "correct": 0
+    },
+    {
+      "question": "When a body is thrown upward, acceleration is:",
+      "options": ["Upward", "Zero", "Downward", "Variable"],
+      "correct": 2
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The main excretory product in humans is:",
+      "options": ["Uric acid", "Ammonia", "Urea", "Creatinine"],
+      "correct": 2
+    },
+    {
+      "question": "The functional unit of the kidney is:",
+      "options": ["Neuron", "Nephron", "Glomerulus", "Bowman's capsule"],
+      "correct": 1
+    },
+    {
+      "question": "Which blood vessel brings blood to the kidneys?",
+      "options": ["Renal artery", "Renal vein", "Aorta", "Hepatic vein"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is reabsorbed in the PCT?",
+      "options": ["Urea", "Creatinine", "Glucose", "All of the above"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone increases water reabsorption?",
+      "options": ["ADH", "Aldosterone", "Insulin", "Glucagon"],
+      "correct": 0
+    },
+    {
+      "question": "Which part of nephron is impermeable to water?",
+      "options": ["PCT", "DCT", "Descending limb", "Ascending limb of loop of Henle"],
+      "correct": 3
+    },
+    {
+      "question": "Uricotelic animals excrete:",
+      "options": ["Urea", "Ammonia", "Uric acid", "CO₂"],
+      "correct": 2
+    },
+    {
+      "question": "Which nitrogenous waste requires the least water for excretion?",
+      "options": ["Urea", "Ammonia", "Uric acid", "Creatinine"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone regulates sodium reabsorption?",
+      "options": ["ADH", "Thyroxine", "Aldosterone", "Glucagon"],
+      "correct": 2
+    },
+    {
+      "question": "Malpighian tubules are excretory structures in:",
+      "options": ["Frogs", "Birds", "Cockroach", "Earthworm"],
+      "correct": 2
+    },
+    {
+      "question": "Glomerular filtration rate (GFR) in healthy humans is:",
+      "options": ["100 mL/min", "125 mL/min", "50 mL/min", "200 mL/min"],
+      "correct": 1
+    },
+    {
+      "question": "Filtration in glomerulus occurs due to:",
+      "options": ["Osmosis", "Active transport", "Hydrostatic pressure", "Passive diffusion"],
+      "correct": 2
+    },
+    {
+      "question": "Which structure collects urine from nephrons?",
+      "options": ["Ureter", "Urethra", "Collecting duct", "Renal pelvis"],
+      "correct": 2
+    },
+    {
+      "question": "Excess urea in blood is called:",
+      "options": ["Uremia", "Hematuria", "Diuresis", "Glycosuria"],
+      "correct": 0
+    },
+    {
+      "question": "The loop of Henle is longest in:",
+      "options": ["Freshwater fish", "Amphibians", "Desert animals", "Marine fish"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is NOT part of nephron?",
+      "options": ["Bowman’s capsule", "Loop of Henle", "Renal pelvis", "Collecting duct"],
+      "correct": 2
+    },
+    {
+      "question": "Which component is NOT normally present in urine?",
+      "options": ["Urea", "Uric acid", "Glucose", "Creatinine"],
+      "correct": 2
+    },
+    {
+      "question": "Presence of ketone bodies in urine indicates:",
+      "options": ["Diabetes mellitus", "Dehydration", "Hypertension", "Renal failure"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is secreted by JGA?",
+      "options": ["Renin", "Insulin", "Vasopressin", "Aldosterone"],
+      "correct": 0
+    },
+    {
+      "question": "Which part of nephron is responsible for filtration?",
+      "options": ["PCT", "Loop of Henle", "Glomerulus", "DCT"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an excretory organ in earthworm?",
+      "options": ["Flame cell", "Nephridia", "Malpighian tubules", "Green glands"],
+      "correct": 1
+    },
+    {
+      "question": "Urine is temporarily stored in:",
+      "options": ["Kidney", "Ureter", "Bladder", "Urethra"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is NOT a function of kidney?",
+      "options": ["Excretion", "Osmoregulation", "Secretion of insulin", "Acid-base balance"],
+      "correct": 2
+    },
+    {
+      "question": "Which process requires energy in nephron?",
+      "options": ["Filtration", "Passive diffusion", "Reabsorption of glucose", "Osmosis"],
+      "correct": 2
+    },
+    {
+      "question": "The enzyme carbonic anhydrase is found in:",
+      "options": ["Loop of Henle", "Glomerulus", "PCT cells", "Blood plasma"],
+      "correct": 2
+    },
+    {
+      "question": "Which nitrogenous waste is least toxic?",
+      "options": ["Ammonia", "Urea", "Uric acid", "All are equal"],
+      "correct": 2
+    },
+    {
+      "question": "Excretion in Amoeba takes place by:",
+      "options": ["Lungs", "Flame cells", "Contractile vacuole", "Skin"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone increases permeability of collecting duct to water?",
+      "options": ["Aldosterone", "ADH", "Renin", "Insulin"],
+      "correct": 1
+    },
+    {
+      "question": "Ureter connects:",
+      "options": ["Kidney to bladder", "Bladder to urethra", "Kidney to urethra", "Renal vein to bladder"],
+      "correct": 0
+    },
+    {
+      "question": "Which condition shows excess glucose in urine?",
+      "options": ["Uremia", "Diabetes insipidus", "Glycosuria", "Proteinuria"],
+      "correct": 2
+    },
+    {
+      "question": "Main site of selective reabsorption is:",
+      "options": ["PCT", "DCT", "Loop of Henle", "Collecting duct"],
+      "correct": 0
+    },
+    {
+      "question": "Which animal is ammonotelic?",
+      "options": ["Human", "Frog", "Bird", "Lizard"],
+      "correct": 1
+    },
+    {
+      "question": "Kidneys lie in which cavity?",
+      "options": ["Thoracic", "Cranial", "Abdominal", "Pelvic"],
+      "correct": 2
+    },
+    {
+      "question": "The process of voiding urine is called:",
+      "options": ["Filtration", "Micturition", "Excretion", "Osmoregulation"],
+      "correct": 1
+    },
+    {
+      "question": "Which layer of Bowman’s capsule is modified into podocytes?",
+      "options": ["Parietal", "Visceral", "Middle", "Capsular space"],
+      "correct": 1
+    },
+    {
+      "question": "Which component gives urine its yellow color?",
+      "options": ["Urea", "Creatinine", "Urobilinogen", "Uric acid"],
+      "correct": 2
+    },
+    {
+      "question": "Kidneys are protected by which ribs?",
+      "options": ["5–6", "7–8", "11–12", "1–2"],
+      "correct": 2
+    },
+    {
+      "question": "Renal threshold for glucose is:",
+      "options": ["60 mg/dL", "180 mg/dL", "240 mg/dL", "90 mg/dL"],
+      "correct": 1
+    },
+    {
+      "question": "Which structure regulates glomerular blood pressure?",
+      "options": ["DCT", "JGA", "Loop of Henle", "Ureter"],
+      "correct": 1
+    },
+    {
+      "question": "Which protein is NOT filtered through glomerulus?",
+      "options": ["Albumin", "Hemoglobin", "Glucose", "Creatinine"],
+      "correct": 0
+    },
+    {
+      "question": "Which hormone reduces urine output?",
+      "options": ["ADH", "Renin", "Aldosterone", "Norepinephrine"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not a nitrogenous waste?",
+      "options": ["Urea", "Ammonia", "CO₂", "Uric acid"],
+      "correct": 2
+    },
+    {
+      "question": "Reabsorption of bicarbonate helps in:",
+      "options": ["Filtration", "Acid-base balance", "Micturition", "Oxygen transport"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is excreted in largest amount in urine?",
+      "options": ["Creatinine", "Ammonia", "Urea", "Uric acid"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of nephron forms hyperosmotic medulla?",
+      "options": ["PCT", "DCT", "Loop of Henle", "Glomerulus"],
+      "correct": 2
+    },
+    {
+      "question": "Most water reabsorption occurs in:",
+      "options": ["Loop of Henle", "PCT", "DCT", "Collecting duct"],
+      "correct": 1
+    },
+    {
+      "question": "Counter current system helps in:",
+      "options": ["Pressure filtration", "Concentration of urine", "Excretion of salts", "ADH production"],
+      "correct": 1
+    },
+    {
+      "question": "Insects excrete nitrogen mainly as:",
+      "options": ["Urea", "Uric acid", "Ammonia", "Creatinine"],
+      "correct": 1
+    }
+  ]
+}

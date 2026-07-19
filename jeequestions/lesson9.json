@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The SI unit of pressure is:",
+      "options": ["N", "Pa", "kg/m³", "atm"],
+      "correct": 1
+    },
+    {
+      "question": "The pressure at a depth h in a liquid is given by:",
+      "options": ["ρgh", "ρ/h", "ρg/h", "ρgh²"],
+      "correct": 0
+    },
+    {
+      "question": "Pascal's law deals with:",
+      "options": ["Surface tension", "Buoyant force", "Pressure in a fluid", "Viscosity"],
+      "correct": 2
+    },
+    {
+      "question": "The SI unit of viscosity is:",
+      "options": ["Pa·s", "Ns/m", "N/m²", "m²/s"],
+      "correct": 0
+    },
+    {
+      "question": "Which instrument is used to measure fluid pressure?",
+      "options": ["Barometer", "Manometer", "Thermometer", "Anemometer"],
+      "correct": 1
+    },
+    {
+      "question": "Viscous force is directly proportional to:",
+      "options": ["Area", "Pressure", "Velocity gradient", "Volume"],
+      "correct": 2
+    },
+    {
+      "question": "The pressure is same at all points at the same depth in:",
+      "options": ["Moving fluid", "Static fluid", "Boiling liquid", "Gas only"],
+      "correct": 1
+    },
+    {
+      "question": "The upward force on a submerged object is:",
+      "options": ["Weight", "Tension", "Buoyant force", "Viscous force"],
+      "correct": 2
+    },
+    {
+      "question": "Archimedes’ principle is based on:",
+      "options": ["Viscosity", "Buoyancy", "Surface tension", "Bernoulli’s theorem"],
+      "correct": 1
+    },
+    {
+      "question": "The pressure inside a liquid increases with:",
+      "options": ["Height", "Depth", "Temperature", "Area"],
+      "correct": 1
+    },
+    {
+      "question": "Streamline flow is also known as:",
+      "options": ["Turbulent flow", "Laminar flow", "Random flow", "Irregular flow"],
+      "correct": 1
+    },
+    {
+      "question": "Reynolds number is dimensionless and used to determine:",
+      "options": ["Velocity", "Viscosity", "Nature of flow", "Pressure"],
+      "correct": 2
+    },
+    {
+      "question": "The force resisting motion in fluids is called:",
+      "options": ["Buoyant force", "Pressure", "Drag", "Lift"],
+      "correct": 2
+    },
+    {
+      "question": "Bernoulli’s theorem is a consequence of:",
+      "options": ["Conservation of energy", "Conservation of momentum", "Archimedes' principle", "Pascal's law"],
+      "correct": 0
+    },
+    {
+      "question": "When flow speed increases in a pipe, pressure:",
+      "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+      "correct": 1
+    },
+    {
+      "question": "Surface tension acts along:",
+      "options": ["Normal to surface", "Tangential to surface", "At 45° to surface", "Radially"],
+      "correct": 1
+    },
+    {
+      "question": "Capillary rise is more in:",
+      "options": ["Wide tubes", "Narrow tubes", "Same for all tubes", "Depends on temperature"],
+      "correct": 1
+    },
+    {
+      "question": "Terminal velocity depends on:",
+      "options": ["Density difference", "Radius", "Viscosity", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "In Bernoulli's equation, P + ½ρv² + ρgh is:",
+      "options": ["Momentum", "Mass", "Total energy per unit volume", "Velocity"],
+      "correct": 2
+    },
+    {
+      "question": "Stoke's law is used to calculate:",
+      "options": ["Pressure", "Lift", "Drag force", "Buoyancy"],
+      "correct": 2
+    },
+    {
+      "question": "Fluids can’t resist:",
+      "options": ["Tensile stress", "Compressive stress", "Shearing stress", "Normal stress"],
+      "correct": 2
+    },
+    {
+      "question": "Surface tension of a liquid decreases with:",
+      "options": ["Cooling", "Heating", "Addition of salt", "Increasing pressure"],
+      "correct": 1
+    },
+    {
+      "question": "The height to which liquid rises in a capillary tube is inversely proportional to:",
+      "options": ["Radius", "Density", "Temperature", "Height"],
+      "correct": 0
+    },
+    {
+      "question": "Pressure inside a soap bubble is:",
+      "options": ["Same as atmosphere", "Less than atmosphere", "Greater than atmosphere", "Zero"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following fluids has the highest viscosity?",
+      "options": ["Water", "Oil", "Honey", "Air"],
+      "correct": 2
+    },
+    {
+      "question": "In a capillary tube, liquid rises due to:",
+      "options": ["Surface tension", "Viscosity", "Gravity", "Air pressure"],
+      "correct": 0
+    },
+    {
+      "question": "If area of cross-section increases, the fluid speed:",
+      "options": ["Increases", "Decreases", "Remains constant", "Becomes infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Viscous force acts:",
+      "options": ["Perpendicular to motion", "Along motion", "Opposite to motion", "Tangential to pressure"],
+      "correct": 2
+    },
+    {
+      "question": "SI unit of surface tension is:",
+      "options": ["N/m", "N/m²", "J", "kg·m/s²"],
+      "correct": 0
+    },
+    {
+      "question": "Atmospheric pressure is measured using:",
+      "options": ["Thermometer", "Barometer", "Manometer", "Hydrometer"],
+      "correct": 1
+    },
+    {
+      "question": "Excess pressure inside a spherical drop is:",
+      "options": ["T/R", "2T/R", "3T/R", "4T/R"],
+      "correct": 1
+    },
+    {
+      "question": "The velocity at which a body moves without further acceleration in a fluid is:",
+      "options": ["Capillary velocity", "Terminal velocity", "Escape velocity", "Drift velocity"],
+      "correct": 1
+    },
+    {
+      "question": "The shape of a liquid drop is spherical due to:",
+      "options": ["Viscosity", "Buoyancy", "Gravity", "Surface tension"],
+      "correct": 3
+    },
+    {
+      "question": "Reynolds number depends on:",
+      "options": ["Density", "Velocity", "Viscosity", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Liquids exert pressure:",
+      "options": ["Only downward", "Only upward", "Equally in all directions", "Only sideways"],
+      "correct": 2
+    },
+    {
+      "question": "According to Bernoulli's principle, in a horizontal flow of fluid:",
+      "options": ["Pressure remains constant", "Kinetic energy is constant", "Pressure + K.E. is constant", "Both pressure and velocity are constant"],
+      "correct": 2
+    },
+    {
+      "question": "Which principle is used in hydraulic lifts?",
+      "options": ["Bernoulli's principle", "Archimedes’ principle", "Pascal’s law", "Newton’s law"],
+      "correct": 2
+    },
+    {
+      "question": "Turbulent flow occurs when Reynolds number is:",
+      "options": ["<1000", "Between 1000 and 2000", ">2000", "None"],
+      "correct": 2
+    },
+    {
+      "question": "In streamline flow, adjacent fluid layers move:",
+      "options": ["Opposite directions", "Randomly", "In orderly fashion", "With collisions"],
+      "correct": 2
+    },
+    {
+      "question": "The contact angle is obtuse when:",
+      "options": ["Cohesive > adhesive", "Adhesive > cohesive", "No interaction", "Density = 0"],
+      "correct": 0
+    },
+    {
+      "question": "A body floats in fluid when:",
+      "options": ["Density of body < density of fluid", "Weight > buoyant force", "Viscous force = 0", "Velocity is high"],
+      "correct": 0
+    },
+    {
+      "question": "The buoyant force is equal to:",
+      "options": ["Weight of body", "Mass of body", "Weight of fluid displaced", "Volume of fluid"],
+      "correct": 2
+    },
+    {
+      "question": "If a spherical raindrop divides into 8 droplets, total surface energy:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correct": 0
+    },
+    {
+      "question": "The force per unit length along the surface of a liquid is called:",
+      "options": ["Viscous force", "Surface tension", "Buoyant force", "Drag force"],
+      "correct": 1
+    },
+    {
+      "question": "The excess pressure inside a soap bubble is:",
+      "options": ["T/R", "2T/R", "4T/R", "8T/R"],
+      "correct": 2
+    },
+    {
+      "question": "With increase in temperature, viscosity of liquids:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correct": 1
+    },
+    {
+      "question": "Air pressure decreases with:",
+      "options": ["Depth", "Height", "Time", "Temperature"],
+      "correct": 1
+    },
+    {
+      "question": "If flow is irrotational and incompressible, Bernoulli’s equation is:",
+      "options": ["Not applicable", "Exactly valid", "Partially true", "Only for solids"],
+      "correct": 1
+    }
+  ]
+}

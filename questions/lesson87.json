@@ -1,0 +1,259 @@
+{
+  "test": [
+    {
+      "question": "Which of the following diseases is not caused by bacteria?",
+      "options": ["Typhoid", "Tuberculosis", "Malaria", "Cholera"],
+      "correct": 2
+    },
+    {
+      "question": "Which microorganism causes malaria?",
+      "options": ["Plasmodium", "Trypanosoma", "Entamoeba", "Giardia"],
+      "correct": 0
+    },
+    {
+      "question": "The vector for Plasmodium is:",
+      "options": ["Housefly", "Female Anopheles mosquito", "Male Anopheles mosquito", "Culex mosquito"],
+      "correct": 1
+    },
+    {
+      "question": "The pathogen of tuberculosis is:",
+      "options": ["Mycobacterium leprae", "Salmonella typhi", "Mycobacterium tuberculosis", "Vibrio cholerae"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a viral disease?",
+      "options": ["AIDS", "Typhoid", "Tuberculosis", "Malaria"],
+      "correct": 0
+    },
+    {
+      "question": "AIDS is caused by:",
+      "options": ["HBV", "HIV", "HCV", "HSV"],
+      "correct": 1
+    },
+    {
+      "question": "Common cold is caused by:",
+      "options": ["Rhinovirus", "Adenovirus", "Myxovirus", "Retrovirus"],
+      "correct": 0
+    },
+    {
+      "question": "The toxin produced by Clostridium tetani affects the:",
+      "options": ["Heart", "Kidney", "Lungs", "Central nervous system"],
+      "correct": 3
+    },
+    {
+      "question": "The primary organs of the immune system include:",
+      "options": ["Lymph nodes and spleen", "Bone marrow and thymus", "Tonsils and adenoids", "Skin and mucosa"],
+      "correct": 1
+    },
+    {
+      "question": "The role of histamine is associated with:",
+      "options": ["Blood clotting", "Allergic reaction", "Digestion", "Oxygen transport"],
+      "correct": 1
+    },
+    {
+      "question": "Which immune cells produce antibodies?",
+      "options": ["T cells", "Monocytes", "B cells", "NK cells"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a symptom of malaria?",
+      "options": ["Joint pain", "Severe coughing", "Fever with chills", "Diarrhea"],
+      "correct": 2
+    },
+    {
+      "question": "B-cells mature in:",
+      "options": ["Bone marrow", "Thymus", "Spleen", "Liver"],
+      "correct": 0
+    },
+    {
+      "question": "A vaccine provides:",
+      "options": ["Passive immunity", "Active immunity", "Natural immunity", "No immunity"],
+      "correct": 1
+    },
+    {
+      "question": "Which antibody is found in mucosal secretions?",
+      "options": ["IgG", "IgA", "IgM", "IgE"],
+      "correct": 1
+    },
+    {
+      "question": "Which cell is destroyed by HIV?",
+      "options": ["B lymphocyte", "Helper T lymphocyte", "Plasma cell", "Macrophage"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an autoimmune disease?",
+      "options": ["AIDS", "Diabetes mellitus", "Rheumatoid arthritis", "Malaria"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following causes filariasis?",
+      "options": ["Ascaris", "Wuchereria bancrofti", "Taenia solium", "Ancylostoma"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a protozoan disease?",
+      "options": ["AIDS", "Filariasis", "Malaria", "Pneumonia"],
+      "correct": 2
+    },
+    {
+      "question": "Antivenom is used to treat:",
+      "options": ["Bacterial infection", "Snake bite", "Fungal disease", "Allergy"],
+      "correct": 1
+    },
+    {
+      "question": "Immunization is a method to induce:",
+      "options": ["Genetic modification", "Autoimmunity", "Resistance to disease", "Hormone production"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of the immune system acts as a filter for blood?",
+      "options": ["Thymus", "Spleen", "Bone marrow", "Lymph nodes"],
+      "correct": 1
+    },
+    {
+      "question": "Which one of the following is a fungal disease?",
+      "options": ["Ringworm", "Malaria", "AIDS", "Pneumonia"],
+      "correct": 0
+    },
+    {
+      "question": "Allergens stimulate the secretion of:",
+      "options": ["Histamine", "Insulin", "Pepsin", "Adrenaline"],
+      "correct": 0
+    },
+    {
+      "question": "The immunity given by colostrum is:",
+      "options": ["Active immunity", "Artificial immunity", "Passive immunity", "No immunity"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following diseases is not infectious?",
+      "options": ["Cancer", "AIDS", "Tuberculosis", "Ringworm"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not an STI?",
+      "options": ["Gonorrhea", "Syphilis", "AIDS", "Tuberculosis"],
+      "correct": 3
+    },
+    {
+      "question": "The first vaccine developed by Edward Jenner was for:",
+      "options": ["Polio", "Smallpox", "Measles", "Rabies"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is an example of a physical barrier of the body?",
+      "options": ["Antibodies", "Skin", "Lymphocytes", "Enzymes"],
+      "correct": 1
+    },
+    {
+      "question": "Cancer causing genes are called:",
+      "options": ["Pro-oncogenes", "Oncogenes", "Tumor suppressor genes", "Mutator genes"],
+      "correct": 1
+    },
+    {
+      "question": "The drug Heroin is obtained from:",
+      "options": ["Tobacco", "Cocoa plant", "Opium poppy", "Cannabis"],
+      "correct": 2
+    },
+    {
+      "question": "Which one of the following is a hallucinogen?",
+      "options": ["Cocaine", "Morphine", "LSD", "Alcohol"],
+      "correct": 2
+    },
+    {
+      "question": "Alcoholic drinks primarily affect:",
+      "options": ["Respiratory system", "Circulatory system", "Digestive system", "Nervous system"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following diseases is caused by a helminth?",
+      "options": ["Amoebiasis", "Ascariasis", "Ringworm", "Malaria"],
+      "correct": 1
+    },
+    {
+      "question": "Which disease is also known as Hansen’s disease?",
+      "options": ["Tuberculosis", "Leprosy", "Diphtheria", "Pneumonia"],
+      "correct": 1
+    },
+    {
+      "question": "Which vaccine is given at birth?",
+      "options": ["DPT", "Hepatitis B", "BCG", "OPV"],
+      "correct": 2
+    },
+    {
+      "question": "AIDS can be diagnosed by:",
+      "options": ["X-ray", "Widal test", "ELISA", "Mantoux test"],
+      "correct": 2
+    },
+    {
+      "question": "The most abundant antibody in human blood is:",
+      "options": ["IgA", "IgG", "IgM", "IgE"],
+      "correct": 1
+    },
+    {
+      "question": "The immunity acquired after an infection is:",
+      "options": ["Passive immunity", "Active immunity", "Innate immunity", "Natural immunity"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is not an STI?",
+      "options": ["Gonorrhea", "Syphilis", "Trichomoniasis", "Tuberculosis"],
+      "correct": 3
+    },
+    {
+      "question": "Antibodies are produced by:",
+      "options": ["T-lymphocytes", "B-lymphocytes", "Macrophages", "Monocytes"],
+      "correct": 1
+    },
+    {
+      "question": "Which disease is caused by Salmonella typhi?",
+      "options": ["Cholera", "Typhoid", "TB", "Pneumonia"],
+      "correct": 1
+    },
+    {
+      "question": "Which lymphoid organ filters lymph?",
+      "options": ["Spleen", "Bone marrow", "Lymph nodes", "Thymus"],
+      "correct": 2
+    },
+    {
+      "question": "Benzodiazepines are used to treat:",
+      "options": ["Diabetes", "Hypertension", "Mental illness", "Infection"],
+      "correct": 2
+    },
+    {
+      "question": "Cigarette smoke contains:",
+      "options": ["Carbon dioxide", "Carboxyhemoglobin", "Nicotine", "Alcohol"],
+      "correct": 2
+    },
+    {
+      "question": "Which organ does Hepatitis virus affect?",
+      "options": ["Heart", "Kidney", "Liver", "Brain"],
+      "correct": 2
+    },
+    {
+      "question": "Which drug is a stimulant?",
+      "options": ["Morphine", "Alcohol", "Cocaine", "LSD"],
+      "correct": 2
+    },
+    {
+      "question": "The disease caused by Wuchereria is transmitted by:",
+      "options": ["Housefly", "Sandfly", "Culex mosquito", "Tsetse fly"],
+      "correct": 2
+    },
+    {
+      "question": "Which antibody is involved in allergic response?",
+      "options": ["IgG", "IgA", "IgM", "IgE"],
+      "correct": 3
+    },
+    {
+      "question": "A person with low immunity is more prone to:",
+      "options": ["Genetic disorders", "Infectious diseases", "Hormonal imbalance", "Muscle fatigue"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a cancer-causing agent?",
+      "options": ["Antigen", "Oncogene", "Carcinogen", "Allergen"],
+      "correct": 2
+    }
+  ]
+}

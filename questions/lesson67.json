@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Which phase of the cell cycle is the longest?",
+      "options": ["M phase", "G1 phase", "G2 phase", "S phase"],
+      "correct": 1
+    },
+    {
+      "question": "DNA replication occurs during:",
+      "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
+      "correct": 1
+    },
+    {
+      "question": "Mitosis results in:",
+      "options": ["Four haploid cells", "Two diploid cells", "Two haploid cells", "Four diploid cells"],
+      "correct": 1
+    },
+    {
+      "question": "Which checkpoint checks DNA damage before replication?",
+      "options": ["G1 checkpoint", "G2 checkpoint", "M checkpoint", "S checkpoint"],
+      "correct": 0
+    },
+    {
+      "question": "Chromosomes become visible during:",
+      "options": ["Telophase", "Anaphase", "Metaphase", "Prophase"],
+      "correct": 3
+    },
+    {
+      "question": "Spindle fibers attach to the chromosome at:",
+      "options": ["Chromatid", "Centrosome", "Kinetochore", "Chromonema"],
+      "correct": 2
+    },
+    {
+      "question": "Which enzyme is responsible for unwinding DNA during replication?",
+      "options": ["Ligase", "Primase", "Helicase", "Polymerase"],
+      "correct": 2
+    },
+    {
+      "question": "Crossing over occurs during:",
+      "options": ["Metaphase I", "Prophase I", "Anaphase I", "Telophase I"],
+      "correct": 1
+    },
+    {
+      "question": "Synapsis occurs between:",
+      "options": ["Sister chromatids", "Non-homologous chromosomes", "Homologous chromosomes", "Centrioles"],
+      "correct": 2
+    },
+    {
+      "question": "Cytokinesis in animal cells occurs by:",
+      "options": ["Cell plate formation", "Constriction", "Meiotic spindle", "Cleavage furrow"],
+      "correct": 3
+    },
+    {
+      "question": "Chiasmata are visible during:",
+      "options": ["Zygotene", "Leptotene", "Pachytene", "Diplotene"],
+      "correct": 3
+    },
+    {
+      "question": "The phase between two mitotic divisions is called:",
+      "options": ["G0 phase", "Interphase", "Prophase", "Telophase"],
+      "correct": 1
+    },
+    {
+      "question": "Cell plate formation occurs in:",
+      "options": ["Animal cells", "Bacteria", "Plant cells", "Fungi"],
+      "correct": 2
+    },
+    {
+      "question": "Number of chromosomes in meiosis II are:",
+      "options": ["Same as parent", "Half of parent", "Double of parent", "Varies"],
+      "correct": 1
+    },
+    {
+      "question": "How many chromatids are present in a duplicated chromosome?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Meiosis leads to formation of:",
+      "options": ["2 diploid cells", "4 diploid cells", "2 haploid cells", "4 haploid cells"],
+      "correct": 3
+    },
+    {
+      "question": "The synaptonemal complex is formed in:",
+      "options": ["Prophase I", "Metaphase I", "Anaphase I", "Telophase I"],
+      "correct": 0
+    },
+    {
+      "question": "Which is the shortest phase of cell cycle?",
+      "options": ["G1", "G2", "S", "M"],
+      "correct": 3
+    },
+    {
+      "question": "Anaphase is characterized by:",
+      "options": ["Spindle formation", "Chromosome alignment", "Chromatid separation", "Cell plate formation"],
+      "correct": 2
+    },
+    {
+      "question": "Cytokinesis is the division of:",
+      "options": ["Nucleus", "Cytoplasm", "Chromosomes", "Spindle fibers"],
+      "correct": 1
+    },
+    {
+      "question": "Which structure disappears during prophase?",
+      "options": ["Centrosome", "Spindle fiber", "Nucleolus", "Centromere"],
+      "correct": 2
+    },
+    {
+      "question": "Meiosis occurs in:",
+      "options": ["Somatic cells", "Germ cells", "Muscle cells", "All cells"],
+      "correct": 1
+    },
+    {
+      "question": "Spindle apparatus is made of:",
+      "options": ["Actin", "Microtubules", "Myosin", "Keratin"],
+      "correct": 1
+    },
+    {
+      "question": "G0 phase is a stage of:",
+      "options": ["Active division", "Resting", "DNA replication", "Meiosis"],
+      "correct": 1
+    },
+    {
+      "question": "Equatorial plate is seen during:",
+      "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+      "correct": 1
+    },
+    {
+      "question": "Reduction division is:",
+      "options": ["Mitosis", "Meiosis I", "Meiosis II", "Interphase"],
+      "correct": 1
+    },
+    {
+      "question": "In mitosis, each daughter cell receives:",
+      "options": ["Half the DNA", "Double the DNA", "Same amount of DNA", "Random DNA"],
+      "correct": 2
+    },
+    {
+      "question": "Bivalent formation is observed during:",
+      "options": ["Zygotene", "Leptotene", "Diplotene", "Pachytene"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is a type of asexual division?",
+      "options": ["Mitosis", "Meiosis", "Fertilization", "Synapsis"],
+      "correct": 0
+    },
+    {
+      "question": "Chromatin condenses to form chromosomes in:",
+      "options": ["Metaphase", "Anaphase", "Prophase", "Telophase"],
+      "correct": 2
+    },
+    {
+      "question": "Telophase is marked by:",
+      "options": ["Nuclear envelope breakdown", "Chromosome alignment", "Reappearance of nucleolus", "Chromatid separation"],
+      "correct": 2
+    },
+    {
+      "question": "Mitosis is also called:",
+      "options": ["Reduction division", "Equational division", "Reproductive division", "Genetic division"],
+      "correct": 1
+    },
+    {
+      "question": "Which stage comes after G2 phase?",
+      "options": ["G1", "S", "M", "G0"],
+      "correct": 2
+    },
+    {
+      "question": "Crossing over increases:",
+      "options": ["Chromosome number", "Mutation rate", "Genetic variation", "Chromatin density"],
+      "correct": 2
+    },
+    {
+      "question": "Centrioles replicate during:",
+      "options": ["G1", "S", "G2", "M"],
+      "correct": 1
+    },
+    {
+      "question": "Cohesin proteins are removed during:",
+      "options": ["Metaphase", "Anaphase", "Prophase", "Telophase"],
+      "correct": 1
+    },
+    {
+      "question": "Nucleolus is present during:",
+      "options": ["Prophase", "Metaphase", "Interphase", "Anaphase"],
+      "correct": 2
+    },
+    {
+      "question": "Synapsis and recombination nodules appear during:",
+      "options": ["Pachytene", "Diplotene", "Zygotene", "Leptotene"],
+      "correct": 0
+    },
+    {
+      "question": "Chiasmata help in:",
+      "options": ["DNA replication", "Crossing over", "Spindle formation", "Cytokinesis"],
+      "correct": 1
+    },
+    {
+      "question": "Number of divisions in meiosis:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Meiosis II is similar to:",
+      "options": ["Meiosis I", "Mitosis", "Fertilization", "Prophase"],
+      "correct": 1
+    },
+    {
+      "question": "Centromeres split during:",
+      "options": ["Anaphase I", "Anaphase II", "Telophase I", "Prophase II"],
+      "correct": 1
+    },
+    {
+      "question": "Which structure remains during interphase?",
+      "options": ["Spindle fiber", "Nucleolus", "Chromosomes", "Kinetochore"],
+      "correct": 1
+    },
+    {
+      "question": "Nuclear membrane disappears in:",
+      "options": ["Interphase", "Prophase", "Telophase", "Metaphase"],
+      "correct": 1
+    },
+    {
+      "question": "Which stage is absent in meiosis II?",
+      "options": ["Prophase", "Metaphase", "Crossing over", "Anaphase"],
+      "correct": 2
+    },
+    {
+      "question": "Total duration of cell cycle is longest in:",
+      "options": ["Bacteria", "Yeast", "Human cell", "Virus"],
+      "correct": 2
+    },
+    {
+      "question": "Homologous chromosomes are separated during:",
+      "options": ["Anaphase I", "Anaphase II", "Metaphase I", "Telophase I"],
+      "correct": 0
+    },
+    {
+      "question": "DNA replication occurs in:",
+      "options": ["G1", "G2", "S", "M"],
+      "correct": 2
+    }
+  ]
+}

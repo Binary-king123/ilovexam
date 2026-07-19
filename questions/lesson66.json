@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is the simplest amino acid?",
+      "options": ["Glycine", "Alanine", "Serine", "Valine"],
+      "correct": 0
+    },
+    {
+      "question": "Which biomolecule is known as the ‘energy currency’ of the cell?",
+      "options": ["DNA", "Glucose", "ATP", "RNA"],
+      "correct": 2
+    },
+    {
+      "question": "Cellulose is a polymer of:",
+      "options": ["Glucose", "Fructose", "Galactose", "Maltose"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is a disaccharide?",
+      "options": ["Starch", "Lactose", "Glucose", "Cellulose"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has a steroid structure?",
+      "options": ["Fatty acid", "Glycogen", "Cholesterol", "Sucrose"],
+      "correct": 2
+    },
+    {
+      "question": "The bond linking two monosaccharides is called:",
+      "options": ["Peptide bond", "Glycosidic bond", "Phosphodiester bond", "Hydrogen bond"],
+      "correct": 1
+    },
+    {
+      "question": "Which vitamin is synthesized in the skin in presence of sunlight?",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "correct": 2
+    },
+    {
+      "question": "Proteins are made of:",
+      "options": ["Fatty acids", "Amino acids", "Monosaccharides", "Nucleotides"],
+      "correct": 1
+    },
+    {
+      "question": "The number of amino acids in proteins is:",
+      "options": ["10", "20", "30", "100"],
+      "correct": 1
+    },
+    {
+      "question": "Which one of the following is a saturated fatty acid?",
+      "options": ["Oleic acid", "Linoleic acid", "Palmitic acid", "Arachidonic acid"],
+      "correct": 2
+    },
+    {
+      "question": "Ribose sugar is found in:",
+      "options": ["DNA", "RNA", "ATP", "Both RNA and ATP"],
+      "correct": 3
+    },
+    {
+      "question": "Which test is used for detection of proteins?",
+      "options": ["Fehling’s test", "Biuret test", "Benedict’s test", "Seliwanoff’s test"],
+      "correct": 1
+    },
+    {
+      "question": "The basic unit of nucleic acids is:",
+      "options": ["Amino acid", "Monosaccharide", "Nucleotide", "Fatty acid"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a polysaccharide?",
+      "options": ["Fructose", "Lactose", "Starch", "Sucrose"],
+      "correct": 2
+    },
+    {
+      "question": "Chitin is a:",
+      "options": ["Lipid", "Protein", "Polysaccharide", "Nucleic acid"],
+      "correct": 2
+    },
+    {
+      "question": "The bond between amino acids is called:",
+      "options": ["Glycosidic", "Peptide", "Phosphodiester", "Hydrogen"],
+      "correct": 1
+    },
+    {
+      "question": "DNA differs from RNA in having:",
+      "options": ["Ribose sugar", "Uracil", "Thymine", "Single strand"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following enzymes digests starch?",
+      "options": ["Lipase", "Amylase", "Pepsin", "Trypsin"],
+      "correct": 1
+    },
+    {
+      "question": "Which nitrogenous base is not present in RNA?",
+      "options": ["Adenine", "Thymine", "Cytosine", "Guanine"],
+      "correct": 1
+    },
+    {
+      "question": "The most abundant protein in the human body is:",
+      "options": ["Keratin", "Actin", "Collagen", "Albumin"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a reducing sugar?",
+      "options": ["Glucose", "Fructose", "Sucrose", "Maltose"],
+      "correct": 2
+    },
+    {
+      "question": "Lipids are insoluble in:",
+      "options": ["Ether", "Alcohol", "Water", "Chloroform"],
+      "correct": 2
+    },
+    {
+      "question": "The structure of protein is studied using:",
+      "options": ["Light microscope", "X-ray crystallography", "Colorimeter", "Centrifuge"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following shows amphipathic nature?",
+      "options": ["Protein", "Cholesterol", "Phospholipids", "Starch"],
+      "correct": 2
+    },
+    {
+      "question": "Nucleic acids were first discovered by:",
+      "options": ["Watson", "Crick", "Miescher", "Mendel"],
+      "correct": 2
+    },
+    {
+      "question": "Phosphodiester bonds are found in:",
+      "options": ["Proteins", "Lipids", "Carbohydrates", "DNA"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these is an essential amino acid?",
+      "options": ["Glycine", "Alanine", "Leucine", "Serine"],
+      "correct": 2
+    },
+    {
+      "question": "Quaternary structure of protein refers to:",
+      "options": ["Primary sequence", "Alpha-helix", "Multiple polypeptide chains", "Random coiling"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following lipids forms bilayers in water?",
+      "options": ["Triglycerides", "Waxes", "Phospholipids", "Steroids"],
+      "correct": 2
+    },
+    {
+      "question": "The enzyme which converts glucose to glucose-6-phosphate is:",
+      "options": ["Hexokinase", "Amylase", "ATPase", "Peptidase"],
+      "correct": 0
+    },
+    {
+      "question": "Fructose and glucose combine to form:",
+      "options": ["Maltose", "Lactose", "Sucrose", "Starch"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is a fibrous protein?",
+      "options": ["Collagen", "Albumin", "Insulin", "Hemoglobin"],
+      "correct": 0
+    },
+    {
+      "question": "DNA is double-stranded due to:",
+      "options": ["Ionic bonds", "Hydrogen bonds", "Covalent bonds", "Peptide bonds"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a derived lipid?",
+      "options": ["Fatty acid", "Waxes", "Steroid", "Triglyceride"],
+      "correct": 2
+    },
+    {
+      "question": "The number of peptide bonds in a tripeptide is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a ketose sugar?",
+      "options": ["Glucose", "Galactose", "Fructose", "Ribose"],
+      "correct": 2
+    },
+    {
+      "question": "Biomolecules are primarily composed of:",
+      "options": ["Na, K, Cl, Fe", "C, H, O, N", "Ca, Mg, Zn", "Ni, Co, Mn"],
+      "correct": 1
+    },
+    {
+      "question": "A nucleotide consists of:",
+      "options": ["Base + Sugar", "Base + Phosphate", "Sugar + Phosphate", "Base + Sugar + Phosphate"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is an aromatic amino acid?",
+      "options": ["Glycine", "Phenylalanine", "Leucine", "Serine"],
+      "correct": 1
+    },
+    {
+      "question": "Alpha helix is a feature of:",
+      "options": ["Primary structure", "Secondary structure", "Tertiary structure", "Quaternary structure"],
+      "correct": 1
+    },
+    {
+      "question": "The bond between sugar and phosphate in DNA is:",
+      "options": ["Peptide", "Glycosidic", "Phosphodiester", "Hydrogen"],
+      "correct": 2
+    },
+    {
+      "question": "Which test confirms presence of starch?",
+      "options": ["Fehling's test", "Benedict's test", "Iodine test", "Barfoed's test"],
+      "correct": 2
+    },
+    {
+      "question": "Which biomolecule is responsible for heredity?",
+      "options": ["Lipid", "Protein", "DNA", "Carbohydrate"],
+      "correct": 2
+    },
+    {
+      "question": "Which element is found in proteins but not carbohydrates?",
+      "options": ["Oxygen", "Nitrogen", "Hydrogen", "Carbon"],
+      "correct": 1
+    },
+    {
+      "question": "The tertiary structure of proteins is stabilized by:",
+      "options": ["Peptide bonds", "Hydrogen bonds", "Disulfide bridges", "Glycosidic bonds"],
+      "correct": 2
+    },
+    {
+      "question": "Nucleoside is composed of:",
+      "options": ["Base + Sugar + Phosphate", "Base + Sugar", "Sugar + Phosphate", "Base + Phosphate"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a reducing sugar?",
+      "options": ["Sucrose", "Glucose", "Starch", "Cellulose"],
+      "correct": 1
+    },
+    {
+      "question": "Benedict’s test is used for detection of:",
+      "options": ["Proteins", "Lipids", "Reducing sugars", "DNA"],
+      "correct": 2
+    },
+    {
+      "question": "A denatured protein loses its:",
+      "options": ["Primary structure", "Sequence of amino acids", "Biological activity", "All chemical bonds"],
+      "correct": 2
+    }
+  ]
+}

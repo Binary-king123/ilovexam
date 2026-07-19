@@ -1,0 +1,259 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a primary alkyl halide?",
+      "options": ["2-Bromobutane", "1-Bromopropane", "2-Chloropropane", "2-Iodobutane"],
+      "correct": 1
+    },
+    {
+      "question": "The general formula of haloalkanes is:",
+      "options": ["CₙH₂ₙ₊₂", "CₙH₂ₙ₊₁X", "CₙH₂ₙ", "CₙH₂ₙ₋₂"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is used in fire extinguishers?",
+      "options": ["Chloroform", "Carbon tetrachloride", "Bromoethane", "Ethyl chloride"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is least reactive towards SN1?",
+      "options": ["Tertiary alkyl halide", "Secondary alkyl halide", "Primary alkyl halide", "Benzyl halide"],
+      "correct": 2
+    },
+    {
+      "question": "The best method to prepare alkyl halides is:",
+      "options": ["Halogenation of alkanes", "From alcohols with HX", "Friedel-Crafts reaction", "Oxidation of alkenes"],
+      "correct": 1
+    },
+    {
+      "question": "In SN2 reaction, the rate depends on:",
+      "options": ["Only alkyl halide", "Only nucleophile", "Both alkyl halide and nucleophile", "Solvent only"],
+      "correct": 2
+    },
+    {
+      "question": "Which compound is used as an anesthetic?",
+      "options": ["Chlorobenzene", "Chloroform", "Fluorobenzene", "Bromobenzene"],
+      "correct": 1
+    },
+    {
+      "question": "Chlorobenzene is less reactive than chloromethane due to:",
+      "options": [
+        "Steric hindrance",
+        "Inductive effect",
+        "Resonance stabilization",
+        "Electronegativity"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The C–X bond in alkyl halides is:",
+      "options": ["Non-polar", "Polar covalent", "Ionic", "Metallic"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following undergoes SN1 reaction fastest?",
+      "options": ["1° alkyl halide", "2° alkyl halide", "3° alkyl halide", "Methyl halide"],
+      "correct": 2
+    },
+    {
+      "question": "Reagent used to convert alcohols to alkyl chlorides is:",
+      "options": ["NaCl", "HCl", "PCl5", "Cl2"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following undergoes nucleophilic substitution easily?",
+      "options": ["Vinyl chloride", "Allyl chloride", "Chlorobenzene", "Benzyl chloride"],
+      "correct": 3
+    },
+    {
+      "question": "Chlorofluorocarbons are harmful to:",
+      "options": ["Human blood", "Atmosphere", "Ozone layer", "Water bodies"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a gem-dihalide?",
+      "options": ["CH₂Cl–CH₂Cl", "CH₃–CCl₂–CH₃", "CCl₄", "C₂H₅Cl"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is most reactive towards SN2?",
+      "options": ["CH₃Cl", "CH₃CH₂Cl", "CH₃CH₂CH₂Cl", "(CH₃)₃CCl"],
+      "correct": 0
+    },
+    {
+      "question": "Chlorobenzene can be prepared by:",
+      "options": [
+        "Wurtz reaction",
+        "Reimer–Tiemann reaction",
+        "Dow’s process",
+        "Cannizzaro reaction"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Dow’s process involves:",
+      "options": ["C6H5Cl + NaOH", "C6H6 + Cl2", "C6H5OH + NaCl", "C6H5Cl + KOH"],
+      "correct": 0
+    },
+    {
+      "question": "In SN2 reaction, the attacking nucleophile attacks from:",
+      "options": ["Front side", "Top", "Back side", "Any side"],
+      "correct": 2
+    },
+    {
+      "question": "Wurtz reaction involves reaction of:",
+      "options": ["Alkanes with Na", "Alkyl halides with Na", "Alkenes with Cl2", "Arenes with Br2"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a vicinal dihalide?",
+      "options": ["CH2Cl–CH2Cl", "CH3–CHCl2", "CHCl2–CH2Cl", "CHCl2–CHCl2"],
+      "correct": 0
+    },
+    {
+      "question": "What is the product of chlorination of methane in sunlight?",
+      "options": ["CH3Cl", "CH2Cl2", "CHCl3", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which halogen has the strongest C–X bond?",
+      "options": ["Cl", "Br", "F", "I"],
+      "correct": 2
+    },
+    {
+      "question": "Order of bond strength in haloalkanes is:",
+      "options": ["C–I > C–Br > C–Cl", "C–F > C–Cl > C–Br > C–I", "C–Br > C–F > C–I", "C–I > C–Cl > C–F"],
+      "correct": 1
+    },
+    {
+      "question": "Which is more reactive in nucleophilic substitution?",
+      "options": ["Tertiary alkyl halide", "Primary alkyl halide", "Allyl halide", "Vinyl halide"],
+      "correct": 2
+    },
+    {
+      "question": "Iodoform test is given by:",
+      "options": ["CH3CH2Cl", "CH3CH(OH)CH3", "CH3I", "CHCl3"],
+      "correct": 1
+    },
+    {
+      "question": "SN2 reactions are favored in:",
+      "options": ["Polar protic solvents", "Non-polar solvents", "Polar aprotic solvents", "Aromatic solvents"],
+      "correct": 2
+    },
+    {
+      "question": "Chloroform is stored in dark bottles because:",
+      "options": ["It is explosive", "It decomposes in sunlight", "It turns acidic", "It evaporates"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a secondary alkyl halide?",
+      "options": ["1-chloropropane", "2-chloropropane", "3-chloropentane", "2-chlorobutane"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound gives white precipitate with AgNO3?",
+      "options": ["CH3Cl", "CH3CH2Cl", "CH3CH2Br", "CH3CH2I"],
+      "correct": 0
+    },
+    {
+      "question": "In SN1 mechanism, the slowest step is:",
+      "options": ["Attack of nucleophile", "Formation of carbocation", "Leaving group departure", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Grignard reagent is prepared using:",
+      "options": ["Alkyl halide and Na", "Alkyl halide and Mg", "Alcohol and Mg", "Ether and Mg"],
+      "correct": 1
+    },
+    {
+      "question": "Aryl halides are less reactive because:",
+      "options": ["Resonance", "Lack of polar character", "Electronegativity", "Steric hindrance"],
+      "correct": 0
+    },
+    {
+      "question": "The major product of chlorination of methane is:",
+      "options": ["CH3Cl", "CHCl3", "CH2Cl2", "CCl4"],
+      "correct": 0
+    },
+    {
+      "question": "The reactivity order in SN1 is:",
+      "options": ["3° > 2° > 1°", "1° > 2° > 3°", "2° > 1° > 3°", "3° < 2° < 1°"],
+      "correct": 0
+    },
+    {
+      "question": "Lucas test is used to identify:",
+      "options": ["Alcohols", "Haloalkanes", "Carboxylic acids", "Phenols"],
+      "correct": 0
+    },
+    {
+      "question": "Reagent used for dehydrohalogenation is:",
+      "options": ["NaOH(aq)", "KOH(alc)", "HCl", "HBr"],
+      "correct": 1
+    },
+    {
+      "question": "C–X bond length increases in the order:",
+      "options": ["C–F < C–Cl < C–Br < C–I", "C–I < C–Br < C–Cl < C–F", "C–Cl < C–F < C–I", "C–F < C–Br < C–Cl"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is least reactive?",
+      "options": ["Allyl chloride", "Vinyl chloride", "Benzyl chloride", "Methyl chloride"],
+      "correct": 1
+    },
+    {
+      "question": "SN2 reactions proceed via:",
+      "options": ["Carbocation", "Carbanion", "Transition state", "Free radical"],
+      "correct": 2
+    },
+    {
+      "question": "Which compound gives yellow ppt with AgNO3?",
+      "options": ["CH3Cl", "CH3CH2Br", "CH3CH2I", "CH3CH2Cl"],
+      "correct": 2
+    },
+    {
+      "question": "Which halide is most reactive in Wurtz reaction?",
+      "options": ["Chloride", "Bromide", "Iodide", "Fluoride"],
+      "correct": 2
+    },
+    {
+      "question": "Fluorine is not used in Wurtz reaction because:",
+      "options": ["It is too reactive", "It forms stable compounds", "It’s inert", "It’s insoluble"],
+      "correct": 0
+    },
+    {
+      "question": "Chlorobenzene on reaction with NaOH under pressure gives:",
+      "options": ["Benzene", "Phenol", "Chlorophenol", "Benzyl alcohol"],
+      "correct": 1
+    },
+    {
+      "question": "Alkyl iodide on heating with aqueous NaOH gives:",
+      "options": ["Alcohol", "Ether", "Aldehyde", "Alkene"],
+      "correct": 0
+    },
+    {
+      "question": "In nucleophilic substitution, better leaving group is:",
+      "options": ["F⁻", "Cl⁻", "Br⁻", "I⁻"],
+      "correct": 3
+    },
+    {
+      "question": "Tertiary halide is most reactive due to:",
+      "options": ["Steric hindrance", "Stable carbocation", "Weak bond", "Strong bond"],
+      "correct": 1
+    },
+    {
+      "question": "CFCs are responsible for:",
+      "options": ["Global warming", "Ozone depletion", "Smog", "Acid rain"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an antiseptic?",
+      "options": ["Iodoform", "Chloroform", "Fluoroform", "Bromoform"],
+      "correct": 0
+    },
+    {
+      "question": "The haloalkane used in refrigeration is:",
+      "options": ["Freon-12", "Chloroform", "Bromoform", "Iodoform"],
+      "correct": 0
+    }
+  ]
+}

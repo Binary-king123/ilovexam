@@ -1,0 +1,214 @@
+{
+  "test": [
+    {
+      "question": "Bt cotton plants are genetically modified to express:",
+      "options": ["Vitamin A", "Bt toxin", "Herbicide resistance", "Virus resistance"],
+      "correct": 1
+    },
+    {
+      "question": "Golden rice is engineered to produce:",
+      "options": ["Vitamin A", "Iron", "Protein", "Vitamin C"],
+      "correct": 0
+    },
+    {
+      "question": "Which vaccine is produced using recombinant DNA technology?",
+      "options": ["Polio", "BCG", "Hepatitis B", "Rabies"],
+      "correct": 2
+    },
+    {
+      "question": "Insulin produced via rDNA is:",
+      "options": ["Animal insulin", "Porcine insulin", "Human insulin", "Plant insulin"],
+      "correct": 2
+    },
+    {
+      "question": "Gene therapy involves:",
+      "options": ["Replacing faulty genes", "Cloning animals", "Mass producing proteins", "Sequencing DNA"],
+      "correct": 0
+    },
+    {
+      "question": "Which biotechnology is used in cheese making?",
+      "options": ["rDNA", "Hybridization", "Fermentation", "Cloning"],
+      "correct": 2
+    },
+    {
+      "question": "Which bacteria produce statins?",
+      "options": ["E. coli", "Monascus purpureus", "Streptomyces", "Penicillium"],
+      "correct": 1
+    },
+    {
+      "question": "Bioremediation involves:",
+      "options": ["Pollution control using microbes", "Gene editing", "Cloning plants", "Producing vaccines"],
+      "correct": 0
+    },
+    {
+      "question": "Which method is used for diagnosing genetic disorders?",
+      "options": ["ELISA", "PCR", "Gel electrophoresis", "Western blot"],
+      "correct": 1
+    },
+    {
+      "question": "Microbial production of biofuel primarily involves:",
+      "options": ["Ethanol from sugarcane", "Methane via methanogens", "Butane production", "Hydrogen fermentation"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a transgenic animal?",
+      "options": ["Sheep", "Goat", "Mice with GFP gene", "Cow"],
+      "correct": 2
+    },
+    {
+      "question": "Which biotechnology is employed in making DNA vaccines?",
+      "options": ["rDNA", "CRISPR", "Gene therapy", "RNA interference"],
+      "correct": 0
+    },
+    {
+      "question": "Agroinfiltration is used for transient expression in:",
+      "options": ["Animals", "Plants", "Fungi", "Bacteria"],
+      "correct": 1
+    },
+    {
+      "question": "Probes in Southern blotting are made of:",
+      "options": ["RNA", "Protein", "DNA", "Carbohydrate"],
+      "correct": 2
+    },
+    {
+      "question": "Gene silencing can be achieved using:",
+      "options": ["siRNA", "Antibodies", "Ligases", "Restriction enzymes"],
+      "correct": 0
+    },
+    {
+      "question": "Biopharming refers to:",
+      "options": ["Pharmaceuticals using biotech", "Animal breeding", "Plant tissue culture", "Fermentation"],
+      "correct": 0
+    },
+    {
+      "question": "CRISPR–Cas9 is used for:",
+      "options": ["Protein synthesis", "Genome editing", "PCR", "Sequencing"],
+      "correct": 1
+    },
+    {
+      "question": "Which method helps detect gene expression?",
+      "options": ["Southern blot", "Northern blot", "Western blot", "Eastern blot"],
+      "correct": 1
+    },
+    {
+      "question": "Southern blot is used to detect:",
+      "options": ["RNA", "DNA", "Protein", "Metabolites"],
+      "correct": 1
+    },
+    {
+      "question": "Western blot detects:",
+      "options": ["Lipids", "Proteins", "DNA", "RNA"],
+      "correct": 1
+    },
+    {
+      "question": "Which organism is used to produce r-DNA insulin?",
+      "options": ["E. coli", "Yeast", "Plant", "Animal cells"],
+      "correct": 0
+    },
+    {
+      "question": "Expression of useful genes in microbes is possible via:",
+      "options": ["Operons", "Promoters", "Vectors", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Biotechnology helps in reducing:",
+      "options": ["Wealth gap", "Pollution", "Population", "Diseases"],
+      "correct": 1
+    },
+    {
+      "question": "Which method is used to amplify DNA segments?",
+      "options": ["PCR", "ELISA", "Western blot", "Microarray"],
+      "correct": 0
+    },
+    {
+      "question": "DNA chips are used for:",
+      "options": ["DNA sequencing", "Gene expression profiling", "Protein purification", "Cloning"],
+      "correct": 1
+    },
+    {
+      "question": "Which biotechnology produces bioethanol?",
+      "options": ["Algae fermentation", "Plant cloning", "Biogas", "Hybridization"],
+      "correct": 0
+    },
+    {
+      "question": "Golden rice addresses deficiency of:",
+      "options": ["Vitamin C", "Vitamin A", "Iron", "Protein"],
+      "correct": 1
+    },
+    {
+      "question": "Transgenic plants can express:",
+      "options": ["Bt toxin", "Human proteins", "Stress‑tolerance genes", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "DNA fingerprinting is used for:",
+      "options": ["Cloning", "Identification", "Sequencing", "PCR"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is used for gene therapy?",
+      "options": ["Vectors", "Electroporation", "PCR", "Centrifugation"],
+      "correct": 0
+    },
+    {
+      "question": "RNA interference involves:",
+      "options": ["Gene activation", "Gene silencing", "DNA cutting", "Protein binding"],
+      "correct": 1
+    },
+    {
+      "question": "Which technique is used to detect specific proteins?",
+      "options": ["Northern blot", "Southern blot", "Western blot", "Eastern blot"],
+      "correct": 2
+    },
+    {
+      "question": "Transgenic animals are used in:",
+      "options": ["Drug testing", "Gene expression", "Disease models", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Biotechnology can be used to clean oil spills using:",
+      "options": ["Enzymes", "Microbes", "Detergents", "Attractants"],
+      "correct": 1
+    },
+    {
+      "question": "DNA microarrays help in:",
+      "options": ["Protein synthesis", "Gene expression profiling", "Amplifying DNA", "DNA repair"],
+      "correct": 1
+    },
+    {
+      "question": "Which enzyme is essential in cDNA synthesis?",
+      "options": ["DNA polymerase", "Reverse transcriptase", "Ligase", "Restriction enzyme"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not an application of biotechnology?",
+      "options": ["Cloning", "Antibiotics", "OTC drugs", "Gene therapy"],
+      "correct": 2
+    },
+    {
+      "question": "Pharming involves using:",
+      "options": ["Plants and animals to produce drugs", "Microbes for fermentation", "Enzymes for cleaning", "Vectors for cloning"],
+      "correct": 0
+    },
+    {
+      "question": "Bioreactors are used for:",
+      "options": ["Fermentation", "PCR", "Sequencing", "Gene editing"],
+      "correct": 0
+    },
+    {
+      "question": "Gene gun is used in:",
+      "options": ["Animal transfection", "Plant transformation", "Microbial culture", "Protein analysis"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is used to separate RNA?",
+      "options": ["Northern blot", "Southern blot", "Western blot", "Eastern blot"],
+      "correct": 0
+    },
+    {
+      "question": "Bt crops produce:",
+      "options": ["Herbicides", "Insecticidal protein", "Fertilizers", "Hormones"],
+      "correct": 1
+    }
+  ]
+}

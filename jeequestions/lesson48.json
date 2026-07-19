@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which of the following elements does not belong to the p-block?",
+      "options": ["Nitrogen", "Oxygen", "Chlorine", "Calcium"],
+      "correct": 3
+    },
+    {
+      "question": "The oxidation state of nitrogen in nitric acid (HNO₃) is:",
+      "options": ["+3", "+5", "-3", "+1"],
+      "correct": 1
+    },
+    {
+      "question": "Which group 15 element forms the most stable hydride?",
+      "options": ["Phosphorus", "Nitrogen", "Arsenic", "Antimony"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a brown gas?",
+      "options": ["NO", "NO₂", "N₂O", "NH₃"],
+      "correct": 1
+    },
+    {
+      "question": "The allotrope of phosphorus used in safety matches is:",
+      "options": ["White phosphorus", "Red phosphorus", "Black phosphorus", "Violet phosphorus"],
+      "correct": 1
+    },
+    {
+      "question": "Which acid is known as oil of vitriol?",
+      "options": ["H₂SO₄", "HNO₃", "HCl", "CH₃COOH"],
+      "correct": 0
+    },
+    {
+      "question": "The basicity of H₃PO₄ is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "Which oxide of nitrogen is neutral?",
+      "options": ["N₂O", "NO", "NO₂", "N₂O₃"],
+      "correct": 1
+    },
+    {
+      "question": "Chlorine reacts with excess ammonia to give:",
+      "options": ["NH₄Cl", "N₂", "NCl₃", "NH₃Cl"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is the heaviest noble gas?",
+      "options": ["Neon", "Argon", "Krypton", "Radon"],
+      "correct": 3
+    },
+    {
+      "question": "Which compound is used in the preparation of chlorine gas in the laboratory?",
+      "options": ["NaCl", "KClO₃", "HCl", "NaCl + MnO₂"],
+      "correct": 3
+    },
+    {
+      "question": "Which is the most electronegative element among the halogens?",
+      "options": ["F", "Cl", "Br", "I"],
+      "correct": 0
+    },
+    {
+      "question": "What is the oxidation state of sulphur in SO₂?",
+      "options": ["+4", "+6", "-2", "0"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a property of oxygen?",
+      "options": ["Colorless", "Odorless", "Paramagnetic", "Combustible"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is the correct order of acidic strength?",
+      "options": ["HF < HCl < HBr < HI", "HI < HBr < HCl < HF", "HF > HCl > HBr > HI", "HCl > HI > HBr > HF"],
+      "correct": 0
+    },
+    {
+      "question": "Which group 16 element shows -2 oxidation state most commonly?",
+      "options": ["Oxygen", "Sulfur", "Selenium", "Tellurium"],
+      "correct": 0
+    },
+    {
+      "question": "Which is the strongest oxidizing agent among halogens?",
+      "options": ["Cl₂", "Br₂", "I₂", "F₂"],
+      "correct": 3
+    },
+    {
+      "question": "The shape of XeF₂ is:",
+      "options": ["Linear", "Bent", "Trigonal planar", "T-shaped"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a greenhouse gas?",
+      "options": ["O₂", "N₂", "CO₂", "Ne"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following noble gases forms compounds easily?",
+      "options": ["He", "Ne", "Ar", "Xe"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is not an oxyacid of phosphorus?",
+      "options": ["H₃PO₄", "H₃PO₃", "H₃PO₂", "H₄P₂O₇"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is used in water treatment?",
+      "options": ["O₃", "CO₂", "SO₂", "NO₂"],
+      "correct": 0
+    },
+    {
+      "question": "The structure of IF₇ is:",
+      "options": ["Square planar", "Trigonal bipyramidal", "Pentagonal bipyramidal", "Tetrahedral"],
+      "correct": 2
+    },
+    {
+      "question": "What is the hybridization of I in IF₇?",
+      "options": ["sp³d²", "sp³d³", "sp³", "sp²"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following acids has the highest basicity?",
+      "options": ["H₃PO₂", "H₃PO₃", "H₃PO₄", "H₄P₂O₇"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following halogens is liquid at room temperature?",
+      "options": ["F₂", "Cl₂", "Br₂", "I₂"],
+      "correct": 2
+    },
+    {
+      "question": "Which group 17 element has the highest bond dissociation enthalpy?",
+      "options": ["F", "Cl", "Br", "I"],
+      "correct": 1
+    },
+    {
+      "question": "The acidic character of hydrides of group 16 elements increases in the order:",
+      "options": ["H₂O < H₂S < H₂Se < H₂Te", "H₂Te < H₂Se < H₂S < H₂O", "H₂S < H₂O < H₂Te < H₂Se", "H₂O > H₂S > H₂Se > H₂Te"],
+      "correct": 0
+    },
+    {
+      "question": "The main constituent of bleaching powder is:",
+      "options": ["CaOCl₂", "CaCl₂", "Ca(OH)₂", "CaCO₃"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following pairs is not isoelectronic?",
+      "options": ["N₃⁻, O²⁻", "F⁻, Ne", "Na⁺, Mg²⁺", "O²⁻, S²⁻"],
+      "correct": 3
+    },
+    {
+      "question": "The gas evolved when HCl reacts with bleaching powder is:",
+      "options": ["Cl₂", "H₂", "O₂", "SO₂"],
+      "correct": 0
+    },
+    {
+      "question": "Which compound is used in the etching of glass?",
+      "options": ["HCl", "HF", "HI", "HBr"],
+      "correct": 1
+    },
+    {
+      "question": "What is the hybridization of the central atom in XeOF₄?",
+      "options": ["sp³", "sp³d", "sp³d²", "sp²"],
+      "correct": 2
+    },
+    {
+      "question": "The oxidation state of Iodine in HIO₄ is:",
+      "options": ["+5", "+7", "+3", "-1"],
+      "correct": 1
+    },
+    {
+      "question": "The molecular geometry of SF₆ is:",
+      "options": ["Octahedral", "Square planar", "Trigonal bipyramidal", "Tetrahedral"],
+      "correct": 0
+    },
+    {
+      "question": "Which oxide of nitrogen is used in anesthesia?",
+      "options": ["NO", "NO₂", "N₂O", "N₂O₃"],
+      "correct": 2
+    },
+    {
+      "question": "The acid used in car batteries is:",
+      "options": ["HNO₃", "H₂SO₄", "HCl", "CH₃COOH"],
+      "correct": 1
+    },
+    {
+      "question": "Which noble gas forms XeF₆?",
+      "options": ["Kr", "Ne", "Ar", "Xe"],
+      "correct": 3
+    },
+    {
+      "question": "The formula of phosphorus pentachloride is:",
+      "options": ["PCl₃", "PCl₅", "PCl", "PCl₇"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a dimer?",
+      "options": ["NO", "N₂O₄", "NO₂", "N₂O"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following halogen acids is weakest?",
+      "options": ["HF", "HCl", "HBr", "HI"],
+      "correct": 0
+    },
+    {
+      "question": "The color of iodine in solid state is:",
+      "options": ["Red", "Yellow", "Black", "Blue"],
+      "correct": 2
+    },
+    {
+      "question": "Which noble gas is radioactive?",
+      "options": ["He", "Ne", "Ar", "Rn"],
+      "correct": 3
+    },
+    {
+      "question": "The main component of ozone layer is:",
+      "options": ["O₂", "O₃", "CO₂", "NO₂"],
+      "correct": 1
+    },
+    {
+      "question": "Which acid contains a P–H bond?",
+      "options": ["H₃PO₂", "H₃PO₃", "H₃PO₄", "H₄P₂O₇"],
+      "correct": 0
+    },
+    {
+      "question": "The compound NCl₃ is:",
+      "options": ["Ionic", "Covalent", "Metallic", "Network solid"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following acts as a Lewis acid?",
+      "options": ["NH₃", "BF₃", "H₂O", "CH₄"],
+      "correct": 1
+    },
+    {
+      "question": "The shape of ClF₃ molecule is:",
+      "options": ["Trigonal planar", "T-shaped", "Linear", "Bent"],
+      "correct": 1
+    },
+    {
+      "question": "Which noble gas has the lowest boiling point?",
+      "options": ["Ne", "He", "Ar", "Kr"],
+      "correct": 1
+    }
+  ]
+}

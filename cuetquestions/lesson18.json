@@ -1,0 +1,239 @@
+{
+  "test": [
+    {
+      "question": "The SI unit of magnetic field is:",
+      "options": ["Tesla", "Weber", "Gauss", "Henry"],
+      "correct": 0
+    },
+    {
+      "question": "The magnetic force on a moving charge is maximum when the angle between velocity and magnetic field is:",
+      "options": ["0°", "90°", "180°", "45°"],
+      "correct": 1
+    },
+    {
+      "question": "The force on a charge q moving with velocity v in magnetic field B is given by:",
+      "options": ["qB", "qvB", "q(v × B)", "v(q × B)"],
+      "correct": 2
+    },
+    {
+      "question": "A current-carrying conductor placed in a magnetic field experiences a force due to:",
+      "options": ["Coulomb's law", "Ampere's law", "Lorentz force", "Ohm's law"],
+      "correct": 2
+    },
+    {
+      "question": "A charged particle moving parallel to magnetic field experiences:",
+      "options": ["Maximum force", "No force", "Centripetal force", "Tangential force"],
+      "correct": 1
+    },
+    {
+      "question": "Direction of magnetic force is given by:",
+      "options": ["Fleming’s left-hand rule", "Fleming’s right-hand rule", "Right-hand thumb rule", "Coulomb's law"],
+      "correct": 0
+    },
+    {
+      "question": "Magnetic field due to a straight current-carrying wire is:",
+      "options": ["Radial", "Circular", "Linear", "Constant"],
+      "correct": 1
+    },
+    {
+      "question": "The magnetic field at the center of a circular loop carrying current I and radius R is:",
+      "options": ["μ₀I/2R", "μ₀I/4πR", "μ₀I/R", "2μ₀I/R"],
+      "correct": 0
+    },
+    {
+      "question": "Biot–Savart law is used to calculate:",
+      "options": ["Electric field", "Magnetic field", "Current", "Charge"],
+      "correct": 1
+    },
+    {
+      "question": "Ampere’s circuital law is valid for:",
+      "options": ["Steady currents", "Time-varying currents", "Electrostatics", "All fields"],
+      "correct": 0
+    },
+    {
+      "question": "Magnetic field inside a long straight solenoid is:",
+      "options": ["Uniform", "Zero", "Decreasing", "Increasing"],
+      "correct": 0
+    },
+    {
+      "question": "Unit of magnetic permeability μ₀ is:",
+      "options": ["T·m/A", "T/A·m", "H/m", "N/A²"],
+      "correct": 2
+    },
+    {
+      "question": "The magnetic moment of a current loop is:",
+      "options": ["Area × Current", "Length × Current", "Charge × Velocity", "Voltage × Time"],
+      "correct": 0
+    },
+    {
+      "question": "Magnetic field due to infinite straight wire at a distance r is:",
+      "options": ["μ₀I/2πr", "μ₀I/4πr", "μ₀I/r²", "μ₀I"],
+      "correct": 0
+    },
+    {
+      "question": "When a charge moves perpendicular to B, the path is:",
+      "options": ["Straight line", "Helix", "Circle", "Parabola"],
+      "correct": 2
+    },
+    {
+      "question": "Magnetic force does not do any work because:",
+      "options": ["It is small", "It is weak", "It is perpendicular to velocity", "It is conservative"],
+      "correct": 2
+    },
+    {
+      "question": "The direction of magnetic field around a current-carrying wire is given by:",
+      "options": ["Fleming’s rule", "Biot–Savart rule", "Right-hand thumb rule", "Maxwell’s rule"],
+      "correct": 2
+    },
+    {
+      "question": "A cyclotron is used to:",
+      "options": ["Detect radiation", "Accelerate charged particles", "Measure voltage", "Generate sound waves"],
+      "correct": 1
+    },
+    {
+      "question": "A charged particle enters a magnetic field at right angle. It moves in:",
+      "options": ["Straight line", "Parabola", "Circular path", "Random path"],
+      "correct": 2
+    },
+    {
+      "question": "Magnetic force on a stationary charge is:",
+      "options": ["Maximum", "Zero", "Constant", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Radius of circular path of a charge in magnetic field is proportional to:",
+      "options": ["Velocity", "Charge", "Magnetic field", "None"],
+      "correct": 0
+    },
+    {
+      "question": "SI unit of magnetic flux is:",
+      "options": ["Tesla", "Weber", "Henry", "Ampere"],
+      "correct": 1
+    },
+    {
+      "question": "Magnetic field in a toroid is:",
+      "options": ["Uniform inside", "Zero inside", "Zero outside", "Only outside"],
+      "correct": 0
+    },
+    {
+      "question": "Torque on a magnetic dipole in uniform magnetic field is:",
+      "options": ["Zero", "MB", "M × B", "M · B"],
+      "correct": 2
+    },
+    {
+      "question": "If B is magnetic field, I is current, L is length, then magnetic force on wire is:",
+      "options": ["BIL", "IL/B", "B/L", "IL + B"],
+      "correct": 0
+    },
+    {
+      "question": "If a magnetic dipole is placed in a uniform magnetic field, it experiences:",
+      "options": ["No torque", "Only force", "Torque but no net force", "Acceleration"],
+      "correct": 2
+    },
+    {
+      "question": "If current in a long solenoid is doubled, the magnetic field:",
+      "options": ["Halves", "Doubles", "Becomes zero", "Becomes infinite"],
+      "correct": 1
+    },
+    {
+      "question": "A galvanometer can be converted to ammeter by connecting:",
+      "options": ["A shunt in series", "A resistor in parallel", "A shunt in parallel", "Nothing"],
+      "correct": 2
+    },
+    {
+      "question": "Moving coil galvanometer works on:",
+      "options": ["Magnetic induction", "Magnetic force", "Torque on coil", "Ampere’s law"],
+      "correct": 2
+    },
+    {
+      "question": "In a velocity selector, E and B fields are applied:",
+      "options": ["Parallel", "Perpendicular", "Same direction", "Opposite direction"],
+      "correct": 1
+    },
+    {
+      "question": "In magnetic field, potential energy of magnetic dipole is:",
+      "options": ["−M · B", "M · B", "M × B", "MB sinθ"],
+      "correct": 0
+    },
+    {
+      "question": "A current loop behaves like:",
+      "options": ["Bar magnet", "Point charge", "Dipole", "Conductor"],
+      "correct": 0
+    },
+    {
+      "question": "Cyclotron frequency is:",
+      "options": ["qB/m", "qB²/m", "Bq²/m", "q²B/m"],
+      "correct": 0
+    },
+    {
+      "question": "Lorentz force is:",
+      "options": ["Electric force", "Magnetic force", "Both electric and magnetic", "Gravitational"],
+      "correct": 2
+    },
+    {
+      "question": "Magnetic field due to current loop at its center is proportional to:",
+      "options": ["I", "I²", "1/I", "I³"],
+      "correct": 0
+    },
+    {
+      "question": "Which rule gives direction of current due to motion in B field?",
+      "options": ["Right-hand rule", "Left-hand rule", "Lenz’s rule", "Faraday’s law"],
+      "correct": 1
+    },
+    {
+      "question": "The magnetic field inside a toroid is:",
+      "options": ["Uniform", "Zero", "Decreasing", "Irregular"],
+      "correct": 0
+    },
+    {
+      "question": "Which quantity is analogous to electric dipole moment?",
+      "options": ["Magnetic field", "Magnetic dipole moment", "Electric charge", "Electromotive force"],
+      "correct": 1
+    },
+    {
+      "question": "A charged particle moving in uniform magnetic field has constant:",
+      "options": ["Velocity", "Kinetic energy", "Momentum", "All"],
+      "correct": 1
+    },
+    {
+      "question": "For a particle to move undeflected in crossed E and B fields, velocity should be:",
+      "options": ["E/B", "B/E", "EB", "E+B"],
+      "correct": 0
+    },
+    {
+      "question": "The direction of magnetic moment in a loop is given by:",
+      "options": ["Lenz’s law", "Right-hand rule", "Fleming’s rule", "Faraday’s law"],
+      "correct": 1
+    },
+    {
+      "question": "A current carrying loop placed in magnetic field experiences:",
+      "options": ["No force", "Only torque", "Only force", "Both torque and force"],
+      "correct": 1
+    },
+    {
+      "question": "Hall effect is used to determine:",
+      "options": ["Magnetic field", "Type of charge carrier", "Voltage", "Current"],
+      "correct": 1
+    },
+    {
+      "question": "Unit of magnetic dipole moment is:",
+      "options": ["A·m", "A·m²", "N·m", "Wb·m"],
+      "correct": 1
+    },
+    {
+      "question": "In a magnetic field, current loop experiences maximum torque when:",
+      "options": ["Area vector is parallel to field", "Perpendicular to field", "No field", "Field is zero"],
+      "correct": 1
+    },
+    {
+      "question": "Magnetic field lines around a current-carrying wire are:",
+      "options": ["Straight lines", "Ellipses", "Concentric circles", "Spirals"],
+      "correct": 2
+    },
+    {
+      "question": "Current flowing in opposite direction in parallel wires results in:",
+      "options": ["Attraction", "Repulsion", "No force", "Oscillation"],
+      "correct": 1
+    }
+  ]
+}

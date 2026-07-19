@@ -1,0 +1,901 @@
+ {
+  "test": [
+    {
+      "question": "In several European cities, historic tramlines were decommissioned in the mid-20th century in favor of bus networks, which were then criticized for congestion and increased emissions. Recently, cities have begun reintroducing electric trams along these same routes, citing successful reductions in air pollution, quieter operation, and restored urban heritage. Citizens reported that while bus transit was initially convenient, tram reactivation was seen as a triumph of sustainable urban planning.\n\nWhich choice best captures the primary purpose of this passage?",
+      "options": ["To argue that buses are a more efficient option than trams in modern transit.", "To illustrate how reintroducing electric trams can combine environmental benefit with cultural preservation.", "To show that historic transit systems cannot adapt to contemporary needs.", "To criticize citizens who favor heritage over practicality."],
+      "correct": 1
+    },
+    {
+      "question": "A multi-year study examined the impact of extended reality (XR) in remote science education. Students who participated in immersive 3D simulations—such as dissecting virtual specimens or exploring microscopic environments—performed 25% better on conceptual understanding compared to peers using standard video lectures. However, researchers also noted that prolonged headset use caused mild eyestrain unless frequent breaks were scheduled. The study concluded that XR technologies hold promise for deep learning but require thoughtful implementation guidelines.\n\nWhat inference is most strongly supported by the passage?",
+      "options": ["XR should be abandoned due to health concerns.", "Immersive educational tools can enhance learning if user well‑being is managed properly.", "Traditional video lectures always outperform XR.", "Students should use XR without breaks to maximize immersion."],
+      "correct": 1
+    },
+    {
+      "question": "Conservationists have begun a project rewilding former farmland by reintroducing keystone species such as bison and beavers. Within five years, the region recorded a 60% increase in biodiversity, including bird species not seen there for decades. Land reclaimed by natural river engineering from beaver dams restored floodplains, reducing flood risk in downstream communities. Though some local farmers voiced concern over changing land use, environmental impact assessments affirmed net ecological and economic benefits.\n\nWhich answer choice best identifies the relationship between ideas in the passage?",
+      "options": ["Wildlife reintroduction hampers regional biodiversity.", "Agricultural land use is always more beneficial than rewilding.", "Rewilding with key species can simultaneously restore ecosystems and provide economic advantages.", "Flood management and biodiversity are unrelated outcomes."],
+      "correct": 2
+    },
+    {
+      "question": "In exploring sustainable fashion alternatives, a start-up developed a fabric made from recycled fishing nets and discarded garment fibers. After testing, they found that garments crafted from this material demonstrated comparable durability to conventional cotton but used 70% less water and released 50% fewer carbon emissions during production. Consumer trials also showed a high willingness to pay a 15% premium for eco‑friendly credentials. These findings suggest that innovation in material recycling can align environmental responsibility with market viability.\n\nWhat is the primary conclusion the author supports?",
+      "options": ["Eco‑conscious textiles can't match traditional fabrics in durability.", "Consumers refuse to pay more for sustainable materials.", "Recycled materials can meet quality standards and market demand while reducing environmental impact.", "Fashion startups should avoid recycled fibers due to cost concerns."],
+      "correct": 2
+    },
+    {
+      "question": "A comprehensive examination of sleep patterns revealed that individuals engaging in consistent “digital sabbaths”—24‑hour breaks from electronic devices—experienced markedly deeper REM sleep and reported higher overall life satisfaction scores. This effect was particularly noticeable in participants under 30, who otherwise showed elevated stress and insomnia symptoms. Interestingly, these improvements persisted even a month after discontinuing the practice, suggesting lasting benefits to periodic disconnection. Nevertheless, researchers cautioned against framing digital abstinence as a cure‑all, acknowledging that residual habits and stressors may require additional interventions.\n\nWhich choice best expresses the main idea of this passage?",
+      "options": ["Digital sabbaths eliminate all mental health issues permanently.", "Intentional breaks from digital engagement can substantially improve sleep quality and well‑being, though they are not a singular solution.", "Young people do not benefit from digital disconnection.", "Digital abstinence should replace therapy."],
+      "correct": 1
+    },
+    {
+      "question": "In rural communities, the introduction of mobile libraries—large vehicles packed with books and internet access—appeared to improve literacy by 18% over two years and increased civic engagement among adults. Interviews showed that residents who had limited exposure to traditional schools particularly valued the convenience, and community events hosted around reading hours boosted social cohesion.\n\nWhich choice best captures the relationship between ideas in the passage?",
+      "options": ["Mobile libraries decreased adult civic engagement.", "Access to books and the internet can simultaneously enhance literacy and strengthen community bonds.", "Rural areas already had high literacy before mobile libraries.", "Mobile libraries harmed traditional schools."],
+      "correct": 1
+    },
+    {
+      "question": "A longitudinal study tracked office workers introduced to standing desks over six months. Compared to those using traditional seating, the standing‑desk group reported decreased lower‑back pain and an average increase of 7% in daily step count, although employee survey data suggested they also experienced more fatigue without periodic breaks.\n\nWhich statement is most supported by information in the passage?",
+      "options": ["Standing desks eliminate all workplace discomfort.", "Transitioning to standing desks may reduce back pain and increase activity but can cause fatigue if breaks aren’t included.", "Traditional seating always outperforms standing desks.", "Breaking periodically has no effect on fatigue."],
+      "correct": 1
+    },
+    {
+      "question": "In an effort to support urban wildlife, a city council required new buildings to include green roofs or vertical gardens. Studies conducted two years post-implementation showed a 35% increase in pollinator visits and a small reduction in building cooling costs during summer months. Property developers, initially hesitant due to higher installation costs, reported increased tenant interest citing aesthetic appeal and environmental branding benefits.\n\nWhat conclusion can be drawn from the passage?",
+      "options": ["Green installations negatively affect pollinator populations.", "Mandatory green architecture can offer ecological, economic, and social advantages.", "Building costs increased without any benefits.", "Tenants disliked green spaces."],
+      "correct": 1
+    },
+    {
+      "question": "Researchers investigating the role of probiotics in mental health found participants who took a daily supplement for eight weeks reported a 22% reduction in stress indicators and improved emotional well‑being scores. However, clinical trials revealed no significant microbiome changes, suggesting the mechanism may involve gut‑brain signaling rather than microbial population shifts.\n\nWhich choice best represents the main point?",
+      "options": ["Probiotics worsen stress.", "Probiotic use may lower stress without altering gut microbiota composition.", "Gut‑brain signaling is irrelevant to mental health.", "Microbiome composition always explains health outcomes."],
+      "correct": 1
+    },
+    {
+      "question": "A pilot program installed water‑bottle filling stations at school gyms, replacing single‑use plastic bottles. Over one academic year, plastic waste decreased by 300,000 bottles, and student hydration reports improved, with fewer complaints of cramps or fatigue. Surveyed students cited convenience and eco‑awareness as key reasons for participation.\n\nWhat inference is most strongly supported?",
+      "options": ["Students avoided hydration when using refill stations.", "Replacing disposable bottles with refill stations can reduce plastic waste and improve student well‑being.", "Hydration has no link to physical health.", "Reuse initiatives are unpopular with students."],
+      "correct": 1
+    },
+    {
+      "question": "A community survey about commuting habits showed that individuals who walked part of their work commute reported a 12% increase in reported energy levels compared to those who drove entire distances. Additionally, report analysis revealed fewer sick days among walkers, suggesting modest lifestyle changes can have measurable wellness outcomes.\n\nWhich answer best describes the relationship shown?",
+      "options": ["Driving boosts energy more than walking.", "Walking portions of a commute may enhance energy levels and health.", "Walking is unrelated to wellness.", "Driving reduces sick leave."],
+      "correct": 1
+    },
+    {
+      "question": "In a study comparing adaptive versus traditional testing in mathematics, students using adaptive formats—where question difficulty adjusted in real time—demonstrated a 15% increase in problem‑solving accuracy and reported lower test anxiety. Educators concluded the format helped match difficulty to ability, facilitating better performance without increasing stress.\n\nWhat does this study imply about adaptive testing?",
+      "options": ["Fixed‑difficulty tests reduce test anxiety.", "Adaptive formats can boost both accuracy and comfort in assessments.", "Adaptive tests confuse students.", "Anxiety increases with adaptation."],
+      "correct": 1
+    },
+    {
+      "question": "An initiative to install solar‑powered charging benches in public parks found that user satisfaction ratings increased by 45%, and bench usage rates rose by 50% compared to conventional benches. Outdoor workers also reported fewer battery‑depleted devices while on the job.\n\nWhat is the main idea conveyed by the passage?",
+      "options": ["Solar benches are mostly ignored by park users.", "Solar‑powered public seating can improve user satisfaction and device convenience.", "Battery life problems are unsolvable outdoors.", "Traditional benches outperform solar ones."],
+      "correct": 1
+    },
+    {
+      "question": "After introducing mindfulness sessions at the start of high‑school classes, educators observed a modest reduction in disciplinary incidents and a 10% increase in academic focus, though standardized test results remained unchanged. Teachers noted that students reported feeling calmer and more prepared for learning.\n\nWhat inference is supported?",
+      "options": ["Mindfulness eliminates all learning issues.", "Introducing mindfulness may improve behavior and readiness to learn even if test scores stay steady.", "Discipline is unrelated to mindfulness.", "Mindfulness worsens academic focus."],
+      "correct": 1
+    },
+    {
+      "question": "In an agricultural test, intercropping legumes with maize improved soil nitrogen levels and yielded 10% more maize per acre than mono‑cropping. Farmers also reduced fertilizer inputs by 25%, citing savings and environmental benefits.\n\nWhich choice best states the relationship between ideas?",
+      "options": ["Intercropping harms maize yield.", "Growing legumes alongside maize can boost yields and reduce fertilizer use.", "Mono‑cropping is more sustainable.", "Legumes harmed soil quality."],
+      "correct": 1
+    },
+    {
+      "question": "A national campaign promoting handwritten thank‑you letters found that recipients reported higher emotional response levels than when receiving an email. Survey data also indicated the gesture took more effort but led to deeper interpersonal connection.\n\nWhat is the primary conclusion?",
+      "options": ["Emails create stronger emotional impact than handwritten notes.", "Handwritten letters foster greater emotional connection despite greater effort.", "Effortless communication is more meaningful.", "Thank‑you letters are obsolete."],
+      "correct": 1
+    },
+    {
+      "question": "Epidemiologists tracked pollen counts alongside allergy symptoms and determined that forecasting systems enabled individuals to anticipate high‑risk days, reducing antihistamine usage by 30% without worsening symptoms.\n\nWhich inference is most accurate?",
+      "options": ["Forecasting increased medication dependency.", "Knowing pollen forecasts helps manage allergies with reduced medicine.", "Allergy symptoms stayed same.", "Pollen levels are unpredictable."],
+      "correct": 1
+    },
+    {
+      "question": "A startup tested biodegradable packaging made from algae‑based materials. Their product decomposed fully within 28 days in compost environments and performed comparably to plastic in durability tests. They also noted cost parity once scaled, suggesting green packaging can be both functional and commercially viable.\n\nWhat does the passage imply?",
+      "options": ["Biodegradable options fail durability tests.", "Algae‑based packaging can match plastic performance while being compostable and scalable.", "Green materials are always expensive.", "Biodegradable packaging is unreliable."],
+      "correct": 1
+    },
+    {
+      "question": "In an industrial town, a bike-to-work incentive including secure parking, showers, and cash rewards led to a 40% increase in cycling among employees. Surveys stated improved mood and reduced downtime due to traffic delays.\n\nWhat best summarizes the passage?",
+      "options": ["Incentives discourage bike commuting.", "Supporting infrastructure and rewards can greatly increase cycling and improve well‑being.", "Traffic delays improved mood.", "Cycling was already widespread."],
+      "correct": 1
+    },
+    {
+      "question": "Art therapy sessions were introduced at a mental health clinic. After 12 weeks, participants with anxiety disorders showed a 20% drop in symptom scales, and group reports emphasized creative expression as a key benefit. Clinicians regarded art therapy as a valuable complement—not replacement—to traditional cognitive treatments.\n\nWhich statement is supported?",
+      "options": ["Art therapy worsens anxiety symptoms.", "Creative counseling can reduce anxiety and supplement clinical methods.", "Group expression has no impact.", "Art therapy replaces medication."],
+      "correct": 1
+    },
+    {
+      "question": "A comparative study of community gardens showed that neighborhoods with shared plot spaces had 30% lower crime rates and 45% higher resident satisfaction than similar areas without gardens. Researchers suggest such spaces foster social ties that can influence local safety and well‑being.\n\nWhat conclusion is best supported?",
+      "options": ["Gardens increase crime rates.", "Shared green spaces may enhance community bonds and reduce crime.", "Resident satisfaction drops with communal gardens.", "Gardens have no social impact."],
+      "correct": 1
+    },
+    {
+      "question": "A pilot program supplying healthy school lunches led to a marked improvement in student concentration and a 15% decline in midday energy crashes. Teachers also reported fewer disciplinary incidents in lunchtime classes.",
+      "options": ["Unhealthy lunches improve focus.", "Nutritious meals can enhance student attention and classroom behavior.", "Food has no effect on energy levels.", "Discipline worsened."],
+      "correct": 1
+    },
+    {
+      "question": "Remote work policies allowed employees to set flexible schedules, resulting in a 20% improvement in job satisfaction and a 12% drop in reported burnout. Managers noted that clear goals and check-ins were essential for success under flexibility.\n\nWhich idea is emphasized?",
+      "options": ["Flexibility always causes burnout.", "Work-from-home benefits depend on structure and communication.", "Employee satisfaction fell with remote work.", "Burnout increased."],
+      "correct": 1
+    },
+    {
+      "question": "A travel survey found that passengers who pre-booked train tickets via mobile apps reported a 50% reduction in boarding stress and were less likely to arrive late, though some older adults preferred traditional ticket counters.",
+      "options": ["Mobile tickets increase boarding stress.", "App pre-booking can improve travel experience even if not universally adopted.", "Train lateness rose overall.", "Older adults prefer apps."],
+      "correct": 1
+    },
+    {
+      "question": "Following installation of rooftop solar in a workplace, energy bills fell by 30%, carbon emissions were reduced, and employees reported a greater sense of corporate pride in environmental awareness—demonstrating organizational and ethical gains.",
+      "options": ["Solar power increased operational costs.", "Environmental initiatives can reduce expenses and improve workplace morale.", "Corporate pride declined.", "Emissions stayed same."],
+      "correct": 1
+    },
+    {
+      "question": "A tactile sensory room introduced in an elementary school as a calming space resulted in a 25% reduction in midday disciplinary referrals and increased student self-regulation. Educators noted that while not a classroom tool, the room supported emotional resilience for children.",
+      "options": ["Sensory rooms increase disciplinary problems.", "Designated calm spaces can help students manage emotions and behavior.", "Self-regulation declined.", "Emotional support spaces are ineffective."],
+      "correct": 1
+    },
+    {
+      "question": "In a comparative evaluation of language-learning apps, users exclusively practicing with spaced repetition methods retained vocabulary at a 30% higher rate after two weeks compared to those using rote repetition, suggesting adaptation of study pattern boosts retention.",
+      "options": ["Rote repetition outperforms spaced learning.", "Using spaced repetition significantly improves long-term vocabulary retention.", "App choice doesn’t matter.", "All repetition methods are equal."],
+      "correct": 1
+    },
+    {
+      "question": "A remote meditation app introduced personalized breathing exercises before sleep and reported a 17% improvement in reported sleep quality among users, while a control group using static recordings showed no change—indicating tailored practices can enhance outcomes.",
+      "options": ["Generic audio aids are as effective as personalized ones.", "Customized breathing exercises before sleep can improve rest more than standard audio.", "App usage worsens sleep.", "There was no control group."],
+      "correct": 1
+    },
+    {
+      "question": "Following the rollout of public e-bike share programs in dense urban areas, citywide vehicle traffic declined by 8% and average commute times dropped. The initiative also spurred public discourse about equitable access and cycling safety infrastructure.",
+      "options": ["E-bikes increase traffic congestion.", "Shared e-bikes can alleviate congestion and prompt infrastructure discussions.", "Commute times increased.", "No debate arose."],
+      "correct": 1
+    },
+    {
+      "question": "In areas prone to heat waves, installation of shade trees along sidewalks lowered surface temperatures by 5°C and increased foot traffic by 20%. Researchers assert this indicates urban forestry can directly impact both comfort and commerce.",
+      "options": ["Tree shade worsens urban heat.", "Sidewalk trees can cool environments and support local business activity.", "Pedestrian traffic fell.", "Urban forestry hinders commerce."],
+      "correct": 1
+    },
+    {
+      "question": "A pilot of math tutoring paired students with near-peer mentors. Results showed mentees improved by 22% over those with only professional tutoring. Mentors also reported enhanced understanding of subjects through teaching.\n\nWhich conclusion is best supported?",
+      "options": ["Peer mentorship harms math performance.", "Near-peer tutoring benefits both learners and mentors.", "Professional tutoring is always superior.", "Mentors' knowledge did not improve."],
+      "correct": 1
+    },
+    {
+      "question": "After implementing noise-reduction headsets in open‑plan offices, staff reported 30% fewer distractions and a 15% increase in productivity. Managers recommended combining noise control with flexible meeting zones for maximum effect.",
+      "options": ["Noise‑reducing tools had no workplace impact.", "Targeted solutions can improve focus and efficiency in open offices.", "Staff found headsets distracting.", "Productivity decreased."],
+      "correct": 1
+    },
+    {
+      "question": "A study comparing sidewalk cafés with shaded canopies to those without found that shaded areas attracted 60% more patronage during midday hours, boosting sales for café owners who added canopy seating.\n\nWhich statement is most accurate?",
+      "options": ["Shade has no effect on customer behavior.", "Canopies increase midday business by providing comfort outdoors.", "Sales dropped with shade.", "Customers prefer sun over shade."],
+      "correct": 1
+    },
+    {
+      "question": "A public health campaign installing hand‑sanitizer stations in transit hubs recorded a 40% increase in usage during flu season, accompanied by a 15% decline in reported respiratory infections.\n\nWhat inference best aligns with the passage?",
+      "options": ["Sanitizer stations are ignored by commuters.", "Convenient hygiene resources can reduce community illness during peak seasons.", "Infections rose regardless.", "Flu season was unaffected."],
+      "correct": 1
+    },
+    
+    {
+      "question": "In several European cities, historic tramlines were decommissioned in the mid-20th century in favor of bus networks, which were then criticized for congestion and increased emissions. Recently, cities have begun reintroducing electric trams along these same routes, citing successful reductions in air pollution, quieter operation, and restored urban heritage. Citizens reported that while bus transit was initially convenient, tram reactivation was seen as a triumph of sustainable urban planning.\n\nWhich choice best captures the primary purpose of this passage?",
+      "options": [
+        "To argue that buses are a more efficient option than trams in modern transit.",
+        "To illustrate how reintroducing electric trams can combine environmental benefit with cultural preservation.",
+        "To show that historic transit systems cannot adapt to contemporary needs.",
+        "To criticize citizens who favor heritage over practicality."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A multi-year study examined the impact of extended reality (XR) in remote science education. Students who participated in immersive 3D simulations—such as dissecting virtual specimens or exploring microscopic environments—performed 25% better on conceptual understanding compared to peers using standard video lectures. However, researchers also noted that prolonged headset use caused mild eyestrain unless frequent breaks were scheduled. The study concluded that XR technologies hold promise for deep learning but require thoughtful implementation guidelines.\n\nWhat inference is most strongly supported by the passage?",
+      "options": [
+        "XR should be abandoned due to health concerns.",
+        "Immersive educational tools can enhance learning if user well-being is managed properly.",
+        "Traditional video lectures always outperform XR.",
+        "Students should use XR without breaks to maximize immersion."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Conservationists have begun a project rewilding former farmland by reintroducing keystone species such as bison and beavers. Within five years, the region recorded a 60% increase in biodiversity, including bird species not seen there for decades. Land reclaimed by natural river engineering from beaver dams restored floodplains, reducing flood risk in downstream communities. Though some local farmers voiced concern over changing land use, environmental impact assessments affirmed net ecological and economic benefits.\n\nWhich answer choice best identifies the relationship between ideas in the passage?",
+      "options": [
+        "Wildlife reintroduction hampers regional biodiversity.",
+        "Agricultural land use is always more beneficial than rewilding.",
+        "Rewilding with key species can simultaneously restore ecosystems and provide economic advantages.",
+        "Flood management and biodiversity are unrelated outcomes."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "In exploring sustainable fashion alternatives, a start-up developed a fabric made from recycled fishing nets and discarded garment fibers. After testing, they found that garments crafted from this material demonstrated comparable durability to conventional cotton but used 70% less water and released 50% fewer carbon emissions during production. Consumer trials also showed a high willingness to pay a 15% premium for eco-friendly credentials. These findings suggest that innovation in material recycling can align environmental responsibility with market viability.\n\nWhat is the primary conclusion the author supports?",
+      "options": [
+        "Eco-conscious textiles can't match traditional fabrics in durability.",
+        "Consumers refuse to pay more for sustainable materials.",
+        "Recycled materials can meet quality standards and market demand while reducing environmental impact.",
+        "Fashion startups should avoid recycled fibers due to cost concerns."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A comprehensive examination of sleep patterns revealed that individuals engaging in consistent “digital sabbaths”—24‑hour breaks from electronic devices—experienced markedly deeper REM sleep and reported higher overall life satisfaction scores. This effect was particularly noticeable in participants under 30, who otherwise showed elevated stress and insomnia symptoms. Interestingly, these improvements persisted even a month after discontinuing the practice, suggesting lasting benefits to periodic disconnection. Nevertheless, researchers cautioned against framing digital abstinence as a cure-all, acknowledging that residual habits and stressors may require additional interventions.\n\nWhich choice best expresses the main idea of this passage?",
+      "options": [
+        "Digital sabbaths eliminate all mental health issues permanently.",
+        "Intentional breaks from digital engagement can substantially improve sleep quality and well-being, though they are not a singular solution.",
+        "Young people do not benefit from digital disconnection.",
+        "Digital abstinence should replace therapy."
+      ],
+      "correct": 1
+    }
+  ,
+      {
+      "question": "A city introduced evening street markets to reduce indoor energy use. After implementation, businesses saw a 15% increase in sales and ambient lighting costs dropped by 10%. Many residents report stronger neighborhood ties.",
+      "options": [
+        "Street markets harmed small businesses.",
+        "Evening markets boosted sales and community connections while saving energy.",
+        "Indoor lighting is more effective.",
+        "Residents prefer shopping online."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A long-term study tracked families with weekly shared meals. Those who ate together reported better communication and emotional well-being. The study suggests shared dinners encourage healthier family relationships.",
+      "options": [
+        "Eating separately improves family ties.",
+        "Shared meals support family communication and well-being.",
+        "Family meals cause stress.",
+        "Meal frequency has no effect."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In several schools, teachers replaced traditional grading with narrative evaluations. Student motivation and engagement increased by 20%, and college acceptance rates remained stable, indicating narrative feedback can be effective.",
+      "options": [
+        "Narrative feedback lowers academic standards.",
+        "Narrative evaluations may enhance engagement without harming outcomes.",
+        "Grades are superior to narratives.",
+        "College acceptance rates always decline."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "An energy company switched streetlights to LED and introduced smart sensors. After one year, electricity usage dropped by 35%, while safety-related complaints decreased, showing the new system preserved public security at lower energy cost.",
+      "options": [
+        "LED lights are dimmer and riskier.",
+        "Smart LEDs reduce energy costs while maintaining safety.",
+        "Sensors increase lighting expenses.",
+        "Public security declined."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Researchers found students who space study sessions perform better on cumulative exams than those who cram. Spaced practice shows stronger retention, suggesting that how students study matters more than how long they study at once.",
+      "options": [
+        "Cramming is the best study method.",
+        "Spaced study sessions improve exam retention over cramming.",
+        "Long study sessions guarantee better results.",
+        "Study duration is more important than technique."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Biologists using camera traps observed elusive carnivores in previously unexplored forest regions. With better data this way, they reevaluated population estimates and found numbers were twice as high, underscoring the value of passive monitoring.",
+      "options": [
+        "Camera traps scare wildlife away.",
+        "Passive monitoring revealed larger populations than expected.",
+        "All carnivores avoid human-made devices.",
+        "Manual tracking is always more accurate."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In a coastal restoration project, engineers built oyster reefs to reduce wave erosion. Over five years, shoreline recession slowed by 40% and marine life diversity doubled, showing how ecological infrastructure can address environmental challenges.",
+      "options": [
+        "Oyster reefs worsen erosion.",
+        "Natural infrastructure can mitigate ecological damage effectively.",
+        "Shorelines recede faster with help.",
+        "Marine diversity is unaffected."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A literary analysis reveals that authors who write in first person present tense create a stronger sense of immediacy. Readers report feeling more emotionally connected compared to similar third-person narratives.",
+      "options": [
+        "First-person present reduces reader immersion.",
+        "Writing in first-person present increases emotional immediacy for readers.",
+        "Tense choice has no effect.",
+        "Third-person is always better."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A tech startup launched glasses that filter blue light and reduce eye strain. In trials, users reported 35% less digital fatigue during evening usage, suggesting usability improvements can come from small technological tweaks.",
+      "options": [
+        "Blue-light glasses make eyes worse.",
+        "Filtering blue light may reduce evening eye strain effectively.",
+        "Users prefer no vision aids.",
+        "Digital fatigue is inevitable."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Farmers in drought-prone areas adopted rainwater harvesting and mulching. Consequently, they reported improved soil moisture and increased crop yields by 18%, showing that soil-conserving techniques can enhance productivity.",
+      "options": [
+        "Mulching harms soil.",
+        "Rainwater harvesting with mulching boosts soil health and yields.",
+        "Crop yields dropped significantly.",
+        "Harvesting is not useful."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "An education pilot introduced peer review instead of teacher-only feedback. Students who regularly reviewed each other’s essays improved writing quality by 25%, implying collaborative critique enhances learning.",
+      "options": [
+        "Only teachers can effectively grade essays.",
+        "Peer review can significantly improve student writing.",
+        "Critique lowers student confidence.",
+        "Students prefer no feedback."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A survey of urban commuters found those who walk 15 minutes to transit stations report higher daily activity levels and lower stress than those who drive. The study concludes small walks can positively affect physical and mental health.",
+      "options": [
+        "Driving reduces stress more than walking.",
+        "Short walking commutes improve health and well-being.",
+        "Commuters prefer longer walks.",
+        "Physical health is unaffected by transportation mode."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "An experiment compared reading on paper versus screens. While reading speed did not differ, comprehension was 12% higher for paper readers, suggesting that screens may hinder deeper processing.",
+      "options": [
+        "Screens improve comprehension.",
+        "Reading on paper may support better understanding than screens.",
+        "Speed and comprehension are identical.",
+        "Paper is obsolete."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In villages electrified for the first time, households reported increased study time among children and higher evening earnings from home-based industries. Electrification appears to support both education and local economies.",
+      "options": [
+        "Electricity reduces study opportunities.",
+        "Access to electricity boosts education and incomes.",
+        "Villagers disliked electricity.",
+        "Local industries shut down."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A documentary suggests that symphony attendance fosters civic engagement. Viewership demographic surveys show that frequent attendees volunteer and vote more often than non-attendees, suggesting cultural participation links to civic behavior.",
+      "options": [
+        "Symphony attendance discourages voting.",
+        "Cultural engagement correlates with higher civic participation.",
+        "Viewers are less likely to volunteer.",
+        "Demographics have no impact."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "An art installation used emissions-sensing lights that change color based on air quality. In polluted urban areas, the lights turn red—raising awareness. Reports show that public awareness improved 45%, indicating interactive art can influence public perception.",
+      "options": [
+        "Interactive art has no impact on public opinion.",
+        "Sensor-driven installations can significantly raise awareness of pollution.",
+        "Air quality is unrelated to art.",
+        "Polluted areas don’t use art."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A university introduced a flexible pass/fail grading option. After implementation, course drop rates decreased and student mental health ratings improved, suggesting that grading flexibility can reduce academic pressure.",
+      "options": [
+        "Assigning grades under stress causes no change.",
+        "Flexible grading systems may lessen stress and dropout rates.",
+        "Mental health worsened.",
+        "Course difficulty increased."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In a pilot program, bilingual education for young children improved both language skills and overall academic performance. Participants scored higher in math and reading than monolingual peers, showing early bilingualism may support broader cognitive development.",
+      "options": [
+        "Bilingual education harms national performance.",
+        "Bilingual environments may enhance cognitive and academic achievement.",
+        "Children struggle with two languages.",
+        "Only language subjects improve."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "An online platform that promotes user-uploaded social issue stories saw higher engagement when local content was prioritized. Analytics show readers interacted 60% more with regionally relevant content, suggesting personalization drives attention.",
+      "options": [
+        "Generic stories outperform local ones.",
+        "Personalized local content boosts reader engagement.",
+        "Readers avoid social issues.",
+        "Global news is more compelling."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A city installed pocket parks—small green zones—every few blocks. Surveys reported improved mental well-being and increased street-level interaction among residents, implying even small-scale greenery can improve quality of life.",
+      "options": [
+        "Pocket parks have no impact on well-being.",
+        "Small-scale urban green spaces can enhance mental health and community interaction.",
+        "Residents avoided pocket parks.",
+        "Only large parks matter."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A study tracking online learning discovered that students who attended live virtual classes had 20% better course completion rates than those relying solely on recorded lectures, indicating that real-time interaction boosts engagement.",
+      "options": [
+        "Recorded lectures outperformed live classes.",
+        "Live interaction increases student completion and engagement.",
+        "Online courses have no effect.",
+        "Interactivity reduces learning outcomes."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A workshop teaching budgeting skills to high schoolers significantly reduced impulsive spending and increased financial planning. Students who attended planned budgets better six months later than peers who didn’t attend, indicating early financial education benefits.",
+      "options": [
+        "Budgeting has no influence on spending behavior.",
+        "Financial education in adolescence can lead to long-term planning improvements.",
+        "High schoolers ignore budgets.",
+        "Spending habits are unchangeable."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A regional food forest project encouraged local food production and biodiversity. After planting native fruit trees and vegetables, wildlife sightings increased, and the community reported stronger bonds over shared harvest festivals.",
+      "options": [
+        "Food forests reduce biodiversity.",
+        "Community food projects can enhance ecology and social ties.",
+        "Harvest festivals had no effect.",
+        "Wildlife declined with planting."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A telemedicine initiative in rural areas provided virtual doctor visits. Follow-up surveys showed that patients saved travel time, reported better health outcomes, and adherence to treatment improved by 30%, demonstrating remote healthcare’s potential.",
+      "options": [
+        "Telemedicine lowered treatment adherence.",
+        "Virtual visits improved access and outcomes.",
+        "Patients disliked remote care.",
+        "Healthcare travel time increased."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "An experiment compared participants reading a physical book with those using audiobooks. Although audiobooks were convenient, test comprehension scores were 15% higher among readers, suggesting active engagement matters more than convenience.",
+      "options": [
+        "Audiobooks guarantee better comprehension.",
+        "Reading physical books may support deeper understanding than listening.",
+        "Convenience equals comprehension.",
+        "Test scores are the same."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A cultural festival collaborated with local artists to revitalize a dormant neighborhood. Foot traffic rose 70% and businesses reopened their storefronts, showing creative programming can activate urban areas.",
+      "options": [
+        "Festivals hurt local economies.",
+        "Community arts events can drive neighborhood renewal.",
+        "Foot traffic had no economic effect.",
+        "Neighborhoods declined further."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A pilot study found that office plants reduced employee stress by 25% and improved productivity by 10%. The researchers note that even small green additions can positively influence workplace dynamics.",
+      "options": [
+        "Office plants increase stress.",
+        "Adding indoor plants can boost well-being and efficiency.",
+        "Productivity declined.",
+        "Greenery has no workplace effect."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In winter, a program provided books and blankets to seniors via local libraries. Feedback showed participants reported improved mood and stronger community ties, suggesting library outreach supports elderly well-being.",
+      "options": [
+        "Library programs have no impact on mood.",
+        "Targeted outreach can improve seniors’ health and social connectedness.",
+        "Seniors rejected the assistance.",
+        "Mood declined regardless of materials."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Researchers measured sidewalks designed for wheelchair users versus standard ones. The accessible sidewalks reduced travel times by 20% and increased independence, demonstrating how inclusive design benefits communities.",
+      "options": [
+        "Accessible sidewalks slow travel.",
+        "Universal design can significantly improve mobility and autonomy.",
+        "Travel time increased only.",
+        "Independence decreased."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A recycling education campaign in schools included interactive games and competitions. After six months, participation rates climbed from 30% to 75% and overall recycling volume doubled.",
+      "options": [
+        "Fun education does not influence behavior.",
+        "Engaging programs can greatly increase recycling practices.",
+        "Recycling rates fell.",
+        "Games distracted students."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A longitudinal study tracked smartphone disengagement: students limiting screentime saw improved sleep quality and better focus in mornings, while heavy users reported disruptions in attention and sleep patterns.",
+      "options": [
+        "Increased screen time improves sleep.",
+        "Reducing screentime can enhance sleep and attention.",
+        "Attention is unaffected by screen usage.",
+        "Smartphone use benefits focus."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A ‘bike-to-work’ incentive program offered free tune-ups and safety courses. Cycling rates increased by 30% and commuters reported feeling healthier and more productive.",
+      "options": [
+        "Bike incentives discouraged commuters.",
+        "Support measures can boost commuting by bike and health.",
+        "Productivity declined with bike usage.",
+        "Commuter health stayed the same."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In a rain gardens pilot, urban neighborhoods planted gardens to absorb runoff. Flood events decreased and citizen satisfaction with local water quality increased, demonstrating sustainable infrastructure benefits.",
+      "options": [
+        "Rain gardens worsened flooding.",
+        "Eco-friendly installations can reduce floods and improve satisfaction.",
+        "Residents disliked the changes.",
+        "Quality of drainage declined."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Students using spaced revision flashcards scored 18% higher on vocabulary tests than classmates using massed study, suggesting active recall spaced over time improves retention.",
+      "options": [
+        "Spaced or massed revision gives same results.",
+        "Spaced flashcards can significantly boost learning outcomes.",
+        "Vocabulary can’t be improved.",
+        "Massed study is superior."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A community composting initiative allowed residents to recycle organic waste in local hubs. In two years, neighborhood green waste diversion rose from 10% to 60%, showing how collective action can shift behaviors.",
+      "options": [
+        "Composting projects failed to engage residents.",
+        "Community composting initiatives can dramatically reduce waste.",
+        "Green waste increased in landfills.",
+        "Hub models are ineffective."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A trial found that employees allowed flexible start times reported a 15% productivity boost and 20% decrease in absenteeism. Flexible scheduling thus appears to benefit both workers and employers.",
+      "options": [
+        "Flexible timing reduces productivity.",
+        "Adjustable start times can improve workplace output and attendance.",
+        "Absenteeism increases with flexibility.",
+        "No change in performance."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A study of remote vs. in-person team meetings found that hybrid teams with structured agendas achieved higher engagement and completion rates than fully remote or fully in-person teams.",
+      "options": [
+        "Remote meetings are always best.",
+        "Combining remote and in-person formats with structure fosters better engagement.",
+        "In-person teams outperform hybrid ones.",
+        "Meeting structure has no effect."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In a citywide challenge, residents pledged to plant one tree each. The result: 50,000 new trees, improved shade, and a cooler microclimate documented. The project suggests small community campaigns can have measurable environmental effects.",
+      "options": [
+        "Tree planting has no impact on urban climate.",
+        "Community pledges can lead to significant ecological improvements.",
+        "Only professional planting projects work.",
+        "Shade levels stayed the same."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Over the past decade, rooftop farms have appeared in urban areas, transforming unused spaces into productive gardens. In one city, a program introduced rooftop beekeeping and vegetable beds on public buildings, resulting in a 30% increase in local produce and a boost in pollinator populations.\n\nWhich choice best describes the primary purpose of the passage?",
+      "options": [
+        "To criticize urban planning policies.",
+        "To show the benefits of integrating food production into cityscapes.",
+        "To warn about declining pollinator numbers.",
+        "To compare urban and rural farming."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In a study comparing indoor and outdoor exercise, participants who ran in forests reported lower heart rates and higher moods than those who ran on treadmills, even though the intensity was the same. Researchers concluded that the environment contributes to psychological benefits beyond physical activity.\n\nWhat does the passage imply about the role of environment in exercise?",
+      "options": [
+        "Physical activity is the only factor in exercise benefits.",
+        "Exercise indoors is superior for cardiovascular health.",
+        "Natural settings add unique psychological advantages to exercise.",
+        "Researchers prefer treadmill studies for consistency."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Archaeologists discovered a trade network dating from 500 BCE that connected inland communities with coastal cities. Exchange of metals, pottery, and foodstuffs suggests a complex economy and shared cultural practices, indicating early forms of globalization.\n\nWhich choice best states the central idea of the passage?",
+      "options": [
+        "Ancient people traded only locally.",
+        "Early communities engaged in long-distance economic and cultural exchange.",
+        "Trade networks never included food items.",
+        "Cultural practices were isolated before globalization."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The author writes that plankton populations are declining due to ocean acidification, which threatens the entire marine food web. Evidence shows that species higher in the chain—like fish and whales—are now facing food shortages previously unseen.\n\nWhich option is best supported by evidence in the passage?",
+      "options": [
+        "Fish and whales are unaffected by changes in plankton.",
+        "Ocean acidification has no measurable environmental effects.",
+        "Declines in plankton negatively impact marine ecosystems.",
+        "Only plankton levels change due to acidification."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A recent survey asked participants whether they preferred handwritten notes or typed notes. Although 70% said typing was faster, 55% of those who handwrote demonstrated better retention in follow-up tests. The study concludes that writing by hand aids memory, even if slower.\n\nWhat conclusion can be drawn based on the information provided?",
+      "options": [
+        "People should avoid handwriting because typing is faster.",
+        "Handwriting notes may improve long-term retention over typing.",
+        "Typing leads to better memory of facts.",
+        "Handwriting and typing produce identical cognitive outcomes."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In regions with low rainfall, farmers are planting drought-resistant crops and using drip irrigation. Data from 2018–2022 show a 25% rise in yields and a 40% drop in water use. These improvements suggest that sustainable farming techniques can both conserve resources and boost production.\n\nWhich choice best captures the relationship between ideas in the passage?",
+      "options": [
+        "Increased yields come at the cost of higher water use.",
+        "Sustainable agriculture can enhance productivity while conserving water.",
+        "Drip irrigation reduces crop yields significantly.",
+        "Drought-resistant crops fail in low-rainfall areas."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The passage describes how coral reefs have declined due to pollution and warming waters. It then explains reef restoration using coral nurseries. Early results show transplanted corals growing 50% faster than wild ones—suggesting active restoration may combat environmental stress.\n\nWhat does the author imply about coral nurseries?",
+      "options": [
+        "They worsen reef degradation.",
+        "They may help accelerate reef recovery under stress.",
+        "They are too expensive to implement.",
+        "They directly reduce ocean pollution."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Textbooks explain that photosynthesis converts light into chemical energy. However, recent findings show some bacteria perform reverse photosynthesis, breaking down sugar molecules to harvest light energy. This discovery challenges established assumptions about photosynthetic pathways.\n\nWhich choice best describes how the passage shifts from old ideas to new discoveries?",
+      "options": [
+        "It rejects all previous knowledge of photosynthesis.",
+        "It shows newer research modifying existing scientific understanding.",
+        "It proves textbooks are entirely incorrect.",
+        "It suggests photosynthesis only occurs in plants."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A city introduced a bike-share system in 2020. Usage grew steadily until 2022, when numbers dropped due to flooding and commuter route closures. New data shows ridership resumed pre‑pandemic levels only after bike lanes were installed along new routes.\n\nWhich choice best states the passage’s main focus?",
+      "options": [
+        "Flooding permanently destroyed bike-share systems.",
+        "Bike-share ridership recovers following infrastructure improvements.",
+        "Bike usage declines in dry weather.",
+        "Bike lanes reduce commuter traffic."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Researchers studying sleep found that people exposed to natural light during the day fell asleep more easily at night and had more consistent sleep patterns. The effect was strongest in participants who spent less than one hour on electronic devices before bedtime.\n\nWhat does the study suggest about the relationship between exposure and habits?",
+      "options": [
+        "Natural light exposure and device use both independently worsen sleep.",
+        "Exposure to natural light can improve sleep—especially when combined with reduced screen time.",
+        "Electronic device use has no impact on sleep quality.",
+        "Only artificial light affects sleep patterns."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In a campaign to reduce plastic waste, restaurants replaced plastic straws with paper alternatives. Though initial costs rose, customer satisfaction increased due to environmental friendliness. By 2023, 85% of patrons preferred paper straws.\n\nWhich choice best reflects the author’s attitude?",
+      "options": [
+        "Paper straws cause severe environmental harm.",
+        "Switching to paper straws carried upfront costs but led to customer approval.",
+        "Plastic straws are cheaper and more sustainable.",
+        "Customer opinions remained unchanged."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A museum exhibit on climate change includes interactive displays and VR simulations. Visitors who used VR reported 90% higher engagement and a stronger comprehension of rising CO₂ levels than those reading only text panels.\n\nWhat conclusion is supported by the evidence?",
+      "options": [
+        "Text panels outperform VR in education.",
+        "VR can significantly enhance visitor engagement and understanding.",
+        "Interactive exhibits reduce comprehension.",
+        "CO₂ levels have no measurable impact."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Public health officials recommend hand-washing for at least 20 seconds. Studies show that people who sing a brief song while washing soap off their hands remove 40% more germs than those who rinse quickly without singing.\n\nWhich choice best summarizes the passage?",
+      "options": [
+        "Hand-washing is unnecessary with soap.",
+        "Songs lengthen hand-washing time, improving hygiene.",
+        "Short washing removes more germs than longer washing.",
+        "Health officials discourage using songs during washing."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In a project to revitalize city parks, planners added lighting, benches, and community art. Crime rates decreased by 30% over two years, and local businesses reported a 20% sales increase—showing how thoughtful design can boost both safety and commerce.\n\nWhat is the passage’s primary claim?",
+      "options": [
+        "Park improvements have little to no economic impact.",
+        "Thoughtful park enhancements can reduce crime and support local economy.",
+        "Street lighting increases crime.",
+        "Public art discourages visitors."
+      ],
+      "correct": 1
+    }
+,
+    {
+      "question": "In 2022, a coastal town implemented a 'living shoreline'—using natural materials like oyster reefs and marsh plantings to stabilize its banks. Over three years, erosion slowed by 60%, while biodiversity increased. Locals are now reporting cleaner water and more fish species near the shore.\n\nWhich choice best captures the main point of the passage?",
+      "options": [
+        "Living shorelines are expensive and ineffective.",
+        "The town’s beaches were destroyed before this project.",
+        "Natural erosion-control methods can also improve ecosystems.",
+        "Fish species decline when marshes are planted."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Museums sometimes face criticism for concentrating their collections in large cities, leaving rural areas underserved. A new traveling exhibition, featuring artifacts from ancient civilizations, aims to reach small communities, educationally enriching regions that rarely host such displays.\n\nWhat is the primary purpose of this passage?",
+      "options": [
+        "To criticize museums that choose large-city venues",
+        "To promote rural tourism through archaeology",
+        "To explain how traveling exhibitions address cultural disparities",
+        "To describe the artifacts on display in the exhibition"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Wildfire frequency in certain regions has doubled in the past 20 years. Scientists suggest that higher average temperatures and earlier snowmelt are contributing factors. One team even found that wildfires are now burning at least 30 days longer in a typical year.\n\nWhich choice most accurately states the central idea of the passage?",
+      "options": [
+        "New firefighting technology prevents wildfires.",
+        "Wildfire seasons are lengthening due to climate factors.",
+        "Snowmelt is occurring later each year.",
+        "Wildfires only occur in undeveloped areas."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In many cities, urban gardens are thriving—not just as green spaces but as community anchors. These gardens offer fresh produce, connect residents of different backgrounds, and often host educational workshops. Surveys show that nearly 80% of participants report improved mental well-being.\n\nWhich choice best describes the passage’s main purpose?",
+      "options": [
+        "To argue against government-run urban planners",
+        "To show how urban gardens benefit communities",
+        "To highlight a decline in community engagement",
+        "To report on government funding for parks"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Some musicians believe vinyl records convey richer sound than digital formats because of analog warmth and subtle acoustic textures. Research indicates that while listeners can’t always identify format differences, they report more emotional connection when music is played on vinyl.\n\nWhich choice best captures the author’s main point?",
+      "options": [
+        "Digital formats are superior in sound quality.",
+        "Vinyl listening can enhance emotional engagement, even if sound differences are subtle.",
+        "All listeners prefer digital modernity over analog sound.",
+        "Analog textures make vinyl unfit for modern music."
+      ],
+      "correct": 1
+    }
+  ,
+  
+    {
+      "question": "Recent studies reveal that coral reefs, often called the rainforests of the sea, are facing severe bleaching due to rising ocean temperatures.",
+      "options": [
+        "To argue against efforts to protect marine ecosystems",
+        "To highlight the ecological importance and threats facing coral reefs",
+        "To suggest that ocean temperatures are decreasing globally",
+        "To explain the difference between coral reefs and rainforests"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Over the past decade, urban beekeeping has surged in popularity. City rooftops and community gardens now host thousands of hives, contributing to local pollination and biodiversity.",
+      "options": [
+        "To explain why urban environments are unsuitable for bees",
+        "To describe the decline of bees in rural areas",
+        "To highlight the growth and benefits of urban beekeeping",
+        "To criticize rooftop gardening"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "According to a recent report, public libraries have evolved beyond just books. They now offer maker spaces, career services, and free internet, becoming crucial community hubs.",
+      "options": [
+        "To argue for the privatization of libraries",
+        "To inform readers about the decline in library attendance",
+        "To illustrate how libraries have adapted to modern community needs",
+        "To criticize libraries for moving away from traditional roles"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "In 2006, Pluto was reclassified as a dwarf planet, leading to widespread public debate and educational changes regarding the definition of planets.",
+      "options": [
+        "To show how scientific classifications can change over time",
+        "To criticize scientists for downgrading Pluto",
+        "To explain the differences between comets and asteroids",
+        "To argue that Pluto should be reclassified as a star"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A new study suggests that listening to nature sounds, such as rustling leaves or flowing water, can significantly reduce stress levels and improve focus.",
+      "options": [
+        "To claim that natural environments are always preferable to urban ones",
+        "To highlight the positive effects of nature sounds on mental health",
+        "To argue that people should avoid technology altogether",
+        "To discourage outdoor exercise in noisy environments"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The author mentions that 'insects pollinate over 75% of flowering plants' to support which idea?",
+      "options": [
+        "That insects are more dangerous than helpful",
+        "That pollination by insects is essential to plant reproduction",
+        "That insects are not as efficient as birds at pollination",
+        "That pollination is not a significant process in agriculture"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does the author imply by stating that 'the average smartphone contains more computing power than the systems used to land a man on the moon'?",
+      "options": [
+        "Smartphones are unnecessary in modern life",
+        "NASA used outdated technology for space missions",
+        "Technological progress has accelerated dramatically",
+        "Space travel is no longer as challenging as it once was"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "According to the passage, which of the following best describes the author's attitude toward electric vehicles?",
+      "options": [
+        "Skeptical about their practicality",
+        "Supportive of their environmental benefits",
+        "Unconcerned with their development",
+        "Opposed to their rising popularity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Based on the passage, what is the primary reason scientists are exploring Mars?",
+      "options": [
+        "To search for new minerals for construction",
+        "To build immediate colonies for human relocation",
+        "To investigate signs of past or present life",
+        "To replace Earth as our primary habitat"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The passage implies that increased screen time among children may:",
+      "options": [
+        "Improve their physical activity and social skills",
+        "Lead to better academic performance",
+        "Negatively impact sleep and attention spans",
+        "Reduce their dependence on technology"
+      ],
+      "correct": 2
+    }
+  
+
+  ]
+}

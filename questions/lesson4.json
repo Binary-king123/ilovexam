@@ -1,0 +1,294 @@
+{
+  "test": [
+    {
+      "question": "Newton’s first law is also known as:",
+      "options": ["Law of force", "Law of acceleration", "Law of inertia", "Law of momentum"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a force?",
+      "options": ["Tension", "Friction", "Mass", "Gravitational pull"],
+      "correct": 2
+    },
+    {
+      "question": "The SI unit of force is:",
+      "options": ["Kg", "Newton", "Dyne", "Kg m"],
+      "correct": 1
+    },
+    {
+      "question": "1 Newton is equal to:",
+      "options": ["1 kg m", "1 kg m/s", "1 kg m/s²", "1 kg m²/s²"],
+      "correct": 2
+    },
+    {
+      "question": "A body will continue in its state of rest or motion unless:",
+      "options": ["A balanced force acts on it", "It reaches maximum speed", "A force acts on it", "Time exceeds limit"],
+      "correct": 2
+    },
+    {
+      "question": "A rocket works on the principle of:",
+      "options": [
+        "Newton’s first law",
+        "Newton’s second law",
+        "Newton’s third law",
+        "Law of gravitation"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Friction is a:",
+      "options": ["Contact force", "Non-contact force", "Magnetic force", "Electrostatic force"],
+      "correct": 0
+    },
+    {
+      "question": "Which force is responsible for holding a body in circular motion?",
+      "options": ["Friction", "Centripetal force", "Tension", "Normal force"],
+      "correct": 1
+    },
+    {
+      "question": "Which is the correct expression of Newton’s second law?",
+      "options": ["F = ma", "F = mv", "F = m/a", "F = m + a"],
+      "correct": 0
+    },
+    {
+      "question": "The action and reaction forces act:",
+      "options": [
+        "On the same body",
+        "On different bodies",
+        "In same direction",
+        "Without any contact"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which one is a non-contact force?",
+      "options": ["Friction", "Tension", "Gravity", "Normal"],
+      "correct": 2
+    },
+    {
+      "question": "The inertia of a body depends on its:",
+      "options": ["Velocity", "Acceleration", "Mass", "Shape"],
+      "correct": 2
+    },
+    {
+      "question": "The direction of frictional force is always:",
+      "options": [
+        "Same as motion",
+        "Perpendicular to motion",
+        "Opposite to motion",
+        "Random"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A body is moving with constant velocity. The net force on it is:",
+      "options": ["Greater than zero", "Equal to zero", "Infinite", "Unpredictable"],
+      "correct": 1
+    },
+    {
+      "question": "Kinetic friction is always:",
+      "options": ["Greater than static", "Less than static", "Equal to static", "Unpredictable"],
+      "correct": 1
+    },
+    {
+      "question": "The coefficient of friction depends on:",
+      "options": [
+        "Normal force",
+        "Nature of surfaces",
+        "Area of contact",
+        "Speed"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A person pulls a box with force F making angle θ with horizontal. The vertical component is:",
+      "options": ["F cosθ", "F sinθ", "F tanθ", "F/θ"],
+      "correct": 1
+    },
+    {
+      "question": "What is the limiting force of friction?",
+      "options": [
+        "The maximum static friction",
+        "The minimum kinetic friction",
+        "Average of static and kinetic",
+        "Equal to mass × acceleration"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A body of mass m moving with velocity v has momentum:",
+      "options": ["mv²", "½mv²", "mv", "m/v"],
+      "correct": 2
+    },
+    {
+      "question": "Unit of momentum is:",
+      "options": ["kg m²/s", "kg m/s", "kg m/s²", "kg/s"],
+      "correct": 1
+    },
+    {
+      "question": "Force is the time rate of change of:",
+      "options": ["Work", "Energy", "Momentum", "Acceleration"],
+      "correct": 2
+    },
+    {
+      "question": "When a body is in equilibrium, net force on it is:",
+      "options": ["Zero", "One", "Maximum", "Minimum"],
+      "correct": 0
+    },
+    {
+      "question": "Impulse is equal to:",
+      "options": ["Force × distance", "Force × time", "Work × time", "Change in energy"],
+      "correct": 1
+    },
+    {
+      "question": "A heavy body and light body have same momentum. Which has more kinetic energy?",
+      "options": ["Heavy body", "Light body", "Both same", "Cannot say"],
+      "correct": 1
+    },
+    {
+      "question": "The unit of impulse is:",
+      "options": ["N", "kg m/s", "kg m/s²", "m/s"],
+      "correct": 1
+    },
+    {
+      "question": "Action and reaction forces act:",
+      "options": [
+        "Simultaneously",
+        "With a time gap",
+        "On same object",
+        "Cancel each other always"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A block of weight 100 N is placed on a rough horizontal surface. If coefficient of static friction is 0.4, the maximum static friction is:",
+      "options": ["40 N", "25 N", "4 N", "400 N"],
+      "correct": 0
+    },
+    {
+      "question": "Which law gives the measure of force?",
+      "options": [
+        "First law",
+        "Second law",
+        "Third law",
+        "Law of gravitation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which physical quantity is equal to the rate of change of momentum?",
+      "options": ["Power", "Force", "Work", "Impulse"],
+      "correct": 1
+    },
+    {
+      "question": "A horse pulls a cart. Action is on:",
+      "options": ["Horse", "Cart", "Ground", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Tension in a string is a:",
+      "options": ["Scalar", "Vector", "Imaginary", "Neutral"],
+      "correct": 1
+    },
+    {
+      "question": "In a pulley system, acceleration of masses is:",
+      "options": ["Equal and opposite", "Unequal", "Zero", "Only vertical"],
+      "correct": 0
+    },
+    {
+      "question": "A car of mass 1000 kg moving with 20 m/s is stopped in 10 s. Braking force is:",
+      "options": ["2000 N", "1000 N", "4000 N", "20000 N"],
+      "correct": 0
+    },
+    {
+      "question": "Which quantity is conserved when no external force acts?",
+      "options": ["Energy", "Momentum", "Work", "Acceleration"],
+      "correct": 1
+    },
+    {
+      "question": "A block is moving up an incline. The frictional force is:",
+      "options": [
+        "Up the incline",
+        "Down the incline",
+        "Zero",
+        "Normal to incline"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Inertia of motion resists:",
+      "options": [
+        "Change in speed",
+        "Start of motion",
+        "End of motion",
+        "Change in direction"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If net force on a body is zero, then:",
+      "options": ["It must be at rest", "It must be in uniform motion", "It must be accelerating", "Cannot say"],
+      "correct": 1
+    },
+    {
+      "question": "An object is in free fall. The net force is:",
+      "options": ["Weight – air resistance", "Zero", "Equal to gravity", "Equal to normal"],
+      "correct": 2
+    },
+    {
+      "question": "Static friction is:",
+      "options": [
+        "Greater than kinetic friction",
+        "Always equal to normal force",
+        "Independent of normal force",
+        "Less than kinetic friction"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What happens when you push a wall and it does not move?",
+      "options": ["No force applied", "Balanced forces", "Friction acts", "Reaction is zero"],
+      "correct": 1
+    },
+    {
+      "question": "Force has the same dimension as:",
+      "options": ["Energy", "Pressure", "Momentum", "Rate of change of momentum"],
+      "correct": 3
+    },
+    {
+      "question": "A machine pulls a 10 kg box with 50 N. Acceleration is:",
+      "options": ["5 m/s²", "50 m/s²", "0.5 m/s²", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A ball hits a wall and rebounds. Change in momentum is due to:",
+      "options": ["Friction", "Normal force", "Impulse", "Gravity"],
+      "correct": 2
+    },
+    {
+      "question": "A book on a table experiences:",
+      "options": ["Gravity only", "Normal force only", "Balanced forces", "Unbalanced forces"],
+      "correct": 2
+    },
+    {
+      "question": "The third law pair always acts:",
+      "options": ["At same point", "In same direction", "On different bodies", "Cancel net force"],
+      "correct": 2
+    },
+    {
+      "question": "A force is applied to a mass. The acceleration is inversely proportional to:",
+      "options": ["Velocity", "Mass", "Time", "Force"],
+      "correct": 1
+    },
+    {
+      "question": "A body has acceleration but zero velocity. This is:",
+      "options": ["Impossible", "Possible", "Always true", "Always false"],
+      "correct": 1
+    },
+    {
+      "question": "Which one is a pseudo force?",
+      "options": ["Tension", "Friction", "Centrifugal", "Normal"],
+      "correct": 2
+    }
+  ]
+}

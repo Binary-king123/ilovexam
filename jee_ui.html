@@ -1,0 +1,357 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="alternate icon" href="favicon.png" type="image/png" />
+
+  <meta charset="UTF-8"/>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <title>jee 2027 Mock Platform</title>
+
+  
+
+  <!-- Preload critical CSS -->
+
+  <link rel="preload" href="jee.css" as="style"/>
+
+  <link rel="stylesheet" href="jee.css"/>
+
+  <!-- Bootstrap CSS (minified & CDN cached) -->
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-..." crossorigin="anonymous"/>
+
+  <!-- Bootstrap Icons -->
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" crossorigin="anonymous"/>
+
+  <!-- Manifest for PWA -->
+
+  <link rel="manifest" href="manifest.json"/>
+
+  <meta name="theme-color" content="#003366">
+
+</head>
+
+<body class="bg-white text-dark" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; overflow-x: hidden; padding-bottom: 90px;">
+
+  <!-- Uber Neubrutalist Symmetrical Styling -->
+  <style>
+    /* Monochromatic stark core with blue engineering accents */
+    body {
+      background-color: #ffffff !important;
+      color: #000000 !important;
+    }
+
+    /* Glowing active diagnostic marker */
+    @keyframes heartbeat {
+      0% { transform: scale(0.9); opacity: 0.6; }
+      50% { transform: scale(1.1); opacity: 1; }
+      100% { transform: scale(0.9); opacity: 0.6; }
+    }
+    .status-pulse {
+      width: 10px;
+      height: 10px;
+      background-color: #3b82f6;
+      border-radius: 50%;
+      display: inline-block;
+      animation: heartbeat 1.5s infinite ease-in-out;
+    }
+
+    /* Minimal Header Console */
+    header {
+      background-color: #000000 !important;
+      color: #ffffff !important;
+      border-bottom: 3px solid #000000;
+      font-family: monospace;
+      font-weight: 900;
+      letter-spacing: 1px;
+      padding: 16px 24px !important;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    /* Start Button container override */
+    #startBtnContainer .btn-primary {
+      background-color: #ffffff !important;
+      color: #000000 !important;
+      border: 3px solid #000000 !important;
+      border-radius: 0px !important;
+      font-weight: 800;
+      font-family: monospace;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      box-shadow: 6px 6px 0px #3b82f6 !important;
+      transition: transform 0.1s ease, box-shadow 0.1s ease;
+      padding: 18px 40px !important;
+    }
+    #startBtnContainer .btn-primary:hover {
+      transform: translate(-2px, -2px);
+      box-shadow: 8px 8px 0px #3b82f6 !important;
+    }
+    #startBtnContainer .btn-primary:active {
+      transform: translate(6px, 6px) !important;
+      box-shadow: 0px 0px 0px #3b82f6 !important;
+    }
+
+    /* Neubrutalist Cards Rules */
+    .card {
+      border: 3px solid #000000 !important;
+      border-radius: 0px !important;
+      box-shadow: 6px 6px 0px #000000 !important;
+      background-color: #ffffff !important;
+      padding: 24px !important;
+    }
+
+    /* Tactile Options/Answer Selection Container Rules */
+    #options button, #options .option, #options .list-group-item, #options label {
+      display: block;
+      width: 100%;
+      text-align: left;
+      border: 2px solid #000000 !important;
+      border-radius: 0px !important;
+      background-color: #ffffff !important;
+      color: #000000 !important;
+      padding: 14px 20px !important;
+      margin-bottom: 10px !important;
+      font-family: monospace;
+      font-weight: bold;
+      font-size: 0.95rem;
+      box-shadow: 3px 3px 0px #000000 !important;
+      transition: all 0.05s ease-out;
+      cursor: pointer;
+    }
+    #options button:hover, #options .option:hover, #options .list-group-item:hover {
+      background-color: #f3f4f6 !important;
+      transform: translate(-1px, -1px);
+      box-shadow: 4px 4px 0px #000000 !important;
+    }
+    #options button:active, #options .option:active, #options .list-group-item:active {
+      transform: translate(3px, 3px) !important;
+      box-shadow: 0px 0px 0px #000000 !important;
+    }
+    /* Selected state */
+    #options button.active, #options .option.selected, #options .list-group-item.active {
+      background-color: #000000 !important;
+      color: #ffffff !important;
+      transform: translate(3px, 3px) !important;
+      box-shadow: 0px 0px 0px #000000 !important;
+    }
+
+    /* Neubrutalist Buttons */
+    .btn {
+      border-radius: 0px !important;
+      font-family: monospace;
+      font-weight: bold;
+      text-transform: uppercase;
+      border: 2px solid #000000 !important;
+      box-shadow: 4px 4px 0px #000000 !important;
+      transition: transform 0.05s, box-shadow 0.05s !important;
+    }
+    .btn:hover {
+      transform: translate(-1px, -1px);
+      box-shadow: 5px 5px 0px #000000 !important;
+    }
+    .btn:active {
+      transform: translate(4px, 4px) !important;
+      box-shadow: 0px 0px 0px #000000 !important;
+    }
+    
+    /* Specific btn colors shadows */
+    .btn-secondary { background-color: #ffffff !important; color: #000000 !important; box-shadow: 4px 4px 0px #4b5563 !important; }
+    .btn-warning { background-color: #fffbeb !important; color: #000000 !important; box-shadow: 4px 4px 0px #f59e0b !important; }
+    .btn-dark { background-color: #f3f4f6 !important; color: #000000 !important; box-shadow: 4px 4px 0px #1f2937 !important; }
+    .btn-primary { background-color: #eff6ff !important; color: #000000 !important; box-shadow: 4px 4px 0px #3b82f6 !important; }
+    .btn-danger { background-color: #fef2f2 !important; color: #000000 !important; box-shadow: 4px 4px 0px #ef4444 !important; }
+
+    /* Palette containers (Symmetrical Grid Stickers) */
+    #palette button, #paletteMobile button, 
+    #palette .palette-btn, #paletteMobile .palette-btn,
+    #palette div, #paletteMobile div {
+      width: 40px !important;
+      height: 40px !important;
+      border: 2px solid #000000 !important;
+      border-radius: 0px !important;
+      font-family: monospace;
+      font-weight: 800;
+      font-size: 0.85rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 3px 3px 0px #000000 !important;
+      transition: transform 0.05s, box-shadow 0.05s;
+      margin: 2px;
+      user-select: none;
+    }
+    #palette button:active, #paletteMobile button:active {
+      transform: translate(3px, 3px) !important;
+      box-shadow: 0px 0px 0px #000000 !important;
+    }
+
+    /* Colors for Palette Status Indicators */
+    .bg-success { background-color: #10b981 !important; color: #ffffff !important; }
+    .bg-danger { background-color: #ef4444 !important; color: #ffffff !important; }
+    .bg-secondary { background-color: #e5e7eb !important; color: #000000 !important; }
+    .bg-warning { background-color: #f59e0b !important; color: #000000 !important; }
+
+    /* Sidebar metadata panel layout */
+    #sidebar {
+      border-left: 2px solid #000000;
+      padding-left: 24px !important;
+      background-color: #fafafa;
+    }
+    @media (max-width: 767px) {
+      #sidebar {
+        border-left: none;
+        padding-left: 12px !important;
+        border-top: 2px solid #000000;
+        margin-top: 24px;
+        padding-top: 24px;
+      }
+    }
+
+    /* Candidate Image Frame */
+    #sidebar img {
+      border: 3px solid #000000 !important;
+      border-radius: 0px !important;
+      box-shadow: 4px 4px 0px #000000;
+    }
+
+    /* Mobile Fixed Bottom Nav styling (Cyber Brutalist bar) */
+    .mobile-fixed-nav {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background-color: #ffffff;
+      border-top: 3px solid #000000;
+      display: flex;
+      gap: 4px;
+      padding: 12px;
+      z-index: 1020;
+    }
+    .mobile-fixed-nav .btn {
+      flex: 1;
+      font-size: 0.75rem;
+      padding: 12px 6px;
+    }
+
+    /* Palette Modal Styling */
+    .modal-content {
+      border: 3px solid #000000 !important;
+      border-radius: 0px !important;
+      box-shadow: 8px 8px 0px #000000 !important;
+    }
+    .modal-backdrop.show {
+      opacity: 0.6 !important;
+      background-color: #000000 !important;
+    }
+  </style>
+
+  <!-- 1. Uber Minimalist Navigation Bar -->
+  <header>
+    <div class="d-flex align-items-center gap-3">
+      <span class="status-pulse"></span>
+      <span>JEE-2027 MOCK ENGINE</span>
+    </div>
+    <button class="btn btn-warning btn-sm ms-2 d-md-none" data-bs-toggle="modal" data-bs-target="#paletteModal" style="box-shadow: 2px 2px 0px #000000 !important;">
+      <i class="bi bi-grid"></i> Questions
+    </button>
+  </header>
+
+  <!-- Start Exam Button Container -->
+  <div class="text-center mt-5" id="startBtnContainer">
+    <button class="btn btn-primary btn-lg" onclick="startExam()">Start Exam</button>
+  </div>
+
+  <!-- Question Palette Modal for Mobile -->
+  <div class="modal fade" id="paletteModal" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content p-3">
+        <h6 class="font-monospace fw-bold mb-3 text-uppercase">[Question Palette]</h6>
+        <div id="paletteMobile" class="d-flex flex-wrap gap-2"></div>
+        <button class="btn btn-secondary w-100 mt-3" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Active Mock Test workspace -->
+  <div class="container-fluid mt-4" id="testContainer" style="display:none; max-width: 1200px;">
+    <div class="row">
+      
+      <!-- Left Column: Active Questions Workspace -->
+      <div class="col-md-8 mb-4">
+        <div class="d-flex justify-content-between align-items-center mb-4 border-bottom border-2 border-dark pb-2">
+          <h5 class="font-monospace text-uppercase fw-bold mb-0">Paper: JEE 2027 MOCK</h5>
+          <div class="font-monospace fw-bold bg-light border border-dark px-3 py-1" style="box-shadow: 2px 2px 0px #000000;">
+            Time Left: <span id="timer" class="text-danger">--:--</span>
+          </div>
+        </div>
+        
+        <div class="card p-4">
+          <div class="fw-bold mb-4 font-monospace fs-5 text-black" id="questions">Loading Question...</div>
+          <div id="options" class="mb-4">Options appear here</div>
+          
+          <!-- Tactile Desktop Command Bar -->
+          <div class="d-none d-md-flex flex-wrap mt-3 gap-2 border-top border-dark border-opacity-10 pt-4">
+            <button class="btn btn-secondary" onclick="markForReview()">Mark & Next</button>
+            <button class="btn btn-warning" onclick="clearAnswer()">Clear</button>
+            <button class="btn btn-dark btn-prev" onclick="prevQuestion()">Previous</button>
+            <button class="btn btn-primary btn-next" onclick="nextQuestion()">Save & Next</button>
+            <button class="btn btn-danger" onclick="submitTest()">Submit Test</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Column: Symmetrical Candidate Sidebar Info -->
+      <div class="col-md-4" id="sidebar">
+        <div class="d-flex flex-column align-items-center mb-4 border-bottom border-dark border-opacity-10 pb-4">
+          <!-- Lazy load candidate image inside frame -->
+          <img src="https://www.digialm.com//OnlineAssessment/images/NewCandidateImage.jpg"
+               class="mb-3" style="width: 100px; height: 100px;" loading="lazy"/>
+          <div id="cname" class="fw-bold font-monospace text-uppercase fs-6">[Your Name]</div>
+        </div>
+
+        <div class="mb-4">
+          <div class="font-monospace text-uppercase fw-bold text-secondary mb-2" style="font-size: 0.85rem;">Question Palette</div>
+          <div id="palette" class="d-flex flex-wrap gap-2 mt-2"></div>
+        </div>
+
+        <div class="border border-dark p-3 bg-white font-monospace" style="box-shadow: 4px 4px 0px #000000; font-size: 0.85rem;">
+          <p class="mb-2 d-flex justify-content-between align-items-center">Answered: <span class="badge bg-success" id="status-answered">0</span></p>
+          <p class="mb-2 d-flex justify-content-between align-items-center">Not Answered: <span class="badge bg-danger" id="status-not-answered">0</span></p>
+          <p class="mb-2 d-flex justify-content-between align-items-center">Not Visited: <span class="badge bg-secondary" id="status-not-visited">0</span></p>
+          <p class="mb-0 d-flex justify-content-between align-items-center">Marked: <span class="badge bg-warning text-dark" id="status-review">0</span></p>
+        </div>
+      </div>
+
+    </div>
+  </div> 
+
+  <!-- Mobile Fixed Bottom Action Bar -->
+  <div class="mobile-fixed-nav d-md-none" style="display:none;">
+    <button class="btn btn-dark btn-prev" onclick="prevQuestion()">Prev</button>
+    <button class="btn btn-warning" onclick="markForReview()">Mark</button>
+    <button class="btn btn-primary btn-next" onclick="nextQuestion()">Next</button>
+    <button class="btn btn-danger" onclick="submitTest()">Submit</button>
+  </div>
+
+  <div class="container mt-4" id="resultContainer" style="max-width: 1200px;"></div>
+
+  <!-- JS placed at bottom for faster initial render -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" defer></script>
+  <script src="jeeuiscript.js" defer></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("service-worker.js")
+        .then(reg => console.log("SW registered:", reg.scope))
+        .catch(err => console.error("SW registration failed:", err));
+    }
+  </script>
+</body>
+</html>

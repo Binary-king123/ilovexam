@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is the first step in mathematical induction?",
+      "options": ["Verify the base case", "Assume the result for n=k", "Prove for n=k+1", "Apply formula"],
+      "correct": 0
+    },
+    {
+      "question": "In mathematical induction, to prove a statement for all n ∈ N, we assume it true for:",
+      "options": ["n = k", "n = 1", "n = 2", "n = 0"],
+      "correct": 0
+    },
+    {
+      "question": "The principle of mathematical induction is valid for:",
+      "options": ["Natural numbers", "Integers", "Real numbers", "Rational numbers"],
+      "correct": 0
+    },
+    {
+      "question": "The base step in induction is:",
+      "options": ["Proving the result is true for n=1", "Assuming result is true", "Using mathematical formula", "Differentiating"],
+      "correct": 0
+    },
+    {
+      "question": "If a statement is true for n = 1 and also true for n = k + 1 assuming true for n = k, then:",
+      "options": ["It is true for all n ∈ N", "It is true for some n", "It is false", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "To prove 1 + 2 + 3 + ... + n = n(n+1)/2, the induction step is to prove:",
+      "options": ["1 + 2 + ... + k + (k+1) = (k+1)(k+2)/2", "1 + 2 + ... + k = k(k+1)/2", "1 + 2 + ... = n²", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following sums can be proven using mathematical induction?",
+      "options": ["Sum of first n natural numbers", "Sum of first n squares", "Sum of first n cubes", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "To prove 2ⁿ > n² for n ≥ 5 using induction, what is the base case?",
+      "options": ["n = 5", "n = 0", "n = 2", "n = 1"],
+      "correct": 0
+    },
+    {
+      "question": "Which step is called the inductive hypothesis?",
+      "options": ["Assuming the result is true for n = k", "Proving for n = 1", "Proving for n = k+1", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The sum 1³ + 2³ + ... + n³ equals:",
+      "options": ["[n(n+1)/2]²", "n²(n+1)/2", "n(n+1)(2n+1)/6", "n(n+1)/2"],
+      "correct": 0
+    },
+    {
+      "question": "To prove a statement S(n) using induction, we must prove:",
+      "options": ["S(1) is true and S(k) ⇒ S(k+1)", "S(0) is true", "Only S(k) ⇒ S(k+1)", "Only S(1) is true"],
+      "correct": 0
+    },
+    {
+      "question": "Mathematical induction can be used to prove:",
+      "options": ["Algebraic identities", "Inequalities", "Divisibility results", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "To prove that 3ⁿ > 2n for all n ≥ 1, we use induction starting from:",
+      "options": ["n = 1", "n = 0", "n = 2", "n = 3"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not required in mathematical induction?",
+      "options": ["Differentiation", "Base case", "Inductive step", "Inductive hypothesis"],
+      "correct": 0
+    },
+    {
+      "question": "In induction, we prove that if statement is true for n = k, then it is also true for:",
+      "options": ["n = k + 1", "n = k − 1", "n = 1", "n = k"],
+      "correct": 0
+    },
+    {
+      "question": "Prove by induction: 1 × 1! + 2 × 2! + ... + n × n! = (n + 1)! − 1. What is S(n)?",
+      "options": ["Sum = (n+1)! − 1", "Sum = n!", "Sum = n(n+1)/2", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If S(n): 5ⁿ − 1 is divisible by 4, base case is:",
+      "options": ["n = 1", "n = 0", "n = 2", "n = 5"],
+      "correct": 0
+    },
+    {
+      "question": "Which is correct?",
+      "options": ["If S(n) is true for all n ∈ N, it holds by induction", "Induction proves for finite n only", "Only S(1) is enough", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Prove by induction: 2 + 4 + 6 + ... + 2n = n(n+1). What is the base case?",
+      "options": ["n = 1", "n = 0", "n = 2", "n = 3"],
+      "correct": 0
+    },
+    {
+      "question": "Prove by induction: 1 + 1/2 + 1/4 + ... + 1/2ⁿ⁻¹ = 2 − 1/2ⁿ⁻¹. What is the value at base case?",
+      "options": ["1", "2", "1.5", "0"],
+      "correct": 0
+    },
+    {
+      "question": "Which method is used in mathematical induction?",
+      "options": ["Assumption and logical deduction", "Substitution only", "Trial and error", "Graphing"],
+      "correct": 0
+    },
+    {
+      "question": "Prove by induction: (1×2) + (2×3) + ... + n(n+1) = n(n+1)(n+2)/3. What is the formula for S(k+1)?",
+      "options": ["(k+1)(k+2)(k+3)/3", "k(k+1)(k+2)/3", "(k+2)!/2", "None"],
+      "correct": 0
+    },
+    {
+      "question": "In mathematical induction, the inductive step involves:",
+      "options": ["S(k) ⇒ S(k+1)", "S(k+1) ⇒ S(k)", "S(k) only", "S(1) only"],
+      "correct": 0
+    },
+    {
+      "question": "To prove S(n): n³ + 2n is divisible by 3, check:",
+      "options": ["S(1) = 3", "S(1) = 2", "S(2) = 10", "S(2) = 9"],
+      "correct": 0
+    },
+    {
+      "question": "To prove n⁵ − n is divisible by 5 for all n, use:",
+      "options": ["Mathematical induction", "Integration", "Trial", "Graph"],
+      "correct": 0
+    },
+    {
+      "question": "Mathematical induction is based on:",
+      "options": ["Domino principle", "Binomial theorem", "L'Hospital rule", "Limits"],
+      "correct": 0
+    },
+    {
+      "question": "Which identity is useful in induction?",
+      "options": ["(k+1)² = k² + 2k + 1", "(a + b)² = a² + b²", "x² + y² = z²", "None"],
+      "correct": 0
+    },
+    {
+      "question": "To prove S(n): 7ⁿ − 1 divisible by 6, base case is:",
+      "options": ["n = 1", "n = 0", "n = 7", "n = 2"],
+      "correct": 0
+    },
+    {
+      "question": "Induction can be applied to:",
+      "options": ["Recurrence relations", "Factorials", "Series", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Statement to prove: 11ⁿ − 4ⁿ divisible by 7. Prove using:",
+      "options": ["Mathematical induction", "Binomial theorem", "None", "Logarithms"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following requires assumption step?",
+      "options": ["Induction", "Differentiation", "Integration", "Algebra"],
+      "correct": 0
+    },
+    {
+      "question": "Statement: 1 + 3 + 5 + ... + (2n − 1) = n². Prove using:",
+      "options": ["Induction", "Graph", "Matrix", "Log"],
+      "correct": 0
+    },
+    {
+      "question": "Sum of first n even numbers is:",
+      "options": ["n(n+1)", "n²", "2n+1", "n(n−1)"],
+      "correct": 0
+    },
+    {
+      "question": "Sum of first n odd numbers equals:",
+      "options": ["n²", "n(n+1)", "2n", "n+1"],
+      "correct": 0
+    },
+    {
+      "question": "What does the induction step verify?",
+      "options": ["S(k) ⇒ S(k+1)", "S(k+1) ⇒ S(k)", "S(1) only", "S(n) = 0"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these can’t be proven by induction?",
+      "options": ["a + b = b + a", "1 + 2 + ... + n = n(n+1)/2", "3ⁿ > n", "7ⁿ − 1 divisible by 6"],
+      "correct": 0
+    },
+    {
+      "question": "Use of induction is best suited for:",
+      "options": ["Proving formulas for natural numbers", "Proving irrationality", "Finding maxima", "Limits"],
+      "correct": 0
+    },
+    {
+      "question": "The induction hypothesis assumes:",
+      "options": ["S(k) is true", "S(k+1) is true", "S(n) is false", "S(0) is false"],
+      "correct": 0
+    },
+    {
+      "question": "To prove 2n > n² for n ≥ 5, after assuming for k, we prove for:",
+      "options": ["k + 1", "k − 1", "n = 2k", "k"],
+      "correct": 0
+    },
+    {
+      "question": "Statement to prove: n⁴ − n² divisible by 12. First verify:",
+      "options": ["n = 1", "n = 2", "n = 3", "n = 0"],
+      "correct": 0
+    },
+    {
+      "question": "Which formula represents sum of cubes?",
+      "options": ["[n(n+1)/2]²", "n(n+1)(2n+1)/6", "n(n+1)/2", "n²"],
+      "correct": 0
+    },
+    {
+      "question": "If a result is true for n = 1 and n = k implies n = k+1, then:",
+      "options": ["It is true for all n ∈ N", "Only true for k", "Only true for 1", "None"],
+      "correct": 0
+    },
+    {
+      "question": "To prove 4ⁿ − 1 divisible by 3, start with:",
+      "options": ["n = 1", "n = 0", "n = 2", "n = 3"],
+      "correct": 0
+    },
+    {
+      "question": "Use induction to prove: 1/1×2 + 1/2×3 + ... + 1/n(n+1) = n/(n+1)",
+      "options": ["Induction on n", "Put n = 0", "Apply binomial theorem", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Prove: 2ⁿ > n² for n ≥ 5. Base case is:",
+      "options": ["n = 5", "n = 0", "n = 4", "n = 1"],
+      "correct": 0
+    },
+    {
+      "question": "Which identity helps in summation using induction?",
+      "options": ["(k+1)² = k² + 2k + 1", "a² + b²", "None", "x² + y²"],
+      "correct": 0
+    },
+    {
+      "question": "Induction cannot be used for:",
+      "options": ["Irrationality proof", "Series proof", "Factorials", "Divisibility"],
+      "correct": 0
+    },
+    {
+      "question": "Mathematical induction proves:",
+      "options": ["General truth for all n ∈ N", "Truth for one value", "Truth for few values", "None"],
+      "correct": 0
+    }
+  ]
+}

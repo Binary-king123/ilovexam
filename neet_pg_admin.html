@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="alternate icon" href="favicon.png" type="image/png" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>iLoveExams NEET PG — Administration Panel</title>
+  
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" crossorigin="anonymous">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" crossorigin="anonymous">
+
+  <style>
+    body {
+      background-color: #f5f5f0 !important;
+      color: #000 !important;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      padding-bottom: 60px;
+    }
+
+    header {
+      background: rgba(255, 255, 255, 0.9) !important;
+      backdrop-filter: blur(12px);
+      border-bottom: 3px solid #000;
+      padding: 14px 24px !important;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 200;
+    }
+
+    .card {
+      border: 3px solid #000 !important;
+      box-shadow: 6px 6px 0px #000 !important;
+      border-radius: 0px !important;
+      background: #fff;
+    }
+
+    .btn {
+      border-radius: 0px !important;
+      font-family: monospace;
+      font-weight: bold;
+      text-transform: uppercase;
+      border: 2px solid #000 !important;
+      box-shadow: 4px 4px 0px #000 !important;
+      transition: transform 0.05s, box-shadow 0.05s !important;
+    }
+    .btn:hover  { transform: translate(-1px,-1px); box-shadow: 5px 5px 0px #000 !important; }
+    .btn:active { transform: translate(4px,4px) !important; box-shadow: 0 0 0 #000 !important; }
+    .btn-dark    { background-color: #000 !important; color: #fff !important; }
+    .btn-danger  { background-color: #fef2f2 !important; color: #000 !important; box-shadow: 4px 4px 0 #ef4444 !important; }
+    .btn-success { background-color: #ecfdf5 !important; color: #000 !important; box-shadow: 4px 4px 0 #10b981 !important; }
+    .btn-warning { background-color: #fffbeb !important; color: #000 !important; box-shadow: 4px 4px 0 #f59e0b !important; }
+    
+    .form-control, .form-select {
+      border: 2px solid #000 !important;
+      border-radius: 0px !important;
+      font-family: monospace;
+    }
+    .form-control:focus, .form-select:focus {
+      box-shadow: none !important;
+      background-color: #fffbeb !important;
+    }
+
+    .section-title {
+      font-family: monospace;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: -0.5px;
+      font-size: 1.5rem;
+      border-bottom: 2px solid #000;
+      padding-bottom: 8px;
+      margin-bottom: 20px;
+    }
+
+    .media-item-row {
+      border-bottom: 2px dashed #ccc;
+      padding: 10px 0;
+      font-family: monospace;
+    }
+    .media-item-row:last-child {
+      border-bottom: none;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ===== Header ===== -->
+  <header>
+    <div class="d-flex align-items-center gap-3">
+      <i class="bi bi-heart-fill" style="color:#e11d48; font-size:1.4rem;"></i>
+      <span style="font-weight:900; letter-spacing:-0.5px; font-size:1.2rem;">iLoveExams <span style="color:#e11d48;">Admin Console</span></span>
+      <span class="badge bg-danger border border-dark rounded-0 font-monospace" style="box-shadow:2px 2px 0 #000;">NEET PG Media Portal</span>
+    </div>
+    <div class="d-flex align-items-center gap-3">
+      <a href="neet_pg.html" class="btn btn-light btn-sm"><i class="bi bi-arrow-left"></i> To Dashboard</a>
+    </div>
+  </header>
+
+  <div class="container mt-4" style="max-width: 1200px;">
+    <div class="row g-4">
+      
+      <!-- ===== PDF Uploader Widget ===== -->
+      <div class="col-lg-6">
+        <div class="card p-4">
+          <h4 class="section-title"><i class="bi bi-file-earmark-pdf-fill text-danger me-2"></i>Upload PDF Guide</h4>
+          
+          <form id="pdfUploadForm" enctype="multipart/form-data">
+            <div class="mb-3">
+              <label class="form-label fw-bold font-monospace">Document Title</label>
+              <input type="text" name="title" class="form-control" placeholder="e.g. Neurology High-Yield Mnemonics" required>
+            </div>
+            <div class="mb-3">
+              <label class="form-label fw-bold font-monospace">Subject Topic</label>
+              <select name="subject" class="form-select" required>
+                <option value="Anatomy">Anatomy</option>
+                <option value="Physiology">Physiology</option>
+                <option value="Biochemistry">Biochemistry</option>
+                <option value="Pathology">Pathology</option>
+                <option value="Microbiology">Microbiology</option>
+                <option value="Pharmacology">Pharmacology</option>
+                <option value="Forensic Medicine">Forensic Medicine</option>
+                <option value="Social & Preventive Medicine">Social & Preventive Medicine</option>
+                <option value="General Medicine">General Medicine</option>
+                <option value="Surgery">Surgery</option>
+                <option value="Obstetrics & Gynaecology">Obstetrics & Gynaecology</option>
+                <option value="Pediatrics">Pediatrics</option>
+                <option value="ENT">ENT</option>
+                <option value="Ophthalmology">Ophthalmology</option>
+                <option value="Dermatology">Dermatology</option>
+                <option value="Anesthesiology">Anesthesiology</option>
+                <option value="Radiology">Radiology</option>
+                <option value="Psychiatry">Psychiatry</option>
+                <option value="Orthopedics">Orthopedics</option>
+              </select>
+            </div>
+            <div class="mb-3">
+              <label class="form-label fw-bold font-monospace">Short Summary Description</label>
+              <textarea name="description" class="form-control" rows="2" placeholder="Brief outline of contents..."></textarea>
+            </div>
+            <div class="mb-4">
+              <label class="form-label fw-bold font-monospace">Select PDF File</label>
+              <input type="file" name="pdfFile" class="form-control" accept=".pdf" required>
+            </div>
+            <button type="submit" class="btn btn-success w-100 py-2"><i class="bi bi-cloud-arrow-up-fill me-1"></i>Publish PDF to Vault</button>
+          </form>
+
+          <hr class="my-4 border-2 border-dark">
+          <h5 class="fw-bold font-monospace mb-3"><i class="bi bi-folder2-open me-2"></i>Uploaded Documents</h5>
+          <div id="adminPdfList" style="max-height: 300px; overflow-y: auto;">
+            <!-- Render list of PDFs -->
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== Podcast Uploader Widget ===== -->
+      <div class="col-lg-6">
+        <div class="card p-4">
+          <h4 class="section-title"><i class="bi bi-mic-fill text-warning me-2"></i>Upload Podcast Stream</h4>
+          
+          <form id="podcastUploadForm" enctype="multipart/form-data">
+            <div class="mb-3">
+              <label class="form-label fw-bold font-monospace">Podcast Episode Title</label>
+              <input type="text" name="title" class="form-control" placeholder="e.g. Cardiology: Heart Murmurs Masterclass" required>
+            </div>
+            <div class="mb-3">
+              <label class="form-label fw-bold font-monospace">Episode Description</label>
+              <textarea name="description" class="form-control" rows="2" placeholder="Explain topics covered in this track..."></textarea>
+            </div>
+            <div class="mb-4">
+              <label class="form-label fw-bold font-monospace">Select MP3 Audio File</label>
+              <input type="file" name="audioFile" class="form-control" accept="audio/*" required>
+            </div>
+            <button type="submit" class="btn btn-warning w-100 py-2"><i class="bi bi-cloud-arrow-up-fill me-1"></i>Publish Audio Episode</button>
+          </form>
+
+          <hr class="my-4 border-2 border-dark">
+          <h5 class="fw-bold font-monospace mb-3"><i class="bi bi-music-note-list me-2"></i>Uploaded Audio Playlist</h5>
+          <div id="adminPodcastList" style="max-height: 300px; overflow-y: auto;">
+            <!-- Render list of podcasts -->
+          </div>
+        </div>
+      </div>
+
+      <!-- ===== Video Uploader Widget ===== -->
+      <div class="col-lg-12">
+        <div class="card p-4">
+          <h4 class="section-title"><i class="bi bi-play-btn-fill text-primary me-2"></i>Upload Video Lecture</h4>
+          
+          <form id="videoUploadForm" enctype="multipart/form-data">
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label class="form-label fw-bold font-monospace">Lecture Title</label>
+                <input type="text" name="title" class="form-control" placeholder="e.g. ECG Masterclass: Axis Deviation" required>
+              </div>
+              <div class="col-md-6 mb-3">
+                <label class="form-label fw-bold font-monospace">YouTube Video Link (Alternative to direct upload)</label>
+                <input type="url" name="youtubeUrl" id="youtubeUrl" class="form-control" placeholder="https://www.youtube.com/watch?v=...">
+              </div>
+              <div class="col-md-12 mb-3">
+                <label class="form-label fw-bold font-monospace">Lecture Description</label>
+                <textarea name="description" class="form-control" rows="2" placeholder="Topics covered in the lecture..."></textarea>
+              </div>
+              <div class="col-md-12 mb-4">
+                <label class="form-label fw-bold font-monospace">Upload MP4 Video File (Optional if YouTube link is used)</label>
+                <input type="file" name="videoFile" id="videoFile" class="form-control" accept="video/*">
+                <small class="text-secondary font-monospace">Provide either a YouTube link or choose a video file to upload to the server.</small>
+              </div>
+            </div>
+            <button type="submit" class="btn btn-dark w-100 py-2"><i class="bi bi-cloud-arrow-up-fill me-1"></i>Publish Video Lecture</button>
+          </form>
+
+          <hr class="my-4 border-2 border-dark">
+          <h5 class="fw-bold font-monospace mb-3"><i class="bi bi-display me-2"></i>Uploaded Video Lectures</h5>
+          <div id="adminVideoList" class="row">
+            <!-- Render list of videos -->
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Bootstrap JS Bundle -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+
+  <!-- Control Script -->
+  <script>
+    async function checkAuth() {
+      try {
+        const res = await fetch('/api/auth/me');
+        if (res.status === 401) {
+          window.location.href = 'neet_pg_login.html';
+        }
+      } catch (e) {
+        console.error(e);
+      }
+    }
+
+    // ─── PDF Management ───
+    async function loadPDFs() {
+      try {
+        const res = await fetch('/api/pdfs/list');
+        const data = await res.json();
+        const container = document.getElementById('adminPdfList');
+        container.innerHTML = '';
+
+        if (!data.pdfs || data.pdfs.length === 0) {
+          container.innerHTML = '<div class="text-secondary small">No PDFs uploaded yet.</div>';
+          return;
+        }
+
+        data.pdfs.forEach(pdf => {
+          const div = document.createElement('div');
+          div.className = 'media-item-row d-flex justify-content-between align-items-center';
+          div.innerHTML = `
+            <div>
+              <strong class="text-danger">[PDF]</strong> ${pdf.title} <span class="badge bg-secondary font-monospace rounded-0 ms-1">${pdf.subject}</span>
+              <div class="small text-secondary mt-1">${pdf.size} · ${pdf.desc}</div>
+            </div>
+            <button class="btn btn-danger btn-sm py-1 font-monospace rounded-0" style="box-shadow:none;" onclick="deleteMedia('pdf', '${pdf.id}')">Delete</button>
+          `;
+          container.appendChild(div);
+        });
+      } catch (e) {
+        console.error(e);
+      }
+    }
+
+    // ─── Podcast Management ───
+    async function loadPodcasts() {
+      try {
+        const res = await fetch('/api/podcasts/list');
+        const data = await res.json();
+        const container = document.getElementById('adminPodcastList');
+        container.innerHTML = '';
+
+        if (!data.podcasts || data.podcasts.length === 0) {
+          container.innerHTML = '<div class="text-secondary small">No podcasts uploaded yet.</div>';
+          return;
+        }
+
+        data.podcasts.forEach(pod => {
+          const div = document.createElement('div');
+          div.className = 'media-item-row d-flex justify-content-between align-items-center';
+          div.innerHTML = `
+            <div>
+              <strong class="text-warning">[AUDIO]</strong> ${pod.title}
+              <div class="small text-secondary mt-1">${pod.meta} · ${pod.desc}</div>
+            </div>
+            <button class="btn btn-danger btn-sm py-1 font-monospace rounded-0" style="box-shadow:none;" onclick="deleteMedia('podcast', '${pod.id}')">Delete</button>
+          `;
+          container.appendChild(div);
+        });
+      } catch (e) {
+        console.error(e);
+      }
+    }
+
+    // ─── Video Management ───
+    async function loadVideos() {
+      try {
+        const res = await fetch('/api/videos/list');
+        const data = await res.json();
+        const container = document.getElementById('adminVideoList');
+        container.innerHTML = '';
+
+        if (!data.videos || data.videos.length === 0) {
+          container.innerHTML = '<div class="col-12 text-secondary small font-monospace">No video lectures uploaded yet.</div>';
+          return;
+        }
+
+        data.videos.forEach(vid => {
+          const col = document.createElement('div');
+          col.className = 'col-md-6 mb-3';
+          col.innerHTML = `
+            <div class="border border-dark p-3 bg-light font-monospace">
+              <div class="d-flex justify-content-between align-items-start mb-2">
+                <h6 class="fw-bold mb-0 text-truncate" style="max-width:80%;">${vid.title}</h6>
+                <button class="btn btn-danger btn-sm py-1 font-monospace rounded-0" style="box-shadow:none;" onclick="deleteMedia('video', '${vid.id}')">Delete</button>
+              </div>
+              <p class="small text-secondary mb-2 text-truncate">${vid.desc}</p>
+              <div class="ratio ratio-16x9 border border-dark">
+                <iframe src="${vid.embedUrl}" title="${vid.title}" allowfullscreen></iframe>
+              </div>
+            </div>
+          `;
+          container.appendChild(col);
+        });
+      } catch (e) {
+        console.error(e);
+      }
+    }
+
+    // ─── Delete Media ───
+    window.deleteMedia = async function(type, id) {
+      if (!confirm(`Are you sure you want to delete this ${type}?`)) return;
+      try {
+        const res = await fetch('/api/admin/delete/media', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ type, id })
+        });
+        const data = await res.json();
+        if (data.success) {
+          if (type === 'pdf') loadPDFs();
+          if (type === 'podcast') loadPodcasts();
+          if (type === 'video') loadVideos();
+        }
+      } catch (e) {
+        alert("Deletion failed.");
+      }
+    }
+
+    // Forms Handler
+    document.getElementById('pdfUploadForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const formData = new FormData(e.target);
+      try {
+        const res = await fetch('/api/admin/upload/pdf', { method: 'POST', body: formData });
+        const data = await res.json();
+        if (data.success) {
+          alert("PDF uploaded successfully!");
+          e.target.reset();
+          loadPDFs();
+        } else {
+          alert(data.error || "Upload failed");
+        }
+      } catch (err) {
+        alert("Server error uploading file");
+      }
+    });
+
+    document.getElementById('podcastUploadForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const formData = new FormData(e.target);
+      try {
+        const res = await fetch('/api/admin/upload/podcast', { method: 'POST', body: formData });
+        const data = await res.json();
+        if (data.success) {
+          alert("Podcast audio uploaded successfully!");
+          e.target.reset();
+          loadPodcasts();
+        } else {
+          alert(data.error || "Upload failed");
+        }
+      } catch (err) {
+        alert("Server error uploading audio");
+      }
+    });
+
+    document.getElementById('videoUploadForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const formData = new FormData(e.target);
+      
+      const fileInput = document.getElementById('videoFile');
+      const ytUrlInput = document.getElementById('youtubeUrl');
+
+      if (!fileInput.files.length && !ytUrlInput.value.trim()) {
+        alert("Please provide either a video file or a YouTube embed link.");
+        return;
+      }
+
+      try {
+        const res = await fetch('/api/admin/upload/video', { method: 'POST', body: formData });
+        const data = await res.json();
+        if (data.success) {
+          alert("Video lecture published successfully!");
+          e.target.reset();
+          loadVideos();
+        } else {
+          alert(data.error || "Upload failed");
+        }
+      } catch (err) {
+        alert("Server error uploading video");
+      }
+    });
+
+    window.addEventListener('DOMContentLoaded', () => {
+      checkAuth();
+      loadPDFs();
+      loadPodcasts();
+      loadVideos();
+    });
+  </script>
+</body>
+</html>

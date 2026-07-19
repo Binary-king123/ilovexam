@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "In a galvanic cell, the anode is where:",
+      "options": ["Reduction occurs", "Oxidation occurs", "No reaction", "Both occur"],
+      "correct": 1
+    },
+    {
+      "question": "Which metal acts as the anode in Daniell cell?",
+      "options": ["Copper", "Zinc", "Silver", "Iron"],
+      "correct": 1
+    },
+    {
+      "question": "In a hydrogen electrode, the potential of H⁺/H₂ is defined as:",
+      "options": ["0 V", "0.337 V", "-0.76 V", "1.23 V"],
+      "correct": 0
+    },
+    {
+      "question": "E°cell = E°cathode – E°anode follows the rule of:",
+      "options": ["Nernst equation", "Arrhenius equation", "Faraday's law", "Kirchhoff’s law"],
+      "correct": 0
+    },
+    {
+      "question": "Which law relates the mass deposited to the quantity of electricity?",
+      "options": ["Faraday's laws", "Ohm’s law", "Avogadro’s law", "Raoult’s law"],
+      "correct": 0
+    },
+    {
+      "question": "Which cell uses external electricity to drive a non-spontaneous reaction?",
+      "options": ["Galvanic cell", "Electrolytic cell", "Fuel cell", "Dry cell"],
+      "correct": 1
+    },
+    {
+      "question": "In electrolysis, oxidation happens at the:",
+      "options": ["Cathode", "Anode", "Salt bridge", "Electrolyte"],
+      "correct": 1
+    },
+    {
+      "question": "In galvanic cells, the cell potential is:",
+      "options": ["Negative", "Positive", "Zero", "Undefined"],
+      "correct": 1
+    },
+    {
+      "question": "Which species is reduced in Zn/Cu cell?",
+      "options": ["Zn²⁺", "Cu²⁺", "Cu", "Zn"],
+      "correct": 1
+    },
+    {
+      "question": "Concentration cell has:",
+      "options": ["Same electrodes, different conc.", "Different electrodes, same conc.", "Same electrodes, same conc.", "Different electrodes, different conc."],
+      "correct": 0
+    },
+    {
+      "question": "Nernst equation gives:",
+      "options": ["Electrode potential under non-standard conditions", "Cell current", "Cell resistance", "Ion mobility"],
+      "correct": 0
+    },
+    {
+      "question": "Faraday constant equals:",
+      "options": ["96500 C/mol e⁻", "6.022×10²³", "8.314 J/K·mol", "1.602×10⁻¹⁹ C"],
+      "correct": 0
+    },
+    {
+      "question": "Which cell is commonly used in car batteries?",
+      "options": ["Lead–acid", "Mercury", "Nickel–cadmium", "Lithium-ion"],
+      "correct": 0
+    },
+    {
+      "question": "In lead–acid battery, the cathode is:",
+      "options": ["Pb", "PbO₂", "H₂SO₄", "PbSO₄"],
+      "correct": 1
+    },
+    {
+      "question": "Which battery is rechargeable?",
+      "options": ["Dry cell", "Lead–acid", "Mercury cell", "Primary cell"],
+      "correct": 1
+    },
+    {
+      "question": "During electrolysis of molten NaCl, the product at cathode is:",
+      "options": ["Cl₂", "Na", "NaCl", "Cl⁻"],
+      "correct": 1
+    },
+    {
+      "question": "Which electrode is positive in electrolytic cell?",
+      "options": ["Cathode", "Anode", "Salt bridge", "Negative terminal"],
+      "correct": 1
+    },
+    {
+      "question": "Current efficiency less than 100% indicates:",
+      "options": ["Side reactions", "High purity", "Stable voltage", "High resistance"],
+      "correct": 0
+    },
+    {
+      "question": "Which device measures electrode potential?",
+      "options": ["Voltmeter", "Ammeter", "Ohmmeter", "Galvanometer"],
+      "correct": 0
+    },
+    {
+      "question": "Anode mobile ions migrate toward:",
+      "options": ["Cathode", "Anode", "Salt bridge", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which material is used as electrolyte in lead–acid battery?",
+      "options": ["Dilute H₂SO₄", "KOH", "NaCl", "HCl"],
+      "correct": 0
+    },
+    {
+      "question": "Electroplating is an application of:",
+      "options": ["Galvanic cell", "Electrolytic cell", "Fuel cell", "Concentration cell"],
+      "correct": 1
+    },
+    {
+      "question": "Which electrode becomes coated in electroplating?",
+      "options": ["Cathode", "Anode", "Salt bridge", "Container"],
+      "correct": 0
+    },
+    {
+      "question": "Which ion oxidizes in electroplating?",
+      "options": ["Metal ion", "O⁻", "H₂O", "H⁺"],
+      "correct": 0
+    },
+    {
+      "question": "Electrolytic refining is used to purify:",
+      "options": ["Copper", "Zinc", "Iron", "Mercury"],
+      "correct": 0
+    },
+    {
+      "question": "Battery charging reverses:",
+      "options": ["Cell reactions", "Temperature", "Pressure", "Voltage"],
+      "correct": 0
+    },
+    {
+      "question": "Which cell has no liquid electrolyte?",
+      "options": ["Lithium-ion", "Lead–acid", "Dry cell", "Mercury cell"],
+      "correct": 2
+    },
+    {
+      "question": "Salt bridge contains:",
+      "options": ["Pb(NO₃)₂", "KCl or KNO₃", "H₂SO₄", "CuSO₄"],
+      "correct": 1
+    },
+    {
+      "question": "Overpotential in electrolysis is due to:",
+      "options": ["Kinetic barriers", "Low voltage", "High current", "Resistance"],
+      "correct": 0
+    },
+    {
+      "question": "Which process converts chemical energy to electrical?",
+      "options": ["Galvanic cell", "Electrolytic cell", "Solar cell", "Fuel cell"],
+      "correct": 0
+    },
+    {
+      "question": "Which is an example of primary cell?",
+      "options": ["Dry cell", "Lead–acid", "Ni-Cd", "Li-ion"],
+      "correct": 0
+    },
+    {
+      "question": "Which factors affect cell EMF?",
+      "options": ["Concentration", "Temperature", "Pressure (for gases)", "All"],
+      "correct": 3
+    },
+    {
+      "question": "Nernst equation includes a term RT/nF × ln(Q). What is n?",
+      "options": ["Number of electrons", "Number of moles", "Normality", "Charge"],
+      "correct": 0
+    },
+    {
+      "question": "Hydrogen gas evolves at cathode during:",
+      "options": ["Electrolysis of acidified water", "Dry cell discharge", "Galvanic cell operation", "Fuel cell"],
+      "correct": 0
+    },
+    {
+      "question": "Which cell has constant voltage until fully discharged?",
+      "options": ["Dry cell", "Lead–acid battery", "Fuel cell", "Concentration cell"],
+      "correct": 1
+    },
+    {
+      "question": "Fuel cell uses:",
+      "options": ["External fuel + O₂", "Only O₂", "Only fuel", "No fuel"],
+      "correct": 0
+    },
+    {
+      "question": "Which fuel cell is used in spacecraft?",
+      "options": ["H₂–O₂ PEM", "Lead–acid", "Dry cell", "Ni–Cd"],
+      "correct": 0
+    },
+    {
+      "question": "Overcharging a battery may cause:",
+      "options": ["Gas evolution", "Increased capacity", "Lower voltage", "Cooling"],
+      "correct": 0
+    },
+    {
+      "question": "Standard electrode potentials are measured at:",
+      "options": ["1 M, 1 atm, 25 °C", "2 M, 2 atm, 100 °C", "0.5 M, 1 atm, 25 °C", "1 M, 1 atm, 0 °C"],
+      "correct": 0
+    },
+    {
+      "question": "In concentration cell, potential arises due to:",
+      "options": ["Concentration difference", "Temperature difference", "Catalyst presence", "Electrode area"],
+      "correct": 0
+    },
+    {
+      "question": "Which salt is used to maintain charge balance in electrolytic cell?",
+      "options": ["NH₄NO₃", "KNO₃", "H₂SO₄", "NaCl"],
+      "correct": 1
+    },
+    {
+      "question": "Lead–acid batteries produce:",
+      "options": ["PbSO₄ and water", "PbO₂ and H₂", "Pb and O₂", "Pb and SO₄²⁻"],
+      "correct": 0
+    },
+    {
+      "question": "Electrode potential increases with increased reactant concentration: true or false?",
+      "options": ["True", "False", "Sometimes", "Never"],
+      "correct": 0
+    },
+    {
+      "question": "Which cell type is used in remote sensors because it has high energy density?",
+      "options": ["Lithium-ion", "Lead–acid", "Dry cell", "Ni–Cd"],
+      "correct": 0
+    },
+    {
+      "question": "Electrochemical series helps predict:",
+      "options": ["Displacement reactions", "Solubility", "Boiling points", "Density"],
+      "correct": 0
+    },
+    {
+      "question": "Corrosion prevention includes:",
+      "options": ["Cathodic protection", "Galvanizing", "Painting", "All"],
+      "correct": 3
+    },
+    {
+      "question": "Which method measures concentration using current?",
+      "options": ["Polarography", "Potentiometry", "Chromatography", "Spectrophotometry"],
+      "correct": 0
+    },
+    {
+      "question": "Potentiometric titration measures:",
+      "options": ["Voltage change", "Current change", "Color change", "Temperature change"],
+      "correct": 0
+    },
+    {
+      "question": "Electrochemical cells do not obey:",
+      "options": ["Faraday’s laws", "Ohm’s law", "Nernst equation", "Arrhenius equation"],
+      "correct": 3
+    },
+    {
+      "question": "Which metal protects pipelines by sacrificial anode?",
+      "options": ["Mg", "Au", "Ag", "Cu"],
+      "correct": 0
+    }
+  ]
+}

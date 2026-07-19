@@ -1,0 +1,35 @@
+body { background:#f8f9fa; font-family:'Segoe UI',sans-serif; overflow-x:hidden; }
+header { background:#003366; color:white; padding:0.8rem; text-align:center; font-weight:600; }
+
+.card { border-radius:10px; border:1px solid #dee2e6; box-shadow:0 1px 3px rgba(0,0,0,0.08); }
+.card .fw-bold { font-size:1rem; }
+
+.option-btn {
+  background:#f9f9f9; border-radius:5px; padding:8px 12px; margin-bottom:8px;
+  cursor:pointer; transition:0.2s;
+}
+.option-btn:hover { background:#eef4ff; }
+.option-selected { background:#28a745 !important; color:white; }
+
+.palette-button {
+  width:40px; height:40px; font-size:15px; font-weight:600;
+  border-radius:50%; padding:0; line-height:38px; text-align:center;
+}
+.status-answered { background:#28a745 !important; color:white; }
+.status-not-answered { background:#dc3545 !important; color:white; }
+.status-review { background:#ffc107 !important; color:black; }
+.status-not-visited { background:#6c757d !important; color:white; }
+
+#sidebar { background:#fff; border-left:2px solid #e9ecef; padding:15px; border-radius:8px; }
+
+@media(max-width:768px){
+  #sidebar{display:none;}
+  .mobile-fixed-nav {
+    position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid #ddd;
+    display:flex;justify-content:space-around;padding:0.5rem;z-index:1000;
+  }
+  .mobile-fixed-nav .btn{flex:1;margin:0 5px;}
+}
+
+body { -webkit-user-select: none; -moz-user-select: none; user-select: none; }
+#resultContainer { display:none; }

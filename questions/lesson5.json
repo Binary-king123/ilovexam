@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Work done is said to be positive when:",
+      "options": ["Force and displacement are perpendicular", "Force and displacement are in same direction", "Force is zero", "Displacement is zero"],
+      "correct": 1
+    },
+    {
+      "question": "The SI unit of work is:",
+      "options": ["Watt", "Joule", "Newton", "Erg"],
+      "correct": 1
+    },
+    {
+      "question": "1 kWh is equal to:",
+      "options": ["100 J", "3.6 × 10⁵ J", "36 J", "3600 J"],
+      "correct": 1
+    },
+    {
+      "question": "If the angle between force and displacement is 90°, the work done is:",
+      "options": ["Maximum", "Zero", "Minimum", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a scalar quantity?",
+      "options": ["Work", "Force", "Displacement", "Velocity"],
+      "correct": 0
+    },
+    {
+      "question": "The work done by friction is always:",
+      "options": ["Positive", "Negative", "Zero", "Variable"],
+      "correct": 1
+    },
+    {
+      "question": "If work is done at a constant rate, then power is:",
+      "options": ["Zero", "Decreasing", "Constant", "Increasing"],
+      "correct": 2
+    },
+    {
+      "question": "The SI unit of power is:",
+      "options": ["Joule", "Newton", "Watt", "Erg"],
+      "correct": 2
+    },
+    {
+      "question": "Kinetic energy of a body of mass m moving with velocity v is:",
+      "options": ["mv²", "½mv²", "mv", "½mv"],
+      "correct": 1
+    },
+    {
+      "question": "Work done by centripetal force is:",
+      "options": ["Positive", "Negative", "Zero", "Maximum"],
+      "correct": 2
+    },
+    {
+      "question": "Potential energy of a body depends on:",
+      "options": ["Velocity", "Position", "Temperature", "Acceleration"],
+      "correct": 1
+    },
+    {
+      "question": "Work-energy theorem is based on which law?",
+      "options": ["Newton’s first law", "Newton’s second law", "Conservation of energy", "Newton’s third law"],
+      "correct": 1
+    },
+    {
+      "question": "If velocity of a body becomes double, its kinetic energy becomes:",
+      "options": ["Double", "Triple", "Four times", "Half"],
+      "correct": 2
+    },
+    {
+      "question": "A machine is said to be efficient if:",
+      "options": ["It produces heat", "Output work is more than input", "Output/input ratio is high", "Input is zero"],
+      "correct": 2
+    },
+    {
+      "question": "Power is defined as:",
+      "options": ["Work × time", "Work/time", "Force × distance", "Force/time"],
+      "correct": 1
+    },
+    {
+      "question": "Work done is maximum when angle between force and displacement is:",
+      "options": ["0°", "90°", "180°", "270°"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following forces is conservative?",
+      "options": ["Friction", "Air resistance", "Gravitational force", "Tension"],
+      "correct": 2
+    },
+    {
+      "question": "If a constant force acts on a body, the work done is proportional to:",
+      "options": ["Time", "Displacement", "Mass", "Velocity"],
+      "correct": 1
+    },
+    {
+      "question": "The energy possessed by a body due to its motion is:",
+      "options": ["Potential energy", "Kinetic energy", "Elastic energy", "Chemical energy"],
+      "correct": 1
+    },
+    {
+      "question": "Negative work is done when:",
+      "options": ["Force and displacement are in same direction", "Force and displacement are in opposite direction", "No motion", "Force is zero"],
+      "correct": 1
+    },
+    {
+      "question": "A man lifts a box to a height h. The work done is stored as:",
+      "options": ["Heat energy", "Kinetic energy", "Potential energy", "Sound energy"],
+      "correct": 2
+    },
+    {
+      "question": "Unit of energy in CGS system is:",
+      "options": ["Erg", "Joule", "Watt", "Calorie"],
+      "correct": 0
+    },
+    {
+      "question": "The gravitational potential energy near Earth's surface is given by:",
+      "options": ["mgh", "½mv²", "mg/v", "mv²"],
+      "correct": 0
+    },
+    {
+      "question": "A body falling freely under gravity has:",
+      "options": ["Increasing potential energy", "Increasing kinetic energy", "Constant mechanical energy", "Both 2 and 3"],
+      "correct": 3
+    },
+    {
+      "question": "Mechanical energy is conserved in:",
+      "options": ["Presence of friction", "Inelastic collision", "Vacuum", "Isolated system with only conservative forces"],
+      "correct": 3
+    },
+    {
+      "question": "A 60 W bulb consumes how much energy in 1 hour?",
+      "options": ["60 J", "3600 J", "216000 J", "600 J"],
+      "correct": 2
+    },
+    {
+      "question": "If power is measured in HP, 1 HP equals:",
+      "options": ["746 W", "1 kW", "1000 W", "500 W"],
+      "correct": 0
+    },
+    {
+      "question": "Which force does zero work in circular motion?",
+      "options": ["Tension", "Friction", "Gravitational", "Centripetal"],
+      "correct": 3
+    },
+    {
+      "question": "Which energy form is associated with stretching of a spring?",
+      "options": ["Kinetic", "Potential", "Elastic potential", "Chemical"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is true about conservative forces?",
+      "options": [
+        "Work depends on path",
+        "Work done in closed path is zero",
+        "Friction is conservative",
+        "Always positive work"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Efficiency is defined as:",
+      "options": ["Input/Output", "Output/Input", "Power × time", "Energy/force"],
+      "correct": 1
+    },
+    {
+      "question": "The power of a person climbing stairs depends on:",
+      "options": ["Weight", "Height", "Time", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "If a force acts perpendicular to displacement:",
+      "options": ["Work is zero", "Work is maximum", "Work is negative", "Work is positive"],
+      "correct": 0
+    },
+    {
+      "question": "The relation between work and energy is:",
+      "options": ["Work = Energy × Time", "Work = Change in energy", "Work = Power", "Work = Energy / Force"],
+      "correct": 1
+    },
+    {
+      "question": "When a body is thrown upwards, its kinetic energy:",
+      "options": ["Increases", "Decreases", "Remains constant", "Becomes negative"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is not a unit of energy?",
+      "options": ["Joule", "Watt-hour", "Calorie", "Watt"],
+      "correct": 3
+    },
+    {
+      "question": "Spring constant k is defined as:",
+      "options": ["F/x", "Fx", "x/F", "1/Fx"],
+      "correct": 0
+    },
+    {
+      "question": "The area under force-displacement graph gives:",
+      "options": ["Energy", "Power", "Work", "Momentum"],
+      "correct": 2
+    },
+    {
+      "question": "In perfectly elastic spring, work done is stored as:",
+      "options": ["Kinetic energy", "Potential energy", "Heat", "Sound"],
+      "correct": 1
+    },
+    {
+      "question": "The work done by gravity in lifting an object is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "What is the dimension of power?",
+      "options": ["ML²T⁻³", "MLT⁻²", "ML²T⁻²", "MLT⁻³"],
+      "correct": 0
+    },
+    {
+      "question": "If velocity of body is zero, its kinetic energy is:",
+      "options": ["Maximum", "Negative", "Zero", "Infinite"],
+      "correct": 2
+    },
+    {
+      "question": "Work done by a variable force is calculated using:",
+      "options": ["W = F × d", "Area under F-d graph", "W = mgh", "W = ½mv²"],
+      "correct": 1
+    },
+    {
+      "question": "A man holds a weight without moving. Work done is:",
+      "options": ["Maximum", "Zero", "Negative", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Which quantity is always conserved?",
+      "options": ["Work", "Kinetic energy", "Total energy", "Potential energy"],
+      "correct": 2
+    },
+    {
+      "question": "A 1 kg object falls freely under gravity. Its energy:",
+      "options": ["Kinetic only", "Potential only", "Total constant", "Zero"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a non-conservative force?",
+      "options": ["Gravitational", "Spring force", "Friction", "Electric"],
+      "correct": 2
+    },
+    {
+      "question": "Which type of motion does not involve work?",
+      "options": ["Rotational", "Translational", "Uniform circular", "Rectilinear"],
+      "correct": 2
+    },
+    {
+      "question": "A body lifted vertically gains energy due to:",
+      "options": ["Friction", "Gravitational force", "Kinetic energy", "Velocity"],
+      "correct": 1
+    }
+  ]
+}

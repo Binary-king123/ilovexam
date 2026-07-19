@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which element is essential for nitrogen fixation?",
+      "options": ["Iron", "Manganese", "Molybdenum", "Copper"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a macronutrient?",
+      "options": ["Zinc", "Manganese", "Magnesium", "Copper"],
+      "correct": 2
+    },
+    {
+      "question": "Chlorosis is caused due to deficiency of:",
+      "options": ["Magnesium", "Calcium", "Iron", "Both 1 and 3"],
+      "correct": 3
+    },
+    {
+      "question": "Which ion is involved in the opening and closing of stomata?",
+      "options": ["Na⁺", "Ca²⁺", "K⁺", "Cl⁻"],
+      "correct": 2
+    },
+    {
+      "question": "Which element is a constituent of chlorophyll?",
+      "options": ["Iron", "Magnesium", "Zinc", "Manganese"],
+      "correct": 1
+    },
+    {
+      "question": "Leghemoglobin in root nodules is synthesized by:",
+      "options": ["Bacteria", "Plant", "Both plant and bacteria", "Soil"],
+      "correct": 2
+    },
+    {
+      "question": "The first stable product of biological nitrogen fixation is:",
+      "options": ["Ammonia", "Nitrate", "Nitrite", "Urea"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a micronutrient?",
+      "options": ["Nitrogen", "Potassium", "Copper", "Calcium"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is not an essential element for plants?",
+      "options": ["Sodium", "Zinc", "Molybdenum", "Copper"],
+      "correct": 0
+    },
+    {
+      "question": "Which deficiency causes necrosis in plants?",
+      "options": ["Calcium", "Magnesium", "Phosphorus", "Sulphur"],
+      "correct": 0
+    },
+    {
+      "question": "Essential elements are classified based on:",
+      "options": ["Atomic mass", "Amount required", "Color", "Size"],
+      "correct": 1
+    },
+    {
+      "question": "Which plant family shows root nodule formation?",
+      "options": ["Poaceae", "Leguminosae", "Solanaceae", "Liliaceae"],
+      "correct": 1
+    },
+    {
+      "question": "Who proposed the term 'essential elements'?",
+      "options": ["Arnon and Stout", "Blackman", "Liebig", "Calvin"],
+      "correct": 0
+    },
+    {
+      "question": "Nitrogenase enzyme requires which element for its activity?",
+      "options": ["Zinc", "Iron", "Potassium", "Phosphorus"],
+      "correct": 1
+    },
+    {
+      "question": "Nod factor is produced by:",
+      "options": ["Plant", "Rhizobium", "Fungus", "Soil"],
+      "correct": 1
+    },
+    {
+      "question": "Which element is essential for ATP synthesis?",
+      "options": ["Phosphorus", "Magnesium", "Sulphur", "Nitrogen"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following helps in photolysis of water?",
+      "options": ["Calcium", "Magnesium", "Manganese", "Copper"],
+      "correct": 2
+    },
+    {
+      "question": "Which form of nitrogen is absorbed by plants?",
+      "options": ["NO₂⁻ and NO₃⁻", "NH₄⁺", "Both A and B", "N₂ gas"],
+      "correct": 2
+    },
+    {
+      "question": "Which element is required in largest amount by plants?",
+      "options": ["Nitrogen", "Phosphorus", "Potassium", "Calcium"],
+      "correct": 0
+    },
+    {
+      "question": "The process of conversion of nitrate to nitrogen gas is called:",
+      "options": ["Nitrification", "Ammonification", "Denitrification", "Assimilation"],
+      "correct": 2
+    },
+    {
+      "question": "Phosphorus is a component of:",
+      "options": ["Proteins", "Starch", "DNA", "Lipids"],
+      "correct": 2
+    },
+    {
+      "question": "Which nutrient is responsible for protein synthesis?",
+      "options": ["Sulphur", "Potassium", "Nitrogen", "Calcium"],
+      "correct": 2
+    },
+    {
+      "question": "Minerals absorbed passively through:",
+      "options": ["Simple diffusion", "Facilitated diffusion", "Active transport", "Both A and B"],
+      "correct": 3
+    },
+    {
+      "question": "Which macronutrient activates enzymes of respiration?",
+      "options": ["Potassium", "Calcium", "Phosphorus", "Magnesium"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these is a mobile element?",
+      "options": ["Calcium", "Sulphur", "Nitrogen", "Boron"],
+      "correct": 2
+    },
+    {
+      "question": "Which process does not occur in nitrogen cycle?",
+      "options": ["Nitrification", "Nitrogen fixation", "Ammonification", "Saponification"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following causes inhibition of cell division?",
+      "options": ["Boron", "Manganese", "Zinc", "Calcium"],
+      "correct": 3
+    },
+    {
+      "question": "Leghaemoglobin is red due to:",
+      "options": ["Heme group", "Iron", "Both A and B", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a symbiotic nitrogen fixer?",
+      "options": ["Azotobacter", "Rhizobium", "Nostoc", "Clostridium"],
+      "correct": 1
+    },
+    {
+      "question": "Which element is required for synthesis of auxin?",
+      "options": ["Zinc", "Iron", "Manganese", "Copper"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a role of potassium?",
+      "options": ["Protein synthesis", "Enzyme activation", "Osmoregulation", "Part of chlorophyll"],
+      "correct": 3
+    },
+    {
+      "question": "Cobalt is essential for:",
+      "options": ["Photosynthesis", "Nitrogen fixation", "Respiration", "Pigment formation"],
+      "correct": 1
+    },
+    {
+      "question": "Deficiency of nitrogen causes:",
+      "options": ["Etiolation", "Chlorosis", "Necrosis", "Leaf curling"],
+      "correct": 1
+    },
+    {
+      "question": "Sulphur is a component of:",
+      "options": ["Chlorophyll", "Proteins", "Lipids", "Starch"],
+      "correct": 1
+    },
+    {
+      "question": "Ion exchange theory is related to:",
+      "options": ["Water absorption", "Nutrient absorption", "Photosynthesis", "Transpiration"],
+      "correct": 1
+    },
+    {
+      "question": "Which enzyme is associated with nitrogen fixation?",
+      "options": ["Rubisco", "Nitrogenase", "Amylase", "Dehydrogenase"],
+      "correct": 1
+    },
+    {
+      "question": "Which process occurs in nodules of legumes?",
+      "options": ["Nitrification", "Denitrification", "Ammonification", "Nitrogen fixation"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these bacteria is non-symbiotic nitrogen fixer?",
+      "options": ["Rhizobium", "Azotobacter", "Frankia", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which element is required for cell wall formation?",
+      "options": ["Calcium", "Potassium", "Zinc", "Manganese"],
+      "correct": 0
+    },
+    {
+      "question": "Excess of manganese may induce deficiency of:",
+      "options": ["Iron", "Magnesium", "Calcium", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The deficiency of which element causes rosetting in plants?",
+      "options": ["Zinc", "Boron", "Calcium", "Potassium"],
+      "correct": 0
+    },
+    {
+      "question": "Active uptake of minerals is mediated by:",
+      "options": ["Aquaporins", "Carrier proteins", "Ions", "Osmosis"],
+      "correct": 1
+    },
+    {
+      "question": "Plants absorb sulphur in the form of:",
+      "options": ["H₂SO₄", "SO₄²⁻", "SO₂", "S²⁻"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a group of macronutrients?",
+      "options": ["N, P, K", "Zn, Cu, Mn", "B, Mo, Fe", "Ca, Mg, Mn"],
+      "correct": 0
+    },
+    {
+      "question": "Essential elements must be:",
+      "options": ["Required for reproduction", "Irreplaceable", "Present in large amounts", "Enzyme components only"],
+      "correct": 1
+    },
+    {
+      "question": "Element involved in pollen germination is:",
+      "options": ["Boron", "Manganese", "Calcium", "Potassium"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a chelating agent in nutrient absorption?",
+      "options": ["ATP", "EDTA", "Rubisco", "Ammonia"],
+      "correct": 1
+    },
+    {
+      "question": "Chlorosis first appears in older leaves when deficiency is of:",
+      "options": ["Iron", "Zinc", "Nitrogen", "Manganese"],
+      "correct": 2
+    },
+    {
+      "question": "A plant shows stunted growth and purplish pigmentation. Likely deficiency is of:",
+      "options": ["Potassium", "Phosphorus", "Sulphur", "Calcium"],
+      "correct": 1
+    },
+    {
+      "question": "First amino acid formed in nitrogen assimilation is:",
+      "options": ["Alanine", "Glutamate", "Glycine", "Asparagine"],
+      "correct": 1
+    }
+  ]
+}

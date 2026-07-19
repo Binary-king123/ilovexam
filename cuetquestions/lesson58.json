@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "If A = {1, 2, 3} and B = {4, 5}, then the number of elements in A × B is:",
+      "options": ["3", "6", "5", "2"],
+      "correct": 1
+    },
+    {
+      "question": "The number of subsets of a set containing n elements is:",
+      "options": ["2^n", "n^2", "n!", "n+1"],
+      "correct": 0
+    },
+    {
+      "question": "If A = {x: x is a natural number < 4}, then A is:",
+      "options": ["{1, 2, 3}", "{0, 1, 2, 3}", "{2, 3, 4}", "{1, 2, 3, 4}"],
+      "correct": 0
+    },
+    {
+      "question": "The number of elements in the power set of a set containing 4 elements is:",
+      "options": ["8", "12", "16", "32"],
+      "correct": 2
+    },
+    {
+      "question": "If A = {1, 2}, B = {3, 4}, then (A × B) ∩ (B × A) is:",
+      "options": ["Empty set", "A × B", "B × A", "Non-empty set"],
+      "correct": 0
+    },
+    {
+      "question": "Let A = {1, 2, 3}, then the relation R = {(1,1), (2,2), (3,3)} is:",
+      "options": ["Reflexive", "Symmetric", "Transitive", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The identity relation on set A is:",
+      "options": ["{(a,a) | a ∈ A}", "{(a,b) | a,b ∈ A}", "{(a,b) | a = b}", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A function is called one-one if:",
+      "options": ["Every element in domain maps to a unique element in codomain", "Every element in codomain is mapped", "Domain and range are equal", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a function?",
+      "options": ["{(1,2), (2,3)}", "{(1,2), (1,3)}", "{(2,2), (3,3)}", "Both A and C"],
+      "correct": 3
+    },
+    {
+      "question": "The relation R on set of integers Z defined by aRb ⇔ a - b is divisible by 5 is:",
+      "options": ["Reflexive", "Symmetric", "Transitive", "Equivalence"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is the universal set for set of natural numbers less than 10?",
+      "options": ["N", "{1,2,3,...,9}", "Z", "{0,1,...,10}"],
+      "correct": 3
+    },
+    {
+      "question": "If A and B are disjoint sets, then A ∩ B is:",
+      "options": ["A", "B", "U", "∅"],
+      "correct": 3
+    },
+    {
+      "question": "The symmetric difference of A and B is defined as:",
+      "options": ["A ∪ B", "A ∩ B", "(A - B) ∪ (B - A)", "A ⊕ B"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = x + 1 and g(x) = x^2, then (f ∘ g)(2) is:",
+      "options": ["5", "3", "9", "10"],
+      "correct": 3
+    },
+    {
+      "question": "A function f: R → R defined by f(x) = x^3 is:",
+      "options": ["Even", "Odd", "Neither", "Periodic"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a finite set?",
+      "options": ["Set of natural numbers", "Set of students in a class", "Set of all integers", "Set of all points on a line"],
+      "correct": 1
+    },
+    {
+      "question": "Set of vowels in English alphabet is:",
+      "options": ["Infinite", "Finite", "Singleton", "Universal"],
+      "correct": 1
+    },
+    {
+      "question": "Let A = {1, 2, 3} and R = {(1,2), (2,3), (3,1)}, then R is:",
+      "options": ["Reflexive", "Symmetric", "Transitive", "Not equivalence"],
+      "correct": 3
+    },
+    {
+      "question": "Let f(x) = 2x + 3. Then f⁻¹(x) is:",
+      "options": ["(x - 3)/2", "(x + 3)/2", "2x - 3", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = x^2, then range of f over real numbers is:",
+      "options": ["[0, ∞)", "(-∞, ∞)", "(0, ∞)", "[0, 1]"],
+      "correct": 0
+    },
+    {
+      "question": "A × B = {(1,a), (2,a), (3,a)} implies:",
+      "options": ["A = {1,2,3}, B = {a}", "A = {a}, B = {1,2,3}", "A = {1,2}, B = {a}", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Let A = {1,2}, B = {3,4}, then the total number of relations from A to B is:",
+      "options": ["2^4", "2^2", "4", "8"],
+      "correct": 0
+    },
+    {
+      "question": "A singleton set has:",
+      "options": ["Only 1 element", "2 elements", "Infinite elements", "Zero elements"],
+      "correct": 0
+    },
+    {
+      "question": "The empty set is a subset of:",
+      "options": ["Only finite sets", "All sets", "Only infinite sets", "Singleton sets"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = sin(x), then domain is:",
+      "options": ["[0, π]", "(-∞, ∞)", "(-1, 1)", "[0, ∞)"],
+      "correct": 1
+    },
+    {
+      "question": "The number of equivalence relations on a set with 2 elements is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "Function f(x) = |x| is:",
+      "options": ["Even", "Odd", "Neither", "Constant"],
+      "correct": 0
+    },
+    {
+      "question": "The inverse of f(x) = 1/x is:",
+      "options": ["f⁻¹(x) = x", "f⁻¹(x) = 1/x", "f⁻¹(x) = x²", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Set of all prime numbers is:",
+      "options": ["Finite", "Infinite", "Singleton", "Universal"],
+      "correct": 1
+    },
+    {
+      "question": "Let f: R → R defined by f(x) = x², then f is:",
+      "options": ["One-one", "Onto", "Neither", "Injective"],
+      "correct": 2
+    },
+    {
+      "question": "Complement of a universal set is:",
+      "options": ["Empty set", "Universal set", "Null", "Full set"],
+      "correct": 0
+    },
+    {
+      "question": "Two sets A and B are said to be equal if:",
+      "options": ["A ⊆ B", "B ⊆ A", "A ⊆ B and B ⊆ A", "A ∩ B ≠ ∅"],
+      "correct": 2
+    },
+    {
+      "question": "If A and B are two finite sets and |A| = m, |B| = n, then |A × B| =",
+      "options": ["m + n", "m × n", "m - n", "n^m"],
+      "correct": 1
+    },
+    {
+      "question": "Let R be a relation on set A = {1, 2, 3}, R = {(1,1), (2,2), (3,3), (1,2), (2,3), (1,3)}, then R is:",
+      "options": ["Symmetric", "Transitive", "Reflexive", "None"],
+      "correct": 1
+    },
+    {
+      "question": "If A = {1,2,3}, then total number of equivalence relations on A is:",
+      "options": ["5", "6", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Which set has infinite subsets?",
+      "options": ["{1,2,3}", "N", "{a,b}", "∅"],
+      "correct": 1
+    },
+    {
+      "question": "The identity function f(x) = x is:",
+      "options": ["One-one and onto", "Only one-one", "Only onto", "Neither"],
+      "correct": 0
+    },
+    {
+      "question": "If A = {x: x is even}, B = {x: x is odd}, then A ∩ B =",
+      "options": ["∅", "N", "Z", "U"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a function?",
+      "options": ["f(x) = ±√x", "f(x) = x²", "f(x) = sin(x)", "f(x) = 1/x"],
+      "correct": 0
+    },
+    {
+      "question": "If f is a constant function, then f(x) =",
+      "options": ["k", "x", "x + k", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A × ∅ =",
+      "options": ["A", "∅", "Undefined", "A × A"],
+      "correct": 1
+    },
+    {
+      "question": "The number of reflexive relations on set with n elements is:",
+      "options": ["2^(n² - n)", "2^n", "n!", "2^n²"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a real function?",
+      "options": ["f(x) = √x", "f(x) = log x", "f(x) = 1/x", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "If A = {1,2,3,4,5}, number of relations on A is:",
+      "options": ["2^25", "25", "2^5", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is not an example of mapping?",
+      "options": ["One-to-one", "Onto", "Many-to-one", "One-to-many"],
+      "correct": 3
+    },
+    {
+      "question": "If A = {a,b}, B = {1,2}, number of injective functions from A to B is:",
+      "options": ["2", "1", "0", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Function f is said to be onto if:",
+      "options": ["Each element in codomain has preimage", "Domain = codomain", "Range ⊆ codomain", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If U = {1,2,3,4,5} and A = {2,4}, then A′ is:",
+      "options": ["{1,3,5}", "{2,4}", "∅", "U"],
+      "correct": 0
+    },
+    {
+      "question": "If f: A → B and B → C are surjective, then g ∘ f is:",
+      "options": ["Surjective", "Injective", "Bijective", "None"],
+      "correct": 0
+    }
+  ]
+}

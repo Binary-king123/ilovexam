@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "A semiconductor has conductivity between:",
+      "options": ["Conductors and insulators", "Only conductors", "Only insulators", "Metals"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is an intrinsic semiconductor?",
+      "options": ["Germanium", "Gallium Arsenide", "Silicon doped with boron", "Copper"],
+      "correct": 0
+    },
+    {
+      "question": "In an n-type semiconductor, the majority carriers are:",
+      "options": ["Holes", "Electrons", "Protons", "Neutrons"],
+      "correct": 1
+    },
+    {
+      "question": "The process of adding impurities to a semiconductor is called:",
+      "options": ["Insulating", "Doping", "Refining", "Annealing"],
+      "correct": 1
+    },
+    {
+      "question": "A p-type semiconductor is formed by doping:",
+      "options": ["Trivalent impurities", "Pentavalent impurities", "Tetravalent impurities", "None"],
+      "correct": 0
+    },
+    {
+      "question": "In a p-n junction diode, current flows easily when it is:",
+      "options": ["Forward biased", "Reverse biased", "Unbiased", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "A Zener diode is primarily used as a:",
+      "options": ["Amplifier", "Oscillator", "Voltage regulator", "Rectifier"],
+      "correct": 2
+    },
+    {
+      "question": "The energy gap in semiconductors is about:",
+      "options": ["0 eV", "1 eV", "5 eV", "10 eV"],
+      "correct": 1
+    },
+    {
+      "question": "At absolute zero, an intrinsic semiconductor behaves like:",
+      "options": ["Conductor", "Insulator", "Superconductor", "Metal"],
+      "correct": 1
+    },
+    {
+      "question": "The unit of resistivity is:",
+      "options": ["Ohm", "Ohm-meter", "Volt/meter", "Siemens"],
+      "correct": 1
+    },
+    {
+      "question": "In reverse bias, the width of depletion region:",
+      "options": ["Decreases", "Increases", "Remains same", "Disappears"],
+      "correct": 1
+    },
+    {
+      "question": "A transistor has how many junctions?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Which terminal of a transistor is lightly doped and thin?",
+      "options": ["Emitter", "Base", "Collector", "Gate"],
+      "correct": 1
+    },
+    {
+      "question": "In an NPN transistor, current flows from:",
+      "options": ["Base to collector", "Emitter to collector", "Collector to emitter", "Base to emitter"],
+      "correct": 1
+    },
+    {
+      "question": "The most commonly used semiconductor material is:",
+      "options": ["Silicon", "Germanium", "Copper", "Aluminium"],
+      "correct": 0
+    },
+    {
+      "question": "In a forward-biased diode, current flows due to:",
+      "options": ["Only electrons", "Only holes", "Electrons and holes", "Photons"],
+      "correct": 2
+    },
+    {
+      "question": "Which region controls the operation of transistor?",
+      "options": ["Emitter", "Base", "Collector", "Depletion"],
+      "correct": 1
+    },
+    {
+      "question": "The base-emitter junction of a transistor is always:",
+      "options": ["Reverse biased", "Forward biased", "Zero biased", "Breakdown biased"],
+      "correct": 1
+    },
+    {
+      "question": "Common emitter transistor provides:",
+      "options": ["Voltage gain", "Current gain", "Power gain", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The rectifier converts:",
+      "options": ["AC to DC", "DC to AC", "AC to AC", "DC to DC"],
+      "correct": 0
+    },
+    {
+      "question": "In a full-wave rectifier, the output frequency is:",
+      "options": ["Equal to input", "Twice the input", "Half of input", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "Which logic gate outputs HIGH only if all inputs are HIGH?",
+      "options": ["OR", "NAND", "AND", "NOR"],
+      "correct": 2
+    },
+    {
+      "question": "Truth table of NOT gate is:",
+      "options": ["0→1, 1→0", "0→0, 1→1", "0→1, 1→1", "0→0, 1→0"],
+      "correct": 0
+    },
+    {
+      "question": "The logic gate used in adder circuits is:",
+      "options": ["NOT", "AND", "XOR", "NAND"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following gates is called a universal gate?",
+      "options": ["AND", "OR", "XOR", "NAND"],
+      "correct": 3
+    },
+    {
+      "question": "A transistor can act as a:",
+      "options": ["Switch", "Amplifier", "Both", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The function of a filter in a rectifier circuit is:",
+      "options": ["Amplify signal", "Regulate voltage", "Smooth output", "Rectify AC"],
+      "correct": 2
+    },
+    {
+      "question": "The output of a NOT gate is HIGH when:",
+      "options": ["Input is LOW", "Input is HIGH", "Both inputs HIGH", "None"],
+      "correct": 0
+    },
+    {
+      "question": "What is the minimum number of NAND gates to make an OR gate?",
+      "options": ["2", "3", "4", "1"],
+      "correct": 2
+    },
+    {
+      "question": "The output of an OR gate is 1 if:",
+      "options": ["Any input is 1", "All inputs are 0", "All inputs are 1", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which device is used to control voltage in a circuit?",
+      "options": ["Rectifier", "Zener diode", "Transistor", "Resistor"],
+      "correct": 1
+    },
+    {
+      "question": "Current gain in a common-emitter configuration is denoted by:",
+      "options": ["α", "β", "γ", "δ"],
+      "correct": 1
+    },
+    {
+      "question": "A photodiode works under:",
+      "options": ["Forward bias", "Reverse bias", "Zero bias", "Zener region"],
+      "correct": 1
+    },
+    {
+      "question": "In a Zener diode, breakdown occurs due to:",
+      "options": ["Thermal runaway", "Junction heating", "High reverse voltage", "Forward biasing"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is not a property of an ideal diode?",
+      "options": ["Zero resistance in forward bias", "Infinite resistance in reverse bias", "High power consumption", "Acts as a switch"],
+      "correct": 2
+    },
+    {
+      "question": "In a silicon diode, barrier potential is approximately:",
+      "options": ["0.1 V", "0.3 V", "0.7 V", "1.1 V"],
+      "correct": 2
+    },
+    {
+      "question": "Which material is used in light-emitting diodes (LEDs)?",
+      "options": ["Silicon", "Germanium", "Gallium arsenide", "Copper"],
+      "correct": 2
+    },
+    {
+      "question": "A logic gate gives output 0 when all inputs are 1. It is:",
+      "options": ["AND", "NOR", "NAND", "OR"],
+      "correct": 2
+    },
+    {
+      "question": "Digital circuits work on:",
+      "options": ["Discrete signals", "Analog signals", "Thermal signals", "Mechanical signals"],
+      "correct": 0
+    },
+    {
+      "question": "The output of an AND gate is 1 when:",
+      "options": ["Any input is 1", "All inputs are 1", "All inputs are 0", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which type of semiconductor is formed by doping silicon with phosphorus?",
+      "options": ["n-type", "p-type", "insulator", "metal"],
+      "correct": 0
+    },
+    {
+      "question": "Which logic gate is used to perform addition operation?",
+      "options": ["AND", "OR", "XOR", "NOR"],
+      "correct": 2
+    },
+    {
+      "question": "Which material has zero band gap?",
+      "options": ["Semiconductors", "Conductors", "Insulators", "Photoconductors"],
+      "correct": 1
+    },
+    {
+      "question": "Boolean algebra is used to analyze:",
+      "options": ["Digital circuits", "Analog circuits", "Rectifiers", "Diodes"],
+      "correct": 0
+    },
+    {
+      "question": "Which logic gate is represented by a triangle with a circle?",
+      "options": ["AND", "OR", "NOT", "XOR"],
+      "correct": 2
+    },
+    {
+      "question": "In a digital circuit, the binary number 1010 is equal to:",
+      "options": ["10", "12", "15", "8"],
+      "correct": 0
+    },
+    {
+      "question": "The operation of a transistor depends on:",
+      "options": ["Charge flow", "Heat transfer", "Voltage drop", "Light emission"],
+      "correct": 0
+    },
+    {
+      "question": "Which configuration gives highest power gain in transistor?",
+      "options": ["Common base", "Common emitter", "Common collector", "Emitter follower"],
+      "correct": 1
+    },
+    {
+      "question": "A logic gate has two inputs and one output. Which gate is it?",
+      "options": ["XOR", "NOT", "OR", "NAND"],
+      "correct": 0
+    }
+  ]
+}

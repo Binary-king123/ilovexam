@@ -1,0 +1,574 @@
+{
+  "test": [
+    {
+      "question": "In the sentence below, what does the word 'brisk' most nearly mean?\n\n\"She set off on a brisk walk through the park, eager to shake off the stress of the day.\"",
+      "options": ["Energetic", "Cold", "Hurried", "Stiff"],
+      "correct": 0
+    },
+    {
+      "question": "The following sentence appears in a paragraph about climate change:\n\n\"Although critics once dismissed renewable energy as impractical, its cost has plummeted and its adoption has soared.\"\n\nWhat is the function of this sentence in the passage?",
+      "options": ["It introduces a new topic unrelated to climate change", "It challenges a previously held belief", "It repeats an earlier point for emphasis", "It serves as a summary of an earlier argument"],
+      "correct": 1
+    },
+    {
+      "question": "Read the sentence below:\n\n\"Her tone, once light and carefree, had shifted to something more restrained and formal.\"\n\nWhich best describes the author's tone in this sentence?",
+      "options": ["Joyful", "Melancholy", "Reflective", "Aggressive"],
+      "correct": 2
+    },
+    {
+      "question": "Read the passage:\n\n\"The author concludes the chapter by listing the various failed attempts to curb pollution. This approach leaves the reader with a sense of urgency and dissatisfaction.\"\n\nWhat is the effect of the author's structural choice to end the chapter this way?",
+      "options": ["To highlight a solution", "To provide historical context", "To provoke thought and call for action", "To summarize the main idea"],
+      "correct": 2
+    },
+    {
+      "question": "In the context of the sentence below, what does the word 'temper' most likely mean?\n\n\"The researchers tempered their optimism with caution, knowing that early success did not guarantee long-term results.\"",
+      "options": ["Heated", "Controlled", "Ruined", "Defined"],
+      "correct": 1
+    }
+,
+
+
+    {
+      "question": "Passage: The factory workers, after months of demanding safer conditions and better wages, finally saw results when the management agreed to their terms. The tone of the passage is best described as—",
+      "options": [
+        "Frustrated and bitter",
+        "Hopeful and resolved",
+        "Sarcastic and mocking",
+        "Detached and indifferent"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage: Many marine animals, such as whales and dolphins, use echolocation to navigate dark ocean waters. This technique allows them to 'see' by bouncing sound waves off nearby objects. What is the most likely meaning of 'navigate' as used in the passage?",
+      "options": [
+        "To travel through or find one's way",
+        "To control a vehicle",
+        "To write directions on a map",
+        "To block or obstruct movement"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Passage: The new documentary explores the life of an obscure 19th-century mathematician whose contributions were overlooked during her time. What is the author's attitude toward the mathematician?",
+      "options": [
+        "Dismissive",
+        "Neutral",
+        "Appreciative",
+        "Irritated"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Passage: The team was elated after their victory, but the coach reminded them that true success was measured not only in wins but in growth and teamwork. What does the word 'elated' most nearly mean in this context?",
+      "options": [
+        "Confused",
+        "Embarrassed",
+        "Joyful",
+        "Uninterested"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Passage: As the concert ended, the crowd erupted in applause, thrilled by the orchestra’s final piece. The author's tone in this sentence is best described as—",
+      "options": [
+        "Cynical",
+        "Enthusiastic",
+        "Formal",
+        "Sarcastic"
+      ],
+      "correct": 1
+    }
+  ,
+  
+    {
+      "question": "For decades, the honeybee population has played a vital role in agriculture through pollination, supporting the production of fruits, vegetables, and nuts. However, recent studies show a concerning decline in their numbers due to pesticides and habitat loss. \n\nAs used in the passage, what does the word “vital” most nearly mean?",
+      "options": ["Essential", "Visible", "Temporary", "Mild"],
+      "correct": 0
+    },
+    {
+      "question": "Many ancient philosophers believed that all matter was composed of four fundamental elements: earth, water, air, and fire. This theory, though scientifically incorrect, laid the foundation for later inquiries into atomic structure. \n\nWhat is the effect of the word “fundamental” in the passage?",
+      "options": ["It emphasizes the outdated nature of the theory.", "It indicates the elements were seen as basic building blocks.", "It critiques the philosophers' lack of evidence.", "It highlights the modern understanding of atoms."],
+      "correct": 1
+    },
+    {
+      "question": "The exhibit featured minimalist paintings—vast canvases of a single color with subtle texture variations. Though some viewers dismissed the works as simplistic, others praised their emotional depth. \n\nWhy does the author include contrasting views on the paintings?",
+      "options": ["To critique modern art critics", "To illustrate the diversity of audience opinions", "To suggest the exhibit was poorly attended", "To defend traditional art styles"],
+      "correct": 1
+    },
+    {
+      "question": "While most sea turtles return to the beach where they were born, some researchers have tracked individuals nesting thousands of miles away. This behavior challenges the common belief that sea turtles exhibit strict natal homing.\n\nWhich phrase best describes the tone of the author regarding the sea turtle behavior?",
+      "options": ["Admiring and passionate", "Objective and analytical", "Confused and doubtful", "Amused and informal"],
+      "correct": 1
+    },
+    {
+      "question": "During the late 19th century, railroads connected distant cities, spurred trade, and enabled people to move across the country with unprecedented speed. \n\nWhich best describes the function of this sentence in the passage?",
+      "options": ["It introduces a contrast to modern transportation.", "It describes the societal impact of railroads.", "It explains the economic downfall of towns.", "It criticizes outdated infrastructure."],
+      "correct": 1
+    },
+    {
+      "question": "Although the novel’s setting is fictional, it draws heavily from the author's upbringing in a rural village, providing authentic depictions of communal life. \n\nWhat is the purpose of this sentence in the paragraph?",
+      "options": ["To show the book is completely based on fantasy", "To highlight the village’s tourism potential", "To explain the source of the novel’s realistic detail", "To summarize the book’s plot"],
+      "correct": 2
+    },
+    {
+      "question": "The chef’s recipe for chocolate mousse—passed down through generations—has become the signature dish of the restaurant. Its rich texture and balanced sweetness reflect both tradition and innovation. \n\nWhat is the tone of the passage?",
+      "options": ["Playful and sarcastic", "Reverent and celebratory", "Critical and dismissive", "Objective and detached"],
+      "correct": 1
+    },
+    {
+      "question": "In her speech, the mayor acknowledged the city’s financial challenges but emphasized the importance of unity and resilience. She concluded by outlining plans for community-led improvement projects. \n\nWhat is the function of the final sentence?",
+      "options": ["It provides an example of government corruption.", "It shifts focus to national economic issues.", "It reinforces the speech’s optimistic message.", "It introduces unrelated future events."],
+      "correct": 2
+    },
+    {
+      "question": "Although social media enables global communication, it also contributes to reduced attention spans and information overload. Researchers warn that excessive use can hinder deep thinking. \n\nWhat is the author’s point of view on social media?",
+      "options": ["Completely negative", "Balanced with caution", "Entirely optimistic", "Indifferent"],
+      "correct": 1
+    },
+    {
+      "question": "The spacecraft’s successful landing on Mars marked a milestone in interplanetary exploration, capturing global attention and inspiring a new generation of scientists.\n\nWhat effect does the phrase “marked a milestone” have on the tone of the passage?",
+      "options": ["It downplays the event’s importance.", "It conveys uncertainty about the landing.", "It suggests scientific skepticism.", "It emphasizes the significance of the achievement."],
+      "correct": 4
+    },
+    {
+      "question": "The author begins the paragraph by referencing a common misconception about black holes, then explains the reality based on scientific evidence. \n\nWhat is the purpose of this structure?",
+      "options": ["To argue that black holes are fictional", "To highlight public confusion", "To contrast myth with fact", "To question scientific consensus"],
+      "correct": 2
+    },
+    {
+      "question": "The protestors gathered peacefully in the square, carrying signs and chanting slogans. Their message was clear: they demanded action on climate change.\n\nWhat is the role of the second sentence?",
+      "options": ["To identify the protestors' specific demands", "To contrast the peaceful nature of the protest", "To introduce historical background", "To summarize the protest’s outcome"],
+      "correct": 0
+    },
+    {
+      "question": "The artist used discarded plastic to create sculptures that comment on pollution. By transforming waste into art, she challenges viewers to reconsider their consumption habits.\n\nWhich phrase best describes the function of the second sentence?",
+      "options": ["It dismisses the artist’s environmental concerns.", "It emphasizes the beauty of plastic waste.", "It illustrates the artist’s intent to provoke thought.", "It contrasts art and science."],
+      "correct": 2
+    },
+    {
+      "question": "Although the movie is set in the 1940s, its themes of injustice and perseverance remain relevant today. The protagonist’s struggle mirrors ongoing societal challenges.\n\nWhat is the tone of this passage?",
+      "options": ["Detached", "Celebratory", "Reflective", "Ironic"],
+      "correct": 2
+    },
+    {
+      "question": "In a recent experiment, scientists taught a parrot to use a touchscreen to indicate preferences. The bird demonstrated not only intelligence but also emotional expression.\n\nWhat does the author suggest about the parrot?",
+      "options": ["Its abilities are limited to physical skills.", "It cannot respond to human training.", "It possesses more cognitive ability than previously assumed.", "It mimics behavior without awareness."],
+      "correct": 2
+    },
+    {
+      "question": "The team’s success was not merely a result of talent—it was the product of relentless practice, collaboration, and trust. Each member contributed uniquely to the shared goal.\n\nWhat is the tone of this paragraph?",
+      "options": ["Critical", "Instructive", "Praising", "Skeptical"],
+      "correct": 2
+    },
+    {
+      "question": "Despite advances in artificial intelligence, machines still struggle with tasks requiring emotional nuance or moral judgment. Human oversight remains essential.\n\nWhat does the phrase “human oversight remains essential” imply?",
+      "options": ["Machines are fully autonomous now.", "Emotion is irrelevant in technology.", "People must guide technology.", "Machines outperform humans."],
+      "correct": 2
+    },
+    {
+      "question": "The narrative shifts from describing a peaceful forest to detailing the destructive impact of a sudden wildfire. The transition emphasizes the unpredictability of nature.\n\nWhat is the effect of this structural shift?",
+      "options": ["It creates confusion.", "It dramatizes the change.", "It downplays the danger.", "It introduces a new topic."],
+      "correct": 1
+    },
+    {
+      "question": "The opening sentence states that sleep is often undervalued in modern society. The following sentences explore its benefits for memory, health, and mood.\n\nWhat is the function of the first sentence?",
+      "options": ["It offers a personal anecdote.", "It presents a surprising claim.", "It provides statistical data.", "It transitions into unrelated information."],
+      "correct": 1
+    },
+    {
+      "question": "The historian’s tone in describing the medieval period is reverent, marked by admiration for the art and architecture of the time.\n\nWhat best describes the author’s perspective?",
+      "options": ["Dismissive", "Respectful", "Indifferent", "Skeptical"],
+      "correct": 1
+    },
+    {
+      "question": "The sentence uses the phrase “tip of the iceberg” to describe a minor problem in a much larger set of issues facing the education system.\n\nWhat is the effect of this metaphor?",
+      "options": ["It trivializes the issue.", "It highlights a hidden complexity.", "It adds humor.", "It simplifies the explanation."],
+      "correct": 1
+    },
+    {
+      "question": "The speaker begins with a rhetorical question: “How long must we wait for change?” This device captures attention and appeals to emotion.\n\nWhy does the author use a rhetorical question?",
+      "options": ["To summarize evidence", "To entertain the audience", "To provoke thought and urgency", "To dismiss opposing views"],
+      "correct": 2
+    },
+    {
+      "question": "In a paragraph about renewable energy, the author includes statistics comparing wind and solar output in 2023.\n\nWhat is the purpose of including these statistics?",
+      "options": ["To confuse readers with data", "To support the argument with evidence", "To distract from the main point", "To emphasize traditional energy sources"],
+      "correct": 1
+    },
+    {
+      "question": "The author uses the phrase “a ticking clock” to describe the urgency of climate action.\n\nWhat does this phrase suggest?",
+      "options": ["Time is running out", "Time is irrelevant", "There is no need to worry", "Clocks are symbolic only"],
+      "correct": 0
+    },
+    {
+      "question": "A passage describes how a young athlete overcomes injury to return to competition, ending with the line: “She crossed the finish line not first, but fulfilled.”\n\nWhat is the effect of the final phrase?",
+      "options": ["It focuses on physical success.", "It reveals internal satisfaction.", "It criticizes her performance.", "It suggests regret."],
+      "correct": 1
+    }
+  ,
+  
+    {
+      "question": "Passage:\n\n“Emerging from the dim corridors of history, the early feminist publications were as much battle cries as they were manifestos. They demanded the dismantling of patriarchal power and called for equal access to education and the vote. Yet beneath the fiery rhetoric lay a carefully constructed argument—supported by statistics on female literacy, economic productivity, and civic contribution—positioning the movement not as a crusade fueled by emotion but as a rational, evidence-based campaign.”\n\nQuestion: What is the main purpose of the final sentence in the passage?",
+      "options": [
+        "To undermine the importance of feminist publications.",
+        "To show that the movement combined emotion with logic.",
+        "To introduce a new statistical analysis unrelated to the topic.",
+        "To compare early feminism with modern activism."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Though the poet’s verses shimmer with imagery—rivers that sing at dusk, mountains that blush at sunrise—it is the sparse silence between the lines that speaks loudest. In that silence, the reader senses grief unspoken, hope unfulfilled, and a melody that lingers beyond the text’s edge.”\n\nQuestion: What rhetorical effect does the author achieve by emphasizing “sparse silence between the lines”?",
+      "options": [
+        "It highlights the poet’s failure to convey clear meaning.",
+        "It suggests that true emotion transcends explicit description.",
+        "It downplays the importance of the poet’s imagery.",
+        "It criticizes the poet for being too abstract."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Unlike many commentators who lament the digital age for eroding attention spans, the essayist argues that our modern tools demand a different kind of focus: one that is nimble, context-aware, and refreshingly multidisciplinary. She acknowledges the challenges—constant notifications, algorithmic distractions—but ultimately contends that digital literacy is a skill to be cultivated, not a casualty to mourn.”\n\nQuestion: What is the function of the phrase “constant notifications, algorithmic distractions” in this passage?",
+      "options": [
+        "To mock the digital tools.",
+        "To underscore obstacles in digital literacy.",
+        "To suggest that digital age lacks any benefits.",
+        "To lament the downfall of traditional reading."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“The initial report commended the city's new green spaces for reducing air pollution. However, upon follow-up inspection, officials discovered compacted soil, inadequate irrigation, and poorly chosen plant species—factors that threatened the very ecosystem they intended to heal.”\n\nQuestion: What is the effect of the shift introduced by “However” in this passage?",
+      "options": [
+        "It introduces a contrasting realization that challenges the earlier praise.",
+        "It deepens the commendation of green spaces’ benefits.",
+        "It summarizes the report’s cautious optimism.",
+        "It transitions to describing a different city’s program."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Passage:\n\n“Her narrative unfolds in nonlinear vignettes—each section like a shard of stained glass, reflective of memory’s beauty and distortion. While one moment recalls a childhood game in sunlit fields, the next evokes the hush of hospital corridors, bleeding one scene into another without warning.”\n\nQuestion: What does the author most likely intend by describing the narrative as “shard[s] of stained glass, reflective of memory’s beauty and distortion”?",
+      "options": [
+        "To argue that memory is unreliable and ugly.",
+        "To illustrate the fragmented yet vivid nature of recollection.",
+        "To criticize the structure as being disorganized.",
+        "To suggest memory is transparent and meaningless."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Economic analysts predicted a surge in local employment when the factory opened. Instead, automation took precedence: rows of robotic arms assembled parts while just a handful of human workers performed oversight. This irony—of promise delivering displacement—left the town grappling with unforeseen consequences.”\n\nQuestion: What is the author’s tone toward the deployment of automation?",
+      "options": [
+        "Celebratory and supportive.",
+        "Critical and ironic.",
+        "Uninformed and indifferent.",
+        "Humorous and mocking."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“In arguing for controlled coastal development, the planner did not dismiss tourism as a worthwhile pursuit. Instead, she advocated a sustainable model: modest lodges built from local materials, waste processing systems powered by tidal energy, and regulations that protect natural dunes.”\n\nQuestion: What is the structural purpose of the clause beginning with “Instead”?",
+      "options": [
+        "To introduce an opposing viewpoint.",
+        "To clarify that the author supports unrestricted tourism.",
+        "To contrast with the planner’s rejection of tourism.",
+        "To shift from acknowledging tourism to proposing alternatives."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Passage:\n\n“‘Melancholy’ is a word that often connotes sorrow, but in this essay it is employed with subtle irony: the protagonist’s sadness is tempered by a wry humor that never quite disappears, like a candle flickering in a draft.”\n\nQuestion: What does the use of the simile “like a candle flickering in a draft” contribute to the author’s explanation?",
+      "options": [
+        "It trivializes the protagonist’s sorrow.",
+        "It highlights how humor persists even in sadness.",
+        "It contrasts light with darkness explicitly.",
+        "It clarifies that the protagonist is physically cold."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“During the workshop, participants were encouraged to ‘fail forward’—to embrace mistakes as a part of the learning process. Facilitators reiterated this mantra after each group exercise, underscoring that innovation often arises from missteps.”\n\nQuestion: How does the repetition of “fail forward” function rhetorically?",
+      "options": [
+        "To mock participants for failure.",
+        "To emphasize a core message that error is constructive.",
+        "To shift blame for unsuccessful projects.",
+        "To downplay the importance of innovation."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“The biographer begins with an anecdote about the subject’s childhood fascination with stars, moving then to his teenage inventions before discussing his groundbreaking scientific theories. This narrative arc mirrors the subject’s intellectual evolution.”\n\nQuestion: Why does the biographer structure the passage in the described order?",
+      "options": [
+        "To confuse the reader with random facts.",
+        "To reflect the chronological development of the subject’s mind.",
+        "To emphasize the babyhood of the subject.",
+        "To show that his theories predated his childhood interests."
+      ],
+      "correct": 1
+    }
+  ,
+  
+    {
+      "question": "Passage:\n\n“Emerging from the dim corridors of history, the early feminist publications were as much battle cries as they were manifestos. They demanded the dismantling of patriarchal power and called for equal access to education and the vote. Yet beneath the fiery rhetoric lay a carefully constructed argument—supported by statistics on female literacy, economic productivity, and civic contribution—positioning the movement not as a crusade fueled by emotion but as a rational, evidence‑based campaign.”\n\nWhat is the primary purpose of the final sentence?",
+      "options": [
+        "To downplay the emotional fervor of the movement",
+        "To highlight the combination of emotion and logic",
+        "To introduce new data about female literacy",
+        "To criticize the early feminist leaders"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Though the poet’s verses shimmer with imagery—rivers that sing at dusk, mountains that blush at sunrise—it is the sparse silence between the lines that speaks loudest. In that silence, the reader senses grief unspoken, hope unfulfilled, and a melody that lingers beyond the text’s edge.”\n\nThe author emphasizes “sparse silence” primarily to convey that—",
+      "options": [
+        "the imagery is ineffective",
+        "emotion transcends description",
+        "the text lacks melody",
+        "silence invalidates the verse"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Unlike many who lament the digital age for eroding attention spans, the essayist argues our modern tools demand a different focus: nimble, context‑aware, multidisciplinary. She acknowledges constant notifications, algorithmic distractions, but contends digital literacy is a skill to cultivate, not a casualty to mourn.”\n\nWhat is the function of “constant notifications, algorithmic distractions”?",
+      "options": [
+        "To mock technology",
+        "To underscore challenges in digital literacy",
+        "To justify old‑fashioned reading",
+        "To downplay the benefits of digital tools"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Initial reports praised the city’s new green spaces for reducing pollution. However, inspection revealed compacted soil, poor irrigation, and mismatched plant species—threats to the ecosystem they aimed to heal.”\n\nWhat is the effect of starting the second sentence with “However”?",
+      "options": [
+        "To reinforce initial praise",
+        "To signal a shift to criticism",
+        "To introduce a related program",
+        "To conclude with optimism"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Her narrative unfolds in nonlinear vignettes—each shard of stained glass, reflecting both beauty and distortion. One moment a childhood game in sunlit fields; the next, the hush of fluorescent corridors—bled together in memory’s unpredictable mosaic.”\n\nWhat does the “stained glass” simile suggest?",
+      "options": [
+        "Memory is fragile and broken",
+        "Memory is colorful but unreliable",
+        "Memory is clear and accurate",
+        "Memory is dark and stained"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Economic analysts predicted job growth when the factory opened. Instead, automation dominated: robotic arms replaced assembly-line workers. The irony—promise delivered displacement—haunted the town’s aspirations.”\n\nWhat best captures the author’s tone regarding automation?",
+      "options": [
+        "Celebratory",
+        "Critical and ironic",
+        "Neutral",
+        "Playfully mocking"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“In advocating controlled coastal development, the planner did not dismiss tourism. Instead, she favored sustainable solutions: modest lodges of local materials, tidal-powered waste systems, and dune conservation.”\n\nThe phrase beginning with “Instead” functions to—",
+      "options": [
+        "Contrast her position with rejection of tourism",
+        "Emphasize unrestricted development",
+        "Show indecision",
+        "Introduce unrelated ideas"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Passage:\n\n“‘Melancholy’ often connotes sorrow; here, it carries ironic shade: the protagonist mourns with wry humor, flickering like a candle in a draft.”\n\nThe simile “candle in a draft” contributes most by—",
+      "options": [
+        "Minimizing sorrow",
+        "Showing humor persists",
+        "Contrasting darkness and light",
+        "Describing physical coldness"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Participants were urged to ‘fail forward’—to learn from mistakes. Facilitators repeated this mantra after exercises, reinforcing that innovation is rooted in missteps.”\n\nHow does repeating “fail forward” function rhetorically?",
+      "options": [
+        "To shame participants",
+        "To reinforce a central teaching",
+        "To divert blame",
+        "To trivialize mistakes"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“The biographer starts with the subject’s childhood star-gazing anecdote, shifts to teenage inventions, and then to scientific breakthroughs. This narrative progression parallels intellectual maturation.”\n\nWhy is the passage structured this way?",
+      "options": [
+        "To confuse the reader",
+        "To mirror developmental progression",
+        "To exaggerate achievements",
+        "To deemphasize childhood"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“In his lecture, the professor juxtaposed two definitions of freedom: the romantic ideal of boundless choice and the pragmatic view of responsible constraint. By contrasting both, he highlighted the tension between aspiration and reality.”\n\nWhat is the structural purpose of using juxtaposition here?",
+      "options": [
+        "To mock romantic ideals",
+        "To present opposing views for comparison",
+        "To obscure the argument",
+        "To advocate one view only"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Though progress has been slow, the author’s baseline optimism shines through: ‘small steps today will lead to great change tomorrow.’\n\nWhich best describes the tone of this sentence?",
+      "options": [
+        "Resigned",
+        "Hopeful",
+        "Critical",
+        "Dismissive"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Urban dwellers crave green parks for respite; yet concrete and traffic persist. The contrast between human desire and environmental reality underscores the limitations of modern planning.”\n\nWhat phrase best describes the author’s tone?",
+      "options": [
+        "Idealistic",
+        "Satirical",
+        "Reflective",
+        "Condescending"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Passage:\n\n“She described the essay as ‘a tapestry of voices,’ weaving personal stories with data. This metaphor emphasizes—",
+      "options": [
+        "Disorder in presentation",
+        "Coherence through diversity",
+        "Lack of factual grounding",
+        "Artistic confusion"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“He lamented the ‘echo chamber’ of social platforms, where dissent vanishes and affirmation rings strong. His use of metaphor suggests—",
+      "options": [
+        "Social media amplifies diverse views",
+        "Digital platforms restrict challenging ideas",
+        "Echo chambers enhance collaboration",
+        "His speech lacked seriousness"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“In the closing paragraph, she asks, ‘What will our legacy be, if we do not act?’ The rhetorical question serves to—",
+      "options": [
+        "Provide statistical evidence",
+        "Engage readers emotionally",
+        "List accomplishments",
+        "Introduce new analysis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“The annual report opened with dry financial data, then pivoted dramatically to employee testimonials. The structural shift—vague metrics to vivid voices—aims to humanize the numbers.”\n\nWhat is the effect of this pivot?",
+      "options": [
+        "To make metrics seem trivial",
+        "To connect statistics with real lives",
+        "To confuse the audience",
+        "To emphasize testimonials only"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Her memoir traverses time not linearly but as emotional currents: childhood memories rise like tides, recede into adolescent reflections, then swell into adult revelations.”\n\nDescribing memory as tides creates an effect of—",
+      "options": [
+        "Emphasizing unpredictability and rhythm",
+        "Simplifying emotional growth",
+        "Highlighting decay and loss",
+        "Critiquing her recollection"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Passage:\n\n“They portrayed the campaign as a marathon, not a sprint—an extended effort demanding strategy, stamina, and solidarity.”\n\nWhy is this metaphor appropriate?",
+      "options": [
+        "To suggest a short, easy process",
+        "To highlight a prolonged, collective endeavor",
+        "To emphasize randomness",
+        "To trivialize planning"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“Although critics dismissed the policy as piecemeal, later outcomes revealed systemic benefits—reduced waste, stronger communities, and restored ecosystems.”\n\nWhat function does “Although” serve here?",
+      "options": [
+        "To contrast initial dismissal with positive results",
+        "To introduce a similar dismissal",
+        "To pivot to unrelated data",
+        "To soften the praise"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Passage:\n\n“His lecture centered on the paradox of progress: technological breakthroughs that improve life often introduce new ethical dilemmas. This tension forms the core of his argument.”\n\nWhat best describes the structural strategy?",
+      "options": [
+        "Highlighting a contradiction",
+        "Chronologically listing events",
+        "Rejecting technology entirely",
+        "Focusing on one side only"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Passage:\n\n“Her description of the ocean was lyrical—waves that whispered secrets, cliffs that echoed ancient lore. Yet a sudden storm shatters that serenity, demonstrating nature’s capricious power.”\n\nWhat role does the sudden storm play structurally?",
+      "options": [
+        "To reinforce lyrical tone",
+        "To disrupt expectation and illustrate unpredictability",
+        "To introduce metaphor of lore",
+        "To continue the calm tone"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“He closed with the statement: ‘There is no roadmap for moral courage—it must be forged in our convictions.’ The effect of this ending is—",
+      "options": [
+        "To offer a clear plan",
+        "To inspire internal reflection",
+        "To dismiss moral courage",
+        "To document legal frameworks"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“The essay advances from personal anecdote to policy critique to moral appeal. This layered progression is intended to—",
+      "options": [
+        "Confuse the reader",
+        "Build credibility through multiple strategies",
+        "Focus solely on policy",
+        "Minimize personal voice"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“In describing a renovated theater, she writes: curtain faded but audience captivated—splendor found in softness, not polish.”\n\nThe phrase “splendor found in softness” functions to—",
+      "options": [
+        "Contrast roughness with elegance",
+        "Suggest warmth over perfection",
+        "Complain about decay",
+        "Explain architectural features"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Passage:\n\n“When she references 'the shadow behind the smile,' she draws attention to hidden sorrow beneath outward appearance. This phrase most strongly conveys—",
+      "options": [
+        "Superficial happiness",
+        "Masked internal struggle",
+        "Visual ambiguity",
+        "Humorous tone"
+      ],
+      "correct": 1
+    }
+  
+]
+}

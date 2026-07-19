@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Who proposed the concept of photon?",
+      "options": ["Planck", "Einstein", "Bohr", "de Broglie"],
+      "correct": 1
+    },
+    {
+      "question": "The energy of a photon is given by:",
+      "options": ["E = mc^2", "E = hf", "E = mv^2", "E = h/f"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following exhibits both wave and particle nature?",
+      "options": ["Light", "Electron", "Proton", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The unit of Planck’s constant is:",
+      "options": ["Joule", "Joule/second", "Joule·second", "N·m"],
+      "correct": 2
+    },
+    {
+      "question": "The de Broglie wavelength is inversely proportional to:",
+      "options": ["Speed", "Frequency", "Momentum", "Energy"],
+      "correct": 2
+    },
+    {
+      "question": "The de Broglie wavelength of a particle increases if:",
+      "options": ["Its velocity increases", "Its mass increases", "Its momentum increases", "Its kinetic energy decreases"],
+      "correct": 3
+    },
+    {
+      "question": "The photoelectric effect supports:",
+      "options": ["Wave nature of light", "Particle nature of light", "Electromagnetic theory", "None of these"],
+      "correct": 1
+    },
+    {
+      "question": "The threshold frequency is the frequency:",
+      "options": ["Below which no emission occurs", "At which maximum emission occurs", "Above which emission stops", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "Photoelectric current is directly proportional to:",
+      "options": ["Intensity of light", "Frequency of light", "Wavelength", "Photon energy"],
+      "correct": 0
+    },
+    {
+      "question": "The stopping potential depends on:",
+      "options": ["Frequency of light", "Intensity of light", "Both", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Work function of a metal is defined as:",
+      "options": ["Max energy of emitted electrons", "Min energy to eject electron", "Avg energy of electrons", "Thermal energy of metal"],
+      "correct": 1
+    },
+    {
+      "question": "Einstein’s photoelectric equation is:",
+      "options": ["hv = φ", "hv = φ + KE", "KE = hv + φ", "hv = φ - KE"],
+      "correct": 1
+    },
+    {
+      "question": "If frequency is doubled, kinetic energy of emitted electrons:",
+      "options": ["Doubles", "Halves", "Increases", "Decreases"],
+      "correct": 2
+    },
+    {
+      "question": "The value of Planck's constant is approximately:",
+      "options": ["6.63 × 10^-34 Js", "3.00 × 10^8 m/s", "1.60 × 10^-19 C", "9.1 × 10^-31 kg"],
+      "correct": 0
+    },
+    {
+      "question": "Photon has:",
+      "options": ["Mass", "Charge", "Rest mass zero", "Negative charge"],
+      "correct": 2
+    },
+    {
+      "question": "Which experiment confirms the wave nature of electrons?",
+      "options": ["Photoelectric effect", "Compton effect", "Davisson-Germer experiment", "Rutherford experiment"],
+      "correct": 2
+    },
+    {
+      "question": "The speed of photoelectrons depends on:",
+      "options": ["Intensity of light", "Wavelength of light", "Frequency of light", "Angle of incidence"],
+      "correct": 2
+    },
+    {
+      "question": "Threshold frequency is denoted by:",
+      "options": ["f", "f₀", "ν", "ν₀"],
+      "correct": 3
+    },
+    {
+      "question": "In photoelectric effect, no electrons are emitted if:",
+      "options": ["Intensity is low", "Frequency is less than threshold", "Wavelength is small", "Metal is heated"],
+      "correct": 1
+    },
+    {
+      "question": "The concept of wave-particle duality was proposed by:",
+      "options": ["Einstein", "Planck", "Bohr", "de Broglie"],
+      "correct": 3
+    },
+    {
+      "question": "The maximum kinetic energy of photoelectrons is measured by:",
+      "options": ["Current", "Potential difference", "Stopping potential", "Acceleration voltage"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has longest de Broglie wavelength (for same KE)?",
+      "options": ["Electron", "Proton", "Neutron", "Alpha particle"],
+      "correct": 0
+    },
+    {
+      "question": "Photoelectric effect supports:",
+      "options": ["Quantum theory", "Wave theory", "Corpuscular theory", "String theory"],
+      "correct": 0
+    },
+    {
+      "question": "If frequency of incident light is less than threshold frequency, then:",
+      "options": ["Electrons are emitted", "Current flows", "No electrons are emitted", "Kinetic energy is maximum"],
+      "correct": 2
+    },
+    {
+      "question": "Photoelectric emission is not possible with:",
+      "options": ["X-rays", "Microwaves", "UV rays", "Visible light"],
+      "correct": 1
+    },
+    {
+      "question": "In photoelectric effect, emitted electrons have:",
+      "options": ["Same KE", "Zero KE", "Different KE", "Constant energy"],
+      "correct": 2
+    },
+    {
+      "question": "Compton effect confirms:",
+      "options": ["Wave nature", "Particle nature", "Electric field", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Davisson and Germer experiment proved that:",
+      "options": ["Electrons have charge", "Electrons behave as waves", "Electrons are particles", "Photoelectric effect"],
+      "correct": 1
+    },
+    {
+      "question": "As the frequency of incident light increases, stopping potential:",
+      "options": ["Increases", "Decreases", "Becomes zero", "Remains same"],
+      "correct": 0
+    },
+    {
+      "question": "The de Broglie wavelength of a body is independent of:",
+      "options": ["Mass", "Velocity", "Charge", "Momentum"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has highest energy photon?",
+      "options": ["UV", "Infrared", "Microwave", "X-rays"],
+      "correct": 3
+    },
+    {
+      "question": "De Broglie wavelength of a particle is given by:",
+      "options": ["h/p", "hv", "mc^2", "h/m"],
+      "correct": 0
+    },
+    {
+      "question": "If momentum of particle is doubled, de Broglie wavelength becomes:",
+      "options": ["Doubled", "Halved", "Four times", "One fourth"],
+      "correct": 1
+    },
+    {
+      "question": "If speed of a particle increases, its wavelength:",
+      "options": ["Increases", "Decreases", "Constant", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "The minimum energy required to emit an electron is called:",
+      "options": ["Kinetic energy", "Threshold energy", "Photon energy", "Work function"],
+      "correct": 3
+    },
+    {
+      "question": "Photons are particles of:",
+      "options": ["Sound", "Light", "Magnetism", "Electricity"],
+      "correct": 1
+    },
+    {
+      "question": "Electron microscope works on:",
+      "options": ["Refraction", "Diffraction", "Reflection", "Interference"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is not a property of photon?",
+      "options": ["Zero rest mass", "Energy", "Charge", "Momentum"],
+      "correct": 2
+    },
+    {
+      "question": "Stopping potential is the potential at which:",
+      "options": ["All photoelectrons are stopped", "Current is maximum", "Work function is zero", "Photon energy is zero"],
+      "correct": 0
+    },
+    {
+      "question": "If kinetic energy of particle is doubled, its wavelength becomes:",
+      "options": ["Double", "√2 times smaller", "Half", "√2 times greater"],
+      "correct": 1
+    },
+    {
+      "question": "Photon momentum is given by:",
+      "options": ["hv/c", "mc", "mv", "h/f"],
+      "correct": 0
+    },
+    {
+      "question": "De Broglie relation is valid for:",
+      "options": ["Microscopic particles only", "Macroscopic bodies only", "All moving particles", "Photons only"],
+      "correct": 2
+    },
+    {
+      "question": "The wave nature of electron explains:",
+      "options": ["Atomic spectra", "Diffraction", "X-rays", "Current"],
+      "correct": 1
+    },
+    {
+      "question": "Cut-off potential is independent of:",
+      "options": ["Frequency", "Work function", "Intensity", "Energy of photons"],
+      "correct": 2
+    },
+    {
+      "question": "Electron microscope has better resolution than optical microscope due to:",
+      "options": ["Electrons move fast", "Electrons are lighter", "Smaller de Broglie wavelength", "Higher energy"],
+      "correct": 2
+    },
+    {
+      "question": "Photoelectric current becomes zero at:",
+      "options": ["Cut-off voltage", "Work function", "High frequency", "Low intensity"],
+      "correct": 0
+    },
+    {
+      "question": "The energy of the incident photon is completely used in:",
+      "options": ["Overcoming work function and giving kinetic energy", "Heating the material", "Creating holes", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "A beam of electrons behaves as:",
+      "options": ["Wave only", "Particle only", "Both wave and particle", "Neither"],
+      "correct": 2
+    }
+  ]
+}

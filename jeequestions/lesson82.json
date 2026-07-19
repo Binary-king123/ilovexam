@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "A quantity that has both magnitude and direction is called:",
+      "options": ["Scalar", "Vector", "Tensor", "Matrix"],
+      "correct": 1
+    },
+    {
+      "question": "The magnitude of a vector a = 3i + 4j is:",
+      "options": ["5", "7", "1", "25"],
+      "correct": 0
+    },
+    {
+      "question": "Two vectors are perpendicular if their dot product is:",
+      "options": ["1", "0", "∞", "−1"],
+      "correct": 1
+    },
+    {
+      "question": "The dot product of two unit vectors is 1 if the angle between them is:",
+      "options": ["0°", "90°", "180°", "45°"],
+      "correct": 0
+    },
+    {
+      "question": "The angle between vectors a and b is 90°, then a·b = ?",
+      "options": ["0", "1", "a×b", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "If a = i + 2j + 3k and b = 2i − j + k, then a·b = ?",
+      "options": ["2", "4", "6", "5"],
+      "correct": 2
+    },
+    {
+      "question": "The cross product of two vectors is:",
+      "options": ["Scalar", "Zero", "Vector", "Imaginary"],
+      "correct": 2
+    },
+    {
+      "question": "The value of i × j is:",
+      "options": ["k", "−k", "i", "0"],
+      "correct": 0
+    },
+    {
+      "question": "The unit vector in direction of a = 6i + 8j is:",
+      "options": ["(3/5)i + (4/5)j", "(6/10)i + (8/10)j", "(1/2)i + (1/2)j", "(6/8)i + (8/6)j"],
+      "correct": 0
+    },
+    {
+      "question": "The dot product of orthogonal vectors is:",
+      "options": ["0", "1", "−1", "Infinity"],
+      "correct": 0
+    },
+    {
+      "question": "If a·b = 0, then vectors a and b are:",
+      "options": ["Parallel", "Perpendicular", "Equal", "Scalar multiples"],
+      "correct": 1
+    },
+    {
+      "question": "The direction cosines of a vector are:",
+      "options": ["Always negative", "Always positive", "Always ≤ 1", "All of the above"],
+      "correct": 2
+    },
+    {
+      "question": "If |a| = 2 and |b| = 3, angle between a and b is 60°, then a·b = ?",
+      "options": ["3", "4", "6", "5"],
+      "correct": 2
+    },
+    {
+      "question": "The cross product of two parallel vectors is:",
+      "options": ["0", "1", "Undefined", "Same vector"],
+      "correct": 0
+    },
+    {
+      "question": "The value of j × k is:",
+      "options": ["i", "−i", "k", "0"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a property of vector addition?",
+      "options": ["Commutative", "Associative", "Distributive", "Substitution"],
+      "correct": 3
+    },
+    {
+      "question": "Two vectors a and b are equal if:",
+      "options": ["|a| = |b|", "a − b = 0", "a × b = 0", "a·b = 1"],
+      "correct": 1
+    },
+    {
+      "question": "A vector of magnitude 0 is called:",
+      "options": ["Zero vector", "Unit vector", "Null matrix", "Null scalar"],
+      "correct": 0
+    },
+    {
+      "question": "The scalar triple product a·(b×c) is:",
+      "options": ["Volume of parallelepiped", "Area of triangle", "Dot product", "Scalar"],
+      "correct": 0
+    },
+    {
+      "question": "If a, b, c are coplanar, then a·(b×c) = ?",
+      "options": ["1", "0", "∞", "Undefined"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has no direction?",
+      "options": ["Vector", "Scalar", "Displacement", "Force"],
+      "correct": 1
+    },
+    {
+      "question": "The angle θ between two unit vectors a and b with a·b = 1/2 is:",
+      "options": ["60°", "45°", "90°", "30°"],
+      "correct": 0
+    },
+    {
+      "question": "The cross product a × b is perpendicular to:",
+      "options": ["a only", "b only", "both a and b", "none"],
+      "correct": 2
+    },
+    {
+      "question": "If a = i − j and b = i + j, then a·b = ?",
+      "options": ["0", "1", "2", "−2"],
+      "correct": 0
+    },
+    {
+      "question": "The direction cosines satisfy:",
+      "options": ["l + m + n = 0", "l² + m² + n² = 1", "lmn = 1", "ln = mn"],
+      "correct": 1
+    },
+    {
+      "question": "The projection of vector a on b is:",
+      "options": ["a·b/|b|", "a·b", "a×b", "|a||b|sinθ"],
+      "correct": 0
+    },
+    {
+      "question": "If a and b are non-zero vectors and a × b = 0, then they are:",
+      "options": ["Equal", "Perpendicular", "Parallel", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The magnitude of vector a = −2i + 3j is:",
+      "options": ["√13", "5", "1", "13"],
+      "correct": 0
+    },
+    {
+      "question": "The area of a triangle formed by vectors a and b is:",
+      "options": ["1/2 |a × b|", "|a × b|", "|a·b|", "1/2 |a·b|"],
+      "correct": 0
+    },
+    {
+      "question": "The resultant of two vectors a and b is maximum when angle between them is:",
+      "options": ["0°", "90°", "180°", "360°"],
+      "correct": 0
+    },
+    {
+      "question": "A vector which has magnitude 1 is called:",
+      "options": ["Zero vector", "Scalar", "Unit vector", "Negative vector"],
+      "correct": 2
+    },
+    {
+      "question": "The value of k for which vectors i + 2j + k k and 3i + 6j + 9k are parallel is:",
+      "options": ["3", "6", "9", "Any value"],
+      "correct": 0
+    },
+    {
+      "question": "If a = 2i + j and b = i − j, then |a + b| equals:",
+      "options": ["√5", "√10", "√13", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The value of i × i is:",
+      "options": ["0", "i", "−i", "k"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is distributive over addition?",
+      "options": ["Dot product", "Cross product", "Both", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The angle between i and −i is:",
+      "options": ["0°", "90°", "180°", "360°"],
+      "correct": 2
+    },
+    {
+      "question": "Two vectors of equal magnitude are inclined at angle 60°, their dot product is:",
+      "options": ["a²", "a²cos60°", "2a²", "0"],
+      "correct": 1
+    },
+    {
+      "question": "Cross product of any vector with itself is:",
+      "options": ["0", "Vector", "Unit", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Unit vector in the direction of i − 2j is:",
+      "options": ["(1/√5)i − (2/√5)j", "(2/5)i − (1/5)j", "i + j", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is true for scalar triple product?",
+      "options": ["a·(b×c) = b·(c×a)", "a·(b×c) = c·(a×b)", "All of these", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The scalar triple product is zero when vectors are:",
+      "options": ["Orthogonal", "Parallel", "Coplanar", "Equal"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is not a vector quantity?",
+      "options": ["Displacement", "Velocity", "Mass", "Force"],
+      "correct": 2
+    },
+    {
+      "question": "The cross product of i and j gives:",
+      "options": ["k", "−k", "i", "j"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following represents a null vector?",
+      "options": ["0i + 0j + 0k", "i + j + k", "0", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If vector a makes angle θ with x-axis, then its x-component is:",
+      "options": ["|a|cosθ", "|a|sinθ", "|a|tanθ", "|a|"],
+      "correct": 0
+    },
+    {
+      "question": "The dot product of a unit vector with itself is:",
+      "options": ["0", "1", "2", "Undefined"],
+      "correct": 1
+    },
+    {
+      "question": "Which is the associative property of cross product?",
+      "options": ["a×(b×c) ≠ (a×b)×c", "a×(b×c) = (a×b)×c", "a×b = b×a", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The projection of vector a on b is a scalar quantity equal to:",
+      "options": ["|a|cosθ", "|b|cosθ", "|a||b|sinθ", "None"],
+      "correct": 0
+    }
+  ]
+}

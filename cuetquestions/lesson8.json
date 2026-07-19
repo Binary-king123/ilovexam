@@ -1,0 +1,259 @@
+{
+  "test": [
+    {
+      "question": "The property of a material to regain its original shape after deformation is called:",
+      "options": ["Plasticity", "Elasticity", "Malleability", "Ductility"],
+      "correct": 1
+    },
+    {
+      "question": "The SI unit of stress is:",
+      "options": ["N", "Pa", "J", "Nm"],
+      "correct": 1
+    },
+    {
+      "question": "Young’s modulus is defined as:",
+      "options": ["Stress × Strain", "Stress / Strain", "Strain / Stress", "Force × Area"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a scalar quantity?",
+      "options": ["Stress", "Strain", "Force", "Displacement"],
+      "correct": 1
+    },
+    {
+      "question": "Hooke’s law is valid up to:",
+      "options": ["Breaking point", "Fracture point", "Elastic limit", "Yield point"],
+      "correct": 2
+    },
+    {
+      "question": "Bulk modulus is defined as:",
+      "options": ["Stress × Volume strain", "Volume strain / Stress", "Stress / Volume strain", "Strain / Stress"],
+      "correct": 2
+    },
+    {
+      "question": "The reciprocal of bulk modulus is called:",
+      "options": ["Modulus of rigidity", "Compressibility", "Elastic constant", "Poisson’s ratio"],
+      "correct": 1
+    },
+    {
+      "question": "Shearing stress is defined as:",
+      "options": ["Force / Area", "Force / Volume", "Area / Force", "Mass / Area"],
+      "correct": 0
+    },
+    {
+      "question": "Poisson’s ratio is the ratio of:",
+      "options": ["Longitudinal strain to lateral strain", "Lateral strain to longitudinal strain", "Stress to strain", "Strain to stress"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is dimensionless?",
+      "options": ["Stress", "Strain", "Young's modulus", "Bulk modulus"],
+      "correct": 1
+    },
+    {
+      "question": "The unit of Young’s modulus is:",
+      "options": ["N", "Pa", "N/m", "J"],
+      "correct": 1
+    },
+    {
+      "question": "For a perfectly rigid body, the value of Young’s modulus is:",
+      "options": ["Zero", "One", "Infinity", "Negative"],
+      "correct": 2
+    },
+    {
+      "question": "If the length of a wire is doubled, its extension under same load becomes:",
+      "options": ["Half", "Double", "Four times", "Same"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following materials has the highest Young’s modulus?",
+      "options": ["Rubber", "Steel", "Copper", "Aluminium"],
+      "correct": 1
+    },
+    {
+      "question": "The breaking of a material after a certain strain is called:",
+      "options": ["Elastic limit", "Fracture", "Yielding", "Creep"],
+      "correct": 1
+    },
+    {
+      "question": "Strain is defined as:",
+      "options": ["Change in length / Original length", "Stress / Force", "Force / Area", "Change in length / Time"],
+      "correct": 0
+    },
+    {
+      "question": "Which material is most elastic?",
+      "options": ["Glass", "Rubber", "Steel", "Gold"],
+      "correct": 2
+    },
+    {
+      "question": "In stress-strain curve, the point at which permanent deformation starts is:",
+      "options": ["Fracture point", "Elastic limit", "Yield point", "Breaking point"],
+      "correct": 2
+    },
+    {
+      "question": "Unit of strain is:",
+      "options": ["m", "m/s", "Unitless", "Nm"],
+      "correct": 2
+    },
+    {
+      "question": "Modulus of rigidity is also known as:",
+      "options": ["Shear modulus", "Bulk modulus", "Young's modulus", "Elastic modulus"],
+      "correct": 0
+    },
+    {
+      "question": "The material which does not regain its original shape after deformation is:",
+      "options": ["Elastic", "Rigid", "Plastic", "Isotropic"],
+      "correct": 2
+    },
+    {
+      "question": "The value of Poisson’s ratio for most metals lies between:",
+      "options": ["0 to 0.1", "0.2 to 0.4", "0.5 to 1", "1 to 2"],
+      "correct": 1
+    },
+    {
+      "question": "Work done in stretching a wire is stored as:",
+      "options": ["Kinetic energy", "Thermal energy", "Elastic potential energy", "Chemical energy"],
+      "correct": 2
+    },
+    {
+      "question": "The stress at which a material breaks is:",
+      "options": ["Elastic stress", "Yield stress", "Ultimate stress", "Breaking stress"],
+      "correct": 3
+    },
+    {
+      "question": "Strain energy per unit volume is called:",
+      "options": ["Stress", "Elastic energy", "Modulus", "Resilience"],
+      "correct": 3
+    },
+    {
+      "question": "The area under stress-strain curve represents:",
+      "options": ["Work done per unit volume", "Force", "Modulus", "Strain energy"],
+      "correct": 0
+    },
+    {
+      "question": "A body returns to original shape after deformation, it is said to be:",
+      "options": ["Ductile", "Plastic", "Elastic", "Hard"],
+      "correct": 2
+    },
+    {
+      "question": "If strain increases rapidly with little stress, the material is:",
+      "options": ["Hard", "Elastic", "Ductile", "Soft"],
+      "correct": 3
+    },
+    {
+      "question": "The modulus used for volume change is:",
+      "options": ["Young's modulus", "Bulk modulus", "Rigidity modulus", "Shear modulus"],
+      "correct": 1
+    },
+    {
+      "question": "When equal and opposite forces act tangentially, it produces:",
+      "options": ["Bulk stress", "Tensile stress", "Shearing stress", "Compressive stress"],
+      "correct": 2
+    },
+    {
+      "question": "Which modulus is involved in twisting of a body?",
+      "options": ["Bulk modulus", "Young’s modulus", "Rigidity modulus", "Shear modulus"],
+      "correct": 2
+    },
+    {
+      "question": "Ductile materials show:",
+      "options": ["Large plastic deformation", "Small elastic deformation", "No deformation", "Break without strain"],
+      "correct": 0
+    },
+    {
+      "question": "Young’s modulus has same dimension as:",
+      "options": ["Pressure", "Force", "Length", "Work"],
+      "correct": 0
+    },
+    {
+      "question": "A wire is said to be under tensile stress when:",
+      "options": ["Pushed", "Pulled", "Twisted", "Compressed"],
+      "correct": 1
+    },
+    {
+      "question": "The breaking stress depends on:",
+      "options": ["Original length", "Cross-sectional area", "Material", "Volume"],
+      "correct": 2
+    },
+    {
+      "question": "In elastic limit, stress is proportional to:",
+      "options": ["Force", "Strain", "Area", "Energy"],
+      "correct": 1
+    },
+    {
+      "question": "When a body is under equal compressive stress from all sides, it undergoes:",
+      "options": ["No change", "Lateral strain", "Volume change", "Twist"],
+      "correct": 2
+    },
+    {
+      "question": "Young’s modulus is measured using:",
+      "options": ["Torsion pendulum", "Searle’s apparatus", "Boyle’s apparatus", "Coulomb’s law"],
+      "correct": 1
+    },
+    {
+      "question": "A metal wire is stretched. The stress developed is directly proportional to:",
+      "options": ["Extension", "Length", "Strain", "Load"],
+      "correct": 2
+    },
+    {
+      "question": "Which property is desirable in springs?",
+      "options": ["High Young’s modulus", "High ductility", "High elasticity", "High brittleness"],
+      "correct": 2
+    },
+    {
+      "question": "Permanent set in a wire is due to:",
+      "options": ["Elastic deformation", "Plastic deformation", "Vibration", "Tension"],
+      "correct": 1
+    },
+    {
+      "question": "A rubber band shows large deformation. It is:",
+      "options": ["Elastic", "Plastic", "Ductile", "Brittle"],
+      "correct": 0
+    },
+    {
+      "question": "Which modulus is highest for solids?",
+      "options": ["Bulk modulus", "Young’s modulus", "Shear modulus", "Poisson’s ratio"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following affects elasticity?",
+      "options": ["Temperature", "Impurities", "Annealing", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these materials is brittle?",
+      "options": ["Glass", "Copper", "Steel", "Rubber"],
+      "correct": 0
+    },
+    {
+      "question": "For rubber, the value of Young’s modulus is:",
+      "options": ["High", "Low", "Zero", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Brittle material breaks:",
+      "options": ["With large strain", "Without noticeable strain", "After long time", "With sound"],
+      "correct": 1
+    },
+    {
+      "question": "In a stress-strain diagram, the area under curve gives:",
+      "options": ["Energy stored", "Force", "Strain", "Stress"],
+      "correct": 0
+    },
+    {
+      "question": "The unit of shear modulus is same as:",
+      "options": ["Strain", "Stress", "Length", "Energy"],
+      "correct": 1
+    },
+    {
+      "question": "When wire is stretched, its volume:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correct": 1
+    },
+    {
+      "question": "Poisson’s ratio cannot be:",
+      "options": ["Greater than 1", "Less than 0", "Negative", "More than 0.5"],
+      "correct": 3
+    }
+  ]
+}

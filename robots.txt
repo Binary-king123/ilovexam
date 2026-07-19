@@ -1,0 +1,18 @@
+User-agent: *
+
+Allow: /neet.html
+Allow: /jee.html
+Allow: /cuet.html
+Allow: /sat.html
+Allow: /se.html
+Allow: /av_test.html
+Allow: /index.html
+Allow: /home.html
+
+Disallow: /neet-mocktest.html
+Disallow: /jee_mocktest.html
+Disallow: /cuet_mocktest.html
+Disallow: /sat_mocktest.html
+Disallow: /se-mocktest.html
+
+Sitemap: https://ilovexams.com/sitemap.xml

@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is an unsaturated hydrocarbon?",
+      "options": ["Methane", "Ethane", "Ethene", "Propane"],
+      "correct": 2
+    },
+    {
+      "question": "The general formula of alkenes is:",
+      "options": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙHₙ"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is the simplest alkyne?",
+      "options": ["Ethene", "Ethyne", "Methyne", "Propene"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following does not undergo addition reactions?",
+      "options": ["Ethene", "Ethane", "Ethyne", "Propene"],
+      "correct": 1
+    },
+    {
+      "question": "Which reagent is used to test unsaturation in hydrocarbons?",
+      "options": ["Br₂ in CCl₄", "NaOH", "HCl", "AgNO₃"],
+      "correct": 0
+    },
+    {
+      "question": "The hybridization of carbon in ethyne is:",
+      "options": ["sp", "sp²", "sp³", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which compound is aromatic?",
+      "options": ["Cyclopropane", "Cyclohexane", "Benzene", "Hexyne"],
+      "correct": 2
+    },
+    {
+      "question": "Number of π-bonds in buta-1,3-diene is:",
+      "options": ["1", "2", "3", "0"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a terminal alkyne?",
+      "options": ["But-1-yne", "But-2-yne", "Pent-2-yne", "Hex-3-yne"],
+      "correct": 0
+    },
+    {
+      "question": "Which reaction converts alkyl halide to alkene?",
+      "options": ["Hydrolysis", "Dehydrohalogenation", "Halogenation", "Oxidation"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following will not decolorize Baeyer's reagent?",
+      "options": ["Ethane", "Ethene", "But-2-ene", "Propyne"],
+      "correct": 0
+    },
+    {
+      "question": "Which compound is obtained on hydrogenation of benzene?",
+      "options": ["Toluene", "Cyclohexane", "Phenol", "Aniline"],
+      "correct": 1
+    },
+    {
+      "question": "What is the product of hydration of ethene?",
+      "options": ["Ethanol", "Ethane", "Ethanoic acid", "Methanol"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following follows Markovnikov's rule?",
+      "options": ["HBr addition to ethene", "HCl addition to but-1-ene", "Br₂ addition to cyclohexene", "H₂ addition to ethyne"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not a property of alkanes?",
+      "options": ["Saturated", "Undergo substitution", "Highly reactive", "Combustible"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following alkenes shows geometrical isomerism?",
+      "options": ["Ethene", "But-1-ene", "But-2-ene", "Propene"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not aromatic?",
+      "options": ["Benzene", "Toluene", "Naphthalene", "Cyclohexane"],
+      "correct": 3
+    },
+    {
+      "question": "How many π-bonds are in benzene?",
+      "options": ["3", "2", "1", "6"],
+      "correct": 0
+    },
+    {
+      "question": "Toluene is:",
+      "options": ["Methylbenzene", "Phenol", "Aniline", "Acetophenone"],
+      "correct": 0
+    },
+    {
+      "question": "Which reaction converts alkyne to alkene?",
+      "options": ["Halogenation", "Partial hydrogenation", "Hydrolysis", "Oxidation"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound does not give polymer?",
+      "options": ["Ethene", "Propene", "Ethyne", "Methane"],
+      "correct": 3
+    },
+    {
+      "question": "Which hydrocarbon gives a yellow sooty flame?",
+      "options": ["Alkane", "Alkene", "Aromatic hydrocarbon", "Alkyne"],
+      "correct": 2
+    },
+    {
+      "question": "How many σ and π bonds are there in ethyne?",
+      "options": ["3 σ, 2 π", "2 σ, 1 π", "3 σ, 1 π", "4 σ, 0 π"],
+      "correct": 0
+    },
+    {
+      "question": "Which reaction is used for preparation of alkanes from carboxylic acids?",
+      "options": ["Decarboxylation", "Halogenation", "Oxidation", "Hydration"],
+      "correct": 0
+    },
+    {
+      "question": "Which reagent is used in Wurtz reaction?",
+      "options": ["Na in dry ether", "KOH", "HCl", "AlCl₃"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a method for preparation of alkanes?",
+      "options": ["Hydrolysis of Grignard reagent", "Kolbe’s electrolysis", "Wurtz reaction", "Nitration"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is not a property of benzene?",
+      "options": ["Undergoes addition easily", "Resonance stabilized", "Planar molecule", "Cyclic conjugated system"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following compounds is most reactive towards electrophilic substitution?",
+      "options": ["Toluene", "Benzene", "Nitrobenzene", "Chlorobenzene"],
+      "correct": 0
+    },
+    {
+      "question": "How many structural isomers are possible for butene (C₄H₈)?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is used as an antiknock agent?",
+      "options": ["Methane", "Benzene", "Tetraethyl lead", "Propane"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a cyclic hydrocarbon?",
+      "options": ["Cyclopentane", "Pentane", "Hexane", "Butene"],
+      "correct": 0
+    },
+    {
+      "question": "Alkenes undergo:",
+      "options": ["Substitution", "Addition", "Elimination", "Hydrolysis"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following decolorizes bromine water?",
+      "options": ["Ethane", "Methane", "Ethene", "Cyclohexane"],
+      "correct": 2
+    },
+    {
+      "question": "Which reaction converts alkene to alkane?",
+      "options": ["Oxidation", "Hydration", "Hydrogenation", "Nitration"],
+      "correct": 2
+    },
+    {
+      "question": "Which catalyst is used in the hydrogenation of alkenes?",
+      "options": ["Fe", "Pt", "Cu", "Hg"],
+      "correct": 1
+    },
+    {
+      "question": "Benzene reacts with Cl₂ in presence of FeCl₃ to give:",
+      "options": ["Chlorobenzene", "Benzyl chloride", "Phenol", "Benzoic acid"],
+      "correct": 0
+    },
+    {
+      "question": "Which is the electrophile in nitration of benzene?",
+      "options": ["NO₂⁻", "NO₂⁺", "HNO₃", "H₂SO₄"],
+      "correct": 1
+    },
+    {
+      "question": "The triple bond in alkyne consists of:",
+      "options": ["1 σ, 2 π", "2 σ, 1 π", "3 σ", "1 π, 2 δ"],
+      "correct": 0
+    },
+    {
+      "question": "What is the product of ozonolysis of ethene?",
+      "options": ["Ethanol", "Ethanoic acid", "Methanal", "Formic acid"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not an aliphatic hydrocarbon?",
+      "options": ["Propane", "Hexyne", "Cyclopentane", "Toluene"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is an example of a conjugated diene?",
+      "options": ["Buta-1,3-diene", "Buta-1,2-diene", "But-1-ene", "Ethene"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is least acidic?",
+      "options": ["Ethene", "Ethyne", "Methane", "Benzene"],
+      "correct": 2
+    },
+    {
+      "question": "Hybridization of carbon in benzene is:",
+      "options": ["sp", "sp²", "sp³", "sp² and sp³"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an ortho-directing group?",
+      "options": ["–NO₂", "–OH", "–COOH", "–CN"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a vicinal dihalide?",
+      "options": ["CH₂Cl–CH₂Cl", "CH₃CHClCH₃", "CH₃CHClCH₂Cl", "CH₂Cl–CHCl₂"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following hydrocarbon has maximum number of isomers?",
+      "options": ["C₄H₁₀", "C₅H₁₂", "C₆H₁₄", "C₇H₁₆"],
+      "correct": 3
+    },
+    {
+      "question": "The major product in addition of HBr to propene is:",
+      "options": ["1-Bromopropane", "2-Bromopropane", "Allyl bromide", "Isopropyl bromide"],
+      "correct": 1
+    },
+    {
+      "question": "Alkynes are more reactive than alkanes because of:",
+      "options": ["Higher electronegativity", "More π bonds", "Less molecular weight", "Hydrogen bonding"],
+      "correct": 1
+    },
+    {
+      "question": "TNT is derived from:",
+      "options": ["Toluene", "Aniline", "Phenol", "Benzene"],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The SI unit of current is:",
+      "options": ["Volt", "Ohm", "Ampere", "Coulomb"],
+      "correct": 2
+    },
+    {
+      "question": "Current is defined as:",
+      "options": ["Charge × Time", "Charge/Time", "Voltage × Time", "Voltage/Time"],
+      "correct": 1
+    },
+    {
+      "question": "One ampere is equivalent to:",
+      "options": ["1 C/s", "1 C/min", "1 V/s", "1 V·s"],
+      "correct": 0
+    },
+    {
+      "question": "Ohm’s law is given by:",
+      "options": ["V = IR", "I = VR", "R = VI", "V = I/R"],
+      "correct": 0
+    },
+    {
+      "question": "Resistance of a conductor depends on:",
+      "options": ["Length", "Area", "Material", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "SI unit of resistance is:",
+      "options": ["Volt", "Ampere", "Ohm", "Coulomb"],
+      "correct": 2
+    },
+    {
+      "question": "Which material is used for making standard resistors?",
+      "options": ["Copper", "Iron", "Manganin", "Aluminium"],
+      "correct": 2
+    },
+    {
+      "question": "The resistivity of a wire depends on:",
+      "options": ["Length", "Area", "Material and temperature", "Current"],
+      "correct": 2
+    },
+    {
+      "question": "SI unit of resistivity is:",
+      "options": ["Ω·m", "Ω/m", "Ω/m²", "Ω·m²"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following has lowest resistivity?",
+      "options": ["Silver", "Copper", "Iron", "Nichrome"],
+      "correct": 0
+    },
+    {
+      "question": "Ohm's law is not applicable to:",
+      "options": ["Semiconductors", "Metallic conductors", "Electrolytes", "Both A and C"],
+      "correct": 3
+    },
+    {
+      "question": "Electric power is given by:",
+      "options": ["VI", "I²R", "V²/R", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The unit of electric power is:",
+      "options": ["Watt", "Joule", "Volt", "Ohm"],
+      "correct": 0
+    },
+    {
+      "question": "1 kWh =",
+      "options": ["1000 J", "3600 J", "3.6 × 10⁶ J", "360 J"],
+      "correct": 2
+    },
+    {
+      "question": "What is the unit of energy consumed?",
+      "options": ["Watt", "Joule", "Kilowatt-hour", "Volt"],
+      "correct": 2
+    },
+    {
+      "question": "When a wire is stretched to double its length, its resistance becomes:",
+      "options": ["Half", "Double", "Four times", "Same"],
+      "correct": 2
+    },
+    {
+      "question": "Two resistors of 4Ω and 6Ω are connected in series. The net resistance is:",
+      "options": ["10Ω", "2.4Ω", "1.5Ω", "0.6Ω"],
+      "correct": 0
+    },
+    {
+      "question": "Two resistors of 4Ω and 6Ω are connected in parallel. The net resistance is:",
+      "options": ["2.4Ω", "10Ω", "0.6Ω", "1.5Ω"],
+      "correct": 0
+    },
+    {
+      "question": "In a conductor, electric current is due to motion of:",
+      "options": ["Protons", "Neutrons", "Electrons", "Atoms"],
+      "correct": 2
+    },
+    {
+      "question": "The drift velocity of electrons is:",
+      "options": ["Fast", "Slow", "Equal to speed of light", "Undefined"],
+      "correct": 1
+    },
+    {
+      "question": "Drift velocity is proportional to:",
+      "options": ["Square of electric field", "Electric field", "Inverse of electric field", "Current density"],
+      "correct": 1
+    },
+    {
+      "question": "The mobility of charge carriers is defined as:",
+      "options": ["v_d/E", "E/v_d", "I/V", "V/I"],
+      "correct": 0
+    },
+    {
+      "question": "In metallic conductors, the charge carriers are:",
+      "options": ["Protons", "Electrons", "Ions", "Neutrons"],
+      "correct": 1
+    },
+    {
+      "question": "Ammeter is used to measure:",
+      "options": ["Voltage", "Resistance", "Current", "Charge"],
+      "correct": 2
+    },
+    {
+      "question": "Voltmeter is connected in:",
+      "options": ["Series", "Parallel", "Series-parallel", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which instrument measures both AC and DC current?",
+      "options": ["Voltmeter", "Galvanometer", "Multimeter", "Ammeter"],
+      "correct": 2
+    },
+    {
+      "question": "Kirchhoff's first law is based on:",
+      "options": ["Conservation of energy", "Conservation of mass", "Conservation of charge", "Ohm's law"],
+      "correct": 2
+    },
+    {
+      "question": "Kirchhoff's second law is based on:",
+      "options": ["Conservation of energy", "Charge", "Mass", "Momentum"],
+      "correct": 0
+    },
+    {
+      "question": "The internal resistance of an ideal cell is:",
+      "options": ["Zero", "Infinite", "One", "Very high"],
+      "correct": 0
+    },
+    {
+      "question": "If internal resistance increases, terminal voltage:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Current density J is defined as:",
+      "options": ["I/A", "A/I", "V/I", "I²A"],
+      "correct": 0
+    },
+    {
+      "question": "Unit of current density is:",
+      "options": ["A", "A/m²", "A·m", "A²/m"],
+      "correct": 1
+    },
+    {
+      "question": "A wire has resistance R. It is stretched to double its length. New resistance is:",
+      "options": ["R", "2R", "4R", "R/4"],
+      "correct": 2
+    },
+    {
+      "question": "Heating effect of current is given by:",
+      "options": ["P = VI", "H = I²Rt", "H = V²t/R", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "A bulb rated 100 W, 220 V is used for 10 hours. Energy consumed is:",
+      "options": ["1 unit", "0.5 unit", "2.2 unit", "1000 unit"],
+      "correct": 0
+    },
+    {
+      "question": "When current flows through a wire, it produces:",
+      "options": ["Heat", "Light", "Magnetic field", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "A copper wire and an iron wire have same length and area. Which has higher resistance?",
+      "options": ["Copper", "Iron", "Same", "Depends on current"],
+      "correct": 1
+    },
+    {
+      "question": "Superconductors have:",
+      "options": ["High resistance", "Zero resistance", "Infinite resistance", "Variable resistance"],
+      "correct": 1
+    },
+    {
+      "question": "When temperature of a metallic conductor increases, its resistance:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correct": 0
+    },
+    {
+      "question": "The relation between electric field and current density is:",
+      "options": ["J = σE", "E = σJ", "J = E/σ", "J = σ/E"],
+      "correct": 0
+    },
+    {
+      "question": "A material that obeys Ohm’s law is called:",
+      "options": ["Ohmic", "Non-ohmic", "Ideal", "Resistive"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is non-ohmic?",
+      "options": ["Vacuum diode", "Metal wire", "Resistor", "Filament lamp"],
+      "correct": 0
+    },
+    {
+      "question": "In a current-carrying wire, electrons move:",
+      "options": ["Fast randomly", "With drift velocity", "Along field lines", "Instantaneously"],
+      "correct": 1
+    },
+    {
+      "question": "The effective resistance of two resistors R connected in parallel is:",
+      "options": ["2R", "R", "R/2", "1/R"],
+      "correct": 2
+    },
+    {
+      "question": "If a wire is folded to make its length half, resistance becomes:",
+      "options": ["4R", "R/2", "R/4", "2R"],
+      "correct": 2
+    },
+    {
+      "question": "If a battery of EMF 12 V and internal resistance 1Ω is connected to a 5Ω resistor, current is:",
+      "options": ["2 A", "1 A", "6 A", "10 A"],
+      "correct": 1
+    },
+    {
+      "question": "Which graph correctly represents Ohm's law?",
+      "options": ["V vs I linear", "I vs R linear", "V vs R linear", "I vs V non-linear"],
+      "correct": 0
+    },
+    {
+      "question": "If current increases in a resistor, the power dissipated:",
+      "options": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+      "correct": 1
+    }
+  ]
+}

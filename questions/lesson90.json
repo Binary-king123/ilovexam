@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which enzyme is known as molecular scissors?",
+      "options": ["Ligase", "Helicase", "Restriction endonuclease", "Polymerase"],
+      "correct": 2
+    },
+    {
+      "question": "Ti plasmid is used in genetic engineering because it:",
+      "options": ["Induces mutations", "Acts as a cloning vector", "Is resistant to antibiotics", "Has a strong promoter"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following joins DNA fragments?",
+      "options": ["DNA ligase", "Helicase", "DNA polymerase", "Topoisomerase"],
+      "correct": 0
+    },
+    {
+      "question": "PCR is used for:",
+      "options": ["Cutting DNA", "Synthesizing proteins", "Amplifying DNA", "Sequencing DNA"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not a step in PCR?",
+      "options": ["Denaturation", "Annealing", "Extension", "Ligation"],
+      "correct": 3
+    },
+    {
+      "question": "Taq polymerase is obtained from:",
+      "options": ["Thermus aquaticus", "E. coli", "Agrobacterium", "Salmonella"],
+      "correct": 0
+    },
+    {
+      "question": "First recombinant DNA was created using plasmid:",
+      "options": ["pBR322", "pUC18", "Ti plasmid", "Lambda phage"],
+      "correct": 0
+    },
+    {
+      "question": "Selectable marker helps in:",
+      "options": ["Amplifying DNA", "Cutting DNA", "Identifying transformed cells", "Ligation"],
+      "correct": 2
+    },
+    {
+      "question": "A cloning vector must have:",
+      "options": ["Selectable marker", "Origin of replication", "Restriction sites", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The process of introducing foreign DNA into host is called:",
+      "options": ["Ligation", "Transformation", "Cloning", "Transduction"],
+      "correct": 1
+    },
+    {
+      "question": "Sticky ends are produced by:",
+      "options": ["Ligase", "Blunt cutters", "Restriction endonucleases", "DNA polymerase"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not used in recombinant DNA technology?",
+      "options": ["Ligase", "Helicase", "Restriction enzymes", "Vectors"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a cloning vector in plants?",
+      "options": ["Ti plasmid", "Lambda phage", "pBR322", "Retrovirus"],
+      "correct": 0
+    },
+    {
+      "question": "Electroporation helps in:",
+      "options": ["Extracting proteins", "Gene transfer", "DNA replication", "Protein folding"],
+      "correct": 1
+    },
+    {
+      "question": "Which technique is used to separate DNA fragments?",
+      "options": ["Centrifugation", "PCR", "Gel electrophoresis", "Blotting"],
+      "correct": 2
+    },
+    {
+      "question": "Which organism is most commonly used as a host in recombinant DNA technology?",
+      "options": ["Staphylococcus", "E. coli", "Bacillus", "Pseudomonas"],
+      "correct": 1
+    },
+    {
+      "question": "Plasmids are:",
+      "options": ["Circular RNA", "Linear RNA", "Circular DNA", "Linear DNA"],
+      "correct": 2
+    },
+    {
+      "question": "The enzyme that joins DNA fragments is:",
+      "options": ["Ligase", "Nuclease", "Polymerase", "Helicase"],
+      "correct": 0
+    },
+    {
+      "question": "The first restriction enzyme discovered was:",
+      "options": ["EcoRI", "BamHI", "HindIII", "TaqI"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a feature of a plasmid?",
+      "options": ["Double-stranded", "Circular", "Protein-coated", "Self-replicating"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a step in recombinant DNA technology?",
+      "options": ["Isolation of DNA", "Ligation", "Transcription", "Transformation"],
+      "correct": 2
+    },
+    {
+      "question": "The term 'recombinant DNA' refers to:",
+      "options": ["Viral DNA", "DNA formed by joining two DNA strands", "Mutated DNA", "Host DNA"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following enzymes is heat stable?",
+      "options": ["EcoRI", "DNA ligase", "Taq polymerase", "RNA polymerase"],
+      "correct": 2
+    },
+    {
+      "question": "In PCR, primers are:",
+      "options": ["Long DNA fragments", "Short RNA fragments", "Short DNA fragments", "Proteins"],
+      "correct": 2
+    },
+    {
+      "question": "Recombinant DNA was first made by:",
+      "options": ["Watson and Crick", "Herbert Boyer and Stanley Cohen", "Paul Berg", "Kary Mullis"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is used to cut DNA at specific sequences?",
+      "options": ["Ligase", "Helicase", "Restriction enzyme", "Polymerase"],
+      "correct": 2
+    },
+    {
+      "question": "A vector should have origin of replication to:",
+      "options": ["Express gene", "Amplify DNA", "Bind polymerase", "Bind RNA"],
+      "correct": 1
+    },
+    {
+      "question": "Agrobacterium tumefaciens causes:",
+      "options": ["Leaf spot", "Crown gall", "Yellow mosaic", "Blight"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a method of gene transfer?",
+      "options": ["Microinjection", "Electroporation", "Heat shock", "Centrifugation"],
+      "correct": 3
+    },
+    {
+      "question": "The function of gel electrophoresis is to:",
+      "options": ["Cut DNA", "Join DNA", "Separate DNA fragments", "Amplify DNA"],
+      "correct": 2
+    },
+    {
+      "question": "Blunt ends are formed when:",
+      "options": ["Sticky ends are ligated", "DNA is denatured", "DNA is cut straight", "Plasmid is broken"],
+      "correct": 2
+    },
+    {
+      "question": "Which is used to visualize DNA after electrophoresis?",
+      "options": ["UV light", "X-rays", "IR light", "Visible light"],
+      "correct": 0
+    },
+    {
+      "question": "The basic steps in genetic engineering do not include:",
+      "options": ["Isolation of gene", "Cloning", "Mutation", "Transfer to host"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following produces complementary DNA?",
+      "options": ["DNA polymerase", "Reverse transcriptase", "Ligase", "Nuclease"],
+      "correct": 1
+    },
+    {
+      "question": "Which component is essential in a cloning vector?",
+      "options": ["Gene of interest", "Selectable marker", "Promoter", "Terminator"],
+      "correct": 1
+    },
+    {
+      "question": "The temperature for denaturation in PCR is:",
+      "options": ["94–96°C", "70°C", "55°C", "40°C"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following allows continuous replication of plasmid?",
+      "options": ["Antibiotic resistance gene", "Origin of replication", "Polylinker site", "Selectable marker"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following allows detection of recombinants?",
+      "options": ["Selectable marker", "Ligation", "Annealing", "Elution"],
+      "correct": 0
+    },
+    {
+      "question": "Transformation refers to:",
+      "options": ["Fusion of cells", "Infection by virus", "Uptake of DNA by cell", "Cleavage of DNA"],
+      "correct": 2
+    },
+    {
+      "question": "Insertion of gene into plasmid is checked using:",
+      "options": ["Selectable marker", "PCR", "Antibodies", "DNA fingerprinting"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a product of recombinant DNA technology?",
+      "options": ["Insulin", "Interferons", "Antibiotics", "Hepatitis B vaccine"],
+      "correct": 2
+    },
+    {
+      "question": "The first commercially produced genetically engineered product was:",
+      "options": ["Hepatitis vaccine", "Insulin", "Interferon", "Somatotropin"],
+      "correct": 1
+    },
+    {
+      "question": "Microinjection involves:",
+      "options": ["Electric pulse", "Glass needle", "Heat shock", "Liposomes"],
+      "correct": 1
+    },
+    {
+      "question": "A vector for animal cells is:",
+      "options": ["Retrovirus", "Ti plasmid", "Lambda phage", "BAC"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following helps in large-scale production of recombinant proteins?",
+      "options": ["Gene gun", "Bioreactor", "Electroporation", "Gel electrophoresis"],
+      "correct": 1
+    },
+    {
+      "question": "Restriction enzymes cut DNA at:",
+      "options": ["Random points", "Specific sequences", "Adenine-rich sites", "Double bonds"],
+      "correct": 1
+    },
+    {
+      "question": "Which method is used to introduce DNA into plant cells?",
+      "options": ["Heat shock", "Microinjection", "Electroporation", "Gene gun"],
+      "correct": 3
+    },
+    {
+      "question": "Palindromic sequences are recognized by:",
+      "options": ["Ligase", "DNA polymerase", "Restriction enzymes", "RNA polymerase"],
+      "correct": 2
+    },
+    {
+      "question": "Plasmids used in rDNA technology are genetically engineered to contain:",
+      "options": ["Structural genes", "Resistance genes", "Vectors", "Selectable markers and restriction sites"],
+      "correct": 3
+    }
+  ]
+}

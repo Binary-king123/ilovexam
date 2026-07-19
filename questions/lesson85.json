@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Who proposed the double helix model of DNA?",
+      "options": ["Watson and Crick", "Hershey and Chase", "Meselson and Stahl", "Beadle and Tatum"],
+      "correct": 0
+    },
+    {
+      "question": "DNA is composed of:",
+      "options": ["Amino acids", "Nucleotides", "Fatty acids", "Monosaccharides"],
+      "correct": 1
+    },
+    {
+      "question": "Which sugar is found in DNA?",
+      "options": ["Glucose", "Ribose", "Deoxyribose", "Fructose"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a purine base?",
+      "options": ["Adenine", "Thymine", "Guanine", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The base pairing in DNA follows:",
+      "options": ["A–G, C–T", "A–T, G–C", "A–C, G–T", "A–U, G–C"],
+      "correct": 1
+    },
+    {
+      "question": "Who proved DNA as the genetic material using radioactive isotopes?",
+      "options": ["Mendel", "Watson", "Hershey and Chase", "Griffith"],
+      "correct": 2
+    },
+    {
+      "question": "Griffith’s experiment involved which organism?",
+      "options": ["E. coli", "Yeast", "Streptococcus pneumoniae", "Tobacco Mosaic Virus"],
+      "correct": 2
+    },
+    {
+      "question": "Which enzyme joins Okazaki fragments?",
+      "options": ["Helicase", "DNA ligase", "DNA polymerase I", "Topoisomerase"],
+      "correct": 1
+    },
+    {
+      "question": "Okazaki fragments are formed during:",
+      "options": ["Leading strand synthesis", "Lagging strand synthesis", "Replication initiation", "Transcription"],
+      "correct": 1
+    },
+    {
+      "question": "Which enzyme unwinds DNA?",
+      "options": ["Ligase", "Polymerase", "Helicase", "Transcriptase"],
+      "correct": 2
+    },
+    {
+      "question": "DNA replication is:",
+      "options": ["Conservative", "Dispersive", "Semi-conservative", "Random"],
+      "correct": 2
+    },
+    {
+      "question": "The direction of DNA synthesis is:",
+      "options": ["3’ to 5’", "5’ to 3’", "Random", "Both directions"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following carries genetic code from DNA to ribosome?",
+      "options": ["tRNA", "rRNA", "mRNA", "snRNA"],
+      "correct": 2
+    },
+    {
+      "question": "The process of copying genetic information from DNA to RNA is called:",
+      "options": ["Translation", "Transduction", "Transcription", "Replication"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not required for transcription?",
+      "options": ["DNA template", "RNA polymerase", "Nucleotides", "DNA ligase"],
+      "correct": 3
+    },
+    {
+      "question": "In eukaryotes, mRNA is processed before translation. Which is NOT a modification?",
+      "options": ["5’ capping", "Poly-A tail", "Splicing", "Ligation"],
+      "correct": 3
+    },
+    {
+      "question": "Which codon does not code for any amino acid?",
+      "options": ["AUG", "UAA", "GUG", "GAA"],
+      "correct": 1
+    },
+    {
+      "question": "The start codon for protein synthesis is:",
+      "options": ["UGA", "UAG", "AUG", "UAA"],
+      "correct": 2
+    },
+    {
+      "question": "What does the anticodon region belong to?",
+      "options": ["DNA", "mRNA", "tRNA", "rRNA"],
+      "correct": 2
+    },
+    {
+      "question": "The site of protein synthesis is:",
+      "options": ["Nucleus", "Ribosome", "Golgi", "Lysosome"],
+      "correct": 1
+    },
+    {
+      "question": "In bacteria, transcription and translation occur:",
+      "options": ["Separately", "In cytoplasm", "In nucleus", "In mitochondria"],
+      "correct": 1
+    },
+    {
+      "question": "Which is called the 'adapter molecule'?",
+      "options": ["mRNA", "rRNA", "tRNA", "DNA"],
+      "correct": 2
+    },
+    {
+      "question": "Which RNA has a cloverleaf structure?",
+      "options": ["mRNA", "tRNA", "rRNA", "hnRNA"],
+      "correct": 1
+    },
+    {
+      "question": "Who experimentally proved semi-conservative replication of DNA?",
+      "options": ["Griffith", "Avery", "Meselson and Stahl", "Hershey and Chase"],
+      "correct": 2
+    },
+    {
+      "question": "Genetic code is said to be degenerate because:",
+      "options": ["One codon codes many amino acids", "Several codons code one amino acid", "It is universal", "It has punctuation"],
+      "correct": 1
+    },
+    {
+      "question": "Which enzyme removes RNA primer?",
+      "options": ["DNA ligase", "RNA polymerase", "DNA polymerase I", "Topoisomerase"],
+      "correct": 2
+    },
+    {
+      "question": "Which base is not found in RNA?",
+      "options": ["Adenine", "Uracil", "Guanine", "Thymine"],
+      "correct": 3
+    },
+    {
+      "question": "In RNA, uracil pairs with:",
+      "options": ["Adenine", "Thymine", "Cytosine", "Guanine"],
+      "correct": 0
+    },
+    {
+      "question": "In eukaryotes, DNA is wrapped around:",
+      "options": ["Tubulin", "Actin", "Histones", "Lipoprotein"],
+      "correct": 2
+    },
+    {
+      "question": "The length of one turn of DNA helix is:",
+      "options": ["3.4 Å", "34 Å", "10 Å", "0.34 Å"],
+      "correct": 1
+    },
+    {
+      "question": "One nucleosome consists of:",
+      "options": ["2 histones", "4 histones", "8 histones", "1 histone"],
+      "correct": 2
+    },
+    {
+      "question": "The functional unit of heredity is:",
+      "options": ["Gene", "Chromosome", "Nucleus", "DNA"],
+      "correct": 0
+    },
+    {
+      "question": "Which DNA is more stable?",
+      "options": ["A-DNA", "B-DNA", "Z-DNA", "All equal"],
+      "correct": 1
+    },
+    {
+      "question": "Which enzyme catalyzes transcription?",
+      "options": ["DNA polymerase", "RNA polymerase", "Ligase", "Transcriptase"],
+      "correct": 1
+    },
+    {
+      "question": "Exons are:",
+      "options": ["Non-coding sequences", "Coding sequences", "Introns", "Promoters"],
+      "correct": 1
+    },
+    {
+      "question": "Which one is a stop codon?",
+      "options": ["UGA", "GUA", "CCA", "GCU"],
+      "correct": 0
+    },
+    {
+      "question": "The central dogma is:",
+      "options": ["RNA → DNA → Protein", "DNA → RNA → Protein", "Protein → DNA", "DNA → Protein → RNA"],
+      "correct": 1
+    },
+    {
+      "question": "TATA box acts as:",
+      "options": ["Enzyme", "Enhancer", "Promoter", "Inhibitor"],
+      "correct": 2
+    },
+    {
+      "question": "The first amino acid during translation is:",
+      "options": ["Methionine", "Valine", "Lysine", "Leucine"],
+      "correct": 0
+    },
+    {
+      "question": "The backbone of DNA is formed by:",
+      "options": ["Nitrogen bases", "Histones", "Sugar-phosphate", "Peptides"],
+      "correct": 2
+    },
+    {
+      "question": "Which DNA strand is copied during transcription?",
+      "options": ["Coding strand", "Template strand", "Sense strand", "Both"],
+      "correct": 1
+    },
+    {
+      "question": "Which base pairing is correct in DNA?",
+      "options": ["A–C", "G–T", "A–T", "G–A"],
+      "correct": 2
+    },
+    {
+      "question": "Which RNA carries amino acids?",
+      "options": ["mRNA", "tRNA", "rRNA", "hnRNA"],
+      "correct": 1
+    },
+    {
+      "question": "RNA polymerase in prokaryotes is made of how many subunits?",
+      "options": ["1", "2", "3", "5"],
+      "correct": 3
+    },
+    {
+      "question": "Introns are removed during:",
+      "options": ["Transcription", "Splicing", "Replication", "Translation"],
+      "correct": 1
+    },
+    {
+      "question": "The nitrogen base not found in DNA is:",
+      "options": ["Guanine", "Uracil", "Cytosine", "Adenine"],
+      "correct": 1
+    },
+    {
+      "question": "The shape of tRNA is:",
+      "options": ["Straight", "Circular", "Hairpin", "Cloverleaf"],
+      "correct": 3
+    },
+    {
+      "question": "What links nucleotides in DNA?",
+      "options": ["Glycosidic bond", "Hydrogen bond", "Phosphodiester bond", "Ionic bond"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has an anticodon loop?",
+      "options": ["mRNA", "rRNA", "tRNA", "DNA"],
+      "correct": 2
+    }
+  ]
+}

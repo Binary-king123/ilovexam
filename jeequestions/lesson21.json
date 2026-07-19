@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The average value of AC over a full cycle is:",
+      "options": ["I₀", "0", "I₀/√2", "I₀/2"],
+      "correct": 1
+    },
+    {
+      "question": "The RMS value of an AC current I₀ is:",
+      "options": ["I₀", "I₀/2", "I₀/√2", "√2 I₀"],
+      "correct": 2
+    },
+    {
+      "question": "The frequency of AC in India is:",
+      "options": ["50 Hz", "60 Hz", "100 Hz", "25 Hz"],
+      "correct": 0
+    },
+    {
+      "question": "Power factor is defined as:",
+      "options": ["cos θ", "sin θ", "tan θ", "1/cos θ"],
+      "correct": 0
+    },
+    {
+      "question": "In a pure resistor, voltage and current:",
+      "options": ["Are in phase", "Have phase difference of 90°", "Are out of phase", "Have no relation"],
+      "correct": 0
+    },
+    {
+      "question": "In a pure inductor, current:",
+      "options": ["Leads voltage by 90°", "Lags voltage by 90°", "Is in phase", "Is zero"],
+      "correct": 1
+    },
+    {
+      "question": "In a pure capacitor, voltage:",
+      "options": ["Leads current by 90°", "Lags current by 90°", "Is in phase", "Is zero"],
+      "correct": 1
+    },
+    {
+      "question": "The SI unit of reactance is:",
+      "options": ["Ohm", "Farad", "Henry", "Tesla"],
+      "correct": 0
+    },
+    {
+      "question": "Impedance of an LCR circuit is given by:",
+      "options": ["R", "R + XL", "√(R² + (XL – XC)²)", "R – XL"],
+      "correct": 2
+    },
+    {
+      "question": "In an AC circuit, average power is given by:",
+      "options": ["VI", "Vrms × Irms × cos θ", "I²R", "E₀I₀"],
+      "correct": 1
+    },
+    {
+      "question": "The power factor in a purely inductive circuit is:",
+      "options": ["1", "0", "–1", "0.5"],
+      "correct": 1
+    },
+    {
+      "question": "At resonance in an LCR circuit:",
+      "options": ["XL = XC", "Z = R", "Maximum current flows", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "The resonant frequency of an LCR circuit is:",
+      "options": ["1/(2π√LC)", "2π√LC", "1/LC", "LC"],
+      "correct": 0
+    },
+    {
+      "question": "In resonance, impedance of an LCR circuit is:",
+      "options": ["Minimum", "Maximum", "Zero", "Infinity"],
+      "correct": 0
+    },
+    {
+      "question": "In an AC circuit, real power is measured by:",
+      "options": ["Wattmeter", "Ammeter", "Voltmeter", "Oscilloscope"],
+      "correct": 0
+    },
+    {
+      "question": "The wattless current is found in:",
+      "options": ["Pure resistor", "Pure inductor or capacitor", "Resistor-inductor circuit", "None of these"],
+      "correct": 1
+    },
+    {
+      "question": "The form factor for a sinusoidal AC current is:",
+      "options": ["1", "√2", "π/2", "1.11"],
+      "correct": 3
+    },
+    {
+      "question": "The peak value of AC voltage is 325 V. The RMS value is:",
+      "options": ["325 V", "162.5 V", "230 V", "115 V"],
+      "correct": 2
+    },
+    {
+      "question": "In an LCR circuit, the circuit behaves as resistive at:",
+      "options": ["Resonance", "Low frequency", "High frequency", "Zero frequency"],
+      "correct": 0
+    },
+    {
+      "question": "In a capacitive circuit, current:",
+      "options": ["Leads voltage", "Lags voltage", "Is in phase", "Is zero"],
+      "correct": 0
+    },
+    {
+      "question": "What is the unit of power factor?",
+      "options": ["Watt", "Volt", "Unitless", "Ampere"],
+      "correct": 2
+    },
+    {
+      "question": "The current in an AC circuit is I = I₀ sin(ωt + π/3). The peak value is:",
+      "options": ["I₀", "π/3", "ω", "I₀/√2"],
+      "correct": 0
+    },
+    {
+      "question": "The average power in a purely resistive circuit is:",
+      "options": ["Zero", "Maximum", "Minimum", "VI"],
+      "correct": 3
+    },
+    {
+      "question": "The reactance of an inductor is given by:",
+      "options": ["XL = ωL", "XL = 1/ωL", "XL = L/ω", "XL = ω/C"],
+      "correct": 0
+    },
+    {
+      "question": "The reactance of a capacitor is:",
+      "options": ["1/ωC", "ωC", "Cω²", "C/ω"],
+      "correct": 0
+    },
+    {
+      "question": "The impedance triangle relates:",
+      "options": ["R, XL, and Z", "L, C, and ω", "R, C, and L", "Z, V, and I"],
+      "correct": 0
+    },
+    {
+      "question": "Power factor of an RLC series circuit is maximum at:",
+      "options": ["Resonance", "Low frequency", "High frequency", "Zero current"],
+      "correct": 0
+    },
+    {
+      "question": "At resonance, energy is stored:",
+      "options": ["In R", "In L only", "In C only", "Alternately in L and C"],
+      "correct": 3
+    },
+    {
+      "question": "In an AC circuit, maximum current is 10 A. RMS current is:",
+      "options": ["5 A", "7.07 A", "10 A", "14.14 A"],
+      "correct": 1
+    },
+    {
+      "question": "The instrument to measure RMS value is:",
+      "options": ["Moving coil", "Thermocouple type", "Ballistic galvanometer", "Electrometer"],
+      "correct": 1
+    },
+    {
+      "question": "The energy loss in an ideal capacitor per cycle is:",
+      "options": ["Maximum", "Zero", "Minimum", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "The current leads voltage in:",
+      "options": ["Resistor", "Inductor", "Capacitor", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The instantaneous power in AC varies with:",
+      "options": ["ω", "2ω", "ω²", "Constant"],
+      "correct": 1
+    },
+    {
+      "question": "The frequency of current is 50 Hz. Time period is:",
+      "options": ["0.02 s", "0.01 s", "2 s", "50 s"],
+      "correct": 0
+    },
+    {
+      "question": "Power dissipated in an AC circuit is zero if:",
+      "options": ["cos θ = 0", "cos θ = 1", "Z = R", "θ = 0°"],
+      "correct": 0
+    },
+    {
+      "question": "What is resonance frequency for L = 1 H, C = 1 µF?",
+      "options": ["159.2 Hz", "100 Hz", "1 MHz", "5 Hz"],
+      "correct": 0
+    },
+    {
+      "question": "Power factor of ideal LC circuit is:",
+      "options": ["1", "0", "0.5", "Infinity"],
+      "correct": 1
+    },
+    {
+      "question": "AC current I = I₀ sin ωt. The average value over half cycle is:",
+      "options": ["I₀/π", "2I₀/π", "I₀/2", "I₀"],
+      "correct": 1
+    },
+    {
+      "question": "Which device converts DC to AC?",
+      "options": ["Transformer", "Inverter", "Rectifier", "Generator"],
+      "correct": 1
+    },
+    {
+      "question": "The quality factor Q is:",
+      "options": ["XL/R", "R/XL", "XC/R", "1/RC"],
+      "correct": 0
+    },
+    {
+      "question": "Voltage across L and C at resonance is:",
+      "options": ["Equal", "Zero", "Maximum", "Minimum"],
+      "correct": 2
+    },
+    {
+      "question": "In an AC generator, the frequency depends on:",
+      "options": ["Speed of rotation", "Voltage", "Current", "Resistance"],
+      "correct": 0
+    },
+    {
+      "question": "For high Q-factor:",
+      "options": ["Low resistance", "High resistance", "High capacitance", "Zero inductance"],
+      "correct": 0
+    },
+    {
+      "question": "Transformer works only with:",
+      "options": ["DC", "AC", "Static charge", "Electromagnetic waves"],
+      "correct": 1
+    },
+    {
+      "question": "In resonance, the net reactance is:",
+      "options": ["Zero", "Maximum", "Infinite", "Equal to R"],
+      "correct": 0
+    },
+    {
+      "question": "Inductive reactance increases with:",
+      "options": ["Current", "Resistance", "Frequency", "Capacitance"],
+      "correct": 2
+    },
+    {
+      "question": "At resonance, the current in an LCR circuit is:",
+      "options": ["Minimum", "Maximum", "Zero", "Constant"],
+      "correct": 1
+    },
+    {
+      "question": "AC power is transmitted at high voltage because:",
+      "options": ["Reduce current", "Reduce energy loss", "Increase efficiency", "All of these"],
+      "correct": 3
+    }
+  ]
+}

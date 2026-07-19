@@ -1,0 +1,259 @@
+{
+  "test": [
+    {
+      "question": "Which group of the periodic table contains the p-block elements?",
+      "options": ["Groups 1 and 2", "Groups 3 to 12", "Groups 13 to 18", "Group 18 only"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a Group 13 element?",
+      "options": ["Nitrogen", "Boron", "Oxygen", "Fluorine"],
+      "correct": 1
+    },
+    {
+      "question": "The oxidation state of aluminium in AlCl₃ is:",
+      "options": ["+1", "+2", "+3", "+4"],
+      "correct": 2
+    },
+    {
+      "question": "Inert pair effect is observed in:",
+      "options": ["Group 13 and 14", "Group 1", "Group 2", "Group 18"],
+      "correct": 0
+    },
+    {
+      "question": "BCl₃ is a Lewis acid because:",
+      "options": ["It has extra electrons", "It has an incomplete octet", "It donates electrons", "It has a lone pair"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following oxides is amphoteric?",
+      "options": ["B₂O₃", "Al₂O₃", "CO₂", "SiO₂"],
+      "correct": 1
+    },
+    {
+      "question": "The anomalous behavior of boron is due to:",
+      "options": ["Small size", "High ionization energy", "High electronegativity", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which element exists as a diatomic gas?",
+      "options": ["Boron", "Carbon", "Nitrogen", "Aluminium"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not a property of p-block elements?",
+      "options": ["Show variable oxidation states", "Form covalent bonds", "Are all metals", "Form acidic oxides"],
+      "correct": 2
+    },
+    {
+      "question": "Which element shows maximum inert pair effect?",
+      "options": ["Boron", "Gallium", "Thallium", "Aluminium"],
+      "correct": 2
+    },
+    {
+      "question": "Oxidation state of nitrogen in nitric acid is:",
+      "options": ["+5", "+3", "+1", "−3"],
+      "correct": 0
+    },
+    {
+      "question": "The most electronegative p-block element is:",
+      "options": ["Fluorine", "Oxygen", "Nitrogen", "Carbon"],
+      "correct": 0
+    },
+    {
+      "question": "Allotropes of carbon include:",
+      "options": ["Graphite", "Diamond", "Fullerene", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a noble gas?",
+      "options": ["Neon", "Nitrogen", "Chlorine", "Boron"],
+      "correct": 0
+    },
+    {
+      "question": "Group 14 elements are also called:",
+      "options": ["Halogens", "Chalcogens", "Carbon family", "Nitrogen family"],
+      "correct": 2
+    },
+    {
+      "question": "The formula of diborane is:",
+      "options": ["B₂H₆", "BH₃", "B₂H₂", "B₃H₆"],
+      "correct": 0
+    },
+    {
+      "question": "The hybridization of boron in BCl₃ is:",
+      "options": ["sp³", "sp", "sp²", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is the most basic oxide?",
+      "options": ["B₂O₃", "Al₂O₃", "Ga₂O₃", "Tl₂O₃"],
+      "correct": 3
+    },
+    {
+      "question": "The acidic strength of trihalides of boron follows the order:",
+      "options": ["BF₃ < BCl₃ < BBr₃ < BI₃", "BF₃ > BCl₃ > BBr₃ > BI₃", "BF₃ = BCl₃ = BBr₃ = BI₃", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The allotrope of carbon that conducts electricity is:",
+      "options": ["Diamond", "Graphite", "Fullerene", "Charcoal"],
+      "correct": 1
+    },
+    {
+      "question": "Which group 13 element is liquid at room temperature?",
+      "options": ["Boron", "Aluminium", "Gallium", "Indium"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a property of group 13 elements?",
+      "options": ["Good conductors", "High electronegativity", "Low melting point", "Form +3 ions"],
+      "correct": 1
+    },
+    {
+      "question": "Electron deficient compound among the following is:",
+      "options": ["BCl₃", "CCl₄", "NH₃", "H₂O"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following shows +5 oxidation state?",
+      "options": ["N", "P", "As", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Group 15 elements are also known as:",
+      "options": ["Halogens", "Chalcogens", "Pnictogens", "Alkali metals"],
+      "correct": 2
+    },
+    {
+      "question": "The hydride of nitrogen is:",
+      "options": ["NH₃", "NO₂", "N₂O", "N₂O₅"],
+      "correct": 0
+    },
+    {
+      "question": "Which p-block oxide is neutral?",
+      "options": ["CO", "CO₂", "NO₂", "SO₂"],
+      "correct": 0
+    },
+    {
+      "question": "Which acid is called king of acids?",
+      "options": ["HCl", "H₂SO₄", "HNO₃", "H₃PO₄"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following forms back bonding?",
+      "options": ["BF₃", "BCl₃", "BBr₃", "BI₃"],
+      "correct": 0
+    },
+    {
+      "question": "Which compound contains three-centre two-electron bonds?",
+      "options": ["BCl₃", "B₂H₆", "C₂H₆", "BH₃"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has sp³ hybridization?",
+      "options": ["CH₄", "BF₃", "C₂H₂", "CO₂"],
+      "correct": 0
+    },
+    {
+      "question": "An amphoteric oxide is:",
+      "options": ["Al₂O₃", "CO₂", "SO₂", "Na₂O"],
+      "correct": 0
+    },
+    {
+      "question": "Aluminium is extracted from:",
+      "options": ["Bauxite", "Cryolite", "Dolomite", "Malachite"],
+      "correct": 0
+    },
+    {
+      "question": "Which acid is used in making fertilizers and explosives?",
+      "options": ["HCl", "HNO₃", "CH₃COOH", "H₂CO₃"],
+      "correct": 1
+    },
+    {
+      "question": "The oxidation state of phosphorus in H₃PO₄ is:",
+      "options": ["+3", "+5","+1", "−3"],
+      "correct": 1
+    },
+    {
+      "question": "Which element forms multiple oxides?",
+      "options": ["P", "B", "F", "Ar"],
+      "correct": 0
+    },
+    {
+      "question": "Which group 13 element is a metalloid?",
+      "options": ["Boron", "Aluminium", "Gallium", "Indium"],
+      "correct": 0
+    },
+    {
+      "question": "Which is the heaviest p-block element?",
+      "options": ["Iodine", "Lead", "Bismuth", "Polonium"],
+      "correct": 3
+    },
+    {
+      "question": "The bond angle in NH₃ is:",
+      "options": ["180°", "109.5°", "107°", "120°"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following does NOT exist as a molecule?",
+      "options": ["Oxygen", "Nitrogen", "Argon", "Chlorine"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following forms the strongest hydrogen bond?",
+      "options": ["NH₃", "HF", "H₂O", "CH₄"],
+      "correct": 1
+    },
+    {
+      "question": "White phosphorus is:",
+      "options": ["Most stable", "Least reactive", "Highly reactive", "Aromatic"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not an allotrope of phosphorus?",
+      "options": ["Red", "White", "Black", "Blue"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a chain structure?",
+      "options": ["Red phosphorus", "White phosphorus", "Graphite", "Diamond"],
+      "correct": 0
+    },
+    {
+      "question": "PCl₅ in solid state exists as:",
+      "options": ["Ionic", "Covalent", "Metallic", "Radical"],
+      "correct": 0
+    },
+    {
+      "question": "Which is used as a rocket propellant?",
+      "options": ["N₂O", "NH₄NO₃", "NH₃", "N₂"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has a lone pair?",
+      "options": ["CH₄", "NH₃", "CCl₄", "BF₃"],
+      "correct": 1
+    },
+    {
+      "question": "Which gas is responsible for the brown color of NO₂?",
+      "options": ["NO", "N₂", "N₂O", "NO₂"],
+      "correct": 3
+    },
+    {
+      "question": "Allotropes of carbon differ in:",
+      "options": ["Atomic number", "Atomic mass", "Structure", "Number of electrons"],
+      "correct": 2
+    },
+    {
+      "question": "Oxidation state of carbon in CO₂ is:",
+      "options": ["+2", "+4", "−2", "0"],
+      "correct": 1
+    },
+    {
+      "question": "Boron does not form:",
+      "options": ["Ionic hydrides", "Covalent hydrides", "Electron-deficient compounds", "Three-centre bonds"],
+      "correct": 0
+    }
+  ]
+}

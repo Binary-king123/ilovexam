@@ -1,0 +1,254 @@
+{
+  "classification_of_elements_and_periodicity": [
+    {
+      "question": "Who is known as the father of the modern periodic table?",
+      "options": ["Dobereiner", "Newlands", "Mendeleev", "Moseley"],
+      "correct": 3
+    },
+    {
+      "question": "The modern periodic law is based on:",
+      "options": ["Atomic mass", "Atomic number", "Valency", "Mass number"],
+      "correct": 1
+    },
+    {
+      "question": "How many periods are there in the modern periodic table?",
+      "options": ["7", "8", "18", "9"],
+      "correct": 0
+    },
+    {
+      "question": "The number of groups in the modern periodic table is:",
+      "options": ["8", "18", "7", "9"],
+      "correct": 1
+    },
+    {
+      "question": "Which element has the highest electronegativity?",
+      "options": ["Oxygen", "Fluorine", "Chlorine", "Nitrogen"],
+      "correct": 1
+    },
+    {
+      "question": "Atomic size across a period:",
+      "options": ["Increases", "Decreases", "Remains same", "First increases then decreases"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an alkali metal?",
+      "options": ["Mg", "Na", "Al", "Ca"],
+      "correct": 1
+    },
+    {
+      "question": "Which block element has partially filled d-orbitals?",
+      "options": ["s-block", "p-block", "d-block", "f-block"],
+      "correct": 2
+    },
+    {
+      "question": "Which group is known as the halogens?",
+      "options": ["Group 15", "Group 16", "Group 17", "Group 18"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has the highest ionization enthalpy?",
+      "options": ["Na", "Cl", "Ne", "K"],
+      "correct": 2
+    },
+    {
+      "question": "Which element shows diagonal relationship with lithium?",
+      "options": ["B", "Be", "Mg", "Na"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following elements has the smallest atomic radius?",
+      "options": ["Li", "Be", "B", "F"],
+      "correct": 3
+    },
+    {
+      "question": "Across a period, the metallic character:",
+      "options": ["Increases", "Decreases", "Remains unchanged", "First increases then decreases"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following elements has highest electron affinity?",
+      "options": ["F", "Cl", "Br", "I"],
+      "correct": 1
+    },
+    {
+      "question": "The noble gases belong to:",
+      "options": ["Group 16", "Group 17", "Group 18", "Group 1"],
+      "correct": 2
+    },
+    {
+      "question": "The electronic configuration of an element is [Ne]3s² 3p³. Its group number is:",
+      "options": ["13", "14", "15", "16"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a transition element?",
+      "options": ["Na", "Mg", "Fe", "Al"],
+      "correct": 2
+    },
+    {
+      "question": "In the periodic table, the period number represents:",
+      "options": ["Valence electrons", "Number of shells", "Atomic mass", "Group number"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following elements belongs to f-block?",
+      "options": ["Fe", "U", "Cu", "Zn"],
+      "correct": 1
+    },
+    {
+      "question": "Which group contains only nonmetals?",
+      "options": ["Group 1", "Group 2", "Group 17", "Group 13"],
+      "correct": 2
+    },
+    {
+      "question": "Electronegativity __________ across a period.",
+      "options": ["Increases", "Decreases", "Remains same", "Fluctuates"],
+      "correct": 0
+    },
+    {
+      "question": "The most metallic element in the periodic table is:",
+      "options": ["Na", "K", "Fr", "Cs"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not a property of transition elements?",
+      "options": ["Variable oxidation states", "Colored ions", "High reactivity", "Catalytic activity"],
+      "correct": 2
+    },
+    {
+      "question": "Which group contains alkali earth metals?",
+      "options": ["Group 1", "Group 2", "Group 13", "Group 17"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has the largest atomic radius?",
+      "options": ["Mg", "Al", "Na", "Si"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has lowest electronegativity?",
+      "options": ["Na", "K", "Rb", "Cs"],
+      "correct": 3
+    },
+    {
+      "question": "Electron affinity of noble gases is:",
+      "options": ["Very high", "Zero", "Negative", "Low but non-zero"],
+      "correct": 1
+    },
+    {
+      "question": "Lanthanides belong to period:",
+      "options": ["4", "5", "6", "7"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an actinide?",
+      "options": ["Uranium", "Iron", "Lead", "Zinc"],
+      "correct": 0
+    },
+    {
+      "question": "The d-block elements are also known as:",
+      "options": ["Metalloids", "Main group elements", "Transition elements", "Halogens"],
+      "correct": 2
+    },
+    {
+      "question": "Atomic radius down the group:",
+      "options": ["Decreases", "Increases", "Remains same", "First decreases then increases"],
+      "correct": 1
+    },
+    {
+      "question": "Which element has the highest metallic character?",
+      "options": ["Na", "Al", "K", "Mg"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following elements is a metalloid?",
+      "options": ["C", "B", "Si", "P"],
+      "correct": 2
+    },
+    {
+      "question": "Newlands' law of octaves was applicable only up to:",
+      "options": ["Calcium", "Sodium", "Iron", "Zinc"],
+      "correct": 0
+    },
+    {
+      "question": "Which element has the configuration [Ar] 4s² 3d¹⁰ 4p⁵?",
+      "options": ["Br", "Kr", "Se", "Cl"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following belongs to p-block?",
+      "options": ["Fe", "Mg", "Cl", "Na"],
+      "correct": 2
+    },
+    {
+      "question": "Mendeleev arranged the elements in increasing order of:",
+      "options": ["Atomic mass", "Atomic number", "Valency", "Electronegativity"],
+      "correct": 0
+    },
+    {
+      "question": "How many elements are there in 4th period?",
+      "options": ["8", "18", "32", "20"],
+      "correct": 1
+    },
+    {
+      "question": "Group number of an element with configuration ns²np⁵ is:",
+      "options": ["15", "16", "17", "18"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is not a noble gas?",
+      "options": ["Ne", "He", "Ar", "N"],
+      "correct": 3
+    },
+    {
+      "question": "Which element shows highest ionization enthalpy?",
+      "options": ["Li", "Be", "B", "He"],
+      "correct": 3
+    },
+    {
+      "question": "The outermost configuration of alkali metals is:",
+      "options": ["ns²", "ns¹", "np⁵", "np⁶"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a periodic property?",
+      "options": ["Ionization energy", "Atomic radius", "Density", "Electron affinity"],
+      "correct": 2
+    },
+    {
+      "question": "Which element in period 3 has highest metallic character?",
+      "options": ["Na", "Mg", "Al", "Si"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following properties increases from left to right in a period?",
+      "options": ["Metallic character", "Atomic size", "Electronegativity", "Density"],
+      "correct": 2
+    },
+    {
+      "question": "Which group contains elements with ns²np⁶ configuration?",
+      "options": ["Group 16", "Group 17", "Group 18", "Group 15"],
+      "correct": 2
+    },
+    {
+      "question": "Elements in the same group have:",
+      "options": ["Same atomic number", "Same valence electrons", "Same number of shells", "Same mass"],
+      "correct": 1
+    },
+    {
+      "question": "Down a group, electronegativity:",
+      "options": ["Increases", "Decreases", "Fluctuates", "Remains constant"],
+      "correct": 1
+    },
+    {
+      "question": "Ionization energy is maximum for:",
+      "options": ["F", "Cl", "He", "O"],
+      "correct": 2
+    },
+    {
+      "question": "Which block elements show variable oxidation states?",
+      "options": ["s-block", "p-block", "d-block", "f-block"],
+      "correct": 2
+    }
+  ]
+}

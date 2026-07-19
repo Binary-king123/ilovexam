@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Where does spermatogenesis occur in the human male?",
+      "options": ["Epididymis", "Vas deferens", "Seminiferous tubules", "Prostate gland"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone stimulates Leydig cells to produce testosterone?",
+      "options": ["FSH", "LH", "Estrogen", "Prolactin"],
+      "correct": 1
+    },
+    {
+      "question": "Which part of the sperm contains enzymes to penetrate the egg?",
+      "options": ["Middle piece", "Tail", "Head", "Acrosome"],
+      "correct": 3
+    },
+    {
+      "question": "Which structure stores and matures sperm?",
+      "options": ["Testis", "Epididymis", "Vas deferens", "Seminal vesicle"],
+      "correct": 1
+    },
+    {
+      "question": "The female gamete is released from:",
+      "options": ["Uterus", "Ovary", "Oviduct", "Vagina"],
+      "correct": 1
+    },
+    {
+      "question": "Which layer of uterus is responsible for contraction during delivery?",
+      "options": ["Endometrium", "Myometrium", "Perimetrium", "Ectometrium"],
+      "correct": 1
+    },
+    {
+      "question": "The release of the ovum is known as:",
+      "options": ["Menstruation", "Fertilization", "Ovulation", "Implantation"],
+      "correct": 2
+    },
+    {
+      "question": "What is the chromosomal pattern in human male?",
+      "options": ["XX", "XY", "YY", "XO"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone peaks just before ovulation?",
+      "options": ["FSH", "Progesterone", "LH", "Estrogen"],
+      "correct": 2
+    },
+    {
+      "question": "In females, oogenesis begins:",
+      "options": ["Before birth", "At puberty", "At fertilization", "After menopause"],
+      "correct": 0
+    },
+    {
+      "question": "What is the function of Sertoli cells?",
+      "options": ["Produce sperm", "Produce testosterone", "Support spermatogenesis", "Store sperm"],
+      "correct": 2
+    },
+    {
+      "question": "Fertilization usually occurs in:",
+      "options": ["Vagina", "Uterus", "Fallopian tube", "Ovary"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of sperm contains mitochondria?",
+      "options": ["Head", "Tail", "Middle piece", "Acrosome"],
+      "correct": 2
+    },
+    {
+      "question": "Corpus luteum secretes:",
+      "options": ["Estrogen", "FSH", "Progesterone", "LH"],
+      "correct": 2
+    },
+    {
+      "question": "Implantation of embryo occurs in:",
+      "options": ["Ovary", "Fallopian tube", "Cervix", "Uterus"],
+      "correct": 3
+    },
+    {
+      "question": "The hormone responsible for milk ejection is:",
+      "options": ["Prolactin", "Oxytocin", "Estrogen", "LH"],
+      "correct": 1
+    },
+    {
+      "question": "The male accessory glands include all EXCEPT:",
+      "options": ["Prostate", "Bulbourethral", "Seminal vesicle", "Thyroid"],
+      "correct": 3
+    },
+    {
+      "question": "Meiosis II in oogenesis is completed:",
+      "options": ["Before ovulation", "After ovulation", "After fertilization", "Before puberty"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone maintains pregnancy?",
+      "options": ["LH", "Progesterone", "Oxytocin", "FSH"],
+      "correct": 1
+    },
+    {
+      "question": "The duration of the human menstrual cycle is approximately:",
+      "options": ["14 days", "21 days", "28 days", "35 days"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of the fallopian tube receives the ovum first?",
+      "options": ["Ampulla", "Isthmus", "Infundibulum", "Fimbriae"],
+      "correct": 3
+    },
+    {
+      "question": "The fluid part of semen is secreted by:",
+      "options": ["Testes", "Seminal vesicles", "Vas deferens", "Penis"],
+      "correct": 1
+    },
+    {
+      "question": "How many chromosomes are present in a secondary oocyte?",
+      "options": ["23", "46", "44", "22"],
+      "correct": 0
+    },
+    {
+      "question": "Graafian follicle ruptures during:",
+      "options": ["Menstruation", "Ovulation", "Fertilization", "Implantation"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a male external genital organ?",
+      "options": ["Testes", "Penis", "Vas deferens", "Epididymis"],
+      "correct": 1
+    },
+    {
+      "question": "Zona pellucida is found around:",
+      "options": ["Sperm", "Zygote", "Ovum", "Embryo"],
+      "correct": 2
+    },
+    {
+      "question": "Which layer of uterus sheds during menstruation?",
+      "options": ["Myometrium", "Endometrium", "Perimetrium", "Ectometrium"],
+      "correct": 1
+    },
+    {
+      "question": "The correct sequence in oogenesis is:",
+      "options": ["Oogonia → Ovum → Primary oocyte", "Oogonia → Primary oocyte → Ovum", "Ovum → Oogonia → Primary oocyte", "Primary oocyte → Oogonia → Ovum"],
+      "correct": 1
+    },
+    {
+      "question": "The structure that connects fetus to placenta is:",
+      "options": ["Uterus", "Amnion", "Umbilical cord", "Chorion"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a sexually transmitted disease?",
+      "options": ["Syphilis", "AIDS", "Hepatitis B", "Typhoid"],
+      "correct": 3
+    },
+    {
+      "question": "During which phase does ovulation occur?",
+      "options": ["Menstrual phase", "Luteal phase", "Follicular phase", "Between follicular and luteal"],
+      "correct": 3
+    },
+    {
+      "question": "The process of sperm formation is called:",
+      "options": ["Spermiogenesis", "Spermatogenesis", "Oogenesis", "Fertilization"],
+      "correct": 1
+    },
+    {
+      "question": "The term 'parturition' refers to:",
+      "options": ["Fertilization", "Implantation", "Delivery of baby", "Embryo formation"],
+      "correct": 2
+    },
+    {
+      "question": "Which structure is cut during vasectomy?",
+      "options": ["Urethra", "Seminal vesicle", "Vas deferens", "Penis"],
+      "correct": 2
+    },
+    {
+      "question": "The sperm tail is derived from:",
+      "options": ["Centriole", "Golgi body", "Nucleus", "Mitochondria"],
+      "correct": 0
+    },
+    {
+      "question": "When is the female most fertile during menstrual cycle?",
+      "options": ["Day 1–5", "Day 6–10", "Day 11–17", "Day 20–28"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is NOT part of male reproductive system?",
+      "options": ["Seminal vesicle", "Epididymis", "Ovary", "Vas deferens"],
+      "correct": 2
+    },
+    {
+      "question": "Progesterone is secreted by:",
+      "options": ["Corpus luteum", "Graafian follicle", "Ovary cortex", "Endometrium"],
+      "correct": 0
+    },
+    {
+      "question": "How many polar bodies are formed during oogenesis?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "Fertilized egg is called:",
+      "options": ["Ovum", "Zygote", "Embryo", "Blastula"],
+      "correct": 1
+    },
+    {
+      "question": "Which is the first hormone to peak after fertilization?",
+      "options": ["LH", "Progesterone", "hCG", "Estrogen"],
+      "correct": 2
+    },
+    {
+      "question": "Embryo is implanted in uterus during which day post fertilization?",
+      "options": ["Day 1", "Day 3", "Day 7", "Day 14"],
+      "correct": 2
+    },
+    {
+      "question": "The outermost fetal membrane is:",
+      "options": ["Amnion", "Chorion", "Allantois", "Yolk sac"],
+      "correct": 1
+    },
+    {
+      "question": "Menopause marks the end of:",
+      "options": ["Puberty", "Menstrual cycle", "Oogenesis", "Menstruation"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone stimulates milk production?",
+      "options": ["Oxytocin", "Prolactin", "LH", "FSH"],
+      "correct": 1
+    },
+    {
+      "question": "What is the chromosomal number in a zygote?",
+      "options": ["23", "46", "69", "92"],
+      "correct": 1
+    },
+    {
+      "question": "Which among the following is not an accessory gland?",
+      "options": ["Prostate", "Seminal vesicle", "Cowper’s gland", "Urethra"],
+      "correct": 3
+    },
+    {
+      "question": "Which hormone increases just before parturition?",
+      "options": ["Progesterone", "Estrogen", "Oxytocin", "hCG"],
+      "correct": 2
+    },
+    {
+      "question": "What prevents polyspermy in humans?",
+      "options": ["Zona pellucida hardening", "Corona radiata thickening", "Acrosomal reaction", "Mitochondrial energy block"],
+      "correct": 0
+    }
+  ]
+}

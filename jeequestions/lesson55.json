@@ -1,0 +1,259 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a disaccharide?",
+      "options": ["Glucose", "Fructose", "Sucrose", "Ribose"],
+      "correct": 2
+    },
+    {
+      "question": "The basic unit of proteins is:",
+      "options": ["Monosaccharide", "Nucleotide", "Fatty acid", "Amino acid"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a reducing sugar?",
+      "options": ["Glucose", "Sucrose", "Starch", "Cellulose"],
+      "correct": 0
+    },
+    {
+      "question": "Which vitamin is water-soluble?",
+      "options": ["A", "D", "C", "E"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following contains a glycosidic linkage?",
+      "options": ["Protein", "DNA", "Starch", "Fat"],
+      "correct": 2
+    },
+    {
+      "question": "The number of peptide bonds in a tripeptide is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a non-reducing sugar?",
+      "options": ["Glucose", "Maltose", "Lactose", "Sucrose"],
+      "correct": 3
+    },
+    {
+      "question": "Which carbohydrate is known as fruit sugar?",
+      "options": ["Glucose", "Fructose", "Galactose", "Ribose"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a fibrous protein?",
+      "options": ["Insulin", "Myosin", "Keratin", "Albumin"],
+      "correct": 2
+    },
+    {
+      "question": "Which bond is present in protein structure?",
+      "options": ["Ester", "Glycosidic", "Peptide", "Phosphodiester"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a nucleotide base in RNA but not in DNA?",
+      "options": ["Thymine", "Cytosine", "Adenine", "Uracil"],
+      "correct": 3
+    },
+    {
+      "question": "Which enzyme breaks down starch into maltose?",
+      "options": ["Lactase", "Maltase", "Amylase", "Invertase"],
+      "correct": 2
+    },
+    {
+      "question": "A nucleotide is composed of:",
+      "options": ["Base + Sugar", "Base + Phosphate", "Sugar + Phosphate", "Base + Sugar + Phosphate"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a derived protein?",
+      "options": ["Albumin", "Globulin", "Peptone", "Casein"],
+      "correct": 2
+    },
+    {
+      "question": "The deficiency of vitamin B1 causes:",
+      "options": ["Scurvy", "Rickets", "Beri-beri", "Pellagra"],
+      "correct": 2
+    },
+    {
+      "question": "Invert sugar is a mixture of:",
+      "options": ["Glucose + Galactose", "Glucose + Fructose", "Maltose + Lactose", "Sucrose + Fructose"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a component of DNA?",
+      "options": ["Deoxyribose", "Uracil", "Phosphate", "Adenine"],
+      "correct": 1
+    },
+    {
+      "question": "The structure of α-D-glucose is:",
+      "options": ["Linear", "Branched", "Cyclic", "Tetrahedral"],
+      "correct": 2
+    },
+    {
+      "question": "Cellulose is made up of:",
+      "options": ["α-glucose", "β-glucose", "Fructose", "Galactose"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a storage polysaccharide in animals?",
+      "options": ["Cellulose", "Starch", "Glycogen", "Agar"],
+      "correct": 2
+    },
+    {
+      "question": "Denaturation of proteins leads to:",
+      "options": ["New peptide bonds", "Loss of biological activity", "Hydrolysis", "Polymerization"],
+      "correct": 1
+    },
+    {
+      "question": "Which is the sweetest sugar?",
+      "options": ["Glucose", "Sucrose", "Fructose", "Lactose"],
+      "correct": 2
+    },
+    {
+      "question": "The vitamin which contains cobalt is:",
+      "options": ["Vitamin B12", "Vitamin D", "Vitamin C", "Vitamin B1"],
+      "correct": 0
+    },
+    {
+      "question": "Amino acids are classified based on:",
+      "options": ["Length", "Color", "Structure of side chain", "Weight"],
+      "correct": 2
+    },
+    {
+      "question": "Which vitamin helps in blood clotting?",
+      "options": ["Vitamin A", "Vitamin K", "Vitamin D", "Vitamin E"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a function of carbohydrates?",
+      "options": ["Energy source", "Storage", "Genetic material", "Structure"],
+      "correct": 2
+    },
+    {
+      "question": "Which component is common in all amino acids?",
+      "options": ["–OH", "–NH2", "–SH", "–COH"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a pentose sugar?",
+      "options": ["Fructose", "Ribose", "Glucose", "Galactose"],
+      "correct": 1
+    },
+    {
+      "question": "The linkage between glucose units in starch is:",
+      "options": ["α(1→4)", "β(1→4)", "α(1→6)", "β(1→6)"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following proteins is involved in oxygen transport?",
+      "options": ["Myosin", "Hemoglobin", "Keratin", "Collagen"],
+      "correct": 1
+    },
+    {
+      "question": "Number of stereocenters in glucose is:",
+      "options": ["2", "3", "4", "5"],
+      "correct": 2
+    },
+    {
+      "question": "Which vitamin prevents scurvy?",
+      "options": ["Vitamin D", "Vitamin B", "Vitamin C", "Vitamin E"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a basic amino acid?",
+      "options": ["Glutamic acid", "Aspartic acid", "Lysine", "Serine"],
+      "correct": 2
+    },
+    {
+      "question": "Glycosidic linkage is formed between:",
+      "options": ["Amino acids", "Nucleotides", "Sugars", "Bases"],
+      "correct": 2
+    },
+    {
+      "question": "The sugar found in milk is:",
+      "options": ["Lactose", "Glucose", "Fructose", "Sucrose"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not a reducing sugar?",
+      "options": ["Maltose", "Lactose", "Sucrose", "Glucose"],
+      "correct": 2
+    },
+    {
+      "question": "Which bond is broken during hydrolysis of proteins?",
+      "options": ["Ester", "Glycosidic", "Peptide", "Phosphodiester"],
+      "correct": 2
+    },
+    {
+      "question": "α-helix is a type of:",
+      "options": ["Primary structure", "Secondary structure", "Tertiary structure", "Quaternary structure"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a sulphur containing amino acid?",
+      "options": ["Valine", "Methionine", "Lysine", "Aspartic acid"],
+      "correct": 1
+    },
+    {
+      "question": "The nucleotide base not found in RNA is:",
+      "options": ["Adenine", "Uracil", "Guanine", "Thymine"],
+      "correct": 3
+    },
+    {
+      "question": "Which base is complementary to cytosine in DNA?",
+      "options": ["Adenine", "Uracil", "Thymine", "Guanine"],
+      "correct": 3
+    },
+    {
+      "question": "DNA differs from RNA by:",
+      "options": ["Base composition", "Sugar", "Structure", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Polysaccharide which gives blue color with iodine is:",
+      "options": ["Glycogen", "Starch", "Cellulose", "Maltose"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has no nitrogen?",
+      "options": ["Protein", "Vitamin", "Carbohydrate", "Nucleic acid"],
+      "correct": 2
+    },
+    {
+      "question": "Insulin is a:",
+      "options": ["Lipid", "Carbohydrate", "Protein", "Vitamin"],
+      "correct": 2
+    },
+    {
+      "question": "Which vitamin is synthesized in skin?",
+      "options": ["Vitamin A", "Vitamin D", "Vitamin B1", "Vitamin C"],
+      "correct": 1
+    },
+    {
+      "question": "Nucleoside is:",
+      "options": ["Sugar + Base", "Sugar + Phosphate", "Base + Phosphate", "Sugar + Base + Phosphate"],
+      "correct": 0
+    },
+    {
+      "question": "DNA is mainly found in:",
+      "options": ["Ribosomes", "Nucleus", "Mitochondria", "Cytoplasm"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is amphoteric?",
+      "options": ["Amino acid", "Sugar", "Vitamin", "Fatty acid"],
+      "correct": 0
+    },
+    {
+      "question": "Which vitamin deficiency causes night blindness?",
+      "options": ["Vitamin A", "Vitamin D", "Vitamin E", "Vitamin K"],
+      "correct": 0
+    },
+    {
+      "question": "Collagen is found in:",
+      "options": ["Bones", "Hair", "Muscles", "Skin"],
+      "correct": 3
+    }
+  ]
+}

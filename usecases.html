@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="alternate icon" href="favicon.png" type="image/png" />
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title><i class="bi bi-heart-fill text-danger"></i> I Love Exams - Use Cases</title>
+  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet"/>
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"/>
+  
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f8f9fa;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+      font-weight: 600;
+    }
+    .usecase-section {
+      padding: 60px 15px;
+    }
+    .usecase-card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+      padding: 30px;
+      transition: all 0.3s ease;
+      text-align: center;
+    }
+    .usecase-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+    }
+    .usecase-icon {
+      font-size: 40px;
+      color: #0066cc;
+      margin-bottom: 20px;
+    }
+    .step-line {
+      width: 5px;
+      background: linear-gradient(to bottom, #0066cc, #00c6ff);
+      border-radius: 5px;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      height: 100%;
+      z-index: -1;
+    }
+    footer {
+      background: #003366;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      margin-top: 60px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <i class="bi bi-heart-fill text-danger"></i> I Love Exams - Use Cases
+  </header>
+
+  <section class="usecase-section position-relative container">
+    <div class="step-line"></div>
+    <div class="row g-5 justify-content-center">
+      
+      <!-- Students -->
+      <div class="col-md-5" data-aos="fade-up">
+        <div class="usecase-card">
+          <div class="usecase-icon"><i class="fas fa-user-graduate"></i></div>
+          <h4>For Students</h4>
+          <p>Experience real NEET, JEE, CUET, and SAT exam simulations with timers, instant results, and secure anti-cheat features.</p>
+        </div>
+      </div>
+      
+      <!-- Coaching Institutes -->
+      <div class="col-md-5" data-aos="fade-up" data-aos-delay="150">
+        <div class="usecase-card">
+          <div class="usecase-icon"><i class="fas fa-school"></i></div>
+          <h4>For Coaching Institutes</h4>
+          <p>Conduct secure online mock tests, monitor student performance, and generate reports with zero manual effort.</p>
+        </div>
+      </div>
+      
+      <!-- Teachers & Tutors -->
+      <div class="col-md-5" data-aos="fade-up" data-aos-delay="300">
+        <div class="usecase-card">
+          <div class="usecase-icon"><i class="fas fa-chalkboard-teacher"></i></div>
+          <h4>For Teachers & Tutors</h4>
+          <p>Create your own test series, upload question banks, and track students’ accuracy and speed with automated evaluation.</p>
+        </div>
+      </div>
+      
+      <!-- Competitive Exam Aspirants Abroad -->
+      <div class="col-md-5" data-aos="fade-up" data-aos-delay="450">
+        <div class="usecase-card">
+          <div class="usecase-icon"><i class="fas fa-globe"></i></div>
+          <h4>For Global Aspirants</h4>
+          <p>Access mock exams anytime, anywhere with PWA offline support. Perfect for students preparing abroad.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 I Love Exams | Empowering Students to Excel
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init({ duration: 800, once: true });
+  </script>
+</body>
+</html>

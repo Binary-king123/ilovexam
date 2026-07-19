@@ -1,0 +1,354 @@
+{
+  "test": [
+    {
+      "question": "The limit of a function f(x) as x approaches a is defined as:",
+      "options": [
+        "The value of f(x) at x = a",
+        "The value f(x) approaches as x tends to a",
+        "The derivative of f(x) at x = a",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If lim(x→a) f(x) = L and lim(x→a) g(x) = M, then lim(x→a) [f(x) + g(x)] is:",
+      "options": ["L + M", "L - M", "LM", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The function f(x) = 1/x has a limit at x = 0:",
+      "options": ["Exists", "Does not exist", "Is zero", "Is infinity"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following functions is continuous at x = 0?",
+      "options": [
+        "f(x) = sin(x)/x",
+        "f(x) = 1/x",
+        "f(x) = |x|",
+        "f(x) = 1 when x = 0, else 0"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The derivative of a constant function is:",
+      "options": ["Zero", "One", "The constant itself", "Does not exist"],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = xⁿ is:",
+      "options": ["nxⁿ⁻¹", "xⁿ", "n", "1"],
+      "correct": 0
+    },
+    {
+      "question": "If y = sin x, then dy/dx is:",
+      "options": ["cos x", "-cos x", "sin x", "-sin x"],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = eˣ is:",
+      "options": ["eˣ", "xeˣ", "x", "1"],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of ln x is:",
+      "options": ["1/x", "ln x", "x", "0"],
+      "correct": 0
+    },
+    {
+      "question": "The slope of the tangent to y = x² at x = 2 is:",
+      "options": ["4", "2", "1", "0"],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = tan x is:",
+      "options": ["sec² x", "cos² x", "sin x", "-sec² x"],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = sin² x is:",
+      "options": ["2 sin x cos x", "sin x", "cos x", "2 cos x sin x"],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of product f(x)g(x) is:",
+      "options": [
+        "f'(x)g(x) + f(x)g'(x)",
+        "f'(x)g'(x)",
+        "f(x)g(x)",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x)/g(x) is:",
+      "options": [
+        "(f'(x)g(x) - f(x)g'(x)) / [g(x)]²",
+        "(f'(x)g'(x)) / g(x)",
+        "f'(x) / g'(x)",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The chain rule is used to differentiate:",
+      "options": [
+        "Composite functions",
+        "Product of functions",
+        "Quotient of functions",
+        "Polynomial functions"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If y = sin(x²), then dy/dx is:",
+      "options": [
+        "2x cos(x²)",
+        "cos(x²)",
+        "sin(2x)",
+        "2 sin x"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The second derivative of y = x³ is:",
+      "options": [
+        "6x",
+        "3x²",
+        "x",
+        "0"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = logₐ x is:",
+      "options": [
+        "1 / (x ln a)",
+        "1/x",
+        "ln x",
+        "aˣ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of an even function is:",
+      "options": [
+        "An odd function",
+        "An even function",
+        "Neither even nor odd",
+        "Zero"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of an odd function is:",
+      "options": [
+        "An even function",
+        "An odd function",
+        "Neither even nor odd",
+        "Zero"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The function f(x) = |x| is differentiable at x = 0:",
+      "options": [
+        "False",
+        "True",
+        "Sometimes",
+        "Cannot say"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If f'(x) = 0 for all x, then f(x) is:",
+      "options": [
+        "Constant",
+        "Linear",
+        "Quadratic",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If y = e^{3x}, then dy/dx is:",
+      "options": [
+        "3e^{3x}",
+        "e^{3x}",
+        "3x e^{3x}",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = cos x is:",
+      "options": [
+        "-sin x",
+        "sin x",
+        "cos x",
+        "-cos x"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = sin⁻¹ x is:",
+      "options": [
+        "1 / √(1 - x²)",
+        "-1 / √(1 - x²)",
+        "1 / (1 + x²)",
+        "-1 / (1 + x²)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = tan⁻¹ x is:",
+      "options": [
+        "1 / (1 + x²)",
+        "-1 / (1 + x²)",
+        "1 / √(1 - x²)",
+        "-1 / √(1 - x²)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = cot x is:",
+      "options": [
+        "-csc² x",
+        "csc² x",
+        "-sec² x",
+        "sec² x"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = ln(sin x), then f'(x) is:",
+      "options": [
+        "cot x",
+        "tan x",
+        "sec x",
+        "csc x"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = aˣ (a > 0, a ≠ 1) is:",
+      "options": [
+        "aˣ ln a",
+        "x a^{x-1}",
+        "aˣ",
+        "ln x"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The differential coefficient of x³ at x = 1 is:",
+      "options": [
+        "3",
+        "1",
+        "0",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The function f(x) = x² sin x is differentiated using:",
+      "options": [
+        "Product rule",
+        "Chain rule",
+        "Quotient rule",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = sin(3x² + 1) is:",
+      "options": [
+        "6x cos(3x² + 1)",
+        "3x² cos(3x² + 1)",
+        "cos(3x² + 1)",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = (x² + 1)⁵, then f'(x) is:",
+      "options": [
+        "10x (x² + 1)⁴",
+        "5 (x² + 1)⁴",
+        "2x (x² + 1)⁵",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = x sin x is:",
+      "options": [
+        "sin x + x cos x",
+        "cos x",
+        "x cos x",
+        "sin x"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If y = ln(x² + 1), then dy/dx is:",
+      "options": [
+        "2x / (x² + 1)",
+        "ln 2x",
+        "1 / (x² + 1)",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of f(x) = e^{sin x} is:",
+      "options": [
+        "e^{sin x} cos x",
+        "sin x e^{cos x}",
+        "cos x e^{sin x}",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The function f(x) = |x| is differentiable everywhere except:",
+      "options": [
+        "x = 0",
+        "x = 1",
+        "x = -1",
+        "Everywhere"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = x^{x}, then f'(x) is:",
+      "options": [
+        "x^{x} (1 + ln x)",
+        "x^{x - 1}",
+        "x^{x} ln x",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The limit lim(x→0) (sin x)/x is:",
+      "options": [
+        "1",
+        "0",
+        "Undefined",
+        "Infinity"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The limit lim(x→0) (1 − cos x)/x² is:",
+      "options": [
+        "1/2",
+        "0",
+        "1",
+        "Infinity"
+      ],
+      "correct": 0
+    }
+  ]
+}

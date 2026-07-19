@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The SI unit of magnetic dipole moment is:",
+      "options": ["A·m", "A·m²", "Wb·m", "J/T"],
+      "correct": 1
+    },
+    {
+      "question": "Magnetic field lines:",
+      "options": ["Start and end on charges", "Are discontinuous", "Form closed loops", "Never intersect electric field lines"],
+      "correct": 2
+    },
+    {
+      "question": "A bar magnet is equivalent to:",
+      "options": ["An electric dipole", "Two electric charges", "A current loop", "A magnetic monopole"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a unit of magnetic field?",
+      "options": ["Tesla", "Gauss", "Weber", "Oersted"],
+      "correct": 2
+    },
+    {
+      "question": "Earth’s magnetic field is due to:",
+      "options": ["Magnetized rocks", "Induced current", "Cosmic rays", "Motion of molten iron in the core"],
+      "correct": 3
+    },
+    {
+      "question": "The angle between magnetic meridian and geographical meridian is called:",
+      "options": ["Declination", "Inclination", "Dip", "Latitude"],
+      "correct": 0
+    },
+    {
+      "question": "The angle made by the earth's magnetic field with the horizontal is:",
+      "options": ["Declination", "Inclination", "Latitude", "Altitude"],
+      "correct": 1
+    },
+    {
+      "question": "The horizontal component of earth's magnetic field is zero at:",
+      "options": ["Equator", "Magnetic equator", "Magnetic poles", "Tropic of Cancer"],
+      "correct": 2
+    },
+    {
+      "question": "If M is magnetic moment and B is magnetic field, then torque on the dipole is:",
+      "options": ["M·B", "M × B", "MB", "MB²"],
+      "correct": 1
+    },
+    {
+      "question": "Magnetic susceptibility of diamagnetic materials is:",
+      "options": ["Positive and large", "Negative and small", "Zero", "Positive and small"],
+      "correct": 1
+    },
+    {
+      "question": "Which material is strongly repelled by a magnetic field?",
+      "options": ["Paramagnetic", "Ferromagnetic", "Diamagnetic", "Antiferromagnetic"],
+      "correct": 2
+    },
+    {
+      "question": "A magnetic material with high retentivity is best suited for:",
+      "options": ["Temporary magnets", "Electromagnets", "Permanent magnets", "Transformers"],
+      "correct": 2
+    },
+    {
+      "question": "The magnetic moment of a solenoid depends on:",
+      "options": ["Number of turns", "Current", "Area of cross-section", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Curie temperature is the temperature above which:",
+      "options": ["A magnet loses all its mass", "A ferromagnetic material becomes paramagnetic", "Magnetism becomes infinite", "A diamagnet becomes paramagnetic"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following substances is not magnetic?",
+      "options": ["Iron", "Cobalt", "Copper", "Nickel"],
+      "correct": 2
+    },
+    {
+      "question": "Which type of magnetism shows hysteresis?",
+      "options": ["Diamagnetism", "Paramagnetism", "Ferromagnetism", "All"],
+      "correct": 2
+    },
+    {
+      "question": "A freely suspended bar magnet always points in the:",
+      "options": ["North-south direction", "East-west direction", "Random direction", "Vertical direction"],
+      "correct": 0
+    },
+    {
+      "question": "The net magnetic moment of an atom is due to:",
+      "options": ["Nucleus only", "Orbital motion of electrons", "Spin and orbital motion of electrons", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The unit of magnetic flux is:",
+      "options": ["Weber", "Tesla", "Gauss", "Henry"],
+      "correct": 0
+    },
+    {
+      "question": "Which material can be easily magnetized and demagnetized?",
+      "options": ["Soft iron", "Steel", "Cobalt", "Nickel"],
+      "correct": 0
+    },
+    {
+      "question": "The susceptibility of a paramagnetic material is:",
+      "options": ["Negative", "Positive", "Zero", "Always one"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following shows ferromagnetism?",
+      "options": ["Aluminium", "Copper", "Nickel", "Bismuth"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is correct for diamagnetic substances?",
+      "options": ["μr < 1", "μr = 1", "μr > 1", "μr = 0"],
+      "correct": 0
+    },
+    {
+      "question": "Relative permeability of a vacuum is:",
+      "options": ["0", "1", ">1", "<1"],
+      "correct": 1
+    },
+    {
+      "question": "Permanent magnets are made of:",
+      "options": ["Soft iron", "Steel", "Silver", "Lead"],
+      "correct": 1
+    },
+    {
+      "question": "Retentivity of a material is the measure of:",
+      "options": ["Conductivity", "Resistance", "Residual magnetism", "Permeability"],
+      "correct": 2
+    },
+    {
+      "question": "Hysteresis loop is used to determine:",
+      "options": ["Voltage", "Power", "Magnetization behavior", "Current"],
+      "correct": 2
+    },
+    {
+      "question": "Which among the following has the highest coercivity?",
+      "options": ["Steel", "Soft iron", "Copper", "Aluminium"],
+      "correct": 0
+    },
+    {
+      "question": "Bohr magneton is the unit of:",
+      "options": ["Current", "Magnetic moment", "Electric field", "Electric potential"],
+      "correct": 1
+    },
+    {
+      "question": "Magnetic moment of a current loop is a vector directed along:",
+      "options": ["Perpendicular to the loop", "Parallel to the loop", "In the plane of the loop", "Opposite to current"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a vector quantity?",
+      "options": ["Magnetic moment", "Magnetic field", "Magnetic flux", "Force"],
+      "correct": 2
+    },
+    {
+      "question": "The SI unit of magnetic intensity H is:",
+      "options": ["A/m", "A·m", "T", "Wb/m²"],
+      "correct": 0
+    },
+    {
+      "question": "The product of pole strength and distance between poles is called:",
+      "options": ["Torque", "Magnetic dipole moment", "Flux", "Field strength"],
+      "correct": 1
+    },
+    {
+      "question": "The tangent law is applicable for:",
+      "options": ["Bar magnets", "Two perpendicular magnetic fields", "Hysteresis", "Dipole radiation"],
+      "correct": 1
+    },
+    {
+      "question": "A small magnet is kept in a uniform magnetic field. It will:",
+      "options": ["Translate only", "Rotate only", "Rotate and translate", "Stay in same place"],
+      "correct": 2
+    },
+    {
+      "question": "The magnetic flux through a closed surface is:",
+      "options": ["Zero", "Maximum", "Minimum", "Equal to surface area"],
+      "correct": 0
+    },
+    {
+      "question": "In SI, 1 Gauss =",
+      "options": ["10⁻⁴ T", "10⁻² T", "1 T", "10⁴ T"],
+      "correct": 0
+    },
+    {
+      "question": "Which property of magnetism shows lagging behind magnetizing field?",
+      "options": ["Susceptibility", "Hysteresis", "Coercivity", "Retentivity"],
+      "correct": 1
+    },
+    {
+      "question": "When a magnetic needle is kept in a non-uniform magnetic field, it experiences:",
+      "options": ["Only force", "Only torque", "Both torque and force", "Neither"],
+      "correct": 2
+    },
+    {
+      "question": "The earth’s magnetic field behaves like a field due to:",
+      "options": ["Monopole", "Dipole", "Loop", "Solenoid"],
+      "correct": 1
+    },
+    {
+      "question": "If a bar magnet is cut into two equal parts, the magnetic moment of each part is:",
+      "options": ["Same as original", "Half of original", "Double", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "Paramagnetic materials obey:",
+      "options": ["Curie’s law", "Ampere's law", "Gauss’s law", "Faraday’s law"],
+      "correct": 0
+    },
+    {
+      "question": "In which material do magnetic domains form?",
+      "options": ["Diamagnetic", "Paramagnetic", "Ferromagnetic", "Non-magnetic"],
+      "correct": 2
+    },
+    {
+      "question": "A magnetic dipole in a uniform magnetic field will experience:",
+      "options": ["Only torque", "Only force", "Both", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Direction of magnetic lines inside a bar magnet is from:",
+      "options": ["South to North", "North to South", "Pole to center", "Equator to pole"],
+      "correct": 1
+    },
+    {
+      "question": "A ferromagnetic material becomes paramagnetic at:",
+      "options": ["Curie temperature", "Melting point", "Boiling point", "Freezing point"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is paramagnetic?",
+      "options": ["Aluminium", "Copper", "Silver", "Lead"],
+      "correct": 0
+    },
+    {
+      "question": "A compass needle works on the principle of:",
+      "options": ["Electrostatics", "Lorentz force", "Earth’s magnetic field", "Induction"],
+      "correct": 2
+    }
+  ]
+}

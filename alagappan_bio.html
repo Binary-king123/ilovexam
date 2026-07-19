@@ -1,0 +1,1191 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="alternate icon" href="favicon.png" type="image/png" />
+  <meta charset="UTF-8" />
+  <title>Projects | Alagappan V – iLoveExams & More</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta
+    name="description"
+    content="Projects by Alagappan V – creator of ilovedesi.fun, desktop overlay tools, blockchain apps, and ML-based object detection."
+  />
+  <style>
+    :root {
+      --bg: #050816;
+      --bg-soft: #0b1020;
+      --card: #101528;
+      --accent: #ff6b3d;
+      --accent-soft: rgba(255, 107, 61, 0.1);
+      --accent-2: #36cfc9;
+      --text-main: #f9fafb;
+      --text-muted: #9ca3af;
+      --border-subtle: rgba(148, 163, 184, 0.2);
+      --shadow-soft: 0 18px 45px rgba(15, 23, 42, 0.9);
+      --radius-xl: 22px;
+      --radius-pill: 999px;
+      --transition-fast: 180ms ease-out;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        sans-serif;
+      background: radial-gradient(circle at top, #111827 0, #020617 45%, #000 100%);
+      color: var(--text-main);
+      min-height: 100vh;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .page-wrapper {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      backdrop-filter: blur(18px);
+      background: linear-gradient(
+        to bottom,
+        rgba(2, 6, 23, 0.95),
+        rgba(2, 6, 23, 0.7),
+        transparent
+      );
+      border-bottom: 1px solid rgba(148, 163, 184, 0.2);
+    }
+
+    .nav {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 14px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .brand-logo {
+      width: 34px;
+      height: 34px;
+      border-radius: 14px;
+      background: radial-gradient(circle at 30% 10%, #fbbf24, #ef4444 40%, #3b82f6);
+      position: relative;
+      box-shadow: 0 0 25px rgba(59, 130, 246, 0.6);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 20px;
+      color: #0b1020;
+    }
+
+    .brand-text {
+      display: flex;
+      flex-direction: column;
+      gap: 1px;
+    }
+
+    .brand-text-main {
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      font-size: 18px;
+    }
+
+    .brand-text-sub {
+      font-size: 11px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      font-size: 13px;
+      color: var(--text-muted);
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      color: var(--text-muted);
+      padding: 6px 10px;
+      border-radius: var(--radius-pill);
+      transition: background var(--transition-fast), color var(--transition-fast),
+        transform var(--transition-fast);
+    }
+
+    .nav-links a:hover {
+      background: rgba(15, 23, 42, 0.95);
+      color: #e5e7eb;
+      transform: translateY(-1px);
+    }
+
+    .nav-links a.primary-link {
+      color: var(--accent);
+      border: 1px solid rgba(248, 113, 113, 0.7);
+      background: radial-gradient(circle at top left, #1f2937, #020617);
+      box-shadow: 0 10px 25px rgba(15, 23, 42, 0.9);
+      padding: 7px 14px;
+    }
+
+    .nav-links a.primary-link:hover {
+      background: radial-gradient(circle at top left, #ef4444, #020617);
+      color: #fff7ed;
+      box-shadow: 0 16px 40px rgba(15, 23, 42, 0.95);
+    }
+
+    main {
+      flex: 1;
+    }
+
+    .section {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 24px 18px 72px;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr);
+      gap: 36px;
+      align-items: center;
+      padding-top: 24px;
+    }
+
+    @media (max-width: 900px) {
+      .hero {
+        grid-template-columns: minmax(0, 1fr);
+        padding-top: 16px;
+      }
+    }
+
+    .hero-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(15, 23, 42, 0.9);
+      border-radius: var(--radius-pill);
+      padding: 4px 10px 4px 4px;
+      border: 1px solid rgba(148, 163, 184, 0.5);
+      margin-bottom: 18px;
+      box-shadow: 0 14px 35px rgba(15, 23, 42, 0.7);
+    }
+
+    .hero-tag-pill {
+      padding: 4px 9px;
+      border-radius: var(--radius-pill);
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      background: radial-gradient(circle at 30% 0, #22c55e, #0f172a);
+      color: #ecfdf5;
+    }
+
+    .hero-tag-text {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .hero-title {
+      font-size: clamp(30px, 4vw, 38px);
+      font-weight: 800;
+      letter-spacing: 0.02em;
+      margin-bottom: 10px;
+    }
+
+    .hero-title span.highlight {
+      background: linear-gradient(120deg, #f97316, #facc15, #22c55e);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .hero-subtitle {
+      font-size: 15px;
+      color: var(--text-muted);
+      max-width: 36rem;
+      margin-bottom: 24px;
+    }
+
+    .hero-subtitle strong {
+      color: #e5e7eb;
+      font-weight: 600;
+    }
+
+    .hero-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 22px;
+    }
+
+    .badge-chip {
+      border-radius: var(--radius-pill);
+      border: 1px solid rgba(148, 163, 184, 0.6);
+      padding: 6px 12px;
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      font-size: 12px;
+      color: #e5e7eb;
+      background: radial-gradient(circle at top left, #020617, #020617);
+    }
+
+    .badge-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: radial-gradient(circle at 30% 0, #22c55e, #16a34a);
+      box-shadow: 0 0 10px rgba(34, 197, 94, 0.9);
+    }
+
+    .hero-cta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .btn-primary,
+    .btn-ghost {
+      border-radius: var(--radius-pill);
+      padding: 10px 18px;
+      font-size: 14px;
+      font-weight: 600;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: transform var(--transition-fast),
+        box-shadow var(--transition-fast),
+        border-color var(--transition-fast),
+        background var(--transition-fast),
+        color var(--transition-fast);
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #f97316, #ea580c);
+      color: #fff7ed;
+      border-color: rgba(248, 113, 113, 0.85);
+      box-shadow: 0 18px 40px rgba(248, 113, 113, 0.35);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 20px 50px rgba(248, 113, 113, 0.5);
+      background: linear-gradient(135deg, #fb923c, #f97316);
+    }
+
+    .btn-ghost {
+      background: rgba(15, 23, 42, 0.8);
+      color: var(--text-muted);
+      border-color: rgba(148, 163, 184, 0.6);
+    }
+
+    .btn-ghost:hover {
+      transform: translateY(-1px);
+      background: rgba(15, 23, 42, 0.95);
+      color: #e5e7eb;
+      border-color: rgba(209, 213, 219, 0.9);
+      box-shadow: 0 15px 38px rgba(15, 23, 42, 0.9);
+    }
+
+    .btn-primary span.icon,
+    .btn-ghost span.icon {
+      font-size: 16px;
+    }
+
+    .hero-note {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-top: 8px;
+    }
+
+    .hero-right {
+      border-radius: 26px;
+      padding: 18px 18px 16px;
+      background: radial-gradient(
+          circle at top right,
+          rgba(79, 70, 229, 0.35),
+          transparent 55%
+        ),
+        radial-gradient(
+          circle at bottom left,
+          rgba(248, 113, 113, 0.18),
+          transparent 55%
+        ),
+        linear-gradient(145deg, #020617, #020617);
+      border: 1px solid rgba(148, 163, 184, 0.55);
+      box-shadow: 0 22px 70px rgba(15, 23, 42, 0.95);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-right h3 {
+      font-size: 16px;
+      margin-bottom: 6px;
+    }
+
+    .hero-right p {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 10px;
+    }
+
+    .hero-pill-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 6px;
+      font-size: 11px;
+    }
+
+    .hero-pill {
+      border-radius: var(--radius-pill);
+      border: 1px dashed rgba(148, 163, 184, 0.7);
+      padding: 5px 9px;
+      color: var(--text-muted);
+      background: rgba(15, 23, 42, 0.98);
+    }
+
+    .hero-right-footer {
+      margin-top: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    .hero-right-footer span.main {
+      color: #e5e7eb;
+      font-weight: 500;
+    }
+
+    .hero-right-footer span.small {
+      opacity: 0.85;
+    }
+
+    /* Projects overview grid */
+    .section-label {
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      font-size: 11px;
+      color: var(--accent-2);
+      margin-bottom: 4px;
+      margin-top: 40px;
+    }
+
+    .section-title {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+
+    .section-intro {
+      font-size: 14px;
+      color: var(--text-muted);
+      margin-bottom: 18px;
+    }
+
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    @media (max-width: 900px) {
+      .projects-grid {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .project-card-link {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .project-card {
+      position: relative;
+      border-radius: var(--radius-xl);
+      padding: 15px 14px 14px;
+      background: radial-gradient(
+          circle at top left,
+          rgba(248, 113, 113, 0.12),
+          transparent 55%
+        ),
+        rgba(15, 23, 42, 0.98);
+      border: 1px solid rgba(148, 163, 184, 0.6);
+      box-shadow: 0 18px 40px rgba(15, 23, 42, 0.95);
+      transition: transform var(--transition-fast),
+        box-shadow var(--transition-fast),
+        border-color var(--transition-fast),
+        background var(--transition-fast);
+      cursor: pointer;
+    }
+
+    .project-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 24px 60px rgba(15, 23, 42, 1);
+      border-color: rgba(248, 250, 252, 0.3);
+      background: radial-gradient(
+          circle at top left,
+          rgba(248, 113, 113, 0.18),
+          transparent 60%
+        ),
+        rgba(15, 23, 42, 0.98);
+    }
+
+    .project-tag-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    .project-tag {
+      padding: 4px 8px;
+      border-radius: var(--radius-pill);
+      border: 1px solid rgba(248, 113, 113, 0.7);
+      background: rgba(24, 24, 27, 0.9);
+      color: #fed7aa;
+    }
+
+    .project-year {
+      opacity: 0.85;
+    }
+
+    .project-title {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    .project-desc {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 10px;
+    }
+
+    .project-meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    .project-meta-pill {
+      padding: 4px 8px;
+      border-radius: var(--radius-pill);
+      border: 1px dashed rgba(148, 163, 184, 0.7);
+    }
+
+    .project-card-footer {
+      margin-top: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    .project-card-footer span.link-hint {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .project-card-footer span.link-hint-icon {
+      font-size: 13px;
+    }
+
+    /* Detail sections */
+    .project-detail-section {
+      margin-top: 40px;
+      border-radius: 24px;
+      padding: 18px 16px 16px;
+      border: 1px solid rgba(148, 163, 184, 0.6);
+      background: radial-gradient(
+          circle at top right,
+          rgba(56, 189, 248, 0.25),
+          transparent 55%
+        ),
+        rgba(15, 23, 42, 0.96);
+      box-shadow: 0 18px 55px rgba(15, 23, 42, 0.95);
+      scroll-margin-top: 90px;
+    }
+
+    .project-detail-header {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .project-detail-title {
+      font-size: 17px;
+      font-weight: 700;
+    }
+
+    .project-detail-subtitle {
+      font-size: 13px;
+      color: var(--text-muted);
+      max-width: 420px;
+    }
+
+    .project-detail-pill {
+      border-radius: var(--radius-pill);
+      border: 1px solid rgba(148, 163, 184, 0.7);
+      padding: 5px 10px;
+      font-size: 11px;
+      color: var(--text-muted);
+      background: rgba(15, 23, 42, 0.98);
+    }
+
+    .project-detail-body {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 10px;
+    }
+
+    .project-detail-body strong {
+      color: #e5e7eb;
+    }
+
+    .detail-meta-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 10px;
+      font-size: 12px;
+    }
+
+    @media (max-width: 800px) {
+      .detail-meta-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 580px) {
+      .detail-meta-grid {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .detail-meta-card {
+      border-radius: 16px;
+      padding: 9px 9px;
+      border: 1px solid rgba(148, 163, 184, 0.6);
+      background: rgba(15, 23, 42, 0.99);
+    }
+
+    .detail-meta-label {
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-bottom: 3px;
+    }
+
+    .detail-meta-value {
+      font-size: 12px;
+      color: #e5e7eb;
+    }
+
+    .detail-link-row {
+      margin-top: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      font-size: 12px;
+    }
+
+    .detail-link {
+      text-decoration: none;
+      padding: 7px 12px;
+      border-radius: var(--radius-pill);
+      border: 1px solid rgba(248, 113, 113, 0.7);
+      background: rgba(24, 24, 27, 0.98);
+      color: #fed7aa;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: background var(--transition-fast), transform var(--transition-fast),
+        box-shadow var(--transition-fast);
+    }
+
+    .detail-link:hover {
+      background: rgba(248, 113, 113, 0.15);
+      transform: translateY(-1px);
+      box-shadow: 0 16px 40px rgba(15, 23, 42, 1);
+    }
+
+    .detail-link span.icon {
+      font-size: 14px;
+    }
+
+    /* CTA */
+    .cta-section {
+      margin-top: 40px;
+      border-radius: 26px;
+      padding: 16px 14px 16px;
+      background: radial-gradient(
+          circle at top,
+          rgba(56, 189, 248, 0.3),
+          transparent 55%
+        ),
+        radial-gradient(circle at bottom, rgba(248, 113, 113, 0.35), #020617);
+      border: 1px solid rgba(248, 250, 252, 0.18);
+      text-align: center;
+      box-shadow: 0 26px 70px rgba(15, 23, 42, 0.95);
+    }
+
+    .cta-section h2 {
+      font-size: 19px;
+      margin-bottom: 6px;
+    }
+
+    .cta-section p {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+    }
+
+    .cta-actions {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 12px;
+    }
+
+    footer {
+      border-top: 1px solid rgba(31, 41, 55, 0.9);
+      padding: 14px 18px 20px;
+      margin-top: auto;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    .footer-inner {
+      max-width: 1120px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .footer-inner span.accent {
+      color: var(--accent-2);
+    }
+
+    /* Animation */
+    .fade-in {
+      opacity: 0;
+      transform: translateY(8px);
+      animation: fadeInUp 0.6s ease-out forwards;
+    }
+    .fade-in.delay-1 { animation-delay: 0.08s; }
+    .fade-in.delay-2 { animation-delay: 0.14s; }
+    .fade-in.delay-3 { animation-delay: 0.2s; }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
+<body>
+  <div class="page-wrapper">
+    <header>
+      <nav class="nav">
+        <div class="brand">
+          <div class="brand-logo">A</div>
+          <div class="brand-text">
+            <div class="brand-text-main">Alagappan V</div>
+            <div class="brand-text-sub">B.Tech IT · Builder</div>
+          </div>
+        </div>
+        <div class="nav-links">
+          <a href="#top">Projects</a>
+          <a href="#detail-ilovexams">iLoveExams</a>
+          <a href="#detail-overlay">Overlay App</a>
+          <a href="#detail-ml">ML Object Detection</a>
+          <a href="#detail-solana">Solana DApp</a>
+          <a class="primary-link" href="https://ilovedesi.fun/" target="_blank" rel="noreferrer">
+            Visit iLoveExams
+          </a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="section">
+        <!-- HERO -->
+        <div class="hero fade-in">
+          <div>
+            <div class="hero-tag">
+              <span class="hero-tag-pill">Projects</span>
+              <span class="hero-tag-text">What I’ve been building</span>
+            </div>
+            <h1 class="hero-title">
+              I build tools that help with
+              <span class="highlight">exams, meetings, and everyday work</span> —
+              from web platforms to overlays and ML.
+            </h1>
+            <p class="hero-subtitle">
+              I’m <strong>Alagappan V</strong>, a <strong>B.Tech IT</strong> student who
+              likes turning problems into products — like
+              <strong>ilovedesi.fun</strong> for mock tests, a
+              <strong>desktop overlay app</strong> to make meetings easier,
+              and <strong>ML & blockchain projects</strong> that explore what’s next.
+            </p>
+
+            <div class="hero-badges">
+              <div class="badge-chip">
+                <span class="badge-dot"></span>
+                Web · Desktop · ML · Blockchain
+              </div>
+              <div class="badge-chip">ilovedesi.fun – Live platform</div>
+              <div class="badge-chip">Useful in real student / work life</div>
+            </div>
+
+            <div class="hero-cta-row">
+              <a href="#projects" class="btn-primary">
+                <span class="icon">📂</span>
+                <span>Jump to featured projects</span>
+              </a>
+              <a href="mailto:alagappan41399@example.com" class="btn-ghost">
+                <span class="icon">🤝</span>
+
+              </a>
+            </div>
+            <p class="hero-note">
+              I enjoy building <strong>practical tools</strong> — things that actually
+              help during exams, online classes, coding, and meetings.
+            </p>
+          </div>
+
+          <div class="hero-right fade-in delay-2">
+            <h3>Quick snapshot</h3>
+            <p>
+              A focused builder who likes combining <strong>clean UI</strong> with
+              <strong>solid backend logic</strong>: exam engines, overlay utilities,
+              ML experiments, and blockchain prototypes.
+            </p>
+            <div class="hero-pill-row">
+              <div class="hero-pill">B.Tech IT · Sri Sairam Institute of Technology</div>
+              <div class="hero-pill">Core: Java, JS, HTML, SQL, Bootstrap</div>
+              <div class="hero-pill">Interests: Cybersecurity, ML, Blockchain</div>
+            </div>
+            <div class="hero-right-footer">
+              <span class="main">Currently improving iLoveExams & learning more ML</span>
+              <span class="small">Open to internships & project collabs</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- PROJECTS GRID -->
+        <div id="projects" class="fade-in delay-1">
+          <div class="section-label">Featured work</div>
+          <div class="section-title">Projects you can explore</div>
+          <p class="section-intro">
+            Tap / click any project to jump directly to its details below. Each one
+            is something I’ve actually used myself during study, work or daily life.
+          </p>
+
+          <div class="projects-grid">
+            <!-- iLoveExams -->
+            <a href="#detail-ilovexams" class="project-card-link">
+              <div class="project-card">
+                <div class="project-tag-row">
+                  <span class="project-tag">Web · Live product</span>
+                  <span class="project-year">ilovedesi.fun</span>
+                </div>
+                <div class="project-title">iLoveExams – Mock Test Platform</div>
+                <div class="project-desc">
+                  A distraction-free exam engine for NEET, JEE, CUET & SAT, built to
+                  feel like the real exam screen with timers, review, and analytics.
+                </div>
+                <div class="project-meta-row">
+                  <span class="project-meta-pill">Full-stack web</span>
+                  <span class="project-meta-pill">Students & aspirants</span>
+                </div>
+                <div class="project-card-footer">
+                  <span class="link-hint">
+                    <span class="link-hint-icon">👆</span>
+                    View details below
+                  </span>
+                  <span>Exam prep · Real users</span>
+                </div>
+              </div>
+            </a>
+
+            <!-- Overlay App -->
+            <a href="#detail-overlay" class="project-card-link">
+              <div class="project-card">
+                <div class="project-tag-row">
+                  <span class="project-tag">Desktop · C++</span>
+                  <span class="project-year">Overlay utility</span>
+                </div>
+                <div class="project-title">Overlay App – Meeting & productivity helper</div>
+                <div class="project-desc">
+                  A Windows overlay that floats on top of other apps, helping with
+                  quick paste, screenshots, and auto-typing — very useful during
+                  online meetings, classes, and everyday work.
+                </div>
+                <div class="project-meta-row">
+                  <span class="project-meta-pill">WebView2 overlay</span>
+                  <span class="project-meta-pill">Keyboard macros</span>
+                </div>
+                <div class="project-card-footer">
+                  <span class="link-hint">
+                    <span class="link-hint-icon">👆</span>
+                    View details below
+                  </span>
+                  <span>Meetings · Classes</span>
+                </div>
+              </div>
+            </a>
+
+            <!-- ML Object Detection -->
+            <a href="#detail-ml" class="project-card-link">
+              <div class="project-card">
+                <div class="project-tag-row">
+                  <span class="project-tag">Machine Learning</span>
+                  <span class="project-year">Object detection</span>
+                </div>
+                <div class="project-title">Object Detection using ML</div>
+                <div class="project-desc">
+                  A machine learning project that detects and highlights objects
+                  from images/video, exploring how ML can observe and understand the
+                  real world.
+                </div>
+                <div class="project-meta-row">
+                  <span class="project-meta-pill">Computer vision</span>
+                  <span class="project-meta-pill">Practical ML concepts</span>
+                </div>
+                <div class="project-card-footer">
+                  <span class="link-hint">
+                    <span class="link-hint-icon">👆</span>
+                    View details below
+                  </span>
+                  <span>ML foundation</span>
+                </div>
+              </div>
+            </a>
+
+            <!-- Solana DApp -->
+            <a href="#detail-solana" class="project-card-link">
+              <div class="project-card">
+                <div class="project-tag-row">
+                  <span class="project-tag">Blockchain · Solana</span>
+                  <span class="project-year">Farmer–Consumer</span>
+                </div>
+                <div class="project-title">Decentralized Farmer–Consumer Platform</div>
+                <div class="project-desc">
+                  A Solana-based concept where farmers and consumers can connect
+                  directly, with transparent and secure transactions using blockchain.
+                </div>
+                <div class="project-meta-row">
+                  <span class="project-meta-pill">Smart contracts</span>
+                  <span class="project-meta-pill">Impact + tech</span>
+                </div>
+                <div class="project-card-footer">
+                  <span class="link-hint">
+                    <span class="link-hint-icon">👆</span>
+                    View details below
+                  </span>
+                  <span>Blockchain concept</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <!-- DETAIL: iLoveExams -->
+        <section id="detail-ilovexams" class="project-detail-section fade-in delay-2">
+          <div class="project-detail-header">
+            <div>
+              <div class="project-detail-title">iLoveExams – Web Mock Test Platform</div>
+              <div class="project-detail-subtitle">
+                A focused exam-practice platform built for NEET, JEE, CUET and SAT,
+                designed to look and feel like the real exam interface but without
+                ads and distractions.
+              </div>
+            </div>
+            <div class="project-detail-pill">Role: Founder · Full-stack builder</div>
+          </div>
+
+          <div class="project-detail-body">
+            With iLoveExams, I wanted to solve a simple problem: students like me
+            needed a place to <strong>open and start a mock test instantly</strong>.
+            No clutter, no confusion — just exam-style questions, timers, marking
+            for review, and <strong>clear analysis after each test</strong>.
+          </div>
+
+          <div class="detail-meta-grid">
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">What it offers</div>
+              <div class="detail-meta-value">
+                Mock tests, exam-style UI, question review, instant scoring, and
+                performance analytics.
+              </div>
+            </div>
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">Who it helps</div>
+              <div class="detail-meta-value">
+                NEET, JEE, CUET, SAT aspirants who want realistic practice from
+                home, hostel or college.
+              </div>
+            </div>
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">Tech focus</div>
+              <div class="detail-meta-value">
+                Web application design, question handling, timing logic,
+                result & analytics flow.
+              </div>
+            </div>
+          </div>
+
+          <div class="detail-link-row">
+            <a
+              href="https://ilovedesi.fun/"
+              target="_blank"
+              rel="noreferrer"
+              class="detail-link"
+            >
+              <span class="icon">🌐</span>
+              <span>Visit ilovedesi.fun</span>
+            </a>
+          </div>
+        </section>
+
+        <!-- DETAIL: Overlay App -->
+        <section id="detail-overlay" class="project-detail-section fade-in delay-2">
+          <div class="project-detail-header">
+            <div>
+              <div class="project-detail-title">
+                Overlay App – On-screen helper for meetings & classes
+              </div>
+              <div class="project-detail-subtitle">
+                A Windows overlay application that sits on top of other windows and
+                gives quick controls for paste, screenshots and auto-typing — very
+                handy during online meetings and day-to-day work.
+              </div>
+            </div>
+            <div class="project-detail-pill">Role: Desktop developer · C++</div>
+          </div>
+
+          <div class="project-detail-body">
+            During calls, online classes, coding sessions and interviews, switching
+            between tabs and windows wastes time. This overlay app
+            <strong>floats on top</strong> and provides simple buttons and hotkeys,
+            so I can quickly paste text, take screenshots, or auto-type content from
+            the clipboard — all without breaking focus.
+          </div>
+
+          <div class="detail-meta-grid">
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">Key idea</div>
+              <div class="detail-meta-value">
+                Make common actions — paste, screenshot, typing — available from a
+                small control panel while other apps (like meeting tools, chats or
+                IDEs) stay in front.
+              </div>
+            </div>
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">Useful for</div>
+              <div class="detail-meta-value">
+                Online meetings, live classes, note-taking, answering questions,
+                and demo sessions where speed matters.
+              </div>
+            </div>
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">Technical notes</div>
+              <div class="detail-meta-value">
+                Windows desktop app with overlay window, WebView2 integration, hotkeys,
+                keyboard hook and clipboard handling.
+              </div>
+            </div>
+          </div>
+
+          <div class="detail-link-row">
+              <a href="overlay.html">
+            <span class="detail-link">
+              <span class="icon">💻</span>
+              <span>For detailed Architecture:click</span>
+            </span>
+            </a>
+          </div>
+        </section>
+
+        <!-- DETAIL: ML Object Detection -->
+        <section id="detail-ml" class="project-detail-section fade-in delay-3">
+          <div class="project-detail-header">
+            <div>
+              <div class="project-detail-title">Object Detection using Machine Learning</div>
+              <div class="project-detail-subtitle">
+                A project that uses ML-based models to detect objects from images or
+                video and mark them on the screen.
+              </div>
+            </div>
+            <div class="project-detail-pill">Role: ML learner · Implementation</div>
+          </div>
+
+          <div class="project-detail-body">
+            This project helped me understand how <strong>computer vision</strong>
+            can “see” things — detecting objects, drawing boxes around them and
+            updating frames in real time. It’s a strong base for future work in
+            security, automation and smart cameras.
+          </div>
+
+          <div class="detail-meta-grid">
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">Focus</div>
+              <div class="detail-meta-value">
+                ML pipeline, model inference, feeding image/video data and visualizing
+                detection results.
+              </div>
+            </div>
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">Where it’s useful</div>
+              <div class="detail-meta-value">
+                CCTV monitoring, smart attendance, traffic analysis, or any place
+                where the system should know “what is in the frame”.
+              </div>
+            </div>
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">What I learned</div>
+              <div class="detail-meta-value">
+                Basics of object detection models, working with frames, and how ML
+                connects to real-world camera input.
+              </div>
+            </div>
+          </div>
+
+          <div class="detail-link-row">
+              <a href="i.html">
+            <span class="detail-link">
+              <span class="icon">🧪</span>
+              <span>Demo</span>
+            </span>
+            </a>
+          </div>
+        </section>
+
+        <!-- DETAIL: Solana DApp -->
+        <section id="detail-solana" class="project-detail-section fade-in delay-3">
+          <div class="project-detail-header">
+            <div>
+              <div class="project-detail-title">
+                Decentralized Farmer–Consumer Transaction Platform (Solana)
+              </div>
+              <div class="project-detail-subtitle">
+                A blockchain concept where farmers and consumers interact directly,
+                using the Solana network for secure and transparent transactions.
+              </div>
+            </div>
+            <div class="project-detail-pill">Role: Blockchain learner · Concept build</div>
+          </div>
+
+          <div class="project-detail-body">
+            With this project, I explored how <strong>blockchain</strong> can support
+            real-world use-cases. The idea is simple: farmers list their produce,
+            consumers connect directly, and Solana smart contracts help handle
+            secure transactions and records.
+          </div>
+
+          <div class="detail-meta-grid">
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">Goal</div>
+              <div class="detail-meta-value">
+                Reduce middlemen and increase transparency in farmer–consumer
+                interactions using decentralized tech.
+              </div>
+            </div>
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">Tech</div>
+              <div class="detail-meta-value">
+                Solana blockchain concepts, smart contract logic, basic frontend to
+                explore the flow.
+              </div>
+            </div>
+            <div class="detail-meta-card">
+              <div class="detail-meta-label">Takeaway</div>
+              <div class="detail-meta-value">
+                Understanding how on-chain transactions work and how to design flows
+                where trust comes from the system, not a single person.
+              </div>
+            </div>
+          </div>
+
+          <div class="detail-link-row">
+            <span class="detail-link">
+              <span class="icon">🧩</span>
+              <span>Concept / academic project – details in resume</span>
+            </span>
+          </div>
+        </section>
+
+        <!-- CTA -->
+        <div class="cta-section fade-in delay-3">
+          <h2>Always building, always learning.</h2>
+          <p>
+            These projects are just the start. I’m continuously improving
+            <strong>iLoveExams</strong>, refining my overlay tools, and learning
+            more in <strong>ML, security and blockchain</strong>.
+          </p>
+          <div class="cta-actions">
+            <a href="mailto:alagappan@example.com" class="btn-primary">
+              <span class="icon">📩</span>
+              <span>Reach out to collaborate or hire</span>
+            </a>
+            <a href="#projects" class="btn-ghost">
+              <span class="icon">⬆️</span>
+              <span>Back to project list</span>
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-inner">
+        <span>© <span class="accent">Alagappan V</span>. Projects page.</span>
+        <span>Built with focus, for real-world use.</span>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

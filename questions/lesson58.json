@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a defining feature of all living organisms?",
+      "options": ["Metabolism", "Movement", "Reproduction", "Growth"],
+      "correct": 0
+    },
+    {
+      "question": "Which language is primarily used for scientific naming?",
+      "options": ["Hindi", "Latin", "German", "French"],
+      "correct": 1
+    },
+    {
+      "question": "In plants, cell division occurs ____________ whereas in animals, it occurs ____________.",
+      "options": ["only upto a certain age, continuously", "continuously, only upto a certain age", "continuously in both", "only upto a certain age in both"],
+      "correct": 1
+    },
+    {
+      "question": "Which two of the below are twin characteristics of growth?",
+      "options": ["Increase in mass and number of individuals", "Increase in individuals and cellular differentiation", "Cellular organization and differentiation", "Growth and movement"],
+      "correct": 0
+    },
+    {
+      "question": "Planaria reproduces by:",
+      "options": ["Binary fission", "True regeneration", "Asexual spores", "Budding"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following organisms does NOT reproduce?",
+      "options": ["Worker bee", "Amoeba", "Yeast", "Bacteria"],
+      "correct": 0
+    },
+    {
+      "question": "Which is the correct botanical name format?",
+      "options": ["Homo Sapiens", "Panthera tigris", "Mangifera Indica", "felis Domesticus"],
+      "correct": 1
+    },
+    {
+      "question": "First step in taxonomy is:",
+      "options": ["Nomenclature", "Identification", "Classification", "Observation"],
+      "correct": 1
+    },
+    {
+      "question": "What is the correct order of taxonomic hierarchy?",
+      "options": ["Atomic → Molecular → Cellular → Tissue → Organ → Organism", "Individual → Tissue → Cellular → Atomic", "Phylum → Class → Order → Family → Genus → Species", "Class → Tribe → Family → Genus → Species"],
+      "correct": 2
+    },
+    {
+      "question": "Species Plantarum is a famous work by:",
+      "options": ["Hippocrates", "Aristotle", "Linnaeus", "Theophrastus"],
+      "correct": 2
+    },
+    {
+      "question": "Which taxonomist is known as the 'Darwin of 20th Century'?",
+      "options": ["Linnaeus", "Earnst Mayr", "Julian Huxley", "John Ray"],
+      "correct": 1
+    },
+    {
+      "question": "Which book by Linnaeus includes classification of plants?",
+      "options": ["Species Plantarum", "Systema Naturae", "Historia Naturalis", "Genera Plantarum"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is mismatched?",
+      "options": ["Para rubber – Hevea brasiliensis", "Tea – Thea chinensis", "Frog – Bufo melanostictus", "Earthworm – Pheretima posthuma"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following taxonomic units is the basic unit of classification?",
+      "options": ["Genus", "Family", "Species", "Order"],
+      "correct": 2
+    },
+    {
+      "question": "What does the name 'Panthera leo' indicate?",
+      "options": ["Class", "Family", "Genus and Species", "Order"],
+      "correct": 2
+    },
+    {
+      "question": "What is the ending suffix of a plant order?",
+      "options": ["-idae", "-aceae", "-ales", "-inae"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a correct pair?",
+      "options": ["Euplectella – Cnidaria", "Trypanosoma – Protozoa", "Rhizopus – Mould", "Lycopersicon – Dicot"],
+      "correct": 0
+    },
+    {
+      "question": "Which is the correct sequence of taxonomic categories?",
+      "options": ["Division → Class → Order → Family → Genus → Species", "Class → Division → Order → Family → Species", "Genus → Family → Class → Phylum", "Phylum → Order → Genus → Family → Species"],
+      "correct": 0
+    },
+    {
+      "question": "Which term refers to the unit where organisms can interbreed?",
+      "options": ["Genus", "Species", "Family", "Order"],
+      "correct": 1
+    },
+    {
+      "question": "Tautonym is allowed in naming of:",
+      "options": ["Plants", "Animals", "Viruses", "Fungi"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following organisms is considered a living fossil?",
+      "options": ["Ginkgo", "Mango", "Rose", "Frog"],
+      "correct": 0
+    },
+    {
+      "question": "A monograph contains information on:",
+      "options": ["Multiple taxa", "A single taxon", "All species", "All families"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is NOT a type specimen?",
+      "options": ["Holotype", "Paratype", "Isotype", "Stereotype"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is true about herbarium sheets?",
+      "options": ["Plant must be fresh", "Pressed in folded form", "Pressed with unfolded parts", "No label required"],
+      "correct": 2
+    },
+    {
+      "question": "Zoological parks are:",
+      "options": ["Natural forests", "Animal reserves", "Protected wild habitats", "Human care environments for wild animals"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is not found in biological museums?",
+      "options": ["Insects", "Birds", "Books", "Preserved specimens"],
+      "correct": 2
+    },
+    {
+      "question": "A plant genus with multiple species is called:",
+      "options": ["Polytypic", "Monotypic", "Single species", "Sub-genera"],
+      "correct": 0
+    },
+    {
+      "question": "Botanical gardens maintain:",
+      "options": ["Herbarium", "Living plants", "Dried plants", "Animal specimens"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an incorrect statement?",
+      "options": ["Genus includes multiple species", "All genera have only one species", "Panthera includes multiple species", "Solanum is a genus"],
+      "correct": 1
+    },
+    {
+      "question": "Which one of the following is the correct name of the family that includes mango?",
+      "options": ["Poaceae", "Anacardiaceae", "Fabaceae", "Rosaceae"],
+      "correct": 1
+    },
+    {
+      "question": "Manuals, Floras, Monographs are:",
+      "options": ["Zoological tools", "Taxonomic aids", "Medicines", "Plant hormones"],
+      "correct": 1
+    },
+    {
+      "question": "The kingdom that includes fungi is:",
+      "options": ["Monera", "Protista", "Fungi", "Plantae"],
+      "correct": 2
+    },
+    {
+      "question": "Which taxonomist introduced the binomial nomenclature system?",
+      "options": ["Aristotle", "Linnaeus", "John Ray", "Earnst Mayr"],
+      "correct": 1
+    },
+    {
+      "question": "Which subfamilies belong to family Fabaceae?",
+      "options": ["Rosaceae and Asteraceae", "Monocotyledonae and Dicotyledonae", "Mimosaceae, Caesalpiniaceae, Papilionaceae", "Poaceae and Anacardiaceae"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following represents herbarium?",
+      "options": ["Living animals", "Living plants", "Preserved plant specimens", "Books"],
+      "correct": 2
+    },
+    {
+      "question": "A genus includes:",
+      "options": ["Only one species", "Many related species", "All organisms", "Multiple families"],
+      "correct": 1
+    },
+    {
+      "question": "Which one of the following institutions is located in Lucknow?",
+      "options": ["Royal Botanical Garden", "Lloyd Botanical Garden", "NBRI", "Indian Botanical Garden"],
+      "correct": 2
+    },
+    {
+      "question": "Which scientist is called 'Father of Medicine'?",
+      "options": ["Aristotle", "Hippocrates", "Linnaeus", "Darwin"],
+      "correct": 1
+    },
+    {
+      "question": "Which structure is used for pressing and preserving plant specimens?",
+      "options": ["Glass jar", "Plastic box", "Plant press", "Wooden box"],
+      "correct": 2
+    },
+    {
+      "question": "Which option is a taxonomic aid?",
+      "options": ["Nucleus", "DNA", "Flora", "Cell wall"],
+      "correct": 2
+    },
+    {
+      "question": "Hierarchy of taxonomic categories from higher to lower is:",
+      "options": ["Species → Genus → Family → Order", "Kingdom → Phylum → Class → Order → Family → Genus → Species", "Class → Order → Phylum → Species", "Phylum → Kingdom → Family → Species"],
+      "correct": 1
+    },
+    {
+      "question": "Scientific name for human is:",
+      "options": ["Homo Sapiens", "Homo sapiens", "HOMO SAPIENS", "homo sapiens"],
+      "correct": 1
+    },
+    {
+      "question": "Taxon refers to:",
+      "options": ["Scientific name", "A taxonomic category", "Species name", "Family only"],
+      "correct": 1
+    },
+    {
+      "question": "What does 'isotype' refer to?",
+      "options": ["Main specimen", "Duplicate of holotype", "Type locality", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Flora provides information about:",
+      "options": ["Single species", "Plant species in an area", "Medicinal plants only", "Fungal organisms"],
+      "correct": 1
+    },
+    {
+      "question": "Which scientist introduced the term 'new systematics'?",
+      "options": ["Darwin", "Julian Huxley", "Linnaeus", "Theophrastus"],
+      "correct": 1
+    },
+    {
+      "question": "Phylum Chordata includes:",
+      "options": ["Plants", "Fungi", "Animals with notochord", "Insects only"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is correctly matched?",
+      "options": ["Genus – tuberosum", "Species – Solanum", "Order – Polymoniales", "Family – Plantae"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a mismatched classification?",
+      "options": ["Panthera leo – Mammalia", "Musca domestica – Reptile", "Entamoeba coli – Protozoa", "Solanum tuberosum – Dicot"],
+      "correct": 1
+    }
+  ]
+}

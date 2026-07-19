@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The SI unit of electric potential is:",
+      "options": ["Volt", "Coulomb", "Newton", "Farad"],
+      "correct": 0
+    },
+    {
+      "question": "Potential at a point due to a point charge is given by:",
+      "options": ["kq/r²", "kq²/r", "kq/r", "kqr"],
+      "correct": 2
+    },
+    {
+      "question": "The work done in bringing a unit positive charge from infinity to a point in an electric field is called:",
+      "options": ["Electric field", "Electric flux", "Electric potential", "Potential difference"],
+      "correct": 2
+    },
+    {
+      "question": "Potential due to a positive point charge is:",
+      "options": ["Negative", "Positive", "Zero", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Equipotential surfaces are:",
+      "options": ["Always parallel", "Never intersect", "Always circular", "Always perpendicular to field"],
+      "correct": 1
+    },
+    {
+      "question": "The electric field is zero where:",
+      "options": ["Potential is maximum", "Potential is minimum", "Potential is constant", "Charge is zero"],
+      "correct": 2
+    },
+    {
+      "question": "The electric potential due to a dipole at a point on the axial line varies as:",
+      "options": ["1/r", "1/r²", "1/r³", "r"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is correct about equipotential surfaces?",
+      "options": ["Closer near weaker field", "Perpendicular to electric field lines", "Tangential to field lines", "Circular always"],
+      "correct": 1
+    },
+    {
+      "question": "The potential difference between two points in an electric field is:",
+      "options": ["Work done per unit charge", "Charge per unit work", "Electric flux", "Electric field × distance"],
+      "correct": 0
+    },
+    {
+      "question": "The potential energy of a system of two point charges is:",
+      "options": ["Directly proportional to r", "Inversely proportional to r", "Proportional to r²", "Independent of r"],
+      "correct": 1
+    },
+    {
+      "question": "Capacitance is defined as:",
+      "options": ["Charge per unit field", "Voltage per unit charge", "Charge per unit voltage", "Energy per unit charge"],
+      "correct": 2
+    },
+    {
+      "question": "SI unit of capacitance is:",
+      "options": ["Coulomb", "Volt", "Farad", "Henry"],
+      "correct": 2
+    },
+    {
+      "question": "The capacitance of a parallel plate capacitor is directly proportional to:",
+      "options": ["Distance between plates", "Area of plates", "Square of distance", "Cube of area"],
+      "correct": 1
+    },
+    {
+      "question": "Capacitance of a parallel plate capacitor is inversely proportional to:",
+      "options": ["Permittivity", "Area", "Separation between plates", "Voltage"],
+      "correct": 2
+    },
+    {
+      "question": "When a dielectric is inserted in a capacitor, its capacitance:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a unit of electric potential energy?",
+      "options": ["Volt", "Coulomb", "Joule", "Farad"],
+      "correct": 2
+    },
+    {
+      "question": "In a parallel combination of capacitors, the equivalent capacitance is:",
+      "options": ["Equal to smallest capacitance", "Smaller than each", "Sum of individual capacitances", "Product of individual capacitances"],
+      "correct": 2
+    },
+    {
+      "question": "In a series combination of capacitors, the total charge is:",
+      "options": ["Same on all", "Different on all", "Zero", "Depends on capacitance"],
+      "correct": 0
+    },
+    {
+      "question": "A 2 μF and 4 μF capacitor are connected in series. The net capacitance is:",
+      "options": ["6 μF", "1.33 μF", "0.5 μF", "2 μF"],
+      "correct": 1
+    },
+    {
+      "question": "Energy stored in a capacitor is given by:",
+      "options": ["QV", "½ CV²", "½ Q²/C", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The unit of energy stored in a capacitor is:",
+      "options": ["Joule", "Farad", "Coulomb", "Volt"],
+      "correct": 0
+    },
+    {
+      "question": "Capacitance of a spherical conductor is:",
+      "options": ["Proportional to r", "Proportional to 1/r", "Proportional to r²", "Independent of r"],
+      "correct": 0
+    },
+    {
+      "question": "Work done in charging a capacitor is stored as:",
+      "options": ["Kinetic energy", "Heat", "Potential energy", "Current"],
+      "correct": 2
+    },
+    {
+      "question": "If plates of a charged capacitor are moved apart, its energy:",
+      "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+      "correct": 0
+    },
+    {
+      "question": "A capacitor blocks:",
+      "options": ["AC only", "DC only", "Both AC and DC", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Inserting a dielectric between the plates of a charged capacitor will:",
+      "options": ["Increase voltage", "Decrease charge", "Increase capacitance", "Decrease capacitance"],
+      "correct": 2
+    },
+    {
+      "question": "The electric field between plates of parallel plate capacitor is:",
+      "options": ["Uniform", "Non-uniform", "Zero", "Circular"],
+      "correct": 0
+    },
+    {
+      "question": "The potential at the midpoint between two like charges is:",
+      "options": ["Maximum", "Minimum", "Zero", "Negative"],
+      "correct": 0
+    },
+    {
+      "question": "The dimensional formula of capacitance is:",
+      "options": ["[M⁻¹L⁻²T⁴A²]", "[ML²T⁻²A⁻²]", "[MLT⁻²A²]", "[M⁻²L³T⁴A⁻²]"],
+      "correct": 0
+    },
+    {
+      "question": "1 μF =",
+      "options": ["10⁻³ F", "10⁻⁶ F", "10⁶ F", "10³ F"],
+      "correct": 1
+    },
+    {
+      "question": "Potential difference between two points A and B is 5V. Then work done in moving 2C from A to B is:",
+      "options": ["10 J", "5 J", "2.5 J", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Capacitance of an isolated sphere of radius R is:",
+      "options": ["R/ε₀", "ε₀/R", "4πε₀R", "4πR/ε₀"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following quantities is not dependent on distance?",
+      "options": ["Electric potential", "Electric field", "Capacitance of parallel plates", "Permittivity"],
+      "correct": 3
+    },
+    {
+      "question": "If dielectric constant is K, then capacitance becomes:",
+      "options": ["C/K", "K/C", "K × C", "C²/K"],
+      "correct": 2
+    },
+    {
+      "question": "If two capacitors are connected in series, the total potential difference is:",
+      "options": ["Same across each", "Divided inversely to capacitance", "Divided equally", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "Potential difference is measured using:",
+      "options": ["Ammeter", "Voltmeter", "Galvanometer", "Wattmeter"],
+      "correct": 1
+    },
+    {
+      "question": "Which capacitor stores maximum energy?",
+      "options": ["High voltage, low capacitance", "Low voltage, high capacitance", "High C, high V", "Low C, low V"],
+      "correct": 2
+    },
+    {
+      "question": "The capacitance of a capacitor depends on:",
+      "options": ["Charge", "Voltage", "Geometry and medium", "Current"],
+      "correct": 2
+    },
+    {
+      "question": "Which dielectric material has highest dielectric constant?",
+      "options": ["Air", "Mica", "Glass", "Water"],
+      "correct": 3
+    },
+    {
+      "question": "In a parallel plate capacitor, if area is doubled and separation halved, capacitance becomes:",
+      "options": ["Half", "Double", "Four times", "Same"],
+      "correct": 2
+    },
+    {
+      "question": "Unit of potential gradient is:",
+      "options": ["V/m", "V·m", "V/m²", "N/C"],
+      "correct": 0
+    },
+    {
+      "question": "When a capacitor is charged and isolated, its energy remains:",
+      "options": ["Same", "Zero", "Half", "Double"],
+      "correct": 0
+    },
+    {
+      "question": "For maximum capacitance, the dielectric constant should be:",
+      "options": ["0", "1", "Maximum possible", "Negative"],
+      "correct": 2
+    },
+    {
+      "question": "Two capacitors C1 and C2 in series have equivalent C. Which of the following is true?",
+      "options": ["C > C1", "C < C1 and C2", "C = C1 + C2", "C = 0"],
+      "correct": 1
+    },
+    {
+      "question": "Electric potential is:",
+      "options": ["Path dependent", "Work done per unit charge", "Always negative", "Energy per unit mass"],
+      "correct": 1
+    },
+    {
+      "question": "Potential at center of a charged spherical shell is:",
+      "options": ["Zero", "Infinity", "Same as surface", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Unit of surface charge density is:",
+      "options": ["C/m", "C/m²", "C/m³", "C"],
+      "correct": 1
+    },
+    {
+      "question": "Capacitor stores energy in the form of:",
+      "options": ["Kinetic energy", "Magnetic energy", "Electric potential energy", "Sound energy"],
+      "correct": 2
+    }
+  ]
+}

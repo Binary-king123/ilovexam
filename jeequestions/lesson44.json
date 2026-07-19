@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which type of solid is NaCl?",
+      "options": ["Molecular solid", "Ionic solid", "Metallic solid", "Covalent solid"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a covalent solid?",
+      "options": ["Diamond", "NaCl", "Argon", "Ice"],
+      "correct": 0
+    },
+    {
+      "question": "In a face-centered cubic unit cell, the number of atoms per unit cell is:",
+      "options": ["2", "4", "6", "1"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a molecular solid?",
+      "options": ["Diamond", "NaCl", "Ice", "Iron"],
+      "correct": 2
+    },
+    {
+      "question": "Which defect causes decrease in density of a crystal?",
+      "options": ["Interstitial defect", "Frenkel defect", "Schottky defect", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The coordination number of an atom in bcc structure is:",
+      "options": ["6", "8", "12", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a characteristic of ionic solids?",
+      "options": ["High melting point", "Hardness", "Electrical conductivity in solid state", "Solubility in water"],
+      "correct": 2
+    },
+    {
+      "question": "Edge length of a fcc unit cell is 400 pm. What is the radius of the atom?",
+      "options": ["141 pm", "200 pm", "282 pm", "100 pm"],
+      "correct": 0
+    },
+    {
+      "question": "The number of atoms in bcc unit cell is:",
+      "options": ["1", "2", "4", "6"],
+      "correct": 1
+    },
+    {
+      "question": "Which solid conducts electricity in molten state but not in solid state?",
+      "options": ["NaCl", "Graphite", "Iron", "Diamond"],
+      "correct": 0
+    },
+    {
+      "question": "In hexagonal close packing, the coordination number is:",
+      "options": ["6", "8", "12", "4"],
+      "correct": 2
+    },
+    {
+      "question": "Which solid has delocalized electrons?",
+      "options": ["Metallic solid", "Ionic solid", "Covalent solid", "Molecular solid"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following shows Frenkel defect?",
+      "options": ["AgCl", "NaCl", "KCl", "CsCl"],
+      "correct": 0
+    },
+    {
+      "question": "The number of octahedral voids per atom in ccp structure is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 0
+    },
+    {
+      "question": "Which defect increases the electrical conductivity of semiconductors?",
+      "options": ["Schottky", "Frenkel", "Metal excess", "Interstitial"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has highest packing efficiency?",
+      "options": ["Simple cubic", "Body-centered cubic", "Face-centered cubic", "Hexagonal"],
+      "correct": 2
+    },
+    {
+      "question": "The crystal system with a = b ≠ c and α = β = 90°, γ = 120° is:",
+      "options": ["Cubic", "Hexagonal", "Orthorhombic", "Monoclinic"],
+      "correct": 1
+    },
+    {
+      "question": "In which type of unit cell is the atom present at each corner and at the center of each face?",
+      "options": ["Simple cubic", "bcc", "fcc", "hcp"],
+      "correct": 2
+    },
+    {
+      "question": "How many tetrahedral voids are there per atom in a close-packed structure?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "What type of defect is shown when Na⁺ is replaced by Sr²⁺ in NaCl?",
+      "options": ["Frenkel", "Schottky", "Impurity", "Interstitial"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an amorphous solid?",
+      "options": ["Quartz", "Glass", "Diamond", "Salt"],
+      "correct": 1
+    },
+    {
+      "question": "An ionic compound with Schottky defect must have:",
+      "options": ["Equal size of cations and anions", "Very small cations", "Very small anions", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "Density of a solid is directly proportional to:",
+      "options": ["Edge length", "Molar mass", "Atomic radius", "Volume of cell"],
+      "correct": 1
+    },
+    {
+      "question": "The radius ratio for tetrahedral void is approximately:",
+      "options": ["0.225", "0.414", "0.732", "0.866"],
+      "correct": 0
+    },
+    {
+      "question": "In a bcc structure, atoms touch each other along:",
+      "options": ["Edge", "Body diagonal", "Face diagonal", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which solid has high melting point, is hard, and is an insulator?",
+      "options": ["Covalent solid", "Metallic solid", "Ionic solid", "Molecular solid"],
+      "correct": 0
+    },
+    {
+      "question": "If edge length of a simple cubic cell is 'a', its volume is:",
+      "options": ["a", "a²", "a³", "a⁴"],
+      "correct": 2
+    },
+    {
+      "question": "Graphite is a good conductor of electricity because:",
+      "options": ["Strong covalent bonds", "Free valence electrons", "Ionic nature", "Metallic bonding"],
+      "correct": 1
+    },
+    {
+      "question": "The packing efficiency of hcp structure is:",
+      "options": ["52%", "60%", "68%", "74%"],
+      "correct": 3
+    },
+    {
+      "question": "Which one of the following shows both ionic and covalent bonds?",
+      "options": ["NaCl", "KCl", "CaCl₂", "KCN"],
+      "correct": 3
+    },
+    {
+      "question": "What is the coordination number in simple cubic lattice?",
+      "options": ["6", "8", "4", "12"],
+      "correct": 0
+    },
+    {
+      "question": "Metal deficiency defect is possible in which type of solids?",
+      "options": ["Non-metals", "Metals", "Ionic solids", "Amorphous solids"],
+      "correct": 1
+    },
+    {
+      "question": "Interstitial defect arises due to:",
+      "options": ["Loss of ion", "Extra ion in lattice", "Displacement of ion", "All of these"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following does not have a crystalline structure?",
+      "options": ["Sodium chloride", "Quartz", "Glass", "Diamond"],
+      "correct": 2
+    },
+    {
+      "question": "Which type of solid is ZnS (zinc blende)?",
+      "options": ["Ionic", "Covalent", "Molecular", "Metallic"],
+      "correct": 0
+    },
+    {
+      "question": "Which unit cell has the lowest packing efficiency?",
+      "options": ["Simple cubic", "bcc", "fcc", "hcp"],
+      "correct": 0
+    },
+    {
+      "question": "Which type of solid has mobile electrons?",
+      "options": ["Ionic solid", "Covalent solid", "Molecular solid", "Metallic solid"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following represents metal deficiency defect?",
+      "options": ["FeO", "NaCl", "KCl", "CaCl₂"],
+      "correct": 0
+    },
+    {
+      "question": "Packing efficiency in bcc structure is:",
+      "options": ["52%", "60%", "68%", "74%"],
+      "correct": 2
+    },
+    {
+      "question": "If edge length is 'a' and the structure is bcc, volume occupied by atoms is:",
+      "options": ["√3/4 a³", "4/3 πr³", "2 × 4/3 πr³", "√2/4 a³"],
+      "correct": 2
+    },
+    {
+      "question": "Covalent crystals are also called:",
+      "options": ["Molecular solids", "Network solids", "Ionic solids", "Metallic solids"],
+      "correct": 1
+    },
+    {
+      "question": "The arrangement ABCABC… is called:",
+      "options": ["Simple cubic", "Body centered", "Face centered", "Hexagonal close packing"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a polar molecular solid?",
+      "options": ["Ice", "Argon", "Diamond", "Silicon"],
+      "correct": 0
+    },
+    {
+      "question": "Density formula of unit cell is:",
+      "options": ["Z × M / a³ × Nₐ", "a³ / Z × M", "Z × Nₐ / M × a³", "M / Z × a³ × Nₐ"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following crystals is soft and has low melting point?",
+      "options": ["Diamond", "NaCl", "Ice", "Graphite"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following shows electrical conductivity and malleability?",
+      "options": ["Metallic solid", "Covalent solid", "Ionic solid", "Molecular solid"],
+      "correct": 0
+    },
+    {
+      "question": "The fraction of total volume occupied by atoms in fcc is:",
+      "options": ["0.52", "0.68", "0.74", "0.60"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following structures is observed in KCl?",
+      "options": ["bcc", "fcc", "hcp", "Simple cubic"],
+      "correct": 1
+    },
+    {
+      "question": "The edge length of fcc unit cell with radius r is:",
+      "options": ["2r", "4r", "2√2r", "√3r"],
+      "correct": 2
+    },
+    {
+      "question": "The point defects do not change:",
+      "options": ["Electrical neutrality", "Stoichiometry", "Density", "Atomic radius"],
+      "correct": 3
+    }
+  ]
+}

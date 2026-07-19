@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is NOT a basic element of communication system?",
+      "options": ["Transmitter", "Channel", "Receiver", "Amplifier"],
+      "correct": 3
+    },
+    {
+      "question": "The range of human hearing is:",
+      "options": ["20 Hz – 20 kHz", "2 Hz – 2 kHz", "200 Hz – 2000 Hz", "2 kHz – 20 kHz"],
+      "correct": 0
+    },
+    {
+      "question": "In amplitude modulation:",
+      "options": ["Frequency of carrier is varied", "Amplitude of carrier is varied", "Phase of carrier is varied", "All of these"],
+      "correct": 1
+    },
+    {
+      "question": "Which modulation is most noise-resistant?",
+      "options": ["AM", "FM", "PM", "PCM"],
+      "correct": 1
+    },
+    {
+      "question": "Bandwidth of AM wave is:",
+      "options": ["Equal to modulating frequency", "Twice the modulating frequency", "Equal to carrier frequency", "Sum of all"],
+      "correct": 1
+    },
+    {
+      "question": "In FM, the information is encoded in:",
+      "options": ["Amplitude", "Frequency", "Phase", "Pulse"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is NOT a guided medium?",
+      "options": ["Coaxial cable", "Optical fiber", "Free space", "Twisted pair"],
+      "correct": 2
+    },
+    {
+      "question": "The full form of AM is:",
+      "options": ["Amplitude Measurement", "Amplitude Modulation", "Average Modulation", "Angular Modulation"],
+      "correct": 1
+    },
+    {
+      "question": "Which wave has the highest frequency?",
+      "options": ["Radio wave", "Microwave", "Infrared", "Gamma ray"],
+      "correct": 3
+    },
+    {
+      "question": "The process of recovering message signal from modulated signal is:",
+      "options": ["Detection", "Amplification", "Multiplexing", "Modulation"],
+      "correct": 0
+    },
+    {
+      "question": "Digital signals are less affected by:",
+      "options": ["Noise", "Amplitude", "Frequency", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which frequency band is used for satellite communication?",
+      "options": ["VLF", "UHF", "SHF", "VHF"],
+      "correct": 2
+    },
+    {
+      "question": "Bandwidth required for FM is given by:",
+      "options": ["Carson's Rule", "Heisenberg Principle", "Nyquist Theorem", "Kirchhoff's Law"],
+      "correct": 0
+    },
+    {
+      "question": "A repeater is used to:",
+      "options": ["Store data", "Amplify signal", "Reduce noise", "Transmit video"],
+      "correct": 1
+    },
+    {
+      "question": "Modulation is done at the transmitter to:",
+      "options": ["Increase bandwidth", "Reduce size", "Transmit over long distances", "Decrease frequency"],
+      "correct": 2
+    },
+    {
+      "question": "The best medium for long distance data transmission is:",
+      "options": ["Copper wire", "Twisted pair", "Fiber optic cable", "Coaxial cable"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not a mode of wave propagation?",
+      "options": ["Ground wave", "Sky wave", "Space wave", "Earth wave"],
+      "correct": 3
+    },
+    {
+      "question": "The ionosphere reflects which waves?",
+      "options": ["Microwaves", "Infrared", "AM radio waves", "Gamma rays"],
+      "correct": 2
+    },
+    {
+      "question": "Sky wave propagation is possible for:",
+      "options": ["VLF", "UHF", "HF", "SHF"],
+      "correct": 2
+    },
+    {
+      "question": "Which component generates carrier waves?",
+      "options": ["Amplifier", "Modulator", "Oscillator", "Receiver"],
+      "correct": 2
+    },
+    {
+      "question": "What is the minimum number of satellites required for GPS?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these is a digital modulation scheme?",
+      "options": ["ASK", "AM", "FM", "PM"],
+      "correct": 0
+    },
+    {
+      "question": "Which signal is continuous in time and amplitude?",
+      "options": ["Digital", "Analog", "Discrete", "Square wave"],
+      "correct": 1
+    },
+    {
+      "question": "The range of microwaves is:",
+      "options": ["30 MHz – 300 MHz", "3 GHz – 300 GHz", "3 kHz – 30 kHz", "30 GHz – 300 GHz"],
+      "correct": 1
+    },
+    {
+      "question": "In optical communication, light is confined by:",
+      "options": ["Diffraction", "Total internal reflection", "Refraction", "Reflection"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following can be used for video signals?",
+      "options": ["AM", "FM", "PCM", "TDM"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is used in radio broadcasting?",
+      "options": ["Sky wave", "Space wave", "Ground wave", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Modulation is necessary to:",
+      "options": ["Reduce noise", "Transmit at higher frequencies", "Improve clarity", "All"],
+      "correct": 3
+    },
+    {
+      "question": "The unit of signal bandwidth is:",
+      "options": ["Hz", "dB", "W", "m"],
+      "correct": 0
+    },
+    {
+      "question": "TDM stands for:",
+      "options": ["Time domain modulation", "Time domain multiplexing", "Time delay modulation", "Tele data multiplexing"],
+      "correct": 1
+    },
+    {
+      "question": "In amplitude modulation, the amplitude of the carrier wave is varied in accordance with:",
+      "options": ["Carrier signal", "Message signal", "Noise signal", "Pulse signal"],
+      "correct": 1
+    },
+    {
+      "question": "In communication system, noise refers to:",
+      "options": ["Voice message", "Interference", "Clarity", "Signal"],
+      "correct": 1
+    },
+    {
+      "question": "Which frequency range is used in FM broadcasting?",
+      "options": ["88–108 MHz", "540–1600 kHz", "3–30 MHz", "2–4 GHz"],
+      "correct": 0
+    },
+    {
+      "question": "Which device is used to convert electrical signal to electromagnetic wave?",
+      "options": ["Antenna", "Transducer", "Amplifier", "Modulator"],
+      "correct": 0
+    },
+    {
+      "question": "Which one is a modulation technique?",
+      "options": ["TDM", "AM", "Noise", "Duplexing"],
+      "correct": 1
+    },
+    {
+      "question": "Pulse code modulation is a form of:",
+      "options": ["Analog modulation", "Digital modulation", "Hybrid modulation", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Attenuation in communication means:",
+      "options": ["Strengthening of signal", "Loss of signal strength", "Signal reflection", "Noise removal"],
+      "correct": 1
+    },
+    {
+      "question": "Which wave propagation mode is used for TV transmission?",
+      "options": ["Ground", "Sky", "Space", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The speed of electromagnetic waves in vacuum is:",
+      "options": ["3 × 10⁶ m/s", "3 × 10⁸ m/s", "1 × 10⁸ m/s", "1 × 10⁶ m/s"],
+      "correct": 1
+    },
+    {
+      "question": "Which layer of atmosphere reflects HF waves?",
+      "options": ["Stratosphere", "Troposphere", "Ionosphere", "Mesosphere"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is used for mobile communication?",
+      "options": ["AM", "FM", "Microwave", "Optical Fiber"],
+      "correct": 2
+    },
+    {
+      "question": "Multiplexing is used to:",
+      "options": ["Reduce noise", "Send multiple signals", "Increase frequency", "Encode signals"],
+      "correct": 1
+    },
+    {
+      "question": "Amplitude modulation involves variation in:",
+      "options": ["Frequency", "Amplitude", "Phase", "Speed"],
+      "correct": 1
+    },
+    {
+      "question": "Which is the fastest communication channel?",
+      "options": ["Twisted pair", "Optical fiber", "Coaxial cable", "Microwave"],
+      "correct": 1
+    },
+    {
+      "question": "A message signal is superimposed on carrier using:",
+      "options": ["Transmitter", "Modulator", "Detector", "Antenna"],
+      "correct": 1
+    },
+    {
+      "question": "In frequency modulation, bandwidth is:",
+      "options": ["More than AM", "Less than AM", "Same as AM", "Zero"],
+      "correct": 0
+    },
+    {
+      "question": "Noise is more harmful in:",
+      "options": ["Analog communication", "Digital communication", "Both equally", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The number of bits per second transmitted is called:",
+      "options": ["Baud rate", "Bit rate", "Code rate", "Sample rate"],
+      "correct": 1
+    },
+    {
+      "question": "For long-distance communication, best mode is:",
+      "options": ["AM", "FM", "Optical fiber", "Satellite"],
+      "correct": 3
+    },
+    {
+      "question": "Which device is used to convert sound to electrical signal?",
+      "options": ["Microphone", "Speaker", "Transmitter", "Receiver"],
+      "correct": 0
+    }
+  ]
+}

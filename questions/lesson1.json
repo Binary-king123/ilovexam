@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is not a fundamental quantity?",
+      "options": ["Length", "Mass", "Time", "Velocity"],
+      "correct": 3
+    },
+    {
+      "question": "SI unit of electric current is:",
+      "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+      "correct": 1
+    },
+    {
+      "question": "Dimensional formula of work is:",
+      "options": ["[MLT]", "[ML^2T^-2]", "[M^2LT^-2]", "[ML^2T^-1]"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following pairs have same dimensions?",
+      "options": ["Force and Work", "Torque and Energy", "Pressure and Stress", "Power and Force"],
+      "correct": 2
+    },
+    {
+      "question": "The number of significant figures in 0.00250 is:",
+      "options": ["2", "3", "4", "5"],
+      "correct": 1
+    },
+    {
+      "question": "Which one of the following is not a unit of time?",
+      "options": ["Year", "Second", "Light year", "Day"],
+      "correct": 2
+    },
+    {
+      "question": "Dimensional formula of Planck’s constant is:",
+      "options": ["[ML^2T^-2]", "[ML^2T^-1]", "[MLT^-1]", "[MLT^-2]"],
+      "correct": 1
+    },
+    {
+      "question": "Which physical quantity has the dimensional formula [ML^0T^-2]?",
+      "options": ["Force", "Pressure", "Tension", "Energy"],
+      "correct": 2
+    },
+    {
+      "question": "Light year is a unit of:",
+      "options": ["Time", "Distance", "Speed", "Light"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a derived unit?",
+      "options": ["Metre", "Kilogram", "Second", "Joule"],
+      "correct": 3
+    },
+    {
+      "question": "The SI unit of pressure is:",
+      "options": ["Bar", "Pascal", "Torr", "Atmosphere"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a non-SI unit?",
+      "options": ["Candela", "Calorie", "Kelvin", "Mole"],
+      "correct": 1
+    },
+    {
+      "question": "Which quantity is dimensionless?",
+      "options": ["Strain", "Speed", "Work", "Current"],
+      "correct": 0
+    },
+    {
+      "question": "If a body moves with uniform acceleration, which of the following quantities remains constant?",
+      "options": ["Velocity", "Acceleration", "Distance", "Displacement"],
+      "correct": 1
+    },
+    {
+      "question": "The dimensional formula for force is:",
+      "options": ["[MLT^-2]", "[ML^2T^-2]", "[MLT^-1]", "[M^2LT^-2]"],
+      "correct": 0
+    },
+    {
+      "question": "Which quantity has the same dimensional formula as momentum?",
+      "options": ["Impulse", "Force", "Kinetic Energy", "Acceleration"],
+      "correct": 0
+    },
+    {
+      "question": "Accuracy of a measurement is:",
+      "options": ["Closeness to true value", "Degree of reproducibility", "Error range", "Measurement standard"],
+      "correct": 0
+    },
+    {
+      "question": "Precision is related to:",
+      "options": ["True value", "Consistency", "Error", "All of the above"],
+      "correct": 1
+    },
+    {
+      "question": "Which has greater precision: 9.8 or 9.800?",
+      "options": ["9.8", "9.800", "Same", "Cannot say"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has dimensional formula [M^0L^0T^0]?",
+      "options": ["Strain", "Angle", "Specific gravity", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The number of significant figures in 0.007060 is:",
+      "options": ["4", "5", "6", "7"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not a valid method of measurement?",
+      "options": ["Direct", "Indirect", "Comparative", "Imaginary"],
+      "correct": 3
+    },
+    {
+      "question": "Dimensional formula of energy is same as that of:",
+      "options": ["Torque", "Force", "Pressure", "Power"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is used to measure very small length?",
+      "options": ["Vernier calipers", "Screw gauge", "Meter scale", "Spring balance"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is dimensionless?",
+      "options": ["Refractive index", "Gravitational constant", "Angular velocity", "Electric field"],
+      "correct": 0
+    },
+    {
+      "question": "The SI unit of solid angle is:",
+      "options": ["Steradian", "Radian", "Degree", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is NOT a base unit in SI?",
+      "options": ["Ampere", "Mole", "Newton", "Kelvin"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a scalar quantity?",
+      "options": ["Force", "Velocity", "Acceleration", "Work"],
+      "correct": 3
+    },
+    {
+      "question": "Dimension of universal gravitational constant G is:",
+      "options": ["[M^-1L^3T^-2]", "[ML^3T^-2]", "[M^-1L^2T^-2]", "[ML^-3T^2]"],
+      "correct": 0
+    },
+    {
+      "question": "The error in the product of two measurements is:",
+      "options": ["Sum of relative errors", "Difference of absolute errors", "Product of errors", "Sum of absolute errors"],
+      "correct": 0
+    },
+    {
+      "question": "Which physical quantity has dimensions [ML^0T^-2]?",
+      "options": ["Energy", "Tension", "Velocity", "Power"],
+      "correct": 1
+    },
+    {
+      "question": "Dimension of impulse is same as that of:",
+      "options": ["Work", "Power", "Momentum", "Force"],
+      "correct": 2
+    },
+    {
+      "question": "The unit 'hertz' is used to measure:",
+      "options": ["Wavelength", "Frequency", "Speed", "Displacement"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these quantities is dimensionless but has a unit?",
+      "options": ["Angle", "Strain", "Relative density", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Significant figures in 500.0 are:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 3
+    },
+    {
+      "question": "Error is said to be systematic when it:",
+      "options": ["Varies randomly", "Has definite pattern", "Is due to carelessness", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following quantities has same dimension as angular momentum?",
+      "options": ["Work", "Energy", "Torque × Time", "Linear Momentum"],
+      "correct": 2
+    },
+    {
+      "question": "If percentage error in A is 2%, in B is 3%, then in A/B the error is:",
+      "options": ["5%", "1%", "6%", "0%"],
+      "correct": 0
+    },
+    {
+      "question": "SI unit of luminous intensity is:",
+      "options": ["Candela", "Lumen", "Lux", "Steradian"],
+      "correct": 0
+    },
+    {
+      "question": "SI unit of amount of substance is:",
+      "options": ["Mole", "Gram", "Kg", "Atom"],
+      "correct": 0
+    },
+    {
+      "question": "Which is the most accurate instrument?",
+      "options": ["Meter scale", "Vernier calipers", "Screw gauge", "Stopwatch"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a vector quantity?",
+      "options": ["Speed", "Distance", "Time", "Displacement"],
+      "correct": 3
+    },
+    {
+      "question": "1 angstrom = ______ m",
+      "options": ["10^-9", "10^-10", "10^-8", "10^-12"],
+      "correct": 1
+    },
+    {
+      "question": "Dimensional formula of pressure is:",
+      "options": ["[MLT^-2]", "[ML^-1T^-2]", "[ML^2T^-2]", "[ML^-2T^-1]"],
+      "correct": 1
+    },
+    {
+      "question": "Unit of power is:",
+      "options": ["Watt", "Joule", "Newton", "Volt"],
+      "correct": 0
+    },
+    {
+      "question": "Which physical quantity has unit kg m^2/s^2?",
+      "options": ["Force", "Energy", "Pressure", "Power"],
+      "correct": 1
+    },
+    {
+      "question": "Random errors arise due to:",
+      "options": ["Instrument fault", "Environmental changes", "Carelessness", "Unpredictable factors"],
+      "correct": 3
+    },
+    {
+      "question": "Least count of a screw gauge is:",
+      "options": ["1 mm", "0.01 mm", "0.1 mm", "0.001 mm"],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "test": [
+    {
+      "question": "The area bounded by a curve y = f(x), x = a, x = b and x-axis is given by:",
+      "options": ["∫ₐᵇf(x)dx", "∫f '(x)dx", "∫₀ᵃf(x)dx", "f(x)dx"],
+      "correct": 0
+    },
+    {
+      "question": "If a function is symmetric about y-axis, it is:",
+      "options": ["Even", "Odd", "Neither", "Constant"],
+      "correct": 0
+    },
+    {
+      "question": "Area under y = |x| from x = -1 to x = 1 is:",
+      "options": ["0", "1", "2", "1/2"],
+      "correct": 2
+    },
+    {
+      "question": "The area between y = x and y = x² from x = 0 to x = 1 is:",
+      "options": ["1/6", "1/2", "2/3", "5/6"],
+      "correct": 0
+    },
+    {
+      "question": "Area under one arch of sine curve from 0 to π is:",
+      "options": ["2", "1", "0", "2π"],
+      "correct": 1
+    },
+    {
+      "question": "The area bounded by y = √x, x = 0, x = 4 and x-axis is:",
+      "options": ["16/3", "8", "32/3", "4"],
+      "correct": 0
+    },
+    {
+      "question": "The area between two curves y = f(x) and y = g(x) over [a, b] is:",
+      "options": ["∫ₐᵇ[f(x) − g(x)] dx", "∫ₐᵇ[f(x) + g(x)] dx", "f(b) − g(a)", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) is odd, area between f(x) and x-axis from −a to a is:",
+      "options": ["0", "2∫₀ᵃf(x)dx", "−2∫₀ᵃf(x)dx", "None"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) is even, area from −a to a is:",
+      "options": ["0", "∫₀ᵃf(x)dx", "2∫₀ᵃf(x)dx", "−∫₀ᵃf(x)dx"],
+      "correct": 2
+    },
+    {
+      "question": "Area enclosed between y² = 4x and y = x is calculated by:",
+      "options": ["Vertical strip", "Horizontal strip", "Both", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The region bounded between x = a, x = b and y = 0, y = f(x) is known as:",
+      "options": ["Trapezoidal region", "Area under curve", "Surface area", "Line segment"],
+      "correct": 1
+    },
+    {
+      "question": "The integral ∫₋₁¹|x|dx equals:",
+      "options": ["0", "1", "2", "1/2"],
+      "correct": 2
+    },
+    {
+      "question": "Area under y = x from 0 to 2 is:",
+      "options": ["2", "4", "1", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The area bounded by y = sin(x) and x-axis from 0 to π is:",
+      "options": ["1", "2", "π", "0"],
+      "correct": 0
+    },
+    {
+      "question": "The curve y = x² is symmetric about:",
+      "options": ["x-axis", "y-axis", "y = x", "origin"],
+      "correct": 1
+    },
+    {
+      "question": "Area under y = cos(x) between 0 and π is:",
+      "options": ["0", "2", "1", "−1"],
+      "correct": 0
+    },
+    {
+      "question": "For definite integrals, the area is always taken as:",
+      "options": ["Negative", "Positive", "Depends on function", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "The net area under curve y = sin(x) from −π to π is:",
+      "options": ["2", "0", "π", "−π"],
+      "correct": 1
+    },
+    {
+      "question": "Area between curves y = x and y = x³ on [0,1] is:",
+      "options": ["3/4", "1/4", "1", "1/2"],
+      "correct": 1
+    },
+    {
+      "question": "Which method is best for vertical bounded regions?",
+      "options": ["Horizontal strip", "Vertical strip", "Integration by parts", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The area between curves is always:",
+      "options": ["Positive", "Negative", "Zero", "Imaginary"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) ≥ 0 on [a,b], then ∫ₐᵇf(x)dx represents:",
+      "options": ["Area", "Length", "Volume", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If two curves intersect at (a,f(a)) and (b,f(b)), area between them is calculated from:",
+      "options": ["a to b", "0 to a", "b to a", "−a to a"],
+      "correct": 0
+    },
+    {
+      "question": "∫₀²(x³ − x)dx gives area of:",
+      "options": ["Positive region only", "Net area", "Negative region only", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "The value of ∫₀ᵃ(ax − x²)dx is:",
+      "options": ["a³/3", "a³/6", "a²", "a"],
+      "correct": 0
+    },
+    {
+      "question": "The curve y = |x| is symmetric about:",
+      "options": ["x-axis", "y-axis", "origin", "x = y"],
+      "correct": 1
+    },
+    {
+      "question": "Area between y = x and y = −x over [−1, 1] is:",
+      "options": ["0", "2", "1", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The number of bounded areas between y = x² and y = x is:",
+      "options": ["0", "1", "2", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "If y = f(x) is below x-axis over [a,b], then ∫ₐᵇf(x)dx is:",
+      "options": ["Positive", "Zero", "Negative", "Imaginary"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = sin(x), area over [0,2π] is:",
+      "options": ["0", "2", "4", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The curve y = x² − 4x + 3 meets x-axis at:",
+      "options": ["x = 0,3", "x = 1,3", "x = 0,1", "x = 1,2"],
+      "correct": 1
+    },
+    {
+      "question": "Area between y = x² and y = 4 over [0,2] is:",
+      "options": ["8/3", "4", "16/3", "None"],
+      "correct": 0
+    },
+    {
+      "question": "∫₀^a x² dx represents:",
+      "options": ["Length", "Area", "Volume", "Slope"],
+      "correct": 1
+    },
+    {
+      "question": "Area under y = 2x from 0 to 3 is:",
+      "options": ["6", "9", "12", "3"],
+      "correct": 1
+    },
+    {
+      "question": "The area between curves y = sin(x) and y = cos(x) on [0, π/2] is:",
+      "options": ["1", "0", "2", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Area between y = x² and y = √x over [0,1] is:",
+      "options": ["1/3", "1/2", "1/6", "2/3"],
+      "correct": 3
+    },
+    {
+      "question": "For curve y = x², area between x = -a and x = a is:",
+      "options": ["a³", "2a³/3", "2a³", "a²"],
+      "correct": 1
+    },
+    {
+      "question": "Definite integral gives:",
+      "options": ["Area only", "Exact area", "Volume", "Limit"],
+      "correct": 1
+    },
+    {
+      "question": "∫ₐᵇf(x)dx is negative if:",
+      "options": ["f(x) < 0 on [a,b]", "f(x) > 0", "a > b", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The integral ∫₋₁¹x dx equals:",
+      "options": ["1", "0", "−1", "2"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = |x|, area from −2 to 2 is:",
+      "options": ["4", "2", "0", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Total area enclosed by y = sin(x) from 0 to 2π is:",
+      "options": ["0", "2", "4", "2π"],
+      "correct": 1
+    },
+    {
+      "question": "To find area between intersecting curves, first:",
+      "options": ["Differentiate", "Integrate", "Find intersection points", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Area enclosed between y = x² and y = 2x is:",
+      "options": ["2/3", "4/3", "3", "1"],
+      "correct": 1
+    },
+    {
+      "question": "Area between y = x and x-axis from x = −1 to x = 1 is:",
+      "options": ["0", "1", "2", "None"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) ≤ g(x) on [a,b], then area between is:",
+      "options": ["∫ₐᵇ[f(x) − g(x)]dx", "∫ₐᵇ[g(x) − f(x)]dx", "f(a) − g(b)", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Area enclosed by y = x and y = x² is bounded between:",
+      "options": ["x = 0 to x = 1", "x = −1 to x = 0", "x = −1 to x = 1", "None"],
+      "correct": 0
+    }
+  ]
+}

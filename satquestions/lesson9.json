@@ -1,0 +1,245 @@
+{
+  "test": [
+    {
+      "question": "What is the result of (x + 3)(x - 2)?",
+      "options": ["x² + x - 6", "x² - x - 6", "x² + 5", "x² - 6"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (x² - 9)/(x - 3)",
+      "options": ["x + 3", "x - 3", "x² + 3", "x + 9"],
+      "correct": 0
+    },
+    {
+      "question": "Factor: x² - 4x - 12",
+      "options": ["(x - 6)(x + 2)", "(x + 6)(x - 2)", "(x - 3)(x + 4)", "(x - 4)(x - 3)"],
+      "correct": 0
+    },
+    {
+      "question": "Expand: (2x - 5)(x + 3)",
+      "options": ["2x² + x - 15", "2x² - x - 15", "2x² + 6x - 5", "2x² + x + 15"],
+      "correct": 0
+    },
+    {
+      "question": "What is the leading coefficient of the polynomial 5x³ - 4x² + 2x - 1?",
+      "options": ["-4", "5", "2", "1"],
+      "correct": 1
+    },
+    {
+      "question": "Simplify: (2x² + 3x - 5) - (x² - x + 2)",
+      "options": ["x² + 4x - 7", "x² + 2x - 3", "x² + 3x - 3", "3x² - 4x - 3"],
+      "correct": 0
+    },
+    {
+      "question": "Factor completely: x² + 5x + 6",
+      "options": ["(x + 1)(x + 6)", "(x - 1)(x - 6)", "(x + 2)(x + 3)", "(x - 2)(x - 3)"],
+      "correct": 2
+    },
+    {
+      "question": "What is the result of dividing x² - 4 by x - 2?",
+      "options": ["x + 2", "x - 2", "x² - 2", "2x + 4"],
+      "correct": 0
+    },
+    {
+      "question": "What is the degree of the polynomial 4x⁵ - 2x³ + x² - 8?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 3
+    },
+    {
+      "question": "Simplify: (x² + 2x + 1)/(x + 1)",
+      "options": ["x + 1", "x + 2", "x - 1", "x"],
+      "correct": 0
+    },
+    {
+      "question": "Factor: x² - 16",
+      "options": ["(x - 4)(x + 4)", "(x - 8)(x + 2)", "(x + 4)(x + 4)", "(x - 2)(x + 2)"],
+      "correct": 0
+    },
+    {
+      "question": "What is the remainder when x² - 3x + 2 is divided by x - 1?",
+      "options": ["0", "1", "2", "3"],
+      "correct": 0
+    },
+    {
+      "question": "Factor: x² + 6x + 9",
+      "options": ["(x + 3)(x + 3)", "(x + 9)(x - 3)", "(x + 1)(x + 9)", "(x - 3)(x - 3)"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (3x² - x - 2) + (x² + 4x + 5)",
+      "options": ["4x² + 3x + 3", "4x² + 5x + 7", "2x² + 3x + 3", "2x² + 5x + 5"],
+      "correct": 1
+    },
+    {
+      "question": "What is the result of (x - 2)²?",
+      "options": ["x² - 4", "x² - 4x + 4", "x² + 4x + 4", "x² - 2x + 4"],
+      "correct": 1
+    },
+    {
+      "question": "Factor: x² - 10x + 21",
+      "options": ["(x - 3)(x - 7)", "(x + 3)(x + 7)", "(x - 1)(x - 21)", "(x - 2)(x - 9)"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (x + 2)(x - 5)",
+      "options": ["x² - 3x - 10", "x² - 3x + 10", "x² - 7x + 10", "x² + 3x - 10"],
+      "correct": 0
+    },
+    {
+      "question": "What is the product of (x + 4)(x - 4)?",
+      "options": ["x² + 16", "x² - 8", "x² - 16", "x² + 8"],
+      "correct": 2
+    },
+    {
+      "question": "Simplify: (x² - 1)/(x - 1)",
+      "options": ["x - 1", "x + 1", "x² + 1", "1"],
+      "correct": 1
+    },
+    {
+      "question": "Factor completely: x² - x - 6",
+      "options": ["(x - 3)(x + 2)", "(x - 2)(x + 3)", "(x + 3)(x + 2)", "(x - 3)(x - 2)"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (x² + 5x + 6)/(x + 2)",
+      "options": ["x + 3", "x + 2", "x + 1", "x + 6"],
+      "correct": 0
+    },
+    {
+      "question": "What is the simplified form of (2x² + 3x - 2) - (x² - x + 5)?",
+      "options": ["x² + 4x - 7", "x² + 2x - 3", "x² + 3x - 3", "3x² - 4x - 3"],
+      "correct": 0
+    },
+    {
+      "question": "Factor: x² - x - 12",
+      "options": ["(x - 4)(x + 3)", "(x - 3)(x + 4)", "(x + 6)(x - 2)", "(x - 6)(x + 2)"],
+      "correct": 0
+    },
+    {
+      "question": "What is the simplified form of (x² + 4x + 4)/(x + 2)?",
+      "options": ["x + 2", "x - 2", "x² + 4", "x + 4"],
+      "correct": 0
+    },
+    {
+      "question": "What is the sum of (x² - 2x + 1) and (3x² + x - 5)?",
+      "options": ["4x² - x - 4", "4x² - x + 6", "2x² - x - 6", "4x² + x - 6"],
+      "correct": 0
+    },
+
+    {
+      "question": "Simplify: (x² - 6x + 9)/(x - 3)",
+      "options": ["x - 3", "x + 3", "x - 6", "x"],
+      "correct": 0
+    },
+    {
+      "question": "Factor: 2x² + 7x + 3",
+      "options": ["(2x + 1)(x + 3)", "(2x + 3)(x + 1)", "(x + 1)(x + 3)", "(2x + 1)(x + 2)"],
+      "correct": 0
+    },
+    {
+      "question": "What is the simplified form of (x² + 2x - 8)/(x + 4)?",
+      "options": ["x - 2", "x + 2", "x - 4", "x + 4"],
+      "correct": 0
+    },
+    {
+      "question": "Factor: x³ - 27",
+      "options": ["(x - 3)(x² + 3x + 9)", "(x + 3)(x² - 3x + 9)", "(x - 3)(x² - 3x + 9)", "(x + 3)(x² + 3x + 9)"],
+      "correct": 0
+    },
+    {
+      "question": "What is the result of dividing x³ + 2x² - x - 2 by x + 1?",
+      "options": ["x² + x - 2", "x² + x + 2", "x² + x - 1", "x² - x - 2"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (x³ - 1)/(x - 1)",
+      "options": ["x² + x + 1", "x² - x + 1", "x² + 1", "x² - 1"],
+      "correct": 0
+    },
+    {
+      "question": "Factor: x³ + 3x² - 4x - 12",
+      "options": ["(x + 3)(x² - 4)", "(x + 3)(x + 2)(x - 2)", "(x - 3)(x² + 4)", "(x - 3)(x + 2)(x + 2)"],
+      "correct": 1
+    },
+    {
+      "question": "Simplify: (x⁴ - 16)/(x² - 4)",
+      "options": ["x² + 4", "x² - 4", "x² + 2", "x² + 2x + 4"],
+      "correct": 0
+    },
+    {
+      "question": "What is the quotient of (x³ + 6x² + 11x + 6)/(x + 1)?",
+      "options": ["x² + 5x + 6", "x² + 6x + 5", "x² + 4x + 3", "x² + 3x + 2"],
+      "correct": 0
+    },
+    {
+      "question": "Factor completely: x⁴ - 16",
+      "options": ["(x² - 4)(x² + 4)", "(x - 2)(x + 2)(x² + 4)", "(x - 4)(x + 4)", "(x² - 2)(x² + 2)"],
+      "correct": 1
+    },
+    {
+      "question": "What is the value of x in (x² - 1)/(x - 1) = 8?",
+      "options": ["0", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Simplify: [(x² - 4x + 3)/(x - 1)] ÷ [(x - 3)/(x - 1)]",
+      "options": ["x - 1", "x - 3", "x - 2", "x - 4"],
+      "correct": 0
+    },
+    {
+      "question": "What is the domain of f(x) = (x² - 1)/(x - 1)?",
+      "options": ["x ≠ 1", "x ≠ -1", "All real numbers", "x ≠ 0"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (x³ - x)/(x² - 1)",
+      "options": ["x", "x + 1", "x - 1", "x"],
+      "correct": 0
+    },
+    {
+      "question": "Factor completely: x³ - x² - 4x + 4",
+      "options": ["(x - 1)(x² - 4)", "(x - 1)(x - 2)(x + 2)", "(x² - 4)(x - 1)", "(x - 1)²(x - 4)"],
+      "correct": 1
+    },
+    {
+      "question": "Simplify: (x² - 6x + 9)/(x - 3)",
+      "options": ["x - 3", "x + 3", "x - 6", "x"],
+      "correct": 0
+    },
+    {
+      "question": "Divide: (x³ + 8) ÷ (x + 2)",
+      "options": ["x² - 2x + 4", "x² + 2x + 4", "x² + 4x + 2", "x² + 3x + 4"],
+      "correct": 1
+    },
+    {
+      "question": "Factor: 9x² - 25",
+      "options": ["(3x - 5)(3x + 5)", "(x - 5)(x + 5)", "(9x - 5)(x + 5)", "(3x - 1)(3x + 5)"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (x³ + 3x² + 3x + 1)/(x + 1)",
+      "options": ["x² + 2x + 1", "x² + 3x + 1", "x² + x + 1", "x² + 3x + 3"],
+      "correct": 3
+    },
+    {
+      "question": "What is the result of (x² + 6x + 9)/(x + 3)?",
+      "options": ["x + 3", "x - 3", "x + 6", "x + 9"],
+      "correct": 0
+    },
+    {
+      "question": "Factor: x⁴ - 1",
+      "options": ["(x² - 1)(x² + 1)", "(x - 1)(x + 1)(x² + 1)", "(x² + 1)²", "(x - 1)(x + 1)(x² - 1)"],
+      "correct": 1
+    },
+    {
+      "question": "Factor: x³ + x² - 6x - 6",
+      "options": ["(x + 3)(x + 1)(x - 2)", "(x + 3)(x - 1)(x - 2)", "(x + 2)(x - 1)(x - 3)", "(x + 2)(x - 3)(x + 1)"],
+      "correct": 0
+    },
+    {
+      "question": "Divide: (x³ - 1)/(x - 1)",
+      "options": ["x² + x + 1", "x² - x + 1", "x² + 1", "x² - 1"],
+      "correct": 0
+    }
+  ]
+}

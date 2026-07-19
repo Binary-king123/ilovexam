@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "If A = {1, 2}, B = {3, 4}, then number of functions from A to B is:",
+      "options": ["2", "4", "8", "16"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = x² + 1, then f(3) = ?",
+      "options": ["10", "8", "7", "9"],
+      "correct": 0
+    },
+    {
+      "question": "A relation R on set A is called reflexive if:",
+      "options": ["a R a ∀ a ∈ A", "a R b ∀ a ≠ b", "a R b ⇔ b R a", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "The relation R = {(1,1), (2,2), (3,3)} on A = {1,2,3} is:",
+      "options": ["Symmetric only", "Reflexive only", "Reflexive and symmetric", "Reflexive, symmetric and transitive"],
+      "correct": 3
+    },
+    {
+      "question": "If f: A → B is a bijection, then:",
+      "options": ["f is injective only", "f is surjective only", "f is both injective and surjective", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The total number of binary relations on a set with 3 elements is:",
+      "options": ["9", "81", "512", "64"],
+      "correct": 2
+    },
+    {
+      "question": "A function is invertible if and only if it is:",
+      "options": ["Injective", "Surjective", "Bijective", "Neither"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = 2x + 1 and g(x) = x², then f∘g(x) is:",
+      "options": ["2x² + 1", "x² + 2x + 1", "2x + x² + 1", "2x + 2"],
+      "correct": 0
+    },
+    {
+      "question": "The identity function I on a set A is defined by:",
+      "options": ["I(x) = x²", "I(x) = 0", "I(x) = 1", "I(x) = x"],
+      "correct": 3
+    },
+    {
+      "question": "A function f: R → R is defined by f(x) = 3x − 5. It is:",
+      "options": ["Injective only", "Surjective only", "Bijective", "Not a function"],
+      "correct": 2
+    },
+    {
+      "question": "The domain of the function f(x) = √(x − 3) is:",
+      "options": ["x > 3", "x ≥ 3", "x < 3", "x ≤ 3"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a function?",
+      "options": ["f(x) = x²", "f(x) = ±√x", "f(x) = |x|", "f(x) = sin(x)"],
+      "correct": 1
+    },
+    {
+      "question": "The inverse of f(x) = 3x − 2 is:",
+      "options": ["(x + 2)/3", "(x − 2)/3", "3x + 2", "3x − 2"],
+      "correct": 0
+    },
+    {
+      "question": "The composition of functions is associative. That is:",
+      "options": ["f∘(g∘h) = (f∘g)∘h", "f + g = g + f", "f∘g = g∘f", "f∘f = f"],
+      "correct": 0
+    },
+    {
+      "question": "Let f: R → R, f(x) = x². Then f is:",
+      "options": ["Injective", "Surjective", "Bijective", "Neither"],
+      "correct": 3
+    },
+    {
+      "question": "If f(x) = x³, then the function is:",
+      "options": ["Not invertible", "Invertible", "Not defined", "Even function"],
+      "correct": 1
+    },
+    {
+      "question": "Number of reflexive relations on a set with 2 elements:",
+      "options": ["2", "4", "6", "16"],
+      "correct": 1
+    },
+    {
+      "question": "A symmetric relation on a set A must satisfy:",
+      "options": ["a R b implies b R a", "a R a", "a R b and b R c implies a R c", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The codomain of f: A → B is:",
+      "options": ["A", "B", "f(A)", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a one-one function?",
+      "options": ["f(x) = x²", "f(x) = |x|", "f(x) = x³", "f(x) = sin x"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = 2x + 3 and g(x) = x − 1, find f∘g(x):",
+      "options": ["2x + 1", "2x + 5", "2x − 1", "x + 2"],
+      "correct": 0
+    },
+    {
+      "question": "If a relation is both symmetric and transitive, is it reflexive?",
+      "options": ["Always", "Sometimes", "Never", "Not defined"],
+      "correct": 1
+    },
+    {
+      "question": "If a function f is even, then f(−x) = ?",
+      "options": ["−f(x)", "f(x)", "f(x) + x", "−x"],
+      "correct": 1
+    },
+    {
+      "question": "If a function f is odd, then f(−x) = ?",
+      "options": ["−f(x)", "f(x)", "f(x) + x", "x"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = sin x, then f is:",
+      "options": ["Injective", "Surjective", "Bijective", "Periodic"],
+      "correct": 3
+    },
+    {
+      "question": "The number of equivalence relations on a set with 3 elements is:",
+      "options": ["5", "6", "3", "7"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = ln(x), its domain is:",
+      "options": ["x ∈ R", "x > 0", "x ≥ 0", "x ≠ 0"],
+      "correct": 1
+    },
+    {
+      "question": "The range of f(x) = |x| is:",
+      "options": ["R", "R+", "R−", "[0, ∞)"],
+      "correct": 3
+    },
+    {
+      "question": "If f(x) = 1/x, then the function is defined for:",
+      "options": ["x = 0", "x ≠ 0", "x ≥ 0", "x ≤ 0"],
+      "correct": 1
+    },
+    {
+      "question": "f(x) = tan x is not defined at:",
+      "options": ["x = π/2", "x = π", "x = 0", "x = π/4"],
+      "correct": 0
+    },
+    {
+      "question": "If f: R → R is defined by f(x) = x, then f is:",
+      "options": ["Injective", "Surjective", "Bijective", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The function f(x) = e^x is:",
+      "options": ["Decreasing", "Odd", "One-one", "Periodic"],
+      "correct": 2
+    },
+    {
+      "question": "If f∘g = I, then f is:",
+      "options": ["Left inverse of g", "Right inverse of g", "Inverse of g", "Identity"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a bijective function?",
+      "options": ["f(x) = x", "f(x) = x³", "f(x) = sin x", "f(x) = ln x"],
+      "correct": 2
+    },
+    {
+      "question": "f(x) = log(x) is defined only for:",
+      "options": ["x ≥ 0", "x > 0", "x < 0", "x ≠ 0"],
+      "correct": 1
+    },
+    {
+      "question": "If f: R → R is f(x) = x + 1, then f is:",
+      "options": ["Bijective", "Not injective", "Not surjective", "Neither"],
+      "correct": 0
+    },
+    {
+      "question": "A constant function is:",
+      "options": ["One-one", "Onto", "Not one-one", "Injective"],
+      "correct": 2
+    },
+    {
+      "question": "If a function has multiple y for one x, it's called:",
+      "options": ["Function", "Relation", "Not a function", "Injective"],
+      "correct": 2
+    },
+    {
+      "question": "Inverse of the identity function is:",
+      "options": ["0", "1", "x", "Undefined"],
+      "correct": 2
+    },
+    {
+      "question": "The image of x under f is:",
+      "options": ["x", "f(x)", "domain", "codomain"],
+      "correct": 1
+    },
+    {
+      "question": "A function f is said to be onto if:",
+      "options": ["Every element of domain maps", "Every element of codomain is used", "All f(x) are unique", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Domain of f(x) = √(9 − x²):",
+      "options": ["(−∞, ∞)", "x² ≤ 9", "|x| < 3", "[−3, 3]"],
+      "correct": 3
+    },
+    {
+      "question": "Function f(x) = 1/(x − 2) is undefined at:",
+      "options": ["x = 1", "x = 0", "x = 2", "x = 3"],
+      "correct": 2
+    },
+    {
+      "question": "If f is one-one but not onto, then:",
+      "options": ["f is injective", "f is bijective", "f is surjective", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Composition of a function with its inverse gives:",
+      "options": ["0", "1", "Identity", "Inverse"],
+      "correct": 2
+    },
+    {
+      "question": "Which is always true for any function f?",
+      "options": ["f∘f⁻¹ = I", "f⁻¹∘f = I", "f(f⁻¹(x)) = x", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Let f: R → R be f(x) = x². Then f is invertible over:",
+      "options": ["R", "R+", "[0, ∞)", "(−∞, 0)"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = x² and x ∈ [−2, 2], the range is:",
+      "options": ["(−∞, ∞)", "[0, 4]", "[−4, 4]", "[1, 4]"],
+      "correct": 1
+    },
+    {
+      "question": "The relation R = {(1,1), (2,2)} on A = {1,2,3} is:",
+      "options": ["Reflexive", "Symmetric", "Transitive", "None of these"],
+      "correct": 3
+    }
+  ]
+}

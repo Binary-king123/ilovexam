@@ -1,0 +1,244 @@
+{
+  "chemical_bonding_and_molecular_structure": [
+    {
+      "question": "Which of the following has a linear shape?",
+      "options": ["H₂O", "CO₂", "NH₃", "CH₄"],
+      "correct": 1
+    },
+    {
+      "question": "The type of hybridization in BF₃ is:",
+      "options": ["sp", "sp²", "sp³", "dsp²"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following molecules has a tetrahedral shape?",
+      "options": ["CO₂", "NH₃", "CH₄", "H₂O"],
+      "correct": 2
+    },
+    {
+      "question": "The bond angle in water is approximately:",
+      "options": ["90°", "104.5°", "120°", "109.5°"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following species has sp³ hybridization?",
+      "options": ["BeCl₂", "BF₃", "NH₃", "CO₂"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has the highest bond order?",
+      "options": ["O₂", "O₂⁻", "O₂⁺", "O₂²⁻"],
+      "correct": 2
+    },
+    {
+      "question": "The number of sigma and pi bonds in ethene (C₂H₄) are:",
+      "options": ["5 sigma, 1 pi", "6 sigma, 1 pi", "4 sigma, 2 pi", "3 sigma, 1 pi"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following contains a coordinate bond?",
+      "options": ["HCl", "NH₄⁺", "CH₄", "O₂"],
+      "correct": 1
+    },
+    {
+      "question": "Ionic compounds generally have:",
+      "options": ["Low melting points", "High melting points", "Poor solubility in water", "Low boiling points"],
+      "correct": 1
+    },
+    {
+      "question": "A molecule with a trigonal planar shape is:",
+      "options": ["NH₃", "CH₄", "BF₃", "H₂O"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an example of sp hybridization?",
+      "options": ["BeCl₂", "NH₃", "CH₄", "BF₃"],
+      "correct": 0
+    },
+    {
+      "question": "What is the bond order of N₂ molecule?",
+      "options": ["2", "2.5", "3", "3.5"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following molecules has zero dipole moment?",
+      "options": ["H₂O", "CO₂", "NH₃", "HCl"],
+      "correct": 1
+    },
+    {
+      "question": "The VSEPR theory is used to predict:",
+      "options": ["Bond length", "Bond strength", "Molecular shape", "Lattice energy"],
+      "correct": 2
+    },
+    {
+      "question": "Hybridization of carbon in ethyne (C₂H₂) is:",
+      "options": ["sp³", "sp²", "sp", "sp²d"],
+      "correct": 2
+    },
+    {
+      "question": "Which molecule is pyramidal in shape?",
+      "options": ["CH₄", "H₂O", "NH₃", "CO₂"],
+      "correct": 2
+    },
+    {
+      "question": "In ionic bonds, electrons are:",
+      "options": ["Shared equally", "Shared unequally", "Transferred", "Delocalized"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has lone pairs on the central atom?",
+      "options": ["CH₄", "BF₃", "NH₃", "CO₂"],
+      "correct": 2
+    },
+    {
+      "question": "Bond angle in methane (CH₄) is:",
+      "options": ["120°", "90°", "109.5°", "104.5°"],
+      "correct": 2
+    },
+    {
+      "question": "The molecule having dsp³ hybridization is:",
+      "options": ["PCl₅", "CH₄", "SF₆", "NH₃"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is non-polar?",
+      "options": ["H₂O", "NH₃", "CO₂", "HF"],
+      "correct": 2
+    },
+    {
+      "question": "Which molecule has bent shape?",
+      "options": ["CH₄", "CO₂", "NH₃", "H₂O"],
+      "correct": 3
+    },
+    {
+      "question": "The shape of XeF₂ is:",
+      "options": ["Linear", "T-shaped", "Bent", "Trigonal planar"],
+      "correct": 0
+    },
+    {
+      "question": "The bond formed by head-on overlap of orbitals is:",
+      "options": ["Sigma bond", "Pi bond", "Coordinate bond", "Metallic bond"],
+      "correct": 0
+    },
+    {
+      "question": "Which species is isoelectronic with CO?",
+      "options": ["NO", "CN⁻", "N₂", "O₂"],
+      "correct": 1
+    },
+    {
+      "question": "The bond angle in NH₃ is less than 109.5° due to:",
+      "options": ["Electron deficiency", "Lone pair repulsion", "Octet rule", "Hydrogen bonding"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following shows resonance?",
+      "options": ["H₂O", "NH₃", "O₃", "CH₄"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has the strongest bond?",
+      "options": ["Single bond", "Double bond", "Triple bond", "Coordinate bond"],
+      "correct": 2
+    },
+    {
+      "question": "The central atom in SF₆ undergoes ______ hybridization.",
+      "options": ["sp³d", "sp³d²", "sp²", "sp³"],
+      "correct": 1
+    },
+    {
+      "question": "A molecule with square planar geometry is:",
+      "options": ["XeF₂", "SF₄", "XeF₄", "NH₄⁺"],
+      "correct": 2
+    },
+    {
+      "question": "How many sigma bonds are present in benzene?",
+      "options": ["9", "12", "15", "18"],
+      "correct": 1
+    },
+    {
+      "question": "Which hybridization leads to a trigonal bipyramidal shape?",
+      "options": ["sp³", "sp³d", "sp³d²", "dsp²"],
+      "correct": 1
+    },
+    {
+      "question": "Lone pairs of electrons occupy _______ position in trigonal bipyramidal geometry.",
+      "options": ["Axial", "Equatorial", "Both", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The bond angle in BCl₃ is:",
+      "options": ["180°", "120°", "109.5°", "104.5°"],
+      "correct": 1
+    },
+    {
+      "question": "The hybridization of central atom in NO₃⁻ is:",
+      "options": ["sp", "sp²", "sp³", "sp³d"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound has all covalent bonds?",
+      "options": ["NaCl", "MgCl₂", "CH₄", "CaCl₂"],
+      "correct": 2
+    },
+    {
+      "question": "In which molecule is there no lone pair on central atom?",
+      "options": ["H₂O", "NH₃", "CH₄", "XeF₂"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not an example of hydrogen bonding?",
+      "options": ["NH₃", "H₂O", "HF", "CH₄"],
+      "correct": 3
+    },
+    {
+      "question": "The molecule having sp³d² hybridization is:",
+      "options": ["SF₆", "PCl₅", "NH₄⁺", "XeF₂"],
+      "correct": 0
+    },
+    {
+      "question": "Formal charge on oxygen in O₃ is:",
+      "options": ["0", "+1", "-1", "+2"],
+      "correct": 0
+    },
+    {
+      "question": "Which one is a polar molecule?",
+      "options": ["CO₂", "CCl₄", "HCl", "BF₃"],
+      "correct": 2
+    },
+    {
+      "question": "Which pair of molecules is isoelectronic?",
+      "options": ["CO and NO", "N₂ and O₂", "CO and CN⁻", "O₂ and NO"],
+      "correct": 2
+    },
+    {
+      "question": "Dipole moment of trans-isomer is:",
+      "options": ["Zero", "Greater than cis", "Less than cis", "Unpredictable"],
+      "correct": 0
+    },
+    {
+      "question": "What is the geometry of NH₄⁺ ion?",
+      "options": ["Pyramidal", "Trigonal planar", "Tetrahedral", "Bent"],
+      "correct": 2
+    },
+    {
+      "question": "Which molecule has a planar structure?",
+      "options": ["CH₄", "NH₃", "BF₃", "H₂O"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a dative bond?",
+      "options": ["O=O", "N≡N", "NH₄⁺", "CH₄"],
+      "correct": 2
+    },
+    {
+      "question": "Which bond is the weakest?",
+      "options": ["Ionic", "Covalent", "Hydrogen", "Metallic"],
+      "correct": 2
+    },
+    {
+      "question": "The shape of CH₄ molecule is:",
+      "options": ["Trigonal planar", "Tetrahedral", "Bent", "Pyramidal"],
+      "correct": 1
+    }
+  ]
+}

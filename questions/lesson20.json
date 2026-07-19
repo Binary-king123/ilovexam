@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Who discovered electromagnetic induction?",
+      "options": ["Faraday", "Oersted", "Ampere", "Lenz"],
+      "correct": 0
+    },
+    {
+      "question": "The SI unit of magnetic flux is:",
+      "options": ["Tesla", "Weber", "Gauss", "Henry"],
+      "correct": 1
+    },
+    {
+      "question": "Faraday’s law is related to:",
+      "options": ["Magnetic force", "Electric flux", "Induced emf", "Capacitance"],
+      "correct": 2
+    },
+    {
+      "question": "The direction of induced current is given by:",
+      "options": ["Faraday’s law", "Lenz’s law", "Ohm’s law", "Ampere’s law"],
+      "correct": 1
+    },
+    {
+      "question": "The induced emf is directly proportional to:",
+      "options": ["Time", "Flux", "Rate of change of flux", "Area"],
+      "correct": 2
+    },
+    {
+      "question": "If magnetic flux changes from 5 Wb to 2 Wb in 0.1 s, emf is:",
+      "options": ["30 V", "20 V", "3 V", "–30 V"],
+      "correct": 3
+    },
+    {
+      "question": "When a magnet is moved towards a coil, the induced current in the coil:",
+      "options": ["Supports the motion", "Opposes the motion", "Is zero", "Reverses direction"],
+      "correct": 1
+    },
+    {
+      "question": "Lenz’s law is based on:",
+      "options": ["Conservation of charge", "Conservation of energy", "Conservation of mass", "Conservation of momentum"],
+      "correct": 1
+    },
+    {
+      "question": "Self-inductance of a long solenoid is proportional to:",
+      "options": ["l", "1/l", "l²", "√l"],
+      "correct": 0
+    },
+    {
+      "question": "The SI unit of inductance is:",
+      "options": ["Weber", "Henry", "Tesla", "Farad"],
+      "correct": 1
+    },
+    {
+      "question": "The device used to measure magnetic flux is:",
+      "options": ["Voltmeter", "Fluxmeter", "Galvanometer", "Ammeter"],
+      "correct": 1
+    },
+    {
+      "question": "Induced current flows only when:",
+      "options": ["There is potential", "Flux is constant", "Flux changes", "Field is strong"],
+      "correct": 2
+    },
+    {
+      "question": "An AC generator works on the principle of:",
+      "options": ["Ohm’s law", "Magnetic effect of current", "Electromagnetic induction", "Thermoelectric effect"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has no unit?",
+      "options": ["Flux", "Relative permeability", "Magnetic field", "Inductance"],
+      "correct": 1
+    },
+    {
+      "question": "Mutual inductance is the property where:",
+      "options": ["A coil opposes current", "One coil induces emf in another", "Voltage drops in a circuit", "Current becomes infinite"],
+      "correct": 1
+    },
+    {
+      "question": "The unit of mutual inductance is:",
+      "options": ["Farad", "Henry", "Weber", "Tesla"],
+      "correct": 1
+    },
+    {
+      "question": "Back emf is induced in:",
+      "options": ["Resistor", "Condenser", "Inductor", "Transformer"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following stores energy in magnetic field?",
+      "options": ["Resistor", "Capacitor", "Inductor", "None"],
+      "correct": 2
+    },
+    {
+      "question": "If the number of turns in a coil is doubled, the induced emf becomes:",
+      "options": ["Half", "Same", "Double", "Four times"],
+      "correct": 2
+    },
+    {
+      "question": "If a rectangular coil is rotated in a uniform magnetic field, the emf induced is:",
+      "options": ["Zero", "Maximum", "Constant", "Alternating"],
+      "correct": 3
+    },
+    {
+      "question": "The faster the magnetic flux changes:",
+      "options": ["Lower the emf", "Higher the emf", "No change", "Flux becomes zero"],
+      "correct": 1
+    },
+    {
+      "question": "Eddy currents are generated in:",
+      "options": ["Insulators", "Superconductors", "Conductors", "Semiconductors"],
+      "correct": 2
+    },
+    {
+      "question": "Which law gives magnitude of induced emf?",
+      "options": ["Ampere’s law", "Faraday’s law", "Lenz’s law", "Gauss’s law"],
+      "correct": 1
+    },
+    {
+      "question": "To reduce eddy currents:",
+      "options": ["Use thick metal plates", "Use laminated core", "Use solid core", "Use insulators"],
+      "correct": 1
+    },
+    {
+      "question": "The energy stored in an inductor is given by:",
+      "options": ["½LI²", "½CV²", "IVt", "L/2I"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is used in induction heating?",
+      "options": ["Conduction", "Convection", "Radiation", "Eddy currents"],
+      "correct": 3
+    },
+    {
+      "question": "Lenz’s law ensures conservation of:",
+      "options": ["Charge", "Momentum", "Mass", "Energy"],
+      "correct": 3
+    },
+    {
+      "question": "The magnetic flux through a coil is maximum when the angle between field and area vector is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correct": 0
+    },
+    {
+      "question": "A transformer works on the principle of:",
+      "options": ["Ohm’s law", "Self-induction", "Mutual induction", "Electrolysis"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following quantities is a scalar?",
+      "options": ["Magnetic field", "Induced emf", "Torque", "Velocity"],
+      "correct": 1
+    },
+    {
+      "question": "In which case emf is not induced?",
+      "options": ["Moving coil in magnetic field", "Changing field", "Constant flux", "Changing area"],
+      "correct": 2
+    },
+    {
+      "question": "A coil is placed in a magnetic field. The induced emf is maximum when:",
+      "options": ["Coil is perpendicular", "Coil is parallel", "Coil rotates", "Coil is static"],
+      "correct": 2
+    },
+    {
+      "question": "Mutual inductance depends on:",
+      "options": ["Coil shape", "Distance between coils", "Number of turns", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Self-inductance of a coil is analogous to:",
+      "options": ["Mass in mechanics", "Charge in electrostatics", "Force in kinematics", "Current in circuits"],
+      "correct": 0
+    },
+    {
+      "question": "A transformer can:",
+      "options": ["Increase DC", "Change AC voltage", "Change frequency", "Convert AC to DC"],
+      "correct": 1
+    },
+    {
+      "question": "Induced emf is zero when:",
+      "options": ["Flux is constant", "Flux is maximum", "Flux is zero", "Current is high"],
+      "correct": 0
+    },
+    {
+      "question": "Back emf in a motor is:",
+      "options": ["Helps motion", "Opposes motion", "Reduces power", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "A galvanometer shows deflection when:",
+      "options": ["Voltage is constant", "Current is zero", "Flux changes", "Magnet is at rest"],
+      "correct": 2
+    },
+    {
+      "question": "Lenz’s law is a consequence of:",
+      "options": ["Newton’s law", "Faraday’s law", "Conservation of momentum", "Conservation of energy"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following opposes the growth of current?",
+      "options": ["Resistance", "Capacitance", "Inductance", "Reactance"],
+      "correct": 2
+    },
+    {
+      "question": "The induced current always:",
+      "options": ["Increases field", "Opposes change in flux", "Follows field direction", "Changes with area"],
+      "correct": 1
+    },
+    {
+      "question": "Induced emf in a circuit is always:",
+      "options": ["Positive", "Negative", "Zero", "Such as to oppose flux change"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these instruments uses electromagnetic induction?",
+      "options": ["Voltmeter", "Galvanometer", "Ammeter", "Electric generator"],
+      "correct": 3
+    },
+    {
+      "question": "Electromagnetic damping is used in:",
+      "options": ["Motors", "Galvanometers", "Transformers", "Inductors"],
+      "correct": 1
+    },
+    {
+      "question": "If a coil rotates faster in a magnetic field, emf will:",
+      "options": ["Increase", "Decrease", "Be constant", "Be zero"],
+      "correct": 0
+    },
+    {
+      "question": "Which parameter does not affect self-inductance?",
+      "options": ["Length of coil", "Radius", "Current", "Number of turns"],
+      "correct": 2
+    },
+    {
+      "question": "In an inductor, energy is stored in:",
+      "options": ["Electric field", "Magnetic field", "Core", "Wire"],
+      "correct": 1
+    },
+    {
+      "question": "A coil of resistance R and inductance L is connected to a battery. The current grows:",
+      "options": ["Linearly", "Exponentially", "Suddenly", "Not at all"],
+      "correct": 1
+    },
+    {
+      "question": "An alternating emf is given by E = E₀ sin ωt. The peak value of emf is:",
+      "options": ["E₀", "E₀/√2", "E₀²", "ωE₀"],
+      "correct": 0
+    }
+  ]
+}

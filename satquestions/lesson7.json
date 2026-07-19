@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "If f(x) = 3x + 2, what is f(4)?",
+      "options": ["10", "12", "14", "16"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = x² - 2x, what is f(3)?",
+      "options": ["3", "9", "0", "15"],
+      "correct": 0
+    },
+    {
+      "question": "Given f(x) = 2x - 1, what is f(0)?",
+      "options": ["-2", "-1", "0", "1"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = x² and g(x) = 2x, what is f(g(2))?",
+      "options": ["2", "4", "8", "16"],
+      "correct": 3
+    },
+    {
+      "question": "If f(x) = x - 3 and g(x) = x², find g(f(2))",
+      "options": ["1", "4", "9", "25"],
+      "correct": 2
+    },
+    {
+      "question": "What is the x-intercept of f(x) = 2x - 6?",
+      "options": ["(0, -6)", "(3, 0)", "(-3, 0)", "(0, 3)"],
+      "correct": 1
+    },
+    {
+      "question": "What is the value of x when f(x) = 0 in f(x) = 4x - 8?",
+      "options": ["2", "4", "6", "8"],
+      "correct": 0
+    },
+    {
+      "question": "Given f(x) = x² - 4, what is the y-intercept?",
+      "options": ["-4", "0", "4", "2"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = -x² + 4, what is f(1)?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = 2x² - 3x, what is f(2)?",
+      "options": ["2", "4", "5", "10"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = |x - 3|, what is f(1)?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = x² - 1, what is the value of f(-2)?",
+      "options": ["-3", "3", "2", "1"],
+      "correct": 1
+    },
+    {
+      "question": "The graph of f(x) = x² is shifted right by 3 units. What is the new function?",
+      "options": ["f(x) = (x + 3)²", "f(x) = (x - 3)²", "f(x) = x² + 3", "f(x) = x² - 3"],
+      "correct": 1
+    },
+    {
+      "question": "What is the domain of f(x) = √(x - 2)?",
+      "options": ["x ≥ 2", "x > 2", "x ≤ 2", "x < 2"],
+      "correct": 0
+    },
+    {
+      "question": "What is the range of f(x) = x² - 1?",
+      "options": ["All real numbers", "x ≥ 0", "y ≥ -1", "y ≤ -1"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = 1/x, what is the value of f(2)?",
+      "options": ["1", "1/2", "2", "0"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = 2x + 1, what is x when f(x) = 9?",
+      "options": ["3", "4", "5", "6"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = x² - 4x + 3, what is the minimum value of the function?",
+      "options": ["0", "1", "-1", "-2"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = 3 - x, find f(f(1))",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "The function f(x) = x² - 2x + 1 has a vertex at which point?",
+      "options": ["(1, 0)", "(0, 1)", "(-1, 2)", "(2, 1)"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = 2x - 5, what is the inverse function f⁻¹(x)?",
+      "options": ["(x + 5)/2", "2x + 5", "x - 5", "x/2 - 5"],
+      "correct": 0
+    },
+    {
+      "question": "Which transformation represents a vertical shift up by 4 units for f(x) = x²?",
+      "options": ["f(x) = x² + 4", "f(x) = x² - 4", "f(x) = (x + 4)²", "f(x) = (x - 4)²"],
+      "correct": 0
+    },
+    {
+      "question": "Which function represents a reflection of f(x) = x² over the x-axis?",
+      "options": ["f(x) = -x²", "f(x) = x² - 2", "f(x) = x² + 2", "f(x) = (x + 2)²"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = 2x and g(x) = x + 1, what is f(g(3))?",
+      "options": ["6", "7", "8", "9"],
+      "correct": 2
+    },
+    {
+      "question": "Given f(x) = x² and g(x) = 2x, what is (f∘g)(2)?",
+      "options": ["4", "8", "16", "32"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = 2x + 3 and g(x) = x², what is f(g(2))?",
+      "options": ["10", "11", "12", "13"],
+      "correct": 2
+    },
+    {
+      "question": "Given f(x) = x² - 4x + 4, which of the following is the vertex of the function?",
+      "options": ["(2, 0)", "(0, 2)", "(4, 4)", "(1, 1)"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = 3x² + 2x - 1, what is f(-1)?",
+      "options": ["0", "-2", "-3", "2"],
+      "correct": 1
+    },
+    {
+      "question": "The graph of a quadratic function opens downward and has a vertex at (1, 4). Which of the following could be its equation?",
+      "options": ["f(x) = -x² + 2x + 3", "f(x) = -x² + 2x + 1", "f(x) = x² - 2x + 3", "f(x) = -x² + 2x - 1"],
+      "correct": 0
+    },
+    {
+      "question": "What is the inverse of f(x) = (x - 2)/3?",
+      "options": ["f⁻¹(x) = 3x + 2", "f⁻¹(x) = 3x - 2", "f⁻¹(x) = (x + 2)/3", "f⁻¹(x) = x/3 + 2"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following functions has no x-intercept?",
+      "options": ["f(x) = x² + 1", "f(x) = x² - 1", "f(x) = x² - 4", "f(x) = x(x - 3)"],
+      "correct": 0
+    },
+    {
+      "question": "What is the maximum value of f(x) = -x² + 4x + 1?",
+      "options": ["3", "5", "6", "9"],
+      "correct": 2
+    },
+    {
+      "question": "Which function represents a vertical stretch of f(x) = x² by a factor of 3?",
+      "options": ["f(x) = 3x²", "f(x) = x² + 3", "f(x) = (x + 3)²", "f(x) = (3x)²"],
+      "correct": 0
+    },
+    {
+      "question": "The domain of f(x) = 1/(x² - 4) is all real numbers except:",
+      "options": ["x ≠ 0", "x ≠ ±2", "x ≠ 4", "x ≠ ±1"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = x² - 6x + 8, what are the zeros of the function?",
+      "options": ["x = 2 and 4", "x = -2 and -4", "x = 1 and 8", "x = 0 and 6"],
+      "correct": 0
+    },
+    {
+      "question": "For f(x) = √(x - 1), what is the domain?",
+      "options": ["x ≥ 1", "x > 1", "x ≤ 1", "x < 1"],
+      "correct": 0
+    },
+    {
+      "question": "Given f(x) = |x - 3| + 2, what is the minimum value of f(x)?",
+      "options": ["0", "1", "2", "3"],
+      "correct": 2
+    },
+    {
+      "question": "Which transformation shifts f(x) = x² left by 5 units?",
+      "options": ["f(x) = (x + 5)²", "f(x) = x² + 5", "f(x) = (x - 5)²", "f(x) = x² - 5"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = 2x² - 3x + 1, what is f(1/2)?",
+      "options": ["0", "1", "2", "3"],
+      "correct": 0
+    },
+    {
+      "question": "Which function is decreasing for all x < 0 and increasing for all x > 0?",
+      "options": ["f(x) = x²", "f(x) = |x|", "f(x) = x³", "f(x) = -x²"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = x² + 2x + 1, what is the axis of symmetry?",
+      "options": ["x = -2", "x = -1", "x = 0", "x = 1"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = 1/(x - 3), what is the vertical asymptote?",
+      "options": ["x = 0", "x = 1", "x = 3", "x = -3"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = (x + 2)(x - 5), what is the graph's x-intercepts?",
+      "options": ["-2 and 5", "2 and -5", "-2 and -5", "2 and 5"],
+      "correct": 0
+    },
+    {
+      "question": "Which function has a range of y ≥ 0?",
+      "options": ["f(x) = x²", "f(x) = x", "f(x) = -x²", "f(x) = x - 1"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = 4x² - 12x + 9, what is the vertex of the graph?",
+      "options": ["(1.5, 0)", "(1.5, -2)", "(1.5, 4)", "(2, -1)"],
+      "correct": 0
+    },
+    {
+      "question": "What is f(g(2)) if f(x) = x² - 1 and g(x) = x - 1?",
+      "options": ["0", "1", "2", "3"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = x² - 2x + 4, what is the minimum value?",
+      "options": ["2", "3", "4", "1"],
+      "correct": 2
+    },
+    {
+      "question": "Which function has an absolute minimum at x = 0?",
+      "options": ["f(x) = x²", "f(x) = -x²", "f(x) = |x|", "f(x) = -|x|"],
+      "correct": 0
+    }
+  ]
+}

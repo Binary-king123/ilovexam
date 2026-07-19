@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "The value of determinant |1 2 3; 0 1 4; 5 6 0| is:",
+      "options": ["1", "0", "-1", "2"],
+      "correct": 2
+    },
+    {
+      "question": "If a determinant has two identical rows, then its value is:",
+      "options": ["0", "1", "2", "Depends on the matrix"],
+      "correct": 0
+    },
+    {
+      "question": "If |A| = 0, then matrix A is:",
+      "options": ["Singular", "Non-singular", "Unit matrix", "Inverse matrix"],
+      "correct": 0
+    },
+    {
+      "question": "If det(A) ≠ 0, then A is:",
+      "options": ["Invertible", "Singular", "Diagonal", "Symmetric"],
+      "correct": 0
+    },
+    {
+      "question": "If A is a 3×3 matrix, then |kA| = ?",
+      "options": ["k³|A|", "k²|A|", "k|A|", "3k|A|"],
+      "correct": 0
+    },
+    {
+      "question": "Determinant is defined only for:",
+      "options": ["Square matrix", "Rectangular matrix", "Row matrix", "Column matrix"],
+      "correct": 0
+    },
+    {
+      "question": "The value of |2 0 0; 0 3 0; 0 0 4| is:",
+      "options": ["24", "9", "6", "12"],
+      "correct": 0
+    },
+    {
+      "question": "The value of |a b; c d| is:",
+      "options": ["ab - cd", "ad + bc", "ad - bc", "ab + cd"],
+      "correct": 2
+    },
+    {
+      "question": "If all rows of a determinant are multiplied by a scalar k, then the value of the determinant becomes:",
+      "options": ["k × det", "k² × det", "k^n × det", "k + det"],
+      "correct": 2
+    },
+    {
+      "question": "If two rows of a determinant are interchanged, the value:",
+      "options": ["Remains same", "Becomes zero", "Becomes negative", "Is squared"],
+      "correct": 2
+    },
+    {
+      "question": "The value of a determinant is not affected if:",
+      "options": ["A multiple of one row is added to another", "Rows are interchanged", "Rows are multiplied by scalar", "Rows are divided"],
+      "correct": 0
+    },
+    {
+      "question": "If determinant of matrix A is zero, then A is:",
+      "options": ["Singular", "Invertible", "Unit matrix", "Scalar"],
+      "correct": 0
+    },
+    {
+      "question": "If A is a square matrix of order 3 and |A| = 2, then |A⁻¹| is:",
+      "options": ["1", "2", "0.5", "1/8"],
+      "correct": 3
+    },
+    {
+      "question": "If A and B are square matrices of same order, then |AB| = ?",
+      "options": ["|A| + |B|", "|A||B|", "|A| - |B|", "|A/B|"],
+      "correct": 1
+    },
+    {
+      "question": "If matrix A is invertible, then A⁻¹ exists and:",
+      "options": ["AA⁻¹ = I", "AA⁻¹ = A", "AA⁻¹ = 0", "AA⁻¹ = A²"],
+      "correct": 0
+    },
+    {
+      "question": "The determinant of a skew-symmetric matrix of odd order is always:",
+      "options": ["Zero", "One", "Positive", "Negative"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following operations does NOT change the value of a determinant?",
+      "options": ["Interchanging rows", "Multiplying a row by a constant", "Adding a multiple of one row to another", "Multiplying all rows"],
+      "correct": 2
+    },
+    {
+      "question": "If A is a 2×2 matrix and |A| = 5, then |3A| is:",
+      "options": ["15", "45", "90", "5"],
+      "correct": 1
+    },
+    {
+      "question": "If a determinant has a row with all elements zero, its value is:",
+      "options": ["Zero", "One", "Equal to the product of non-zero rows", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "If A is a 2×2 matrix and |A| = d, then |A⁻¹| = ?",
+      "options": ["1/d", "−d", "d²", "0"],
+      "correct": 0
+    },
+    {
+      "question": "The adjoint of a matrix is the:",
+      "options": ["Inverse", "Transpose of cofactor matrix", "Determinant", "Scalar multiple"],
+      "correct": 1
+    },
+    {
+      "question": "The determinant of an identity matrix of any order is:",
+      "options": ["0", "1", "Order of matrix", "Depends on order"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following matrices has determinant 0?",
+      "options": ["Singular matrix", "Identity matrix", "Invertible matrix", "Diagonal matrix with non-zero entries"],
+      "correct": 0
+    },
+    {
+      "question": "If A is a matrix such that A² = A, then it is:",
+      "options": ["Idempotent", "Nilpotent", "Skew", "Singular"],
+      "correct": 0
+    },
+    {
+      "question": "The determinant of a diagonal matrix is equal to:",
+      "options": ["Sum of diagonals", "Product of diagonals", "Zero", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Cramer's rule is used to solve:",
+      "options": ["Matrix equations", "Differential equations", "Linear equations", "Inequalities"],
+      "correct": 2
+    },
+    {
+      "question": "The value of |1 2 3; 4 5 6; 7 8 9| is:",
+      "options": ["0", "45", "−3", "1"],
+      "correct": 0
+    },
+    {
+      "question": "If rows and columns of a determinant are interchanged, its value:",
+      "options": ["Remains unchanged", "Becomes negative", "Becomes zero", "Is doubled"],
+      "correct": 0
+    },
+    {
+      "question": "If det(A) = 2, then det(2A) for 3×3 matrix is:",
+      "options": ["16", "8", "64", "None"],
+      "correct": 2
+    },
+    {
+      "question": "If all rows are proportional, then determinant is:",
+      "options": ["Zero", "One", "Equal to product of diagonal elements", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "The determinant is unaffected by:",
+      "options": ["Adding rows", "Adding multiple of one row to another", "Multiplying row", "Swapping rows"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following matrices always have determinant 0?",
+      "options": ["Singular", "Identity", "Unit", "Scalar"],
+      "correct": 0
+    },
+    {
+      "question": "The matrix equation AX = B has a unique solution if:",
+      "options": ["|A| ≠ 0", "A is singular", "|A| = 0", "A is skew"],
+      "correct": 0
+    },
+    {
+      "question": "The cofactor of an element is:",
+      "options": ["Minor with sign", "Same as minor", "Always positive", "Determinant"],
+      "correct": 0
+    },
+    {
+      "question": "A square matrix A is invertible if and only if:",
+      "options": ["|A| ≠ 0", "A is symmetric", "A is skew-symmetric", "All elements non-zero"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not a property of determinant?",
+      "options": ["|AB| = |A||B|", "|A'| = |A|", "|A| = |A⁻¹|", "|kA| = k^n|A|"],
+      "correct": 2
+    },
+    {
+      "question": "For a 2×2 matrix A, the adj(A) × A =",
+      "options": ["|A|I", "0", "A", "I"],
+      "correct": 0
+    },
+    {
+      "question": "If A is an orthogonal matrix, then:",
+      "options": ["A'A = I", "A⁻¹ = A'", "|A| = ±1", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "A matrix is said to be orthogonal if:",
+      "options": ["AA' = I", "AA⁻¹ = I", "A = A'", "|A| = 1"],
+      "correct": 0
+    },
+    {
+      "question": "In Cramer's rule, variables are solved using:",
+      "options": ["Determinants", "Matrices", "Equations", "Inequalities"],
+      "correct": 0
+    },
+    {
+      "question": "If A is a diagonal matrix, then adj(A) is:",
+      "options": ["Diagonal", "Identity", "Inverse", "Skew"],
+      "correct": 0
+    },
+    {
+      "question": "If A is singular, then adj(A) is:",
+      "options": ["Zero matrix", "Singular", "Non-singular", "Identity"],
+      "correct": 0
+    },
+    {
+      "question": "The value of |1 0 0; 0 1 0; 0 0 1| is:",
+      "options": ["1", "0", "3", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "If A is a square matrix and |A| = d, then |A⁻¹| is:",
+      "options": ["1/d", "d", "−d", "0"],
+      "correct": 0
+    },
+    {
+      "question": "If all elements of a row are multiplied by k, then determinant becomes:",
+      "options": ["k × det", "k² × det", "kⁿ × det", "Unchanged"],
+      "correct": 0
+    },
+    {
+      "question": "The number of elements in a 3×3 determinant is:",
+      "options": ["9", "6", "3", "12"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following results in zero determinant?",
+      "options": ["Duplicate rows", "All rows proportional", "One zero row", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The determinant of upper triangular matrix is:",
+      "options": ["Sum of diagonals", "Product of diagonals", "Zero", "1"],
+      "correct": 1
+    },
+    {
+      "question": "If |A| = 1, then A is:",
+      "options": ["Orthogonal", "Unit matrix", "Skew", "Scalar"],
+      "correct": 0
+    }
+  ]
+}

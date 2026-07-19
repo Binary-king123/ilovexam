@@ -1,0 +1,279 @@
+{
+  "test": [
+    {
+      "question": "The coordinate axes in 3D are mutually:",
+      "options": ["Perpendicular", "Parallel", "Coincident", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "In 3D geometry, a point is represented by:",
+      "options": ["(x, y)", "(x, y, z)", "(x, y, z, w)", "(x)"],
+      "correct": 1
+    },
+    {
+      "question": "The distance between two points P(x₁, y₁, z₁) and Q(x₂, y₂, z₂) is given by:",
+      "options": [
+        "√[(x₂ − x₁)² + (y₂ − y₁)²]",
+        "√[(x₂ − x₁)² + (y₂ − y₁)² + (z₂ − z₁)²]",
+        "|x₂ − x₁| + |y₂ − y₁| + |z₂ − z₁|",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The midpoint of segment joining points P(x₁, y₁, z₁) and Q(x₂, y₂, z₂) is:",
+      "options": [
+        "((x₁ + x₂)/2, (y₁ + y₂)/2)",
+        "((x₁ + x₂)/2, (y₁ + y₂)/2, (z₁ + z₂)/2)",
+        "(x₁ + x₂, y₁ + y₂, z₁ + z₂)",
+        "None of these"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The section formula in 3D for internal division of a segment by a point dividing ratio m:n is:",
+      "options": [
+        "((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n))",
+        "((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n), (mz₂ + nz₁)/(m + n))",
+        "(m x₂, n y₂, m z₂)",
+        "None"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The coordinate axes are:",
+      "options": ["Concurrent lines", "Parallel lines", "Skew lines", "None of these"],
+      "correct": 0
+    },
+    {
+      "question": "The equation of a plane parallel to yz-plane is:",
+      "options": ["x = a", "y = a", "z = a", "x + y + z = a"],
+      "correct": 0
+    },
+    {
+      "question": "The locus of points equidistant from x and y axes in 3D is:",
+      "options": [
+        "Plane x = y",
+        "Line x = y = 0",
+        "Plane y = z",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Direction cosines of a line are:",
+      "options": [
+        "Cosines of angles made by the line with coordinate axes",
+        "Sines of angles made by the line with coordinate axes",
+        "Tangents of angles made by the line with coordinate axes",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If a line makes equal angles with coordinate axes, its direction cosines are:",
+      "options": ["(1/√3, 1/√3, 1/√3)", "(1, 1, 1)", "(0, 0, 1)", "(1, 0, 0)"],
+      "correct": 0
+    },
+    {
+      "question": "The equation of a line passing through point P(x₁, y₁, z₁) with direction ratios (a, b, c) is:",
+      "options": [
+        "(x − x₁)/a = (y − y₁)/b = (z − z₁)/c",
+        "x/a + y/b + z/c = 1",
+        "ax + by + cz = d",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Two lines are perpendicular if the dot product of their direction ratios is:",
+      "options": ["Zero", "One", "Minus one", "Infinity"],
+      "correct": 0
+    },
+    {
+      "question": "The distance between two points P and Q in 3D is minimum when:",
+      "options": [
+        "They lie on the same line",
+        "They lie on different planes",
+        "They lie on coordinate axes",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The equation of the plane passing through point P and perpendicular to vector (a, b, c) is:",
+      "options": ["a(x − x₁) + b(y − y₁) + c(z − z₁) = 0", "ax + by + cz = 0", "x/a + y/b + z/c = 1", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The angle between two planes is given by:",
+      "options": [
+        "cos θ = |n₁ • n₂| / (|n₁| |n₂|)",
+        "sin θ = |n₁ • n₂| / (|n₁| |n₂|)",
+        "tan θ = |n₁ • n₂| / (|n₁| |n₂|)",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If two planes are perpendicular, then the dot product of their normal vectors is:",
+      "options": ["0", "1", "-1", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The shortest distance from point P(x₀, y₀, z₀) to plane ax + by + cz + d = 0 is:",
+      "options": [
+        "|ax₀ + by₀ + cz₀ + d| / √(a² + b² + c²)",
+        "ax₀ + by₀ + cz₀ + d",
+        "√(a² + b² + c²)",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If two lines intersect, then their direction ratios satisfy:",
+      "options": ["No specific relation", "They are proportional", "They satisfy scalar triple product condition", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Lines which do not intersect and are not parallel are called:",
+      "options": ["Skew lines", "Concurrent lines", "Parallel lines", "Perpendicular lines"],
+      "correct": 0
+    },
+    {
+      "question": "The scalar product of two vectors A and B is zero if:",
+      "options": ["A and B are perpendicular", "A and B are parallel", "Magnitude of A is zero", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The vector product of two parallel vectors is:",
+      "options": ["Zero vector", "Non-zero vector", "Equal vectors", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If a line is parallel to the yz-plane, its direction ratios are:",
+      "options": ["(0, b, c)", "(a, 0, 0)", "(a, b, 0)", "(0, 0, 0)"],
+      "correct": 0
+    },
+    {
+      "question": "The direction cosines l, m, n satisfy the relation:",
+      "options": ["l² + m² + n² = 1", "l + m + n = 1", "l² + m² + n² = 0", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The plane equation 3x − 2y + z = 7 has normal vector:",
+      "options": ["(3, −2, 1)", "(−3, 2, −1)", "(3, 2, 1)", "(0, 0, 0)"],
+      "correct": 0
+    },
+    {
+      "question": "The volume of the parallelepiped formed by vectors A, B, and C is given by:",
+      "options": ["|A · (B × C)|", "|A × (B · C)|", "|A + B + C|", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If a line has direction ratios proportional to (1, 2, 3), then its direction cosines are:",
+      "options": [
+        "(1/√14, 2/√14, 3/√14)",
+        "(1, 2, 3)",
+        "(√14, √14, √14)",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The angle between two lines having direction cosines (l₁, m₁, n₁) and (l₂, m₂, n₂) is given by:",
+      "options": [
+        "cos θ = l₁l₂ + m₁m₂ + n₁n₂",
+        "sin θ = l₁l₂ + m₁m₂ + n₁n₂",
+        "tan θ = l₁l₂ + m₁m₂ + n₁n₂",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The equation of the plane passing through the origin and perpendicular to the vector (2, 3, −1) is:",
+      "options": ["2x + 3y − z = 0", "2x + 3y − z = 1", "x + y + z = 0", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The line joining points (1, 2, 3) and (4, 0, −1) has direction ratios:",
+      "options": ["(3, −2, −4)", "(1, 2, 3)", "(4, 0, −1)", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A plane passing through points A, B, and C is unique if:",
+      "options": ["A, B, C are non-collinear", "A, B, C are collinear", "A, B, C are coincident", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The shortest distance between two skew lines is:",
+      "options": [
+        "Length of perpendicular between them",
+        "Length of intersection",
+        "Sum of distances from origin",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If vectors A and B are perpendicular, then A · B equals:",
+      "options": ["0", "1", "−1", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a vector quantity?",
+      "options": ["Displacement", "Speed", "Distance", "Time"],
+      "correct": 0
+    },
+    {
+      "question": "The equation of a plane can be written as:",
+      "options": ["ax + by + cz = d", "x² + y² + z² = d", "ax² + by² + cz² = d", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If a point lies on plane ax + by + cz + d = 0, then substituting the point in plane equation gives:",
+      "options": ["0", "d", "a", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The angle between the xy-plane and the plane x + y + z = 0 is:",
+      "options": [
+        "arccos(1/√3)",
+        "arcsin(1/√3)",
+        "90 degrees",
+        "45 degrees"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The distance between parallel planes ax + by + cz + d₁ = 0 and ax + by + cz + d₂ = 0 is:",
+      "options": [
+        "|d₁ − d₂| / √(a² + b² + c²)",
+        "|d₁ + d₂| / √(a² + b² + c²)",
+        "d₁ − d₂",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If the position vector of a point is r and vector a, then the projection of r on a is:",
+      "options": [
+        "(r · a) / |a|",
+        "r × a",
+        "r + a",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The vector equation of a line passing through point r₀ and parallel to vector a is:",
+      "options": [
+        "r = r₀ + λa",
+        "r = λr₀ + a",
+        "r = r₀ − λa",
+        "None"
+      ],
+      "correct": 0
+    }
+  ]
+}

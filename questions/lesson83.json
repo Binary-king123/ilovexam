@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a primary goal of reproductive health?",
+      "options": ["Population increase", "Disease spread", "Awareness and safe practices", "Reduced birth control"],
+      "correct": 2
+    },
+    {
+      "question": "Which organization launched the 'Reproductive and Child Health Care (RCH)' program in India?",
+      "options": ["UNICEF", "WHO", "ICMR", "Government of India"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is NOT a contraceptive method?",
+      "options": ["IUCD", "Condom", "Vaccination", "Oral pills"],
+      "correct": 2
+    },
+    {
+      "question": "Saheli is:",
+      "options": ["An intrauterine device", "A condom", "Non-steroidal oral contraceptive", "Surgical method"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a natural contraceptive method?",
+      "options": ["Vasectomy", "Condom", "Rhythm method", "Copper-T"],
+      "correct": 2
+    },
+    {
+      "question": "Which contraceptive method prevents implantation?",
+      "options": ["Condom", "Oral pills", "Copper-T", "Vasectomy"],
+      "correct": 2
+    },
+    {
+      "question": "Medical Termination of Pregnancy (MTP) is legal in India up to:",
+      "options": ["10 weeks", "12 weeks", "20 weeks", "24 weeks"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a barrier method?",
+      "options": ["Copper-T", "Condom", "Surgical method", "Pill"],
+      "correct": 1
+    },
+    {
+      "question": "The hormone in oral contraceptive pills is mainly:",
+      "options": ["Estrogen", "Progesterone", "Both estrogen and progesterone", "Oxytocin"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the most widely used contraceptive in India?",
+      "options": ["Saheli", "IUCD", "Condom", "Vasectomy"],
+      "correct": 2
+    },
+    {
+      "question": "STDs are caused by all except:",
+      "options": ["Bacteria", "Viruses", "Fungi", "Vitamins"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is not an STD?",
+      "options": ["Syphilis", "Gonorrhea", "Cancer", "AIDS"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a permanent contraceptive method for males?",
+      "options": ["Tubectomy", "Vasectomy", "Copper-T", "Condom"],
+      "correct": 1
+    },
+    {
+      "question": "The copper ions in Copper-T are meant to:",
+      "options": ["Kill sperms", "Stop ovulation", "Cause menstruation", "Help fertilization"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a surgical method of contraception?",
+      "options": ["Saheli", "Condom", "Tubectomy", "Rhythm method"],
+      "correct": 2
+    },
+    {
+      "question": "Population explosion is due to:",
+      "options": ["High death rate", "Low birth rate", "Decline in mortality and increase in birth rate", "No awareness"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is NOT a symptom of syphilis?",
+      "options": ["Sores on genitals", "Skin rash", "Hair loss", "Frequent urination"],
+      "correct": 3
+    },
+    {
+      "question": "Which hormone does NOT play a role in contraceptive pills?",
+      "options": ["Estrogen", "Progesterone", "FSH", "LH"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these contraceptives is female-specific?",
+      "options": ["Condom", "Saheli", "Copper-T", "Both 2 and 3"],
+      "correct": 3
+    },
+    {
+      "question": "Which STD is caused by a virus?",
+      "options": ["Syphilis", "Gonorrhea", "AIDS", "Chlamydia"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is NOT a benefit of population control?",
+      "options": ["Less strain on resources", "Better healthcare", "Increased fertility", "Improved quality of life"],
+      "correct": 2
+    },
+    {
+      "question": "The term 'infertility' refers to:",
+      "options": ["Inability to produce gametes", "Failure to conceive", "Multiple births", "Menstruation disorder"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a diagnostic technique for detecting genetic disorders in fetus?",
+      "options": ["Amniocentesis", "X-ray", "MRI", "CT scan"],
+      "correct": 0
+    },
+    {
+      "question": "Amniocentesis is legally banned because:",
+      "options": ["It is painful", "It causes miscarriage", "It is used for sex determination", "It is expensive"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a fungal STD?",
+      "options": ["Syphilis", "Candidiasis", "AIDS", "Gonorrhea"],
+      "correct": 1
+    },
+    {
+      "question": "Tubectomy involves cutting of the:",
+      "options": ["Vas deferens", "Ovary", "Fallopian tube", "Uterus"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not an aim of RCH program?",
+      "options": ["Reproductive education", "Infertility management", "Improved MTP services", "Population increase"],
+      "correct": 3
+    },
+    {
+      "question": "Which disease is known as the 'silent disease'?",
+      "options": ["Chlamydia", "AIDS", "Syphilis", "Gonorrhea"],
+      "correct": 0
+    },
+    {
+      "question": "A contraceptive method ideal for lactating mothers is:",
+      "options": ["Saheli", "Copper-T", "Lactational amenorrhea", "Tubectomy"],
+      "correct": 2
+    },
+    {
+      "question": "Lactational amenorrhea works by:",
+      "options": ["Inhibiting menstruation", "Reducing milk", "Enhancing ovulation", "Preventing fertilization"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a social impact of overpopulation?",
+      "options": ["Employment increase", "Better housing", "Resource scarcity", "Decreased poverty"],
+      "correct": 2
+    },
+    {
+      "question": "The success rate of vasectomy is:",
+      "options": ["10%", "50%", "70%", "Almost 100%"],
+      "correct": 3
+    },
+    {
+      "question": "Which STD affects the immune system directly?",
+      "options": ["Gonorrhea", "Syphilis", "AIDS", "Chlamydia"],
+      "correct": 2
+    },
+    {
+      "question": "Ideal contraceptive is one which is:",
+      "options": ["Effective, reversible and safe", "Permanent", "Irritating", "Surgical"],
+      "correct": 0
+    },
+    {
+      "question": "Which contraceptive has no effect on hormone levels?",
+      "options": ["Pills", "Copper-T", "Implants", "Injectables"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not a characteristic of an ideal contraceptive?",
+      "options": ["Easily available", "Cause infertility", "User-friendly", "Reversible"],
+      "correct": 1
+    },
+    {
+      "question": "Which STD is characterized by genital warts?",
+      "options": ["HPV", "HIV", "Syphilis", "Gonorrhea"],
+      "correct": 0
+    },
+    {
+      "question": "What is the cause of infertility in men?",
+      "options": ["Low sperm count", "Irregular periods", "Ovarian failure", "Blocked fallopian tube"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following STDs is curable?",
+      "options": ["AIDS", "HIV", "Syphilis", "Hepatitis B"],
+      "correct": 2
+    },
+    {
+      "question": "The full form of MTP is:",
+      "options": ["Male Temporary Procedure", "Medical Termination of Pregnancy", "Maternal Total Protection", "Monthly Therapeutic Plan"],
+      "correct": 1
+    },
+    {
+      "question": "Sterilization method in males is:",
+      "options": ["Condom", "Vasectomy", "Tubectomy", "Saheli"],
+      "correct": 1
+    },
+    {
+      "question": "Vasectomy involves cutting of:",
+      "options": ["Urethra", "Vas deferens", "Epididymis", "Seminal vesicle"],
+      "correct": 1
+    },
+    {
+      "question": "Which STD is caused by bacterium *Treponema pallidum*?",
+      "options": ["AIDS", "Syphilis", "Gonorrhea", "Herpes"],
+      "correct": 1
+    },
+    {
+      "question": "Implant contraceptives are placed:",
+      "options": ["In uterus", "Under skin", "In fallopian tube", "In vagina"],
+      "correct": 1
+    },
+    {
+      "question": "The safest period for avoiding conception is:",
+      "options": ["Ovulatory phase", "First 7 days and last 7 days of menstrual cycle", "Menstrual phase", "Anytime"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a limitation of condom?",
+      "options": ["Hormonal side effects", "Surgical procedure", "User failure", "Non-reversible"],
+      "correct": 2
+    },
+    {
+      "question": "Which contraceptive is least effective if not used properly?",
+      "options": ["IUCD", "Oral pills", "Condom", "Implant"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is an emergency contraceptive?",
+      "options": ["Saheli", "Copper-T", "Morning-after pill", "Tubectomy"],
+      "correct": 2
+    },
+    {
+      "question": "Infertility clinics use which technique to help conception?",
+      "options": ["IVF", "STI", "MTP", "IUCD"],
+      "correct": 0
+    }
+  ]
+}

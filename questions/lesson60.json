@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a non-vascular cryptogam?",
+      "options": ["Bryophyte", "Pteridophyte", "Gymnosperm", "Angiosperm"],
+      "correct": 0
+    },
+    {
+      "question": "Which plant group is known as 'amphibians of the plant kingdom'?",
+      "options": ["Algae", "Bryophytes", "Pteridophytes", "Gymnosperms"],
+      "correct": 1
+    },
+    {
+      "question": "An example of a brown alga is:",
+      "options": ["Ulva", "Fucus", "Spirogyra", "Chlorella"],
+      "correct": 1
+    },
+    {
+      "question": "The dominant generation in bryophytes is:",
+      "options": ["Sporophyte", "Gamete", "Gametophyte", "Zygote"],
+      "correct": 2
+    },
+    {
+      "question": "In Pteridophytes, spores are produced in:",
+      "options": ["Seeds", "Spore mother cells", "Sporangia", "Cones"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a liverwort?",
+      "options": ["Marchantia", "Riccia", "Funaria", "Both A and B"],
+      "correct": 3
+    },
+    {
+      "question": "Gymnosperms differ from angiosperms in:",
+      "options": ["Having xylem", "Having seeds", "Seeds not enclosed in fruits", "Presence of flowers"],
+      "correct": 2
+    },
+    {
+      "question": "In which group is the sporophyte completely dependent on the gametophyte?",
+      "options": ["Algae", "Pteridophytes", "Bryophytes", "Gymnosperms"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following plants is a pteridophyte?",
+      "options": ["Pinus", "Cycas", "Selaginella", "Ginkgo"],
+      "correct": 2
+    },
+    {
+      "question": "Algae are primarily found in:",
+      "options": ["Deserts", "Marine and freshwater habitats", "Dry lands", "Mountains"],
+      "correct": 1
+    },
+    {
+      "question": "Which plant produces microspores and megaspores in the same plant?",
+      "options": ["Pinus", "Selaginella", "Funaria", "Ulothrix"],
+      "correct": 1
+    },
+    {
+      "question": "Which one of the following has motile male gametes?",
+      "options": ["Angiosperms", "Bryophytes", "Gymnosperms", "None of these"],
+      "correct": 1
+    },
+    {
+      "question": "Which plant group shows vascular tissue and seeds but no flowers?",
+      "options": ["Pteridophytes", "Bryophytes", "Gymnosperms", "Angiosperms"],
+      "correct": 2
+    },
+    {
+      "question": "The term 'protonema' is associated with:",
+      "options": ["Liverworts", "Ferns", "Mosses", "Gymnosperms"],
+      "correct": 2
+    },
+    {
+      "question": "Archegonia are found in:",
+      "options": ["Bryophytes", "Pteridophytes", "Gymnosperms", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "What is the main storage product in red algae?",
+      "options": ["Starch", "Glycogen", "Floridean starch", "Laminarin"],
+      "correct": 2
+    },
+    {
+      "question": "Which pigment is responsible for red color in Rhodophyceae?",
+      "options": ["Chlorophyll a", "Chlorophyll b", "Phycocyanin", "Phycoerythrin"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following groups is exclusively aquatic?",
+      "options": ["Algae", "Bryophytes", "Pteridophytes", "Gymnosperms"],
+      "correct": 0
+    },
+    {
+      "question": "Zygotic meiosis occurs in:",
+      "options": ["Ulothrix", "Funaria", "Selaginella", "Pinus"],
+      "correct": 0
+    },
+    {
+      "question": "The female reproductive organ in bryophytes is:",
+      "options": ["Antheridium", "Ovary", "Archegonium", "Sporangium"],
+      "correct": 2
+    },
+    {
+      "question": "The vascular tissue in gymnosperms lacks:",
+      "options": ["Tracheids", "Vessels", "Xylem", "Phloem"],
+      "correct": 1
+    },
+    {
+      "question": "Alternation of generations is seen in:",
+      "options": ["Angiosperms", "Gymnosperms", "Bryophytes", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The first land plants were:",
+      "options": ["Algae", "Bryophytes", "Ferns", "Gymnosperms"],
+      "correct": 1
+    },
+    {
+      "question": "In angiosperms, double fertilization involves:",
+      "options": ["Two eggs", "One egg and two sperms", "Two sperms and one female gametophyte", "Sporophyte and gametophyte"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a feature of pteridophytes but not bryophytes?",
+      "options": ["Vascular tissue", "Archegonia", "Motile sperm", "Spores"],
+      "correct": 0
+    },
+    {
+      "question": "Seeds are absent in:",
+      "options": ["Gymnosperms", "Angiosperms", "Pteridophytes", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Sporophyte is dominant in:",
+      "options": ["Bryophytes", "Algae", "Pteridophytes", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Cones are reproductive structures in:",
+      "options": ["Ferns", "Mosses", "Gymnosperms", "Algae"],
+      "correct": 2
+    },
+    {
+      "question": "A diploid plant body is:",
+      "options": ["Sporophyte", "Gametophyte", "Zygote", "Both A and C"],
+      "correct": 3
+    },
+    {
+      "question": "Funaria belongs to:",
+      "options": ["Liverworts", "Hornworts", "Mosses", "Pteridophytes"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not a feature of angiosperms?",
+      "options": ["Seeds", "Flowers", "Fruits", "Cones"],
+      "correct": 3
+    },
+    {
+      "question": "Photosynthetic pigments in algae are located in:",
+      "options": ["Mitochondria", "Chloroplasts", "Cytoplasm", "Nucleus"],
+      "correct": 1
+    },
+    {
+      "question": "Algae with a silica cell wall are:",
+      "options": ["Chlamydomonas", "Ulothrix", "Diatoms", "Volvox"],
+      "correct": 2
+    },
+    {
+      "question": "Anthredium is the male sex organ in:",
+      "options": ["Algae", "Bryophytes", "Pteridophytes", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The dominant phase in the life cycle of moss is:",
+      "options": ["Gametophyte", "Sporophyte", "Zygote", "Embryo"],
+      "correct": 0
+    },
+    {
+      "question": "Double fertilization is a characteristic feature of:",
+      "options": ["Bryophytes", "Pteridophytes", "Gymnosperms", "Angiosperms"],
+      "correct": 3
+    },
+    {
+      "question": "The first vascular plants are:",
+      "options": ["Bryophytes", "Algae", "Pteridophytes", "Gymnosperms"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not an algae?",
+      "options": ["Chara", "Volvox", "Ulothrix", "Riccia"],
+      "correct": 3
+    },
+    {
+      "question": "Xylem in gymnosperms lacks:",
+      "options": ["Tracheids", "Vessels", "Fibers", "Parenchyma"],
+      "correct": 1
+    },
+    {
+      "question": "Selaginella and Salvinia are:",
+      "options": ["Homosporous", "Heterosporous", "Bryophytes", "Angiosperms"],
+      "correct": 1
+    },
+    {
+      "question": "Which plant group has the highest number of species?",
+      "options": ["Bryophytes", "Algae", "Gymnosperms", "Angiosperms"],
+      "correct": 3
+    },
+    {
+      "question": "Archegonia is absent in:",
+      "options": ["Pteridophytes", "Gymnosperms", "Angiosperms", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Red algae store food as:",
+      "options": ["Starch", "Floridean starch", "Cellulose", "Laminarin"],
+      "correct": 1
+    },
+    {
+      "question": "Haplodiplontic life cycle is seen in:",
+      "options": ["Bryophytes", "Pteridophytes", "Algae", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Moss protonema resembles:",
+      "options": ["Algal thallus", "Seed", "Zygote", "Leaf"],
+      "correct": 0
+    },
+    {
+      "question": "The term 'seed habit' first evolved in:",
+      "options": ["Algae", "Pteridophytes", "Gymnosperms", "Angiosperms"],
+      "correct": 2
+    },
+    {
+      "question": "The plant kingdom is classified by:",
+      "options": ["Whittaker", "Linnaeus", "Haeckel", "Darwin"],
+      "correct": 0
+    },
+    {
+      "question": "Funaria belongs to the division:",
+      "options": ["Hepaticopsida", "Anthocerotopsida", "Bryopsida", "Pteridophyta"],
+      "correct": 2
+    },
+    {
+      "question": "Dominant phase in Pteridophytes is:",
+      "options": ["Gametophyte", "Sporophyte", "Zygote", "Spore"],
+      "correct": 1
+    }
+  ]
+}

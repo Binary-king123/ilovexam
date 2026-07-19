@@ -1,0 +1,259 @@
+{
+  "test": [
+    {
+      "question": "MOET stands for:",
+      "options": [
+        "Multiple Ovulation and Embryo Transfer",
+        "Modified Ovary and Embryo Technology",
+        "Molecular Ovum Embryo Technique",
+        "Modern Ovulation and Embryo Transfer"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a marine fish?",
+      "options": ["Catla", "Rohu", "Hilsa", "Mrigal"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the most common method for improving crop varieties?",
+      "options": ["Tissue culture", "Hybridisation", "Mutation", "Irradiation"],
+      "correct": 1
+    },
+    {
+      "question": "The father of green revolution in India is:",
+      "options": ["M.S. Swaminathan", "Norman Borlaug", "Har Gobind Khorana", "Verghese Kurien"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following fish is a surface feeder?",
+      "options": ["Rohu", "Catla", "Mrigal", "Common carp"],
+      "correct": 1
+    },
+    {
+      "question": "Tissue culture technique is useful for:",
+      "options": ["Growing livestock", "Breeding fish", "Cloning plants", "Genetic transformation"],
+      "correct": 2
+    },
+    {
+      "question": "Which crop is fortified with protein in high-protein maize?",
+      "options": ["Zea mays", "Wheat", "Rice", "Barley"],
+      "correct": 0
+    },
+    {
+      "question": "Apical meristem culture is useful for:",
+      "options": ["Eliminating viruses", "Doubling chromosomes", "Gene editing", "Seed germination"],
+      "correct": 0
+    },
+    {
+      "question": "Which technique allows production of disease-free plants?",
+      "options": ["Embryo rescue", "Callus culture", "Micropropagation", "MOET"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a biofortified crop?",
+      "options": ["Golden rice", "Bt cotton", "Flavr Savr tomato", "Hybrid maize"],
+      "correct": 0
+    },
+    {
+      "question": "Somatic hybridization involves:",
+      "options": [
+        "Fusion of egg and sperm",
+        "Fusion of somatic cells",
+        "Use of bacterial DNA",
+        "Use of only female plant"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a genetically modified crop?",
+      "options": ["Wheat", "Rice", "Bt cotton", "Barley"],
+      "correct": 2
+    },
+    {
+      "question": "Single-cell protein is rich in:",
+      "options": ["Carbohydrates", "Fats", "Proteins", "Vitamins"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is used as SCP (Single Cell Protein)?",
+      "options": ["Lactobacillus", "Chlorella", "Penicillium", "Aspergillus"],
+      "correct": 1
+    },
+    {
+      "question": "The most commonly cultured freshwater fish are:",
+      "options": ["Hilsa and Catla", "Rohu and Catla", "Mrigal and Tuna", "Rohu and Salmon"],
+      "correct": 1
+    },
+    {
+      "question": "Animal breeding aims at:",
+      "options": ["Increasing resistance to diseases", "Improving genetic quality", "Increasing yield", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "Outbreeding refers to mating of:",
+      "options": ["Same breed", "Closely related animals", "Unrelated animals", "Animals from different species"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a common biotechnological tool for plant breeding?",
+      "options": ["ELISA", "PCR", "Tissue culture", "Western blot"],
+      "correct": 2
+    },
+    {
+      "question": "Which fish is known for fast growth and adaptability in aquaculture?",
+      "options": ["Salmon", "Catla", "Common carp", "Mackerel"],
+      "correct": 2
+    },
+    {
+      "question": "Which technique uses embryos from elite cow and surrogate mother?",
+      "options": ["Artificial insemination", "MOET", "Hybridization", "Apomixis"],
+      "correct": 1
+    },
+    {
+      "question": "Haploids are useful in breeding because they:",
+      "options": ["Are fertile", "Allow quick homozygosity", "Produce seeds quickly", "Grow faster"],
+      "correct": 1
+    },
+    {
+      "question": "Which method is used for early selection of disease-resistant plants?",
+      "options": ["Electrophoresis", "ELISA", "Marker-assisted selection", "Grafting"],
+      "correct": 2
+    },
+    {
+      "question": "Artificial insemination is useful in:",
+      "options": ["Improving crop yield", "Cattle breeding", "Fish culture", "Tissue culture"],
+      "correct": 1
+    },
+    {
+      "question": "Which one is a marine fish?",
+      "options": ["Mrigal", "Catla", "Rohu", "Pomphret"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a hybrid of potato and tomato?",
+      "options": ["Golden rice", "Pomato", "Tomato", "Bt brinjal"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following improves plant quality by introducing genes?",
+      "options": ["Breeding", "Selection", "Genetic engineering", "Mutation"],
+      "correct": 2
+    },
+    {
+      "question": "What is the major source of SCP in yeast?",
+      "options": ["Saccharomyces cerevisiae", "Candida albicans", "Aspergillus", "Rhizobium"],
+      "correct": 0
+    },
+    {
+      "question": "The main aim of blue revolution is:",
+      "options": ["Increase milk production", "Increase fish production", "Increase crop yield", "Increase animal yield"],
+      "correct": 1
+    },
+    {
+      "question": "Biofortification increases:",
+      "options": ["Shelf life", "Nutritional quality", "Taste", "Color"],
+      "correct": 1
+    },
+    {
+      "question": "Wheat variety 'Atlas 66' is rich in:",
+      "options": ["Starch", "Lysine", "Iron", "Vitamin A"],
+      "correct": 1
+    },
+    {
+      "question": "Jaya and Ratna are varieties of:",
+      "options": ["Wheat", "Maize", "Rice", "Barley"],
+      "correct": 2
+    },
+    {
+      "question": "Somatic hybrids are obtained by:",
+      "options": ["Protoplast fusion", "Grafting", "Hybridisation", "Callus culture"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a resistant variety of Brassica against aphids?",
+      "options": ["Pusa Gaurav", "Pusa Swarnim", "Pusa Sadabahar", "Pusa Komal"],
+      "correct": 0
+    },
+    {
+      "question": "The process of breeding animals for superior traits is called:",
+      "options": ["Animal husbandry", "Domestication", "Inbreeding", "Animal breeding"],
+      "correct": 3
+    },
+    {
+      "question": "Single cell protein is mainly used to:",
+      "options": ["Treat infections", "Enhance immunity", "Supplement food", "Generate electricity"],
+      "correct": 2
+    },
+    {
+      "question": "Callus is:",
+      "options": ["A seed", "A tumor", "Mass of undifferentiated cells", "A leaf organ"],
+      "correct": 2
+    },
+    {
+      "question": "Which variety is used to combat blindness due to vitamin A deficiency?",
+      "options": ["Atlas 66", "Golden Rice", "Hybrid maize", "Jaya"],
+      "correct": 1
+    },
+    {
+      "question": "The desired traits are introduced into plants using:",
+      "options": ["Grafting", "Transduction", "Transformation", "Hybridization"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following crops has been biofortified with iron?",
+      "options": ["Wheat", "Mustard", "Rice", "Maize"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a multinutrient-rich maize variety?",
+      "options": ["Atlas 66", "QPM", "IR-8", "Pusa Swarnim"],
+      "correct": 1
+    },
+    {
+      "question": "Which type of breeding results in inbreeding depression?",
+      "options": ["Cross-breeding", "Inbreeding", "Out-crossing", "Inter-varietal hybridization"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a desirable trait in poultry farming?",
+      "options": ["Long legs", "Short feathers", "High egg production", "Loud voice"],
+      "correct": 2
+    },
+    {
+      "question": "Meristem culture is used to produce:",
+      "options": ["Hybrid seeds", "Virus-free plants", "More fruits", "Larger leaves"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following crops is fortified with high zinc content?",
+      "options": ["Rice", "Wheat", "Maize", "Barley"],
+      "correct": 0
+    },
+    {
+      "question": "The first genetically modified crop in India was:",
+      "options": ["Bt Brinjal", "Bt Cotton", "Golden Rice", "QPM"],
+      "correct": 1
+    },
+    {
+      "question": "The main aim of hybridization is to:",
+      "options": ["Improve seed color", "Improve climate tolerance", "Combine desired traits", "Reduce plant height"],
+      "correct": 2
+    },
+    {
+      "question": "Artificial insemination helps in:",
+      "options": ["Birth control", "Rapid spread of desired genes", "Reducing diseases", "Natural mating"],
+      "correct": 1
+    },
+    {
+      "question": "Interbreeding between two different species is called:",
+      "options": ["Inbreeding", "Out-crossing", "Cross breeding", "Inter-specific hybridisation"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following produces antifungal proteins?",
+      "options": ["Pusa Swarnim", "Pusa Gaurav", "Pusa Komal", "Pusa Sadabahar"],
+      "correct": 3
+    }
+  ]
+}

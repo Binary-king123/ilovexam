@@ -1,0 +1,256 @@
+{
+  "test": [
+
+    {
+      "question": "In a triangle, one angle measures 50° and another measures 60°. What is the measure of the third angle?",
+      "options": ["60°", "70°", "80°", "90°"],
+      "correct": 2
+    },
+    {
+      "question": "What is the sum of the interior angles of a triangle?",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correct": 1
+    },
+    {
+      "question": "What is the measure of each angle in an equilateral triangle?",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correct": 2
+    },
+    {
+      "question": "A straight angle measures:",
+      "options": ["90°", "120°", "180°", "360°"],
+      "correct": 2
+    },
+    {
+      "question": "If two angles in a triangle measure 35° and 65°, what is the third angle?",
+      "options": ["80°", "90°", "60°", "100°"],
+      "correct": 2
+    },
+    {
+      "question": "The diameter of a circle is 10. What is the radius?",
+      "options": ["2", "4", "5", "10"],
+      "correct": 2
+    },
+    {
+      "question": "What is the formula for the area of a circle?",
+      "options": ["πd", "πr²", "2πr", "πr"],
+      "correct": 1
+    },
+    {
+      "question": "In triangle ABC, angle A is 90°. If angle B is 40°, what is angle C?",
+      "options": ["40°", "45°", "50°", "60°"],
+      "correct": 2
+    },
+    {
+      "question": "What is the perimeter of an equilateral triangle with each side measuring 5 units?",
+      "options": ["10", "15", "20", "25"],
+      "correct": 1
+    },
+    {
+      "question": "The radius of a circle is 7 units. What is the diameter?",
+      "options": ["7", "14", "21", "28"],
+      "correct": 1
+    },
+    {
+      "question": "What is the measure of a right angle?",
+      "options": ["45°", "90°", "120°", "180°"],
+      "correct": 1
+    },
+    {
+      "question": "Two angles are supplementary. One angle is 65°. What is the other?",
+      "options": ["115°", "105°", "95°", "85°"],
+      "correct": 0
+    },
+    {
+      "question": "A triangle has sides of length 6, 8, and 10. What kind of triangle is it?",
+      "options": ["Equilateral", "Isosceles", "Right", "Scalene"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is true for a circle?",
+      "options": ["Diameter = radius", "Diameter = 2 × radius", "Radius = 2 × diameter", "Radius = π × diameter"],
+      "correct": 1
+    },
+    {
+      "question": "The central angle in a semicircle measures:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correct": 1
+    },
+    {
+      "question": "An angle that measures less than 90° is called:",
+      "options": ["Acute", "Right", "Obtuse", "Reflex"],
+      "correct": 0
+    },
+    {
+      "question": "In triangle DEF, angle D is 80°, and angle E is 45°. What is angle F?",
+      "options": ["45°", "55°", "60°", "65°"],
+      "correct": 1
+    },
+    {
+      "question": "What is the area of a triangle with base 6 and height 4?",
+      "options": ["12", "24", "16", "10"],
+      "correct": 0
+    },
+    {
+      "question": "A circle has a diameter of 12 units. What is its circumference?",
+      "options": ["12π", "6π", "24π", "36π"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following represents the angle sum of a quadrilateral?",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a property of an isosceles triangle?",
+      "options": ["Three equal sides", "Two equal sides", "All angles 90°", "No equal sides"],
+      "correct": 1
+    },
+    {
+      "question": "If the radius of a circle is tripled, the area increases by a factor of:",
+      "options": ["3", "6", "9", "12"],
+      "correct": 2
+    },
+    {
+      "question": "What is the value of x in a triangle with angles 40°, 60°, and x?",
+      "options": ["80°", "60°", "40°", "100°"],
+      "correct": 0
+    },
+    {
+      "question": "What is the angle between the hands of a clock at 3:00?",
+      "options": ["30°", "45°", "90°", "120°"],
+      "correct": 2
+    },
+    {
+      "question": "What is the measure of an exterior angle of a regular hexagon?",
+      "options": ["60°", "90°", "120°", "150°"],
+      "correct": 0
+    },
+
+    {
+      "question": "In a triangle, two angles are equal, and the third is 40°. What are the equal angles?",
+      "options": ["70°", "60°", "40°", "50°"],
+      "correct": 3
+    },
+    {
+      "question": "What is the area of a circle with radius 6?",
+      "options": ["12π", "18π", "36π", "9π"],
+      "correct": 2
+    },
+    {
+      "question": "If a triangle has angles 2x, 3x, and 5x, what is the value of x?",
+      "options": ["10", "15", "20", "30"],
+      "correct": 1
+    },
+    {
+      "question": "What is the circumference of a circle with radius 9?",
+      "options": ["9π", "18π", "27π", "36π"],
+      "correct": 1
+    },
+    {
+      "question": "A triangle has side lengths 5, 12, and 13. What type of triangle is this?",
+      "options": ["Scalene", "Right", "Acute", "Obtuse"],
+      "correct": 1
+    },
+    {
+      "question": "What is the area of a triangle with sides 8 and 6 and included angle 60°?",
+      "options": ["12√3", "24√3", "18√3", "10√3"],
+      "correct": 1
+    },
+    {
+      "question": "Find the radius of a circle with area 100π.",
+      "options": ["5", "10", "20", "50"],
+      "correct": 1
+    },
+    {
+      "question": "A triangle has sides 7, 24, and 25. Is it a right triangle?",
+      "options": ["Yes", "No", "Can't tell", "Only if 7 is the hypotenuse"],
+      "correct": 0
+    },
+    {
+      "question": "The arc of a circle measures 90°. What fraction of the circle does it represent?",
+      "options": ["1/4", "1/2", "3/4", "1/3"],
+      "correct": 0
+    },
+    {
+      "question": "The internal angle of a regular polygon is 150°. How many sides does the polygon have?",
+      "options": ["10", "12", "15", "18"],
+      "correct": 0
+    },
+    {
+      "question": "If two angles of a triangle are 2x and 3x, and the third angle is 50°, what is x?",
+      "options": ["10", "15", "20", "25"],
+      "correct": 1
+    },
+    {
+      "question": "Find the area of a sector of a circle with radius 4 and central angle 90°.",
+      "options": ["2π", "4π", "8π", "16π"],
+      "correct": 1
+    },
+    {
+      "question": "What is the length of an arc in a circle with radius 10 and central angle 60°?",
+      "options": ["(10π)/3", "π", "(5π)/3", "2π"],
+      "correct": 0
+    },
+    {
+      "question": "What is the number of diagonals in a hexagon?",
+      "options": ["6", "9", "12", "15"],
+      "correct": 2
+    },
+    {
+      "question": "In a triangle, if one angle is twice another and the third is 40°, what is the largest angle?",
+      "options": ["60°", "80°", "100°", "120°"],
+      "correct": 1
+    },
+    {
+      "question": "What is the sum of exterior angles of any polygon?",
+      "options": ["180°", "360°", "720°", "variable"],
+      "correct": 1
+    },
+    {
+      "question": "What is the radius of a circle with circumference 16π?",
+      "options": ["4", "6", "8", "10"],
+      "correct": 2
+    },
+    {
+      "question": "The angles of a triangle are in the ratio 1:2:3. What is the largest angle?",
+      "options": ["90°", "100°", "120°", "150°"],
+      "correct": 0
+    },
+    {
+      "question": "What is the exterior angle of a regular decagon?",
+      "options": ["30°", "36°", "45°", "60°"],
+      "correct": 1
+    },
+    {
+      "question": "What is the number of sides in a polygon with each interior angle measuring 160°?",
+      "options": ["9", "10", "11", "12"],
+      "correct": 1
+    },
+    {
+      "question": "The triangle inequality theorem states:",
+      "options": ["a + b > c", "a = b + c", "a² + b² = c²", "a - b < c"],
+      "correct": 0
+    },
+    {
+      "question": "A triangle has sides 10, 10, and 12. What is its perimeter?",
+      "options": ["30", "31", "32", "33"],
+      "correct": 2
+    },
+    {
+      "question": "The angle formed in a semicircle is:",
+      "options": ["45°", "60°", "90°", "180°"],
+      "correct": 2
+    },
+    {
+      "question": "Find the area of a circle with diameter 16.",
+      "options": ["16π", "64π", "32π", "128π"],
+      "correct": 1
+    },
+    {
+      "question": "A triangle has two equal sides and one 40° angle. What are the other angles?",
+      "options": ["70° each", "40° and 100°", "80° each", "None of the above"],
+      "correct": 0
+    }
+  ]
+}

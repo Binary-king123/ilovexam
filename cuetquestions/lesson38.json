@@ -1,0 +1,229 @@
+{
+  "hydrocarbons": [
+    {
+      "question": "Which is an alkane?",
+      "options": ["Ethene", "Ethyne", "Ethane", "Ethene"],
+      "correct": 2
+    },
+    {
+      "question": "The general formula of alkyne is:",
+      "options": ["CₙH₂ₙ₊₂", "CₙH₂ₙ", "CₙH₂ₙ₋₂", "CₙH₂ₙ₋₆"],
+      "correct": 2
+    },
+    {
+      "question": "Catalytic hydrogenation of alkene gives:",
+      "options": ["Alkyne", "Alkane", "Alkene", "Aromatic"],
+      "correct": 1
+    },
+    {
+      "question": "Which reagent converts alkyne to alkene (cis)?",
+      "options": ["H₂/Pd", "H₂/Lindlar", "Na/NH₃", "Br₂/CCl₄"],
+      "correct": 1
+    },
+    {
+      "question": "Combustion of hydrocarbon gives:",
+      "options": ["CO₂ + H₂O", "CO + H₂", "C + H₂O", "CO₂ only"],
+      "correct": 0
+    },
+    {
+      "question": "Electrophilic addition occurs on:",
+      "options": ["Alkanes", "Alkenes", "Alkynes only", "Aromatics"],
+      "correct": 1
+    },
+    {
+      "question": "Which gas is used to detect unsaturation?",
+      "options": ["Br₂/CCl₄", "HCl", "H₂O", "NH₃"],
+      "correct": 0
+    },
+    {
+      "question": "Markovnikov’s rule applies to:",
+      "options": ["Alkane substitution", "Alkene addition", "Alkyne hydrogenation", "Aromatic substitution"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound is aromatic?",
+      "options": ["Cyclohexane", "Benzene", "Cyclopentane", "Cyclohexene"],
+      "correct": 1
+    },
+    {
+      "question": "Which aromatic system obeys Huckel’s rule?",
+      "options": ["Cyclopentadiene", "Cyclobutadiene", "Cyclooctatetraene", "Benzene"],
+      "correct": 3
+    },
+    {
+      "question": "Friedel–Crafts alkylation uses:",
+      "options": ["AlCl₃", "H₂SO₄", "Pt", "Br₂"],
+      "correct": 0
+    },
+    {
+      "question": "Toluene is:",
+      "options": ["Methylbenzene", "Ethylbenzene", "Benzaldehyde", "Aniline"],
+      "correct": 0
+    },
+    {
+      "question": "Side chain oxidation of alkylbenzene yields:",
+      "options": ["Alcohol", "Aldehyde", "Carboxylic acid", "Ketone"],
+      "correct": 2
+    },
+    {
+      "question": "Which reagent nitrates benzene?",
+      "options": ["HNO₃/H₂SO₄", "Br₂/FeBr₃", "Cl₂/FeCl₃", "NaNH₂"],
+      "correct": 0
+    },
+    {
+      "question": "Which isomerism occurs in aliphatic hydrocarbons?",
+      "options": ["Geometric", "Optical", "Tautomeric", "Chain"],
+      "correct": 3
+    },
+    {
+      "question": "The structure of ethyne is:",
+      "options": ["Trigonal planar", "Linear", "Tetrahedral", "Bent"],
+      "correct": 1
+    },
+    {
+      "question": "Which has highest boiling point?",
+      "options": ["Methane", "Ethene", "Ethyne", "Ethane"],
+      "correct": 2
+    },
+    {
+      "question": "Which hydrocarbon is liquid at room temperature?",
+      "options": ["Methane", "Ethane", "Butane", "Pentane"],
+      "correct": 3
+    },
+    {
+      "question": "Alkane undergoes:",
+      "options": ["Electrophilic addition", "Free radical substitution", "Electrophilic substitution", "Nucleophilic addition"],
+      "correct": 1
+    },
+    {
+      "question": "Vinyl chloride is:",
+      "options": ["Chlorinated alkane", "Chlorinated alkene", "Chlorinated alkyne", "Aromatic compound"],
+      "correct": 1
+    },
+    {
+      "question": "Which carbon numbering gives lowest locant for substituent?",
+      "options": ["Chain rule", "Alphabet rule", "Lowest sum rule", "Heaviest group rule"],
+      "correct": 2
+    },
+    {
+      "question": "Which reagent dehalogenates alkyl halide via E2?",
+      "options": ["Alcohol", "Base", "Acid", "Radical"],
+      "correct": 1
+    },
+    {
+      "question": "Which alkene is most substituted?",
+      "options": ["1-butene", "2-butene", "1-pentene", "2-pentene"],
+      "correct": 1
+    },
+    {
+      "question": "Alkyne polymerization requires:",
+      "options": ["Acid", "Base", "Catalyst", "Heat only"],
+      "correct": 2
+    },
+    {
+      "question": "Which hydrocarbon shows optical activity?",
+      "options": ["1-butene", "2-butene (cis)", "2-methylpropane", "2-butanol"],
+      "correct": 3
+    },
+    {
+      "question": "Isobutane is an example of:",
+      "options": ["Straight chain alkane", "Branched alkane", "Cycloalkane", "Aromatic"],
+      "correct": 1
+    },
+    {
+      "question": "Which diene is conjugated?",
+      "options": ["1,3-Butadiene", "1,4-Pentadiene", "1,5-Hexadiene", "Non-conjugated"],
+      "correct": 0
+    },
+    {
+      "question": "Alkyne acidity is higher due to:",
+      "options": ["sp²", "sp³", "sp", "sp²d"],
+      "correct": 2
+    },
+    {
+      "question": "Which reaction converts alkene to epoxide?",
+      "options": ["Peracid epoxidation", "Hydrogenation", "Ozonolysis", "Dehydration"],
+      "correct": 0
+    },
+    {
+      "question": "Which bromide gives carbocation rearrangement?",
+      "options": ["1-bromopropane", "2-bromopropane", "2-bromo-2-methylpropane", "1-bromobutane"],
+      "correct": 2
+    },
+    {
+      "question": "Benzene forms catalyst complex with:",
+      "options": ["FeCl₃", "H₂SO₄", "KMnO₄", "ZnCl₂"],
+      "correct": 0
+    },
+    {
+      "question": "Which reagent converts alkene to diol (syn)?",
+      "options": ["KMnO₄ cold", "Br₂/water", "OsO₄", "H₂/Pt"],
+      "correct": 2
+    },
+    {
+      "question": "Alkenes react with HBr in presence of peroxides to give:",
+      "options": ["Markovnikov product", "Anti-Markovnikov product", "Aldehyde", "Alcohol"],
+      "correct": 1
+    },
+    {
+      "question": "Which is an alicyclic hydrocarbon?",
+      "options": ["Cyclohexane", "Benzene", "Ethane", "Propane"],
+      "correct": 0
+    },
+    {
+      "question": "Which undergoes free radical halogenation fastest?",
+      "options": ["Primary H", "Secondary H", "Tertiary H", "Quaternary H"],
+      "correct": 2
+    },
+    {
+      "question": "Ozonolysis of alkene produces:",
+      "options": ["Alkane", "Aldehyde or ketone", "Alcohol", "Alkyne"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is polyunsaturated?",
+      "options": ["Ethane", "Ethene", "Butadiene", "Propane"],
+      "correct": 2
+    },
+    {
+      "question": "Which reaction gives spacing: benzene → nitrobenzene?",
+      "options": ["Electrophilic substitution", "Nucleophilic substitution", "Addition", "Elimination"],
+      "correct": 0
+    },
+    {
+      "question": "Which alkane is cyclanic?",
+      "options": ["Cyclopropane", "Isobutane", "Hexane", "Ethane"],
+      "correct": 0
+    },
+    {
+      "question": "Catalytic cracking of hydrocarbons forms:",
+      "options": ["Alkanes only", "Alkenes + Alkanes", "Aromatics only", "Cycloalkanes"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a polycyclic aromatic hydrocarbon?",
+      "options": ["Naphthalene", "Benzene", "Cyclohexane", "Methane"],
+      "correct": 0
+    },
+    {
+      "question": "The number of π-bonds in benzene is:",
+      "options": ["1", "2", "3", "6"],
+      "correct": 2
+    },
+    {
+      "question": "Which isomer of butene is most stable?",
+      "options": ["cis-2-butene", "trans-2-butene", "1-butene", "Isobutene"],
+      "correct": 1
+    },
+    {
+      "question": "Diazonium salts are derived from:",
+      "options": ["Alkane", "Alkene", "Aromatic amine", "Alkyne"],
+      "correct": 2
+    },
+    {
+      "question": "Which reagent converts alkane to alkyl halide by radical mechanism?",
+      "options": ["Br₂/hν", "HBr", "Cl₂/AlCl₃", "KMnO₄"],
+      "correct": 0
+    }
+  ]
+}

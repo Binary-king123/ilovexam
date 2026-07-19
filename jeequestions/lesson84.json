@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Linear Programming is used to:",
+      "options": ["Solve equations", "Maximize or minimize a linear function", "Plot graphs", "Integrate functions"],
+      "correct": 1
+    },
+    {
+      "question": "In Linear Programming, the objective function is always:",
+      "options": ["Linear", "Quadratic", "Exponential", "Logarithmic"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a constraint in Linear Programming?",
+      "options": ["x + y ≤ 10", "x² + y² = 4", "xy = 5", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The solution to a linear programming problem lies:",
+      "options": ["Outside the feasible region", "At a corner point of feasible region", "On a curve", "Always at origin"],
+      "correct": 1
+    },
+    {
+      "question": "Which method is used to solve LPP graphically?",
+      "options": ["Corner point method", "Integration", "Substitution", "Gauss elimination"],
+      "correct": 0
+    },
+    {
+      "question": "Feasible region is the region which satisfies:",
+      "options": ["Only the objective function", "All constraints", "One constraint", "None"],
+      "correct": 1
+    },
+    {
+      "question": "If feasible region is unbounded, optimal solution may be:",
+      "options": ["Maximum only", "Minimum only", "May not exist", "Always exists"],
+      "correct": 2
+    },
+    {
+      "question": "The corner points of feasible region are also called:",
+      "options": ["Vertices", "Roots", "Intercepts", "Extrema"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is a linear inequality?",
+      "options": ["x + y ≤ 10", "x² − y ≤ 4", "xy ≥ 0", "x/y < 5"],
+      "correct": 0
+    },
+    {
+      "question": "Objective function in LPP is of the form:",
+      "options": ["ax + by", "x² + y", "log(x) + y", "e^x + y"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a constraint?",
+      "options": ["x ≥ 0", "y ≥ 0", "Z = 2x + 3y", "x + y ≤ 5"],
+      "correct": 2
+    },
+    {
+      "question": "In LPP, constraints are represented by:",
+      "options": ["Equations", "Inequalities", "Vectors", "Matrices"],
+      "correct": 1
+    },
+    {
+      "question": "If a constraint is x ≥ 0, the region lies to the:",
+      "options": ["Left of y-axis", "Right of y-axis", "Above x-axis", "Below x-axis"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these represents a bounded feasible region?",
+      "options": ["Closed polygonal area", "Open curve", "Line", "Ray"],
+      "correct": 0
+    },
+    {
+      "question": "A feasible solution satisfies:",
+      "options": ["Only the objective function", "Only one constraint", "All constraints", "None"],
+      "correct": 2
+    },
+    {
+      "question": "An infeasible solution violates:",
+      "options": ["At least one constraint", "All constraints", "The objective function", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The maximum value of the objective function occurs at:",
+      "options": ["A corner point", "Any point", "Midpoint", "Origin always"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is true for LPP?",
+      "options": ["All solutions are at boundaries", "Extremes occur at corner points", "All constraints are non-linear", "Solutions always unique"],
+      "correct": 1
+    },
+    {
+      "question": "In LPP, the region x ≥ 0 and y ≥ 0 lies in:",
+      "options": ["First quadrant", "Second quadrant", "Third quadrant", "Fourth quadrant"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a valid objective function?",
+      "options": ["Z = 5x + 2y", "Z = x² + y", "Z = log(x)", "Z = sin(x)"],
+      "correct": 0
+    },
+    {
+      "question": "The feasible region of an LPP is always:",
+      "options": ["Convex", "Concave", "Circular", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The optimal value in LPP can be:",
+      "options": ["Maximum", "Minimum", "Both A and B", "Neither A nor B"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following constraints ensures non-negativity?",
+      "options": ["x ≥ 0, y ≥ 0", "x + y = 10", "x ≤ 0", "x = −1"],
+      "correct": 0
+    },
+    {
+      "question": "If two objective functions have the same slope, the solution is:",
+      "options": ["Unique", "Infinite", "Unbounded", "None"],
+      "correct": 1
+    },
+    {
+      "question": "In graphical method, number of variables used is:",
+      "options": ["1", "2", "3", "Any number"],
+      "correct": 1
+    },
+    {
+      "question": "When feasible region is empty, the LPP has:",
+      "options": ["One solution", "No solution", "Two solutions", "Infinite solutions"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following points satisfy x + y ≤ 10 and x ≥ 0, y ≥ 0?",
+      "options": ["(2,3)", "(10,1)", "(-1,5)", "(5,-2)"],
+      "correct": 0
+    },
+    {
+      "question": "The solution of LPP lies at:",
+      "options": ["Corner point of feasible region", "Center", "Axis", "Infinity"],
+      "correct": 0
+    },
+    {
+      "question": "If feasible region is unbounded and minimum value exists, it lies at:",
+      "options": ["Vertex", "Interior point", "Boundary", "Infinity"],
+      "correct": 0
+    },
+    {
+      "question": "If objective function is parallel to a constraint line then:",
+      "options": ["Multiple optimal solutions possible", "No solution", "Always minimum", "Always maximum"],
+      "correct": 0
+    },
+    {
+      "question": "The term LPP stands for:",
+      "options": ["Linear Product Plan", "Linear Program Problem", "Linear Programming Problem", "Logical Programming Pattern"],
+      "correct": 2
+    },
+    {
+      "question": "Which method is not suitable for LPP with 3 variables?",
+      "options": ["Graphical method", "Simplex method", "Matrix method", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which one is not part of LPP formulation?",
+      "options": ["Objective function", "Constraints", "Variables", "Determinants"],
+      "correct": 3
+    },
+    {
+      "question": "Linear inequalities represent:",
+      "options": ["Constraints", "Objective", "Boundaries", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A point which satisfies all constraints and non-negativity is:",
+      "options": ["Feasible", "Optimal", "Infeasible", "Extreme"],
+      "correct": 0
+    },
+    {
+      "question": "A region where all conditions are satisfied is called:",
+      "options": ["Feasible region", "Optimal zone", "Axis region", "Bounded area"],
+      "correct": 0
+    },
+    {
+      "question": "If a constraint is x + y ≥ 20, solution lies:",
+      "options": ["Above line", "Below line", "On line only", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Corner points of feasible region are found by:",
+      "options": ["Intersecting constraint lines", "Objective function", "By integration", "Graph of objective function"],
+      "correct": 0
+    },
+    {
+      "question": "In graphical solution, maximum occurs at:",
+      "options": ["One or more vertices", "Center", "Midpoint", "Origin"],
+      "correct": 0
+    },
+    {
+      "question": "The objective function is optimized only at:",
+      "options": ["Corner points", "Any feasible point", "Center", "x = y"],
+      "correct": 0
+    },
+    {
+      "question": "Unbounded feasible region means:",
+      "options": ["Not enclosed", "Multiple maxima", "Unique solution", "All of these"],
+      "correct": 0
+    },
+    {
+      "question": "The feasible region is always:",
+      "options": ["Convex", "Concave", "Circular", "Infinite"],
+      "correct": 0
+    },
+    {
+      "question": "If constraints are contradictory, LPP has:",
+      "options": ["No solution", "One solution", "Two solutions", "Many"],
+      "correct": 0
+    },
+    {
+      "question": "LPP can be applied to:",
+      "options": ["Maximize profit", "Minimize cost", "Resource allocation", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "If constraints do not intersect in first quadrant, feasible region is:",
+      "options": ["Empty", "Bounded", "Infinite", "Convex"],
+      "correct": 0
+    },
+    {
+      "question": "An LPP has multiple optimal solutions when:",
+      "options": ["Objective function is parallel to a constraint", "No constraints", "All constraints are equal", "None"],
+      "correct": 0
+    },
+    {
+      "question": "LPP variables must be:",
+      "options": ["Real", "Integer", "Non-negative", "Positive"],
+      "correct": 2
+    },
+    {
+      "question": "The number of variables in graphical LPP solution is limited to:",
+      "options": ["1", "2", "3", "Unlimited"],
+      "correct": 1
+    },
+    {
+      "question": "If feasible region is bounded, solution always exists:",
+      "options": ["True", "False", "Sometimes", "Can't say"],
+      "correct": 0
+    },
+    {
+      "question": "If LPP has more than one optimal solution, all lie:",
+      "options": ["On the same line", "At origin", "Outside region", "None"],
+      "correct": 0
+    }
+  ]
+}

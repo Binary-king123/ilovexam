@@ -1,0 +1,239 @@
+{
+  "test": [
+    {
+      "question": "The integral of 1/x dx is:",
+      "options": ["x", "log|x| + C", "e^x + C", "1/x + C"],
+      "correct": 1
+    },
+    {
+      "question": "∫cos(x) dx equals:",
+      "options": ["sin(x) + C", "-sin(x) + C", "cos(x) + C", "tan(x) + C"],
+      "correct": 0
+    },
+    {
+      "question": "∫e^x dx equals:",
+      "options": ["e^x + C", "x e^x + C", "1/e^x + C", "ln(x) + C"],
+      "correct": 0
+    },
+    {
+      "question": "The integral ∫x dx equals:",
+      "options": ["x", "x² + C", "x²/2 + C", "2x + C"],
+      "correct": 2
+    },
+    {
+      "question": "∫sec²x dx is:",
+      "options": ["tan(x) + C", "sec(x) + C", "cot(x) + C", "cos(x) + C"],
+      "correct": 0
+    },
+    {
+      "question": "The integral ∫dx/(1 + x²) equals:",
+      "options": ["tan⁻¹x + C", "sin⁻¹x + C", "log|x| + C", "e^x + C"],
+      "correct": 0
+    },
+    {
+      "question": "The function F(x) is called an antiderivative of f(x) if:",
+      "options": ["F'(x) = f(x)", "F(x) = f '(x)", "F''(x) = f(x)", "F(x) = f(x) + C"],
+      "correct": 0
+    },
+    {
+      "question": "∫(x² + 2x + 1) dx equals:",
+      "options": ["x³ + x² + x + C", "x³/3 + x² + x + C", "x³/3 + x² + x + C", "x³ + 2x² + x + C"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a method of integration?",
+      "options": ["Substitution", "Differentiation", "Binomial expansion", "Matrix transformation"],
+      "correct": 0
+    },
+    {
+      "question": "∫(2x + 3) dx is:",
+      "options": ["x² + 3x + C", "x² + 6 + C", "x² + 3x² + C", "2x² + 3x + C"],
+      "correct": 0
+    },
+    {
+      "question": "If F(x) = ∫f(x) dx, then F '(x) equals:",
+      "options": ["f(x)", "0", "F(x)", "f '(x)"],
+      "correct": 0
+    },
+    {
+      "question": "∫sin²x dx equals:",
+      "options": ["(x/2 - sin(2x)/4) + C", "(x/2 + sin(2x)/4) + C", "−cos(x) + C", "cos(2x)/2 + C"],
+      "correct": 0
+    },
+    {
+      "question": "Definite integral is represented by:",
+      "options": ["∫f(x)dx", "∫ₐᵇf(x)dx", "∂f(x)", "f '(x)"],
+      "correct": 1
+    },
+    {
+      "question": "Fundamental theorem of calculus connects:",
+      "options": ["Derivatives and integrals", "Matrices and integrals", "Derivatives and limits", "Sequences and series"],
+      "correct": 0
+    },
+    {
+      "question": "∫dx/√(1 - x²) equals:",
+      "options": ["sin⁻¹x + C", "tan⁻¹x + C", "cos⁻¹x + C", "log|x| + C"],
+      "correct": 0
+    },
+    {
+      "question": "Integration is the reverse process of:",
+      "options": ["Substitution", "Differentiation", "Multiplication", "Simplification"],
+      "correct": 1
+    },
+    {
+      "question": "The constant of integration is denoted by:",
+      "options": ["K", "C", "D", "A"],
+      "correct": 1
+    },
+    {
+      "question": "The value of ∫₀¹x dx is:",
+      "options": ["1", "1/2", "0", "2"],
+      "correct": 1
+    },
+    {
+      "question": "If ∫₀²(x² + 2x)dx = A, then A equals:",
+      "options": ["4", "8", "16/3", "20/3"],
+      "correct": 3
+    },
+    {
+      "question": "∫|x| dx over [−1, 1] equals:",
+      "options": ["0", "1", "2", "1/2"],
+      "correct": 2
+    },
+    {
+      "question": "∫tan(x) dx equals:",
+      "options": ["−ln|cos(x)| + C", "ln|cos(x)| + C", "ln|sin(x)| + C", "−cos(x) + C"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = x³, then ∫f '(x) dx equals:",
+      "options": ["x³ + C", "3x² + C", "x⁴/4 + C", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The integral of a constant a is:",
+      "options": ["ax + C", "a² + C", "1/a + C", "log|a| + C"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) is even, then ∫₋ₐᵃf(x) dx equals:",
+      "options": ["0", "2∫₀ᵃf(x) dx", "−∫₀ᵃf(x) dx", "None"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) is odd, then ∫₋ₐᵃf(x) dx equals:",
+      "options": ["2∫₀ᵃf(x) dx", "0", "a", "f(a) - f(−a)"],
+      "correct": 1
+    },
+    {
+      "question": "Which rule helps in evaluating definite integrals?",
+      "options": ["Leibniz Rule", "Newton’s Law", "Fundamental Theorem", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "∫log(x) dx is:",
+      "options": ["x log(x) − x + C", "log(x)/x + C", "x log(x) + x + C", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Integration by parts uses the formula:",
+      "options": ["∫uv dx = u∫v dx − ∫(u'∫v dx) dx", "∫uv dx = u.v − ∫v.du", "Both", "None"],
+      "correct": 2
+    },
+    {
+      "question": "If ∫ₐᵇf(x)dx = 0, then f(x) must be:",
+      "options": ["Even", "Odd", "Zero", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The area under y = x² from x = 0 to x = 2 is:",
+      "options": ["8/3", "4", "2", "None"],
+      "correct": 0
+    },
+    {
+      "question": "∫(2x)/(x² + 1) dx equals:",
+      "options": ["log(x² + 1) + C", "tan⁻¹x + C", "x² + C", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If F '(x) = 3x², then F(x) equals:",
+      "options": ["x³ + C", "3x + C", "x² + C", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The substitution method is useful when:",
+      "options": ["The integrand is a product", "The integrand is a composite function", "f '(x)/f(x) form", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "∫dx/(√x) equals:",
+      "options": ["2√x + C", "√x + C", "x + C", "x² + C"],
+      "correct": 0
+    },
+    {
+      "question": "The integral of sin(x)cos(x) dx is:",
+      "options": ["1/2 sin²x + C", "−1/2 cos²x + C", "1/2 sin(2x) + C", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The value of ∫₀^π/2 sin x dx is:",
+      "options": ["1", "2", "π", "0"],
+      "correct": 0
+    },
+    {
+      "question": "∫₀^a x dx equals:",
+      "options": ["a²/2", "a²", "2a²", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The integral of sec(x)dx is:",
+      "options": ["ln|sec x + tan x| + C", "sec x + tan x + C", "ln|sin x| + C", "None"],
+      "correct": 0
+    },
+    {
+      "question": "∫tan²x dx equals:",
+      "options": ["tan x + C", "sec²x + C", "tan x − x + C", "tan x + x + C"],
+      "correct": 2
+    },
+    {
+      "question": "Area under y = √x between x = 0 to x = 4 is:",
+      "options": ["16/3", "8", "4", "32/3"],
+      "correct": 0
+    },
+    {
+      "question": "The antiderivative of dx/x² is:",
+      "options": ["−1/x + C", "x + C", "1/x + C", "log x + C"],
+      "correct": 0
+    },
+    {
+      "question": "∫1/(1 + tan²x) dx is:",
+      "options": ["tan⁻¹x + C", "sin⁻¹x + C", "cos⁻¹x + C", "cot⁻¹x + C"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is NOT a standard integral?",
+      "options": ["∫dx/√(1 − x²)", "∫dx/(1 + x²)", "∫sec x dx", "∫log x dx/x"],
+      "correct": 3
+    },
+    {
+      "question": "If y = ∫₀ˣt² dt, then dy/dx =",
+      "options": ["x²", "x", "2x", "0"],
+      "correct": 0
+    },
+    {
+      "question": "∫₀²x dx equals:",
+      "options": ["2", "4", "8", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Integration gives the:",
+      "options": ["Instantaneous rate", "Cumulative quantity", "Slope", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a method of integration?",
+      "options": ["By parts", "By substitution", "By rationalization", "By partial fractions"],
+      "correct": 2
+    }
+  ]
+}

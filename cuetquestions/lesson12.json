@@ -1,0 +1,239 @@
+{
+  "test": [
+    {
+      "question": "Kinetic theory of gases is applicable to:",
+      "options": ["Solids", "Liquids", "Ideal gases", "Plasmas"],
+      "correct": 2
+    },
+    {
+      "question": "Kinetic energy of a gas depends on its:",
+      "options": ["Pressure", "Volume", "Temperature", "Density"],
+      "correct": 2
+    },
+    {
+      "question": "The RMS speed of gas molecules is given by:",
+      "options": ["√(3kT/m)", "√(kT/m)", "√(2kT/m)", "kT/m"],
+      "correct": 0
+    },
+    {
+      "question": "For a given gas, as temperature increases, average kinetic energy:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correct": 0
+    },
+    {
+      "question": "Pressure of an ideal gas is due to:",
+      "options": ["Interatomic forces", "Kinetic energy of molecules", "Volume", "Gravity"],
+      "correct": 1
+    },
+    {
+      "question": "SI unit of Boltzmann constant (k) is:",
+      "options": ["J", "J/K", "J/mol·K", "J/K·particle"],
+      "correct": 1
+    },
+    {
+      "question": "Kinetic energy per mole of an ideal gas is:",
+      "options": ["(3/2)kT", "(3/2)RT", "(1/2)kT", "(1/2)mv²"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is NOT an assumption of kinetic theory?",
+      "options": ["Molecules have negligible volume", "Collisions are elastic", "Intermolecular forces are strong", "Large number of molecules"],
+      "correct": 2
+    },
+    {
+      "question": "The average kinetic energy per molecule is:",
+      "options": ["(3/2)kT", "RT", "kT", "3kT"],
+      "correct": 0
+    },
+    {
+      "question": "As temperature approaches absolute zero, the kinetic energy of gas molecules:",
+      "options": ["Increases", "Decreases", "Becomes infinite", "Becomes constant"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these gases will have the highest RMS speed at the same temperature?",
+      "options": ["Hydrogen", "Oxygen", "Nitrogen", "Carbon dioxide"],
+      "correct": 0
+    },
+    {
+      "question": "What is the value of universal gas constant R?",
+      "options": ["8.31 J/mol·K", "1.38 × 10⁻²³ J/K", "273 J/K", "6.62 × 10⁻³⁴ J·s"],
+      "correct": 0
+    },
+    {
+      "question": "According to kinetic theory, pressure is proportional to:",
+      "options": ["Average speed", "Average kinetic energy", "Square of speed", "Cube of speed"],
+      "correct": 1
+    },
+    {
+      "question": "Which gas law can be derived from kinetic theory?",
+      "options": ["Boyle’s law", "Charles’s law", "Avogadro’s law", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is NOT true about ideal gases?",
+      "options": ["They obey PV = nRT", "They have no intermolecular forces", "They liquefy at low temperatures", "Their collisions are elastic"],
+      "correct": 2
+    },
+    {
+      "question": "The temperature at which molecular motion ceases is:",
+      "options": ["0°C", "273 K", "0 K", "100°C"],
+      "correct": 2
+    },
+    {
+      "question": "The number of degrees of freedom for a monoatomic gas is:",
+      "options": ["3", "5", "6", "2"],
+      "correct": 0
+    },
+    {
+      "question": "Which energy dominates in an ideal monoatomic gas?",
+      "options": ["Rotational", "Vibrational", "Translational", "Potential"],
+      "correct": 2
+    },
+    {
+      "question": "At constant temperature, pressure of an ideal gas is inversely proportional to:",
+      "options": ["Volume", "Number of moles", "Mass", "Temperature"],
+      "correct": 0
+    },
+    {
+      "question": "The total internal energy of 1 mole of monoatomic ideal gas at temperature T is:",
+      "options": ["RT", "(1/2)RT", "(3/2)RT", "2RT"],
+      "correct": 2
+    },
+    {
+      "question": "Average kinetic energy is related to pressure by:",
+      "options": ["P = (1/2)mv²", "P = (1/3)ρv²", "P = RT/V", "P = NkT/V"],
+      "correct": 1
+    },
+    {
+      "question": "Mean free path increases with:",
+      "options": ["Pressure", "Temperature", "Number of molecules", "Density"],
+      "correct": 1
+    },
+    {
+      "question": "The unit of k (Boltzmann constant) in terms of R and NA is:",
+      "options": ["R × NA", "R / NA", "NA / R", "R + NA"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a microscopic property?",
+      "options": ["Pressure", "Temperature", "Volume", "Velocity of molecule"],
+      "correct": 3
+    },
+    {
+      "question": "RMS velocity is higher than average speed by a factor of:",
+      "options": ["√2", "√3", "√(8/π)", "None of these"],
+      "correct": 3
+    },
+    {
+      "question": "In kinetic theory, temperature is directly proportional to:",
+      "options": ["Average speed", "Average momentum", "Average kinetic energy", "Molecular weight"],
+      "correct": 2
+    },
+    {
+      "question": "Degrees of freedom of diatomic gas (at room temperature) is:",
+      "options": ["3", "5", "6", "2"],
+      "correct": 1
+    },
+    {
+      "question": "Energy associated with each degree of freedom is:",
+      "options": ["kT", "(1/2)kT", "(3/2)kT", "2kT"],
+      "correct": 1
+    },
+    {
+      "question": "Total energy of diatomic ideal gas per mole is:",
+      "options": ["(3/2)RT", "(5/2)RT", "RT", "(7/2)RT"],
+      "correct": 1
+    },
+    {
+      "question": "Internal energy of ideal gas is a function of:",
+      "options": ["Volume", "Pressure", "Temperature", "Both a and b"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following quantities is zero for ideal gases?",
+      "options": ["Kinetic energy", "Potential energy", "Pressure", "Entropy"],
+      "correct": 1
+    },
+    {
+      "question": "RMS speed of gas molecule is independent of:",
+      "options": ["Temperature", "Mass of molecule", "Nature of gas", "Volume"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these obeys Maxwell distribution of speed?",
+      "options": ["Liquids", "Ideal gases", "Plasma", "Solids"],
+      "correct": 1
+    },
+    {
+      "question": "The gas with the highest kinetic energy at a given temperature is:",
+      "options": ["Same for all", "Depends on mass", "Depends on volume", "Depends on pressure"],
+      "correct": 0
+    },
+    {
+      "question": "The average kinetic energy of N molecules is:",
+      "options": ["(1/2)Nm⟨v⟩²", "(3/2)NkT", "(1/2)kT", "3kT"],
+      "correct": 1
+    },
+    {
+      "question": "Mean free path is inversely proportional to:",
+      "options": ["Temperature", "Pressure", "Volume", "Velocity"],
+      "correct": 1
+    },
+    {
+      "question": "Kinetic energy of gas molecules is directly proportional to:",
+      "options": ["Volume", "Pressure", "Mass", "Temperature"],
+      "correct": 3
+    },
+    {
+      "question": "The ideal gas equation is:",
+      "options": ["PV = nRT", "PV = RT", "PV = kT", "PV = Nk"],
+      "correct": 0
+    },
+    {
+      "question": "Which law relates pressure and temperature at constant volume?",
+      "options": ["Boyle's law", "Charles's law", "Gay-Lussac’s law", "Avogadro's law"],
+      "correct": 2
+    },
+    {
+      "question": "If the number of molecules is doubled, average kinetic energy:",
+      "options": ["Doubles", "Halves", "Remains same", "Quadruples"],
+      "correct": 2
+    },
+    {
+      "question": "The ratio of specific heats Cp/Cv is also called:",
+      "options": ["Enthalpy", "Gamma", "Entropy", "Boltzmann ratio"],
+      "correct": 1
+    },
+    {
+      "question": "At high temperature, degrees of freedom of diatomic gas become:",
+      "options": ["3", "5", "6", "7"],
+      "correct": 3
+    },
+    {
+      "question": "Which property remains constant during free expansion?",
+      "options": ["Internal energy", "Temperature", "Volume", "Pressure"],
+      "correct": 0
+    },
+    {
+      "question": "Which constant relates average kinetic energy and temperature?",
+      "options": ["Avogadro number", "Boltzmann constant", "Planck constant", "Faraday constant"],
+      "correct": 1
+    },
+    {
+      "question": "The gas constant R is equal to:",
+      "options": ["NA × k", "k / NA", "NA / k", "1 / (NA × k)"],
+      "correct": 0
+    },
+    {
+      "question": "Most probable speed is given by:",
+      "options": ["√(2kT/m)", "√(3kT/m)", "√(kT/m)", "√(8kT/πm)"],
+      "correct": 0
+    },
+    {
+      "question": "Average speed is given by:",
+      "options": ["√(3kT/m)", "√(8kT/πm)", "√(2kT/m)", "√(kT/m)"],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# SQLite databases
+ilovexams.db
+ilovexams.db-journal
+*.db
+*.sqlite
+
+# Large dataset files (too large for GitHub)
+neet_pg_raw_data/
+neetquestions_raw/
+neetquestions_secure/neet_pg_all_raw.json
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# OS generated files
+.DS_Store
+Thumbs.db

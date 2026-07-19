@@ -1,0 +1,239 @@
+{
+  "test": [
+    {
+      "question": "The direction cosines of a vector are:",
+      "options": ["Always ≥ 1", "Always ≤ 1", "Always negative", "Always zero"],
+      "correct": 1
+    },
+    {
+      "question": "The sum of squares of direction cosines of a line is:",
+      "options": ["0", "1", "2", "3"],
+      "correct": 1
+    },
+    {
+      "question": "Direction ratios of a line are:",
+      "options": ["Sine of angles", "Cosines of angles", "Proportional to direction cosines", "Always unit vectors"],
+      "correct": 2
+    },
+    {
+      "question": "Two lines are perpendicular if the sum of the products of their direction ratios is:",
+      "options": ["0", "1", "−1", "∞"],
+      "correct": 0
+    },
+    {
+      "question": "The equation of x = y = z represents:",
+      "options": ["A line", "A point", "A plane", "A sphere"],
+      "correct": 0
+    },
+    {
+      "question": "The angle between two vectors with direction cosines l₁, m₁, n₁ and l₂, m₂, n₂ is given by:",
+      "options": ["cosθ = l₁l₂ + m₁m₂ + n₁n₂", "sinθ = l₁l₂ + m₁m₂ + n₁n₂", "tanθ = l₁ + m₁ + n₁", "θ = l₁l₂ − m₁m₂ + n₁n₂"],
+      "correct": 0
+    },
+    {
+      "question": "The distance between points A(1,2,3) and B(4,6,3) is:",
+      "options": ["5", "6", "√25", "√26"],
+      "correct": 0
+    },
+    {
+      "question": "If a line passes through origin and has direction ratios 1, −2, 3 then its equation is:",
+      "options": ["x = y = z", "x/1 = y/−2 = z/3", "x = 1, y = −2, z = 3", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The shortest distance between two skew lines is found using:",
+      "options": ["Dot product", "Cross product", "Distance formula", "Scalar triple product"],
+      "correct": 3
+    },
+    {
+      "question": "The general form of the equation of a plane is:",
+      "options": ["ax + by + cz = d", "x² + y² + z² = r²", "x = y = z", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Two planes are perpendicular if the dot product of their normals is:",
+      "options": ["0", "1", "−1", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "The angle between line and plane is given by:",
+      "options": ["cosθ = |a·n|/|a||n|", "sinθ = |a·n|/|a||n|", "tanθ = |a·n|", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The distance of point (x₁, y₁, z₁) from the plane ax + by + cz + d = 0 is:",
+      "options": ["(ax₁ + by₁ + cz₁ + d)/√(a² + b² + c²)", "√(x₁² + y₁² + z₁²)", "d/√(a² + b² + c²)", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The plane passing through (1, 2, 3) and perpendicular to vector 2i − j + k is:",
+      "options": ["2x − y + z = 2", "2x − y + z = 8", "x + y + z = 0", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following equations represents a line in 3D?",
+      "options": ["x = y = z", "x = 1 + t, y = 2t, z = 3 − t", "ax + by + cz = d", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The distance between parallel planes ax + by + cz + d₁ = 0 and ax + by + cz + d₂ = 0 is:",
+      "options": ["|d₁ − d₂|/√(a² + b² + c²)", "d₁ + d₂", "d₁ − d₂", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If the line is parallel to vector a and passes through P, then its vector equation is:",
+      "options": ["r = a", "r = a + λb", "r = r₀ + λa", "None"],
+      "correct": 2
+    },
+    {
+      "question": "A line perpendicular to plane ax + by + cz = d has direction ratios:",
+      "options": ["a, b, c", "−a, −b, −c", "0, 0, 0", "1, 1, 1"],
+      "correct": 0
+    },
+    {
+      "question": "The normal vector to the plane 2x + 3y − z = 7 is:",
+      "options": ["2i + 3j − k", "i + j + k", "0", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "The equation of x = y = z = t represents:",
+      "options": ["A line", "A point", "A plane", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The foot of perpendicular from point to plane is closest:",
+      "options": ["In space", "On the normal", "On the plane", "At origin"],
+      "correct": 2
+    },
+    {
+      "question": "Which pair of equations defines the intersection of two planes?",
+      "options": ["Two linear equations", "One quadratic", "A sphere and a plane", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Angle between planes ax + by + cz = d₁ and ax + by + cz = d₂ is:",
+      "options": ["0°", "90°", "Depends on constants", "Same as angle between normals"],
+      "correct": 3
+    },
+    {
+      "question": "A plane perpendicular to z-axis has normal vector:",
+      "options": ["k", "i", "j", "i + j"],
+      "correct": 0
+    },
+    {
+      "question": "A plane passes through the origin if:",
+      "options": ["d = 0", "a = b = c", "a + b + c = 0", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If direction cosines are l, m, n then they satisfy:",
+      "options": ["l² + m² + n² = 1", "l + m + n = 0", "l = m = n", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The line intersects a plane if:",
+      "options": ["It is not parallel", "It lies in plane", "Both A and B", "None"],
+      "correct": 2
+    },
+    {
+      "question": "A line perpendicular to two lines is called:",
+      "options": ["Skew line", "Intersection line", "Line of shortest distance", "Parallel line"],
+      "correct": 2
+    },
+    {
+      "question": "Angle between two skew lines is:",
+      "options": ["Minimum distance angle", "π/2", "π", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Equation of line passing through (1, 2, 3) with direction ratios 2, 1, 3 is:",
+      "options": ["x = 1 + 2t, y = 2 + t, z = 3 + 3t", "x = 2t, y = t, z = 3t", "None", "z = 2x + y"],
+      "correct": 0
+    },
+    {
+      "question": "The shortest distance between skew lines is length of:",
+      "options": ["Common perpendicular", "Diagonal", "Normal", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Distance of point (1, 2, 2) from x + y + z = 6 is:",
+      "options": ["1", "2", "3", "√3"],
+      "correct": 1
+    },
+    {
+      "question": "If a point lies on a plane then it satisfies:",
+      "options": ["Plane equation", "Line equation", "None", "All"],
+      "correct": 0
+    },
+    {
+      "question": "The angle between line and z-axis is 90° means line lies in:",
+      "options": ["xy-plane", "yz-plane", "xz-plane", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The plane x − y + z = 0 passes through:",
+      "options": ["Origin", "(1, 0, 0)", "All above", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The equation of x = y = −z represents a:",
+      "options": ["Line", "Plane", "Point", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A plane containing x-axis has normal vector:",
+      "options": ["Perpendicular to x-axis", "Along x-axis", "Zero", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If a point lies on all three coordinate planes then it is:",
+      "options": ["At origin", "On x-axis", "On y-axis", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The equation x = 2, y = 3 represents:",
+      "options": ["Line parallel to z-axis", "Point", "Plane", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Angle between planes depends on:",
+      "options": ["Normals", "Coordinates", "Direction ratios", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A line lies in plane if its point and direction vector satisfy:",
+      "options": ["Plane equation", "Direction cosines", "Distance formula", "All"],
+      "correct": 0
+    },
+    {
+      "question": "Plane perpendicular to x-axis is of the form:",
+      "options": ["x = k", "y = k", "z = k", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If a plane has normal vector a, then a·(r − r₀) = 0 is its:",
+      "options": ["Vector equation", "Cartesian form", "Parametric form", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Plane passing through 3 points can be found using:",
+      "options": ["Cross product", "Scalar triple product", "Both", "None"],
+      "correct": 2
+    },
+    {
+      "question": "If a point lies above the plane, then its perpendicular to the plane is:",
+      "options": ["Positive", "Negative", "Zero", "Depends"],
+      "correct": 3
+    },
+    {
+      "question": "The direction cosines of vector parallel to x-axis are:",
+      "options": ["1, 0, 0", "0, 1, 0", "0, 0, 1", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If vector a lies in plane and b is normal, then a·b = ?",
+      "options": ["0", "1", "−1", "Undefined"],
+      "correct": 0
+    }
+  ]
+}

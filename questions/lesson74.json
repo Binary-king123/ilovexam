@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "The volume of air inspired or expired during normal breathing is called:",
+      "options": ["Vital capacity", "Tidal volume", "Residual volume", "Expiratory reserve volume"],
+      "correct": 1
+    },
+    {
+      "question": "Exchange of gases in lungs occurs by:",
+      "options": ["Active transport", "Endocytosis", "Diffusion", "Osmosis"],
+      "correct": 2
+    },
+    {
+      "question": "Normal respiratory rate in a healthy adult is:",
+      "options": ["12–16 breaths/min", "20–30 breaths/min", "6–10 breaths/min", "25–35 breaths/min"],
+      "correct": 0
+    },
+    {
+      "question": "Which pigment is responsible for oxygen transport in humans?",
+      "options": ["Myoglobin", "Haemocyanin", "Chlorocruorin", "Haemoglobin"],
+      "correct": 3
+    },
+    {
+      "question": "Which gas has the highest affinity for haemoglobin?",
+      "options": ["Oxygen", "Carbon dioxide", "Carbon monoxide", "Nitrogen"],
+      "correct": 2
+    },
+    {
+      "question": "Bohr effect refers to the:",
+      "options": ["Binding of CO₂ to haemoglobin", "Effect of pH on oxygen affinity", "Binding of CO to haemoglobin", "Dissociation of oxygen at high temperature"],
+      "correct": 1
+    },
+    {
+      "question": "The functional unit of lungs is:",
+      "options": ["Bronchiole", "Trachea", "Alveolus", "Bronchus"],
+      "correct": 2
+    },
+    {
+      "question": "In humans, breathing is controlled by:",
+      "options": ["Cerebrum", "Medulla oblongata", "Cerebellum", "Pons"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an obstructive respiratory disease?",
+      "options": ["Pneumonia", "Asthma", "Tuberculosis", "Silicosis"],
+      "correct": 1
+    },
+    {
+      "question": "Carbaminohaemoglobin is formed by binding of CO₂ with:",
+      "options": ["Iron", "Heme", "Globin", "Oxygen"],
+      "correct": 2
+    },
+    {
+      "question": "The percentage of oxygen in atmospheric air is about:",
+      "options": ["18%", "21%", "25%", "30%"],
+      "correct": 1
+    },
+    {
+      "question": "The largest amount of carbon dioxide is transported in blood as:",
+      "options": ["Dissolved in plasma", "As carbaminohaemoglobin", "As bicarbonate ion", "Bound to red blood cells"],
+      "correct": 2
+    },
+    {
+      "question": "Which muscle contracts during inspiration?",
+      "options": ["Abdominal", "Intercostal", "Diaphragm", "Both diaphragm and intercostal"],
+      "correct": 3
+    },
+    {
+      "question": "Vital capacity includes:",
+      "options": ["TV + IRV", "TV + ERV", "TV + IRV + ERV", "IRV + ERV"],
+      "correct": 2
+    },
+    {
+      "question": "Respiratory surface in insects is:",
+      "options": ["Lungs", "Gills", "Skin", "Tracheae"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a non-respiratory movement?",
+      "options": ["Expiration", "Sneezing", "Inhalation", "Pulmonary ventilation"],
+      "correct": 1
+    },
+    {
+      "question": "Surfactant is secreted by:",
+      "options": ["Ciliated cells", "Goblet cells", "Type I alveolar cells", "Type II alveolar cells"],
+      "correct": 3
+    },
+    {
+      "question": "Surfactant prevents:",
+      "options": ["Infection", "Collapse of alveoli", "Lung cancer", "Oxygen dissociation"],
+      "correct": 1
+    },
+    {
+      "question": "The partial pressure of oxygen in alveolar air is approximately:",
+      "options": ["159 mm Hg", "104 mm Hg", "40 mm Hg", "95 mm Hg"],
+      "correct": 1
+    },
+    {
+      "question": "Total lung capacity is the sum of:",
+      "options": ["TV + IRV + ERV", "TV + IRV + ERV + RV", "IRV + ERV + RV", "TV + ERV + RV"],
+      "correct": 1
+    },
+    {
+      "question": "Oxyhaemoglobin dissociates more readily when:",
+      "options": ["pH is high", "CO₂ is low", "Temperature is low", "CO₂ is high"],
+      "correct": 3
+    },
+    {
+      "question": "Hering-Breuer reflex is triggered to:",
+      "options": ["Initiate inhalation", "Prevent lung over-inflation", "Prevent collapse", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Volume of air remaining after normal expiration is:",
+      "options": ["Tidal volume", "Residual volume", "Expiratory reserve volume", "Functional residual capacity"],
+      "correct": 3
+    },
+    {
+      "question": "Pneumotaxic centre is located in:",
+      "options": ["Medulla", "Cerebellum", "Pons", "Hypothalamus"],
+      "correct": 2
+    },
+    {
+      "question": "Hypoxia is a condition of:",
+      "options": ["Low CO₂", "Low O₂", "High pH", "High O₂"],
+      "correct": 1
+    },
+    {
+      "question": "Which structure prevents food from entering respiratory tract?",
+      "options": ["Glottis", "Epiglottis", "Trachea", "Bronchi"],
+      "correct": 1
+    },
+    {
+      "question": "Maximum amount of air a person can expel after forced inhalation is:",
+      "options": ["Tidal volume", "Residual volume", "Vital capacity", "IRV"],
+      "correct": 2
+    },
+    {
+      "question": "Which organ is the voice box?",
+      "options": ["Pharynx", "Larynx", "Trachea", "Bronchus"],
+      "correct": 1
+    },
+    {
+      "question": "O₂ transport is maximum in:",
+      "options": ["Plasma", "RBCs bound to haemoglobin", "WBCs", "Platelets"],
+      "correct": 1
+    },
+    {
+      "question": "Each haemoglobin molecule carries how many O₂ molecules?",
+      "options": ["2", "3", "4", "6"],
+      "correct": 2
+    },
+    {
+      "question": "Inspiration is an:",
+      "options": ["Active process", "Passive process", "Voluntary process", "Non-cyclic process"],
+      "correct": 0
+    },
+    {
+      "question": "Which respiratory disorder is caused by a bacterial infection?",
+      "options": ["Emphysema", "Asthma", "Tuberculosis", "Silicosis"],
+      "correct": 2
+    },
+    {
+      "question": "The amount of air left in lungs after forced expiration is:",
+      "options": ["Tidal volume", "Vital capacity", "Residual volume", "IRV"],
+      "correct": 2
+    },
+    {
+      "question": "Which gas is most soluble in blood?",
+      "options": ["O₂", "CO", "CO₂", "N₂"],
+      "correct": 2
+    },
+    {
+      "question": "During expiration, diaphragm:",
+      "options": ["Contracts", "Relaxes", "Becomes flat", "Becomes oblique"],
+      "correct": 1
+    },
+    {
+      "question": "Respiratory volume during forced expiration is:",
+      "options": ["Tidal volume", "Residual volume", "Expiratory reserve volume", "Vital capacity"],
+      "correct": 2
+    },
+    {
+      "question": "Myoglobin is found in:",
+      "options": ["Blood", "Muscle", "Lungs", "Liver"],
+      "correct": 1
+    },
+    {
+      "question": "O₂–Hb dissociation curve is shifted right by:",
+      "options": ["Low CO₂", "High pH", "Low temperature", "High CO₂"],
+      "correct": 3
+    },
+    {
+      "question": "Volume of air exchanged in one breath is:",
+      "options": ["Vital capacity", "Residual volume", "Tidal volume", "Inspiratory capacity"],
+      "correct": 2
+    },
+    {
+      "question": "Lung alveoli are suited for gas exchange because they:",
+      "options": ["Have thick walls", "Are dry", "Have large surface area and thin walls", "Lack capillaries"],
+      "correct": 2
+    },
+    {
+      "question": "Which cells produce mucus in the respiratory tract?",
+      "options": ["Ciliated cells", "Type I alveolar cells", "Goblet cells", "Macrophages"],
+      "correct": 2
+    },
+    {
+      "question": "Exchange of gases in lungs is facilitated by:",
+      "options": ["Pressure gradient", "Diffusion", "Large surface area", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "Silicosis is a disease of:",
+      "options": ["Liver", "Kidney", "Lungs", "Heart"],
+      "correct": 2
+    },
+    {
+      "question": "Chemoreceptors in carotid body respond to:",
+      "options": ["O₂ and CO₂ levels", "Hormones", "Temperature", "Blood sugar"],
+      "correct": 0
+    },
+    {
+      "question": "Which part of the brain regulates the rhythm of respiration?",
+      "options": ["Pons", "Medulla", "Cerebrum", "Hypothalamus"],
+      "correct": 1
+    },
+    {
+      "question": "Which gas binds irreversibly to haemoglobin?",
+      "options": ["CO₂", "O₂", "CO", "N₂"],
+      "correct": 2
+    },
+    {
+      "question": "Oxyhaemoglobin is formed in:",
+      "options": ["Tissues", "Capillaries", "Alveoli", "Veins"],
+      "correct": 2
+    },
+    {
+      "question": "Oxygen dissociation from haemoglobin is increased by:",
+      "options": ["High pH", "Low CO₂", "Low pH", "Low temperature"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of respiratory tract is a common passage for food and air?",
+      "options": ["Larynx", "Pharynx", "Trachea", "Bronchi"],
+      "correct": 1
+    }
+  ]
+}

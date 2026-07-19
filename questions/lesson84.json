@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Who is considered the father of genetics?",
+      "options": ["Charles Darwin", "Gregor Mendel", "Hugo de Vries", "Watson"],
+      "correct": 1
+    },
+    {
+      "question": "Mendel used which plant for his experiments?",
+      "options": ["Tomato", "Pea", "Sunflower", "Wheat"],
+      "correct": 1
+    },
+    {
+      "question": "The law of segregation is also called:",
+      "options": ["Law of purity of gametes", "Law of dominance", "Law of variation", "Law of recombination"],
+      "correct": 0
+    },
+    {
+      "question": "A dihybrid cross shows a phenotypic ratio of:",
+      "options": ["3:1", "9:3:3:1", "1:2:1", "1:1"],
+      "correct": 1
+    },
+    {
+      "question": "Which term describes alternate forms of a gene?",
+      "options": ["Trait", "Allele", "Locus", "Phenotype"],
+      "correct": 1
+    },
+    {
+      "question": "Mendel's laws failed to explain:",
+      "options": ["Linked genes", "Recessive traits", "Monohybrid ratio", "Segregation"],
+      "correct": 0
+    },
+    {
+      "question": "What does a test cross determine?",
+      "options": ["Dominance", "Fertilization", "Genotype of organism", "Phenotype"],
+      "correct": 2
+    },
+    {
+      "question": "Which chromosome determines sex in humans?",
+      "options": ["1st", "22nd", "X or Y", "All chromosomes"],
+      "correct": 2
+    },
+    {
+      "question": "In a monohybrid cross, heterozygous cross gives what genotypic ratio?",
+      "options": ["1:1", "1:2:1", "3:1", "9:3:3:1"],
+      "correct": 1
+    },
+    {
+      "question": "Which disease is a sex-linked disorder?",
+      "options": ["Sickle cell anemia", "Thalassemia", "Hemophilia", "Phenylketonuria"],
+      "correct": 2
+    },
+    {
+      "question": "The physical expression of a gene is called:",
+      "options": ["Genotype", "Phenotype", "Allele", "Trait"],
+      "correct": 1
+    },
+    {
+      "question": "Sickle cell anemia is caused due to mutation in:",
+      "options": ["Insulin gene", "Globin gene", "Albumin gene", "Myosin gene"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a dominant disorder?",
+      "options": ["Huntington’s disease", "Thalassemia", "Cystic fibrosis", "Hemophilia"],
+      "correct": 0
+    },
+    {
+      "question": "Who rediscovered Mendel’s work?",
+      "options": ["Watson", "Darwin", "Hugo de Vries", "Lamarck"],
+      "correct": 2
+    },
+    {
+      "question": "What is the chromosome number in human gametes?",
+      "options": ["23", "46", "44", "22"],
+      "correct": 0
+    },
+    {
+      "question": "In co-dominance, the phenotype is:",
+      "options": ["Blended", "Recessive", "Both alleles expressed", "One allele masked"],
+      "correct": 2
+    },
+    {
+      "question": "AB blood group shows:",
+      "options": ["Incomplete dominance", "Co-dominance", "Recessiveness", "Epistasis"],
+      "correct": 1
+    },
+    {
+      "question": "A carrier female for hemophilia marries a normal male. What % sons will have hemophilia?",
+      "options": ["0%", "25%", "50%", "100%"],
+      "correct": 2
+    },
+    {
+      "question": "Genotype of a person with blood group O is:",
+      "options": ["IAIA", "IBIB", "IAIB", "ii"],
+      "correct": 3
+    },
+    {
+      "question": "Mendel’s dihybrid cross proved:",
+      "options": ["Independent assortment", "Linkage", "Sex-linkage", "Mutation"],
+      "correct": 0
+    },
+    {
+      "question": "If a trait is inherited through mitochondria, it is:",
+      "options": ["Paternal", "Autosomal", "Cytoplasmic", "Sex-linked"],
+      "correct": 2
+    },
+    {
+      "question": "What is the location of a gene on a chromosome called?",
+      "options": ["Locus", "Allele", "Trait", "Phenotype"],
+      "correct": 0
+    },
+    {
+      "question": "Father of modern genetics is:",
+      "options": ["Charles Darwin", "Gregor Mendel", "Watson", "Lamarck"],
+      "correct": 1
+    },
+    {
+      "question": "Which disorder is caused by absence of clotting factor VIII?",
+      "options": ["Down’s syndrome", "Thalassemia", "Hemophilia A", "Sickle cell"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following represents multiple alleles?",
+      "options": ["ABO blood group", "Eye color", "Skin color", "Sickle cell"],
+      "correct": 0
+    },
+    {
+      "question": "Down’s syndrome is due to:",
+      "options": ["Monosomy", "Deletion", "Trisomy 21", "Turner syndrome"],
+      "correct": 2
+    },
+    {
+      "question": "Turner’s syndrome individual is:",
+      "options": ["XX", "XY", "XO", "XXY"],
+      "correct": 2
+    },
+    {
+      "question": "Klinefelter syndrome results from:",
+      "options": ["XO", "XX", "XXY", "XY"],
+      "correct": 2
+    },
+    {
+      "question": "Phenylketonuria is caused due to:",
+      "options": ["Virus", "Enzyme deficiency", "X-linked gene", "Hormonal imbalance"],
+      "correct": 1
+    },
+    {
+      "question": "Incomplete dominance is shown in:",
+      "options": ["Pea plants", "Snapdragon", "Human skin", "Blood group"],
+      "correct": 1
+    },
+    {
+      "question": "If both alleles influence phenotype equally, it's called:",
+      "options": ["Dominance", "Recessiveness", "Co-dominance", "Epistasis"],
+      "correct": 2
+    },
+    {
+      "question": "Which process separates alleles during gamete formation?",
+      "options": ["Independent assortment", "Crossing over", "Segregation", "Mutation"],
+      "correct": 2
+    },
+    {
+      "question": "Autosomes in humans are numbered from:",
+      "options": ["1 to 23", "1 to 22", "X and Y", "All 46"],
+      "correct": 1
+    },
+    {
+      "question": "A recessive gene expresses itself when:",
+      "options": ["Heterozygous", "Homozygous recessive", "Dominant present", "Always"],
+      "correct": 1
+    },
+    {
+      "question": "Color blindness is a:",
+      "options": ["Dominant trait", "X-linked recessive", "Y-linked", "Autosomal"],
+      "correct": 1
+    },
+    {
+      "question": "A cross between Aa and aa gives what phenotype ratio?",
+      "options": ["1:1", "2:1", "3:1", "1:2:1"],
+      "correct": 0
+    },
+    {
+      "question": "What is aneuploidy?",
+      "options": ["Abnormal shape", "Change in chromosome number", "Normal karyotype", "Extra DNA"],
+      "correct": 1
+    },
+    {
+      "question": "Which condition is due to autosomal recessive disorder?",
+      "options": ["Down’s syndrome", "Klinefelter’s", "Sickle cell anemia", "Turner’s"],
+      "correct": 2
+    },
+    {
+      "question": "The unit of inheritance is:",
+      "options": ["Gene", "Chromosome", "Allele", "Protein"],
+      "correct": 0
+    },
+    {
+      "question": "How many types of gametes will RrYy produce?",
+      "options": ["2", "3", "4", "1"],
+      "correct": 2
+    },
+    {
+      "question": "Sickle cell anemia offers resistance to:",
+      "options": ["Diabetes", "Cancer", "Malaria", "Cholera"],
+      "correct": 2
+    },
+    {
+      "question": "A Punnett square is used to show:",
+      "options": ["Karyotype", "Inheritance pattern", "Protein synthesis", "DNA structure"],
+      "correct": 1
+    },
+    {
+      "question": "A monohybrid test cross gives what phenotypic ratio?",
+      "options": ["1:1", "3:1", "9:3:3:1", "1:2:1"],
+      "correct": 0
+    },
+    {
+      "question": "Sickle cell anemia results due to substitution of:",
+      "options": ["Valine by glutamic acid", "Glutamic acid by valine", "Alanine by leucine", "Glycine by cysteine"],
+      "correct": 1
+    },
+    {
+      "question": "A person with XY chromosomes is:",
+      "options": ["Male", "Female", "Intersex", "Sterile"],
+      "correct": 0
+    },
+    {
+      "question": "The F2 generation of dihybrid cross shows how many phenotypes?",
+      "options": ["3", "4", "9", "2"],
+      "correct": 1
+    },
+    {
+      "question": "Genetic disorder caused by nondisjunction is:",
+      "options": ["Hemophilia", "Down’s syndrome", "Color blindness", "Sickle cell"],
+      "correct": 1
+    },
+    {
+      "question": "Which disease is detected by prenatal karyotyping?",
+      "options": ["Down’s", "Hemophilia", "Sickle cell", "Color blindness"],
+      "correct": 0
+    },
+    {
+      "question": "The alleles IA and IB show:",
+      "options": ["Recessiveness", "Dominance", "Co-dominance", "Mutation"],
+      "correct": 2
+    }
+  ]
+}

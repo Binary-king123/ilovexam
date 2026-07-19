@@ -1,0 +1,239 @@
+{
+  "test": [
+    {
+      "question": "The specific place where an organism lives is called:",
+      "options": ["Biome", "Habitat", "Niche", "Community"],
+      "correct": 1
+    },
+    {
+      "question": "The sum total of all populations in a given area is:",
+      "options": ["Ecosystem", "Species", "Community", "Biome"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a density-dependent factor?",
+      "options": ["Competition", "Disease", "Predation", "Flood"],
+      "correct": 3
+    },
+    {
+      "question": "Carrying capacity is the:",
+      "options": ["Minimum population an area can support", "Average population", "Maximum population an area can support", "Ideal population size"],
+      "correct": 2
+    },
+    {
+      "question": "Organisms like Artemisia and Opuntia reduce water loss by:",
+      "options": ["Closing stomata", "Thick cuticle", "Photosynthesis at night", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The interaction where one species benefits and the other is neither harmed nor benefited is:",
+      "options": ["Commensalism", "Mutualism", "Predation", "Parasitism"],
+      "correct": 0
+    },
+    {
+      "question": "Diapause is:",
+      "options": ["Hibernation", "Dormancy in zooplankton", "Active growth", "Reproduction"],
+      "correct": 1
+    },
+    {
+      "question": "Allen’s rule states that mammals in colder areas have:",
+      "options": ["Larger body size", "Shorter ears and limbs", "More fur", "Longer limbs"],
+      "correct": 1
+    },
+    {
+      "question": "Organisms which tolerate a narrow range of temperature are:",
+      "options": ["Eurythermal", "Stenothermal", "Euryhaline", "Stenohaline"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a mutualistic relationship?",
+      "options": ["Lichen", "Tiger and deer", "Tapeworm and human", "Cattle and crow"],
+      "correct": 0
+    },
+    {
+      "question": "The sum total of adaptations of an organism to its environment is called:",
+      "options": ["Acclimatization", "Niche", "Habitat", "Physiology"],
+      "correct": 1
+    },
+    {
+      "question": "In parasitism:",
+      "options": ["Both partners benefit", "Only host benefits", "Only parasite benefits", "None benefit"],
+      "correct": 2
+    },
+    {
+      "question": "In predation, the predator is usually:",
+      "options": ["Smaller than prey", "Larger than prey", "Harmed", "A plant"],
+      "correct": 1
+    },
+    {
+      "question": "The ability of an organism to maintain constant internal environment is:",
+      "options": ["Acclimatization", "Homeostasis", "Adaptation", "Physiology"],
+      "correct": 1
+    },
+    {
+      "question": "The niche of an organism includes:",
+      "options": ["Only food habits", "Only habitat", "Role in ecosystem", "Population size"],
+      "correct": 2
+    },
+    {
+      "question": "A population is defined as:",
+      "options": ["Group of different species", "Group of same species in an area", "Group of plants", "Group of predators"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a r-selected species?",
+      "options": ["Elephant", "Dog", "Insects", "Whale"],
+      "correct": 2
+    },
+    {
+      "question": "Natality is defined as:",
+      "options": ["Death rate", "Birth rate", "Migration rate", "Population density"],
+      "correct": 1
+    },
+    {
+      "question": "Carrying capacity is denoted by:",
+      "options": ["r", "K", "N", "G"],
+      "correct": 1
+    },
+    {
+      "question": "Zero population growth occurs when:",
+      "options": ["Natality = Mortality", "Natality > Mortality", "Natality < Mortality", "All die"],
+      "correct": 0
+    },
+    {
+      "question": "A sigmoid population growth curve is also known as:",
+      "options": ["Exponential", "Logistic", "Linear", "Parabolic"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following leads to population decline?",
+      "options": ["High natality", "Low mortality", "Emigration", "Immigration"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an ectoparasite?",
+      "options": ["Tapeworm", "Plasmodium", "Leech", "Lice"],
+      "correct": 3
+    },
+    {
+      "question": "Which factor is not abiotic?",
+      "options": ["Light", "Temperature", "Competition", "Water"],
+      "correct": 2
+    },
+    {
+      "question": "Camouflage is an example of:",
+      "options": ["Parasitism", "Predator avoidance", "Competition", "Mutualism"],
+      "correct": 1
+    },
+    {
+      "question": "In commensalism, the host is:",
+      "options": ["Benefited", "Harmed", "Unaffected", "Dead"],
+      "correct": 2
+    },
+    {
+      "question": "Example of brood parasitism is:",
+      "options": ["Cuckoo laying eggs in crow’s nest", "Mosquito bite", "Tapeworm in intestine", "Barnacle on whale"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following interactions is beneficial to both partners?",
+      "options": ["Parasitism", "Commensalism", "Mutualism", "Predation"],
+      "correct": 2
+    },
+    {
+      "question": "Amensalism refers to:",
+      "options": ["One harmed, one unaffected", "Both benefit", "Both harmed", "One benefits, one harmed"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a mutualism?",
+      "options": ["Mycorrhiza", "Rhizobium in legumes", "Orchid and mycorrhiza", "Cuckoo and crow"],
+      "correct": 3
+    },
+    {
+      "question": "The relationship between fig and wasp is:",
+      "options": ["Parasitism", "Mutualism", "Commensalism", "Amensalism"],
+      "correct": 1
+    },
+    {
+      "question": "The carrying capacity of an ecosystem is affected by:",
+      "options": ["Resource availability", "Competition", "Disease", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "A ‘boom and bust’ population graph is seen in:",
+      "options": ["Exponential growth", "Logistic growth", "Predator-prey cycle", "Linear growth"],
+      "correct": 2
+    },
+    {
+      "question": "Which species shows logistic growth?",
+      "options": ["Humans", "Dinosaurs", "Paramecium", "Elephant"],
+      "correct": 2
+    },
+    {
+      "question": "Homeostasis can be achieved by:",
+      "options": ["Migration", "Suspension", "Adaptation", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Organisms in intertidal zones face:",
+      "options": ["Stable temperature", "Oxygen shortage", "Desiccation", "Low pH"],
+      "correct": 2
+    },
+    {
+      "question": "Hibernation is seen in:",
+      "options": ["Turtles", "Siberian cranes", "Bears", "Fish"],
+      "correct": 2
+    },
+    {
+      "question": "Migration is seen in:",
+      "options": ["Polar bear", "Elephant", "Arctic tern", "Tiger"],
+      "correct": 2
+    },
+    {
+      "question": "Plants adapted to salty conditions are called:",
+      "options": ["Xerophytes", "Hydrophytes", "Halophytes", "Mesophytes"],
+      "correct": 2
+    },
+    {
+      "question": "Population density is expressed as:",
+      "options": ["N", "r", "K", "dN/dt"],
+      "correct": 0
+    },
+    {
+      "question": "The biological clock is synchronized with:",
+      "options": ["Temperature", "Water", "Light", "Soil"],
+      "correct": 2
+    },
+    {
+      "question": "K-selected species have:",
+      "options": ["Short life span", "Many offspring", "Long gestation", "High mortality"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an abiotic factor?",
+      "options": ["Predator", "Parasite", "Humidity", "Competitor"],
+      "correct": 2
+    },
+    {
+      "question": "Plants facing water shortage show:",
+      "options": ["C4 pathway", "CAM pathway", "Photorespiration", "Transpiration"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following plants uses CAM photosynthesis?",
+      "options": ["Rice", "Wheat", "Opuntia", "Maize"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following shows exponential growth?",
+      "options": ["Limited food", "Limited space", "No competition", "Predation"],
+      "correct": 2
+    },
+    {
+      "question": "When two species compete for same resource, it leads to:",
+      "options": ["Mutualism", "Extinction", "Competition", "Speciation"],
+      "correct": 2
+    }
+  ]
+}

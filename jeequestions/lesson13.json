@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is an example of simple harmonic motion?",
+      "options": ["Uniform circular motion", "Motion of pendulum", "Motion of a particle in a square well", "Projectile motion"],
+      "correct": 1
+    },
+    {
+      "question": "In SHM, acceleration is:",
+      "options": ["Constant", "Zero", "Proportional to velocity", "Proportional to displacement and directed opposite to it"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is not a characteristic of SHM?",
+      "options": ["Amplitude", "Frequency", "Acceleration proportional to displacement", "Constant velocity"],
+      "correct": 3
+    },
+    {
+      "question": "The time period of a simple pendulum is independent of:",
+      "options": ["Length", "Mass", "Acceleration due to gravity", "Amplitude (for small oscillations)"],
+      "correct": 1
+    },
+    {
+      "question": "In SHM, the total energy is:",
+      "options": ["Constant", "Zero", "Increases with time", "Decreases with time"],
+      "correct": 0
+    },
+    {
+      "question": "Time period of a simple pendulum is given by:",
+      "options": ["2π√(l/g)", "2π√(g/l)", "2π√(m/k)", "2πl/g"],
+      "correct": 0
+    },
+    {
+      "question": "The potential energy in SHM is maximum at:",
+      "options": ["Mean position", "Amplitude position", "Anywhere", "Nowhere"],
+      "correct": 1
+    },
+    {
+      "question": "The displacement of a particle performing SHM is given by x = A sin(ωt + φ). The velocity is:",
+      "options": ["Aω cos(ωt + φ)", "Aω sin(ωt + φ)", "-Aω cos(ωt + φ)", "-Aω sin(ωt + φ)"],
+      "correct": 0
+    },
+    {
+      "question": "A particle in SHM has maximum velocity at:",
+      "options": ["Mean position", "Extreme position", "Between mean and extreme", "Never"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is not a condition for SHM?",
+      "options": ["Acceleration ∝ -displacement", "Restoring force ∝ -displacement", "Acceleration is constant", "Mass remains constant"],
+      "correct": 2
+    },
+    {
+      "question": "The frequency of SHM is:",
+      "options": ["Number of oscillations per minute", "1/time period", "2π/time period", "Amplitude/time"],
+      "correct": 1
+    },
+    {
+      "question": "If amplitude is doubled in SHM, the total energy becomes:",
+      "options": ["Twice", "Four times", "Half", "Same"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following quantities remains constant in SHM?",
+      "options": ["Kinetic energy", "Potential energy", "Total energy", "Velocity"],
+      "correct": 2
+    },
+    {
+      "question": "Phase difference between velocity and displacement in SHM is:",
+      "options": ["0", "π/2", "π", "2π"],
+      "correct": 1
+    },
+    {
+      "question": "Time period of a mass-spring system is given by:",
+      "options": ["2π√(k/m)", "2π√(m/k)", "2πmk", "√(k/m)"],
+      "correct": 1
+    },
+    {
+      "question": "A particle is executing SHM with amplitude A. At half of the amplitude, the potential energy is:",
+      "options": ["1/4 E", "1/2 E", "3/4 E", "E"],
+      "correct": 0
+    },
+    {
+      "question": "When kinetic energy is maximum in SHM, potential energy is:",
+      "options": ["Maximum", "Zero", "Equal to KE", "Minimum"],
+      "correct": 1
+    },
+    {
+      "question": "In SHM, velocity becomes zero at:",
+      "options": ["Mean position", "Extreme position", "Quarter amplitude", "Midpoint"],
+      "correct": 1
+    },
+    {
+      "question": "Acceleration is maximum at which position in SHM?",
+      "options": ["Mean position", "Extreme position", "One-fourth amplitude", "Midpoint"],
+      "correct": 1
+    },
+    {
+      "question": "The graph of displacement vs time in SHM is:",
+      "options": ["Straight line", "Parabola", "Sinusoidal", "Exponential"],
+      "correct": 2
+    },
+    {
+      "question": "A pendulum clock is taken to a hill station. It will:",
+      "options": ["Gain time", "Lose time", "Run same", "Stop"],
+      "correct": 1
+    },
+    {
+      "question": "If the length of a pendulum is quadrupled, the time period becomes:",
+      "options": ["Double", "Half", "Four times", "Same"],
+      "correct": 0
+    },
+    {
+      "question": "Time period of a spring-mass system on moon compared to earth will:",
+      "options": ["Increase", "Decrease", "Remain same", "Become zero"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has dimension of frequency?",
+      "options": ["Time", "Angular frequency", "Acceleration", "Velocity"],
+      "correct": 1
+    },
+    {
+      "question": "Resonance occurs when:",
+      "options": ["Driving frequency = natural frequency", "Amplitude = maximum", "Phase difference = π", "Friction = 0"],
+      "correct": 0
+    },
+    {
+      "question": "In forced oscillations, the amplitude is maximum when:",
+      "options": ["Driving frequency < natural frequency", "Driving frequency = natural frequency", "Driving frequency > natural frequency", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Damping in oscillatory systems leads to:",
+      "options": ["Constant amplitude", "Increasing amplitude", "Decreasing amplitude", "No change"],
+      "correct": 2
+    },
+    {
+      "question": "In SHM, displacement is given by x = A cos(ωt + φ). What is the maximum speed?",
+      "options": ["Aω", "A/ω", "ω/A", "A²ω"],
+      "correct": 0
+    },
+    {
+      "question": "Phase difference between kinetic energy and potential energy in SHM is:",
+      "options": ["π", "π/2", "0", "2π"],
+      "correct": 0
+    },
+    {
+      "question": "The equation of motion of a particle is x = 3 sin(2t + π/3). Its angular frequency is:",
+      "options": ["π/3", "3", "2", "6"],
+      "correct": 2
+    },
+    {
+      "question": "The restoring force in SHM is provided by:",
+      "options": ["Inertia", "Friction", "Damping", "Elasticity"],
+      "correct": 3
+    },
+    {
+      "question": "In SHM, acceleration is zero at:",
+      "options": ["Mean position", "Extreme position", "Any position", "Never"],
+      "correct": 0
+    },
+    {
+      "question": "Time period of SHM depends on:",
+      "options": ["Amplitude", "Mass only", "Restoring force and mass", "Energy"],
+      "correct": 2
+    },
+    {
+      "question": "For small angles, a simple pendulum executes:",
+      "options": ["Uniform motion", "Non-periodic motion", "SHM", "Circular motion"],
+      "correct": 2
+    },
+    {
+      "question": "Unit of angular frequency is:",
+      "options": ["radian", "Hz", "radian/s", "m/s²"],
+      "correct": 2
+    },
+    {
+      "question": "The energy in SHM is proportional to:",
+      "options": ["Amplitude", "Amplitude²", "Frequency", "Displacement"],
+      "correct": 1
+    },
+    {
+      "question": "At the mean position of SHM:",
+      "options": ["KE = 0", "PE = maximum", "KE = maximum", "Acceleration = maximum"],
+      "correct": 2
+    },
+    {
+      "question": "In SHM, the displacement is zero at t = 0. The phase constant is:",
+      "options": ["0", "π", "π/2", "-π/2"],
+      "correct": 0
+    },
+    {
+      "question": "In damped oscillation, amplitude:",
+      "options": ["Increases", "Decreases", "Remains same", "Oscillates"],
+      "correct": 1
+    },
+    {
+      "question": "If amplitude becomes zero in SHM, the particle:",
+      "options": ["Stops", "Moves faster", "Oscillates in reverse", "Gains energy"],
+      "correct": 0
+    },
+    {
+      "question": "Which instrument uses SHM principle?",
+      "options": ["Voltmeter", "Pendulum clock", "Spring balance", "Stopwatch"],
+      "correct": 1
+    },
+    {
+      "question": "Oscillations are called damped when:",
+      "options": ["No friction", "Resonance occurs", "Amplitude decays", "Amplitude increases"],
+      "correct": 2
+    },
+    {
+      "question": "Natural frequency of a body depends on:",
+      "options": ["External force", "Resonance", "Inertia and elasticity", "Driving frequency"],
+      "correct": 2
+    },
+    {
+      "question": "The period of an oscillation is 2 s. Its frequency is:",
+      "options": ["2 Hz", "1 Hz", "0.5 Hz", "4 Hz"],
+      "correct": 1
+    },
+    {
+      "question": "Which one represents SHM?",
+      "options": ["x = A sin²(ωt)", "x = A cos(ωt)", "x = At + B", "x = Ae^(−bt)"],
+      "correct": 1
+    },
+    {
+      "question": "The dimension of angular frequency is:",
+      "options": ["T", "T²", "1/T", "L/T"],
+      "correct": 2
+    },
+    {
+      "question": "For SHM, force and displacement relation is:",
+      "options": ["F ∝ x", "F ∝ x²", "F ∝ −x", "F ∝ −x²"],
+      "correct": 2
+    },
+    {
+      "question": "A particle has max KE at:",
+      "options": ["Extreme position", "Mid position", "Amplitude", "Node"],
+      "correct": 1
+    },
+    {
+      "question": "The motion is said to be oscillatory if:",
+      "options": ["It repeats", "It is bounded", "It is periodic", "All of the above"],
+      "correct": 3
+    }
+  ]
+}

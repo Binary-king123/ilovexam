@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "The gravitational force between two masses is:",
+      "options": ["Attractive", "Repulsive", "Zero", "Electromagnetic"],
+      "correct": 0
+    },
+    {
+      "question": "The SI unit of gravitational constant G is:",
+      "options": ["Nm²/kg²", "N/kg", "Nm/kg²", "Nm²/kg"],
+      "correct": 0
+    },
+    {
+      "question": "Value of G on Earth's surface is approximately:",
+      "options": ["6.67 × 10⁻¹¹ Nm²/kg²", "9.8 m/s²", "1.6 m/s²", "6.67 × 10⁻⁹ Nm²/kg²"],
+      "correct": 0
+    },
+    {
+      "question": "Acceleration due to gravity on Earth is:",
+      "options": ["9.8 m/s²", "6.67 × 10⁻¹¹ m/s²", "0", "Varies with altitude only"],
+      "correct": 0
+    },
+    {
+      "question": "The value of g decreases with:",
+      "options": ["Depth", "Height", "Both A and B", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Weight of a body is maximum at:",
+      "options": ["Poles", "Equator", "Center of Earth", "In air"],
+      "correct": 0
+    },
+    {
+      "question": "g = GM/R² represents:",
+      "options": ["Universal law of gravitation", "Acceleration due to gravity", "Kinetic energy", "None"],
+      "correct": 1
+    },
+    {
+      "question": "If the radius of Earth is doubled, g becomes:",
+      "options": ["Four times", "Double", "One-fourth", "Same"],
+      "correct": 2
+    },
+    {
+      "question": "Gravitational force is proportional to:",
+      "options": ["Inverse of square of distance", "Mass of Earth only", "Cube of distance", "Area"],
+      "correct": 0
+    },
+    {
+      "question": "Weightlessness in satellite is due to:",
+      "options": ["No gravity", "Zero acceleration", "Free fall", "Escape velocity"],
+      "correct": 2
+    },
+    {
+      "question": "Escape velocity on Earth is approximately:",
+      "options": ["11.2 km/s", "9.8 m/s", "7.9 km/s", "5 km/s"],
+      "correct": 0
+    },
+    {
+      "question": "Potential energy in gravitational field is:",
+      "options": ["Always positive", "Always negative", "Zero", "Always increasing"],
+      "correct": 1
+    },
+    {
+      "question": "Work done to move a mass from infinity to a point is:",
+      "options": ["Positive", "Zero", "Negative", "Infinite"],
+      "correct": 2
+    },
+    {
+      "question": "Kepler’s first law states that planets move in:",
+      "options": ["Circular orbits", "Elliptical orbits", "Spiral paths", "Random paths"],
+      "correct": 1
+    },
+    {
+      "question": "Kepler’s second law implies:",
+      "options": ["Equal distances in equal time", "Constant angular velocity", "Equal areas in equal time", "Constant speed"],
+      "correct": 2
+    },
+    {
+      "question": "Kepler’s third law relates:",
+      "options": ["Distance and speed", "Mass and time", "Period and radius", "Mass and radius"],
+      "correct": 2
+    },
+    {
+      "question": "If the mass of Earth is doubled, value of g becomes:",
+      "options": ["Halved", "Double", "Four times", "Same"],
+      "correct": 1
+    },
+    {
+      "question": "A satellite in a stable orbit has:",
+      "options": ["Zero acceleration", "Zero velocity", "Zero net force", "Constant centripetal acceleration"],
+      "correct": 3
+    },
+    {
+      "question": "Time period of a satellite in circular orbit depends on:",
+      "options": ["Mass of satellite", "Height from Earth", "Shape", "Color"],
+      "correct": 1
+    },
+    {
+      "question": "A geostationary satellite orbits in:",
+      "options": ["Polar orbit", "Inclined orbit", "Equatorial plane", "Elliptical orbit"],
+      "correct": 2
+    },
+    {
+      "question": "The height of geostationary satellite is approximately:",
+      "options": ["36000 km", "1000 km", "6400 km", "12000 km"],
+      "correct": 0
+    },
+    {
+      "question": "Orbital velocity of satellite near Earth is:",
+      "options": ["11.2 km/s", "7.9 km/s", "9.8 km/s", "5 km/s"],
+      "correct": 1
+    },
+    {
+      "question": "Satellite stays in orbit due to:",
+      "options": ["Zero gravity", "Centripetal force", "Inertia", "Escape energy"],
+      "correct": 1
+    },
+    {
+      "question": "If mass of satellite increases, orbital velocity:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correct": 2
+    },
+    {
+      "question": "Acceleration due to gravity becomes zero at:",
+      "options": ["Poles", "Equator", "Centre of Earth", "Space"],
+      "correct": 2
+    },
+    {
+      "question": "Value of g on Moon is:",
+      "options": ["9.8 m/s²", "1.6 m/s²", "0", "6.67 m/s²"],
+      "correct": 1
+    },
+    {
+      "question": "Escape velocity is independent of:",
+      "options": ["Mass of body", "Radius of planet", "Gravitational constant", "Mass of planet"],
+      "correct": 0
+    },
+    {
+      "question": "Gravitational potential at infinity is taken as:",
+      "options": ["0", "∞", "1", "−∞"],
+      "correct": 0
+    },
+    {
+      "question": "Gravitational force is a:",
+      "options": ["Non-central force", "Central force", "Magnetic force", "Electrostatic force"],
+      "correct": 1
+    },
+    {
+      "question": "If g at surface is g, at height R above surface it is:",
+      "options": ["g", "g/2", "g/4", "g/9"],
+      "correct": 2
+    },
+    {
+      "question": "A body is thrown up. At highest point its:",
+      "options": ["Velocity is zero", "Acceleration is zero", "Force is zero", "Weight is zero"],
+      "correct": 0
+    },
+    {
+      "question": "The potential energy of a mass m at height h is:",
+      "options": ["mgh", "mg/h", "gh", "mh/g"],
+      "correct": 0
+    },
+    {
+      "question": "Weight of a body is:",
+      "options": ["Same everywhere", "Maximum at poles", "Zero at poles", "Minimum at poles"],
+      "correct": 1
+    },
+    {
+      "question": "Gravitational field intensity is defined as:",
+      "options": ["Force per unit mass", "Mass per unit force", "Energy per unit distance", "Force per unit area"],
+      "correct": 0
+    },
+    {
+      "question": "Gravitational potential energy of Earth-satellite system is:",
+      "options": ["Positive", "Zero", "Negative", "Infinite"],
+      "correct": 2
+    },
+    {
+      "question": "A satellite is said to be in orbit when:",
+      "options": ["It escapes Earth's gravity", "Centripetal force balances gravity", "It stops accelerating", "Its weight becomes infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Two masses m and 4m are separated by d. Location of center of mass is:",
+      "options": ["At m", "At 2m", "Closer to 4m", "Midpoint"],
+      "correct": 2
+    },
+    {
+      "question": "Kepler’s third law for planets states that:",
+      "options": ["T² ∝ R³", "T ∝ R", "T ∝ R²", "T² ∝ R"],
+      "correct": 0
+    },
+    {
+      "question": "If a body is taken to twice the Earth's radius, g becomes:",
+      "options": ["g/2", "g/3", "g/4", "g/5"],
+      "correct": 2
+    },
+    {
+      "question": "Which quantity is same for all falling bodies?",
+      "options": ["Velocity", "Acceleration", "Force", "Kinetic energy"],
+      "correct": 1
+    },
+    {
+      "question": "The force that binds Earth to Sun is:",
+      "options": ["Electrostatic", "Magnetic", "Gravitational", "Nuclear"],
+      "correct": 2
+    },
+    {
+      "question": "Weight of a body is:",
+      "options": ["Scalar", "Vector", "Imaginary", "Unitless"],
+      "correct": 1
+    },
+    {
+      "question": "Value of g is maximum at:",
+      "options": ["Centre", "Poles", "Equator", "Mountains"],
+      "correct": 1
+    },
+    {
+      "question": "What happens to g inside Earth (depth d)?",
+      "options": ["Increases", "Decreases linearly", "Constant", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "Universal gravitational constant G is:",
+      "options": ["Same everywhere", "Varies with location", "Varies with height", "Zero in vacuum"],
+      "correct": 0
+    },
+    {
+      "question": "Dimension of gravitational constant G is:",
+      "options": ["M⁻¹L³T⁻²", "ML²T⁻²", "ML⁻²T⁻²", "M⁻¹L⁻²T²"],
+      "correct": 0
+    },
+    {
+      "question": "Mass of an object in satellite is:",
+      "options": ["Zero", "Infinite", "Same as on Earth", "Variable"],
+      "correct": 2
+    },
+    {
+      "question": "In orbital motion, kinetic energy is:",
+      "options": ["Greater than potential", "Less than potential", "Equal to half potential energy", "Zero"],
+      "correct": 2
+    }
+  ]
+}

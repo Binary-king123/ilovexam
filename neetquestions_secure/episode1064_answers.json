@@ -1,0 +1,202 @@
+{
+  "0bdd7be8-6646-4888-9574-a3878246430b": {
+    "cop": 4,
+    "exp": "Hirschsprung disease: No passage of meconium within 24 hours Abdominal distension Involvement rectum > sigmoid No vomiting Congenital Hyperophic pyloric stenosis: Misnomer (hyperophic pyloric stenosis is acquired) Therefore, known as infantile hyperophic pyloric stenosis Age of presentation is 4th to 6th week after bih Non bilious vomiting Duodenal atresia: Symptomatic just after bih Bilious vomiting Double bubble sign (therefore multiple gas filled loops are not seen) Malrotation of gut: Bilious vomiting Abdominal distention Multiple gas filled loops"
+  },
+  "ac09d6a9-9987-4c82-b9d6-baa69dbe88f6": {
+    "cop": 2,
+    "exp": "Winging of scapula is seen after mastectomy due to injury of long thoracic nerve ."
+  },
+  "bd163728-13f6-4cda-9564-48ee39ca8d79": {
+    "cop": 3,
+    "exp": "12 to 14"
+  },
+  "f52a59a1-0256-4e2f-8f40-82f62d967881": {
+    "cop": 2,
+    "exp": "Markers of melanoma are S-100, HMB-45, Vimentin."
+  },
+  "a225074c-5bbe-49f1-987b-a79a2fdf267e": {
+    "cop": 4,
+    "exp": "Ans: D i.e. MilkFoodstuff and vitamin-D contentFish fat contains 5-30 microgram/100 gram of vitamin DEgg contains 1.25-1.5 microgram/100 gram of vitamin DHalibut liver oil contains 500-10,000 microgram/100 gram of vitamin DMilk has 0.1 microgram/100 gram"
+  },
+  "cd94bf39-da33-45df-99fe-90c88864229f": {
+    "cop": 1,
+    "exp": "Ans. (a) Imitanib mesylate (Doc for CML & GIST - Imatinib Mesylate)Ref. KD Tripathi 6th Ed. / 828 & 832IMATINIB* It inhibits the tyrosine protein kinases in chronic myeloid leukaemia (CML) cells and and c-kit receptor found in gastrointestinal stromal tumour (GIST).* Adverse effects are fluid retention, edema, vomiting, abdominal pain, myalgia and liver damageDrugs of choice for some commonly asked malignanciesMalignancyFirst line drugsChronic Lymphatic leukaemiaFludarabineChronic Myeloid leukaemiaImatinibHairy cell leukemiaCLADRIBINEMultiple myelomaMelphalanChoriocarcinomaMethotrexateProstate carcinomaBicalutamide/Flutamide"
+  },
+  "f66831be-8044-4dba-b64d-9ee9ddacbc4c": {
+    "cop": 3,
+    "exp": "EARLY INVASIVE BREAST Ca: stage I, IIA, IIB Rx: Breast conservation surgery (BCS) Axillary LN sampling (ALNS) Radio therapy If BCS contraindicated: simple mastectomy + ALNS LOCALLY ADVANCED BREAST Ca: stage IIIA, IIIB, IIIC Rx: Neoadjuvant chemotherapy Modified radical mastectomy Radio therapy Metastatic breast Ca Rx : Hormone therapy preferred over chemotherapy"
+  },
+  "f9039009-47e1-4b52-b032-07a962461a3e": {
+    "cop": 1,
+    "exp": "Ans. a. Stem and leaf diagram (Ref: https://en.wikipeiUa.org/wiki/Stem-ami-leaf_dispIay) The type of data description given is Stem and Leaf PlotStem and Leaf PlotStem and Leaf Plot is a special table where each data value is split into a stem' (the first digit or digits) and a 'leaf(usually the last digit).A stem-and-leaf display is a device for presenting quantitative data in a graphical format, similar to a histogram to assist in visualizing the shape of a distribution.A basic stem-and-leaf display contains two columns separated by a vertical line.The left column contains the stems and the right column contains the leaves.AdvantagesDisadvantages* Stem-and-leaf displays are useful for displaying the relative density and shape of the data, giving the reader a quick overview of distribution.* They retain (most of) the raw numerical data, often with perfect integrity.* They are also useful for highlighting outliers and finding the mode.* Only useful for moderately sized data sets (around15-150 data points).* With very small data sets a stem- and-leaf displays can be of little use. A dot plot may be better suited for such data.* With very large data sets, a stem-and-leaf display will become very cluttered. A box plot or histogram may become more appropriate as the data size increases. Box PlotA box plot is a convenient way of graphically depicting groups of numerical data through their quartiles.Box plots may also have lines extending vertically from the boxes (whiskers) indicating variability outside the upper and lower quartiles. hence the terms box-and-whisker plot and box-and-whisker diagram. Outliers may be plotted as individual points.Box plots are non-para metric: they display variation in samples of a statistical population without making any assumptions of the underlying statistical distribution.The spacing between the different parts of the box indicate the degree of dispersion (spread) and skewrness in the data, and show outliers.In addition to the points themselves, they allow one to visually estimate various L-estimators, notably the interquartile range, mid-hinge, range, mid-range, and tri-mean.Boxplots can be drawn either horizontally or vertically.Funnel Plot* A funnel plot is a graph designed to check for the existence of publication bias.* Funnel plots are commonly used in systematic reviews and meta-analyses.* In the absence of publication bias, it assumes that the largest studies will be plotted near the average, and smaller studies will be spread evenly on both sides of the average, creating a roughly funnel-shaped distribution.* Deviation from this shape can indicate publication bias.An example funnel plot showing no publication bias.Each dot represents a study (measuring the effect of a certain drug) y-axis: Size of the study (number of experimental subjects) x-axis: Show the study's (drug's measured average effect)Forest plot A forest plot, also known as a blobbogram, is a graphical display of estimated results from a number of scientific studies addressing the same question, along with the overall results. It was developed for use in medical research as a means of graphically representing a meta-analysis of the results of randomized controlled trials.In the last twenty years, similar meta-analytical techniques have been applied in observ ational studies (e.g. environmental epidemiology') and forest plots are often used in presenting the results of such studies also.Although forest plots can take several forms, they are commonly presented with two columns.The left-hand column lists the names of the studies (frequently randomized controlled trials or epidemiological studies), commonly in chronological order from the fop downwards.The right-hand column is a plot of the measure of effect (e.g. an odds ratio) for each of these studies (often represented by a square) incorporating confidence intervals represented by horizontal lines.The graph may be plotted on a natural logarithmic scale when using odds ratios or other ratio-based effect measures, so that the confidence intervals are symmetrical about the means from each study and to ensure undue emphasis is not given to odds ratios greater than 1 when compared to those less than 1.The area of each square is proportional to the study's weight In the meta-analysis.The overall meta-analyzed measure of effect is often represented on the plot as a dashed vertical line. This meta- analyzed measure of effect is commonly plotted as a diamond, the lateral points of which indicate confidence intervals for this estimate.A vertical line representing no effect is also plotted. If the confidence intervals for individual studies overlap with this line, it demonstrates that at the given level of confidence their effect sizes do not differ from no effect for the individual study.The same applies for the meta-analyzed measure of effect: if the points of the diamond overlap the line of no effect the overall meta- analyzed result cannot be said to differ from no effect at the given level of confidence."
+  },
+  "0c4169e7-fa51-4d18-b3fc-9ad36ffcc7f1": {
+    "cop": 4,
+    "exp": "Non-pharmacological methods of behaviour management\n1. Communication \n2. Behaviour shaping (modification)\na) Desensitization\nb) Modeling\nc) Contingency management\n3. Behaviour management\na) Audio analgesia \nb) Biofeedback\nc) Voice control\nd) Hypnosis\ne) Humor\nf) Coping\ng) Relaxation\nh) Implosion therapy\ni) Aversive conditioning\nPharmacological method of behaviour management\n1 Pre-medication\na) Sedatives and hypnotics\nb) Anti-anxiety drugs\nc) Antihistamines\n2. Conscious sedation\n3. General anesthesia\nShobha Tandon 2nd Ed p:146"
+  },
+  "b8d8bc16-5807-4a08-b413-43685e47cd7e": {
+    "cop": 1,
+    "exp": "No explanation provided."
+  },
+  "896e4598-51c6-4c94-8ca5-6d5439261ad8": {
+    "cop": 3,
+    "exp": "Epstein Barr Virus\n Epstein barr Virus is a family of herpesviridae containing linear DMA.\nEpstein barr Virus causes infectious mononucleosis\ninfectious mononucleosis is characterized by fever, sore throat lymphadenopathy and atypical lymphocytosis,\nLymphocytosisQ is a prominenbt features with >10% atypical lymphocytes.\nHeterophile test is used for diagnosis of IM in children.\nAutoimmune haemolytic anemia is seen in 2% of cases.\nAnemia is coomb's positive with cold agglutinin directed against the 'i' red blood cell antigen"
+  },
+  "cbbceef7-9d9f-4263-840a-ae2ea7c27439": {
+    "cop": 1,
+    "exp": "Answer is A (Myxoma) Remember The most frequent cardiac tumor for all age groups is - Metastasis. The most frequent primary cardiac tumor for age groups is - Myxoma. The most frequent primary cardiac tumor in infants and children is - Rhabdomyoma"
+  },
+  "83b4f7ed-ffa0-4c6f-a798-3b596aa5585e": {
+    "cop": 4,
+    "exp": "No explanation provided."
+  },
+  "a2303348-7015-40dd-a13b-6873977a314b": {
+    "cop": 2,
+    "exp": "Ans. B. t-RNAAnticodon is a code which codes for a specific amino acid and is present on t-RNA.Complementary codon is present on m-RNA. The structure of t-RNA is known as clover leaf like. It has mainly four arms."
+  },
+  "3860dddb-916f-466e-b7b6-9f8714be249c": {
+    "cop": 2,
+    "exp": "ANSWER: (B) HDV super infection on HBVREF: Harrison's 17th ed chapter 300Though prognosis of HDV with HBV is a bad prognosis, however prognosis of super infection is worse than coinfection."
+  },
+  "a834d37d-b0db-49fc-9921-12cea5347cb4": {
+    "cop": 1,
+    "exp": "sho stature: Defined as height below third centile or more than 2 standard detions below the median height for age and gender according to the population standard. Children whose stature s more than 3 SD below the population mean for age and gender are more likely to be suffering from pathological sho stature as compared to those with stature between -2 and -3SD , who are more likely to be affected by familial or constitutional sho stature. CAUSES:- 1. Most common cause is constitutional. 2. Familial 3. Pathological causes include: Undernutrition Chronic systemic illness Cerebral palsy Congenital hea disease Cystic fibrosis,asthma Malabsorption Acquired immunodeficiency syndrome 4. Endocrine causes include: Growth hormone deficiency Hypothyroidism Cushing syndrome Pseudohypoparathyroidism Precocious or delayed pubey 5. Psychosocial dwarfism 6. Children born small for gestational age. 7. Skeletal dysplasia; achondroplasia, rickets. 8. Genetic syndrome; Turner, Down syndrome. Reference: GHAI Essential pediatrics, 8th edition"
+  },
+  "c7b08673-9dbb-42ef-a3e5-814a6462d0d7": {
+    "cop": 4,
+    "exp": "Ans is 'd' i.e., Cystine stone Extracorporeal Shockwave Lithotripsy (ECWL):* A urinary calculus has a crystalline structure. Bombarded with shock waves of sufficient energy it disintegrates into fragments.* The clearance of stone from the kidney using ESWL will depend upon the consistency of the stone and its site.* Most oxalate and phosphate stones fragment well and, if lying in the renal pelvis, will clear within days.* The results with harder stones, especially cystine stones, are less satisfactory.* When treating calyceal stones, the patients should be warned that the clearance of fragments may take months.* The principal complication of ESWL is infection. Many calculi contain bacteria, which are released from the broken stone. It is wise to give prophylactic antibiotics before ESWL, and an obstructed system should be decompressed by the insertion of a ureteric stent or percutaneous nephrostomy before treatment."
+  },
+  "68d46afb-26d4-47f9-b12e-e64bf29bdbcc": {
+    "cop": 4,
+    "exp": "Astemizole and terfenadine are metabolized by microsomal enzymes. Erythromycin inhibits these enzymes and raises the plasma concentration of these drugs. At high levels, these agents block cardiac K+ channels leading to arrhythmias."
+  },
+  "d93eec5f-bbbb-4bf8-80bf-ae3e6d989495": {
+    "cop": 2,
+    "exp": "Septate uterus: Defined as uterus with normal outline and an internal indentation at the fundal midline Can be of two types- paial and complete Combined hysteroscopy and laproscopy help to differentiate between bicornuate uterus and septate uterus Ref: Shaw Gynecology 17 e pg 72."
+  },
+  "616ed637-b345-4cb6-b1a3-34ccdd16e76e": {
+    "cop": 3,
+    "exp": "Right middle ear pathology means right conductive deafness. In conductive deafness, Weber is lateralized to the worse ear. (in question right ear) In SN deafness, Weber is lateralized to the better ear. Ref: Dhingra; 6th Edition; pg no 22"
+  },
+  "8171fc5d-80c2-4f33-bc2c-e9d088b3be07": {
+    "cop": 3,
+    "exp": "MRI is the investigation of choice for ligamentous and mensical injury of the knee.\nArthroscopy has the advantage that, if a lesion is identified, it can be treated at the same time.\nThe usual protocol for sports injury in a suspected case is to diagnose the injury by MRI and plan the management accordingly.\nAfter that diagnostic arthroscopy is done just before the arthroscopic surgery and all the pathologies are dealt with."
+  },
+  "b99fe818-3026-4ed6-bd6b-186a2885d56a": {
+    "cop": 2,
+    "exp": "Ans. is 'b' i.e., Sigmund freud Name Contribution Sigmund Freud Psychoanalysis, free association, (oedipus & electra complex), cocaine in psychiatry, Repression, ego-defence mechanisms, phsychodynamic theory. Phillippe Pinel Moral and humane treatment of mentally ill Jones Maxwell Propagated therapeutic community concept. Kuble Ross Erik Classified five stages of death. Erikson Divided life cycle in 8 stages"
+  },
+  "ba4c2aea-a9ff-45ee-8bf6-8f1b15271540": {
+    "cop": 1,
+    "exp": "Ans. is 'a' i.e., Semecarpol Semicarpus anacardium or marking nut or bhilawan Its seed are hea shaped, conical and black with acrid oily juice which is brownish but turns black on exposure to air. Active principles are semecarpol and bhilawanol. Juice applied to skin produces irritation, painful blisters followed by itching and eczema. Therefore it is used to produce aificial bruises. It is also used by washerman to mark clothes."
+  },
+  "8aaa45c9-a820-488e-941b-9f13a8ce9664": {
+    "cop": 4,
+    "exp": "Glioblastoma multifonne is high grade astrocytoma, a tumor of the central nervous system."
+  },
+  "b9aeb61e-94fb-498c-8235-274a4b256bfa": {
+    "cop": 4,
+    "exp": "Chronic Reflux-Associated Pyelonephri s (Reflux Nephropathy)"
+  },
+  "ae768e6a-d046-4b51-b79e-900fa8f3a469": {
+    "cop": 2,
+    "exp": "BALANCED DIET A diet may be defined as the kinds of food on which a person or group lives. A balanced diet is defined as one which contains a variety of foods in such quantities and propoions that the need for energy, amino acids, vitamins, minerals, fats, carbohydrate and other nutrients is adequately met for maintaining health, vitality and general well-being and also makes a small provision for extra nutrients to withstand sho duration of leanness. A balanced diet has become an accepted means to safeguard a population from nutritional deficiencies. In constructing balanced diet, the following principles should be borne in mind : (a) First and foremost, the daily requirement of protein should be met. This amounts to 10-15 per cent of the daily energy intake. (b) Next comes the fat requirement, which should be limited to 15-30 per cent of the daily energy intake (c) Carbohydrates rich in natural fibre should constitute the remaining food energy. The dietary pattern varies widely in different pas of the world. It is generally developed around the kinds of food produced (or impoed) depending upon the climatic conditions of the region, economic capacity, religion, customs, taboos, tastes and habits of the people. It takes into account 95-98% of population. Balanced diets formulated by the Indian Council of Medical researchiis given below A nutritional education guide \"The Food Guide Pyramid\" emphasizes foods from the five major food groups shown in the three lower sections of the Pyramid. Each of these food groups provides some, but not all, of the nutrients required. Foods in one group can't replace those in another. No one of these major food groups is more impoant than another for good health, one needs them all. Ref : Park 25th edition Pgno : 636"
+  },
+  "faa7fed4-93ea-455d-b4b4-ef5605a5cf38": {
+    "cop": 1,
+    "exp": "Papilledema is associated with obliteration of the physiological cup and apparent edema of the disc."
+  },
+  "fdf3001d-9751-4204-8819-d6a407c2fa23": {
+    "cop": 2,
+    "exp": "DISULFIRAM is a DETERRANT which acts by blocking acetaldehyde dehydrogenase When acetaldehyde dehydrogenase is blocked there will be increased amount of acetaldehyde that acts on mast cells and results in release of histamine that in turn leads to allergic reaction. Thus when a patient on disulfiram takes alcohol there would be allergic reaction that prevents the patient from using the substance Ref.Kaplon and sadock, synopsis of psychiatry, 11 th edition, pg no. 624"
+  },
+  "d7e1b768-716c-4152-8c46-9a02252e4abe": {
+    "cop": 3,
+    "exp": "Ans. is 'c' i.e., 4.5 year o A child acquire height of 160 cm by age of 4Yi year.AgeHeightBirth50 cm3 Month60 cm9 Month70 cm1 Year75 an2 Year90 cm4 1/2 Year100 cm"
+  },
+  "bf5a82a6-490b-497f-a005-6eb45e8fea67": {
+    "cop": 1,
+    "exp": "No explanation provided."
+  },
+  "53ab159c-2611-43bc-af70-c1e76c26d7f3": {
+    "cop": 4,
+    "exp": "Thumb printing: Indentation in contrast or air-filled bowel lumen caused by sub mucosal infiltration and resembling a thumb printing; e.g. Ischemia Thumbprinting is a Radiographic sign of large bowelwall thickening, usually caused by edema, related to an infective or inflammatory process ('colitis'). The normal haustra become thickened at regular intervals appearing like 'thumb-prints' projecting into the aerated lumen."
+  },
+  "e0d73821-1c4c-4e87-b9ce-780147418456": {
+    "cop": 3,
+    "exp": "Pitted keratolysis: Superficial infection of the skin. Caused by a species of Corynebacterium. Produces small,shallow,circular erosions which haspunched-out appearance seen over pressure bearing area of soles. Associated with hyperhidrosis (and not anhidrosis). Filamentous and coccoid microorganisms were observed in skin scrapings named as Actinomyces keratolytica. Treatment of hyperhidrosis slowly brings the condition under control including potassium permanganate soaks, aluminum chloride and iontophoresis. Pyoderma gangrenosum is a rare noninfectious neutrophilic dermatosis commonly associated with underlying systemic disease. Mycosis fungoides Cutaneous T cell lymphoma. Impetigo herpetiformis Impetigo herpetiformis represents generalized pustular psoriasis triggered by or occurring in pregnancy."
+  },
+  "4351d09b-6db5-464e-ac18-52b7cdb955be": {
+    "cop": 4,
+    "exp": "Ans. is 'd' i.e., Hepatitis E o Mallory bodies are eosinophilic intracytoplasmic inclusion bodies which are composed predominantly of keratin intermediate filaments. They are also known as alcoholic hyaline.o These inclusions are characteristic but not specific feature of alcoholic liver disease, as they are also seen in other conditions.o Causes of mallory hyaline are :-1) Alcoholic liver disease2) Primary billiary cirrhosis3) Indian childhood cirrhosis4) Wilson's disease5) Hepatocellular carcinoma6) Focal nodular hyperplasia7) Chronic cholestatic syndrome8) a1 - antitrypsin deficiency"
+  },
+  "7f09f415-11f0-4096-af02-b15f339fd2b3": {
+    "cop": 1,
+    "exp": "No explanation provided."
+  },
+  "1a2d20f7-7a7b-4722-b918-a34a0872229a": {
+    "cop": 1,
+    "exp": "No explanation provided."
+  },
+  "bb04638d-d710-47b3-96f1-16c89c3df7de": {
+    "cop": 4,
+    "exp": "Ans. is d i.e. Benign Gestational Gestational thrombocytopenia / Benign Gestational Thrombocytopenia It is the most common cause of thrombocytopenia accounting for 80-90% of all cases of thrombocytopenia occuring during pregnancy. Exact cause is not known (may be due to hemodilution and increased platelet consumption.) Platelet count is rarely <70,000/mm3. Women are asymptomatic and their is no H/O bleeding. Condition is benign and has no risk to mother or infant. The only problem associated with it is - that anaesthesiologists are reluctant to give epidural or spinal anaesthesia if platelet count is < 1lakh/mm3. Treatment with steroids and IgG or platelet transfusion before delivery is sometimes necessary. Other rare causes of thrombocytopenia during pregnnacy : Associated with eclampsia / preclampsia/HELLP syndrome Immune thrombocytopenia Consumptive coagulopathy from placental abruption, severe obstetrical heamorrhage. Inherited thrombocytopenia i.e. Bernard soulier syndrome."
+  },
+  "1c522b9e-117e-4647-83ec-8affeffc3dcc": {
+    "cop": 2,
+    "exp": "Deficiency of tryptophan will lead to the deficiency of Niacin in the body Thus causing pellagra like symptoms (neurological and dermatologic), Hanup's Disease: AR (autosomal recessive), rare disorder Defect in neutral amino acid transpoer also called mono-amino mono carboxylic amino acid transpoer which transpos neutral amino acid including tryptophan. Failure to absorb tryptophan from intestine and also reabsorb it by kidneys Tryptophan forms Niacin (Vitamin B3) in the body, Deficiency of it will lead to the deficiency of Niacin in the body Thus causing pellagra like symptoms (neurological and dermatologic),despite an adequate intake of both Tryptophan and niacin. C/F - Aminoaciduria i.e. Tryptophan in urine without a corresponding increase in plasma tryptophan levels"
+  },
+  "b35e4605-0a5e-4743-9f9d-404d1b9d0491": {
+    "cop": 2,
+    "exp": "Ans- B i.e C. trachomatis Acute salpingitis associated with - N. gonorrhea Classical salpingitis associated with - C. trachomatis"
+  },
+  "2bf1b466-9503-4195-8170-a387acf5fbbb": {
+    "cop": 2,
+    "exp": "No explanation provided."
+  },
+  "bff94fff-e11c-4a02-afad-b2ea44858f75": {
+    "cop": 1,
+    "exp": "Ans. is 'a' i.e., Heat labile toxin Heat labile toxin of E. coli and cholera toxin resemble each other in their structure, antigenic propeies and mode of action. Both act by activating adenyl cyclase in the enterocyte to form cyclic adenosine 5' monophosphate (c AMP). Heat stable toxin of E. coli acts by activation of cyclic guanosine monophosphate (c GMP) in the intestine."
+  },
+  "9008f916-1b51-42dd-971a-6471d9f324f6": {
+    "cop": 1,
+    "exp": "Ans. is 'a' i.e., Lactose o Sugar is less in clostrum."
+  },
+  "a8b43a48-aa6c-4aff-b7e5-416bd98ea63e": {
+    "cop": 2,
+    "exp": "No explanation provided."
+  },
+  "d7b887bc-b26e-4b9c-9bbf-c925ba9fef0c": {
+    "cop": 1,
+    "exp": "Ans. is 'a' i.e., Right recurrent laryngeal nerve Superior aperture of thorax * The narrow upper end of the thorax, which is continuous with the neck is called the superior aperture or the inlet of the thorax.Structures passing through the inlet of thoraxVisceraVesselsNervesMuscles* TracheaLarge vessels* Right and left* Sternohyoid* Oesophagus* Brachiocephalic artery onphrenic nervessternothyroid and* Apices of the lungsright side* Right and leftlongus colliwith pleura* Left common carotidvagus nerves * Remains of theartery and left subclavian* Right and left thymusartery on the left side.sympathetic * Thoracic ductRight and left brachiocephalic veinsSmaller vesselsRight and left internal thoracic arteriesRight and left superior intercostal arteriesRight and left first posterior intercostal veinsInferior thyroid veinstrunks.* Right and left first thoracic nerves as they as"
+  },
+  "30a10c0e-f010-4fd4-84b9-f190b6bb5cf3": {
+    "cop": 2,
+    "exp": "No explanation provided."
+  },
+  "1e2e2d81-0320-460b-8b48-bbf45d669efa": {
+    "cop": 2,
+    "exp": "Ans is B (Estrogen receptor positive), Male Breast cancer Breast cancer in men is a rare disease; less than 1% occurs in men. The average age is about 60 yrs - older than the most common presenting age in women. Gynecomastia is seen preceding or accompanying the breast cancer in about 20% of cases. The risk of male breast cancer is related to an increased lifelong exposure to estrogen (as with female breast cancer) or to reduced androgen. The strongest association is in men with Klinefelter's syndrome (XXY) who have a 14- to 50-fold increased risk of developing male breast cancer. Also, men who carry a BRCA1, or paicularly a BRCA2 mutation, have an increased risk of developing breast cancer. The following conditions have been repoed to be associated with an increased risk of breast cancer in men: - chronic liver disorders, such as cirrhosis, chronic alcoholism, schistosomiasis; - a history of mumps orchitis, undescended testes, or testicular injury; and - feminization, genetically or by environmental exposure - radiation exposure All known histopathologic types of breast cancer have been described in men with infiltrating ductal carcinoma being most common (about 70%). A majority of male breast cancers are ER/PR positive and the percentage positive is greater than for female breast cancer. As for women, stage is the predominant prognostic indicator, and most studies repo that stage for stage, men with breast cancer have the same outcome following treatment as women with breast cancer. Overall, men do worse because of the advanced stage of their cancer at the time of diagnosis. Treatment consists of modified radical mastectomy in operable patients. The use of postmastectomy radiation therapy follows the same guidelines as for female breast cancer. Similarly, the use of systemic therapy follows the same guidelines as for women with postmenopausal breast cancer. Tamoxifen is the mainstay for adjuvant systemic therapy in ER-positive male breast cancer. Metastatic breast cancer in men is treated identically to metastatic disease in women* Note that: About Gynaecomastia Devita's Oncology writes? \"In contrast, gynecomastia alone does not appear to be a risk factor.\" Whereas Schwaz writes? \"Male breast cancer is preceded by gynecomastia in 20% of men.\""
+  },
+  "baa70d66-5896-4057-8c98-1d92fd91fda0": {
+    "cop": 4,
+    "exp": "No explanation provided."
+  },
+  "db99f1fb-72fc-4270-8a7c-2fb6eef50d63": {
+    "cop": 1,
+    "exp": "Ans. is 'a' i.e., Fuch heterochromatic iridocyclitis o During paracentesis in Fuch's heterochromic iridocyclitis, there is bleeding from neo-vasculorization.This is known as \"Amsler's sign\".Fuch's heterochromic iridocyclitis (Fush's uveitis syndrome)o It is a form of anterior and intermediate uveitis.o The condition is usually unilateral and chronic in nature and is characterized by a chronic non-granulomatous uveitis and eventually results in iris heterochromia (a change in the colour of iris),o The disease has following characteristic features :Heterochromia of irisDiffuse stromal iris atrophyFine KPs at back of corneaFaint aqueous flareAbsence of posterior synechiaeA fairly common rubeosis iridis, sometimes associated with neovascularisation of the angle of anterior chamber.Comparatively early development of complicated cataract and secondary glaucoma (usually open angle type). Glaucoma has been reported in 10-59% of cases.Treatmento Fuch's heterchromic uveitis responds variable to steroids and cycloplegics. The complications of long term use of these drugs may at times outweigh their potential benefits. Therefore, treatment with topical steroids is given to iritis which is sufficiently active to require the treatment, otherwise the patient is routinely followed without giving any treatment.o Cataract responds well to mostforms of intraocular surgeries, including the standard IOL implantation. Hyphemia may occur because of rubeosis iridis (neovascularization of iris).o Glaucoma control may be somewhat more problematic, with surgical options indicated for later forms of disease."
+  },
+  "1b4ff440-5057-4571-9d90-8f89d607e1d5": {
+    "cop": 2,
+    "exp": "ADA Specification No. 25 classifies five types of gypsum products, with the property requirement for each type."
+  },
+  "c56530fa-8532-4d49-a11f-915643eb2112": {
+    "cop": 1,
+    "exp": "Rapid sequence intubation (RSI) is an airway management technique that produces inducing immediate unresponsiveness (induction agent) and muscular relaxation (neuromuscular blocking agent) and is the fastest and most effective means of controlling the emergency airway the cessation of spontaneous ventilation involves considerable risk if the provider does not intubate or ventilate the patient in a timely manner RSI is paicularly useful in the patient with an intact gag reflex, a \"full\" stomach, and a life threatening injury or illness requiring immediate airway control 'modified' RSI is a term sometimes used to describe variations on the 'classic' RSI approach (e.g. ventilation during apnea, titration of induction agents); modified approaches tend to trade an increased risk of aspiration for other benefits (e.g. prevent respiratory acidosis due to apnea from compounding severe metabolic acidosis) INDICATIONS FOR INTUBATION AND MECHANICAL VENTILATION Indications Airway protection and patency in patients with high risk of aspiration like emergency surgery not adequate hour NPO."
+  },
+  "ced02ee2-0f94-4fb6-b809-8f07e5475d5f": {
+    "cop": 1,
+    "exp": "Ans. is 'a' i.e., Iron o Hemochromatosis is characterized by the excessive accumulation of body iron, most of which is deposited in parenchymal organs such as the liver and pancreas.Hemochromatosiso Hemochromatosis is characterized by the excessive accumulation of body iron, most of which is deposited in parenchymal organs such as liver and pancreas.o The total body content of the iron is tightly regulated, as the daily losses are matched by gastrointestinal absorption. In hereditary hemochromatosis, regulation of intestinal absorption of dietary iron is lost, leading to net iron accumulation of 0.5 to 1.0 gm year.o It may be recalled that the total body iron pool ranges from 2-6 gm in normal adults; about 0.5 gm is stored in the liver 98% of which is hepatocytes. In hemochromatosis the iron accumulation may exceed 50 gm, over one third of which accumulates in the liver.o The iron accumulation is life long, the rate of net iron accumulation is 0.5 to 1.0 gm/year. The disease manifests itself typically after 20 gm of storage iron have accumulated. The disease first mainfests itself in the fifth to sixth decades of life.o Excessive iron is directly toxic to host tissueso The clinical features of hemochromatosis are characterized principally by deposition of excess iron in the following organs in decreasing order of severity.Liver (95%)o Usually the first organ to be affected,o Hepatomegaly seen in most of the cases,o Micronodular cirrhosis is characteristico Hepatocellular carcinoma develops in 30% patientsSkin (90%)o Excessive skin pigmentation (Bronzing of the skin)o Skin pigmentation results partially due to hemosiderin deposition and mainly due to melanin depositiono Usually diffuse or generalized, but more pronounced on the face, neck and extensor aspects of lower forearmsPancreas (65%)o Leads to diabetes mellitusJoints (25-50%)o Arthropathyo PolyarthritisCardiaco Congestive heart failureo Anyhthmiao Cardiomyopathy (Restrictive)Hypogonadismo These changes are primarily the result of decreased production of gonadotropins due to impairment of hypothalamic-pituitary' function by iron deposition however, primary' testicular dysfunction may be seen in some cases"
+  }
+}

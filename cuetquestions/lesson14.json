@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "The speed of a wave in a stretched string depends on:",
+      "options": ["Amplitude", "Tension and mass per unit length", "Wavelength", "Frequency"],
+      "correct": 1
+    },
+    {
+      "question": "The unit of wave number is:",
+      "options": ["Hz", "m", "m⁻¹", "s"],
+      "correct": 2
+    },
+    {
+      "question": "The relation between velocity, frequency, and wavelength is:",
+      "options": ["v = f/λ", "v = λ/f", "v = fλ", "v = f + λ"],
+      "correct": 2
+    },
+    {
+      "question": "In longitudinal waves, the particles of medium vibrate:",
+      "options": ["Perpendicular to wave direction", "In a circular path", "Along the wave direction", "Not at all"],
+      "correct": 2
+    },
+    {
+      "question": "In transverse waves, the direction of vibration is:",
+      "options": ["Same as wave", "Opposite to wave", "Perpendicular to wave direction", "No direction"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a longitudinal wave?",
+      "options": ["Sound wave in air", "Light wave", "Water wave", "Radio wave"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these waves can travel through a vacuum?",
+      "options": ["Sound", "Water", "Seismic", "Light"],
+      "correct": 3
+    },
+    {
+      "question": "The velocity of sound is maximum in:",
+      "options": ["Air", "Water", "Vacuum", "Solid iron"],
+      "correct": 3
+    },
+    {
+      "question": "Two waves of the same frequency interfere constructively when the phase difference is:",
+      "options": ["π", "0 or 2π", "π/2", "3π"],
+      "correct": 1
+    },
+    {
+      "question": "When two waves superimpose, the resultant displacement is given by:",
+      "options": ["Difference of displacements", "Sum of displacements", "Average of displacements", "Product of displacements"],
+      "correct": 1
+    },
+    {
+      "question": "In a stationary wave, nodes are points of:",
+      "options": ["Maximum displacement", "Zero displacement", "Half amplitude", "None"],
+      "correct": 1
+    },
+    {
+      "question": "A string of length L fixed at both ends supports a standing wave. The wavelength of the fundamental mode is:",
+      "options": ["L", "2L", "L/2", "4L"],
+      "correct": 1
+    },
+    {
+      "question": "A wave function is y = A sin(kx - ωt). The wave moves in:",
+      "options": ["Positive x-direction", "Negative x-direction", "Positive y-direction", "Negative y-direction"],
+      "correct": 0
+    },
+    {
+      "question": "In resonance, the frequency of the driving force equals the:",
+      "options": ["Natural frequency", "Double of natural frequency", "Half of natural frequency", "Zero"],
+      "correct": 0
+    },
+    {
+      "question": "The phenomenon of beats is due to:",
+      "options": ["Reflection", "Interference", "Resonance", "Doppler effect"],
+      "correct": 1
+    },
+    {
+      "question": "The number of beats heard per second is equal to:",
+      "options": ["Sum of two frequencies", "Difference of two frequencies", "Product of two frequencies", "Average of two frequencies"],
+      "correct": 1
+    },
+    {
+      "question": "The frequency of the first overtone of a closed pipe is:",
+      "options": ["Equal to fundamental", "Double the fundamental", "Three times the fundamental", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The fundamental frequency of a pipe open at both ends is:",
+      "options": ["v/4L", "v/2L", "2v/L", "v/L"],
+      "correct": 1
+    },
+    {
+      "question": "What is the ratio of frequencies of first overtone and fundamental in a closed organ pipe?",
+      "options": ["1:2", "2:1", "3:1", "1:3"],
+      "correct": 2
+    },
+    {
+      "question": "The speed of sound increases with:",
+      "options": ["Pressure", "Temperature", "Humidity", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which quantity remains unchanged when a sound wave passes from air to water?",
+      "options": ["Speed", "Wavelength", "Frequency", "Amplitude"],
+      "correct": 2
+    },
+    {
+      "question": "In wave motion, energy is transferred by:",
+      "options": ["Mass transfer", "Particle movement", "Oscillation", "Wave propagation"],
+      "correct": 3
+    },
+    {
+      "question": "Which equation represents a sinusoidal wave?",
+      "options": ["y = A sin(kx + ωt)", "y = Ax + Bt", "y = Ae^(−t)", "y = kx²"],
+      "correct": 0
+    },
+    {
+      "question": "A wave has frequency 500 Hz and wavelength 0.5 m. Its speed is:",
+      "options": ["250 m/s", "500 m/s", "1000 m/s", "125 m/s"],
+      "correct": 0
+    },
+    {
+      "question": "Doppler effect explains the change in:",
+      "options": ["Speed", "Amplitude", "Frequency", "Direction"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is not affected by Doppler effect?",
+      "options": ["Light", "Sound", "Microwaves", "Voltage"],
+      "correct": 3
+    },
+    {
+      "question": "When a source approaches a listener, the frequency heard is:",
+      "options": ["Decreased", "Unchanged", "Increased", "Zero"],
+      "correct": 2
+    },
+    {
+      "question": "In transverse waves, particles vibrate:",
+      "options": ["Perpendicular to wave direction", "In wave direction", "In circular path", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A tuning fork resonates with a string when:",
+      "options": ["They have same amplitude", "They have same wavelength", "They have same frequency", "They have same speed"],
+      "correct": 2
+    },
+    {
+      "question": "A stationary wave is produced by:",
+      "options": ["Single wave", "Two identical waves moving opposite", "Random noise", "Pulse"],
+      "correct": 1
+    },
+    {
+      "question": "Phase difference between two adjacent nodes in stationary wave is:",
+      "options": ["π", "2π", "π/2", "0"],
+      "correct": 0
+    },
+    {
+      "question": "In a pipe open at both ends, pressure nodes occur at:",
+      "options": ["Ends", "Center", "1/4 length", "Random points"],
+      "correct": 0
+    },
+    {
+      "question": "In sound wave, the compression corresponds to:",
+      "options": ["High pressure", "Low pressure", "Zero displacement", "Zero pressure"],
+      "correct": 0
+    },
+    {
+      "question": "What is the speed of sound in air at room temperature (~20°C)?",
+      "options": ["1500 m/s", "343 m/s", "500 m/s", "1000 m/s"],
+      "correct": 1
+    },
+    {
+      "question": "Wavelength of sound in air is doubled. Its frequency becomes:",
+      "options": ["Halved", "Doubled", "Same", "Quadrupled"],
+      "correct": 0
+    },
+    {
+      "question": "The string of length L fixed at both ends vibrates in its second harmonic. Number of nodes is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "What is the relation between speed (v), tension (T), and linear mass density (μ)?",
+      "options": ["v = √(T/μ)", "v = Tμ", "v = T/μ", "v = μ/T"],
+      "correct": 0
+    },
+    {
+      "question": "The number of oscillations per unit time is called:",
+      "options": ["Amplitude", "Wavelength", "Frequency", "Velocity"],
+      "correct": 2
+    },
+    {
+      "question": "When two sound waves of slightly different frequencies interfere, we hear:",
+      "options": ["Echo", "Noise", "Beat", "Resonance"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following determines the loudness of sound?",
+      "options": ["Wavelength", "Frequency", "Amplitude", "Speed"],
+      "correct": 2
+    },
+    {
+      "question": "Which property determines the pitch of sound?",
+      "options": ["Amplitude", "Speed", "Frequency", "Wavelength"],
+      "correct": 2
+    },
+    {
+      "question": "What happens to pitch when frequency increases?",
+      "options": ["Decreases", "Increases", "Unchanged", "Becomes zero"],
+      "correct": 1
+    },
+    {
+      "question": "Echo is heard only if the minimum distance is:",
+      "options": ["5 m", "10 m", "17.2 m", "50 m"],
+      "correct": 2
+    },
+    {
+      "question": "Sound cannot travel in:",
+      "options": ["Air", "Steel", "Vacuum", "Water"],
+      "correct": 2
+    },
+    {
+      "question": "Which wave property changes when a wave enters a different medium?",
+      "options": ["Frequency", "Amplitude", "Speed", "Phase"],
+      "correct": 2
+    },
+    {
+      "question": "If amplitude of wave is doubled, energy becomes:",
+      "options": ["Same", "Double", "Four times", "Half"],
+      "correct": 2
+    },
+    {
+      "question": "The string tension is quadrupled, the wave speed becomes:",
+      "options": ["Twice", "Four times", "Half", "Same"],
+      "correct": 0
+    },
+    {
+      "question": "For a wave, energy is directly proportional to:",
+      "options": ["Amplitude", "Amplitude²", "Speed", "Frequency"],
+      "correct": 1
+    },
+    {
+      "question": "In longitudinal waves, pressure variation is:",
+      "options": ["Constant", "Sinusoidal", "Triangular", "Random"],
+      "correct": 1
+    }
+  ]
+}

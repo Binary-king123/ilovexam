@@ -1,0 +1,234 @@
+{
+  "test": [
+    {
+      "question": "Which gas is primarily responsible for global warming?",
+      "options": ["Ozone", "Carbon dioxide", "Nitrogen", "Oxygen"],
+      "correct": 1
+    },
+    {
+      "question": "The electrostatic precipitator is used to control:",
+      "options": ["Water pollution", "Air pollution", "Soil erosion", "Noise pollution"],
+      "correct": 1
+    },
+    {
+      "question": "Biochemical Oxygen Demand (BOD) measures:",
+      "options": ["Oxygen in air", "Microbial oxygen consumption", "Plant respiration", "Water hardness"],
+      "correct": 1
+    },
+    {
+      "question": "The buildup of toxic substances at higher trophic levels is called:",
+      "options": ["Eutrophication", "Biomagnification", "Photooxidation", "Biodegradation"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not a greenhouse gas?",
+      "options": ["Methane", "Nitrous oxide", "Ozone", "Argon"],
+      "correct": 3
+    },
+    {
+      "question": "Ozone layer depletion is primarily due to:",
+      "options": ["SO₂ emissions", "CFCs", "CO₂ emissions", "Methane"],
+      "correct": 1
+    },
+    {
+      "question": "The Montreal Protocol was signed to ban:",
+      "options": ["CFCs", "CO₂", "SO₂", "Methane"],
+      "correct": 0
+    },
+    {
+      "question": "Acid rain primarily results from emissions of:",
+      "options": ["CO₂ and CH₄", "SO₂ and NOx", "CFCs", "Ozone"],
+      "correct": 1
+    },
+    {
+      "question": "Which movement involves local people protecting forests by hugging trees?",
+      "options": ["Chipko Movement", "Green Revolution", "Earth Hour", "Berlin Wall"],
+      "correct": 0
+    },
+    {
+      "question": "Which radioactive waste is most harmful and persistent?",
+      "options": ["Low-level", "Intermediate-level", "High-level", "Biodegradable"],
+      "correct": 2
+    },
+    {
+      "question": "Solid waste disposal in landfills leads to:",
+      "options": ["Increased biodiversity", "Waterlogging", "Leachate formation", "Ozone formation"],
+      "correct": 2
+    },
+    {
+      "question": "Particulate matter <2.5 µm (PM2.5) can:",
+      "options": ["Be filtered easily", "Enter deep into lungs", "Clean air", "Enhance photosynthesis"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following reduces vehicular pollution?",
+      "options": ["Catalytic converters", "Leaded petrol", "Two-stroke engines", "Old vehicles"],
+      "correct": 0
+    },
+    {
+      "question": "Eutrophication is caused by:",
+      "options": ["High oxygen", "Nutrient enrichment", "Low pH", "High salinity"],
+      "correct": 1
+    },
+    {
+      "question": "Crop burning contributes to:",
+      "options": ["Air pollution", "Water conservation", "Soil fertility", "Noise reduction"],
+      "correct": 0
+    },
+    {
+      "question": "The Environment (Protection) Act was passed in India in:",
+      "options": ["1974", "1981", "1986", "1992"],
+      "correct": 2
+    },
+    {
+      "question": "Which is an example of biological magnification?",
+      "options": ["Heavy metals increasing in fish", "BOD decreasing", "O₂ increasing", "pH rising"],
+      "correct": 0
+    },
+    {
+      "question": "Greenhouse effect is essential because it:",
+      "options": ["Causes global warming", "Maintains Earth’s temperature", "Depletes ozone", "Generates acid rain"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a bioindicator of ozone depletion?",
+      "options": ["Saprobic bacteria", "Phytoplankton", "Milkweed", "Amphibians"],
+      "correct": 3
+    },
+    {
+      "question": "BOD measures contamination by:",
+      "options": ["Organic matter", "Heavy metals", "Radioactive isotopes", "Plastic waste"],
+      "correct": 0
+    },
+    {
+      "question": "Noise pollution is regulated by:",
+      "options": ["Water (Prevention) Act", "Air (Prevention) Act", "Environment (Protection) Act", "Forest Act"],
+      "correct": 2
+    },
+    {
+      "question": "Industrial effluents contribute to:",
+      "options": ["Eutrophication", "Ozone formation", "Genetic mutations in humans", "Soil salinity"],
+      "correct": 0
+    },
+    {
+      "question": "Which action helps in controlling soil erosion?",
+      "options": ["Afforestation", "Deforestation", "Overgrazing", "Urbanization"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not biodegradable?",
+      "options": ["Paper", "Glass", "Food scraps", "Cotton"],
+      "correct": 1
+    },
+    {
+      "question": "Lead-free petrol helps reduce emissions of:",
+      "options": ["SO₂", "NOx", "Pb and VOCs", "O₃"],
+      "correct": 2
+    },
+    {
+      "question": "Rainwater harvesting helps to:",
+      "options": ["Reduce water table", "Increase runoff", "Decrease groundwater recharge", "Decrease biodiversity"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not an e-waste hazard?",
+      "options": ["Lead leaching", "Mercury exposure", "Gold mining", "Plastic degradation"],
+      "correct": 2
+    },
+    {
+      "question": "Noise above 85 dB can cause:",
+      "options": ["Clear hearing", "Hearing loss", "Better sleep", "Plant growth"],
+      "correct": 1
+    },
+    {
+      "question": "Global warming causes:",
+      "options": ["Lower sea levels", "Melting glaciers", "Ozone formation", "More oxygen"],
+      "correct": 1
+    },
+    {
+      "question": "Catalytic converters convert CO into:",
+      "options": ["CO₂", "O₃", "SO₂", "Pb"],
+      "correct": 0
+    },
+    {
+      "question": "Industrial soot is removed by:",
+      "options": ["Wet scrubbers", "Bag filters", "Electrostatic precipitators", "All of these"],
+      "correct": 2
+    },
+    {
+      "question": "Biogas primarily contains:",
+      "options": ["CO₂", "CH₄", "H₂S", "NOx"],
+      "correct": 1
+    },
+    {
+      "question": "Radiation from nuclear waste causes:",
+      "options": ["Heat stroke", "Mutations", "Eutrophication", "Biomagnification"],
+      "correct": 1
+    },
+    {
+      "question": "Deforestation leads to:",
+      "options": ["Soil erosion", "Carbon sequestration", "Water table rise", "Global cooling"],
+      "correct": 0
+    },
+    {
+      "question": "Diposition of non-biodegradable waste leads to:",
+      "options": ["Soil enrichment", "Water pollution", "O₂ increase", "pH neutralization"],
+      "correct": 1
+    },
+    {
+      "question": "CFCs are used in:",
+      "options": ["Diesel fuel", "Refrigerators", "Solar panels", "Electric cars"],
+      "correct": 1
+    },
+    {
+      "question": "Air (Prevention and Control of Pollution) Act was amended to include:",
+      "options": ["Noise", "Water", "Soil", "Biodiversity"],
+      "correct": 0
+    },
+    {
+      "question": "Excessive use of nitrogen fertilizers results in:",
+      "options": ["Eutrophication", "Global warming", "Ozone depletion", "Soil erosion"],
+      "correct": 0
+    },
+    {
+      "question": "Plastic garbage in oceans forms:",
+      "options": ["Ozone layer", "Dead zones", "Garbage patches", "Ecosystem hotspots"],
+      "correct": 2
+    },
+    {
+      "question": "Waterlogging in fields increases:",
+      "options": ["Crop productivity", "Soil salinity", "Air biodiversity", "Ozone levels"],
+      "correct": 1
+    },
+    {
+      "question": "Primary succession begins on:",
+      "options": ["Rock surfaces", "Farmlands", "Lake bottoms", "Burnt fields"],
+      "correct": 0
+    },
+    {
+      "question": "Secondary succession occurs in:",
+      "options": ["Bare rock", "Forested land", "Abandoned farmland", "Desert dunes"],
+      "correct": 2
+    },
+    {
+      "question": "Scrubber removes which pollutant?",
+      "options": ["CO₂", "SO₂", "CO", "Ozone"],
+      "correct": 1
+    },
+    {
+      "question": "Ground-level ozone is a:",
+      "options": ["Greenhouse gas", "Harmful pollutant", "CFC", "Soil nutrient"],
+      "correct": 1
+    },
+    {
+      "question": "BOD increases in water when:",
+      "options": ["Less organic matter", "More organic matter", "Low temperature", "High salinity"],
+      "correct": 1
+    },
+    {
+      "question": "People’s participation in forest conservation was encouraged under:",
+      "options": ["Green Revolution", "Joint Forest Management", "Montreal Protocol", "Chipko Movement"],
+      "correct": 1
+    }
+  ]
+}

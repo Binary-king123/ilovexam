@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which microbe is used to produce alcohol?",
+      "options": ["Penicillium", "Aspergillus", "Saccharomyces cerevisiae", "Rhizobium"],
+      "correct": 2
+    },
+    {
+      "question": "Citric acid is produced by:",
+      "options": ["Rhizobium", "Aspergillus niger", "Yeast", "Pseudomonas"],
+      "correct": 1
+    },
+    {
+      "question": "Which bacteria is involved in nitrogen fixation in leguminous plants?",
+      "options": ["Azotobacter", "Nitrosomonas", "Rhizobium", "Clostridium"],
+      "correct": 2
+    },
+    {
+      "question": "The term 'fermenter' refers to:",
+      "options": ["A plant", "A bacterium", "A large vessel", "A yeast strain"],
+      "correct": 2
+    },
+    {
+      "question": "The bacterium used in the production of Swiss cheese is:",
+      "options": ["Lactobacillus", "Propionibacterium shermanii", "Streptococcus", "Pseudomonas"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is used to ripen Roquefort cheese?",
+      "options": ["Penicillium roqueforti", "Lactobacillus", "Aspergillus", "Rhizobium"],
+      "correct": 0
+    },
+    {
+      "question": "Methanogens are found in:",
+      "options": ["Aerobic soil", "Cattle rumen", "Salty water", "Ocean floor"],
+      "correct": 1
+    },
+    {
+      "question": "BOD refers to:",
+      "options": ["Biotic Oxygen Demand", "Biochemical Oxygen Demand", "Biological Oxidation Demand", "Biological Organic Decomposition"],
+      "correct": 1
+    },
+    {
+      "question": "Which organism is used as a biofertilizer in rice fields?",
+      "options": ["Rhizobium", "Azotobacter", "Anabaena", "Frankia"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an aerobic bacterium used in sewage treatment?",
+      "options": ["Methanobacterium", "Pseudomonas", "Azotobacter", "Streptococcus"],
+      "correct": 1
+    },
+    {
+      "question": "Which antibiotic was discovered by Alexander Fleming?",
+      "options": ["Streptomycin", "Penicillin", "Erythromycin", "Tetracycline"],
+      "correct": 1
+    },
+    {
+      "question": "Streptomycin is obtained from:",
+      "options": ["Penicillium", "Streptomyces", "Yeast", "Rhizobium"],
+      "correct": 1
+    },
+    {
+      "question": "Which enzyme is used in removing stains from clothes?",
+      "options": ["Cellulase", "Pectinase", "Lipase", "Lactase"],
+      "correct": 2
+    },
+    {
+      "question": "Which organism is used in ethanol production?",
+      "options": ["Clostridium", "Rhizobium", "Saccharomyces cerevisiae", "Mycobacterium"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following acts as a flocculant in sewage treatment?",
+      "options": ["Methanogen", "Activated sludge", "Algae", "Zooplankton"],
+      "correct": 1
+    },
+    {
+      "question": "Gobar gas is mainly composed of:",
+      "options": ["Ethane", "Methane", "Carbon dioxide", "Hydrogen"],
+      "correct": 1
+    },
+    {
+      "question": "Cyclosporin A is used as:",
+      "options": ["Antibiotic", "Immunosuppressive drug", "Antiviral", "Antifungal"],
+      "correct": 1
+    },
+    {
+      "question": "Statins are used to lower:",
+      "options": ["Blood pressure", "Cholesterol", "Blood sugar", "Heart rate"],
+      "correct": 1
+    },
+    {
+      "question": "Statins are produced by:",
+      "options": ["Streptomyces", "Monascus purpureus", "Penicillium", "Pseudomonas"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not a microbial enzyme?",
+      "options": ["Lipase", "Pectinase", "Streptokinase", "Insulin"],
+      "correct": 3
+    },
+    {
+      "question": "In biogas plants, the digester is:",
+      "options": ["Aerobic", "Anaerobic", "Semi-aerobic", "Fully aerobic"],
+      "correct": 1
+    },
+    {
+      "question": "Which microbe is used to make vinegar?",
+      "options": ["Acetobacter", "Lactobacillus", "Rhizopus", "Yeast"],
+      "correct": 0
+    },
+    {
+      "question": "The foaming of yeast cells in dough is due to production of:",
+      "options": ["Carbon monoxide", "Methane", "Oxygen", "Carbon dioxide"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a broad-spectrum antibiotic?",
+      "options": ["Penicillin", "Streptomycin", "Tetracycline", "Erythromycin"],
+      "correct": 2
+    },
+    {
+      "question": "Which microbe is used to produce ethanol commercially?",
+      "options": ["Saccharomyces cerevisiae", "Pseudomonas", "Acetobacter", "Penicillium"],
+      "correct": 0
+    },
+    {
+      "question": "The main source of streptokinase is:",
+      "options": ["Streptococcus", "Streptomyces", "Lactobacillus", "Aspergillus"],
+      "correct": 0
+    },
+    {
+      "question": "SCP refers to:",
+      "options": ["Single Cell Protein", "Standard Carbon Product", "Soluble Cell Part", "Synthetic Cytoplasmic Protein"],
+      "correct": 0
+    },
+    {
+      "question": "Sewage water is first treated to remove:",
+      "options": ["Odor", "Solids", "Color", "Pathogens"],
+      "correct": 1
+    },
+    {
+      "question": "Methanogens belong to:",
+      "options": ["Fungi", "Bacteria", "Archaebacteria", "Algae"],
+      "correct": 2
+    },
+    {
+      "question": "Microbes used for production of fermented beverages are:",
+      "options": ["Fungi", "Bacteria", "Algae", "Yeasts"],
+      "correct": 3
+    },
+    {
+      "question": "Antibiotics are mainly produced by:",
+      "options": ["Yeast", "Algae", "Fungi and Bacteria", "Protozoans"],
+      "correct": 2
+    },
+    {
+      "question": "The enzyme pectinase is used in:",
+      "options": ["Wine clarification", "Baking", "Detergent", "Bio-gas"],
+      "correct": 0
+    },
+    {
+      "question": "The key feature of biofertilizers is:",
+      "options": ["Kill pests", "Increase water retention", "Improve nutrient availability", "Provide hormones"],
+      "correct": 2
+    },
+    {
+      "question": "The first antibiotic discovered was:",
+      "options": ["Streptomycin", "Penicillin", "Tetracycline", "Erythromycin"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following helps in removing clots from blood vessels?",
+      "options": ["Lipase", "Streptokinase", "Cyclosporin", "Statins"],
+      "correct": 1
+    },
+    {
+      "question": "Antibiotics cannot treat:",
+      "options": ["Bacterial infections", "Viral infections", "Fungal infections", "Protozoan infections"],
+      "correct": 1
+    },
+    {
+      "question": "Which organism is used in the treatment of acidic soils?",
+      "options": ["Cyanobacteria", "Mycorrhiza", "Frankia", "Azospirillum"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a symbiotic nitrogen-fixing bacterium?",
+      "options": ["Azospirillum", "Clostridium", "Rhizobium", "Azotobacter"],
+      "correct": 2
+    },
+    {
+      "question": "In cheese production, the role of microbes is to:",
+      "options": ["Preserve", "Produce gas", "Add flavor", "Increase nutrition"],
+      "correct": 2
+    },
+    {
+      "question": "Microbes convert milk into curd by producing:",
+      "options": ["Lactic acid", "Acetic acid", "Citric acid", "Ethanol"],
+      "correct": 0
+    },
+    {
+      "question": "Cyanobacteria are useful in agriculture because they:",
+      "options": ["Produce oxygen", "Fix nitrogen", "Prevent erosion", "Control pests"],
+      "correct": 1
+    },
+    {
+      "question": "The term 'flocs' refers to:",
+      "options": ["Anaerobic bacteria", "Fungal colonies", "Aggregates of bacteria and fungal filaments", "Sewage sediments"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a free-living nitrogen fixer?",
+      "options": ["Rhizobium", "Azotobacter", "Frankia", "Pseudomonas"],
+      "correct": 1
+    },
+    {
+      "question": "Which one is used in the production of ethanol and bread?",
+      "options": ["Lactobacillus", "Candida", "Saccharomyces", "Pseudomonas"],
+      "correct": 2
+    },
+    {
+      "question": "Bio-gas mainly contains:",
+      "options": ["Ethane", "Propane", "Methane", "Butane"],
+      "correct": 2
+    },
+    {
+      "question": "Which process reduces BOD in water?",
+      "options": ["Aeration", "Addition of microbes", "Filtration", "Primary sedimentation"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an organic biofertilizer?",
+      "options": ["Ammonium nitrate", "Urea", "Azolla", "Potash"],
+      "correct": 2
+    },
+    {
+      "question": "Cyclosporin A is produced by:",
+      "options": ["Aspergillus", "Penicillium", "Trichoderma", "Monascus"],
+      "correct": 2
+    },
+    {
+      "question": "Pseudomonas is used for:",
+      "options": ["Water purification", "Cheese making", "Biocontrol", "Wine production"],
+      "correct": 2
+    },
+    {
+      "question": "Which gas is released by methanogens?",
+      "options": ["CO₂", "CH₄", "H₂", "O₂"],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "solutions": [
+    {
+      "question": "What is the molarity of a solution with 2 moles of solute in 4 liters of solution?",
+      "options": ["0.5 M", "2 M", "8 M", "0.25 M"],
+      "correct": 0
+    },
+    {
+      "question": "Molality is defined as moles of solute per:",
+      "options": ["Kilogram of solvent", "Liter of solution", "Mole of solvent", "Gram of solution"],
+      "correct": 0
+    },
+    {
+      "question": "Percent composition by mass = mass of solute ×100 ÷ mass of:",
+      "options": ["Solution", "Solvent", "Sample", "Atomic mass"],
+      "correct": 0
+    },
+    {
+      "question": "A 1% w/v solution contains:",
+      "options": ["1 g solute in 100 mL solution", "1 g solute in 1 L solvent", "10 g solute in 100 mL solution", "1 g solute in 1 mL solution"],
+      "correct": 0
+    },
+    {
+      "question": "Which colligative property depends on number of solute particles but not on their nature?",
+      "options": ["Boiling point elevation", "Color", "Viscosity", "Density"],
+      "correct": 0
+    },
+    {
+      "question": "Freezing point depression is caused by:",
+      "options": ["Increase in vapor pressure", "Decrease in vapor pressure", "Increase in boiling point", "None of these"],
+      "correct": 1
+    },
+    {
+      "question": "Which property changes when a nonvolatile solute is added to a solvent?",
+      "options": ["Melting point", "Boiling point", "Density", "Both A and B"],
+      "correct": 3
+    },
+    {
+      "question": "Raoult’s law applies to:",
+      "options": ["Ideal solutions", "Non-ideal solutions", "Dilute solutions only", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Vapor pressure of a solution is:",
+      "options": ["Lower than pure solvent", "Higher than pure solvent", "Equal", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Osmotic pressure is given by:",
+      "options": ["Π = MRT", "Π = PV/nRT", "Π = Hvf", "Π = nRT"],
+      "correct": 0
+    },
+    {
+      "question": "A semipermeable membrane allows passage of:",
+      "options": ["Solvent only", "Solute only", "Both", "Neither"],
+      "correct": 0
+    },
+    {
+      "question": "Molality is temperature-independent, but molarity is not. True or false?",
+      "options": ["True", "False", "Both", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which concentration unit changes with temperature?",
+      "options": ["Molality", "Molality and molarity", "Molarity", "Mass percent"],
+      "correct": 2
+    },
+    {
+      "question": "Van't Hoff factor is defined as:",
+      "options": ["Observed colligative change ÷ expected", "Molarity ÷ Molality", "Molality ÷ Molarity", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Boiling point elevation ΔTb = Kb × m × i. What is i?",
+      "options": ["Van’t Hoff factor", "Molarity", "Molality", "moles solute"],
+      "correct": 0
+    },
+    {
+      "question": "Which solvent has highest freezing point depression constant (Kb)?",
+      "options": ["Water", "Benzene", "Ether", "All equal"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following increases osmotic pressure?",
+      "options": ["Higher solute conc.", "Lower solute", "Higher temp", "Both A and C"],
+      "correct": 3
+    },
+    {
+      "question": "Colligative properties depend on:",
+      "options": ["Nature of solute", "Number of solute particles", "Both", "Neither"],
+      "correct": 1
+    },
+    {
+      "question": "What is mole fraction of solute A if xA = 0.2? xB = ?",
+      "options": ["0.8", "0.2", "1.0", "0"],
+      "correct": 0
+    },
+    {
+      "question": "Molal freezing point depression = ΔTf = Kf × m × i. Which has largest ΔTf?",
+      "options": ["NaCl soln.", "Sucrose soln.", "Glucose", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which vapor pressure lowering depends on mole fraction?",
+      "options": ["Raoult’s law", "Henry’s law", "Gibbs–Duhem", "Avogadro’s law"],
+      "correct": 0
+    },
+    {
+      "question": "In osmotic pressure expression, R = gas constant. T is:",
+      "options": ["Temperature in K", "0°C", "Pressure", "Volume"],
+      "correct": 0
+    },
+    {
+      "question": "Which solution would have lowest vapor pressure?",
+      "options": ["Pure solvent", "Dilute soln. nonvolatile solute", "Saturated soln.", "Volatile soln."],
+      "correct": 2
+    },
+    {
+      "question": "Colligative property due to:",
+      "options": ["Solvent molecules only", "Solute interactions only", "Solute–solvent interactions", "Solute–solute interactions"],
+      "correct": 2
+    },
+    {
+      "question": "What concentration unit uses mass of solute and volume of solution?",
+      "options": ["Molality", "Molarity", "Molality", "Mass fraction"],
+      "correct": 1
+    },
+    {
+      "question": "Calculate mole fraction of solute in 1 mol solute + 4 mol solvent: xsolute = ?",
+      "options": ["0.2", "0.8", "0.5", "0.4"],
+      "correct": 0
+    },
+    {
+      "question": "Which solution is hypotonic to cells?",
+      "options": ["Lower osmotic pressure", "Higher osmotic pressure", "Equal pressure", "Hypertonic"],
+      "correct": 0
+    },
+    {
+      "question": "Which effect lowers boiling point?",
+      "options": ["Nonvolatile solute", "Volatile solute", "Heat", "Pressure"],
+      "correct": 0
+    },
+    {
+      "question": "What is percent by mass if 5 g solute in 100 g solution?",
+      "options": ["5%", "0.05 %", "0.5 %", "10 %"],
+      "correct": 0
+    },
+    {
+      "question": "Vapor pressure of solution equals Xsolvent × P°solvent (Raoult’s law). Xsolvent is mole fraction of:",
+      "options": ["Solvent", "Solute", "Both", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Elevation in boiling point depends on:",
+      "options": ["Molality only", "Molarity only", "Temperature", "Pressure"],
+      "correct": 0
+    },
+    {
+      "question": "Mole fraction has no unit. True or false?",
+      "options": ["True", "False", "Sometimes", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which is an example of ideal solution?",
+      "options": ["Benzene–toluene", "Water–ethanol", "Salt–water", "Sugar–water"],
+      "correct": 0
+    },
+    {
+      "question": "Which property requires heavy solute removal in desalination?",
+      "options": ["Boiling point shift", "Osmotic pressure shift", "Freezing point shift", "Density shift"],
+      "correct": 1
+    },
+    {
+      "question": "What is molality of a solution containing 1 mol solute in 1 kg solvent?",
+      "options": ["1 m", "1 M", "2 m", "0.5 m"],
+      "correct": 0
+    },
+    {
+      "question": "Which quantity is nearly constant with temperature?",
+      "options": ["Molarity", "Molality", "Normality", "Formality"],
+      "correct": 1
+    },
+    {
+      "question": "Which concentration form is best for colligative calculations?",
+      "options": ["Molality", "Molarity", "Percent", "Mass fraction"],
+      "correct": 0
+    },
+    {
+      "question": "Which solvent would show real deviations from Raoult’s law?",
+      "options": ["Polar + polar", "Nonpolar + nonpolar", "Polar + nonpolar", "All ideal"],
+      "correct": 2
+    },
+    {
+      "question": "Elevated colligative effect expected with:",
+      "options": ["NaCl", "C₁₂H₂₂O₁₁", "Sucrose", "Glucose"],
+      "correct": 0
+    },
+    {
+      "question": "Molality of 0.1 mol solute dissolved in 200 g solvent:",
+      "options": ["0.5 m", "0.05 m", "0.2 m", "0.1 m"],
+      "correct": 0
+    },
+    {
+      "question": "Colligative properties depend on:",
+      "options": ["Weight of solute", "Number of solute particles", "Particle nature", "Solubility"],
+      "correct": 1
+    },
+    {
+      "question": "For colligative property, ideality assumes:",
+      "options": ["No solute–solvent interactions", "Ideal gas behavior", "No ionic dissociation", "No deviations"],
+      "correct": 0
+    },
+    {
+      "question": "Which solution always obeys Raoult’s law at low concentration?",
+      "options": ["All dilute solutions", "Concentrated solutions", "Non-ideal only", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Freezing point depression constant Kf unit is:",
+      "options": ["K kg/mol", "°C/m", "°C/%)", "J/mol"],
+      "correct": 1
+    },
+    {
+      "question": "Which mixture forms azeotrope?",
+      "options": ["Ethanol–water", "Salt–water", "Sugar–water", "KCl–water"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not a colligative property?",
+      "options": ["Boiling point elevation", "Freezing point depression", "Density change", "Osmotic pressure"],
+      "correct": 2
+    }
+  ]
+}

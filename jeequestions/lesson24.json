@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Wave optics is based on the principle of:",
+      "options": ["Reflection", "Refraction", "Huygens Principle", "Photoelectric effect"],
+      "correct": 2
+    },
+    {
+      "question": "The necessary condition for interference is:",
+      "options": ["Equal amplitudes", "Coherent sources", "Same intensity", "Monochromatic sources"],
+      "correct": 1
+    },
+    {
+      "question": "Young’s double slit experiment proves the:",
+      "options": ["Particle nature of light", "Wave nature of light", "Dual nature", "Reflection of light"],
+      "correct": 1
+    },
+    {
+      "question": "In YDSE, if the distance between slits increases, fringe width:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correct": 1
+    },
+    {
+      "question": "Fringe width in YDSE is given by:",
+      "options": ["λD/d", "λd/D", "dλ/D", "Dλ/d"],
+      "correct": 3
+    },
+    {
+      "question": "If the wavelength of light is doubled, fringe width becomes:",
+      "options": ["Halved", "Double", "Same", "Quadrupled"],
+      "correct": 1
+    },
+    {
+      "question": "Light waves are:",
+      "options": ["Longitudinal", "Transverse", "Mechanical", "Scalar"],
+      "correct": 1
+    },
+    {
+      "question": "Angular width of central maximum in single slit diffraction is:",
+      "options": ["λ/a", "2λ/a", "a/λ", "λ/2a"],
+      "correct": 1
+    },
+    {
+      "question": "In YDSE, central fringe is:",
+      "options": ["Bright", "Dark", "Colored", "Invisible"],
+      "correct": 0
+    },
+    {
+      "question": "Path difference for constructive interference is:",
+      "options": ["nλ", "(2n+1)λ/2", "λ/2", "λ/4"],
+      "correct": 0
+    },
+    {
+      "question": "Path difference for destructive interference is:",
+      "options": ["nλ", "(2n+1)λ/2", "2nλ", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "Diffraction is significant when the size of obstacle is:",
+      "options": ["Much larger than λ", "Much smaller than λ", "Comparable to λ", "Unrelated to λ"],
+      "correct": 2
+    },
+    {
+      "question": "Which color shows maximum diffraction?",
+      "options": ["Red", "Blue", "Violet", "Green"],
+      "correct": 0
+    },
+    {
+      "question": "The first minimum in single slit diffraction occurs at:",
+      "options": ["a sinθ = λ", "a sinθ = 2λ", "a sinθ = λ/2", "a sinθ = 3λ"],
+      "correct": 0
+    },
+    {
+      "question": "Diffraction and interference both require:",
+      "options": ["Monochromatic light", "Slits", "Superposition principle", "Polarized light"],
+      "correct": 2
+    },
+    {
+      "question": "In double slit experiment, intensity of fringes is maximum when:",
+      "options": ["Amplitude is minimum", "Path difference is λ", "Amplitude is maximum", "Both waves are out of phase"],
+      "correct": 2
+    },
+    {
+      "question": "The principle behind interference is:",
+      "options": ["Superposition", "Reflection", "Refraction", "Scattering"],
+      "correct": 0
+    },
+    {
+      "question": "Fringe width is independent of:",
+      "options": ["λ", "d", "D", "Amplitude"],
+      "correct": 3
+    },
+    {
+      "question": "The ratio of intensities of two waves is 9:1. The ratio of their amplitudes is:",
+      "options": ["3:1", "9:1", "1:3", "2:1"],
+      "correct": 0
+    },
+    {
+      "question": "Two waves of same frequency and constant phase difference are:",
+      "options": ["Incoherent", "Coherent", "Monochromatic", "Harmonics"],
+      "correct": 1
+    },
+    {
+      "question": "The central maximum in single slit diffraction is:",
+      "options": ["Narrow", "Brightest and widest", "Darkest", "Colored"],
+      "correct": 1
+    },
+    {
+      "question": "The fringe width in YDSE is directly proportional to:",
+      "options": ["Slit separation", "Wavelength", "Refractive index", "Amplitude"],
+      "correct": 1
+    },
+    {
+      "question": "Which experiment proved light is a wave?",
+      "options": ["Compton", "Photoelectric", "YDSE", "Newton’s rings"],
+      "correct": 2
+    },
+    {
+      "question": "When light passes through a narrow slit, it:",
+      "options": ["Spreads out", "Gets absorbed", "Forms image", "Becomes longitudinal"],
+      "correct": 0
+    },
+    {
+      "question": "In diffraction, central maximum is due to:",
+      "options": ["Interference", "Reflection", "Diffraction", "Refraction"],
+      "correct": 2
+    },
+    {
+      "question": "On increasing slit width in diffraction, central maximum:",
+      "options": ["Becomes narrower", "Becomes wider", "Disappears", "Remains same"],
+      "correct": 0
+    },
+    {
+      "question": "In polarized light, electric field vibrates in:",
+      "options": ["One direction", "Random directions", "Circular path", "Elliptical path"],
+      "correct": 0
+    },
+    {
+      "question": "Which light is used in YDSE?",
+      "options": ["Monochromatic", "White", "Laser", "Infrared"],
+      "correct": 0
+    },
+    {
+      "question": "In polarization, which wave property is shown?",
+      "options": ["Longitudinality", "Transversality", "Diffraction", "Reflection"],
+      "correct": 1
+    },
+    {
+      "question": "Interference is observed with:",
+      "options": ["Two coherent sources", "Single source", "Incoherent sources", "No source"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these can be polarized?",
+      "options": ["Sound waves", "Water waves", "Light waves", "All of these"],
+      "correct": 2
+    },
+    {
+      "question": "Polarizer and analyzer are used to study:",
+      "options": ["Interference", "Diffraction", "Polarization", "Reflection"],
+      "correct": 2
+    },
+    {
+      "question": "Malus law deals with:",
+      "options": ["Interference", "Reflection", "Polarization", "Diffraction"],
+      "correct": 2
+    },
+    {
+      "question": "The maximum intensity in interference is four times the intensity of one wave. The waves are:",
+      "options": ["Out of phase", "In phase", "Incoherent", "Polarized"],
+      "correct": 1
+    },
+    {
+      "question": "The distance between slits in YDSE is increased, fringe width:",
+      "options": ["Increases", "Decreases", "Remains same", "Doubles"],
+      "correct": 1
+    },
+    {
+      "question": "If a glass plate is introduced in path of one slit in YDSE:",
+      "options": ["Fringe width changes", "Fringes shift", "No effect", "Color appears"],
+      "correct": 1
+    },
+    {
+      "question": "A path difference of λ gives:",
+      "options": ["Dark fringe", "Bright fringe", "No fringe", "Multiple fringes"],
+      "correct": 1
+    },
+    {
+      "question": "Intensity is proportional to:",
+      "options": ["Amplitude", "Amplitude²", "Frequency", "Speed"],
+      "correct": 1
+    },
+    {
+      "question": "In single slit diffraction, the width of central maxima is:",
+      "options": ["λ/a", "2λ/a", "a/λ", "2a/λ"],
+      "correct": 1
+    },
+    {
+      "question": "Double slit interference pattern is not observed with white light due to:",
+      "options": ["No coherent sources", "No refraction", "Dispersion", "Overlapping of colors"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following does NOT show diffraction?",
+      "options": ["Sound", "Light", "X-rays", "Alpha particles"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following phenomena can be explained by wave theory?",
+      "options": ["Photoelectric effect", "Compton effect", "Interference", "Pair production"],
+      "correct": 2
+    },
+    {
+      "question": "Light of longer wavelength shows:",
+      "options": ["More diffraction", "Less diffraction", "Same diffraction", "No diffraction"],
+      "correct": 0
+    },
+    {
+      "question": "Polarized sunglasses work on:",
+      "options": ["Diffraction", "Polarization", "Reflection", "Refraction"],
+      "correct": 1
+    },
+    {
+      "question": "Young’s experiment proves light is:",
+      "options": ["A ray", "A particle", "A wave", "A corpuscle"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following does NOT support wave theory?",
+      "options": ["Diffraction", "Photoelectric effect", "Interference", "Polarization"],
+      "correct": 1
+    },
+    {
+      "question": "The device used to study polarization is:",
+      "options": ["Microscope", "Polaroid", "Telescope", "Spectrometer"],
+      "correct": 1
+    },
+    {
+      "question": "Fringes are obtained in YDSE due to:",
+      "options": ["Constructive interference only", "Destructive interference only", "Both constructive and destructive interference", "None"],
+      "correct": 2
+    },
+    {
+      "question": "In YDSE, what happens if one slit is closed?",
+      "options": ["No fringes", "More fringes", "Colored fringes", "Bright center"],
+      "correct": 0
+    }
+  ]
+}

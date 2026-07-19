@@ -1,0 +1,294 @@
+{
+  "test": [
+    {
+      "question": "What is the general term in the expansion of (a + b)^n?",
+      "options": [
+        "nCr * a^r * b^(n-r)",
+        "nCr * a^(n-r) * b^r",
+        "nPr * a^r * b^(n-r)",
+        "nPr * a^(n-r) * b^r"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In the binomial expansion of (x + y)^5, the number of terms is:",
+      "options": ["6", "5", "10", "4"],
+      "correct": 0
+    },
+    {
+      "question": "The coefficient of x^3 in (1 + x)^5 is:",
+      "options": ["10", "5", "6", "20"],
+      "correct": 0
+    },
+    {
+      "question": "Which term in the expansion of (x + 1)^8 is the greatest?",
+      "options": [
+        "4th",
+        "5th",
+        "6th",
+        "9th"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The middle term(s) in the expansion of (1 + x)^6 is/are:",
+      "options": [
+        "3rd only",
+        "4th only",
+        "3rd and 4th",
+        "4th and 5th"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The sum of the coefficients in the expansion of (2x - 3)^5 is:",
+      "options": ["-1", "0", "1", "-1"],
+      "correct": 3
+    },
+    {
+      "question": "The constant term in the expansion of (x^2 + 1/x)^10 is the term where:",
+      "options": [
+        "Power of x is zero",
+        "Power of x is maximum",
+        "Power of x is minimum",
+        "Power of x is negative"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the value of the sum of the binomial coefficients of (1 + x)^n?",
+      "options": ["n", "2^n", "n!", "nC1"],
+      "correct": 1
+    },
+    {
+      "question": "The number of terms in the expansion of (x + y)^10 is:",
+      "options": ["10", "11", "12", "9"],
+      "correct": 1
+    },
+    {
+      "question": "If rth term in expansion of (a + b)^n is nCr * a^(n-r) * b^r, then what is (r + 1)th term?",
+      "options": [
+        "nCr * a^r * b^(n-r)",
+        "nC(r+1) * a^(n-r-1) * b^(r+1)",
+        "nC(r+1) * a^(n-r-1) * b^(r+1)",
+        "nCr * a^(r-1) * b^(n-r+1)"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The expansion of (1 + x)^n has:",
+      "options": ["n terms", "n+1 terms", "2n terms", "Infinite terms"],
+      "correct": 1
+    },
+    {
+      "question": "The coefficient of x^4 in (1 + x)^6 is:",
+      "options": ["15", "20", "10", "5"],
+      "correct": 0
+    },
+    {
+      "question": "The sum of the exponents of x in all terms of (1 + x)^3 is:",
+      "options": ["3", "6", "9", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The total number of terms in the expansion of (a + b + c)^5 is:",
+      "options": ["15", "21", "36", "18"],
+      "correct": 1
+    },
+    {
+      "question": "The general term in (1 + x)^n is:",
+      "options": [
+        "nCr * x^r",
+        "nCr * x^(n-r)",
+        "nPr * x^r",
+        "nPr * x^(n-r)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Find the term independent of x in (x^3 + 1/x^2)^7.",
+      "options": ["7th term", "6th term", "8th term", "None"],
+      "correct": 2
+    },
+    {
+      "question": "The binomial coefficient nC0 is always:",
+      "options": ["n", "0", "1", "n!"],
+      "correct": 2
+    },
+    {
+      "question": "The value of (1 - 1)^n is:",
+      "options": ["0", "1", "n", "n!"],
+      "correct": 0
+    },
+    {
+      "question": "Which term in (1 + x)^12 is x^5?",
+      "options": ["6th", "7th", "8th", "5th"],
+      "correct": 2
+    },
+    {
+      "question": "In the binomial expansion of (a + b)^n, the number of coefficients is:",
+      "options": ["n", "n+1", "2n", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Find the term independent of x in (x^2 + 1/x)^8.",
+      "options": ["6th", "5th", "9th", "7th"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not a valid binomial identity?",
+      "options": [
+        "(1 + x)^n = Σ nCr * x^r",
+        "nCr = nC(n-r)",
+        "(1 - x)^n = Σ (-1)^r * nCr * x^r",
+        "(1 + x)^n = n * x^n"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "The sum of coefficients in (2x - 3)^5 is:",
+      "options": ["-1", "-1^5", "(-1)^5", "-1"],
+      "correct": 3
+    },
+    {
+      "question": "The greatest term in the expansion of (2 + x)^10 when x = 1 is:",
+      "options": ["6th", "7th", "5th", "4th"],
+      "correct": 0
+    },
+    {
+      "question": "How many terms are there in the expansion of (x + y + z)^4?",
+      "options": ["15", "10", "20", "35"],
+      "correct": 0
+    },
+    {
+      "question": "In (a + b)^6, the coefficient of a^2b^4 is:",
+      "options": ["15", "20", "6", "10"],
+      "correct": 0
+    },
+    {
+      "question": "What is the value of 9C4?",
+      "options": ["126", "84", "36", "90"],
+      "correct": 0
+    },
+    {
+      "question": "The binomial expansion is valid for:",
+      "options": ["Only integers", "Real n", "All n", "Positive n"],
+      "correct": 1
+    },
+    {
+      "question": "The term independent of x in (1 + x + x^2)^n is present when:",
+      "options": ["n is even", "n is odd", "n divisible by 3", "All n"],
+      "correct": 2
+    },
+    {
+      "question": "The coefficient of x^2 in (1 + x)^4 is:",
+      "options": ["6", "4", "3", "10"],
+      "correct": 0
+    },
+    {
+      "question": "If T_k is the general term of (1 + x)^n, T_k is:",
+      "options": [
+        "nC(k-1) * x^(k-1)",
+        "nC(k) * x^k",
+        "nC(k) * x^(k-1)",
+        "None"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In (x + 2)^5, the term with x^3 is:",
+      "options": [
+        "10x^3",
+        "20x^3",
+        "40x^3",
+        "80x^3"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "In binomial expansion, symmetric property refers to:",
+      "options": [
+        "nCr = nCr",
+        "nCr = nC(n-r)",
+        "nCr = nC(r-1)",
+        "nCr = nC(n+r)"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "The expansion of (1 + x)^4 has the term:",
+      "options": ["x^5", "x^3", "x^6", "x^0"],
+      "correct": 1
+    },
+    {
+      "question": "If nCr = nC(r-1), then:",
+      "options": ["n = 2r-1", "n = 2r", "r = n", "n = 3r"],
+      "correct": 0
+    },
+    {
+      "question": "What is the coefficient of x^4 in (1 + x)^7?",
+      "options": ["35", "70", "21", "15"],
+      "correct": 0
+    },
+    {
+      "question": "The general term of (1 + x)^n is maximum when:",
+      "options": ["r = n/2", "r = n", "r = 0", "r = 1"],
+      "correct": 0
+    },
+    {
+      "question": "In (2x - 1)^6, the constant term is:",
+      "options": ["20", "-20", "15", "-15"],
+      "correct": 1
+    },
+    {
+      "question": "The value of n for which 2nC2 = 66 is:",
+      "options": ["11", "6", "12", "8"],
+      "correct": 0
+    },
+    {
+      "question": "In (1 + x)^10, the term with x^7 has coefficient:",
+      "options": ["120", "210", "180", "100"],
+      "correct": 1
+    },
+    {
+      "question": "Which one is correct for binomial expansion?",
+      "options": [
+        "Number of terms = n",
+        "Number of terms = n+1",
+        "Number of terms = n-1",
+        "Number of terms = 2n"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In (a + b)^6, the term with a^2b^4 is:",
+      "options": ["15", "20", "10", "6"],
+      "correct": 0
+    },
+    {
+      "question": "The value of (1 - x)^3 is:",
+      "options": ["1 - 3x + 3x^2 - x^3", "1 + 3x + 3x^2 + x^3", "1 - x^3", "1 + 3x^2"],
+      "correct": 0
+    },
+    {
+      "question": "Which term in (1 + x)^n is maximum when x = 1?",
+      "options": ["Middle term", "First term", "Last term", "Second term"],
+      "correct": 0
+    },
+    {
+      "question": "The term independent of x in (2x + 1/x)^6 is:",
+      "options": ["7th", "6th", "4th", "5th"],
+      "correct": 3
+    },
+    {
+      "question": "Sum of coefficients in (x + 2)^3 is:",
+      "options": ["27", "8", "64", "36"],
+      "correct": 0
+    },
+    {
+      "question": "What is the value of 2^5 using binomial expansion?",
+      "options": ["32", "64", "16", "8"],
+      "correct": 0
+    }
+  ]
+}

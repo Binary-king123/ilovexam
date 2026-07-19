@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a conic section?",
+      "options": ["Circle", "Ellipse", "Parabola", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The standard form of a circle with center at origin is:",
+      "options": ["x² + y² = r²", "x + y = r", "x² − y² = r²", "x² + y² = 0"],
+      "correct": 0
+    },
+    {
+      "question": "The eccentricity of a circle is:",
+      "options": ["0", "1", "< 1", "> 1"],
+      "correct": 0
+    },
+    {
+      "question": "What is the standard form of a parabola opening rightward?",
+      "options": ["y² = 4ax", "x² = 4ay", "y = ax²", "x = ay²"],
+      "correct": 0
+    },
+    {
+      "question": "The eccentricity of a parabola is:",
+      "options": ["1", "0", "> 1", "< 1"],
+      "correct": 0
+    },
+    {
+      "question": "The distance between focus and directrix of a parabola is:",
+      "options": ["2a", "a", "4a", "a/2"],
+      "correct": 0
+    },
+    {
+      "question": "Which conic has eccentricity greater than 1?",
+      "options": ["Hyperbola", "Circle", "Ellipse", "Parabola"],
+      "correct": 0
+    },
+    {
+      "question": "Equation of ellipse with foci on x-axis is:",
+      "options": ["x²/a² + y²/b² = 1", "x²/b² + y²/a² = 1", "x² − y² = a²", "x² + y = 1"],
+      "correct": 0
+    },
+    {
+      "question": "The standard form of a hyperbola with transverse axis on x-axis is:",
+      "options": ["x²/a² − y²/b² = 1", "x² + y² = a²", "y² − x² = a²", "x² − y² = 0"],
+      "correct": 0
+    },
+    {
+      "question": "The equation x² + y² + 4x + 6y + 9 = 0 represents a:",
+      "options": ["Circle", "Parabola", "Hyperbola", "Ellipse"],
+      "correct": 0
+    },
+    {
+      "question": "A parabola is the locus of a point which moves such that it is equidistant from:",
+      "options": ["A fixed point and a fixed line", "Two fixed points", "Two fixed lines", "A circle and a point"],
+      "correct": 0
+    },
+    {
+      "question": "What is the length of the latus rectum of parabola y² = 4ax?",
+      "options": ["4a", "2a", "a", "a/2"],
+      "correct": 0
+    },
+    {
+      "question": "For an ellipse, the value of eccentricity e lies between:",
+      "options": ["0 and 1", "1 and 2", "−1 and 0", "> 1"],
+      "correct": 0
+    },
+    {
+      "question": "What is the latus rectum of ellipse x²/a² + y²/b² = 1?",
+      "options": ["2b²/a", "2a²/b", "a²/b", "b²/a"],
+      "correct": 0
+    },
+    {
+      "question": "What is the length of latus rectum of a hyperbola?",
+      "options": ["2b²/a", "4a", "2a²/b", "b²/a"],
+      "correct": 0
+    },
+    {
+      "question": "The center of circle x² + y² + 6x − 8y + 9 = 0 is:",
+      "options": ["(−3, 4)", "(3, −4)", "(−6, 8)", "(6, −8)"],
+      "correct": 0
+    },
+    {
+      "question": "In hyperbola, the transverse axis is:",
+      "options": ["The axis that passes through the foci", "The axis perpendicular to foci", "The line joining the vertices", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The general second-degree equation represents a conic if:",
+      "options": ["It is of the form Ax² + Bxy + Cy² + Dx + Ey + F = 0", "A + B = C", "It contains x only", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Focus of y² = 4ax is:",
+      "options": ["(a, 0)", "(0, a)", "(−a, 0)", "(0, −a)"],
+      "correct": 0
+    },
+    {
+      "question": "What is the directrix of y² = 4ax?",
+      "options": ["x = −a", "x = a", "y = a", "y = −a"],
+      "correct": 0
+    },
+    {
+      "question": "The eccentricity of a hyperbola x²/a² − y²/b² = 1 is:",
+      "options": ["√(1 + b²/a²)", "√(1 − b²/a²)", "b/a", "a/b"],
+      "correct": 0
+    },
+    {
+      "question": "Vertices of ellipse x²/a² + y²/b² = 1 are:",
+      "options": ["(±a, 0)", "(0, ±a)", "(±b, 0)", "(±a, ±b)"],
+      "correct": 0
+    },
+    {
+      "question": "Asymptotes are associated with which conic?",
+      "options": ["Hyperbola", "Parabola", "Ellipse", "Circle"],
+      "correct": 0
+    },
+    {
+      "question": "The equation x² + y² = 0 represents:",
+      "options": ["Point circle", "Parabola", "No real circle", "Ellipse"],
+      "correct": 0
+    },
+    {
+      "question": "A circle is a special case of:",
+      "options": ["Ellipse", "Parabola", "Hyperbola", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Equation x² + y² = r² represents a circle centered at:",
+      "options": ["Origin", "(r, r)", "(r, 0)", "(0, r)"],
+      "correct": 0
+    },
+    {
+      "question": "What is the conic when eccentricity = 1?",
+      "options": ["Parabola", "Ellipse", "Circle", "Hyperbola"],
+      "correct": 0
+    },
+    {
+      "question": "The value of e² for ellipse is:",
+      "options": ["1 − b²/a²", "1 + b²/a²", "b² − a²", "a² − b²"],
+      "correct": 0
+    },
+    {
+      "question": "The focal distance of any point on a parabola is:",
+      "options": ["Equal to its distance from directrix", "Greater than its distance from directrix", "Less than distance from directrix", "Not related"],
+      "correct": 0
+    },
+    {
+      "question": "If the equation is y² − 4x = 0, then it is a:",
+      "options": ["Parabola", "Circle", "Ellipse", "Line"],
+      "correct": 0
+    },
+    {
+      "question": "Equation x² − 16y = 0 represents a parabola with axis:",
+      "options": ["Along y-axis", "Along x-axis", "At angle 45°", "Circular"],
+      "correct": 0
+    },
+    {
+      "question": "Which conic has two branches?",
+      "options": ["Hyperbola", "Parabola", "Ellipse", "Circle"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is NOT a conic?",
+      "options": ["Square", "Parabola", "Ellipse", "Hyperbola"],
+      "correct": 0
+    },
+    {
+      "question": "For hyperbola x²/a² − y²/b² = 1, asymptotes are:",
+      "options": ["y = ±(b/a)x", "y = ±(a/b)x", "y = ±x", "x = ±y"],
+      "correct": 0
+    },
+    {
+      "question": "The conic with eccentricity e = 0 is:",
+      "options": ["Circle", "Ellipse", "Parabola", "Hyperbola"],
+      "correct": 0
+    },
+    {
+      "question": "If a = b in ellipse equation, it becomes:",
+      "options": ["Circle", "Parabola", "Hyperbola", "Line"],
+      "correct": 0
+    },
+    {
+      "question": "Which conic has only one focus and one directrix?",
+      "options": ["Parabola", "Ellipse", "Hyperbola", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is symmetric about x-axis?",
+      "options": ["y² = 4ax", "x² = 4ay", "x = y²", "y = x²"],
+      "correct": 0
+    },
+    {
+      "question": "For ellipse x²/9 + y²/4 = 1, length of major axis is:",
+      "options": ["6", "3", "4", "5"],
+      "correct": 0
+    },
+    {
+      "question": "In hyperbola x²/25 − y²/9 = 1, the transverse axis length is:",
+      "options": ["10", "5", "6", "3"],
+      "correct": 0
+    },
+    {
+      "question": "Equation x² + y² − 2x + 4y − 4 = 0 is of a:",
+      "options": ["Circle", "Parabola", "Line", "Point"],
+      "correct": 0
+    },
+    {
+      "question": "A parabola is always:",
+      "options": ["Open", "Closed", "Bounded", "Circular"],
+      "correct": 0
+    },
+    {
+      "question": "What is the eccentricity of ellipse with a = 5, b = 4?",
+      "options": ["3/5", "4/5", "√(1 − 16/25)", "√(1 + 16/25)"],
+      "correct": 2
+    },
+    {
+      "question": "Conic section formed when plane cuts cone at angle equal to slant height is:",
+      "options": ["Parabola", "Circle", "Hyperbola", "Ellipse"],
+      "correct": 0
+    },
+    {
+      "question": "The parabola is symmetric about:",
+      "options": ["Its axis", "Focus", "Directrix", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The vertex of y² = 4ax is:",
+      "options": ["(0, 0)", "(a, 0)", "(0, a)", "(-a, 0)"],
+      "correct": 0
+    },
+    {
+      "question": "Focus of ellipse x²/a² + y²/b² = 1 lies at:",
+      "options": ["(±ae, 0)", "(0, ±ae)", "(ae, ae)", "(0, 0)"],
+      "correct": 0
+    },
+    {
+      "question": "A conic is degenerate if:",
+      "options": ["It passes through origin", "Its determinant is zero", "It is a line", "None"],
+      "correct": 1
+    }
+  ]
+}

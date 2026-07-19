@@ -1,0 +1,239 @@
+{
+  "test": [
+    {
+      "question": "Zeroth law of thermodynamics defines:",
+      "options": ["Temperature", "Heat", "Internal energy", "Entropy"],
+      "correct": 0
+    },
+    {
+      "question": "The SI unit of heat is:",
+      "options": ["Calorie", "Joule", "Watt", "Kelvin"],
+      "correct": 1
+    },
+    {
+      "question": "Work done in an isothermal process is:",
+      "options": ["nRT ln(Vf/Vi)", "0", "PΔV", "nCvdT"],
+      "correct": 0
+    },
+    {
+      "question": "In an adiabatic process, heat exchange is:",
+      "options": ["Maximum", "Minimum", "Zero", "Equal to work"],
+      "correct": 2
+    },
+    {
+      "question": "The internal energy of an ideal gas depends only on:",
+      "options": ["Volume", "Pressure", "Temperature", "Entropy"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a state function?",
+      "options": ["Work", "Heat", "Internal energy", "Path length"],
+      "correct": 2
+    },
+    {
+      "question": "First law of thermodynamics is a statement of:",
+      "options": ["Conservation of mass", "Conservation of energy", "Conservation of momentum", "Conservation of entropy"],
+      "correct": 1
+    },
+    {
+      "question": "Work done in a cyclic process is equal to:",
+      "options": ["Change in internal energy", "Zero", "Heat absorbed", "Area enclosed by the cycle"],
+      "correct": 3
+    },
+    {
+      "question": "Which process has constant pressure?",
+      "options": ["Isothermal", "Isobaric", "Adiabatic", "Isochoric"],
+      "correct": 1
+    },
+    {
+      "question": "In an isochoric process, the work done is:",
+      "options": ["Maximum", "Minimum", "Zero", "Negative"],
+      "correct": 2
+    },
+    {
+      "question": "Efficiency of Carnot engine is:",
+      "options": ["(T1 - T2)/T1", "T1/T2", "1 - T2/T1", "T2/T1"],
+      "correct": 2
+    },
+    {
+      "question": "Which law introduces the concept of entropy?",
+      "options": ["Zeroth", "First", "Second", "Third"],
+      "correct": 2
+    },
+    {
+      "question": "The entropy of a perfect crystal at 0 K is:",
+      "options": ["Zero", "Infinity", "Negative", "One"],
+      "correct": 0
+    },
+    {
+      "question": "In a reversible process, the change in entropy is:",
+      "options": ["Zero", "Positive", "Negative", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a thermodynamic process?",
+      "options": ["Isobaric", "Isochoric", "Adiabatic", "Magnetic"],
+      "correct": 3
+    },
+    {
+      "question": "In a cyclic process, ΔU is:",
+      "options": ["Positive", "Negative", "Zero", "Infinity"],
+      "correct": 2
+    },
+    {
+      "question": "During an adiabatic expansion of ideal gas:",
+      "options": ["Internal energy increases", "Temperature increases", "Internal energy decreases", "Pressure increases"],
+      "correct": 2
+    },
+    {
+      "question": "For an isothermal expansion of an ideal gas:",
+      "options": ["ΔU > 0", "ΔU = 0", "ΔU < 0", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The heat added at constant volume goes into:",
+      "options": ["Work", "Internal energy", "Kinetic energy", "Potential energy"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an extensive property?",
+      "options": ["Temperature", "Pressure", "Volume", "Density"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is an intensive property?",
+      "options": ["Internal energy", "Enthalpy", "Volume", "Pressure"],
+      "correct": 3
+    },
+    {
+      "question": "Enthalpy is defined as:",
+      "options": ["U + PV", "PV - U", "U - PV", "P + U/V"],
+      "correct": 0
+    },
+    {
+      "question": "The SI unit of entropy is:",
+      "options": ["J", "J/K", "J/kg", "J/K·mol"],
+      "correct": 1
+    },
+    {
+      "question": "In an adiabatic expansion of an ideal gas, the temperature:",
+      "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+      "correct": 1
+    },
+    {
+      "question": "Second law of thermodynamics implies:",
+      "options": ["Entropy decreases", "Entropy increases", "Energy is conserved", "Temperature remains constant"],
+      "correct": 1
+    },
+    {
+      "question": "What is the value of γ = Cp/Cv for monoatomic gas?",
+      "options": ["1.33", "1.66", "1.25", "2.00"],
+      "correct": 1
+    },
+    {
+      "question": "Work done during isobaric expansion is:",
+      "options": ["nR ln(Vf/Vi)", "PΔV", "0", "nCvΔT"],
+      "correct": 1
+    },
+    {
+      "question": "Cp - Cv for an ideal gas equals:",
+      "options": ["R", "2R", "3R", "Zero"],
+      "correct": 0
+    },
+    {
+      "question": "Efficiency of Carnot engine depends on:",
+      "options": ["Working substance", "Source and sink temperatures", "Speed", "Pressure"],
+      "correct": 1
+    },
+    {
+      "question": "A thermodynamic process with no heat exchange is called:",
+      "options": ["Isothermal", "Adiabatic", "Isochoric", "Isobaric"],
+      "correct": 1
+    },
+    {
+      "question": "Work done by an ideal gas is maximum in which process?",
+      "options": ["Isobaric", "Isochoric", "Adiabatic", "Isothermal"],
+      "correct": 3
+    },
+    {
+      "question": "The unit of heat capacity is:",
+      "options": ["J/K", "J/kg", "J/kg·K", "W/K"],
+      "correct": 0
+    },
+    {
+      "question": "For an ideal gas in an isothermal process:",
+      "options": ["ΔT = 0", "ΔU = 0", "Q = W", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "If a gas is compressed adiabatically, its temperature:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "correct": 0
+    },
+    {
+      "question": "Thermodynamic equilibrium implies:",
+      "options": ["Thermal equilibrium", "Mechanical equilibrium", "Chemical equilibrium", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "In a cyclic process net change in internal energy is:",
+      "options": ["Positive", "Negative", "Zero", "Maximum"],
+      "correct": 2
+    },
+    {
+      "question": "The most efficient engine is:",
+      "options": ["Otto", "Diesel", "Carnot", "2-stroke"],
+      "correct": 2
+    },
+    {
+      "question": "Refrigerator works on:",
+      "options": ["Carnot cycle", "Reverse Carnot cycle", "Joule cycle", "Brayton cycle"],
+      "correct": 1
+    },
+    {
+      "question": "The internal energy of an ideal monoatomic gas is:",
+      "options": ["(3/2)nRT", "nRT", "nCvT", "2nRT"],
+      "correct": 0
+    },
+    {
+      "question": "The value of γ = Cp/Cv for a diatomic gas is approximately:",
+      "options": ["1.0", "1.4", "1.67", "2.0"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has maximum heat capacity?",
+      "options": ["Water", "Iron", "Copper", "Lead"],
+      "correct": 0
+    },
+    {
+      "question": "In which process does the entropy increase?",
+      "options": ["Reversible adiabatic", "Reversible isothermal", "Irreversible adiabatic", "None of these"],
+      "correct": 2
+    },
+    {
+      "question": "If entropy decreases, the process is:",
+      "options": ["Reversible", "Irreversible", "Impossible", "Spontaneous"],
+      "correct": 2
+    },
+    {
+      "question": "The first law of thermodynamics does not distinguish between:",
+      "options": ["Heat and work", "Temperature and pressure", "Energy and power", "Entropy and energy"],
+      "correct": 0
+    },
+    {
+      "question": "The heat engine converts:",
+      "options": ["Work into heat", "Heat into work", "Energy into mass", "Heat into entropy"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these represents an adiabatic condition?",
+      "options": ["Q = 0", "W = 0", "ΔU = 0", "T = 0"],
+      "correct": 0
+    },
+    {
+      "question": "The P-V curve of adiabatic and isothermal processes:",
+      "options": ["Are same", "Adiabatic is steeper", "Isothermal is steeper", "Both are straight lines"],
+      "correct": 1
+    }
+  ]
+}

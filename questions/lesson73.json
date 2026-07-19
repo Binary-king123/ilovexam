@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which enzyme is present in saliva?",
+      "options": ["Pepsin", "Trypsin", "Amylase", "Lipase"],
+      "correct": 2
+    },
+    {
+      "question": "Bile is produced by:",
+      "options": ["Stomach", "Pancreas", "Liver", "Gall bladder"],
+      "correct": 2
+    },
+    {
+      "question": "Pepsin acts in:",
+      "options": ["Alkaline medium", "Neutral medium", "Acidic medium", "All pH"],
+      "correct": 2
+    },
+    {
+      "question": "The enzyme that digests proteins in the stomach is:",
+      "options": ["Trypsin", "Amylase", "Pepsin", "Lipase"],
+      "correct": 2
+    },
+    {
+      "question": "Chyme is formed in the:",
+      "options": ["Mouth", "Esophagus", "Stomach", "Small intestine"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone stimulates secretion of gastric juice?",
+      "options": ["Secretin", "Gastrin", "Cholecystokinin", "Enterogastrone"],
+      "correct": 1
+    },
+    {
+      "question": "Bile helps in the digestion of:",
+      "options": ["Proteins", "Carbohydrates", "Fats", "Minerals"],
+      "correct": 2
+    },
+    {
+      "question": "The brush border enzymes are found in:",
+      "options": ["Liver", "Pancreas", "Stomach", "Intestinal mucosa"],
+      "correct": 3
+    },
+    {
+      "question": "The end product of carbohydrate digestion is:",
+      "options": ["Starch", "Sucrose", "Glucose", "Maltose"],
+      "correct": 2
+    },
+    {
+      "question": "The longest part of the alimentary canal is:",
+      "options": ["Large intestine", "Small intestine", "Esophagus", "Rectum"],
+      "correct": 1
+    },
+    {
+      "question": "Lipase acts on:",
+      "options": ["Proteins", "Fats", "Starch", "Nucleic acids"],
+      "correct": 1
+    },
+    {
+      "question": "Pancreatic juice contains all except:",
+      "options": ["Lipase", "Pepsin", "Trypsin", "Amylase"],
+      "correct": 1
+    },
+    {
+      "question": "Absorption of water takes place mainly in:",
+      "options": ["Stomach", "Large intestine", "Small intestine", "Esophagus"],
+      "correct": 1
+    },
+    {
+      "question": "Emulsification of fats is done by:",
+      "options": ["Bile salts", "Lipase", "Amylase", "Pepsin"],
+      "correct": 0
+    },
+    {
+      "question": "Villi are found in:",
+      "options": ["Liver", "Stomach", "Small intestine", "Large intestine"],
+      "correct": 2
+    },
+    {
+      "question": "Which part secretes intrinsic factor?",
+      "options": ["Liver", "Duodenum", "Stomach", "Pancreas"],
+      "correct": 2
+    },
+    {
+      "question": "Which vitamin requires intrinsic factor for absorption?",
+      "options": ["Vitamin A", "Vitamin D", "Vitamin B₁₂", "Vitamin C"],
+      "correct": 2
+    },
+    {
+      "question": "The enzyme maltase breaks down maltose into:",
+      "options": ["Glucose", "Galactose", "Fructose", "Sucrose"],
+      "correct": 0
+    },
+    {
+      "question": "Trypsinogen is activated by:",
+      "options": ["Pepsin", "Enterokinase", "Lipase", "Amylase"],
+      "correct": 1
+    },
+    {
+      "question": "The digestion of starch begins in the:",
+      "options": ["Stomach", "Mouth", "Duodenum", "Jejunum"],
+      "correct": 1
+    },
+    {
+      "question": "Which organ stores bile?",
+      "options": ["Pancreas", "Liver", "Gall bladder", "Stomach"],
+      "correct": 2
+    },
+    {
+      "question": "Which structure prevents food from entering the windpipe?",
+      "options": ["Epiglottis", "Uvula", "Tongue", "Glottis"],
+      "correct": 0
+    },
+    {
+      "question": "Protein digestion starts in:",
+      "options": ["Mouth", "Stomach", "Small intestine", "Large intestine"],
+      "correct": 1
+    },
+    {
+      "question": "Which hormone stimulates pancreatic enzyme secretion?",
+      "options": ["Gastrin", "Secretin", "Cholecystokinin", "Glucagon"],
+      "correct": 2
+    },
+    {
+      "question": "Bile contains:",
+      "options": ["Enzymes", "Hormones", "Bile salts and pigments", "All of the above"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not a salivary gland?",
+      "options": ["Parotid", "Submandibular", "Sublingual", "Pineal"],
+      "correct": 3
+    },
+    {
+      "question": "The sphincter between the stomach and duodenum is:",
+      "options": ["Pyloric", "Ileocecal", "Cardiac", "Anal"],
+      "correct": 0
+    },
+    {
+      "question": "Peyer's patches are found in:",
+      "options": ["Liver", "Ileum", "Rectum", "Colon"],
+      "correct": 1
+    },
+    {
+      "question": "Liver cells are called:",
+      "options": ["Hepatocytes", "Nephrons", "Chondrocytes", "Alveoli"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is not absorbed in the stomach?",
+      "options": ["Alcohol", "Water", "Glucose", "Some drugs"],
+      "correct": 2
+    },
+    {
+      "question": "Which cells secrete HCl?",
+      "options": ["Chief cells", "Mucous cells", "Parietal cells", "Goblet cells"],
+      "correct": 2
+    },
+    {
+      "question": "The innermost layer of the alimentary canal is:",
+      "options": ["Serosa", "Muscularis", "Submucosa", "Mucosa"],
+      "correct": 3
+    },
+    {
+      "question": "Chylomicrons are formed in:",
+      "options": ["Liver", "Lacteals", "Intestinal epithelium", "Pancreas"],
+      "correct": 2
+    },
+    {
+      "question": "Lymphatic vessels in villi are called:",
+      "options": ["Lacteals", "Capillaries", "Veins", "Lumen"],
+      "correct": 0
+    },
+    {
+      "question": "Which vitamin is synthesized by gut bacteria?",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "correct": 3
+    },
+    {
+      "question": "Largest gland in the human body is:",
+      "options": ["Thyroid", "Liver", "Pancreas", "Pituitary"],
+      "correct": 1
+    },
+    {
+      "question": "Major site of absorption is:",
+      "options": ["Mouth", "Stomach", "Small intestine", "Large intestine"],
+      "correct": 2
+    },
+    {
+      "question": "Enzyme for milk protein digestion is:",
+      "options": ["Lipase", "Renin", "Trypsin", "Pepsin"],
+      "correct": 1
+    },
+    {
+      "question": "The digestion of nucleic acids is done by:",
+      "options": ["Nuclease", "Amylase", "Lipase", "Peptidase"],
+      "correct": 0
+    },
+    {
+      "question": "End product of fat digestion is:",
+      "options": ["Amino acids", "Fatty acids and glycerol", "Glucose", "Nucleotides"],
+      "correct": 1
+    },
+    {
+      "question": "Digestive enzyme that acts at acidic pH is:",
+      "options": ["Pepsin", "Trypsin", "Lipase", "Amylase"],
+      "correct": 0
+    },
+    {
+      "question": "Absorption of glucose occurs through:",
+      "options": ["Diffusion", "Osmosis", "Active transport", "Filtration"],
+      "correct": 2
+    },
+    {
+      "question": "Peristalsis is:",
+      "options": ["Secretion of enzymes", "Absorption", "Wave-like muscle movement", "Glandular activity"],
+      "correct": 2
+    },
+    {
+      "question": "Longest part of small intestine is:",
+      "options": ["Duodenum", "Jejunum", "Ileum", "Colon"],
+      "correct": 2
+    },
+    {
+      "question": "Lipids are absorbed into:",
+      "options": ["Blood capillaries", "Lymph vessels", "Liver", "Stomach"],
+      "correct": 1
+    },
+    {
+      "question": "Protein digestion is completed in:",
+      "options": ["Stomach", "Duodenum", "Jejunum", "Small intestine"],
+      "correct": 3
+    },
+    {
+      "question": "Enterokinase converts:",
+      "options": ["Trypsin to pepsin", "Pepsinogen to pepsin", "Trypsinogen to trypsin", "Amylase to maltase"],
+      "correct": 2
+    },
+    {
+      "question": "Enzymes in pancreatic juice are secreted in:",
+      "options": ["Inactive form", "Active form", "Both", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following stimulates bile release?",
+      "options": ["Secretin", "CCK", "Gastrin", "Somatostatin"],
+      "correct": 1
+    }
+  ]
+}

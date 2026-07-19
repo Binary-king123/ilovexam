@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Electromagnetic waves are:",
+      "options": ["Longitudinal", "Transverse", "Mechanical", "Only electric"],
+      "correct": 1
+    },
+    {
+      "question": "The speed of electromagnetic waves in vacuum is:",
+      "options": ["3 × 10^8 m/s", "1.5 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^10 m/s"],
+      "correct": 0
+    },
+    {
+      "question": "Electromagnetic waves were first predicted by:",
+      "options": ["Maxwell", "Faraday", "Hertz", "Newton"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following has the shortest wavelength?",
+      "options": ["Microwaves", "X-rays", "Radio waves", "Infrared"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following waves has the highest frequency?",
+      "options": ["Gamma rays", "X-rays", "UV rays", "Visible light"],
+      "correct": 0
+    },
+    {
+      "question": "In electromagnetic waves, electric and magnetic fields are:",
+      "options": ["Perpendicular to each other", "Parallel to each other", "At 45°", "Same direction"],
+      "correct": 0
+    },
+    {
+      "question": "The source of electromagnetic waves is:",
+      "options": ["Steady current", "Accelerated charge", "Stationary charge", "Uniform motion of charge"],
+      "correct": 1
+    },
+    {
+      "question": "Which EM wave is used in radar?",
+      "options": ["Gamma rays", "Microwaves", "Infrared", "Ultraviolet"],
+      "correct": 1
+    },
+    {
+      "question": "Which EM wave is used for satellite communication?",
+      "options": ["Radio waves", "UV rays", "X-rays", "Infrared"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following has the longest wavelength?",
+      "options": ["Radio waves", "Infrared", "UV", "Gamma rays"],
+      "correct": 0
+    },
+    {
+      "question": "The energy of an EM wave is:",
+      "options": ["Shared equally by E and B fields", "Stored only in E field", "Stored only in B field", "Independent of E and B"],
+      "correct": 0
+    },
+    {
+      "question": "Electromagnetic waves transport:",
+      "options": ["Energy", "Momentum", "Angular momentum", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Electromagnetic waves do not require:",
+      "options": ["Medium", "Source", "Energy", "Time"],
+      "correct": 0
+    },
+    {
+      "question": "Which wave is used in TV remote control?",
+      "options": ["Radio waves", "Microwaves", "Infrared", "Visible light"],
+      "correct": 2
+    },
+    {
+      "question": "Which wave causes sunburn?",
+      "options": ["Infrared", "Visible", "Microwaves", "Ultraviolet"],
+      "correct": 3
+    },
+    {
+      "question": "The displacement current is due to:",
+      "options": ["Moving charges", "Changing magnetic field", "Changing electric field", "Constant current"],
+      "correct": 2
+    },
+    {
+      "question": "The unit of displacement current is:",
+      "options": ["Coulomb", "Ampere", "Volt", "Tesla"],
+      "correct": 1
+    },
+    {
+      "question": "The electromagnetic spectrum includes:",
+      "options": ["Only visible light", "All types of waves", "Only radio waves", "Only gamma rays"],
+      "correct": 1
+    },
+    {
+      "question": "Maxwell added which term to Ampere’s law?",
+      "options": ["Electric field", "Magnetic field", "Displacement current", "Conduction current"],
+      "correct": 2
+    },
+    {
+      "question": "The direction of energy flow in EM waves is given by:",
+      "options": ["Electric field", "Magnetic field", "Poynting vector", "Wave velocity"],
+      "correct": 2
+    },
+    {
+      "question": "Which wave has frequency just below visible light?",
+      "options": ["Ultraviolet", "Infrared", "X-rays", "Gamma rays"],
+      "correct": 1
+    },
+    {
+      "question": "The wavelength of red light is approximately:",
+      "options": ["400 nm", "500 nm", "600 nm", "700 nm"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is not a property of EM waves?",
+      "options": ["They travel at speed of light", "They are transverse", "They need a medium", "They show interference"],
+      "correct": 2
+    },
+    {
+      "question": "The electric field vector in EM waves is always:",
+      "options": ["Along direction of propagation", "Perpendicular to magnetic field", "Opposite to magnetic field", "In same direction as magnetic field"],
+      "correct": 1
+    },
+    {
+      "question": "Microwaves are used in:",
+      "options": ["Cell phones", "Toasters", "Remote controls", "Ovens"],
+      "correct": 3
+    },
+    {
+      "question": "X-rays are produced by:",
+      "options": ["Nuclear fusion", "Deceleration of electrons", "Oscillating charges", "Laser beam"],
+      "correct": 1
+    },
+    {
+      "question": "Gamma rays are emitted from:",
+      "options": ["Atoms", "Electrons", "Nuclei", "Molecules"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these EM waves has healing properties?",
+      "options": ["Infrared", "Microwaves", "X-rays", "Radio waves"],
+      "correct": 0
+    },
+    {
+      "question": "The speed of EM wave in a medium depends on:",
+      "options": ["Permittivity and permeability", "Density", "Charge", "Mass"],
+      "correct": 0
+    },
+    {
+      "question": "The energy density of EM wave is proportional to:",
+      "options": ["E", "E²", "1/E", "√E"],
+      "correct": 1
+    },
+    {
+      "question": "Which EM wave is used in night vision?",
+      "options": ["UV", "IR", "Microwave", "X-ray"],
+      "correct": 1
+    },
+    {
+      "question": "What is the relationship between E and B in EM waves?",
+      "options": ["E = cB", "B = cE", "E = B/c", "E = √B"],
+      "correct": 0
+    },
+    {
+      "question": "Polarization is a property of:",
+      "options": ["Transverse waves", "Longitudinal waves", "Scalar waves", "Rotational waves"],
+      "correct": 0
+    },
+    {
+      "question": "What is the typical frequency of radio waves?",
+      "options": ["10⁶–10⁸ Hz", "10¹²–10¹⁴ Hz", "10³–10⁴ Hz", "10⁹–10¹² Hz"],
+      "correct": 0
+    },
+    {
+      "question": "The electric and magnetic fields in an EM wave are:",
+      "options": ["Mutually perpendicular", "In the same direction", "Always opposite", "Unrelated"],
+      "correct": 0
+    },
+    {
+      "question": "Which EM wave can ionize atoms?",
+      "options": ["UV", "IR", "Microwave", "Radio"],
+      "correct": 0
+    },
+    {
+      "question": "Which wave is used for medical imaging?",
+      "options": ["Microwaves", "Ultrasound", "X-rays", "Gamma rays"],
+      "correct": 2
+    },
+    {
+      "question": "Visible light ranges from:",
+      "options": ["400–700 nm", "100–200 nm", "1–10 nm", "700–1000 nm"],
+      "correct": 0
+    },
+    {
+      "question": "Who experimentally confirmed EM waves?",
+      "options": ["Hertz", "Faraday", "Newton", "Ampere"],
+      "correct": 0
+    },
+    {
+      "question": "The electric field vector of EM wave is given by:",
+      "options": ["E₀ cos(kx – ωt)", "E₀ sin(ωt + kx)", "E₀ sin(kx – ωt)", "E₀"],
+      "correct": 2
+    },
+    {
+      "question": "Which wave is used for sterilizing surgical instruments?",
+      "options": ["X-rays", "UV rays", "Gamma rays", "IR rays"],
+      "correct": 1
+    },
+    {
+      "question": "The ratio of amplitudes of electric and magnetic fields in EM wave is:",
+      "options": ["Speed of light", "Planck’s constant", "Frequency", "Wavelength"],
+      "correct": 0
+    },
+    {
+      "question": "Which wave can pass through human body easily?",
+      "options": ["UV", "X-ray", "Visible", "IR"],
+      "correct": 1
+    },
+    {
+      "question": "The net momentum carried by an EM wave is due to:",
+      "options": ["Electric field only", "Magnetic field only", "Both E and B", "Neither"],
+      "correct": 2
+    },
+    {
+      "question": "Which wave is used in wireless communication?",
+      "options": ["Radio waves", "Microwaves", "Infrared", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which EM wave is used to kill cancer cells?",
+      "options": ["X-rays", "IR", "Gamma rays", "UV rays"],
+      "correct": 2
+    },
+    {
+      "question": "The magnetic field vector of EM wave is always:",
+      "options": ["Parallel to electric field", "Perpendicular to electric field and wave vector", "Opposite to electric field", "None of the above"],
+      "correct": 1
+    },
+    {
+      "question": "EM wave propagation in vacuum has:",
+      "options": ["Same E and B phase", "E leads B", "B leads E", "90° phase difference"],
+      "correct": 0
+    }
+  ]
+}

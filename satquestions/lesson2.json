@@ -1,0 +1,256 @@
+{
+  "test": [
+
+    {
+      "question": "If 5 pens cost $2.50, what is the cost of 8 pens at the same rate?",
+      "options": ["$4.00", "$3.50", "$5.00", "$3.00"],
+      "correct": 2
+    },
+    {
+      "question": "A car travels 180 miles in 3 hours. What is its average speed?",
+      "options": ["50 mph", "55 mph", "60 mph", "65 mph"],
+      "correct": 2
+    },
+    {
+      "question": "The mean of five numbers is 12. If four of the numbers are 10, 14, 13, and 11, what is the fifth number?",
+      "options": ["10", "12", "13", "12.5"],
+      "correct": 1
+    },
+    {
+      "question": "A shirt originally costs $40. If it is discounted by 25%, what is the new price?",
+      "options": ["$25", "$30", "$32", "$35"],
+      "correct": 1
+    },
+    {
+      "question": "If 3 notebooks cost $6.75, how much does 1 notebook cost?",
+      "options": ["$1.75", "$2.00", "$2.25", "$2.50"],
+      "correct": 2
+    },
+    {
+      "question": "In a class of 30 students, 18 are boys. What percent are girls?",
+      "options": ["30%", "40%", "50%", "60%"],
+      "correct": 1
+    },
+    {
+      "question": "If a train moves at 45 mph, how long will it take to travel 270 miles?",
+      "options": ["4", "5", "6", "7"],
+      "correct": 2
+    },
+    {
+      "question": "A recipe uses 2 cups of flour for every 3 cups of sugar. If you use 12 cups of sugar, how many cups of flour do you need?",
+      "options": ["6", "8", "10", "12"],
+      "correct": 1
+    },
+    {
+      "question": "The price of a book increased from $12 to $15. What is the percent increase?",
+      "options": ["20%", "25%", "30%", "15%"],
+      "correct": 1
+    },
+    {
+      "question": "A student scores 80, 85, 78, and 92 on four tests. What is the average?",
+      "options": ["83.75", "83.00", "82.50", "84.50"],
+      "correct": 0
+    },
+    {
+      "question": "If 20% of x is 30, what is x?",
+      "options": ["120", "140", "150", "160"],
+      "correct": 2
+    },
+    {
+      "question": "If 2 pencils cost $0.90, how many pencils can be bought with $2.70?",
+      "options": ["4", "5", "6", "7"],
+      "correct": 2
+    },
+    {
+      "question": "A car travels 150 miles using 5 gallons of gas. How many miles per gallon does it get?",
+      "options": ["25", "28", "30", "35"],
+      "correct": 2
+    },
+    {
+      "question": "The median of 2, 4, 6, 8, 10 is:",
+      "options": ["4", "6", "5", "7"],
+      "correct": 1
+    },
+    {
+      "question": "If 40% of a number is 24, what is the number?",
+      "options": ["50", "55", "60", "65"],
+      "correct": 2
+    },
+    {
+      "question": "A pair of shoes is originally priced at $80. It is on sale for 20% off. What is the sale price?",
+      "options": ["$64", "$68", "$72", "$60"],
+      "correct": 0
+    },
+    {
+      "question": "A student scored 72 out of 90. What percent did the student score?",
+      "options": ["78%", "80%", "82%", "85%"],
+      "correct": 1
+    },
+    {
+      "question": "If a population increases by 10% every year, what will be the population after one year if the current population is 5000?",
+      "options": ["5200", "5300", "5500", "6000"],
+      "correct": 2
+    },
+    {
+      "question": "What is the average of the first five prime numbers?",
+      "options": ["5", "5.2", "4.4", "4.8"],
+      "correct": 1
+    },
+    {
+      "question": "If a train travels 300 miles in 5 hours, what is the average speed?",
+      "options": ["50", "55", "60", "65"],
+      "correct": 2
+    },
+    {
+      "question": "A jar contains 5 red, 3 blue, and 2 green marbles. What is the probability of picking a red marble?",
+      "options": ["1/2", "1/3", "1/5", "2/5"],
+      "correct": 0
+    },
+    {
+      "question": "If 3 shirts cost $24, what is the cost of 7 shirts?",
+      "options": ["$56", "$60", "$48", "$50"],
+      "correct": 0
+    },
+    {
+      "question": "A bag contains 6 apples and 4 oranges. What is the ratio of oranges to total fruit?",
+      "options": ["2:5", "1:2", "2:3", "1:3"],
+      "correct": 0
+    },
+    {
+      "question": "A class has 12 boys and 18 girls. What is the ratio of girls to boys?",
+      "options": ["2:3", "3:2", "3:1", "4:1"],
+      "correct": 1
+    },
+    {
+      "question": "If 15% of a number is 24, what is the number?",
+      "options": ["140", "150", "160", "170"],
+      "correct": 1
+    },
+
+    {
+      "question": "A store’s revenue increased from $1,200 to $1,560 over one month. What was the percent increase?",
+      "options": ["25%", "30%", "35%", "40%"],
+      "correct": 0
+    },
+    {
+      "question": "If 60% of a class are boys and there are 24 boys, how many students are in the class?",
+      "options": ["30", "36", "40", "42"],
+      "correct": 2
+    },
+    {
+      "question": "If a car travels x miles using y gallons of fuel, which expression represents the number of miles per gallon?",
+      "options": ["x + y", "x/y", "y/x", "xy"],
+      "correct": 1
+    },
+    {
+      "question": "A number is increased by 20% and then decreased by 20%. What is the net change?",
+      "options": ["Increase", "Decrease", "No change", "Depends on the number"],
+      "correct": 1
+    },
+    {
+      "question": "If a group of workers can complete a job in 8 hours, how long will it take twice as many workers to complete the job, assuming equal productivity?",
+      "options": ["2 hours", "4 hours", "6 hours", "8 hours"],
+      "correct": 1
+    },
+    {
+      "question": "In a survey, 40% liked tea, 50% liked coffee, and 20% liked both. What percent liked neither?",
+      "options": ["10%", "20%", "30%", "40%"],
+      "correct": 0
+    },
+    {
+      "question": "A student’s grades are 88, 92, 85, and 91. What score must the student get on the next test to average 90?",
+      "options": ["90", "92", "94", "96"],
+      "correct": 2
+    },
+    {
+      "question": "The average of 8 numbers is 12. If one number is removed and the new average is 11.5, what number was removed?",
+      "options": ["12", "13", "14", "16"],
+      "correct": 2
+    },
+    {
+      "question": "If 4x = 3y and y = 12, what is x?",
+      "options": ["6", "8", "9", "10"],
+      "correct": 1
+    },
+    {
+      "question": "A machine produces 120 units in 8 hours. At this rate, how many units are produced in 15 hours?",
+      "options": ["200", "210", "220", "225"],
+      "correct": 3
+    },
+    {
+      "question": "What is the median of the data set: 12, 18, 25, 27, 30, 35, 42?",
+      "options": ["25", "27", "30", "35"],
+      "correct": 1
+    },
+    {
+      "question": "The probability of rain on Monday is 0.3 and on Tuesday is 0.5. What is the probability it will rain on both days?",
+      "options": ["0.15", "0.20", "0.80", "0.50"],
+      "correct": 0
+    },
+    {
+      "question": "The average of 6 numbers is 10. One more number is added, making the new average 11. What is the number added?",
+      "options": ["16", "17", "18", "19"],
+      "correct": 2
+    },
+    {
+      "question": "If the exchange rate is 1 USD = 0.85 Euro, how many Euros is $200?",
+      "options": ["170", "175", "180", "185"],
+      "correct": 0
+    },
+    {
+      "question": "A car’s value depreciates 20% each year. If the car is worth $10,000 now, what is it worth next year?",
+      "options": ["$7,000", "$8,000", "$9,000", "$7,500"],
+      "correct": 1
+    },
+    {
+      "question": "If a cube has a volume of 64 cubic inches, what is the length of one side?",
+      "options": ["2", "4", "6", "8"],
+      "correct": 1
+    },
+    {
+      "question": "A box contains 5 red, 3 green, and 2 yellow balls. What is the probability of picking a green ball?",
+      "options": ["1/5", "3/10", "3/9", "2/5"],
+      "correct": 1
+    },
+    {
+      "question": "If a car goes 240 miles on 8 gallons of fuel, how many gallons will it need for 360 miles?",
+      "options": ["10", "11", "12", "13"],
+      "correct": 2
+    },
+    {
+      "question": "A worker earns $15/hour for the first 40 hours and $22.50/hour for overtime. What is the total pay for 50 hours?",
+      "options": ["$750", "$800", "$825", "$900"],
+      "correct": 2
+    },
+    {
+      "question": "What is the range of the data set: 3, 5, 8, 12, 14, 19?",
+      "options": ["14", "15", "16", "17"],
+      "correct": 0
+    },
+    {
+      "question": "The population of a town increased by 10% annually. If the population is 10,000, what will it be after two years?",
+      "options": ["11,000", "12,000", "12,100", "12,210"],
+      "correct": 3
+    },
+    {
+      "question": "A car depreciates by 15% each year. If it is worth $20,000 now, what will it be worth after one year?",
+      "options": ["$17,000", "$17,500", "$18,000", "$18,500"],
+      "correct": 2
+    },
+    {
+      "question": "If 5 machines can produce 100 units in 4 hours, how many machines are needed to produce 300 units in 4 hours?",
+      "options": ["10", "12", "15", "20"],
+      "correct": 2
+    },
+    {
+      "question": "If the average of four numbers is 15, and three of them are 12, 18, and 16, what is the fourth number?",
+      "options": ["12", "14", "16", "18"],
+      "correct": 1
+    },
+    {
+      "question": "A circle has a circumference of 31.4 cm. What is the radius? (Use π = 3.14)",
+      "options": ["5 cm", "10 cm", "15 cm", "20 cm"],
+      "correct": 0
+    }
+  ]
+}

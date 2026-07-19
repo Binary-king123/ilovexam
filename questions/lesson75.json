@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Which component of blood helps in clotting?",
+      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "correct": 2
+    },
+    {
+      "question": "What is the normal pH of blood?",
+      "options": ["6.8", "7.0", "7.4", "8.0"],
+      "correct": 2
+    },
+    {
+      "question": "The iron-containing protein in RBCs is:",
+      "options": ["Myoglobin", "Chlorocruorin", "Haemoglobin", "Cytochrome"],
+      "correct": 2
+    },
+    {
+      "question": "Which chamber of heart pumps oxygenated blood to body?",
+      "options": ["Right atrium", "Left atrium", "Right ventricle", "Left ventricle"],
+      "correct": 3
+    },
+    {
+      "question": "SA node is located in:",
+      "options": ["Left atrium", "Right atrium", "Right ventricle", "Left ventricle"],
+      "correct": 1
+    },
+    {
+      "question": "Which blood vessel carries oxygenated blood from lungs to heart?",
+      "options": ["Pulmonary vein", "Pulmonary artery", "Aorta", "Vena cava"],
+      "correct": 0
+    },
+    {
+      "question": "Which valve is located between left atrium and left ventricle?",
+      "options": ["Tricuspid", "Bicuspid", "Pulmonary", "Aortic"],
+      "correct": 1
+    },
+    {
+      "question": "What is the normal count of RBCs per mm³ of blood?",
+      "options": ["1 million", "5 million", "10 million", "15 million"],
+      "correct": 1
+    },
+    {
+      "question": "Blood plasma without clotting factors is called:",
+      "options": ["Serum", "Lymph", "Bile", "Interstitial fluid"],
+      "correct": 0
+    },
+    {
+      "question": "The universal donor blood group is:",
+      "options": ["A", "B", "O", "AB"],
+      "correct": 2
+    },
+    {
+      "question": "Which blood component fights infection?",
+      "options": ["RBC", "WBC", "Platelets", "Plasma"],
+      "correct": 1
+    },
+    {
+      "question": "Which ion is essential for blood clotting?",
+      "options": ["Na⁺", "Ca²⁺", "K⁺", "Mg²⁺"],
+      "correct": 1
+    },
+    {
+      "question": "Double circulation means:",
+      "options": ["Heart beats twice", "Blood circulates twice", "Separate pulmonary and systemic circuits", "Blood flows in veins and arteries"],
+      "correct": 2
+    },
+    {
+      "question": "Which protein helps in transport of CO₂?",
+      "options": ["Haemoglobin", "Globulin", "Albumin", "Fibrinogen"],
+      "correct": 0
+    },
+    {
+      "question": "The heart is enclosed in a membrane called:",
+      "options": ["Peritoneum", "Pericardium", "Pleura", "Myocardium"],
+      "correct": 1
+    },
+    {
+      "question": "Which blood group is universal recipient?",
+      "options": ["A", "B", "O", "AB"],
+      "correct": 3
+    },
+    {
+      "question": "Which WBCs produce antibodies?",
+      "options": ["Monocytes", "Basophils", "B lymphocytes", "T lymphocytes"],
+      "correct": 2
+    },
+    {
+      "question": "Rh incompatibility affects:",
+      "options": ["Muscle function", "Kidney", "Liver", "Fetus during pregnancy"],
+      "correct": 3
+    },
+    {
+      "question": "Pulmonary circulation involves:",
+      "options": ["Heart to lungs and back", "Heart to body", "Lungs to body", "Brain only"],
+      "correct": 0
+    },
+    {
+      "question": "Cardiac cycle duration is approximately:",
+      "options": ["0.8 sec", "1.0 sec", "1.2 sec", "1.5 sec"],
+      "correct": 0
+    },
+    {
+      "question": "Which valve prevents backflow into the right atrium?",
+      "options": ["Tricuspid", "Bicuspid", "Aortic", "Mitral"],
+      "correct": 0
+    },
+    {
+      "question": "Lymph differs from blood in lacking:",
+      "options": ["RBCs", "WBCs", "Proteins", "Water"],
+      "correct": 0
+    },
+    {
+      "question": "The pacemaker of the heart is:",
+      "options": ["AV node", "Bundle of His", "Purkinje fibers", "SA node"],
+      "correct": 3
+    },
+    {
+      "question": "Systolic pressure is the pressure during:",
+      "options": ["Relaxation of atria", "Contraction of ventricles", "Contraction of atria", "Relaxation of ventricles"],
+      "correct": 1
+    },
+    {
+      "question": "Normal systolic/diastolic blood pressure is:",
+      "options": ["100/60 mm Hg", "120/80 mm Hg", "140/90 mm Hg", "160/100 mm Hg"],
+      "correct": 1
+    },
+    {
+      "question": "Which artery supplies blood to heart muscle?",
+      "options": ["Pulmonary artery", "Carotid artery", "Coronary artery", "Renal artery"],
+      "correct": 2
+    },
+    {
+      "question": "Bundle of His is part of:",
+      "options": ["AV node", "SA node", "Purkinje system", "Cardiac conduction system"],
+      "correct": 3
+    },
+    {
+      "question": "Lub sound of heart is due to closure of:",
+      "options": ["Semilunar valves", "AV valves", "Pulmonary valves", "Aortic valves"],
+      "correct": 1
+    },
+    {
+      "question": "The QRS complex in ECG indicates:",
+      "options": ["Atrial depolarization", "Ventricular depolarization", "Ventricular repolarization", "Atrial repolarization"],
+      "correct": 1
+    },
+    {
+      "question": "Fibrinogen helps in:",
+      "options": ["Transport", "Immunity", "Clotting", "Buffering"],
+      "correct": 2
+    },
+    {
+      "question": "Which part initiates heartbeat?",
+      "options": ["AV node", "Purkinje fibers", "SA node", "Bundle of His"],
+      "correct": 2
+    },
+    {
+      "question": "The liquid part of blood is called:",
+      "options": ["Serum", "Lymph", "Plasma", "Cytosol"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is not a formed element in blood?",
+      "options": ["RBC", "WBC", "Platelet", "Albumin"],
+      "correct": 3
+    },
+    {
+      "question": "AV node delays the impulse to:",
+      "options": ["Help atria contract first", "Speed up impulse", "Stop the impulse", "Enhance stroke volume"],
+      "correct": 0
+    },
+    {
+      "question": "The human heart is:",
+      "options": ["Two-chambered", "Three-chambered", "Four-chambered", "Single-chambered"],
+      "correct": 2
+    },
+    {
+      "question": "Which vessel carries deoxygenated blood in systemic circulation?",
+      "options": ["Aorta", "Pulmonary artery", "Pulmonary vein", "Vena cava"],
+      "correct": 3
+    },
+    {
+      "question": "Stroke volume is the amount of blood pumped:",
+      "options": ["Per beat", "Per minute", "Per hour", "Per day"],
+      "correct": 0
+    },
+    {
+      "question": "The T wave in ECG represents:",
+      "options": ["Atrial depolarization", "Ventricular depolarization", "Ventricular repolarization", "Atrial repolarization"],
+      "correct": 2
+    },
+    {
+      "question": "Plasma proteins include all except:",
+      "options": ["Albumin", "Globulin", "Fibrinogen", "Haemoglobin"],
+      "correct": 3
+    },
+    {
+      "question": "Bradycardia is:",
+      "options": ["Fast heartbeat", "Slow heartbeat", "Irregular heartbeat", "No heartbeat"],
+      "correct": 1
+    },
+    {
+      "question": "Which blood vessel has valves?",
+      "options": ["Arteries", "Veins", "Capillaries", "Arterioles"],
+      "correct": 1
+    },
+    {
+      "question": "Which WBC is largest in size?",
+      "options": ["Neutrophil", "Basophil", "Monocyte", "Lymphocyte"],
+      "correct": 2
+    },
+    {
+      "question": "Which component gives red color to blood?",
+      "options": ["Myoglobin", "Iron", "Haemoglobin", "Melanin"],
+      "correct": 2
+    },
+    {
+      "question": "The duration of ventricular systole is:",
+      "options": ["0.1 sec", "0.3 sec", "0.5 sec", "0.8 sec"],
+      "correct": 1
+    },
+    {
+      "question": "Pulmonary vein carries:",
+      "options": ["Oxygenated blood", "Deoxygenated blood", "Mixed blood", "No blood"],
+      "correct": 0
+    },
+    {
+      "question": "Number of heartbeats per minute in adult is:",
+      "options": ["50", "60", "72", "90"],
+      "correct": 2
+    },
+    {
+      "question": "Capillaries connect:",
+      "options": ["Arteries to arteries", "Veins to veins", "Arteries to veins", "Arteries to heart"],
+      "correct": 2
+    },
+    {
+      "question": "Erythropoiesis is stimulated by:",
+      "options": ["Kidney", "Liver", "Pancreas", "Thymus"],
+      "correct": 0
+    }
+  ]
+}

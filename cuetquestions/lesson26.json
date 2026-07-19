@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "In hydrogen atom, the electron revolves around the nucleus in a:",
+      "options": ["Circular orbit", "Elliptical orbit", "Parabolic path", "Linear path"],
+      "correct": 0
+    },
+    {
+      "question": "The energy of the nth orbit in hydrogen atom is:",
+      "options": ["-13.6/n² eV", "-13.6n² eV", "13.6n eV", "13.6/n eV"],
+      "correct": 0
+    },
+    {
+      "question": "The radius of the first Bohr orbit is approximately:",
+      "options": ["0.529 Å", "1.06 Å", "0.132 Å", "2.18 Å"],
+      "correct": 0
+    },
+    {
+      "question": "The angular momentum of electron in nth orbit is:",
+      "options": ["nh/2π", "nh", "h/2πn", "n²h/2π"],
+      "correct": 0
+    },
+    {
+      "question": "The velocity of electron in nth orbit varies as:",
+      "options": ["1/n", "n", "1/n²", "n²"],
+      "correct": 0
+    },
+    {
+      "question": "The energy required to remove the electron from ground state of hydrogen atom is:",
+      "options": ["0 eV", "13.6 eV", "27.2 eV", "1.51 eV"],
+      "correct": 1
+    },
+    {
+      "question": "Which series lies in the visible region of hydrogen spectrum?",
+      "options": ["Lyman", "Balmer", "Paschen", "Brackett"],
+      "correct": 1
+    },
+    {
+      "question": "The wavelength of H-alpha line in hydrogen spectrum is approximately:",
+      "options": ["6563 Å", "1215 Å", "4861 Å", "4340 Å"],
+      "correct": 0
+    },
+    {
+      "question": "Bohr’s model is valid only for:",
+      "options": ["One-electron atoms", "All atoms", "Molecules", "Ions with multiple electrons"],
+      "correct": 0
+    },
+    {
+      "question": "Which quantum number decides the size of the orbital?",
+      "options": ["Principal", "Azimuthal", "Magnetic", "Spin"],
+      "correct": 0
+    },
+    {
+      "question": "In hydrogen atom, spectral lines are obtained due to:",
+      "options": ["Jumping of electron between energy levels", "Ionization", "Collision", "Magnetism"],
+      "correct": 0
+    },
+    {
+      "question": "The ionization energy of hydrogen atom is:",
+      "options": ["13.6 eV", "10.2 eV", "3.4 eV", "1.51 eV"],
+      "correct": 0
+    },
+    {
+      "question": "The transition from n=3 to n=2 in hydrogen atom gives:",
+      "options": ["Lyman series", "Balmer series", "Paschen series", "Brackett series"],
+      "correct": 1
+    },
+    {
+      "question": "The number of spectral lines produced when electron jumps from 4th to 1st level:",
+      "options": ["3", "6", "4", "2"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not quantized in Bohr’s model?",
+      "options": ["Energy", "Radius", "Velocity", "Momentum"],
+      "correct": 3
+    },
+    {
+      "question": "The shortest wavelength in hydrogen spectrum corresponds to transition from:",
+      "options": ["∞ to 1", "3 to 2", "2 to 1", "5 to 2"],
+      "correct": 0
+    },
+    {
+      "question": "According to Bohr, angular momentum is quantized in units of:",
+      "options": ["h", "h/2", "h/2π", "hπ"],
+      "correct": 2
+    },
+    {
+      "question": "Which line in the Balmer series has the shortest wavelength?",
+      "options": ["H-alpha", "H-beta", "H-gamma", "H-delta"],
+      "correct": 3
+    },
+    {
+      "question": "Rydberg constant has the dimensions of:",
+      "options": ["Length", "Energy", "Frequency", "1/Length"],
+      "correct": 3
+    },
+    {
+      "question": "In the Bohr model of the atom, centripetal force is provided by:",
+      "options": ["Gravitational force", "Electrostatic force", "Nuclear force", "None"],
+      "correct": 1
+    },
+    {
+      "question": "What is the ratio of radii of 1st and 2nd orbit in hydrogen atom?",
+      "options": ["1:2", "1:4", "1:8", "1:1"],
+      "correct": 1
+    },
+    {
+      "question": "In hydrogen atom, the potential energy of electron in nth orbit is:",
+      "options": ["-13.6/n²", "13.6n²", "-27.2/n²", "27.2n²"],
+      "correct": 2
+    },
+    {
+      "question": "According to Bohr, the speed of electron in 1st orbit is:",
+      "options": ["2.18 × 10⁶ m/s", "3 × 10⁸ m/s", "1 × 10⁵ m/s", "0"],
+      "correct": 0
+    },
+    {
+      "question": "The energy difference between any two successive orbits:",
+      "options": ["Increases with n", "Decreases with n", "Remains constant", "Is zero"],
+      "correct": 1
+    },
+    {
+      "question": "Which is the correct energy level order in hydrogen atom?",
+      "options": ["E1 > E2 > E3", "E3 > E2 > E1", "E1 < E2 < E3", "E1 = E2 = E3"],
+      "correct": 0
+    },
+    {
+      "question": "The frequency of radiation emitted in a transition depends on:",
+      "options": ["Change in energy levels", "Atomic number", "Wavelength only", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Bohr’s quantization condition applies to:",
+      "options": ["Linear momentum", "Angular momentum", "Energy", "Velocity"],
+      "correct": 1
+    },
+    {
+      "question": "The spectral lines of hydrogen atom can be explained using:",
+      "options": ["Classical mechanics", "Bohr’s theory", "Quantum chromodynamics", "Relativity"],
+      "correct": 1
+    },
+    {
+      "question": "The transition responsible for Lyman-alpha line is:",
+      "options": ["2→1", "3→1", "3→2", "4→2"],
+      "correct": 0
+    },
+    {
+      "question": "The negative sign in energy levels of hydrogen atom indicates:",
+      "options": ["Energy gain", "Energy loss", "Bound state", "Unstable atom"],
+      "correct": 2
+    },
+    {
+      "question": "The radius of nth orbit in hydrogen atom is proportional to:",
+      "options": ["n", "n²", "1/n", "1/n²"],
+      "correct": 1
+    },
+    {
+      "question": "The speed of electron in nth orbit of hydrogen atom is:",
+      "options": ["Constant", "Increases with n", "Decreases with n", "Proportional to n²"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following postulates was introduced by Bohr?",
+      "options": ["Electron behaves as wave", "Quantization of angular momentum", "Dual nature of electron", "Nucleus is positively charged"],
+      "correct": 1
+    },
+    {
+      "question": "Which quantum number describes the orientation of orbital?",
+      "options": ["Principal", "Azimuthal", "Magnetic", "Spin"],
+      "correct": 2
+    },
+    {
+      "question": "Spectral lines are due to:",
+      "options": ["Emission or absorption of light", "Reflection", "Refraction", "Diffraction"],
+      "correct": 0
+    },
+    {
+      "question": "The Balmer series appears in which region of spectrum?",
+      "options": ["Ultraviolet", "Infrared", "Visible", "X-ray"],
+      "correct": 2
+    },
+    {
+      "question": "Which quantum number determines the shape of orbital?",
+      "options": ["n", "l", "m", "s"],
+      "correct": 1
+    },
+    {
+      "question": "In Bohr’s model, which of the following remains quantized?",
+      "options": ["Angular momentum", "Energy", "Radius", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "Bohr’s model could not explain:",
+      "options": ["Hydrogen spectrum", "Zeeman effect", "Radii of orbit", "Electron charge"],
+      "correct": 1
+    },
+    {
+      "question": "The energy of electron in n=3 level of hydrogen is:",
+      "options": ["-1.51 eV", "-3.4 eV", "-13.6 eV", "-0.85 eV"],
+      "correct": 3
+    },
+    {
+      "question": "If Z is atomic number, radius of nth orbit in hydrogen-like atom is proportional to:",
+      "options": ["n²/Z", "n/Z²", "Z/n²", "n²Z"],
+      "correct": 0
+    },
+    {
+      "question": "Who discovered the atomic nucleus?",
+      "options": ["Bohr", "Rutherford", "Thomson", "Einstein"],
+      "correct": 1
+    },
+    {
+      "question": "Which series lies in the ultraviolet region?",
+      "options": ["Lyman", "Balmer", "Paschen", "Brackett"],
+      "correct": 0
+    },
+    {
+      "question": "Hydrogen atom has only:",
+      "options": ["One proton and one neutron", "One proton and one electron", "One electron and one neutron", "Two protons"],
+      "correct": 1
+    },
+    {
+      "question": "The energy difference between n = 2 and n = 1 is:",
+      "options": ["10.2 eV", "13.6 eV", "1.89 eV", "3.4 eV"],
+      "correct": 0
+    },
+    {
+      "question": "The concept of stationary orbits was introduced by:",
+      "options": ["Rutherford", "Bohr", "de Broglie", "Einstein"],
+      "correct": 1
+    },
+    {
+      "question": "The wave number of a spectral line is proportional to:",
+      "options": ["Energy difference", "Photon frequency", "Photon velocity", "Electron mass"],
+      "correct": 0
+    },
+    {
+      "question": "What is the maximum number of electrons in an orbit?",
+      "options": ["2n", "2n²", "n²", "n"],
+      "correct": 1
+    }
+  ]
+}

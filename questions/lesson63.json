@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which tissue is responsible for the transport of water in plants?",
+      "options": ["Phloem", "Parenchyma", "Xylem", "Collenchyma"],
+      "correct": 2
+    },
+    {
+      "question": "Which one of the following is a simple permanent tissue?",
+      "options": ["Xylem", "Phloem", "Parenchyma", "Cambium"],
+      "correct": 2
+    },
+    {
+      "question": "Which plant tissue provides mechanical support and flexibility?",
+      "options": ["Parenchyma", "Collenchyma", "Sclerenchyma", "Xylem"],
+      "correct": 1
+    },
+    {
+      "question": "Guard cells are modified:",
+      "options": ["Parenchyma cells", "Collenchyma cells", "Sclerenchyma cells", "Tracheids"],
+      "correct": 0
+    },
+    {
+      "question": "Which meristem is responsible for increase in girth?",
+      "options": ["Apical meristem", "Intercalary meristem", "Lateral meristem", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Xylem vessels are absent in:",
+      "options": ["Gymnosperms", "Angiosperms", "Ferns", "Bryophytes"],
+      "correct": 0
+    },
+    {
+      "question": "Companion cells are found associated with:",
+      "options": ["Xylem vessels", "Sieve tubes", "Tracheids", "Phloem fibers"],
+      "correct": 1
+    },
+    {
+      "question": "Casparian strips are found in:",
+      "options": ["Cortex", "Epidermis", "Endodermis", "Pericycle"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of the root is involved in absorption?",
+      "options": ["Root cap", "Zone of maturation", "Zone of elongation", "Zone of meristematic activity"],
+      "correct": 1
+    },
+    {
+      "question": "Which tissue lacks protoplasm at maturity?",
+      "options": ["Parenchyma", "Sclerenchyma", "Collenchyma", "Phloem parenchyma"],
+      "correct": 1
+    },
+    {
+      "question": "The vascular bundles in monocot stems are:",
+      "options": ["Open and arranged in a ring", "Closed and scattered", "Closed and arranged in a ring", "Open and scattered"],
+      "correct": 1
+    },
+    {
+      "question": "Phloem translocates:",
+      "options": ["Water", "Minerals", "Hormones", "Organic food"],
+      "correct": 3
+    },
+    {
+      "question": "Pericycle in roots gives rise to:",
+      "options": ["Cortex", "Root hairs", "Lateral roots", "Endodermis"],
+      "correct": 2
+    },
+    {
+      "question": "Which component of xylem is living?",
+      "options": ["Vessels", "Tracheids", "Xylem parenchyma", "Xylem fibers"],
+      "correct": 2
+    },
+    {
+      "question": "Annual rings are found in:",
+      "options": ["Monocots", "Dicots", "Pteridophytes", "Bryophytes"],
+      "correct": 1
+    },
+    {
+      "question": "Interfascicular cambium develops from:",
+      "options": ["Xylem", "Phloem", "Medullary rays", "Pith"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following shows anomalous secondary growth?",
+      "options": ["Pea", "Sunflower", "Boerhaavia", "Castor"],
+      "correct": 2
+    },
+    {
+      "question": "Collenchyma is characterized by:",
+      "options": ["Lignified walls", "Evenly thick walls", "Irregularly thickened walls", "Dead cells"],
+      "correct": 2
+    },
+    {
+      "question": "Which meristem helps in the healing of wounds?",
+      "options": ["Apical", "Lateral", "Intercalary", "Secondary"],
+      "correct": 3
+    },
+    {
+      "question": "Which tissue is responsible for conduction in non-vascular plants?",
+      "options": ["Xylem", "Parenchyma", "None", "Collenchyma"],
+      "correct": 2
+    },
+    {
+      "question": "Heartwood is also called:",
+      "options": ["Sapwood", "Duramen", "Pith", "Cambium"],
+      "correct": 1
+    },
+    {
+      "question": "In dicot root, xylem and phloem are arranged in:",
+      "options": ["Alternate radial manner", "Conjoint manner", "Same radius", "Randomly"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following lacks sieve plates?",
+      "options": ["Sieve cells", "Sieve tubes", "Companion cells", "Xylem vessels"],
+      "correct": 0
+    },
+    {
+      "question": "Cork cells are rich in:",
+      "options": ["Lignin", "Cellulose", "Suberin", "Pectin"],
+      "correct": 2
+    },
+    {
+      "question": "Secondary growth in dicot stems is due to activity of:",
+      "options": ["Intercalary meristem", "Apical meristem", "Cork cambium", "Vascular cambium"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following cells control the functioning of sieve tubes?",
+      "options": ["Phloem parenchyma", "Xylem parenchyma", "Companion cells", "Tracheids"],
+      "correct": 2
+    },
+    {
+      "question": "In monocot roots, the pith is:",
+      "options": ["Small", "Absent", "Reduced", "Large and well-developed"],
+      "correct": 3
+    },
+    {
+      "question": "Tyloses are found in:",
+      "options": ["Sieve tubes", "Tracheids", "Xylem vessels", "Parenchyma"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not part of secondary xylem?",
+      "options": ["Tracheids", "Vessels", "Xylem parenchyma", "Phloem fibers"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following differentiates into cork cells?",
+      "options": ["Cambium", "Phellogen", "Pericycle", "Cortex"],
+      "correct": 1
+    },
+    {
+      "question": "Bicollateral vascular bundles are found in:",
+      "options": ["Cucumber", "Maize", "Wheat", "Sunflower"],
+      "correct": 0
+    },
+    {
+      "question": "Vascular bundles in dicot stems are:",
+      "options": ["Closed and scattered", "Open and arranged in ring", "Closed and in ring", "Open and scattered"],
+      "correct": 1
+    },
+    {
+      "question": "Function of medullary rays is:",
+      "options": ["Transport water radially", "Transport food vertically", "Protection", "Photosynthesis"],
+      "correct": 0
+    },
+    {
+      "question": "Which tissue provides tensile strength to the plant?",
+      "options": ["Parenchyma", "Collenchyma", "Sclerenchyma", "Xylem"],
+      "correct": 2
+    },
+    {
+      "question": "Which is living but lacks nucleus at maturity?",
+      "options": ["Sieve tube", "Companion cell", "Xylem vessel", "Phloem fiber"],
+      "correct": 0
+    },
+    {
+      "question": "A characteristic of monocot stem is:",
+      "options": ["Open vascular bundles", "Secondary growth", "Scattered bundles", "Medullary rays present"],
+      "correct": 2
+    },
+    {
+      "question": "The region of elongation in a root lies:",
+      "options": ["Above root cap", "Just above elongation zone", "Between cap and maturation", "Above maturation zone"],
+      "correct": 2
+    },
+    {
+      "question": "Periderm includes:",
+      "options": ["Phellogen, phellem, phelloderm", "Phellogen, cortex, xylem", "Phellem only", "Phellem and epidermis"],
+      "correct": 0
+    },
+    {
+      "question": "Which cell helps in lateral conduction of food?",
+      "options": ["Phloem parenchyma", "Companion cell", "Sieve tube", "Medullary ray cell"],
+      "correct": 3
+    },
+    {
+      "question": "In which plant does intrafascicular cambium become active?",
+      "options": ["Dicot stem", "Monocot stem", "Dicot root", "Monocot root"],
+      "correct": 0
+    },
+    {
+      "question": "Xylem fibers are:",
+      "options": ["Living", "Dead", "Partially dead", "Sieve elements"],
+      "correct": 1
+    },
+    {
+      "question": "Formation of cork cambium is:",
+      "options": ["Primary growth", "Secondary growth", "Tertiary growth", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these tissues is thickened at corners?",
+      "options": ["Collenchyma", "Parenchyma", "Sclerenchyma", "Xylem"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a water-conducting tissue in gymnosperms?",
+      "options": ["Vessels", "Tracheids", "Sieve tubes", "Companion cells"],
+      "correct": 1
+    },
+    {
+      "question": "Lenticels are found in:",
+      "options": ["Roots", "Stem bark", "Leaves", "Seeds"],
+      "correct": 1
+    },
+    {
+      "question": "Cambium is absent in:",
+      "options": ["Dicot stem", "Monocot stem", "Dicot root", "Boerhaavia"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following forms wood in trees?",
+      "options": ["Secondary phloem", "Primary xylem", "Secondary xylem", "Pith"],
+      "correct": 2
+    },
+    {
+      "question": "Which tissue provides elasticity to plant organs?",
+      "options": ["Sclerenchyma", "Parenchyma", "Collenchyma", "Phloem"],
+      "correct": 2
+    },
+    {
+      "question": "Which component helps resist pathogen entry in woody stems?",
+      "options": ["Tracheids", "Medullary rays", "Cork", "Cambium"],
+      "correct": 2
+    },
+    {
+      "question": "Which one does not belong to vascular tissue system?",
+      "options": ["Xylem", "Phloem", "Cambium", "Parenchyma"],
+      "correct": 3
+    }
+  ]
+}

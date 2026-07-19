@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "The speed of light is maximum in:",
+      "options": ["Glass", "Water", "Air", "Diamond"],
+      "correct": 2
+    },
+    {
+      "question": "The unit of power of a lens is:",
+      "options": ["Meter", "Diopter", "Candela", "Lux"],
+      "correct": 1
+    },
+    {
+      "question": "Which mirror always forms a virtual, erect, and diminished image?",
+      "options": ["Convex mirror", "Concave mirror", "Plane mirror", "Parabolic mirror"],
+      "correct": 0
+    },
+    {
+      "question": "The focal length of a plane mirror is:",
+      "options": ["Infinity", "Zero", "One", "Equal to its radius"],
+      "correct": 0
+    },
+    {
+      "question": "In concave mirror, image formed is real and inverted when object is placed:",
+      "options": ["At F", "Between F and C", "At C", "Beyond C"],
+      "correct": 3
+    },
+    {
+      "question": "Lens formula is:",
+      "options": ["1/f = 1/v + 1/u", "f = v + u", "1/f = v - u", "v = fu/(f + u)"],
+      "correct": 0
+    },
+    {
+      "question": "The focal length of a convex lens is:",
+      "options": ["Positive", "Negative", "Zero", "Depends on object distance"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following has the highest refractive index?",
+      "options": ["Water", "Glass", "Diamond", "Air"],
+      "correct": 2
+    },
+    {
+      "question": "Mirror formula is:",
+      "options": ["1/f = 1/v + 1/u", "1/f = 1/u - 1/v", "1/f = 1/v - 1/u", "1/f = v + u"],
+      "correct": 2
+    },
+    {
+      "question": "Power of a lens is +4D. Its focal length is:",
+      "options": ["25 cm", "40 cm", "100 cm", "4 m"],
+      "correct": 0
+    },
+    {
+      "question": "Critical angle is defined when light passes from:",
+      "options": ["Denser to rarer", "Rarer to denser", "Air to vacuum", "Water to glass"],
+      "correct": 0
+    },
+    {
+      "question": "Total internal reflection occurs when angle of incidence is:",
+      "options": ["Less than critical angle", "Equal to critical angle", "Greater than critical angle", "Any angle"],
+      "correct": 2
+    },
+    {
+      "question": "Apparent depth is less than real depth due to:",
+      "options": ["Reflection", "Refraction", "Diffraction", "Interference"],
+      "correct": 1
+    },
+    {
+      "question": "Which instrument uses total internal reflection?",
+      "options": ["Periscope", "Telescope", "Prism", "Microscope"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these lenses can converge parallel rays?",
+      "options": ["Concave lens", "Convex lens", "Cylindrical lens", "Plano-concave lens"],
+      "correct": 1
+    },
+    {
+      "question": "Magnifying power of simple microscope is:",
+      "options": ["1 + D/f", "D/f", "1 - f/D", "D + f"],
+      "correct": 0
+    },
+    {
+      "question": "In compound microscope, final image is:",
+      "options": ["Real and inverted", "Virtual and inverted", "Real and erect", "Virtual and erect"],
+      "correct": 3
+    },
+    {
+      "question": "The objective of a telescope has:",
+      "options": ["Small focal length", "Large focal length", "Convex mirror", "Concave lens"],
+      "correct": 1
+    },
+    {
+      "question": "Which combination gives maximum magnifying power in compound microscope?",
+      "options": ["Short f₀, long fe", "Short f₀, short fe", "Long f₀, long fe", "Long f₀, short fe"],
+      "correct": 1
+    },
+    {
+      "question": "For angular magnification to be more than one, focal length of lens must be:",
+      "options": ["More than D", "Equal to D", "Less than D", "Infinite"],
+      "correct": 2
+    },
+    {
+      "question": "The eye-piece of an astronomical telescope is a:",
+      "options": ["Concave lens", "Convex lens", "Plane mirror", "Plano-concave lens"],
+      "correct": 1
+    },
+    {
+      "question": "Resolving power of microscope increases with:",
+      "options": ["Increase in wavelength", "Decrease in aperture", "Increase in aperture", "Decrease in frequency"],
+      "correct": 2
+    },
+    {
+      "question": "The formula for total magnification in compound microscope is:",
+      "options": ["m = m₀ + me", "m = m₀ × me", "m = m₀ - me", "m = m₀ / me"],
+      "correct": 1
+    },
+    {
+      "question": "Which lens is used to correct myopia?",
+      "options": ["Convex", "Concave", "Cylindrical", "Plano-convex"],
+      "correct": 1
+    },
+    {
+      "question": "Image formed by a convex mirror is always:",
+      "options": ["Real and erect", "Virtual and erect", "Real and inverted", "Virtual and inverted"],
+      "correct": 1
+    },
+    {
+      "question": "Spherical aberration is minimized using:",
+      "options": ["Concave lens", "Plano-convex lens", "Combination of lenses", "Mirror only"],
+      "correct": 2
+    },
+    {
+      "question": "Which mirror is used in headlights of vehicles?",
+      "options": ["Plane", "Concave", "Convex", "Spherical"],
+      "correct": 1
+    },
+    {
+      "question": "Which lens is used in simple microscope?",
+      "options": ["Concave", "Convex", "Plane", "Cylindrical"],
+      "correct": 1
+    },
+    {
+      "question": "When light travels from air to glass, its:",
+      "options": ["Speed increases", "Wavelength increases", "Frequency decreases", "Wavelength decreases"],
+      "correct": 3
+    },
+    {
+      "question": "A virtual image cannot be obtained on a screen because:",
+      "options": ["It doesn’t exist", "It can’t be seen", "Light doesn’t actually meet", "It is inverted"],
+      "correct": 2
+    },
+    {
+      "question": "Refraction occurs due to:",
+      "options": ["Change in speed of light", "Scattering", "Reflection", "Absorption"],
+      "correct": 0
+    },
+    {
+      "question": "The radius of curvature of a plane mirror is:",
+      "options": ["Infinity", "Zero", "One", "Negative"],
+      "correct": 0
+    },
+    {
+      "question": "Snell's law is based on:",
+      "options": ["Reflection", "Refraction", "Interference", "Diffraction"],
+      "correct": 1
+    },
+    {
+      "question": "The focal length of a mirror is:",
+      "options": ["Half the radius of curvature", "Double the radius", "Equal to radius", "One-fourth of radius"],
+      "correct": 0
+    },
+    {
+      "question": "A real image formed by convex lens is:",
+      "options": ["Erect", "Virtual", "Inverted", "Enlarged"],
+      "correct": 2
+    },
+    {
+      "question": "A convex lens forms virtual, erect image when object is placed:",
+      "options": ["At F", "Between F and lens", "At 2F", "Beyond 2F"],
+      "correct": 1
+    },
+    {
+      "question": "Which mirror gives a wider field of view?",
+      "options": ["Plane", "Convex", "Concave", "None"],
+      "correct": 1
+    },
+    {
+      "question": "A plano-convex lens behaves like convex lens when:",
+      "options": ["Convex side towards object", "Plane side towards object", "Either side", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Angle of deviation in prism is least when angle of incidence is:",
+      "options": ["High", "Critical", "Zero", "Minimum deviation condition"],
+      "correct": 3
+    },
+    {
+      "question": "Magnifying power of telescope is:",
+      "options": ["f₀/fe", "fe/f₀", "f₀ × fe", "f₀ + fe"],
+      "correct": 0
+    },
+    {
+      "question": "Which phenomenon makes diamond sparkle?",
+      "options": ["Reflection", "Dispersion", "Refraction", "Total internal reflection"],
+      "correct": 3
+    },
+    {
+      "question": "Chromatic aberration occurs due to:",
+      "options": ["Reflection", "Dispersion", "Diffraction", "Absorption"],
+      "correct": 1
+    },
+    {
+      "question": "Blue color of sky is due to:",
+      "options": ["Refraction", "Scattering", "Interference", "Dispersion"],
+      "correct": 1
+    },
+    {
+      "question": "A ray incident normally on a surface will be:",
+      "options": ["Reflected", "Refracted", "Transmitted without deviation", "Totally internally reflected"],
+      "correct": 2
+    },
+    {
+      "question": "Which part of human eye acts like a lens?",
+      "options": ["Cornea", "Retina", "Iris", "Pupil"],
+      "correct": 0
+    },
+    {
+      "question": "Retina in human eye acts like:",
+      "options": ["Lens", "Aperture", "Screen", "Filter"],
+      "correct": 2
+    },
+    {
+      "question": "Which lens is used in magnifying glass?",
+      "options": ["Concave", "Convex", "Plane", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Angular magnification is defined as:",
+      "options": ["Angle subtended by image at eye / object", "Image height / object height", "v/u", "u/v"],
+      "correct": 0
+    },
+    {
+      "question": "Image formed by plane mirror is:",
+      "options": ["Real and erect", "Virtual and erect", "Real and inverted", "Virtual and inverted"],
+      "correct": 1
+    }
+  ]
+}

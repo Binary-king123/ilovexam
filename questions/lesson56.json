@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Polymers are formed by the process of:",
+      "options": ["Hydrolysis", "Polymerization", "Neutralization", "Fermentation"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a natural polymer?",
+      "options": ["Polyethylene", "Bakelite", "Proteins", "Teflon"],
+      "correct": 2
+    },
+    {
+      "question": "The monomer of natural rubber is:",
+      "options": ["Isoprene", "Ethylene", "Styrene", "Butadiene"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a thermoplastic polymer?",
+      "options": ["Bakelite", "Melamine", "Polyethylene", "Urea-formaldehyde"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a condensation polymer?",
+      "options": ["Polyethylene", "Teflon", "Nylon-6,6", "Polystyrene"],
+      "correct": 2
+    },
+    {
+      "question": "Which polymer is used in making bulletproof glass?",
+      "options": ["PVC", "Lexan", "Polystyrene", "Polyester"],
+      "correct": 1
+    },
+    {
+      "question": "Terylene is also known as:",
+      "options": ["PET", "PVC", "PAN", "PTFE"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is an addition polymer?",
+      "options": ["Nylon-6", "Bakelite", "Polythene", "Terylene"],
+      "correct": 2
+    },
+    {
+      "question": "Monomer of Nylon-6 is:",
+      "options": ["Adipic acid", "Caprolactam", "Ethylene glycol", "Hexamethylenediamine"],
+      "correct": 1
+    },
+    {
+      "question": "Buna-S is a copolymer of:",
+      "options": ["Butadiene and Styrene", "Butadiene and Acrylonitrile", "Ethylene and Propylene", "Urea and Formaldehyde"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is used for non-stick cookware coating?",
+      "options": ["PVC", "Teflon", "Polystyrene", "Polyacrylonitrile"],
+      "correct": 1
+    },
+    {
+      "question": "Vulcanization of rubber is done using:",
+      "options": ["Carbon", "Sulphur", "Phosphorus", "Chlorine"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a biodegradable polymer?",
+      "options": ["Teflon", "Nylon-6", "PHBV", "PVC"],
+      "correct": 2
+    },
+    {
+      "question": "Polymers formed by only one type of monomer are called:",
+      "options": ["Copolymer", "Homopolymer", "Natural polymer", "Synthetic polymer"],
+      "correct": 1
+    },
+    {
+      "question": "Which synthetic fiber is known as artificial silk?",
+      "options": ["Nylon", "Rayon", "Polyester", "Acrylic"],
+      "correct": 1
+    },
+    {
+      "question": "Monomer of Teflon is:",
+      "options": ["Chloroethene", "Tetrafluoroethene", "Styrene", "Vinyl cyanide"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an example of step-growth polymerization?",
+      "options": ["Polyethylene", "Polystyrene", "Nylon-6,6", "Polypropylene"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a synthetic polymer?",
+      "options": ["PVC", "Teflon", "Cellulose", "Bakelite"],
+      "correct": 2
+    },
+    {
+      "question": "Polystyrene is made from:",
+      "options": ["Styrene", "Isoprene", "Vinyl chloride", "Acrylonitrile"],
+      "correct": 0
+    },
+    {
+      "question": "Which is an elastomer?",
+      "options": ["Bakelite", "Polyurethane", "Rubber", "Polyester"],
+      "correct": 2
+    },
+    {
+      "question": "Melamine-formaldehyde is used in:",
+      "options": ["Plastic bottles", "Electrical switches", "Non-stick cookware", "Textiles"],
+      "correct": 1
+    },
+    {
+      "question": "The polymer used in manufacture of pipes is:",
+      "options": ["Polyester", "PVC", "Nylon", "Terylene"],
+      "correct": 1
+    },
+    {
+      "question": "Which one is an example of a natural polyamide?",
+      "options": ["Nylon", "Proteins", "Terylene", "Polystyrene"],
+      "correct": 1
+    },
+    {
+      "question": "In condensation polymerization:",
+      "options": ["No by-product is formed", "Water or HCl is formed", "Only one monomer is used", "Free radicals are needed"],
+      "correct": 1
+    },
+    {
+      "question": "The polymer of methyl methacrylate is known as:",
+      "options": ["Lucite", "Teflon", "Bakelite", "Neoprene"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a copolymer?",
+      "options": ["Polyethylene", "Polystyrene", "Nylon-6", "Buna-N"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a thermosetting polymer?",
+      "options": ["PVC", "Polythene", "Bakelite", "Teflon"],
+      "correct": 2
+    },
+    {
+      "question": "Natural rubber is a polymer of:",
+      "options": ["Butadiene", "Isoprene", "Chloroprene", "Styrene"],
+      "correct": 1
+    },
+    {
+      "question": "Orlon is a polymer of:",
+      "options": ["Acrylonitrile", "Styrene", "Vinyl chloride", "Tetrafluoroethene"],
+      "correct": 0
+    },
+    {
+      "question": "The polymer used in textile industry is:",
+      "options": ["Nylon", "Polystyrene", "Teflon", "PVC"],
+      "correct": 0
+    },
+    {
+      "question": "Polyacrylonitrile is used to make:",
+      "options": ["Non-stick pans", "Synthetic wool", "Paints", "Toys"],
+      "correct": 1
+    },
+    {
+      "question": "Monomers of Nylon-6,6 are:",
+      "options": ["Caprolactam", "Adipic acid and hexamethylenediamine", "Acrylonitrile", "Ethylene and glycol"],
+      "correct": 1
+    },
+    {
+      "question": "The polymer used in waterproof fabrics is:",
+      "options": ["Polyester", "Polyamide", "Teflon", "Bakelite"],
+      "correct": 2
+    },
+    {
+      "question": "Which polymer is used in making ropes and fishing nets?",
+      "options": ["Teflon", "Polyester", "Nylon", "PVC"],
+      "correct": 2
+    },
+    {
+      "question": "Terylene is a polymer of:",
+      "options": ["Adipic acid and glycol", "Ethylene glycol and terephthalic acid", "Caprolactam", "Formaldehyde"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a synthetic rubber?",
+      "options": ["Nylon", "Buna-S", "Terylene", "Orlon"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is biodegradable?",
+      "options": ["Polypropylene", "PHBV", "PVC", "Teflon"],
+      "correct": 1
+    },
+    {
+      "question": "The polymer used for making labware and containers is:",
+      "options": ["Bakelite", "Polystyrene", "Polyethylene", "PVC"],
+      "correct": 2
+    },
+    {
+      "question": "The structure of polymers is primarily determined by:",
+      "options": ["Heat", "Monomers", "Solvents", "Temperature"],
+      "correct": 1
+    },
+    {
+      "question": "Polyurethanes are formed by reaction of:",
+      "options": ["Alcohol and acid", "Amine and acid", "Diisocyanate and diol", "Phenol and formaldehyde"],
+      "correct": 2
+    },
+    {
+      "question": "Polymerization involving free radicals is called:",
+      "options": ["Addition", "Condensation", "Step-growth", "Chain-growth"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is used in food packaging?",
+      "options": ["Teflon", "Polyethylene", "Polystyrene", "Nylon"],
+      "correct": 1
+    },
+    {
+      "question": "Polymer used in paints and varnishes:",
+      "options": ["Polyurethane", "Terylene", "Polystyrene", "Nylon"],
+      "correct": 0
+    },
+    {
+      "question": "The polymer used for insulation of wires is:",
+      "options": ["Teflon", "Polypropylene", "PVC", "Nylon"],
+      "correct": 2
+    },
+    {
+      "question": "Resin used in electrical goods is:",
+      "options": ["PVC", "Bakelite", "Nylon", "Teflon"],
+      "correct": 1
+    },
+    {
+      "question": "The term 'plastic' is derived from:",
+      "options": ["Greek", "Latin", "French", "German"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is used to manufacture plastic pipes and toys?",
+      "options": ["Nylon", "PVC", "Polyester", "Teflon"],
+      "correct": 1
+    },
+    {
+      "question": "Which polymer is obtained from tetrafluoroethylene?",
+      "options": ["Teflon", "PVC", "Nylon", "Bakelite"],
+      "correct": 0
+    }
+  ]
+}

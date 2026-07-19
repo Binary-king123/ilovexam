@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "The coordination number of Fe in [Fe(CN)6]³⁻ is:",
+      "options": ["3", "4", "5", "6"],
+      "correct": 3
+    },
+    {
+      "question": "In the complex [Cu(NH3)4]²⁺, the oxidation state of Cu is:",
+      "options": ["+1", "+2", "0", "+4"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following ligands is bidentate?",
+      "options": ["NH3", "H2O", "C2O4²⁻", "Cl⁻"],
+      "correct": 2
+    },
+    {
+      "question": "The geometry of [Ni(CO)4] is:",
+      "options": ["Square planar", "Tetrahedral", "Octahedral", "Trigonal bipyramidal"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a chelating ligand?",
+      "options": ["H2O", "NH3", "EDTA", "Cl⁻"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a neutral ligand?",
+      "options": ["CN⁻", "NH3", "Cl⁻", "NO2⁻"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following complexes shows optical isomerism?",
+      "options": ["[Co(NH3)6]³⁺", "[Co(en)3]³⁺", "[NiCl4]²⁻", "[Fe(CN)6]³⁻"],
+      "correct": 1
+    },
+    {
+      "question": "The oxidation number of Co in [Co(CN)6]³⁻ is:",
+      "options": ["+2", "+3", "+1","+4"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following can act as a polydentate ligand?",
+      "options": ["Cl⁻", "NH3", "H2O", "EDTA"],
+      "correct": 3
+    },
+    {
+      "question": "Which hybridization is shown by the complex [Ni(CN)4]²⁻?",
+      "options": ["sp³", "dsp²", "sp²", "sp³d"],
+      "correct": 1
+    },
+    {
+      "question": "The IUPAC name of [Cr(NH3)3Cl3] is:",
+      "options": [
+        "Trichlorotriamminochromium(III)",
+        "Triamminetrichlorochromium(III)",
+        "Chromium trichloride triammine",
+        "Chromium(III) triamminetrichloride"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which complex shows linkage isomerism?",
+      "options": ["[Co(NH3)6]³⁺", "[Co(NO2)(NH3)5]²⁺", "[Cu(NH3)4]²⁺", "[Zn(H2O)4]²⁺"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has square planar geometry?",
+      "options": ["[Ni(CN)4]²⁻", "[Cu(NH3)4]²⁺", "[Zn(NH3)4]²⁺", "[CoCl4]²⁻"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following exhibits ionization isomerism?",
+      "options": ["[Co(NH3)6]Cl3", "[Cr(H2O)6]Cl3", "[Co(NH3)5SO4]Br", "[Ni(NH3)6]²⁺"],
+      "correct": 2
+    },
+    {
+      "question": "In a complex compound, ligands are directly bonded to:",
+      "options": ["Counter ions", "Central metal atom", "Solvent molecules", "Salt ions"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a unidentate ligand?",
+      "options": ["C2O4²⁻", "en", "H2O", "EDTA"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a coordinate bond?",
+      "options": ["NH4⁺ formation", "BF3-NH3 complex", "Hydrogen bonding", "Metal-ligand bond"],
+      "correct": 2
+    },
+    {
+      "question": "The formula of Potassium ferrocyanide is:",
+      "options": ["K4[Fe(CN)6]", "K3[Fe(CN)6]", "K2[Fe(CN)4]", "K[Fe(CN)6]"],
+      "correct": 0
+    },
+    {
+      "question": "The hybridization of Fe in [Fe(CN)6]³⁻ is:",
+      "options": ["sp³", "d²sp³", "sp³d²", "dsp²"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following can show geometrical isomerism?",
+      "options": ["[Pt(NH3)4]²⁺", "[Pt(NH3)2Cl2]", "[Cr(NH3)6]³⁺", "[Fe(CN)6]³⁻"],
+      "correct": 1
+    },
+    {
+      "question": "The coordination number of Pt in [Pt(NH3)2Cl2] is:",
+      "options": ["2", "3", "4", "6"],
+      "correct": 2
+    },
+    {
+      "question": "In Werner's theory, secondary valency corresponds to:",
+      "options": ["Ionizable valency", "Non-ionizable valency", "Electrovalency", "Covalent valency"],
+      "correct": 1
+    },
+    {
+      "question": "The number of ions formed in solution by [Co(NH3)5Cl]Cl2 is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "Which ligand forms the most stable complex with Fe³⁺?",
+      "options": ["NH3", "Cl⁻", "H2O", "EDTA"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "options": [
+        "All coordination compounds are colored",
+        "EDTA is a tetradentate ligand",
+        "Linkage isomerism occurs in [Fe(H2O)6]³⁺",
+        "Ambidentate ligands can bond through different atoms"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Which is an ambidentate ligand?",
+      "options": ["Cl⁻", "SCN⁻", "NH3", "EDTA"],
+      "correct": 1
+    },
+    {
+      "question": "Which metal is present in Vitamin B12?",
+      "options": ["Fe", "Mg", "Co", "Ni"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following has octahedral geometry?",
+      "options": ["[Ni(CO)4]", "[Cu(NH3)4]²⁺", "[Fe(CN)6]³⁻", "[Zn(NH3)4]²⁺"],
+      "correct": 2
+    },
+    {
+      "question": "In [Co(en)2Cl2]⁺, how many optical isomers are possible?",
+      "options": ["0", "1", "2", "3"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following follows 18-electron rule?",
+      "options": ["[Ni(CO)4]", "[Fe(CO)5]", "[Cr(CO)6]", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following ligand can link through two atoms?",
+      "options": ["en", "H2O", "Cl⁻", "NH3"],
+      "correct": 0
+    },
+    {
+      "question": "The colour of coordination compounds is due to:",
+      "options": ["Charge transfer", "d-d transitions", "s-s transitions", "Ionization"],
+      "correct": 1
+    },
+    {
+      "question": "In [Cr(NH3)4Cl2]⁺, the number of geometrical isomers is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "The name of [Ni(CO)4] is:",
+      "options": [
+        "Tetracarbonyl nickel(II)",
+        "Tetracarbonyl nickel(0)",
+        "Carbonyl nickel",
+        "Nickel tetracarbonate"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In [Fe(CN)6]³⁻, Fe uses which orbitals for bonding?",
+      "options": ["sp³", "sp³d²", "d²sp³", "dsp²"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following shows geometrical isomerism?",
+      "options": ["[Cr(H2O)6]³⁺", "[Pt(NH3)2Cl2]", "[Co(NH3)6]³⁺", "[Ni(CO)4]"],
+      "correct": 1
+    },
+    {
+      "question": "A complex with coordination number 6 will have which geometry?",
+      "options": ["Tetrahedral", "Octahedral", "Square planar", "Linear"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound will give 4 ions in solution?",
+      "options": ["[Cu(NH3)4]SO4", "[Co(NH3)6]Cl3", "[Ni(NH3)6]Cl2", "[Cr(H2O)6]Cl3"],
+      "correct": 1
+    },
+    {
+      "question": "Which metal is used in hemoglobin?",
+      "options": ["Cu", "Fe", "Co", "Mg"],
+      "correct": 1
+    },
+    {
+      "question": "In [Ag(NH3)2]⁺, hybridization is:",
+      "options": ["sp", "sp²", "sp³", "dsp²"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a Werner-type complex?",
+      "options": ["[Co(NH3)6]Cl3", "KMnO4", "NaCl", "K4[Fe(CN)6]"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following does not show optical isomerism?",
+      "options": ["[Co(en)3]³⁺", "[Cr(NH3)6]³⁺", "[CoCl2(en)2]⁺", "[Ni(gly)3]⁻"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a chelating ligand?",
+      "options": ["EDTA", "C2O4²⁻", "en", "NH3"],
+      "correct": 3
+    },
+    {
+      "question": "In [Fe(CN)6]³⁻, iron has which oxidation state?",
+      "options": ["+2", "+3", "0", "+4"],
+      "correct": 1
+    },
+    {
+      "question": "Which type of isomerism is shown by [Co(NH3)5NO2]Cl and [Co(NH3)5ONO]Cl?",
+      "options": ["Ionization", "Linkage", "Coordination", "Geometrical"],
+      "correct": 1
+    },
+    {
+      "question": "Which is true about a complex compound?",
+      "options": ["It dissociates completely", "It contains ligands", "It contains ionic bonds", "It does not follow valency"],
+      "correct": 1
+    },
+    {
+      "question": "The charge on [Pt(NH3)4]Cl2 is:",
+      "options": ["+2", "0", "-2", "+1"],
+      "correct": 1
+    }
+  ]
+}

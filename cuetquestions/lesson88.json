@@ -1,0 +1,494 @@
+{
+  "test": [
+    {
+      "question": "What is the meaning of economic development?",
+      "options": ["Increase in per capita income", "Reduction in poverty and unemployment", "Improvement in literacy rate", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "Which sector is known as the primary sector?",
+      "options": ["Manufacturing", "Banking", "Agriculture", "Trade"],
+      "correct": 2
+    },
+    {
+      "question": "Which Five-Year Plan emphasized 'Garibi Hatao'?",
+      "options": ["First", "Third", "Fifth", "Seventh"],
+      "correct": 2
+    },
+    {
+      "question": "What was the growth strategy adopted in the First Five-Year Plan?",
+      "options": ["Industrial growth", "Service sector development", "Agricultural development", "Export promotion"],
+      "correct": 2
+    },
+    {
+      "question": "Which institution publishes the Human Development Index (HDI)?",
+      "options": ["World Bank", "IMF", "UNDP", "WTO"],
+      "correct": 2
+    },
+    {
+      "question": "What is national income?",
+      "options": ["Total income of all individuals", "Total factor income from production within a country", "Total income before tax", "Total wealth"],
+      "correct": 1
+    },
+    {
+      "question": "Which method is NOT used for calculating national income?",
+      "options": ["Production method", "Expenditure method", "Income method", "Inflation method"],
+      "correct": 3
+    },
+    {
+      "question": "GDP at market price includes:",
+      "options": ["Net indirect tax", "Subsidies only", "Exports only", "Depreciation only"],
+      "correct": 0
+    },
+    {
+      "question": "Net National Product (NNP) is equal to:",
+      "options": ["GDP - Depreciation", "GNP - Depreciation", "GNP + Depreciation", "NNP - Indirect Taxes"],
+      "correct": 1
+    },
+    {
+      "question": "Disposable income is calculated as:",
+      "options": ["Personal income - Direct taxes", "National income - Subsidies", "Private income - Net factor income", "GDP - Consumption"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not included in GDP?",
+      "options": ["Value of services", "Illegal activities", "Exports", "Government spending"],
+      "correct": 1
+    },
+    {
+      "question": "Money is primarily a:",
+      "options": ["Store of value", "Medium of exchange", "Measure of value", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is not a function of money?",
+      "options": ["Medium of exchange", "Unit of account", "Barter system", "Store of value"],
+      "correct": 2
+    },
+    {
+      "question": "Which body issues currency notes in India?",
+      "options": ["Finance Ministry", "Reserve Bank of India", "State Bank of India", "NITI Aayog"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a component of narrow money (M1)?",
+      "options": ["Currency with public", "Savings deposits", "Fixed deposits", "All of the above"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a quantitative instrument of monetary policy?",
+      "options": ["Repo rate", "Moral suasion", "Selective credit control", "Margin requirements"],
+      "correct": 0
+    },
+    {
+      "question": "CRR stands for:",
+      "options": ["Cash Reserve Rate", "Credit Ratio Rate", "Cash Reserve Ratio", "Credit Reserve Requirement"],
+      "correct": 2
+    },
+    {
+      "question": "What happens when RBI increases the repo rate?",
+      "options": ["Loans become cheaper", "Money supply increases", "Inflation increases", "Loans become expensive"],
+      "correct": 3
+    },
+    {
+      "question": "The difference between total revenue and total expenditure of the government is called:",
+      "options": ["Fiscal deficit", "Revenue deficit", "Budget deficit", "Monetary deficit"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a capital receipt?",
+      "options": ["Income tax", "Custom duties", "Borrowings", "Interest receipts"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a plan expenditure?",
+      "options": ["Salaries", "Pension", "Subsidy to farmers under schemes", "Interest payments"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a non-tax revenue?",
+      "options": ["GST", "Corporate Tax", "Dividends from PSUs", "Excise duty"],
+      "correct": 2
+    },
+    {
+      "question": "What does 'zero primary deficit' imply?",
+      "options": ["No borrowing", "Revenue equals expenditure", "Interest payment equals borrowing", "Fiscal deficit equals interest payments"],
+      "correct": 3
+    },
+    {
+      "question": "Balance of payments is a record of:",
+      "options": ["All economic transactions with the rest of the world", "Only imports", "Only exports", "Internal transactions"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a visible item in BoP?",
+      "options": ["Software exports", "Insurance", "Goods exports", "Tourism"],
+      "correct": 2
+    },
+    {
+      "question": "Current Account in BoP includes:",
+      "options": ["Merchandise", "Services", "Transfers", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Capital account includes:",
+      "options": ["FDI", "Remittances", "Tourism", "Software exports"],
+      "correct": 0
+    },
+    {
+      "question": "A BoP deficit indicates:",
+      "options": ["Surplus exports", "More foreign exchange reserves", "Higher imports than exports", "Balanced trade"],
+      "correct": 2
+    },
+    {
+      "question": "The depreciation of currency leads to:",
+      "options": ["Exports becoming expensive", "Imports becoming cheaper", "Exports becoming cheaper", "Imports increasing"],
+      "correct": 2
+    },
+    {
+      "question": "Which one of the following is not part of development indicators?",
+      "options": ["Life expectancy", "Literacy rate", "GDP", "Height of people"],
+      "correct": 3
+    },
+    {
+      "question": "Who prepares the Union Budget in India?",
+      "options": ["President", "Finance Ministry", "RBI", "Planning Commission"],
+      "correct": 1
+    },
+    {
+      "question": "The concept of inclusive growth includes:",
+      "options": ["Only urban development", "Growth with inequality", "Growth with social justice", "None of these"],
+      "correct": 2
+    },
+    {
+      "question": "Green Revolution in India initially focused on which crop?",
+      "options": ["Wheat", "Rice", "Pulses", "Maize"],
+      "correct": 0
+    },
+    {
+      "question": "Which committee recommended LPG (Liberalisation, Privatisation, Globalisation) reforms in India?",
+      "options": ["Kelkar Committee", "Narasimham Committee", "Y V Reddy Committee", "Rangarajan Committee"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following affects national income directly?",
+      "options": ["Black money", "Fiscal deficit", "Imports", "Production of goods and services"],
+      "correct": 3
+    },
+    {
+      "question": "Disinvestment is related to:",
+      "options": ["Investment in infrastructure", "Selling PSUs", "Budget deficit", "Export promotion"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a monetary measure?",
+      "options": ["Repo rate", "Reverse repo rate", "CRR", "Subsidies"],
+      "correct": 3
+    },
+    {
+      "question": "Open market operations by RBI mean:",
+      "options": ["Tax collection", "Govt budget planning", "Buying and selling of govt securities", "Import-Export control"],
+      "correct": 2
+    },
+    {
+      "question": "Which institution regulates monetary policy in India?",
+      "options": ["Finance Ministry", "RBI", "SEBI", "NITI Aayog"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is NOT a development goal?",
+      "options": ["Health care", "Employment", "Inflation", "Literacy"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is counted in GDP?",
+      "options": ["Black marketing", "Unpaid domestic work", "Formal sector output", "Smuggling"],
+      "correct": 2
+    },
+    {
+      "question": "Which type of tax is progressive in nature?",
+      "options": ["Excise duty", "Income tax", "GST", "Customs duty"],
+      "correct": 1
+    },
+    {
+      "question": "What is the purpose of deficit financing?",
+      "options": ["Reduce inflation", "Meet capital expenditure", "Control imports", "Raise GDP directly"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a reason for adverse BoP?",
+      "options": ["Increased exports", "Reduced oil prices", "High imports", "High remittances"],
+      "correct": 2
+    },
+    {
+      "question": "An economy that is open implies:",
+      "options": ["Only imports", "No international trade", "Engages in international trade", "Self-reliant economy"],
+      "correct": 2
+    },
+    {
+      "question": "In the expenditure method, which of these is not counted?",
+      "options": ["Private final consumption", "Government spending", "Investment", "Subsidies"],
+      "correct": 3
+    },
+    {
+      "question": "The dual economy concept in India was given by:",
+      "options": ["D.R. Gadgil", "Ragnar Nurkse", "Amartya Sen", "V.K.R.V. Rao"],
+      "correct": 1
+    },
+    {
+      "question": "Bank rate is the rate at which:",
+      "options": ["RBI lends to public", "Banks lend to public", "RBI lends to commercial banks", "Commercial banks lend to RBI"],
+      "correct": 2
+    },
+    {
+      "question": "FDI is included in which part of BoP?",
+      "options": ["Current account", "Capital account", "Balance account", "Reserve account"],
+      "correct": 1
+    },
+    {
+      "question": "Primary deficit equals:",
+      "options": ["Revenue deficit - interest payments", "Fiscal deficit - interest payments", "Capital deficit - subsidies", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which sector in India saw the most significant structural shift post-1991 economic reforms?",
+      "options": ["Primary sector", "Secondary sector", "Tertiary sector", "Public sector"],
+      "correct": 2
+    },
+    {
+      "question": "Which reform was introduced to reduce the fiscal deficit under the FRBM Act?",
+      "options": ["Goods and Services Tax", "Disinvestment Policy", "Monetary Tightening", "Zero-Based Budgeting"],
+      "correct": 1
+    },
+    {
+      "question": "The Harrod-Domar model emphasizes:",
+      "options": ["Consumer spending", "Agricultural productivity", "Capital-output ratio and saving rate", "Export-led growth"],
+      "correct": 2
+    },
+    {
+      "question": "Which measure correctly reflects the real growth of an economy?",
+      "options": ["GDP at current prices", "NNP at market prices", "GDP at constant prices", "GNP at current prices"],
+      "correct": 2
+    },
+    {
+      "question": "In which case will GDP be overstated?",
+      "options": ["Double counting of intermediate goods", "Including transfer payments", "Ignoring depreciation", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "The base year for India's GDP calculation was last revised to:",
+      "options": ["2011–12", "2004–05", "2009–10", "2014–15"],
+      "correct": 0
+    },
+    {
+      "question": "Which type of inflation occurs due to excessive increase in aggregate demand?",
+      "options": ["Cost-push inflation", "Imported inflation", "Demand-pull inflation", "Stagflation"],
+      "correct": 2
+    },
+    {
+      "question": "Which statement is true in a deflationary gap scenario?",
+      "options": ["Aggregate demand exceeds full employment level", "Investment rises", "There is underutilization of resources", "Price level is rising"],
+      "correct": 2
+    },
+    {
+      "question": "An increase in investment will have a multiplied effect on income due to:",
+      "options": ["Law of demand", "Accelerator principle", "Multiplier effect", "Marginal utility"],
+      "correct": 2
+    },
+    {
+      "question": "If MPC = 0.75, the value of multiplier is:",
+      "options": ["4", "2.5", "1.25", "5"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not part of the money supply (M3)?",
+      "options": ["Currency with public", "Demand deposits", "Fixed deposits", "Post office savings"],
+      "correct": 3
+    },
+    {
+      "question": "Which condition best describes a 'liquidity trap'?",
+      "options": ["Zero interest rate and high saving", "High inflation and high interest rate", "No liquidity in banking system", "Excess reserves with RBI"],
+      "correct": 0
+    },
+    {
+      "question": "RBI uses reverse repo to:",
+      "options": ["Encourage lending", "Absorb liquidity", "Increase inflation", "Fund fiscal deficit"],
+      "correct": 1
+    },
+    {
+      "question": "High powered money includes:",
+      "options": ["Only currency with public", "Only cash reserve with banks", "Currency + Cash reserve with RBI", "All demand deposits"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not included in the capital account of BoP?",
+      "options": ["FDI", "FII", "External Commercial Borrowings", "Export of software services"],
+      "correct": 3
+    },
+    {
+      "question": "Which best explains 'sterilization' by RBI?",
+      "options": ["Preventing inflation by monetary tools", "Neutralizing effects of foreign capital inflows", "Selling forex to increase rupee value", "Raising interest rates"],
+      "correct": 1
+    },
+    {
+      "question": "If GNP > GDP, then:",
+      "options": ["Net factor income from abroad is negative", "Net factor income from abroad is zero", "Net factor income from abroad is positive", "There is fiscal deficit"],
+      "correct": 2
+    },
+    {
+      "question": "Which concept best measures actual economic welfare?",
+      "options": ["NNP at market price", "Per capita income", "Green GDP", "GDP at factor cost"],
+      "correct": 2
+    },
+    {
+      "question": "Fiscal consolidation implies:",
+      "options": ["Increasing taxes", "Reducing subsidies", "Reducing fiscal deficit", "Increasing revenue deficit"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a component of primary deficit?",
+      "options": ["Capital receipts", "Revenue receipts", "Interest payments", "Non-interest expenditure"],
+      "correct": 3
+    },
+    {
+      "question": "If government increases capital expenditure, it will lead to:",
+      "options": ["Fall in inflation", "Increase in productive capacity", "Rise in direct taxes", "Increase in money supply"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these correctly explains crowding out effect?",
+      "options": ["Government borrowing reduces private investment", "Public expenditure boosts private demand", "RBI increases interest rate", "Foreign borrowing affects forex"],
+      "correct": 0
+    },
+    {
+      "question": "Which item is a non-debt capital receipt?",
+      "options": ["Borrowings", "Disinvestment", "Treasury Bills", "Ways and Means Advances"],
+      "correct": 1
+    },
+    {
+      "question": "When BoP is in disequilibrium, it means:",
+      "options": ["Trade balance is zero", "Exports equal imports", "Demand for foreign exchange ≠ supply", "Government budget is balanced"],
+      "correct": 2
+    },
+    {
+      "question": "A rise in current account deficit may lead to:",
+      "options": ["Rupee appreciation", "Increase in forex reserves", "Depletion of reserves", "Increased exports"],
+      "correct": 2
+    },
+    {
+      "question": "Which best explains 'twin deficit problem'?",
+      "options": ["High inflation and high deficit", "Budget deficit and trade deficit", "Current account surplus and fiscal deficit", "Inflation and GDP fall"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a non-plan capital expenditure?",
+      "options": ["Road construction", "Education", "Loan repayment", "Midday meal scheme"],
+      "correct": 2
+    },
+    {
+      "question": "Which index is used to measure inflation in India?",
+      "options": ["Consumer Confidence Index", "IIP", "CPI", "GDP Deflator"],
+      "correct": 2
+    },
+    {
+      "question": "Devaluation of currency is likely to:",
+      "options": ["Improve BoP in long run", "Worsen BoP", "Have no effect", "Lead to appreciation"],
+      "correct": 0
+    },
+    {
+      "question": "Which concept includes only final goods and services?",
+      "options": ["Gross Value Added", "GDP", "NNP", "Personal income"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a feature of developing economy like India?",
+      "options": ["High capital-output ratio", "Low dependence on agriculture", "High per capita income", "Low disguised unemployment"],
+      "correct": 0
+    },
+    {
+      "question": "The velocity of money refers to:",
+      "options": ["Speed of printing money", "Rate at which money changes hands", "Frequency of RBI interventions", "Demand for money"],
+      "correct": 1
+    },
+    {
+      "question": "Which curve shows relationship between tax rate and government revenue?",
+      "options": ["Phillips curve", "Laffer curve", "IS curve", "LM curve"],
+      "correct": 1
+    },
+    {
+      "question": "Which theory argues that budget deficits do not affect demand because individuals anticipate future taxes?",
+      "options": ["Keynesian Theory", "Classical Theory", "Rational Expectations", "Ricardian Equivalence"],
+      "correct": 3
+    },
+    {
+      "question": "In national income accounting, depreciation is called:",
+      "options": ["Net investment", "Capital consumption allowance", "Current transfer", "Value addition"],
+      "correct": 1
+    },
+    {
+      "question": "An inflationary gap can be reduced by:",
+      "options": ["Increasing subsidies", "Increasing public expenditure", "Cutting interest rates", "Reducing government spending"],
+      "correct": 3
+    },
+    {
+      "question": "Which sector contributes most to India’s GDP currently?",
+      "options": ["Agriculture", "Industry", "Tertiary", "Public Administration"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not a limitation of GDP as a welfare indicator?",
+      "options": ["Ignores inequality", "Excludes unpaid work", "Includes black economy", "Ignores environmental costs"],
+      "correct": 2
+    },
+    {
+      "question": "Net factor income from abroad is negative when:",
+      "options": ["India earns more from abroad", "India pays more to foreign factors", "Exports are more than imports", "Capital account is in surplus"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an example of transfer payment?",
+      "options": ["Interest on bonds", "Dividend on shares", "Old-age pension", "Wages"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not included in national income?",
+      "options": ["Rent", "Interest", "Illegal income", "Profits"],
+      "correct": 2
+    },
+    {
+      "question": "Which tax is regressive in nature?",
+      "options": ["Corporate tax", "Wealth tax", "GST", "Capital gains tax"],
+      "correct": 2
+    },
+    {
+      "question": "Which policy tool would reduce demand-pull inflation?",
+      "options": ["Lower CRR", "Cut in repo rate", "Reduction in government spending", "Increase in subsidies"],
+      "correct": 2
+    },
+    {
+      "question": "Balance of payments includes:",
+      "options": ["Only trade balance", "Current and capital account", "Only services", "Only remittances"],
+      "correct": 1
+    },
+    {
+      "question": "Which curve represents equilibrium in money market?",
+      "options": ["IS curve", "LM curve", "Phillips curve", "Laffer curve"],
+      "correct": 1
+    },
+    {
+      "question": "A higher CRR leads to:",
+      "options": ["Increase in lending", "Reduction in money supply", "Rise in inflation", "No effect"],
+      "correct": 1
+    },
+    {
+      "question": "In a monetized economy, barter is replaced by:",
+      "options": ["Taxation", "Trade", "Money", "Banking"],
+      "correct": 2
+    },
+    {
+      "question": "Which concept reflects income inequality in an economy?",
+      "options": ["Gini Coefficient", "CPI", "IIP", "HDI"],
+      "correct": 0
+    }
+    ]
+}

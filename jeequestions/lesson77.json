@@ -1,0 +1,239 @@
+{
+  "test": [
+    {
+      "question": "Which of the following functions is not continuous at x = 0?",
+      "options": ["f(x) = |x|", "f(x) = 1/x", "f(x) = x²", "f(x) = sin x"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) is continuous at x = a, then:",
+      "options": ["lim x→a f(x) = f(a)", "f(a) = 0", "f(x) is differentiable", "f(a) is not defined"],
+      "correct": 0
+    },
+    {
+      "question": "The function f(x) = |x| is:",
+      "options": ["Continuous and differentiable at x=0", "Not continuous at x=0", "Continuous but not differentiable at x=0", "Differentiable at x=0"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is differentiable everywhere?",
+      "options": ["|x|", "√x", "x³", "1/x"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = x² sin(1/x) for x ≠ 0 and f(0) = 0, then f(x) is:",
+      "options": ["Discontinuous at x=0", "Continuous but not differentiable at x=0", "Differentiable at x=0", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Which rule is used for derivative of product of two functions?",
+      "options": ["Quotient rule", "Chain rule", "Product rule", "Inverse rule"],
+      "correct": 2
+    },
+    {
+      "question": "The derivative of sin(x²) is:",
+      "options": ["cos(x²)", "2x cos(x²)", "2x sin(x²)", "None"],
+      "correct": 1
+    },
+    {
+      "question": "f(x) = e^x is:",
+      "options": ["Not continuous", "Continuous but not differentiable", "Differentiable", "Not defined"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = tan⁻¹x, then f'(x) =",
+      "options": ["1/(1 - x²)", "1/(1 + x²)", "x/(1 + x²)", "2x"],
+      "correct": 1
+    },
+    {
+      "question": "Which function is not differentiable at x = 0?",
+      "options": ["f(x) = x²", "f(x) = |x|", "f(x) = sin x", "f(x) = ln(1 + x)"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) = ln|x|, then domain of f(x) is:",
+      "options": ["x > 0", "x ≠ 0", "x < 0", "x ≥ 0"],
+      "correct": 1
+    },
+    {
+      "question": "Continuity implies:",
+      "options": ["Differentiability", "Integrability", "Limit exists", "f(x) is defined"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) = |x|, then f'(x) = ? for x ≠ 0",
+      "options": ["1", "−1", "|x|", "1 or −1 depending on x"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is not continuous for all x?",
+      "options": ["x²", "tan x", "e^x", "cos x"],
+      "correct": 1
+    },
+    {
+      "question": "Chain rule is applied in:",
+      "options": ["f(x)g(x)", "f(g(x))", "f(x)/g(x)", "xⁿ"],
+      "correct": 1
+    },
+    {
+      "question": "If f(x) is continuous at x=a, then:",
+      "options": ["Left and right limits exist and are equal to f(a)", "f(a)=0", "f is differentiable", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Derivative of ln(sin x) is:",
+      "options": ["cot x", "1/sin x", "cos x", "cot x sec x"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a necessary condition for differentiability?",
+      "options": ["Continuity", "Limit exists", "Left limit = right limit", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = |x| at x=0, then:",
+      "options": ["Left derivative = Right derivative", "Left derivative ≠ Right derivative", "Derivative = 0", "None"],
+      "correct": 1
+    },
+    {
+      "question": "If a function is differentiable at a point, then it is:",
+      "options": ["Always continuous at that point", "Not continuous", "Always non-differentiable", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which function is continuous but not differentiable at x=0?",
+      "options": ["f(x) = x", "f(x) = x²", "f(x) = |x|", "f(x) = sin x"],
+      "correct": 2
+    },
+    {
+      "question": "If y = ln(x²), then dy/dx = ?",
+      "options": ["1/x", "2/x", "2x", "1/x²"],
+      "correct": 1
+    },
+    {
+      "question": "Derivative of sin⁻¹x is:",
+      "options": ["1/√(1 - x²)", "1/(1 + x²)", "cos⁻¹x", "−1/√(1 - x²)"],
+      "correct": 0
+    },
+    {
+      "question": "Derivative of e^tan x is:",
+      "options": ["e^tan x sec²x", "e^x", "sec x", "tan x"],
+      "correct": 0
+    },
+    {
+      "question": "If y = xⁿ, then dy/dx is:",
+      "options": ["nxⁿ⁻¹", "xⁿ", "n/x", "1/n"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = |x − 3|, then f'(3⁺) = ?",
+      "options": ["0", "1", "−1", "Undefined"],
+      "correct": 1
+    },
+    {
+      "question": "The derivative of a constant function is:",
+      "options": ["0", "1", "Itself", "Undefined"],
+      "correct": 0
+    },
+    {
+      "question": "The derivative of x³ + 3x² + 5 is:",
+      "options": ["3x² + 6x", "x² + 6x", "x³", "6x"],
+      "correct": 0
+    },
+    {
+      "question": "A function f(x) is differentiable on an open interval if:",
+      "options": ["It is continuous", "It has a derivative at every point", "It is bounded", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not a standard derivative?",
+      "options": ["d/dx (ln x) = 1/x", "d/dx (sin x) = cos x", "d/dx (cos x) = sin x", "d/dx (e^x) = e^x"],
+      "correct": 2
+    },
+    {
+      "question": "If f(x) is differentiable, then:",
+      "options": ["f(x) is continuous", "f(x) has limit", "f(x) is constant", "f(x) is linear"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = tan⁻¹x, then f''(x) = ?",
+      "options": ["−2x/(1 + x²)²", "1/(1 + x²)", "2x/(1 + x²)", "−1/(1 + x²)"],
+      "correct": 0
+    },
+    {
+      "question": "If y = x^x, then dy/dx = ?",
+      "options": ["x^x(1 + ln x)", "x^x ln x", "x^(x−1)", "x ln x"],
+      "correct": 0
+    },
+    {
+      "question": "Function f(x) = ln|x| is continuous for:",
+      "options": ["x ≠ 0", "x > 0", "x < 0", "All x"],
+      "correct": 0
+    },
+    {
+      "question": "d/dx (logₐx) = ?",
+      "options": ["1/x ln a", "ln x", "x ln a", "a^x"],
+      "correct": 0
+    },
+    {
+      "question": "If y = sin(x²), then dy/dx = ?",
+      "options": ["2x cos(x²)", "cos x", "2 sin x", "cos(x²)"],
+      "correct": 0
+    },
+    {
+      "question": "If y = ln(x² + 1), then dy/dx = ?",
+      "options": ["2x/(x² + 1)", "1/(x² + 1)", "x/(x² + 1)", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = |x|, then at x = 0:",
+      "options": ["Not differentiable", "Derivative exists", "Derivative is 0", "Differentiable"],
+      "correct": 0
+    },
+    {
+      "question": "Function f(x) = max{0,x} is not differentiable at:",
+      "options": ["x = 0", "x = 1", "x = 2", "x = −1"],
+      "correct": 0
+    },
+    {
+      "question": "The function f(x) = [x] (greatest integer) is:",
+      "options": ["Discontinuous at all integers", "Continuous everywhere", "Differentiable at all integers", "None"],
+      "correct": 0
+    },
+    {
+      "question": "If y = sin⁻¹(x), then dy/dx = ?",
+      "options": ["1/√(1 - x²)", "√(1 - x²)", "x/√(1 - x²)", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Derivative of e^(sin x) is:",
+      "options": ["e^(sin x) cos x", "cos x", "sin x", "e^x"],
+      "correct": 0
+    },
+    {
+      "question": "f(x) = tan x is not differentiable at:",
+      "options": ["x = π/2", "x = π", "x = 0", "x = 1"],
+      "correct": 0
+    },
+    {
+      "question": "Which function is not differentiable at x = 1?",
+      "options": ["f(x) = |x−1|", "f(x) = x", "f(x) = x²", "f(x) = sin x"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = ln(sec x), then f'(x) = ?",
+      "options": ["tan x", "sec x", "ln x", "1/sec x"],
+      "correct": 0
+    },
+    {
+      "question": "If y = tan⁻¹(x²), then dy/dx = ?",
+      "options": ["2x/(1 + x⁴)", "1/(1 + x²)", "2x", "None"],
+      "correct": 0
+    },
+    {
+      "question": "A function f(x) is not differentiable at x = a if:",
+      "options": ["Left and right derivatives are not equal", "f(x) is continuous", "f(x) is increasing", "f(x) is zero"],
+      "correct": 0
+    }
+  ]
+}

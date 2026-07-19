@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Cell was first discovered by:",
+      "options": ["Schwann", "Robert Hooke", "Leeuwenhoek", "Virchow"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a prokaryote?",
+      "options": ["Fungi", "Algae", "Cyanobacteria", "Amoeba"],
+      "correct": 2
+    },
+    {
+      "question": "The powerhouse of the cell is:",
+      "options": ["Nucleus", "Mitochondria", "Chloroplast", "Ribosome"],
+      "correct": 1
+    },
+    {
+      "question": "The smallest cell is:",
+      "options": ["Bacteria", "Mycoplasma", "RBC", "Virus"],
+      "correct": 1
+    },
+    {
+      "question": "Which organelle is responsible for photosynthesis?",
+      "options": ["Chloroplast", "Mitochondria", "Golgi body", "Lysosome"],
+      "correct": 0
+    },
+    {
+      "question": "Ribosomes are the sites of:",
+      "options": ["Respiration", "Protein synthesis", "DNA replication", "ATP synthesis"],
+      "correct": 1
+    },
+    {
+      "question": "Fluid mosaic model was proposed by:",
+      "options": ["Robert Brown", "Singer and Nicolson", "Hooke", "Schleiden and Schwann"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following lacks a membrane?",
+      "options": ["Lysosome", "Ribosome", "Mitochondria", "Nucleus"],
+      "correct": 1
+    },
+    {
+      "question": "Cell wall is absent in:",
+      "options": ["Fungi", "Algae", "Animal cell", "Plant cell"],
+      "correct": 2
+    },
+    {
+      "question": "Which organelle is involved in lipid synthesis?",
+      "options": ["Smooth ER", "Rough ER", "Mitochondria", "Lysosome"],
+      "correct": 0
+    },
+    {
+      "question": "Cristae are found in:",
+      "options": ["Golgi bodies", "Chloroplasts", "Mitochondria", "Lysosomes"],
+      "correct": 2
+    },
+    {
+      "question": "Plasmodesmata are:",
+      "options": ["Connections between plant cells", "Mitochondrial folds", "Cytoplasmic vacuoles", "Nuclear pores"],
+      "correct": 0
+    },
+    {
+      "question": "Who proposed the cell theory?",
+      "options": ["Schwann and Virchow", "Hooke and Leeuwenhoek", "Schleiden and Schwann", "Pasteur and Koch"],
+      "correct": 2
+    },
+    {
+      "question": "Cell theory does not apply to:",
+      "options": ["Bacteria", "Algae", "Fungi", "Virus"],
+      "correct": 3
+    },
+    {
+      "question": "The organelle responsible for packaging proteins is:",
+      "options": ["Mitochondria", "Golgi apparatus", "ER", "Ribosome"],
+      "correct": 1
+    },
+    {
+      "question": "What is the function of lysosomes?",
+      "options": ["Protein synthesis", "Digestion", "Respiration", "Photosynthesis"],
+      "correct": 1
+    },
+    {
+      "question": "Centrioles are found in:",
+      "options": ["Plant cells only", "Animal cells only", "Both", "Neither"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a semi-autonomous organelle?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "ER"],
+      "correct": 2
+    },
+    {
+      "question": "Which structure regulates passage in and out of nucleus?",
+      "options": ["Nuclear membrane", "Plasma membrane", "Nuclear pores", "Chromatin"],
+      "correct": 2
+    },
+    {
+      "question": "Rough ER is involved in:",
+      "options": ["Protein synthesis", "Lipid synthesis", "ATP production", "Glycogen storage"],
+      "correct": 0
+    },
+    {
+      "question": "Chromatin is composed of:",
+      "options": ["RNA only", "DNA and protein", "Protein only", "DNA and lipids"],
+      "correct": 1
+    },
+    {
+      "question": "Middle lamella is mainly composed of:",
+      "options": ["Cellulose", "Lignin", "Pectin", "Protein"],
+      "correct": 2
+    },
+    {
+      "question": "Cell membrane is:",
+      "options": ["Selectively permeable", "Impermeable", "Freely permeable", "Rigid"],
+      "correct": 0
+    },
+    {
+      "question": "70S ribosomes are found in:",
+      "options": ["Eukaryotic cytoplasm", "Prokaryotes", "Plant nucleus", "Lysosome"],
+      "correct": 1
+    },
+    {
+      "question": "Tonoplast is a membrane of:",
+      "options": ["Nucleus", "Mitochondria", "Vacuole", "Chloroplast"],
+      "correct": 2
+    },
+    {
+      "question": "Function of peroxisomes is:",
+      "options": ["Photosynthesis", "Oxidation of fatty acids", "Glycolysis", "Protein synthesis"],
+      "correct": 1
+    },
+    {
+      "question": "Which structure is absent in prokaryotic cell?",
+      "options": ["DNA", "Cell wall", "Ribosome", "Nucleus"],
+      "correct": 3
+    },
+    {
+      "question": "Prokaryotic DNA is:",
+      "options": ["Linear and membrane-bound", "Circular and free in cytoplasm", "Enclosed in nucleus", "Segmented"],
+      "correct": 1
+    },
+    {
+      "question": "Which structure is called the ‘suicide bag’ of the cell?",
+      "options": ["Ribosome", "Golgi apparatus", "Lysosome", "Mitochondria"],
+      "correct": 2
+    },
+    {
+      "question": "Grana are stacks of:",
+      "options": ["Cristae", "Thylakoids", "Cisternae", "Vesicles"],
+      "correct": 1
+    },
+    {
+      "question": "Mesosomes in prokaryotes are analogous to:",
+      "options": ["Ribosomes", "Mitochondria", "Nucleus", "Chloroplast"],
+      "correct": 1
+    },
+    {
+      "question": "Histones are absent in:",
+      "options": ["Fungi", "Bacteria", "Plants", "Animals"],
+      "correct": 1
+    },
+    {
+      "question": "Cisternae are found in:",
+      "options": ["Mitochondria", "Golgi body and ER", "Chloroplast", "Nucleus"],
+      "correct": 1
+    },
+    {
+      "question": "The matrix of mitochondria is the site of:",
+      "options": ["Glycolysis", "Krebs cycle", "Photosynthesis", "Beta oxidation"],
+      "correct": 1
+    },
+    {
+      "question": "Which cell organelle has its own DNA and ribosomes?",
+      "options": ["Nucleus", "Golgi body", "Mitochondria", "ER"],
+      "correct": 2
+    },
+    {
+      "question": "Nucleoid is present in:",
+      "options": ["Plant cell", "Animal cell", "Bacteria", "Fungi"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is double-membraned?",
+      "options": ["Ribosome", "Nucleus", "Lysosome", "Centriole"],
+      "correct": 1
+    },
+    {
+      "question": "What is the site of ribosome synthesis?",
+      "options": ["Nucleolus", "Nucleus", "Cytoplasm", "Golgi body"],
+      "correct": 0
+    },
+    {
+      "question": "In which cell organelle does photorespiration occur?",
+      "options": ["Peroxisome", "Mitochondria", "Ribosome", "Nucleus"],
+      "correct": 0
+    },
+    {
+      "question": "Contractile vacuole in protists helps in:",
+      "options": ["Respiration", "Excretion", "Osmoregulation", "Feeding"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is non-membranous?",
+      "options": ["Peroxisome", "Ribosome", "Lysosome", "Golgi body"],
+      "correct": 1
+    },
+    {
+      "question": "Function of nucleolus is:",
+      "options": ["DNA replication", "Ribosome biogenesis", "Protein synthesis", "RNA transport"],
+      "correct": 1
+    },
+    {
+      "question": "Which organelle forms glycoproteins and glycolipids?",
+      "options": ["Golgi apparatus", "ER", "Mitochondria", "Nucleus"],
+      "correct": 0
+    },
+    {
+      "question": "Which type of plastid is colorless and stores starch?",
+      "options": ["Chromoplast", "Chloroplast", "Leucoplast", "Etioplast"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is smallest?",
+      "options": ["Virus", "Ribosome", "Bacteria", "Mitochondria"],
+      "correct": 0
+    },
+    {
+      "question": "Amyloplast stores:",
+      "options": ["Oil", "Protein", "Starch", "Pigments"],
+      "correct": 2
+    },
+    {
+      "question": "Polysomes are formed by:",
+      "options": ["Golgi bodies", "Ribosomes on ER", "Group of ribosomes on mRNA", "Lysosomes"],
+      "correct": 2
+    },
+    {
+      "question": "The term ‘protoplasm’ was coined by:",
+      "options": ["Dujardin", "Purkinje", "Hooke", "Schleiden"],
+      "correct": 1
+    },
+    {
+      "question": "In animal cells, centrosome contains:",
+      "options": ["Centrioles", "Ribosomes", "Peroxisomes", "Microvilli"],
+      "correct": 0
+    }
+  ]
+}

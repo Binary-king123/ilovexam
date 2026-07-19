@@ -1,0 +1,259 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is an alkali metal?",
+      "options": ["Calcium", "Magnesium", "Sodium", "Barium"],
+      "correct": 2
+    },
+    {
+      "question": "Alkaline earth metals belong to group:",
+      "options": ["1", "2", "13", "14"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following does NOT belong to Group 1?",
+      "options": ["Li", "K", "Na", "Mg"],
+      "correct": 3
+    },
+    {
+      "question": "Which alkali metal is most reactive?",
+      "options": ["Li", "Na", "K", "Cs"],
+      "correct": 3
+    },
+    {
+      "question": "What is the flame color for potassium?",
+      "options": ["Yellow", "Crimson red", "Violet", "Brick red"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following does not form peroxide?",
+      "options": ["Ba", "Ca", "Li", "Na"],
+      "correct": 2
+    },
+    {
+      "question": "Solubility of hydroxides of alkali metals:",
+      "options": ["Decreases down the group", "Increases down the group", "Remains constant", "No trend"],
+      "correct": 1
+    },
+    {
+      "question": "Which metal is stored in kerosene?",
+      "options": ["Iron", "Copper", "Sodium", "Calcium"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the lightest alkali metal?",
+      "options": ["Na", "Li", "K", "Rb"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following does not react with nitrogen?",
+      "options": ["Li", "Na", "K", "Rb"],
+      "correct": 1
+    },
+    {
+      "question": "Diagonal relationship exists between:",
+      "options": ["Li and Mg", "Na and K", "Be and Ca", "K and Rb"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following metal carbonates is thermally most stable?",
+      "options": ["MgCO₃", "CaCO₃", "BaCO₃", "SrCO₃"],
+      "correct": 2
+    },
+    {
+      "question": "What is the oxidation state of alkali metals in their compounds?",
+      "options": ["+2", "0", "−1", "+1"],
+      "correct": 3
+    },
+    {
+      "question": "Which alkaline earth metal forms an amphoteric oxide?",
+      "options": ["Ba", "Mg", "Be", "Ca"],
+      "correct": 2
+    },
+    {
+      "question": "Hardness of water is due to:",
+      "options": ["Na⁺", "K⁺", "Ca²⁺ and Mg²⁺", "Cl⁻"],
+      "correct": 2
+    },
+    {
+      "question": "Sodium peroxide reacts with water to form:",
+      "options": ["NaOH and O₂", "Na₂O", "Na", "NaOH and H₂"],
+      "correct": 0
+    },
+    {
+      "question": "Which is not used in the removal of permanent hardness of water?",
+      "options": ["Ca(OH)₂", "Na₂CO₃", "Calgon", "Soap"],
+      "correct": 0
+    },
+    {
+      "question": "Which metal carbonate decomposes most easily on heating?",
+      "options": ["BaCO₃", "CaCO₃", "MgCO₃", "BeCO₃"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following hydroxides is amphoteric?",
+      "options": ["Be(OH)₂", "Mg(OH)₂", "Ca(OH)₂", "Ba(OH)₂"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following compounds is used in soda lime?",
+      "options": ["CaO + NaOH", "CaO + KOH", "NaOH + MgO", "CaO + Na₂CO₃"],
+      "correct": 0
+    },
+    {
+      "question": "Which alkali metal shows least ionic character?",
+      "options": ["Na", "K", "Rb", "Li"],
+      "correct": 3
+    },
+    {
+      "question": "Plaster of Paris is obtained by heating:",
+      "options": ["CaSO₄", "CaSO₄·2H₂O", "CaCO₃", "Ca(OH)₂"],
+      "correct": 1
+    },
+    {
+      "question": "Anhydrous Na₂CO₃ is also known as:",
+      "options": ["Washing soda", "Baking soda", "Soda ash", "Quicklime"],
+      "correct": 2
+    },
+    {
+      "question": "Solubility of sulphates of alkaline earth metals:",
+      "options": ["Increases down the group", "Decreases down the group", "Remains same", "First increases then decreases"],
+      "correct": 1
+    },
+    {
+      "question": "The flame test for lithium gives:",
+      "options": ["Yellow", "Red", "Violet", "Green"],
+      "correct": 1
+    },
+    {
+      "question": "Quicklime is:",
+      "options": ["Ca(OH)₂", "CaCO₃", "CaO", "CaSO₄"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is used in photoelectric cells?",
+      "options": ["Na", "K", "Rb", "Cs"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following shows least tendency to form complex?",
+      "options": ["Be²⁺", "Ca²⁺", "Ba²⁺", "Mg²⁺"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is used in fireworks?",
+      "options": ["Li", "Na", "K", "Mg"],
+      "correct": 0
+    },
+    {
+      "question": "Milk of magnesia is:",
+      "options": ["MgSO₄", "Mg(OH)₂", "MgCl₂", "MgO"],
+      "correct": 1
+    },
+    {
+      "question": "Gypsum is chemically:",
+      "options": ["CaSO₄", "CaSO₄·2H₂O", "CaO", "CaCO₃"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is used in making high-quality lenses?",
+      "options": ["Li₂O", "BeO", "BaO", "MgO"],
+      "correct": 1
+    },
+    {
+      "question": "Alkali metals form which type of oxides?",
+      "options": ["Basic", "Neutral", "Acidic", "Amphoteric"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is NOT an alkaline earth metal?",
+      "options": ["Be", "Mg", "Ba", "Li"],
+      "correct": 3
+    },
+    {
+      "question": "The most basic oxide among the following is:",
+      "options": ["Li₂O", "Na₂O", "K₂O", "Rb₂O"],
+      "correct": 3
+    },
+    {
+      "question": "The basicity of hydroxides increases:",
+      "options": ["Down the group", "Up the group", "Remains constant", "No trend"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is least reactive?",
+      "options": ["Na", "K", "Rb", "Li"],
+      "correct": 3
+    },
+    {
+      "question": "The reducing power of alkali metals increases:",
+      "options": ["Down the group", "Up the group", "Remains same", "Irregular"],
+      "correct": 0
+    },
+    {
+      "question": "Na reacts with water to form:",
+      "options": ["Na₂O and H₂", "NaOH and H₂", "NaCl", "NaOH and O₂"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following does NOT decompose on heating?",
+      "options": ["BeCO₃", "MgCO₃", "Na₂CO₃", "CaCO₃"],
+      "correct": 2
+    },
+    {
+      "question": "Calgon used in water softening is:",
+      "options": ["Sodium hexametaphosphate", "Na₂CO₃", "NaOH", "CaO"],
+      "correct": 0
+    },
+    {
+      "question": "Sodium is a strong:",
+      "options": ["Reducing agent", "Oxidizing agent", "Acid", "Base"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following has maximum hydration energy?",
+      "options": ["Li⁺", "Na⁺", "K⁺", "Rb⁺"],
+      "correct": 0
+    },
+    {
+      "question": "Which oxide is amphoteric?",
+      "options": ["BeO", "MgO", "CaO", "BaO"],
+      "correct": 0
+    },
+    {
+      "question": "Sodium bicarbonate is:",
+      "options": ["Na₂CO₃", "NaHCO₃", "Na₂SO₄", "NaCl"],
+      "correct": 1
+    },
+    {
+      "question": "Which is not true about alkali metals?",
+      "options": ["Low ionization energy", "Low density", "High melting point", "Highly reactive"],
+      "correct": 2
+    },
+    {
+      "question": "Be and Mg do not give flame test due to:",
+      "options": ["High melting point", "Small size", "Low excitation energy", "High excitation energy"],
+      "correct": 3
+    },
+    {
+      "question": "Lithium salts are used in treatment of:",
+      "options": ["Depression", "Bipolar disorder", "Allergy", "Fever"],
+      "correct": 1
+    },
+    {
+      "question": "Which compound is used as antacid?",
+      "options": ["Mg(OH)₂", "MgSO₄", "MgO", "MgCl₂"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following shows least thermal stability?",
+      "options": ["BeCO₃", "MgCO₃", "CaCO₃", "BaCO₃"],
+      "correct": 0
+    },
+    {
+      "question": "Alkali metals form:",
+      "options": ["Covalent compounds", "Ionic compounds", "Both", "None"],
+      "correct": 1
+    }
+  ]
+}

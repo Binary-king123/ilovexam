@@ -1,0 +1,485 @@
+{
+  "test": [
+    {
+      "question": "Which site is known for the Great Bath in Harappan Civilization?",
+      "options": ["Harappa", "Mohenjodaro", "Dholavira", "Kalibangan"],
+      "correct": 1
+    },
+    {
+      "question": "Which metal was unknown to the Harappan people?",
+      "options": ["Gold", "Copper", "Iron", "Bronze"],
+      "correct": 2
+    },
+    {
+      "question": "What was the main occupation of Harappan people?",
+      "options": ["Hunting", "Agriculture", "Fishing", "Metalwork"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following was a dockyard in the Harappan Civilization?",
+      "options": ["Kalibangan", "Ropar", "Lothal", "Banawali"],
+      "correct": 2
+    },
+    {
+      "question": "Which script was used by the Harappans?",
+      "options": ["Brahmi", "Kharosthi", "Undeciphered pictographic", "Sanskrit"],
+      "correct": 2
+    },
+    {
+      "question": "Which Veda is the oldest?",
+      "options": ["Sama Veda", "Yajur Veda", "Atharva Veda", "Rig Veda"],
+      "correct": 3
+    },
+    {
+      "question": "The term 'Dhamma' was used by which Mauryan ruler?",
+      "options": ["Chandragupta", "Bindusara", "Ashoka", "Bimbisara"],
+      "correct": 2
+    },
+    {
+      "question": "Who wrote 'Indica'?",
+      "options": ["Kautilya", "Megasthenes", "Kalidasa", "Ashoka"],
+      "correct": 1
+    },
+    {
+      "question": "Which Mughal ruler introduced the Mansabdari system?",
+      "options": ["Akbar", "Babur", "Jahangir", "Shah Jahan"],
+      "correct": 0
+    },
+    {
+      "question": "Who built the Red Fort in Delhi?",
+      "options": ["Akbar", "Shah Jahan", "Humayun", "Aurangzeb"],
+      "correct": 1
+    },
+    {
+      "question": "Which ruler promoted Sulh-i-Kul?",
+      "options": ["Aurangzeb", "Akbar", "Shivaji", "Sher Shah Suri"],
+      "correct": 1
+    },
+    {
+      "question": "Which battle marked the beginning of British political power in India?",
+      "options": ["Battle of Plassey", "Battle of Buxar", "Battle of Panipat", "Battle of Talikota"],
+      "correct": 0
+    },
+    {
+      "question": "The Revolt of 1857 started from which city?",
+      "options": ["Delhi", "Kanpur", "Meerut", "Lucknow"],
+      "correct": 2
+    },
+    {
+      "question": "Who was the first Indian Governor-General of independent India?",
+      "options": ["Jawaharlal Nehru", "C. Rajagopalachari", "Rajendra Prasad", "Sardar Patel"],
+      "correct": 1
+    },
+    {
+      "question": "Which Act transferred power from the East India Company to the British Crown?",
+      "options": ["Regulating Act", "Charter Act", "Government of India Act 1858", "Pitt's India Act"],
+      "correct": 2
+    },
+    {
+      "question": "Who was the founder of the Indian National Congress?",
+      "options": ["Gopal Krishna Gokhale", "W.C. Bonnerjee", "A.O. Hume", "Dadabhai Naoroji"],
+      "correct": 2
+    },
+    {
+      "question": "In which year was the Non-Cooperation Movement launched?",
+      "options": ["1919", "1920", "1922", "1930"],
+      "correct": 1
+    },
+    {
+      "question": "Who gave the slogan 'Swaraj is my birthright'?",
+      "options": ["Gandhi", "Tilak", "Nehru", "Subhas Chandra Bose"],
+      "correct": 1
+    },
+    {
+      "question": "Dandi March was part of which movement?",
+      "options": ["Non-Cooperation", "Civil Disobedience", "Quit India", "Khilafat"],
+      "correct": 1
+    },
+    {
+      "question": "Which event is associated with the year 1942?",
+      "options": ["Dandi March", "Quit India Movement", "Cripps Mission", "Simon Commission"],
+      "correct": 1
+    },
+    {
+      "question": "Who authored 'Discovery of India'?",
+      "options": ["Gandhi", "Nehru", "Patel", "Tagore"],
+      "correct": 1
+    },
+    {
+      "question": "The first general elections in India were held in:",
+      "options": ["1947", "1950", "1951–52", "1955"],
+      "correct": 2
+    },
+    {
+      "question": "The Green Revolution began during the tenure of:",
+      "options": ["Lal Bahadur Shastri", "Indira Gandhi", "Jawaharlal Nehru", "Morarji Desai"],
+      "correct": 1
+    },
+    {
+      "question": "Which was the first state reorganized on linguistic basis?",
+      "options": ["Tamil Nadu", "Andhra Pradesh", "Kerala", "Punjab"],
+      "correct": 1
+    },
+    {
+      "question": "The Bhakti Movement emphasized:",
+      "options": ["Rituals", "Monotheism", "Idol worship", "Polygamy"],
+      "correct": 1
+    },
+    {
+      "question": "Who among the following was a saint of the Bhakti Movement?",
+      "options": ["Tulsidas", "Kalidasa", "Panini", "Ashvaghosha"],
+      "correct": 0
+    },
+    {
+      "question": "Which reform was associated with Raja Ram Mohan Roy?",
+      "options": ["Widow Remarriage", "Female Education", "Abolition of Sati", "Child Marriage Restraint"],
+      "correct": 2
+    },
+    {
+      "question": "The Permanent Settlement was introduced by:",
+      "options": ["Lord Dalhousie", "Warren Hastings", "Lord Cornwallis", "Lord Wellesley"],
+      "correct": 2
+    },
+    {
+      "question": "Which institution was set up by Syed Ahmed Khan?",
+      "options": ["Jamia Millia", "AMU", "JNU", "DU"],
+      "correct": 1
+    },
+    {
+      "question": "Gandhiji’s first Satyagraha in India was in:",
+      "options": ["Dandi", "Champaran", "Ahmedabad", "Kheda"],
+      "correct": 1
+    },
+    {
+      "question": "Simon Commission was boycotted because:",
+      "options": ["It had no Indian member", "It was anti-Muslim", "It supported Partition", "It aimed at disbanding Congress"],
+      "correct": 0
+    },
+    {
+      "question": "What was the capital of Harappan Civilization?",
+      "options": ["Mohenjodaro", "Harappa", "Dholavira", "Rakhigarhi"],
+      "correct": 1
+    },
+    {
+      "question": "Which British Governor-General introduced Doctrine of Lapse?",
+      "options": ["Wellesley", "Hastings", "Dalhousie", "Curzon"],
+      "correct": 2
+    },
+    {
+      "question": "Partition of Bengal was carried out in:",
+      "options": ["1903", "1905", "1911", "1919"],
+      "correct": 1
+    },
+    {
+      "question": "Gandhi gave the call of ‘Do or Die’ during:",
+      "options": ["Non-Cooperation", "Salt March", "Quit India", "Khilafat"],
+      "correct": 2
+    },
+    {
+      "question": "Which treaty ended the First Anglo-Maratha War?",
+      "options": ["Treaty of Salbai", "Treaty of Surat", "Treaty of Bassein", "Treaty of Purandar"],
+      "correct": 0
+    },
+    {
+      "question": "Indus Valley people worshipped:",
+      "options": ["Brahma", "Shiva (Pashupati)", "Vishnu", "Indra"],
+      "correct": 1
+    },
+    {
+      "question": "Which Congress session passed the 'Purna Swaraj' resolution?",
+      "options": ["Bombay 1920", "Lahore 1929", "Surat 1907", "Calcutta 1917"],
+      "correct": 1
+    },
+    {
+      "question": "Which leader formed the Indian National Army (INA)?",
+      "options": ["Gandhi", "Bose", "Tilak", "Nehru"],
+      "correct": 1
+    },
+    {
+      "question": "Post-independence, India adopted its Constitution in:",
+      "options": ["1947", "1949", "1950", "1952"],
+      "correct": 2
+    },
+    {
+      "question": "The Chipko Movement is related to:",
+      "options": ["Women's rights", "Environmental conservation", "Labor rights", "Tribal rights"],
+      "correct": 1
+    },
+    {
+      "question": "Which event led to Emergency in India in 1975?",
+      "options": ["Kargil War", "Indira Gandhi's election verdict", "Anti-Sikh Riots", "Bhopal Gas Tragedy"],
+      "correct": 1
+    },
+    {
+      "question": "What was the result of the Mandal Commission implementation?",
+      "options": ["Privatization", "Reservation in jobs", "Liberalization", "Formation of new states"],
+      "correct": 1
+    },
+    {
+      "question": "Which dynasty built the Brihadeeswara Temple?",
+      "options": ["Maurya", "Chola", "Gupta", "Mughal"],
+      "correct": 1
+    },
+    {
+      "question": "What was the main source of revenue in Mughal India?",
+      "options": ["Trade", "Agricultural tax", "Tribute", "Loot"],
+      "correct": 1
+    },
+    {
+      "question": "The Quit India Movement was launched by:",
+      "options": ["Subhas Chandra Bose", "Jawaharlal Nehru", "Gandhi", "Sardar Patel"],
+      "correct": 2
+    },
+    {
+      "question": "The term 'Vedas' means:",
+      "options": ["Knowledge", "Law", "Ritual", "War"],
+      "correct": 0
+    },
+    {
+      "question": "Who wrote 'Hind Swaraj'?",
+      "options": ["Tilak", "Gandhi", "Nehru", "Rajendra Prasad"],
+      "correct": 1
+    },
+    {
+      "question": "Which Indus Valley site is located in present-day Haryana?",
+      "options": ["Kalibangan", "Banawali", "Harappa", "Lothal"],
+      "correct": 1
+    },
+    {
+      "question": "What was the primary material used in Harappan seals?",
+      "options": ["Gold", "Bronze", "Steatite", "Copper"],
+      "correct": 2
+    },
+    {
+      "question": "The Harappan civilization flourished around:",
+      "options": ["1500 BCE", "2600–1900 BCE", "3200–2800 BCE", "1000 BCE"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following was NOT a feature of Harappan cities?",
+      "options": ["Grid layout", "Underground drainage", "Use of iron", "Citadel"],
+      "correct": 2
+    },
+    {
+      "question": "Which river is closely associated with the Harappan Civilization?",
+      "options": ["Yamuna", "Saraswati", "Godavari", "Krishna"],
+      "correct": 1
+    },
+    {
+      "question": "Who is known as the father of Indian archaeology?",
+      "options": ["R.D. Banerjee", "Alexander Cunningham", "John Marshall", "Mortimer Wheeler"],
+      "correct": 1
+    },
+    {
+      "question": "The Vedic Age is primarily known from which text?",
+      "options": ["Atharva Veda", "Rig Veda", "Sama Veda", "Yajur Veda"],
+      "correct": 1
+    },
+    {
+      "question": "Which dynasty did Ashoka belong to?",
+      "options": ["Maurya", "Gupta", "Kushan", "Satavahana"],
+      "correct": 0
+    },
+    {
+      "question": "Who wrote Arthashastra?",
+      "options": ["Banabhatta", "Kalidasa", "Kautilya", "Tulsidas"],
+      "correct": 2
+    },
+    {
+      "question": "Who was the founder of the Gupta dynasty?",
+      "options": ["Samudragupta", "Chandragupta I", "Chandragupta II", "Harshavardhana"],
+      "correct": 1
+    },
+    {
+      "question": "The Nalanda University flourished under which dynasty?",
+      "options": ["Maurya", "Gupta", "Mughal", "Chola"],
+      "correct": 1
+    },
+    {
+      "question": "Which text is considered a source for understanding early Jainism?",
+      "options": ["Tripitaka", "Upanishads", "Kalpasutra", "Ramayana"],
+      "correct": 2
+    },
+    {
+      "question": "Which Mughal emperor built the Taj Mahal?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "correct": 2
+    },
+    {
+      "question": "Which medieval ruler built the Qutub Minar?",
+      "options": ["Alauddin Khilji", "Qutb-ud-din Aibak", "Iltutmish", "Balban"],
+      "correct": 1
+    },
+    {
+      "question": "Who founded the Vijayanagara Empire?",
+      "options": ["Krishnadeva Raya", "Harihara and Bukka", "Raja Raja Chola", "Rajendra Chola"],
+      "correct": 1
+    },
+    {
+      "question": "Which language was used by Bhakti poet Kabir?",
+      "options": ["Hindi", "Urdu", "Persian", "Avadhi"],
+      "correct": 3
+    },
+    {
+      "question": "Who introduced the Zabti system of revenue collection?",
+      "options": ["Babur", "Sher Shah", "Akbar", "Aurangzeb"],
+      "correct": 2
+    },
+    {
+      "question": "Who introduced the Subsidiary Alliance system?",
+      "options": ["Dalhousie", "Cornwallis", "Wellesley", "Curzon"],
+      "correct": 2
+    },
+    {
+      "question": "Which was the first war fought by British in India?",
+      "options": ["Battle of Buxar", "Battle of Plassey", "First Anglo-Mysore War", "Battle of Panipat"],
+      "correct": 1
+    },
+    {
+      "question": "Which movement was launched in response to the Partition of Bengal?",
+      "options": ["Civil Disobedience", "Swadeshi Movement", "Quit India", "Non-Cooperation"],
+      "correct": 1
+    },
+    {
+      "question": "Who was the Viceroy during the Quit India Movement?",
+      "options": ["Lord Linlithgow", "Lord Mountbatten", "Lord Curzon", "Lord Irwin"],
+      "correct": 0
+    },
+    {
+      "question": "Who led the 1857 revolt in Kanpur?",
+      "options": ["Rani Lakshmi Bai", "Tantia Tope", "Bahadur Shah Zafar", "Nana Sahib"],
+      "correct": 3
+    },
+    {
+      "question": "The Indian Councils Act of 1909 is also called:",
+      "options": ["Act of Morley-Minto", "Act of Pitt", "Act of Curzon", "Act of Irwin"],
+      "correct": 0
+    },
+    {
+      "question": "Gandhiji withdrew the Non-Cooperation Movement because of:",
+      "options": ["Rowlatt Act", "Simon Commission", "Chauri Chaura incident", "Jallianwala Bagh"],
+      "correct": 2
+    },
+    {
+      "question": "The slogan 'Inquilab Zindabad' was popularized by:",
+      "options": ["Bhagat Singh", "Subhas Chandra Bose", "Lala Lajpat Rai", "Bal Gangadhar Tilak"],
+      "correct": 0
+    },
+    {
+      "question": "Which leader formed the Forward Bloc?",
+      "options": ["Gandhi", "Bose", "Nehru", "Patel"],
+      "correct": 1
+    },
+    {
+      "question": "The Cabinet Mission came to India in:",
+      "options": ["1945", "1946", "1947", "1944"],
+      "correct": 1
+    },
+    {
+      "question": "The Indian Constitution was adopted on:",
+      "options": ["15th August 1947", "26th January 1950", "26th November 1949", "2nd October 1948"],
+      "correct": 2
+    },
+    {
+      "question": "Which Article in the Constitution deals with Fundamental Rights?",
+      "options": ["12 to 35", "36 to 51", "1 to 11", "14 to 28"],
+      "correct": 0
+    },
+    {
+      "question": "Which state was created in 1960 from Bombay state?",
+      "options": ["Kerala", "Goa", "Gujarat", "Maharashtra"],
+      "correct": 2
+    },
+    {
+      "question": "Green Revolution mainly benefitted:",
+      "options": ["Eastern India", "Northeast India", "Northwestern India", "Southern India"],
+      "correct": 2
+    },
+    {
+      "question": "Operation Flood was related to:",
+      "options": ["Milk production", "Electricity", "Steel industry", "Food grains"],
+      "correct": 0
+    },
+    {
+      "question": "India’s first nuclear test was conducted in:",
+      "options": ["Pokhran 1974", "Pokhran 1998", "Kudankulam", "Chandipur"],
+      "correct": 0
+    },
+    {
+      "question": "The first woman Prime Minister of India was:",
+      "options": ["Sarojini Naidu", "Indira Gandhi", "Pratibha Patil", "Sushma Swaraj"],
+      "correct": 1
+    },
+    {
+      "question": "Which movement is associated with Sundarlal Bahuguna?",
+      "options": ["Chipko Movement", "Green Movement", "Narmada Bachao", "Sarvodaya"],
+      "correct": 0
+    },
+    {
+      "question": "Which was the first satellite launched by India?",
+      "options": ["INSAT-1", "Aryabhata", "Rohini", "Bhaskara"],
+      "correct": 1
+    },
+    {
+      "question": "Which commission recommended OBC reservations?",
+      "options": ["Mandal Commission", "Kothari Commission", "Sachar Committee", "Verma Commission"],
+      "correct": 0
+    },
+    {
+      "question": "Which city was declared the capital of British India in 1911?",
+      "options": ["Bombay", "Calcutta", "Delhi", "Madras"],
+      "correct": 2
+    },
+    {
+      "question": "The Hindu Mahasabha was founded in:",
+      "options": ["1911", "1915", "1925", "1930"],
+      "correct": 1
+    },
+    {
+      "question": "Which social reformer is associated with the Prarthana Samaj?",
+      "options": ["Dayanand Saraswati", "R.G. Bhandarkar", "Ishwar Chandra Vidyasagar", "Gopal Krishna Gokhale"],
+      "correct": 1
+    },
+    {
+      "question": "Who is known as the 'Iron Man of India'?",
+      "options": ["Nehru", "Bose", "Patel", "Gandhi"],
+      "correct": 2
+    },
+    {
+      "question": "Which act gave India Dominion Status?",
+      "options": ["Act of 1858", "Indian Councils Act", "Government of India Act 1935", "Charter Act 1833"],
+      "correct": 2
+    },
+    {
+      "question": "Who gave the slogan 'Jai Jawan Jai Kisan'?",
+      "options": ["Nehru", "Shastri", "Gandhi", "Patel"],
+      "correct": 1
+    },
+    {
+      "question": "Which Mughal emperor issued the Farman to British in 1717?",
+      "options": ["Aurangzeb", "Shah Alam II", "Farrukhsiyar", "Bahadur Shah Zafar"],
+      "correct": 2
+    },
+    {
+      "question": "Who composed 'Vande Mataram'?",
+      "options": ["Bankim Chandra Chattopadhyay", "Rabindranath Tagore", "Aurobindo Ghosh", "Bipin Chandra Pal"],
+      "correct": 0
+    },
+    {
+      "question": "Which Indian city was the first to have a Municipal Corporation?",
+      "options": ["Mumbai", "Chennai", "Kolkata", "Delhi"],
+      "correct": 1
+    },
+    {
+      "question": "The Jallianwala Bagh Massacre took place in:",
+      "options": ["1917", "1918", "1919", "1920"],
+      "correct": 2
+    },
+    {
+      "question": "The term 'Dual Government' in Bengal was introduced by:",
+      "options": ["Lord Clive", "Warren Hastings", "Lord Dalhousie", "Cornwallis"],
+      "correct": 0
+    }
+
+  ]
+}

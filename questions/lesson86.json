@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "The theory of natural selection was proposed by:",
+      "options": ["Lamarck", "Darwin", "Wallace", "De Vries"],
+      "correct": 1
+    },
+    {
+      "question": "The book 'Origin of Species' was written by:",
+      "options": ["Lamarck", "Darwin", "Huxley", "Mendel"],
+      "correct": 1
+    },
+    {
+      "question": "Which scientist is associated with the mutation theory of evolution?",
+      "options": ["Darwin", "Lamarck", "De Vries", "Wallace"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an example of adaptive radiation?",
+      "options": ["Wings of birds and bats", "Darwin’s finches", "Human evolution", "Industrial melanism"],
+      "correct": 1
+    },
+    {
+      "question": "Homologous organs have:",
+      "options": ["Same function and structure", "Same origin, different function", "Different origin, same function", "No similarity"],
+      "correct": 1
+    },
+    {
+      "question": "Analogous organs are those that:",
+      "options": ["Have the same structure", "Have same function but different origin", "Are vestigial", "Are present in fossils"],
+      "correct": 1
+    },
+    {
+      "question": "The age of fossils can be determined by:",
+      "options": ["Fossil color", "Carbon dating", "Magnetic field", "Soil depth"],
+      "correct": 1
+    },
+    {
+      "question": "Industrial melanism supports the theory of:",
+      "options": ["Mutation", "Natural selection", "Lamarckism", "Genetic drift"],
+      "correct": 1
+    },
+    {
+      "question": "The genetic drift is also called:",
+      "options": ["Founder effect", "Mutation", "Natural selection", "Adaptation"],
+      "correct": 0
+    },
+    {
+      "question": "The first cellular organisms were:",
+      "options": ["Aerobic and autotrophic", "Anaerobic and heterotrophic", "Aerobic and heterotrophic", "Anaerobic and autotrophic"],
+      "correct": 1
+    },
+    {
+      "question": "Which gas was not present in the primitive atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Methane", "Hydrogen"],
+      "correct": 1
+    },
+    {
+      "question": "Miller’s experiment proved the formation of:",
+      "options": ["Prokaryotes", "Nucleic acids", "Proteins", "Amino acids"],
+      "correct": 3
+    },
+    {
+      "question": "Which era is known as the age of reptiles?",
+      "options": ["Paleozoic", "Mesozoic", "Cenozoic", "Precambrian"],
+      "correct": 1
+    },
+    {
+      "question": "The term 'survival of the fittest' was given by:",
+      "options": ["Darwin", "Lamarck", "Wallace", "Spencer"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is a vestigial organ in humans?",
+      "options": ["Appendix", "Liver", "Heart", "Pancreas"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a connecting link between reptiles and birds?",
+      "options": ["Ichthyostega", "Archaeopteryx", "Peripatus", "Sphenodon"],
+      "correct": 1
+    },
+    {
+      "question": "Fossils are usually found in:",
+      "options": ["Igneous rocks", "Sedimentary rocks", "Metamorphic rocks", "Volcanic rocks"],
+      "correct": 1
+    },
+    {
+      "question": "Evolution by natural selection operates at the level of:",
+      "options": ["Individuals", "Genes", "Communities", "Populations"],
+      "correct": 3
+    },
+    {
+      "question": "Which is the first human-like creature?",
+      "options": ["Homo erectus", "Australopithecus", "Homo sapiens", "Neanderthal man"],
+      "correct": 1
+    },
+    {
+      "question": "The study of fossils is called:",
+      "options": ["Anthropology", "Paleontology", "Ecology", "Zoology"],
+      "correct": 1
+    },
+    {
+      "question": "The concept of use and disuse was proposed by:",
+      "options": ["Darwin", "Lamarck", "De Vries", "Wallace"],
+      "correct": 1
+    },
+    {
+      "question": "Which one is considered a connecting link between annelida and arthropoda?",
+      "options": ["Peripatus", "Limulus", "Amoeba", "Planaria"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following scientists disproved spontaneous generation?",
+      "options": ["Miller", "Pasteur", "Darwin", "Oparin"],
+      "correct": 1
+    },
+    {
+      "question": "Oparin and Haldane proposed that life originated from:",
+      "options": ["God", "Space", "Primordial soup", "Clay"],
+      "correct": 2
+    },
+    {
+      "question": "The last common ancestor of humans and apes lived around:",
+      "options": ["10 million years ago", "25 million years ago", "2 million years ago", "100 million years ago"],
+      "correct": 0
+    },
+    {
+      "question": "The Hardy-Weinberg principle is applicable when:",
+      "options": ["Mutation rate is high", "Population is small", "No selection or mutation", "Migration is continuous"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is NOT an evidence for organic evolution?",
+      "options": ["Fossils", "Vestigial organs", "Analogous organs", "Sudden appearance of species"],
+      "correct": 3
+    },
+    {
+      "question": "Which is NOT a postulate of Darwin’s theory?",
+      "options": ["Overproduction", "Variation", "Mutation", "Survival of fittest"],
+      "correct": 2
+    },
+    {
+      "question": "Human evolution began in:",
+      "options": ["Asia", "Europe", "Africa", "Australia"],
+      "correct": 2
+    },
+    {
+      "question": "Which structure is a vestigial organ in humans?",
+      "options": ["Wisdom teeth", "Nose", "Eyelids", "Tongue"],
+      "correct": 0
+    },
+    {
+      "question": "Homo sapiens appeared approximately:",
+      "options": ["10 million years ago", "2 million years ago", "200,000 years ago", "500,000 years ago"],
+      "correct": 2
+    },
+    {
+      "question": "Natural selection acts on:",
+      "options": ["Genotype", "Phenotype", "DNA", "mRNA"],
+      "correct": 1
+    },
+    {
+      "question": "Fittest individuals in evolution are those that:",
+      "options": ["Are strongest", "Survive longest", "Leave most offspring", "Are largest"],
+      "correct": 2
+    },
+    {
+      "question": "The term evolution literally means:",
+      "options": ["Sudden change", "Unfolding", "Transformation", "Mutation"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following animals evolved most recently?",
+      "options": ["Fish", "Reptiles", "Mammals", "Amphibians"],
+      "correct": 2
+    },
+    {
+      "question": "Which process leads to new species formation?",
+      "options": ["Adaptation", "Mutation", "Speciation", "Isolation"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a biochemical evidence of evolution?",
+      "options": ["Fossils", "Homologous organs", "DNA similarity", "Analogous organs"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following supports organic evolution?",
+      "options": ["Religious books", "Common ancestry", "Astrology", "Magic"],
+      "correct": 1
+    },
+    {
+      "question": "Mutation is a:",
+      "options": ["Sudden change in DNA", "Gradual change", "Inherited character", "Variation from environment"],
+      "correct": 0
+    },
+    {
+      "question": "Dinosaurs became extinct in which era?",
+      "options": ["Mesozoic", "Paleozoic", "Cenozoic", "Precambrian"],
+      "correct": 0
+    },
+    {
+      "question": "Common ancestor of amphibians and reptiles was likely:",
+      "options": ["Bird", "Fish", "Lungfish", "Ichthyostega"],
+      "correct": 3
+    },
+    {
+      "question": "Evolution occurs over:",
+      "options": ["Few days", "A generation", "Several generations", "One year"],
+      "correct": 2
+    },
+    {
+      "question": "What causes genetic drift?",
+      "options": ["Large population", "Mutations", "Random events in small populations", "Natural selection"],
+      "correct": 2
+    },
+    {
+      "question": "Which is NOT true of homologous organs?",
+      "options": ["Common origin", "Similar function", "Structural similarity", "Support common ancestry"],
+      "correct": 1
+    },
+    {
+      "question": "The founder effect is a type of:",
+      "options": ["Natural selection", "Mutation", "Genetic drift", "Speciation"],
+      "correct": 2
+    },
+    {
+      "question": "Lamarckism was rejected due to:",
+      "options": ["No mechanism", "Experimental proof", "Acquired traits not inherited", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "In evolution, variation is:",
+      "options": ["Unimportant", "Harmful", "Essential", "Rare"],
+      "correct": 2
+    },
+    {
+      "question": "The human fossil discovered in Germany is:",
+      "options": ["Cro-Magnon", "Neanderthal", "Australopithecus", "Homo erectus"],
+      "correct": 1
+    },
+    {
+      "question": "Which theory suggests life originated from non-living matter?",
+      "options": ["Special creation", "Biogenesis", "Abiogenesis", "Evolutionism"],
+      "correct": 2
+    }
+  ]
+}

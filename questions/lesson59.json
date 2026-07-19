@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Which kingdom includes prokaryotic organisms?",
+      "options": ["Protista", "Fungi", "Monera", "Plantae"],
+      "correct": 2
+    },
+    {
+      "question": "Which among the following is a cyanobacterium?",
+      "options": ["Nostoc", "Paramecium", "Aspergillus", "Amoeba"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is not a characteristic of Monera?",
+      "options": ["Lack of true nucleus", "Presence of cell wall", "Multicellular", "Asexual reproduction"],
+      "correct": 2
+    },
+    {
+      "question": "The kingdom Protista includes:",
+      "options": ["Multicellular algae", "Prokaryotes", "Unicellular eukaryotes", "Fungi-like prokaryotes"],
+      "correct": 2
+    },
+    {
+      "question": "Fungi store food in the form of:",
+      "options": ["Starch", "Cellulose", "Glycogen", "Lipid"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following shows both autotrophic and heterotrophic mode of nutrition?",
+      "options": ["Euglena", "Paramecium", "Mucor", "Penicillium"],
+      "correct": 0
+    },
+    {
+      "question": "Mycoplasma differs from other prokaryotes in:",
+      "options": ["Lacking DNA", "Lacking ribosomes", "Lacking cell wall", "Having nucleus"],
+      "correct": 2
+    },
+    {
+      "question": "Slime moulds resemble fungi in:",
+      "options": ["Nutrition", "Spore formation", "Prokaryotic nature", "Cell wall composition"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an example of unicellular fungus?",
+      "options": ["Penicillium", "Rhizopus", "Yeast", "Agaricus"],
+      "correct": 2
+    },
+    {
+      "question": "Archaebacteria differ from eubacteria in:",
+      "options": ["Mode of nutrition", "Ribosome type", "Cell membrane structure", "Nuclear membrane presence"],
+      "correct": 2
+    },
+    {
+      "question": "Which group includes methanogens?",
+      "options": ["Eubacteria", "Archaebacteria", "Protista", "Fungi"],
+      "correct": 1
+    },
+    {
+      "question": "Which kingdom includes organisms with chitinous cell wall?",
+      "options": ["Monera", "Protista", "Fungi", "Plantae"],
+      "correct": 2
+    },
+    {
+      "question": "Cell walls of most fungi are made of:",
+      "options": ["Cellulose", "Peptidoglycan", "Chitin", "Glycogen"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following are called 'living fossils' among prokaryotes?",
+      "options": ["Halophiles", "E. coli", "Mycoplasma", "Cyanobacteria"],
+      "correct": 3
+    },
+    {
+      "question": "Which group of organisms produce oxygen during photosynthesis?",
+      "options": ["Slime moulds", "Cyanobacteria", "Mycoplasma", "Fungi"],
+      "correct": 1
+    },
+    {
+      "question": "The term 'Protista' was given by:",
+      "options": ["Whittaker", "Ernst Haeckel", "Linnaeus", "Aristotle"],
+      "correct": 1
+    },
+    {
+      "question": "Which Protista has cell wall made of silica?",
+      "options": ["Euglena", "Amoeba", "Diatoms", "Paramecium"],
+      "correct": 2
+    },
+    {
+      "question": "Fungi obtain nutrition by:",
+      "options": ["Photosynthesis", "Ingestion", "Absorption", "Chemosynthesis"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an example of saprophytic fungus?",
+      "options": ["Rhizopus", "Plasmodium", "Euglena", "Amoeba"],
+      "correct": 0
+    },
+    {
+      "question": "Which fungal group includes bread molds?",
+      "options": ["Ascomycetes", "Basidiomycetes", "Zygomycetes", "Deuteromycetes"],
+      "correct": 2
+    },
+    {
+      "question": "Which class of fungi includes mushrooms?",
+      "options": ["Zygomycetes", "Ascomycetes", "Basidiomycetes", "Deuteromycetes"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not a mode of reproduction in fungi?",
+      "options": ["Budding", "Binary fission", "Fragmentation", "Spore formation"],
+      "correct": 1
+    },
+    {
+      "question": "Which protist causes malaria?",
+      "options": ["Trypanosoma", "Plasmodium", "Giardia", "Entamoeba"],
+      "correct": 1
+    },
+    {
+      "question": "Which organism lacks a definite shape?",
+      "options": ["Paramecium", "Amoeba", "Euglena", "Chlamydomonas"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is used as biofertilizer?",
+      "options": ["Rhizopus", "Nostoc", "Plasmodium", "Aspergillus"],
+      "correct": 1
+    },
+    {
+      "question": "Which organism can survive in extreme saline conditions?",
+      "options": ["Halophiles", "Thermoacidophiles", "Methanogens", "E. coli"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following causes African sleeping sickness?",
+      "options": ["Plasmodium", "Trypanosoma", "Entamoeba", "Giardia"],
+      "correct": 1
+    },
+    {
+      "question": "Which fungal group is known as 'imperfect fungi'?",
+      "options": ["Ascomycetes", "Zygomycetes", "Deuteromycetes", "Basidiomycetes"],
+      "correct": 2
+    },
+    {
+      "question": "Which kingdom includes organisms with both autotrophic and heterotrophic nutrition?",
+      "options": ["Monera", "Fungi", "Protista", "Plantae"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following protists has contractile vacuoles?",
+      "options": ["Euglena", "Paramecium", "Amoeba", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which organisms are typically found in hot springs?",
+      "options": ["Halophiles", "Thermoacidophiles", "Methanogens", "Cyanobacteria"],
+      "correct": 1
+    },
+    {
+      "question": "Which fungal structure is used for sexual reproduction?",
+      "options": ["Conidia", "Sporangia", "Zygospore", "Mycelium"],
+      "correct": 2
+    },
+    {
+      "question": "Which organism moves using cilia?",
+      "options": ["Euglena", "Amoeba", "Paramecium", "Trypanosoma"],
+      "correct": 2
+    },
+    {
+      "question": "The term 'kingdom' in taxonomy represents:",
+      "options": ["Smallest unit", "A category below species", "Highest rank in classification", "Level below genus"],
+      "correct": 2
+    },
+    {
+      "question": "Who proposed the five kingdom classification?",
+      "options": ["Linnaeus", "Haeckel", "Whittaker", "Copeland"],
+      "correct": 2
+    },
+    {
+      "question": "Slime moulds move and ingest food like:",
+      "options": ["Fungi", "Algae", "Protozoans", "Bacteria"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following do not have peptidoglycan in cell wall?",
+      "options": ["Eubacteria", "Archaebacteria", "Cyanobacteria", "Mycoplasma"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is NOT included in Protista?",
+      "options": ["Chlamydomonas", "Amoeba", "Nostoc", "Paramecium"],
+      "correct": 2
+    },
+    {
+      "question": "Which characteristic is unique to fungi?",
+      "options": ["Photosynthesis", "Peptidoglycan wall", "Chitin wall", "Cilia for movement"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a symbiotic fungus?",
+      "options": ["Rhizobium", "Mycorrhiza", "Agaricus", "Mucor"],
+      "correct": 1
+    },
+    {
+      "question": "Which unicellular algae is used as bioindicator?",
+      "options": ["Euglena", "Chlorella", "Spirogyra", "Navicula"],
+      "correct": 3
+    },
+    {
+      "question": "Which among the following lacks mitochondria?",
+      "options": ["Plasmodium", "Paramecium", "Euglena", "Monera"],
+      "correct": 3
+    },
+    {
+      "question": "Which is an obligate anaerobe?",
+      "options": ["Mycoplasma", "Thermoacidophiles", "Methanogens", "Cyanobacteria"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following statements about Monera is incorrect?",
+      "options": ["They are prokaryotes", "They include blue-green algae", "They have membrane-bound organelles", "They reproduce asexually"],
+      "correct": 2
+    },
+    {
+      "question": "Which organism is wrongly placed in kingdom Protista?",
+      "options": ["Euglena", "Diatom", "Amoeba", "Spirogyra"],
+      "correct": 3
+    },
+    {
+      "question": "The cell wall of diatoms is made of:",
+      "options": ["Chitin", "Cellulose", "Silica", "Pectin"],
+      "correct": 2
+    },
+    {
+      "question": "Trypanosoma moves by:",
+      "options": ["Cilia", "Flagella", "Pseudopodia", "Undulation"],
+      "correct": 1
+    },
+    {
+      "question": "Which group has no defined sexual stage?",
+      "options": ["Zygomycetes", "Ascomycetes", "Deuteromycetes", "Basidiomycetes"],
+      "correct": 2
+    },
+    {
+      "question": "Which is a filamentous cyanobacterium?",
+      "options": ["Spirulina", "Anabaena", "Nostoc", "All of these"],
+      "correct": 3
+    }
+  ]
+}

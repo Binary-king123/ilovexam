@@ -1,0 +1,239 @@
+{
+  "some_basic_concepts_of_chemistry": [
+    {
+      "question": "Which of the following is a SI unit of amount of substance?",
+      "options": ["Mole", "Gram", "Kilogram", "Liter"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a derived unit?",
+      "options": ["Meter", "Second", "Newton", "Kelvin"],
+      "correct": 2
+    },
+    {
+      "question": "The number of atoms in 1 mole of an element is called:",
+      "options": ["Planck’s constant", "Avogadro's number", "Molar mass", "Atomic number"],
+      "correct": 1
+    },
+    {
+      "question": "1 amu (atomic mass unit) is equal to:",
+      "options": ["1.66 × 10⁻²⁴ g", "1.66 × 10⁻²⁷ kg", "1.66 × 10⁻²³ kg", "1.66 × 10⁻²⁶ g"],
+      "correct": 1
+    },
+    {
+      "question": "How many significant figures are in the number 0.00560?",
+      "options": ["2", "3", "4", "5"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a base SI unit?",
+      "options": ["Kelvin", "Mole", "Joule", "Second"],
+      "correct": 2
+    },
+    {
+      "question": "The molar mass of water is:",
+      "options": ["16 g/mol", "18 g/mol", "20 g/mol", "10 g/mol"],
+      "correct": 1
+    },
+    {
+      "question": "Avogadro’s number is:",
+      "options": ["6.022 × 10²²", "6.022 × 10²³", "3.01 × 10²³", "1.602 × 10⁻¹⁹"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has the maximum number of atoms?",
+      "options": ["1 mole of Na", "1 mole of H₂", "1 mole of H₂O", "All have equal atoms"],
+      "correct": 2
+    },
+    {
+      "question": "Which law states that the total mass remains constant in a chemical reaction?",
+      "options": ["Law of definite proportion", "Law of multiple proportion", "Law of conservation of mass", "Avogadro’s law"],
+      "correct": 2
+    },
+    {
+      "question": "A mole is defined as the amount of substance containing:",
+      "options": ["12 g of carbon", "6.022 × 10²³ particles", "1 g of hydrogen", "22.4 L of gas"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following represents empirical formula?",
+      "options": ["C₆H₁₂O₆", "H₂O₂", "CH₂O", "C₂H₄"],
+      "correct": 2
+    },
+    {
+      "question": "In which state, are atoms most tightly packed?",
+      "options": ["Solid", "Liquid", "Gas", "Plasma"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is a homogeneous mixture?",
+      "options": ["Sand and salt", "Air", "Oil and water", "Milk"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an example of intensive property?",
+      "options": ["Mass", "Volume", "Temperature", "Enthalpy"],
+      "correct": 2
+    },
+    {
+      "question": "The molecular formula of a compound is a multiple of its:",
+      "options": ["Structural formula", "Empirical formula", "Chemical formula", "Physical formula"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a physical quantity?",
+      "options": ["Mass", "Density", "Pressure", "Color"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following has the greatest number of molecules?",
+      "options": ["1 g of H₂", "1 g of O₂", "1 g of CH₄", "1 g of CO₂"],
+      "correct": 0
+    },
+    {
+      "question": "How many molecules are present in 1 mole of water?",
+      "options": ["3.01 × 10²³", "6.022 × 10²³", "1.204 × 10²⁴", "18"],
+      "correct": 1
+    },
+    {
+      "question": "Which law states that equal volumes of gases at same temperature and pressure contain equal number of molecules?",
+      "options": ["Boyle’s Law", "Charles’s Law", "Avogadro’s Law", "Gay-Lussac’s Law"],
+      "correct": 2
+    },
+    {
+      "question": "1 mole of a gas at STP occupies:",
+      "options": ["22.4 mL", "22.4 L", "1 L", "1 m³"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a chemical change?",
+      "options": ["Melting of ice", "Boiling of water", "Rusting of iron", "Evaporation of alcohol"],
+      "correct": 2
+    },
+    {
+      "question": "Density has the units:",
+      "options": ["kg", "m³", "kg/m³", "g"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a heteronuclear diatomic molecule?",
+      "options": ["O₂", "H₂", "N₂", "HCl"],
+      "correct": 3
+    },
+    {
+      "question": "If 1 mole of CH₄ contains 4 moles of H atoms, then 2 moles of CH₄ contain:",
+      "options": ["8 atoms", "4 atoms", "2 atoms", "8 moles of H atoms"],
+      "correct": 3
+    },
+    {
+      "question": "Molar volume of a gas at NTP is:",
+      "options": ["22.4 L", "24.0 L", "2.24 L", "1.00 L"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is the lightest molecule?",
+      "options": ["H₂", "He", "O₂", "N₂"],
+      "correct": 0
+    },
+    {
+      "question": "1 mole of NaCl contains:",
+      "options": ["6.022×10²³ ions", "6.022×10²³ molecules", "12.044×10²³ ions", "1 g of NaCl"],
+      "correct": 2
+    },
+    {
+      "question": "What is the molecular mass of H₂SO₄?",
+      "options": ["98 u", "100 u", "96 u", "102 u"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a monoatomic element?",
+      "options": ["H₂", "Cl₂", "He", "O₂"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is NOT a unit of pressure?",
+      "options": ["atm", "bar", "Pa", "mol"],
+      "correct": 3
+    },
+    {
+      "question": "Which is the correct SI unit for molar mass?",
+      "options": ["g", "g/mol", "kg", "kg/mol"],
+      "correct": 3
+    },
+    {
+      "question": "1 gram equivalent of a substance contains:",
+      "options": ["1 mole of particles", "1 equivalent of charge", "6.022×10²³ particles", "Both A and C"],
+      "correct": 3
+    },
+    {
+      "question": "Empirical formula of C₆H₁₂O₆ is:",
+      "options": ["C₂H₄O₂", "C₆H₁₂O₆", "CH₂O", "CHO"],
+      "correct": 2
+    },
+    {
+      "question": "Limiting reagent is the one which:",
+      "options": ["Is left in excess", "Gets completely consumed", "Is least reactive", "None of these"],
+      "correct": 1
+    },
+    {
+      "question": "If density of gas is 1.25 g/L at STP, its molar mass is:",
+      "options": ["22.4 g/mol", "28.0 g/mol", "30.0 g/mol", "32.0 g/mol"],
+      "correct": 1
+    },
+    {
+      "question": "Atomicity of ozone (O₃) is:",
+      "options": ["1", "2", "3", "4"],
+      "correct": 2
+    },
+    {
+      "question": "The mass percentage of hydrogen in H₂O is approximately:",
+      "options": ["11.1%", "88.9%", "33.3%", "50%"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following obeys the law of definite proportions?",
+      "options": ["CO", "NO", "CO₂", "All of these"],
+      "correct": 2
+    },
+    {
+      "question": "The molar mass of NaOH is:",
+      "options": ["38 g/mol", "40 g/mol", "42 g/mol", "44 g/mol"],
+      "correct": 1
+    },
+    {
+      "question": "A sample of gas occupies 22.4 L at STP. It must contain:",
+      "options": ["1 mole", "2 moles", "0.5 mole", "22.4 moles"],
+      "correct": 0
+    },
+    {
+      "question": "Which law is based on conservation of atoms in a chemical reaction?",
+      "options": ["Law of conservation of mass", "Law of multiple proportion", "Law of definite proportion", "Dalton’s Law"],
+      "correct": 0
+    },
+    {
+      "question": "What is the volume occupied by 2 moles of an ideal gas at STP?",
+      "options": ["11.2 L", "22.4 L", "44.8 L", "33.6 L"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is NOT a fundamental quantity?",
+      "options": ["Mass", "Length", "Time", "Speed"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is the correct molar mass of HCl?",
+      "options": ["35.5 g/mol", "36.5 g/mol", "37.5 g/mol", "34.5 g/mol"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is NOT a component of Dalton’s atomic theory?",
+      "options": ["Atoms are indivisible", "Atoms of different elements differ", "Atoms can be created", "Atoms combine in simple whole numbers"],
+      "correct": 2
+    },
+    {
+      "question": "Molar volume of an ideal gas is valid at:",
+      "options": ["Room temperature", "High pressure", "0°C and 1 atm", "All conditions"],
+      "correct": 2
+    }
+  ]
+}

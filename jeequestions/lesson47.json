@@ -1,0 +1,244 @@
+{
+  "test": [
+    {
+      "question": "Rate constant unit for a second-order reaction is:",
+      "options": ["s⁻¹", "M⁻¹s⁻¹", "Ms⁻¹", "M²s⁻¹"],
+      "correct": 1
+    },
+    {
+      "question": "Order of reaction can be:\nm(t) 1,2\n?",
+      "options": ["0,1,2", "only 1", "only 2", "only integer"],
+      "correct": 0
+    },
+    {
+      "question": "In kinetics the rate law is experimentally determined.",
+      "options": ["true", "false", "sometimes", "never"],
+      "correct": 0
+    },
+    {
+      "question": "Increasing temperature generally ____ reaction rate.",
+      "options": ["increases", "reduces", "unchanged", "depends"],
+      "correct": 0
+    },
+    {
+      "question": "Arrhenius equation involves activation energy Ea in:",
+      "options": ["exponential", "linear", "quadratic", "log"],
+      "correct": 0
+    },
+    {
+      "question": "Higher activation energy gives:",
+      "options": ["slower rate", "faster rate", "unchanged rate", "depends"],
+      "correct": 0
+    },
+    {
+      "question": "Half life for first order reaction is ",
+      "options": ["t1/2 = 0.693/k", "t1/2 = 1/k", "t= kt", "none"],
+      "correct": 0
+    },
+    {
+      "question": "Rate constant k depends on pressure sometimes:",
+      "options": ["gas-phase", "liquid-phase", "zwitterion", "solid-phase"],
+      "correct": 0
+    },
+    {
+      "question": "In collision theory reaction rate depends on collision frequency",
+      "options": ["true", "false", "rarely", "never"],
+      "correct": 0
+    },
+    {
+      "question": "Transition state is:",
+      "options": ["highest potential energy", "lowest", "middle", "first"],
+      "correct": 0
+    },
+    {
+      "question": "Zero order reaction rate is independent of",
+      "options": ["concentration", "time", "temp", "pressure"],
+      "correct": 0
+    },
+    {
+      "question": "The activation energy can be obtained from Arrhenius plot: ln k vs 1/T slope is -Ea/R:",
+      "options": ["true", "false", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "A catalytic process lowers activation energy:",
+      "options": ["true", "false", "no change", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Pseudo first order kinetics is used when one reactant is in large excess:",
+      "options": ["true", "false", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Rate = k[A]^2 implies:",
+      "options": ["second order", "first order", "zero order", "third order"],
+      "correct": 0
+    },
+    {
+      "question": "In integrated rate equation for 1st order: ln[A] vs time is straight line:",
+      "options": ["true", "false", "curved", "sometimes"],
+      "correct": 0
+    },
+    {
+      "question": "Temperature doubling rule: rate approximately doubles per 10 °C:",
+      "options": ["true", "false", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Magnitude of k also depends on molecularity:",
+      "options": ["true", "false", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Rate determining step in mechanism is:",
+      "options": ["slowest", "fastest", "equilibrium", "irreversible"],
+      "correct": 0
+    },
+    {
+      "question": "A unimolecular reaction occurs by:",
+      "options": ["single molecule decomposition", "two body collision", "three body", "chain"],
+      "correct": 0
+    },
+    {
+      "question": "Catalysts affect ΔG of reaction:",
+      "options": ["no change", "increase", "decrease", "sometimes"],
+      "correct": 0
+    },
+    {
+      "question": "Rate law includes only reactant concentrations not products:",
+      "options": ["true", "false", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "If 2A → products and rate law = k[A]^2, then molecularity =2:",
+      "options": ["true", "false", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Complex reactions kinetics may not follow simple order laws:",
+      "options": ["true", "false", "never", "always"],
+      "correct": 0
+    },
+    {
+      "question": "Temperature dependence is given by Arrhenius factor: e^-Ea/RT:",
+      "options": ["true", "false", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "For a reaction with Ea = 50 kJ mol⁻¹, increasing T increases rate:",
+      "options": ["true", "false", "rare", "no"],
+      "correct": 0
+    },
+    {
+      "question": "Azeroth step with highest barrier controls rate:",
+      "options": ["true", "false", "unknown", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "In steady state, intermediate concentration is constant:",
+      "options": ["true", "false", "never", "sometimes"],
+      "correct": 0
+    },
+    {
+      "question": "In Eyring transition state theory, ΔG‡ required:",
+      "options": ["true", "false", "maybe", "sometimes"],
+      "correct": 0
+    },
+    {
+      "question": "Half-life for second order depends on initial concentration:",
+      "options": ["true", "false", "never", "always"],
+      "correct": 0
+    },
+    {
+      "question": "Catalyst is not consumed in reaction:",
+      "options": ["true", "false", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Molecularity = number of species in elementary step:",
+      "options": ["true", "false", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Reaction mechanism does not include intermediates:",
+      "options": ["false", "true", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Rate = k[A][B] log plot helps determine order:",
+      "options": ["true", "false", "rare", "sometimes"],
+      "correct": 0
+    },
+    {
+      "question": "Temperature is directly proportional to reaction rate:",
+      "options": ["true", "false", "varies", "uncertain"],
+      "correct": 0
+    },
+    {
+      "question": "For reaction A→products, rate = k[A]^0 is zero order:",
+      "options": ["true", "false", "rare", "no"],
+      "correct": 0
+    },
+    {
+      "question": "Inference from kinetics can reveal mechanism:",
+      "options": ["true", "false", "rare", "no"],
+      "correct": 0
+    },
+    {
+      "question": "A 2-step mechanism may yield rate law with fractional order:",
+      "options": ["true", "false", "never", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Chain reactions proceed via radicals:",
+      "options": ["true", "false", "never", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Catalyst can change reaction pathway to lower activation energy:",
+      "options": ["true", "false", "no", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "The exponent in rate law can be zero:",
+      "options": ["true", "false", "rare", "no"],
+      "correct": 0
+    },
+    {
+      "question": "Molecularity must be whole number:",
+      "options": ["true", "false", "fractional", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Rate laws can't be deduced from stoichiometry of overall reaction:",
+      "options": ["true", "false", "sometimes", "rare"],
+      "correct": 0
+    },
+    {
+      "question": "Temperature exponentially affects rate constant:",
+      "options": ["true", "false", "rare", "no"],
+      "correct": 0
+    },
+    {
+      "question": "Enzyme kinetics exhibit Michaelis-Menten behavior:",
+      "options": ["true", "false", "rare", "no"],
+      "correct": 0
+    },
+    {
+      "question": "Rate of reaction decreases as reactants are consumed:",
+      "options": ["true", "false", "rare", "no"],
+      "correct": 0
+    },
+    {
+      "question": "Catalysis can be homogeneous or heterogeneous:",
+      "options": ["true", "false", "rare", "no"],
+      "correct": 0
+    },
+    {
+      "question": "Signed orders like -1 (inhibition) are possible:",
+      "options": ["true", "false", "rare", "no"],
+      "correct": 0
+    }
+  ]
+}

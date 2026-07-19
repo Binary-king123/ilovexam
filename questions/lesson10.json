@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "SI unit of heat is:",
+      "options": ["Joule", "Calorie", "Kelvin", "Watt"],
+      "correct": 0
+    },
+    {
+      "question": "Heat is a form of:",
+      "options": ["Work", "Energy", "Power", "Mass"],
+      "correct": 1
+    },
+    {
+      "question": "Temperature is a measure of:",
+      "options": ["Total energy", "Kinetic energy", "Potential energy", "Internal energy"],
+      "correct": 1
+    },
+    {
+      "question": "Which scale has the same degree size as Celsius?",
+      "options": ["Kelvin", "Fahrenheit", "Rankine", "None"],
+      "correct": 0
+    },
+    {
+      "question": "The SI unit of thermal conductivity is:",
+      "options": ["W/m·K", "J/kg·K", "W/m²", "W/K"],
+      "correct": 0
+    },
+    {
+      "question": "The process of heat transfer that does not require any medium is:",
+      "options": ["Conduction", "Convection", "Radiation", "All of these"],
+      "correct": 2
+    },
+    {
+      "question": "In thermal expansion, a solid expands most in:",
+      "options": ["Length", "Area", "Volume", "Mass"],
+      "correct": 2
+    },
+    {
+      "question": "Heat required to raise the temperature of a body by 1°C is called:",
+      "options": ["Latent heat", "Specific heat", "Thermal capacity", "Thermal conductivity"],
+      "correct": 2
+    },
+    {
+      "question": "The amount of heat required to convert unit mass of solid to liquid at constant temperature is:",
+      "options": ["Latent heat of vaporization", "Latent heat of fusion", "Specific heat", "Thermal capacity"],
+      "correct": 1
+    },
+    {
+      "question": "At which temperature are Celsius and Fahrenheit equal?",
+      "options": ["0°", "100°", "-40°", "273°"],
+      "correct": 2
+    },
+    {
+      "question": "The boiling point of water increases with:",
+      "options": ["Decrease in pressure", "Increase in pressure", "Adding salt", "Both B and C"],
+      "correct": 3
+    },
+    {
+      "question": "A black body is a:",
+      "options": ["Good reflector", "Poor emitter", "Perfect absorber and emitter", "Transparent body"],
+      "correct": 2
+    },
+    {
+      "question": "The emissivity of a perfect black body is:",
+      "options": ["0", "1", "Greater than 1", "Between 0 and 1"],
+      "correct": 1
+    },
+    {
+      "question": "Thermal expansion of gases is:",
+      "options": ["Linear", "Areal", "Volumetric", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Thermal conductivity of metals is high because:",
+      "options": ["Free electrons", "Lattice structure", "Low density", "High boiling point"],
+      "correct": 0
+    },
+    {
+      "question": "Which method of heat transfer is dominant in solids?",
+      "options": ["Convection", "Radiation", "Conduction", "Evaporation"],
+      "correct": 2
+    },
+    {
+      "question": "Convection occurs mostly in:",
+      "options": ["Solids", "Liquids and gases", "Vacuum", "Metals"],
+      "correct": 1
+    },
+    {
+      "question": "The rate of cooling of a body depends on:",
+      "options": ["Temperature of the body only", "Temperature of surroundings only", "Difference in temperatures", "Mass of the body"],
+      "correct": 2
+    },
+    {
+      "question": "The coefficient of linear expansion has the unit:",
+      "options": ["1/K", "K", "m/K", "K/m"],
+      "correct": 0
+    },
+    {
+      "question": "The formula for heat conduction is:",
+      "options": ["Q = mcΔT", "Q = kAΔT/L", "Q = mL", "Q = σeAT⁴"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has the highest specific heat?",
+      "options": ["Copper", "Iron", "Water", "Mercury"],
+      "correct": 2
+    },
+    {
+      "question": "A calorimeter works on the principle of:",
+      "options": ["Newton’s law", "Conservation of momentum", "Conservation of energy", "Thermal expansion"],
+      "correct": 2
+    },
+    {
+      "question": "The temperature at which a substance changes from solid to liquid is called:",
+      "options": ["Boiling point", "Melting point", "Sublimation point", "Critical point"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a good conductor of heat?",
+      "options": ["Air", "Wood", "Copper", "Plastic"],
+      "correct": 2
+    },
+    {
+      "question": "The relation between Celsius and Kelvin is:",
+      "options": ["K = C + 273.15", "C = K + 273", "K = C - 273", "C = K × 273"],
+      "correct": 0
+    },
+    {
+      "question": "Heat energy is transferred in vacuum by:",
+      "options": ["Conduction", "Convection", "Radiation", "Conduction and convection"],
+      "correct": 2
+    },
+    {
+      "question": "The thermal expansion in gases is more than in solids due to:",
+      "options": ["Loose bonding", "High density", "Free motion of molecules", "None"],
+      "correct": 2
+    },
+    {
+      "question": "SI unit of specific heat capacity is:",
+      "options": ["J/kg", "J/kg·K", "J/K", "J/m²"],
+      "correct": 1
+    },
+    {
+      "question": "Which color absorbs the most heat?",
+      "options": ["White", "Blue", "Black", "Silver"],
+      "correct": 2
+    },
+    {
+      "question": "What happens to the length of a metal rod when heated?",
+      "options": ["Decreases", "Increases", "Remains same", "Becomes infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is not a mode of heat transfer?",
+      "options": ["Conduction", "Convection", "Radiation", "Reflection"],
+      "correct": 3
+    },
+    {
+      "question": "Which law gives the rate of cooling?",
+      "options": ["Stefan’s law", "Newton’s law of cooling", "Fourier’s law", "Ohm’s law"],
+      "correct": 1
+    },
+    {
+      "question": "The amount of heat required to change the temperature of 1 kg of a substance by 1 K is:",
+      "options": ["Latent heat", "Specific heat", "Thermal capacity", "Internal energy"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following has lowest thermal conductivity?",
+      "options": ["Wood", "Water", "Air", "Silver"],
+      "correct": 2
+    },
+    {
+      "question": "Latent heat is used during:",
+      "options": ["Temperature change", "Phase change", "Expansion", "Compression"],
+      "correct": 1
+    },
+    {
+      "question": "The emissive power of a body depends on:",
+      "options": ["Nature", "Temperature", "Surface area", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Heat capacity is the product of:",
+      "options": ["Mass and temperature", "Mass and specific heat", "Volume and density", "Heat and work"],
+      "correct": 1
+    },
+    {
+      "question": "A perfect black body at high temperature emits radiation according to:",
+      "options": ["Stefan's law", "Newton’s law", "Faraday’s law", "Snell's law"],
+      "correct": 0
+    },
+    {
+      "question": "What happens to specific heat with increase in temperature?",
+      "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"],
+      "correct": 2
+    },
+    {
+      "question": "When a liquid evaporates, its temperature:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes infinite"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a poor conductor of heat?",
+      "options": ["Silver", "Copper", "Air", "Aluminium"],
+      "correct": 2
+    },
+    {
+      "question": "The linear expansion of a material depends on:",
+      "options": ["Length only", "Temperature only", "Both A and B", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Good absorbers of heat are also:",
+      "options": ["Poor radiators", "Good reflectors", "Good radiators", "Poor absorbers"],
+      "correct": 2
+    },
+    {
+      "question": "The Stefan–Boltzmann law is given by:",
+      "options": ["P = σT⁴", "P = σ/T⁴", "P = kT", "P = mcT"],
+      "correct": 0
+    },
+    {
+      "question": "On heating, solids generally:",
+      "options": ["Contract", "Expand", "Vibrate less", "Become heavier"],
+      "correct": 1
+    },
+    {
+      "question": "Thermal equilibrium means:",
+      "options": ["Same pressure", "Same energy", "Same temperature", "Same volume"],
+      "correct": 2
+    },
+    {
+      "question": "Evaporation causes:",
+      "options": ["Cooling", "Heating", "No change", "Condensation"],
+      "correct": 0
+    },
+    {
+      "question": "The heat energy associated with a temperature change is:",
+      "options": ["Q = mL", "Q = mcΔT", "Q = PΔV", "Q = σT⁴"],
+      "correct": 1
+    },
+    {
+      "question": "A substance with high specific heat:",
+      "options": ["Heats up quickly", "Cools slowly", "Has low density", "Is always a metal"],
+      "correct": 1
+    }
+  ]
+}

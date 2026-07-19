@@ -1,0 +1,239 @@
+{
+  "test": [
+    {
+      "question": "The first stable product of C3 cycle is:",
+      "options": ["PGA", "PEP", "RuBP", "OAA"],
+      "correct": 0
+    },
+    {
+      "question": "Which pigment is essential for photosynthesis?",
+      "options": ["Xanthophyll", "Anthocyanin", "Chlorophyll a", "Chlorophyll b"],
+      "correct": 2
+    },
+    {
+      "question": "Site of light reaction in chloroplast is:",
+      "options": ["Stroma", "Grana", "Outer membrane", "Inner membrane"],
+      "correct": 1
+    },
+    {
+      "question": "Photosystem I absorbs light maximally at:",
+      "options": ["680 nm", "700 nm", "500 nm", "400 nm"],
+      "correct": 1
+    },
+    {
+      "question": "Oxygen in photosynthesis is released from:",
+      "options": ["CO₂", "Glucose", "Water", "Chlorophyll"],
+      "correct": 2
+    },
+    {
+      "question": "Hill’s reaction demonstrates the evolution of:",
+      "options": ["Oxygen", "Carbon dioxide", "NADPH", "ATP"],
+      "correct": 0
+    },
+    {
+      "question": "The primary acceptor of CO₂ in C4 plants is:",
+      "options": ["PGA", "PEP", "RuBP", "NADP"],
+      "correct": 1
+    },
+    {
+      "question": "RuBisCO has affinity for:",
+      "options": ["Only CO₂", "Only O₂", "Both CO₂ and O₂", "None"],
+      "correct": 2
+    },
+    {
+      "question": "Z scheme of photosynthesis explains:",
+      "options": ["Photophosphorylation", "Electron transport", "Oxygen evolution", "CO₂ fixation"],
+      "correct": 1
+    },
+    {
+      "question": "C4 pathway was first discovered in:",
+      "options": ["Maize", "Pea", "Wheat", "Potato"],
+      "correct": 0
+    },
+    {
+      "question": "Calvin cycle takes place in the:",
+      "options": ["Thylakoid", "Grana", "Stroma", "Mitochondria"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a C4 plant?",
+      "options": ["Rice", "Wheat", "Maize", "Barley"],
+      "correct": 2
+    },
+    {
+      "question": "NADPH is produced during:",
+      "options": ["Cyclic photophosphorylation", "Non-cyclic photophosphorylation", "Calvin cycle", "Photorespiration"],
+      "correct": 1
+    },
+    {
+      "question": "Photolysis of water requires:",
+      "options": ["PSI", "PSII", "Stroma", "RuBisCO"],
+      "correct": 1
+    },
+    {
+      "question": "In cyclic photophosphorylation:",
+      "options": ["O₂ is released", "NADPH is formed", "ATP is formed", "Both NADPH and O₂ are formed"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is not a product of light reaction?",
+      "options": ["O₂", "ATP", "NADPH", "PGA"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these pigments is yellow in color?",
+      "options": ["Chlorophyll a", "Chlorophyll b", "Xanthophyll", "Carotene"],
+      "correct": 2
+    },
+    {
+      "question": "Kranz anatomy is characteristic of:",
+      "options": ["CAM plants", "C4 plants", "C3 plants", "Bryophytes"],
+      "correct": 1
+    },
+    {
+      "question": "C4 cycle is also known as:",
+      "options": ["Calvin cycle", "Hatch and Slack cycle", "Photorespiration", "Glycolysis"],
+      "correct": 1
+    },
+    {
+      "question": "The number of ATPs used in C4 cycle for one glucose is:",
+      "options": ["12", "18", "30", "ATP not used"],
+      "correct": 2
+    },
+    {
+      "question": "Which pigment protects chlorophyll from photo-oxidation?",
+      "options": ["Anthocyanin", "Xanthophyll", "Chlorophyll b", "Carotenoid"],
+      "correct": 3
+    },
+    {
+      "question": "Photorespiration involves:",
+      "options": ["Chloroplast, mitochondria, peroxisome", "Only chloroplast", "Only mitochondria", "Only peroxisome"],
+      "correct": 0
+    },
+    {
+      "question": "CO₂ fixation in Calvin cycle is catalyzed by:",
+      "options": ["Rubisco", "NADP", "ATPase", "Cytochrome"],
+      "correct": 0
+    },
+    {
+      "question": "The acceptor molecule of CO₂ in Calvin cycle is:",
+      "options": ["RuBP", "PGA", "PEP", "OAA"],
+      "correct": 0
+    },
+    {
+      "question": "Starch is formed in:",
+      "options": ["Grana", "Stroma", "Cytosol", "Thylakoid lumen"],
+      "correct": 1
+    },
+    {
+      "question": "Plants that open stomata at night are:",
+      "options": ["C3", "C4", "CAM", "All"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these shows high photosynthetic efficiency?",
+      "options": ["C3 plants", "C4 plants", "CAM plants", "Gymnosperms"],
+      "correct": 1
+    },
+    {
+      "question": "CAM plants fix CO₂ first into:",
+      "options": ["RuBP", "PGA", "PEP", "OAA"],
+      "correct": 3
+    },
+    {
+      "question": "Which is not involved in light reaction?",
+      "options": ["Plastocyanin", "RuBisCO", "Ferredoxin", "Cyt b₆f"],
+      "correct": 1
+    },
+    {
+      "question": "Photorespiration is favored by:",
+      "options": ["Low O₂, high CO₂", "High O₂, low CO₂", "Low temperature", "High light only"],
+      "correct": 1
+    },
+    {
+      "question": "The enzyme PEP carboxylase is found in:",
+      "options": ["Bundle sheath cells", "Mesophyll cells", "Both", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The pigment that absorbs maximum light energy is:",
+      "options": ["Chlorophyll b", "Chlorophyll a", "Xanthophyll", "Carotene"],
+      "correct": 1
+    },
+    {
+      "question": "Hill reaction occurs in:",
+      "options": ["Dark", "Light", "Both", "Only under blue light"],
+      "correct": 1
+    },
+    {
+      "question": "The source of electrons in photosynthesis is:",
+      "options": ["CO₂", "Water", "O₂", "Glucose"],
+      "correct": 1
+    },
+    {
+      "question": "Which is the terminal electron acceptor in light reaction?",
+      "options": ["O₂", "ATP", "NADP⁺", "CO₂"],
+      "correct": 2
+    },
+    {
+      "question": "The 3-carbon compound in C3 cycle is:",
+      "options": ["PGA", "PEP", "RuBP", "OAA"],
+      "correct": 0
+    },
+    {
+      "question": "Photorespiration consumes:",
+      "options": ["ATP", "O₂", "NADPH", "All"],
+      "correct": 3
+    },
+    {
+      "question": "Total number of ATP required to fix 6 CO₂ in C3 cycle:",
+      "options": ["6", "12", "18", "24"],
+      "correct": 2
+    },
+    {
+      "question": "Which organelle is not involved in photorespiration?",
+      "options": ["Mitochondria", "Peroxisome", "Chloroplast", "Nucleus"],
+      "correct": 3
+    },
+    {
+      "question": "C3 plants are less efficient than C4 plants because of:",
+      "options": ["No Rubisco", "Photorespiration", "Low ATP", "High NADP"],
+      "correct": 1
+    },
+    {
+      "question": "Dark reaction of photosynthesis is directly dependent on:",
+      "options": ["Light", "ATP and NADPH", "CO₂ only", "O₂"],
+      "correct": 1
+    },
+    {
+      "question": "The splitting of water is associated with:",
+      "options": ["PSI", "PSII", "Both", "None"],
+      "correct": 1
+    },
+    {
+      "question": "The thylakoid membrane system contains:",
+      "options": ["Stroma", "Grana", "Photosystems", "Enzymes of Calvin cycle"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the correct sequence in the light reaction?",
+      "options": ["Water → PSII → Cyt b₆f → PSI → NADP⁺", "PSI → PSII → NADP⁺", "Water → PSI → NADP⁺", "Cyt b₆f → PSII → PSI → Water"],
+      "correct": 0
+    },
+    {
+      "question": "Primary function of light reaction is:",
+      "options": ["Fixation of CO₂", "Formation of ATP and NADPH", "Absorption of CO₂", "Generation of glucose"],
+      "correct": 1
+    },
+    {
+      "question": "What is the action spectrum?",
+      "options": ["Color of light", "Wavelength most used", "Rate of photosynthesis vs wavelength", "Absorption by pigments"],
+      "correct": 2
+    },
+    {
+      "question": "Emerson effect relates to:",
+      "options": ["Calvin cycle", "Photolysis", "Increased rate under red + far red light", "Photorespiration"],
+      "correct": 2
+    }
+  ]
+}

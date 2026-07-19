@@ -1,0 +1,251 @@
+{
+  "test": [
+ 
+    {
+      "question": "What is the mean of the numbers: 5, 7, 9, 11, 13?",
+      "options": ["7", "9", "11", "8"],
+      "correct": 1
+    },
+    {
+      "question": "If the median of the data set {4, 7, 9, 12, x} is 9, what is the value of x?",
+      "options": ["9", "10", "11", "12"],
+      "correct": 3
+    },
+    {
+      "question": "What is the mode of the data: 2, 4, 4, 6, 8, 8, 8, 10?",
+      "options": ["4", "6", "8", "10"],
+      "correct": 2
+    },
+    {
+      "question": "What is the range of the data set: 15, 22, 18, 17, 25?",
+      "options": ["7", "8", "10", "9"],
+      "correct": 2
+    },
+    {
+      "question": "If the average of five test scores is 80, what is the total of the five scores?",
+      "options": ["350", "400", "450", "500"],
+      "correct": 1
+    },
+    {
+      "question": "A die is rolled once. What is the probability of getting a number greater than 4?",
+      "options": ["1/3", "1/2", "1/6", "2/3"],
+      "correct": 0
+    },
+    {
+      "question": "A number is randomly chosen from the set {2, 4, 6, 8, 10}. What is the probability it is even?",
+      "options": ["1", "0", "1/2", "4/5"],
+      "correct": 0
+    },
+    {
+      "question": "The mean of four numbers is 20. If three of the numbers are 15, 22, and 25, what is the fourth number?",
+      "options": ["18", "20", "22", "28"],
+      "correct": 0
+    },
+    {
+      "question": "If the mean of 6, 8, 10, x is 9, what is x?",
+      "options": ["10", "12", "8", "6"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is true for a symmetrical data distribution?",
+      "options": ["Mean > Median", "Mode > Mean", "Mean = Median = Mode", "Median > Mode"],
+      "correct": 2
+    },
+    {
+      "question": "From a deck of 52 cards, what is the probability of drawing a heart?",
+      "options": ["1/13", "1/4", "1/2", "1/3"],
+      "correct": 1
+    },
+    {
+      "question": "If a coin is flipped twice, what is the probability of getting exactly one head?",
+      "options": ["1/4", "1/2", "3/4", "2/3"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following affects the range of a data set the most?",
+      "options": ["Middle values", "Smallest value", "Largest value", "Number of values"],
+      "correct": 2
+    },
+    {
+      "question": "In a histogram, the height of each bar shows:",
+      "options": ["Average value", "Frequency", "Range", "Probability"],
+      "correct": 1
+    },
+    {
+      "question": "A number is selected at random from 1 to 50. What is the probability that it's a multiple of 5?",
+      "options": ["1/5", "1/10", "1/4", "1/2"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is NOT a measure of central tendency?",
+      "options": ["Mean", "Median", "Range", "Mode"],
+      "correct": 2
+    },
+    {
+      "question": "If 10 is added to every value in a data set, what happens to the standard deviation?",
+      "options": ["Increases", "Decreases", "Stays the same", "Becomes zero"],
+      "correct": 2
+    },
+    {
+      "question": "A store sold 5 items at prices: $5, $7, $8, $12, $15. What is the median price?",
+      "options": ["7", "8", "9", "10"],
+      "correct": 1
+    },
+    {
+      "question": "The average (mean) of 3, 5, x is 7. What is x?",
+      "options": ["13", "12", "11", "10"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these values would most increase the mean of a data set?",
+      "options": ["1", "5", "10", "100"],
+      "correct": 3
+    },
+    {
+      "question": "What is the probability of rolling an even number on a standard 6-sided die?",
+      "options": ["1/2", "1/3", "1/6", "2/3"],
+      "correct": 0
+    },
+    {
+      "question": "Which value is not needed to calculate the standard deviation?",
+      "options": ["Mean", "Sum of values", "Variance", "Median"],
+      "correct": 3
+    },
+    {
+      "question": "What is the probability of getting a tail when flipping a fair coin?",
+      "options": ["1", "0", "1/2", "2/3"],
+      "correct": 2
+    },
+    {
+      "question": "A data set has values: 4, 6, 8, 10, 12. What is the range?",
+      "options": ["6", "8", "10", "12"],
+      "correct": 0
+    },
+    {
+      "question": "If 30% of students in a class are left-handed, what is the probability a randomly chosen student is not?",
+      "options": ["0.3", "0.5", "0.7", "0.9"],
+      "correct": 2
+    },
+
+    {
+      "question": "In a data set, the mean is 60 and the standard deviation is 5. What is the z-score of 70?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "What is the probability of getting two heads in a row when flipping a fair coin twice?",
+      "options": ["1/2", "1/3", "1/4", "1/8"],
+      "correct": 2
+    },
+    {
+      "question": "If a data set has all identical values, what is its standard deviation?",
+      "options": ["1", "0", "Equal to the mean", "Cannot be determined"],
+      "correct": 1
+    },
+    {
+      "question": "A number is selected at random from 1 to 100. What is the probability it is a multiple of both 2 and 5?",
+      "options": ["1/10", "1/5", "1/4", "1/2"],
+      "correct": 1
+    },
+    {
+      "question": "If the probability of event A is 0.6 and event B is 0.2, assuming independence, what is P(A and B)?",
+      "options": ["0.8", "0.12", "0.4", "0.3"],
+      "correct": 1
+    },
+    {
+      "question": "If mean = 15, median = 12, and mode = 10, the distribution is likely:",
+      "options": ["Symmetrical", "Left-skewed", "Right-skewed", "Uniform"],
+      "correct": 2
+    },
+    {
+      "question": "You flip 3 coins. What is the probability of getting exactly 2 heads?",
+      "options": ["1/8", "3/8", "1/2", "5/8"],
+      "correct": 1
+    },
+    {
+      "question": "From a group of 3 red and 2 blue balls, one is chosen at random. What is the probability it is red?",
+      "options": ["1/2", "2/3", "3/5", "1/3"],
+      "correct": 2
+    },
+    {
+      "question": "A number is picked at random from 1 to 50. What is the probability that it is prime?",
+      "options": ["0.2", "0.3", "0.4", "0.5"],
+      "correct": 1
+    },
+    {
+      "question": "If a standard deviation is high, this implies:",
+      "options": ["Data is tightly clustered", "Mean is zero", "Data is widely spread", "Median is large"],
+      "correct": 2
+    },
+    {
+      "question": "Which measure is most affected by outliers?",
+      "options": ["Mean", "Median", "Mode", "Range"],
+      "correct": 0
+    },
+    {
+      "question": "What is the interquartile range (IQR) of data: 2, 4, 6, 8, 10, 12, 14?",
+      "options": ["6", "8", "10", "4"],
+      "correct": 3
+    },
+    {
+      "question": "If 3 standard deviations from the mean covers about 99.7% of data, this refers to:",
+      "options": ["Empirical Rule", "Outlier Rule", "Z-score", "Box Plot"],
+      "correct": 0
+    },
+    {
+      "question": "A bag contains 3 green and 2 red balls. What is the probability of drawing 2 green balls without replacement?",
+      "options": ["3/10", "6/20", "3/5", "3/10"],
+      "correct": 0
+    },
+    {
+      "question": "Which situation is best modeled with a normal distribution?",
+      "options": ["Coin flips", "Height of students", "Dice rolls", "Prime number frequency"],
+      "correct": 1
+    },
+    {
+      "question": "In a data set, mean = 25, SD = 5. What value is 2 SD above the mean?",
+      "options": ["30", "35", "40", "45"],
+      "correct": 1
+    },
+    {
+      "question": "If a test score is 1.5 standard deviations above the mean, the z-score is:",
+      "options": ["0.5", "1.5", "2", "3"],
+      "correct": 1
+    },
+    {
+      "question": "If 2 dice are rolled, what is the probability that the sum is 7?",
+      "options": ["1/6", "1/12", "1/36", "1/3"],
+      "correct": 0
+    },
+    {
+      "question": "Which distribution is best for modeling pass/fail results?",
+      "options": ["Normal", "Binomial", "Exponential", "Uniform"],
+      "correct": 1
+    },
+    {
+      "question": "If the mean of a distribution increases, what happens to the curve?",
+      "options": ["Shifts right", "Shifts left", "Stays centered", "Becomes wider"],
+      "correct": 0
+    },
+    {
+      "question": "A test has a mean of 70 and SD of 10. What score is one SD below the mean?",
+      "options": ["60", "80", "50", "70"],
+      "correct": 0
+    },
+    {
+      "question": "Which statement is true in a normal distribution?",
+      "options": ["Mean < Median", "Mean = Median", "Mode > Median", "Mean > Mode"],
+      "correct": 1
+    },
+    {
+      "question": "If you flip a fair coin 100 times, how many heads should you expect?",
+      "options": ["25", "50", "75", "100"],
+      "correct": 1
+    },
+    {
+      "question": "In a box plot, what does the line inside the box represent?",
+      "options": ["Mean", "Mode", "Median", "Standard deviation"],
+      "correct": 2
+    }
+  ]
+}

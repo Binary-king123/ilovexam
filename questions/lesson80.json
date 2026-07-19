@@ -1,0 +1,254 @@
+{
+  "test": [
+    {
+      "question": "Which of the following is a defining characteristic of all living organisms?",
+      "options": ["Respiration", "Growth", "Reproduction", "Death"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following organisms reproduce only once in their lifetime?",
+      "options": ["Humans", "Bamboo", "Mango", "Peepal tree"],
+      "correct": 1
+    },
+    {
+      "question": "Reproduction that involves a single parent and no gamete formation is called:",
+      "options": ["Sexual reproduction", "Vegetative propagation", "Asexual reproduction", "Fertilization"],
+      "correct": 2
+    },
+    {
+      "question": "The period from birth to the natural death of an organism is known as:",
+      "options": ["Lifespan", "Life cycle", "Reproductive phase", "Senescence"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following has the shortest lifespan?",
+      "options": ["Crow", "Dog", "Butterfly", "Parrot"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following organisms reproduce by binary fission?",
+      "options": ["Hydra", "Amoeba", "Yeast", "Paramecium"],
+      "correct": 1
+    },
+    {
+      "question": "What type of reproduction is exhibited by yeast?",
+      "options": ["Binary fission", "Budding", "Fragmentation", "Spore formation"],
+      "correct": 1
+    },
+    {
+      "question": "Asexual reproduction in Hydra occurs through:",
+      "options": ["Fragmentation", "Spore formation", "Budding", "Binary fission"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is a vegetative propagule?",
+      "options": ["Leaf of guava", "Root of ginger", "Bulbil of Agave", "Flower of jasmine"],
+      "correct": 2
+    },
+    {
+      "question": "Potato tuber reproduces through:",
+      "options": ["Bulb", "Runner", "Tuber", "Rhizome"],
+      "correct": 2
+    },
+    {
+      "question": "Which one of the following is NOT a natural method of vegetative propagation?",
+      "options": ["Stem cutting", "Tuber", "Rhizome", "Bulb"],
+      "correct": 0
+    },
+    {
+      "question": "Which part of the Bryophyllum plant is involved in vegetative propagation?",
+      "options": ["Roots", "Leaves", "Stem", "Flowers"],
+      "correct": 1
+    },
+    {
+      "question": "Which is NOT an asexual mode of reproduction?",
+      "options": ["Binary fission", "Spore formation", "Budding", "Zygote formation"],
+      "correct": 3
+    },
+    {
+      "question": "What type of reproduction ensures greater variation in offspring?",
+      "options": ["Binary fission", "Budding", "Sexual reproduction", "Spore formation"],
+      "correct": 2
+    },
+    {
+      "question": "The phase of growth, maturity, and reproduction in an organism is called:",
+      "options": ["Juvenile phase", "Vegetative phase", "Reproductive phase", "Senescent phase"],
+      "correct": 2
+    },
+    {
+      "question": "The term 'clones' is used to describe:",
+      "options": ["Similar organisms from different species", "Offspring genetically different from parents", "Genetically identical offspring", "Twins only"],
+      "correct": 2
+    },
+    {
+      "question": "Which organism shows both sexual and asexual reproduction?",
+      "options": ["Amoeba", "Yeast", "Hydra", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "Parthenogenesis involves development of an embryo from:",
+      "options": ["Zygote", "Sperm", "Unfertilized egg", "Fertilized egg"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an annual plant?",
+      "options": ["Mango", "Mustard", "Bamboo", "Coconut"],
+      "correct": 1
+    },
+    {
+      "question": "What is the mode of reproduction in Planaria?",
+      "options": ["Fragmentation", "Budding", "Binary fission", "Parthenogenesis"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these plants reproduces through rhizome?",
+      "options": ["Onion", "Potato", "Ginger", "Bryophyllum"],
+      "correct": 2
+    },
+    {
+      "question": "What is the lifespan of a rice plant?",
+      "options": ["1 year", "2 years", "6 months", "Several years"],
+      "correct": 0
+    },
+    {
+      "question": "Offspring formed by sexual reproduction have greater similarity with parents because:",
+      "options": ["Gametes are diploid", "Zygote is haploid", "Genes are identical", "They inherit genes from both parents"],
+      "correct": 3
+    },
+    {
+      "question": "In which of the following is the gametophyte haploid and multicellular?",
+      "options": ["Angiosperms", "Fungi", "Bryophytes", "Monera"],
+      "correct": 2
+    },
+    {
+      "question": "What type of fertilization occurs in frogs?",
+      "options": ["Internal", "External", "Asexual", "Self"],
+      "correct": 1
+    },
+    {
+      "question": "Zygote is always:",
+      "options": ["Haploid", "Diploid", "Triploid", "Polyploid"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following statements about sexual reproduction is true?",
+      "options": ["Gametes are always diploid", "It occurs only in animals", "It produces identical offspring", "It involves fusion of gametes"],
+      "correct": 3
+    },
+    {
+      "question": "The juvenile phase in plants is also called the:",
+      "options": ["Mature phase", "Vegetative phase", "Reproductive phase", "Fruiting phase"],
+      "correct": 1
+    },
+    {
+      "question": "In fungi like Rhizopus, reproduction occurs through:",
+      "options": ["Binary fission", "Spores", "Fragmentation", "Budding"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an example of perennial plant?",
+      "options": ["Mango", "Paddy", "Mustard", "Pea"],
+      "correct": 0
+    },
+    {
+      "question": "Which organism reproduces by multiple fission?",
+      "options": ["Hydra", "Amoeba", "Plasmodium", "Paramecium"],
+      "correct": 2
+    },
+    {
+      "question": "Which is not a feature of asexual reproduction?",
+      "options": ["No genetic variation", "Fast process", "Gametes involved", "One parent only"],
+      "correct": 2
+    },
+    {
+      "question": "The phase when an organism stops reproducing is called:",
+      "options": ["Juvenile phase", "Reproductive phase", "Vegetative phase", "Senescent phase"],
+      "correct": 3
+    },
+    {
+      "question": "Which of the following is an incorrect match?",
+      "options": ["Potato – Tuber", "Ginger – Rhizome", "Bryophyllum – Root", "Agave – Bulbil"],
+      "correct": 2
+    },
+    {
+      "question": "Which one is a vegetative propagule in water hyacinth?",
+      "options": ["Seed", "Leaf", "Runner", "Bulb"],
+      "correct": 2
+    },
+    {
+      "question": "The reproductive units in fungi are called:",
+      "options": ["Spores", "Gametes", "Zygotes", "Sporangia"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following occurs in both plants and animals?",
+      "options": ["Binary fission", "Spore formation", "Sexual reproduction", "Budding"],
+      "correct": 2
+    },
+    {
+      "question": "Which event is not essential for reproduction?",
+      "options": ["Gamete formation", "Zygote formation", "Embryo development", "Nutrition"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these organisms reproduces by budding?",
+      "options": ["Hydra", "Amoeba", "Plasmodium", "Spirogyra"],
+      "correct": 0
+    },
+    {
+      "question": "What is the main disadvantage of asexual reproduction?",
+      "options": ["Takes more time", "Requires two parents", "No variation", "Slower rate"],
+      "correct": 2
+    },
+    {
+      "question": "Oestrus cycle is observed in:",
+      "options": ["Primates", "Humans", "Cows", "Whales"],
+      "correct": 2
+    },
+    {
+      "question": "In which of the following organisms does vegetative propagation occur through leaves?",
+      "options": ["Potato", "Bryophyllum", "Ginger", "Dahlia"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a dioecious plant?",
+      "options": ["Papaya", "Pea", "Mustard", "China rose"],
+      "correct": 0
+    },
+    {
+      "question": "Which type of fertilization is common in aquatic animals?",
+      "options": ["Internal", "External", "Cross", "None"],
+      "correct": 1
+    },
+    {
+      "question": "Reproduction in algae is mainly through:",
+      "options": ["Sexual", "Budding", "Fragmentation", "Vegetative propagation"],
+      "correct": 2
+    },
+    {
+      "question": "An oviparous organism is one that:",
+      "options": ["Gives birth to young ones", "Lays eggs", "Does not reproduce", "Uses spores"],
+      "correct": 1
+    },
+    {
+      "question": "Viviparous animals:",
+      "options": ["Reproduce by spores", "Lay eggs", "Give birth to young ones", "Do not reproduce"],
+      "correct": 2
+    },
+    {
+      "question": "The biological term for natural aging is:",
+      "options": ["Juvenile", "Reproductive", "Senescence", "Maturation"],
+      "correct": 2
+    },
+    {
+      "question": "In sexual reproduction, the fusion of gametes forms a:",
+      "options": ["Spore", "Zygote", "Embryo", "Seed"],
+      "correct": 1
+    },
+    {
+      "question": "The term 'clone' applies to:",
+      "options": ["Sexually reproduced organisms", "Genetically identical individuals", "Hybrid plants", "None of the above"],
+      "correct": 1
+    }
+  ]
+}

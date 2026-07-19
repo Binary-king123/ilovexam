@@ -1,0 +1,249 @@
+{
+  "test": [
+    {
+      "question": "Water movement between adjacent cells occurs through:",
+      "options": ["Apoplast", "Symplast", "Vacuole", "Stomata"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following elements plays a key role in opening and closing of stomata?",
+      "options": ["Na⁺", "K⁺", "Mg²⁺", "Ca²⁺"],
+      "correct": 1
+    },
+    {
+      "question": "The main driving force for water movement in xylem is:",
+      "options": ["Root pressure", "Capillarity", "Transpiration pull", "Osmosis"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following is an active transport process?",
+      "options": ["Diffusion", "Facilitated diffusion", "Osmosis", "Ion transport by pumps"],
+      "correct": 3
+    },
+    {
+      "question": "Cohesion-tension theory explains:",
+      "options": ["Phloem translocation", "Root pressure", "Ascent of sap", "Translocation of food"],
+      "correct": 2
+    },
+    {
+      "question": "Which one of the following is not a feature of facilitated diffusion?",
+      "options": ["Saturation", "Specificity", "Requirement of ATP", "Competitiveness"],
+      "correct": 2
+    },
+    {
+      "question": "Which pressure is responsible for guttation?",
+      "options": ["Root pressure", "Turgor pressure", "Diffusion pressure", "Atmospheric pressure"],
+      "correct": 0
+    },
+    {
+      "question": "Transpiration occurs through:",
+      "options": ["Lenticels", "Stomata", "Cuticle", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "Plasmolysis is a result of:",
+      "options": ["Endosmosis", "Exosmosis", "Diffusion", "Imbibition"],
+      "correct": 1
+    },
+    {
+      "question": "Water potential of pure water is:",
+      "options": ["0", "+1", "-1", "Infinity"],
+      "correct": 0
+    },
+    {
+      "question": "The Casparian strip is found in:",
+      "options": ["Cortex", "Endodermis", "Epidermis", "Pericycle"],
+      "correct": 1
+    },
+    {
+      "question": "Xylem transports:",
+      "options": ["Water and minerals", "Food", "Hormones", "All of these"],
+      "correct": 0
+    },
+    {
+      "question": "Transport proteins are involved in:",
+      "options": ["Simple diffusion", "Osmosis", "Facilitated diffusion", "Imbibition"],
+      "correct": 2
+    },
+    {
+      "question": "The unit of water potential is:",
+      "options": ["g/cm³", "Joule", "Pascal", "Mol"],
+      "correct": 2
+    },
+    {
+      "question": "Phloem loading is carried out by:",
+      "options": ["Active transport", "Diffusion", "Osmosis", "Bulk flow"],
+      "correct": 0
+    },
+    {
+      "question": "Inactive transport does not require:",
+      "options": ["Carrier proteins", "ATP", "Gradient", "Membrane"],
+      "correct": 1
+    },
+    {
+      "question": "Transpiration helps in:",
+      "options": ["Cooling", "Mineral uptake", "Ascent of sap", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "The direction of food transport in phloem is:",
+      "options": ["Upward", "Downward", "Bidirectional", "Lateral"],
+      "correct": 2
+    },
+    {
+      "question": "Which component of water potential is always negative?",
+      "options": ["Solute potential", "Pressure potential", "Matrix potential", "None"],
+      "correct": 0
+    },
+    {
+      "question": "Which plant part exerts root pressure?",
+      "options": ["Xylem", "Phloem", "Cortex", "Pericycle"],
+      "correct": 3
+    },
+    {
+      "question": "Water absorption takes place through:",
+      "options": ["Root hairs", "Lenticels", "Stomata", "Cuticle"],
+      "correct": 0
+    },
+    {
+      "question": "Which experiment demonstrates root pressure?",
+      "options": ["Potometer", "Bell jar", "Exudation", "Weighing method"],
+      "correct": 2
+    },
+    {
+      "question": "Symplast pathway involves movement through:",
+      "options": ["Cell wall", "Vacuole", "Plasma membrane and cytoplasm", "Intercellular spaces"],
+      "correct": 2
+    },
+    {
+      "question": "Translocation of food occurs mainly through:",
+      "options": ["Xylem", "Phloem", "Cortex", "Epidermis"],
+      "correct": 1
+    },
+    {
+      "question": "Which type of movement requires energy?",
+      "options": ["Diffusion", "Facilitated diffusion", "Osmosis", "Active transport"],
+      "correct": 3
+    },
+    {
+      "question": "Water enters root hair by:",
+      "options": ["Active transport", "Diffusion", "Osmosis", "Plasmolysis"],
+      "correct": 2
+    },
+    {
+      "question": "Which is NOT involved in mineral absorption?",
+      "options": ["Ion exchange", "Endocytosis", "Active transport", "Diffusion"],
+      "correct": 1
+    },
+    {
+      "question": "The best explanation for ascent of sap is:",
+      "options": ["Capillarity", "Root pressure", "Transpiration pull", "Osmosis"],
+      "correct": 2
+    },
+    {
+      "question": "Loss of water in liquid form from hydathodes is called:",
+      "options": ["Transpiration", "Evaporation", "Guttation", "Exudation"],
+      "correct": 2
+    },
+    {
+      "question": "Which plant tissue conducts food?",
+      "options": ["Xylem", "Parenchyma", "Phloem", "Collenchyma"],
+      "correct": 2
+    },
+    {
+      "question": "Imbibition is maximum in:",
+      "options": ["Cellulose", "Lignin", "Starch", "Fat"],
+      "correct": 0
+    },
+    {
+      "question": "Which condition increases transpiration?",
+      "options": ["High humidity", "Low temperature", "High wind speed", "Darkness"],
+      "correct": 2
+    },
+    {
+      "question": "Bulk flow occurs due to:",
+      "options": ["Osmosis", "Water potential gradient", "Pressure gradient", "None"],
+      "correct": 2
+    },
+    {
+      "question": "During plasmolysis, the cell membrane:",
+      "options": ["Expands", "Breaks", "Detaches from cell wall", "Becomes rigid"],
+      "correct": 2
+    },
+    {
+      "question": "Which method is used to measure transpiration?",
+      "options": ["Photometer", "Potometer", "Colorimeter", "Respirator"],
+      "correct": 1
+    },
+    {
+      "question": "Rate of diffusion is affected by:",
+      "options": ["Temperature", "Concentration gradient", "Pressure", "All of these"],
+      "correct": 3
+    },
+    {
+      "question": "Which structure controls opening and closing of stomata?",
+      "options": ["Chloroplast", "Vacuole", "Guard cells", "Phloem"],
+      "correct": 2
+    },
+    {
+      "question": "Translocation in phloem is supported by:",
+      "options": ["Cohesion theory", "Münch pressure flow hypothesis", "Osmosis", "Root pressure"],
+      "correct": 1
+    },
+    {
+      "question": "The value of water potential is always:",
+      "options": ["Positive", "Negative", "Zero", "Variable"],
+      "correct": 1
+    },
+    {
+      "question": "Main site of transpiration is:",
+      "options": ["Stems", "Cuticle", "Stomata", "Roots"],
+      "correct": 2
+    },
+    {
+      "question": "Which pathway is faster for water movement?",
+      "options": ["Apoplast", "Symplast", "Transmembrane", "Cytoplasmic"],
+      "correct": 0
+    },
+    {
+      "question": "Phloem loading requires:",
+      "options": ["ATP", "Starch", "Water", "Enzymes"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a symplastic inhibitor?",
+      "options": ["NaCl", "Plasmodesmata", "Metabolic poison", "Aquaporins"],
+      "correct": 2
+    },
+    {
+      "question": "Sucrose is translocated in phloem as:",
+      "options": ["Glucose", "Starch", "Oligosaccharide", "Sucrose"],
+      "correct": 3
+    },
+    {
+      "question": "Transpiration causes:",
+      "options": ["Turgor loss", "Root growth", "Cooling effect", "Plasmolysis"],
+      "correct": 2
+    },
+    {
+      "question": "The direction of movement in xylem is:",
+      "options": ["Bidirectional", "Downward", "Upward", "Random"],
+      "correct": 2
+    },
+    {
+      "question": "Root pressure is observed when:",
+      "options": ["Transpiration is high", "Soil is dry", "Transpiration is low", "Daylight is high"],
+      "correct": 2
+    },
+    {
+      "question": "Which is the correct sequence of water movement?",
+      "options": ["Soil → Xylem → Root hairs → Leaves", "Leaves → Root → Xylem → Soil", "Soil → Root hairs → Xylem → Leaves", "Xylem → Root → Soil → Leaves"],
+      "correct": 2
+    },
+    {
+      "question": "Aquaporins facilitate:",
+      "options": ["Mineral uptake", "Water transport", "Protein transport", "Sucrose loading"],
+      "correct": 1
+    }
+  ]
+}
