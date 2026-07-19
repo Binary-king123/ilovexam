@@ -1,18 +1,18 @@
-﻿# 🚀 iLoveExams — Production Deployment Guide
+# ?? iLoveExams � Production Deployment Guide
 
 This guide describes how to deploy the **iLoveExams** application to your Hostinger Ubuntu 24.04 LTS VPS (`72.62.39.82`) as a production-ready service under a reverse proxy with SSL enabled.
 
 ---
 
-## 📋 Prerequisites
+## ?? Prerequisites
 
 Before deploying, ensure you have:
-1. Pointed your domain name (e.g., `ilovedesi.fun` or `pg.ilovedesi.fun`) to your VPS IP address (`72.62.39.82`) in your domain DNS control panel.
+1. Pointed your domain name (e.g., `alagappan.tech` or `pg.alagappan.tech`) to your VPS IP address (`72.62.39.82`) in your domain DNS control panel.
 2. Verified that your project files are pushed to your GitHub repository.
 
 ---
 
-## ⚡ 1-Step Automatic Setup
+## ? 1-Step Automatic Setup
 
 Once you clone your repository onto the VPS, you can install and configure all dependencies (NodeJS, PM2, Nginx, SQLite and Certbot) automatically.
 
@@ -36,7 +36,7 @@ Once you clone your repository onto the VPS, you can install and configure all d
 
 ---
 
-## 🔧 Nginx & SSL Configuration
+## ?? Nginx & SSL Configuration
 
 After running the script, Nginx is installed but needs to direct traffic to your Node app running on port `8085`.
 
@@ -45,11 +45,11 @@ After running the script, Nginx is installed but needs to direct traffic to your
    ```bash
    nano /etc/nginx/sites-available/iloveexams
    ```
-   Paste the following config (replace `ilovedesi.fun` with your domain):
+   Paste the following config (replace `alagappan.tech` with your domain):
    ```nginx
    server {
        listen 80;
-       server_name ilovedesi.fun www.ilovedesi.fun;
+       server_name alagappan.tech www.alagappan.tech;
 
        location / {
            proxy_pass http://localhost:8085;
@@ -74,13 +74,13 @@ After running the script, Nginx is installed but needs to direct traffic to your
 3. **Secure with Free SSL (Let's Encrypt / Certbot)**:
    Run Certbot to fetch and configure SSL certificates:
    ```bash
-   certbot --nginx -d ilovedesi.fun -d www.ilovedesi.fun
+   certbot --nginx -d alagappan.tech -d www.alagappan.tech
    ```
    Follow the prompts to enable HTTPS redirect. Certbot will handle automatic renewals.
 
 ---
 
-## 🐳 Environment Variables (`.env`)
+## ?? Environment Variables (`.env`)
 
 Create a `.env` file in the root folder (`/var/www/iloveexams/.env`) with your production keys:
 ```env
@@ -98,7 +98,7 @@ pm2 restart iloveexams
 
 ---
 
-## 🛠️ Management Commands
+## ??? Management Commands
 
 * **Check Logs**: `pm2 logs iloveexams`
 * **Restart App**: `pm2 restart iloveexams`

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="en">
 
@@ -15,14 +15,14 @@
   <meta name="robots" content="index,follow" />
   <meta name="googlebots" content="index,follow" />
   <meta name="author" content="iLoveExams" />
-  <link rel="canonical" href="https://www.ilovedesi.fun/neet_pg_login.html" />
+  <link rel="canonical" href="https://www.alagappan.tech/neet_pg_login.html" />
 
   <!-- Open Graph -->
   <meta property="og:title" content="NEET PG Entrance Login &amp; Register - iLoveExams" />
   <meta property="og:description" content="Register today to test your clinical readiness with 190,000+ medical pg preparation questions." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.ilovedesi.fun/neet_pg_login.html" />
-  <meta property="og:image" content="https://www.ilovedesi.fun/images/day.jpg" />
+  <meta property="og:url" content="https://www.alagappan.tech/neet_pg_login.html" />
+  <meta property="og:image" content="https://www.alagappan.tech/images/day.jpg" />
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" crossorigin="anonymous"/>
@@ -307,7 +307,7 @@
               <i class="bi bi-eye" id="loginCrushIcon"></i>
             </button>
             <div class="form-hint">
-              <i class="bi bi-info-circle"></i> This is your secret key — used as your password.
+              <i class="bi bi-info-circle"></i> This is your secret key � used as your password.
             </div>
           </div>
 
@@ -328,7 +328,7 @@
           <i class="bi bi-person-plus me-2"></i>Create Account
         </h2>
         <p class="text-secondary font-monospace mb-4" style="font-size:0.82rem;">
-          Pick a crush name that only you'll remember — it's your permanent password!
+          Pick a crush name that only you'll remember � it's your permanent password!
         </p>
 
         <form id="registerForm" novalidate autocomplete="off">
@@ -350,7 +350,7 @@
               <i class="bi bi-eye" id="regCrushIcon"></i>
             </button>
             <div class="form-hint">
-              <i class="bi bi-shield-check"></i> Keep it secret — this is your password forever.
+              <i class="bi bi-shield-check"></i> Keep it secret � this is your password forever.
             </div>
           </div>
 
@@ -382,7 +382,7 @@
     <!-- Info strip -->
     <div class="info-strip">
       <strong><i class="bi bi-info-circle-fill me-1"></i> How authentication works</strong><br>
-      Your crush name is hashed (SHA-256) on the server — it is never stored in plain text.
+      Your crush name is hashed (SHA-256) on the server � it is never stored in plain text.
       First login = auto-registration. Wrong crush name = access denied.
     </div>
 
@@ -390,11 +390,11 @@
     <div class="tier-grid">
       <div class="tier-box free">
         <span class="tier-name">Free Tier</span>
-        Episodes 1–4 unlocked<br>
+        Episodes 1�4 unlocked<br>
         Basic score view
       </div>
       <div class="tier-box premium">
-        <span class="tier-name">⭐ Pro Tier</span>
+        <span class="tier-name">? Pro Tier</span>
         All episodes unlocked<br>
         Explanations + Podcasts
       </div>
@@ -406,7 +406,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
   <script>
-    // ── Redirect if already logged in ──
+    // -- Redirect if already logged in --
     (async () => {
       try {
         const res  = await fetch('/api/auth/me');
@@ -415,7 +415,7 @@
       } catch (e) { /* offline */ }
     })();
 
-    // ── Tab switcher ──
+    // -- Tab switcher --
     function switchTab(tab) {
       const loginPane    = document.getElementById('loginPane');
       const registerPane = document.getElementById('registerPane');
@@ -435,7 +435,7 @@
       }
     }
 
-    // ── Toggle password visibility ──
+    // -- Toggle password visibility --
     function togglePw(inputId, iconId) {
       const input = document.getElementById(inputId);
       const icon  = document.getElementById(iconId);
@@ -448,7 +448,7 @@
       }
     }
 
-    // ── Alert helpers ──
+    // -- Alert helpers --
     function showAlert(msg, type = 'error') {
       const box = document.getElementById('alertMsg');
       document.getElementById('alertText').textContent = msg;
@@ -460,7 +460,7 @@
       document.getElementById('alertMsg').style.display = 'none';
     }
 
-    // ── Shared login API call ──
+    // -- Shared login API call --
     async function doLogin(email, crushName, btnEl) {
       btnEl.disabled = true;
       btnEl.innerHTML = '<span class="btn-spinner"></span> Verifying...';
@@ -475,7 +475,7 @@
 
         if (res.ok && data.success) {
           showAlert(
-            `✅ Welcome! Logged in as ${data.email} (${data.tier === 'premium' ? '⭐ Pro' : 'Free'}) — redirecting...`,
+            `? Welcome! Logged in as ${data.email} (${data.tier === 'premium' ? '? Pro' : 'Free'}) � redirecting...`,
             'success'
           );
           setTimeout(() => { window.location.href = 'neet_pg.html'; }, 1200);
@@ -495,7 +495,7 @@
       }
     }
 
-    // ── Login form ──
+    // -- Login form --
     document.getElementById('loginForm').addEventListener('submit', async (e) => {
       e.preventDefault();
       clearAlert();
@@ -505,7 +505,7 @@
       await doLogin(email, crushName, document.getElementById('loginBtn'));
     });
 
-    // ── Register form ──
+    // -- Register form --
     document.getElementById('registerForm').addEventListener('submit', async (e) => {
       e.preventDefault();
       clearAlert();
@@ -517,7 +517,7 @@
       if (crushName !== crushConfirm) return showAlert('Crush names do not match. Try again!');
       if (crushName.length < 2)      return showAlert('Crush name must be at least 2 characters.');
 
-      // Registration uses the same login endpoint — server auto-registers on first visit
+      // Registration uses the same login endpoint � server auto-registers on first visit
       await doLogin(email, crushName, document.getElementById('registerBtn'));
     });
   </script>
