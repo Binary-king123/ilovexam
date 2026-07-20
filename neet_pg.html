@@ -306,6 +306,14 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       <button class="nav-link" data-tab="sec-mistakes">
         <i class="bi bi-bookmark-x"></i> Mistake Book
       </button>
+
+      <!-- Admin Panel Section -->
+      <div id="sidebarAdminWrapper" class="d-none">
+        <div class="sidebar-nav-section">Admin</div>
+        <a href="neet_pg_admin.html" class="nav-link">
+          <i class="bi bi-shield-lock-fill text-danger"></i> Admin Console
+        </a>
+      </div>
     </nav>
 
     <!-- User info at bottom -->
@@ -766,6 +774,12 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
         isProUser = data.isPro;
         document.getElementById('navEmailDisplay').textContent = data.email;
         applyTier(isProUser);
+        
+        // Show Admin section in sidebar if admin
+        if (data.isAdmin) {
+          const adminWrapper = document.getElementById('sidebarAdminWrapper');
+          if (adminWrapper) adminWrapper.classList.remove('d-none');
+        }
       } catch (e) { window.location.href = 'neet_pg_login.html'; }
     })();
 

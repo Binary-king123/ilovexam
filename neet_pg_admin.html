@@ -260,11 +260,12 @@
     async function checkAuth() {
       try {
         const res = await fetch('/api/auth/me');
-        if (res.status === 401) {
+        const data = await res.json();
+        if (!data.loggedIn || !data.isAdmin) {
           window.location.href = 'neet_pg_login.html';
         }
       } catch (e) {
-        console.error(e);
+        window.location.href = 'neet_pg_login.html';
       }
     }
 
