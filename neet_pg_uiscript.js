@@ -798,6 +798,49 @@ document.getElementById('btnSubmitExam').addEventListener('click',   () => { if 
 document.getElementById('btnSubmitMobile').addEventListener('click', () => { if (confirm('Submit exam now?')) submitTest(); });
 document.getElementById('btnLaunchExam').addEventListener('click',   initExam);
 
+const btnResetExam = document.getElementById('btnResetExam');
+if (btnResetExam) {
+    btnResetExam.addEventListener('click', async () => {
+        if (!confirm('Are you sure you want to reset all previous attempts for this exam and start fresh?')) return;
+        
+        const originalText = btnResetExam.innerHTML;
+        btnResetExam.disabled = true;
+        btnResetExam.innerHTML = '<span class="spinner-border spinner-border-sm me-2"></span>Resetting...';
+
+        try {
+            const success = await loadQuestions();
+            if (!success) {
+                btnResetExam.disabled = false;
+                btnResetExam.innerHTML = originalText;
+                return;
+            }
+
+            const ids = questionBank.map(q => q.id);
+            const res = await fetch('/api/qbank/reset-questions', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ questionIds: ids })
+            });
+            const data = await res.json();
+            if (data.success) {
+                localStorage.removeItem('neet_pg_last_episode');
+                localStorage.removeItem('neet_pg_last_index');
+                alert('🔄 Previous attempts cleared successfully! Starting test...');
+                initExam();
+            } else {
+                alert('⚠️ Failed to reset attempts: ' + (data.error || 'Unknown error'));
+                btnResetExam.disabled = false;
+                btnResetExam.innerHTML = originalText;
+            }
+        } catch (e) {
+            console.error(e);
+            alert('⚠️ Connection error. Could not reset attempts.');
+            btnResetExam.disabled = false;
+            btnResetExam.innerHTML = originalText;
+        }
+    });
+}
+
 // ──────────────────────────────────────────────────────
 // Anti-Cheat
 // ──────────────────────────────────────────────────────

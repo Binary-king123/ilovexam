@@ -748,6 +748,34 @@ app.get('/api/qbank/attempts', (req, res) => {
     }
 });
 
+// ─── QBANK: Reset Specific Question Attempts ──────────────────────────────────
+app.post('/api/qbank/reset-questions', (req, res) => {
+    const user = getSessionUser(req);
+    if (!user) return res.status(401).json({ error: 'Please log in first.' });
+
+    const { questionIds } = req.body;
+    if (!questionIds || !Array.isArray(questionIds)) {
+        return res.status(400).json({ error: 'Invalid questionIds list.' });
+    }
+
+    try {
+        const deleteStmt = db.prepare('DELETE FROM user_answers WHERE user_id = ? AND question_id = ?');
+        
+        // Execute in transaction
+        const deleteMany = db.transaction((userId, ids) => {
+            for (const id of ids) {
+                deleteStmt.run(userId, id);
+            }
+        });
+        
+        deleteMany(user.id, questionIds);
+        return res.json({ success: true });
+    } catch (e) {
+        console.error(e);
+        return res.status(500).json({ error: 'Failed to reset attempts.' });
+    }
+});
+
 // ─── QBANK: Toggle Bookmark ──────────────────────────────────────────────────
 app.post('/api/content/bookmark', (req, res) => {
     const user = getSessionUser(req);
