@@ -307,7 +307,7 @@
               <i class="bi bi-eye" id="loginCrushIcon"></i>
             </button>
             <div class="form-hint">
-              <i class="bi bi-info-circle"></i> This is your secret key — used as your password.
+              <i class="bi bi-info-circle"></i> This is your secret key ï¿½ used as your password.
             </div>
           </div>
 
@@ -328,7 +328,7 @@
           <i class="bi bi-person-plus me-2"></i>Create Account
         </h2>
         <p class="text-secondary font-monospace mb-4" style="font-size:0.82rem;">
-          Pick a crush name that only you'll remember — it's your permanent password!
+          Pick a crush name that only you'll remember ï¿½ it's your permanent password!
         </p>
 
         <form id="registerForm" novalidate autocomplete="off">
@@ -350,7 +350,7 @@
               <i class="bi bi-eye" id="regCrushIcon"></i>
             </button>
             <div class="form-hint">
-              <i class="bi bi-shield-check"></i> Keep it secret — this is your password forever.
+              <i class="bi bi-shield-check"></i> Keep it secret ï¿½ this is your password forever.
             </div>
           </div>
 
@@ -382,7 +382,7 @@
     <!-- Info strip -->
     <div class="info-strip">
       <strong><i class="bi bi-info-circle-fill me-1"></i> How authentication works</strong><br>
-      Your crush name is hashed (SHA-256) on the server — it is never stored in plain text.
+      Your crush name is hashed (SHA-256) on the server ï¿½ it is never stored in plain text.
       First login = auto-registration. Wrong crush name = access denied.
     </div>
 
@@ -390,7 +390,7 @@
     <div class="tier-grid">
       <div class="tier-box free">
         <span class="tier-name">Free Tier</span>
-        Episodes 1–4 unlocked<br>
+        Episodes 1ï¿½4 unlocked<br>
         Basic score view
       </div>
       <div class="tier-box premium">
@@ -475,7 +475,7 @@
 
         if (res.ok && data.success) {
           showAlert(
-            `? Welcome! Logged in as ${data.email} (${data.tier === 'premium' ? '? Pro' : 'Free'}) — redirecting...`,
+            `? Welcome! Logged in as ${data.email} (${data.tier === 'premium' ? '? Pro' : 'Free'}) ï¿½ redirecting...`,
             'success'
           );
           setTimeout(() => { window.location.href = 'neet_pg.html'; }, 1200);
@@ -517,7 +517,7 @@
       if (crushName !== crushConfirm) return showAlert('Crush names do not match. Try again!');
       if (crushName.length < 2)      return showAlert('Crush name must be at least 2 characters.');
 
-      // Registration uses the same login endpoint — server auto-registers on first visit
+      // Registration uses the same login endpoint ï¿½ server auto-registers on first visit
       await doLogin(email, crushName, document.getElementById('registerBtn'));
     });
   </script>

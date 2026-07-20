@@ -45,15 +45,8 @@ function enableFullscreen() {
 }
 
 document.addEventListener("fullscreenchange", () => {
-    if (!document.fullscreenElement) {
-        fullscreenExitCount++;
-        if (fullscreenExitCount >= 2) {
-            alert("You exited fullscreen twice! Auto-submitting test.");
-            submitTest();
-        }
-    }
+    // Disabled as requested: no full screen for neet_pg and all other things
 });
-
 // ================== Exam Start ==================
 function startExam() {
     username = prompt("Enter your name to start test:") || "Candidate";

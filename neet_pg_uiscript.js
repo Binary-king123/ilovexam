@@ -231,10 +231,7 @@ async function loadQuestions() {
 // Fullscreen
 // ──────────────────────────────────────────────────────
 function requestFullscreen() {
-    const el = document.documentElement;
-    if (el.requestFullscreen)            el.requestFullscreen();
-    else if (el.webkitRequestFullscreen) el.webkitRequestFullscreen();
-    else if (el.msRequestFullscreen)     el.msRequestFullscreen();
+    // Fullscreen disabled as requested: "no full screen for neet_pg and all other things"
 }
 
 // ──────────────────────────────────────────────────────
@@ -811,10 +808,7 @@ document.addEventListener('visibilitychange', () => {
     } else { document.body.style.filter = 'none'; }
 });
 document.addEventListener('fullscreenchange', () => {
-    if (!examActive || document.fullscreenElement) return;
-    fullscreenExitCount++;
-    if (fullscreenExitCount >= 2) { alert('🚨 Auto-submitting due to fullscreen exit.'); submitTest(); }
-    else { alert('⚠️ Please remain in fullscreen.'); setTimeout(requestFullscreen, 1000); }
+    // Disabled as requested: "no full screen for neet_pg and all other things"
 });
 
 // Show motivation modal on page load
