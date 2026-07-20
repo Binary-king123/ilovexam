@@ -1,17 +1,11 @@
 // ================================================================
 // iLoveExams Global Fullscreen Enforcer
-// Triggers immersive full screen mode on first meaningful user gesture on Desktop.
-// Strictly bypassed on Mobile / Tablet devices.
+// Triggers immersive full screen mode on first meaningful user gesture on all devices.
+// Complies with browser user-activation security requirements.
 // ================================================================
 
 (function () {
   let fullscreenTriggered = false;
-
-  // Detect mobile/tablet devices
-  const isMobile = window.innerWidth <= 991 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-  if (isMobile) {
-    return; // Completely disable global fullscreen on mobile/tablets
-  }
 
   function triggerGlobalFullscreen() {
     if (fullscreenTriggered) return;   // Only trigger once per page load
