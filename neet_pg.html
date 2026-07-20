@@ -234,6 +234,31 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
 .form-control,.form-select { border:3px solid #000 !important;border-radius:10px !important;font-family:var(--mono) !important;box-shadow:3px 3px 0 #000 !important; }
 .form-control:focus,.form-select:focus { box-shadow:4px 4px 0 #000 !important;outline:none !important; }
 @media (max-width:991px) { footer { margin-left:0 !important; } }
+.badge-beta-glow {
+  background: #ec4899;
+  color: #fff;
+  font-size: 0.55rem;
+  font-weight: 800;
+  padding: 2px 6px;
+  border: 1.5px solid #000;
+  border-radius: 4px;
+  margin-left: 6px;
+  letter-spacing: 0.5px;
+  box-shadow: 1px 1px 0 #000;
+  display: inline-block;
+  vertical-align: middle;
+  animation: betaGlow 1.5s infinite alternate;
+}
+@keyframes betaGlow {
+  0% {
+    box-shadow: 1px 1px 0 #000, 0 0 2px rgba(236, 72, 153, 0.4);
+    transform: scale(0.95);
+  }
+  100% {
+    box-shadow: 1px 1px 0 #000, 0 0 8px rgba(236, 72, 153, 0.9);
+    transform: scale(1.05);
+  }
+}
 </style>
 
 <div class="app-shell">
@@ -264,11 +289,8 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       </button>
 
       <div class="sidebar-nav-section">Discover</div>
-      <button class="nav-link" data-tab="sec-search">
-        <i class="bi bi-search"></i> Clinical Search
-      </button>
       <button class="nav-link" data-tab="sec-podcasts">
-        <i class="bi bi-mic"></i> Podcasts
+        <i class="bi bi-mic"></i> Podcasts <span class="badge-beta-glow">BETA</span>
       </button>
       <button class="nav-link" data-tab="sec-pdfs">
         <i class="bi bi-file-earmark-pdf"></i> Study PDFs
@@ -356,24 +378,7 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
     <div id="resumeLearningContainer"></div>
 
     
-    <div class="quick-actions">
-      <button class="qa-btn q-red" id="qaStartMockBtn" onclick="showTab('sec-episodes')">
-        <div class="qa-icon"><i class="bi bi-journal-medical"></i></div>
-        <div class="qa-label">Start Mock Test</div>
-      </button>
-      <button class="qa-btn q-amber" onclick="showTab('sec-quizzes')">
-        <div class="qa-icon"><i class="bi bi-lightning-charge-fill"></i></div>
-        <div class="qa-label">Quick Quiz</div>
-      </button>
-      <button class="qa-btn q-blue" onclick="showTab('sec-search')">
-        <div class="qa-icon"><i class="bi bi-search"></i></div>
-        <div class="qa-label">Clinical Search</div>
-      </button>
-      <button class="qa-btn q-green" onclick="showTab('sec-analytics')">
-        <div class="qa-icon"><i class="bi bi-bar-chart-fill"></i></div>
-        <div class="qa-label">My Progress</div>
-      </button>
-    </div>
+
 
     
     
@@ -498,24 +503,7 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
     
     
     
-    <div class="feed-section" id="sec-search" style="background:#eff6ff; border-top:2px solid #0a0a0a; border-bottom:2px solid #0a0a0a; padding-top:28px; padding-bottom:28px;">
-      <div id="tab-search">
-        <div class="section-header">
-          <h2><i class="bi bi-search me-2" style="color:#3b82f6;"></i>Clinical Search Engine</h2>
-          <span class="section-tag" style="border-color:#3b82f6; color:#3b82f6;">200K+ MCQs</span>
-        </div>
-        <p class="section-sub">Search any drug, sign, or syndrome across the entire question database.</p>
-        <div class="divider" style="background:#3b82f6;"></div>
-        <div class="input-group mb-4" style="border:2px solid #0a0a0a; box-shadow:4px 4px 0 #0a0a0a; border-radius:0;">
-          <input type="text" id="qbankSearchInput" class="form-control border-0" placeholder="e.g. Mitral Stenosis, Kawasaki, Lithium, ECG..." style="font-size:1rem; padding:14px; outline:none; border-radius:0; font-family:monospace;">
-          <button class="btn btn-dark border-0 rounded-0 px-4 fw-bold" id="qbankSearchBtn" style="font-family:monospace;"><i class="bi bi-search"></i> SEARCH</button>
-        </div>
-        <div id="searchResultsContainer" class="d-none">
-          <h5 style="font-family:monospace; font-weight:800; margin-bottom:12px;" id="searchResultsHeading">Search Results (0 matches)</h5>
-          <div class="d-flex flex-column gap-3" id="searchResultsList"></div>
-        </div>
-      </div>
-    </div>
+
 
     
     
@@ -560,10 +548,10 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
     </div>
 
     <!-- Footer -->
-    <footer id="appFooter" style="border-top:3px solid #000; padding:20px 28px; font-family:monospace; font-size:0.72rem; color:#888; background:#fff; margin-left:var(--sidebar-w);">
-      <div class="d-flex justify-content-between flex-wrap gap-3">
+    <footer id="appFooter" style="border-top:3px solid #000; padding:20px 28px; font-family:monospace; font-size:0.72rem; color:#888; background:#fff; margin-left:var(--sidebar-w); text-align:center;">
+      <div class="d-flex flex-column align-items-center justify-content-center gap-2">
         <span>&copy; 2027 iLoveExams. Secure Anti-Cheat NEET PG Platform.</span>
-        <div class="d-flex gap-3">
+        <div class="d-flex gap-3 justify-content-center">
           <a href="index.html" style="color:#888; text-decoration:underline;">Home</a>
           <a href="neet_pg_login.html" style="color:#888; text-decoration:underline;">My Account</a>
         </div>
@@ -738,9 +726,6 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
   </button>
   <button class="mb-nav-btn" id="mb-nav-episodes" onclick="showTab('sec-episodes')">
     <i class="bi bi-journal-medical"></i>Practice
-  </button>
-  <button class="mb-nav-btn" id="mb-nav-search" onclick="showTab('sec-search')">
-    <i class="bi bi-search"></i>Search
   </button>
   <button class="mb-nav-btn" id="mb-nav-analytics" onclick="showTab('sec-analytics')">
     <i class="bi bi-bar-chart-line-fill"></i>Stats
@@ -1654,23 +1639,30 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       'sec-episodes',
       'sec-quizzes',
       'sec-builder',
-      'sec-search',
       'sec-podcasts',
       'sec-pdfs',
       'sec-analytics',
       'sec-mistakes'
     ];
 
-    // Hide all sections except sec-home (Home) on initial load
+    // Hide all sections except sec-episodes (Mock Tests) on initial load
     ALL_TABS.forEach(id => {
       const el = document.getElementById(id);
       if (el) {
-        if (id === 'sec-home') {
+        if (id === 'sec-episodes') {
           el.style.display = 'block';
         } else {
           el.style.display = 'none';
         }
       }
+    });
+
+    // Make Mock Tests sidebar link and mobile bottom nav button active by default on initial load
+    document.querySelectorAll('.nav-link[data-tab]').forEach(b => {
+      b.classList.toggle('active', b.dataset.tab === 'sec-episodes');
+    });
+    document.querySelectorAll('.mb-nav-btn').forEach(b => {
+      b.classList.toggle('active', b.id === 'mb-nav-episodes');
     });
 
     function showTab(tabId) {
@@ -1698,7 +1690,6 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
         'sec-episodes':  'mb-nav-episodes',
         'sec-quizzes':   'mb-nav-episodes',
         'sec-builder':   'mb-nav-episodes',
-        'sec-search':    'mb-nav-search',
         'sec-analytics': 'mb-nav-analytics',
         'sec-mistakes':  'mb-nav-analytics',
         'sec-podcasts':  'mb-nav-podcasts',
