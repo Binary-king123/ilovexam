@@ -527,26 +527,37 @@
       .mobile-fixed-nav { display: none !important; }
     }
   </style>
-
   <!-- ===== 1. Sticky Navigation Bar (Glass Neubrutalism) ===== -->
   <header>
-    <div class="d-flex align-items-center gap-3">
+    <div class="d-flex align-items-center gap-2 gap-md-3">
       <span class="status-pulse"></span>
-      <span style="font-size:1.1rem; font-weight:900; letter-spacing:-0.5px; color:#000;"><i class="bi bi-heart-fill" style="color: #e11d48; margin-right: 4px;"></i>iLove<span style="color:#e11d48;">Exams</span></span>
-      <span id="headerEpisodeTitle" style="font-size:0.8rem; font-weight:800; border:2px solid #000; padding:3px 8px; background:#f3f4f6;">NEET PG MOCK ENGINE</span>
+      <!-- Love Logo (On mobile, only shows the red heart emoji; on desktop, shows iLoveExams text) -->
+      <a href="neet_pg.html" class="text-decoration-none" style="font-size:1.15rem; font-weight:900; color:#000;">
+        <span class="d-md-none">❤️</span>
+        <span class="d-none d-md-inline"><i class="bi bi-heart-fill" style="color: #e11d48; margin-right: 4px;"></i>iLove<span style="color:#e11d48;">Exams</span></span>
+      </a>
+      <span id="headerEpisodeTitle" class="d-none d-md-inline" style="font-size:0.8rem; font-weight:800; border:2px solid #000; padding:3px 8px; background:#f3f4f6;">NEET PG MOCK ENGINE</span>
     </div>
+    
     <div class="d-flex align-items-center gap-2">
       <span id="headerCandidateName" class="d-none d-md-inline fw-bold" style="font-size:0.85rem; color:#000;"></span>
+      
       <button class="btn btn-outline-dark btn-sm ms-2" id="headerBookmarkBtn" style="border: 2px solid #000 !important; box-shadow: 2px 2px 0px #000 !important; display: none;">
         <i class="bi bi-star"></i> <span class="d-none d-md-inline">Bookmark</span>
       </button>
-      <button class="btn btn-warning btn-sm d-md-none ms-2"
+      
+      <!-- Questions button (On mobile, shows grid/list emoji; on desktop, shows "Questions") -->
+      <button class="btn btn-warning btn-sm ms-1 ms-md-2"
               data-bs-toggle="modal" data-bs-target="#paletteModal"
-              style="border: 2px solid #000 !important; box-shadow: 2px 2px 0px #000 !important;">
-        <i class="bi bi-grid"></i> Questions
+              style="border: 2px solid #000 !important; box-shadow: 2px 2px 0px #000 !important; border-radius: 8px !important; padding: 6px 12px !important;">
+        <span class="d-md-none" style="font-size: 1rem;">📋</span>
+        <span class="d-none d-md-inline"><i class="bi bi-grid"></i> Questions</span>
       </button>
-      <a href="neet_pg.html" class="btn btn-light btn-sm ms-2" style="border: 2px solid #000 !important; box-shadow: 2px 2px 0px #000 !important;">
-        <i class="bi bi-x-circle"></i> Exit Exam
+      
+      <!-- Exit Button (On mobile, shows close emoji; on desktop, shows "Exit Exam") -->
+      <a href="neet_pg.html" class="btn btn-light btn-sm ms-1 ms-md-2" style="border: 2px solid #000 !important; box-shadow: 2px 2px 0px #000 !important; border-radius: 8px !important; padding: 6px 12px !important;">
+        <span class="d-md-none" style="font-size: 1rem;">❌</span>
+        <span class="d-none d-md-inline"><i class="bi bi-x-circle"></i> Exit Exam</span>
       </a>
     </div>
   </header>
@@ -594,7 +605,7 @@
 
       <!-- Left: Question Workspace -->
       <div class="col-md-8 mb-4">
-        <div class="d-flex justify-content-between align-items-center mb-4 border-bottom border-2 border-dark pb-2">
+        <div class="d-none d-md-flex justify-content-between align-items-center mb-4 border-bottom border-2 border-dark pb-2">
           <h5 class="font-monospace text-uppercase fw-bold mb-0" id="examEpisodeTitle">NEET PG EPISODE 1 MOCK</h5>
           <div class="font-monospace fw-bold bg-light border border-dark px-3 py-1" style="box-shadow: 2px 2px 0px #000; display: none !important;">
             Time Left: <span id="timer" class="text-danger">--:--</span>
