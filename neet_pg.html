@@ -873,53 +873,75 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
         nextBtn.addEventListener('click', () => onPageChange(currentPage + 1));
       }
       container.appendChild(nextBtn);
-    }
+    }    // ── Continue Learning Resuming (Udemy style) ─────────────
+    let currentActiveTabGlobal = 'sec-episodes';
 
-    //  Continue Learning Resuming (Udemy style) 
-    function checkResumeLearning() {
+    function checkResumeLearning(currentTab) {
+      if (currentTab) currentActiveTabGlobal = currentTab;
       const lastEp = localStorage.getItem('neet_pg_last_episode');
       const lastIdx = localStorage.getItem('neet_pg_last_index');
       const container = document.getElementById('resumeLearningContainer');
       if (!container) return;
 
-      if (lastEp) {
-        const epNum = parseInt(lastEp);
-        const idx = lastIdx ? parseInt(lastIdx) : 0;
-        const subjects = [
-          "Cardiology & Pulmonology",
-          "Neurology & Endocrinology",
-          "Nephrology & Hematology",
-          "Pharmacology & Microbiology",
-          "Obstetrics & Pediatrics",
-          "Surgery & Psychiatry",
-          "Dermatology & Ophthalmology",
-          "Anatomy & Physiology",
-          "Biochemistry & Genetics",
-          "Pathology & Immunology"
-        ];
-        const subjectTitle = subjects[(epNum - 1) % subjects.length];
-
-        container.innerHTML = `
-          <div class="card p-3 mb-2" style="background:#fffbeb !important; border:3px solid #000 !important; box-shadow:6px 6px 0px #000 !important;">
-            <div class="d-flex align-items-center justify-content-between flex-wrap gap-2">
-              <div>
-                <span class="badge bg-warning text-dark font-monospace border border-dark mb-2" style="font-size:0.7rem; font-weight:800; border-radius:0;">
-                  <i class="bi bi-clock-history"></i> CONTINUE WHERE YOU LEFT OFF
-                </span>
-                <h5 class="fw-bold font-monospace mb-1" style="font-size:1.05rem;">Episode ${epNum}: ${subjectTitle}</h5>
-                <p class="text-secondary font-monospace mb-0" style="font-size:0.8rem;">Last active question: Q${idx + 1}</p>
-              </div>
-              <a href="neet_pg_ui.html?episode=${epNum}&resume=true" class="btn btn-warning" style="border: 2px solid #000 !important; box-shadow: 3px 3px 0px #000 !important;">
-                <i class="bi bi-arrow-right-circle-fill"></i> RESUME PRACTICE
-              </a>
-            </div>
-          </div>
-        `;
-        container.style.display = 'block';
-      } else {
+      if (!lastEp) {
         container.style.display = 'none';
+        return;
       }
+
+      const isMobile = window.innerWidth <= 991;
+      let shouldShow = false;
+
+      if (isMobile) {
+        // Mobile: ONLY on Practice page ('sec-episodes')
+        shouldShow = (currentActiveTabGlobal === 'sec-episodes');
+      } else {
+        // Desktop: Home page ('sec-home') AND Mock Test page ('sec-episodes')
+        shouldShow = (currentActiveTabGlobal === 'sec-home' || currentActiveTabGlobal === 'sec-episodes');
+      }
+
+      if (!shouldShow) {
+        container.style.display = 'none';
+        return;
+      }
+
+      const epNum = parseInt(lastEp);
+      const idx = lastIdx ? parseInt(lastIdx) : 0;
+      const subjects = [
+        "Cardiology & Pulmonology",
+        "Neurology & Endocrinology",
+        "Nephrology & Hematology",
+        "Pharmacology & Microbiology",
+        "Obstetrics & Pediatrics",
+        "Surgery & Psychiatry",
+        "Dermatology & Ophthalmology",
+        "Anatomy & Physiology",
+        "Biochemistry & Genetics",
+        "Pathology & Immunology"
+      ];
+      const subjectTitle = subjects[(epNum - 1) % subjects.length];
+
+      container.innerHTML = `
+        <div class="card p-3 mb-2" style="background:#fffbeb !important; border:3px solid #000 !important; box-shadow:6px 6px 0px #000 !important;">
+          <div class="d-flex align-items-center justify-content-between flex-wrap gap-2">
+            <div>
+              <span class="badge bg-warning text-dark font-monospace border border-dark mb-2" style="font-size:0.7rem; font-weight:800; border-radius:0;">
+                <i class="bi bi-clock-history"></i> CONTINUE WHERE YOU LEFT OFF
+              </span>
+              <h5 class="fw-bold font-monospace mb-1" style="font-size:1.05rem;">Episode ${epNum}: ${subjectTitle}</h5>
+              <p class="text-secondary font-monospace mb-0" style="font-size:0.8rem;">Last active question: Q${idx + 1}</p>
+            </div>
+            <a href="neet_pg_ui.html?episode=${epNum}&resume=true" class="btn btn-warning" style="border: 2px solid #000 !important; box-shadow: 3px 3px 0px #000 !important;">
+              <i class="bi bi-arrow-right-circle-fill"></i> RESUME PRACTICE
+            </a>
+          </div>
+        </div>
+      `;
+      container.style.display = 'block';
     }
+
+    window.addEventListener('resize', () => {
+      checkResumeLearning();
+    });
 
     //  Podcasts Data (Dynamic) 
     let podcastsData = [];
@@ -1758,6 +1780,7 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
     });
 
     function showTab(tabId) {
+      currentActiveTabGlobal = tabId;
       // Hide all tabs
       ALL_TABS.forEach(id => {
         const el = document.getElementById(id);
@@ -1770,6 +1793,9 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
         target.style.display = 'block';
         window.scrollTo({ top: 0, behavior: 'smooth' });
       }
+
+      // Re-evaluate Continue Where You Left Off container visibility for new tab
+      checkResumeLearning(tabId);
 
       // Update sidebar nav active state
       document.querySelectorAll('.nav-link[data-tab]').forEach(b => {
