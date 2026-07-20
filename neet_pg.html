@@ -562,21 +562,16 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
         </div>
         <p class="section-sub">High-yield clinical cheat sheets, diagrams, and revision notes.</p>
         <div class="divider" style="background:#059669;"></div>
-        <!-- Year Filter Buttons -->
+        <!-- Category Filter Buttons (All, PYQ Papers, Revision Notes) -->
         <div class="d-flex flex-wrap align-items-center gap-2 mb-3 p-2 bg-white border border-2 border-dark" style="box-shadow:3px 3px 0 #000;">
-          <span class="fw-bold font-monospace text-uppercase me-1" style="font-size:0.75rem; color:#059669;"><i class="bi bi-funnel-fill me-1"></i>Year Filter:</span>
-          <button class="btn btn-sm btn-dark pdf-year-filter active" data-year="all" onclick="filterPDFsByYear('all', this)">All Years</button>
-          <button class="btn btn-sm btn-outline-dark pdf-year-filter" data-year="1" onclick="filterPDFsByYear(1, this)">1st Year</button>
-          <button class="btn btn-sm btn-outline-dark pdf-year-filter" data-year="2" onclick="filterPDFsByYear(2, this)">2nd Year</button>
-          <button class="btn btn-sm btn-outline-dark pdf-year-filter" data-year="3" onclick="filterPDFsByYear(3, this)">3rd Year</button>
-          <button class="btn btn-sm btn-outline-dark pdf-year-filter" data-year="4" onclick="filterPDFsByYear(4, this)">4th Year</button>
-          <button class="btn btn-sm btn-outline-dark pdf-year-filter" data-year="5" onclick="filterPDFsByYear(5, this)">5th Year</button>
-          <button class="btn btn-sm btn-outline-dark pdf-year-filter" data-year="6" onclick="filterPDFsByYear(6, this)">6th Year</button>
+          <span class="fw-bold font-monospace text-uppercase me-1" style="font-size:0.75rem; color:#059669;"><i class="bi bi-funnel-fill me-1"></i>Category:</span>
+          <button class="btn btn-sm btn-dark pdf-category-filter active" data-cat="all" onclick="filterPDFsByCategory('all', this)">All PDFs</button>
+          <button class="btn btn-sm btn-outline-dark pdf-category-filter" data-cat="pyq" onclick="filterPDFsByCategory('pyq', this)"><i class="bi bi-file-earmark-check-fill me-1" style="color:#e11d48;"></i>PYQ Papers</button>
+          <button class="btn btn-sm btn-outline-dark pdf-category-filter" data-cat="notes" onclick="filterPDFsByCategory('notes', this)"><i class="bi bi-book-half me-1" style="color:#059669;"></i>Revision Notes</button>
         </div>
 
-        <div class="input-group mb-4" style="border:2px solid #0a0a0a; box-shadow:3px 3px 0 #0a0a0a; border-radius:0;">
-          <input type="text" id="pdfSearchInput" class="form-control border-0" placeholder="Filter revision guides by keyword..." style="font-size:0.9rem; padding:11px; outline:none; border-radius:0; font-family:monospace;">
-          <span class="input-group-text bg-white border-0"><i class="bi bi-search"></i></span>
+        <div class="mb-4">
+          <input type="text" id="pdfSearchInput" class="form-control" placeholder="Search PYQ papers &amp; revision guides by keyword..." style="font-size:0.9rem; padding:12px 14px; outline:none; border-radius:10px !important; font-family:monospace; background:#fff; border:3px solid #000 !important; box-shadow:4px 4px 0 #000 !important;">
         </div>
         <div class="row g-3" id="pdfCardsGrid"></div>
         <div id="pdfsPagination" class="d-flex justify-content-center align-items-center gap-2 mt-4" style="font-family:monospace; padding-bottom:24px;"></div>
@@ -1355,49 +1350,25 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
     let pdfDocumentsGlobal = [];
     let currentPDFsPage = 1;
     const pdfsPerPage = 6;
-    let selectedPdfYear = 'all';
+    let selectedPdfCategory = 'all';
 
     const defaultPDFsList = [
-      { id: 'anatomy_notes', title: 'Anatomy High-Yield Clinical Revision Notes', subject: 'Anatomy', year: 1, size: '412 B', pages: 12, fileUrl: '/pdfs/Anatomy_High_Yield_Revision.pdf', description: 'Comprehensive review sheet highlighting cranial nerve pathways, rotator cuff muscles, and vascular dominance.' },
-      { id: 'biochem_pathways', title: 'Biochemistry Metabolic Pathways & Enzyopathy', subject: 'Biochemistry', year: 1, size: '520 B', pages: 15, fileUrl: '/pdfs/Anatomy_High_Yield_Revision.pdf', description: 'Glycogen storage diseases, inborn errors of metabolism, electron transport chain inhibitors & ATP yield.' },
-      { id: 'physio_cardio', title: 'Cardiovascular & Respiratory Physiology Cheat Sheet', subject: 'Physiology', year: 1, size: '380 B', pages: 10, fileUrl: '/pdfs/Anatomy_High_Yield_Revision.pdf', description: 'Wiggers diagram, cardiac output formulas, oxygen-hemoglobin dissociation curve & ventilation-perfusion ratios.' },
+      // PYQ Papers
+      { id: 'pyq_neetpg_2024', title: 'NEET PG 2024 Memory Recall Paper & Answer Key', subject: 'NEET PG PYQ', type: 'pyq', size: '1.2 MB', pages: 45, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Complete 200 clinical case questions recall paper from NEET PG 2024 with detailed explanations.' },
+      { id: 'pyq_neetpg_2023', title: 'NEET PG 2023 Official Question Paper & Explanations', subject: 'NEET PG PYQ', type: 'pyq', size: '1.1 MB', pages: 42, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Verified question paper with high-yield clinical diagrams, answer key, and mnemonic references.' },
+      { id: 'pyq_neetpg_2022', title: 'NEET PG 2022 Full Clinical Paper & Topic Breakdown', subject: 'NEET PG PYQ', type: 'pyq', size: '980 KB', pages: 38, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Previous year paper with subject-wise question distribution, difficulty index, and key takeaways.' },
+      { id: 'pyq_inicet_2024_nov', title: 'INI-CET 2024 November Session PYQ Recall Paper', subject: 'INI-CET PYQ', type: 'pyq', size: '1.4 MB', pages: 50, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'AIIMS/INI-CET November session 200 question paper with multi-conceptual image-based explanations.' },
+      { id: 'pyq_inicet_2024_may', title: 'INI-CET 2024 May Session Question Paper & Key', subject: 'INI-CET PYQ', type: 'pyq', size: '1.3 MB', pages: 48, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Official May session exam questions covering advanced pathophysiology and clinical decision trees.' },
+      { id: 'pyq_fmge_2024', title: 'FMGE 2024 Clinical PYQs & High-Yield Mnemonics', subject: 'FMGE PYQ', type: 'pyq', size: '850 KB', pages: 32, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Essential screening test PYQs with rapid-fire one-liners, repeating concepts, and image banks.' },
 
-      { id: 'pharmacology_mnemonics', title: 'Pharmacology High-Yield Mnemonics Sheet', subject: 'Pharmacology', year: 2, size: '412 B', pages: 14, fileUrl: '/pdfs/Pharmacology_Mnemonics_Sheet.pdf', description: 'Essential pharmacology mnemonics covering tuberculosis treatments (R.I.P.E), anticonvulsants, and antiarrhythmics classes.' },
-      { id: 'pathology_general', title: 'General Pathology & Cell Injury High-Yield Chart', subject: 'Pathology', year: 2, size: '610 B', pages: 18, fileUrl: '/pdfs/Pharmacology_Mnemonics_Sheet.pdf', description: 'Reversible vs irreversible cell injury, amyloidosis staining, hypersensitivity reactions & acute inflammation.' },
-      { id: 'microbiology_bugs', title: 'Clinical Microbiology Gram Stain & Parasitology Guide', subject: 'Microbiology', year: 2, size: '490 B', pages: 16, fileUrl: '/pdfs/Pharmacology_Mnemonics_Sheet.pdf', description: 'Gram positive vs negative cocci algorithms, opportunistic fungal infections & malaria life cycle charts.' },
-
-      { id: 'ophthalmology_fundus', title: 'Ophthalmology Fundus & Glaucoma Clinical Atlas', subject: 'Ophthalmology', year: 3, size: '750 B', pages: 20, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Diabetic retinopathy grading, papilledema vs optic neuritis, and open vs closed angle glaucoma management.' },
-      { id: 'ent_audiometry', title: 'ENT Audiometry & Vestibular Disorders Manual', subject: 'ENT', year: 3, size: '340 B', pages: 8, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Rinne & Weber tuning fork test algorithms, BPPV Epley maneuver, and otitis media surgical indications.' },
-      { id: 'psm_epidemiology', title: 'Community Medicine Epidemiology & Biostatistics Formulas', subject: 'PSM', year: 3, size: '420 B', pages: 11, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Sensitivity, specificity, positive predictive value, odds ratio, relative risk & immunization schedules.' },
-
-      { id: 'medicine_ecg_cardio', title: 'Internal Medicine High-Yield ECG & Murmur Guide', subject: 'General Medicine', year: 4, size: '820 B', pages: 25, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'STEMI vs NSTEMI localized leads, heart block criteria, heart murmur maneuvers & electrolyte abnormalities.' },
-      { id: 'surgery_acute_abdomen', title: 'General Surgery Acute Abdomen & Trauma ATLS Protocol', subject: 'General Surgery', year: 4, size: '910 B', pages: 28, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Appendicitis Alvarado score, bowel obstruction X-ray signs, hernia repair techniques & primary survey.' },
-      { id: 'obgyn_labor_partogram', title: 'Obstetrics Partogram & Postpartum Emergency Protocols', subject: 'OBGYN', year: 4, size: '640 B', pages: 19, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Normal labor stages, fetal heart rate tracings (VEAL CHOP), PPH management steps & preeclampsia workup.' },
-
-      { id: 'radiology_atlas', title: 'High-Yield Radiology & Pathology Imaging Atlas', subject: 'Radiology', year: 5, size: '412 B', pages: 22, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Visual diagnosis criteria for epidural and subdural hematomas, croup steeple sign, and lung consolidation.' },
-      { id: 'orthopedics_fractures', title: 'Orthopedics Fracture Classification & Eponyms Sheet', subject: 'Orthopedics', year: 5, size: '530 B', pages: 14, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Colles vs Smith fracture, Monteggia vs Galeazzi, compartment syndrome signs & nerve injury associations.' },
-      { id: 'dermatology_lesions', title: 'Dermatology High-Yield Rash & Blistering Diseases Chart', subject: 'Dermatology', year: 5, size: '480 B', pages: 12, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Pemphigus vulgaris vs bullous pemphigoid, psoriasis Auspitz sign, and drug eruption clinical features.' },
-
-      { id: 'emergency_resuscitation', title: 'Emergency Medicine ACLS Resuscitation & Triage Guide', subject: 'Emergency Medicine', year: 6, size: '890 B', pages: 30, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'ACLS cardiac arrest algorithm, anaphylaxis epinephrine dosing, acute poisoning antidotes & GCS scoring.' },
-      { id: 'internship_rotation_cases', title: 'Internship High-Yield Clinical Rotation Cases & Procedures', subject: 'Clinical Rotations', year: 6, size: '950 B', pages: 35, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'ABG interpretation step-by-step, central line placement landmarks, chest tube drainage & lumbar puncture.' }
+      // High-Yield Revision Notes
+      { id: 'anatomy_notes', title: 'Anatomy High-Yield Clinical Revision Notes', subject: 'Anatomy', type: 'notes', size: '412 B', pages: 12, fileUrl: '/pdfs/Anatomy_High_Yield_Revision.pdf', description: 'Comprehensive review sheet highlighting cranial nerve pathways, rotator cuff muscles, and vascular dominance.' },
+      { id: 'pharmacology_mnemonics', title: 'Pharmacology High-Yield Mnemonics Sheet', subject: 'Pharmacology', type: 'notes', size: '412 B', pages: 14, fileUrl: '/pdfs/Pharmacology_Mnemonics_Sheet.pdf', description: 'Essential pharmacology mnemonics covering tuberculosis treatments (R.I.P.E), anticonvulsants, and antiarrhythmics.' },
+      { id: 'radiology_atlas', title: 'High-Yield Radiology & Pathology Imaging Atlas', subject: 'Radiology', type: 'notes', size: '412 B', pages: 22, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Visual diagnosis criteria for epidural and subdural hematomas, croup steeple sign, and lung consolidation.' },
+      { id: 'medicine_ecg_cardio', title: 'Internal Medicine High-Yield ECG & Murmur Guide', subject: 'Medicine', type: 'notes', size: '820 B', pages: 25, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'STEMI vs NSTEMI localized leads, heart block criteria, heart murmur maneuvers & electrolyte abnormalities.' },
+      { id: 'surgery_acute_abdomen', title: 'General Surgery Acute Abdomen & Trauma ATLS Protocol', subject: 'Surgery', type: 'notes', size: '910 B', pages: 28, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'Appendicitis Alvarado score, bowel obstruction X-ray signs, hernia repair techniques & primary survey.' },
+      { id: 'emergency_resuscitation', title: 'Emergency Medicine ACLS Resuscitation & Triage Guide', subject: 'Emergency', type: 'notes', size: '890 B', pages: 30, fileUrl: '/pdfs/High_Yield_Radiology_Atlas.pdf', description: 'ACLS cardiac arrest algorithm, anaphylaxis epinephrine dosing, acute poisoning antidotes & GCS scoring.' }
     ];
-
-    function getPdfYear(pdf) {
-      if (pdf.year && pdf.year >= 1 && pdf.year <= 6) return parseInt(pdf.year);
-      const subj = (pdf.subject || '').toLowerCase();
-      const title = (pdf.title || '').toLowerCase() + ' ' + (pdf.description || pdf.desc || '').toLowerCase();
-
-      if (subj.includes('anatomy') || subj.includes('physiol') || subj.includes('biochem') || title.includes('cranial') || title.includes('rotator')) return 1;
-      if (subj.includes('pharm') || subj.includes('pathol') || subj.includes('micro') || subj.includes('forensic') || title.includes('mnemonic') || title.includes('tuberculosis')) return 2;
-      if (subj.includes('ophthalm') || subj.includes('ent') || subj.includes('psm') || subj.includes('community') || title.includes('eye') || title.includes('ear')) return 3;
-      if (subj.includes('med') || subj.includes('surg') || subj.includes('obg') || subj.includes('pediatr') || title.includes('obstetric') || title.includes('surgery')) return 4;
-      if (subj.includes('ortho') || subj.includes('derma') || subj.includes('psych') || subj.includes('radio') || subj.includes('anesthes') || title.includes('atlas') || title.includes('skin')) return 5;
-      if (subj.includes('emerg') || subj.includes('intern') || subj.includes('grand') || title.includes('case') || title.includes('icui')) return 6;
-
-      let charSum = 0;
-      for (let i = 0; i < (pdf.id || '').length; i++) charSum += pdf.id.charCodeAt(i);
-      return (charSum % 6) + 1;
-    }
 
     async function loadPDFs() {
       try {
@@ -1410,10 +1381,13 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
             if (!existingIds.has(def.id)) fetched.push(def);
           });
         }
-        pdfDocumentsGlobal = fetched.map(p => ({
-          ...p,
-          year: getPdfYear(p)
-        }));
+        pdfDocumentsGlobal = fetched.map(p => {
+          const isPyq = p.type === 'pyq' || (p.subject || '').toLowerCase().includes('pyq') || (p.title || '').toLowerCase().includes('pyq') || (p.title || '').toLowerCase().includes('paper');
+          return {
+            ...p,
+            type: isPyq ? 'pyq' : (p.type || 'notes')
+          };
+        });
       } catch (e) {
         console.error("Failed to load PDF library:", e);
         pdfDocumentsGlobal = defaultPDFsList;
@@ -1421,10 +1395,10 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       renderPDFGrid();
     }
 
-    function filterPDFsByYear(year, btn) {
-      selectedPdfYear = year;
+    function filterPDFsByCategory(cat, btn) {
+      selectedPdfCategory = cat;
       currentPDFsPage = 1;
-      document.querySelectorAll('.pdf-year-filter').forEach(b => {
+      document.querySelectorAll('.pdf-category-filter').forEach(b => {
         b.classList.remove('btn-dark', 'active');
         b.classList.add('btn-outline-dark');
       });
@@ -1444,16 +1418,17 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       const query = (searchInput ? searchInput.value : '').toLowerCase().trim();
 
       let filtered = pdfDocumentsGlobal.filter(pdf => {
-        const yearMatch = (selectedPdfYear === 'all' || pdf.year == selectedPdfYear);
+        const pType = pdf.type || 'notes';
+        const catMatch = (selectedPdfCategory === 'all' || pType === selectedPdfCategory);
         const searchMatch = !query ||
           (pdf.title || '').toLowerCase().includes(query) ||
           (pdf.subject || '').toLowerCase().includes(query) ||
           (pdf.description || pdf.desc || '').toLowerCase().includes(query);
-        return yearMatch && searchMatch;
+        return catMatch && searchMatch;
       });
 
       if (filtered.length === 0) {
-        grid.innerHTML = '<div class="col-12 font-monospace text-center text-secondary p-4 bg-white border border-dark" style="border:2px solid #000; box-shadow:4px 4px 0 #000;">No revision guides match your year filter and keywords.</div>';
+        grid.innerHTML = '<div class="col-12 font-monospace text-center text-secondary p-4 bg-white border border-dark" style="border:2px solid #000; box-shadow:4px 4px 0 #000;">No documents match your category and search keywords.</div>';
         renderPaginationControls('pdfsPagination', 1, 1, () => {});
         return;
       }
@@ -1466,14 +1441,14 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       const pageItems = filtered.slice(startIdx, startIdx + pdfsPerPage);
 
       pageItems.forEach(pdf => {
-        const yearOrdinal = pdf.year == 1 ? '1st' : pdf.year == 2 ? '2nd' : pdf.year == 3 ? '3rd' : `${pdf.year}th`;
+        const isPyq = pdf.type === 'pyq';
         const col = document.createElement('div');
         col.className = 'col-md-6 col-lg-4';
         col.innerHTML = `
           <div class="card h-100 p-3 bg-white" style="border: 2px solid #000; box-shadow: 4px 4px 0 #000; border-radius: 0;">
             <div class="d-flex align-items-center justify-content-between mb-2">
               <div>
-                <span class="badge bg-dark text-white border border-dark rounded-0 font-monospace me-1">${yearOrdinal} Year</span>
+                <span class="badge ${isPyq ? 'bg-danger' : 'bg-success'} text-white border border-dark rounded-0 font-monospace me-1">${isPyq ? 'PYQ Paper' : 'Revision Notes'}</span>
                 <span class="badge bg-warning text-dark border border-dark rounded-0 font-monospace">${pdf.subject}</span>
               </div>
               <span class="small font-monospace text-secondary">${pdf.size} (${pdf.pages} p.)</span>

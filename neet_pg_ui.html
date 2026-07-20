@@ -465,14 +465,8 @@
       #testContainer .col-md-8 { width: 100% !important; max-width: 100% !important; }
       #testContainer .col-md-4 { width: 100% !important; max-width: 100% !important; }
 
-      /* Sidebar: remove left border, add top border */
-      #sidebar {
-        border-left: none !important;
-        padding-left: 0 !important;
-        border-top: 3px solid #000 !important;
-        padding-top: 16px !important;
-        margin-top: 20px !important;
-      }
+      /* Hide sidebar on mobile (use header Questions modal button like neet_ui) */
+      #sidebar { display: none !important; }
 
       /* Hide large candidate photo on mobile, keep name */
       #candidateImg { display: none !important; }

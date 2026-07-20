@@ -565,7 +565,14 @@ function renderPalette() {
             btn.className = 'palette-btn';
             btn.innerText = idx + 1;
             btn.id        = `${prefix}-${idx}`;
-            btn.addEventListener('click', () => renderQuestion(idx));
+            btn.addEventListener('click', () => {
+                renderQuestion(idx);
+                const modalEl = document.getElementById('paletteModal');
+                if (modalEl && typeof bootstrap !== 'undefined') {
+                    const modal = bootstrap.Modal.getInstance(modalEl);
+                    if (modal) modal.hide();
+                }
+            });
             grid.appendChild(btn);
         });
     });
