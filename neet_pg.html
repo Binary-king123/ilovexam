@@ -80,7 +80,7 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
 .mobile-topbar .brand { font-family:var(--mono);font-size:1.05rem;font-weight:900;color:#000; }
 .mobile-topbar .brand span { color:var(--red); }
 .mobile-topbar .user-avatar { width:34px;height:34px;border:2px solid #000;background:#ffe4e6;color:var(--red);font-family:var(--mono);font-weight:900;font-size:0.85rem;display:flex;align-items:center;justify-content:center; }
-.main-feed { margin-left:var(--sidebar-w);flex:1;min-width:0;padding:0; }
+.main-feed { margin-left:var(--sidebar-w);flex:1;min-width:0;padding:0;display:flex;flex-direction:column; }
 .hero-bar { background:rgba(255,255,255,0.9);backdrop-filter:blur(12px) saturate(180%);border-bottom:var(--border);padding:18px 28px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px;position:sticky;top:0;z-index:300;box-shadow:0 4px 30px rgba(0,0,0,0.05); }
 .hero-bar .hero-title { font-family:var(--mono);font-size:0.9rem;font-weight:900;color:#000;letter-spacing:0.5px;text-transform:uppercase; }
 .hero-bar .hero-sub { font-family:var(--mono);font-size:0.65rem;color:#666;margin-top:2px;letter-spacing:0.3px; }
@@ -208,9 +208,11 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
   body { padding-bottom:64px; }
   .quick-actions { grid-template-columns:repeat(2,1fr); }
   .hero-bar { padding:12px 16px;position:fixed; }
+  .streak-strip { display:none !important; }
+  .podcast-section-header { display:none !important; }
+  #appFooter { margin-left:0 !important; }
   .stat-pill { padding:8px 12px; }
   .stat-pill .stat-val { font-size:1.1rem; }
-  .streak-strip { padding:10px 16px; }
   .feed-section { padding:20px 16px 0; }
   #resumeLearningContainer { padding:12px 16px 0; }
   .video-grid { grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); }
@@ -233,7 +235,7 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
 .accordion-item { border-radius:12px !important;border:3px solid #000 !important;margin-bottom:12px !important;overflow:hidden; }
 .form-control,.form-select { border:3px solid #000 !important;border-radius:10px !important;font-family:var(--mono) !important;box-shadow:3px 3px 0 #000 !important; }
 .form-control:focus,.form-select:focus { box-shadow:4px 4px 0 #000 !important;outline:none !important; }
-@media (max-width:991px) { footer { margin-left:0 !important; } }
+
 .badge-beta-glow {
   background: #ec4899;
   color: #fff;
@@ -510,12 +512,12 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
     
     <div class="feed-section" id="sec-podcasts" style="background:#fdf4ff; border-top:2px solid #0a0a0a; padding-top:28px;">
       <div id="tab-podcasts">
-        <div class="section-header">
+        <div class="section-header podcast-section-header">
           <h2>❤️ Podcast</h2>
           <span class="section-tag" style="border-color:#ec4899; color:#ec4899;">Listen</span>
         </div>
-        <p class="section-sub">Clinical topic summaries on the go. Perfect for commutes and rotations.</p>
-        <div class="divider" style="background:#ec4899;"></div>
+        <p class="section-sub podcast-section-header">Clinical topic summaries on the go. Perfect for commutes and rotations.</p>
+        <div class="divider podcast-section-header" style="background:#ec4899;"></div>
         <div class="player-card">
           <div class="d-flex align-items-center gap-3 mb-3">
             <div style="width:46px;height:46px;background:#fff;border:2px solid #555;display:flex;align-items:center;justify-content:center;font-size:1.4rem;color:#000;flex-shrink:0;">
@@ -547,16 +549,7 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
       </div>
     </div>
 
-    <!-- Footer -->
-    <footer id="appFooter" style="border-top:3px solid #000; padding:20px 28px; font-family:monospace; font-size:0.72rem; color:#888; background:#fff; margin-left:var(--sidebar-w); text-align:center;">
-      <div class="d-flex flex-column align-items-center justify-content-center gap-2">
-        <span>&copy; 2027 iLoveExams. Secure Anti-Cheat NEET PG Platform.</span>
-        <div class="d-flex gap-3 justify-content-center">
-          <a href="index.html" style="color:#888; text-decoration:underline;">Home</a>
-          <a href="neet_pg_login.html" style="color:#888; text-decoration:underline;">My Account</a>
-        </div>
-      </div>
-    </footer>
+
 
     
     
@@ -716,14 +709,22 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
     </div>
     <button id="resetBtn" style="display:none;"></button>
 
+    <!-- Footer -->
+    <footer id="appFooter" style="border-top:3px solid #000; padding:20px 28px; font-family:monospace; font-size:0.72rem; color:#888; background:#fff; margin-left:0; text-align:center; margin-top:auto;">
+      <div class="d-flex flex-column align-items-center justify-content-center gap-2">
+        <span>&copy; 2027 iLoveExams. Secure Anti-Cheat NEET PG Platform.</span>
+        <div class="d-flex gap-3 justify-content-center">
+          <a href="index.html" style="color:#888; text-decoration:underline;">Home</a>
+          <a href="neet_pg_login.html" style="color:#888; text-decoration:underline;">My Account</a>
+        </div>
+      </div>
+    </footer>
+
   </main><!-- /main-feed -->
 </div><!-- /app-shell -->
 
 
 <nav class="mobile-bottom-nav">
-  <button class="mb-nav-btn active" id="mb-nav-home" onclick="showTab('sec-home')">
-    <i class="bi bi-house-door-fill"></i>Home
-  </button>
   <button class="mb-nav-btn" id="mb-nav-episodes" onclick="showTab('sec-episodes')">
     <i class="bi bi-journal-medical"></i>Practice
   </button>
@@ -732,6 +733,7 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
   </button>
   <button class="mb-nav-btn" id="mb-nav-podcasts" onclick="showTab('sec-podcasts')">
     <i class="bi bi-mic-fill"></i>Listen
+    <span class="badge-beta-glow" style="font-size:0.45rem; padding:1px 4px; margin-left:3px;">BETA</span>
   </button>
 </nav>
 
@@ -1686,7 +1688,7 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
 
       // Update mobile bottom nav active state
       const mobileMap = {
-        'sec-home':      'mb-nav-home',
+        'sec-home':      'mb-nav-episodes',
         'sec-episodes':  'mb-nav-episodes',
         'sec-quizzes':   'mb-nav-episodes',
         'sec-builder':   'mb-nav-episodes',
@@ -1696,7 +1698,7 @@ body { background: #fff; color: #000; font-family: var(--sans); overflow-x: hidd
         'sec-pdfs':      'mb-nav-podcasts',
       };
       document.querySelectorAll('.mb-nav-btn').forEach(b => b.classList.remove('active'));
-      const mBtn = document.getElementById(mobileMap[tabId] || 'mb-nav-home');
+      const mBtn = document.getElementById(mobileMap[tabId] || 'mb-nav-episodes');
       if (mBtn) mBtn.classList.add('active');
 
       // Rebrand logo for podcast area: "put only love emoji and podcast instead of ilovexams"
