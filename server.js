@@ -319,6 +319,8 @@ app.use((req, res, next) => {
 // Serve static files
 app.use(express.static(path.join(__dirname)));
 app.use('/pdfs', express.static(path.join(__dirname, 'pdfs')));
+app.use('/podcasts', express.static(path.join(__dirname, 'podcasts')));
+app.use('/videos', express.static(path.join(__dirname, 'videos')));
 
 // ─── AUTH: Register / Login ───────────────────────────────────────────────────
 /**
