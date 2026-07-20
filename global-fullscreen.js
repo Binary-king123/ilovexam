@@ -1,42 +1,47 @@
 // ================================================================
 // iLoveExams Global Fullscreen Enforcer
-// Enables immersive full screen mode across all website pages on user interaction.
+// Triggers immersive full screen mode on first meaningful user gesture.
+// Complies with browser user-activation security requirements.
 // ================================================================
 
 (function () {
-  function triggerGlobalFullscreen() {
-    const docEl = document.documentElement;
-    if (
-      !document.fullscreenElement &&
-      !document.webkitFullscreenElement &&
-      !document.mozFullScreenElement &&
-      !document.msFullscreenElement
-    ) {
-      const requestFS =
-        docEl.requestFullscreen ||
-        docEl.webkitRequestFullscreen ||
-        docEl.mozRequestFullScreen ||
-        docEl.msRequestFullscreen;
+  let fullscreenTriggered = false;
 
-      if (requestFS) {
-        requestFS.call(docEl).catch(() => {
-          // Silent catch for browser autoplay/fullscreen restriction policies
+  function triggerGlobalFullscreen() {
+    if (fullscreenTriggered) return;   // Only trigger once per page load
+    if (document.fullscreenElement ||
+        document.webkitFullscreenElement ||
+        document.mozFullScreenElement ||
+        document.msFullscreenElement) {
+      fullscreenTriggered = true;
+      return; // Already fullscreen
+    }
+
+    const docEl = document.documentElement;
+    const requestFS =
+      docEl.requestFullscreen ||
+      docEl.webkitRequestFullscreen ||
+      docEl.mozRequestFullScreen ||
+      docEl.msRequestFullscreen;
+
+    if (requestFS) {
+      requestFS.call(docEl)
+        .then(() => { fullscreenTriggered = true; })
+        .catch(() => {
+          // Browser denied — don't retry, respect the decision
+          fullscreenTriggered = true;
         });
-      }
     }
   }
 
-  function onUserGesture() {
+  // Unbind after first successful trigger to avoid repeated calls
+  function onFirstGesture() {
     triggerGlobalFullscreen();
+    // Remove listeners once triggered (they'll have been set as 'once')
   }
 
-  // Bind to user gesture events to comply with browser user-activation security rules
-  window.addEventListener('click', onUserGesture, { passive: true });
-  window.addEventListener('touchstart', onUserGesture, { passive: true });
-  window.addEventListener('keydown', onUserGesture, { passive: true });
-
-  // Attempt initial trigger on load
-  document.addEventListener('DOMContentLoaded', () => {
-    triggerGlobalFullscreen();
-  });
+  // Only attach once; use { once: true } so the handler auto-removes
+  document.addEventListener('click',      onFirstGesture, { once: true, passive: true });
+  document.addEventListener('touchstart', onFirstGesture, { once: true, passive: true });
+  document.addEventListener('keydown',    onFirstGesture, { once: true, passive: true });
 })();

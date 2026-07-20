@@ -74,7 +74,11 @@ async function loadQuestions() {
             res = await fetch(`/api/qbank/quiz?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}&count=${count}`);
         } else if (quizType === 'custom_builder') {
             const configStr = localStorage.getItem('neet_pg_custom_builder_config');
-            const config = configStr ? JSON.parse(configStr) : {};
+            let config = {};
+            try { config = configStr ? JSON.parse(configStr) : {}; } catch (e) {
+                console.warn('neet_pg_custom_builder_config corrupted, resetting.', e);
+                localStorage.removeItem('neet_pg_custom_builder_config');
+            }
             res = await fetch('/api/qbank/create', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },

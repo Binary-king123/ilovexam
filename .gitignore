@@ -12,6 +12,12 @@ ilovexams.db-journal
 neet_pg_raw_data/
 neetquestions_raw/
 neetquestions_secure/neet_pg_all_raw.json
+neetquestions_secure/
+
+# User-uploaded media (too large for GitHub; served from server storage)
+podcasts/
+pdfs/
+videos/
 
 # Environment variables
 .env

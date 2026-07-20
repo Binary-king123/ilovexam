@@ -6,13 +6,24 @@ const path = require('path');
 const fs = require('fs');
 const Database = require('better-sqlite3');
 const Razorpay = require('razorpay');
+const compression = require('compression');
+const rateLimit = require('express-rate-limit');
 
 dotenv.config();
 
+if (!process.env.COOKIE_SECRET) {
+    console.warn('⚠️  COOKIE_SECRET not set in .env — using insecure default. Set it before deploying!');
+}
+if (!process.env.DECRYPTION_KEY) {
+    console.warn('⚠️  DECRYPTION_KEY not set in .env — using insecure default. Set it before deploying!');
+}
+
 const app = express();
 const PORT = process.env.PORT || 8085;
+const IS_PRODUCTION = process.env.NODE_ENV === 'production';
 const COOKIE_SECRET = process.env.COOKIE_SECRET || 'ilovexams_neetpg_cookie_secret_2027!!';
-const DECRYPTION_KEY = 'ilovexams_secret_key_32_bytes_long!!';
+const DECRYPTION_KEY = process.env.DECRYPTION_KEY || 'ilovexams_secret_key_32_bytes_long!!';
+const ADMIN_EMAIL = (process.env.ADMIN_EMAIL || 'admin@ilovexams.in').toLowerCase();
 
 // ─── Database Setup ──────────────────────────────────────────────────────────
 const db = new Database(path.join(__dirname, 'ilovexams.db'));
@@ -94,6 +105,21 @@ try {
     console.log('✔ Added hint_exp column to questions table.');
 } catch (e) {
     // Ignore: column already exists
+}
+
+// ─── Performance Indexes ───────────────────────────────────────────────────────
+try {
+    db.exec(`
+        CREATE INDEX IF NOT EXISTS idx_user_answers_user_id ON user_answers(user_id);
+        CREATE INDEX IF NOT EXISTS idx_user_answers_question_id ON user_answers(question_id);
+        CREATE INDEX IF NOT EXISTS idx_user_answers_user_correct ON user_answers(user_id, is_correct);
+        CREATE INDEX IF NOT EXISTS idx_questions_subject_topic ON questions(subject, topic);
+        CREATE INDEX IF NOT EXISTS idx_sessions_token ON sessions(token);
+        CREATE INDEX IF NOT EXISTS idx_sessions_expires ON sessions(expires_at);
+    `);
+    console.log('✔ Database indexes ready.');
+} catch (e) {
+    // Indexes already exist
 }
 
 console.log('✔ SQLite database ready.');
@@ -299,25 +325,85 @@ function setSessionCookie(res, token) {
         signed: true,
         httpOnly: true,
         maxAge: 30 * 24 * 60 * 60 * 1000, // 30 days
-        sameSite: 'lax'
+        sameSite: 'lax',
+        secure: IS_PRODUCTION   // HTTPS-only in production
     });
 }
 
+/** Middleware: require logged-in user */
+function requireAuth(req, res, next) {
+    const user = getSessionUser(req);
+    if (!user) return res.status(401).json({ error: 'Please log in first.' });
+    req.user = user;
+    next();
+}
+
+/** Middleware: require admin role */
+function requireAdmin(req, res, next) {
+    const user = getSessionUser(req);
+    if (!user) return res.status(401).json({ error: 'Please log in first.' });
+    if (user.email !== ADMIN_EMAIL) return res.status(403).json({ error: 'Admin access required.' });
+    req.user = user;
+    next();
+}
+
+/** Cleanup expired sessions — run once on startup and every 6 hours */
+function cleanExpiredSessions() {
+    const now = Math.floor(Date.now() / 1000);
+    const result = db.prepare('DELETE FROM sessions WHERE expires_at < ?').run(now);
+    if (result.changes > 0) console.log(`🧹 Cleaned ${result.changes} expired session(s).`);
+}
+cleanExpiredSessions();
+setInterval(cleanExpiredSessions, 6 * 60 * 60 * 1000);
+
 // ─── Middlewares ──────────────────────────────────────────────────────────────
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+app.use(compression());
+app.use(express.json({ limit: '2mb' }));
+app.use(express.urlencoded({ extended: true, limit: '2mb' }));
 app.use(cookieParser(COOKIE_SECRET));
 
+// Security headers
 app.use((req, res, next) => {
-    if (!req.url.startsWith('/api/')) next();
-    else {
-        console.log(`[${new Date().toISOString()}] ${req.method} ${req.url}`);
-        next();
+    res.setHeader('X-Content-Type-Options', 'nosniff');
+    res.setHeader('X-Frame-Options', 'SAMEORIGIN');
+    res.setHeader('X-XSS-Protection', '1; mode=block');
+    res.setHeader('Referrer-Policy', 'strict-origin-when-cross-origin');
+    if (IS_PRODUCTION) {
+        res.setHeader('Strict-Transport-Security', 'max-age=31536000; includeSubDomains');
     }
+    next();
+});
+
+// Block direct access to admin page for non-admins via server redirect
+app.get('/neet_pg_admin.html', (req, res, next) => {
+    const user = getSessionUser(req);
+    if (!user || user.email !== ADMIN_EMAIL) {
+        return res.redirect('/neet_pg_login.html');
+    }
+    next();
+});
+
+// Rate limiter for auth endpoints
+const authLimiter = rateLimit({
+    windowMs: 15 * 60 * 1000, // 15 minutes
+    max: 20,                   // max 20 login attempts per window
+    standardHeaders: true,
+    legacyHeaders: false,
+    message: { error: 'Too many login attempts. Please wait 15 minutes.' }
+});
+
+app.use((req, res, next) => {
+    if (req.url.startsWith('/api/')) {
+        console.log(`[${new Date().toISOString()}] ${req.method} ${req.url}`);
+    }
+    next();
 });
 
 // Serve static files
-app.use(express.static(path.join(__dirname)));
+app.use(express.static(path.join(__dirname), {
+    maxAge: IS_PRODUCTION ? '1d' : 0,
+    etag: true
+}));
 app.use('/pdfs', express.static(path.join(__dirname, 'pdfs')));
 app.use('/podcasts', express.static(path.join(__dirname, 'podcasts')));
 app.use('/videos', express.static(path.join(__dirname, 'videos')));
@@ -328,7 +414,7 @@ app.use('/videos', express.static(path.join(__dirname, 'videos')));
  * Body: { email, crushName }
  * Auto-creates account on first visit.
  */
-app.post('/api/auth/login', (req, res) => {
+app.post('/api/auth/login', authLimiter, (req, res) => {
     const { email, crushName } = req.body;
 
     if (!email || !crushName) {
@@ -371,7 +457,9 @@ app.post('/api/auth/login', (req, res) => {
 app.get('/api/auth/me', (req, res) => {
     const user = getSessionUser(req);
     if (!user) return res.json({ loggedIn: false });
-    return res.json({ loggedIn: true, email: user.email, tier: 'premium', isPro: true });
+    const isPro = user.tier === 'premium';
+    const isAdmin = user.email === ADMIN_EMAIL;
+    return res.json({ loggedIn: true, email: user.email, tier: user.tier, isPro, isAdmin });
 });
 
 // ─── AUTH: Logout ─────────────────────────────────────────────────────────────
@@ -388,7 +476,7 @@ app.post('/api/auth/logout', (req, res) => {
 // ─── STATUS (legacy compat) ───────────────────────────────────────────────────
 app.get('/api/status', (req, res) => {
     const user = getSessionUser(req);
-    return res.json({ loggedIn: !!user, isPro: true, tier: 'premium' });
+    return res.json({ loggedIn: !!user, isPro: !!user, tier: user ? user.tier : 'free' });
 });
 
 // ─── PAYMENT: Create Razorpay Order ──────────────────────────────────────────
@@ -749,9 +837,15 @@ app.get('/api/qbank/analytics', (req, res) => {
 });
 
 // ─── QBANK: List Study PDFs ──────────────────────────────────────────────────
-// Configure multer for file uploads
+// Configure multer for file uploads — with strict validation
 const multer = require('multer');
-const storage = multer.diskStorage({
+const ALLOWED_TYPES = {
+    pdfFile:   { mimetypes: ['application/pdf'], maxMB: 50 },
+    audioFile: { mimetypes: ['audio/mpeg', 'audio/mp3', 'audio/wav', 'audio/ogg', 'audio/aac', 'audio/mp4'], maxMB: 200 },
+    videoFile: { mimetypes: ['video/mp4', 'video/webm', 'video/ogg', 'video/quicktime'], maxMB: 500 }
+};
+
+const uploadStorage = multer.diskStorage({
     destination: (req, file, cb) => {
         if (file.fieldname === 'pdfFile') cb(null, path.join(__dirname, 'pdfs'));
         else if (file.fieldname === 'audioFile') cb(null, path.join(__dirname, 'podcasts'));
@@ -760,10 +854,26 @@ const storage = multer.diskStorage({
     },
     filename: (req, file, cb) => {
         const uniqueSuffix = Date.now() + '-' + Math.round(Math.random() * 1e9);
-        cb(null, file.fieldname + '-' + uniqueSuffix + path.extname(file.originalname));
+        // Sanitise: strip non-alphanumeric from extension
+        const ext = path.extname(file.originalname).toLowerCase().replace(/[^a-z0-9.]/g, '');
+        cb(null, file.fieldname + '-' + uniqueSuffix + ext);
     }
 });
-const upload = multer({ storage });
+
+const uploadFileFilter = (req, file, cb) => {
+    const allowed = ALLOWED_TYPES[file.fieldname];
+    if (!allowed) return cb(new Error('Invalid field name'));
+    if (!allowed.mimetypes.includes(file.mimetype)) {
+        return cb(new Error(`Invalid file type for ${file.fieldname}. Allowed: ${allowed.mimetypes.join(', ')}`));
+    }
+    cb(null, true);
+};
+
+const upload = multer({
+    storage: uploadStorage,
+    fileFilter: uploadFileFilter,
+    limits: { fileSize: 500 * 1024 * 1024 } // 500 MB hard cap; individual routes enforce lower limits
+});
 
 // ─── QBANK: List Study PDFs ──────────────────────────────────────────────────
 app.get('/api/pdfs/list', (req, res) => {
@@ -808,10 +918,13 @@ app.get('/api/videos/list', (req, res) => {
 });
 
 // ─── ADMIN: Upload PDF Document ──────────────────────────────────────────────
-app.post('/api/admin/upload/pdf', upload.single('pdfFile'), (req, res) => {
-    const user = getSessionUser(req);
-    if (!user) return res.status(401).json({ error: 'Please log in first.' });
+app.post('/api/admin/upload/pdf', requireAdmin, upload.single('pdfFile'), (req, res) => {
     if (!req.file) return res.status(400).json({ error: 'PDF file is required.' });
+    // Enforce per-type size limit
+    if (req.file.size > ALLOWED_TYPES.pdfFile.maxMB * 1024 * 1024) {
+        fs.unlinkSync(req.file.path);
+        return res.status(413).json({ error: `PDF must be under ${ALLOWED_TYPES.pdfFile.maxMB}MB.` });
+    }
 
     const { title, subject, description } = req.body;
     if (!title || !subject) return res.status(400).json({ error: 'Title and subject are required.' });
@@ -838,10 +951,12 @@ app.post('/api/admin/upload/pdf', upload.single('pdfFile'), (req, res) => {
 });
 
 // ─── ADMIN: Upload Podcast (Audio) ───────────────────────────────────────────
-app.post('/api/admin/upload/podcast', upload.single('audioFile'), (req, res) => {
-    const user = getSessionUser(req);
-    if (!user) return res.status(401).json({ error: 'Please log in first.' });
+app.post('/api/admin/upload/podcast', requireAdmin, upload.single('audioFile'), (req, res) => {
     if (!req.file) return res.status(400).json({ error: 'Audio file is required.' });
+    if (req.file.size > ALLOWED_TYPES.audioFile.maxMB * 1024 * 1024) {
+        fs.unlinkSync(req.file.path);
+        return res.status(413).json({ error: `Audio must be under ${ALLOWED_TYPES.audioFile.maxMB}MB.` });
+    }
 
     const { title, description } = req.body;
     if (!title) return res.status(400).json({ error: 'Title is required.' });
@@ -869,9 +984,11 @@ app.post('/api/admin/upload/podcast', upload.single('audioFile'), (req, res) => 
 });
 
 // ─── ADMIN: Upload Video Lecture ─────────────────────────────────────────────
-app.post('/api/admin/upload/video', upload.single('videoFile'), (req, res) => {
-    const user = getSessionUser(req);
-    if (!user) return res.status(401).json({ error: 'Please log in first.' });
+app.post('/api/admin/upload/video', requireAdmin, upload.single('videoFile'), (req, res) => {
+    if (req.file && req.file.size > ALLOWED_TYPES.videoFile.maxMB * 1024 * 1024) {
+        fs.unlinkSync(req.file.path);
+        return res.status(413).json({ error: `Video must be under ${ALLOWED_TYPES.videoFile.maxMB}MB.` });
+    }
     
     const { title, description, youtubeUrl } = req.body;
     if (!title) return res.status(400).json({ error: 'Title is required.' });
@@ -905,9 +1022,7 @@ app.post('/api/admin/upload/video', upload.single('videoFile'), (req, res) => {
 });
 
 // ─── ADMIN: Delete Media Item ────────────────────────────────────────────────
-app.post('/api/admin/delete/media', (req, res) => {
-    const user = getSessionUser(req);
-    if (!user) return res.status(401).json({ error: 'Please log in first.' });
+app.post('/api/admin/delete/media', requireAdmin, (req, res) => {
     const { type, id } = req.body;
 
     try {
@@ -1085,14 +1200,28 @@ app.get('/api/qbank/progress', (req, res) => {
     }
 });
 
-// ─── DEV RESET ────────────────────────────────────────────────────────────────
+// ─── DEV RESET (disabled in production) ──────────────────────────────────────
 app.post('/api/reset', (req, res) => {
+    if (IS_PRODUCTION) return res.status(404).json({ error: 'Not found.' });
     const user = getSessionUser(req);
     if (user) {
         db.prepare('UPDATE users SET tier = ? WHERE id = ?').run('free', user.id);
         console.log(`🔄 Reset ${user.email} to free.`);
     }
     return res.json({ success: true });
+});
+
+// ─── Global Error Handler ─────────────────────────────────────────────────────
+app.use((err, req, res, next) => {
+    // Handle multer errors (file type/size)
+    if (err && err.code === 'LIMIT_FILE_SIZE') {
+        return res.status(413).json({ error: 'File is too large.' });
+    }
+    if (err && err.message) {
+        return res.status(400).json({ error: err.message });
+    }
+    console.error('Unhandled error:', err);
+    return res.status(500).json({ error: 'Internal server error.' });
 });
 
 // ─── Start Server ─────────────────────────────────────────────────────────────
