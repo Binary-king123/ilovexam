@@ -146,6 +146,15 @@
               <label class="form-label fw-bold font-monospace">Select PDF File</label>
               <input type="file" name="pdfFile" class="form-control" accept=".pdf" required>
             </div>
+            
+            <!-- Progress Bar -->
+            <div id="pdfProgressContainer" class="d-none mb-3">
+              <div class="small fw-bold font-monospace mb-1">Uploading... <span id="pdfPercent">0%</span></div>
+              <div class="progress" style="height: 25px; border: 3px solid #000; border-radius: 0; background: #fff; box-shadow: 3px 3px 0px #000;">
+                <div id="pdfProgressBar" class="progress-bar bg-success progress-bar-striped progress-bar-animated" role="progressbar" style="width: 0%; color: #000; font-weight: bold; font-family: monospace;"></div>
+              </div>
+            </div>
+
             <button type="submit" class="btn btn-success w-100 py-2"><i class="bi bi-cloud-arrow-up-fill me-1"></i>Publish PDF to Vault</button>
           </form>
 
@@ -175,6 +184,15 @@
               <label class="form-label fw-bold font-monospace">Select MP3 Audio File</label>
               <input type="file" name="audioFile" class="form-control" accept="audio/*" required>
             </div>
+
+            <!-- Progress Bar -->
+            <div id="podcastProgressContainer" class="d-none mb-3">
+              <div class="small fw-bold font-monospace mb-1">Uploading... <span id="podcastPercent">0%</span></div>
+              <div class="progress" style="height: 25px; border: 3px solid #000; border-radius: 0; background: #fff; box-shadow: 3px 3px 0px #000;">
+                <div id="podcastProgressBar" class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" style="width: 0%; color: #000; font-weight: bold; font-family: monospace;"></div>
+              </div>
+            </div>
+
             <button type="submit" class="btn btn-warning w-100 py-2"><i class="bi bi-cloud-arrow-up-fill me-1"></i>Publish Audio Episode</button>
           </form>
 
@@ -211,6 +229,15 @@
                 <small class="text-secondary font-monospace">Provide either a YouTube link or choose a video file to upload to the server.</small>
               </div>
             </div>
+            
+            <!-- Progress Bar -->
+            <div id="videoProgressContainer" class="d-none mb-3">
+              <div class="small fw-bold font-monospace mb-1">Uploading... <span id="videoPercent">0%</span></div>
+              <div class="progress" style="height: 25px; border: 3px solid #000; border-radius: 0; background: #fff; box-shadow: 3px 3px 0px #000;">
+                <div id="videoProgressBar" class="progress-bar bg-primary progress-bar-striped progress-bar-animated" role="progressbar" style="width: 0%; color: #fff; font-weight: bold; font-family: monospace;"></div>
+              </div>
+            </div>
+
             <button type="submit" class="btn btn-dark w-100 py-2"><i class="bi bi-cloud-arrow-up-fill me-1"></i>Publish Video Lecture</button>
           </form>
 
@@ -356,44 +383,96 @@
       }
     }
 
+    // Helper to upload files using XMLHttpRequest with progress reporting
+    function uploadWithProgress(url, formData, progressContainerId, progressBarId, percentId, onSuccess) {
+      const container = document.getElementById(progressContainerId);
+      const bar = document.getElementById(progressBarId);
+      const percent = document.getElementById(percentId);
+      
+      container.classList.remove('d-none');
+      bar.style.width = '0%';
+      percent.innerText = '0%';
+      bar.innerText = '0%';
+      
+      const xhr = new XMLHttpRequest();
+      xhr.open('POST', url, true);
+      
+      xhr.upload.onprogress = function(e) {
+        if (e.lengthComputable) {
+          const pct = Math.round((e.loaded / e.total) * 100);
+          bar.style.width = pct + '%';
+          percent.innerText = pct + '%';
+          bar.innerText = pct + '%';
+        }
+      };
+      
+      xhr.onload = function() {
+        container.classList.add('d-none');
+        if (xhr.status >= 200 && xhr.status < 300) {
+          try {
+            const data = JSON.parse(xhr.responseText);
+            if (data.success) {
+              onSuccess(data);
+            } else {
+              alert(data.error || 'Upload failed');
+            }
+          } catch(e) {
+            alert('Invalid server response');
+          }
+        } else {
+          try {
+            const data = JSON.parse(xhr.responseText);
+            alert(data.error || 'Upload failed with status ' + xhr.status);
+          } catch(e) {
+            alert('Upload failed with status ' + xhr.status);
+          }
+        }
+      };
+      
+      xhr.onerror = function() {
+        container.classList.add('d-none');
+        alert('Network error occurred during upload.');
+      };
+      
+      xhr.send(formData);
+    }
+
     // Forms Handler
-    document.getElementById('pdfUploadForm').addEventListener('submit', async (e) => {
+    document.getElementById('pdfUploadForm').addEventListener('submit', (e) => {
       e.preventDefault();
       const formData = new FormData(e.target);
-      try {
-        const res = await fetch('/api/admin/upload/pdf', { method: 'POST', body: formData });
-        const data = await res.json();
-        if (data.success) {
+      uploadWithProgress(
+        '/api/admin/upload/pdf', 
+        formData, 
+        'pdfProgressContainer', 
+        'pdfProgressBar', 
+        'pdfPercent', 
+        (data) => {
           alert("PDF uploaded successfully!");
           e.target.reset();
           loadPDFs();
-        } else {
-          alert(data.error || "Upload failed");
         }
-      } catch (err) {
-        alert("Server error uploading file");
-      }
+      );
     });
 
-    document.getElementById('podcastUploadForm').addEventListener('submit', async (e) => {
+    document.getElementById('podcastUploadForm').addEventListener('submit', (e) => {
       e.preventDefault();
       const formData = new FormData(e.target);
-      try {
-        const res = await fetch('/api/admin/upload/podcast', { method: 'POST', body: formData });
-        const data = await res.json();
-        if (data.success) {
+      uploadWithProgress(
+        '/api/admin/upload/podcast', 
+        formData, 
+        'podcastProgressContainer', 
+        'podcastProgressBar', 
+        'podcastPercent', 
+        (data) => {
           alert("Podcast audio uploaded successfully!");
           e.target.reset();
           loadPodcasts();
-        } else {
-          alert(data.error || "Upload failed");
         }
-      } catch (err) {
-        alert("Server error uploading audio");
-      }
+      );
     });
 
-    document.getElementById('videoUploadForm').addEventListener('submit', async (e) => {
+    document.getElementById('videoUploadForm').addEventListener('submit', (e) => {
       e.preventDefault();
       const formData = new FormData(e.target);
       
@@ -405,19 +484,18 @@
         return;
       }
 
-      try {
-        const res = await fetch('/api/admin/upload/video', { method: 'POST', body: formData });
-        const data = await res.json();
-        if (data.success) {
+      uploadWithProgress(
+        '/api/admin/upload/video', 
+        formData, 
+        'videoProgressContainer', 
+        'videoProgressBar', 
+        'videoPercent', 
+        (data) => {
           alert("Video lecture published successfully!");
           e.target.reset();
           loadVideos();
-        } else {
-          alert(data.error || "Upload failed");
         }
-      } catch (err) {
-        alert("Server error uploading video");
-      }
+      );
     });
 
     window.addEventListener('DOMContentLoaded', () => {
