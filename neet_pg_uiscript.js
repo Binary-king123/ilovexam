@@ -204,40 +204,39 @@ async function loadQuestions() {
             const payload   = JSON.parse(decryptedText);
             questionBank    = payload.questions.map(q => ({ id: q.id, questionText: q.question, options: [q.opa, q.opb, q.opc, q.opd] }));
 
-            // Fetch all previous attempts and bookmarks for resuming
+            // ✅ ALWAYS start fresh — never pre-reveal answers from previous sessions.
+            // If ?resume=true is in URL, load bookmarks only (no answer/reveal state)
             const isResume = (urlParams.get('resume') === 'true');
-            let attempts = {};
+            let bookmarks = {};
 
             if (isResume) {
-                // Only load previous answers if the user explicitly chose to resume
+                // Only fetch bookmarks for the resume flow, never load selected/revealed state
                 try {
                     const attRes = await fetch('/api/qbank/attempts');
                     const attData = await attRes.json();
-                    attempts = attData.attempts || {};
+                    const rawAttempts = attData.attempts || {};
+                    // Extract ONLY bookmark state, nothing else
+                    Object.keys(rawAttempts).forEach(id => {
+                        bookmarks[id] = !!rawAttempts[id].bookmarked;
+                    });
                 } catch(e) {
-                    console.warn('Could not fetch previous attempts:', e);
+                    console.warn('Could not fetch bookmarks:', e);
                 }
             }
 
-            userAnswers = questionBank.map(q => {
-                const att = isResume ? attempts[q.id] : null;
-                // Only restore answer if resuming AND a valid selection was made (>= 0, not unattempted)
-                const hasValidAnswer = isResume && att &&
-                    att.selected !== null && att.selected !== undefined &&
-                    Number(att.selected) >= 0;
-                return {
-                    selected: hasValidAnswer ? Number(att.selected) : null,
-                    marked: false,
-                    visited: hasValidAnswer,
-                    isCorrect: hasValidAnswer ? att.isCorrect : null,
-                    cop: hasValidAnswer ? att.cop || null : null,
-                    exp: null,
-                    hint_exp: null,
-                    locked: false,
-                    revealed: hasValidAnswer,
-                    bookmarked: att ? !!att.bookmarked : false
-                };
-            });
+            // Every exam always starts with a clean slate — no pre-selected/pre-revealed answers
+            userAnswers = questionBank.map(q => ({
+                selected:  null,
+                marked:    false,
+                visited:   false,
+                isCorrect: null,
+                cop:       null,
+                exp:       null,
+                hint_exp:  null,
+                locked:    false,
+                revealed:  false,
+                bookmarked: bookmarks[q.id] || false
+            }));
             return true;
         } catch (e) {
             console.error(e); alert('⚠️ Connection error.'); window.location.href = 'neet_pg.html'; return false;
@@ -246,27 +245,23 @@ async function loadQuestions() {
 }
 
 // ──────────────────────────────────────────────────────
-// Fullscreen for Mobile
+// Fullscreen helpers
 // ──────────────────────────────────────────────────────
 function isMobileDevice() {
     return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || window.innerWidth <= 767;
 }
 
-function requestFullscreen() {
-    if (!isMobileDevice()) return; // Mandatory on mobile
+// Synchronous fullscreen — call DIRECTLY inside a click handler, never inside async/await
+function enableFullscreen() {
     const el = document.documentElement;
-    if (document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement) return;
-
-    if (el.requestFullscreen) {
-        el.requestFullscreen().catch(e => console.log('Fullscreen notice:', e));
-    } else if (el.webkitRequestFullscreen) {
-        el.webkitRequestFullscreen();
-    } else if (el.mozRequestFullScreen) {
-        el.mozRequestFullScreen();
-    } else if (el.msRequestFullscreen) {
-        el.msRequestFullscreen();
-    }
+    if (el.requestFullscreen)            el.requestFullscreen().catch(() => {});
+    else if (el.webkitRequestFullscreen) el.webkitRequestFullscreen();
+    else if (el.mozRequestFullScreen)    el.mozRequestFullScreen();
+    else if (el.msRequestFullscreen)     el.msRequestFullscreen();
 }
+
+// Alias kept for fullscreenchange listener below
+function requestFullscreen() { enableFullscreen(); }
 
 // ──────────────────────────────────────────────────────
 // Start Exam
@@ -276,35 +271,14 @@ async function initExam() {
     document.getElementById('cname').innerText               = candidateName.toUpperCase();
     document.getElementById('headerCandidateName').textContent = candidateName;
 
-    // ✅ Fullscreen MUST be requested synchronously within the user gesture (before any await)
-    // Store the fullscreen promise but don't await it yet — keeps us in gesture stack
-    let fsPromise = null;
-    if (isMobileDevice()) {
-        const el = document.documentElement;
-        try {
-            if (el.requestFullscreen) {
-                fsPromise = el.requestFullscreen();
-            } else if (el.webkitRequestFullscreen) {
-                fsPromise = el.webkitRequestFullscreen();
-            } else if (el.mozRequestFullScreen) {
-                fsPromise = el.mozRequestFullScreen();
-            } else if (el.msRequestFullscreen) {
-                fsPromise = el.msRequestFullscreen();
-            }
-        } catch(e) {
-            console.log('Fullscreen request failed:', e);
-        }
-    }
+    // ✅ Fullscreen: called synchronously here (we are still inside the click handler's sync call stack)
+    // This is identical to how NEET UG does it — sync call before any async work
+    enableFullscreen();
 
     const success = await loadQuestions();
     if (!success) {
         if (document.exitFullscreen) document.exitFullscreen().catch(() => {});
         return;
-    }
-
-    // Await fullscreen result after async work (errors are non-fatal)
-    if (fsPromise) {
-        fsPromise.catch(e => console.log('Fullscreen notice:', e));
     }
 
     document.getElementById('startBtnContainer').style.display = 'none';
