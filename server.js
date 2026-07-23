@@ -652,12 +652,22 @@ app.get('/question/:id', (req, res) => {
     }
 });
 
-// ─── DYNAMIC QUESTION SITEMAP INDEX (2 Lakh Questions Indexer) ───────────────
+// ─── DYNAMIC QUESTION SITEMAP INDEX (Optimized for Fast Googlebot Crawling) ──
+const sitemapCache = new Map();
+const SITEMAP_CACHE_TTL = 60 * 60 * 1000; // 1 hour in-memory TTL
+
 app.get('/sitemap-questions.xml', (req, res) => {
     try {
+        const cached = sitemapCache.get('index');
+        if (cached && (Date.now() - cached.timestamp < SITEMAP_CACHE_TTL)) {
+            res.setHeader('Content-Type', 'application/xml; charset=utf-8');
+            res.setHeader('Cache-Control', 'public, max-age=3600');
+            return res.send(cached.data);
+        }
+
         const totalObj = db.prepare('SELECT COUNT(*) as c FROM questions').get();
         const total = totalObj ? totalObj.c : 0;
-        const pageSize = 30000;
+        const pageSize = 5000; // 5,000 URLs per chunk to ensure sub-100ms response & small payload
         const totalPages = Math.ceil(total / pageSize) || 1;
         const todayStr = new Date().toISOString().split('T')[0];
 
@@ -667,22 +677,37 @@ app.get('/sitemap-questions.xml', (req, res) => {
         }
         xml += `</sitemapindex>`;
 
+        sitemapCache.set('index', { data: xml, timestamp: Date.now() });
+
         res.setHeader('Content-Type', 'application/xml; charset=utf-8');
-        res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+        res.setHeader('Cache-Control', 'public, max-age=3600');
         return res.send(xml);
     } catch (e) {
-        console.error(e);
+        console.error('Sitemap index error:', e);
         return res.status(500).send('Sitemap generation error');
     }
 });
 
 app.get('/sitemap-questions-:page.xml', (req, res) => {
     const page = parseInt(req.params.page) || 1;
-    const pageSize = 30000;
-    const offset = (page - 1) * pageSize;
+    const cacheKey = `page_${page}`;
 
     try {
+        const cached = sitemapCache.get(cacheKey);
+        if (cached && (Date.now() - cached.timestamp < SITEMAP_CACHE_TTL)) {
+            res.setHeader('Content-Type', 'application/xml; charset=utf-8');
+            res.setHeader('Cache-Control', 'public, max-age=3600');
+            return res.send(cached.data);
+        }
+
+        const pageSize = 5000; // 5,000 URLs per chunk
+        const offset = (page - 1) * pageSize;
+
         const rows = db.prepare('SELECT id FROM questions ORDER BY rowid ASC LIMIT ? OFFSET ?').all(pageSize, offset);
+
+        if (!rows || rows.length === 0) {
+            return res.status(404).send('Sitemap page not found');
+        }
 
         let xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
         rows.forEach(r => {
@@ -690,11 +715,13 @@ app.get('/sitemap-questions-:page.xml', (req, res) => {
         });
         xml += `</urlset>`;
 
+        sitemapCache.set(cacheKey, { data: xml, timestamp: Date.now() });
+
         res.setHeader('Content-Type', 'application/xml; charset=utf-8');
-        res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+        res.setHeader('Cache-Control', 'public, max-age=3600');
         return res.send(xml);
     } catch (e) {
-        console.error(e);
+        console.error(`Sitemap page ${page} error:`, e);
         return res.status(500).send('Sitemap page error');
     }
 });
