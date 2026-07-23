@@ -1273,57 +1273,9 @@ app.post('/api/admin/upload/pdf', requireAdmin, upload.single('pdfFile'), (req, 
     }
 });
 
-// ─── AGENT WEBHOOK: Automated PDF & PYQ Upload (Deloitte Gemini Agent) ───────
-app.post('/api/agent/upload-pdf', upload.single('pdfFile'), (req, res) => {
-    const AGENT_SECRET_KEY = process.env.AGENT_API_KEY || 'ilovexams_agent_upload_key_2027!!';
-    const reqKey = req.headers['x-api-key'] || req.query.key || (req.body ? req.body.key : null);
-
-    if (reqKey !== AGENT_SECRET_KEY) {
-        if (req.file) fs.unlinkSync(req.file.path);
-        return res.status(401).json({ error: 'Unauthorized: Invalid Agent Key.' });
-    }
-
-    if (!req.file) {
-        return res.status(400).json({ error: 'PDF file is required in pdfFile field.' });
-    }
-
-    const { title, subject, description, pages } = req.body;
-    if (!title) {
-        fs.unlinkSync(req.file.path);
-        return res.status(400).json({ error: 'Title is required.' });
-    }
-
-    const id = 'pdf_' + crypto.randomBytes(8).toString('hex');
-    const fileUrl = `/pdfs/${req.file.filename}`;
-    const sizeStr = (req.file.size < 1024 * 1024) 
-        ? `${(req.file.size / 1024).toFixed(1)} KB` 
-        : `${(req.file.size / (1024 * 1024)).toFixed(1)} MB`;
-
-    try {
-        db.prepare(`
-            INSERT INTO uploaded_pdfs (id, title, subject, size, pages, file_url, description)
-            VALUES (?, ?, ?, ?, ?, ?, ?)
-        `).run(
-            id, 
-            title, 
-            subject || 'NEET PG PYQ', 
-            sizeStr, 
-            parseInt(pages) || 1, 
-            fileUrl, 
-            description || 'Automated high-yield PDF uploaded via Deloitte Agent Webhook'
-        );
-        
-        console.log(`🤖 PDF uploaded via Deloitte Agent Webhook: ${title} (${sizeStr})`);
-        return res.json({ success: true, id, fileUrl, message: 'PDF successfully uploaded and indexed on iLoveExams' });
-    } catch (e) {
-        console.error('Agent upload error:', e);
-        if (req.file) fs.unlinkSync(req.file.path);
-        return res.status(500).json({ error: 'Failed to process agent PDF upload.' });
-    }
-});
-
 
 // ─── ADMIN: Upload Podcast (Audio) ───────────────────────────────────────────
+
 app.post('/api/admin/upload/podcast', requireAdmin, upload.single('audioFile'), (req, res) => {
     if (!req.file) return res.status(400).json({ error: 'Audio file is required.' });
     if (req.file.size > ALLOWED_TYPES.audioFile.maxMB * 1024 * 1024) {
