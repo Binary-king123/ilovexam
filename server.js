@@ -434,6 +434,17 @@ app.use((req, res, next) => {
     next();
 });
 
+// Serve static assets with 7-day browser caching for high performance
+app.use(express.static(__dirname, {
+    maxAge: IS_PRODUCTION ? '7d' : '0',
+    setHeaders: (res, filePath) => {
+        if (filePath.match(/\.(css|js|png|svg|jpg|jpeg|webp|woff2|ttf|ico)$/i)) {
+            res.setHeader('Cache-Control', 'public, max-age=604800, immutable');
+        }
+    }
+}));
+
+
 // ─── PROGRAMMATIC QUESTION SEO ENGINE (2 Lakh Questions Google Indexer) ───────
 function escapeHtml(str) {
     if (!str) return '';
