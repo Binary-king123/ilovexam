@@ -139,7 +139,7 @@ console.log('✔ SQLite database ready.');
             VALUES (@id, @question, @opa, @opb, @opc, @opd, @cop, @exp, @subject, @topic, @hint_exp)
         `);
 
-        if (!qCountRow || qCountRow.count < 10000) {
+        if (!qCountRow || qCountRow.count < 150000) {
             if (fs.existsSync(rawPath)) {
                 console.log('⏳ Importing 190,000+ clinical PG questions from raw JSON into SQLite...');
                 const start = Date.now();
@@ -656,7 +656,7 @@ app.get('/sitemap-questions.xml', (req, res) => {
         xml += `</sitemapindex>`;
 
         res.setHeader('Content-Type', 'application/xml');
-        res.setHeader('Cache-Control', 'public, max-age=86400');
+        res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
         return res.send(xml);
     } catch (e) {
         console.error(e);
@@ -679,8 +679,9 @@ app.get('/sitemap-questions-:page.xml', (req, res) => {
         xml += `</urlset>`;
 
         res.setHeader('Content-Type', 'application/xml');
-        res.setHeader('Cache-Control', 'public, max-age=86400');
+        res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
         return res.send(xml);
+
     } catch (e) {
         console.error(e);
         return res.status(500).send('Sitemap page error');
