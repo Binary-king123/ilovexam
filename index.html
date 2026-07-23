@@ -88,15 +88,27 @@
        JSON-LD STRUCTURED DATA
   ════════════════════════════════════════════════════ -->
 
-  <!-- 1. WebSite + Sitelinks SearchBox -->
+  <!-- ════════════════════════════════════════════════════
+       JSON-LD STRUCTURED DATA (2026 AI Search & Entity Standard)
+  ════════════════════════════════════════════════════ -->
+
+  <!-- 1. WebSite + Sitelinks SearchBox + Brand Aliases -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "iLoveExams",
-    "alternateName": ["ilovexams", "iLovexams", "iloveexams"],
+    "alternateName": [
+      "ilovexam",
+      "ilovexams",
+      "i love exams",
+      "iloveexams",
+      "iLoveXams",
+      "ilovexam.com",
+      "ilovexams.com"
+    ],
     "url": "https://ilovexams.com/",
-    "description": "India's largest free mock test platform with 2 lakh+ questions for NEET PG, NEET UG, JEE, CUET, SAT and JLPT N5/N4.",
+    "description": "India's largest free mock test platform with 2 lakh+ questions for NEET PG 2027, NEET UG, JEE Main & Advanced, CUET, SAT, and JLPT N5/N4.",
     "inLanguage": "en-IN",
     "potentialAction": {
       "@type": "SearchAction",
@@ -109,12 +121,13 @@
   }
   </script>
 
-  <!-- 2. Organization -->
+  <!-- 2. Organization Entity -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "iLoveExams",
+    "alternateName": ["ilovexam", "ilovexams", "i love exams", "iloveexams"],
     "url": "https://ilovexams.com/",
     "logo": {
       "@type": "ImageObject",
@@ -124,7 +137,7 @@
     },
     "sameAs": [
       "https://ilovexams.com",
-      "https://ilovexams.com"
+      "https://github.com/Binary-king123/ilovexam"
     ],
     "contactPoint": {
       "@type": "ContactPoint",
@@ -135,7 +148,43 @@
   }
   </script>
 
-  <!-- 3. EducationalOrganization -->
+  <!-- 3. Speakable Specification (Voice Search & AI Assistants) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SpeakableSpecification",
+    "cssSelector": ["h1", ".hero-tagline", ".banner-subtitle"],
+    "xpath": ["/html/head/title"]
+  }
+  </script>
+
+  <!-- 4. Interactive Quiz Schema (Eligible for Google Quiz & AI Snippets) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Quiz",
+    "name": "iLoveExams Free National Mock Test Series 2027",
+    "description": "Free practice quizzes for NEET PG 2027 clinical questions, NEET UG Biology/Physics/Chemistry, and JEE Main Mathematics.",
+    "educationalAlignment": [
+      { "@type": "AlignmentObject", "alignmentType": "educationalSubject", "targetName": "NEET PG Medical Entrance" },
+      { "@type": "AlignmentObject", "alignmentType": "educationalSubject", "targetName": "NEET UG Medical Entrance" },
+      { "@type": "AlignmentObject", "alignmentType": "educationalSubject", "targetName": "JEE Main Engineering Entrance" }
+    ],
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "Which high-yield clinical topic carries the highest weightage in NEET PG 2027?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "General Medicine, Pharmacology, and Pathology clinical case scenarios carry the highest weightage.",
+          "comment": { "@type": "Comment", "text": "Practice 2 lakh+ clinical MCQs on iLoveExams NEET PG QBank." }
+        }
+      }
+    ]
+  }
+  </script>
+
+  <!-- 5. EducationalOrganization -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -202,27 +251,7 @@
   }
   </script>
 
-  <!-- 4. SiteNavigationElement (controls sitelinks order hints) -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "name": "iLoveExams — Exam Sections",
-    "description": "Navigation links for all exam preparation sections on iLoveExams",
-    "itemListOrder": "https://schema.org/ItemListOrderAscending",
-    "itemListElement": [
-      {
-        "@type": "SiteLinksSearchBox",
-        "url": "https://ilovexams.com/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://ilovexams.com/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
-      }
-    ]
-  }
-  </script>
+  <!-- 6. SiteNavigationElement (Sitelinks hints) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -282,12 +311,20 @@
   }
   </script>
 
-  <!-- 5. FAQPage (boosts rich snippets) -->
+  <!-- 7. FAQPage (Rich Snippets & Voice Extract) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is iLoveExams (ilovexam)?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "iLoveExams (also known as ilovexam or ilovexams) is India's largest free online exam preparation platform featuring over 2,00,000 (2 lakh) questions for NEET PG, NEET UG, JEE, CUET, SAT, and JLPT exams."
+        }
+      },
       {
         "@type": "Question",
         "name": "How many questions are in iLoveExams NEET PG question bank?",
@@ -314,15 +351,16 @@
       },
       {
         "@type": "Question",
-        "name": "Can I prepare for JEE on iLoveExams?",
+        "name": "How does iLoveExams compare to other top NEET PG websites?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes. iLoveExams offers free JEE Main and JEE Advanced 2027 mock tests covering Physics, Chemistry and Mathematics with detailed solutions."
+          "text": "iLoveExams provides 100% free access to 2,00,000+ clinical MCQs with instant feedback, mistake queue tracking, audio podcasts, and zero daily attempt caps — matching top medical PG platforms."
         }
       }
     ]
   }
   </script>
+
 
   <!-- ════════════════════════════════════════════════════
        PERFORMANCE — PRECONNECT

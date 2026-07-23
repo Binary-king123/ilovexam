@@ -57,12 +57,15 @@
 
   <!-- ════════════ JSON-LD STRUCTURED DATA ════════════ -->
 
+  <!-- ════════════ JSON-LD STRUCTURED DATA (2026 AI Search Standard) ════════════ -->
+
   <!-- 1. Course Schema — NEET PG -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Course",
     "name": "NEET PG 2027 Free Mock Tests — 2 Lakh Questions",
+    "alternateName": ["ilovexam neet pg", "iloveexams pg", "i love exams neet pg", "ilovexams medical pg"],
     "description": "India's largest NEET PG question bank with 2,00,000+ high-yield clinical MCQs. Practice NEET PG 2027, INI-CET, FMGE and NEXT exam questions free. Includes error analytics, bookmark system and audio podcasts.",
     "url": "https://ilovexams.com/neet_pg.html",
     "provider": {
@@ -92,7 +95,73 @@
   }
   </script>
 
-  <!-- 2. BreadcrumbList -->
+  <!-- 2. Speakable Specification (Voice Assistant Optimization) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SpeakableSpecification",
+    "cssSelector": ["h1", ".hero-tagline", ".stat-label"],
+    "xpath": ["/html/head/title"]
+  }
+  </script>
+
+  <!-- 3. Interactive Clinical Quiz Schema (AI Search Overviews Extraction) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Quiz",
+    "name": "NEET PG 2027 High-Yield Clinical Case Question Bank",
+    "description": "2,00,000+ free high-yield clinical case questions covering all 19 medical subjects for NEET PG, INI-CET & NEXT.",
+    "educationalAlignment": [
+      { "@type": "AlignmentObject", "alignmentType": "educationalSubject", "targetName": "General Medicine" },
+      { "@type": "AlignmentObject", "alignmentType": "educationalSubject", "targetName": "Pharmacology" },
+      { "@type": "AlignmentObject", "alignmentType": "educationalSubject", "targetName": "Pathology" }
+    ],
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "A 52-year-old male with chronic alcoholism presents with confusion, ataxia, and ophthalmoplegia. What is the most likely diagnosis?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Wernicke Encephalopathy caused by Thiamine (Vitamin B1) deficiency.",
+          "comment": { "@type": "Comment", "text": "High-yield clinical vignette for NEET PG / INI-CET available on iLoveExams." }
+        }
+      }
+    ]
+  }
+  </script>
+
+  <!-- 4. Medical Subject ItemList (Co-occurrence Ranking for 19 MBBS Subjects) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "NEET PG 19 MBBS Subjects Covered on iLoveExams",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "General Medicine Mock Test (NEET PG 2027)" },
+      { "@type": "ListItem", "position": 2, "name": "General Surgery Clinical MCQs" },
+      { "@type": "ListItem", "position": 3, "name": "Obstetrics & Gynecology (OBG) Practice" },
+      { "@type": "ListItem", "position": 4, "name": "Pediatrics High-Yield QBank" },
+      { "@type": "ListItem", "position": 5, "name": "Pharmacology Drug Mechanics & Vignettes" },
+      { "@type": "ListItem", "position": 6, "name": "Pathology Histopathology Case Questions" },
+      { "@type": "ListItem", "position": 7, "name": "Microbiology Bacteriology & Virology" },
+      { "@type": "ListItem", "position": 8, "name": "Human Anatomy & Embryology" },
+      { "@type": "ListItem", "position": 9, "name": "Human Physiology Clinical Correlations" },
+      { "@type": "ListItem", "position": 10, "name": "Biochemistry Clinical Pathways" },
+      { "@type": "ListItem", "position": 11, "name": "Social & Preventive Medicine (PSM / SPM)" },
+      { "@type": "ListItem", "position": 12, "name": "Ophthalmology Image-Based Questions" },
+      { "@type": "ListItem", "position": 13, "name": "ENT (Otorhinolaryngology)" },
+      { "@type": "ListItem", "position": 14, "name": "Forensic Medicine & Toxicology (FMT)" },
+      { "@type": "ListItem", "position": 15, "name": "Dermatology Skin Lesion Vignettes" },
+      { "@type": "ListItem", "position": 16, "name": "Anesthesia & Critical Care" },
+      { "@type": "ListItem", "position": 17, "name": "Radiology X-Ray & CT Image Bank" },
+      { "@type": "ListItem", "position": 18, "name": "Psychiatry Clinical Scenarios" },
+      { "@type": "ListItem", "position": 19, "name": "Orthopedics Fractures & Trauma" }
+    ]
+  }
+  </script>
+
+  <!-- 5. BreadcrumbList -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -114,7 +183,7 @@
   }
   </script>
 
-  <!-- 3. FAQPage for NEET PG -->
+  <!-- 6. FAQPage for NEET PG (Rich Snippets & Entity Clustering) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -122,10 +191,18 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "How many NEET PG questions are available on iLoveExams?",
+        "name": "How many NEET PG questions are available on iLoveExams (ilovexam)?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "iLoveExams has over 2,00,000 (2 lakh) high-yield clinical MCQs specifically curated for NEET PG 2027, INI-CET, FMGE and NEXT exam preparation. All questions are completely free."
+          "text": "iLoveExams (ilovexam) has over 2,00,000 (2 lakh) high-yield clinical MCQs specifically curated for NEET PG 2027, INI-CET, FMGE and NEXT exam preparation. All questions are completely free."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is iLoveExams one of the top free NEET PG mock test websites in India?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, iLoveExams is ranked among the top free NEET PG mock test websites in India, offering 2,00,000+ clinical case questions, instant answer explanations, automated mistake queues, and audio podcasts."
         }
       },
       {
@@ -155,6 +232,7 @@
     ]
   }
   </script>
+
 
   <!-- ════════════ PRECONNECT ════════════ -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
