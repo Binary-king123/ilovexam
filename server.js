@@ -476,8 +476,8 @@ app.get('/question/:id', (req, res) => {
         const snippet = escapeHtml(rawQuestion.length > 120 ? rawQuestion.substring(0, 117) + '...' : rawQuestion);
         
         const canonicalUrl = `https://ilovexams.com/question/${q.id}`;
-        const pageTitle = `${snippet} — NEET PG ${subject} Question | iLoveExams`;
-        const metaDescription = escapeHtml(`${rawQuestion.substring(0, 150)}. Free NEET PG, INI-CET clinical mock question with solution on iLoveExams.`);
+        const pageTitle = `${snippet} — NEET PG ${subject} Question | i❤️Exams`;
+        const metaDescription = escapeHtml(`${rawQuestion.substring(0, 150)}. Free NEET PG, INI-CET clinical mock question with solution on i❤️Exams.`);
 
         // Fetch prev and next question IDs for crawler traversal
         const prevQ = db.prepare('SELECT id FROM questions WHERE rowid < (SELECT rowid FROM questions WHERE id = ?) ORDER BY rowid DESC LIMIT 1').get(qid);
@@ -510,7 +510,7 @@ app.get('/question/:id', (req, res) => {
                         "text": correctAnswerText,
                         "comment": {
                             "@type": "Comment",
-                            "text": q.exp || "Explanation available on iLoveExams."
+                            "text": q.exp || "Explanation available on i❤️Exams."
                         }
                     }
                 }
@@ -521,7 +521,7 @@ app.get('/question/:id', (req, res) => {
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
             "itemListElement": [
-                { "@type": "ListItem", "position": 1, "name": "iLoveExams Home", "item": "https://ilovexams.com/" },
+                { "@type": "ListItem", "position": 1, "name": "i❤️Exams Home", "item": "https://ilovexams.com/" },
                 { "@type": "ListItem", "position": 2, "name": "NEET PG 2027", "item": "https://ilovexams.com/neet_pg.html" },
                 { "@type": "ListItem", "position": 3, "name": `${subject} Questions`, "item": canonicalUrl }
             ]
@@ -536,12 +536,13 @@ app.get('/question/:id', (req, res) => {
   <meta name="description" content="${metaDescription}"/>
   <meta name="keywords" content="neet pg, neet pg 2027, ${subject}, ${topic}, clinical mcq, iloveexams, ilovexam, free medical mock test"/>
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large"/>
-  <meta name="author" content="iLoveExams"/>
+  <meta name="author" content="i❤️Exams"/>
   <link rel="canonical" href="${canonicalUrl}"/>
   
   <!-- Open Graph & Twitter Cards -->
   <meta property="og:type" content="article"/>
-  <meta property="og:site_name" content="iLoveExams"/>
+  <meta property="og:site_name" content="i❤️Exams"/>
+
   <meta property="og:title" content="${pageTitle}"/>
   <meta property="og:description" content="${metaDescription}"/>
   <meta property="og:url" content="${canonicalUrl}"/>
