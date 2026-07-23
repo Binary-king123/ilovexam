@@ -399,10 +399,16 @@ app.use((req, res, next) => {
     next();
 });
 
-// Serve static files
+// Serve static files with anti-cache headers for HTML/JS
 app.use(express.static(path.join(__dirname), {
-    maxAge: IS_PRODUCTION ? '1d' : 0,
-    etag: true
+    maxAge: 0,
+    setHeaders: (res, filePath) => {
+        if (filePath.endsWith('.html') || filePath.endsWith('.js')) {
+            res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+            res.setHeader('Pragma', 'no-cache');
+            res.setHeader('Expires', '0');
+        }
+    }
 }));
 app.use('/pdfs', express.static(path.join(__dirname, 'pdfs')));
 app.use('/podcasts', express.static(path.join(__dirname, 'podcasts')));
