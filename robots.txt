@@ -1,7 +1,8 @@
 User-agent: *
 
-# Allow all important pages
+# Allow all important pages & question landing pages
 Allow: /
+Allow: /question/
 Allow: /neet_pg.html
 Allow: /neet_pg_login.html
 Allow: /neet.html
@@ -15,7 +16,7 @@ Allow: /privacypolicy.html
 Allow: /tos.html
 Allow: /security.html
 
-# Disallow internal/app pages from being indexed
+# Disallow internal interactive exam apps from being indexed directly
 Disallow: /neet_pg_ui.html
 Disallow: /neet_ui.html
 Disallow: /jee_ui.html
@@ -32,6 +33,6 @@ Disallow: /i.html
 Disallow: /scripts/
 Disallow: /node_modules/
 
-# Sitemap
+# Sitemaps
 Sitemap: https://ilovexams.com/sitemap.xml
-Sitemap: https://ilovexams.com/sitemap(1).xml
+Sitemap: https://ilovexams.com/sitemap-questions.xml

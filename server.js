@@ -399,6 +399,246 @@ app.use((req, res, next) => {
     next();
 });
 
+// ─── PROGRAMMATIC QUESTION SEO ENGINE (2 Lakh Questions Google Indexer) ───────
+app.get('/question/:id', (req, res) => {
+    const qid = req.params.id;
+    try {
+        const q = db.prepare('SELECT * FROM questions WHERE id = ?').get(qid);
+        if (!q) {
+            return res.status(404).send(`
+                <!DOCTYPE html>
+                <html lang="en">
+                <head><title>Question Not Found | iLoveExams</title><meta name="viewport" content="width=device-width, initial-scale=1"/></head>
+                <body style="font-family:sans-serif; text-align:center; padding:50px;">
+                    <h1>Question Not Found</h1>
+                    <p>The requested question could not be found in the iLoveExams QBank.</p>
+                    <a href="/neet_pg.html" style="background:#e0004d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none;">Explore 2 Lakh NEET PG Questions</a>
+                </body>
+                </html>
+            `);
+        }
+
+        const options = [q.opa, q.opb, q.opc, q.opd];
+        const correctIndex = typeof q.cop === 'number' ? q.cop : 0;
+        const correctAnswerText = options[correctIndex] || q.opa;
+        const optionLabels = ['A', 'B', 'C', 'D'];
+
+        const subject = q.subject || 'General Medicine';
+        const topic = q.topic || 'Clinical Case';
+        const rawQuestion = (q.question || '').replace(/"/g, '&quot;').replace(/\n/g, ' ');
+        const snippet = rawQuestion.length > 120 ? rawQuestion.substring(0, 117) + '...' : rawQuestion;
+        
+        const canonicalUrl = `https://ilovexams.com/question/${q.id}`;
+        const pageTitle = `${snippet} — NEET PG ${subject} Question | iLoveExams`;
+        const metaDescription = `${rawQuestion.substring(0, 150)}. Free NEET PG, INI-CET clinical mock question with solution on iLoveExams.`;
+
+        // Fetch prev and next question IDs for crawler traversal
+        const prevQ = db.prepare('SELECT id FROM questions WHERE rowid < (SELECT rowid FROM questions WHERE id = ?) ORDER BY rowid DESC LIMIT 1').get(qid);
+        const nextQ = db.prepare('SELECT id FROM questions WHERE rowid > (SELECT rowid FROM questions WHERE id = ?) ORDER BY rowid ASC LIMIT 1').get(qid);
+
+        const prevLink = prevQ ? `<a href="/question/${prevQ.id}" class="nav-btn">← Previous Question</a>` : '';
+        const nextLink = nextQ ? `<a href="/question/${nextQ.id}" class="nav-btn">Next Question →</a>` : '';
+
+        const jsonLdQuiz = {
+            "@context": "https://schema.org",
+            "@type": "Quiz",
+            "name": `NEET PG ${subject} — ${topic} Mock Question`,
+            "description": metaDescription,
+            "url": canonicalUrl,
+            "hasPart": [
+                {
+                    "@type": "Question",
+                    "name": q.question,
+                    "educationalAlignment": [
+                        { "@type": "AlignmentObject", "alignmentType": "educationalSubject", "targetName": subject }
+                    ],
+                    "suggestedAnswer": options.map((optText, idx) => ({
+                        "@type": "Answer",
+                        "position": idx + 1,
+                        "text": optText
+                    })),
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "position": correctIndex + 1,
+                        "text": correctAnswerText,
+                        "comment": {
+                            "@type": "Comment",
+                            "text": q.exp || "Explanation available on iLoveExams."
+                        }
+                    }
+                }
+            ]
+        };
+
+        const jsonLdBreadcrumb = {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                { "@type": "ListItem", "position": 1, "name": "iLoveExams Home", "item": "https://ilovexams.com/" },
+                { "@type": "ListItem", "position": 2, "name": "NEET PG 2027", "item": "https://ilovexams.com/neet_pg.html" },
+                { "@type": "ListItem", "position": 3, "name": `${subject} Questions`, "item": canonicalUrl }
+            ]
+        };
+
+        const html = `<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>${pageTitle}</title>
+  <meta name="description" content="${metaDescription}"/>
+  <meta name="keywords" content="neet pg, neet pg 2027, ${subject}, ${topic}, clinical mcq, iloveexams, ilovexam, free medical mock test"/>
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large"/>
+  <meta name="author" content="iLoveExams"/>
+  <link rel="canonical" href="${canonicalUrl}"/>
+  
+  <!-- Open Graph & Twitter Cards -->
+  <meta property="og:type" content="article"/>
+  <meta property="og:site_name" content="iLoveExams"/>
+  <meta property="og:title" content="${pageTitle}"/>
+  <meta property="og:description" content="${metaDescription}"/>
+  <meta property="og:url" content="${canonicalUrl}"/>
+  <meta property="og:image" content="https://ilovexams.com/dashboard.png"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="${pageTitle}"/>
+  <meta name="twitter:description" content="${metaDescription}"/>
+  <meta name="twitter:image" content="https://ilovexams.com/dashboard.png"/>
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">${JSON.stringify(jsonLdQuiz)}</script>
+  <script type="application/ld+json">${JSON.stringify(jsonLdBreadcrumb)}</script>
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"/>
+  <style>
+    body { background-color: #f8f9fa; color: #111; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; padding-bottom: 60px; }
+    .header-bar { background: #000; color: #fff; padding: 14px 20px; display: flex; align-items: center; justify-content: space-between; border-bottom: 3px solid #e0004d; }
+    .header-logo { color: #fff; font-weight: 900; font-size: 1.25rem; text-decoration: none; display: flex; align-items: center; gap: 8px; }
+    .header-logo span { color: #e0004d; }
+    .q-card { background: #fff; border: 2px solid #000; border-radius: 12px; box-shadow: 4px 4px 0px #000; padding: 24px; margin-top: 24px; }
+    .badge-subject { background: #e0004d; color: #fff; font-weight: 700; font-size: 0.8rem; padding: 4px 10px; border-radius: 20px; text-transform: uppercase; letter-spacing: 0.5px; }
+    .badge-topic { background: #003366; color: #fff; font-weight: 600; font-size: 0.8rem; padding: 4px 10px; border-radius: 20px; }
+    .q-text { font-size: 1.15rem; font-weight: 700; line-height: 1.5; margin-top: 14px; margin-bottom: 20px; }
+    .option-item { background: #f8f9fa; border: 2px solid #e9ecef; border-radius: 8px; padding: 12px 16px; margin-bottom: 10px; font-weight: 600; display: flex; align-items: center; gap: 12px; transition: all 0.2s; }
+    .option-item.correct { background: #d1e7dd; border-color: #0f5132; color: #0f5132; }
+    .option-badge { width: 28px; height: 28px; border-radius: 50%; background: #000; color: #fff; display: flex; align-items: center; justify-content: center; font-size: 0.85rem; font-weight: 800; flex-shrink: 0; }
+    .option-item.correct .option-badge { background: #0f5132; }
+    .exp-box { background: #fff8f9; border-left: 4px solid #e0004d; border-radius: 0 8px 8px 0; padding: 16px; margin-top: 20px; font-size: 0.95rem; line-height: 1.6; }
+    .exp-title { font-weight: 800; color: #e0004d; font-size: 0.9rem; text-transform: uppercase; margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
+    .cta-banner { background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); color: #fff; border-radius: 12px; padding: 24px; margin-top: 28px; border: 2px solid #e0004d; text-align: center; }
+    .cta-btn { background: #e0004d; color: #fff; font-weight: 800; font-size: 1.1rem; padding: 12px 28px; border-radius: 8px; text-decoration: none; display: inline-block; margin-top: 14px; border: 2px solid #000; box-shadow: 3px 3px 0px #fff; transition: transform 0.1s; }
+    .cta-btn:hover { transform: translateY(-2px); color: #fff; }
+    .nav-box { display: flex; justify-content: space-between; margin-top: 20px; gap: 12px; }
+    .nav-btn { background: #fff; border: 2px solid #000; color: #000; font-weight: 700; font-size: 0.9rem; padding: 10px 18px; border-radius: 8px; text-decoration: none; box-shadow: 2px 2px 0px #000; }
+    .nav-btn:hover { background: #f0f0f0; color: #000; }
+  </style>
+</head>
+<body>
+  <header class="header-bar">
+    <a href="/" class="header-logo">
+      <i class="bi bi-heart-pulse-fill" style="color:#e0004d;"></i>
+      iLove<span>Exams</span>
+    </a>
+    <a href="/neet_pg.html" class="btn btn-sm btn-outline-light fw-bold">Full 2L QBank</a>
+  </header>
+
+  <main class="container" style="max-width: 760px;">
+    <article class="q-card">
+      <div class="d-flex align-items-center gap-2 flex-wrap">
+        <span class="badge-subject">${subject}</span>
+        <span class="badge-topic">${topic}</span>
+        <span class="ms-auto text-muted small fw-bold"><i class="bi bi-hash"></i>${q.id.substring(0, 8)}</span>
+      </div>
+
+      <h1 class="q-text">${q.question}</h1>
+
+      <div class="options-list">
+        ${options.map((opt, i) => `
+          <div class="option-item ${i === correctIndex ? 'correct' : ''}">
+            <div class="option-badge">${optionLabels[i]}</div>
+            <div>${opt} ${i === correctIndex ? '<i class="bi bi-check-circle-fill ms-2 text-success"></i>' : ''}</div>
+          </div>
+        `).join('')}
+      </div>
+
+      ${q.exp ? `
+        <div class="exp-box">
+          <div class="exp-title"><i class="bi bi-journal-medical"></i> High-Yield Explanation</div>
+          <div>${q.exp}</div>
+        </div>
+      ` : ''}
+    </article>
+
+    <div class="nav-box">
+      ${prevLink}
+      ${nextLink}
+    </div>
+
+    <div class="cta-banner">
+      <h2 class="h4 fw-bold mb-2">Practice 2,00,000+ NEET PG Questions Free</h2>
+      <p class="small text-white-50 mb-0">Timed mock tests, mistake queue analytics, audio lectures & zero attempt limits on iLoveExams.</p>
+      <a href="/neet_pg_ui.html" class="cta-btn"><i class="bi bi-play-circle-fill me-2"></i>Start Free Mock Test Now</a>
+    </div>
+  </main>
+</body>
+</html>`;
+
+        res.setHeader('Content-Type', 'text/html; charset=utf-8');
+        res.setHeader('Cache-Control', 'public, max-age=86400');
+        return res.send(html);
+    } catch (e) {
+        console.error('Question SSR error:', e);
+        return res.status(500).send('Internal Server Error');
+    }
+});
+
+// ─── DYNAMIC QUESTION SITEMAP INDEX (2 Lakh Questions Indexer) ───────────────
+app.get('/sitemap-questions.xml', (req, res) => {
+    try {
+        const totalObj = db.prepare('SELECT COUNT(*) as c FROM questions').get();
+        const total = totalObj ? totalObj.c : 0;
+        const pageSize = 30000;
+        const totalPages = Math.ceil(total / pageSize) || 1;
+
+        let xml = `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
+        for (let i = 1; i <= totalPages; i++) {
+            xml += `  <sitemap>\n    <loc>https://ilovexams.com/sitemap-questions-${i}.xml</loc>\n    <lastmod>2026-07-23</lastmod>\n  </sitemap>\n`;
+        }
+        xml += `</sitemapindex>`;
+
+        res.setHeader('Content-Type', 'application/xml');
+        res.setHeader('Cache-Control', 'public, max-age=86400');
+        return res.send(xml);
+    } catch (e) {
+        console.error(e);
+        return res.status(500).send('Sitemap generation error');
+    }
+});
+
+app.get('/sitemap-questions-:page.xml', (req, res) => {
+    const page = parseInt(req.params.page) || 1;
+    const pageSize = 30000;
+    const offset = (page - 1) * pageSize;
+
+    try {
+        const rows = db.prepare('SELECT id FROM questions ORDER BY rowid ASC LIMIT ? OFFSET ?').all(pageSize, offset);
+
+        let xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
+        rows.forEach(r => {
+            xml += `  <url>\n    <loc>https://ilovexams.com/question/${r.id}</loc>\n    <changefreq>monthly</changefreq>\n    <priority>0.70</priority>\n  </url>\n`;
+        });
+        xml += `</urlset>`;
+
+        res.setHeader('Content-Type', 'application/xml');
+        res.setHeader('Cache-Control', 'public, max-age=86400');
+        return res.send(xml);
+    } catch (e) {
+        console.error(e);
+        return res.status(500).send('Sitemap page error');
+    }
+});
+
 // Serve static files with anti-cache headers for HTML/JS
 app.use(express.static(path.join(__dirname), {
     maxAge: 0,
