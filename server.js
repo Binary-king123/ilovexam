@@ -132,16 +132,18 @@ console.log('✔ SQLite database ready.');
     try {
         const qCountRow = db.prepare('SELECT COUNT(*) as count FROM questions').get();
         const rawPath = path.join(__dirname, 'neetquestions_secure', 'neet_pg_all_raw.json');
-        if (qCountRow && qCountRow.count === 0) {
+        const encDir = path.join(__dirname, 'neetquestions');
+
+        const insert = db.prepare(`
+            INSERT OR IGNORE INTO questions (id, question, opa, opb, opc, opd, cop, exp, subject, topic, hint_exp)
+            VALUES (@id, @question, @opa, @opb, @opc, @opd, @cop, @exp, @subject, @topic, @hint_exp)
+        `);
+
+        if (!qCountRow || qCountRow.count < 10000) {
             if (fs.existsSync(rawPath)) {
-                console.log('⏳ Importing 190,000+ clinical PG questions into SQLite...');
+                console.log('⏳ Importing 190,000+ clinical PG questions from raw JSON into SQLite...');
                 const start = Date.now();
                 const rawData = JSON.parse(fs.readFileSync(rawPath, 'utf8'));
-                
-                const insert = db.prepare(`
-                    INSERT INTO questions (id, question, opa, opb, opc, opd, cop, exp, subject, topic, hint_exp)
-                    VALUES (@id, @question, @opa, @opb, @opc, @opd, @cop, @exp, @subject, @topic, @hint_exp)
-                `);
 
                 const insertMany = db.transaction((qs) => {
                     for (const q of qs) {
@@ -163,33 +165,63 @@ console.log('✔ SQLite database ready.');
 
                 insertMany(rawData);
                 console.log(`✅ Loaded ${rawData.length} questions in ${((Date.now() - start) / 1000).toFixed(1)}s.`);
+            } else if (fs.existsSync(encDir)) {
+                console.log('⏳ Importing 180,000+ clinical PG questions from encrypted episodes into SQLite...');
+                const start = Date.now();
+                const secretBuf = Buffer.from(COOKIE_SECRET.substring(0, 32));
+                const keyBuf = Buffer.from(DECRYPTION_KEY.substring(0, 32));
+
+                const encFiles = fs.readdirSync(encDir).filter(f => f.match(/^episode\d+\.enc$/));
+                let totalLoaded = 0;
+
+                const insertMany = db.transaction((qs) => {
+                    for (const q of qs) {
+                        insert.run({
+                            id: q.id || crypto.randomUUID(),
+                            question: q.question || '',
+                            opa: q.opa || '',
+                            opb: q.opb || '',
+                            opc: q.opc || '',
+                            opd: q.opd || '',
+                            cop: parseInt(q.cop) || 0,
+                            exp: q.exp || '',
+                            subject: q.subject || 'General Medicine',
+                            topic: q.topic || 'General',
+                            hint_exp: q.hint_exp || null
+                        });
+                        totalLoaded++;
+                    }
+                });
+
+                for (const file of encFiles) {
+                    try {
+                        const encPath = path.join(encDir, file);
+                        const encText = fs.readFileSync(encPath, 'utf8');
+                        const buf = Buffer.from(encText, 'base64');
+                        const iv = buf.subarray(0, 16);
+                        const decipher = crypto.createDecipheriv('aes-256-cbc', keyBuf, iv);
+                        let dec = decipher.update(buf.subarray(16), undefined, 'utf8');
+                        dec += decipher.final('utf8');
+                        const payload = JSON.parse(dec);
+                        if (payload && Array.isArray(payload.questions)) {
+                            insertMany(payload.questions);
+                        }
+                    } catch (err) {
+                        // Skip corrupted file
+                    }
+                }
+                console.log(`✅ Successfully seeded ${totalLoaded.toLocaleString()} questions from encrypted episodes in ${((Date.now() - start) / 1000).toFixed(1)}s.`);
             } else {
-                console.warn('⚠️ neet_pg_all_raw.json not found. Database questions table is empty.');
+                console.warn('⚠️ No question dataset found.');
             }
         } else {
             console.log(`✔ Questions database already populated (${qCountRow.count.toLocaleString()} questions).`);
-            // Check if we need to sync hint_exp to existing rows
-            const nullHintsRow = db.prepare("SELECT COUNT(*) as count FROM questions WHERE hint_exp IS NULL OR hint_exp = ''").get();
-            if (nullHintsRow && nullHintsRow.count > 0 && fs.existsSync(rawPath)) {
-                console.log(`⏳ Syncing ${nullHintsRow.count.toLocaleString()} mnemonic hints into SQLite database...`);
-                const start = Date.now();
-                const rawData = JSON.parse(fs.readFileSync(rawPath, 'utf8'));
-                const update = db.prepare(`UPDATE questions SET hint_exp = ? WHERE id = ?`);
-                const updateMany = db.transaction((qs) => {
-                    for (const q of qs) {
-                        if (q.hint_exp) {
-                            update.run(q.hint_exp, q.id);
-                        }
-                    }
-                });
-                updateMany(rawData);
-                console.log(`✅ Synced hints in ${((Date.now() - start) / 1000).toFixed(1)}s.`);
-            }
         }
     } catch (e) {
         console.error('❌ Error seeding questions database:', e);
     }
 })();
+
 
 // Startup Seeder for Default PDFs, Podcasts, and Videos
 (() => {
