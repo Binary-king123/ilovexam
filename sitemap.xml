@@ -1,67 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <!-- 1. Your homepage -->
+  <!-- ===== HOMEPAGE ===== -->
   <url>
-    <loc>https://ilovexams.com/</loc>
-    <lastmod>2025-07-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.00</priority>
-  </url>
-  
-  <url>
-    <loc>https://ilovexams.com/homr.html</loc>
-    <lastmod>2025-07-24</lastmod>
+    <loc>https://ilovedesi.fun/</loc>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
 
-  <!-- 2. NEET page -->
+  <!-- ===== NEET PG — Highest Priority (2 Lakh Questions) ===== -->
   <url>
-    <loc>https://ilovexams.com/neet.html</loc>
-    <lastmod>2025-07-24</lastmod>
+    <loc>https://ilovedesi.fun/neet_pg.html</loc>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>daily</changefreq>
+    <priority>0.98</priority>
+  </url>
+
+  <url>
+    <loc>https://ilovedesi.fun/neet_pg_login.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
-
-  <!-- 3. JEE page -->
+  <!-- ===== NEET UG ===== -->
   <url>
-    <loc>https://ilovexams.com/jee.html</loc>
-    <lastmod>2025-07-20</lastmod>
+    <loc>https://ilovedesi.fun/neet.html</loc>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.75</priority>
+    <priority>0.95</priority>
   </url>
 
-  <!-- 4. CUET page -->
+  <!-- ===== JEE ===== -->
   <url>
-    <loc>https://ilovexams.com/cuet.html</loc>
-    <lastmod>2025-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  
-  <!-- 4. SAT page -->
-  <url>
-    <loc>https://ilovexams.com/sat.html</loc>
-    <lastmod>2025-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
+    <loc>https://ilovedesi.fun/jee.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.90</priority>
   </url>
 
-  <!-- 4. SE page -->
+  <!-- ===== CUET ===== -->
   <url>
-    <loc>https://ilovexams.com/se.html</loc>
-    <lastmod>2025-08-05</lastmod>
+    <loc>https://ilovedesi.fun/cuet.html</loc>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
+    <priority>0.85</priority>
   </url>
 
+  <!-- ===== SAT ===== -->
   <url>
-    <loc>https://ilovexams.com/av_test.html</loc>
-    <lastmod>2025-07-18</lastmod>
+    <loc>https://ilovedesi.fun/sat.html</loc>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.75</priority>
+    <priority>0.82</priority>
   </url>
+
+  <!-- ===== JLPT N5 ===== -->
+  <url>
+    <loc>https://ilovedesi.fun/jlpt_n5.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- ===== JLPT N4 ===== -->
+  <url>
+    <loc>https://ilovedesi.fun/jlpt_n4.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- ===== SUPPORT PAGES ===== -->
+  <url>
+    <loc>https://ilovedesi.fun/howitworks.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://ilovedesi.fun/privacypolicy.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+  <url>
+    <loc>https://ilovedesi.fun/tos.html</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.30</priority>
+  </url>
+
 </urlset>

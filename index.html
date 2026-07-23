@@ -1,60 +1,349 @@
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="en-IN">
 
 <head>
+  <!-- ════════════════════════════════════════════════════
+       IDENTITY & CHARSET
+  ════════════════════════════════════════════════════ -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" href="favicon.svg" type="image/svg+xml" />
   <link rel="alternate icon" href="favicon.png" type="image/png" />
+  <link rel="apple-touch-icon" href="favicon.png" />
 
-  <meta charset="UTF-8" />
+  <!-- ════════════════════════════════════════════════════
+       PRIMARY SEO — TITLE & DESCRIPTION
+  ════════════════════════════════════════════════════ -->
+  <title>iLoveExams: Free Mock Tests — NEET PG, NEET UG, JEE, JLPT N5/N4</title>
+  <meta name="description" content="India's largest free mock test platform. 2 lakh+ questions for NEET PG 2027 clinical prep, NEET UG, JEE Main & Advanced, CUET, SAT, and JLPT N5/N4. Instant results, expert explanations — no install needed." />
+  <meta name="author" content="iLoveExams" />
+  <meta name="copyright" content="iLoveExams 2026" />
+  <meta name="language" content="en-IN" />
+  <meta name="revisit-after" content="3 days" />
+  <meta name="rating" content="general" />
 
-  <title>iLovexams: Free Mock Tests for NEET, JEE, CUET & SAT</title>
+  <!-- ════════════════════════════════════════════════════
+       KEYWORD META (classic — still useful for Bing/Yahoo)
+  ════════════════════════════════════════════════════ -->
+  <meta name="keywords" content="ilovexams, iloveexams, free mock test, neet pg 2027, neet pg mock test free, 2 lakh questions neet pg, neet pg question bank, ini cet 2027, next exam mbbs, neet ug 2027, neet 2027 free mock test, jee main 2027 mock test, jee advanced 2027 preparation, cuet 2027 mock test, sat 2027 practice test, jlpt n5 free practice, jlpt n4 mock test, japanese language test preparation, medical pg entrance India, clinical case questions neet pg, fmge mock test, aiims pg prep, online exam practice India, free test series 2027, competitive exam preparation, ilovedesi.fun, ilovexams.com, best exam prep website India" />
 
+  <!-- ════════════════════════════════════════════════════
+       INDEXING DIRECTIVES
+  ════════════════════════════════════════════════════ -->
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="bingbot" content="index, follow" />
+
+  <!-- ════════════════════════════════════════════════════
+       CANONICAL & HREFLANG
+  ════════════════════════════════════════════════════ -->
+  <link rel="canonical" href="https://ilovedesi.fun/" />
+  <link rel="alternate" hreflang="en-IN" href="https://ilovedesi.fun/" />
+  <link rel="alternate" hreflang="en" href="https://ilovedesi.fun/" />
+
+  <!-- ════════════════════════════════════════════════════
+       GOOGLE SITE VERIFICATION
+  ════════════════════════════════════════════════════ -->
   <meta name="google-site-verification" content="pb-1hzvIUp6tuoKUR3xDm1-CSC-OMPfvwoEMujHHwNc" />
 
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- ════════════════════════════════════════════════════
+       OPEN GRAPH (Facebook / WhatsApp / LinkedIn)
+  ════════════════════════════════════════════════════ -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="iLoveExams" />
+  <meta property="og:title" content="iLoveExams: 2 Lakh+ Free Questions — NEET PG, NEET UG, JEE, JLPT" />
+  <meta property="og:description" content="India's largest free mock test platform. 2 lakh+ questions for NEET PG, NEET UG, JEE, CUET, SAT and JLPT N5/N4. Instant results, zero install." />
+  <meta property="og:url" content="https://ilovedesi.fun/" />
+  <meta property="og:image" content="https://ilovedesi.fun/dashboard.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="iLoveExams mock test dashboard showing NEET PG, JEE and JLPT practice" />
+  <meta property="og:locale" content="en_IN" />
 
-  <meta name="description" content="Free NEET, JEE, CUET, SAT, and NEET PG mock tests. Instant results, expert clinical solutions, clinical PG prep. Try iLoveExams!">
+  <!-- ════════════════════════════════════════════════════
+       TWITTER / X CARD
+  ════════════════════════════════════════════════════ -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@iLoveExams" />
+  <meta name="twitter:creator" content="@iLoveExams" />
+  <meta name="twitter:title" content="iLoveExams: 2 Lakh+ Free Mock Questions — NEET PG, NEET UG, JEE, JLPT" />
+  <meta name="twitter:description" content="Free mock tests for NEET PG 2027 (2 lakh questions), NEET UG, JEE Main & Advanced, CUET, SAT, and JLPT N5/N4. Practice now — no install." />
+  <meta name="twitter:image" content="https://ilovedesi.fun/dashboard.png" />
+  <meta name="twitter:image:alt" content="iLoveExams dashboard" />
 
-  
+  <!-- ════════════════════════════════════════════════════
+       MOBILE & PWA
+  ════════════════════════════════════════════════════ -->
+  <meta name="theme-color" content="#e0004d" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="iLoveExams" />
+  <meta name="application-name" content="iLoveExams" />
+  <meta name="msapplication-TileColor" content="#e0004d" />
+  <meta name="msapplication-TileImage" content="/favicon.png" />
 
-  <meta name="keywords" content="iloveexams,i love exams,ilovexams,alagappan.tech,exam preparation platform,online exam practice,NEET JEE CUET SAT NEET PG preparation,2027 exam practice tests,global exam preparation hub,dynamic question database,smart learning solutions,best online exam prep,interactive exam platform,practice exams for NEET JEE CUET SAT NEET PG,NEET 2027 preparation online,NEET PG 2027 mock tests,clinical PG exam preparation,JEE 2027 practice tests,CUET 2027 exam guide,SAT 2027 practice questions,online test series NEET JEE CUET SAT NEET PG,best exam preparation website,free NEET JEE CUET SAT NEET PG mock tests,competitive exam preparation India,learn online for NEET JEE CUET SAT NEET PG,multi-language exam practice,online exam practice platform,interactive NEET practice 2027,competitive exam preparation India,best online test prep for NEET JEE CUET SAT,top education websites 2027,latest exam updates India 2027,test your exam readiness online,practice questions NEET JEE CUET SAT,adaptive learning platform for exams,global exam preparation platform,online exam practice,interactive practice tests,best online learning portal,competitive exam prep 2027,smart learning for NEET JEE CUET SAT,multilingual exam solutions,dynamic question bank,test series online 2027,NEET 2027 preparation tips,free NEET mock tests 2027,NEET online test series,best NEET coaching online,how to prepare for NEET 2027 at home,NEET 2027 study material,NEET practice questions 2027,NEET 2027 syllabus overview,NEET 2027 exam strategy,NEET 2027 question bank,JEE 2027 study plan,best books for JEE 2027,JEE advanced 2027 preparation,JEE 2027 previous year papers,smart JEE preparation tools,JEE 2027 exam pattern,JEE 2027 practice questions,JEE online coaching 2027,CUET 2027 exam strategy,CUET 2027 subject wise guide,CUET 2027 question papers,CUET exam 2027 mock tests,multi-language CUET practice,CUET 2027 syllabus overview,CUET 2027 exam duration,SAT 2027 practice materials,SAT online coaching 2027,SAT 2027 sample papers,free SAT 2027 mock test,SAT 2027 exam dates,SAT 2027 test series online,SAT preparation tips 2027,NPTEL 2027 online courses,NPTEL certification preparation,NPTEL 2027 course solutions,NPTEL 2027 study material,NPTEL online courses with certification,study tips for high school students,best online learning platforms for exams,how to improve reading skills,online test practice for NEET 2027,competitive exam preparation tips,study abroad scholarships,play-based learning resources,NEET 2027 mock test free download,JEE 2027 last-minute revision tips,CUET sample paper 2027 with solutions,SAT digital practice test 2027,NPTEL easy certification courses 2027,NEET physics formula chart 2027,JEE main exam stress management,SAT essay preparation tips 2027,CUET exam language options"/>
+  <!-- ════════════════════════════════════════════════════
+       JSON-LD STRUCTURED DATA
+  ════════════════════════════════════════════════════ -->
 
-  
+  <!-- 1. WebSite + Sitelinks SearchBox -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "iLoveExams",
+    "alternateName": ["ilovexams", "iLovexams", "iloveexams"],
+    "url": "https://ilovedesi.fun/",
+    "description": "India's largest free mock test platform with 2 lakh+ questions for NEET PG, NEET UG, JEE, CUET, SAT and JLPT N5/N4.",
+    "inLanguage": "en-IN",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://ilovedesi.fun/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
 
-  <meta name="robots" content="index,follow" />
+  <!-- 2. Organization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "iLoveExams",
+    "url": "https://ilovedesi.fun/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ilovedesi.fun/favicon.png",
+      "width": 512,
+      "height": 512
+    },
+    "sameAs": [
+      "https://ilovexams.com",
+      "https://ilovedesi.fun"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "availableLanguage": ["en", "hi"]
+    },
+    "description": "Free online mock test platform for NEET PG, NEET UG, JEE, CUET, SAT and JLPT exams. India's largest question bank with 2 lakh+ questions."
+  }
+  </script>
 
-  <meta name="googlebots" content="index,follow" />
+  <!-- 3. EducationalOrganization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "name": "iLoveExams",
+    "url": "https://ilovedesi.fun/",
+    "description": "India's largest free online exam preparation platform with 2,00,000+ mock test questions covering NEET PG, NEET UG, JEE, CUET, SAT and JLPT N5/N4.",
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Free Mock Tests",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Course",
+            "name": "NEET PG 2027 Mock Tests — 2 Lakh Questions",
+            "description": "India's largest NEET PG question bank with 2,00,000+ high-yield clinical MCQs for NEET PG 2027, INI-CET, FMGE and NEXT.",
+            "url": "https://ilovedesi.fun/neet_pg.html",
+            "provider": { "@type": "Organization", "name": "iLoveExams" }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Course",
+            "name": "NEET UG 2027 Free Mock Tests",
+            "description": "Free NEET UG 2027 mock tests covering Biology, Physics and Chemistry.",
+            "url": "https://ilovedesi.fun/neet.html",
+            "provider": { "@type": "Organization", "name": "iLoveExams" }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Course",
+            "name": "JEE Main & Advanced 2027 Mock Tests",
+            "description": "Free JEE Main and JEE Advanced 2027 practice tests with instant solutions.",
+            "url": "https://ilovedesi.fun/jee.html",
+            "provider": { "@type": "Organization", "name": "iLoveExams" }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Course",
+            "name": "JLPT N5 Free Practice Tests",
+            "description": "Free JLPT N5 Japanese Language Proficiency Test mock tests with instant results.",
+            "url": "https://ilovedesi.fun/jlpt_n5.html",
+            "provider": { "@type": "Organization", "name": "iLoveExams" }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Course",
+            "name": "JLPT N4 Free Practice Tests",
+            "description": "Free JLPT N4 Japanese Language Proficiency Test mock tests.",
+            "url": "https://ilovedesi.fun/jlpt_n4.html",
+            "provider": { "@type": "Organization", "name": "iLoveExams" }
+          }
+        }
+      ]
+    }
+  }
+  </script>
 
-  <!-- Bootstrap & Icons -->
+  <!-- 4. SiteNavigationElement (controls sitelinks order hints) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "iLoveExams — Exam Sections",
+    "description": "Navigation links for all exam preparation sections on iLoveExams",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "SiteLinksSearchBox",
+        "url": "https://ilovedesi.fun/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://ilovedesi.fun/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "iLoveExams Exam Sections",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "NEET PG 2027 — 2 Lakh Questions",
+        "description": "Access 2,00,000+ high-yield NEET PG clinical mock questions, INI-CET prep, FMGE, and NEXT exam practice.",
+        "url": "https://ilovedesi.fun/neet_pg.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "NEET UG 2027 Free Mock Tests",
+        "description": "Free NEET UG 2027 Biology, Physics, Chemistry mock tests with detailed solutions.",
+        "url": "https://ilovedesi.fun/neet.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "JEE Main & Advanced 2027",
+        "description": "Free JEE Main and Advanced mock tests with instant answer analysis.",
+        "url": "https://ilovedesi.fun/jee.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "CUET 2027 Mock Tests",
+        "description": "Free CUET 2027 mock tests for Central University admission preparation.",
+        "url": "https://ilovedesi.fun/cuet.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "SAT 2027 Practice Tests",
+        "description": "Free SAT 2027 digital practice tests with instant scoring.",
+        "url": "https://ilovedesi.fun/sat.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "JLPT N5 Free Practice",
+        "description": "Free JLPT N5 Japanese Language Proficiency mock tests.",
+        "url": "https://ilovedesi.fun/jlpt_n5.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "JLPT N4 Free Practice",
+        "description": "Free JLPT N4 Japanese Language Proficiency mock tests.",
+        "url": "https://ilovedesi.fun/jlpt_n4.html"
+      }
+    ]
+  }
+  </script>
 
+  <!-- 5. FAQPage (boosts rich snippets) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How many questions are in iLoveExams NEET PG question bank?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "iLoveExams has over 2,00,000 (2 lakh) high-yield clinical MCQs for NEET PG 2027, INI-CET, FMGE and NEXT exam preparation — completely free."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is iLoveExams free to use?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. iLoveExams is completely free. No installation needed. Practice NEET PG, NEET UG, JEE, CUET, SAT and JLPT N5/N4 mock tests instantly in your browser."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does iLoveExams have JLPT N5 and N4 practice tests?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. iLoveExams offers free JLPT N5 and N4 Japanese Language Proficiency Test practice tests with instant scoring and answer explanations."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I prepare for JEE on iLoveExams?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. iLoveExams offers free JEE Main and JEE Advanced 2027 mock tests covering Physics, Chemistry and Mathematics with detailed solutions."
+        }
+      }
+    ]
+  }
+  </script>
+
+  <!-- ════════════════════════════════════════════════════
+       PERFORMANCE — PRECONNECT
+  ════════════════════════════════════════════════════ -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+
+  <!-- ════════════════════════════════════════════════════
+       BOOTSTRAP & ICONS
+  ════════════════════════════════════════════════════ -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
-
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet" />
 
-  
-
-    <!-- Open Graph -->
-
-  <meta property="og:title" content="JEE 2027 Exam Pattern & Preparation - iLovexams" />
-
-  <meta property="og:description" content="Check JEE, NEET, CUET, SAT 2027 syllabus, exam pattern, and prepare with 14,000+ mock test questions at iLoveExams." />
-
-  <meta property="og:type" content="article" />
-
-  <meta property="og:url" content="https://www.alagappan.tech/index.html" />
-
-  <meta property="og:image" content="https://www.alagappan.tech/images/day.jpg" />
-
-  <!-- Optional External Files -->
-
+  <!-- ════════════════════════════════════════════════════
+       SCRIPTS & STYLES
+  ════════════════════════════════════════════════════ -->
   <link rel="stylesheet" href="index.css" />
-
   <script src="index.js" defer></script>
   <script src="favicon-spin.js" defer></script>
   <script src="global-fullscreen.js" defer></script>
-  <!-- Love animation: Chrome address bar heartbeat -->
-  <meta name="theme-color" content="#e0004d">
   <script src="theme-color-animator.js" defer></script>
 
   <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
