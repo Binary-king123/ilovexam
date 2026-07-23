@@ -205,20 +205,32 @@ async function loadQuestions() {
             questionBank    = payload.questions.map(q => ({ id: q.id, questionText: q.question, options: [q.opa, q.opb, q.opc, q.opd] }));
 
             // Fetch all previous attempts and bookmarks for resuming
-            const attRes = await fetch('/api/qbank/attempts');
-            const attData = await attRes.json();
-            const attempts = attData.attempts || {};
             const isResume = (urlParams.get('resume') === 'true');
+            let attempts = {};
+
+            if (isResume) {
+                // Only load previous answers if the user explicitly chose to resume
+                try {
+                    const attRes = await fetch('/api/qbank/attempts');
+                    const attData = await attRes.json();
+                    attempts = attData.attempts || {};
+                } catch(e) {
+                    console.warn('Could not fetch previous attempts:', e);
+                }
+            }
 
             userAnswers = questionBank.map(q => {
-                const att = attempts[q.id];
-                const hasValidAnswer = isResume && att && att.selected !== null && att.selected !== undefined && att.selected >= 0;
+                const att = isResume ? attempts[q.id] : null;
+                // Only restore answer if resuming AND a valid selection was made (>= 0, not unattempted)
+                const hasValidAnswer = isResume && att &&
+                    att.selected !== null && att.selected !== undefined &&
+                    Number(att.selected) >= 0;
                 return {
-                    selected: hasValidAnswer ? att.selected : null,
+                    selected: hasValidAnswer ? Number(att.selected) : null,
                     marked: false,
-                    visited: isResume && att ? true : false,
+                    visited: hasValidAnswer,
                     isCorrect: hasValidAnswer ? att.isCorrect : null,
-                    cop: null,
+                    cop: hasValidAnswer ? att.cop || null : null,
                     exp: null,
                     hint_exp: null,
                     locked: false,
@@ -264,13 +276,35 @@ async function initExam() {
     document.getElementById('cname').innerText               = candidateName.toUpperCase();
     document.getElementById('headerCandidateName').textContent = candidateName;
 
-    // Call requestFullscreen synchronously within user gesture stack to prevent browser block
-    requestFullscreen();
+    // ✅ Fullscreen MUST be requested synchronously within the user gesture (before any await)
+    // Store the fullscreen promise but don't await it yet — keeps us in gesture stack
+    let fsPromise = null;
+    if (isMobileDevice()) {
+        const el = document.documentElement;
+        try {
+            if (el.requestFullscreen) {
+                fsPromise = el.requestFullscreen();
+            } else if (el.webkitRequestFullscreen) {
+                fsPromise = el.webkitRequestFullscreen();
+            } else if (el.mozRequestFullScreen) {
+                fsPromise = el.mozRequestFullScreen();
+            } else if (el.msRequestFullscreen) {
+                fsPromise = el.msRequestFullscreen();
+            }
+        } catch(e) {
+            console.log('Fullscreen request failed:', e);
+        }
+    }
 
     const success = await loadQuestions();
     if (!success) {
         if (document.exitFullscreen) document.exitFullscreen().catch(() => {});
         return;
+    }
+
+    // Await fullscreen result after async work (errors are non-fatal)
+    if (fsPromise) {
+        fsPromise.catch(e => console.log('Fullscreen notice:', e));
     }
 
     document.getElementById('startBtnContainer').style.display = 'none';
