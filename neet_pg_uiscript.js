@@ -208,20 +208,22 @@ async function loadQuestions() {
             const attRes = await fetch('/api/qbank/attempts');
             const attData = await attRes.json();
             const attempts = attData.attempts || {};
+            const isResume = (urlParams.get('resume') === 'true');
 
             userAnswers = questionBank.map(q => {
                 const att = attempts[q.id];
+                const hasValidAnswer = isResume && att && att.selected !== null && att.selected !== undefined && att.selected >= 0;
                 return {
-                    selected: att ? att.selected : null,
+                    selected: hasValidAnswer ? att.selected : null,
                     marked: false,
-                    visited: att ? true : false,
-                    isCorrect: att ? att.isCorrect : null,
+                    visited: isResume && att ? true : false,
+                    isCorrect: hasValidAnswer ? att.isCorrect : null,
                     cop: null,
                     exp: null,
                     hint_exp: null,
                     locked: false,
-                    revealed: att && att.selected !== null,
-                    bookmarked: att ? att.bookmarked : false
+                    revealed: hasValidAnswer,
+                    bookmarked: att ? !!att.bookmarked : false
                 };
             });
             return true;
@@ -232,10 +234,26 @@ async function loadQuestions() {
 }
 
 // ──────────────────────────────────────────────────────
-// Fullscreen
+// Fullscreen for Mobile
 // ──────────────────────────────────────────────────────
+function isMobileDevice() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || window.innerWidth <= 767;
+}
+
 function requestFullscreen() {
-    // Fullscreen disabled as requested: "no full screen for neet_pg and all other things"
+    if (!isMobileDevice()) return; // Mandatory on mobile
+    const el = document.documentElement;
+    if (document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement) return;
+
+    if (el.requestFullscreen) {
+        el.requestFullscreen().catch(e => console.log('Fullscreen notice:', e));
+    } else if (el.webkitRequestFullscreen) {
+        el.webkitRequestFullscreen();
+    } else if (el.mozRequestFullScreen) {
+        el.mozRequestFullScreen();
+    } else if (el.msRequestFullscreen) {
+        el.msRequestFullscreen();
+    }
 }
 
 // ──────────────────────────────────────────────────────
@@ -861,8 +879,21 @@ document.addEventListener('visibilitychange', () => {
         else alert('⚠️ Tab switching is prohibited!');
     } else { document.body.style.filter = 'none'; }
 });
-document.addEventListener('fullscreenchange', () => {
-    // Disabled as requested: "no full screen for neet_pg and all other things"
+['fullscreenchange', 'webkitfullscreenchange', 'mozfullscreenchange', 'MSFullscreenChange'].forEach(evt => {
+    document.addEventListener(evt, () => {
+        if (!examActive || !isMobileDevice()) return;
+        const isFS = !!(document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement);
+        if (!isFS) {
+            fullscreenExitCount++;
+            if (fullscreenExitCount >= 3) {
+                alert('🚨 Auto-submitting exam due to exiting fullscreen mode on mobile.');
+                submitTest();
+            } else {
+                alert('⚠️ Mandatory Fullscreen Mode: Please remain in fullscreen while taking the exam on mobile.');
+                setTimeout(requestFullscreen, 500);
+            }
+        }
+    });
 });
 
 // Show motivation modal on page load
