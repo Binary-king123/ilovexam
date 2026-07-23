@@ -168,8 +168,7 @@ console.log('✔ SQLite database ready.');
             } else if (fs.existsSync(encDir)) {
                 console.log('⏳ Importing 180,000+ clinical PG questions from encrypted episodes into SQLite...');
                 const start = Date.now();
-                const secretBuf = Buffer.from(COOKIE_SECRET.substring(0, 32));
-                const keyBuf = Buffer.from(DECRYPTION_KEY.substring(0, 32));
+                const datasetKeyBuf = Buffer.from('ilovexams_secret_key_32_bytes_long!!'.substring(0, 32));
 
                 const encFiles = fs.readdirSync(encDir).filter(f => f.match(/^episode\d+\.enc$/));
                 let totalLoaded = 0;
@@ -199,7 +198,7 @@ console.log('✔ SQLite database ready.');
                         const encText = fs.readFileSync(encPath, 'utf8');
                         const buf = Buffer.from(encText, 'base64');
                         const iv = buf.subarray(0, 16);
-                        const decipher = crypto.createDecipheriv('aes-256-cbc', keyBuf, iv);
+                        const decipher = crypto.createDecipheriv('aes-256-cbc', datasetKeyBuf, iv);
                         let dec = decipher.update(buf.subarray(16), undefined, 'utf8');
                         dec += decipher.final('utf8');
                         const payload = JSON.parse(dec);
@@ -207,11 +206,12 @@ console.log('✔ SQLite database ready.');
                             insertMany(payload.questions);
                         }
                     } catch (err) {
-                        // Skip corrupted file
+                        console.warn(`⚠️ Error decrypting ${file}:`, err.message);
                     }
                 }
                 console.log(`✅ Successfully seeded ${totalLoaded.toLocaleString()} questions from encrypted episodes in ${((Date.now() - start) / 1000).toFixed(1)}s.`);
-            } else {
+            }
+ else {
                 console.warn('⚠️ No question dataset found.');
             }
         } else {
