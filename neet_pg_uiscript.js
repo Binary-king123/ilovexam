@@ -204,8 +204,24 @@ async function loadQuestions() {
             const payload   = JSON.parse(decryptedText);
             questionBank    = payload.questions.map(q => ({ id: q.id, questionText: q.question, options: [q.opa, q.opb, q.opc, q.opd] }));
 
-            // ✅ ALWAYS clean slate — never load previous attempts.
-            // Identical pattern to NEET UG / CUET / SAT exam scripts.
+            // ✅ AUTOMATIC MANDATORY RESET:
+            // Delete all previous database entries linked to user's mail ID for these questions
+            try {
+                const ids = questionBank.map(q => q.id);
+                fetch('/api/qbank/reset-questions', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ questionIds: ids })
+                }).catch(() => {});
+            } catch (e) {
+                console.warn('Auto-reset DB error:', e);
+            }
+
+            // Clear local storage episode progress so user always starts on Q1
+            localStorage.removeItem('neet_pg_last_episode');
+            localStorage.removeItem('neet_pg_last_index');
+
+            // Initialize clean state — 100% unattempted, unrevealed
             userAnswers = questionBank.map(() => ({
                 selected:  null,
                 marked:    false,
@@ -793,48 +809,7 @@ document.getElementById('btnLaunchExam').addEventListener('click', () => {
     initExam();         // async — runs after fullscreen is granted
 });
 
-const btnResetExam = document.getElementById('btnResetExam');
-if (btnResetExam) {
-    btnResetExam.addEventListener('click', async () => {
-        if (!confirm('Are you sure you want to reset all previous attempts for this exam and start fresh?')) return;
-        
-        const originalText = btnResetExam.innerHTML;
-        btnResetExam.disabled = true;
-        btnResetExam.innerHTML = '<span class="spinner-border spinner-border-sm me-2"></span>Resetting...';
 
-        try {
-            const success = await loadQuestions();
-            if (!success) {
-                btnResetExam.disabled = false;
-                btnResetExam.innerHTML = originalText;
-                return;
-            }
-
-            const ids = questionBank.map(q => q.id);
-            const res = await fetch('/api/qbank/reset-questions', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ questionIds: ids })
-            });
-            const data = await res.json();
-            if (data.success) {
-                localStorage.removeItem('neet_pg_last_episode');
-                localStorage.removeItem('neet_pg_last_index');
-                alert('🔄 Previous attempts cleared successfully! Starting test...');
-                initExam();
-            } else {
-                alert('⚠️ Failed to reset attempts: ' + (data.error || 'Unknown error'));
-                btnResetExam.disabled = false;
-                btnResetExam.innerHTML = originalText;
-            }
-        } catch (e) {
-            console.error(e);
-            alert('⚠️ Connection error. Could not reset attempts.');
-            btnResetExam.disabled = false;
-            btnResetExam.innerHTML = originalText;
-        }
-    });
-}
 
 // ──────────────────────────────────────────────────────
 // Anti-Cheat
