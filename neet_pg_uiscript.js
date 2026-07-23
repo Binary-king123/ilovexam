@@ -204,28 +204,9 @@ async function loadQuestions() {
             const payload   = JSON.parse(decryptedText);
             questionBank    = payload.questions.map(q => ({ id: q.id, questionText: q.question, options: [q.opa, q.opb, q.opc, q.opd] }));
 
-            // ✅ ALWAYS start fresh — never pre-reveal answers from previous sessions.
-            // If ?resume=true is in URL, load bookmarks only (no answer/reveal state)
-            const isResume = (urlParams.get('resume') === 'true');
-            let bookmarks = {};
-
-            if (isResume) {
-                // Only fetch bookmarks for the resume flow, never load selected/revealed state
-                try {
-                    const attRes = await fetch('/api/qbank/attempts');
-                    const attData = await attRes.json();
-                    const rawAttempts = attData.attempts || {};
-                    // Extract ONLY bookmark state, nothing else
-                    Object.keys(rawAttempts).forEach(id => {
-                        bookmarks[id] = !!rawAttempts[id].bookmarked;
-                    });
-                } catch(e) {
-                    console.warn('Could not fetch bookmarks:', e);
-                }
-            }
-
-            // Every exam always starts with a clean slate — no pre-selected/pre-revealed answers
-            userAnswers = questionBank.map(q => ({
+            // ✅ ALWAYS clean slate — never load previous attempts.
+            // Identical pattern to NEET UG / CUET / SAT exam scripts.
+            userAnswers = questionBank.map(() => ({
                 selected:  null,
                 marked:    false,
                 visited:   false,
@@ -235,7 +216,7 @@ async function loadQuestions() {
                 hint_exp:  null,
                 locked:    false,
                 revealed:  false,
-                bookmarked: bookmarks[q.id] || false
+                bookmarked: false
             }));
             return true;
         } catch (e) {
@@ -270,10 +251,7 @@ async function initExam() {
     candidateName = prompt('Enter your name for the exam record:') || candidateName;
     document.getElementById('cname').innerText               = candidateName.toUpperCase();
     document.getElementById('headerCandidateName').textContent = candidateName;
-
-    // ✅ Fullscreen: called synchronously here (we are still inside the click handler's sync call stack)
-    // This is identical to how NEET UG does it — sync call before any async work
-    enableFullscreen();
+    // NOTE: fullscreen is called BEFORE this function by the click handler (synchronous)
 
     const success = await loadQuestions();
     if (!success) {
@@ -283,26 +261,12 @@ async function initExam() {
 
     document.getElementById('startBtnContainer').style.display = 'none';
     document.getElementById('testContainer').style.display     = 'block';
-    // Show mobile nav only on small screens (≤ 767px)
     if (window.innerWidth <= 767) {
         document.getElementById('mobileNav').style.display = 'flex';
     }
 
     examActive = true;
-
-    // Check if resuming from where user left off
-    let startIndex = 0;
-    const urlParams = new URLSearchParams(window.location.search);
-    if (urlParams.get('resume') === 'true') {
-        const savedEp = localStorage.getItem('neet_pg_last_episode');
-        const savedIdx = localStorage.getItem('neet_pg_last_index');
-        const epNum = getEpisodeNumber();
-        if (savedEp && parseInt(savedEp) === epNum && savedIdx) {
-            startIndex = parseInt(savedIdx);
-        }
-    }
-
-    renderQuestion(startIndex);
+    renderQuestion(0);
     renderPalette();
     // startTimer(); // Disabled for free mode
 }
@@ -822,7 +786,12 @@ async function submitTest() {
 
 document.getElementById('btnSubmitExam').addEventListener('click',   () => { if (confirm('Submit exam now?')) submitTest(); });
 document.getElementById('btnSubmitMobile').addEventListener('click', () => { if (confirm('Submit exam now?')) submitTest(); });
-document.getElementById('btnLaunchExam').addEventListener('click',   initExam);
+// ✅ Fullscreen called SYNCHRONOUSLY in the click handler (not inside async initExam)
+// This is the NEET UG pattern that actually works on Android/iOS
+document.getElementById('btnLaunchExam').addEventListener('click', () => {
+    enableFullscreen(); // synchronous — must be before any async work
+    initExam();         // async — runs after fullscreen is granted
+});
 
 const btnResetExam = document.getElementById('btnResetExam');
 if (btnResetExam) {

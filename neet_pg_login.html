@@ -406,12 +406,23 @@
 
   <script>
     // -- Redirect if already logged in --
+    // Show loading overlay during the auth check to prevent blank/stuck screen
+    const authCheckOverlay = document.createElement('div');
+    authCheckOverlay.style.cssText = 'position:fixed;inset:0;background:#fff;display:flex;align-items:center;justify-content:center;z-index:9999;font-family:monospace;font-weight:800;font-size:1rem;';
+    authCheckOverlay.innerHTML = '<span style="animation:blink 1s step-end infinite">Checking session...</span><style>@keyframes blink{50%{opacity:0}}</style>';
+    document.body.appendChild(authCheckOverlay);
+
     (async () => {
       try {
         const res  = await fetch('/api/auth/me');
         const data = await res.json();
-        if (data.loggedIn) window.location.href = 'neet_pg.html';
-      } catch (e) { /* offline */ }
+        if (data.loggedIn) {
+          window.location.href = 'neet_pg.html';
+          return; // keep overlay visible while redirecting
+        }
+      } catch (e) { /* offline or server down */ }
+      // Not logged in — remove overlay and show the form
+      authCheckOverlay.remove();
     })();
 
     // -- Tab switcher --
