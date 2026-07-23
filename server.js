@@ -140,32 +140,7 @@ console.log('✔ SQLite database ready.');
         `);
 
         if (!qCountRow || qCountRow.count < 150000) {
-            if (fs.existsSync(rawPath)) {
-                console.log('⏳ Importing 190,000+ clinical PG questions from raw JSON into SQLite...');
-                const start = Date.now();
-                const rawData = JSON.parse(fs.readFileSync(rawPath, 'utf8'));
-
-                const insertMany = db.transaction((qs) => {
-                    for (const q of qs) {
-                        insert.run({
-                            id: q.id,
-                            question: q.question,
-                            opa: q.opa || '',
-                            opb: q.opb || '',
-                            opc: q.opc || '',
-                            opd: q.opd || '',
-                            cop: parseInt(q.cop) || 0,
-                            exp: q.exp || '',
-                            subject: q.subject || 'General Medicine',
-                            topic: q.topic || 'General',
-                            hint_exp: q.hint_exp || null
-                        });
-                    }
-                });
-
-                insertMany(rawData);
-                console.log(`✅ Loaded ${rawData.length} questions in ${((Date.now() - start) / 1000).toFixed(1)}s.`);
-            } else if (fs.existsSync(encDir)) {
+            if (fs.existsSync(encDir)) {
                 console.log('⏳ Importing 180,000+ clinical PG questions from encrypted episodes into SQLite...');
                 const start = Date.now();
                 const datasetKeyBuf = Buffer.from('ilovexams_secret_key_32_bytes_long!!'.substring(0, 32));
@@ -210,8 +185,32 @@ console.log('✔ SQLite database ready.');
                     }
                 }
                 console.log(`✅ Successfully seeded ${totalLoaded.toLocaleString()} questions from encrypted episodes in ${((Date.now() - start) / 1000).toFixed(1)}s.`);
-            }
- else {
+            } else if (fs.existsSync(rawPath)) {
+                console.log('⏳ Importing clinical PG questions from raw JSON into SQLite...');
+                const start = Date.now();
+                const rawData = JSON.parse(fs.readFileSync(rawPath, 'utf8'));
+
+                const insertMany = db.transaction((qs) => {
+                    for (const q of qs) {
+                        insert.run({
+                            id: q.id,
+                            question: q.question,
+                            opa: q.opa || '',
+                            opb: q.opb || '',
+                            opc: q.opc || '',
+                            opd: q.opd || '',
+                            cop: parseInt(q.cop) || 0,
+                            exp: q.exp || '',
+                            subject: q.subject || 'General Medicine',
+                            topic: q.topic || 'General',
+                            hint_exp: q.hint_exp || null
+                        });
+                    }
+                });
+
+                insertMany(rawData);
+                console.log(`✅ Loaded ${rawData.length} questions in ${((Date.now() - start) / 1000).toFixed(1)}s.`);
+            } else {
                 console.warn('⚠️ No question dataset found.');
             }
         } else {
@@ -221,6 +220,7 @@ console.log('✔ SQLite database ready.');
         console.error('❌ Error seeding questions database:', e);
     }
 })();
+
 
 
 // Startup Seeder for Default PDFs, Podcasts, and Videos
