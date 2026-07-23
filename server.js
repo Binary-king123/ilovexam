@@ -636,7 +636,7 @@ app.get('/question/:id', (req, res) => {
 
     <div class="cta-banner">
       <h2 class="h4 fw-bold mb-2">Practice 2,00,000+ NEET PG Questions Free</h2>
-      <p class="small text-white-50 mb-0">Timed mock tests, mistake queue analytics, audio lectures & zero attempt limits on iLoveExams.</p>
+      <p class="small text-white-50 mb-0">Timed mock tests, mistake queue analytics, audio lectures & zero attempt limits on i❤️Exams.</p>
       <a href="/neet_pg_ui.html" class="cta-btn"><i class="bi bi-play-circle-fill me-2"></i>Start Free Mock Test Now</a>
     </div>
   </main>
@@ -652,7 +652,6 @@ app.get('/question/:id', (req, res) => {
     }
 });
 
-
 // ─── DYNAMIC QUESTION SITEMAP INDEX (2 Lakh Questions Indexer) ───────────────
 app.get('/sitemap-questions.xml', (req, res) => {
     try {
@@ -660,14 +659,15 @@ app.get('/sitemap-questions.xml', (req, res) => {
         const total = totalObj ? totalObj.c : 0;
         const pageSize = 30000;
         const totalPages = Math.ceil(total / pageSize) || 1;
+        const todayStr = new Date().toISOString().split('T')[0];
 
         let xml = `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
         for (let i = 1; i <= totalPages; i++) {
-            xml += `  <sitemap>\n    <loc>https://ilovexams.com/sitemap-questions-${i}.xml</loc>\n    <lastmod>2026-07-23</lastmod>\n  </sitemap>\n`;
+            xml += `  <sitemap>\n    <loc>https://ilovexams.com/sitemap-questions-${i}.xml</loc>\n    <lastmod>${todayStr}</lastmod>\n  </sitemap>\n`;
         }
         xml += `</sitemapindex>`;
 
-        res.setHeader('Content-Type', 'application/xml');
+        res.setHeader('Content-Type', 'application/xml; charset=utf-8');
         res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
         return res.send(xml);
     } catch (e) {
@@ -690,15 +690,15 @@ app.get('/sitemap-questions-:page.xml', (req, res) => {
         });
         xml += `</urlset>`;
 
-        res.setHeader('Content-Type', 'application/xml');
+        res.setHeader('Content-Type', 'application/xml; charset=utf-8');
         res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
         return res.send(xml);
-
     } catch (e) {
         console.error(e);
         return res.status(500).send('Sitemap page error');
     }
 });
+
 
 // Serve static files with anti-cache headers for HTML/JS
 app.use(express.static(path.join(__dirname), {
