@@ -27,8 +27,11 @@ const ADMIN_EMAIL = (process.env.ADMIN_EMAIL || 'admin@ilovexams.in').toLowerCas
 
 // ─── Database Setup ──────────────────────────────────────────────────────────
 const db = new Database(path.join(__dirname, 'ilovexams.db'));
+db.pragma('journal_mode = WAL');
+db.pragma('synchronous = NORMAL');
 
 // Initialise schema
+
 db.exec(`
   CREATE TABLE IF NOT EXISTS users (
     id          TEXT PRIMARY KEY,
