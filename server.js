@@ -400,6 +400,16 @@ app.use((req, res, next) => {
 });
 
 // ─── PROGRAMMATIC QUESTION SEO ENGINE (2 Lakh Questions Google Indexer) ───────
+function escapeHtml(str) {
+    if (!str) return '';
+    return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+}
+
 app.get('/question/:id', (req, res) => {
     const qid = req.params.id;
     try {
@@ -418,19 +428,21 @@ app.get('/question/:id', (req, res) => {
             `);
         }
 
-        const options = [q.opa, q.opb, q.opc, q.opd];
-        const correctIndex = typeof q.cop === 'number' ? q.cop : 0;
-        const correctAnswerText = options[correctIndex] || q.opa;
+        const rawCop = parseInt(q.cop);
+        const correctIndex = (rawCop >= 1 && rawCop <= 4) ? rawCop - 1 : (rawCop >= 0 && rawCop <= 3 ? rawCop : 0);
+        const options = [q.opa || '', q.opb || '', q.opc || '', q.opd || ''];
+        const correctAnswerText = options[correctIndex] || options[0];
         const optionLabels = ['A', 'B', 'C', 'D'];
 
-        const subject = q.subject || 'General Medicine';
-        const topic = q.topic || 'Clinical Case';
-        const rawQuestion = (q.question || '').replace(/"/g, '&quot;').replace(/\n/g, ' ');
-        const snippet = rawQuestion.length > 120 ? rawQuestion.substring(0, 117) + '...' : rawQuestion;
+        const subject = escapeHtml(q.subject || 'General Medicine');
+        const topic = escapeHtml(q.topic || 'Clinical Case');
+        const rawQuestion = (q.question || '').replace(/\s+/g, ' ').trim();
+        const escapedQuestion = escapeHtml(rawQuestion);
+        const snippet = escapeHtml(rawQuestion.length > 120 ? rawQuestion.substring(0, 117) + '...' : rawQuestion);
         
         const canonicalUrl = `https://ilovexams.com/question/${q.id}`;
         const pageTitle = `${snippet} — NEET PG ${subject} Question | iLoveExams`;
-        const metaDescription = `${rawQuestion.substring(0, 150)}. Free NEET PG, INI-CET clinical mock question with solution on iLoveExams.`;
+        const metaDescription = escapeHtml(`${rawQuestion.substring(0, 150)}. Free NEET PG, INI-CET clinical mock question with solution on iLoveExams.`);
 
         // Fetch prev and next question IDs for crawler traversal
         const prevQ = db.prepare('SELECT id FROM questions WHERE rowid < (SELECT rowid FROM questions WHERE id = ?) ORDER BY rowid DESC LIMIT 1').get(qid);
@@ -448,7 +460,7 @@ app.get('/question/:id', (req, res) => {
             "hasPart": [
                 {
                     "@type": "Question",
-                    "name": q.question,
+                    "name": rawQuestion,
                     "educationalAlignment": [
                         { "@type": "AlignmentObject", "alignmentType": "educationalSubject", "targetName": subject }
                     ],
@@ -551,13 +563,13 @@ app.get('/question/:id', (req, res) => {
         <span class="ms-auto text-muted small fw-bold"><i class="bi bi-hash"></i>${q.id.substring(0, 8)}</span>
       </div>
 
-      <h1 class="q-text">${q.question}</h1>
+      <h1 class="q-text">${escapedQuestion}</h1>
 
       <div class="options-list">
         ${options.map((opt, i) => `
           <div class="option-item ${i === correctIndex ? 'correct' : ''}">
             <div class="option-badge">${optionLabels[i]}</div>
-            <div>${opt} ${i === correctIndex ? '<i class="bi bi-check-circle-fill ms-2 text-success"></i>' : ''}</div>
+            <div>${escapeHtml(opt)} ${i === correctIndex ? '<i class="bi bi-check-circle-fill ms-2 text-success"></i>' : ''}</div>
           </div>
         `).join('')}
       </div>
@@ -565,7 +577,7 @@ app.get('/question/:id', (req, res) => {
       ${q.exp ? `
         <div class="exp-box">
           <div class="exp-title"><i class="bi bi-journal-medical"></i> High-Yield Explanation</div>
-          <div>${q.exp}</div>
+          <div>${escapeHtml(q.exp)}</div>
         </div>
       ` : ''}
     </article>
@@ -592,6 +604,7 @@ app.get('/question/:id', (req, res) => {
         return res.status(500).send('Internal Server Error');
     }
 });
+
 
 // ─── DYNAMIC QUESTION SITEMAP INDEX (2 Lakh Questions Indexer) ───────────────
 app.get('/sitemap-questions.xml', (req, res) => {
