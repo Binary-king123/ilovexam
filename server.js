@@ -117,6 +117,8 @@ try {
         CREATE INDEX IF NOT EXISTS idx_user_answers_question_id ON user_answers(question_id);
         CREATE INDEX IF NOT EXISTS idx_user_answers_user_correct ON user_answers(user_id, is_correct);
         CREATE INDEX IF NOT EXISTS idx_questions_subject_topic ON questions(subject, topic);
+        CREATE INDEX IF NOT EXISTS idx_questions_subject ON questions(subject);
+        CREATE INDEX IF NOT EXISTS idx_questions_subject_rowid ON questions(subject, rowid);
         CREATE INDEX IF NOT EXISTS idx_sessions_token ON sessions(token);
         CREATE INDEX IF NOT EXISTS idx_sessions_expires ON sessions(expires_at);
     `);
@@ -456,8 +458,40 @@ function escapeHtml(str) {
         .replace(/'/g, '&#039;');
 }
 
-app.get('/question/:id', (req, res) => {
-    const qid = req.params.id;
+const SUBJECT_SLUG_MAP = {
+    'anaesthesia': 'Anaesthesia',
+    'anatomy': 'Anatomy',
+    'biochemistry': 'Biochemistry',
+    'dental': 'Dental',
+    'ent': 'ENT',
+    'forensic-medicine': 'Forensic Medicine',
+    'gynaecology-and-obstetrics': 'Gynaecology & Obstetrics',
+    'medicine': 'Medicine',
+    'microbiology': 'Microbiology',
+    'ophthalmology': 'Ophthalmology',
+    'orthopaedics': 'Orthopaedics',
+    'pathology': 'Pathology',
+    'pediatrics': 'Pediatrics',
+    'pharmacology': 'Pharmacology',
+    'physiology': 'Physiology',
+    'psychiatry': 'Psychiatry',
+    'radiology': 'Radiology',
+    'skin': 'Skin',
+    'social-and-preventive-medicine': 'Social & Preventive Medicine',
+    'surgery': 'Surgery',
+    'unknown': 'Unknown'
+};
+
+function toSubjectSlug(s) {
+    if (!s) return 'medicine';
+    return String(s).toLowerCase()
+        .replace(/&/g, 'and')
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+}
+
+app.get(['/question/:id', '/question/:slug-:id'], (req, res) => {
+    const qid = req.params.id || req.params.slug;
     try {
         const q = db.prepare('SELECT * FROM questions WHERE id = ?').get(qid);
         if (!q) {
@@ -482,6 +516,7 @@ app.get('/question/:id', (req, res) => {
 
         const subject = escapeHtml(q.subject || 'General Medicine');
         const topic = escapeHtml(q.topic || 'Clinical Case');
+        const subjectSlug = toSubjectSlug(q.subject);
         const rawQuestion = (q.question || '').replace(/\s+/g, ' ').trim();
         const escapedQuestion = escapeHtml(rawQuestion);
         const snippet = escapeHtml(rawQuestion.length > 120 ? rawQuestion.substring(0, 117) + '...' : rawQuestion);
@@ -496,6 +531,9 @@ app.get('/question/:id', (req, res) => {
 
         const prevLink = prevQ ? `<a href="/question/${prevQ.id}" class="nav-btn">← Previous Question</a>` : '';
         const nextLink = nextQ ? `<a href="/question/${nextQ.id}" class="nav-btn">Next Question →</a>` : '';
+
+        // Fetch 5 related questions in the same subject for powerful internal linking PageRank flow
+        const relatedQs = db.prepare('SELECT id, question, topic FROM questions WHERE subject = ? AND id != ? ORDER BY rowid DESC LIMIT 5').all(q.subject || '', qid);
 
         const jsonLdQuiz = {
             "@context": "https://schema.org",
@@ -534,7 +572,8 @@ app.get('/question/:id', (req, res) => {
             "itemListElement": [
                 { "@type": "ListItem", "position": 1, "name": "i❤️Exams Home", "item": "https://ilovexams.com/" },
                 { "@type": "ListItem", "position": 2, "name": "NEET PG 2027", "item": "https://ilovexams.com/neet_pg.html" },
-                { "@type": "ListItem", "position": 3, "name": `${subject} Questions`, "item": canonicalUrl }
+                { "@type": "ListItem", "position": 3, "name": `${subject} MCQs`, "item": `https://ilovexams.com/subject/${subjectSlug}` },
+                { "@type": "ListItem", "position": 4, "name": `Question #${q.id.substring(0, 8)}`, "item": canonicalUrl }
             ]
         };
 
@@ -575,8 +614,8 @@ app.get('/question/:id', (req, res) => {
     .header-bar { background: #000; color: #fff; padding: 14px 20px; display: flex; align-items: center; justify-content: space-between; border-bottom: 3px solid #e0004d; }
     .header-logo { color: #fff; font-weight: 900; font-size: 1.25rem; text-decoration: none; display: flex; align-items: center; gap: 8px; }
     .header-logo span { color: #e0004d; }
-    .q-card { background: #fff; border: 2px solid #000; border-radius: 12px; box-shadow: 4px 4px 0px #000; padding: 24px; margin-top: 24px; }
-    .badge-subject { background: #e0004d; color: #fff; font-weight: 700; font-size: 0.8rem; padding: 4px 10px; border-radius: 20px; text-transform: uppercase; letter-spacing: 0.5px; }
+    .q-card { background: #fff; border: 2px solid #000; border-radius: 12px; box-shadow: 4px 4px 0px #000; padding: 24px; margin-top: 16px; }
+    .badge-subject { background: #e0004d; color: #fff; font-weight: 700; font-size: 0.8rem; padding: 4px 10px; border-radius: 20px; text-transform: uppercase; letter-spacing: 0.5px; text-decoration: none; }
     .badge-topic { background: #003366; color: #fff; font-weight: 600; font-size: 0.8rem; padding: 4px 10px; border-radius: 20px; }
     .q-text { font-size: 1.15rem; font-weight: 700; line-height: 1.5; margin-top: 14px; margin-bottom: 20px; }
     .option-item { background: #f8f9fa; border: 2px solid #e9ecef; border-radius: 8px; padding: 12px 16px; margin-bottom: 10px; font-weight: 600; display: flex; align-items: center; gap: 12px; transition: all 0.2s; }
@@ -603,9 +642,18 @@ app.get('/question/:id', (req, res) => {
   </header>
 
   <main class="container" style="max-width: 760px;">
+    <nav aria-label="breadcrumb" class="mt-3">
+      <ol class="breadcrumb mb-0 small">
+        <li class="breadcrumb-item"><a href="/" class="text-decoration-none text-secondary">Home</a></li>
+        <li class="breadcrumb-item"><a href="/neet_pg.html" class="text-decoration-none text-secondary">NEET PG</a></li>
+        <li class="breadcrumb-item"><a href="/subject/${subjectSlug}" class="text-decoration-none text-secondary">${subject}</a></li>
+        <li class="breadcrumb-item active text-dark fw-semibold" aria-current="page">MCQ #${q.id.substring(0, 8)}</li>
+      </ol>
+    </nav>
+
     <article class="q-card">
       <div class="d-flex align-items-center gap-2 flex-wrap">
-        <span class="badge-subject">${subject}</span>
+        <a href="/subject/${subjectSlug}" class="badge-subject">${subject}</a>
         <span class="badge-topic">${topic}</span>
         <span class="ms-auto text-muted small fw-bold"><i class="bi bi-hash"></i>${q.id.substring(0, 8)}</span>
       </div>
@@ -634,6 +682,29 @@ app.get('/question/:id', (req, res) => {
       ${nextLink}
     </div>
 
+    ${relatedQs.length > 0 ? `
+      <section class="mt-4 p-3 bg-white rounded-3 border">
+        <h2 class="h6 fw-bold text-uppercase text-dark mb-3"><i class="bi bi-diagram-3-fill text-danger me-2"></i>Related ${subject} MCQs</h2>
+        <div class="list-group list-group-flush">
+          ${relatedQs.map(rq => {
+            const rqSnippet = escapeHtml(rq.question.length > 95 ? rq.question.substring(0, 92) + '...' : rq.question);
+            return `
+              <a href="/question/${rq.id}" class="list-group-item list-group-item-action px-2 py-2 d-flex justify-content-between align-items-center">
+                <div class="pe-2">
+                  <div class="fw-semibold text-dark small">${rqSnippet}</div>
+                  <span class="badge bg-light text-secondary border mt-1" style="font-size:0.7rem;">${escapeHtml(rq.topic || 'Clinical Case')}</span>
+                </div>
+                <i class="bi bi-chevron-right text-muted small"></i>
+              </a>
+            `;
+          }).join('')}
+        </div>
+        <div class="text-center mt-3">
+          <a href="/subject/${subjectSlug}" class="btn btn-outline-dark btn-sm fw-bold px-3">Explore All ${subject} Questions →</a>
+        </div>
+      </section>
+    ` : ''}
+
     <div class="cta-banner">
       <h2 class="h4 fw-bold mb-2">Practice 2,00,000+ NEET PG Questions Free</h2>
       <p class="small text-white-50 mb-0">Timed mock tests, mistake queue analytics, audio lectures & zero attempt limits on i❤️Exams.</p>
@@ -652,6 +723,166 @@ app.get('/question/:id', (req, res) => {
     }
 });
 
+// ─── DYNAMIC SUBJECT HUB PAGES (SEO Taxonomy & Category Landing Pages) ───
+app.get(['/subject/:subjectSlug', '/subject/:subjectSlug/page/:page'], (req, res) => {
+    const slug = req.params.subjectSlug;
+    const page = Math.max(1, parseInt(req.params.page) || 1);
+    const subjectName = SUBJECT_SLUG_MAP[slug];
+
+    if (!subjectName) {
+        return res.status(404).send(`
+            <!DOCTYPE html>
+            <html lang="en">
+            <head><title>Subject Not Found | iLoveExams</title><meta name="viewport" content="width=device-width, initial-scale=1"/></head>
+            <body style="font-family:sans-serif; text-align:center; padding:50px;">
+                <h1>Subject Not Found</h1>
+                <p>The requested subject category could not be found.</p>
+                <a href="/neet_pg.html" style="background:#e0004d; color:white; padding:10px 20px; border-radius:8px; text-decoration:none;">Explore 2 Lakh NEET PG Questions</a>
+            </body>
+            </html>
+        `);
+    }
+
+    try {
+        const pageSize = 50;
+        const offset = (page - 1) * pageSize;
+
+        const totalObj = db.prepare('SELECT COUNT(*) as c FROM questions WHERE subject = ?').get(subjectName);
+        const totalCount = totalObj ? totalObj.c : 0;
+        const totalPages = Math.ceil(totalCount / pageSize) || 1;
+
+        const questions = db.prepare('SELECT id, question, topic, opa, opb, opc, opd FROM questions WHERE subject = ? ORDER BY rowid ASC LIMIT ? OFFSET ?').all(subjectName, pageSize, offset);
+
+        const canonicalUrl = page === 1 ? `https://ilovexams.com/subject/${slug}` : `https://ilovexams.com/subject/${slug}/page/${page}`;
+        const pageTitle = `NEET PG ${subjectName} MCQs & Free Mock Tests ${page > 1 ? `(Page ${page})` : ''} | i❤️Exams`;
+        const metaDescription = escapeHtml(`Practice ${totalCount.toLocaleString()}+ NEET PG ${subjectName} high-yield clinical MCQs. Page ${page} of free medical test bank on i❤️Exams.`);
+
+        const prevPageLink = page > 1 ? `<a href="${page - 1 === 1 ? `/subject/${slug}` : `/subject/${slug}/page/${page - 1}`}" class="btn btn-outline-dark btn-sm fw-bold">← Previous Page</a>` : '';
+        const nextPageLink = page < totalPages ? `<a href="/subject/${slug}/page/${page + 1}" class="btn btn-outline-dark btn-sm fw-bold">Next Page →</a>` : '';
+
+        const jsonLdCollection = {
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            "name": `NEET PG ${subjectName} Practice Questions`,
+            "description": metaDescription,
+            "url": canonicalUrl,
+            "mainEntity": {
+                "@type": "ItemList",
+                "numberOfItems": questions.length,
+                "itemListElement": questions.map((q, idx) => ({
+                    "@type": "ListItem",
+                    "position": offset + idx + 1,
+                    "url": `https://ilovexams.com/question/${q.id}`,
+                    "name": q.question.substring(0, 100)
+                }))
+            }
+        };
+
+        const jsonLdBreadcrumb = {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                { "@type": "ListItem", "position": 1, "name": "i❤️Exams Home", "item": "https://ilovexams.com/" },
+                { "@type": "ListItem", "position": 2, "name": "NEET PG 2027", "item": "https://ilovexams.com/neet_pg.html" },
+                { "@type": "ListItem", "position": 3, "name": `${subjectName} MCQs`, "item": canonicalUrl }
+            ]
+        };
+
+        const html = `<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>${pageTitle}</title>
+  <meta name="description" content="${metaDescription}"/>
+  <meta name="keywords" content="neet pg ${subjectName.toLowerCase()}, ${subjectName.toLowerCase()} mcqs, neet pg 2027, clinical medical questions, iloveexams"/>
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large"/>
+  <link rel="canonical" href="${canonicalUrl}"/>
+  
+  <meta property="og:type" content="website"/>
+  <meta property="og:site_name" content="i❤️Exams"/>
+  <meta property="og:title" content="${pageTitle}"/>
+  <meta property="og:description" content="${metaDescription}"/>
+  <meta property="og:url" content="${canonicalUrl}"/>
+  <meta property="og:image" content="https://ilovexams.com/dashboard.png"/>
+
+  <script type="application/ld+json">${JSON.stringify(jsonLdCollection)}</script>
+  <script type="application/ld+json">${JSON.stringify(jsonLdBreadcrumb)}</script>
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"/>
+  <style>
+    body { background-color: #f8f9fa; color: #111; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; padding-bottom: 60px; }
+    .header-bar { background: #000; color: #fff; padding: 14px 20px; display: flex; align-items: center; justify-content: space-between; border-bottom: 3px solid #e0004d; }
+    .header-logo { color: #fff; font-weight: 900; font-size: 1.25rem; text-decoration: none; display: flex; align-items: center; gap: 8px; }
+    .header-logo span { color: #e0004d; }
+    .q-item { background: #fff; border: 1px solid #dee2e6; border-radius: 10px; padding: 18px; margin-bottom: 14px; transition: transform 0.15s, box-shadow 0.15s; }
+    .q-item:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.08); border-color: #e0004d; }
+  </style>
+</head>
+<body>
+  <header class="header-bar">
+    <a href="/" class="header-logo">
+      <i class="bi bi-heart-pulse-fill" style="color:#e0004d;"></i>
+      iLove<span>Exams</span>
+    </a>
+    <a href="/neet_pg.html" class="btn btn-sm btn-outline-light fw-bold">Full 2L QBank</a>
+  </header>
+
+  <main class="container" style="max-width: 860px;">
+    <nav aria-label="breadcrumb" class="my-3">
+      <ol class="breadcrumb mb-0 small">
+        <li class="breadcrumb-item"><a href="/" class="text-decoration-none text-secondary">Home</a></li>
+        <li class="breadcrumb-item"><a href="/neet_pg.html" class="text-decoration-none text-secondary">NEET PG</a></li>
+        <li class="breadcrumb-item active text-dark fw-semibold" aria-current="page">${subjectName}</li>
+      </ol>
+    </nav>
+
+    <div class="p-4 bg-white rounded-3 border mb-4 shadow-sm">
+      <span class="badge bg-danger text-uppercase fw-bold mb-2">NEET PG 2027 Medical QBank</span>
+      <h1 class="h2 fw-extrabold text-dark mb-2">${subjectName} Practice MCQs</h1>
+      <p class="text-muted mb-0">Browse ${totalCount.toLocaleString()} high-yield clinical questions in <strong>${subjectName}</strong>. Includes detailed explanations, options, and topic tags.</p>
+    </div>
+
+    <div class="questions-list">
+      ${questions.map((q, idx) => {
+          const qSnippet = escapeHtml(q.question);
+          return `
+            <article class="q-item">
+              <div class="d-flex align-items-center justify-content-between mb-2">
+                <span class="badge bg-dark text-white font-monospace">#${offset + idx + 1}</span>
+                <span class="badge bg-light text-dark border">${escapeHtml(q.topic || 'Clinical Case')}</span>
+              </div>
+              <h2 class="h6 fw-bold mb-3 text-dark">
+                <a href="/question/${q.id}" class="text-decoration-none text-dark hover-danger">${qSnippet}</a>
+              </h2>
+              <div class="d-flex justify-content-between align-items-center">
+                <a href="/question/${q.id}" class="btn btn-sm btn-outline-danger fw-bold">View Solution & Options →</a>
+              </div>
+            </article>
+          `;
+      }).join('')}
+    </div>
+
+    <div class="d-flex justify-content-between align-items-center mt-4">
+      <div>${prevPageLink}</div>
+      <span class="small text-muted fw-semibold">Page ${page} of ${totalPages}</span>
+      <div>${nextPageLink}</div>
+    </div>
+  </main>
+</body>
+</html>`;
+
+        res.setHeader('Content-Type', 'text/html; charset=utf-8');
+        res.setHeader('Cache-Control', 'public, max-age=3600');
+        return res.send(html);
+    } catch (e) {
+        console.error('Subject SSR error:', e);
+        return res.status(500).send('Subject page error');
+    }
+});
+
 // ─── DYNAMIC QUESTION SITEMAP INDEX (Optimized for Fast Googlebot Crawling) ──
 const sitemapCache = new Map();
 const SITEMAP_CACHE_TTL = 60 * 60 * 1000; // 1 hour in-memory TTL
@@ -667,7 +898,7 @@ app.get('/sitemap-questions.xml', (req, res) => {
 
         const totalObj = db.prepare('SELECT COUNT(*) as c FROM questions').get();
         const total = totalObj ? totalObj.c : 0;
-        const pageSize = 5000; // 5,000 URLs per chunk to ensure sub-100ms response & small payload
+        const pageSize = 2000; // 2,000 URLs per chunk to ensure sub-30ms response & small payload (<200KB)
         const totalPages = Math.ceil(total / pageSize) || 1;
         const todayStr = new Date().toISOString().split('T')[0];
 
@@ -700,7 +931,7 @@ app.get('/sitemap-questions-:page.xml', (req, res) => {
             return res.send(cached.data);
         }
 
-        const pageSize = 5000; // 5,000 URLs per chunk
+        const pageSize = 2000; // 2,000 URLs per chunk
         const offset = (page - 1) * pageSize;
 
         const rows = db.prepare('SELECT id FROM questions ORDER BY rowid ASC LIMIT ? OFFSET ?').all(pageSize, offset);

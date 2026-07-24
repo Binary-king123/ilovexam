@@ -15,10 +15,33 @@
   <!-- ===== NEET PG — Highest Priority (2 Lakh Questions) ===== -->
   <url>
     <loc>https://ilovexams.com/neet_pg.html</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.98</priority>
   </url>
+
+  <!-- Subject Hub Pages (SEO High-Yield Taxonomies) -->
+  <url><loc>https://ilovexams.com/subject/medicine</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.90</priority></url>
+  <url><loc>https://ilovexams.com/subject/surgery</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.90</priority></url>
+  <url><loc>https://ilovexams.com/subject/pathology</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.90</priority></url>
+  <url><loc>https://ilovexams.com/subject/anatomy</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.90</priority></url>
+  <url><loc>https://ilovexams.com/subject/pharmacology</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.90</priority></url>
+  <url><loc>https://ilovexams.com/subject/social-and-preventive-medicine</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.88</priority></url>
+  <url><loc>https://ilovexams.com/subject/microbiology</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.88</priority></url>
+  <url><loc>https://ilovexams.com/subject/dental</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://ilovexams.com/subject/gynaecology-and-obstetrics</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.88</priority></url>
+  <url><loc>https://ilovexams.com/subject/physiology</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.88</priority></url>
+  <url><loc>https://ilovexams.com/subject/biochemistry</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.88</priority></url>
+  <url><loc>https://ilovexams.com/subject/pediatrics</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.88</priority></url>
+  <url><loc>https://ilovexams.com/subject/ophthalmology</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://ilovexams.com/subject/forensic-medicine</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://ilovexams.com/subject/ent</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://ilovexams.com/subject/radiology</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://ilovexams.com/subject/psychiatry</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://ilovexams.com/subject/anaesthesia</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://ilovexams.com/subject/orthopaedics</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://ilovexams.com/subject/skin</loc><lastmod>2026-07-24</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+
 
   <url>
     <loc>https://ilovexams.com/neet_pg_login.html</loc>

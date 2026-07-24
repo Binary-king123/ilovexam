@@ -3,6 +3,7 @@ User-agent: *
 # Allow all important pages & question landing pages
 Allow: /
 Allow: /question/
+Allow: /subject/
 Allow: /neet_pg.html
 Allow: /neet_pg_login.html
 Allow: /neet.html
