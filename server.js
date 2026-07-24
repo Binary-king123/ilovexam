@@ -781,7 +781,7 @@ app.get(['/subject/:subjectSlug', '/subject/:subjectSlug/page/:page'], (req, res
                     "@type": "ListItem",
                     "position": offset + idx + 1,
                     "url": `https://ilovexams.com/question/${q.id}`,
-                    "name": q.question.substring(0, 100)
+                    "name": (q.question || '').substring(0, 100)
                 }))
             }
         };
