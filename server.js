@@ -533,7 +533,7 @@ app.get(['/question/:id', '/question/:slug-:id'], (req, res) => {
         const nextLink = nextQ ? `<a href="/question/${nextQ.id}" class="nav-btn">Next Question →</a>` : '';
 
         // Fetch 5 related questions in the same subject for powerful internal linking PageRank flow
-        const relatedQs = db.prepare('SELECT id, question, topic FROM questions WHERE subject = ? AND id != ? ORDER BY rowid DESC LIMIT 5').all(q.subject || '', qid);
+        const relatedQs = db.prepare('SELECT id, question, topic FROM questions WHERE LOWER(TRIM(subject)) = LOWER(TRIM(?)) AND id != ? ORDER BY rowid DESC LIMIT 5').all(q.subject || '', qid);
 
         const jsonLdQuiz = {
             "@context": "https://schema.org",
@@ -727,7 +727,15 @@ app.get(['/question/:id', '/question/:slug-:id'], (req, res) => {
 app.get(['/subject/:subjectSlug', '/subject/:subjectSlug/page/:page'], (req, res) => {
     const slug = req.params.subjectSlug;
     const page = Math.max(1, parseInt(req.params.page) || 1);
-    const subjectName = SUBJECT_SLUG_MAP[slug];
+    let subjectName = SUBJECT_SLUG_MAP[slug];
+
+    if (!subjectName) {
+        try {
+            const allSubjects = db.prepare('SELECT DISTINCT subject FROM questions').all();
+            const match = allSubjects.find(s => toSubjectSlug(s.subject) === slug);
+            if (match) subjectName = match.subject;
+        } catch (err) {}
+    }
 
     if (!subjectName) {
         return res.status(404).send(`
@@ -747,11 +755,11 @@ app.get(['/subject/:subjectSlug', '/subject/:subjectSlug/page/:page'], (req, res
         const pageSize = 50;
         const offset = (page - 1) * pageSize;
 
-        const totalObj = db.prepare('SELECT COUNT(*) as c FROM questions WHERE subject = ?').get(subjectName);
+        const totalObj = db.prepare('SELECT COUNT(*) as c FROM questions WHERE LOWER(TRIM(subject)) = LOWER(TRIM(?))').get(subjectName);
         const totalCount = totalObj ? totalObj.c : 0;
         const totalPages = Math.ceil(totalCount / pageSize) || 1;
 
-        const questions = db.prepare('SELECT id, question, topic, opa, opb, opc, opd FROM questions WHERE subject = ? ORDER BY rowid ASC LIMIT ? OFFSET ?').all(subjectName, pageSize, offset);
+        const questions = db.prepare('SELECT id, question, topic, opa, opb, opc, opd FROM questions WHERE LOWER(TRIM(subject)) = LOWER(TRIM(?)) ORDER BY rowid ASC LIMIT ? OFFSET ?').all(subjectName, pageSize, offset);
 
         const canonicalUrl = page === 1 ? `https://ilovexams.com/subject/${slug}` : `https://ilovexams.com/subject/${slug}/page/${page}`;
         const pageTitle = `NEET PG ${subjectName} MCQs & Free Mock Tests ${page > 1 ? `(Page ${page})` : ''} | i❤️Exams`;
